@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spicy VTubers</title>
+<meta name="description" content="A searchable, sortable index of VTuber content creators.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="header-titles">
+      <a class="brand" href="#">
+        <span class="brand-mark">🌶️</span>
+        <span class="brand-name">Spicy<span class="brand-accent">VTubers</span></span>
+      </a>
+      <p class="tagline">Index of Twitch VTubers and their Fansly accounts</p>
+    </div>
+    <p class="last-updated">Last updated: <time datetime="2026-07-13">July 13, 2026</time></p>
+  </div>
+</header>
+
+<main class="page">
+
+  <section class="toolbar">
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/>
+      </svg>
+      <input type="search" id="search-input" placeholder="Search by Twitch, Fansly, or X.com…" aria-label="Search creators">
+    </div>
+    <p class="result-count" id="result-count" aria-live="polite"></p>
+    <div class="mobile-sort-wrap">
+      <label for="mobile-sort" class="visually-hidden">Sort by</label>
+      <select id="mobile-sort" class="mobile-sort">
+        <option value="twitch:1">Twitch (A–Z)</option>
+        <option value="twitch:-1">Twitch (Z–A)</option>
+        <option value="fansly:1">Fansly (A–Z)</option>
+        <option value="fansly:-1">Fansly (Z–A)</option>
+      </select>
+    </div>
+  </section>
+
+  <section class="table-section">
+    <table class="creator-table" id="creator-table">
+      <thead>
+        <tr>
+          <th data-key="twitch" data-type="string" tabindex="0" role="button" aria-sort="ascending">
+            <span>Twitch</span><span class="sort-icon"></span>
+          </th>
+          <th data-key="fansly" data-type="string" tabindex="0" role="button" aria-sort="none">
+            <span>Fansly</span><span class="sort-icon"></span>
+          </th>
+          <th class="col-x">
+            <span>X.com</span>
+          </th>
+        </tr>
+      </thead>
+      <tbody id="creator-tbody">
+        <!-- Rows injected by script.js -->
+      </tbody>
+    </table>
+    <p class="empty-state" id="empty-state" hidden>No creators match your search.</p>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>Only creators that have streamed on Twitch as a VTuber in the past five years are included</p>
+  <p>Fan-made index · Not affiliated with any platform · Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
