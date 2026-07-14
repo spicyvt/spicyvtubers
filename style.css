@@ -478,6 +478,25 @@ th[aria-sort="descending"] .sort-icon::after {
     font-size: 1.05rem;
   }
 
+  /* The avatar's negative vertical margin (see .avatar comment) relies on
+     the desktop cell's padding to absorb its overflow. Here cells have no
+     padding, so that overflow instead gets counted asymmetrically into the
+     channel cell's auto height, which throws off the row's
+     align-items: center against the Fansly/X pills. Cancel the trick so the
+     avatar contributes its full, symmetric height to the flex layout. */
+  .creator-table tbody .avatar {
+    margin: 0;
+  }
+
+  /* Turning the channel cell into a flex container (instead of leaving the
+     name link as inline content) sizes the cell to the link itself, rather
+     than to the surrounding text line's font metrics, keeping it aligned
+     with the Fansly/X pills. */
+  .creator-table tbody td.name-cell {
+    display: flex;
+    align-items: center;
+  }
+
   .creator-table tbody td:empty {
     display: none;
   }
