@@ -38,8 +38,9 @@
     return div.innerHTML;
   }
 
-  function profileLink(baseUrl, handle) {
-    return `${baseUrl}${encodeURIComponent(handle)}`;
+  function profileLink(baseUrl, handle, ...pathSegments) {
+    const segments = [handle, ...pathSegments].filter(Boolean).map(encodeURIComponent);
+    return `${baseUrl}${segments.join("/")}`;
   }
 
   function getInitials(str) {
@@ -81,7 +82,7 @@
       const fanslyTd = document.createElement("td");
       fanslyTd.dataset.label = "Fansly";
       fanslyTd.innerHTML = creator.fansly
-        ? `<a class="fansly-pill" href="${profileLink("https://fansly.com/", creator.fansly)}" target="_blank" rel="noopener noreferrer">${fanslyIcon}${escapeHtml(creator.fansly.toLowerCase())}</a>`
+        ? `<a class="fansly-pill" href="${profileLink("https://fansly.com/", creator.fansly, creator.fanslyRef)}" target="_blank" rel="noopener noreferrer">${fanslyIcon}${escapeHtml(creator.fansly.toLowerCase())}</a>`
         : "";
 
       const xTd = document.createElement("td");
