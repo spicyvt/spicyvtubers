@@ -1494,14 +1494,13 @@
   },
   {
     "fansly": "poffertjes",
-    "fanslyRef": "t2",
     "channel": "Ayumints",
     "xHandles": ["ayumintsvtuber"]
   },
   {
     "fansly": "meekah_bnuuy",
     "channel": "BakanukiMika",
-    "xHandles": ["", ""]
+    "xHandles": ["bakanukimika"]
   },
   {
     "fansly": "leynevt",
@@ -1511,7 +1510,22 @@
   {
     "fansly": "grimvt",
     "channel": "Grim_Vtuber",
-    "xHandles": ["grim_vt", ""]
+    "xHandles": ["grim_vt"]
+  },
+  {
+    "fansly": "andou",
+    "channel": "andou",
+    "xHandles": ["andour18", "andouilles"]
+  },
+  {
+    "fansly": "",
+    "channel": "",
+    "xHandles": ["", ""]
+  },
+  {
+    "fansly": "",
+    "channel": "",
+    "xHandles": ["", ""]
   },
   {
     "fansly": "",
