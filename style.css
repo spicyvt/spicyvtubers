@@ -121,10 +121,15 @@ a {
   padding: 2rem 1.5rem 3rem;
 }
 
+/* Not space-between: with 3 items, space-between's gap sizes depend on
+   every item's width, so the result count's text changing length (as the
+   filtered creator count changes) would reflow the gap before the filter
+   pills and shift them sideways. A fixed gap plus margin-left: auto on the
+   result count (below) keeps the filter pills' position independent of the
+   result count's width. */
 .toolbar {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   gap: 1rem;
   flex-wrap: wrap;
   margin-bottom: 1.25rem;
@@ -172,7 +177,7 @@ a {
 .result-count {
   color: var(--text-muted);
   font-size: 0.85rem;
-  margin: 0;
+  margin: 0 0 0 auto;
   white-space: nowrap;
 }
 
