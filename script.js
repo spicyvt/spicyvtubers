@@ -32,7 +32,7 @@
   const fanslyIcon = `<img src="fansly.svg" alt="" aria-hidden="true">`;
   const xIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.9 2H22l-7.2 8.3L23.3 22h-6.6l-5.2-6.8L5.3 22H2.2l7.7-8.9L1 2h6.8l4.7 6.2L18.9 2zm-1.2 18h1.8L7.3 4h-2l12.4 16z"/></svg>`;
 
-  // Fansly, OnlyFans, RPlay, and Joystick all use their real brand marks as
+  // Fansly, OnlyFans, Rplay, and Joystick all use their real brand marks as
   // external svg files.
   const onlyfansIcon = `<img src="onlyfans.svg" alt="" aria-hidden="true">`;
   const rplayIcon = `<img src="rplay.svg" alt="" aria-hidden="true">`;
@@ -44,7 +44,7 @@
   const SPICE_PLATFORMS = [
     { key: "fansly", className: "fansly", label: "Fansly", icon: fanslyIcon, baseUrl: "https://fansly.com/", refKey: "fanslyRef" },
     { key: "onlyfans", className: "onlyfans", label: "OnlyFans", icon: onlyfansIcon, baseUrl: "https://onlyfans.com/" },
-    { key: "rplay", className: "rplay", label: "RPlay", icon: rplayIcon, baseUrl: "https://rplay.live/c/" },
+    { key: "rplay", className: "rplay", label: "Rplay", icon: rplayIcon, baseUrl: "https://rplay.live/c/" },
     { key: "joystick", className: "joystick", label: "joystick.tv", icon: joystickIcon, baseUrl: "https://joystick.tv/u/" },
   ];
 
