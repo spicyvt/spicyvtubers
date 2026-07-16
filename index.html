@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Spicy VTubers</title>
-<meta name="description" content="Index of VTubers and their Fansly accounts">
+<meta name="description" content="Index of VTubers and their Spicy accounts">
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
@@ -22,7 +22,7 @@
         <span class="brand-mark">🌶️</span>
         <span class="brand-name">Spicy<span class="brand-accent">VTubers</span></span>
       </a>
-      <p class="tagline">Index of VTubers and their Fansly accounts</p>
+      <p class="tagline">Index of VTubers and their Spicy accounts</p>
     </div>
     <p class="last-updated">Last updated: <time datetime="2026-07-15">July 15, 2026</time></p>
   </div>
@@ -35,29 +35,20 @@
       <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
         <path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/>
       </svg>
-      <input type="search" id="search-input" placeholder="Search by Channel, Fansly, or X.com…" aria-label="Search creators">
+      <input type="search" id="search-input" placeholder="Search by Channel, Spicy Links, or X.com…" aria-label="Search creators">
     </div>
     <p class="result-count" id="result-count" aria-live="polite"></p>
-    <div class="mobile-sort-wrap">
-      <label for="mobile-sort" class="visually-hidden">Sort by</label>
-      <select id="mobile-sort" class="mobile-sort">
-        <option value="channel:1">Channel (A–Z)</option>
-        <option value="channel:-1">Channel (Z–A)</option>
-        <option value="fansly:1">Fansly (A–Z)</option>
-        <option value="fansly:-1">Fansly (Z–A)</option>
-      </select>
-    </div>
   </section>
 
   <section class="table-section">
     <table class="creator-table" id="creator-table">
       <thead>
         <tr>
-          <th data-key="channel" data-type="string" tabindex="0" role="button" aria-sort="ascending">
-            <span>Channel</span><span class="sort-icon"></span>
+          <th>
+            <span>Channel</span>
           </th>
-          <th data-key="fansly" data-type="string" tabindex="0" role="button" aria-sort="none">
-            <span>Fansly</span><span class="sort-icon"></span>
+          <th class="col-spice" title="Fansly, OnlyFans, RPlay, Joystick">
+            <span>Spicy Links</span>
           </th>
           <th class="col-x">
             <span>X.com</span>

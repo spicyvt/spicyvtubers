@@ -176,26 +176,6 @@ a {
   white-space: nowrap;
 }
 
-.mobile-sort-wrap {
-  display: none;
-}
-
-.mobile-sort {
-  width: 100%;
-  padding: 0.65rem 0.9rem;
-  border-radius: 999px;
-  border: 1px solid var(--border);
-  background: var(--surface);
-  color: var(--text);
-  font-size: 0.9rem;
-}
-
-.mobile-sort:focus {
-  outline: none;
-  border-color: var(--accent);
-  box-shadow: 0 0 0 3px var(--accent-soft);
-}
-
 /* ---------------------------------- Table ---------------------------------- */
 
 .table-section {
@@ -220,52 +200,11 @@ a {
   color: var(--text-muted);
   background: var(--bg-alt);
   border-bottom: 1px solid var(--border);
-  cursor: pointer;
-  user-select: none;
   white-space: nowrap;
-  transition: color 0.15s ease, background 0.15s ease;
-}
-
-.creator-table thead th:hover,
-.creator-table thead th:focus-visible {
-  color: var(--text);
-  background: var(--surface-hover);
-}
-
-.creator-table thead th:focus-visible {
-  outline: 2px solid var(--focus);
-  outline-offset: -2px;
 }
 
 .creator-table thead th span {
   vertical-align: middle;
-}
-
-.sort-icon {
-  display: inline-block;
-  width: 0.7em;
-  margin-left: 0.35em;
-  opacity: 0.4;
-}
-
-.sort-icon::after {
-  content: "\2195"; /* up-down arrow */
-}
-
-th[aria-sort="ascending"] .sort-icon {
-  opacity: 1;
-  color: var(--accent);
-}
-th[aria-sort="ascending"] .sort-icon::after {
-  content: "\2191";
-}
-
-th[aria-sort="descending"] .sort-icon {
-  opacity: 1;
-  color: var(--accent);
-}
-th[aria-sort="descending"] .sort-icon::after {
-  content: "\2193";
 }
 
 .creator-table tbody tr {
@@ -355,7 +294,13 @@ th[aria-sort="descending"] .sort-icon::after {
   opacity: 1;
 }
 
-.fansly-pill {
+.spice-handles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.spice-pill {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
@@ -369,15 +314,36 @@ th[aria-sort="descending"] .sort-icon::after {
   transition: background 0.15s ease, transform 0.15s ease;
 }
 
-.fansly-pill:hover {
+.spice-pill:hover {
   background: rgba(38, 152, 245, 0.24);
   transform: translateY(-1px);
 }
 
-.fansly-pill svg {
+.spice-pill svg {
   width: 12px;
   height: 12px;
   fill: currentColor;
+}
+
+/* Fansly, OnlyFans, and RPlay icons are external brand-mark svg files (each
+   with their own fixed colors and aspect ratio), loaded via <img>. Sizing
+   by height keeps them visually consistent with the inline placeholder
+   icons above, letting width scale naturally per icon instead of being
+   squashed into a fixed square box. */
+.spice-pill img {
+  height: 12px;
+  width: auto;
+  display: block;
+}
+
+/* The RPlay mark is a raster/image asset with its own fixed colors and an
+   even wider aspect ratio, so it's sized by height (matching the other
+   icons' height) rather than width, letting it run wider instead of being
+   squashed down to a 12px-wide box. */
+.spice-pill img {
+  height: 12px;
+  width: auto;
+  display: block;
 }
 
 .x-handles {
@@ -432,12 +398,6 @@ th[aria-sort="descending"] .sort-icon::after {
 @media (max-width: 720px) {
   .last-updated {
     display: none;
-  }
-
-  .mobile-sort-wrap {
-    display: block;
-    width: 100%;
-    order: 3;
   }
 
   .creator-table thead {
@@ -502,6 +462,10 @@ th[aria-sort="descending"] .sort-icon::after {
   }
 
   .x-handles {
+    justify-content: flex-start;
+  }
+
+  .spice-handles {
     justify-content: flex-start;
   }
 }
