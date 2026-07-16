@@ -19,8 +19,10 @@
   const searchInput = document.getElementById("search-input");
   const resultCount = document.getElementById("result-count");
   const emptyState = document.getElementById("empty-state");
+  const platformFilterEl = document.getElementById("platform-filter");
 
   let creators = [];
+  let platformFilter = "all";
 
   const CHANNEL_PLATFORMS = {
     twitch: { baseUrl: "https://twitch.com/" },
@@ -40,11 +42,39 @@
   // more than one or two of these set, but this keeps the order consistent
   // across rows regardless of key order in accounts.json.
   const SPICE_PLATFORMS = [
-    { key: "fansly", className: "fansly", icon: fanslyIcon, baseUrl: "https://fansly.com/", refKey: "fanslyRef" },
-    { key: "onlyfans", className: "onlyfans", icon: onlyfansIcon, baseUrl: "https://onlyfans.com/" },
-    { key: "rplay", className: "rplay", icon: rplayIcon, baseUrl: "https://rplay.live/c/" },
-    { key: "joystick", className: "joystick", icon: joystickIcon, baseUrl: "https://joystick.tv/u/" },
+    { key: "fansly", className: "fansly", label: "Fansly", icon: fanslyIcon, baseUrl: "https://fansly.com/", refKey: "fanslyRef" },
+    { key: "onlyfans", className: "onlyfans", label: "OnlyFans", icon: onlyfansIcon, baseUrl: "https://onlyfans.com/" },
+    { key: "rplay", className: "rplay", label: "RPlay", icon: rplayIcon, baseUrl: "https://rplay.live/c/" },
+    { key: "joystick", className: "joystick", label: "joystick.tv", icon: joystickIcon, baseUrl: "https://joystick.tv/u/" },
   ];
+
+  // ---------------------------------------------------------------------
+  // Platform filter — single-select pills, "All" is the default.
+  // ---------------------------------------------------------------------
+
+  function renderPlatformFilter() {
+    const allBtn = `<button type="button" class="platform-filter-btn is-active" data-platform="all" aria-pressed="true" aria-label="All"><span>All</span></button>`;
+    const platformBtns = SPICE_PLATFORMS.map(
+      (platform) =>
+        `<button type="button" class="platform-filter-btn" data-platform="${platform.key}" aria-pressed="false" aria-label="${escapeHtml(platform.label)}">${platform.icon}<span>${platform.label}</span></button>`
+    ).join("");
+    platformFilterEl.innerHTML = allBtn + platformBtns;
+  }
+
+  platformFilterEl.addEventListener("click", (e) => {
+    const btn = e.target.closest(".platform-filter-btn");
+    if (!btn || btn.classList.contains("is-active")) return;
+
+    platformFilter = btn.dataset.platform;
+    platformFilterEl.querySelectorAll(".platform-filter-btn").forEach((b) => {
+      const isActive = b === btn;
+      b.classList.toggle("is-active", isActive);
+      b.setAttribute("aria-pressed", String(isActive));
+    });
+    update();
+  });
+
+  renderPlatformFilter();
 
   function escapeHtml(str) {
     const div = document.createElement("div");
@@ -128,9 +158,11 @@
 
   function getFiltered() {
     const query = searchInput.value.trim().toLowerCase();
-    if (!query) return creators;
-
-    return creators.filter((creator) => creator.searchText.includes(query));
+    return creators.filter((creator) => {
+      if (platformFilter !== "all" && !creator[platformFilter]) return false;
+      if (query && !creator.searchText.includes(query)) return false;
+      return true;
+    });
   }
 
   function update() {

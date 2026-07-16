@@ -176,6 +176,54 @@ a {
   white-space: nowrap;
 }
 
+.platform-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.platform-filter-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg-alt);
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.platform-filter-btn:hover {
+  border-color: var(--accent-2);
+  color: var(--text);
+}
+
+.platform-filter-btn img {
+  height: 12px;
+  width: auto;
+  display: block;
+}
+
+/* Platform-specific filters, once selected, pick up the same accent used
+   for their pill in the table. "All" stays a neutral grey even when
+   active, since it represents "no filter" rather than a platform. */
+.platform-filter-btn.is-active {
+  background: rgba(38, 152, 245, 0.18);
+  border-color: transparent;
+  color: #7cc4fb;
+}
+
+.platform-filter-btn.is-active[data-platform="all"] {
+  background: var(--surface-hover);
+  border-color: var(--border);
+  color: var(--text);
+}
+
 /* ---------------------------------- Table ---------------------------------- */
 
 .table-section {
@@ -395,6 +443,17 @@ a {
 
 /* ---------------------------------- Responsive ---------------------------------- */
 
+/* Below this width there usually isn't room for the search box, platform
+   filter pills, and result count all on one line — drop the filter pills
+   to their own full-width row rather than letting the search box and
+   result count get pushed apart onto separate lines. */
+@media (max-width: 900px) {
+  .platform-filter {
+    order: 3;
+    flex: 1 1 100%;
+  }
+}
+
 @media (max-width: 720px) {
   .last-updated {
     display: none;
@@ -470,6 +529,20 @@ a {
   }
 }
 
+/* The 5 filter pills (with labels) start wrapping onto a second line around
+   ~510px once they have the full row to themselves, well before the search
+   box needs to shrink — so this gets its own, larger breakpoint rather than
+   sharing the one below. */
+@media (max-width: 620px) {
+  .platform-filter-btn:not([data-platform="all"]) span {
+    display: none;
+  }
+
+  .platform-filter-btn:not([data-platform="all"]) {
+    padding-inline: 0.5rem;
+  }
+}
+
 @media (max-width: 480px) {
   .header-inner {
     padding: 1rem;
@@ -493,4 +566,5 @@ a {
     text-align: right;
     flex: 0 0 auto;
   }
+
 }
