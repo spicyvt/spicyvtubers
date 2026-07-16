@@ -53,10 +53,8 @@
   // ---------------------------------------------------------------------
 
   function renderPlatformFilter() {
-    const availablePlatforms = SPICE_PLATFORMS.filter((platform) => creators.some((creator) => creator[platform.key]));
-
     const allBtn = `<button type="button" class="platform-filter-btn is-active" data-platform="all" aria-pressed="true" aria-label="All"><span>All</span></button>`;
-    const platformBtns = availablePlatforms
+    const platformBtns = SPICE_PLATFORMS
       .map(
         (platform) =>
           `<button type="button" class="platform-filter-btn" data-platform="${platform.key}" aria-pressed="false" aria-label="${escapeHtml(platform.label)}">${platform.icon}<span>${platform.label}</span></button>`
@@ -97,57 +95,78 @@
     return str.charAt(0).toUpperCase();
   }
 
-  function renderRows(data) {
-    tbody.innerHTML = "";
+  // Rows are built once per creator and cached (keyed by the creator object
+  // itself), rather than rebuilt from scratch on every render. Rebuilding
+  // used to tear down and recreate each row's avatar <img> on every
+  // keystroke, which flashed the fallback initials before the image
+  // reloaded even for rows that stayed in the filtered results.
+  const rowCache = new WeakMap();
 
+  function buildRow(creator) {
+    const tr = document.createElement("tr");
+
+    const channelTd = document.createElement("td");
+    channelTd.dataset.label = "Channel";
+    channelTd.className = "name-cell";
+    const platform = CHANNEL_PLATFORMS[creator.type] || CHANNEL_PLATFORMS.twitch;
+    channelTd.innerHTML = creator.channel
+      ? `<a class="name-link" href="${profileLink(platform.baseUrl, creator.channel)}" target="_blank" rel="noopener noreferrer">` +
+        `<span class="avatar">` +
+        `<span class="avatar-fallback" aria-hidden="true">${escapeHtml(getInitials(creator.channel))}</span>` +
+        `<img class="avatar-img" src="images/${encodeURIComponent(creator.channel.toLowerCase())}.png" alt="" loading="lazy" decoding="async" onload="this.classList.add('is-loaded')" onerror="this.remove()">` +
+        `</span>` +
+        `<span class="name-text">${escapeHtml(creator.channel)}</span>` +
+        `</a>`
+      : "";
+
+    const spiceTd = document.createElement("td");
+    spiceTd.dataset.label = "Spice";
+    spiceTd.innerHTML = `<div class="spice-handles">${SPICE_PLATFORMS.filter((platform) => creator[platform.key])
+      .map((platform) => {
+        const value = creator[platform.key];
+        const ref = platform.refKey ? creator[platform.refKey] : undefined;
+        return `<a class="spice-pill ${platform.className}" href="${profileLink(platform.baseUrl, value, ref)}" target="_blank" rel="noopener noreferrer">${platform.icon}${escapeHtml(value.toLowerCase())}</a>`;
+      })
+      .join("")}</div>`;
+
+    const xTd = document.createElement("td");
+    xTd.dataset.label = "X.com";
+    xTd.innerHTML = `<div class="x-handles">${creator.xHandles
+      .map(
+        (handle) =>
+          `<a class="x-pill" href="${profileLink("https://x.com/", handle)}" target="_blank" rel="noopener noreferrer">${xIcon}${escapeHtml(handle.toLowerCase())}</a>`
+      )
+      .join("")}</div>`;
+
+    tr.append(channelTd, spiceTd, xTd);
+    return tr;
+  }
+
+  function getOrBuildRow(creator) {
+    let tr = rowCache.get(creator);
+    if (!tr) {
+      tr = buildRow(creator);
+      rowCache.set(creator, tr);
+    }
+    return tr;
+  }
+
+  function renderRows(data) {
     if (data.length === 0) {
+      tbody.innerHTML = "";
       emptyState.hidden = false;
       return;
     }
     emptyState.hidden = true;
 
     const fragment = document.createDocumentFragment();
+    data.forEach((creator) => fragment.appendChild(getOrBuildRow(creator)));
 
-    data.forEach((creator) => {
-      const tr = document.createElement("tr");
-
-      const channelTd = document.createElement("td");
-      channelTd.dataset.label = "Channel";
-      channelTd.className = "name-cell";
-      const platform = CHANNEL_PLATFORMS[creator.type] || CHANNEL_PLATFORMS.twitch;
-      channelTd.innerHTML = creator.channel
-        ? `<a class="name-link" href="${profileLink(platform.baseUrl, creator.channel)}" target="_blank" rel="noopener noreferrer">` +
-          `<span class="avatar">` +
-          `<span class="avatar-fallback" aria-hidden="true">${escapeHtml(getInitials(creator.channel))}</span>` +
-          `<img class="avatar-img" src="images/${encodeURIComponent(creator.channel.toLowerCase())}.png" alt="" loading="lazy" decoding="async" onload="this.classList.add('is-loaded')" onerror="this.remove()">` +
-          `</span>` +
-          `<span class="name-text">${escapeHtml(creator.channel)}</span>` +
-          `</a>`
-        : "";
-
-      const spiceTd = document.createElement("td");
-      spiceTd.dataset.label = "Spice";
-      spiceTd.innerHTML = `<div class="spice-handles">${SPICE_PLATFORMS.filter((platform) => creator[platform.key])
-        .map((platform) => {
-          const value = creator[platform.key];
-          const ref = platform.refKey ? creator[platform.refKey] : undefined;
-          return `<a class="spice-pill ${platform.className}" href="${profileLink(platform.baseUrl, value, ref)}" target="_blank" rel="noopener noreferrer">${platform.icon}${escapeHtml(value.toLowerCase())}</a>`;
-        })
-        .join("")}</div>`;
-
-      const xTd = document.createElement("td");
-      xTd.dataset.label = "X.com";
-      xTd.innerHTML = `<div class="x-handles">${creator.xHandles
-        .map(
-          (handle) =>
-            `<a class="x-pill" href="${profileLink("https://x.com/", handle)}" target="_blank" rel="noopener noreferrer">${xIcon}${escapeHtml(handle.toLowerCase())}</a>`
-        )
-        .join("")}</div>`;
-
-      tr.append(channelTd, spiceTd, xTd);
-      fragment.appendChild(tr);
-    });
-
+    // Appending each row above moves it (existing rows are moved, not
+    // cloned) out of tbody into fragment, so anything still left in tbody
+    // at this point is a row that dropped out of the filtered set — clear
+    // those, then insert the new set in one go.
+    tbody.innerHTML = "";
     tbody.appendChild(fragment);
   }
 
