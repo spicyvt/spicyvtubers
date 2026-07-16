@@ -516,15 +516,17 @@ th[aria-sort="descending"] .sort-icon::after {
   }
 
   .toolbar {
-    flex-direction: column;
-    align-items: stretch;
+    align-items: center;
   }
 
   .search-wrap {
     max-width: none;
+    min-width: 0;
+    flex: 1 1 0;
   }
 
   .result-count {
     text-align: right;
+    flex: 0 0 auto;
   }
 }
