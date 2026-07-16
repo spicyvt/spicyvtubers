@@ -53,11 +53,15 @@
   // ---------------------------------------------------------------------
 
   function renderPlatformFilter() {
+    const availablePlatforms = SPICE_PLATFORMS.filter((platform) => creators.some((creator) => creator[platform.key]));
+
     const allBtn = `<button type="button" class="platform-filter-btn is-active" data-platform="all" aria-pressed="true" aria-label="All"><span>All</span></button>`;
-    const platformBtns = SPICE_PLATFORMS.map(
-      (platform) =>
-        `<button type="button" class="platform-filter-btn" data-platform="${platform.key}" aria-pressed="false" aria-label="${escapeHtml(platform.label)}">${platform.icon}<span>${platform.label}</span></button>`
-    ).join("");
+    const platformBtns = availablePlatforms
+      .map(
+        (platform) =>
+          `<button type="button" class="platform-filter-btn" data-platform="${platform.key}" aria-pressed="false" aria-label="${escapeHtml(platform.label)}">${platform.icon}<span>${platform.label}</span></button>`
+      )
+      .join("");
     platformFilterEl.innerHTML = allBtn + platformBtns;
   }
 
@@ -73,8 +77,6 @@
     });
     update();
   });
-
-  renderPlatformFilter();
 
   function escapeHtml(str) {
     const div = document.createElement("div");
@@ -219,6 +221,7 @@
         "Couldn't load accounts.json (if opening this file directly, serve it via a local web server).";
       return;
     }
+    renderPlatformFilter();
     update();
   }
 
