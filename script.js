@@ -126,7 +126,7 @@
       .map((platform) => {
         const value = creator[platform.key];
         const ref = platform.refKey ? creator[platform.refKey] : undefined;
-        return `<a class="spice-pill ${platform.className}" href="${profileLink(platform.baseUrl, value, ref)}" target="_blank" rel="noopener noreferrer">${platform.icon}${escapeHtml(value.toLowerCase())}</a>`;
+        return `<a class="spice-pill ${platform.className}" href="${profileLink(platform.baseUrl, value, ref)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(platform.label)}: ${escapeHtml(value)}">${platform.icon}${escapeHtml(value.toLowerCase())}</a>`;
       })
       .join("")}</div>`;
 
@@ -135,7 +135,7 @@
     const xPills = creator.xHandles
       .map(
         (handle) =>
-          `<a class="x-pill" href="${profileLink("https://x.com/", handle)}" target="_blank" rel="noopener noreferrer">${xIcon}${escapeHtml(handle.toLowerCase())}</a>`
+          `<a class="x-pill" href="${profileLink("https://x.com/", handle)}" target="_blank" rel="noopener noreferrer" title="X: ${escapeHtml(handle)}">${xIcon}${escapeHtml(handle.toLowerCase())}</a>`
       )
       .join("");
     xTd.innerHTML = `<div class="x-handles">${xPills}</div>`;
@@ -143,7 +143,7 @@
     const socialsTd = document.createElement("td");
     socialsTd.dataset.label = "Socials";
     const socialsPill = creator.socials
-      ? `<a class="x-pill socials-pill" href="${escapeHtml(creator.socials)}" target="_blank" rel="noopener noreferrer">${socialsIcon}socials</a>`
+      ? `<a class="x-pill socials-pill" href="${escapeHtml(creator.socials)}" target="_blank" rel="noopener noreferrer" title="Socials">${socialsIcon}</a>`
       : "";
     socialsTd.innerHTML = `<div class="x-handles">${socialsPill}</div>`;
 
