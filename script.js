@@ -31,6 +31,7 @@
 
   const fanslyIcon = `<img src="fansly.svg" alt="" aria-hidden="true">`;
   const xIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.9 2H22l-7.2 8.3L23.3 22h-6.6l-5.2-6.8L5.3 22H2.2l7.7-8.9L1 2h6.8l4.7 6.2L18.9 2zm-1.2 18h1.8L7.3 4h-2l12.4 16z"/></svg>`;
+  const socialsIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg>`;
 
   // Fansly, OnlyFans, Rplay, and Joystick all use their real brand marks as
   // external svg files.
@@ -131,14 +132,22 @@
 
     const xTd = document.createElement("td");
     xTd.dataset.label = "X.com";
-    xTd.innerHTML = `<div class="x-handles">${creator.xHandles
+    const xPills = creator.xHandles
       .map(
         (handle) =>
           `<a class="x-pill" href="${profileLink("https://x.com/", handle)}" target="_blank" rel="noopener noreferrer">${xIcon}${escapeHtml(handle.toLowerCase())}</a>`
       )
-      .join("")}</div>`;
+      .join("");
+    xTd.innerHTML = `<div class="x-handles">${xPills}</div>`;
 
-    tr.append(channelTd, spiceTd, xTd);
+    const socialsTd = document.createElement("td");
+    socialsTd.dataset.label = "Socials";
+    const socialsPill = creator.socials
+      ? `<a class="x-pill socials-pill" href="${escapeHtml(creator.socials)}" target="_blank" rel="noopener noreferrer">${socialsIcon}socials</a>`
+      : "";
+    socialsTd.innerHTML = `<div class="x-handles">${socialsPill}</div>`;
+
+    tr.append(channelTd, spiceTd, xTd, socialsTd);
     return tr;
   }
 

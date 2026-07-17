@@ -278,12 +278,14 @@ a {
   vertical-align: middle;
 }
 
-/* The Spice and X.com cells can wrap onto multiple lines when a creator has
-   several handles. Top-align them (like the flex-based Channel cell, which
-   effectively stays pinned to the top of the row) instead of the default
-   middle alignment, so multi-line rows don't look vertically offset. */
+/* The Spice, X.com, and Socials cells can wrap onto multiple lines when a
+   creator has several handles. Top-align them (like the flex-based Channel
+   cell, which effectively stays pinned to the top of the row) instead of
+   the default middle alignment, so multi-line rows don't look vertically
+   offset. */
 .creator-table tbody td[data-label="Spice"],
-.creator-table tbody td[data-label="X.com"] {
+.creator-table tbody td[data-label="X.com"],
+.creator-table tbody td[data-label="Socials"] {
   vertical-align: top;
 }
 
@@ -369,15 +371,16 @@ a {
   padding: 0.3rem 0.7rem;
   border-radius: 999px;
   background: rgba(38, 152, 245, 0.14);
+  border: 1px solid transparent;
   color: #7cc4fb;
   font-size: 0.88rem;
   font-weight: 500;
   white-space: nowrap;
-  transition: background 0.15s ease, transform 0.15s ease;
+  transition: border-color 0.15s ease, transform 0.15s ease;
 }
 
 .spice-pill:hover {
-  background: rgba(38, 152, 245, 0.24);
+  border-color: #7cc4fb;
   transform: translateY(-1px);
 }
 
@@ -436,6 +439,22 @@ a {
   width: 12px;
   height: 12px;
   fill: currentColor;
+}
+
+/* The socials pill (linking to a creator's carrd/linktree/etc.) reuses the
+   X pill's layout but stays a touch more understated — muted text and a
+   faint tinted fill set it apart as a secondary link without disappearing
+   next to the X pills. */
+.socials-pill {
+  background: rgba(185, 166, 184, 0.08);
+  border-color: var(--border);
+  color: var(--text-muted);
+}
+
+.socials-pill:hover {
+  border-color: var(--text-muted);
+  color: var(--text);
+  transform: translateY(-1px);
 }
 
 .empty-state {
@@ -506,7 +525,7 @@ a {
     text-align: left;
   }
 
-  .creator-table tbody td[data-label="Twitch"] {
+  .creator-table tbody td[data-label="Channel"] {
     width: 100%;
     font-size: 1.05rem;
   }
@@ -534,12 +553,16 @@ a {
     display: none;
   }
 
+  /* Dissolve the Spice/X.com/Socials cells and their inner pill-wrapping divs
+     so every pill (from all three columns) becomes one flat, single group
+     of flex items directly inside the row, sitting underneath the creator
+     info as one wrapping span rather than separately-wrapping columns. */
+  .creator-table tbody td[data-label="Spice"],
+  .creator-table tbody td[data-label="X.com"],
+  .creator-table tbody td[data-label="Socials"],
+  .spice-handles,
   .x-handles {
-    justify-content: flex-start;
-  }
-
-  .spice-handles {
-    justify-content: flex-start;
+    display: contents;
   }
 }
 
