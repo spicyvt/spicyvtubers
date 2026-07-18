@@ -411,6 +411,18 @@ a {
   display: block;
 }
 
+/* "Other" links (Patreon, etc.) reuse the spice-pill layout but get a
+   distinct violet tint so they read as a separate, secondary category
+   from the core spicy platform pills. */
+.other-pill {
+  background: rgba(168, 133, 245, 0.14);
+  color: #b9a2fb;
+}
+
+.other-pill:hover {
+  border-color: #b9a2fb;
+}
+
 .x-handles {
   display: flex;
   flex-wrap: wrap;

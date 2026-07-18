@@ -96,6 +96,18 @@
     return str.charAt(0).toUpperCase();
   }
 
+  // "other" is a free-form array of single-key objects, e.g.
+  // [{ "patreon": "https://patreon.com/..." }] — the key is used as the
+  // button label and the value as the link's full URL.
+  function getOtherLinks(creator) {
+    if (!Array.isArray(creator.other)) return [];
+    return creator.other.flatMap((entry) =>
+      Object.entries(entry || {})
+        .filter(([, url]) => url)
+        .map(([label, url]) => ({ label, url }))
+    );
+  }
+
   // Rows are built once per creator and cached (keyed by the creator object
   // itself), rather than rebuilt from scratch on every render. Rebuilding
   // used to tear down and recreate each row's avatar <img> on every
@@ -122,7 +134,7 @@
 
     const spiceTd = document.createElement("td");
     spiceTd.dataset.label = "Spice";
-    spiceTd.innerHTML = `<div class="spice-handles">${SPICE_PLATFORMS.filter((platform) => creator[platform.key])
+    const spicePills = SPICE_PLATFORMS.filter((platform) => creator[platform.key])
       .map((platform) => {
         const value = creator[platform.key];
         const ref = platform.refKey ? creator[platform.refKey] : undefined;
@@ -133,7 +145,14 @@
         const text = isPath ? creator.channel : value.toLowerCase();
         return `<a class="spice-pill ${platform.className}" href="${href}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(platform.label)}: ${escapeHtml(text)}">${platform.icon}${escapeHtml(text)}</a>`;
       })
-      .join("")}</div>`;
+      .join("");
+    const otherPills = getOtherLinks(creator)
+      .map(
+        ({ label, url }) =>
+          `<a class="spice-pill other-pill" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(url)}">${escapeHtml(label)}</a>`
+      )
+      .join("");
+    spiceTd.innerHTML = `<div class="spice-handles">${spicePills}${otherPills}</div>`;
 
     const xTd = document.createElement("td");
     xTd.dataset.label = "X.com";
@@ -241,6 +260,7 @@
           creator.channel,
           ...SPICE_PLATFORMS.map((platform) => creator[platform.key]),
           ...creator.xHandles,
+          ...getOtherLinks(creator).map((link) => link.label),
         ]
           .filter(Boolean)
           .join(" ")
