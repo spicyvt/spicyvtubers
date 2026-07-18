@@ -553,16 +553,22 @@ a {
     display: none;
   }
 
-  /* Dissolve the Spice/X.com/Socials cells and their inner pill-wrapping divs
-     so every pill (from all three columns) becomes one flat, single group
-     of flex items directly inside the row, sitting underneath the creator
-     info as one wrapping span rather than separately-wrapping columns. */
+  /* Dissolve the Spice/X.com cells and their inner pill-wrapping divs so
+     every pill (from both columns) becomes one flat, single group of flex
+     items directly inside the row, sitting underneath the creator info as
+     one wrapping span rather than separately-wrapping columns. */
   .creator-table tbody td[data-label="Spice"],
   .creator-table tbody td[data-label="X.com"],
-  .creator-table tbody td[data-label="Socials"],
   .spice-handles,
   .x-handles {
     display: contents;
+  }
+
+  /* The socials link has no room to sit next to the name and looks
+     awkward wrapped below with the Spice/X.com pills, so it's simplest to
+     just drop it in the mobile layout. */
+  .creator-table tbody td[data-label="Socials"] {
+    display: none;
   }
 }
 
