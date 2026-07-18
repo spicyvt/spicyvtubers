@@ -45,7 +45,7 @@
   const SPICE_PLATFORMS = [
     { key: "fansly", className: "fansly", label: "Fansly", icon: fanslyIcon, baseUrl: "https://fansly.com/", refKey: "fanslyRef" },
     { key: "onlyfans", className: "onlyfans", label: "OnlyFans", icon: onlyfansIcon, baseUrl: "https://onlyfans.com/" },
-    { key: "rplay", className: "rplay", label: "Rplay", icon: rplayIcon, baseUrl: "https://rplay.live/c/" },
+    { key: "rplay", className: "rplay", label: "Rplay", icon: rplayIcon, baseUrl: "https://rplay.live/c/", rootBaseUrl: "https://rplay.live/" },
     { key: "joystick", className: "joystick", label: "joystick.tv", icon: joystickIcon, baseUrl: "https://joystick.tv/u/" },
   ];
 
@@ -126,7 +126,12 @@
       .map((platform) => {
         const value = creator[platform.key];
         const ref = platform.refKey ? creator[platform.refKey] : undefined;
-        return `<a class="spice-pill ${platform.className}" href="${profileLink(platform.baseUrl, value, ref)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(platform.label)}: ${escapeHtml(value)}">${platform.icon}${escapeHtml(value.toLowerCase())}</a>`;
+        const isPath = platform.rootBaseUrl && value.includes("/");
+        const href = isPath
+          ? profileLink(platform.rootBaseUrl, ...value.split("/"))
+          : profileLink(platform.baseUrl, value, ref);
+        const text = isPath ? creator.channel : value.toLowerCase();
+        return `<a class="spice-pill ${platform.className}" href="${href}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(platform.label)}: ${escapeHtml(text)}">${platform.icon}${escapeHtml(text)}</a>`;
       })
       .join("")}</div>`;
 
