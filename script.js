@@ -114,7 +114,7 @@
       ? `<a class="name-link" href="${profileLink(platform.baseUrl, creator.channel)}" target="_blank" rel="noopener noreferrer">` +
         `<span class="avatar">` +
         `<span class="avatar-fallback" aria-hidden="true">${escapeHtml(getInitials(creator.channel))}</span>` +
-        `<img class="avatar-img" src="images/${encodeURIComponent(creator.channel.toLowerCase())}.png" alt="" loading="lazy" decoding="async" onload="this.classList.add('is-loaded')" onerror="this.remove()">` +
+        `<img class="avatar-img" src="avatars/${encodeURIComponent(creator.channel.toLowerCase())}.webp" alt="" loading="lazy" decoding="async" onload="this.classList.add('is-loaded')" onerror="this.remove()">` +
         `</span>` +
         `<span class="name-text">${escapeHtml(creator.channel)}</span>` +
         `</a>`
