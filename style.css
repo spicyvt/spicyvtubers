@@ -278,13 +278,13 @@ a {
   vertical-align: middle;
 }
 
-/* The Spice, X.com, and Socials cells can wrap onto multiple lines when a
+/* The Spice, Twitter/Bluesky, and Socials cells can wrap onto multiple lines when a
    creator has several handles. Top-align them (like the flex-based Channel
    cell, which effectively stays pinned to the top of the row) instead of
    the default middle alignment, so multi-line rows don't look vertically
    offset. */
 .creator-table tbody td[data-label="Spice"],
-.creator-table tbody td[data-label="X.com"],
+.creator-table tbody td[data-label="Twitter/Bluesky"],
 .creator-table tbody td[data-label="Socials"] {
   vertical-align: top;
 }
@@ -565,19 +565,19 @@ a {
     display: none;
   }
 
-  /* Dissolve the Spice/X.com cells and their inner pill-wrapping divs so
+  /* Dissolve the Spice/Twitter/Bluesky cells and their inner pill-wrapping divs so
      every pill (from both columns) becomes one flat, single group of flex
      items directly inside the row, sitting underneath the creator info as
      one wrapping span rather than separately-wrapping columns. */
   .creator-table tbody td[data-label="Spice"],
-  .creator-table tbody td[data-label="X.com"],
+  .creator-table tbody td[data-label="Twitter/Bluesky"],
   .spice-handles,
   .x-handles {
     display: contents;
   }
 
   /* The socials link has no room to sit next to the name and looks
-     awkward wrapped below with the Spice/X.com pills, so it's simplest to
+     awkward wrapped below with the Spice/Twitter/Bluesky pills, so it's simplest to
      just drop it in the mobile layout. */
   .creator-table tbody td[data-label="Socials"] {
     display: none;

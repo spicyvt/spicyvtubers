@@ -31,6 +31,10 @@
 
   const fanslyIcon = `<img src="fansly.svg" alt="" aria-hidden="true">`;
   const xIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.9 2H22l-7.2 8.3L23.3 22h-6.6l-5.2-6.8L5.3 22H2.2l7.7-8.9L1 2h6.8l4.7 6.2L18.9 2zm-1.2 18h1.8L7.3 4h-2l12.4 16z"/></svg>`;
+  // Bluesky's mark in its real brand colors (blue disc, white butterfly)
+  // rather than the pill's monochrome currentColor, since the brand mark
+  // reads better in color.
+  const bskyIcon = `<svg viewBox="0 0 512 512" aria-hidden="true"><path fill="#0085FF" d="M256 0c141.385 0 256 114.615 256 256S397.385 512 256 512 0 397.385 0 256 114.615 0 256 0z"/><path fill="#fff" fill-rule="nonzero" d="M183.776 158.537c29.233 22.022 60.681 66.666 72.223 90.625 11.543-23.959 42.992-68.603 72.225-90.625 21.097-15.886 55.275-28.181 55.275 10.937 0 7.81-4.463 65.631-7.084 75.02-9.1 32.629-42.27 40.953-71.774 35.916 51.573 8.806 64.691 37.97 36.357 67.137-53.808 55.394-77.34-13.898-83.364-31.653-1.738-5.111-1.49-5.228-3.268 0-6.026 17.755-29.555 87.047-83.364 31.653-28.334-29.167-15.216-58.331 36.357-67.137-29.504 5.037-62.674-3.287-71.774-35.916-2.621-9.389-7.084-67.21-7.084-75.02 0-39.118 34.182-26.823 55.275-10.937z"/></svg>`;
   const socialsIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg>`;
 
   // Fansly, OnlyFans, Rplay, and Joystick all use their real brand marks as
@@ -142,7 +146,7 @@
         const href = isPath
           ? profileLink(platform.rootBaseUrl, ...value.split("/"))
           : profileLink(platform.baseUrl, value, ref);
-        const text = isPath ? creator.channel : value.toLowerCase();
+        const text = isPath ? creator.channel.toLowerCase() : value.toLowerCase();
         return `<a class="spice-pill ${platform.className}" href="${href}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(platform.label)}: ${escapeHtml(text)}">${platform.icon}${escapeHtml(text)}</a>`;
       })
       .join("");
@@ -155,14 +159,18 @@
     spiceTd.innerHTML = `<div class="spice-handles">${spicePills}${otherPills}</div>`;
 
     const xTd = document.createElement("td");
-    xTd.dataset.label = "X.com";
+    xTd.dataset.label = "Twitter/Bluesky";
     const xPills = creator.xHandles
       .map(
         (handle) =>
-          `<a class="x-pill" href="${profileLink("https://x.com/", handle)}" target="_blank" rel="noopener noreferrer" title="X: ${escapeHtml(handle)}">${xIcon}${escapeHtml(handle.toLowerCase())}</a>`
+          `<a class="x-pill" href="${profileLink("https://x.com/", handle)}" target="_blank" rel="noopener noreferrer" title="Twitter: ${escapeHtml(handle)}">${xIcon}${escapeHtml(handle.toLowerCase())}</a>`
       )
       .join("");
-    xTd.innerHTML = `<div class="x-handles">${xPills}</div>`;
+    const [bskyName, bskyLink] = Array.isArray(creator.bskyHandle) ? creator.bskyHandle : [];
+    const bskyPill = bskyLink
+      ? `<a class="x-pill" href="${profileLink("https://bsky.app/profile/", bskyLink)}" target="_blank" rel="noopener noreferrer" title="Bluesky: ${escapeHtml((bskyName || bskyLink).toLowerCase())}">${bskyIcon}${escapeHtml((bskyName || bskyLink).toLowerCase())}</a>`
+      : "";
+    xTd.innerHTML = `<div class="x-handles">${xPills}${bskyPill}</div>`;
 
     const socialsTd = document.createElement("td");
     socialsTd.dataset.label = "Socials";
@@ -260,6 +268,7 @@
           creator.channel,
           ...SPICE_PLATFORMS.map((platform) => creator[platform.key]),
           ...creator.xHandles,
+          ...(Array.isArray(creator.bskyHandle) ? creator.bskyHandle : []),
           ...getOtherLinks(creator).map((link) => link.label),
         ]
           .filter(Boolean)
