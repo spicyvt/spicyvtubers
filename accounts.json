@@ -2382,6 +2382,7 @@
   },
   {
     "fansly": "overlord_jona",
+    "joystick": "overlord_jona",
     "channel": "Overlord_Jona",
     "xHandles": ["overlord_jona", "overlordshoard"]
   },
@@ -3143,22 +3144,51 @@
     "socials": "https://linktr.ee/bardicrj"
   },
   {
-    "fansly": "",
-    "channel": "",
-    "xHandles": ["", ""],
-    "socials": ""
+    "fansly": "amydoggyvr",
+    "joystick": "amydoggy",
+    "channel": "AmyDoggy",
+    "xHandles": ["amydoggyvr", "amydoggylive"],
+    "socials": "https://amy.dog/",
+    "other": [
+      {
+        "Patreon": "https://www.patreon.com/AmyDoggy"
+      }
+    ]
   },
   {
-    "fansly": "",
-    "channel": "",
-    "xHandles": ["", ""],
-    "socials": ""
+    "fansly": "missydagreat",
+    "channel": "MissyDaGreat",
+    "xHandles": ["missydagreatttv"],
+    "socials": "https://linktr.ee/missydagreat"
   },
   {
-    "fansly": "",
-    "channel": "",
-    "xHandles": ["", ""],
-    "socials": ""
+    "joystick": "Admirals_Only_Borks",
+    "channel": "AdmiralMorkBork",
+    "xHandles": ["admiralmorkbork", "onlymorks"]
+  },
+  {
+    "fansly": "mourningvenus",
+    "rplay": "mourningvenus",
+    "channel": "MourningVenus",
+    "xHandles": ["moaningvenus", "mourningvenusva"],
+    "socials": "https://mournvenus.carrd.co/",
+    "other": [
+      {
+        "Patreon": "https://www.patreon.com/mourningvenus"
+      }
+    ]
+  },
+  {
+    "fansly": "nebulousbeing",
+    "channel": "neb_audios",
+    "type": "youtube",
+    "xHandles": ["nebulousbeing"],
+    "socials": "https://nebulousbeing.carrd.co/",
+    "other": [
+      {
+        "Reddit": "https://www.reddit.com/user/nebulous__being/"
+      }
+    ]
   },
   {
     "fansly": "",
