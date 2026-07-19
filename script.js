@@ -21,12 +21,21 @@
   const emptyState = document.getElementById("empty-state");
   const platformFilterEl = document.getElementById("platform-filter");
 
+  const channelModalOverlay = document.getElementById("channel-modal-overlay");
+  const channelModalAvatarWrap = document.getElementById("channel-modal-avatar-wrap");
+  const channelModalTitle = document.getElementById("channel-modal-title");
+  const channelModalName = document.getElementById("channel-modal-name");
+  const channelModalPlatform = document.getElementById("channel-modal-platform");
+  const channelModalConfirm = document.getElementById("channel-modal-confirm");
+  const channelModalCancel = document.getElementById("channel-modal-cancel");
+  const channelModalClose = document.getElementById("channel-modal-close");
+
   let creators = [];
   let platformFilter = "all";
 
   const CHANNEL_PLATFORMS = {
-    twitch: { baseUrl: "https://twitch.com/" },
-    youtube: { baseUrl: "https://youtube.com/@" },
+    twitch: { baseUrl: "https://twitch.com/", label: "Twitch" },
+    youtube: { baseUrl: "https://youtube.com/@", label: "YouTube" },
   };
 
   const fanslyIcon = `<img src="fansly.svg" alt="" aria-hidden="true">`;
@@ -126,8 +135,9 @@
     channelTd.dataset.label = "Channel";
     channelTd.className = "name-cell";
     const platform = CHANNEL_PLATFORMS[creator.type] || CHANNEL_PLATFORMS.twitch;
+    const platformKey = creator.type && CHANNEL_PLATFORMS[creator.type] ? creator.type : "twitch";
     channelTd.innerHTML = creator.channel
-      ? `<a class="name-link" href="${profileLink(platform.baseUrl, creator.channel)}" target="_blank" rel="noopener noreferrer">` +
+      ? `<a class="name-link" href="${profileLink(platform.baseUrl, creator.channel)}" target="_blank" rel="noopener noreferrer" data-channel="${escapeHtml(creator.channel)}" data-platform-key="${platformKey}">` +
         `<span class="avatar">` +
         `<span class="avatar-fallback" aria-hidden="true">${escapeHtml(getInitials(creator.channel))}</span>` +
         `<img class="avatar-img" src="avatars/${encodeURIComponent(creator.channel.toLowerCase())}.webp" alt="" loading="lazy" decoding="async" onload="this.classList.add('is-loaded')" onerror="this.remove()">` +
@@ -246,6 +256,67 @@
   }
 
   searchInput.addEventListener("input", debounce(update, 150));
+
+  // ---------------------------------------------------------------------
+  // Channel link confirmation modal — clicking a channel avatar/name opens
+  // a "you're about to visit X on Twitch/YouTube" confirmation instead of
+  // navigating immediately. Modifier-clicks (middle-click, ctrl/cmd/shift)
+  // are left alone so opening in a new tab/window still works as expected.
+  // ---------------------------------------------------------------------
+
+  let lastFocusedElement = null;
+
+  function openChannelModal(link) {
+    const platformKey = link.dataset.platformKey || "twitch";
+    const platform = CHANNEL_PLATFORMS[platformKey] || CHANNEL_PLATFORMS.twitch;
+    const channelName = link.dataset.channel || "";
+    const avatar = link.querySelector(".avatar");
+
+    channelModalAvatarWrap.innerHTML = "";
+    if (avatar) channelModalAvatarWrap.appendChild(avatar.cloneNode(true));
+
+    channelModalTitle.textContent = `Open ${platform.label} channel?`;
+    channelModalName.textContent = channelName;
+    channelModalPlatform.textContent = platform.label;
+    channelModalConfirm.href = link.href;
+    channelModalConfirm.textContent = `Open ${platform.label}`;
+
+    lastFocusedElement = document.activeElement;
+    channelModalOverlay.hidden = false;
+    requestAnimationFrame(() => channelModalOverlay.classList.add("is-open"));
+    channelModalConfirm.focus();
+  }
+
+  function closeChannelModal() {
+    if (channelModalOverlay.hidden) return;
+    channelModalOverlay.classList.remove("is-open");
+    channelModalOverlay.addEventListener(
+      "transitionend",
+      () => {
+        channelModalOverlay.hidden = true;
+      },
+      { once: true }
+    );
+    if (lastFocusedElement) lastFocusedElement.focus();
+  }
+
+  tbody.addEventListener("click", (e) => {
+    const link = e.target.closest(".name-link");
+    if (!link) return;
+    if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    e.preventDefault();
+    openChannelModal(link);
+  });
+
+  channelModalConfirm.addEventListener("click", closeChannelModal);
+  channelModalCancel.addEventListener("click", closeChannelModal);
+  channelModalClose.addEventListener("click", closeChannelModal);
+  channelModalOverlay.addEventListener("click", (e) => {
+    if (e.target === channelModalOverlay) closeChannelModal();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !channelModalOverlay.hidden) closeChannelModal();
+  });
 
   // ---------------------------------------------------------------------
   // Init — load creators from accounts.json
