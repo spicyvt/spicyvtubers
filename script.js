@@ -23,7 +23,6 @@
 
   const channelModalOverlay = document.getElementById("channel-modal-overlay");
   const channelModalAvatarWrap = document.getElementById("channel-modal-avatar-wrap");
-  const channelModalTitle = document.getElementById("channel-modal-title");
   const channelModalName = document.getElementById("channel-modal-name");
   const channelModalPlatform = document.getElementById("channel-modal-platform");
   const channelModalConfirm = document.getElementById("channel-modal-confirm");
@@ -275,7 +274,6 @@
     channelModalAvatarWrap.innerHTML = "";
     if (avatar) channelModalAvatarWrap.appendChild(avatar.cloneNode(true));
 
-    channelModalTitle.textContent = `Open ${platform.label} channel?`;
     channelModalName.textContent = channelName;
     channelModalPlatform.textContent = platform.label;
     channelModalConfirm.href = link.href;
