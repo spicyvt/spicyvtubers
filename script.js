@@ -28,8 +28,13 @@
   const channelModalConfirm = document.getElementById("channel-modal-confirm");
   const channelModalCancel = document.getElementById("channel-modal-cancel");
   const channelModalClose = document.getElementById("channel-modal-close");
+  const sortToggleBtn = document.getElementById("sort-toggle");
 
   let creators = [];
+  let azOrderCreators = [];
+  let jsonOrderCreators = [];
+  let newestOrderCreators = [];
+  let sortMode = "az"; // "az" | "newest"
   let platformFilter = "all";
 
   const CHANNEL_PLATFORMS = {
@@ -257,6 +262,19 @@
   searchInput.addEventListener("input", debounce(update, 150));
 
   // ---------------------------------------------------------------------
+  // Sort toggle — switches the table between alphabetical (A-Z) order and
+  // the order creators appear in accounts.json, and back again.
+  // ---------------------------------------------------------------------
+
+  sortToggleBtn.addEventListener("click", () => {
+    sortMode = sortMode === "az" ? "newest" : "az";
+    creators = sortMode === "az" ? azOrderCreators : newestOrderCreators;
+    sortToggleBtn.classList.toggle("is-active", sortMode === "newest");
+    sortToggleBtn.setAttribute("aria-pressed", String(sortMode === "newest"));
+    update();
+  });
+
+  // ---------------------------------------------------------------------
   // Channel link confirmation modal — clicking a channel avatar/name opens
   // a "you're about to visit X on Twitch/YouTube" confirmation instead of
   // navigating immediately. Modifier-clicks (middle-click, ctrl/cmd/shift)
@@ -325,14 +343,20 @@
       const response = await fetch(DATA_URL);
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
-      creators = data
+      jsonOrderCreators = data
         .filter((c) => c && typeof c.channel === "string" && c.channel.trim() !== "")
-        .map((c) => ({ ...c, xHandles: (c.xHandles || []).filter(Boolean) }))
-        .sort((a, b) => a.channel.toLowerCase().localeCompare(b.channel.toLowerCase()));
+        .map((c) => ({ ...c, xHandles: (c.xHandles || []).filter(Boolean) }));
+      azOrderCreators = [...jsonOrderCreators].sort((a, b) =>
+        a.channel.toLowerCase().localeCompare(b.channel.toLowerCase())
+      );
+      // "Newest" shows accounts.json in reverse order — new entries are
+      // appended to the end of that file, so reversing surfaces them first.
+      newestOrderCreators = [...jsonOrderCreators].reverse();
+      creators = azOrderCreators;
 
       // Precompute each creator's lowercased search haystack once, instead of
       // rebuilding it from scratch on every keystroke.
-      creators.forEach((creator) => {
+      jsonOrderCreators.forEach((creator) => {
         creator.searchText = [
           creator.channel,
           ...SPICE_PLATFORMS.map((platform) => creator[platform.key]),
