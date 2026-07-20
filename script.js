@@ -55,6 +55,10 @@
   const onlyfansIcon = `<img src="onlyfans.svg" alt="" aria-hidden="true">`;
   const rplayIcon = `<img src="rplay.svg" alt="" aria-hidden="true">`;
   const joystickIcon = `<img src="joystick.svg" alt="" aria-hidden="true">`;
+  // Patreon's mark is a simple single-path logo, so it's inlined as an SVG
+  // using currentColor (like the X/socials icons) rather than an external
+  // brand-color asset — this lets the pill keep the shared blue styling.
+  const patreonIcon = `<svg viewBox="0 0 436 476" aria-hidden="true"><path fill="currentColor" d="M436 143c-.084-60.778-47.57-110.591-103.285-128.565C263.528-7.884 172.279-4.649 106.214 26.424 26.142 64.089.988 146.596.051 228.883c-.77 67.653 6.004 245.841 106.83 247.11 74.917.948 86.072-95.279 120.737-141.623 24.662-32.972 56.417-42.285 95.507-51.929C390.309 265.865 436.097 213.011 436 143Z"/></svg>`;
 
   // Fixed display order for the "Spice" column — a creator will rarely have
   // more than one or two of these set, but this keeps the order consistent
@@ -64,6 +68,7 @@
     { key: "onlyfans", className: "onlyfans", label: "OnlyFans", icon: onlyfansIcon, baseUrl: "https://onlyfans.com/" },
     { key: "rplay", className: "rplay", label: "Rplay", icon: rplayIcon, baseUrl: "https://rplay.live/c/", rootBaseUrl: "https://rplay.live/" },
     { key: "joystick", className: "joystick", label: "joystick.tv", icon: joystickIcon, baseUrl: "https://joystick.tv/u/" },
+    { key: "patreon", className: "patreon", label: "Patreon", icon: patreonIcon, baseUrl: "https://www.patreon.com/" },
   ];
 
   // ---------------------------------------------------------------------
@@ -114,7 +119,7 @@
   }
 
   // "other" is a free-form array of single-key objects, e.g.
-  // [{ "patreon": "https://patreon.com/..." }] — the key is used as the
+  // [{ "Reddit": "https://reddit.com/user/..." }] — the key is used as the
   // button label and the value as the link's full URL.
   function getOtherLinks(creator) {
     if (!Array.isArray(creator.other)) return [];

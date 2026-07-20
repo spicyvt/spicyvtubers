@@ -64,7 +64,7 @@ a {
 }
 
 .header-inner {
-  max-width: 1100px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 1.25rem 1.5rem;
   display: flex;
@@ -115,7 +115,7 @@ a {
 
 .page {
   flex: 1;
-  max-width: 1100px;
+  max-width: 1200px;
   width: 100%;
   margin: 0 auto;
   padding: 2rem 1.5rem 3rem;
@@ -212,6 +212,13 @@ a {
   height: 12px;
   width: auto;
   display: block;
+}
+
+.platform-filter-btn svg {
+  height: 12px;
+  width: auto;
+  display: block;
+  fill: currentColor;
 }
 
 /* Platform-specific filters, once selected, pick up the same accent used
@@ -457,8 +464,8 @@ a {
   display: block;
 }
 
-/* "Other" links (Patreon, etc.) reuse the spice-pill layout but get a
-   distinct violet tint so they read as a separate, secondary category
+/* "Other" links (Reddit, PornHub, etc.) reuse the spice-pill layout but get
+   a distinct violet tint so they read as a separate, secondary category
    from the core spicy platform pills. */
 .other-pill {
   background: rgba(168, 133, 245, 0.14);
