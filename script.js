@@ -160,7 +160,7 @@
     const spicePills = SPICE_PLATFORMS.filter((platform) => creator[platform.key])
       .map((platform) => {
         const value = creator[platform.key];
-        const ref = platform.refKey ? creator[platform.refKey] : undefined;
+        const ref = platform.refKey ? creator[platform.refKey] || "spicy" : undefined;
         const isPath = platform.rootBaseUrl && value.includes("/");
         const href = isPath
           ? profileLink(platform.rootBaseUrl, ...value.split("/"))
