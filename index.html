@@ -36,10 +36,10 @@
       <input type="search" id="search-input" placeholder="Search by Channel, Spicy Links, or Socials…" aria-label="Search creators">
     </div>
     <div class="platform-filter" id="platform-filter" role="group" aria-label="Filter by platform"></div>
-    <p class="result-count" id="result-count" aria-live="polite"></p>
+    <p class="result-count" id="result-count" aria-live="polite">Loading creators…</p>
   </section>
 
-  <section class="table-section">
+  <section class="table-section" id="table-section" hidden>
     <table class="creator-table" id="creator-table">
       <thead>
         <tr>
@@ -70,7 +70,7 @@
 
 </main>
 
-<footer class="site-footer">
+<footer class="site-footer" id="site-footer" hidden>
   <p style="line-height: 1.45;"><span style="font-weight: bold;">Index criteria</span><br>
 Must have a Twitch or YouTube channel and an X (Twitter) or Bluesky account<br>
 Must have streamed as a VTuber on at least one platform (SFW or NSFW)<br>

@@ -15,6 +15,8 @@
   // Rendering
   // ---------------------------------------------------------------------
 
+  const tableSection = document.getElementById("table-section");
+  const siteFooter = document.getElementById("site-footer");
   const tbody = document.getElementById("creator-tbody");
   const searchInput = document.getElementById("search-input");
   const resultCount = document.getElementById("result-count");
@@ -64,11 +66,11 @@
   // more than one or two of these set, but this keeps the order consistent
   // across rows regardless of key order in accounts.json.
   const SPICE_PLATFORMS = [
-    { key: "fansly", className: "fansly", label: "Fansly", icon: fanslyIcon, baseUrl: "https://fansly.com/", refKey: "fanslyRef" },
-    { key: "onlyfans", className: "onlyfans", label: "OnlyFans", icon: onlyfansIcon, baseUrl: "https://onlyfans.com/" },
-    { key: "rplay", className: "rplay", label: "Rplay", icon: rplayIcon, baseUrl: "https://rplay.live/c/", rootBaseUrl: "https://rplay.live/" },
-    { key: "joystick", className: "joystick", label: "joystick.tv", icon: joystickIcon, baseUrl: "https://joystick.tv/u/" },
-    { key: "patreon", className: "patreon", label: "Patreon", icon: patreonIcon, baseUrl: "https://www.patreon.com/" },
+    { key: "fansly", label: "Fansly", icon: fanslyIcon, baseUrl: "https://fansly.com/", refKey: "fanslyRef" },
+    { key: "onlyfans", label: "OnlyFans", icon: onlyfansIcon, baseUrl: "https://onlyfans.com/" },
+    { key: "rplay", label: "Rplay", icon: rplayIcon, baseUrl: "https://rplay.live/c/", rootBaseUrl: "https://rplay.live/" },
+    { key: "joystick", label: "joystick.tv", icon: joystickIcon, baseUrl: "https://joystick.tv/u/" },
+    { key: "patreon", label: "Patreon", icon: patreonIcon, baseUrl: "https://www.patreon.com/" },
   ];
 
   // ---------------------------------------------------------------------
@@ -110,6 +112,15 @@
     return `${baseUrl}${segments.join("/")}`;
   }
 
+  // Shared markup for every pill-style link (spice, other, X/Bluesky,
+  // socials) — they all boil down to an icon + label anchor, just with a
+  // different class and content, so building each row's pills through one
+  // helper keeps buildRow() from repeating the same anchor template five
+  // times over.
+  function pillLink(className, href, title, icon, label) {
+    return `<a class="${className}" href="${href}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(title)}">${icon}${escapeHtml(label)}</a>`;
+  }
+
   function getInitials(str) {
     const parts = str.split(/[\s_-]+/).filter(Boolean);
     if (parts.length >= 2) {
@@ -149,7 +160,7 @@
       ? `<a class="name-link" href="${profileLink(platform.baseUrl, creator.channel)}" target="_blank" rel="noopener noreferrer" data-channel="${escapeHtml(creator.channel)}" data-platform-key="${platformKey}">` +
         `<span class="avatar">` +
         `<span class="avatar-fallback" aria-hidden="true">${escapeHtml(getInitials(creator.channel))}</span>` +
-        `<img class="avatar-img" src="avatars/${encodeURIComponent(creator.channel.toLowerCase())}.webp" alt="" loading="lazy" decoding="async" onload="this.classList.add('is-loaded')" onerror="this.remove()">` +
+        `<img class="avatar-img" src="avatars/${encodeURIComponent(creator.channel.toLowerCase())}.webp" alt="" loading="lazy" decoding="async">` +
         `</span>` +
         `<span class="name-text">${escapeHtml(creator.channel)}</span>` +
         `</a>`
@@ -166,35 +177,30 @@
           ? profileLink(platform.rootBaseUrl, ...value.split("/"))
           : profileLink(platform.baseUrl, value, ref);
         const text = isPath ? creator.channel.toLowerCase() : value.toLowerCase();
-        return `<a class="spice-pill ${platform.className}" href="${href}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(platform.label)}: ${escapeHtml(text)}">${platform.icon}${escapeHtml(text)}</a>`;
+        return pillLink("spice-pill", href, `${platform.label}: ${text}`, platform.icon, text);
       })
       .join("");
     const otherPills = getOtherLinks(creator)
-      .map(
-        ({ label, url }) =>
-          `<a class="spice-pill other-pill" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(url)}">${escapeHtml(label)}</a>`
-      )
+      .map(({ label, url }) => pillLink("spice-pill other-pill", escapeHtml(url), url, "", label))
       .join("");
     spiceTd.innerHTML = `<div class="spice-handles">${spicePills}${otherPills}</div>`;
 
     const xTd = document.createElement("td");
     xTd.dataset.label = "Twitter/Bluesky";
     const xPills = creator.xHandles
-      .map(
-        (handle) =>
-          `<a class="x-pill" href="${profileLink("https://x.com/", handle)}" target="_blank" rel="noopener noreferrer" title="Twitter: ${escapeHtml(handle)}">${xIcon}${escapeHtml(handle.toLowerCase())}</a>`
-      )
+      .map((handle) => pillLink("x-pill", profileLink("https://x.com/", handle), `Twitter: ${handle}`, xIcon, handle.toLowerCase()))
       .join("");
     const [bskyName, bskyLink] = Array.isArray(creator.bskyHandle) ? creator.bskyHandle : [];
+    const bskyLabel = (bskyName || bskyLink || "").toLowerCase();
     const bskyPill = bskyLink
-      ? `<a class="x-pill" href="${profileLink("https://bsky.app/profile/", bskyLink)}" target="_blank" rel="noopener noreferrer" title="Bluesky: ${escapeHtml((bskyName || bskyLink).toLowerCase())}">${bskyIcon}${escapeHtml((bskyName || bskyLink).toLowerCase())}</a>`
+      ? pillLink("x-pill", profileLink("https://bsky.app/profile/", bskyLink), `Bluesky: ${bskyLabel}`, bskyIcon, bskyLabel)
       : "";
     xTd.innerHTML = `<div class="x-handles">${xPills}${bskyPill}</div>`;
 
     const socialsTd = document.createElement("td");
     socialsTd.dataset.label = "Socials";
     const socialsPill = creator.socials
-      ? `<a class="x-pill socials-pill" href="${escapeHtml(creator.socials)}" target="_blank" rel="noopener noreferrer" title="Socials">${socialsIcon}</a>`
+      ? pillLink("x-pill socials-pill", escapeHtml(creator.socials), "Socials", socialsIcon, "")
       : "";
     socialsTd.innerHTML = `<div class="x-handles">${socialsPill}</div>`;
 
@@ -321,6 +327,24 @@
     if (lastFocusedElement) lastFocusedElement.focus();
   }
 
+  // "load"/"error" don't bubble, so the avatar's is-loaded/fallback toggling
+  // is handled here once via capture-phase delegation instead of inline
+  // onload/onerror attributes on every row's <img>.
+  tbody.addEventListener(
+    "load",
+    (e) => {
+      if (e.target.classList?.contains("avatar-img")) e.target.classList.add("is-loaded");
+    },
+    true
+  );
+  tbody.addEventListener(
+    "error",
+    (e) => {
+      if (e.target.classList?.contains("avatar-img")) e.target.remove();
+    },
+    true
+  );
+
   tbody.addEventListener("click", (e) => {
     const link = e.target.closest(".name-link");
     if (!link) return;
@@ -383,6 +407,8 @@
     }
     renderPlatformFilter();
     update();
+    tableSection.hidden = false;
+    siteFooter.hidden = false;
   }
 
   init();
