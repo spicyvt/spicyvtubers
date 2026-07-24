@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>OG Image Source — Spicy VTubers</title>
+<style>
+  :root {
+    --bg: #0f0a12;
+    --bg-alt: #171019;
+    --text: #f3e9f0;
+    --text-muted: #b9a6b8;
+    --accent: #ff3d6e;
+    --accent-2: #ff8a3d;
+    --gradient: linear-gradient(135deg, var(--accent), var(--accent-2));
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  /*
+    Screenshot this at exactly 1200x630 (or any size sharing the same
+    1200:630 / 1.91:1 aspect ratio, then scale down — do NOT crop).
+    The .canvas element below is fixed to 1200x630 so a screenshot tool
+    (e.g. a headless browser at that viewport, or a browser zoomed so the
+    element fills the frame) captures it pixel-for-pixel.
+  */
+  .canvas {
+    width: 1200px;
+    height: 630px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.75rem;
+    background:
+      radial-gradient(circle at 18% 20%, rgba(255, 61, 110, 0.25), transparent 45%),
+      radial-gradient(circle at 82% 78%, rgba(255, 138, 61, 0.2), transparent 45%),
+      linear-gradient(180deg, var(--bg-alt), var(--bg));
+    font-family: "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text);
+  }
+
+  .logo {
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+    filter: drop-shadow(0 10px 30px rgba(255, 61, 110, 0.35));
+  }
+
+  .title {
+    margin: 0;
+    font-size: 6rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
+
+  .title-accent {
+    background: var(--gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .tagline {
+    margin: 0;
+    font-size: 1.75rem;
+    color: var(--text-muted);
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="canvas">
+  <img class="logo" src="spicyvtubers.png" alt="">
+  <h1 class="title">Spicy<span class="title-accent">VTubers</span></h1>
+  <p class="tagline">Index of VTubers and their Spicy Accounts</p>
+</div>
+
+</body>
+</html>
