@@ -224,7 +224,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
 
   const rowCache = new WeakMap();
 
-  function buildRow(creator, eager) {
+  function buildRow(creator) {
     const tr = document.createElement("tr");
 
     const channelTd = document.createElement("td");
@@ -236,7 +236,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
       ? `<a class="name-link" href="${profileLink(platform.baseUrl, creator.channel)}" target="_blank" rel="noopener noreferrer" data-channel="${escapeHtml(creator.channel)}" data-platform-key="${platformKey}">` +
         `<span class="avatar">` +
         `<span class="avatar-fallback" aria-hidden="true">${escapeHtml(getInitials(creator.channel))}</span>` +
-        `<img class="avatar-img" src="avatars/${encodeURIComponent(creator.channelLower)}.webp" alt="" loading="${eager ? "eager" : "lazy"}" decoding="async">` +
+        `<img class="avatar-img" src="avatars/${encodeURIComponent(creator.channelLower)}.webp" alt="" loading="lazy" decoding="async">` +
         `</span>` +
         `<span class="name-text">${escapeHtml(creator.channel)}</span>` +
         `</a>`
@@ -284,12 +284,10 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     return tr;
   }
 
-  const EAGER_ROW_COUNT = 30;
-
-  function getOrBuildRow(creator, eager) {
+  function getOrBuildRow(creator) {
     let tr = rowCache.get(creator);
     if (!tr) {
-      tr = buildRow(creator, eager);
+      tr = buildRow(creator);
       rowCache.set(creator, tr);
     }
     return tr;
@@ -303,7 +301,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     }
     emptyState.hidden = true;
 
-    const nextRows = data.map((creator, index) => getOrBuildRow(creator, index < EAGER_ROW_COUNT));
+    const nextRows = data.map((creator) => getOrBuildRow(creator));
     const nextRowSet = new Set(nextRows);
 
     Array.from(tbody.children).forEach((tr) => {
