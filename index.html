@@ -292,7 +292,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     }
     return tr;
   }
-
+  
   function renderRows(data) {
     if (data.length === 0) {
       tbody.innerHTML = "";
@@ -301,11 +301,14 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     }
     emptyState.hidden = true;
 
-    const fragment = document.createDocumentFragment();
-    data.forEach((creator) => fragment.appendChild(getOrBuildRow(creator)));
+    const nextRows = data.map((creator) => getOrBuildRow(creator));
+    const nextRowSet = new Set(nextRows);
 
-    tbody.innerHTML = "";
-    tbody.appendChild(fragment);
+    Array.from(tbody.children).forEach((tr) => {
+      if (!nextRowSet.has(tr)) tr.remove();
+    });
+
+    nextRows.forEach((tr) => tbody.appendChild(tr));
   }
 
   function updateResultCount(count, total) {
