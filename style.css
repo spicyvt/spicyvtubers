@@ -311,7 +311,12 @@ a {
 }
 
 .creator-table tbody tr {
+  border-bottom: 1px solid var(--border);
   transition: background 0.15s ease;
+}
+
+.creator-table tbody tr:last-child {
+  border-bottom: none;
 }
 
 .creator-table tbody tr:hover {
@@ -411,7 +416,11 @@ a {
 
 .spice-handles {
   display: flex;
-  flex-wrap: wrap;
+  /* One pill per line for a uniform layout across rows, instead of pills
+     flowing side-by-side and wrapping unpredictably depending on how many
+     fit a row's width. */
+  flex-direction: column;
+  align-items: flex-start;
   gap: 0.4rem;
   /* These cells are vertical-align: top (see the rule above) so multi-line
      wraps don't look vertically offset, but that leaves a single line of
@@ -482,7 +491,9 @@ a {
 
 .x-handles {
   display: flex;
-  flex-wrap: wrap;
+  /* One pill per line — see .spice-handles above. */
+  flex-direction: column;
+  align-items: flex-start;
   gap: 0.4rem;
   /* See .spice-handles above — same first-line centering offset. */
   margin-top: 0.5rem;
