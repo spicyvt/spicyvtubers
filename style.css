@@ -251,7 +251,7 @@ a {
 .creator-table thead th {
   text-align: left;
   padding: 0.9rem 1.1rem;
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.06em;
   color: var(--text-muted);
@@ -338,7 +338,7 @@ a {
   display: flex;
   align-items: center;
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 
 .name-link {
@@ -778,7 +778,7 @@ a {
     order: 1;
     flex: 1 1 auto;
     min-width: 0;
-    font-size: 1.05rem;
+    font-size: 1.2rem;
   }
 
   /* The avatar's negative vertical margin (see .avatar comment) relies on
