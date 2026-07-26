@@ -73,14 +73,6 @@ a {
   min-width: 0;
 }
 
-.last-updated {
-  margin: 0.35rem 0 0;
-  color: var(--text-muted);
-  font-size: 0.85rem;
-  white-space: nowrap;
-  flex: 0 0 auto;
-}
-
 .brand {
   display: inline-flex;
   align-items: center;
@@ -740,10 +732,6 @@ a {
   .platform-filter {
     order: 3;
     flex: 1 1 100%;
-  }
-
-  .last-updated {
-    display: none;
   }
 
   /* On mobile each row becomes its own card (below), so the shared
