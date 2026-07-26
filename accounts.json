@@ -2160,7 +2160,13 @@
     "channel": "EinAudios",
     "type": "youtube",
     "xHandles": ["bearyein", "mommyein", "bearlyein"],
-    "socials": "https://bearyein.com/"
+    "socials": "https://bearyein.com/",
+    "other": [
+      {
+        "reddit": "https://www.reddit.com/user/EinVA/",
+        "bearyein": "https://bearyein.com/"
+      }
+    ]
   },
   {
     "fansly": "kimariroseva",
@@ -2179,6 +2185,7 @@
     "fansly": "dokiirem",
     "channel": "DokiRem",
     "xHandles": ["dokiirem"],
+    "socials": "https://dokiirem.carrd.co/",
     "id": "1484048917"
   },
   {
@@ -2204,18 +2211,21 @@
     "fansly": "secretsubject",
     "channel": "ParaNorma",
     "xHandles": ["paranormavt", "secretsubject_"],
+    "socials": "https://linktr.ee/paranorma",
     "id": "259908236"
   },
   {
     "fansly": "kureamy",
     "channel": "Kureepy",
     "xHandles": ["kureepyvtuber"],
+    "socials": "https://kureepy.com/",
     "id": "198834264"
   },
   {
     "fansly": "pankyvt",
     "channel": "pankyvt",
     "xHandles": ["pankstervt"],
+    "socials": "https://linktr.ee/PankyVtuber",
     "id": "581875267"
   },
   {
@@ -2230,12 +2240,14 @@
     "fansly": "celiseris",
     "channel": "CelisEris",
     "xHandles": ["celiseris"],
+    "socials": "https://celiseris.carrd.co/",
     "id": "1033536305"
   },
   {
     "fansly": "nyrethvt",
     "channel": "NyrethVT",
     "xHandles": ["nyrethvt"],
+    "socials": "https://linktr.ee/nyrethvt",
     "id": "1312368528"
   },
   {
@@ -2249,18 +2261,21 @@
     "fanslyRef": "t2",
     "channel": "Ayumints",
     "xHandles": ["ayumintsvtuber"],
+    "socials": "https://ayumints.carrd.co/",
     "id": "89109982"
   },
   {
     "fansly": "meekah_bnuuy",
     "channel": "BakanukiMika",
     "xHandles": ["bakanukimika"],
+    "socials": "https://bakanukimika.uwu.ai/",
     "id": "249393670"
   },
   {
     "fansly": "leynevt",
     "channel": "LeyneVT",
-    "xHandles": ["leynevt", "angelleyne", "spicyleyne"],
+    "xHandles": ["leynevt", "spicyleyne"],
+    "socials": "https://leyne.carrd.co/",
     "id": "96780390"
   },
   {
@@ -2273,6 +2288,7 @@
     "fansly": "andou",
     "channel": "andou",
     "xHandles": ["andour18", "andouilles"],
+    "socials": "https://andouilles.com/",
     "id": "103022178"
   },
   {
@@ -2285,24 +2301,29 @@
     "fansly": "zakkie3d",
     "channel": "ZakkieVR",
     "xHandles": ["zakkievr", "zakkie3d"],
+    "socials": "https://zakkievr.carrd.co/",
     "id": "39664274"
   },
   {
     "fansly": "root_vt",
     "channel": "ROOT_vt",
     "xHandles": ["root_vt"],
+    "socials": "https://rootvt.carrd.co/",
     "id": "154211228"
   },
   {
     "fansly": "kittyflutevt",
+    "patreon": "kittyflutevt",
     "channel": "KittyfluteVT",
     "xHandles": ["kittyflutexbl"],
+    "socials": "https://kittyflute.carrd.co/",
     "id": "655661486"
   },
   {
     "fansly": "lunevt",
     "channel": "lune_vt",
     "xHandles": ["lunevt", "lunevtnsfw"],
+    "socials": "https://guns.lol/lunevt",
     "id": "439989975"
   },
   {
@@ -2319,14 +2340,17 @@
   },
   {
     "fansly": "k9exorcist",
+    "patreon": "k9exorcist",
     "channel": "kaiyo",
     "xHandles": ["k9exorcist"],
+    "socials": "https://solo.to/k9exorcist",
     "id": "185192187"
   },
   {
     "fansly": "milkievt",
     "channel": "MILKIE",
     "xHandles": ["milkievt", "tasteofmilkie"],
+    "socials": "https://milkievt.carrd.co/",
     "id": "487703553"
   },
   {
@@ -2339,19 +2363,21 @@
     "fansly": "princesslinkyvt",
     "channel": "PrincessLinkyVT",
     "xHandles": ["pinkylinky17"],
+    "socials": "https://princesslinkyvt.carrd.co/",
     "id": "604968409"
   },
   {
     "fansly": "lilyofthevalleyvt",
     "rplay": "creatorhome/69cafae5c213e2ba10c1996a",
     "channel": "LOTV_VT",
-    "xHandles": ["lotv_vt"],
+    "xHandles": ["lotv_vt", "lotv_asmr"],
     "id": "1510492627"
   },
   {
     "fansly": "shionvt",
     "channel": "Usagi_Shion",
     "xHandles": ["bunny_shion", "shion_nsfw"],
+    "socials": "https://linktr.ee/Usagi_Shion",
     "id": "160946334"
   },
   {
@@ -2359,30 +2385,47 @@
     "joystick": "thesirenvt",
     "channel": "TheSirenVT_",
     "xHandles": ["thesirenvt_"],
+    "socials": "https://sirenvt.carrd.co/",
     "id": "221348740"
   },
   {
     "fansly": "chanhyuk",
     "channel": "ChanHyukVT",
     "xHandles": ["chanhyukvt", "chanhyukva"],
+    "socials": "https://chanhyukvt.carrd.co/",
     "id": "433137905"
   },
   {
     "fansly": "blairvvt",
     "channel": "blairvvt",
     "xHandles": ["blairv_vt"],
+    "socials": "https://blairvalentine.carrd.co/",
     "id": "856139442"
   },
   {
     "fansly": "magicalmysticva",
+    "onlysfans": "magicalmysticva",
     "channel": "MysticTheMagicalGirl",
     "xHandles": ["darkprincessva", "magicalmysticva"],
+    "socials": "https://allmylinks.com/magicalmysticva",
+    "other": [
+      {
+        "pornhub": "https://www.pornhub.com/model/magicalmysticva"
+      }
+    ],
     "id": "527429472"
   },
   {
     "fansly": "cyrinvt",
+    "onlyfans": "cyrin",
     "channel": "CyrinVT",
     "xHandles": ["cyrinuwu"],
+    "socials": "https://linktr.ee/CyrinVT",
+    "other": [
+      {
+        "pornhub": "https://www.pornhub.com/model/cyrinvt"
+      }
+    ],
     "id": "430687523"
   },
   {
@@ -2390,6 +2433,7 @@
     "joystick": "mallow_vt",
     "channel": "Mallow_VT",
     "xHandles": ["mallow_vt", "mallow_vt_r18"],
+    "socials": "https://pillar.io/mallow_vt",
     "id": "8162123"
   },
   {
@@ -2408,36 +2452,47 @@
     "fansly": "lealewdi",
     "channel": "Lealumie",
     "xHandles": ["lealumie", "lumiedayo"],
+    "socials": "https://lealumie.com/",
     "id": "477339913"
   },
   {
     "fansly": "lunariaayaren",
     "channel": "Lunaria",
     "xHandles": ["lunariaayaren"],
+    "socials": "https://linktr.ee/lunariaayaren",
     "id": "169507183"
   },
   {
     "fansly": "momonoods",
     "channel": "Momo",
     "xHandles": ["momomischief", "momonoods"],
+    "socials": "https://momomischief.crd.co/",
     "id": "38852102"
   },
   {
     "fansly": "emucchi",
     "channel": "emucchi",
     "xHandles": ["emucchi_"],
+    "socials": "https://emucchi.uwu.ai",
     "id": "272943201"
   },
   {
     "fansly": "nymphlewd",
     "channel": "Nymphaaea",
     "xHandles": ["nymphaaeavt", "nymphlewd"],
+    "socials": "https://nymphaaea.carrd.co/",
+    "other": [
+      {
+        "pornhub": "https://es.pornhub.com/model/nymph-lewd"
+      }
+    ],
     "id": "641938359"
   },
   {
     "fansly": "hajicastella",
     "channel": "HajiCastella",
     "xHandles": ["hajicastella"],
+    "socials": "https://hajicastella.carrd.co/",
     "id": "60138177"
   },
   {
@@ -2457,18 +2512,26 @@
     "fansly": "murdercrumpet",
     "channel": "MurderCrumpet",
     "xHandles": ["murdercrumpet"],
+    "socials": "https://linktr.ee/murdercrumpet",
     "id": "277057209"
   },
   {
     "fansly": "podgekinn",
     "channel": "podgekinn",
     "xHandles": ["podgekinn"],
+    "socials": "https://podgekinn.carrd.co/",
     "id": "194420700"
   },
   {
     "fansly": "willo_vt",
     "channel": "WillO_VT",
     "xHandles": ["willo_vt"],
+    "socials": "https://willo-vt.carrd.co/",
+    "other": [
+      {
+        "fansly irl": "https://fansly.com/Will-O"
+      }
+    ],
     "id": "137385869"
   },
   {
@@ -2481,24 +2544,33 @@
     "fansly": "mommymaple_",
     "channel": "MommyMaple_",
     "xHandles": ["mommymaple_", "yourgodessmaple"],
+    "socials": "https://mommymapleinfo.carrd.co/",
     "id": "925973222"
   },
   {
     "fansly": "sivibird",
     "channel": "sivibird",
     "xHandles": ["sivibird"],
+    "socials": "https://sivibird.carrd.co/",
     "id": "811074874"
   },
   {
     "fansly": "saiiramocavt",
     "channel": "SaiiraMoca",
     "xHandles": ["saiiramocavt"],
+    "socials": "https://saiiramocavt.carrd.co/",
     "id": "575855269"
   },
   {
     "fansly": "awildkitsune",
     "channel": "AWildKITsune",
     "xHandles": ["awildkitsuneva"],
+    "socials": "https://awildkitsune.uwu.ai/",
+    "other": [
+      {
+        "reddit": "https://www.reddit.com/user/DommyMommyFox/"
+      }
+    ],
     "id": "190007217"
   },
   {
@@ -2518,6 +2590,7 @@
     "fansly": "casslewd",
     "channel": "Cass",
     "xHandles": ["cassvtuber"],
+    "socials": "https://cassvtuber.carrd.co/",
     "id": "137868869"
   },
   {
@@ -2536,6 +2609,7 @@
     "fansly": "breedablemale",
     "channel": "breedvt",
     "xHandles": ["breedvt"],
+    "socials": "https://linktr.ee/BreedVT",
     "id": "1283147489"
   },
   {
@@ -2543,6 +2617,7 @@
     "joystick": "anenyaqueen",
     "channel": "AnenyaQueen",
     "xHandles": ["anenyaqueen"],
+    "socials": "https://anenyaqueen.carrd.co/",
     "id": "1215908102"
   },
   {
@@ -2550,12 +2625,19 @@
     "joystick": "vexhathepanda",
     "channel": "VexhaThePanda",
     "xHandles": ["vexhathepanda", "vexhatheslut"],
+    "socials": "https://vexhathepanda.carrd.co/",
+    "other": [
+      {
+        "pornhub": "https://www.pornhub.com/model/vexhathepanda"
+      }
+    ],
     "id": "874753872"
   },
   {
     "fansly": "angelicanarchy",
     "channel": "AngelicAnarchyVA",
     "xHandles": ["_angelicanarchy", "angelicclipsva"],
+    "socials": "https://linktr.ee/angelicanarchy",
     "id": "1413820872"
   },
   {
@@ -2563,12 +2645,14 @@
     "joystick": "xnekoravenx_vt",
     "channel": "xNEKORAVENx",
     "xHandles": ["xkawaiirae"],
+    "socials": "https://xkawaiirae.carrd.co/",
     "id": "106461007"
   },
   {
     "fansly": "k1ttypaws",
     "channel": "nyanva",
     "xHandles": ["nyanvaa"],
+    "socials": "https://nyanva.carrd.co/",
     "id": "904474724"
   },
   {
@@ -2582,6 +2666,7 @@
     "joystick": "divalthefrogevt",
     "channel": "divalthefroge",
     "xHandles": ["thewarlockorder"],
+    "socials": "https://divalthefroge.carrd.co/",
     "id": "75423492"
   },
   {
@@ -2596,12 +2681,14 @@
     "fansly": "squeeequeen",
     "channel": "SqueeeQueenVT",
     "xHandles": ["squeeequeenvt", "sussysqueee"],
+    "socials": "https://beacons.ai/sussysqueee",
     "id": "60074969"
   },
   {
     "joystick": "orkivtuber",
     "channel": "OrkiVTuber",
     "xHandles": ["orkivtuber"],
+    "socials": "https://www.orkivtuber.com/",
     "id": "624323354"
   },
   {
@@ -2619,8 +2706,10 @@
   },
   {
     "fansly": "caelumvt",
+    "patreon": "caelumasmr",
     "channel": "Caelum_VT",
     "xHandles": ["official_caelum", "caecaensfw2"],
+    "socials": "https://caelumvtuber.carrd.co/",
     "id": "462224623"
   },
   {
@@ -6331,6 +6420,31 @@
     "xHandles": ["_bethyv"],
     "socials": "https://bethyva.carrd.co/",
     "id": "467242001"
+  },
+  {
+    "fansly": "mortufaiiry",
+    "channel": "mortufaiiry",
+    "xHandles": ["mortufaiiry", ""],
+    "socials": "https://linktr.ee/Mortufaiiry",
+    "id": "94510489"
+  },
+  {
+    "fansly": "",
+    "channel": "",
+    "xHandles": ["", ""],
+    "socials": ""
+  },
+  {
+    "fansly": "",
+    "channel": "",
+    "xHandles": ["", ""],
+    "socials": ""
+  },
+  {
+    "fansly": "",
+    "channel": "",
+    "xHandles": ["", ""],
+    "socials": ""
   },
   {
     "fansly": "",
