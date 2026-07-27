@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style002.css">
 </head>
 <body>
 
@@ -97,20 +97,6 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
   <p>Fan-made index · Not affiliated with any platform · Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
 </footer>
 
-<div class="modal-overlay" id="channel-modal-overlay" hidden>
-  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="channel-modal-title">
-    <button type="button" class="modal-close" id="channel-modal-close" aria-label="Close">
-      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.3 5.71a1 1 0 0 0-1.41 0L12 10.59 7.11 5.7A1 1 0 0 0 5.7 7.11L10.59 12l-4.89 4.89a1 1 0 1 0 1.41 1.41L12 13.41l4.89 4.89a1 1 0 0 0 1.41-1.41L13.41 12l4.89-4.89a1 1 0 0 0 0-1.4z"/></svg>
-    </button>
-    <div class="modal-avatar-wrap" id="channel-modal-avatar-wrap"></div>
-    <p class="modal-text">You're about to visit <strong id="channel-modal-name"></strong> on <span id="channel-modal-platform"></span>. <br> This will open in a new tab.</p>
-    <div class="modal-actions">
-      <button type="button" class="modal-btn modal-btn-cancel" id="channel-modal-cancel">Cancel</button>
-      <a class="modal-btn modal-btn-confirm" id="channel-modal-confirm" target="_blank" rel="noopener noreferrer">Open channel</a>
-    </div>
-  </div>
-</div>
-
 <script>
 (() => {
   "use strict";
@@ -124,14 +110,6 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
   const resultCount = document.getElementById("result-count");
   const emptyState = document.getElementById("empty-state");
   const platformFilterEl = document.getElementById("platform-filter");
-
-  const channelModalOverlay = document.getElementById("channel-modal-overlay");
-  const channelModalAvatarWrap = document.getElementById("channel-modal-avatar-wrap");
-  const channelModalName = document.getElementById("channel-modal-name");
-  const channelModalPlatform = document.getElementById("channel-modal-platform");
-  const channelModalConfirm = document.getElementById("channel-modal-confirm");
-  const channelModalCancel = document.getElementById("channel-modal-cancel");
-  const channelModalClose = document.getElementById("channel-modal-close");
   const sortToggleBtn = document.getElementById("sort-toggle");
 
   let creators = [];
@@ -155,6 +133,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
   const rplayIcon = `<img src="rplay.svg" alt="" aria-hidden="true">`;
   const joystickIcon = `<img src="joystick.svg" alt="" aria-hidden="true">`;
   const patreonIcon = `<svg viewBox="0 0 436 476" aria-hidden="true"><path fill="currentColor" d="M436 143c-.084-60.778-47.57-110.591-103.285-128.565C263.528-7.884 172.279-4.649 106.214 26.424 26.142 64.089.988 146.596.051 228.883c-.77 67.653 6.004 245.841 106.83 247.11 74.917.948 86.072-95.279 120.737-141.623 24.662-32.972 56.417-42.285 95.507-51.929C390.309 265.865 436.097 213.011 436 143Z"/></svg>`;
+  const externalLinkIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>`;
 
   const SPICE_PLATFORMS = [
     { key: "fansly", label: "Fansly", icon: fanslyIcon, baseUrl: "https://fansly.com/", refKey: "fanslyRef" },
@@ -222,6 +201,13 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
   }
 
   const rowCache = new WeakMap();
+  const rowCreatorMap = new WeakMap();
+
+  function getChannelInfo(creator) {
+    if (!creator.channel) return null;
+    const platform = CHANNEL_PLATFORMS[creator.type] || CHANNEL_PLATFORMS.twitch;
+    return { href: profileLink(platform.baseUrl, creator.channel), label: platform.label };
+  }
 
   function buildRow(creator) {
     const tr = document.createElement("tr");
@@ -230,9 +216,8 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     channelTd.dataset.label = "Channel";
     channelTd.className = "name-cell";
     const platform = CHANNEL_PLATFORMS[creator.type] || CHANNEL_PLATFORMS.twitch;
-    const platformKey = creator.type && CHANNEL_PLATFORMS[creator.type] ? creator.type : "twitch";
     channelTd.innerHTML = creator.channel
-      ? `<a class="name-link" href="${profileLink(platform.baseUrl, creator.channel)}" target="_blank" rel="noopener noreferrer" data-channel="${escapeHtml(creator.channel)}" data-platform-key="${platformKey}">` +
+      ? `<a class="name-link" href="${profileLink(platform.baseUrl, creator.channel)}" target="_blank" rel="noopener noreferrer">` +
         `<span class="avatar">` +
         `<span class="avatar-fallback" aria-hidden="true">${escapeHtml(getInitials(creator.channel))}</span>` +
         `<img class="avatar-img" src="avatars/${encodeURIComponent(creator.channelLower)}.webp" alt="" loading="lazy" decoding="async">` +
@@ -288,8 +273,77 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     if (!tr) {
       tr = buildRow(creator);
       rowCache.set(creator, tr);
+      rowCreatorMap.set(tr, creator);
     }
     return tr;
+  }
+
+  let openRowTr = null;
+  let openBioTr = null;
+
+  function getCreatorBio(creator) {
+    if (!creator._bioPromise) {
+      creator._bioPromise = fetch(`creators/${creator.data}`)
+        .then((res) => {
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          return res.json();
+        })
+        .then((json) => (json && typeof json.bio === "string" ? json.bio : ""))
+        .catch((err) => {
+          console.error("Failed to load creator bio:", err);
+          return "";
+        });
+    }
+    return creator._bioPromise;
+  }
+
+  function closeBioRow() {
+    if (openRowTr) openRowTr.classList.remove("is-bio-open");
+    if (openBioTr) openBioTr.remove();
+    openRowTr = null;
+    openBioTr = null;
+  }
+
+  async function openBioRow(tr, creator) {
+    closeBioRow();
+
+    const bioTr = document.createElement("tr");
+    bioTr.className = "bio-row";
+    const bioTd = document.createElement("td");
+    bioTd.colSpan = 4;
+    bioTd.className = "bio-cell";
+
+    const channelInfo = getChannelInfo(creator);
+    const channelLinkHtml = channelInfo
+      ? `<a class="bio-channel-link" href="${channelInfo.href}" target="_blank" rel="noopener noreferrer">${externalLinkIcon}Open ${escapeHtml(channelInfo.label)}</a>`
+      : "";
+    bioTd.innerHTML =
+      `<div class="bio-row-inner">` +
+      `<div class="bio-content">${creator.data ? "Loading…" : ""}</div>` +
+      channelLinkHtml +
+      `</div>`;
+    bioTr.appendChild(bioTd);
+
+    tr.classList.add("is-bio-open");
+    tr.after(bioTr);
+
+    openRowTr = tr;
+    openBioTr = bioTr;
+
+    if (!creator.data) return;
+
+    const bio = await getCreatorBio(creator);
+    if (openRowTr !== tr) return; // closed or replaced while loading
+
+    bioTd.querySelector(".bio-content").textContent = bio || "No bio available.";
+  }
+
+  function toggleBioRow(tr, creator) {
+    if (openRowTr === tr) {
+      closeBioRow();
+      return;
+    }
+    openBioRow(tr, creator);
   }
   
   function renderRows(data) {
@@ -330,6 +384,12 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     const filtered = getFiltered();
     renderRows(filtered);
     updateResultCount(filtered.length, creators.length);
+
+    closeBioRow();
+    if (filtered.length === 1 && filtered[0].data) {
+      const tr = rowCache.get(filtered[0]);
+      if (tr) openBioRow(tr, filtered[0]);
+    }
   }
 
   function debounce(fn, delay) {
@@ -350,41 +410,6 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     update();
   });
 
-  let lastFocusedElement = null;
-
-  function openChannelModal(link) {
-    const platformKey = link.dataset.platformKey || "twitch";
-    const platform = CHANNEL_PLATFORMS[platformKey] || CHANNEL_PLATFORMS.twitch;
-    const channelName = link.dataset.channel || "";
-    const avatar = link.querySelector(".avatar");
-
-    channelModalAvatarWrap.innerHTML = "";
-    if (avatar) channelModalAvatarWrap.appendChild(avatar.cloneNode(true));
-
-    channelModalName.textContent = channelName;
-    channelModalPlatform.textContent = platform.label;
-    channelModalConfirm.href = link.href;
-    channelModalConfirm.textContent = `Open ${platform.label}`;
-
-    lastFocusedElement = document.activeElement;
-    channelModalOverlay.hidden = false;
-    requestAnimationFrame(() => channelModalOverlay.classList.add("is-open"));
-    channelModalConfirm.focus();
-  }
-
-  function closeChannelModal() {
-    if (channelModalOverlay.hidden) return;
-    channelModalOverlay.classList.remove("is-open");
-    channelModalOverlay.addEventListener(
-      "transitionend",
-      () => {
-        channelModalOverlay.hidden = true;
-      },
-      { once: true }
-    );
-    if (lastFocusedElement) lastFocusedElement.focus();
-  }
-
   tbody.addEventListener(
     "load",
     (e) => {
@@ -401,21 +426,19 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
   );
 
   tbody.addEventListener("click", (e) => {
-    const link = e.target.closest(".name-link");
-    if (!link) return;
-    if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
-    e.preventDefault();
-    openChannelModal(link);
-  });
+    const link = e.target.closest("a");
+    if (link) {
+      if (!link.classList.contains("name-link")) return;
+      e.preventDefault();
+    }
 
-  channelModalConfirm.addEventListener("click", closeChannelModal);
-  channelModalCancel.addEventListener("click", closeChannelModal);
-  channelModalClose.addEventListener("click", closeChannelModal);
-  channelModalOverlay.addEventListener("click", (e) => {
-    if (e.target === channelModalOverlay) closeChannelModal();
-  });
-  document.addEventListener("keydown", (e) => {
-    if (e.key === "Escape" && !channelModalOverlay.hidden) closeChannelModal();
+    const tr = e.target.closest("tr");
+    if (!tr || tr.classList.contains("bio-row")) return;
+
+    const creator = rowCreatorMap.get(tr);
+    if (!creator) return;
+
+    toggleBioRow(tr, creator);
   });
 
   async function init() {
