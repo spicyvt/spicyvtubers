@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="stylesheet" href="style002.css">
+<link rel="stylesheet" href="style003.css">
 </head>
 <body>
 
@@ -64,11 +64,8 @@
           <th>
             <span>Channel</span>
           </th>
-          <th class="col-spice" title="Fansly, OnlyFans, Rplay, joystick.tv">
-            <span>Spicy Links</span>
-          </th>
-          <th class="col-x">
-            <span>Twitter / Bluesky</span>
+          <th class="col-spice" title="Fansly, OnlyFans, Rplay, joystick.tv, Twitter, Bluesky">
+            <span>Spicy Links &amp; Twitter/Bluesky</span>
           </th>
           <th class="col-socials col-sort">
             <span></span>
@@ -243,10 +240,6 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     const otherPills = getOtherLinks(creator)
       .map(({ label, url }) => pillLink("spice-pill other-pill", escapeHtml(url), url, "", label))
       .join("");
-    spiceTd.innerHTML = `<div class="spice-handles">${spicePills}${otherPills}</div>`;
-
-    const xTd = document.createElement("td");
-    xTd.dataset.label = "Twitter/Bluesky";
     const xPills = creator.xHandles
       .map((handle) => pillLink("x-pill", profileLink("https://x.com/", handle), `Twitter: ${handle}`, xIcon, handle.toLowerCase()))
       .join("");
@@ -255,7 +248,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     const bskyPill = bskyLink
       ? pillLink("x-pill", profileLink("https://bsky.app/profile/", bskyLink), `Bluesky: ${bskyLabel}`, bskyIcon, bskyLabel)
       : "";
-    xTd.innerHTML = `<div class="x-handles">${xPills}${bskyPill}</div>`;
+    spiceTd.innerHTML = `<div class="spice-handles">${spicePills}${otherPills}${xPills}${bskyPill}</div>`;
 
     const socialsTd = document.createElement("td");
     socialsTd.dataset.label = "Socials";
@@ -264,7 +257,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
       : "";
     socialsTd.innerHTML = `<div class="x-handles">${socialsPill}</div>`;
 
-    tr.append(channelTd, spiceTd, xTd, socialsTd);
+    tr.append(channelTd, spiceTd, socialsTd);
     return tr;
   }
 
@@ -310,7 +303,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     const bioTr = document.createElement("tr");
     bioTr.className = "bio-row";
     const bioTd = document.createElement("td");
-    bioTd.colSpan = 4;
+    bioTd.colSpan = 3;
     bioTd.className = "bio-cell";
 
     const channelInfo = getChannelInfo(creator);
