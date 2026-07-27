@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="stylesheet" href="style008.css">
+<link rel="stylesheet" href="style009.css">
 </head>
 <body>
 
@@ -41,6 +41,10 @@
       </a>
       <p class="tagline">Index of VTubers and their Spicy Accounts</p>
     </div>
+    <button type="button" class="header-index-btn" id="header-index-btn" hidden title="Back to full index">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h7v7H4V4zm9 0h7v7h-7V4zM4 13h7v7H4v-7zm9 0h7v7h-7v-7z"/></svg>
+      <span>Index</span>
+    </button>
   </div>
 </header>
 
@@ -53,13 +57,20 @@
       </svg>
       <input type="search" id="search-input" placeholder="Search by Channel, Spicy Links, or Socials…" aria-label="Search creators">
     </div>
-    <div class="platform-filter" id="platform-filter" role="group" aria-label="Filter by platform"></div>
-    <p class="result-count" id="result-count" aria-live="polite">Loading creators…</p>
+    <div class="toolbar-row">
+      <div class="platform-filter" id="platform-filter" role="group" aria-label="Filter by platform"></div>
+      <p class="result-count" id="result-count" aria-live="polite">Loading creators…</p>
+    </div>
   </section>
 
   <section class="table-section" id="table-section" hidden>
     <table class="creator-table" id="creator-table">
-      <thead>
+      <colgroup>
+        <col class="col-channel">
+        <col class="col-spice">
+        <col class="col-socials">
+      </colgroup>
+      <thead id="creator-thead">
         <tr>
           <th>
             <span>Channel</span>
@@ -103,11 +114,13 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
   const tableSection = document.getElementById("table-section");
   const siteFooter = document.getElementById("site-footer");
   const tbody = document.getElementById("creator-tbody");
+  const creatorThead = document.getElementById("creator-thead");
   const searchInput = document.getElementById("search-input");
   const resultCount = document.getElementById("result-count");
   const emptyState = document.getElementById("empty-state");
   const platformFilterEl = document.getElementById("platform-filter");
   const sortToggleBtn = document.getElementById("sort-toggle");
+  const headerIndexBtn = document.getElementById("header-index-btn");
 
   let creators = [];
   let azOrderCreators = [];
@@ -358,6 +371,30 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     update();
   }
 
+  function goToIndex() {
+    searchInput.value = "";
+    urlExactCreator = null;
+
+    if (platformFilter !== "all") {
+      platformFilter = "all";
+      platformFilterEl.querySelectorAll(".platform-filter-btn").forEach((b) => {
+        const isActive = b.dataset.platform === "all";
+        b.classList.toggle("is-active", isActive);
+        b.setAttribute("aria-pressed", String(isActive));
+      });
+    }
+
+    if (window.location.search) {
+      history.pushState(null, "", location.pathname);
+    }
+
+    update();
+  }
+
+  headerIndexBtn.addEventListener("click", () => {
+    goToIndex();
+  });
+
   function applyCreatorParam() {
     const params = new URLSearchParams(window.location.search);
     const creatorParam = params.get("c");
@@ -431,10 +468,10 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
   }
 
   function updateResultCount(count, total) {
-    resultCount.textContent =
+    resultCount.innerHTML =
       count === total
-        ? `${total} creator${total === 1 ? "" : "s"}`
-        : `${count} of ${total} creators`;
+        ? `${total}<span class="result-count-label"> creator${total === 1 ? "" : "s"}</span>`
+        : `${count} of ${total}<span class="result-count-label"> creators</span>`;
   }
 
   function getFiltered() {
@@ -453,6 +490,8 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     const filtered = getFiltered();
     renderRows(filtered);
     updateResultCount(filtered.length, creators.length);
+    headerIndexBtn.hidden = filtered.length !== 1;
+    creatorThead.hidden = filtered.length === 1;
 
     closeBioRow();
     if (filtered.length === 1) {
