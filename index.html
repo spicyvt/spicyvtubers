@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="stylesheet" href="style007.css">
+<link rel="stylesheet" href="style008.css">
 </head>
 <body>
 
@@ -133,6 +133,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
   const patreonIcon = `<svg viewBox="0 0 436 476" aria-hidden="true"><path fill="currentColor" d="M436 143c-.084-60.778-47.57-110.591-103.285-128.565C263.528-7.884 172.279-4.649 106.214 26.424 26.142 64.089.988 146.596.051 228.883c-.77 67.653 6.004 245.841 106.83 247.11 74.917.948 86.072-95.279 120.737-141.623 24.662-32.972 56.417-42.285 95.507-51.929C390.309 265.865 436.097 213.011 436 143Z"/></svg>`;
   const externalLinkIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>`;
   const copyIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 1H4a2 2 0 0 0-2 2v14h2V3h12V1zm3 4H8a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm0 16H8V7h11v14z"/></svg>`;
+  const soloIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm0 10c-4.42 0-8 2.24-8 5v1h16v-1c0-2.76-3.58-5-8-5z"/></svg>`;
 
   const SPICE_PLATFORMS = [
     { key: "fansly", label: "Fansly", icon: fanslyIcon, baseUrl: "https://fansly.com/", refKey: "fanslyRef" },
@@ -299,7 +300,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     openBioTr = null;
   }
 
-  async function openBioRow(tr, creator) {
+  async function openBioRow(tr, creator, showSoloBtn) {
     closeBioRow();
 
     const bioTr = document.createElement("tr");
@@ -310,16 +311,19 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
 
     const channelInfo = getChannelInfo(creator);
     const channelLinkHtml = channelInfo
-      ? `<a class="bio-channel-link" href="${channelInfo.href}" target="_blank" rel="noopener noreferrer">${externalLinkIcon}Open ${escapeHtml(channelInfo.label)}</a>`
+      ? `<a class="bio-channel-link" href="${channelInfo.href}" target="_blank" rel="noopener noreferrer">${externalLinkIcon}${escapeHtml(channelInfo.label)}</a>`
       : "";
     const basePath = location.pathname.replace(/[^/]*$/, "");
     const shareUrl = `${location.origin}${basePath}?c=${encodeURIComponent(creator.channelLower)}`;
-    const copyLinkHtml = `<button type="button" class="bio-copy-link-btn" data-share-url="${escapeHtml(shareUrl)}" title="Share link to ${escapeHtml(creator.channel)}">${copyIcon}<span class="bio-copy-label">Share link</span></button>`;
+    const copyLinkHtml = `<button type="button" class="bio-copy-link-btn" data-share-url="${escapeHtml(shareUrl)}" title="Share link to ${escapeHtml(creator.channel)}">${copyIcon}<span class="bio-copy-label">Share</span></button>`;
+    const soloBtnHtml = showSoloBtn
+      ? `<button type="button" class="bio-solo-btn" title="View just ${escapeHtml(creator.channel)}">${soloIcon}<span>View</span></button>`
+      : "";
 
     bioTd.innerHTML =
       `<div class="bio-row-inner">` +
       `<div class="bio-content">${creator.data ? "Loading…" : ""}</div>` +
-      `<div class="bio-actions">${copyLinkHtml}${channelLinkHtml}</div>` +
+      `<div class="bio-actions">${copyLinkHtml}${soloBtnHtml}${channelLinkHtml}</div>` +
       `</div>`;
     bioTr.appendChild(bioTd);
 
@@ -342,8 +346,37 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
       closeBioRow();
       return;
     }
-    openBioRow(tr, creator);
+    const showSoloBtn = getFiltered().length > 1;
+    openBioRow(tr, creator, showSoloBtn);
   }
+
+  function viewCreatorSolo(creator) {
+    searchInput.value = creator.channel;
+    urlExactCreator = creator;
+    const basePath = location.pathname.replace(/[^/]*$/, "");
+    history.pushState(null, "", `${basePath}?c=${encodeURIComponent(creator.channelLower)}`);
+    update();
+  }
+
+  function applyCreatorParam() {
+    const params = new URLSearchParams(window.location.search);
+    const creatorParam = params.get("c");
+    if (creatorParam) {
+      const match = jsonOrderCreators.find((c) => c.channelLower === creatorParam.trim().toLowerCase());
+      if (match) {
+        searchInput.value = match.channel;
+        urlExactCreator = match;
+        return;
+      }
+    }
+    searchInput.value = "";
+    urlExactCreator = null;
+  }
+
+  window.addEventListener("popstate", () => {
+    applyCreatorParam();
+    update();
+  });
 
   function copyShareLink(btn) {
     const url = btn.dataset.shareUrl;
@@ -356,7 +389,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
       clearTimeout(btn._copyResetTimer);
       btn._copyResetTimer = setTimeout(() => {
         btn.classList.remove("is-copied");
-        if (label) label.textContent = "Share link";
+        if (label) label.textContent = "Share";
       }, 1500);
     };
 
@@ -424,7 +457,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     closeBioRow();
     if (filtered.length === 1) {
       const tr = rowCache.get(filtered[0]);
-      if (tr) openBioRow(tr, filtered[0]);
+      if (tr) openBioRow(tr, filtered[0], false);
     }
   }
 
@@ -477,6 +510,13 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
       return;
     }
 
+    const soloBtn = e.target.closest(".bio-solo-btn");
+    if (soloBtn) {
+      const creator = openRowTr ? rowCreatorMap.get(openRowTr) : null;
+      if (creator) viewCreatorSolo(creator);
+      return;
+    }
+
     const link = e.target.closest("a");
     if (link) {
       if (!link.classList.contains("name-link")) return;
@@ -524,15 +564,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
           .toLowerCase();
       });
 
-      const params = new URLSearchParams(window.location.search);
-      const creatorParam = params.get("c");
-      if (creatorParam) {
-        const match = jsonOrderCreators.find((c) => c.channelLower === creatorParam.trim().toLowerCase());
-        if (match) {
-          searchInput.value = match.channel;
-          urlExactCreator = match;
-        }
-      }
+      applyCreatorParam();
     } catch (err) {
       console.error("Failed to load accounts.json:", err);
       resultCount.textContent = "Couldn't load creator data.";
