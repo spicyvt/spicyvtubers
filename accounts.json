@@ -5535,6 +5535,7 @@
     "joystick": "tarazuzu",
     "channel": "Tarazuzu",
     "xHandles": ["tarazuzu"],
+    "bskyHandle": ["tarazuzu", "tarazuzu.bsky.social"],
     "socials": "https://tarazuzu.carrd.co/",
     "id": "827167581",
     "data": "tarazuzu.json"
