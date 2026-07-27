@@ -314,12 +314,12 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
       : "";
     const basePath = location.pathname.replace(/[^/]*$/, "");
     const shareUrl = `${location.origin}${basePath}?c=${encodeURIComponent(creator.channelLower)}`;
-    const copyLinkHtml = `<button type="button" class="bio-copy-link-btn" data-share-url="${escapeHtml(shareUrl)}" title="Copy link to ${escapeHtml(creator.channel)}">${copyIcon}<span class="bio-copy-label">Copy link</span></button>`;
+    const copyLinkHtml = `<button type="button" class="bio-copy-link-btn" data-share-url="${escapeHtml(shareUrl)}" title="Share link to ${escapeHtml(creator.channel)}">${copyIcon}<span class="bio-copy-label">Share link</span></button>`;
 
     bioTd.innerHTML =
       `<div class="bio-row-inner">` +
       `<div class="bio-content">${creator.data ? "Loading…" : ""}</div>` +
-      `<div class="bio-actions">${channelLinkHtml}${copyLinkHtml}</div>` +
+      `<div class="bio-actions">${copyLinkHtml}${channelLinkHtml}</div>` +
       `</div>`;
     bioTr.appendChild(bioTd);
 
@@ -352,11 +352,11 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     const done = () => {
       const label = btn.querySelector(".bio-copy-label");
       btn.classList.add("is-copied");
-      if (label) label.textContent = "Copied!";
+      if (label) label.textContent = "Copied to clipboard";
       clearTimeout(btn._copyResetTimer);
       btn._copyResetTimer = setTimeout(() => {
         btn.classList.remove("is-copied");
-        if (label) label.textContent = "Copy link";
+        if (label) label.textContent = "Share link";
       }, 1500);
     };
 
