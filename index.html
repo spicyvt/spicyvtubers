@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Spicy VTubers</title>
-<meta name="description" content="Index of VTubers and their Spicy Accounts on Fansly, OnlyFans, Rplay, Joystick.tv and Patreon">
+<meta name="description" content="Index of VTubers and their Spicy Accounts on Fansly, Onlys, Rplay, Joystick.tv and Patreon">
 <link rel="canonical" href="https://spicyvtubers.com/">
 
 <!-- Open Graph -->
@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="stylesheet" href="style010.css">
+<link rel="stylesheet" href="style011.css">
 </head>
 <body>
 
@@ -97,12 +97,18 @@
 </main>
 
 <footer class="site-footer" id="site-footer" hidden>
-  <p style="line-height: 1.45;"><span style="font-weight: bold;">Index criteria</span><br>
-Must have a Twitch or YouTube channel and an X (Twitter) or Bluesky account<br>
-Must have streamed as a VTuber on at least one platform (SFW or NSFW)<br>
-Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, Joystick or Patreon
+  <button type="button" class="criteria-toggle-btn" id="criteria-toggle-btn" aria-expanded="false" aria-controls="criteria-content">
+    <span>Index criteria</span>
+    <svg class="criteria-toggle-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5z"/></svg>
+  </button>
+  <p class="criteria-content" id="criteria-content" style="line-height: 1.45;" hidden>
+Twitch or YouTube channel and an X (Twitter) or Bluesky account<br>
+Streamed as a VTuber on at least one platform (SFW or NSFW)<br>
+Created or plan to create spicy audio, livestreams or IRL content on<br>
+Fansly, OnlyFans, Rplay, Joystick or Patreon
 </p>
-  <p>Fan-made index · Not affiliated with any platform · Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
+  <p class="site-stats" id="site-stats"></p>
+  <p>Fan-made index · Not affiliated with any platform<br> Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
 </footer>
 
 <script>
@@ -121,6 +127,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
   const platformFilterEl = document.getElementById("platform-filter");
   const sortToggleBtn = document.getElementById("sort-toggle");
   const headerIndexBtn = document.getElementById("header-index-btn");
+  const siteStats = document.getElementById("site-stats");
 
   let creators = [];
   let azOrderCreators = [];
@@ -287,6 +294,30 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     return tr;
   }
 
+  function computeStats(list) {
+    let spicyLinks = 0;
+    let twitterBsky = 0;
+    let socials = 0;
+
+    list.forEach((creator) => {
+      spicyLinks += SPICE_PLATFORMS.filter((platform) => creator[platform.key]).length;
+      spicyLinks += getOtherLinks(creator).length;
+      twitterBsky += creator.xHandles.length;
+      if (Array.isArray(creator.bskyHandle) && creator.bskyHandle[1]) twitterBsky += 1;
+      if (creator.socials) socials += 1;
+    });
+
+    return { spicyLinks, twitterBsky, socials };
+  }
+
+  function renderStats(stats) {
+    const format = (n) => n.toLocaleString();
+    siteStats.innerHTML =
+      `<strong>${format(stats.spicyLinks)}</strong> Spicy Links · ` +
+      `<strong>${format(stats.twitterBsky)}</strong> Twitter/Bsky · ` +
+      `<strong>${format(stats.socials)}</strong> Socials`;
+  }
+
   let openRowTr = null;
   let openBioTr = null;
 
@@ -395,6 +426,16 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
     goToIndex();
   });
 
+  const criteriaToggleBtn = document.getElementById("criteria-toggle-btn");
+  const criteriaContent = document.getElementById("criteria-content");
+
+  criteriaToggleBtn.addEventListener("click", () => {
+    const isHidden = criteriaContent.hidden;
+    criteriaContent.hidden = !isHidden;
+    criteriaToggleBtn.classList.toggle("expanded", isHidden);
+    criteriaToggleBtn.setAttribute("aria-expanded", String(isHidden));
+  });
+
   function applyCreatorParam() {
     const params = new URLSearchParams(window.location.search);
     const creatorParam = params.get("c");
@@ -470,8 +511,8 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
   function updateResultCount(count, total) {
     resultCount.innerHTML =
       count === total
-        ? `${total}<span class="result-count-label"> creator${total === 1 ? "" : "s"}</span>`
-        : `${count} of ${total}<span class="result-count-label"> creators</span>`;
+        ? `${total}<span class="result-count-label">creator${total === 1 ? "" : "s"}</span>`
+        : `${count} of ${total}<span class="result-count-label">creators</span>`;
   }
 
   function getFiltered() {
@@ -604,6 +645,7 @@ Must create spicy audio, livestreams or IRL content on Fansly, OnlyFans, Rplay, 
       });
 
       applyCreatorParam();
+      renderStats(computeStats(jsonOrderCreators));
     } catch (err) {
       console.error("Failed to load accounts.json:", err);
       resultCount.textContent = "Couldn't load creator data.";
