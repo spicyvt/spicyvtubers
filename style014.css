@@ -1,0 +1,1068 @@
+:root {
+  --bg: #0f0a12;
+  --bg-alt: #171019;
+  --surface: #1c1420;
+  --surface-hover: #241a2b;
+  --border: #34222f;
+  --text: #f3e9f0;
+  --text-muted: #b9a6b8;
+  --accent: #ff3d6e;
+  --accent-2: #ff8a3d;
+  --accent-soft: rgba(255, 61, 110, 0.15);
+  --focus: #ffb84d;
+  --radius: 14px;
+  --shadow: 0 10px 30px -12px rgba(0, 0, 0, 0.6);
+  --gradient: linear-gradient(135deg, var(--accent), var(--accent-2));
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: dark;
+  /* Mobile browsers draw this as a hard-edged rectangle regardless of the
+     tapped element's border-radius, which looks broken on all the
+     pill/card-shaped buttons and rows throughout the page. Disable it
+     globally; :active/:hover/:focus-visible states already provide
+     tap/press feedback where needed. */
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---------------------------------- Header ---------------------------------- */
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  background: rgba(15, 10, 18, 0.75);
+  backdrop-filter: blur(10px);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.header-titles {
+  min-width: 0;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+/* Reserve space so the absolutely positioned index button never overlaps
+   the brand row while it's visible (solo mode). Scoped to .brand rather
+   than the whole .header-titles block so the tagline underneath — which
+   the button doesn't extend down to — can keep its full width and never
+   needs to wrap or truncate. */
+.header-inner:has(#header-index-btn:not([hidden])) .brand {
+  padding-right: 7rem;
+}
+
+.brand-mark {
+  width: 2rem;
+  height: 2rem;
+}
+
+.brand-accent {
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.tagline {
+  margin: 0.25rem 0 0;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+/* Only shown while viewing a single creator (solo mode, via search or the
+   ?c= URL param), pinned to the top-right of the header. Absolutely
+   positioned so it stays out of the flex flow — otherwise it would
+   squeeze .header-titles and force the tagline to wrap on narrow
+   screens. */
+.header-index-btn {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.5rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.5rem 1.1rem;
+  border-radius: 999px;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.header-index-btn svg {
+  width: 15px;
+  height: 15px;
+  fill: currentColor;
+}
+
+.header-index-btn:hover,
+.header-index-btn:focus-visible {
+  border-color: var(--text-muted);
+  color: var(--text);
+}
+
+/* The display: inline-flex above (same specificity as the browser's
+   built-in [hidden] rule, but an author style, so it otherwise always
+   wins) would keep the button visible even while hidden. Restate the
+   [hidden] rule here, later in the cascade, so it takes precedence. */
+.header-index-btn[hidden] {
+  display: none;
+}
+
+/* ---------------------------------- Layout ---------------------------------- */
+
+.page {
+  flex: 1;
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 3rem;
+}
+
+/* Always a search box on its own row, with the platform filter and
+   result count sharing a fixed row directly beneath it (see
+   .toolbar-row) — regardless of viewport width. */
+.toolbar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.toolbar-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.search-wrap {
+  position: relative;
+  min-width: 240px;
+  max-width: 420px;
+}
+
+.search-icon {
+  position: absolute;
+  left: 0.85rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 18px;
+  height: 18px;
+  fill: var(--text-muted);
+  pointer-events: none;
+}
+
+#search-input {
+  width: 100%;
+  padding: 0.7rem 0.9rem 0.7rem 2.5rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 0.95rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+#search-input::placeholder {
+  color: var(--text-muted);
+}
+
+#search-input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+
+.result-count {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.result-count svg {
+  width: 15px;
+  height: 15px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+.platform-filter {
+  display: flex;
+  flex: 0 1 auto;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.platform-filter-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg-alt);
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.platform-filter-btn:hover {
+  border-color: var(--accent-2);
+  color: var(--text);
+}
+
+.platform-filter-btn img {
+  height: 12px;
+  width: auto;
+  display: block;
+}
+
+.platform-filter-btn svg {
+  height: 12px;
+  width: auto;
+  display: block;
+  fill: currentColor;
+}
+
+/* Platform-specific filters, once selected, pick up the same accent used
+   for their pill in the table. "All" now uses the same active state as
+   the rest, rather than a separate neutral grey. */
+.platform-filter-btn.is-active {
+  background: rgba(38, 152, 245, 0.18);
+  border-color: transparent;
+  color: #7cc4fb;
+}
+
+/* ---------------------------------- Table ---------------------------------- */
+
+.table-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.creator-table {
+  width: 100%;
+  /* Fixed layout so the Spice (now merged with Twitter/Bluesky) and Socials
+     columns hold steady widths (set via <col> below) instead of the
+     browser re-measuring and shifting every column's width whenever
+     search/sort/filter changes which pills happen to be in view. The
+     Channel column gets whatever width is left over since it has no
+     explicit width set. Widths live on the <colgroup>'s <col> elements
+     (rather than the thead cells) so they still apply even when the
+     thead is hidden, e.g. in solo mode. */
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+.creator-table col.col-spice {
+  width: 630px;
+}
+
+.creator-table col.col-socials {
+  width: 84px;
+}
+
+.creator-table thead th {
+  text-align: left;
+  padding: 0.9rem 1.1rem;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  background: var(--bg-alt);
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+.creator-table thead th span {
+  vertical-align: middle;
+}
+
+.creator-table thead th.col-sort {
+  position: relative;
+}
+
+.sort-toggle-btn {
+  position: absolute;
+  top: 50%;
+  right: 1.1rem;
+  transform: translateY(-50%);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg-alt);
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: normal;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.sort-toggle-btn:hover {
+  border-color: var(--accent-2);
+  color: var(--text);
+}
+
+.sort-toggle-btn.is-active {
+  background: rgba(38, 152, 245, 0.18);
+  border-color: transparent;
+  color: #7cc4fb;
+}
+
+.sort-toggle-icon {
+  width: 14px;
+  height: 14px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+.creator-table tbody tr {
+  border-bottom: 1px solid var(--border);
+  transition: background 0.15s ease;
+}
+
+.creator-table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.creator-table tbody tr:hover {
+  background: var(--surface-hover);
+}
+
+.creator-table tbody tr:not(.bio-row) {
+  cursor: pointer;
+}
+
+.creator-table tbody tr.is-bio-open {
+  background: var(--surface-hover);
+}
+
+.creator-table tbody td {
+  /* Uniform on all sides so the vertical gap above/below row content
+     (notably the avatar, see .name-cell/.avatar) matches the horizontal
+     gap to the left/right edge instead of being a slightly different
+     value. */
+  padding: 1.1rem;
+  vertical-align: middle;
+}
+
+/* Bio row: a full-width panel injected directly below a clicked row/card,
+   showing that creator's bio and a direct link to their Twitch/YouTube
+   channel. Only one can ever be open at a time. */
+.creator-table tbody tr.bio-row {
+  cursor: default;
+  background: var(--bg-alt);
+}
+
+.creator-table tbody tr.bio-row:hover {
+  background: var(--bg-alt);
+}
+
+.creator-table tbody td.bio-cell {
+  padding: 0.9rem 1.1rem 1.1rem;
+  vertical-align: top;
+  /* Ensures the single cell fills the full row width once the mobile
+     media query turns tbody tr into a flex container (see below). */
+  flex: 1 1 100%;
+}
+
+.bio-row-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.bio-content {
+  flex: 1 1 auto;
+  min-width: 0;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  line-height: 1.55;
+  white-space: pre-wrap;
+}
+
+.bio-channel-link {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.5rem 1.1rem;
+  border-radius: 999px;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-weight: 500;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.bio-channel-link svg {
+  width: 15px;
+  height: 15px;
+  fill: currentColor;
+}
+
+.bio-channel-link:hover,
+.bio-channel-link:focus-visible {
+  border-color: var(--text-muted);
+  color: var(--text);
+}
+
+.bio-channel-link:hover,
+.bio-channel-link:focus-visible {
+  transform: translateY(-1px);
+}
+
+/* Wraps the "Open Twitch/YouTube" link, the copy-link button, and the
+   solo-view button together as one fixed-size group, always on its own
+   line below the bio text (bio-row-inner is a column now) and pinned to
+   the right edge. */
+.bio-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  align-self: flex-end;
+}
+
+.bio-copy-link-btn {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.5rem 1.1rem;
+  border-radius: 999px;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.bio-copy-link-btn svg {
+  width: 15px;
+  height: 15px;
+  fill: currentColor;
+}
+
+.bio-copy-link-btn:hover,
+.bio-copy-link-btn:focus-visible {
+  border-color: var(--text-muted);
+  color: var(--text);
+}
+
+.bio-copy-link-btn.is-copied {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.bio-solo-btn {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.5rem 1.1rem;
+  border-radius: 999px;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.bio-solo-btn svg {
+  width: 15px;
+  height: 15px;
+  fill: currentColor;
+}
+
+.bio-solo-btn:hover,
+.bio-solo-btn:focus-visible {
+  border-color: var(--text-muted);
+  color: var(--text);
+}
+
+/* The Spice (which also holds the Twitter/Bluesky pills) and Socials cells
+   can wrap onto multiple lines when a creator has several handles.
+   Top-align them (like the flex-based Channel cell, which is also pinned
+   to the top of the row, see .name-cell) instead of the default middle
+   alignment, so multi-line rows don't look vertically offset. */
+.creator-table tbody td[data-label="Spice"],
+.creator-table tbody td[data-label="Socials"] {
+  vertical-align: top;
+}
+
+.name-cell {
+  display: flex;
+  /* Pinned to the top of the cell (rather than centered) so the avatar's
+     top gap always matches the cell's left padding exactly. The cell
+     itself stretches to the full row height when Spice/Socials wrap onto
+     extra lines, so any extra space only ever grows the gap *below* the
+     avatar, never the gap above it. */
+  align-items: flex-start;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.name-link {
+  display: inline-flex;
+  /* Centered so the channel name sits at the avatar's vertical center
+     (the avatar is always the taller of the two, so this only affects
+     the text). The Spice/Socials pills are nudged down to match this
+     same center point instead — see .spice-handles/.x-handles. */
+  align-items: center;
+  gap: 0.75rem;
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* The name link is just a visual extension of the row click, so only show
+   a hover state on devices that actually have a mouse (hover: hover). On
+   touch devices this avoids the tapped link's :hover/:active styling
+   getting "stuck" highlighted (red) after tapping until the user taps
+   elsewhere - the pointer cursor change on desktop is enough of a cue. */
+@media (hover: hover) and (pointer: fine) {
+  .name-link:hover {
+    color: var(--accent);
+    text-decoration: underline;
+  }
+
+  .name-link:hover .avatar {
+    border-color: var(--accent);
+    transform: scale(1.08);
+  }
+}
+
+.name-link:focus-visible {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.avatar {
+  position: relative;
+  flex: 0 0 auto;
+  /* Matches the source avatar images' native 70x70 size so they render at
+     full resolution instead of being downscaled. */
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.name-link:focus-visible .avatar {
+  border-color: var(--accent);
+  transform: scale(1.08);
+}
+
+.avatar-fallback {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.avatar-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.avatar-img.is-loaded {
+  opacity: 1;
+}
+
+.spice-handles {
+  display: flex;
+  /* Pills flow side-by-side and wrap onto additional lines as needed
+     (spicy links first, then Twitter/Bluesky), matching how the same
+     pills roll over on the mobile/card layout instead of always stacking
+     one per line. */
+  flex-flow: row wrap;
+  align-items: flex-start;
+  /* Row-gap (space between wrapped lines) is larger than column-gap
+     (space between pills on the same line) — the pills sit too close
+     together vertically otherwise when they roll over onto multiple
+     lines. */
+  column-gap: 0.4rem;
+  row-gap: 0.65rem;
+  /* This cell is vertical-align: top, so without this the first pill line
+     would sit flush with the cell's top padding — level with the avatar's
+     *top* edge rather than its (fixed, always-centered) vertical center,
+     where the channel name sits. Nudging down by half the avatar/pill
+     height difference ((70px avatar - ~38px pill) / 2) lines the first
+     line up with that center instead. Any further wrapped lines simply
+     continue below it, growing the row/card downward. */
+  margin-top: 1rem;
+}
+
+.spice-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  background: rgba(38, 152, 245, 0.14);
+  border: 1px solid transparent;
+  color: #7cc4fb;
+  font-size: 1rem;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.spice-pill:hover {
+  border-color: #7cc4fb;
+  transform: translateY(-1px);
+}
+
+.spice-pill svg {
+  width: 14px;
+  height: 14px;
+  fill: currentColor;
+}
+
+/* Fansly, OnlyFans, and RPlay icons are external brand-mark svg files (each
+   with their own fixed colors and aspect ratio), loaded via <img>. Sizing
+   by height keeps them visually consistent with the inline placeholder
+   icons above, letting width scale naturally per icon instead of being
+   squashed into a fixed square box. */
+.spice-pill img {
+  height: 14px;
+  width: auto;
+  display: block;
+}
+
+/* The RPlay mark is a raster/image asset with its own fixed colors and an
+   even wider aspect ratio, so it's sized by height (matching the other
+   icons' height) rather than width, letting it run wider instead of being
+   squashed down to a 12px-wide box. */
+.spice-pill img {
+  height: 14px;
+  width: auto;
+  display: block;
+}
+
+/* "Other" links (Reddit, PornHub, etc.) reuse the spice-pill layout but get
+   a distinct violet tint so they read as a separate, secondary category
+   from the core spicy platform pills. */
+.other-pill {
+  background: rgba(168, 133, 245, 0.14);
+  color: #b9a2fb;
+}
+
+.other-pill:hover {
+  border-color: #b9a2fb;
+}
+
+.x-handles {
+  display: flex;
+  /* One pill per line — see .spice-handles above. */
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.4rem;
+  /* See .spice-handles above — same first-line centering offset. */
+  margin-top: 1rem;
+}
+
+.x-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.45rem 0.85rem;
+  border-radius: 999px;
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-size: 1rem;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.x-pill:hover {
+  border-color: var(--accent-2);
+  transform: translateY(-1px);
+}
+
+.x-pill svg {
+  width: 14px;
+  height: 14px;
+  fill: currentColor;
+}
+
+/* The socials pill (linking to a creator's carrd/linktree/etc.) reuses the
+   X pill's layout but stays a touch more understated — muted text and a
+   faint tinted fill set it apart as a secondary link without disappearing
+   next to the X pills. */
+.socials-pill {
+  background: rgba(185, 166, 184, 0.08);
+  border-color: var(--border);
+  color: var(--text-muted);
+}
+
+.socials-pill:hover {
+  border-color: var(--text-muted);
+  color: var(--text);
+  transform: translateY(-1px);
+}
+
+.empty-state {
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+/* ---------------------------------- Footer ---------------------------------- */
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 1.5rem;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.criteria-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+  gap: 0.4rem;
+  margin: 0 auto 0.75rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg-alt);
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.criteria-toggle-btn:hover {
+  border-color: var(--accent-2);
+  color: #7cc4fb;
+}
+
+.criteria-toggle-icon {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  fill: currentColor;
+  transition: transform 0.15s ease;
+}
+
+.criteria-toggle-btn.expanded .criteria-toggle-icon {
+  transform: rotate(180deg);
+}
+
+.criteria-content {
+  max-width: 480px;
+  margin: 0 auto 0.75rem;
+}
+
+.site-stats {
+  color: var(--text-muted);
+  margin: 0 0 0.75rem;
+}
+
+.site-stats strong {
+  color: #d9cdd8;
+  font-weight: 700;
+}
+
+/* ---------------------------------- Responsive ---------------------------------- */
+
+/* Single breakpoint for the whole mobile/card layout, matching the page's
+   own max-width (1100px, see .page) — above this width the page never
+   grows past 1100px anyway, so this is the only point where the table
+   actually needs room to breathe vs. switching to stacked cards. */
+@media (max-width: 1100px) {
+  /* On mobile each row becomes its own card (below), so the shared
+     container chrome would otherwise show through as a straight-edged box
+     with a line running down the left/right of every card and only the
+     very first/last card's corners rounded. Strip it back to a plain
+     wrapper and let each card supply its own background/border/radius. */
+  .table-section {
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    overflow: visible;
+  }
+
+  .creator-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .creator-table,
+  .creator-table tbody,
+  .creator-table tr {
+    display: block;
+    width: 100%;
+  }
+
+  .creator-table tbody tr {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    row-gap: 0.65rem;
+    column-gap: 0.6rem;
+    /* Uniform on all sides to match the desktop row's padding (see
+       .creator-table tbody td) — keeps the card's top gap equal to its
+       left gap around the avatar. */
+    padding: 1.1rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    margin-bottom: 0.75rem;
+  }
+
+  .creator-table tbody tr:last-child {
+    margin-bottom: 0;
+  }
+
+  /* Merge the open row and its bio-row into a single visual card instead of
+     two separate stacked cards: butt them directly together (no gap/margin
+     between) and square off the touching corners, leaving the bio-row's
+     top border as the only divider between the two sections. */
+  .creator-table tbody tr.is-bio-open {
+    margin-bottom: 0;
+    border-bottom: none;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  .creator-table tbody tr.bio-row {
+    margin-top: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+  /* The card (tr) itself already supplies uniform padding on mobile —
+     don't stack the desktop bio-cell padding on top of that, which was
+     doubling up the bottom spacing. */
+  .creator-table tbody td.bio-cell {
+    padding: 0;
+  }
+
+  .creator-table tbody td {
+    display: block;
+    width: auto;
+    padding: 0;
+    text-align: left;
+  }
+
+  /* flex-grow fills the rest of line 1 (leaving no room for the
+     Spice/X pills, which get a higher order below, to squeeze onto the
+     same line), while the Socials cell sits at the end of that same line
+     via its own order + margin-left: auto. */
+  .creator-table tbody td[data-label="Channel"] {
+    order: 1;
+    flex: 1 1 auto;
+    min-width: 0;
+    font-size: 1.2rem;
+  }
+
+  /* Turning the channel cell into a flex container (instead of leaving the
+     name link as inline content) sizes the cell to the link itself, rather
+     than to the surrounding text line's font metrics, keeping it aligned
+     with the Fansly/X pills. */
+  .creator-table tbody td.name-cell {
+    display: flex;
+    align-items: center;
+  }
+
+  .creator-table tbody td:empty {
+    display: none;
+  }
+
+  /* Dissolve the merged Spice cell (which holds both the spicy-platform and
+     Twitter/Bluesky pills) and its inner pill-wrapping div so every pill
+     becomes one flat, single group of flex items directly inside the row,
+     sitting underneath the creator info as one wrapping span. .x-handles
+     is also dissolved here since the Socials cell reuses that class for
+     its single-pill wrapper. */
+  .creator-table tbody td[data-label="Spice"],
+  .spice-handles,
+  .x-handles {
+    display: contents;
+  }
+
+  /* Dissolving the Spice/X cells above turns every pill into a direct flex
+     item of the row, so give them an order after the Channel/Socials line
+     to keep them wrapping onto their own line(s) underneath it. */
+  .creator-table tbody .spice-pill,
+  .creator-table tbody .x-pill {
+    order: 4;
+  }
+
+  /* Sits on the same line as the Channel cell, pinned to the right edge. */
+  .creator-table tbody td[data-label="Socials"] {
+    order: 2;
+    flex: 0 0 auto;
+    margin-left: auto;
+  }
+
+  /* Flexbox only wraps items onto a new line once they no longer fit —
+     with a short channel name there's still room left on line 1, so the
+     first Spice/X pills would otherwise squeeze in next to it instead of
+     wrapping below. This zero-height, full-width item forces that break
+     regardless of how much space the Channel/Socials line leaves over. */
+  .creator-table tbody tr::after {
+    content: "";
+    order: 3;
+    flex-basis: 100%;
+    width: 0;
+  }
+}
+
+
+/* The platform filter now shares its row with the result count (see
+   .toolbar-row), so it has less room than before and needs to drop down
+   to icon-only pills a bit sooner — at a larger breakpoint than the
+   ~510px this used to need when it had the full row to itself. */
+@media (max-width: 760px) {
+  .platform-filter-btn:not([data-platform="all"]) span {
+    display: none;
+  }
+
+  .platform-filter-btn:not([data-platform="all"]) {
+    padding-inline: 0.5rem;
+  }
+
+  /* Same breakpoint as the icon-only filter pills above: with less room
+     to work with, just show the count of creators currently displayed
+     instead of "X of Y". */
+  .result-count-total {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-inner {
+    padding: 1rem;
+  }
+
+  .header-index-btn {
+    top: 1rem;
+    right: 1rem;
+    padding: 0.4rem 0.7rem;
+  }
+
+  .header-inner:has(#header-index-btn:not([hidden])) .brand {
+    padding-right: 3rem;
+  }
+
+  .header-index-btn span {
+    display: none;
+  }
+
+  .page {
+    padding: 1rem 1rem 2rem;
+  }
+
+  .search-wrap {
+    max-width: none;
+    min-width: 0;
+  }
+
+  .result-count {
+    text-align: right;
+  }
+
+}
