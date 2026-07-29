@@ -383,11 +383,26 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     openBioRow(tr, creator, showSoloBtn);
   }
 
+  function getSoloUrl(creator) {
+    const basePath = location.pathname.replace(/[^/]*$/, "");
+    return `${basePath}?c=${encodeURIComponent(creator.channelLower)}`;
+  }
+
+  function syncUrlToFiltered(filtered) {
+    if (filtered.length === 1) {
+      const target = getSoloUrl(filtered[0]);
+      if (location.pathname + location.search !== target) {
+        history.replaceState(null, "", target);
+      }
+    } else if (window.location.search) {
+      history.replaceState(null, "", location.pathname);
+    }
+  }
+
   function viewCreatorSolo(creator) {
     searchInput.value = creator.channel;
     urlExactCreator = creator;
-    const basePath = location.pathname.replace(/[^/]*$/, "");
-    history.pushState(null, "", `${basePath}?c=${encodeURIComponent(creator.channelLower)}`);
+    history.pushState(null, "", getSoloUrl(creator));
     update();
   }
 
@@ -488,6 +503,8 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     headerIndexBtn.hidden = filtered.length !== 1 && !hasQuery;
     creatorThead.hidden = filtered.length === 1;
 
+    syncUrlToFiltered(filtered);
+
     closeBioRow();
     if (filtered.length === 1) {
       const tr = rowCache.get(filtered[0]);
@@ -503,7 +520,7 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     };
   }
 
-  const debouncedUpdate = debounce(update, 250);
+  const debouncedUpdate = debounce(update, 200);
   searchInput.addEventListener("input", () => {
     if (urlExactCreator) {
       urlExactCreator = null;
