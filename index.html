@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="stylesheet" href="style017.css">
+<link rel="stylesheet" href="style018.css">
 </head>
 <body>
 
@@ -68,18 +68,14 @@
       <colgroup>
         <col class="col-channel">
         <col class="col-spice">
-        <col class="col-socials">
       </colgroup>
       <thead id="creator-thead">
         <tr>
           <th>
             <span>Channel</span>
           </th>
-          <th class="col-spice" title="Fansly, OnlyFans, Rplay, joystick.tv, Twitter, Bluesky">
+          <th class="col-spice col-sort" title="Fansly, OnlyFans, Rplay, joystick.tv, Twitter, Bluesky">
             <span>Links</span>
-          </th>
-          <th class="col-socials col-sort">
-            <span></span>
             <button type="button" class="sort-toggle-btn" id="sort-toggle" aria-pressed="false" title="Toggle between A-Z order and the newest creators added">
               <svg class="sort-toggle-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M6 12h12M10 18h4"/></svg>
               <span>Newest</span>
@@ -152,7 +148,6 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   const joystickIcon = `<img src="joystick.svg" alt="" aria-hidden="true">`;
   const patreonIcon = `<svg viewBox="0 0 436 476" aria-hidden="true"><path fill="currentColor" d="M436 143c-.084-60.778-47.57-110.591-103.285-128.565C263.528-7.884 172.279-4.649 106.214 26.424 26.142 64.089.988 146.596.051 228.883c-.77 67.653 6.004 245.841 106.83 247.11 74.917.948 86.072-95.279 120.737-141.623 24.662-32.972 56.417-42.285 95.507-51.929C390.309 265.865 436.097 213.011 436 143Z"/></svg>`;
   const externalLinkIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>`;
-  const copyIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 1H4a2 2 0 0 0-2 2v14h2V3h12V1zm3 4H8a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm0 16H8V7h11v14z"/></svg>`;
   const soloIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm0 10c-4.42 0-8 2.24-8 5v1h16v-1c0-2.76-3.58-5-8-5z"/></svg>`;
   const resultCountIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0 2c-3.31 0-8 1.66-8 4.5V21h16v-2.5c0-2.84-4.69-4.5-8-4.5zm8.34-9.94a4 4 0 0 1 0 7.88 5.5 5.5 0 0 1 0-7.88zM18.5 14c2.9.53 4.5 1.9 4.5 3.5V21h-3v-2.5c0-1.63-.6-2.9-1.5-4.5z"/></svg>`;
 
@@ -274,14 +269,7 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
       : "";
     spiceTd.innerHTML = `<div class="spice-handles">${spicePills}${otherPills}${xPills}${bskyPill}</div>`;
 
-    const socialsTd = document.createElement("td");
-    socialsTd.dataset.label = "Socials";
-    const socialsPill = creator.socials
-      ? pillLink("x-pill socials-pill", escapeHtml(creator.socials), "Socials", socialsIcon, "")
-      : "";
-    socialsTd.innerHTML = `<div class="x-handles">${socialsPill}</div>`;
-
-    tr.append(channelTd, spiceTd, socialsTd);
+    tr.append(channelTd, spiceTd);
     return tr;
   }
 
@@ -351,18 +339,16 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     const bioTr = document.createElement("tr");
     bioTr.className = "bio-row";
     const bioTd = document.createElement("td");
-    bioTd.colSpan = 3;
+    bioTd.colSpan = 2;
     bioTd.className = "bio-cell";
 
     const channelInfo = getChannelInfo(creator);
     const channelLinkHtml = channelInfo
       ? `<a class="bio-channel-link" href="${channelInfo.href}" target="_blank" rel="noopener noreferrer">${externalLinkIcon}${escapeHtml(channelInfo.label)}</a>`
       : "";
-    const basePath = location.pathname.replace(/[^/]*$/, "");
-    const shareUrl = `${location.origin}${basePath}?c=${encodeURIComponent(creator.channelLower)}`;
-    const copyLinkHtml = showSoloBtn
-      ? ""
-      : `<button type="button" class="bio-copy-link-btn" data-share-url="${escapeHtml(shareUrl)}" title="Share link to ${escapeHtml(creator.channel)}">${copyIcon}<span class="bio-copy-label">Copy Link</span></button>`;
+    const socialsLinkHtml = !showSoloBtn && creator.socials
+      ? `<a class="bio-socials-link" href="${escapeHtml(creator.socials)}" target="_blank" rel="noopener noreferrer" title="Socials link for ${escapeHtml(creator.channel)}">${socialsIcon}<span>Socials</span></a>`
+      : "";
     const soloBtnHtml = showSoloBtn
       ? `<button type="button" class="bio-solo-btn" title="View just ${escapeHtml(creator.channel)}">${soloIcon}<span>View</span></button>`
       : "";
@@ -370,7 +356,7 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     bioTd.innerHTML =
       `<div class="bio-row-inner">` +
       `<div class="bio-content">${creator.data ? "Loading…" : ""}</div>` +
-      `<div class="bio-actions">${copyLinkHtml}${soloBtnHtml}${channelLinkHtml}</div>` +
+      `<div class="bio-actions">${socialsLinkHtml}${soloBtnHtml}${channelLinkHtml}</div>` +
       `</div>`;
     bioTr.appendChild(bioTd);
 
@@ -458,40 +444,6 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     applyCreatorParam();
     update();
   });
-
-  function copyShareLink(btn) {
-    const url = btn.dataset.shareUrl;
-    if (!url) return;
-
-    const done = () => {
-      const label = btn.querySelector(".bio-copy-label");
-      btn.classList.add("is-copied");
-      if (label) label.textContent = "Copied to clipboard";
-      clearTimeout(btn._copyResetTimer);
-      btn._copyResetTimer = setTimeout(() => {
-        btn.classList.remove("is-copied");
-        if (label) label.textContent = "Share";
-      }, 1500);
-    };
-
-    const fallbackCopy = () => {
-      const ta = document.createElement("textarea");
-      ta.value = url;
-      ta.style.position = "fixed";
-      ta.style.opacity = "0";
-      document.body.appendChild(ta);
-      ta.select();
-      document.execCommand("copy");
-      document.body.removeChild(ta);
-      done();
-    };
-
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(url).then(done).catch(fallbackCopy);
-    } else {
-      fallbackCopy();
-    }
-  }
 
   function renderRows(data) {
     if (data.length === 0) {
@@ -586,12 +538,6 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   );
 
   tbody.addEventListener("click", (e) => {
-    const copyBtn = e.target.closest(".bio-copy-link-btn");
-    if (copyBtn) {
-      copyShareLink(copyBtn);
-      return;
-    }
-
     const soloBtn = e.target.closest(".bio-solo-btn");
     if (soloBtn) {
       const creator = openRowTr ? rowCreatorMap.get(openRowTr) : null;
