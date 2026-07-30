@@ -393,6 +393,7 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
       history.pushState(null, "", target);
     }
     update();
+    window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
   function syncUrlToFiltered(filtered) {
