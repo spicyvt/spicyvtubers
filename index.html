@@ -388,7 +388,10 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   function viewCreatorSolo(creator) {
     searchInput.value = creator.channel;
     urlExactCreator = creator;
-    history.pushState(null, "", getSoloUrl(creator));
+    const target = getSoloUrl(creator);
+    if (location.pathname + location.search !== target) {
+      history.pushState(null, "", target);
+    }
     update();
   }
 
