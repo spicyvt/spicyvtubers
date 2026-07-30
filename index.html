@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="stylesheet" href="style019.css">
+<link rel="stylesheet" href="style020.css">
 </head>
 <body>
 
@@ -146,7 +146,6 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   const joystickIcon = `<img src="joystick.svg" alt="" aria-hidden="true">`;
   const patreonIcon = `<svg viewBox="0 0 436 476" aria-hidden="true"><path fill="currentColor" d="M436 143c-.084-60.778-47.57-110.591-103.285-128.565C263.528-7.884 172.279-4.649 106.214 26.424 26.142 64.089.988 146.596.051 228.883c-.77 67.653 6.004 245.841 106.83 247.11 74.917.948 86.072-95.279 120.737-141.623 24.662-32.972 56.417-42.285 95.507-51.929C390.309 265.865 436.097 213.011 436 143Z"/></svg>`;
   const externalLinkIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>`;
-  const soloIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm0 10c-4.42 0-8 2.24-8 5v1h16v-1c0-2.76-3.58-5-8-5z"/></svg>`;
   const resultCountIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0 2c-3.31 0-8 1.66-8 4.5V21h16v-2.5c0-2.84-4.69-4.5-8-4.5zm8.34-9.94a4 4 0 0 1 0 7.88 5.5 5.5 0 0 1 0-7.88zM18.5 14c2.9.53 4.5 1.9 4.5 3.5V21h-3v-2.5c0-1.63-.6-2.9-1.5-4.5z"/></svg>`;
 
   const SPICE_PLATFORMS = [
@@ -306,7 +305,9 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   }
 
   let openRowTr = null;
-  let openBioTr = null;
+  let bioRowEl = null;
+  let bioContentEl = null;
+  let bioActionsEl = null;
 
   function getCreatorBio(creator) {
     if (!creator._bioPromise) {
@@ -324,66 +325,71 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     return creator._bioPromise;
   }
 
-  function closeBioRow() {
-    if (openRowTr) openRowTr.classList.remove("is-bio-open");
-    if (openBioTr) openBioTr.remove();
-    openRowTr = null;
-    openBioTr = null;
-  }
+  function getBioRowEl() {
+    if (bioRowEl) return bioRowEl;
 
-  async function openBioRow(tr, creator, showSoloBtn) {
-    closeBioRow();
-
-    const bioTr = document.createElement("tr");
-    bioTr.className = "bio-row";
+    bioRowEl = document.createElement("tr");
+    bioRowEl.className = "bio-row";
     const bioTd = document.createElement("td");
     bioTd.colSpan = 2;
     bioTd.className = "bio-cell";
+    bioTd.innerHTML =
+      `<div class="bio-row-inner">` +
+      `<div class="bio-content"></div>` +
+      `<div class="bio-actions"></div>` +
+      `</div>`;
+    bioRowEl.appendChild(bioTd);
+    bioContentEl = bioTd.querySelector(".bio-content");
+    bioActionsEl = bioTd.querySelector(".bio-actions");
+
+    return bioRowEl;
+  }
+
+  function closeBioRow() {
+    if (openRowTr) openRowTr.classList.remove("is-bio-open");
+    if (bioRowEl && bioRowEl.parentNode) bioRowEl.remove();
+    openRowTr = null;
+  }
+
+  async function openBioRow(tr, creator) {
+    closeBioRow();
+
+    const bioRow = getBioRowEl();
 
     const channelInfo = getChannelInfo(creator);
     const channelLinkHtml = channelInfo
       ? `<a class="bio-channel-link" href="${channelInfo.href}" target="_blank" rel="noopener noreferrer">${externalLinkIcon}${escapeHtml(channelInfo.label)}</a>`
       : "";
-    const socialsLinkHtml = !showSoloBtn && creator.socials
+    const socialsLinkHtml = creator.socials
       ? `<a class="bio-socials-link" href="${escapeHtml(creator.socials)}" target="_blank" rel="noopener noreferrer" title="Socials link for ${escapeHtml(creator.channel)}">${socialsIcon}<span>Socials</span></a>`
       : "";
-    const soloBtnHtml = showSoloBtn
-      ? `<button type="button" class="bio-solo-btn" title="View just ${escapeHtml(creator.channel)}">${soloIcon}<span>View</span></button>`
-      : "";
 
-    bioTd.innerHTML =
-      `<div class="bio-row-inner">` +
-      `<div class="bio-content">${creator.data ? "Loading…" : ""}</div>` +
-      `<div class="bio-actions">${socialsLinkHtml}${soloBtnHtml}${channelLinkHtml}</div>` +
-      `</div>`;
-    bioTr.appendChild(bioTd);
+    bioContentEl.textContent = creator.data ? "Loading…" : "";
+    bioActionsEl.innerHTML = `${socialsLinkHtml}${channelLinkHtml}`;
 
     tr.classList.add("is-bio-open");
-    tr.after(bioTr);
+    tr.after(bioRow);
 
     openRowTr = tr;
-    openBioTr = bioTr;
 
     if (!creator.data) return;
 
     const bio = await getCreatorBio(creator);
     if (openRowTr !== tr) return; // closed or replaced while loading
 
-    bioTd.querySelector(".bio-content").textContent = bio || "";
-  }
-
-  function toggleBioRow(tr, creator) {
-    if (openRowTr === tr) {
-      closeBioRow();
-      return;
-    }
-    const showSoloBtn = getFiltered().length > 1;
-    openBioRow(tr, creator, showSoloBtn);
+    bioContentEl.textContent = bio || "";
   }
 
   function getSoloUrl(creator) {
     const basePath = location.pathname.replace(/[^/]*$/, "");
     return `${basePath}?c=${encodeURIComponent(creator.channelLower)}`;
+  }
+
+  function viewCreatorSolo(creator) {
+    searchInput.value = creator.channel;
+    urlExactCreator = creator;
+    history.pushState(null, "", getSoloUrl(creator));
+    update();
   }
 
   function syncUrlToFiltered(filtered) {
@@ -395,13 +401,6 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     } else if (window.location.search) {
       history.replaceState(null, "", location.pathname);
     }
-  }
-
-  function viewCreatorSolo(creator) {
-    searchInput.value = creator.channel;
-    urlExactCreator = creator;
-    history.pushState(null, "", getSoloUrl(creator));
-    update();
   }
 
   function goToIndex() {
@@ -506,7 +505,7 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     closeBioRow();
     if (filtered.length === 1) {
       const tr = rowCache.get(filtered[0]);
-      if (tr) openBioRow(tr, filtered[0], false);
+      if (tr) openBioRow(tr, filtered[0]);
     }
   }
 
@@ -553,13 +552,6 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   );
 
   tbody.addEventListener("click", (e) => {
-    const soloBtn = e.target.closest(".bio-solo-btn");
-    if (soloBtn) {
-      const creator = openRowTr ? rowCreatorMap.get(openRowTr) : null;
-      if (creator) viewCreatorSolo(creator);
-      return;
-    }
-
     const link = e.target.closest("a");
     if (link) {
       if (!link.classList.contains("name-link")) return;
@@ -572,7 +564,7 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     const creator = rowCreatorMap.get(tr);
     if (!creator) return;
 
-    toggleBioRow(tr, creator);
+    viewCreatorSolo(creator);
   });
 
   async function init() {
