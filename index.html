@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="stylesheet" href="style022.css">
+<link rel="stylesheet" href="style023.css">
 </head>
 <body>
 
@@ -588,6 +588,7 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     updateResultCount(filtered.length, creators.length);
     const hasQuery = searchInput.value.trim().length > 0;
     headerIndexBtn.hidden = filtered.length !== 1 && !hasQuery;
+    sortToggleBtn.hidden = filtered.length === 1;
     creatorThead.hidden = filtered.length === 1;
 
     syncUrlToFiltered(filtered);
