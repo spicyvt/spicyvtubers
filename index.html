@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="stylesheet" href="style020.css">
+<link rel="stylesheet" href="style021.css">
 </head>
 <body>
 
@@ -41,6 +41,25 @@
       </a>
       <p class="tagline">Index of VTubers and their Spicy Accounts</p>
     </div>
+
+    <div class="get-extension-wrap" id="get-extension-wrap">
+      <button type="button" class="get-extension-btn" id="get-extension-btn" aria-haspopup="true" aria-expanded="false">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 11H19V7c0-1.1-.9-2-2-2h-4V3.5C13 2.12 11.88 1 10.5 1S8 2.12 8 3.5V5H4c-1.1 0-1.99.9-1.99 2v3.8H3.5c1.49 0 2.7 1.21 2.7 2.7s-1.21 2.7-2.7 2.7H2V20c0 1.1.9 2 2 2h3.8v-1.5c0-1.49 1.21-2.7 2.7-2.7s2.7 1.21 2.7 2.7V22H17c1.1 0 2-.9 2-2v-4h1.5c1.38 0 2.5-1.12 2.5-2.5S21.88 11 20.5 11z"/></svg>
+        <span>Extension</span>
+        <svg class="get-extension-chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5z"/></svg>
+      </button>
+      <div class="get-extension-menu" id="get-extension-menu" hidden>
+        <a class="get-extension-option" id="get-extension-chrome" data-browser="chrome" href="#" aria-disabled="true">
+          <span>Chrome</span>
+          <span class="get-extension-version">1.0.0</span>
+        </a>        
+        <a class="get-extension-option" id="get-extension-firefox" data-browser="firefox" href="#" aria-disabled="true">
+          <span>Firefox</span>
+          <span class="get-extension-version">soon</span>
+        </a>        
+      </div>
+    </div>
+
     <button type="button" class="header-index-btn" id="header-index-btn" hidden title="Back to full index">
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h7v7H4V4zm9 0h7v7h-7V4zM4 13h7v7H4v-7zm9 0h7v7h-7v-7z"/></svg>
       <span>Index</span>
@@ -112,6 +131,11 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   "use strict";
 
   const DATA_URL = "accounts.json";
+
+  const EXTENSION_URLS = {
+    chrome: "https://chromewebstore.google.com/detail/spicy-vtubers/oohhdkpmeaeejcaojpccilpfebdbeeib", 
+    firefox: "",
+  };
 
   const tableSection = document.getElementById("table-section");
   const siteFooter = document.getElementById("site-footer");
@@ -430,6 +454,66 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   headerIndexBtn.addEventListener("click", () => {
     goToIndex();
   });
+
+
+  (() => {
+    const wrap = document.getElementById("get-extension-wrap");
+    const toggleBtn = document.getElementById("get-extension-btn");
+    const menu = document.getElementById("get-extension-menu");
+    if (!wrap || !toggleBtn || !menu) return;
+
+    Object.entries(EXTENSION_URLS).forEach(([browser, url]) => {
+      const option = document.getElementById(`get-extension-${browser}`);
+      if (!option) return;
+      if (url) {
+        option.href = url;
+        option.removeAttribute("aria-disabled");
+      } else {
+        option.href = "#";
+        option.setAttribute("aria-disabled", "true");
+      }
+    });
+
+    function closeMenu() {
+      menu.hidden = true;
+      toggleBtn.setAttribute("aria-expanded", "false");
+    }
+
+    function openMenu() {
+      menu.hidden = false;
+      toggleBtn.setAttribute("aria-expanded", "true");
+    }
+
+    toggleBtn.addEventListener("click", (event) => {
+      event.stopPropagation();
+      if (menu.hidden) {
+        openMenu();
+      } else {
+        closeMenu();
+      }
+    });
+
+    menu.addEventListener("click", (event) => {
+      const option = event.target.closest(".get-extension-option");
+      if (option && option.getAttribute("aria-disabled") === "true") {
+        event.preventDefault();
+      }
+    });
+
+    document.addEventListener("click", (event) => {
+      if (!menu.hidden && !wrap.contains(event.target)) {
+        closeMenu();
+      }
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && !menu.hidden) {
+        closeMenu();
+        toggleBtn.focus();
+      }
+    });
+  })();
+
 
   const criteriaToggleBtn = document.getElementById("criteria-toggle-btn");
   const criteriaContent = document.getElementById("criteria-content");
