@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="stylesheet" href="style023.css">
+<link rel="stylesheet" href="style024.css">
 </head>
 <body>
 
@@ -81,6 +81,11 @@
         <path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/>
       </svg>
       <input type="search" id="search-input" placeholder="Search by Channel, Spicy Links, or Socials…" aria-label="Search creators" spellcheck="false">
+      <button type="button" id="search-clear-btn" class="search-clear-btn" aria-label="Clear search" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M18.3 5.71 12 12.01 5.7 5.71 4.29 7.12l6.3 6.3-6.3 6.29 1.41 1.41 6.3-6.29 6.3 6.29 1.41-1.41-6.29-6.29 6.29-6.3z"/>
+        </svg>
+      </button>
     </div>
     <div class="toolbar-row">
       <div class="platform-filter" id="platform-filter" role="group" aria-label="Filter by platform"></div>
@@ -125,7 +130,7 @@ Created or plan to create spicy audio, livestreams or IRL content on<br>
 Fansly, OnlyFans, Rplay, Joystick or Patreon
 </p>
   <p class="site-stats" id="site-stats"></p>
-  <p>Fan-made index · Not affiliated with any platform<br> Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
+  <p>Not affiliated with any platform<br> Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
 </footer>
 
 <script>
@@ -144,6 +149,7 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   const tbody = document.getElementById("creator-tbody");
   const creatorThead = document.getElementById("creator-thead");
   const searchInput = document.getElementById("search-input");
+  const searchClearBtn = document.getElementById("search-clear-btn");
   const resultCount = document.getElementById("result-count");
   const emptyState = document.getElementById("empty-state");
   const platformFilterEl = document.getElementById("platform-filter");
@@ -255,14 +261,13 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     const channelTd = document.createElement("td");
     channelTd.dataset.label = "Channel";
     channelTd.className = "name-cell";
-    const platform = CHANNEL_PLATFORMS[creator.type] || CHANNEL_PLATFORMS.twitch;
     channelTd.innerHTML = creator.channel
-      ? `<a class="name-link" href="${profileLink(platform.baseUrl, creator.channel)}" target="_blank" rel="noopener noreferrer">` +
+      ? `<button type="button" class="name-link">` +
         `<span class="avatar" data-initials="${escapeHtml(getInitials(creator.channel))}">` +
         `<img class="avatar-img" src="avatars/${encodeURIComponent(creator.channelLower)}.webp" alt="" loading="lazy" decoding="async">` +
         `</span>` +
-        escapeHtml(creator.channel) +
-        `</a>`
+        `<span class="channel-name">${escapeHtml(creator.channel)}</span>` +
+        `</button>`
       : "";
 
     const spiceTd = document.createElement("td");
@@ -326,7 +331,7 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     const format = (n) => n.toLocaleString();
     siteStats.innerHTML =
       `<strong>${format(stats.spicyLinks)}</strong> Spicy Links · ` +
-      `<strong>${format(stats.twitterBsky)}</strong> Twitter/Bsky · ` +
+      `<strong>${format(stats.twitterBsky)}</strong> X/Bsky · ` +
       `<strong>${format(stats.socials)}</strong> Socials`;
   }
 
@@ -582,7 +587,12 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     });
   }
 
+  function updateSearchClearBtn() {
+    searchClearBtn.hidden = searchInput.value.trim() === "";
+  }
+
   function update() {
+    updateSearchClearBtn();
     const filtered = getFiltered();
     renderRows(filtered);
     updateResultCount(filtered.length, creators.length);
@@ -610,6 +620,7 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
 
   const debouncedUpdate = debounce(update, 200);
   searchInput.addEventListener("input", () => {
+    updateSearchClearBtn();
     if (urlExactCreator) {
       urlExactCreator = null;
       if (window.location.search) {
@@ -617,6 +628,18 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
       }
     }
     debouncedUpdate();
+  });
+
+  searchClearBtn.addEventListener("click", () => {
+    searchInput.value = "";
+    if (urlExactCreator) {
+      urlExactCreator = null;
+      if (window.location.search) {
+        history.replaceState(null, "", window.location.pathname);
+      }
+    }
+    update();
+    searchInput.focus();
   });
 
   sortToggleBtn.addEventListener("click", () => {
@@ -643,11 +666,9 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   );
 
   tbody.addEventListener("click", (e) => {
-    const link = e.target.closest("a");
-    if (link) {
-      if (!link.classList.contains("name-link")) return;
-      e.preventDefault();
-    }
+    // External pill/social links (spice, X, Bluesky, etc.) keep their own
+    // default navigation instead of triggering the solo view.
+    if (e.target.closest("a")) return;
 
     const tr = e.target.closest("tr");
     if (!tr || tr.classList.contains("bio-row")) return;
