@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="stylesheet" href="style024.css">
+<link rel="stylesheet" href="style025.css">
 </head>
 <body>
 
@@ -37,7 +37,7 @@
     <div class="header-titles">
       <a class="brand" href="#">
         <img class="brand-mark" src="spicyvtubers.png" alt="Spicy VTubers logo" width="40" height="40">
-        <span class="brand-name">Spicy<span class="brand-accent">VTubers</span></span>
+        <span class="brand-name">Spicy <span class="brand-accent">VTubers</span></span>
       </a>
       <p class="tagline">Index of VTubers and their Spicy Accounts</p>
     </div>
@@ -115,7 +115,10 @@
     </table>
     <p class="empty-state" id="empty-state" hidden>No creators match your search.</p>
   </section>
-
+  <!-- Load more -->
+  <div class="load-more-wrap" id="load-more-wrap" hidden>
+    <button type="button" class="load-more-btn" id="load-more-btn">Load More</button>
+  </div>
 </main>
 
 <footer class="site-footer" id="site-footer" hidden>
@@ -521,6 +524,9 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     });
   })();
 
+  var filteredRows = false;
+  const INITIAL_ROWS = 50;
+  const LOAD_BATCH_SIZE = 200;
 
   const criteriaToggleBtn = document.getElementById("criteria-toggle-btn");
   const criteriaContent = document.getElementById("criteria-content");
@@ -552,7 +558,8 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     update();
   });
 
-  function renderRows(data) {
+  //Cap to 50 rows initially to avoid long load times on mobile devices
+  function renderInitialRows(data) {
     if (data.length === 0) {
       tbody.innerHTML = "";
       emptyState.hidden = false;
@@ -560,13 +567,19 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     }
     emptyState.hidden = true;
 
-    const nextRows = data.map((creator) => getOrBuildRow(creator));
+    const nextRows = data.slice(0, INITIAL_ROWS).map((creator) => getOrBuildRow(creator));
     const nextRowSet = new Set(nextRows);
 
     Array.from(tbody.children).forEach((tr) => {
       if (!nextRowSet.has(tr)) tr.remove();
     });
 
+    nextRows.forEach((tr) => tbody.appendChild(tr));    
+  }
+
+  function renderMoreRows(data) {
+    const currentCount = tbody.children.length;
+    const nextRows = data.slice(currentCount, currentCount + LOAD_BATCH_SIZE).map((creator) => getOrBuildRow(creator));
     nextRows.forEach((tr) => tbody.appendChild(tr));
   }
 
@@ -592,23 +605,27 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   }
 
   function update() {
-    updateSearchClearBtn();
-    const filtered = getFiltered();
-    renderRows(filtered);
-    updateResultCount(filtered.length, creators.length);
-    const hasQuery = searchInput.value.trim().length > 0;
-    headerIndexBtn.hidden = filtered.length !== 1 && !hasQuery;
-    sortToggleBtn.hidden = filtered.length === 1;
-    creatorThead.hidden = filtered.length === 1;
 
-    syncUrlToFiltered(filtered);
+    window.scrollTo({ top: 0, behavior: "smooth" }); // scroll to top when updating the list
+    updateSearchClearBtn();
+    filteredRows = getFiltered();
+    renderInitialRows(filteredRows);    
+    updateResultCount(filteredRows.length, creators.length);
+    loadMoreWrap.hidden = filteredRows.length <= INITIAL_ROWS;
+    const hasQuery = searchInput.value.trim().length > 0;
+    headerIndexBtn.hidden = filteredRows.length !== 1 && !hasQuery;
+    sortToggleBtn.hidden = filteredRows.length === 1;
+    creatorThead.hidden = filteredRows.length === 1;
+
+    syncUrlToFiltered(filteredRows);
 
     closeBioRow();
-    if (filtered.length === 1) {
-      const tr = rowCache.get(filtered[0]);
-      if (tr) openBioRow(tr, filtered[0]);
+    if (filteredRows.length === 1) {
+      const tr = rowCache.get(filteredRows[0]);
+      if (tr) openBioRow(tr, filteredRows[0]);
     }
   }
+
 
   function debounce(fn, delay) {
     let timer;
@@ -677,6 +694,15 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
     if (!creator) return;
 
     viewCreatorSolo(creator);
+  });
+  // Load more button
+  const loadMoreWrap = document.getElementById("load-more-wrap");
+  const loadMoreBtn = document.getElementById("load-more-btn");
+  loadMoreBtn.addEventListener("click", () => {
+    renderMoreRows(filteredRows);
+    if (tbody.children.length >= filteredRows.length) {
+      loadMoreWrap.hidden = true;
+    }
   });
 
   async function init() {
