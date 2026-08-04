@@ -1,4 +1,27 @@
 {
     "bio": "A canine guardian Vtuber from a lost civilization. Lover of all things Destiny. Thank you for stopping by my channel!",
-    "id": "575863176"
+    "twitch": {
+        "id": "575863176",
+        "login": "baltofrostlight",
+        "displayName": "BaltoFrostLight",
+        "createdAt": "2020-08-31T05:45:35.517026Z",
+        "updatedAt": "2026-08-02T22:05:04.445281Z",
+        "description": "A canine guardian Vtuber from a lost civilization. Lover of all things Destiny. Thank you for stopping by my channel!",
+        "primaryColorHex": "2070D1",
+        "followers": {
+            "totalCount": 250
+        },
+        "follows": {
+            "totalCount": 50
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T01:36:12.849494Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/777db822-dd17-424c-ba5a-5b8afb1431e8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc9759ff-ea2c-47b6-9f42-021166c336c6-profile_banner-480.png"
+    }
 }

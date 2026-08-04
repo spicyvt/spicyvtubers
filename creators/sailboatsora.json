@@ -1,4 +1,27 @@
 {
     "bio": "I'm on a Boat! ⛵🪢 Klabautermann of a rat crew sailing through the Baltic Sea. I love dogs, certain pirate show and games that make my brain tingle.",
-    "id": "716961986"
+    "twitch": {
+        "id": "716961986",
+        "login": "sailboatsora",
+        "displayName": "SailboatSora",
+        "createdAt": "2021-08-13T04:43:34.884892Z",
+        "updatedAt": "2026-08-03T17:35:39.45405Z",
+        "description": "I'm on a Boat! ⛵🪢 Klabautermann of a rat crew sailing through the Baltic Sea. I love dogs, certain pirate show and games that make my brain tingle.",
+        "primaryColorHex": "7087FF",
+        "followers": {
+            "totalCount": 690
+        },
+        "follows": {
+            "totalCount": 154
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:23:22.715715Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2276e5fa-e88c-4168-b4f7-c5c651324dce-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa3bbe36-ca62-4b7b-b823-bb1485ca2eca-profile_banner-480.png"
+    }
 }

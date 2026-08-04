@@ -1,4 +1,27 @@
 {
     "bio": "A Canadian Neko Newhalf VTuber, Gamer & Big fan of Megaman, Monster Hunter, Pokemon, etc.",
-    "id": "22240785"
+    "twitch": {
+        "id": "22240785",
+        "login": "zeromaster",
+        "displayName": "zeromaster",
+        "createdAt": "2011-05-06T17:32:48.138661Z",
+        "updatedAt": "2026-08-03T18:28:18.893519Z",
+        "description": "A Canadian Neko Newhalf VTuber, Gamer & Big fan of Megaman, Monster Hunter, Pokemon, etc.",
+        "primaryColorHex": "8205B3",
+        "followers": {
+            "totalCount": 1692
+        },
+        "follows": {
+            "totalCount": 1999
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:56:39.596302Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56d9f1e2-cc30-40a7-aef8-b53897dc8679-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c042795f-e967-400a-ab71-b336099ce694-profile_banner-480.png"
+    }
 }

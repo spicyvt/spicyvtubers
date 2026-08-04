@@ -1,4 +1,27 @@
 {
     "bio": "Welcome to the grove.  I'm Mu, an ASMR and variety streaming Druid VTuber 🍵",
-    "id": "883921027"
+    "twitch": {
+        "id": "883921027",
+        "login": "mu_chanterelle",
+        "displayName": "Mu_Chanterelle",
+        "createdAt": "2023-02-21T02:04:01.209898Z",
+        "updatedAt": "2026-08-01T05:19:00.769768Z",
+        "description": "Welcome to the grove.  I'm Mu, an ASMR and variety streaming Druid VTuber 🍵",
+        "primaryColorHex": "BAAAD1",
+        "followers": {
+            "totalCount": 7163
+        },
+        "follows": {
+            "totalCount": 142
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T05:17:59.436413Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cfa467c8-47b5-4c7d-9eae-1bba4ae6129d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/28bd64c5-4b4f-4d21-9366-db85adf6eeb3-profile_banner-480.png"
+    }
 }

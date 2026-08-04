@@ -1,4 +1,27 @@
 {
-    "bio": "Hello ~ I'm a small Canadian streamer who primarily plays RPG's and horror games. Come hangout with a growing, welcoming community 🩷 My streams are 18+ and often full of terrible innuendos. ",
-    "id": "1391017594"
+    "bio": "Hello ~ I'm a small Canadian streamer who primarily plays RPG's and horror games. Come hangout with a growing, welcoming community 🩷 My streams are 18+ and often full of terrible innuendos.",
+    "twitch": {
+        "id": "1391017594",
+        "login": "mynxiedoodle",
+        "displayName": "MynxieDoodle",
+        "createdAt": "2025-11-10T18:21:54.299904Z",
+        "updatedAt": "2026-07-03T21:17:37.851046Z",
+        "description": "Hello ~ I'm a small Canadian streamer who primarily plays RPG's and horror games. Come hangout with a growing, welcoming community 🩷 My streams are 18+ and often full of terrible innuendos. ",
+        "primaryColorHex": "BB54A8",
+        "followers": {
+            "totalCount": 263
+        },
+        "follows": {
+            "totalCount": 6
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-12-13T21:28:19.634577Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c16389a7-409f-4a10-ae1b-dff1b28b1efa-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/793146d9-8c0c-4b81-8c77-222b0d55223c-profile_banner-480.png"
+    }
 }

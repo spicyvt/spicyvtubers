@@ -1,4 +1,27 @@
 {
     "bio": "Stupid orange cat",
-    "id": "133874906"
+    "twitch": {
+        "id": "133874906",
+        "login": "tabbypac",
+        "displayName": "TabbyPac",
+        "createdAt": "2016-09-03T21:43:28.684306Z",
+        "updatedAt": "2026-08-01T00:08:03.788123Z",
+        "description": "Stupid orange cat",
+        "primaryColorHex": "FF8C00",
+        "followers": {
+            "totalCount": 40174
+        },
+        "follows": {
+            "totalCount": 211
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T00:17:47.13366Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31aa80b8-45f8-4db8-804a-0bf3a8ba1eb2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/710a53fa-9265-45bf-8bbd-130cc59e75c6-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "voice actress rizz god bunny queen with ungodly amounts of adhd please b patient. ",
-    "id": "548281862"
+    "bio": "voice actress rizz god bunny queen with ungodly amounts of adhd please b patient.",
+    "twitch": {
+        "id": "548281862",
+        "login": "cottontailva",
+        "displayName": "CottontailVA",
+        "createdAt": "2020-06-26T22:33:41.561312Z",
+        "updatedAt": "2026-08-03T19:09:28.047441Z",
+        "description": "voice actress rizz god bunny queen with ungodly amounts of adhd please b patient. ",
+        "primaryColorHex": "9B115F",
+        "followers": {
+            "totalCount": 459613
+        },
+        "follows": {
+            "totalCount": 369
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T22:43:59.673991Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5fae3e5-d40a-4bc4-a31e-91073411aea8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ac9a618-27c2-45cb-9299-abd23bf951c9-profile_banner-480.png"
+    }
 }

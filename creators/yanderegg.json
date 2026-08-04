@@ -1,4 +1,27 @@
 {
     "bio": "Son of Cthulhu",
-    "id": "955390092"
+    "twitch": {
+        "id": "955390092",
+        "login": "yanderegg",
+        "displayName": "YanderEgg",
+        "createdAt": "2023-09-11T17:48:04.169482Z",
+        "updatedAt": "2026-07-21T21:09:15.548172Z",
+        "description": "Son of Cthulhu",
+        "primaryColorHex": "330146",
+        "followers": {
+            "totalCount": 10763
+        },
+        "follows": {
+            "totalCount": 365
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-22T00:17:52.115555Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/938ff093-537a-4a66-bd3e-ae88904bff95-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4cbdba0-92e3-404e-9d41-25d6e988aa0c-profile_banner-480.jpeg"
+    }
 }

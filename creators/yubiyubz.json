@@ -1,4 +1,27 @@
 {
-    "bio": "Just an Unstable Trickster Fox . I would love to have fun and do some variety streams for all of you! ",
-    "id": "1284937585"
+    "bio": "Just an Unstable Trickster Fox . I would love to have fun and do some variety streams for all of you!",
+    "twitch": {
+        "id": "1284937585",
+        "login": "yubiyubz",
+        "displayName": "YubiYubz",
+        "createdAt": "2025-03-21T04:53:12.33445Z",
+        "updatedAt": "2026-07-29T01:04:00.154124Z",
+        "description": "Just an Unstable Trickster Fox . I would love to have fun and do some variety streams for all of you! ",
+        "primaryColorHex": "DC6879",
+        "followers": {
+            "totalCount": 3439
+        },
+        "follows": {
+            "totalCount": 42
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T03:02:07.062491Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc9cf66-ff7b-4131-a4ae-86b6330146a5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ee02bb6-46f3-49fc-a564-4174a78b5607-profile_banner-480.png"
+    }
 }

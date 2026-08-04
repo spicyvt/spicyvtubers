@@ -1,4 +1,27 @@
 {
-    "bio": "Vrchat (+18) ~ I love Zelda ",
-    "id": "959414380"
+    "bio": "Vrchat (+18) ~ I love Zelda",
+    "twitch": {
+        "id": "959414380",
+        "login": "scarletvr_",
+        "displayName": "ScarletVR_",
+        "createdAt": "2023-09-22T05:14:28.679283Z",
+        "updatedAt": "2026-08-03T21:12:20.482887Z",
+        "description": "Vrchat (+18) ~ I love Zelda ",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 465
+        },
+        "follows": {
+            "totalCount": 120
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:58:17.036385Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae071afa-4dcb-4daa-aa2e-4cf126b96105-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4951f47-d4d9-439d-b5b0-f09eadb7bfe9-profile_banner-480.jpeg"
+    }
 }

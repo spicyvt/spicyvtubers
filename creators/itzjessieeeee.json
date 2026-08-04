@@ -1,4 +1,27 @@
 {
     "bio": "Hi everyone, my name's Jessie! I'm a smol virtual demon who loves games! I hope I can keep you all entertained &lt;3",
-    "id": "267395510"
+    "twitch": {
+        "id": "267395510",
+        "login": "itzjessieeeee",
+        "displayName": "itzjessieeeee",
+        "createdAt": "2018-10-16T22:11:54.38636Z",
+        "updatedAt": "2026-07-20T20:12:03.859293Z",
+        "description": "Hi everyone, my name's Jessie! I'm a smol virtual demon who loves games! I hope I can keep you all entertained &lt;3",
+        "primaryColorHex": "AC16C4",
+        "followers": {
+            "totalCount": 1967
+        },
+        "follows": {
+            "totalCount": 250
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T22:46:21.677293Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52ece4e1-18dd-4240-b5fc-1c6e5d257835-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e37b9f34-c6f9-43c2-96eb-784716d4def1-profile_banner-480.jpeg"
+    }
 }

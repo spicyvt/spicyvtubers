@@ -1,4 +1,27 @@
 {
     "bio": "Welcome to my channel. My name is Griffon and I'm a raccoon vtuber. I stream a variety of games and love interacting with chat. If you enjoy my content and would like to help the channel grow, please drop a follow or consider subscribing. Thanks for stopping by and have a wonderful day!",
-    "id": "211403867"
+    "twitch": {
+        "id": "211403867",
+        "login": "griffon551",
+        "displayName": "Griffon551",
+        "createdAt": "2018-04-04T01:05:28.30278Z",
+        "updatedAt": "2026-06-16T01:11:30.51901Z",
+        "description": "Welcome to my channel. My name is Griffon and I'm a raccoon vtuber. I stream a variety of games and love interacting with chat. If you enjoy my content and would like to help the channel grow, please drop a follow or consider subscribing. Thanks for stopping by and have a wonderful day!",
+        "primaryColorHex": "DDC9A8",
+        "followers": {
+            "totalCount": 439
+        },
+        "follows": {
+            "totalCount": 253
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-16T03:02:08.981379Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/654dc522-6622-48db-bcfc-0fd347a86f57-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02977416-39c9-40f3-a8da-e7d827216c32-profile_banner-480.png"
+    }
 }

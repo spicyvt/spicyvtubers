@@ -1,4 +1,27 @@
 {
     "bio": "I am the green haired elf a.k.a Mother Nature. Feel free to call me Tree. I draw and play games. https://linktr.ee/treeisafish Business email: treeisafish@gmail.com",
-    "id": "227767347"
+    "twitch": {
+        "id": "227767347",
+        "login": "treeisafish",
+        "displayName": "TreeIsAFish",
+        "createdAt": "2018-06-01T06:50:06.309348Z",
+        "updatedAt": "2026-08-01T06:31:46.017059Z",
+        "description": "I am the green haired elf a.k.a Mother Nature. Feel free to call me Tree. I draw and play games. https://linktr.ee/treeisafish Business email: treeisafish@gmail.com",
+        "primaryColorHex": "9CF1CE",
+        "followers": {
+            "totalCount": 3740
+        },
+        "follows": {
+            "totalCount": 86
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T10:55:17.238458Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92a3cc8b-3077-44e4-bc33-6719f7ec38ae-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/411e5e9c-333d-4c9f-86b0-ebfcb97bfc76-profile_banner-480.png"
+    }
 }

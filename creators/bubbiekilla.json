@@ -1,4 +1,27 @@
 {
     "bio": "Never be a sheep and stand on business",
-    "id": "532204284"
+    "twitch": {
+        "id": "532204284",
+        "login": "bubbiekilla",
+        "displayName": "BubbieKilla",
+        "createdAt": "2020-05-17T23:47:54.584319Z",
+        "updatedAt": "2026-08-03T20:21:05.277621Z",
+        "description": "Never be a sheep and stand on business",
+        "primaryColorHex": "FAB3FF",
+        "followers": {
+            "totalCount": 1631
+        },
+        "follows": {
+            "totalCount": 319
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:08:45.990335Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/07e75c64-d145-42f4-954b-6e5a75f45e7e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ec3a276-c297-4f85-8857-42da580497e4-profile_banner-480.png"
+    }
 }

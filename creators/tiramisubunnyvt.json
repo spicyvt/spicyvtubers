@@ -1,4 +1,27 @@
 {
     "bio": "a cute shapeshifter appears~ I try to stream every Friday! Time TBD (I have two jobs)",
-    "id": "798812627"
+    "twitch": {
+        "id": "798812627",
+        "login": "tiramisubunnyvt",
+        "displayName": "TiramisuBunnyVT",
+        "createdAt": "2022-06-01T23:42:37.264615Z",
+        "updatedAt": "2026-07-08T20:51:40.886813Z",
+        "description": "a cute shapeshifter appears~ I try to stream every Friday! Time TBD (I have two jobs)",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 1591
+        },
+        "follows": {
+            "totalCount": 185
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-08T21:20:53.715955Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/98f95a0d-65b5-4890-b03d-79c6114a1a18-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b6e03cd-dcb1-4b14-aaa7-5ea69f5fe0ef-profile_banner-480.png"
+    }
 }

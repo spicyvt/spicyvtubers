@@ -1,4 +1,27 @@
 {
     "bio": "A spicy little Vampire Enchantress from planet Nocturnia, here to drink chat's blood and be the pro-gamer I was always destined to be!",
-    "id": "935788112"
+    "twitch": {
+        "id": "935788112",
+        "login": "lilydangerva",
+        "displayName": "LilyDangerVA",
+        "createdAt": "2023-07-23T02:36:18.460002Z",
+        "updatedAt": "2026-08-01T18:46:02.817985Z",
+        "description": "A spicy little Vampire Enchantress from planet Nocturnia, here to drink chat's blood and be the pro-gamer I was always destined to be!",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 3305
+        },
+        "follows": {
+            "totalCount": 125
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T19:02:08.422523Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e97fc12a-d11e-4271-baaf-6ac07281e44b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a444eca4-e10b-4ef7-baa9-422ff960cf7f-profile_banner-480.png"
+    }
 }

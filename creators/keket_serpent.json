@@ -1,4 +1,27 @@
 {
     "bio": "18 + Autism streamer, VRChat gamer, Avatar creator, an absolute f***** loudass gremlin",
-    "id": "1270486933"
+    "twitch": {
+        "id": "1270486933",
+        "login": "keket_serpent",
+        "displayName": "keket_serpent",
+        "createdAt": "2025-02-27T04:20:19.243516Z",
+        "updatedAt": "2026-08-02T00:58:09.224377Z",
+        "description": "18 + Autism streamer, VRChat gamer, Avatar creator, an absolute f***** loudass gremlin",
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 204
+        },
+        "follows": {
+            "totalCount": 33
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T03:15:09.665464Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae3f6f0-d1fd-4185-816d-fb340a5c4397-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2300348f-1a66-470a-8b4d-223a38996acc-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hi!! I'm Yomi! Yomi the Cat Shark! I'm a small streamer! OwO I'm a VTuber! Nya nya nya! :3 I love to play Tetris and a lot more! I'm a furry! I'm a cat shark! Rawr! Meow! :3",
-    "id": "131526361"
+    "twitch": {
+        "id": "131526361",
+        "login": "yomithecatshark",
+        "displayName": "yomithecatshark",
+        "createdAt": "2016-08-06T21:42:50.645174Z",
+        "updatedAt": "2026-07-22T00:07:33.484102Z",
+        "description": "Hi!! I'm Yomi! Yomi the Cat Shark! I'm a small streamer! OwO I'm a VTuber! Nya nya nya! :3 I love to play Tetris and a lot more! I'm a furry! I'm a cat shark! Rawr! Meow! :3",
+        "primaryColorHex": "6C9DFF",
+        "followers": {
+            "totalCount": 306
+        },
+        "follows": {
+            "totalCount": 849
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-22T03:40:30.269944Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/612595af-9b16-4719-9d08-21ac27408b10-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1920a890-6a91-48a6-90e4-beca701d5c6c-profile_banner-480.jpeg"
+    }
 }

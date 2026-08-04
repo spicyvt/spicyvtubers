@@ -1,4 +1,27 @@
 {
-    "bio": "Hi, Welcome to My CARROT SPA ♡ your Breedable Bunny Vtuber 🐰 you can call me cacang for shortly ♡ I Love doin Spicy ASMR ♡ ",
-    "id": "792690324"
+    "bio": "Hi, Welcome to My CARROT SPA ♡ your Breedable Bunny Vtuber 🐰 you can call me cacang for shortly ♡ I Love doin Spicy ASMR ♡",
+    "twitch": {
+        "id": "792690324",
+        "login": "charlottesylvilia",
+        "displayName": "CharlotteSylvilia",
+        "createdAt": "2022-05-03T05:56:59.184475Z",
+        "updatedAt": "2026-04-16T12:20:39.634638Z",
+        "description": "Hi, Welcome to My CARROT SPA ♡ your Breedable Bunny Vtuber 🐰 you can call me cacang for shortly ♡ I Love doin Spicy ASMR ♡ ",
+        "primaryColorHex": "5D8DED",
+        "followers": {
+            "totalCount": 5519
+        },
+        "follows": {
+            "totalCount": 5
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-01-24T17:28:25.688442Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23fe31b3-d243-46a7-97b4-21b13e4fecd6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/411febe8-357c-4945-978d-4b6c0f77c129-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "Welcome to my twitch channel! Check out my links for more ♡ https://linktr.ee/FeliVR ♡ ",
-    "id": "634466407"
+    "bio": "Welcome to my twitch channel! Check out my links for more ♡ https://linktr.ee/FeliVR ♡",
+    "twitch": {
+        "id": "634466407",
+        "login": "felivr_",
+        "displayName": "FeliVR_",
+        "createdAt": "2021-01-10T16:51:54.978679Z",
+        "updatedAt": "2026-08-03T12:21:24.69052Z",
+        "description": "Welcome to my twitch channel! Check out my links for more ♡ https://linktr.ee/FeliVR ♡ ",
+        "primaryColorHex": "0099F0",
+        "followers": {
+            "totalCount": 1615
+        },
+        "follows": {
+            "totalCount": 30
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T16:08:13.909237Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ae0ea4e-300b-432a-a9e2-961c5c459c0d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f54fec-dae5-416e-864e-45eb0bd6fdcf-profile_banner-480.png"
+    }
 }

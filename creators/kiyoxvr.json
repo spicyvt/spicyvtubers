@@ -1,4 +1,27 @@
 {
     "bio": "I'm Kiyo! Your VR CyberMommy💗I'm a Cyberpunk VR Vtuber, ASMRtist, Lewdtuber, Musician,& VRC & Unity content creator. I am an inevitably comfy yet unapologetically lewd, hyperactively dancy, overaffectionate Mommy Vtuber. My streams are where comfy ASMR meets interactive chaos! Welcome,my Cubelings!",
-    "id": "511487622"
+    "twitch": {
+        "id": "511487622",
+        "login": "kiyoxvr",
+        "displayName": "KiyoXVR",
+        "createdAt": "2020-04-09T23:31:51.56244Z",
+        "updatedAt": "2026-08-04T00:03:29.587709Z",
+        "description": "I'm Kiyo! Your VR CyberMommy💗I'm a Cyberpunk VR Vtuber, ASMRtist, Lewdtuber, Musician,& VRC & Unity content creator. I am an inevitably comfy yet unapologetically lewd, hyperactively dancy, overaffectionate Mommy Vtuber. My streams are where comfy ASMR meets interactive chaos! Welcome,my Cubelings!",
+        "primaryColorHex": "8B0000",
+        "followers": {
+            "totalCount": 10873
+        },
+        "follows": {
+            "totalCount": 304
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-24T12:05:38.028571Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/85b8b0e6-78b6-49b7-b091-995c78f59531-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39eae607-913b-4bd1-a618-08bfcad2396a-profile_banner-480.png"
+    }
 }

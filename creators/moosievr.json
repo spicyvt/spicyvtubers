@@ -1,4 +1,27 @@
 {
     "bio": "Your local sussy, antlered goober here to give you chaos and comfiness at the same time!",
-    "id": "120675110"
+    "twitch": {
+        "id": "120675110",
+        "login": "moosievr",
+        "displayName": "MoosieVR",
+        "createdAt": "2016-04-02T04:17:10.773166Z",
+        "updatedAt": "2026-08-03T01:35:22.865279Z",
+        "description": "Your local sussy, antlered goober here to give you chaos and comfiness at the same time!",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 4350
+        },
+        "follows": {
+            "totalCount": 271
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T06:46:04.328578Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92a7c65b-aca1-42d0-be6d-4f52bd20dbb1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ac93b839-4fb5-4762-9de2-ff83e46a0839-profile_banner-480.png"
+    }
 }

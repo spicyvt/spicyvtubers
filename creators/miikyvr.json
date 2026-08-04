@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "673381329"
+    "twitch": {
+        "id": "673381329",
+        "login": "miikyvr",
+        "displayName": "miikyvr",
+        "createdAt": "2021-04-09T00:03:05.440183Z",
+        "updatedAt": "2026-08-03T20:02:16.378787Z",
+        "description": "",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 9173
+        },
+        "follows": {
+            "totalCount": 41
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:26:58.814593Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8864764f-6008-4f2b-965d-e5fe8659a41e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c907f997-ae43-4d59-8096-234a3ef2d044-profile_banner-480.jpeg"
+    }
 }

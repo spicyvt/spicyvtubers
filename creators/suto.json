@@ -1,4 +1,27 @@
 {
     "bio": "YOUR FAVORITE CHAOS GREMLIN ⋌༼ •̀ ⌂ •́ ༽⋋WHALECUM TO MY CHANNEL PLEASE ENJOY MY IN-SAIN-ITY.",
-    "id": "97570759"
+    "twitch": {
+        "id": "97570759",
+        "login": "suto",
+        "displayName": "Suto",
+        "createdAt": "2015-07-29T03:18:04.556092Z",
+        "updatedAt": "2026-08-02T01:00:24.602301Z",
+        "description": "YOUR FAVORITE CHAOS GREMLIN ⋌༼ •̀ ⌂ •́ ༽⋋WHALECUM TO MY CHANNEL PLEASE ENJOY MY IN-SAIN-ITY.",
+        "primaryColorHex": "C2FF74",
+        "followers": {
+            "totalCount": 159961
+        },
+        "follows": {
+            "totalCount": 367
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:02:01.061342Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3effb81-3f4d-4adc-9d4a-42e4dc564550-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e71fefbe-295e-4e6a-9109-0090bb917f66-profile_banner-480.png"
+    }
 }

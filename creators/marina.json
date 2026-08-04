@@ -1,4 +1,27 @@
 {
-    "bio": "Sweaty Goth Mom ✨ Progressive Politics & Retro Gaming (she/her) ✨ LBGTQ+ Rights ✨ 🔞18+ Stream Community 🔞 ",
-    "id": "27115670"
+    "bio": "Sweaty Goth Mom ✨ Progressive Politics & Retro Gaming (she/her) ✨ LBGTQ+ Rights ✨ 🔞18+ Stream Community 🔞",
+    "twitch": {
+        "id": "27115670",
+        "login": "marina",
+        "displayName": "Marina",
+        "createdAt": "2011-12-30T10:37:07.645317Z",
+        "updatedAt": "2026-07-31T02:11:45.243851Z",
+        "description": "Sweaty Goth Mom ✨ Progressive Politics & Retro Gaming (she/her) ✨ LBGTQ+ Rights ✨ 🔞18+ Stream Community 🔞 ",
+        "primaryColorHex": "3C37A0",
+        "followers": {
+            "totalCount": 27551
+        },
+        "follows": {
+            "totalCount": 1462
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T08:23:03.132261Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c0bab5f-a01e-4a6d-abbf-47eb337c67e3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b3597dc-b296-4d7b-a7e6-df71fafa0f22-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "The names Meow, I have no idea what I am doing, just that I am doing it",
-    "id": "136822740"
+    "twitch": {
+        "id": "136822740",
+        "login": "msmeowvr",
+        "displayName": "MsMeowvr",
+        "createdAt": "2016-10-11T10:05:01.489486Z",
+        "updatedAt": "2026-08-03T18:32:55.512258Z",
+        "description": "The names Meow, I have no idea what I am doing, just that I am doing it",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 2801
+        },
+        "follows": {
+            "totalCount": 268
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:25:09.494234Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/836847e9-9851-47a0-9f8b-7aa1985015ce-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c325f645-2000-44c5-9f9a-7b6fdff4672f-profile_banner-480.png"
+    }
 }

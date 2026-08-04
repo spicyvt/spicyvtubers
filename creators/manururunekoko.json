@@ -1,4 +1,27 @@
 {
     "bio": "hello everyone. i only react to videos. i am an reaction streamer. i love to react. i love asmondgold! i only wach asmongold!",
-    "id": "1278561482"
+    "twitch": {
+        "id": "1278561482",
+        "login": "manururunekoko",
+        "displayName": "manururunekoko",
+        "createdAt": "2025-03-12T06:45:35.879521Z",
+        "updatedAt": "2026-02-20T19:14:31.419142Z",
+        "description": "hello everyone. i only react to videos. i am an reaction streamer. i love to react. i love asmondgold! i only wach asmongold!",
+        "primaryColorHex": "FFA3CF",
+        "followers": {
+            "totalCount": 1426
+        },
+        "follows": {
+            "totalCount": 3
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-20T20:21:32.314003Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ab8d607d-cfc4-4613-bd8a-e9e94dfab822-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8944da35-1674-4560-aa48-28fd18e626f7-profile_banner-480.png"
+    }
 }

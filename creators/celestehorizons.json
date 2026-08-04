@@ -1,4 +1,27 @@
 {
     "bio": "Hi! I am Celeste, your local ball of fire and nuclear fusion that keeps your planet warm!",
-    "id": "193768044"
+    "twitch": {
+        "id": "193768044",
+        "login": "celestehorizons",
+        "displayName": "celestehorizons",
+        "createdAt": "2018-01-29T21:20:12.18892Z",
+        "updatedAt": "2026-08-02T19:07:50.266843Z",
+        "description": "Hi! I am Celeste, your local ball of fire and nuclear fusion that keeps your planet warm!",
+        "primaryColorHex": "3AA3F0",
+        "followers": {
+            "totalCount": 754
+        },
+        "follows": {
+            "totalCount": 549
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-22T06:29:23.493294Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b46c2a3-608f-40d2-a42f-f5562276751c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a06ece2b-31b1-41d6-a79b-f5899f66f835-profile_banner-480.png"
+    }
 }

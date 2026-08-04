@@ -1,4 +1,27 @@
 {
     "bio": "WATCH ME BE CUTE",
-    "id": "508678940"
+    "twitch": {
+        "id": "508678940",
+        "login": "jasminelilith",
+        "displayName": "JasmineLilith",
+        "createdAt": "2020-04-04T20:24:58.359248Z",
+        "updatedAt": "2026-07-31T01:56:45.201816Z",
+        "description": "WATCH ME BE CUTE",
+        "primaryColorHex": "5C12CB",
+        "followers": {
+            "totalCount": 402
+        },
+        "follows": {
+            "totalCount": 48
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T06:04:25.77142Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d18494a-c8fb-4cab-adb7-d55cc30cc76b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b897b13a-1bae-4591-b0f8-5e112866ccaf-profile_banner-480.jpeg"
+    }
 }

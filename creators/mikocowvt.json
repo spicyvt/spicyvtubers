@@ -1,4 +1,27 @@
 {
     "bio": "Hello there! I am Miko. Welcome to my stream &lt;3",
-    "id": "149038343"
+    "twitch": {
+        "id": "149038343",
+        "login": "mikocowvt",
+        "displayName": "mikocowvt",
+        "createdAt": "2017-02-28T05:33:26.695148Z",
+        "updatedAt": "2026-05-17T01:14:41.905982Z",
+        "description": "Hello there! I am Miko. Welcome to my stream &lt;3",
+        "primaryColorHex": "FF7400",
+        "followers": {
+            "totalCount": 109
+        },
+        "follows": {
+            "totalCount": 9
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-17T03:21:49.010268Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8882b132-54ee-43c5-881e-196a8fcaf1e3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33e6606b-af05-4956-96bf-e43d99cd6603-profile_banner-480.png"
+    }
 }

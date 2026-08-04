@@ -1,4 +1,27 @@
 {
     "bio": "Hi it’s your favorite ear licking brat cat. Vods are available on kick please check link :3",
-    "id": "655661486"
+    "twitch": {
+        "id": "655661486",
+        "login": "kittyflutevt",
+        "displayName": "KittyfluteVT",
+        "createdAt": "2021-02-27T05:25:03.591286Z",
+        "updatedAt": "2026-07-30T03:28:47.446703Z",
+        "description": "Hi it’s your favorite ear licking brat cat. Vods are available on kick please check link :3",
+        "primaryColorHex": "00FA04",
+        "followers": {
+            "totalCount": 57575
+        },
+        "follows": {
+            "totalCount": 1120
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-25T07:24:47.089608Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f95b0e37-af4d-4b0d-9dca-ca9d151355d6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9469a23a-2453-4995-b424-cb60fa06c097-profile_banner-480.jpeg"
+    }
 }

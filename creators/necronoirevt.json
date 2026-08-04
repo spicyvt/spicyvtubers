@@ -1,4 +1,27 @@
 {
     "bio": "♡ A Succubi-Zombabe That's Come To Ruin You ♡",
-    "id": "188165463"
+    "twitch": {
+        "id": "188165463",
+        "login": "necronoirevt",
+        "displayName": "NecroNoireVT",
+        "createdAt": "2017-12-31T12:15:43.387113Z",
+        "updatedAt": "2026-05-14T05:50:14.725806Z",
+        "description": "♡ A Succubi-Zombabe That's Come To Ruin You ♡",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 4054
+        },
+        "follows": {
+            "totalCount": 363
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-11-08T22:04:30.25679Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b057137-f346-479d-b160-7abfc6e0ecb5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fad7a889-2d01-4d6f-9924-8341e41c3f58-profile_banner-480.png"
+    }
 }

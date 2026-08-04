@@ -1,4 +1,27 @@
 {
     "bio": "[+18] 🐺 Werepire Waifu | I just wanna make you smile 🐺🥀 Gunpla & Builds • Horror • RPG's 🥀Join our Hollowed Den 🖤Live: Mon/Fri Tue/Sat 2 PM • 3 PM  Email - support@ashegraysonvt.com",
-    "id": "99376407"
+    "twitch": {
+        "id": "99376407",
+        "login": "ashegrayson",
+        "displayName": "AsheGrayson",
+        "createdAt": "2015-08-16T02:12:26.32816Z",
+        "updatedAt": "2026-08-03T16:07:53.007119Z",
+        "description": "[+18] 🐺 Werepire Waifu | I just wanna make you smile 🐺🥀 Gunpla & Builds • Horror • RPG's 🥀Join our Hollowed Den 🖤Live: Mon/Fri Tue/Sat 2 PM • 3 PM  Email - support@ashegraysonvt.com",
+        "primaryColorHex": "9C2150",
+        "followers": {
+            "totalCount": 2282
+        },
+        "follows": {
+            "totalCount": 370
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:11:08.100944Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62135fa8-5a66-42c1-9e3b-f1998119541d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c26cb664-3478-465b-90ad-d955dd3a0355-profile_banner-480.png"
+    }
 }

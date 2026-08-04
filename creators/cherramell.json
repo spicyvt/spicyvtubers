@@ -1,4 +1,27 @@
 {
-    "bio": "caramel flavored cutie ♡ ",
-    "id": "983067962"
+    "bio": "caramel flavored cutie ♡",
+    "twitch": {
+        "id": "983067962",
+        "login": "cherramell",
+        "displayName": "cherramell",
+        "createdAt": "2023-11-05T02:54:30.813863Z",
+        "updatedAt": "2026-08-03T03:34:58.713054Z",
+        "description": "caramel flavored cutie ♡ ",
+        "primaryColorHex": "FFC0CB",
+        "followers": {
+            "totalCount": 661
+        },
+        "follows": {
+            "totalCount": 248
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T04:54:37.427107Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/42e01e8b-910d-49b5-9ae1-7aa1072a2914-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/68f878a7-2547-483f-a91a-e191ace6db73-profile_banner-480.png"
+    }
 }

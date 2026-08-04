@@ -1,4 +1,27 @@
 {
     "bio": "zhi/zhir or they/them",
-    "id": "576766297"
+    "twitch": {
+        "id": "576766297",
+        "login": "hyangshine",
+        "displayName": "hyangshine",
+        "createdAt": "2020-09-01T21:38:03.138161Z",
+        "updatedAt": "2026-08-02T02:49:39.28672Z",
+        "description": "zhi/zhir or they/them",
+        "primaryColorHex": "6518D8",
+        "followers": {
+            "totalCount": 200
+        },
+        "follows": {
+            "totalCount": 20
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T04:04:42.202387Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/88efd405-78d0-4850-8f15-2c18a2bac907-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f111e2f-555d-4dcb-8293-fb5de62a62a3-profile_banner-480.jpeg"
+    }
 }

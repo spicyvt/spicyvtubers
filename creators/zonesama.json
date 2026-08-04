@@ -1,4 +1,27 @@
 {
     "bio": "I make all those Flash cartoon 'parodies'. Yes, THOSE ones.",
-    "id": "26194641"
+    "twitch": {
+        "id": "26194641",
+        "login": "zonesama",
+        "displayName": "ZONEsama",
+        "createdAt": "2011-11-17T10:33:12.786744Z",
+        "updatedAt": "2026-08-01T17:43:03.083344Z",
+        "description": "I make all those Flash cartoon 'parodies'. Yes, THOSE ones.",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 113775
+        },
+        "follows": {
+            "totalCount": 402
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T19:33:11.563056Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/zonesama-profile_image-153bc397f8a53924-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/zonesama-profile_banner-eb9a234884e60edd-480.png"
+    }
 }

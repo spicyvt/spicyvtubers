@@ -1,4 +1,27 @@
 {
     "bio": "୨୧ Fluffy Imouto! Girlfailure, aber auch deine Sisterwife! ୨୧",
-    "id": "135247228"
+    "twitch": {
+        "id": "135247228",
+        "login": "felinyara",
+        "displayName": "FeliNyara",
+        "createdAt": "2016-09-23T17:23:05.68343Z",
+        "updatedAt": "2026-08-03T19:59:24.28011Z",
+        "description": "୨୧ Fluffy Imouto! Girlfailure, aber auch deine Sisterwife! ୨୧",
+        "primaryColorHex": "FFB8C2",
+        "followers": {
+            "totalCount": 3240
+        },
+        "follows": {
+            "totalCount": 200
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T19:58:47.746564Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c45b604-c10f-48f1-8b58-98db1691f5f0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bdedd003-0bd3-4a7c-8dc4-5d35085a8945-profile_banner-480.png"
+    }
 }

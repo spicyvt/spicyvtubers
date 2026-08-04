@@ -1,4 +1,27 @@
 {
     "bio": "Lazy oneesan lifeguard and ASMRtist of PromisuEN~",
-    "id": "1335901067"
+    "twitch": {
+        "id": "1335901067",
+        "login": "euryaledrift",
+        "displayName": "EuryaleDrift",
+        "createdAt": "2025-07-15T05:48:26.515858Z",
+        "updatedAt": "2026-08-01T22:14:58.935422Z",
+        "description": "Lazy oneesan lifeguard and ASMRtist of PromisuEN~",
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 2689
+        },
+        "follows": {
+            "totalCount": 31
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T00:47:04.080534Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6bbebdf-876f-4554-a884-7e29f8d22b73-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/81e8336a-ffda-465c-86a1-f657ae59883e-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "ASMR RP VA & Vtuber ❤️‍🔥⛓️🦇 18+ only, please! ",
-    "id": "630577954"
+    "bio": "ASMR RP VA & Vtuber ❤️‍🔥⛓️🦇 18+ only, please!",
+    "twitch": {
+        "id": "630577954",
+        "login": "sereneros",
+        "displayName": "SerenEros",
+        "createdAt": "2021-01-03T20:39:13.017663Z",
+        "updatedAt": "2026-08-01T19:05:13.705383Z",
+        "description": "ASMR RP VA & Vtuber ❤️‍🔥⛓️🦇 18+ only, please! ",
+        "primaryColorHex": "251242",
+        "followers": {
+            "totalCount": 2571
+        },
+        "follows": {
+            "totalCount": 79
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T20:54:55.524948Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/798f7991-e043-4ce8-8de8-1872a3444567-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/db4a6fa6-7998-4f14-943d-1505939de78d-profile_banner-480.png"
+    }
 }

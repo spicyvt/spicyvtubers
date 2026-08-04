@@ -1,4 +1,27 @@
 {
-    "bio": "- your fluffy adorable puppycat unicorn hybrid / The demon queen of hell / Obsessed with motorcycles and cars / Sponsored by ADVANCED.gg ",
-    "id": "530637920"
+    "bio": "- your fluffy adorable puppycat unicorn hybrid / The demon queen of hell / Obsessed with motorcycles and cars / Sponsored by ADVANCED.gg",
+    "twitch": {
+        "id": "530637920",
+        "login": "xcestialkittyx",
+        "displayName": "xcestialkittyx",
+        "createdAt": "2020-05-14T18:48:56.576798Z",
+        "updatedAt": "2026-07-27T21:04:08.332072Z",
+        "description": "- your fluffy adorable puppycat unicorn hybrid / The demon queen of hell / Obsessed with motorcycles and cars / Sponsored by ADVANCED.gg ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 813
+        },
+        "follows": {
+            "totalCount": 1027
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-27T22:42:47.553053Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c331789-d2f8-4371-9fa2-e568dc99ea27-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3364b4f4-4afd-484d-b9c1-75e32c901b6c-profile_banner-480.png"
+    }
 }

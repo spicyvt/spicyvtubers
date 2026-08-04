@@ -1,4 +1,27 @@
 {
     "bio": "stray pup of the hidden leaf !!! 🍃🐾💢 based in west virginia ✝️ very normal streamer ♨️🔞",
-    "id": "536005283"
+    "twitch": {
+        "id": "536005283",
+        "login": "trashysage",
+        "displayName": "trashysage",
+        "createdAt": "2020-05-26T21:24:10.140459Z",
+        "updatedAt": "2026-08-01T18:54:19.063261Z",
+        "description": "stray pup of the hidden leaf !!! 🍃🐾💢 based in west virginia ✝️ very normal streamer ♨️🔞",
+        "primaryColorHex": "C8A3FF",
+        "followers": {
+            "totalCount": 1876
+        },
+        "follows": {
+            "totalCount": 1209
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T20:02:19.847425Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6077a29-3624-4b22-bb28-d644f923e230-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0733927-1576-4604-a1db-cc84b22374ca-profile_banner-480.png"
+    }
 }

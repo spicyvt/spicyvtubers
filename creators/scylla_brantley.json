@@ -1,4 +1,27 @@
 {
     "bio": "Your dragon wifey, ready to pleasure you darling~",
-    "id": "1153655036"
+    "twitch": {
+        "id": "1153655036",
+        "login": "scylla_brantley",
+        "displayName": "scylla_brantley",
+        "createdAt": "2024-09-29T09:13:34.1982Z",
+        "updatedAt": "2026-07-28T18:37:48.776948Z",
+        "description": "Your dragon wifey, ready to pleasure you darling~",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 261
+        },
+        "follows": {
+            "totalCount": 0
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T21:37:21.146698Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b979b4a3-6416-470f-953f-7b84912cea2a-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

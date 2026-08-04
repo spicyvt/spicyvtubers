@@ -1,4 +1,27 @@
 {
-    "bio": "Henloo! I am Yuki :3I am an Artic Fox Vtuber that loves gaming~ Business Inquires: yukimevt.business@gmail.com ",
-    "id": "854005079"
+    "bio": "Henloo! I am Yuki :3I am an Artic Fox Vtuber that loves gaming~ Business Inquires: yukimevt.business@gmail.com",
+    "twitch": {
+        "id": "854005079",
+        "login": "yukimevt",
+        "displayName": "yukimevt",
+        "createdAt": "2022-12-04T12:31:27.933118Z",
+        "updatedAt": "2026-07-29T15:27:20.817817Z",
+        "description": "Henloo! I am Yuki :3I am an Artic Fox Vtuber that loves gaming~ Business Inquires: yukimevt.business@gmail.com ",
+        "primaryColorHex": "5F0200",
+        "followers": {
+            "totalCount": 7225
+        },
+        "follows": {
+            "totalCount": 111
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-11T12:34:50.976098Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/51855dd8-0246-4251-9e4a-00a3ba2482d6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b7b2a61-ddf3-489f-befc-3da741f5c38c-profile_banner-480.png"
+    }
 }

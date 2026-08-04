@@ -1,4 +1,27 @@
 {
-    "bio": "I'm Quetzu Solscale, VAllure's Tsundere Quetzalcoatl!! 🐉🪽 ",
-    "id": "1255299372"
+    "bio": "I'm Quetzu Solscale, VAllure's Tsundere Quetzalcoatl!! 🐉🪽",
+    "twitch": {
+        "id": "1255299372",
+        "login": "quetzusolscale",
+        "displayName": "QuetzuSolscale",
+        "createdAt": "2025-02-12T17:16:45.395538Z",
+        "updatedAt": "2026-07-24T23:06:08.394137Z",
+        "description": "I'm Quetzu Solscale, VAllure's Tsundere Quetzalcoatl!! 🐉🪽 ",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 2688
+        },
+        "follows": {
+            "totalCount": 85
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-23T18:21:03.489167Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b54c8742-b163-4c0b-8dc2-45602fb6310b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22811ed3-2c1c-462d-91a2-765400c21c44-profile_banner-480.png"
+    }
 }

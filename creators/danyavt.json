@@ -1,4 +1,27 @@
 {
     "bio": "The Wispup carnival beckons... British Variety Vtuber!",
-    "id": "739327055"
+    "twitch": {
+        "id": "739327055",
+        "login": "danyavt",
+        "displayName": "DanyaVT",
+        "createdAt": "2021-11-02T16:15:46.847001Z",
+        "updatedAt": "2026-08-01T10:59:25.377739Z",
+        "description": "The Wispup carnival beckons... British Variety Vtuber!",
+        "primaryColorHex": "1345AA",
+        "followers": {
+            "totalCount": 1181
+        },
+        "follows": {
+            "totalCount": 200
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T13:44:21.720348Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66b8a0ce-29ca-42c7-9c80-4b3423d99eb3-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d34caad3-3e35-4689-b79b-027b26e9d503-profile_banner-480.png"
+    }
 }

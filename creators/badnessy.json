@@ -1,4 +1,27 @@
 {
-    "bio": "Just a bean enjoying playing games while make friends along the way :3 still figuring things out to make stream more fun and wanting to help others even if just a lil bit ",
-    "id": "41865310"
+    "bio": "Just a bean enjoying playing games while making friends along the way :3 still figuring things out to make stream more fun and wanting to help others even if just a lil bit",
+    "twitch": {
+        "id": "41865310",
+        "login": "badnessy",
+        "displayName": "Badnessy",
+        "createdAt": "2013-03-30T05:12:53.542633Z",
+        "updatedAt": "2026-07-28T10:28:16.845306Z",
+        "description": "Just a bean enjoying playing games while making friends along the way :3 still figuring things out to make stream more fun and wanting to help others even if just a lil bit ",
+        "primaryColorHex": "7B0323",
+        "followers": {
+            "totalCount": 200
+        },
+        "follows": {
+            "totalCount": 174
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-25T00:47:56.412247Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bcc527b-1629-44ce-9d10-52e91988eac4-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/20bd8a5a-c88a-497a-a6e1-9c95b86924f0-profile_banner-480.jpeg"
+    }
 }

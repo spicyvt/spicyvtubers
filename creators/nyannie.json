@@ -1,4 +1,27 @@
 {
-    "bio": "Internet Dog :3 ",
-    "id": "232702530"
+    "bio": "Internet Dog :3",
+    "twitch": {
+        "id": "232702530",
+        "login": "nyannie",
+        "displayName": "NYANNIE",
+        "createdAt": "2018-06-19T23:38:42.982946Z",
+        "updatedAt": "2026-08-03T21:39:19.888332Z",
+        "description": "Internet Dog :3 ",
+        "primaryColorHex": "71EBFF",
+        "followers": {
+            "totalCount": 44667
+        },
+        "follows": {
+            "totalCount": 275
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:14:34.509915Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/723adcf2-4ea8-4111-865e-123506aaf5dd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e584c61-b2b3-48aa-b0e3-b3aff4420697-profile_banner-480.png"
+    }
 }

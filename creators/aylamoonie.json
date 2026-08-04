@@ -1,4 +1,27 @@
 {
     "bio": "I'm insane and I make art and vtubers and do IRL randomness and love science!",
-    "id": "257553240"
+    "twitch": {
+        "id": "257553240",
+        "login": "aylamoonie",
+        "displayName": "AylaMoonie",
+        "createdAt": "2018-09-11T23:05:08.512935Z",
+        "updatedAt": "2026-04-15T02:47:21.267089Z",
+        "description": "I'm insane and I make art and vtubers and do IRL randomness and love science!",
+        "primaryColorHex": "00C7AC",
+        "followers": {
+            "totalCount": 631
+        },
+        "follows": {
+            "totalCount": 1163
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-03-18T16:31:30.992049Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a760f2-c2c9-4969-826a-c36e0f04958c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f108122e-1a2a-4b5a-b621-dc6edc437c21-profile_banner-480.png"
+    }
 }

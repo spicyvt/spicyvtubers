@@ -1,4 +1,27 @@
 {
     "bio": "Hi! I'm Pinkchyu! I Cosplay, Roleplay, write music and make art!",
-    "id": "167647487"
+    "twitch": {
+        "id": "167647487",
+        "login": "pinkchyu",
+        "displayName": "pinkchyu",
+        "createdAt": "2017-07-31T18:50:11.85152Z",
+        "updatedAt": "2026-03-13T00:56:05.815961Z",
+        "description": "Hi! I'm Pinkchyu! I Cosplay, Roleplay, write music and make art!",
+        "primaryColorHex": "FFA3B9",
+        "followers": {
+            "totalCount": 116999
+        },
+        "follows": {
+            "totalCount": 589
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-12-18T21:27:33.360189Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e896554d-b5ed-459d-ab5f-056a7f9d39a3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/18d94b1d-7f4c-4156-b06a-14102ac14975-profile_banner-480.png"
+    }
 }

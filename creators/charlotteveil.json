@@ -1,4 +1,27 @@
 {
-    "bio": "I know we only had one date, but...would you wanna get married? 18+ ",
-    "id": "1037400065"
+    "bio": "I know we only had one date, but...would you wanna get married? 18+",
+    "twitch": {
+        "id": "1037400065",
+        "login": "charlotteveil",
+        "displayName": "CharlotteVeil",
+        "createdAt": "2024-02-16T01:45:09.43281Z",
+        "updatedAt": "2026-08-04T00:36:52.471788Z",
+        "description": "I know we only had one date, but...would you wanna get married? 18+ ",
+        "primaryColorHex": "54C4F1",
+        "followers": {
+            "totalCount": 6411
+        },
+        "follows": {
+            "totalCount": 637
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:11:24.690938Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb9671e2-4c10-421e-b884-1ae977118e86-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d65542ad-e76a-4275-a611-1f5c241442ba-profile_banner-480.png"
+    }
 }

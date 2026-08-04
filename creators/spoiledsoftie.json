@@ -1,4 +1,27 @@
 {
     "bio": "calm french kitten, purrr",
-    "id": "535202461"
+    "twitch": {
+        "id": "535202461",
+        "login": "spoiledsoftie",
+        "displayName": "spoiledsoftie",
+        "createdAt": "2020-05-24T21:43:27.151098Z",
+        "updatedAt": "2026-08-03T21:22:06.366825Z",
+        "description": "calm french kitten, purrr",
+        "primaryColorHex": "B399D9",
+        "followers": {
+            "totalCount": 4211
+        },
+        "follows": {
+            "totalCount": 52
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:55:08.259905Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d84a5173-e211-4d8d-be9e-75895deae008-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2926f25-db53-464d-8752-1ec8987a4461-profile_banner-480.png"
+    }
 }

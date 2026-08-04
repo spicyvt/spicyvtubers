@@ -1,4 +1,27 @@
 {
     "bio": "Dream manipulating Lamia || I am a variety streamer, and an absolute gremlin. [She/her] 18+ stream || 🐍 Business Inquiries: itzuwabamii@gmail.com",
-    "id": "161499020"
+    "twitch": {
+        "id": "161499020",
+        "login": "uwabamii",
+        "displayName": "Uwabamii",
+        "createdAt": "2017-06-25T06:25:12.262523Z",
+        "updatedAt": "2026-08-02T03:55:05.679844Z",
+        "description": "Dream manipulating Lamia || I am a variety streamer, and an absolute gremlin. [She/her] 18+ stream || 🐍 Business Inquiries: itzuwabamii@gmail.com",
+        "primaryColorHex": "490100",
+        "followers": {
+            "totalCount": 4905
+        },
+        "follows": {
+            "totalCount": 472
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T05:31:53.801968Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dce2843f-d3e5-448e-a1c3-365f67d5b0a0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/edc931c5-268b-4e88-b63a-af5d7795effe-profile_banner-480.png"
+    }
 }

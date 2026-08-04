@@ -1,4 +1,27 @@
 {
     "bio": "Owner of an underground bar called Olympus Mons. Fancy a drink newcomer? First drink's on me!",
-    "id": "713086532"
+    "twitch": {
+        "id": "713086532",
+        "login": "mars_fortuna",
+        "displayName": "Mars_Fortuna",
+        "createdAt": "2021-07-31T19:10:48.754785Z",
+        "updatedAt": "2026-08-02T17:57:11.483757Z",
+        "description": "Owner of an underground bar called Olympus Mons. Fancy a drink newcomer? First drink's on me!",
+        "primaryColorHex": "FF38B7",
+        "followers": {
+            "totalCount": 27713
+        },
+        "follows": {
+            "totalCount": 226
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:02:11.578369Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/42cf8d3f-0944-40e6-bc1b-786315cb89cf-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ccdb979-7955-48e8-b259-df9ca4fe8167-profile_banner-480.png"
+    }
 }

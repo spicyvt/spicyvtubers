@@ -1,4 +1,27 @@
 {
     "bio": "the weird cat outside 🗑️🐈 trash cat vtuber & artist || I enjoy competitive games and love spending time with my rats in the alley! I hope you can feel welcome here 💜 || business inquiries → raddlesbusiness@gmail.com | GAMERSUPPSUse code 'TRASH' for 10% OFF 🗑️✨",
-    "id": "48525268"
+    "twitch": {
+        "id": "48525268",
+        "login": "raddles",
+        "displayName": "raddles",
+        "createdAt": "2013-09-03T22:29:18.040351Z",
+        "updatedAt": "2026-07-30T07:49:09.737245Z",
+        "description": "the weird cat outside 🗑️🐈 trash cat vtuber & artist || I enjoy competitive games and love spending time with my rats in the alley! I hope you can feel welcome here 💜 || business inquiries → raddlesbusiness@gmail.com | GAMERSUPPSUse code 'TRASH' for 10% OFF 🗑️✨",
+        "primaryColorHex": "C5AEFF",
+        "followers": {
+            "totalCount": 22829
+        },
+        "follows": {
+            "totalCount": 947
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-14T03:37:16.433078Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d1aa3e4-fd41-4096-9f83-b8e6fe4b068f-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6756e9a2-ccbf-405f-84e6-14502d0105dd-profile_banner-480.png"
+    }
 }

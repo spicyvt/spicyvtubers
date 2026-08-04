@@ -1,4 +1,27 @@
 {
     "bio": "Slavic, sleep deprived mommy (˶ˊᵕˋ˵)💤  here to entertain and make you eepy",
-    "id": "542949041"
+    "twitch": {
+        "id": "542949041",
+        "login": "babypinkvt",
+        "displayName": "BabyPinkVT",
+        "createdAt": "2020-06-12T23:48:03.82214Z",
+        "updatedAt": "2026-08-03T00:41:41.356228Z",
+        "description": "Slavic, sleep deprived mommy (˶ˊᵕˋ˵)💤  here to entertain and make you eepy",
+        "primaryColorHex": "F17BAA",
+        "followers": {
+            "totalCount": 15203
+        },
+        "follows": {
+            "totalCount": 913
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T00:44:57.595167Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a221dc5e-7595-4bba-9ab5-a356521ae8cf-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9021a678-bb06-414a-8ae7-c913a6e735a5-profile_banner-480.png"
+    }
 }

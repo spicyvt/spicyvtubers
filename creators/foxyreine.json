@@ -1,4 +1,27 @@
 {
     "bio": "Hello, world",
-    "id": "449895310"
+    "twitch": {
+        "id": "449895310",
+        "login": "foxyreine",
+        "displayName": "FoxyReine",
+        "createdAt": "2019-07-22T05:08:54.042775Z",
+        "updatedAt": "2026-07-26T22:56:01.388705Z",
+        "description": "Hello, world",
+        "primaryColorHex": "64C6FF",
+        "followers": {
+            "totalCount": 33289
+        },
+        "follows": {
+            "totalCount": 295
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T02:46:58.616833Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7001874-7a07-4587-be0c-76be7b8f72a8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd9a637b-0fdd-40a2-8a95-2f485070f9d8-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Biggest Kyle Crane Simp | Your favorite mimic :3 | Variety Streamer with gremlin tendencies DO NOT FEED DAIRY",
-    "id": "423533741"
+    "twitch": {
+        "id": "423533741",
+        "login": "sxrynity",
+        "displayName": "Sxrynity",
+        "createdAt": "2019-03-14T21:34:18.875818Z",
+        "updatedAt": "2026-08-03T08:34:51.276134Z",
+        "description": "Biggest Kyle Crane Simp | Your favorite mimic :3 | Variety Streamer with gremlin tendencies DO NOT FEED DAIRY",
+        "primaryColorHex": "680C47",
+        "followers": {
+            "totalCount": 1352
+        },
+        "follows": {
+            "totalCount": 122
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T08:38:26.44111Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c58bdaba-d3ae-4548-8c2a-6ed0b14b368f-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39afd375-94d7-4437-8a95-37daea8852ca-profile_banner-480.png"
+    }
 }

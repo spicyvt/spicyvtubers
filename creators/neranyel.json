@@ -1,4 +1,27 @@
 {
     "bio": "Brujita de la época victoriana, especializada en la magia de las boobas.",
-    "id": "475855887"
+    "twitch": {
+        "id": "475855887",
+        "login": "neranyel",
+        "displayName": "Neranyel",
+        "createdAt": "2019-12-03T03:42:32.596448Z",
+        "updatedAt": "2026-08-03T06:30:33.622325Z",
+        "description": "Brujita de la época victoriana, especializada en la magia de las boobas.",
+        "primaryColorHex": "FA2929",
+        "followers": {
+            "totalCount": 4859
+        },
+        "follows": {
+            "totalCount": 283
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T08:37:44.119441Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e3a778e-4fd9-4e8a-906a-8094ef1d63fd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/59ed1945-b817-424c-bf62-9a886058cfdb-profile_banner-480.png"
+    }
 }

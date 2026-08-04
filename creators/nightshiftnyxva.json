@@ -1,4 +1,27 @@
 {
     "bio": "SUP YALL! 👾 Your Favorite Imp here! 👾 I'm a Adult Voice Actress and a Entertainer!  STREAMS: CST | BUSINESS: nyxgoddessstars@gmail.com",
-    "id": "491944139"
+    "twitch": {
+        "id": "491944139",
+        "login": "nightshiftnyxva",
+        "displayName": "NightShiftNyxVA",
+        "createdAt": "2020-02-12T01:31:59.036739Z",
+        "updatedAt": "2026-07-31T19:48:43.22028Z",
+        "description": "SUP YALL! 👾 Your Favorite Imp here! 👾 I'm a Adult Voice Actress and a Entertainer!  STREAMS: CST | BUSINESS: nyxgoddessstars@gmail.com",
+        "primaryColorHex": "9147FF",
+        "followers": {
+            "totalCount": 1284
+        },
+        "follows": {
+            "totalCount": 133
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T20:32:41.94461Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/87c51034-bf32-48a7-b103-4a01ad0862a4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7d3cc0b-c82e-4b1a-9474-23dd537e3bdb-profile_banner-480.png"
+    }
 }

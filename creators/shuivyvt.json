@@ -1,4 +1,27 @@
 {
-    "bio": "❥𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! 𝙄’𝙢 𝙎𝙝𝙪 𝙄𝙫𝙮, 𝙖 𝙧𝙤𝙨𝙚 𝙗𝙪𝙣𝙣𝙮 𝙫𝙩𝙪𝙗𝙚𝙧 𝙩𝙝𝙖𝙩 𝙞𝙨 𝙨𝙚𝙘𝙧𝙚𝙩𝙡𝙮 𝙖 𝙥𝙧𝙞𝙣𝙘𝙚𝙨𝙨 𝙬𝙝𝙤 𝙝𝙖𝙨 𝙖 𝙨𝙥𝙚𝙘𝙞𝙖𝙡 𝙖𝙗𝙞𝙡𝙞𝙩𝙮 𝙤𝙛 𝘾𝙝𝙡𝙤𝙧𝙤𝙠𝙞𝙣𝙚𝙨𝙞𝙨! ",
-    "id": "928077403"
+    "bio": "❥𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! 𝙄’𝙢 𝙎𝙝𝙪 𝙄𝙫𝙮, 𝙖 𝙧𝙤𝙨𝙚 𝙗𝙪𝙣𝙣𝙮 𝙫𝙩𝙪𝙗𝙚𝙧 𝙩𝙝𝙖𝙩 𝙞𝙨 𝙨𝙚𝙘𝙧𝙚𝙩𝙡𝙮 𝙖 𝙥𝙧𝙞𝙣𝙘𝙚𝙨𝙨 𝙬𝙝𝙤 𝙝𝙖𝙨 𝙖 𝙨𝙥𝙚𝙘𝙞𝙖𝙡 𝙖𝙗𝙞𝙡𝙞𝙩𝙮 𝙤𝙛 𝘾𝙝𝙡𝙤𝙧𝙤𝙠𝙞𝙣𝙚𝙨𝙞𝙨!",
+    "twitch": {
+        "id": "928077403",
+        "login": "shuivyvt",
+        "displayName": "ShuIvyVT",
+        "createdAt": "2023-07-01T14:49:17.471986Z",
+        "updatedAt": "2026-08-02T02:17:59.749479Z",
+        "description": "❥𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! 𝙄’𝙢 𝙎𝙝𝙪 𝙄𝙫𝙮, 𝙖 𝙧𝙤𝙨𝙚 𝙗𝙪𝙣𝙣𝙮 𝙫𝙩𝙪𝙗𝙚𝙧 𝙩𝙝𝙖𝙩 𝙞𝙨 𝙨𝙚𝙘𝙧𝙚𝙩𝙡𝙮 𝙖 𝙥𝙧𝙞𝙣𝙘𝙚𝙨𝙨 𝙬𝙝𝙤 𝙝𝙖𝙨 𝙖 𝙨𝙥𝙚𝙘𝙞𝙖𝙡 𝙖𝙗𝙞𝙡𝙞𝙩𝙮 𝙤𝙛 𝘾𝙝𝙡𝙤𝙧𝙤𝙠𝙞𝙣𝙚𝙨𝙞𝙨! ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 689
+        },
+        "follows": {
+            "totalCount": 518
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-29T21:33:13.834622Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f206d3b-3e26-49cd-a0df-60e7a9950fb5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb81c7d6-2557-4176-8ac2-5825d3ecd7d0-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hello! my name is Bunny! I am a bunny vtuber focused on yapping about her favorite games and shows",
-    "id": "1167391186"
+    "twitch": {
+        "id": "1167391186",
+        "login": "bunnybumkin",
+        "displayName": "BunnyBumkin",
+        "createdAt": "2024-10-22T00:04:31.373021Z",
+        "updatedAt": "2026-07-28T00:03:19.010731Z",
+        "description": "Hello! my name is Bunny! I am a bunny vtuber focused on yapping about her favorite games and shows",
+        "primaryColorHex": "FFA7CC",
+        "followers": {
+            "totalCount": 415
+        },
+        "follows": {
+            "totalCount": 26
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T00:03:12.758393Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b23d2f91-d16f-4820-9c6d-a378ba4e1ae1-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Emo-cat girlfailure ´ཀ` Artist, Emo/Goth, Gamer ⛧ (Any Pronoun) ⛧ | - 📩Business Email: darkpixicult@gmail.com - |",
-    "id": "85719145"
+    "twitch": {
+        "id": "85719145",
+        "login": "darkpixi",
+        "displayName": "Darkpixi",
+        "createdAt": "2015-03-21T04:32:59.186365Z",
+        "updatedAt": "2026-07-24T17:56:23.853373Z",
+        "description": "Emo-cat girlfailure ´ཀ` Artist, Emo/Goth, Gamer ⛧ (Any Pronoun) ⛧ | - 📩Business Email: darkpixicult@gmail.com - |",
+        "primaryColorHex": "D7C2FF",
+        "followers": {
+            "totalCount": 7779
+        },
+        "follows": {
+            "totalCount": 456
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-30T19:16:37.923729Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/97c1e20c-99a1-4917-b19a-241be292a813-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1900d66-03f8-483e-a0d8-f2027ff7a888-profile_banner-480.png"
+    }
 }

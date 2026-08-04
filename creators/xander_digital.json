@@ -1,4 +1,27 @@
 {
     "bio": "Musical Artist & Producer that got isekai’d into the internet. A Variety Streamer!",
-    "id": "598914954"
+    "twitch": {
+        "id": "598914954",
+        "login": "xander_digital",
+        "displayName": "Xander_Digital",
+        "createdAt": "2020-10-23T02:04:19.084601Z",
+        "updatedAt": "2026-08-03T06:05:03.75786Z",
+        "description": "Musical Artist & Producer that got isekai’d into the internet. A Variety Streamer!",
+        "primaryColorHex": "940300",
+        "followers": {
+            "totalCount": 2500
+        },
+        "follows": {
+            "totalCount": 1137
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T03:31:43.849668Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc6fd939-73d1-420d-9e5e-7377ce8ecf40-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/40c1da32-d57c-4fd3-b87c-d7b1ea92050c-profile_banner-480.png"
+    }
 }

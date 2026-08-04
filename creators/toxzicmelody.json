@@ -1,4 +1,27 @@
 {
     "bio": "I'M BEING CRUCIFIED",
-    "id": "511523157"
+    "twitch": {
+        "id": "511523157",
+        "login": "toxzicmelody",
+        "displayName": "toxzicmelody",
+        "createdAt": "2020-04-10T00:45:14.548382Z",
+        "updatedAt": "2026-07-27T14:24:22.06834Z",
+        "description": "I'M BEING CRUCIFIED",
+        "primaryColorHex": "D1FFCC",
+        "followers": {
+            "totalCount": 705
+        },
+        "follows": {
+            "totalCount": 548
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-27T15:56:07.893566Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02368d19-7b30-4425-aa72-89e74779409b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7098b0-3a47-46fd-8ff2-097a73d0af3f-profile_banner-480.png"
+    }
 }

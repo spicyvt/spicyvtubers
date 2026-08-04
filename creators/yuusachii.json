@@ -1,4 +1,27 @@
 {
     "bio": "🍆Eggplant Vtuber and an active Cosplayer🍆 | streams at around 4pm CET depending on my mood.",
-    "id": "598279397"
+    "twitch": {
+        "id": "598279397",
+        "login": "yuusachii",
+        "displayName": "Yuusachii",
+        "createdAt": "2020-10-21T07:34:59.05194Z",
+        "updatedAt": "2026-08-02T15:09:05.210035Z",
+        "description": "🍆Eggplant Vtuber and an active Cosplayer🍆 | streams at around 4pm CET depending on my mood.",
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 6033
+        },
+        "follows": {
+            "totalCount": 440
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T17:50:09.524869Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0615bac2-d023-4a43-b7c7-92d58878d5e3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f607cc7b-f505-4b4c-8300-6e322f68522d-profile_banner-480.jpeg"
+    }
 }

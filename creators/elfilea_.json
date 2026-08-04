@@ -1,4 +1,27 @@
 {
-    "bio": "Hi! ♡ I'm Elfilea ",
-    "id": "1168378923"
+    "bio": "Hi! ♡ I'm Elfilea",
+    "twitch": {
+        "id": "1168378923",
+        "login": "elfilea_",
+        "displayName": "Elfilea_",
+        "createdAt": "2024-10-23T17:20:32.637561Z",
+        "updatedAt": "2026-08-02T02:04:07.76474Z",
+        "description": "Hi! ♡ I'm Elfilea ",
+        "primaryColorHex": "2C4F73",
+        "followers": {
+            "totalCount": 2524
+        },
+        "follows": {
+            "totalCount": 172
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-03-18T18:07:12.975008Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/369a1b53-431b-4da4-8759-19cc7c081c9f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c67193b-bf77-414f-b897-e51c679811b8-profile_banner-480.png"
+    }
 }

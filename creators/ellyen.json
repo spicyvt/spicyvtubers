@@ -1,4 +1,27 @@
 {
     "bio": "HI I'M ELLY❗❗ THE CRIME BOSS VTUBER! QUEEN OF CRIME!❗❗ I LOVE HEISTS, FAST CARS, AND GETTING INTO TROUBLE!! ❗❗",
-    "id": "141045387"
+    "twitch": {
+        "id": "141045387",
+        "login": "ellyen",
+        "displayName": "EllyEN",
+        "createdAt": "2016-12-04T08:00:20.104289Z",
+        "updatedAt": "2026-08-02T02:19:11.232683Z",
+        "description": "HI I'M ELLY❗❗ THE CRIME BOSS VTUBER! QUEEN OF CRIME!❗❗ I LOVE HEISTS, FAST CARS, AND GETTING INTO TROUBLE!! ❗❗",
+        "primaryColorHex": "FA2929",
+        "followers": {
+            "totalCount": 130452
+        },
+        "follows": {
+            "totalCount": 875
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T03:29:30.324714Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f2c6d6b-afff-484f-a7c3-b4dae5639e8c-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/06538602-d122-4f5c-9552-347f6b7a66a7-profile_banner-480.jpeg"
+    }
 }

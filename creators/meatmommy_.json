@@ -1,4 +1,27 @@
 {
     "bio": "🌭SHE/HER🌭 Nice to meat, ya! I am the hotdog waifu of your dreams and I am here to serve you some streams! ✉️ opheliaxmortem@gmail.com for business inquiries and collaboration requests.",
-    "id": "420507847"
+    "twitch": {
+        "id": "420507847",
+        "login": "meatmommy_",
+        "displayName": "MeatMommy_",
+        "createdAt": "2019-03-01T21:11:28.359707Z",
+        "updatedAt": "2026-07-29T01:03:01.219985Z",
+        "description": "🌭SHE/HER🌭 Nice to meat, ya! I am the hotdog waifu of your dreams and I am here to serve you some streams! ✉️ opheliaxmortem@gmail.com for business inquiries and collaboration requests.",
+        "primaryColorHex": "8EA23D",
+        "followers": {
+            "totalCount": 2835
+        },
+        "follows": {
+            "totalCount": 944
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T03:07:55.503523Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0afacb70-8d43-4700-9056-6aba2fdba95f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1517111b-85b0-431d-a6db-0ebb3eb55c1e-profile_banner-480.png"
+    }
 }

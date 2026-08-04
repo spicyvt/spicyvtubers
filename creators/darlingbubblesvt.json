@@ -1,4 +1,27 @@
 {
     "bio": "👾 Welcome to the Dollhouse | I enjoy asmr and chatting",
-    "id": "522425869"
+    "twitch": {
+        "id": "522425869",
+        "login": "darlingbubblesvt",
+        "displayName": "darlingbubblesvt",
+        "createdAt": "2020-04-29T02:16:50.92104Z",
+        "updatedAt": "2026-07-29T09:27:18.669699Z",
+        "description": "👾 Welcome to the Dollhouse | I enjoy asmr and chatting",
+        "primaryColorHex": "A569FF",
+        "followers": {
+            "totalCount": 263
+        },
+        "follows": {
+            "totalCount": 257
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:09:57.317397Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/556a5aa6-de16-4007-af53-1e7401df251a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7667ea99-0c46-449b-b3a6-8bf7d20098c5-profile_banner-480.jpeg"
+    }
 }

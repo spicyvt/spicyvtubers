@@ -1,4 +1,27 @@
 {
-    "bio": "Hii I'm Dival, I'm a Strawberry-poison-dart-frog Vtuber. I'm secured destruction you can trust! Variety Streamer & Horror enjoyer ",
-    "id": "75423492"
+    "bio": "Hii I'm Dival, I'm a Strawberry-poison-dart-frog Vtuber. I'm secured destruction you can trust! Variety Streamer & Horror enjoyer",
+    "twitch": {
+        "id": "75423492",
+        "login": "divalthefroge",
+        "displayName": "divalthefroge",
+        "createdAt": "2014-11-18T04:27:40.839606Z",
+        "updatedAt": "2026-08-02T00:09:27.848653Z",
+        "description": "Hii I'm Dival, I'm a Strawberry-poison-dart-frog Vtuber. I'm secured destruction you can trust! Variety Streamer & Horror enjoyer ",
+        "primaryColorHex": "3740C9",
+        "followers": {
+            "totalCount": 259
+        },
+        "follows": {
+            "totalCount": 743
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2024-09-15T01:31:00.262363Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6e6625e-6f6c-4938-a2af-e7252531a1e5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/28f6e70c-c970-4794-bfb8-c3bc2813c252-profile_banner-480.png"
+    }
 }

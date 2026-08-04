@@ -1,4 +1,27 @@
 {
     "bio": "Your favourite bratty demon sent to take over humanity is now playing games",
-    "id": "689437652"
+    "twitch": {
+        "id": "689437652",
+        "login": "peachdemonade",
+        "displayName": "peachdemonade",
+        "createdAt": "2021-05-21T07:23:56.855823Z",
+        "updatedAt": "2026-08-01T02:34:15.493392Z",
+        "description": "Your favourite bratty demon sent to take over humanity is now playing games",
+        "primaryColorHex": "75C9C8",
+        "followers": {
+            "totalCount": 131
+        },
+        "follows": {
+            "totalCount": 44
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T05:43:25.334341Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66580d80-1aeb-421e-aacf-8758842b9890-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

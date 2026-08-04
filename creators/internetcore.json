@@ -1,4 +1,27 @@
 {
     "bio": "im loud and bad at games | for business inquiries only: officialnetcore@gmail.com",
-    "id": "689295097"
+    "twitch": {
+        "id": "689295097",
+        "login": "internetcore",
+        "displayName": "internetcore",
+        "createdAt": "2021-05-20T20:33:08.226371Z",
+        "updatedAt": "2026-08-03T08:33:59.244749Z",
+        "description": "im loud and bad at games | for business inquiries only: officialnetcore@gmail.com",
+        "primaryColorHex": "E0F3FF",
+        "followers": {
+            "totalCount": 3351
+        },
+        "follows": {
+            "totalCount": 588
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T18:17:12.253914Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/17c6c273-101f-4a54-8b72-c074dba149cf-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/18ef43dc-6a57-4cfa-81ea-859767cdc32c-profile_banner-480.jpeg"
+    }
 }

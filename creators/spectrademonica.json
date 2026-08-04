@@ -1,4 +1,27 @@
 {
     "bio": "Hi there ghoulies!! Your banshee queen has arrived, ready to hypnotize you all with her enticing voice 👻😈",
-    "id": "735573737"
+    "twitch": {
+        "id": "735573737",
+        "login": "spectrademonica",
+        "displayName": "SpectraDemonica",
+        "createdAt": "2021-10-19T14:56:57.659971Z",
+        "updatedAt": "2026-07-31T16:00:29.633264Z",
+        "description": "Hi there ghoulies!! Your banshee queen has arrived, ready to hypnotize you all with her enticing voice 👻😈",
+        "primaryColorHex": "8623E3",
+        "followers": {
+            "totalCount": 1659
+        },
+        "follows": {
+            "totalCount": 358
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T19:16:44.813769Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4b0b99ba-87e8-43a4-93d9-56d85a28149b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e1ad497-9846-4e91-b05b-4a9f30687a9f-profile_banner-480.png"
+    }
 }

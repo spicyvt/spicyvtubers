@@ -1,4 +1,27 @@
 {
-    "bio": " Bratty Gremlin Ruler of your heart! ❤️‍🩹🗝️ ",
-    "id": "1365341772"
+    "bio": "Bratty Gremlin Ruler of your heart! ❤️‍🩹🗝️",
+    "twitch": {
+        "id": "1365341772",
+        "login": "rawrumii",
+        "displayName": "rawrumii",
+        "createdAt": "2025-09-10T06:16:33.091855Z",
+        "updatedAt": "2026-08-02T23:32:25.715124Z",
+        "description": " Bratty Gremlin Ruler of your heart! ❤️‍🩹🗝️ ",
+        "primaryColorHex": "F6965E",
+        "followers": {
+            "totalCount": 1713
+        },
+        "follows": {
+            "totalCount": 100
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T01:34:22.965933Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e44024a-cf40-4e9f-ae36-7567b64b747a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b7b3c74-4706-4d64-b057-18f844c9cc9b-profile_banner-480.png"
+    }
 }

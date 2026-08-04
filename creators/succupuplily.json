@@ -1,4 +1,27 @@
 {
     "bio": "hello! I'm SuccuPupLily! and i am a HellHound/Succubus VTuber. I play all kinds of games at random times but overall I just like to have a chill time. hope you enjoy your stay!",
-    "id": "426588143"
+    "twitch": {
+        "id": "426588143",
+        "login": "succupuplily",
+        "displayName": "succupuplily",
+        "createdAt": "2019-03-29T14:58:13.990188Z",
+        "updatedAt": "2026-04-17T00:56:57.240608Z",
+        "description": "hello! I'm SuccuPupLily! and i am a HellHound/Succubus VTuber. I play all kinds of games at random times but overall I just like to have a chill time. hope you enjoy your stay!",
+        "primaryColorHex": "99E3FF",
+        "followers": {
+            "totalCount": 2004
+        },
+        "follows": {
+            "totalCount": 259
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-17T03:13:40.313588Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5402348e-7ece-4073-af96-5c0e03b43a42-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/07baf4af-02e2-4120-b8d8-7b7842b06128-profile_banner-480.jpeg"
+    }
 }

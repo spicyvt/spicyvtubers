@@ -1,4 +1,27 @@
 {
     "bio": "˚₊· ͟͟͞➳🩷🩵 Gremlin princess shortstack vtuber who loves plushies～♡ (⌒ω⌒) ～♡｡",
-    "id": "682041885"
+    "twitch": {
+        "id": "682041885",
+        "login": "gremlili",
+        "displayName": "Gremlili",
+        "createdAt": "2021-04-30T19:06:14.551384Z",
+        "updatedAt": "2026-08-02T19:07:10.391469Z",
+        "description": "˚₊· ͟͟͞➳🩷🩵 Gremlin princess shortstack vtuber who loves plushies～♡ (⌒ω⌒) ～♡｡",
+        "primaryColorHex": "FF9CC5",
+        "followers": {
+            "totalCount": 7086
+        },
+        "follows": {
+            "totalCount": 76
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:45:40.63551Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b95ec741-7041-4f30-8d93-3d7029ed7ba5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/43ea9149-595e-4357-ae8c-01e104ebb15c-profile_banner-480.png"
+    }
 }

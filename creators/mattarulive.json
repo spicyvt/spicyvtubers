@@ -1,4 +1,27 @@
 {
     "bio": "Hi everyone I'm Mattaru! A Vtubing Alpha Male....sometimes XD I know I'm a SMOL boy but I try to be a big man!!",
-    "id": "44112822"
+    "twitch": {
+        "id": "44112822",
+        "login": "mattarulive",
+        "displayName": "MattaruLive",
+        "createdAt": "2013-05-29T23:19:04.418737Z",
+        "updatedAt": "2026-07-28T17:48:44.481673Z",
+        "description": "Hi everyone I'm Mattaru! A Vtubing Alpha Male....sometimes XD I know I'm a SMOL boy but I try to be a big man!!",
+        "primaryColorHex": "238AE2",
+        "followers": {
+            "totalCount": 5221
+        },
+        "follows": {
+            "totalCount": 410
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T22:19:12.666997Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b10f5deb-efeb-4bb7-afa7-46a36a0df0fd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/43434cfc-12d4-4a37-aa08-12be9a7243f0-profile_banner-480.png"
+    }
 }

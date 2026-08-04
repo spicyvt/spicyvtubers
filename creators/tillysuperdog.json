@@ -1,4 +1,27 @@
 {
     "bio": "I'm Slay, I'm Gay and I Dance to K/DA! :3 Business Inquiries - tillysuperdog_business@outlook.com",
-    "id": "204001544"
+    "twitch": {
+        "id": "204001544",
+        "login": "tillysuperdog",
+        "displayName": "TillySuperDog",
+        "createdAt": "2018-03-09T19:41:05.646914Z",
+        "updatedAt": "2026-08-02T16:50:18.277791Z",
+        "description": "I'm Slay, I'm Gay and I Dance to K/DA! :3 Business Inquiries - tillysuperdog_business@outlook.com",
+        "primaryColorHex": "5966E4",
+        "followers": {
+            "totalCount": 1962
+        },
+        "follows": {
+            "totalCount": 659
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T20:28:39.011929Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a97067ee-3082-4f7f-8bab-574554e965d2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0f475cf-58d2-4503-934f-0557f7efbc2a-profile_banner-480.png"
+    }
 }

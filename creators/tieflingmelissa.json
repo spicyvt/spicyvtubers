@@ -1,4 +1,27 @@
 {
     "bio": "Hey there! My name is Melissa Belladonna, your local Tiefling Alchemist Vtuber. I stream D&D content every Tuesday, Thursday and Saturday at 2pm EST / 9pm EET with gaming and ASMR on the side. If you like what you see, then grab that d20 and roll for initiative!",
-    "id": "775949951"
+    "twitch": {
+        "id": "775949951",
+        "login": "tieflingmelissa",
+        "displayName": "TieflingMelissa",
+        "createdAt": "2022-02-26T10:19:20.813199Z",
+        "updatedAt": "2026-07-31T22:25:29.912486Z",
+        "description": "Hey there! My name is Melissa Belladonna, your local Tiefling Alchemist Vtuber. I stream D&D content every Tuesday, Thursday and Saturday at 2pm EST / 9pm EET with gaming and ASMR on the side. If you like what you see, then grab that d20 and roll for initiative!",
+        "primaryColorHex": "C62E33",
+        "followers": {
+            "totalCount": 37964
+        },
+        "follows": {
+            "totalCount": 141
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-01-07T01:58:16.345724Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/30c13bc6-3a6a-4467-a434-c0a0c4b0446c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70dbc89d-da52-471b-8a14-b3565d534054-profile_banner-480.png"
+    }
 }

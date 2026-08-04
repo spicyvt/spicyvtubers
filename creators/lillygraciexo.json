@@ -1,4 +1,27 @@
 {
     "bio": "hey i'm Lilly and i stream twice a week (usually Tuesday and Thursday) on Twitch~  click 'all my links' to find me when i'm offline",
-    "id": "813034196"
+    "twitch": {
+        "id": "813034196",
+        "login": "lillygraciexo",
+        "displayName": "LillyGraciexo",
+        "createdAt": "2022-07-27T19:55:34.938448Z",
+        "updatedAt": "2026-07-30T19:05:07.178061Z",
+        "description": "hey i'm Lilly and i stream twice a week (usually Tuesday and Thursday) on Twitch~  click 'all my links' to find me when i'm offline",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 9425
+        },
+        "follows": {
+            "totalCount": 54
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T20:01:47.914749Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a784f2ce-abd1-4bc2-9535-65d9ae0b661e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2da58c1-8c33-4f1b-9454-839a3091df00-profile_banner-480.jpeg"
+    }
 }

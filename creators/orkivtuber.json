@@ -1,4 +1,27 @@
 {
     "bio": "I'm Killah Orki - an orca ( killer whale ) VTuber! Welcome to my pod! Relax with ASMR, visual novels, retro pc games, and more!",
-    "id": "624323354"
+    "twitch": {
+        "id": "624323354",
+        "login": "orkivtuber",
+        "displayName": "OrkiVTuber",
+        "createdAt": "2020-12-21T19:39:42.241482Z",
+        "updatedAt": "2026-07-18T03:50:10.805537Z",
+        "description": "I'm Killah Orki - an orca ( killer whale ) VTuber! Welcome to my pod! Relax with ASMR, visual novels, retro pc games, and more!",
+        "primaryColorHex": "00C7AC",
+        "followers": {
+            "totalCount": 4443
+        },
+        "follows": {
+            "totalCount": 28
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2024-11-04T04:08:21.022558Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f31b8fa5-1f94-41de-a3a7-3d20c9d10734-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b186176b-3e4a-4f88-8786-8b4ec2559ce2-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "VTuber with way too many avatars. Coffee addict. CAUTION: MAY BITE! ⚠️",
-    "id": "119676566"
+    "twitch": {
+        "id": "119676566",
+        "login": "peacedubz",
+        "displayName": "PeaceDubz",
+        "createdAt": "2016-03-25T02:09:04.528347Z",
+        "updatedAt": "2026-08-03T06:05:25.912221Z",
+        "description": "VTuber with way too many avatars. Coffee addict. CAUTION: MAY BITE! ⚠️",
+        "primaryColorHex": "1341C4",
+        "followers": {
+            "totalCount": 19874
+        },
+        "follows": {
+            "totalCount": 135
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:19:48.250836Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cc51d95-b644-45ce-90c0-5a37bc827c52-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39d0c6bc-e8f5-4c2c-914d-50e64412a0a1-profile_banner-480.png"
+    }
 }

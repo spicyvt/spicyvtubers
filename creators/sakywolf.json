@@ -1,4 +1,27 @@
 {
     "bio": "☆ Allo! My name is Saky! ☆",
-    "id": "142770394"
+    "twitch": {
+        "id": "142770394",
+        "login": "sakywolf",
+        "displayName": "SakyWolf",
+        "createdAt": "2016-12-24T19:38:25.317007Z",
+        "updatedAt": "2026-07-11T17:50:59.573116Z",
+        "description": "☆ Allo! My name is Saky! ☆",
+        "primaryColorHex": "6E0996",
+        "followers": {
+            "totalCount": 107
+        },
+        "follows": {
+            "totalCount": 241
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-11T19:12:06.151906Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0eafa79e-5c15-44da-aa22-e869cfd62ff4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f98c6f8d-44c0-4afa-8c71-0552bef903af-profile_banner-480.png"
+    }
 }

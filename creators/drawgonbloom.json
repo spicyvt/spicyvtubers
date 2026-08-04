@@ -1,4 +1,27 @@
 {
     "bio": "Dreams of leveling up into a Cuddly Cataclysm!! Wanna help yis? :3 Loves monsters!! Plays games! Art art art! Chaty dragon! :3Pronouns Any. I don't care what folks call me. I am what I am and that's all I am yis :3 Is happy little monster at the end of the day.",
-    "id": "782942398"
+    "twitch": {
+        "id": "782942398",
+        "login": "drawgonbloom",
+        "displayName": "DrawgonBloom",
+        "createdAt": "2022-03-26T07:23:48.645162Z",
+        "updatedAt": "2026-08-03T01:11:03.451235Z",
+        "description": "Dreams of leveling up into a Cuddly Cataclysm!! Wanna help yis? :3 Loves monsters!! Plays games! Art art art! Chaty dragon! :3Pronouns Any. I don't care what folks call me. I am what I am and that's all I am yis :3 Is happy little monster at the end of the day.",
+        "primaryColorHex": "57E092",
+        "followers": {
+            "totalCount": 1445
+        },
+        "follows": {
+            "totalCount": 541
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T04:49:23.945508Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c71780b4-70de-44b2-8f82-80e900dd4f46-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7abd2a55-db35-445b-ae74-dc3971f7c38a-profile_banner-480.png"
+    }
 }

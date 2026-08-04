@@ -1,4 +1,27 @@
 {
     "bio": "Hi im aebi (aye-bee) ฅ•ﻌ•ฅ cheesed 2 meet u 🧀🧀🧀  [18+ MDNI]",
-    "id": "236900140"
+    "twitch": {
+        "id": "236900140",
+        "login": "aaebi",
+        "displayName": "aaebi",
+        "createdAt": "2018-07-07T20:07:00.250873Z",
+        "updatedAt": "2026-06-23T23:56:29.079319Z",
+        "description": "Hi im aebi (aye-bee) ฅ•ﻌ•ฅ cheesed 2 meet u 🧀🧀🧀  [18+ MDNI]",
+        "primaryColorHex": "7949C2",
+        "followers": {
+            "totalCount": 8721
+        },
+        "follows": {
+            "totalCount": 435
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-24T02:20:14.309534Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1b0b2bd-af61-41ee-8b33-bd7224e48081-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/758d7988-1d6c-47a7-aa8d-e5bbf62532f5-profile_banner-480.jpeg"
+    }
 }

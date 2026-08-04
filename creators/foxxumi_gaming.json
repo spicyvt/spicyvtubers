@@ -1,4 +1,27 @@
 {
     "bio": "I’m FoxxUmi, a cute, slightly sly and chaotic streamer who loves story-driven games, vivid worlds, and cozy chats. Expect RPGs, shooters, live reactions, big emotions, and plenty of yelling at bosses. Come in, get comfy, and let’s experience it all together.",
-    "id": "1478656070"
+    "twitch": {
+        "id": "1478656070",
+        "login": "foxxumi_gaming",
+        "displayName": "foxxumi_gaming",
+        "createdAt": "2026-04-10T10:19:25.182976Z",
+        "updatedAt": "2026-05-15T18:11:21.674288Z",
+        "description": "I’m FoxxUmi, a cute, slightly sly and chaotic streamer who loves story-driven games, vivid worlds, and cozy chats. Expect RPGs, shooters, live reactions, big emotions, and plenty of yelling at bosses. Come in, get comfy, and let’s experience it all together.",
+        "primaryColorHex": "FF49DE",
+        "followers": {
+            "totalCount": 9
+        },
+        "follows": {
+            "totalCount": 0
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-15T18:00:46.609588Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/755f19b4-eeef-4797-8d59-bedfe18ff2af-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4faec011-abb8-4b8b-908c-d58a4b141a38-profile_banner-480.jpeg"
+    }
 }

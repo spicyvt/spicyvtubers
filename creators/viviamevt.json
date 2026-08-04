@@ -1,4 +1,27 @@
 {
     "bio": "the devil on your shoulder 🦇🌷 weekly streams with gacha + indie horror games ⋆ scuffed karaoke ⋆ chatting ⋆ audio editing ⋆ illustration",
-    "id": "1441886848"
+    "twitch": {
+        "id": "1441886848",
+        "login": "viviamevt",
+        "displayName": "viviamevt",
+        "createdAt": "2026-02-12T03:53:33.691262Z",
+        "updatedAt": "2026-08-01T01:16:27.960887Z",
+        "description": "the devil on your shoulder 🦇🌷 weekly streams with gacha + indie horror games ⋆ scuffed karaoke ⋆ chatting ⋆ audio editing ⋆ illustration",
+        "primaryColorHex": "904E75",
+        "followers": {
+            "totalCount": 213
+        },
+        "follows": {
+            "totalCount": 33
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T01:51:59.780229Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bdc04071-740b-4b28-b53e-2145e6bcf9ef-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b5160a3-9f71-46f8-b18f-07b5cf31216d-profile_banner-480.png"
+    }
 }

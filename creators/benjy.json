@@ -1,4 +1,27 @@
 {
     "bio": "Cat creature",
-    "id": "267123083"
+    "twitch": {
+        "id": "267123083",
+        "login": "benjy",
+        "displayName": "Benjy",
+        "createdAt": "2018-10-15T18:31:22.188188Z",
+        "updatedAt": "2026-08-03T17:53:49.678609Z",
+        "description": "Cat creature",
+        "primaryColorHex": "FBBADC",
+        "followers": {
+            "totalCount": 47869
+        },
+        "follows": {
+            "totalCount": 213
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:01:19.978995Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf7959d8-23ae-4269-8e5e-083e8b1ee584-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2fdfe5c-220e-48f4-bea5-e0164f1c9cc7-profile_banner-480.png"
+    }
 }

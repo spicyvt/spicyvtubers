@@ -1,4 +1,27 @@
 {
     "bio": "Your Fav Cyberpunk Waifu?LewdVtuber,",
-    "id": "719599992"
+    "twitch": {
+        "id": "719599992",
+        "login": "nova_star69",
+        "displayName": "Nova_Star69",
+        "createdAt": "2021-08-20T20:24:12.02541Z",
+        "updatedAt": "2026-07-30T23:06:18.788296Z",
+        "description": "Your Fav Cyberpunk Waifu?LewdVtuber,",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 407
+        },
+        "follows": {
+            "totalCount": 108
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T02:33:48.800783Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/30c4068f-1f1a-4feb-913f-61b343434889-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/24174d5b-b9ce-4323-a9e1-59bf3710e10c-profile_banner-480.png"
+    }
 }

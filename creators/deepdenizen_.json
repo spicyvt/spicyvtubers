@@ -1,4 +1,27 @@
 {
     "bio": "Come One, Come All, welcome to the depths where yours truly loves to make a splash! Whether I'm here to make you smile, or maybe just a bit of banter, rest assured Ill capture your heart in seaweed and assimilate you into my hivemind~",
-    "id": "529205445"
+    "twitch": {
+        "id": "529205445",
+        "login": "deepdenizen_",
+        "displayName": "Deepdenizen_",
+        "createdAt": "2020-05-11T17:30:41.533014Z",
+        "updatedAt": "2026-07-19T22:47:22.485464Z",
+        "description": "Come One, Come All, welcome to the depths where yours truly loves to make a splash! Whether I'm here to make you smile, or maybe just a bit of banter, rest assured Ill capture your heart in seaweed and assimilate you into my hivemind~",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 1270
+        },
+        "follows": {
+            "totalCount": 1935
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-12T20:20:06.597559Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ecc71c32-acf4-40d3-8d49-87bee337513e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/208912b0-63d7-4c27-9439-7f303384b024-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦ THE PERFECT ORGANISM . . . ",
-    "id": "167873863"
+    "bio": "꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦ THE PERFECT ORGANISM . . .",
+    "twitch": {
+        "id": "167873863",
+        "login": "vexmlk",
+        "displayName": "VEXMLK",
+        "createdAt": "2017-08-02T06:03:37.598929Z",
+        "updatedAt": "2026-08-02T18:46:11.820093Z",
+        "description": "꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦ THE PERFECT ORGANISM . . . ",
+        "primaryColorHex": "8D0000",
+        "followers": {
+            "totalCount": 28197
+        },
+        "follows": {
+            "totalCount": 641
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:14:55.282665Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed161af8-4d19-4059-bb00-f38a29bc6d56-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e33f8131-a7c3-4438-a82e-2e881ba1151d-profile_banner-480.png"
+    }
 }

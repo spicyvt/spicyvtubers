@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "97572906"
+    "twitch": {
+        "id": "97572906",
+        "login": "ryanrespawns",
+        "displayName": "RyanRespawns",
+        "createdAt": "2015-07-29T03:49:02.628699Z",
+        "updatedAt": "2026-08-02T07:13:10.036527Z",
+        "description": "",
+        "primaryColorHex": "548194",
+        "followers": {
+            "totalCount": 2830
+        },
+        "follows": {
+            "totalCount": 341
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T09:13:12.60849Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/94390b0b-f238-49ba-9083-f434cef278f9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7a0e243-2133-43ee-9f2b-07430858d6e0-profile_banner-480.jpeg"
+    }
 }

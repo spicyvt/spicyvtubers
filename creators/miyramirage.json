@@ -1,4 +1,27 @@
 {
-    "bio": "❄️ Your new favourite snow leopard ❄️ ",
-    "id": "1304832592"
+    "bio": "❄️ Your new favourite snow leopard ❄️",
+    "twitch": {
+        "id": "1304832592",
+        "login": "miyramirage",
+        "displayName": "MiyraMirage",
+        "createdAt": "2025-04-30T10:54:11.990374Z",
+        "updatedAt": "2026-08-03T00:02:35.213312Z",
+        "description": "❄️ Your new favourite snow leopard ❄️ ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 8255
+        },
+        "follows": {
+            "totalCount": 319
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T03:58:40.564001Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55d3f64c-71cf-4077-92df-11dc3dcd6e59-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef3ec00c-fadd-40e3-9bfa-6c070e0393e7-profile_banner-480.jpeg"
+    }
 }

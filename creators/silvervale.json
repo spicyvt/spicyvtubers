@@ -1,4 +1,27 @@
 {
     "bio": "🌸 Hi! I'm Silver, a cozy Sakura Wolf VTuber! 🌸 I hope you enjoy the chill vibes, wholesome community, and degen games! | ✉️ BUSINESS EMAIL: silvervale@mythictalent.com ✉️",
-    "id": "56938961"
+    "twitch": {
+        "id": "56938961",
+        "login": "silvervale",
+        "displayName": "Silvervale",
+        "createdAt": "2014-02-16T20:16:02.42419Z",
+        "updatedAt": "2026-07-11T18:50:17.845896Z",
+        "description": "🌸 Hi! I'm Silver, a cozy Sakura Wolf VTuber! 🌸 I hope you enjoy the chill vibes, wholesome community, and degen games! | ✉️ BUSINESS EMAIL: silvervale@mythictalent.com ✉️",
+        "primaryColorHex": "F58CE0",
+        "followers": {
+            "totalCount": 517282
+        },
+        "follows": {
+            "totalCount": 583
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-09T21:23:24.094307Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6792e70b-e5a1-49aa-ad06-1d48a22323b3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de812c73-32b8-4c83-b54b-5480bfb56770-profile_banner-480.png"
+    }
 }

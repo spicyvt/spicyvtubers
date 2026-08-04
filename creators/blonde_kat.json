@@ -1,4 +1,27 @@
 {
     "bio": "Henyo~ I'm Kat, your local katgirl lewdtuber~ 😼",
-    "id": "193814513"
+    "twitch": {
+        "id": "193814513",
+        "login": "blonde_kat",
+        "displayName": "Blonde_Kat",
+        "createdAt": "2018-01-30T03:10:23.423863Z",
+        "updatedAt": "2026-06-24T19:04:59.389204Z",
+        "description": "Henyo~ I'm Kat, your local katgirl lewdtuber~ 😼",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 189
+        },
+        "follows": {
+            "totalCount": 113
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-24T22:50:05.734748Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/946dd277-ec9a-48fe-bc25-6fdbe4031a1c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6b3d390-55b5-442a-be74-b7e40c07da7c-profile_banner-480.png"
+    }
 }

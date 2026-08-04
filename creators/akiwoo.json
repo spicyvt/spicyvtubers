@@ -1,4 +1,27 @@
 {
     "bio": "Welcome to the 𝓯𝓻𝓮𝓪𝓴𝔂𝔀𝓸𝓸 twitch channel. This is a comedy stream thinly disguised as gooner bait.",
-    "id": "27243360"
+    "twitch": {
+        "id": "27243360",
+        "login": "akiwoo",
+        "displayName": "akiwoo",
+        "createdAt": "2012-01-05T10:17:13.994385Z",
+        "updatedAt": "2026-08-01T13:25:04.391988Z",
+        "description": "Welcome to the 𝓯𝓻𝓮𝓪𝓴𝔂𝔀𝓸𝓸 twitch channel. This is a comedy stream thinly disguised as gooner bait.",
+        "primaryColorHex": "EB8BCC",
+        "followers": {
+            "totalCount": 17918
+        },
+        "follows": {
+            "totalCount": 542
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T14:46:03.240008Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63552fa5-71da-45d0-a9a7-9491afb3ff2b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52c861c9-0502-477f-becf-46ab1bd546d9-profile_banner-480.png"
+    }
 }

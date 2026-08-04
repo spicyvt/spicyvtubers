@@ -1,4 +1,27 @@
 {
-    "bio": "Hello I am Ava. I am a lava lamp that gained sentience after a crazy party where a bunch of magical beings mixed some random things inside my lamp. I am a vtuber. ",
-    "id": "625404741"
+    "bio": "Hello I am Ava. I am a lava lamp that gained sentience after a crazy party where a bunch of magical beings mixed some random things inside my lamp. I am a vtuber.",
+    "twitch": {
+        "id": "625404741",
+        "login": "ava_lamp",
+        "displayName": "Ava_Lamp",
+        "createdAt": "2020-12-24T15:37:23.946701Z",
+        "updatedAt": "2026-08-01T17:38:14.331752Z",
+        "description": "Hello I am Ava. I am a lava lamp that gained sentience after a crazy party where a bunch of magical beings mixed some random things inside my lamp. I am a vtuber. ",
+        "primaryColorHex": "F983E4",
+        "followers": {
+            "totalCount": 26683
+        },
+        "follows": {
+            "totalCount": 464
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T21:34:08.254125Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d6ed831-ec99-4c86-8bec-0e4fcd6053dd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b30e6c61-15b1-4adc-9406-7241cd4935c9-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "glitch vampire 👾🩸⌇ variety vtuber/streamer ⌇ 📧 koopsiekoops@gmail.com ⌇ gremlin 24/7",
-    "id": "15732808"
+    "twitch": {
+        "id": "15732808",
+        "login": "koopsiekoo",
+        "displayName": "KoopsieKoo",
+        "createdAt": "2010-09-18T18:58:43.744602Z",
+        "updatedAt": "2026-08-03T23:26:11.735031Z",
+        "description": "glitch vampire 👾🩸⌇ variety vtuber/streamer ⌇ 📧 koopsiekoops@gmail.com ⌇ gremlin 24/7",
+        "primaryColorHex": "7B24FF",
+        "followers": {
+            "totalCount": 1171
+        },
+        "follows": {
+            "totalCount": 224
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T03:43:48.51348Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4eec699-4e5a-4d7b-8cb4-b5f171bcc575-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/80845247-2608-4e07-bf47-affe23089c2a-profile_banner-480.png"
+    }
 }

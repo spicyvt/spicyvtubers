@@ -1,4 +1,27 @@
 {
     "bio": "★I'm just a Horni Punk A*ss Vtuber★",
-    "id": "466244213"
+    "twitch": {
+        "id": "466244213",
+        "login": "fefe",
+        "displayName": "FeFe",
+        "createdAt": "2019-10-10T05:55:04.365787Z",
+        "updatedAt": "2026-08-01T22:54:25.596211Z",
+        "description": "★I'm just a Horni Punk A*ss Vtuber★",
+        "primaryColorHex": "CA3F3C",
+        "followers": {
+            "totalCount": 226776
+        },
+        "follows": {
+            "totalCount": 1185
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T00:53:08.45374Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/27ddfcb9-c725-4998-a9d9-c865bfff4385-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/688eb626-27d0-44e5-94d4-c8b95ecb73ff-profile_banner-480.png"
+    }
 }

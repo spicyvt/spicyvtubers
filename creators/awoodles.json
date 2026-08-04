@@ -1,4 +1,27 @@
 {
     "bio": "just a 𝙄𝙢𝙥 𝓟𝓾𝓹𝓹𝔂 playing videogames whenever she can💜",
-    "id": "121819969"
+    "twitch": {
+        "id": "121819969",
+        "login": "awoodles",
+        "displayName": "awoodles",
+        "createdAt": "2016-04-15T07:18:04.659785Z",
+        "updatedAt": "2026-07-27T09:53:08.543605Z",
+        "description": "just a 𝙄𝙢𝙥 𝓟𝓾𝓹𝓹𝔂 playing videogames whenever she can💜",
+        "primaryColorHex": "FAC6D3",
+        "followers": {
+            "totalCount": 3962
+        },
+        "follows": {
+            "totalCount": 1040
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-16T09:37:25.747982Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee87b32d-835c-4014-896c-0780bbe1a691-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/06352a81-382e-4ac5-96bf-3ca694471082-profile_banner-480.png"
+    }
 }

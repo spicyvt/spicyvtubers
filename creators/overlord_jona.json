@@ -1,4 +1,27 @@
 {
     "bio": "Your lovely fox overlord is here to bring various cheer and entertainment to all my lovely vassals! (She/Her)",
-    "id": "61236837"
+    "twitch": {
+        "id": "61236837",
+        "login": "overlord_jona",
+        "displayName": "Overlord_Jona",
+        "createdAt": "2014-04-19T22:41:29.984053Z",
+        "updatedAt": "2026-08-02T17:26:27.219154Z",
+        "description": "Your lovely fox overlord is here to bring various cheer and entertainment to all my lovely vassals! (She/Her)",
+        "primaryColorHex": "FFC9F5",
+        "followers": {
+            "totalCount": 808
+        },
+        "follows": {
+            "totalCount": 413
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T22:04:44.18271Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f1f77ad-496f-4797-be3a-63ae52401362-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bcd90af-9e7e-43b7-94a9-7abb7f885824-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "hi im fakeminecraftgf aka minecraftgf aka mikayla ",
-    "id": "214042074"
+    "bio": "hi im fakeminecraftgf aka minecraftgf aka mikayla",
+    "twitch": {
+        "id": "214042074",
+        "login": "fakeminecraftgf",
+        "displayName": "fakeminecraftgf",
+        "createdAt": "2018-04-13T20:38:03.396533Z",
+        "updatedAt": "2026-08-02T02:46:00.405438Z",
+        "description": "hi im fakeminecraftgf aka minecraftgf aka mikayla ",
+        "primaryColorHex": "C788EC",
+        "followers": {
+            "totalCount": 2943
+        },
+        "follows": {
+            "totalCount": 439
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T23:15:20.916964Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0629851-28e1-48ba-a5ef-c338ef2e0632-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/396b77fd-fc9d-45f5-8dce-b51a4b47910e-profile_banner-480.png"
+    }
 }

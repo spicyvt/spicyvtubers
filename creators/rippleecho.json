@@ -1,4 +1,27 @@
 {
-    "bio": " ͠H-Hiya! I'm Ripplee, call me Ripple if you like^^ I'm your new favorite cutesy, slightly ditzy, slightly clutzy Otter Welcome in to my cozy little lounge where we play a variety of games, make yourself at home with a drink and a book and I hope you'll enjoy your stay and cuddle up awhile",
-    "id": "698131363"
+    "bio": "͠H-Hiya! I'm Ripplee, call me Ripple if you like^^ I'm your new favorite cutesy, slightly ditzy, slightly clutzy Otter Welcome in to my cozy little lounge where we play a variety of games, make yourself at home with a drink and a book and I hope you'll enjoy your stay and cuddle up awhile",
+    "twitch": {
+        "id": "698131363",
+        "login": "rippleecho",
+        "displayName": "RippleEcho",
+        "createdAt": "2021-06-15T16:49:39.370453Z",
+        "updatedAt": "2026-07-17T23:19:38.025258Z",
+        "description": " ͠H-Hiya! I'm Ripplee, call me Ripple if you like^^ I'm your new favorite cutesy, slightly ditzy, slightly clutzy Otter Welcome in to my cozy little lounge where we play a variety of games, make yourself at home with a drink and a book and I hope you'll enjoy your stay and cuddle up awhile",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 882
+        },
+        "follows": {
+            "totalCount": 459
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-18T00:46:19.051373Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f02b064e-88bc-47b1-989f-d96a3ce28542-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/743a924b-1391-4164-a9e4-3338343e33ba-profile_banner-480.png"
+    }
 }

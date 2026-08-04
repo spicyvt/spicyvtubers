@@ -1,4 +1,27 @@
 {
     "bio": "Hello, darling~ My name is Sinfoniath, but you can call me Sin. I'm here to entice you into the world of song, excitement and desire. Once I have you, you'll never want to leave.",
-    "id": "1141904251"
+    "twitch": {
+        "id": "1141904251",
+        "login": "sinfoniath",
+        "displayName": "Sinfoniath",
+        "createdAt": "2024-09-11T17:40:47.192337Z",
+        "updatedAt": "2026-08-02T17:04:13.625712Z",
+        "description": "Hello, darling~ My name is Sinfoniath, but you can call me Sin. I'm here to entice you into the world of song, excitement and desire. Once I have you, you'll never want to leave.",
+        "primaryColorHex": "002F8E",
+        "followers": {
+            "totalCount": 356
+        },
+        "follows": {
+            "totalCount": 43
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T17:39:10.598661Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/91051891-0acc-4f72-9a5e-48acad3edab1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b257e44e-76e2-4667-a7e9-673c30959266-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Giantess succubus mommy VTuber. Your favorite voretuber’s favorite voretuber",
-    "id": "104180660"
+    "twitch": {
+        "id": "104180660",
+        "login": "acvalens",
+        "displayName": "acvalens",
+        "createdAt": "2015-10-11T16:09:36.489485Z",
+        "updatedAt": "2026-07-26T21:00:27.561197Z",
+        "description": "Giantess succubus mommy VTuber. Your favorite voretuber’s favorite voretuber",
+        "primaryColorHex": "EF314E",
+        "followers": {
+            "totalCount": 2839
+        },
+        "follows": {
+            "totalCount": 198
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T23:38:42.008669Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a2dc073-0e84-4830-b477-24796c6df0c2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca5c2740-021c-4aa3-b69d-144e19c223fa-profile_banner-480.png"
+    }
 }

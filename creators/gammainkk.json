@@ -1,4 +1,27 @@
 {
     "bio": "∠( ᐛ 」∠)_",
-    "id": "190381811"
+    "twitch": {
+        "id": "190381811",
+        "login": "gammainkk",
+        "displayName": "GammaInkk",
+        "createdAt": "2018-01-13T00:26:12.962043Z",
+        "updatedAt": "2026-08-01T12:08:48.604111Z",
+        "description": "∠( ᐛ 」∠)_",
+        "primaryColorHex": "FF4441",
+        "followers": {
+            "totalCount": 110026
+        },
+        "follows": {
+            "totalCount": 542
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T15:41:33.43157Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0092e6c9-ac73-443e-8c4d-1cfadff3f8d8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/610c60fe-c468-48d4-a4ee-3dde3eea7a36-profile_banner-480.png"
+    }
 }

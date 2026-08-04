@@ -1,4 +1,27 @@
 {
     "bio": "Mr. Nick is a well-known assassin vtuber who has come out of retirement in a pursuit for vendetta. No bounty can stop his journey, as he ventures through a variety of games. From simulators, to visual novels, to story driven RPS, to his own personal fondness of genre, shooters.",
-    "id": "235523095"
+    "twitch": {
+        "id": "235523095",
+        "login": "mrnick_vt",
+        "displayName": "MrNick_VT",
+        "createdAt": "2018-07-01T22:17:02.211009Z",
+        "updatedAt": "2026-08-03T02:47:42.474698Z",
+        "description": "Mr. Nick is a well-known assassin vtuber who has come out of retirement in a pursuit for vendetta. No bounty can stop his journey, as he ventures through a variety of games. From simulators, to visual novels, to story driven RPS, to his own personal fondness of genre, shooters.",
+        "primaryColorHex": "1369AD",
+        "followers": {
+            "totalCount": 413
+        },
+        "follows": {
+            "totalCount": 593
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-10-08T03:35:35.948414Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb77b00a-ebb3-40ad-9072-9c709b47ce0e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc14b317-bb34-429e-8065-f00dabc51e5f-profile_banner-480.png"
+    }
 }

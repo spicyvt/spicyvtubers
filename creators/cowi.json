@@ -1,4 +1,27 @@
 {
-    "bio": "ʚ♡ɞ your comfy little cow who loves to say moo! ୨♡୧ ",
-    "id": "567749911"
+    "bio": "ʚ♡ɞ your comfy little cow who loves to say moo! ୨♡୧",
+    "twitch": {
+        "id": "567749911",
+        "login": "cowi",
+        "displayName": "Cowi",
+        "createdAt": "2020-08-15T20:37:15.117407Z",
+        "updatedAt": "2026-08-01T07:38:42.290501Z",
+        "description": "ʚ♡ɞ your comfy little cow who loves to say moo! ୨♡୧ ",
+        "primaryColorHex": "EF4946",
+        "followers": {
+            "totalCount": 69810
+        },
+        "follows": {
+            "totalCount": 13
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T10:20:05.723002Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c175a2b0-4fa9-4bce-aaba-78a9b188c573-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b608b47f-c3f5-4ab4-9f8c-e2429e0cb558-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "Hellow ^^ A pinch of tiredness, two teaspoons full of stupidity and a bit weird humour. This recipe should describe me perfectly!  :3 ",
-    "id": "455339519"
+    "bio": "Hellow ^^ A pinch of tiredness, two teaspoons full of stupidity and a bit weird humour. This recipe should describe me perfectly!  :3",
+    "twitch": {
+        "id": "455339519",
+        "login": "manukivt",
+        "displayName": "ManukiVT",
+        "createdAt": "2019-08-17T20:01:05.949758Z",
+        "updatedAt": "2026-08-03T15:03:53.657365Z",
+        "description": "Hellow ^^ A pinch of tiredness, two teaspoons full of stupidity and a bit weird humour. This recipe should describe me perfectly!  :3 ",
+        "primaryColorHex": "6600FF",
+        "followers": {
+            "totalCount": 4575
+        },
+        "follows": {
+            "totalCount": 95
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T15:06:05.736776Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b41644c8-3592-4e9d-be06-b7bcb859a1d2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb62b377-e8fd-46bf-84aa-6576598254d6-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "♥︎ Streams: Twitch / Fansly / Kick / Youtube ┊♥︎ Fansly: Tues & Fri  ┊ NSFW Patreon: Thur & Sun ┊♥︎ VODS on RPLAY: Mon, Wed, Sat ┊📧 gemuyotan@gmail.com",
-    "id": "618343643"
+    "twitch": {
+        "id": "618343643",
+        "login": "gemuyo",
+        "displayName": "gemuyo",
+        "createdAt": "2020-12-09T14:58:11.934084Z",
+        "updatedAt": "2026-07-29T18:55:58.801145Z",
+        "description": "♥︎ Streams: Twitch / Fansly / Kick / Youtube ┊♥︎ Fansly: Tues & Fri  ┊ NSFW Patreon: Thur & Sun ┊♥︎ VODS on RPLAY: Mon, Wed, Sat ┊📧 gemuyotan@gmail.com",
+        "primaryColorHex": "FF8686",
+        "followers": {
+            "totalCount": 32919
+        },
+        "follows": {
+            "totalCount": 621
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T19:43:41.223722Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8aec76ac-92f5-4419-8e40-14ef28e6c570-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1996cbcf-2905-4caa-88a3-86ce13236dad-profile_banner-480.png"
+    }
 }

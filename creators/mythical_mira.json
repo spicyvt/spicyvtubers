@@ -1,4 +1,27 @@
 {
-    "bio": " 🐙Eldritch spawn, @twitch Affiliate, model @Miko_png  #Mirart for fanart 🪸",
-    "id": "191919709"
+    "bio": "🐙Eldritch spawn, @twitch Affiliate, model @Miko_png  #Mirart for fanart 🪸",
+    "twitch": {
+        "id": "191919709",
+        "login": "mythical_mira",
+        "displayName": "Mythical_Mira",
+        "createdAt": "2018-01-20T22:09:06.88785Z",
+        "updatedAt": "2026-08-03T23:32:10.172604Z",
+        "description": " 🐙Eldritch spawn, @twitch Affiliate, model @Miko_png  #Mirart for fanart 🪸",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 2654
+        },
+        "follows": {
+            "totalCount": 567
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T15:50:37.379476Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d88fa16-f4c7-4a93-9f24-5166e34408a1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77ea8a86-4b4a-465e-a7dd-f20beed6bc59-profile_banner-480.png"
+    }
 }

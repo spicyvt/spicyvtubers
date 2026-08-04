@@ -1,4 +1,27 @@
 {
     "bio": "Your Librarian Catgirl Mage! | She/Her | Business Email: novakitty.business@gmail.com",
-    "id": "645127220"
+    "twitch": {
+        "id": "645127220",
+        "login": "novakittyvt",
+        "displayName": "NovaKittyVT",
+        "createdAt": "2021-02-02T19:06:32.364125Z",
+        "updatedAt": "2026-07-30T00:32:00.913903Z",
+        "description": "Your Librarian Catgirl Mage! | She/Her | Business Email: novakitty.business@gmail.com",
+        "primaryColorHex": "6A0200",
+        "followers": {
+            "totalCount": 966
+        },
+        "follows": {
+            "totalCount": 257
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-14T03:34:54.194872Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b8511f9-ca02-4351-a375-f1760fb9c5bd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4f2a798-41a5-49f3-8987-45165b1bac2d-profile_banner-480.png"
+    }
 }

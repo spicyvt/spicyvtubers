@@ -1,4 +1,27 @@
 {
     "bio": "Upper Rank Demon/Symbiote variety streamer! Let the breed flow through you~",
-    "id": "1283147489"
+    "twitch": {
+        "id": "1283147489",
+        "login": "breedvt",
+        "displayName": "breedvt",
+        "createdAt": "2025-03-18T03:20:06.639529Z",
+        "updatedAt": "2026-08-03T05:53:27.004613Z",
+        "description": "Upper Rank Demon/Symbiote variety streamer! Let the breed flow through you~",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 657
+        },
+        "follows": {
+            "totalCount": 815
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-03-21T02:10:55.752848Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/925c7cec-f1a7-473e-ad2f-e0428bc0eb63-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/43e4f7c8-4d4b-4de2-98fc-d2148e55e324-profile_banner-480.png"
+    }
 }

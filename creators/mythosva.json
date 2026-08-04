@@ -1,4 +1,27 @@
 {
     "bio": "Professional Good Boy | MDNI +18 | pfp by @OniSpandex",
-    "id": "49838033"
+    "twitch": {
+        "id": "49838033",
+        "login": "mythosva",
+        "displayName": "MythosVA",
+        "createdAt": "2013-10-05T21:50:28.602255Z",
+        "updatedAt": "2026-07-28T20:30:16.463841Z",
+        "description": "Professional Good Boy | MDNI +18 | pfp by @OniSpandex",
+        "primaryColorHex": "C74584",
+        "followers": {
+            "totalCount": 5627
+        },
+        "follows": {
+            "totalCount": 65
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T23:32:27.49593Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/41301bf4-9089-4fef-941a-68ee041a2567-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e851a39-74fb-4096-ac3f-4837a89d0af8-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hihi!! I’m Mini, a Puppy Dragon Vtuber! 🔮🦴 Debut TBD~",
-    "id": "763783626"
+    "twitch": {
+        "id": "763783626",
+        "login": "minishipaws",
+        "displayName": "MinishiPaws",
+        "createdAt": "2022-01-19T15:13:16.559154Z",
+        "updatedAt": "2026-06-30T08:17:25.093784Z",
+        "description": "Hihi!! I’m Mini, a Puppy Dragon Vtuber! 🔮🦴 Debut TBD~",
+        "primaryColorHex": "B5A1D1",
+        "followers": {
+            "totalCount": 931
+        },
+        "follows": {
+            "totalCount": 63
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-03T04:03:36.628977Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f3e2e31-d2af-4de2-88e0-4278952c026f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47635555-9147-49ca-bd52-e0e8f665749e-profile_banner-480.png"
+    }
 }

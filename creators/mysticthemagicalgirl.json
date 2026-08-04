@@ -1,4 +1,27 @@
 {
     "bio": "Vtuber/Voice Actress~! Redheaded princess moonlighting as a lustful magical girl~! Donation: https://streamlabs.com/mysticthemagicalgirl/tip (Streams may contain mature themes & language) Vtuber Models By: ViviriaStudio https://x.com/ViviriaStudio",
-    "id": "527429472"
+    "twitch": {
+        "id": "527429472",
+        "login": "mysticthemagicalgirl",
+        "displayName": "MysticTheMagicalGirl",
+        "createdAt": "2020-05-08T05:46:58.219916Z",
+        "updatedAt": "2026-07-29T02:02:15.570677Z",
+        "description": "Vtuber/Voice Actress~! Redheaded princess moonlighting as a lustful magical girl~! Donation: https://streamlabs.com/mysticthemagicalgirl/tip (Streams may contain mature themes & language) Vtuber Models By: ViviriaStudio https://x.com/ViviriaStudio",
+        "primaryColorHex": "FA2929",
+        "followers": {
+            "totalCount": 5147
+        },
+        "follows": {
+            "totalCount": 1997
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T03:36:58.992694Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d2d0508-9479-4aef-a016-50d94780b38f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8b1dc96-566d-47ee-b640-0ee9c289243e-profile_banner-480.png"
+    }
 }

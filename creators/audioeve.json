@@ -1,4 +1,27 @@
 {
     "bio": "Pro Whisperer and Snugglebug 💗🌸 Making Wholesome and Spicy Content | Business Email: management.audioeve@gmail.com",
-    "id": "867012553"
+    "twitch": {
+        "id": "867012553",
+        "login": "audioeve",
+        "displayName": "AudioEve",
+        "createdAt": "2023-01-05T02:36:02.67216Z",
+        "updatedAt": "2026-08-03T02:00:32.652726Z",
+        "description": "Pro Whisperer and Snugglebug 💗🌸 Making Wholesome and Spicy Content | Business Email: management.audioeve@gmail.com",
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 6419
+        },
+        "follows": {
+            "totalCount": 133
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:04:49.537088Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70fe02d9-9cd1-4d6c-930d-14e76641942e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cd94ac9-444d-436e-bee1-c4c628e36b7a-profile_banner-480.jpeg"
+    }
 }

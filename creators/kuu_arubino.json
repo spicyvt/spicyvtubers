@@ -1,4 +1,27 @@
 {
     "bio": "im funny sometimes i swear | You can call me Kuaru or Kuu! Kuu is Korean Indie Vtuber, an E̷l̷̔d̫͌r̝̕į̵t̾ċh̚ Albino one at that! I'm on the internet to make friends and hopefully make people laugh.",
-    "id": "717834100"
+    "twitch": {
+        "id": "717834100",
+        "login": "kuu_arubino",
+        "displayName": "Kuu_Arubino",
+        "createdAt": "2021-08-15T12:03:34.09012Z",
+        "updatedAt": "2026-02-26T18:22:08.310168Z",
+        "description": "im funny sometimes i swear | You can call me Kuaru or Kuu! Kuu is Korean Indie Vtuber, an E̷l̷̔d̫͌r̝̕į̵t̾ċh̚ Albino one at that! I'm on the internet to make friends and hopefully make people laugh.",
+        "primaryColorHex": "EBB9FF",
+        "followers": {
+            "totalCount": 2707
+        },
+        "follows": {
+            "totalCount": 688
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-03-30T21:53:13.185739Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca59245c-7d21-46aa-8600-496cd29aec09-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8d4908b-920e-4ba0-9dea-78bf74ab208a-profile_banner-480.png"
+    }
 }

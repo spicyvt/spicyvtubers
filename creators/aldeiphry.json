@@ -1,4 +1,27 @@
 {
     "bio": "Don't let the bad feelings and negativity of the world bring down your light and Joy. Be who you want to be, and not who the world forces you to be. Smile! Enjoy Life! If you let the bad stuff get to you, you will lose yourself. You are worth fighting for, so don't let it win.",
-    "id": "218744928"
+    "twitch": {
+        "id": "218744928",
+        "login": "aldeiphry",
+        "displayName": "Aldeiphry",
+        "createdAt": "2018-05-05T23:38:25.757077Z",
+        "updatedAt": "2026-07-12T20:45:25.718268Z",
+        "description": "Don't let the bad feelings and negativity of the world bring down your light and Joy. Be who you want to be, and not who the world forces you to be. Smile! Enjoy Life! If you let the bad stuff get to you, you will lose yourself. You are worth fighting for, so don't let it win.",
+        "primaryColorHex": "FF0088",
+        "followers": {
+            "totalCount": 431
+        },
+        "follows": {
+            "totalCount": 474
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-12T21:11:13.940289Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ba04828-3409-404f-99cb-61b8020eca39-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe507ca1-e414-45bf-9d22-5b912e35da4b-profile_banner-480.png"
+    }
 }

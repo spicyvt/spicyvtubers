@@ -1,4 +1,27 @@
 {
     "bio": "Ser vato no te quita lo wuapa.",
-    "id": "584309259"
+    "twitch": {
+        "id": "584309259",
+        "login": "chainavt",
+        "displayName": "ChainaVT",
+        "createdAt": "2020-09-17T23:05:00.612448Z",
+        "updatedAt": "2026-08-03T01:30:47.085324Z",
+        "description": "Ser vato no te quita lo wuapa.",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 62513
+        },
+        "follows": {
+            "totalCount": 1815
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T04:26:46.388031Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de9a041c-44e7-4120-92fd-d9032e1ae8e7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77621a95-b82c-4bd1-8cfb-40024e766670-profile_banner-480.png"
+    }
 }

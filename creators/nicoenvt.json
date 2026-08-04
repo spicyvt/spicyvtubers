@@ -1,4 +1,27 @@
 {
     "bio": "https://nicoenvt.carrd.co/",
-    "id": "734366039"
+    "twitch": {
+        "id": "734366039",
+        "login": "nicoenvt",
+        "displayName": "NicoENVT",
+        "createdAt": "2021-10-14T21:23:30.076075Z",
+        "updatedAt": "2026-07-24T18:00:15.033981Z",
+        "description": "https://nicoenvt.carrd.co/",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 5292
+        },
+        "follows": {
+            "totalCount": 298
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-24T20:27:32.264992Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbd66e73-2300-4d2c-b10b-425c93342890-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6ab95e3-3cd4-49cf-9cb1-32f9cc0a81da-profile_banner-480.png"
+    }
 }

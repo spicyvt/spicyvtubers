@@ -1,4 +1,27 @@
 {
     "bio": "Hello my name ErisQT, I am a neko from another universe only here to provide entertainment for your amusement Nyaa~ Pronouns - She/Her 18+ ONLY Business Inquires: erisqtbusiness@gmail.com",
-    "id": "151357337"
+    "twitch": {
+        "id": "151357337",
+        "login": "eris_qt",
+        "displayName": "Eris_QT",
+        "createdAt": "2017-03-24T19:19:57.950923Z",
+        "updatedAt": "2026-07-02T23:59:15.744213Z",
+        "description": "Hello my name ErisQT, I am a neko from another universe only here to provide entertainment for your amusement Nyaa~ Pronouns - She/Her 18+ ONLY Business Inquires: erisqtbusiness@gmail.com",
+        "primaryColorHex": "AF87EC",
+        "followers": {
+            "totalCount": 546
+        },
+        "follows": {
+            "totalCount": 534
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-02T02:39:26.379536Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/78f1c5b5-952f-49f1-8c88-3c765d5bd5a3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/473c70bc-4d1f-4e40-9b0b-3b24c9964a91-profile_banner-480.png"
+    }
 }

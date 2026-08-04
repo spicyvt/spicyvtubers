@@ -1,4 +1,27 @@
 {
     "bio": "Hellhound VTuber 🔥 | Descend into VTuber Hell with me~",
-    "id": "617455187"
+    "twitch": {
+        "id": "617455187",
+        "login": "sinder",
+        "displayName": "Sinder",
+        "createdAt": "2020-12-07T00:11:23.364369Z",
+        "updatedAt": "2026-08-02T16:55:04.629378Z",
+        "description": "Hellhound VTuber 🔥 | Descend into VTuber Hell with me~",
+        "primaryColorHex": "801C1B",
+        "followers": {
+            "totalCount": 295955
+        },
+        "follows": {
+            "totalCount": 279
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T16:55:07.420787Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4aa52abf-2dfa-4bd4-b7c6-6b941f810487-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4b24cf22-88b7-4666-9f04-0816abb6752c-profile_banner-480.png"
+    }
 }

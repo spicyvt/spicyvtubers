@@ -1,4 +1,27 @@
 {
     "bio": "Feelin' just peachy  ❤️🍑❤️🥧❤️",
-    "id": "1074440832"
+    "twitch": {
+        "id": "1074440832",
+        "login": "peachyvt",
+        "displayName": "PeachyVT",
+        "createdAt": "2024-05-01T04:17:45.557143Z",
+        "updatedAt": "2026-04-19T02:32:44.329958Z",
+        "description": "Feelin' just peachy  ❤️🍑❤️🥧❤️",
+        "primaryColorHex": "FF8280",
+        "followers": {
+            "totalCount": 198
+        },
+        "follows": {
+            "totalCount": 40
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-19T08:46:49.079227Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81161de-fe9d-4a82-ae8b-f35055fbc33d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a9b452cb-ce73-4db8-b8de-e3da3e26c860-profile_banner-480.png"
+    }
 }

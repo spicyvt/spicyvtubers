@@ -1,4 +1,27 @@
 {
     "bio": "Welcome! My name is Deca! I am a Wolfboy VTuber from Spain that streams ASMR and games every now and then! Come join us and have a nice relaxing time! | Business Email: decacontactmail@gmail.com",
-    "id": "1071009425"
+    "twitch": {
+        "id": "1071009425",
+        "login": "deca",
+        "displayName": "Deca",
+        "createdAt": "2024-04-23T21:33:21.381818Z",
+        "updatedAt": "2026-08-02T18:46:23.47815Z",
+        "description": "Welcome! My name is Deca! I am a Wolfboy VTuber from Spain that streams ASMR and games every now and then! Come join us and have a nice relaxing time! | Business Email: decacontactmail@gmail.com",
+        "primaryColorHex": "FE3D3A",
+        "followers": {
+            "totalCount": 6103
+        },
+        "follows": {
+            "totalCount": 370
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T22:21:28.669954Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75d4633b-e900-4fc3-ae1e-93323a3f8ec6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf601fbb-4cfa-4383-bf18-7fba4b016778-profile_banner-480.jpeg"
+    }
 }

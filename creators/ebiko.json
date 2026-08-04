@@ -1,4 +1,27 @@
 {
     "bio": "🦐PRAWNSTAR",
-    "id": "553694730"
+    "twitch": {
+        "id": "553694730",
+        "login": "ebiko",
+        "displayName": "Ebiko",
+        "createdAt": "2020-07-12T06:48:41.715915Z",
+        "updatedAt": "2026-08-02T02:46:57.15699Z",
+        "description": "🦐PRAWNSTAR",
+        "primaryColorHex": "FF7E19",
+        "followers": {
+            "totalCount": 74868
+        },
+        "follows": {
+            "totalCount": 478
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T07:30:07.038333Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d7841d5-21af-47ab-ad72-c023966890d0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ef6990-eabb-45ed-98a9-12fa86e327c8-profile_banner-480.jpeg"
+    }
 }

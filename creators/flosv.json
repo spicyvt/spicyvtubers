@@ -1,4 +1,27 @@
 {
     "bio": "⛧Zmora Vtuber ⛧ Artist ⛧Business Contact: flosvbusiness@gmail.com",
-    "id": "147953328"
+    "twitch": {
+        "id": "147953328",
+        "login": "flosv",
+        "displayName": "FlosV",
+        "createdAt": "2017-02-16T22:09:05.66607Z",
+        "updatedAt": "2026-07-25T16:40:25.153464Z",
+        "description": "⛧Zmora Vtuber ⛧ Artist ⛧Business Contact: flosvbusiness@gmail.com",
+        "primaryColorHex": "FF0099",
+        "followers": {
+            "totalCount": 5881
+        },
+        "follows": {
+            "totalCount": 514
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-25T16:52:20.311091Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22add1b1-be59-45f7-8be3-a29996db30c9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/529a77fb-15e3-41da-b7be-737c0aaeb520-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hi, I'm Taw, a fruit bat (he/him)! Indie game dev and full time streamer. Chat loves to bully me, and I have a lot of silly redeems 'cause I'm a silly little guy.",
-    "id": "123355675"
+    "twitch": {
+        "id": "123355675",
+        "login": "a_bat",
+        "displayName": "a_bat",
+        "createdAt": "2016-05-03T06:32:27.442255Z",
+        "updatedAt": "2026-08-01T21:06:24.652491Z",
+        "description": "Hi, I'm Taw, a fruit bat (he/him)! Indie game dev and full time streamer. Chat loves to bully me, and I have a lot of silly redeems 'cause I'm a silly little guy.",
+        "primaryColorHex": "BC4248",
+        "followers": {
+            "totalCount": 9944
+        },
+        "follows": {
+            "totalCount": 566
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:36:38.645559Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff5a686d-4d0c-4623-8a37-ee2037909c51-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba06bde5-7759-468b-882a-3630066f0bbe-profile_banner-480.png"
+    }
 }

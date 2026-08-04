@@ -1,4 +1,27 @@
 {
     "bio": "Hello! The name is Usagi, just a random cave bunny that decided to get out and explore the world! I mostly draw but do love to play games which can be any type of game",
-    "id": "419362997"
+    "twitch": {
+        "id": "419362997",
+        "login": "usagii_art",
+        "displayName": "usagii_art",
+        "createdAt": "2019-02-25T10:24:20.365016Z",
+        "updatedAt": "2026-07-31T10:25:08.165769Z",
+        "description": "Hello! The name is Usagi, just a random cave bunny that decided to get out and explore the world! I mostly draw but do love to play games which can be any type of game",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 2026
+        },
+        "follows": {
+            "totalCount": 372
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T14:56:36.099442Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/be35808c-2471-4faa-90d1-e933b9c37fcf-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec29ddc-7a22-4e06-871b-0864f17c2769-profile_banner-480.png"
+    }
 }

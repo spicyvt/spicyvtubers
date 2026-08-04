@@ -1,4 +1,27 @@
 {
     "bio": "Comfy ASMRtist. Business email: comfynessbusiness@gmail.com",
-    "id": "803878548"
+    "twitch": {
+        "id": "803878548",
+        "login": "comfyness",
+        "displayName": "comfyNess",
+        "createdAt": "2022-06-24T05:27:32.833937Z",
+        "updatedAt": "2025-12-07T20:51:16.851157Z",
+        "description": "Comfy ASMRtist. Business email: comfynessbusiness@gmail.com",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 4723
+        },
+        "follows": {
+            "totalCount": 90
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-10-15T01:27:08.16807Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/08c3a7ad-5f2a-4b67-bb49-334a1fff0660-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/49c16adf-be78-4a7f-8b2d-404c0a33583f-profile_banner-480.png"
+    }
 }

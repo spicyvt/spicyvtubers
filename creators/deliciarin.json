@@ -1,4 +1,27 @@
 {
     "bio": "🪢🩷 shark-oni vtuber here to entertain you. | league, horror, fps & shitposting~! 🌊 delilahogawa@outlook.it for business 📈",
-    "id": "94530601"
+    "twitch": {
+        "id": "94530601",
+        "login": "deliciarin",
+        "displayName": "DeliciaRin",
+        "createdAt": "2015-06-26T16:38:17.824788Z",
+        "updatedAt": "2026-07-30T12:55:47.10389Z",
+        "description": "🪢🩷 shark-oni vtuber here to entertain you. | league, horror, fps & shitposting~! 🌊 delilahogawa@outlook.it for business 📈",
+        "primaryColorHex": "C0D5FF",
+        "followers": {
+            "totalCount": 9674
+        },
+        "follows": {
+            "totalCount": 1230
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T19:35:18.053303Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72ee6c44-af08-4395-9400-49174d5aa4fc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1ffb41d-ed0e-4938-b5cb-b86b825e7773-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "✨️New Sheep #VTuber ✨️ Debut TBD☁️ A fluffy star from the celestial sky.⭐️21+Professional Old Lady🔞MDNI💜Art & Rig: @NullasArt",
-    "id": "1152383753"
+    "twitch": {
+        "id": "1152383753",
+        "login": "ailuvewevt",
+        "displayName": "AiLuvEweVT",
+        "createdAt": "2024-09-27T01:55:10.843478Z",
+        "updatedAt": "2026-07-31T22:28:43.349073Z",
+        "description": "✨️New Sheep #VTuber ✨️ Debut TBD☁️ A fluffy star from the celestial sky.⭐️21+Professional Old Lady🔞MDNI💜Art & Rig: @NullasArt",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 689
+        },
+        "follows": {
+            "totalCount": 658
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-25T12:49:44.162938Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/deb82d44-0bad-4cdd-87a9-2f7f60e30424-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f6d8d92-55f9-4419-930f-b20b0c19ece0-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": " 🐰 Bunny Vtuber 🐰 Artist & Merch Maker 🐰 Gacha Game Addicted",
-    "id": "587692994"
+    "bio": "🐰 Bunny Vtuber 🐰 Artist & Merch Maker 🐰 Gacha Game Addicted",
+    "twitch": {
+        "id": "587692994",
+        "login": "cutie_bunni",
+        "displayName": "Cutie_Bunni",
+        "createdAt": "2020-09-24T21:39:31.241765Z",
+        "updatedAt": "2026-08-03T01:11:26.402451Z",
+        "description": " 🐰 Bunny Vtuber 🐰 Artist & Merch Maker 🐰 Gacha Game Addicted",
+        "primaryColorHex": "F6989A",
+        "followers": {
+            "totalCount": 778
+        },
+        "follows": {
+            "totalCount": 247
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T04:20:13.69456Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf9496b6-8cc4-4024-92f0-16bdde1fa1e4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7ca3d6b7-2d64-40f7-9c4b-81e059f9b667-profile_banner-480.png"
+    }
 }

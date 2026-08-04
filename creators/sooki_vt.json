@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "1428073573"
+    "twitch": {
+        "id": "1428073573",
+        "login": "sooki_vt",
+        "displayName": "sooki_vt",
+        "createdAt": "2026-01-19T20:34:42.210283Z",
+        "updatedAt": "2026-06-05T15:49:19.638242Z",
+        "description": null,
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 23
+        },
+        "follows": {
+            "totalCount": 1
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

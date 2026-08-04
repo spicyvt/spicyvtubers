@@ -1,4 +1,27 @@
 {
     "bio": "💜🖤𝑯𝒂𝒊 𝑯𝒂𝒊 𝑾𝒆𝒊𝒓𝒅𝒐𝒔! 𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑺𝒂𝒍𝒗𝒊. 𝑰'𝒎 𝒂 𝒕𝒂𝒄𝒕𝒊𝒄𝒂𝒍, 𝒈𝒐𝒕𝒉 𝒏𝒆𝒌𝒐 𝑽𝒕𝒖𝒃𝒆𝒓 𝒕𝒉𝒂𝒕 𝒈𝒐𝒆𝒔 𝒐𝒏 𝒎𝒊𝒔𝒔𝒊𝒐𝒏𝒔 𝒘𝒊𝒕𝒉 𝒎𝒚 𝒄𝒐𝒎𝒑𝒂𝒏𝒊𝒐𝒏 𝑩𝒂𝒕𝒔𝒚! 𝑯𝒊𝒕 𝒕𝒉𝒆 𝒇𝒐𝒍𝒍𝒐𝒘 𝒃𝒖𝒕𝒕𝒐𝒏 𝒕𝒐 𝒔𝒆𝒆 𝒘𝒉𝒂𝒕 𝒘𝒆 𝒅𝒐 𝒏𝒆𝒙𝒕 💜🖤",
-    "id": "184716317"
+    "twitch": {
+        "id": "184716317",
+        "login": "salvispice",
+        "displayName": "SalviSpice",
+        "createdAt": "2017-12-07T06:07:51.708672Z",
+        "updatedAt": "2026-08-02T17:14:47.183282Z",
+        "description": "💜🖤𝑯𝒂𝒊 𝑯𝒂𝒊 𝑾𝒆𝒊𝒓𝒅𝒐𝒔! 𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑺𝒂𝒍𝒗𝒊. 𝑰'𝒎 𝒂 𝒕𝒂𝒄𝒕𝒊𝒄𝒂𝒍, 𝒈𝒐𝒕𝒉 𝒏𝒆𝒌𝒐 𝑽𝒕𝒖𝒃𝒆𝒓 𝒕𝒉𝒂𝒕 𝒈𝒐𝒆𝒔 𝒐𝒏 𝒎𝒊𝒔𝒔𝒊𝒐𝒏𝒔 𝒘𝒊𝒕𝒉 𝒎𝒚 𝒄𝒐𝒎𝒑𝒂𝒏𝒊𝒐𝒏 𝑩𝒂𝒕𝒔𝒚! 𝑯𝒊𝒕 𝒕𝒉𝒆 𝒇𝒐𝒍𝒍𝒐𝒘 𝒃𝒖𝒕𝒕𝒐𝒏 𝒕𝒐 𝒔𝒆𝒆 𝒘𝒉𝒂𝒕 𝒘𝒆 𝒅𝒐 𝒏𝒆𝒙𝒕 💜🖤",
+        "primaryColorHex": "8D44FA",
+        "followers": {
+            "totalCount": 1357
+        },
+        "follows": {
+            "totalCount": 283
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T04:54:20.105073Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/815faf3b-81af-4f58-a9a4-634cbd4d4e26-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7121ae3-8369-404f-bcf5-8deede885feb-profile_banner-480.png"
+    }
 }

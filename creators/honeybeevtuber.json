@@ -1,4 +1,27 @@
 {
     "bio": "🍯✨Sticky Sweet Affiliate ✨🍯 🔞VTuber✌️ She/They 💖 a little bratty doofus taken by Pychoshadow 🥰 3D model by @trixie_nova 💗 https://honeybeevtuber.carrd.co",
-    "id": "794085454"
+    "twitch": {
+        "id": "794085454",
+        "login": "honeybeevtuber",
+        "displayName": "honeybeevtuber",
+        "createdAt": "2022-05-10T03:59:41.547691Z",
+        "updatedAt": "2026-07-26T00:12:29.64556Z",
+        "description": "🍯✨Sticky Sweet Affiliate ✨🍯 🔞VTuber✌️ She/They 💖 a little bratty doofus taken by Pychoshadow 🥰 3D model by @trixie_nova 💗 https://honeybeevtuber.carrd.co",
+        "primaryColorHex": "FFDA47",
+        "followers": {
+            "totalCount": 359
+        },
+        "follows": {
+            "totalCount": 387
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T02:20:47.840807Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9533fd89-fcf4-418a-ad9c-e2048847bed9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b8d7644-062b-460b-94df-4535885c2e56-profile_banner-480.jpeg"
+    }
 }

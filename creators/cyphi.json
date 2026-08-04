@@ -1,4 +1,27 @@
 {
     "bio": "cat that plays games (mainly horror & simulation)",
-    "id": "237566620"
+    "twitch": {
+        "id": "237566620",
+        "login": "cyphi",
+        "displayName": "Cyphi",
+        "createdAt": "2018-07-10T07:51:01.170254Z",
+        "updatedAt": "2026-07-21T05:55:58.420305Z",
+        "description": "cat that plays games (mainly horror & simulation)",
+        "primaryColorHex": "452D70",
+        "followers": {
+            "totalCount": 5434
+        },
+        "follows": {
+            "totalCount": 190
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-14T06:10:56.428593Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aeba1fa9-e373-4a3a-82f5-dd6aedb725d8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba1c15dd-1a08-4941-8551-b576301c1f84-profile_banner-480.png"
+    }
 }

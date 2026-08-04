@@ -1,4 +1,27 @@
 {
-    "bio": "⋆♡˚ 𝕸𝖔𝖙𝖍𝖊𝖗 𝖔𝖋 𝕷𝖎𝖟𝖆𝖗𝖉𝖘˚♡ ⋆ 🏳️‍🌈Vtuber/IRL + 🦎Lizard Livestreams --PFP: @/JonOrange7734 Cover Photo: @/ricepanda69 ",
-    "id": "153873824"
+    "bio": "⋆♡˚ 𝕸𝖔𝖙𝖍𝖊𝖗 𝖔𝖋 𝕷𝖎𝖟𝖆𝖗𝖉𝖘˚♡ ⋆ 🏳️‍🌈Vtuber/IRL + 🦎Lizard Livestreams --PFP: @/JonOrange7734 Cover Photo: @/ricepanda69",
+    "twitch": {
+        "id": "153873824",
+        "login": "linrar",
+        "displayName": "LinRAR",
+        "createdAt": "2017-04-19T04:25:21.787992Z",
+        "updatedAt": "2026-07-31T02:49:09.14195Z",
+        "description": "⋆♡˚ 𝕸𝖔𝖙𝖍𝖊𝖗 𝖔𝖋 𝕷𝖎𝖟𝖆𝖗𝖉𝖘˚♡ ⋆ 🏳️‍🌈Vtuber/IRL + 🦎Lizard Livestreams --PFP: @/JonOrange7734 Cover Photo: @/ricepanda69 ",
+        "primaryColorHex": "8205B3",
+        "followers": {
+            "totalCount": 1991
+        },
+        "follows": {
+            "totalCount": 184
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T04:55:44.448485Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c0713d9-4b01-4a08-aa8d-9de41ae654e4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae90201c-01ae-46ef-b475-3eef95b7c8a2-profile_banner-480.png"
+    }
 }

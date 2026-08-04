@@ -1,4 +1,27 @@
 {
-    "bio": "🕯️ Eliza or Ellie | 26 | Haunted soul with a soft spot for orange cats 🐈🧡 Dinosaurs, sharks, and nightmares fuel me 🦖🦈🩸 Anime care advocate in a cruel world 🥀 ",
-    "id": "26103650"
+    "bio": "🕯️ Eliza or Ellie | 26 | Haunted soul with a soft spot for orange cats 🐈🧡 Dinosaurs, sharks, and nightmares fuel me 🦖🦈🩸 Anime care advocate in a cruel world 🥀",
+    "twitch": {
+        "id": "26103650",
+        "login": "elliesharkbite",
+        "displayName": "EllieSharkBite",
+        "createdAt": "2011-11-13T02:02:05.562615Z",
+        "updatedAt": "2026-06-13T20:52:25.235155Z",
+        "description": "🕯️ Eliza or Ellie | 26 | Haunted soul with a soft spot for orange cats 🐈🧡 Dinosaurs, sharks, and nightmares fuel me 🦖🦈🩸 Anime care advocate in a cruel world 🥀 ",
+        "primaryColorHex": "CF0000",
+        "followers": {
+            "totalCount": 795
+        },
+        "follows": {
+            "totalCount": 134
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-12T21:45:40.277527Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa2a78da-77d6-46e8-92b6-8a199cf5fe56-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c5b7ae8-e101-4e6c-ac80-cd68122ca8d1-profile_banner-480.jpeg"
+    }
 }

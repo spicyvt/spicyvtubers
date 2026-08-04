@@ -1,4 +1,27 @@
 {
     "bio": "Hi! I'm Kaffy, a french VTuber (Sometimes PNGtuber) who try to speak english and not colapse from anxiety! I hope we can be friend^^",
-    "id": "773010116"
+    "twitch": {
+        "id": "773010116",
+        "login": "kkaffy",
+        "displayName": "kkaffy",
+        "createdAt": "2022-02-15T23:31:24.118278Z",
+        "updatedAt": "2026-07-28T00:33:33.732741Z",
+        "description": "Hi! I'm Kaffy, a french VTuber (Sometimes PNGtuber) who try to speak english and not colapse from anxiety! I hope we can be friend^^",
+        "primaryColorHex": "7A629E",
+        "followers": {
+            "totalCount": 536
+        },
+        "follows": {
+            "totalCount": 386
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T03:30:47.534732Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7e391ee-b3e7-496c-8087-dcfbd88263d7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a57fe920-2688-4b51-a56b-951507691bf2-profile_banner-480.png"
+    }
 }

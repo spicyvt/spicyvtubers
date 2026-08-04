@@ -1,4 +1,27 @@
 {
     "bio": "The head empty big hearted Catboy that does a variety of things like gaming, asmr, singing, and more! 18+ He/they content creator from NA.  Member of Twitch's Pride Guild and Vtuber Creator Club  I love helping others have a better day. Business email: Yuukikoubyou@gmail.com",
-    "id": "20874468"
+    "twitch": {
+        "id": "20874468",
+        "login": "yuukikoubyou",
+        "displayName": "YuukiKoubyou",
+        "createdAt": "2011-03-04T03:21:30.701935Z",
+        "updatedAt": "2026-08-03T11:03:42.290871Z",
+        "description": "The head empty big hearted Catboy that does a variety of things like gaming, asmr, singing, and more! 18+ He/they content creator from NA.  Member of Twitch's Pride Guild and Vtuber Creator Club  I love helping others have a better day. Business email: Yuukikoubyou@gmail.com",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 7039
+        },
+        "follows": {
+            "totalCount": 1370
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T14:38:07.551639Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a45759dc-c4fa-4539-9669-7fdbc7684564-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fee5661-c4b9-4029-828a-0cd19564ba15-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "I'm just a deer with lots of mom energy! I'm a variety streamer who also plays a lot of board games. I try to keep everything positive and cozy!",
-    "id": "444028294"
+    "twitch": {
+        "id": "444028294",
+        "login": "spacedeeredith",
+        "displayName": "SpaceDeerEdith",
+        "createdAt": "2019-06-25T16:37:49.362525Z",
+        "updatedAt": "2026-08-01T19:49:22.319393Z",
+        "description": "I'm just a deer with lots of mom energy! I'm a variety streamer who also plays a lot of board games. I try to keep everything positive and cozy!",
+        "primaryColorHex": "524078",
+        "followers": {
+            "totalCount": 152
+        },
+        "follows": {
+            "totalCount": 36
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:24:30.125794Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/04ec644e-8257-4e95-b4e4-9b14afb419e0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ab50fddf-8986-4fe3-b965-5a3443206bb8-profile_banner-480.png"
+    }
 }

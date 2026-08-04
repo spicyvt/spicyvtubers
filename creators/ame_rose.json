@@ -1,4 +1,27 @@
 {
     "bio": "Welcome! I'm Amethyst, mostly known as Ame, and I'm the shapeshifting crystal witch vtuber! come join my crystal coven, my gems~ 💜",
-    "id": "654067307"
+    "twitch": {
+        "id": "654067307",
+        "login": "ame_rose",
+        "displayName": "ame_rose",
+        "createdAt": "2021-02-23T00:08:37.921696Z",
+        "updatedAt": "2026-06-24T19:12:26.385698Z",
+        "description": "Welcome! I'm Amethyst, mostly known as Ame, and I'm the shapeshifting crystal witch vtuber! come join my crystal coven, my gems~ 💜",
+        "primaryColorHex": "430759",
+        "followers": {
+            "totalCount": 2086
+        },
+        "follows": {
+            "totalCount": 333
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-24T21:28:17.711064Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67674c03-af46-49d1-a0df-ca8bdabd2518-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90bb0be5-668d-4d5c-ae35-48b84b08a87a-profile_banner-480.png"
+    }
 }

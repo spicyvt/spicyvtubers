@@ -1,4 +1,27 @@
 {
     "bio": "Yo, I'm Reiyu GuiGui, ya giggly geisha gyaru ghost gamer! Just out here on twitch to hang with lewdsome gamer homies like you eyo!",
-    "id": "599679765"
+    "twitch": {
+        "id": "599679765",
+        "login": "reiyuguigui",
+        "displayName": "ReiyuGuiGui",
+        "createdAt": "2020-10-25T03:20:33.31204Z",
+        "updatedAt": "2026-07-27T21:47:10.945341Z",
+        "description": "Yo, I'm Reiyu GuiGui, ya giggly geisha gyaru ghost gamer! Just out here on twitch to hang with lewdsome gamer homies like you eyo!",
+        "primaryColorHex": "FAB3FF",
+        "followers": {
+            "totalCount": 55774
+        },
+        "follows": {
+            "totalCount": 588
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-27T23:38:16.754977Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d2ee0a9-5104-4b18-ba6a-1c2e9e9f21e3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/532ef8d6-fd27-48cb-876a-a38fc8f53928-profile_banner-480.png"
+    }
 }

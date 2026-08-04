@@ -1,4 +1,27 @@
 {
     "bio": "♡ Hello hello everyone! Taini is a shenanigan induced kitsune vtuber who finds solace in all sorts of mischief. ♡ Taini's passion lies in indulging in her love for variety games & forging new connections w/ fellow gamers ♡ 18+ I do swear so here is your warning 🤬 ♡ hope you enjoy the shenanigans ♡",
-    "id": "76845504"
+    "twitch": {
+        "id": "76845504",
+        "login": "taini",
+        "displayName": "Taini",
+        "createdAt": "2014-12-08T20:24:51.0589Z",
+        "updatedAt": "2026-08-02T14:02:26.151118Z",
+        "description": "♡ Hello hello everyone! Taini is a shenanigan induced kitsune vtuber who finds solace in all sorts of mischief. ♡ Taini's passion lies in indulging in her love for variety games & forging new connections w/ fellow gamers ♡ 18+ I do swear so here is your warning 🤬 ♡ hope you enjoy the shenanigans ♡",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 1043
+        },
+        "follows": {
+            "totalCount": 32
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T02:05:47.157456Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/edef4613-73ac-40a5-b0fe-91934e0566f0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f8e19e6-3b7f-4471-aea2-bbb65dd8fae6-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "☁️Sky JellyFish Puppy 🪼 ",
-    "id": "536053988"
+    "bio": "☁️Sky JellyFish Puppy 🪼",
+    "twitch": {
+        "id": "536053988",
+        "login": "ren_agade_",
+        "displayName": "ren_agade_",
+        "createdAt": "2020-05-26T23:47:02.814294Z",
+        "updatedAt": "2026-08-03T17:47:39.304779Z",
+        "description": "☁️Sky JellyFish Puppy 🪼 ",
+        "primaryColorHex": "A2BCFF",
+        "followers": {
+            "totalCount": 9776
+        },
+        "follows": {
+            "totalCount": 244
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:05:01.407563Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/46e9d726-0144-4aef-b62b-2a7c547ec74e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84f4d5d7-673d-47e4-bacf-2d3f1417a380-profile_banner-480.png"
+    }
 }

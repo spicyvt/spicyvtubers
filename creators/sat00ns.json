@@ -1,4 +1,27 @@
 {
     "bio": "medieval orc b(i)mbo lewdtuber ♥ #1 Illari fangirl and Roadhog simp",
-    "id": "818139893"
+    "twitch": {
+        "id": "818139893",
+        "login": "sat00ns",
+        "displayName": "sat00ns",
+        "createdAt": "2022-08-16T23:02:53.176287Z",
+        "updatedAt": "2026-08-04T00:22:49.654929Z",
+        "description": "medieval orc b(i)mbo lewdtuber ♥ #1 Illari fangirl and Roadhog simp",
+        "primaryColorHex": "7B9460",
+        "followers": {
+            "totalCount": 2247
+        },
+        "follows": {
+            "totalCount": 32
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-20T01:40:39.655485Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d469905-c787-4992-9895-76de6b1e0019-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e5d0eeb-4792-4f99-8a15-9e3e1522f90e-profile_banner-480.png"
+    }
 }

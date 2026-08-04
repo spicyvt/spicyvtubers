@@ -1,4 +1,27 @@
 {
     "bio": "🟢 SYSTEM STATUS: RIXARA.EXE (RUNNING BARELY). Feral cybernetic mechanic & arcade gremlin lurking the Dumpster Dome. I build high-tech trash out of scrap metal, blast jungle breakbeats, and break physics engines with my massive wrench. Welcome to the sandbox, pull some wires. 🔧 Pit Crew Chief",
-    "id": "156799751"
+    "twitch": {
+        "id": "156799751",
+        "login": "rixaravt",
+        "displayName": "RixaraVT",
+        "createdAt": "2017-05-13T23:11:23.486548Z",
+        "updatedAt": "2026-08-03T22:17:44.471345Z",
+        "description": "🟢 SYSTEM STATUS: RIXARA.EXE (RUNNING BARELY). Feral cybernetic mechanic & arcade gremlin lurking the Dumpster Dome. I build high-tech trash out of scrap metal, blast jungle breakbeats, and break physics engines with my massive wrench. Welcome to the sandbox, pull some wires. 🔧 Pit Crew Chief",
+        "primaryColorHex": "307FB4",
+        "followers": {
+            "totalCount": 9126
+        },
+        "follows": {
+            "totalCount": 210
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T02:09:07.743776Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8674a376-fdc9-4ad4-9fb3-864116461cc9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ab8fee9-23f4-4b19-b00b-6c41eb5bd799-profile_banner-480.png"
+    }
 }

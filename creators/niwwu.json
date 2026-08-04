@@ -1,4 +1,27 @@
 {
     "bio": "I am niwwu, the magical strawberry catgirl! 🍰✨",
-    "id": "574960156"
+    "twitch": {
+        "id": "574960156",
+        "login": "niwwu",
+        "displayName": "niwwu",
+        "createdAt": "2020-08-29T18:20:12.981514Z",
+        "updatedAt": "2026-07-31T01:32:43.992496Z",
+        "description": "I am niwwu, the magical strawberry catgirl! 🍰✨",
+        "primaryColorHex": "FEAAAA",
+        "followers": {
+            "totalCount": 8767
+        },
+        "follows": {
+            "totalCount": 1308
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T03:20:40.188303Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5580985-dafd-427c-b136-d32285cba137-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/15f33186-3ac6-442b-880e-2d4ed65c619f-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "hi, i’m luna ♡´･ᴗ･`♡ your comfy chaotic gumiho vtuber! enjoy your stay with the shrine ♡ ",
-    "id": "677772252"
+    "bio": "hi, i’m luna ♡´･ᴗ･`♡ your comfy chaotic gumiho vtuber! enjoy your stay with the shrine ♡",
+    "twitch": {
+        "id": "677772252",
+        "login": "lunanyx",
+        "displayName": "LunaNyx",
+        "createdAt": "2021-04-19T19:42:19.324905Z",
+        "updatedAt": "2026-07-28T02:58:00.220529Z",
+        "description": "hi, i’m luna ♡´･ᴗ･`♡ your comfy chaotic gumiho vtuber! enjoy your stay with the shrine ♡ ",
+        "primaryColorHex": "E6D5FF",
+        "followers": {
+            "totalCount": 9198
+        },
+        "follows": {
+            "totalCount": 1579
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-11T07:47:41.764538Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/40702d83-ccf9-4f0c-a7be-0c4a0b62b86c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f2df174-7aa4-49f5-b18b-8ea8f54988e4-profile_banner-480.png"
+    }
 }

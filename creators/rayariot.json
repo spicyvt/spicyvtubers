@@ -1,4 +1,27 @@
 {
     "bio": "unholy dog girl 24/7 (check out my socials)",
-    "id": "135402991"
+    "twitch": {
+        "id": "135402991",
+        "login": "rayariot",
+        "displayName": "RayaRiot",
+        "createdAt": "2016-09-25T18:58:59.140381Z",
+        "updatedAt": "2026-08-03T20:28:09.352634Z",
+        "description": "unholy dog girl 24/7 (check out my socials)",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 28351
+        },
+        "follows": {
+            "totalCount": 675
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T07:51:17.704327Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/07af200d-e739-4252-82a8-2da3d4346fdd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/10597a6a-2ef9-4756-bdf9-a6afd6082e3e-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hello! I'm Kathy Rayna! I'm a Raccoon themed tomboy Virtual Streamer! I enjoy entertaining others and making people smile! I like playing videogames, chill in VRChat and spending time with friends! I hope you can stop by and if so inclined join the Raccoon Nation!",
-    "id": "27707813"
+    "twitch": {
+        "id": "27707813",
+        "login": "kathyrayna",
+        "displayName": "KathyRayna",
+        "createdAt": "2012-01-24T15:00:29.126738Z",
+        "updatedAt": "2026-08-02T03:34:09.495058Z",
+        "description": "Hello! I'm Kathy Rayna! I'm a Raccoon themed tomboy Virtual Streamer! I enjoy entertaining others and making people smile! I like playing videogames, chill in VRChat and spending time with friends! I hope you can stop by and if so inclined join the Raccoon Nation!",
+        "primaryColorHex": "00AD95",
+        "followers": {
+            "totalCount": 5808
+        },
+        "follows": {
+            "totalCount": 1460
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T06:08:50.876817Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8a9b4ded-1058-4cd6-9424-44ea3277bf9f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1316fff-5f9a-4116-b152-9dfb99def845-profile_banner-480.png"
+    }
 }

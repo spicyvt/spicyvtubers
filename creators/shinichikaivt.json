@@ -1,4 +1,27 @@
 {
     "bio": "Have you ever woken up in another world? Well, I have. Hi, I'm Kai, a demon lord isekai'd to the human realm. In order to survive and learn this realm I have become a variety streamer in hopes of finding a way home.",
-    "id": "411514388"
+    "twitch": {
+        "id": "411514388",
+        "login": "shinichikaivt",
+        "displayName": "ShinichiKaiVT",
+        "createdAt": "2019-01-22T22:00:46.793207Z",
+        "updatedAt": "2026-08-01T18:12:12.252007Z",
+        "description": "Have you ever woken up in another world? Well, I have. Hi, I'm Kai, a demon lord isekai'd to the human realm. In order to survive and learn this realm I have become a variety streamer in hopes of finding a way home.",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 3417
+        },
+        "follows": {
+            "totalCount": 452
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T22:05:57.667712Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/634a2b20-b844-43f7-973d-e14ebdb2fdab-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e34b2ab5-43fd-40b2-960c-607e491a82df-profile_banner-480.png"
+    }
 }

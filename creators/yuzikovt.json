@@ -1,4 +1,27 @@
 {
     "bio": "VROOM VROOM! QUE TAL? Mi nombre es Yuziko y seré tu Vtuber favorita. Me gustan los autos, decir la palabra \"wea\" y hablar con mis Viewers. Mi voz es grave, trátenme bien por ello porfavor 🥺🙏🏽",
-    "id": "130371535"
+    "twitch": {
+        "id": "130371535",
+        "login": "yuzikovt",
+        "displayName": "YuzikoVT",
+        "createdAt": "2016-07-24T16:21:11.690357Z",
+        "updatedAt": "2026-08-02T08:57:35.762341Z",
+        "description": "VROOM VROOM! QUE TAL? Mi nombre es Yuziko y seré tu Vtuber favorita. Me gustan los autos, decir la palabra \"wea\" y hablar con mis Viewers. Mi voz es grave, trátenme bien por ello porfavor 🥺🙏🏽",
+        "primaryColorHex": "D4C3F5",
+        "followers": {
+            "totalCount": 5406
+        },
+        "follows": {
+            "totalCount": 761
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T03:54:01.939658Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3287ffc-ce97-4785-a8e9-ac72609014a5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed89a99f-8b48-4178-abb7-a96181377498-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "793423347"
+    "twitch": {
+        "id": "793423347",
+        "login": "nalithea",
+        "displayName": "Nalithea",
+        "createdAt": "2022-05-06T23:05:48.329092Z",
+        "updatedAt": "2026-08-01T09:40:34.813108Z",
+        "description": "",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 15953
+        },
+        "follows": {
+            "totalCount": 213
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T10:59:47.126685Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b7daa2e-b080-4973-a368-5e9580296dd1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b08db32b-fcf8-4436-8bf1-eac81b3e1587-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "I'm Officer Myra Locke of PROMISU's first English Gen, ENGuard~! Clock'n in, and Locke'n in!You can catch me playing open world survival games, horror games, JRPGs and many more! I also LOVE to sing, so there will be a lot of that here~. You have to enjoy it, or I'll Locke you up, okay?!",
-    "id": "1336706782"
+    "twitch": {
+        "id": "1336706782",
+        "login": "myralocke",
+        "displayName": "MyraLocke",
+        "createdAt": "2025-07-16T01:48:10.241625Z",
+        "updatedAt": "2026-07-31T02:20:08.578893Z",
+        "description": "I'm Officer Myra Locke of PROMISU's first English Gen, ENGuard~! Clock'n in, and Locke'n in!You can catch me playing open world survival games, horror games, JRPGs and many more! I also LOVE to sing, so there will be a lot of that here~. You have to enjoy it, or I'll Locke you up, okay?!",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 1066
+        },
+        "follows": {
+            "totalCount": 23
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T04:08:33.145507Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/595df3ef-44ef-4bf8-a272-3701242bffad-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/112e0fde-6b87-45b4-8e28-b4a47245002a-profile_banner-480.png"
+    }
 }

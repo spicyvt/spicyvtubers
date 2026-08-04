@@ -1,4 +1,27 @@
 {
     "bio": "✩‧₊˚ Sin & Silks WRATH ✩‧₊˚ Since you're here, we're friends now....you have no choice ദ്ദി◝ ⩊ ◜.ᐟ",
-    "id": "272078342"
+    "twitch": {
+        "id": "272078342",
+        "login": "nyxellezvt",
+        "displayName": "NyxellezVT",
+        "createdAt": "2018-11-03T19:10:33.98893Z",
+        "updatedAt": "2026-08-01T03:31:30.669714Z",
+        "description": "✩‧₊˚ Sin & Silks WRATH ✩‧₊˚ Since you're here, we're friends now....you have no choice ദ്ദി◝ ⩊ ◜.ᐟ",
+        "primaryColorHex": "530100",
+        "followers": {
+            "totalCount": 941
+        },
+        "follows": {
+            "totalCount": 318
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T04:54:34.374259Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6f920a7-da45-47bf-9886-b6c46ecf5bdb-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ab5767c-6d72-4992-ae94-1d38edb8a634-profile_banner-480.png"
+    }
 }

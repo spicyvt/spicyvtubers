@@ -1,4 +1,27 @@
 {
     "bio": "Psssst kid................wanna buy some hugs??",
-    "id": "218389560"
+    "twitch": {
+        "id": "218389560",
+        "login": "konekosukii",
+        "displayName": "KonekoSukii",
+        "createdAt": "2018-05-04T04:13:40.732581Z",
+        "updatedAt": "2026-08-02T22:14:54.751664Z",
+        "description": "Psssst kid................wanna buy some hugs??",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 11332
+        },
+        "follows": {
+            "totalCount": 180
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T00:53:02.371269Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/79ebac03-5245-4ebd-84fe-a6696594d88a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7637f517-c1b9-4d7c-88cf-e212e4bd6e8e-profile_banner-480.png"
+    }
 }

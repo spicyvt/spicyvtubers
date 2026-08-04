@@ -1,4 +1,27 @@
 {
-    "bio": "Hello! I am Mommy Vixen, you can call me Mommy, or Vixen, whatever you are most comfortable with! I am a queer variety streamer who wanted to make a place for people to come and feel safe, appreciated and have fun. ",
-    "id": "669301854"
+    "bio": "Hello! I am Mommy Vixen, you can call me Mommy, or Vixen, whatever you are most comfortable with! I am a queer variety streamer who wanted to make a place for people to come and feel safe, appreciated and have fun.",
+    "twitch": {
+        "id": "669301854",
+        "login": "mommyvixen",
+        "displayName": "MommyVixen",
+        "createdAt": "2021-03-30T23:08:40.130894Z",
+        "updatedAt": "2026-08-02T20:05:49.354869Z",
+        "description": "Hello! I am Mommy Vixen, you can call me Mommy, or Vixen, whatever you are most comfortable with! I am a queer variety streamer who wanted to make a place for people to come and feel safe, appreciated and have fun. ",
+        "primaryColorHex": "B800D1",
+        "followers": {
+            "totalCount": 1064
+        },
+        "follows": {
+            "totalCount": 480
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T20:06:51.630148Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33cbea20-37af-445c-a266-e0d5bc6855b5-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f6948ee-90cf-459f-ad2d-8b5b44063a0b-profile_banner-480.png"
+    }
 }

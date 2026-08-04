@@ -1,4 +1,27 @@
 {
     "bio": "Silly Creature- Gonna chew on your bones",
-    "id": "845380278"
+    "twitch": {
+        "id": "845380278",
+        "login": "nyxxxnoctis",
+        "displayName": "NyxxxNoctis",
+        "createdAt": "2022-11-09T03:40:11.919337Z",
+        "updatedAt": "2026-07-29T20:26:25.766428Z",
+        "description": "Silly Creature- Gonna chew on your bones",
+        "primaryColorHex": "00BC71",
+        "followers": {
+            "totalCount": 479
+        },
+        "follows": {
+            "totalCount": 119
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T00:44:49.019653Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33d0fb94-da8c-489c-8031-c24899d532bb-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc1e52bc-17c4-43d5-b2c8-3488d3d93444-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "¿Ya te bañaste? ",
-    "id": "439989975"
+    "bio": "¿Ya te bañaste?",
+    "twitch": {
+        "id": "439989975",
+        "login": "lune_vt",
+        "displayName": "lune_vt",
+        "createdAt": "2019-06-05T20:47:04.484993Z",
+        "updatedAt": "2026-08-02T23:43:14.440949Z",
+        "description": "¿Ya te bañaste? ",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 5536
+        },
+        "follows": {
+            "totalCount": 441
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:33:04.064155Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd6ba766-fd79-404f-8f46-c6c10478fb37-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0fbeca5-cb30-42a0-b5b5-c350322678f8-profile_banner-480.jpeg"
+    }
 }

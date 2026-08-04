@@ -1,4 +1,27 @@
 {
     "bio": "Thank you for coming by! This is an 18+ only channel. UPDATE: Twitch is growing worse by the day, so I stream primarily on Joystick now. Same username.",
-    "id": "119397003"
+    "twitch": {
+        "id": "119397003",
+        "login": "rusty_fc",
+        "displayName": "Rusty_FC",
+        "createdAt": "2016-03-21T21:49:41.641794Z",
+        "updatedAt": "2026-07-28T21:20:08.721769Z",
+        "description": "Thank you for coming by! This is an 18+ only channel. UPDATE: Twitch is growing worse by the day, so I stream primarily on Joystick now. Same username.",
+        "primaryColorHex": "FA2929",
+        "followers": {
+            "totalCount": 946
+        },
+        "follows": {
+            "totalCount": 360
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T00:28:13.449064Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/17879018-aeeb-4582-8ffa-088cdffad916-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f0024f4-9043-4819-8690-2269aed1b4a9-profile_banner-480.png"
+    }
 }

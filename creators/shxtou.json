@@ -1,4 +1,27 @@
 {
     "bio": "Shoto | Guild Leader & Rogue Boy | We play video games and say lots of bad words. Be warned.",
-    "id": "119407348"
+    "twitch": {
+        "id": "119407348",
+        "login": "shxtou",
+        "displayName": "shxtou",
+        "createdAt": "2016-03-21T23:45:06.827664Z",
+        "updatedAt": "2026-08-02T14:52:31.619857Z",
+        "description": "Shoto | Guild Leader & Rogue Boy | We play video games and say lots of bad words. Be warned.",
+        "primaryColorHex": "9037B3",
+        "followers": {
+            "totalCount": 1407756
+        },
+        "follows": {
+            "totalCount": 562
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T18:25:16.251314Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/955dbf5e-572a-4c55-9c42-e53dc3d76351-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0683d326-4431-4624-8bc4-19d3fdfeee24-profile_banner-480.jpeg"
+    }
 }

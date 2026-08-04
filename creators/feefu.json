@@ -1,4 +1,27 @@
 {
-    "bio": "♡ your canadian fox maid vtuber ♡ ",
-    "id": "806193178"
+    "bio": "♡ your canadian fox maid vtuber ♡",
+    "twitch": {
+        "id": "806193178",
+        "login": "feefu",
+        "displayName": "feefu",
+        "createdAt": "2022-07-03T11:46:18.606497Z",
+        "updatedAt": "2026-08-02T07:09:38.246383Z",
+        "description": "♡ your canadian fox maid vtuber ♡ ",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 36317
+        },
+        "follows": {
+            "totalCount": 778
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T09:18:31.977809Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d61b8e3f-02e1-4aea-9428-1dd1d9a84e89-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4719e59-2961-4a70-ae47-78ef286c5fde-profile_banner-480.jpeg"
+    }
 }

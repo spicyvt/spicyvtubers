@@ -1,4 +1,27 @@
 {
     "bio": "Hi",
-    "id": "39606550"
+    "twitch": {
+        "id": "39606550",
+        "login": "leonievt",
+        "displayName": "LeonieVT",
+        "createdAt": "2013-01-23T06:13:15.179035Z",
+        "updatedAt": "2026-07-31T20:47:38.956627Z",
+        "description": "Hi",
+        "primaryColorHex": "D0EFD0",
+        "followers": {
+            "totalCount": 1791
+        },
+        "follows": {
+            "totalCount": 304
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T00:18:03.640516Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c9cd41f-4477-4e4d-a716-4013b94b98a5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e25c5a2-d20a-4152-bb76-599869224484-profile_banner-480.png"
+    }
 }

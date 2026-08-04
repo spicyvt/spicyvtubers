@@ -1,4 +1,27 @@
 {
     "bio": "A cute goddess cursed to be a yokai trying to find new friends and her way back in this modern world and share her voice! This little yokai has figured out how to stream and enjoys playing a wide variety of games and singing to share her voice with all and bring smiles~",
-    "id": "57401955"
+    "twitch": {
+        "id": "57401955",
+        "login": "nekomata_maddie",
+        "displayName": "Nekomata_Maddie",
+        "createdAt": "2014-02-22T02:31:32.636862Z",
+        "updatedAt": "2026-08-01T03:26:27.266097Z",
+        "description": "A cute goddess cursed to be a yokai trying to find new friends and her way back in this modern world and share her voice! This little yokai has figured out how to stream and enjoys playing a wide variety of games and singing to share her voice with all and bring smiles~",
+        "primaryColorHex": "4B2387",
+        "followers": {
+            "totalCount": 1021
+        },
+        "follows": {
+            "totalCount": 309
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:47:20.158896Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2892c1e-3f6b-4831-8f93-77f7e2b2904c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ccceb74-2649-4b8f-811a-4384b1b4fa6f-profile_banner-480.png"
+    }
 }

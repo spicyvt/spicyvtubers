@@ -1,4 +1,27 @@
 {
     "bio": "Abyssal Tomboy Foxo. 18+ Varity Streamer, Chill/Chaotic Vibes With a Hint of Lewdness~",
-    "id": "735645313"
+    "twitch": {
+        "id": "735645313",
+        "login": "lelandsilvarie",
+        "displayName": "LelandSilvarie",
+        "createdAt": "2021-10-19T19:43:46.767649Z",
+        "updatedAt": "2026-08-01T00:26:38.569281Z",
+        "description": "Abyssal Tomboy Foxo. 18+ Varity Streamer, Chill/Chaotic Vibes With a Hint of Lewdness~",
+        "primaryColorHex": "E280BE",
+        "followers": {
+            "totalCount": 507
+        },
+        "follows": {
+            "totalCount": 121
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T00:29:55.036175Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6cfd5917-2e17-40ef-b7fb-4854a62480b5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60cdfec8-1660-423e-8b05-ae022feac908-profile_banner-480.png"
+    }
 }

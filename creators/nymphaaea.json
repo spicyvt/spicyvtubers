@@ -1,4 +1,27 @@
 {
     "bio": "your unstable, clingy fox gf (with ✨issues✨)spanglish & sparkles only ✧˖°",
-    "id": "641938359"
+    "twitch": {
+        "id": "641938359",
+        "login": "nymphaaea",
+        "displayName": "Nymphaaea",
+        "createdAt": "2021-01-27T00:10:32.003142Z",
+        "updatedAt": "2026-07-20T04:06:25.14306Z",
+        "description": "your unstable, clingy fox gf (with ✨issues✨)spanglish & sparkles only ✧˖°",
+        "primaryColorHex": "DCC4FF",
+        "followers": {
+            "totalCount": 165206
+        },
+        "follows": {
+            "totalCount": 681
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T07:55:54.176066Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/511224db-364d-45f4-81be-03166b3be12b-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

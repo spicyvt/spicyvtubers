@@ -1,4 +1,27 @@
 {
     "bio": "Welcome, I hope you brought me some snacks!",
-    "id": "133316896"
+    "twitch": {
+        "id": "133316896",
+        "login": "foosball",
+        "displayName": "Foosball",
+        "createdAt": "2016-08-27T22:23:10.743385Z",
+        "updatedAt": "2026-05-18T16:35:03.22204Z",
+        "description": "Welcome, I hope you brought me some snacks!",
+        "primaryColorHex": "FFA2A9",
+        "followers": {
+            "totalCount": 130
+        },
+        "follows": {
+            "totalCount": 25
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-18T18:41:05.586012Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67137d45-9223-43b5-8c86-3e2de45b52d3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66b50f00-ed7d-46a7-9a3a-9f0ecb0f6ace-profile_banner-480.png"
+    }
 }

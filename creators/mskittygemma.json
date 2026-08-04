@@ -1,4 +1,27 @@
 {
-    "bio": "18+/Mature Content Creator. Raiju Arc Debut-July 2026. Tortoiseshell Kitty alongside Mascot: Tiny Kitty. ",
-    "id": "589866710"
+    "bio": "18+/Mature Content Creator. Currently on Raiju Arc. Raiju Vtuber alongside Mascot: Tiny Kitty.",
+    "twitch": {
+        "id": "589866710",
+        "login": "mskittygemma",
+        "displayName": "MsKittyGemma",
+        "createdAt": "2020-09-28T23:06:01.909373Z",
+        "updatedAt": "2026-08-03T13:51:22.940488Z",
+        "description": "18+/Mature Content Creator. Currently on Raiju Arc. Raiju Vtuber alongside Mascot: Tiny Kitty. ",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 2188
+        },
+        "follows": {
+            "totalCount": 83
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T18:29:42.843119Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/782fcbcf-2032-4298-96b9-c08723d56814-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdb71ba8-0bd0-4c1a-95e0-536138180eef-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Sharkpup Kunoichi | She/Her | +18 Streamer/Community | Founder of VBITE 🦈 | Art Tag: #SereanaArts | Socials: http://sereanamikazuki.carrd.co | Beware I Bite~ 💜",
-    "id": "195978606"
+    "twitch": {
+        "id": "195978606",
+        "login": "sereanamikazuki",
+        "displayName": "SereanaMikazuki",
+        "createdAt": "2018-02-12T03:49:20.116687Z",
+        "updatedAt": "2026-08-03T03:34:35.479645Z",
+        "description": "Sharkpup Kunoichi | She/Her | +18 Streamer/Community | Founder of VBITE 🦈 | Art Tag: #SereanaArts | Socials: http://sereanamikazuki.carrd.co | Beware I Bite~ 💜",
+        "primaryColorHex": "AF90BA",
+        "followers": {
+            "totalCount": 2098
+        },
+        "follows": {
+            "totalCount": 516
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T02:19:38.015623Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/576d6919-faf1-426f-9de5-6c2d411a10b1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fd9cc27-480d-425e-888e-a67c43f176a4-profile_banner-480.png"
+    }
 }

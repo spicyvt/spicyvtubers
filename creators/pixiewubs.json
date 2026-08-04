@@ -1,4 +1,27 @@
 {
-    "bio": "✨  Magic Girl ✨ Pixie Kitsune Shapeshifter ✨  💃🏽 VR Dancer 😜 Certified Silly Goober ✨ Vtuber ✨ Escape with me into a world of virtual reality while I wiggle & giggle! ✨🤭 Join the discord for stream schedule! & check out my socials! 📅 VODS are stored on my YouTube! ▶️ ",
-    "id": "802966804"
+    "bio": "✨  Magic Girl ✨ Pixie Kitsune Shapeshifter ✨  💃🏽 VR Dancer 😜 Certified Silly Goober ✨ Vtuber ✨ Escape with me into a world of virtual reality while I wiggle & giggle! ✨🤭 Join the discord for stream schedule! & check out my socials! 📅 VODS are stored on my YouTube! ▶️",
+    "twitch": {
+        "id": "802966804",
+        "login": "pixiewubs",
+        "displayName": "PixieWubs",
+        "createdAt": "2022-06-19T21:55:43.267203Z",
+        "updatedAt": "2026-07-31T02:54:36.657339Z",
+        "description": "✨  Magic Girl ✨ Pixie Kitsune Shapeshifter ✨  💃🏽 VR Dancer 😜 Certified Silly Goober ✨ Vtuber ✨ Escape with me into a world of virtual reality while I wiggle & giggle! ✨🤭 Join the discord for stream schedule! & check out my socials! 📅 VODS are stored on my YouTube! ▶️ ",
+        "primaryColorHex": "C096FF",
+        "followers": {
+            "totalCount": 8495
+        },
+        "follows": {
+            "totalCount": 683
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-30T00:33:10.588547Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/becd19d2-afb3-4769-82f6-6806131916c0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/471f0fd6-f669-4398-9e89-4bae75fb45fe-profile_banner-480.png"
+    }
 }

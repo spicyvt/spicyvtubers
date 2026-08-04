@@ -1,4 +1,27 @@
 {
     "bio": "🌙Your local lunar femboy bunny :3 I play games and yap a lot!",
-    "id": "81240259"
+    "twitch": {
+        "id": "81240259",
+        "login": "dencavt",
+        "displayName": "DencaVT",
+        "createdAt": "2015-01-29T20:25:56.545469Z",
+        "updatedAt": "2026-07-25T16:45:48.338226Z",
+        "description": "🌙Your local lunar femboy bunny :3 I play games and yap a lot!",
+        "primaryColorHex": "1345AA",
+        "followers": {
+            "totalCount": 1063
+        },
+        "follows": {
+            "totalCount": 332
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-25T21:19:39.716723Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5e25dcd-74da-415f-94b2-8f8fb6a84596-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75e2c922-5678-4396-9bd3-febdc8161ef3-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "Hi I'm Riot!~ I'm an upcoming doggy VTuber and artist! Woof woof!~ ",
-    "id": "460907036"
+    "bio": "Hi I'm Riot!~ I'm an upcoming doggy VTuber and artist! Woof woof!~",
+    "twitch": {
+        "id": "460907036",
+        "login": "pupriot",
+        "displayName": "PupRiot",
+        "createdAt": "2019-09-08T02:25:22.544215Z",
+        "updatedAt": "2026-07-30T17:59:18.89038Z",
+        "description": "Hi I'm Riot!~ I'm an upcoming doggy VTuber and artist! Woof woof!~ ",
+        "primaryColorHex": "FF1E1A",
+        "followers": {
+            "totalCount": 451
+        },
+        "follows": {
+            "totalCount": 139
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-11-18T23:56:48.269738Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6aa03eac-4e02-48de-991d-90b712a8d1c5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67e314e4-7d86-4d68-8cba-2c3ac8376050-profile_banner-480.png"
+    }
 }

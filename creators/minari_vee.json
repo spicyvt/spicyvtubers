@@ -1,4 +1,27 @@
 {
     "bio": "An お化け (obake) of sorts who frequently changes faces. But no matter the form, no matter the fantasy, she's still just someone who gives off \"tired mom just trying to relax\" vibes. Because, she is, in fact, just trying to relax.",
-    "id": "1164838639"
+    "twitch": {
+        "id": "1164838639",
+        "login": "minari_vee",
+        "displayName": "Minari_Vee",
+        "createdAt": "2024-10-16T21:52:54.948817Z",
+        "updatedAt": "2026-08-03T00:33:42.106579Z",
+        "description": "An お化け (obake) of sorts who frequently changes faces. But no matter the form, no matter the fantasy, she's still just someone who gives off \"tired mom just trying to relax\" vibes. Because, she is, in fact, just trying to relax.",
+        "primaryColorHex": "00A3A3",
+        "followers": {
+            "totalCount": 2798
+        },
+        "follows": {
+            "totalCount": 206
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T02:27:03.683175Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e965ede-d194-4d30-a81b-183754772d62-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2246bfb5-6abd-46f5-9679-61883c25cdaa-profile_banner-480.jpeg"
+    }
 }

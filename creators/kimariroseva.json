@@ -1,4 +1,27 @@
 {
     "bio": "Soft, intimate, playful ✧ 18+ writer // your favorite cheeky sub VA // Dreamweaver VTuber ✧ Streams on Tuesdays & Thursdays at 6 pm PST, with occasional weekend pop-up streams",
-    "id": "542214695"
+    "twitch": {
+        "id": "542214695",
+        "login": "kimariroseva",
+        "displayName": "kimariroseva",
+        "createdAt": "2020-06-11T02:51:18.212335Z",
+        "updatedAt": "2026-07-31T02:10:42.138541Z",
+        "description": "Soft, intimate, playful ✧ 18+ writer // your favorite cheeky sub VA // Dreamweaver VTuber ✧ Streams on Tuesdays & Thursdays at 6 pm PST, with occasional weekend pop-up streams",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 1702
+        },
+        "follows": {
+            "totalCount": 45
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T04:35:57.439376Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a4c7769-2e32-49bd-9034-fffb0fe5c0cf-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3aa0cbf6-ff19-4b43-9e66-af6d530abf18-profile_banner-480.jpeg"
+    }
 }

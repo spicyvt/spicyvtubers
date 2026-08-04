@@ -1,4 +1,27 @@
 {
     "bio": "I'm literally just an average generic anime guy that play games xD! | Business Inquiries: ItzFuuFuu@gmail.com",
-    "id": "33660478"
+    "twitch": {
+        "id": "33660478",
+        "login": "itzfuufuu",
+        "displayName": "ItzFuuFuu",
+        "createdAt": "2012-08-14T02:33:41.081951Z",
+        "updatedAt": "2026-08-03T10:06:58.664878Z",
+        "description": "I'm literally just an average generic anime guy that play games xD! | Business Inquiries: ItzFuuFuu@gmail.com",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 31487
+        },
+        "follows": {
+            "totalCount": 2000
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T19:42:29.547361Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ea1731-2232-49ce-84cf-3d49266c6f65-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b20d9966-40f5-4a56-900f-304a74224f8a-profile_banner-480.png"
+    }
 }

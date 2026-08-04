@@ -1,4 +1,27 @@
 {
     "bio": "Haiiii I’m DuuckyVT ! twitch banned me once (rude) but i rebooted. now i stream games, cursed watch parties & general chaos, no real schedule since I'm pursuing a master's degree, but i’ll scream about it on socials. if you’re weird, you’ll fit right in 🦆",
-    "id": "1328529350"
+    "twitch": {
+        "id": "1328529350",
+        "login": "duuckyvt",
+        "displayName": "DuuckyVT",
+        "createdAt": "2025-07-02T11:57:56.267225Z",
+        "updatedAt": "2026-08-01T18:26:47.377161Z",
+        "description": "Haiiii I’m DuuckyVT ! twitch banned me once (rude) but i rebooted. now i stream games, cursed watch parties & general chaos, no real schedule since I'm pursuing a master's degree, but i’ll scream about it on socials. if you’re weird, you’ll fit right in 🦆",
+        "primaryColorHex": "E3E300",
+        "followers": {
+            "totalCount": 337
+        },
+        "follows": {
+            "totalCount": 101
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T20:53:43.039542Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e81e1c82-acc1-4e8f-ac4e-fdb49a06041f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c073100-2145-4ff7-9906-60368a717411-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hello, everyone! Welcome aboard my space ship of delights (with open bar!). My name is Minx, and I am a daiyoukai of the white tiger variety. Here, we do a variety of different things, and you're welcome to join in! 18+ only.",
-    "id": "768204522"
+    "twitch": {
+        "id": "768204522",
+        "login": "minx_the_tiger",
+        "displayName": "Minx_the_Tiger",
+        "createdAt": "2022-02-01T01:41:31.94404Z",
+        "updatedAt": "2026-07-31T17:52:32.027004Z",
+        "description": "Hello, everyone! Welcome aboard my space ship of delights (with open bar!). My name is Minx, and I am a daiyoukai of the white tiger variety. Here, we do a variety of different things, and you're welcome to join in! 18+ only.",
+        "primaryColorHex": "3F36E3",
+        "followers": {
+            "totalCount": 1600
+        },
+        "follows": {
+            "totalCount": 160
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T04:07:13.74267Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0baf881-0a14-4a95-9737-78ccb4d4ccd5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f471bbf4-6f26-4821-87e2-d2b99ac705c0-profile_banner-480.jpeg"
+    }
 }

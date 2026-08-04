@@ -1,4 +1,27 @@
 {
     "bio": "welcome to orbit! ☄️ I'm Tsuki┊✉ Tsukimiorbit@gmail.com",
-    "id": "1374623078"
+    "twitch": {
+        "id": "1374623078",
+        "login": "tsukimi",
+        "displayName": "Tsukimi",
+        "createdAt": "2025-10-03T06:00:13.346149Z",
+        "updatedAt": "2026-08-03T22:34:15.884462Z",
+        "description": "welcome to orbit! ☄️ I'm Tsuki┊✉ Tsukimiorbit@gmail.com",
+        "primaryColorHex": "94B5FC",
+        "followers": {
+            "totalCount": 10502
+        },
+        "follows": {
+            "totalCount": 385
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T09:40:02.988983Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1acadb75-c3c7-4eba-b109-c6b4e8c17ef3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34dbb3e8-e1c3-4bc4-8810-a10eccd79d82-profile_banner-480.png"
+    }
 }

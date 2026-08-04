@@ -1,4 +1,27 @@
 {
     "bio": "[18+] hi! my name is lucky! i'm a bratty, yappy devil bear vtuber! i love playing horror, gacha, + story based games. streams are TH/SAT/SUN @ 6PM EST!  𓆩♡𓆪 partnered w/ @gamersupps + @ItashaCoffee // business contact: luckyvtuber@aol.com",
-    "id": "663274289"
+    "twitch": {
+        "id": "663274289",
+        "login": "luckyakuma",
+        "displayName": "luckyakuma",
+        "createdAt": "2021-03-17T03:19:27.967495Z",
+        "updatedAt": "2026-08-03T07:13:01.484186Z",
+        "description": "[18+] hi! my name is lucky! i'm a bratty, yappy devil bear vtuber! i love playing horror, gacha, + story based games. streams are TH/SAT/SUN @ 6PM EST!  𓆩♡𓆪 partnered w/ @gamersupps + @ItashaCoffee // business contact: luckyvtuber@aol.com",
+        "primaryColorHex": "F77CBC",
+        "followers": {
+            "totalCount": 16076
+        },
+        "follows": {
+            "totalCount": 834
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T07:19:15.342188Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2796f87-2b8e-4bcf-bd8d-848326446070-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d2870ad-69b3-4476-a3fe-153332bb5126-profile_banner-480.png"
+    }
 }

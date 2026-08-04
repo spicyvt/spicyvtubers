@@ -1,4 +1,27 @@
 {
     "bio": "Lewd bear himbo, play a verity of games for the fun of it",
-    "id": "275633562"
+    "twitch": {
+        "id": "275633562",
+        "login": "grizzlygarrie",
+        "displayName": "GrizzlyGarrie",
+        "createdAt": "2018-11-17T10:09:51.05937Z",
+        "updatedAt": "2026-03-25T17:21:39.258652Z",
+        "description": "Lewd bear himbo, play a verity of games for the fun of it",
+        "primaryColorHex": "F5EA05",
+        "followers": {
+            "totalCount": 773
+        },
+        "follows": {
+            "totalCount": 227
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-03-25T20:22:23.714253Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9e0258f-1ab3-4b4f-a909-378e026e518d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1b938a4-6148-4c4c-9475-cf2d069e399b-profile_banner-480.jpeg"
+    }
 }

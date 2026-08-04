@@ -1,4 +1,27 @@
 {
     "bio": "I'm Mitchie Soren, the vampire VTuber who feeds off of your love! 🦇 Business: mitchiesoren@gmail.com",
-    "id": "161477484"
+    "twitch": {
+        "id": "161477484",
+        "login": "mitchiesoren",
+        "displayName": "MitchieSoren",
+        "createdAt": "2017-06-25T01:12:31.244884Z",
+        "updatedAt": "2026-08-03T23:30:03.238262Z",
+        "description": "I'm Mitchie Soren, the vampire VTuber who feeds off of your love! 🦇 Business: mitchiesoren@gmail.com",
+        "primaryColorHex": "C82F35",
+        "followers": {
+            "totalCount": 6589
+        },
+        "follows": {
+            "totalCount": 1328
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:55:31.60162Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/525bced7-3f4b-43e2-8362-68990c7d904c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e0eee41-304c-4605-9e90-69233fe295b6-profile_banner-480.png"
+    }
 }

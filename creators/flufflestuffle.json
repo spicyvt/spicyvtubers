@@ -1,4 +1,27 @@
 {
     "bio": "💖 She/Her/Any | 💜 Twitch Affiliate | ⛩️ Kitsune Kami Shrine Maiden | 🔞 NSFW | 😍 Lewdtuber | 🎮 Variety Streamer | 😚 Affectionate Mama Faux | Chaotic Mischievous Shitposter | #Flufflestuffle & #Kamikitsuart",
-    "id": "77772312"
+    "twitch": {
+        "id": "77772312",
+        "login": "flufflestuffle",
+        "displayName": "FluffleStuffle",
+        "createdAt": "2014-12-23T01:23:21.340605Z",
+        "updatedAt": "2026-08-03T10:23:51.180768Z",
+        "description": "💖 She/Her/Any | 💜 Twitch Affiliate | ⛩️ Kitsune Kami Shrine Maiden | 🔞 NSFW | 😍 Lewdtuber | 🎮 Variety Streamer | 😚 Affectionate Mama Faux | Chaotic Mischievous Shitposter | #Flufflestuffle & #Kamikitsuart",
+        "primaryColorHex": "FA0000",
+        "followers": {
+            "totalCount": 1550
+        },
+        "follows": {
+            "totalCount": 410
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:48:35.365809Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/861e9772-8ed9-4771-b0ed-dce4e5c578f8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a70fb2b7-8fd0-41e3-a05f-00d86f7b2c06-profile_banner-480.png"
+    }
 }

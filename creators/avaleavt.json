@@ -1,4 +1,27 @@
 {
     "bio": "Goddess of the Forest AKA Mommy Nature 💚 A turbulent, interactive streamer with a dose of chaos, cuddles, cozy and [REDACTED]",
-    "id": "849125827"
+    "twitch": {
+        "id": "849125827",
+        "login": "avaleavt",
+        "displayName": "AvaleaVT",
+        "createdAt": "2022-11-19T04:55:26.643437Z",
+        "updatedAt": "2026-07-24T13:07:42.548418Z",
+        "description": "Goddess of the Forest AKA Mommy Nature 💚 A turbulent, interactive streamer with a dose of chaos, cuddles, cozy and [REDACTED]",
+        "primaryColorHex": "6B9F45",
+        "followers": {
+            "totalCount": 869
+        },
+        "follows": {
+            "totalCount": 135
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-24T14:05:18.123024Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd22ad3f-1d93-419a-91fe-63715ba10d4a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a436d702-d4fc-4ae2-a788-378ee4531145-profile_banner-480.png"
+    }
 }

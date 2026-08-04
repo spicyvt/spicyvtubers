@@ -1,4 +1,27 @@
 {
     "bio": "Hey, My name is Panky and I am the Maiden of Autumn! I am a the Demi-God of the fall season and I stream from my shrine to get more patrons to come visit me~ Why not become a follower of the Autumn Shrine and be spoiled by yours truly hmm?~",
-    "id": "581875267"
+    "twitch": {
+        "id": "581875267",
+        "login": "pankyvt",
+        "displayName": "pankyvt",
+        "createdAt": "2020-09-11T02:22:02.173321Z",
+        "updatedAt": "2026-08-03T22:04:47.27257Z",
+        "description": "Hey, My name is Panky and I am the Maiden of Autumn! I am a the Demi-God of the fall season and I stream from my shrine to get more patrons to come visit me~ Why not become a follower of the Autumn Shrine and be spoiled by yours truly hmm?~",
+        "primaryColorHex": "E9942A",
+        "followers": {
+            "totalCount": 20472
+        },
+        "follows": {
+            "totalCount": 39
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:19:38.133508Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d6913cf-e766-4667-aa56-04938283b246-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7566626f-624a-4354-90af-2c4be773ec05-profile_banner-480.png"
+    }
 }

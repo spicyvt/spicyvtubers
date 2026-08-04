@@ -1,4 +1,27 @@
 {
     "bio": "Hi, I'm Peach ~ perpetually confused, but doing my absolute best!   (ꈍ ꒳ ꈍ✿)* Business Inquires: peachuriVT@gmail.com",
-    "id": "62452002"
+    "twitch": {
+        "id": "62452002",
+        "login": "peachuri",
+        "displayName": "peachuri",
+        "createdAt": "2014-05-11T02:39:00.033351Z",
+        "updatedAt": "2026-08-02T23:23:49.87757Z",
+        "description": "Hi, I'm Peach ~ perpetually confused, but doing my absolute best!   (ꈍ ꒳ ꈍ✿)* Business Inquires: peachuriVT@gmail.com",
+        "primaryColorHex": "FCE0DD",
+        "followers": {
+            "totalCount": 9325
+        },
+        "follows": {
+            "totalCount": 760
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T02:17:01.154523Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c42439d9-a7a9-4acf-85f7-4aec6b630ad1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bd596da-d429-4bb4-8f25-d877fdad697e-profile_banner-480.png"
+    }
 }

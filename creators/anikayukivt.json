@@ -1,4 +1,27 @@
 {
     "bio": "Your favorite Sakura Wolf who rages at games. 🌸",
-    "id": "95882159"
+    "twitch": {
+        "id": "95882159",
+        "login": "anikayukivt",
+        "displayName": "AnikaYukiVT",
+        "createdAt": "2015-07-11T20:51:45.416953Z",
+        "updatedAt": "2026-07-31T22:56:07.667861Z",
+        "description": "Your favorite Sakura Wolf who rages at games. 🌸",
+        "primaryColorHex": "663D44",
+        "followers": {
+            "totalCount": 1050
+        },
+        "follows": {
+            "totalCount": 126
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:03:40.531942Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/27e0e5bc-0fa9-4bed-9b26-256c05bf2811-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/89652a75-28d0-4fd0-ab30-2f298baf349d-profile_banner-480.jpeg"
+    }
 }

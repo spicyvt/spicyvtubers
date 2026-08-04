@@ -1,4 +1,27 @@
 {
     "bio": "Just a bun trying I suppose. =? Mostly gaming and art stuff if any of that interest you!",
-    "id": "85520444"
+    "twitch": {
+        "id": "85520444",
+        "login": "masashiosukaa",
+        "displayName": "MasashiOsukaa",
+        "createdAt": "2015-03-18T01:44:04.172923Z",
+        "updatedAt": "2026-07-25T05:36:47.195007Z",
+        "description": "Just a bun trying I suppose. =? Mostly gaming and art stuff if any of that interest you!",
+        "primaryColorHex": "47C4FF",
+        "followers": {
+            "totalCount": 282
+        },
+        "follows": {
+            "totalCount": 11
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-25T07:42:30.458344Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c945fc4-8755-4412-a827-f50f197dce8c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e416625f-b16d-4d56-8dd1-6130ed4082c7-profile_banner-480.png"
+    }
 }

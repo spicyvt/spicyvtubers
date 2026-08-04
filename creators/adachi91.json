@@ -1,4 +1,27 @@
 {
     "bio": "18+ /  Ranty/Chilly /  Safe Space /  Neurodivergent /  Cheesecake is evil /  The Best — Best — Best — of you. „Error in the Input — Segmentation fault (core dumped)” or something.",
-    "id": "84426365"
+    "twitch": {
+        "id": "84426365",
+        "login": "adachi91",
+        "displayName": "adachi91",
+        "createdAt": "2015-03-05T16:00:41.619993Z",
+        "updatedAt": "2026-08-02T16:40:08.141321Z",
+        "description": "18+ /  Ranty/Chilly /  Safe Space /  Neurodivergent /  Cheesecake is evil /  The Best — Best — Best — of you. „Error in the Input — Segmentation fault (core dumped)” or something.",
+        "primaryColorHex": "9D5097",
+        "followers": {
+            "totalCount": 246
+        },
+        "follows": {
+            "totalCount": 64
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:06:06.448381Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63607a75-1286-40d8-b9d6-a5294262046f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96c86a3e-1b5a-4831-835e-dffa393a6f0c-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "your sleepy dream succubus, ready to steal your heart & soul ‧₊˚ ☁️⛧",
-    "id": "682962737"
+    "twitch": {
+        "id": "682962737",
+        "login": "hyuniebees",
+        "displayName": "hyuniebees",
+        "createdAt": "2021-05-03T04:11:54.57452Z",
+        "updatedAt": "2026-08-03T01:55:46.311378Z",
+        "description": "your sleepy dream succubus, ready to steal your heart & soul ‧₊˚ ☁️⛧",
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 2641
+        },
+        "follows": {
+            "totalCount": 1366
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-14T01:06:16.312313Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/49eea63a-5d1c-45e0-acaf-43c2174013d8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f8b8bc8-96f3-4b85-adb4-921d0251b150-profile_banner-480.png"
+    }
 }

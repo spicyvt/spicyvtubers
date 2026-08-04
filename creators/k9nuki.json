@@ -1,4 +1,27 @@
 {
     "bio": "don't let the pink fool you. I bite. ⳾ ♡",
-    "id": "144805902"
+    "twitch": {
+        "id": "144805902",
+        "login": "k9nuki",
+        "displayName": "k9nuki",
+        "createdAt": "2017-01-14T21:42:10.06517Z",
+        "updatedAt": "2026-08-01T00:39:09.629026Z",
+        "description": "don't let the pink fool you. I bite. ⳾ ♡",
+        "primaryColorHex": "CE5DFF",
+        "followers": {
+            "totalCount": 1812
+        },
+        "follows": {
+            "totalCount": 81
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T04:17:33.310437Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ad0830c-02b2-41c9-bd10-151ca184fa6b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/482a0924-cbc0-4150-a7a1-4938cb8acfa5-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "💜 Resident cyber vtuber | ✨3d Vtuber✨ | She/they | Variety Streamer | 18+ | Business Inquiries: contactnovavt@gmail.com ",
-    "id": "1039819338"
+    "bio": "💜 Resident cyber vtuber | ✨3d Vtuber✨ | She/they | Variety Streamer | 18+ | Business Inquiries: contactnovavt@gmail.com",
+    "twitch": {
+        "id": "1039819338",
+        "login": "sabinenovavt",
+        "displayName": "SabineNovaVT",
+        "createdAt": "2024-02-20T16:23:59.305614Z",
+        "updatedAt": "2026-07-27T19:27:38.428435Z",
+        "description": "💜 Resident cyber vtuber | ✨3d Vtuber✨ | She/they | Variety Streamer | 18+ | Business Inquiries: contactnovavt@gmail.com ",
+        "primaryColorHex": "9664FF",
+        "followers": {
+            "totalCount": 268
+        },
+        "follows": {
+            "totalCount": 76
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-27T20:34:17.357003Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c689efb1-6055-4ed7-8dde-ef8a767e9faf-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3fb6447-f681-410f-b291-fc7d3b1bdcec-profile_banner-480.png"
+    }
 }

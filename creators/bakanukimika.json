@@ -1,4 +1,27 @@
 {
     "bio": "hi hello yes I am very lady like and calm... unseiso? I could neverrrrr.                                                                                                                       Business Email: bakanukimika@gmail.com",
-    "id": "249393670"
+    "twitch": {
+        "id": "249393670",
+        "login": "bakanukimika",
+        "displayName": "BakanukiMika",
+        "createdAt": "2018-08-19T06:06:37.366765Z",
+        "updatedAt": "2026-07-30T12:07:30.938279Z",
+        "description": "hi hello yes I am very lady like and calm... unseiso? I could neverrrrr.                                                                                                                       Business Email: bakanukimika@gmail.com",
+        "primaryColorHex": "48BAFF",
+        "followers": {
+            "totalCount": 11704
+        },
+        "follows": {
+            "totalCount": 553
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T13:02:20.844985Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/93497898-2b21-4dac-844c-67dbfa29f732-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2986e48-8787-4e32-baa7-cf4d2ca9db52-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "That one rodent on the internet 🐭💜| Making art, causing chaos Too silly to be contained, too cringe to ignore! ⋯⋯⋯⋯⋯⋯⋯🐾Just call me Apa  🐭💜He/They ⁄ Chinchilla Vtuber",
-    "id": "104945870"
+    "twitch": {
+        "id": "104945870",
+        "login": "apakilyspe",
+        "displayName": "Apakilyspe",
+        "createdAt": "2015-10-23T00:36:49.171502Z",
+        "updatedAt": "2026-08-01T23:05:25.031919Z",
+        "description": "That one rodent on the internet 🐭💜| Making art, causing chaos Too silly to be contained, too cringe to ignore! ⋯⋯⋯⋯⋯⋯⋯🐾Just call me Apa  🐭💜He/They ⁄ Chinchilla Vtuber",
+        "primaryColorHex": "9A47B8",
+        "followers": {
+            "totalCount": 671
+        },
+        "follows": {
+            "totalCount": 526
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-02-21T20:27:11.04559Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/87775d69-c852-4044-a4ef-8b204c82f377-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4a8b5f9-debb-45b8-8235-46ada687c23b-profile_banner-480.png"
+    }
 }

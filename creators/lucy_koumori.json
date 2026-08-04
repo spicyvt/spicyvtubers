@@ -1,4 +1,27 @@
 {
     "bio": "Oh? You've come to see me? Well, let me introduce myself to you. Name is Lucy Koumori, the Queen of all the Succubi, glad to make your acquaintance. Pfp by: meonjitokki",
-    "id": "913682795"
+    "twitch": {
+        "id": "913682795",
+        "login": "lucy_koumori",
+        "displayName": "lucy_koumori",
+        "createdAt": "2023-05-24T18:45:12.87022Z",
+        "updatedAt": "2026-08-03T21:33:37.089375Z",
+        "description": "Oh? You've come to see me? Well, let me introduce myself to you. Name is Lucy Koumori, the Queen of all the Succubi, glad to make your acquaintance. Pfp by: meonjitokki",
+        "primaryColorHex": "7B0988",
+        "followers": {
+            "totalCount": 1692
+        },
+        "follows": {
+            "totalCount": 146
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:10:21.941053Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a9c7d7a8-8fd0-4680-8795-498690e166af-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dcec4c25-2046-490c-8f1a-adde20cb8146-profile_banner-480.jpeg"
+    }
 }

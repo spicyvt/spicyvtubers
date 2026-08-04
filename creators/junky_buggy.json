@@ -1,4 +1,27 @@
 {
-    "bio": "I’m the shark your mother warned you about.A little emo, a little chaotic, and very good at making people fall for bad ideas.I stream daily around 7–9PM EST—come watch, or don’t. Just know I’ll be in your head either way.Sharp teeth, sharper tongue. ",
-    "id": "149282879"
+    "bio": "I’m the shark your mother warned you about.A little emo, a little chaotic, and very good at making people fall for bad ideas.I stream daily around 7–9PM EST—come watch, or don’t. Just know I’ll be in your head either way.Sharp teeth, sharper tongue.",
+    "twitch": {
+        "id": "149282879",
+        "login": "junky_buggy",
+        "displayName": "junky_buggy",
+        "createdAt": "2017-03-03T02:49:32.277403Z",
+        "updatedAt": "2026-07-23T23:43:38.117318Z",
+        "description": "I’m the shark your mother warned you about.A little emo, a little chaotic, and very good at making people fall for bad ideas.I stream daily around 7–9PM EST—come watch, or don’t. Just know I’ll be in your head either way.Sharp teeth, sharper tongue. ",
+        "primaryColorHex": "FFC95C",
+        "followers": {
+            "totalCount": 3315
+        },
+        "follows": {
+            "totalCount": 180
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-24T23:46:56.031361Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/44d2f6fe-cd35-4b39-8881-2a5fc26610d6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bf14098-8fef-4763-8cef-d623b1276975-profile_banner-480.png"
+    }
 }

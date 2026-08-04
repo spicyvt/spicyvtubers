@@ -1,4 +1,27 @@
 {
     "bio": "First Gothic Dire Wolf VTuber 🌙 🥀 | Horror Streamer who loves some variety | LIVE ~ Mon-Wed-Fri 8am CST | Buisness email: direwolfvtuber.contact@gmail.com",
-    "id": "542466171"
+    "twitch": {
+        "id": "542466171",
+        "login": "direwolfvtuber",
+        "displayName": "DireWolfVTuber",
+        "createdAt": "2020-06-11T19:34:35.501162Z",
+        "updatedAt": "2026-08-03T13:11:04.706295Z",
+        "description": "First Gothic Dire Wolf VTuber 🌙 🥀 | Horror Streamer who loves some variety | LIVE ~ Mon-Wed-Fri 8am CST | Buisness email: direwolfvtuber.contact@gmail.com",
+        "primaryColorHex": "4F0304",
+        "followers": {
+            "totalCount": 2568
+        },
+        "follows": {
+            "totalCount": 1174
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T16:50:56.292444Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a156d3a3-9958-46cd-ab9e-c03c4022d4d4-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hi, I'm podgekinn! But you can call me Podge. A cute but cursed goblin maid VTuber and cosplayer streaming kink positivity, body positivity, ASMR, and creative pursuits! Won't you stop by my café for a cup of tea? | PARTNER 03/20/24",
-    "id": "194420700"
+    "twitch": {
+        "id": "194420700",
+        "login": "podgekinn",
+        "displayName": "podgekinn",
+        "createdAt": "2018-02-02T21:11:29.709202Z",
+        "updatedAt": "2026-08-01T23:23:16.108205Z",
+        "description": "Hi, I'm podgekinn! But you can call me Podge. A cute but cursed goblin maid VTuber and cosplayer streaming kink positivity, body positivity, ASMR, and creative pursuits! Won't you stop by my café for a cup of tea? | PARTNER 03/20/24",
+        "primaryColorHex": "B297CC",
+        "followers": {
+            "totalCount": 12758
+        },
+        "follows": {
+            "totalCount": 1466
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T01:43:15.911846Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d017c5ee-5108-47c0-b7c4-f19d5d51bae6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a994d13-772b-4486-91cc-74cfe3699fbd-profile_banner-480.png"
+    }
 }

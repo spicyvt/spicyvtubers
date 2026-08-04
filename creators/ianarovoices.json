@@ -1,4 +1,27 @@
 {
     "bio": "Hungri spideri corgi vtuber! 3+ years of spicy audio making, now giving your fav games a devourly twist on Twitch~ | Streams Wed Thurs Fri @ 6pm EST",
-    "id": "732511446"
+    "twitch": {
+        "id": "732511446",
+        "login": "ianarovoices",
+        "displayName": "ianaroVoices",
+        "createdAt": "2021-10-07T19:38:20.250242Z",
+        "updatedAt": "2026-07-30T21:38:55.514631Z",
+        "description": "Hungri spideri corgi vtuber! 3+ years of spicy audio making, now giving your fav games a devourly twist on Twitch~ | Streams Wed Thurs Fri @ 6pm EST",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 1011
+        },
+        "follows": {
+            "totalCount": 16
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T23:22:02.142621Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb790a93-42ff-4307-9e15-8e5ed7fb3c80-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

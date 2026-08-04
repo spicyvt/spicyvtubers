@@ -1,4 +1,27 @@
 {
-    "bio": "Hello! My name is Celeste and im an Elf vtuber! I love to play a variety of games including horror! I'm open to collabs and hanging out! Hopefully we can have lots of comfy fun together. This is an 18+ SPACE. ",
-    "id": "766216012"
+    "bio": "Hello! My name is Celeste and im an Elf vtuber! I love to play a variety of games including horror! I'm open to collabs and hanging out! Hopefully we can have lots of comfy fun together. This is an 18+ SPACE.",
+    "twitch": {
+        "id": "766216012",
+        "login": "celestetheelf",
+        "displayName": "CelesteTheElf",
+        "createdAt": "2022-01-26T06:06:55.270291Z",
+        "updatedAt": "2026-08-03T21:34:59.365999Z",
+        "description": "Hello! My name is Celeste and im an Elf vtuber! I love to play a variety of games including horror! I'm open to collabs and hanging out! Hopefully we can have lots of comfy fun together. This is an 18+ SPACE. ",
+        "primaryColorHex": "B89DE2",
+        "followers": {
+            "totalCount": 4470
+        },
+        "follows": {
+            "totalCount": 115
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T22:16:41.028294Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/638b8320-256c-48ea-8e9c-e234d5686fe6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/00dd52e7-1d3e-44b3-a228-5f99654e4a32-profile_banner-480.png"
+    }
 }

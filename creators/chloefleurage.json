@@ -1,4 +1,27 @@
 {
     "bio": "Stoned Demonic Tomboy AKA: The Cougar from HR",
-    "id": "121125711"
+    "twitch": {
+        "id": "121125711",
+        "login": "chloefleurage",
+        "displayName": "ChloeFleurage",
+        "createdAt": "2016-04-07T00:45:07.976806Z",
+        "updatedAt": "2026-07-29T20:39:05.347102Z",
+        "description": "Stoned Demonic Tomboy AKA: The Cougar from HR",
+        "primaryColorHex": "7F55A7",
+        "followers": {
+            "totalCount": 85
+        },
+        "follows": {
+            "totalCount": 105
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T01:04:59.995806Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf599aa0-2e92-46ab-aa49-2e8d4c4a1c61-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0cd1ffc9-3dac-4f7c-ba2f-64e26a1caef4-profile_banner-480.png"
+    }
 }

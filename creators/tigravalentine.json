@@ -1,4 +1,27 @@
 {
     "bio": "Hello my lovely cult. Your Vampire Goddess Tigress Tigra Valentine here. Professional tease and scuff gamer. I go live around 6pm Central Standard Time Mon-Thurs. Business Email: tigravalentine@gmail.com",
-    "id": "255655755"
+    "twitch": {
+        "id": "255655755",
+        "login": "tigravalentine",
+        "displayName": "TigraValentine",
+        "createdAt": "2018-09-06T21:26:47.907953Z",
+        "updatedAt": "2026-08-03T22:38:22.976905Z",
+        "description": "Hello my lovely cult. Your Vampire Goddess Tigress Tigra Valentine here. Professional tease and scuff gamer. I go live around 6pm Central Standard Time Mon-Thurs. Business Email: tigravalentine@gmail.com",
+        "primaryColorHex": "591674",
+        "followers": {
+            "totalCount": 3609
+        },
+        "follows": {
+            "totalCount": 1246
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:00:21.848857Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/706f56b5-292a-4f65-9edc-5703b9b45f4c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/68d6362f-5618-433d-a5be-6a48c019b5c8-profile_banner-480.png"
+    }
 }

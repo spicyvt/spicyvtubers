@@ -1,4 +1,27 @@
 {
     "bio": "18+ VTuber Cambion(incubus/succubus) Genderfluid Just your neighborhood Cambion just enjoying your world and hunting for life energy~ PFP is GloomyDDalgi",
-    "id": "882536556"
+    "twitch": {
+        "id": "882536556",
+        "login": "maevefaeland",
+        "displayName": "MaeveFaeland",
+        "createdAt": "2023-02-16T04:51:52.251336Z",
+        "updatedAt": "2026-08-02T22:25:29.696825Z",
+        "description": "18+ VTuber Cambion(incubus/succubus) Genderfluid Just your neighborhood Cambion just enjoying your world and hunting for life energy~ PFP is GloomyDDalgi",
+        "primaryColorHex": "BA63D0",
+        "followers": {
+            "totalCount": 904
+        },
+        "follows": {
+            "totalCount": 378
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:50:44.507892Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/715f99b0-7464-4f34-8160-edaa06c6f764-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/420a399e-d524-44cc-95be-dfa0fed0363e-profile_banner-480.png"
+    }
 }

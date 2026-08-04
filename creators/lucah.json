@@ -1,4 +1,27 @@
 {
     "bio": "SILLY HORSE MOM THAT IS SILLY | Middle aged disaster, I like to play games badly and make friends!",
-    "id": "20739344"
+    "twitch": {
+        "id": "20739344",
+        "login": "lucah",
+        "displayName": "Lucah",
+        "createdAt": "2011-02-26T04:42:06.013978Z",
+        "updatedAt": "2026-08-01T18:41:06.639373Z",
+        "description": "SILLY HORSE MOM THAT IS SILLY | Middle aged disaster, I like to play games badly and make friends!",
+        "primaryColorHex": "FF8280",
+        "followers": {
+            "totalCount": 96456
+        },
+        "follows": {
+            "totalCount": 200
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T23:09:08.580057Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c1918a8-804b-4d18-8853-e2b9f60721b4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b9bd9b7-f8cd-49fe-804e-d4abedece38b-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "❤️  Demoness Mistress VTuber ❤️ | Hello darlings~ I am Lenore. Voice Actor, Mommy Mistress, and ASMR content creator. My dream is to whisper sweet words into your ear, collecting my lovely worshipers souls to build a cult in my name! ❤️ | 🇨🇦➡️🇯🇵",
-    "id": "692240876"
+    "twitch": {
+        "id": "692240876",
+        "login": "mistresslenore",
+        "displayName": "MistressLenore",
+        "createdAt": "2021-05-30T02:48:54.444862Z",
+        "updatedAt": "2026-08-03T01:56:01.594647Z",
+        "description": "❤️  Demoness Mistress VTuber ❤️ | Hello darlings~ I am Lenore. Voice Actor, Mommy Mistress, and ASMR content creator. My dream is to whisper sweet words into your ear, collecting my lovely worshipers souls to build a cult in my name! ❤️ | 🇨🇦➡️🇯🇵",
+        "primaryColorHex": "13367E",
+        "followers": {
+            "totalCount": 12933
+        },
+        "follows": {
+            "totalCount": 662
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T04:29:47.675135Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/998b0427-6453-42cd-a758-d89ad8ced2a1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e170ce3-4879-44b1-b71b-1ac24cddda47-profile_banner-480.jpeg"
+    }
 }

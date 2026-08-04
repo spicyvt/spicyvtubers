@@ -1,4 +1,27 @@
 {
     "bio": "Silly succky succubus ♡",
-    "id": "917795563"
+    "twitch": {
+        "id": "917795563",
+        "login": "cana",
+        "displayName": "Cana",
+        "createdAt": "2023-06-03T00:15:20.725444Z",
+        "updatedAt": "2026-08-03T20:48:14.663028Z",
+        "description": "Silly succky succubus ♡",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 28939
+        },
+        "follows": {
+            "totalCount": 1435
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:25:06.498192Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cf522aa-027c-46ce-aa0f-1c56dd0096ea-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b2ae235-e9c5-42fc-a7f6-96ccc3586008-profile_banner-480.jpeg"
+    }
 }

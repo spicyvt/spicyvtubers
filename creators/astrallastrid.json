@@ -1,4 +1,27 @@
 {
     "bio": "❄️Your favorite Astral Snow/Barn Owl (Currently rebranding!) :3 | Small lewdtuber ready to make you crack a smile and have a little laugh! | Business inquiries: litar523@gmail.com ❄️",
-    "id": "251120697"
+    "twitch": {
+        "id": "251120697",
+        "login": "astrallastrid",
+        "displayName": "AstrallAstrid",
+        "createdAt": "2018-08-25T00:53:22.886704Z",
+        "updatedAt": "2026-07-28T23:04:37.422268Z",
+        "description": "❄️Your favorite Astral Snow/Barn Owl (Currently rebranding!) :3 | Small lewdtuber ready to make you crack a smile and have a little laugh! | Business inquiries: litar523@gmail.com ❄️",
+        "primaryColorHex": "BEF1FF",
+        "followers": {
+            "totalCount": 4221
+        },
+        "follows": {
+            "totalCount": 963
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T00:06:25.452785Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f4f1fa2-931c-4a22-922b-5c045246398b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82ead112-d8c8-4500-b5e5-d2ca577ca4f2-profile_banner-480.png"
+    }
 }

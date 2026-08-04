@@ -1,4 +1,27 @@
 {
     "bio": "i am a boyfailure that plays fps games and obsess about tech and is always hungry | Business / Collabs: Discord - _kuroyukihime_ or my email @ mayyyavt@gmail.com",
-    "id": "464179804"
+    "twitch": {
+        "id": "464179804",
+        "login": "mayyuhhh",
+        "displayName": "mayyuhhh",
+        "createdAt": "2019-09-25T22:04:35.227576Z",
+        "updatedAt": "2026-08-02T17:55:36.349859Z",
+        "description": "i am a boyfailure that plays fps games and obsess about tech and is always hungry | Business / Collabs: Discord - _kuroyukihime_ or my email @ mayyyavt@gmail.com",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 1091
+        },
+        "follows": {
+            "totalCount": 293
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:48:00.328638Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b08a5bc5-8fb5-4e55-acfd-7a1cd2f87ca5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3824c23-e1da-41e5-8ff9-a60f98ddeb7a-profile_banner-480.png"
+    }
 }

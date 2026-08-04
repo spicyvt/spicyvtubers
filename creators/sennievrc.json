@@ -1,4 +1,27 @@
 {
     "bio": "Silly Cyber Puppy..? 💜 cute Femboy ? mayhaps ~",
-    "id": "528358684"
+    "twitch": {
+        "id": "528358684",
+        "login": "sennievrc",
+        "displayName": "SennieVRC",
+        "createdAt": "2020-05-09T23:37:05.260924Z",
+        "updatedAt": "2026-08-04T00:34:22.327237Z",
+        "description": "Silly Cyber Puppy..? 💜 cute Femboy ? mayhaps ~",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 5644
+        },
+        "follows": {
+            "totalCount": 389
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:33:58.297502Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26a83318-e1a9-4756-b1cc-b9cedea2442a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dffe50d-9639-4bb7-bbab-ad71d7645b08-profile_banner-480.png"
+    }
 }

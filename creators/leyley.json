@@ -1,4 +1,27 @@
 {
     "bio": "My name is Ley. I play video games.",
-    "id": "27753669"
+    "twitch": {
+        "id": "27753669",
+        "login": "leyley",
+        "displayName": "LeyLey",
+        "createdAt": "2012-01-26T04:16:55.77825Z",
+        "updatedAt": "2026-07-28T05:00:29.58986Z",
+        "description": "My name is Ley. I play video games.",
+        "primaryColorHex": "D22950",
+        "followers": {
+            "totalCount": 50913
+        },
+        "follows": {
+            "totalCount": 352
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T09:18:34.852488Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92b25026-97ad-4867-ab4b-0c028eb8618d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/247c9fd8-1257-4c49-8f49-a7438ad396ad-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Chance the Vtuber Demon Chiimp! Creating boyfriend roleplays on Youtube.",
-    "id": "426310476"
+    "twitch": {
+        "id": "426310476",
+        "login": "urlastchance_",
+        "displayName": "UrLastChance_",
+        "createdAt": "2019-03-28T04:37:34.977098Z",
+        "updatedAt": "2026-06-22T23:17:04.346267Z",
+        "description": "Chance the Vtuber Demon Chiimp! Creating boyfriend roleplays on Youtube.",
+        "primaryColorHex": "CC1818",
+        "followers": {
+            "totalCount": 7918
+        },
+        "follows": {
+            "totalCount": 368
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-23T01:16:00.263635Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/999e2502-2e2d-46ab-b5d6-d1fa8e71c2c8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ddc4ac9-134f-4689-a6bf-c5a01e074f5a-profile_banner-480.png"
+    }
 }

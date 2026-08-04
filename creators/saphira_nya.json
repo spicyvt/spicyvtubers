@@ -1,4 +1,27 @@
 {
-    "bio": "💗Comfy&Flirty CatGirl Vtuber💗 your friendly neko companion            ",
-    "id": "239463476"
+    "bio": "💗Comfy&Flirty CatGirl Vtuber💗 your friendly neko companion",
+    "twitch": {
+        "id": "239463476",
+        "login": "saphira_nya",
+        "displayName": "Saphira_Nya",
+        "createdAt": "2018-07-17T15:53:27.289785Z",
+        "updatedAt": "2026-07-29T12:39:36.008711Z",
+        "description": "💗Comfy&Flirty CatGirl Vtuber💗 your friendly neko companion            ",
+        "primaryColorHex": "D89EEF",
+        "followers": {
+            "totalCount": 18464
+        },
+        "follows": {
+            "totalCount": 352
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T15:40:50.428253Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/048fe69d-0ff6-4f96-ad09-f2c61923c809-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95eeb80d-16ac-4dad-a3a8-b87db97402ca-profile_banner-480.png"
+    }
 }

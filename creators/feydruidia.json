@@ -1,4 +1,27 @@
 {
     "bio": "Hewo my name is Fey Druidia! I'm a fairy or puppy girl streamer. I regularly stream with my partner Knife_ears. You may see me indifferent forms but I am a shapeshifter. I also have an alt form Seishen. We both have a catgirl that picks on us both, that's Trish. 💚💙",
-    "id": "584988313"
+    "twitch": {
+        "id": "584988313",
+        "login": "feydruidia",
+        "displayName": "FeyDruidia",
+        "createdAt": "2020-09-19T20:05:00.554279Z",
+        "updatedAt": "2026-08-01T20:32:50.265091Z",
+        "description": "Hewo my name is Fey Druidia! I'm a fairy or puppy girl streamer. I regularly stream with my partner Knife_ears. You may see me indifferent forms but I am a shapeshifter. I also have an alt form Seishen. We both have a catgirl that picks on us both, that's Trish. 💚💙",
+        "primaryColorHex": "2FC489",
+        "followers": {
+            "totalCount": 957
+        },
+        "follows": {
+            "totalCount": 1138
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T00:08:19.113851Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3ad63e8-41b4-49a0-83e7-8fef7c7c3969-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8311e99c-7492-4f29-9745-637f859cc222-profile_banner-480.png"
+    }
 }

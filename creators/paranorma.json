@@ -1,4 +1,27 @@
 {
     "bio": "spoopy girl in a spoopy world",
-    "id": "259908236"
+    "twitch": {
+        "id": "259908236",
+        "login": "paranorma",
+        "displayName": "ParaNorma",
+        "createdAt": "2018-09-18T01:30:26.972983Z",
+        "updatedAt": "2026-08-03T20:48:21.040799Z",
+        "description": "spoopy girl in a spoopy world",
+        "primaryColorHex": "0FFF00",
+        "followers": {
+            "totalCount": 21220
+        },
+        "follows": {
+            "totalCount": 173
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:29:13.440879Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c28fb82a-04c3-4cc5-8e83-ee24bc83a29d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7bf8fc-355d-4136-a912-446a6fdaf888-profile_banner-480.jpeg"
+    }
 }

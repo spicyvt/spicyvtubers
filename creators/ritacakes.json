@@ -1,4 +1,27 @@
 {
     "bio": "ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH",
-    "id": "1161275126"
+    "twitch": {
+        "id": "1161275126",
+        "login": "ritacakes",
+        "displayName": "ritacakes",
+        "createdAt": "2024-10-13T09:47:07.665754Z",
+        "updatedAt": "2026-08-02T23:46:49.200934Z",
+        "description": "ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH ROACH",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 5223
+        },
+        "follows": {
+            "totalCount": 36
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T03:55:27.518786Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95600288-5ee9-4a00-89cd-23a3b9e4aefb-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b71df099-8fbf-499c-94d3-a505be9a96de-profile_banner-480.png"
+    }
 }

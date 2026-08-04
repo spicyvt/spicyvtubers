@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "1009569455"
+    "twitch": {
+        "id": "1009569455",
+        "login": "michipupvr",
+        "displayName": "MichipupVR",
+        "createdAt": "2023-12-26T23:56:30.113504Z",
+        "updatedAt": "2026-05-17T23:38:03.101414Z",
+        "description": null,
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 14
+        },
+        "follows": {
+            "totalCount": 21
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/925eda31-d14e-475a-8770-f16e601806e1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f1911bc-0c04-4770-a3f5-9db0059e243f-profile_banner-480.png"
+    }
 }

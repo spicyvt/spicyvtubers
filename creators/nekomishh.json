@@ -1,4 +1,27 @@
 {
     "bio": "just your favourite eepy catgirl vtuber ₊˚⊹ ᰔ",
-    "id": "78705939"
+    "twitch": {
+        "id": "78705939",
+        "login": "nekomishh",
+        "displayName": "nekomishh",
+        "createdAt": "2015-01-02T21:58:24.274201Z",
+        "updatedAt": "2026-07-30T01:51:23.387164Z",
+        "description": "just your favourite eepy catgirl vtuber ₊˚⊹ ᰔ",
+        "primaryColorHex": "FF3CB1",
+        "followers": {
+            "totalCount": 1222
+        },
+        "follows": {
+            "totalCount": 314
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T03:24:52.775844Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cee47471-67b6-4e0f-9fbd-132244e12458-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b1c119e-1bdd-4ba5-ae14-e8cfdcca5318-profile_banner-480.png"
+    }
 }

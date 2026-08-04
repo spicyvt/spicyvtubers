@@ -1,4 +1,27 @@
 {
     "bio": "《ᓚᘏᗢ》《I buh, and guh, xdd~ 💙  》《business inquiries: twitch@mura.tv》",
-    "id": "190177877"
+    "twitch": {
+        "id": "190177877",
+        "login": "mura",
+        "displayName": "mura",
+        "createdAt": "2018-01-12T01:48:29.239355Z",
+        "updatedAt": "2026-07-31T22:42:47.34558Z",
+        "description": "《ᓚᘏᗢ》《I buh, and guh, xdd~ 💙  》《business inquiries: twitch@mura.tv》",
+        "primaryColorHex": "4A69D9",
+        "followers": {
+            "totalCount": 11135
+        },
+        "follows": {
+            "totalCount": 2000
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T00:05:34.070051Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb9aa83a-1a92-4685-a9cf-5305ddddcafd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9af668f8-d3f4-45ee-a6a3-6f1739a390b2-profile_banner-480.png"
+    }
 }

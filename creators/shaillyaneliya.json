@@ -1,4 +1,27 @@
 {
     "bio": "asmr vtuber",
-    "id": "1340250454"
+    "twitch": {
+        "id": "1340250454",
+        "login": "shaillyaneliya",
+        "displayName": "shaillyaneliya",
+        "createdAt": "2025-07-25T02:38:16.373643Z",
+        "updatedAt": "2026-07-31T20:53:08.342075Z",
+        "description": "asmr vtuber",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 171
+        },
+        "follows": {
+            "totalCount": 0
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T01:20:42.417537Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f05b3db9-9717-4e4a-87a2-b4a2589df60e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d50549f-ce4c-443e-92ac-e184f4296068-profile_banner-480.png"
+    }
 }

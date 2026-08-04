@@ -1,4 +1,27 @@
 {
     "bio": "Incubus king/night club enjoyer/ASMRist/Vtuber",
-    "id": "433137905"
+    "twitch": {
+        "id": "433137905",
+        "login": "chanhyukvt",
+        "displayName": "ChanHyukVT",
+        "createdAt": "2019-04-30T06:24:07.775288Z",
+        "updatedAt": "2026-01-24T01:17:05.443337Z",
+        "description": "Incubus king/night club enjoyer/ASMRist/Vtuber",
+        "primaryColorHex": "FFBF00",
+        "followers": {
+            "totalCount": 40322
+        },
+        "follows": {
+            "totalCount": 239
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-01-24T04:09:03.460316Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cfd228bb-3fb9-4933-88d6-7cb99661a80e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8664dd7-02f8-44c5-bf27-02e520686519-profile_banner-480.png"
+    }
 }

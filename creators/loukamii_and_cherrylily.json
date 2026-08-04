@@ -1,4 +1,27 @@
 {
     "bio": "~~~~~~~✧ Vtuber ✧ VArtiste ✧ Cosplayer ✧ French ✧ OnlyFan ✧~~~~~~ Hello there ~  I am Cherry Lily, aka E-Lily, a succubus 2.0 trying to recruit followers for the Lost Goddess Loukamii-sama ... so I can wake her up and bring her back into this world ! 💜",
-    "id": "512132646"
+    "twitch": {
+        "id": "512132646",
+        "login": "loukamii_and_cherrylily",
+        "displayName": "Loukamii_and_CherryLily",
+        "createdAt": "2020-04-11T01:51:01.078544Z",
+        "updatedAt": "2026-08-03T20:38:05.060731Z",
+        "description": "~~~~~~~✧ Vtuber ✧ VArtiste ✧ Cosplayer ✧ French ✧ OnlyFan ✧~~~~~~ Hello there ~  I am Cherry Lily, aka E-Lily, a succubus 2.0 trying to recruit followers for the Lost Goddess Loukamii-sama ... so I can wake her up and bring her back into this world ! 💜",
+        "primaryColorHex": "D065FF",
+        "followers": {
+            "totalCount": 1863
+        },
+        "follows": {
+            "totalCount": 215
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:40:38.630501Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/446c2b0e-58ae-4015-8b56-aaadc5e0eea6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dfd77a42-d3ba-4627-9184-a3c76bf57c45-profile_banner-480.jpeg"
+    }
 }

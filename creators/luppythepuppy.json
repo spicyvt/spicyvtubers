@@ -1,4 +1,27 @@
 {
     "bio": "♡♡♡♡ Streams TUE, WED, THUR, FRI, SAT at 2pm PST / 5pm EST ♡♡♡♡  Join the Discord for announcements!",
-    "id": "612900204"
+    "twitch": {
+        "id": "612900204",
+        "login": "luppythepuppy",
+        "displayName": "LuppyThePuppy",
+        "createdAt": "2020-11-25T02:09:12.40784Z",
+        "updatedAt": "2026-08-01T16:13:24.000239Z",
+        "description": "♡♡♡♡ Streams TUE, WED, THUR, FRI, SAT at 2pm PST / 5pm EST ♡♡♡♡  Join the Discord for announcements!",
+        "primaryColorHex": "8E4261",
+        "followers": {
+            "totalCount": 10902
+        },
+        "follows": {
+            "totalCount": 262
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T00:37:10.740673Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/042b9938-f89e-4e7f-a786-b8e259af37b4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/df0f663d-3536-4a6a-a57d-db0926695509-profile_banner-480.png"
+    }
 }

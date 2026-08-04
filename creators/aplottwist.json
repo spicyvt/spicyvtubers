@@ -1,4 +1,27 @@
 {
-    "bio": "「 ✦ Southern Singing Siren ✦ 」 Bratty Feesh Gorwl ",
-    "id": "415196676"
+    "bio": "「 ✦ Southern Singing Siren ✦ 」 Bratty Feesh Gorwl",
+    "twitch": {
+        "id": "415196676",
+        "login": "aplottwist",
+        "displayName": "aPlotTwist",
+        "createdAt": "2019-02-08T19:06:13.167925Z",
+        "updatedAt": "2026-08-03T22:56:00.069935Z",
+        "description": "「 ✦ Southern Singing Siren ✦ 」 Bratty Feesh Gorwl ",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 13716
+        },
+        "follows": {
+            "totalCount": 1644
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:58:17.538428Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/51a20708-8088-4eec-b46b-0d33ee2224f2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5140380d-629a-41ca-af13-21ba12ee95e8-profile_banner-480.png"
+    }
 }

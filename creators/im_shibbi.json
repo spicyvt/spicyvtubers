@@ -1,4 +1,27 @@
 {
     "bio": "NB 1 MOST WANTED CYBER PSYCHO ON THE INTERNET 🥇⚙️ SUPPORT - http://patreon.com/shibbi",
-    "id": "244847126"
+    "twitch": {
+        "id": "244847126",
+        "login": "im_shibbi",
+        "displayName": "IM_SHIBBI",
+        "createdAt": "2018-08-02T08:56:56.686292Z",
+        "updatedAt": "2026-07-27T13:19:41.868529Z",
+        "description": "NB 1 MOST WANTED CYBER PSYCHO ON THE INTERNET 🥇⚙️ SUPPORT - http://patreon.com/shibbi",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 3642
+        },
+        "follows": {
+            "totalCount": 210
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-27T13:44:49.386144Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31742029-e1ab-4dbf-872d-ba0b15af39e8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67325ad4-9bef-4ff9-8b34-fe020872b775-profile_banner-480.png"
+    }
 }

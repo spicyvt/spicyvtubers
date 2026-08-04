@@ -1,4 +1,27 @@
 {
     "bio": "that one fox that goes \"BORK BORK\" 🦊Professional Dumbass :3",
-    "id": "627558138"
+    "twitch": {
+        "id": "627558138",
+        "login": "kazimora",
+        "displayName": "Kazimora",
+        "createdAt": "2020-12-29T02:28:07.256868Z",
+        "updatedAt": "2026-08-01T17:06:39.071806Z",
+        "description": "that one fox that goes \"BORK BORK\" 🦊Professional Dumbass :3",
+        "primaryColorHex": "550100",
+        "followers": {
+            "totalCount": 2663
+        },
+        "follows": {
+            "totalCount": 1649
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:15:07.263755Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19265e67-c385-450e-9e58-aaf02dd4c891-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b404e5d-0e99-42b0-a194-48630cd7662d-profile_banner-480.png"
+    }
 }

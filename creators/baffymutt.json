@@ -1,4 +1,27 @@
 {
     "bio": "🔞🔞🔞 ⚝ 🐐❤️‍🩹 goat dog thing ⚝ tomboy lewdtuber ⚝ VA / singer 🎙️",
-    "id": "666977726"
+    "twitch": {
+        "id": "666977726",
+        "login": "baffymutt",
+        "displayName": "baffymutt",
+        "createdAt": "2021-03-26T03:58:59.657737Z",
+        "updatedAt": "2026-07-22T03:24:47.272381Z",
+        "description": "🔞🔞🔞 ⚝ 🐐❤️‍🩹 goat dog thing ⚝ tomboy lewdtuber ⚝ VA / singer 🎙️",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 3057
+        },
+        "follows": {
+            "totalCount": 649
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-22T05:15:11.052771Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/40b5be38-b743-41f7-addd-89fd5cd1c976-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/05570507-a3dc-4b5e-a488-6ff06fe8fd78-profile_banner-480.jpeg"
+    }
 }

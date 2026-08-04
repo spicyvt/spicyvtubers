@@ -1,4 +1,27 @@
 {
     "bio": "Ello! I'm Nyghtia, a Monster Tanuki VTuber who has a tendency to rage at games :3 i play lots of Marvel Rivals, Overwatch, and Fortnite :3 With a bit of variety sprinkled in.  (´・ω・)ﾉ ▸ ♡ ❤️‍🔥 Contact: Nyghtiax@gmail.com",
-    "id": "596277667"
+    "twitch": {
+        "id": "596277667",
+        "login": "nyghtia",
+        "displayName": "nyghtia",
+        "createdAt": "2020-10-16T00:59:27.471813Z",
+        "updatedAt": "2026-07-31T22:12:14.980348Z",
+        "description": "Ello! I'm Nyghtia, a Monster Tanuki VTuber who has a tendency to rage at games :3 i play lots of Marvel Rivals, Overwatch, and Fortnite :3 With a bit of variety sprinkled in.  (´・ω・)ﾉ ▸ ♡ ❤️‍🔥 Contact: Nyghtiax@gmail.com",
+        "primaryColorHex": "002903",
+        "followers": {
+            "totalCount": 2891
+        },
+        "follows": {
+            "totalCount": 383
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T00:50:56.16221Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/222d298d-2971-4ddb-a315-8bfe1fb53592-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f37d4eff-54da-40e0-ab88-f39023febd00-profile_banner-480.png"
+    }
 }

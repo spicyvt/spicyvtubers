@@ -1,4 +1,27 @@
 {
     "bio": "Hello, I'm Cali! A little nekomata in a box trying out ASMR. I also stream myself working on scripts, editing audios or just playing something for fun. ( ˊᵕˋ )",
-    "id": "941821040"
+    "twitch": {
+        "id": "941821040",
+        "login": "calicomata",
+        "displayName": "Calicomata",
+        "createdAt": "2023-08-09T00:36:35.224804Z",
+        "updatedAt": "2026-08-03T15:16:59.304577Z",
+        "description": "Hello, I'm Cali! A little nekomata in a box trying out ASMR. I also stream myself working on scripts, editing audios or just playing something for fun. ( ˊᵕˋ )",
+        "primaryColorHex": "DC8C35",
+        "followers": {
+            "totalCount": 881
+        },
+        "follows": {
+            "totalCount": 320
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T20:57:11.780025Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82345b23-f63c-49cc-9b07-ce75b58b2a4c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2352dc91-b714-4a74-b752-17248364769f-profile_banner-480.png"
+    }
 }

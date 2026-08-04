@@ -1,4 +1,27 @@
 {
     "bio": "Hii, I'm Ghoulie (●’◡’●)ﾉ I love gaming, so thought I'd give this a try.",
-    "id": "771700775"
+    "twitch": {
+        "id": "771700775",
+        "login": "ghoulie_vt",
+        "displayName": "Ghoulie_VT",
+        "createdAt": "2022-02-11T17:05:36.275621Z",
+        "updatedAt": "2026-04-17T11:32:30.461285Z",
+        "description": "Hii, I'm Ghoulie (●’◡’●)ﾉ I love gaming, so thought I'd give this a try.",
+        "primaryColorHex": "AC18E4",
+        "followers": {
+            "totalCount": 499
+        },
+        "follows": {
+            "totalCount": 139
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-21T16:28:51.393951Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b59d2640-a03a-4d85-b1d8-3d0bf2d79de9-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d149b91b-ba99-4cdc-a5fe-2e0e721b9902-profile_banner-480.jpeg"
+    }
 }

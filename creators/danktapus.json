@@ -1,4 +1,27 @@
 {
     "bio": "I am the Danktapus Hunter, I like to draw (often streamed on other sites). I play a bunch of different games with my friends!",
-    "id": "123279096"
+    "twitch": {
+        "id": "123279096",
+        "login": "danktapus",
+        "displayName": "Danktapus",
+        "createdAt": "2016-05-02T06:59:38.722001Z",
+        "updatedAt": "2026-07-31T06:35:08.724482Z",
+        "description": "I am the Danktapus Hunter, I like to draw (often streamed on other sites). I play a bunch of different games with my friends!",
+        "primaryColorHex": "2F0041",
+        "followers": {
+            "totalCount": 352
+        },
+        "follows": {
+            "totalCount": 133
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T08:18:43.994307Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2951492-3365-464e-bd58-ca511b5c51cf-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e16d593a-c291-450a-8a81-219823da98fa-profile_banner-480.png"
+    }
 }

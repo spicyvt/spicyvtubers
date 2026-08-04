@@ -1,4 +1,27 @@
 {
     "bio": "💜Succubun that makes content for her treats and freaks 💜",
-    "id": "152344013"
+    "twitch": {
+        "id": "152344013",
+        "login": "trixxvt",
+        "displayName": "TrixxVT",
+        "createdAt": "2017-04-04T04:11:29.195998Z",
+        "updatedAt": "2026-08-03T20:55:57.97086Z",
+        "description": "💜Succubun that makes content for her treats and freaks 💜",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 1124
+        },
+        "follows": {
+            "totalCount": 96
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:59:36.295257Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8eaa3a5-d0f6-402e-a14f-3f21664d1e67-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f09207-00de-4076-8092-f12c2829bb95-profile_banner-480.png"
+    }
 }

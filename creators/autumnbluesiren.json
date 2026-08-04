@@ -1,4 +1,27 @@
 {
     "bio": "Polyamorous genderfluid gamer (They/He) and s*x worker. Living with OSDD, I advocate for LGBTQIA+ awareness and mental health. Passionate about gaming, creativity, and building compassionate communities. Join me in celebrating diversity and authenticity! 🌈🎮✨",
-    "id": "629598457"
+    "twitch": {
+        "id": "629598457",
+        "login": "autumnbluesiren",
+        "displayName": "AutumnBlueSiren",
+        "createdAt": "2021-01-01T19:53:52.995338Z",
+        "updatedAt": "2026-08-04T00:22:33.937101Z",
+        "description": "Polyamorous genderfluid gamer (They/He) and s*x worker. Living with OSDD, I advocate for LGBTQIA+ awareness and mental health. Passionate about gaming, creativity, and building compassionate communities. Join me in celebrating diversity and authenticity! 🌈🎮✨",
+        "primaryColorHex": "003CB4",
+        "followers": {
+            "totalCount": 326
+        },
+        "follows": {
+            "totalCount": 681
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T06:04:59.112601Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a12caa8-252b-482a-af22-1a54066d45c4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/891d9c53-0688-4a47-b891-ee5b0c814872-profile_banner-480.png"
+    }
 }

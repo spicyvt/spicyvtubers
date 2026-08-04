@@ -1,4 +1,27 @@
 {
-    "bio": "meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow ",
-    "id": "805119832"
+    "bio": "meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+    "twitch": {
+        "id": "805119832",
+        "login": "chud_vr",
+        "displayName": "Chud_VR",
+        "createdAt": "2022-06-28T20:15:41.443598Z",
+        "updatedAt": "2026-08-02T06:24:12.441953Z",
+        "description": "meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow ",
+        "primaryColorHex": "E6BDDF",
+        "followers": {
+            "totalCount": 18683
+        },
+        "follows": {
+            "totalCount": 259
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T22:46:41.620187Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4cea16d8-45df-4486-9a56-55c757b29714-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7da6af71-edae-493e-a78f-a58f6453476e-profile_banner-480.png"
+    }
 }

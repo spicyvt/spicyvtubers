@@ -1,4 +1,27 @@
 {
     "bio": "Hey, I'm Karen (yeah that's actually my name...), a 32 y/o streaming from New Zealand. Sleepy tsundere who shows affection by bullying~ Sometimes, I stream as my e-girl alter-ego; Taiga-tan!   |   ARG / Meta Roleplay / kayfabe / always in-character",
-    "id": "119356711"
+    "twitch": {
+        "id": "119356711",
+        "login": "taigatan",
+        "displayName": "TaigaTan",
+        "createdAt": "2016-03-21T14:25:30.704028Z",
+        "updatedAt": "2026-07-08T08:57:38.283743Z",
+        "description": "Hey, I'm Karen (yeah that's actually my name...), a 32 y/o streaming from New Zealand. Sleepy tsundere who shows affection by bullying~ Sometimes, I stream as my e-girl alter-ego; Taiga-tan!   |   ARG / Meta Roleplay / kayfabe / always in-character",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 22217
+        },
+        "follows": {
+            "totalCount": 154
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-14T14:25:35.243202Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/796d7fde-0ac8-4c0d-986e-66a4036c69b7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/844babb1-0ece-4c95-a1c1-2bb5fa41991b-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "silly degen vampire ♱",
-    "id": "86427705"
+    "twitch": {
+        "id": "86427705",
+        "login": "skydarc",
+        "displayName": "Skydarc",
+        "createdAt": "2015-03-26T17:00:03.823119Z",
+        "updatedAt": "2026-08-02T17:26:20.108991Z",
+        "description": "silly degen vampire ♱",
+        "primaryColorHex": "9E6FE4",
+        "followers": {
+            "totalCount": 32600
+        },
+        "follows": {
+            "totalCount": 767
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T17:23:41.230113Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f45d591-5b72-43a7-930e-f696a4398478-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/092fcbda-f55e-4b27-83bb-f73bdfec63f7-profile_banner-480.png"
+    }
 }

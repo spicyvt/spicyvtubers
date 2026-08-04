@@ -1,4 +1,27 @@
 {
     "bio": "Hi ⭐ I'm Choco, a full time ASMR streamer and digital artist  ! I love to draw, play video games and sing ! Let's spend some time together !",
-    "id": "720057691"
+    "twitch": {
+        "id": "720057691",
+        "login": "chocobred_",
+        "displayName": "Chocobred_",
+        "createdAt": "2021-08-22T12:21:03.60899Z",
+        "updatedAt": "2026-07-31T14:52:12.835659Z",
+        "description": "Hi ⭐ I'm Choco, a full time ASMR streamer and digital artist  ! I love to draw, play video games and sing ! Let's spend some time together !",
+        "primaryColorHex": "E5A3FF",
+        "followers": {
+            "totalCount": 5770
+        },
+        "follows": {
+            "totalCount": 158
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T16:11:55.180959Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b240454-c24e-4ba0-b6b1-c703b94e0c4a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f3e6f16-be27-4f6a-ac37-12f60510ddff-profile_banner-480.jpeg"
+    }
 }

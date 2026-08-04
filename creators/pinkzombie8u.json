@@ -1,4 +1,27 @@
 {
     "bio": "PinkZombie is here to cause chaos! Hi! I debuted Oct 13th 2023 and would love to keep doing this for a long time! Thank you for being alive! From the dead girl! #EPICambassador https://linktr.ee/pinkzombie8u  Business inquires: pinkzombie8u@gmail.com",
-    "id": "524053761"
+    "twitch": {
+        "id": "524053761",
+        "login": "pinkzombie8u",
+        "displayName": "pinkzombie8u",
+        "createdAt": "2020-05-02T02:26:24.548832Z",
+        "updatedAt": "2026-08-02T04:43:20.76166Z",
+        "description": "PinkZombie is here to cause chaos! Hi! I debuted Oct 13th 2023 and would love to keep doing this for a long time! Thank you for being alive! From the dead girl! #EPICambassador https://linktr.ee/pinkzombie8u  Business inquires: pinkzombie8u@gmail.com",
+        "primaryColorHex": "FF006A",
+        "followers": {
+            "totalCount": 1942
+        },
+        "follows": {
+            "totalCount": 956
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T04:28:17.427442Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33f9b606-e524-4694-bc5d-9a04bf7ba153-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa677b8-e93b-44b7-98ca-f40fbfc80582-profile_banner-480.png"
+    }
 }

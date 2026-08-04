@@ -1,4 +1,27 @@
 {
     "bio": "Rapping gyaru with a big set of personality! ☺️💕",
-    "id": "517739813"
+    "twitch": {
+        "id": "517739813",
+        "login": "yfubaby",
+        "displayName": "YFUBABY",
+        "createdAt": "2020-04-20T20:12:23.551959Z",
+        "updatedAt": "2026-08-03T04:52:19.337594Z",
+        "description": "Rapping gyaru with a big set of personality! ☺️💕",
+        "primaryColorHex": "FF388E",
+        "followers": {
+            "totalCount": 70860
+        },
+        "follows": {
+            "totalCount": 708
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T07:58:15.62986Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22eae855-81fb-4c28-9580-e4dc7351f2c5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf3e7e37-77df-434c-98bc-12ce3b2317ac-profile_banner-480.png"
+    }
 }

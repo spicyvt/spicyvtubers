@@ -1,4 +1,27 @@
 {
     "bio": "𝕾𝖙𝖎𝖙𝖈𝖍𝖊𝖉 𝕭𝖑𝖙𝖈𝖍 𝕮𝖔𝖒𝖊 𝖙𝖔 𝕷𝖎𝖋𝖊",
-    "id": "68546931"
+    "twitch": {
+        "id": "68546931",
+        "login": "battsrule",
+        "displayName": "BattsRule",
+        "createdAt": "2014-08-09T09:08:56.01186Z",
+        "updatedAt": "2026-07-30T01:07:21.075643Z",
+        "description": "𝕾𝖙𝖎𝖙𝖈𝖍𝖊𝖉 𝕭𝖑𝖙𝖈𝖍 𝕮𝖔𝖒𝖊 𝖙𝖔 𝕷𝖎𝖋𝖊",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 559
+        },
+        "follows": {
+            "totalCount": 358
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T03:55:53.522133Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd033f15-9e42-465d-97a5-5f7287df0f06-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aca516af-939a-41ff-b080-f2d059c3e007-profile_banner-480.png"
+    }
 }

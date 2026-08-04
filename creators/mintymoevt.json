@@ -1,4 +1,27 @@
 {
     "bio": "Hi there! I’m a silly mint-icecream vtuber 🍦 I yap a lot, stream a variety of games, and love making friends! I hope that you enjoy your time here 🌱🍪https://throne.com/mintymoe",
-    "id": "1096001564"
+    "twitch": {
+        "id": "1096001564",
+        "login": "mintymoevt",
+        "displayName": "MintyMoeVT",
+        "createdAt": "2024-06-07T15:35:44.991383Z",
+        "updatedAt": "2026-07-26T02:21:46.315697Z",
+        "description": "Hi there! I’m a silly mint-icecream vtuber 🍦 I yap a lot, stream a variety of games, and love making friends! I hope that you enjoy your time here 🌱🍪https://throne.com/mintymoe",
+        "primaryColorHex": "00F593",
+        "followers": {
+            "totalCount": 2718
+        },
+        "follows": {
+            "totalCount": 321
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T05:43:49.595432Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5caf9d3-9470-4c81-bf65-cb567645306f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e83765f-0d4c-4d9f-b1ab-2b4e1d43c6a8-profile_banner-480.png"
+    }
 }

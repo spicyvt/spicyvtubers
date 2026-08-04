@@ -1,4 +1,27 @@
 {
     "bio": "[18+] This is the story of a rat, who cried a river and drowned the whole chat 🐀",
-    "id": "741293014"
+    "twitch": {
+        "id": "741293014",
+        "login": "kyoharuvt",
+        "displayName": "KyoharuVT",
+        "createdAt": "2021-11-08T13:20:02.237205Z",
+        "updatedAt": "2026-08-03T19:56:59.047213Z",
+        "description": "[18+] This is the story of a rat, who cried a river and drowned the whole chat 🐀",
+        "primaryColorHex": "C57C9A",
+        "followers": {
+            "totalCount": 16785
+        },
+        "follows": {
+            "totalCount": 705
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T19:54:18.989642Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/898f4929-6b9c-45cf-bf9c-5ea93bbcf8c4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/79dcb0c8-7ae8-4806-9141-747c78a2f762-profile_banner-480.png"
+    }
 }

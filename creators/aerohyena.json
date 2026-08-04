@@ -1,4 +1,27 @@
 {
     "bio": "✨ He/Him ✨ 25 ✨  Gay AS HECC  ✨ ADHD ✨ Artsy Boi ✨ Full Time Streamer✨ South African ✨ Aspiring Musician ✨I MIGHT BE A MAN BUT I'M STILL A F--KING GODDESS!💅✨",
-    "id": "540692351"
+    "twitch": {
+        "id": "540692351",
+        "login": "aerohyena",
+        "displayName": "AeroHyena",
+        "createdAt": "2020-06-07T14:02:04.81759Z",
+        "updatedAt": "2026-07-28T12:08:41.784433Z",
+        "description": "✨ He/Him ✨ 25 ✨  Gay AS HECC  ✨ ADHD ✨ Artsy Boi ✨ Full Time Streamer✨ South African ✨ Aspiring Musician ✨I MIGHT BE A MAN BUT I'M STILL A F--KING GODDESS!💅✨",
+        "primaryColorHex": "FFEF7A",
+        "followers": {
+            "totalCount": 154
+        },
+        "follows": {
+            "totalCount": 96
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T15:10:16.091542Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6383382-636b-41b3-84bd-1a0e37c19340-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e5dc915-7326-4108-bb4c-3b526240679f-profile_banner-480.png"
+    }
 }

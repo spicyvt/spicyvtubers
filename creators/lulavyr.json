@@ -1,4 +1,27 @@
 {
-    "bio": "Hi, I am LulaVyr (but you can call me Lula) a A Succubus Wilkolak VTuber  🐺𓆩♡𓆪 ♱ I have a silly sense of humor and 1 brain cell  [According to Fluffpires i m a cat ] ",
-    "id": "725171338"
+    "bio": "Hi, I am LulaVyr (but you can call me Lula) a A Succubus Wilkolak VTuber  🐺𓆩♡𓆪 ♱ I have a silly sense of humor and 1 brain cell  [According to Fluffpires i m a cat ]",
+    "twitch": {
+        "id": "725171338",
+        "login": "lulavyr",
+        "displayName": "LulaVyr",
+        "createdAt": "2021-09-09T01:46:12.882886Z",
+        "updatedAt": "2026-08-03T18:51:41.352608Z",
+        "description": "Hi, I am LulaVyr (but you can call me Lula) a A Succubus Wilkolak VTuber  🐺𓆩♡𓆪 ♱ I have a silly sense of humor and 1 brain cell  [According to Fluffpires i m a cat ] ",
+        "primaryColorHex": "FE4F4C",
+        "followers": {
+            "totalCount": 14702
+        },
+        "follows": {
+            "totalCount": 840
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T16:03:44.710063Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bcbb596-08b8-4640-84c9-15b75d398a12-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/442a2467-7475-4ff8-aaf1-f8acc7da661f-profile_banner-480.png"
+    }
 }

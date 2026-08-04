@@ -1,4 +1,27 @@
 {
-    "bio": "Hi~! I'm Melodia the Princess Cat Vtuber here to bring magic to your life. =w= ",
-    "id": "941562744"
+    "bio": "Hi~! I'm Melodia the Princess Cat Vtuber here to bring magic to your life. =w=",
+    "twitch": {
+        "id": "941562744",
+        "login": "melodiamews",
+        "displayName": "MelodiaMews",
+        "createdAt": "2023-08-08T16:43:55.983219Z",
+        "updatedAt": "2026-08-03T06:53:34.028394Z",
+        "description": "Hi~! I'm Melodia the Princess Cat Vtuber here to bring magic to your life. =w= ",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 1581
+        },
+        "follows": {
+            "totalCount": 474
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:08:46.692748Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50252b3e-cb54-4357-8f73-f7fae82b4746-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/14847c00-538c-4071-9267-eca4bc96370c-profile_banner-480.png"
+    }
 }

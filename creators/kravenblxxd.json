@@ -1,4 +1,27 @@
 {
-    "bio": "anti-icon                                                            ",
-    "id": "480142130"
+    "bio": "anti-icon",
+    "twitch": {
+        "id": "480142130",
+        "login": "kravenblxxd",
+        "displayName": "KravenBlxxd",
+        "createdAt": "2019-12-26T22:38:15.324258Z",
+        "updatedAt": "2026-08-01T01:02:05.454196Z",
+        "description": "anti-icon                                                            ",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 13306
+        },
+        "follows": {
+            "totalCount": 683
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T03:19:42.555882Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c74bf00a-a9da-43ed-9d7f-15ad2680c01a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f4bb373-f2c0-4dfa-9ca5-407e74894419-profile_banner-480.png"
+    }
 }

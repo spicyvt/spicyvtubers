@@ -1,4 +1,27 @@
 {
     "bio": "✨ Hi! I’m Kinaiya, your scuffed sorceress vtuber! (๑'ᵕ'๑)⸝* | gamer & yapper | Team @Vaifuforlaifu | For business/contact only: kinaiyavt@proton.me 🐀",
-    "id": "503357533"
+    "twitch": {
+        "id": "503357533",
+        "login": "kinaiya",
+        "displayName": "Kinaiya",
+        "createdAt": "2020-03-24T21:03:03.067014Z",
+        "updatedAt": "2026-07-31T03:17:18.454564Z",
+        "description": "✨ Hi! I’m Kinaiya, your scuffed sorceress vtuber! (๑'ᵕ'๑)⸝* | gamer & yapper | Team @Vaifuforlaifu | For business/contact only: kinaiyavt@proton.me 🐀",
+        "primaryColorHex": "476345",
+        "followers": {
+            "totalCount": 5064
+        },
+        "follows": {
+            "totalCount": 583
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T06:44:06.625093Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9b8eaf4-89c9-45e5-b4dd-cb27b398f708-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06924e9-a694-4dad-83c9-4fb38e667d71-profile_banner-480.png"
+    }
 }

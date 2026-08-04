@@ -1,4 +1,27 @@
 {
     "bio": "Kira P. the Raptor Girl | VTuber | 🦖🌹 |  STREAMING WED/FRI 2 PM ET & MON 7 PM ET | Come and hang out and have a drink with me (it doesn't have be a DRINK). We're loud and chaotic and cozy here. We like to chat, play some games, taste things, backseat me, sing, and have a good time.",
-    "id": "674717498"
+    "twitch": {
+        "id": "674717498",
+        "login": "kirap_raptorgirl",
+        "displayName": "KiraP_RaptorGirl",
+        "createdAt": "2021-04-11T19:23:13.205177Z",
+        "updatedAt": "2026-07-29T21:43:19.691153Z",
+        "description": "Kira P. the Raptor Girl | VTuber | 🦖🌹 |  STREAMING WED/FRI 2 PM ET & MON 7 PM ET | Come and hang out and have a drink with me (it doesn't have be a DRINK). We're loud and chaotic and cozy here. We like to chat, play some games, taste things, backseat me, sing, and have a good time.",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 9078
+        },
+        "follows": {
+            "totalCount": 988
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T22:18:02.16619Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e14ac9b-2fc9-402c-91a0-35d7c4f42056-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef681555-cd32-4647-bd92-ac3f8a21c95f-profile_banner-480.png"
+    }
 }

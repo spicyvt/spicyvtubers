@@ -1,4 +1,27 @@
 {
     "bio": "Black Hole girl wants to get to know you, come hang out &lt;3",
-    "id": "705592299"
+    "twitch": {
+        "id": "705592299",
+        "login": "millanoire",
+        "displayName": "MillaNoire",
+        "createdAt": "2021-07-09T15:15:22.575193Z",
+        "updatedAt": "2026-08-02T20:42:31.239131Z",
+        "description": "Black Hole girl wants to get to know you, come hang out &lt;3",
+        "primaryColorHex": "FF6A00",
+        "followers": {
+            "totalCount": 34821
+        },
+        "follows": {
+            "totalCount": 211
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T22:53:39.332171Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b72c65f-017a-4a44-9682-d7c81427f587-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/908d2fdf-2813-4691-9297-12784d2006d6-profile_banner-480.png"
+    }
 }

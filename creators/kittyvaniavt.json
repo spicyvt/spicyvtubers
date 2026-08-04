@@ -1,4 +1,27 @@
 {
     "bio": "kitty ♱ฅ♱ goth vampire catgirl ♱ฅ♱ scuff queen",
-    "id": "1078911505"
+    "twitch": {
+        "id": "1078911505",
+        "login": "kittyvaniavt",
+        "displayName": "KittyVaniaVT",
+        "createdAt": "2024-05-07T17:49:39.812767Z",
+        "updatedAt": "2026-07-30T19:13:25.832783Z",
+        "description": "kitty ♱ฅ♱ goth vampire catgirl ♱ฅ♱ scuff queen",
+        "primaryColorHex": "FFC7DF",
+        "followers": {
+            "totalCount": 1344
+        },
+        "follows": {
+            "totalCount": 132
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:10:58.296746Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c062f01b-9e8d-46f1-aaeb-4124ceb0573f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e267dac-01fc-45a4-a512-d3b5e2053c4b-profile_banner-480.png"
+    }
 }

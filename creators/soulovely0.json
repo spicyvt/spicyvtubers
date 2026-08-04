@@ -1,4 +1,27 @@
 {
     "bio": "Hi I'm SouLovely! Your friendly neighborhood vtuber hanging out and playing with friends! She/Her · 🔞 DNI · 🏳️‍🌈  Business Email: SouLovely0@gmail.com  soulovely0.carrd.co",
-    "id": "213382815"
+    "twitch": {
+        "id": "213382815",
+        "login": "soulovely0",
+        "displayName": "SouLovely0",
+        "createdAt": "2018-04-10T22:01:01.993773Z",
+        "updatedAt": "2026-08-01T21:42:23.788599Z",
+        "description": "Hi I'm SouLovely! Your friendly neighborhood vtuber hanging out and playing with friends! She/Her · 🔞 DNI · 🏳️‍🌈  Business Email: SouLovely0@gmail.com  soulovely0.carrd.co",
+        "primaryColorHex": "35A497",
+        "followers": {
+            "totalCount": 882
+        },
+        "follows": {
+            "totalCount": 330
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T23:41:26.433747Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/27d73483-55d6-4025-b7f1-8bfd2716d106-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2341a50-e5dd-457e-9905-f65c30d109c7-profile_banner-480.png"
+    }
 }

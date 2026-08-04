@@ -1,4 +1,27 @@
 {
     "bio": "૮₍ ´ ꒳ `₎ა Model artist and rigger: @SuliaDH /////// Follow for a free spy kids 3D DVD!!!!",
-    "id": "420418869"
+    "twitch": {
+        "id": "420418869",
+        "login": "bipsygg",
+        "displayName": "bipsyGG",
+        "createdAt": "2019-03-01T15:09:50.453997Z",
+        "updatedAt": "2026-07-30T12:25:57.131179Z",
+        "description": "૮₍ ´ ꒳ `₎ა Model artist and rigger: @SuliaDH /////// Follow for a free spy kids 3D DVD!!!!",
+        "primaryColorHex": "00EBB8",
+        "followers": {
+            "totalCount": 15898
+        },
+        "follows": {
+            "totalCount": 223
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T18:09:00.482693Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/804e602b-9649-40e4-ae31-79cace3a3b80-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/566d84e8-97c1-4757-a455-184b8dc74a9e-profile_banner-480.png"
+    }
 }

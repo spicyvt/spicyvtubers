@@ -1,4 +1,27 @@
 {
     "bio": "Yuchi ✧ Capricorn Vtuber ✧ Soft Spoken ASMRtist ✧ Business: capricornusyuchi@gmail.com",
-    "id": "160672574"
+    "twitch": {
+        "id": "160672574",
+        "login": "yuchi",
+        "displayName": "Yuchi",
+        "createdAt": "2017-06-18T23:38:29.60232Z",
+        "updatedAt": "2026-08-03T15:09:42.227906Z",
+        "description": "Yuchi ✧ Capricorn Vtuber ✧ Soft Spoken ASMRtist ✧ Business: capricornusyuchi@gmail.com",
+        "primaryColorHex": "A2D1FF",
+        "followers": {
+            "totalCount": 31720
+        },
+        "follows": {
+            "totalCount": 309
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T15:09:10.06172Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee2656eb-540f-4d0e-9dd8-1401dbbcd821-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/69370cff-5592-4a90-964d-2fa8ca6e5878-profile_banner-480.png"
+    }
 }

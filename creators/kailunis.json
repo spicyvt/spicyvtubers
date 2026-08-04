@@ -1,4 +1,27 @@
 {
-    "bio": "Cloud Elf Gamer at your service. On team Gender Confused Lil Idiots ♡ (LGBTQ) and Chaos Goblins. Stay for the funky vibes or whatever, not like I want you to baka. 18+ Streamer, I harbor all adult gremlins here. Make sure you fall into that age group. ",
-    "id": "197798901"
+    "bio": "Cloud Elf Gamer at your service. On team Gender Confused Lil Idiots ♡ (LGBTQ) and Chaos Goblins. Stay for the funky vibes or whatever, not like I want you to baka. 18+ Streamer, I harbor all adult gremlins here. Make sure you fall into that age group.",
+    "twitch": {
+        "id": "197798901",
+        "login": "kailunis",
+        "displayName": "KaiLunis",
+        "createdAt": "2018-02-22T16:34:46.840831Z",
+        "updatedAt": "2026-07-28T19:47:37.165205Z",
+        "description": "Cloud Elf Gamer at your service. On team Gender Confused Lil Idiots ♡ (LGBTQ) and Chaos Goblins. Stay for the funky vibes or whatever, not like I want you to baka. 18+ Streamer, I harbor all adult gremlins here. Make sure you fall into that age group. ",
+        "primaryColorHex": "E6AE2B",
+        "followers": {
+            "totalCount": 546
+        },
+        "follows": {
+            "totalCount": 496
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T21:19:21.428288Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/24815490-b4f0-4225-8db4-e30dba6bd3bd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/019cba47-0930-4293-8c71-3a64c6ee0df9-profile_banner-480.jpeg"
+    }
 }

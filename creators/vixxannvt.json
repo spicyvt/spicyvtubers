@@ -1,4 +1,27 @@
 {
     "bio": "♥♥ Hi there, I’m Vixxann! A thicc, sussy, party-going  Kitsune! I stream a variety of games, sing karaoke, and just all around have a fun time with my community! Hope to see you at the party! ♥♥",
-    "id": "503688254"
+    "twitch": {
+        "id": "503688254",
+        "login": "vixxannvt",
+        "displayName": "VixxannVT",
+        "createdAt": "2020-03-25T17:10:07.046991Z",
+        "updatedAt": "2026-08-01T15:57:55.815628Z",
+        "description": "♥♥ Hi there, I’m Vixxann! A thicc, sussy, party-going  Kitsune! I stream a variety of games, sing karaoke, and just all around have a fun time with my community! Hope to see you at the party! ♥♥",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 1449
+        },
+        "follows": {
+            "totalCount": 394
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T02:17:57.171277Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8aef28d-ca29-4567-9a25-498afa5c5b74-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb5ad117-aee7-4def-ad9a-ed47d4fb54de-profile_banner-480.png"
+    }
 }

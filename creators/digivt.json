@@ -1,4 +1,27 @@
 {
     "bio": "I'm a space kitty that takes care of earths nature. In my time off, I enjoy failing at games or just having cozy streams. Let's have a good time. Business Email: digivtube@gmail.com",
-    "id": "804349171"
+    "twitch": {
+        "id": "804349171",
+        "login": "digivt",
+        "displayName": "DigiVT",
+        "createdAt": "2022-06-25T18:23:24.593954Z",
+        "updatedAt": "2026-08-03T12:53:19.220553Z",
+        "description": "I'm a space kitty that takes care of earths nature. In my time off, I enjoy failing at games or just having cozy streams. Let's have a good time. Business Email: digivtube@gmail.com",
+        "primaryColorHex": "8DBA87",
+        "followers": {
+            "totalCount": 1507
+        },
+        "follows": {
+            "totalCount": 617
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T18:05:16.096538Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5897e907-a7bd-4476-82a7-226f204789d8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/71d415ae-9f8a-431f-94da-0ec95f16ebee-profile_banner-480.png"
+    }
 }

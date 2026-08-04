@@ -1,4 +1,27 @@
 {
-    "bio": "Dia dhuit. I'm KB, I'm a Pooka VTuber who is a professional voice actress and mortuary sciences student. If you're looking for a mentally ill tsundere goth chick to spend the day with, you found her. ",
-    "id": "532088467"
+    "bio": "Dia dhuit. I'm KB, I'm a Pooka VTuber who is a professional voice actress and mortuary sciences student. If you're looking for a mentally ill tsundere goth chick to spend the day with, you found her.",
+    "twitch": {
+        "id": "532088467",
+        "login": "kamilabombette",
+        "displayName": "KamilaBombette",
+        "createdAt": "2020-05-17T18:57:32.475941Z",
+        "updatedAt": "2026-07-30T04:35:12.875876Z",
+        "description": "Dia dhuit. I'm KB, I'm a Pooka VTuber who is a professional voice actress and mortuary sciences student. If you're looking for a mentally ill tsundere goth chick to spend the day with, you found her. ",
+        "primaryColorHex": "1C721D",
+        "followers": {
+            "totalCount": 14628
+        },
+        "follows": {
+            "totalCount": 436
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T05:49:21.395736Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90588987-bd8a-4796-83a7-679aab7e4b8d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d53e5993-353f-4bc8-a52c-22eeeee85c3b-profile_banner-480.png"
+    }
 }

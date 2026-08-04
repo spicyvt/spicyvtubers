@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "94693153"
+    "twitch": {
+        "id": "94693153",
+        "login": "thediviy",
+        "displayName": "TheDiviy",
+        "createdAt": "2015-06-28T09:31:38.301615Z",
+        "updatedAt": "2026-08-03T02:55:38.818674Z",
+        "description": "",
+        "primaryColorHex": "0CC8C8",
+        "followers": {
+            "totalCount": 922
+        },
+        "follows": {
+            "totalCount": 701
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:50:04.714821Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7ab487dd-f0a9-480a-8a82-e9d19f009e80-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

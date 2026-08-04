@@ -1,4 +1,27 @@
 {
     "bio": "a silly girl who wants to make people laugh. let's enjoy life together! 🩲🦀| ✉️: luciacrabs@futurelegends.gg",
-    "id": "1304981780"
+    "twitch": {
+        "id": "1304981780",
+        "login": "lucia",
+        "displayName": "lucia",
+        "createdAt": "2025-04-30T19:10:30.527384Z",
+        "updatedAt": "2026-08-02T16:00:53.017751Z",
+        "description": "a silly girl who wants to make people laugh. let's enjoy life together! 🩲🦀| ✉️: luciacrabs@futurelegends.gg",
+        "primaryColorHex": "FFDACF",
+        "followers": {
+            "totalCount": 36241
+        },
+        "follows": {
+            "totalCount": 473
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T18:07:00.573591Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb45ffe8-fbf8-4b19-adaa-52e912dd4c41-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e576daca-adee-4fd5-b92b-392fde1cfb19-profile_banner-480.png"
+    }
 }

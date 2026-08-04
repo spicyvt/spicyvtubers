@@ -1,4 +1,27 @@
 {
     "bio": "If you are here you are a gooner :3",
-    "id": "913984572"
+    "twitch": {
+        "id": "913984572",
+        "login": "that1josie",
+        "displayName": "That1Josie",
+        "createdAt": "2023-05-25T14:51:27.491904Z",
+        "updatedAt": "2026-08-02T17:25:06.497854Z",
+        "description": "If you are here you are a gooner :3",
+        "primaryColorHex": "C095FF",
+        "followers": {
+            "totalCount": 3242
+        },
+        "follows": {
+            "totalCount": 779
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T19:07:57.89996Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a3c3e98-bf87-48f8-be63-e981b294f2fb-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c26d6560-68e6-4294-a584-18495f8b7232-profile_banner-480.png"
+    }
 }

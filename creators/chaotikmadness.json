@@ -1,4 +1,27 @@
 {
-    "bio": "I'm Chaotic a demon neko vtuber with two forms, one very cute and one more... sensual. I've been getting into FFXIV leveling as a sprout but I also play a variety of other games as they rise in popularity or I'm asked to try something out by some devs. My community is 18+ but we know how to be safe!",
-    "id": "517920856"
+    "bio": "I'm Chaotic a demon neko vtuber. sometimes I'm in vr dancing other times we enjoy some cozy chaos. I also try out different games that are trending. My community is 18+ but we know how to be safe!",
+    "twitch": {
+        "id": "517920856",
+        "login": "chaotikmadness",
+        "displayName": "ChaotikMadness",
+        "createdAt": "2020-04-21T03:31:20.575932Z",
+        "updatedAt": "2026-08-02T17:40:03.239405Z",
+        "description": "I'm Chaotic a demon neko vtuber. sometimes I'm in vr dancing other times we enjoy some cozy chaos. I also try out different games that are trending. My community is 18+ but we know how to be safe!",
+        "primaryColorHex": "511A51",
+        "followers": {
+            "totalCount": 831
+        },
+        "follows": {
+            "totalCount": 129
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T19:04:38.258902Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4c0932a-21ed-49c6-8699-a8ac605cbee7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8759882f-96f5-49e3-b1da-c9ba48dec8f9-profile_banner-480.png"
+    }
 }

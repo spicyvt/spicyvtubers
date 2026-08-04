@@ -1,4 +1,27 @@
 {
     "bio": "Yoho I'm Yoko!🫧 A gyaru-inspired seal vtuber!🫧🦭I am a new ASMRtist live every weeknight at 8pm CST! 🌺 https://throne.com/yokobyteshttps://x.com/Yokobytes",
-    "id": "608361628"
+    "twitch": {
+        "id": "608361628",
+        "login": "yokobytes",
+        "displayName": "YokoBytes",
+        "createdAt": "2020-11-13T18:08:20.532745Z",
+        "updatedAt": "2026-07-29T02:01:29.115773Z",
+        "description": "Yoho I'm Yoko!🫧 A gyaru-inspired seal vtuber!🫧🦭I am a new ASMRtist live every weeknight at 8pm CST! 🌺 https://throne.com/yokobyteshttps://x.com/Yokobytes",
+        "primaryColorHex": "A1F4F4",
+        "followers": {
+            "totalCount": 1242
+        },
+        "follows": {
+            "totalCount": 62
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T04:01:42.898692Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8649a395-6983-47bd-99de-8bbac24164a2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64adb081-3494-457d-818e-4d1ceea57e6f-profile_banner-480.png"
+    }
 }

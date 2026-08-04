@@ -1,4 +1,27 @@
 {
-    "bio": "Deep voiced wolf boy ",
-    "id": "210843584"
+    "bio": "Deep voiced wolf boy",
+    "twitch": {
+        "id": "210843584",
+        "login": "noonnoonvt",
+        "displayName": "NoonNoonVT",
+        "createdAt": "2018-04-02T08:01:41.060683Z",
+        "updatedAt": "2026-07-20T18:01:10.732195Z",
+        "description": "Deep voiced wolf boy ",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 10767
+        },
+        "follows": {
+            "totalCount": 32
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T20:22:02.486141Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9710362b-4cd6-4f8f-9b97-b249eb16d310-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1675c0e9-559d-43f8-9cce-41e27b488040-profile_banner-480.jpeg"
+    }
 }

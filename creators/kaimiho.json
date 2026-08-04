@@ -1,4 +1,27 @@
 {
     "bio": "♡ ～('▽^人) I'm Kai - Weredoggy Fiend",
-    "id": "655402761"
+    "twitch": {
+        "id": "655402761",
+        "login": "kaimiho",
+        "displayName": "Kaimiho",
+        "createdAt": "2021-02-26T16:25:31.113763Z",
+        "updatedAt": "2026-07-31T03:16:31.129989Z",
+        "description": "♡ ～('▽^人) I'm Kai - Weredoggy Fiend",
+        "primaryColorHex": "C43434",
+        "followers": {
+            "totalCount": 1182
+        },
+        "follows": {
+            "totalCount": 127
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2024-09-10T22:13:30.089915Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c16e7dc3-2984-47b2-a5b2-315dbcf7cd90-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b571fdb-00d1-4dcb-a113-69082fdabb30-profile_banner-480.png"
+    }
 }

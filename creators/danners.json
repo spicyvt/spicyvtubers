@@ -1,4 +1,27 @@
 {
     "bio": "An Aussie fox lady just trying to not be trash at video-games! Tagged mature for swearing, drinking and other hijinks and tomfoolery. Love Pokemon, Overwatch, Risk Of Rain 2 and friendslop 🧡",
-    "id": "444529011"
+    "twitch": {
+        "id": "444529011",
+        "login": "danners",
+        "displayName": "Danners",
+        "createdAt": "2019-06-28T02:48:37.441184Z",
+        "updatedAt": "2026-07-09T07:30:39.903655Z",
+        "description": "An Aussie fox lady just trying to not be trash at video-games! Tagged mature for swearing, drinking and other hijinks and tomfoolery. Love Pokemon, Overwatch, Risk Of Rain 2 and friendslop 🧡",
+        "primaryColorHex": "FF9005",
+        "followers": {
+            "totalCount": 646
+        },
+        "follows": {
+            "totalCount": 213
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-09T11:35:45.844507Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8341d1c-0293-42e9-b5a1-4afe4a9c506a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc95d653-8f42-47e0-9b6c-467fa454421d-profile_banner-480.png"
+    }
 }

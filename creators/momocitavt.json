@@ -1,4 +1,27 @@
 {
     "bio": "ASMR Earlicking spammer, Just Chatting non-stop yapping and unskilled gameplay! Check my weekly schedule at my pinned post: https://x.com/MomoCitaVT",
-    "id": "779855707"
+    "twitch": {
+        "id": "779855707",
+        "login": "momocitavt",
+        "displayName": "momocitavt",
+        "createdAt": "2022-03-13T20:43:35.233241Z",
+        "updatedAt": "2026-08-02T16:58:55.614412Z",
+        "description": "ASMR Earlicking spammer, Just Chatting non-stop yapping and unskilled gameplay! Check my weekly schedule at my pinned post: https://x.com/MomoCitaVT",
+        "primaryColorHex": "025131",
+        "followers": {
+            "totalCount": 39377
+        },
+        "follows": {
+            "totalCount": 360
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T19:01:03.407117Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca2c77f1-7116-4ee2-a4a4-0bef4bdc40e6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/42b30268-87d1-45da-b554-64b30be8bb45-profile_banner-480.png"
+    }
 }

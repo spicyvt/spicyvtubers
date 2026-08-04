@@ -1,4 +1,27 @@
 {
     "bio": "Just your average goth gf playing horror games💜🦇.  Streaming Wed to Sunday from 4 PM GMT!  Business email: vunisse@gmail.com",
-    "id": "1310373115"
+    "twitch": {
+        "id": "1310373115",
+        "login": "vunisse",
+        "displayName": "Vunisse",
+        "createdAt": "2025-05-13T23:17:22.16513Z",
+        "updatedAt": "2026-07-22T18:59:48.322665Z",
+        "description": "Just your average goth gf playing horror games💜🦇.  Streaming Wed to Sunday from 4 PM GMT!  Business email: vunisse@gmail.com",
+        "primaryColorHex": "BA8DFF",
+        "followers": {
+            "totalCount": 841
+        },
+        "follows": {
+            "totalCount": 110
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T21:02:23.656425Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4414c621-37a5-4c06-a7d5-594edf6a4f80-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3b8a661-702b-4bf7-945b-0841f268b364-profile_banner-480.png"
+    }
 }

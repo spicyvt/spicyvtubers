@@ -1,4 +1,27 @@
 {
     "bio": "No longer streaming on this account. Find me at my other socials via the carrd.co / linktree to your right. Please unsubscribe. I don't ever plan on coming back to this account but never say never . . .",
-    "id": "778992077"
+    "twitch": {
+        "id": "778992077",
+        "login": "missusmummy",
+        "displayName": "MissusMummy",
+        "createdAt": "2022-03-10T14:55:49.79955Z",
+        "updatedAt": "2026-07-31T16:16:30.276742Z",
+        "description": "No longer streaming on this account. Find me at my other socials via the carrd.co / linktree to your right. Please unsubscribe. I don't ever plan on coming back to this account but never say never . . .",
+        "primaryColorHex": "DDAFC6",
+        "followers": {
+            "totalCount": 13056
+        },
+        "follows": {
+            "totalCount": 510
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-07T02:01:11.910705Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd387aaa-c1ee-4884-aaa7-1a5de4fac61b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8e79b78-2d3c-43c5-be61-cd8c8fab59e6-profile_banner-480.jpeg"
+    }
 }

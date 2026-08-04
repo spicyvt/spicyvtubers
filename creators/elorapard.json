@@ -1,4 +1,27 @@
 {
-    "bio": "❄️ ғʀ ᴇɴ Fluffy Goofy Leppy 💎 A tiny woman with biiig dreams 🤍 games, reactions, yappinator ",
-    "id": "808524221"
+    "bio": "❄️ ғʀ ᴇɴ Fluffy Goofy Leppy 💎 A tiny woman with biiig dreams 🤍 games, reactions, yappinator",
+    "twitch": {
+        "id": "808524221",
+        "login": "elorapard",
+        "displayName": "Elorapard",
+        "createdAt": "2022-07-12T18:13:34.58101Z",
+        "updatedAt": "2026-07-29T17:45:01.624269Z",
+        "description": "❄️ ғʀ ᴇɴ Fluffy Goofy Leppy 💎 A tiny woman with biiig dreams 🤍 games, reactions, yappinator ",
+        "primaryColorHex": "BFE2FF",
+        "followers": {
+            "totalCount": 24356
+        },
+        "follows": {
+            "totalCount": 200
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T20:06:03.978072Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bd13274-2994-4623-b025-373442482a91-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8561585c-c054-436d-8b40-43786434f295-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "₊✩‧  ⌞ Chimera Bounty Hunter!! Don't mind the stinger •⩊• ⌝〔E-roi Gen 1: Rift〕 ₊✩‧₊   VODS on Youtube!",
-    "id": "945057619"
+    "twitch": {
+        "id": "945057619",
+        "login": "lisera",
+        "displayName": "Lisera",
+        "createdAt": "2023-08-16T23:07:52.767537Z",
+        "updatedAt": "2026-08-01T02:16:34.568064Z",
+        "description": "₊✩‧  ⌞ Chimera Bounty Hunter!! Don't mind the stinger •⩊• ⌝〔E-roi Gen 1: Rift〕 ₊✩‧₊   VODS on Youtube!",
+        "primaryColorHex": "CDAFE4",
+        "followers": {
+            "totalCount": 3991
+        },
+        "follows": {
+            "totalCount": 223
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T05:03:29.57768Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad782120-612a-4e47-a368-66b53ec2ec64-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cffccce6-2178-4b58-8093-3b8e257125e5-profile_banner-480.png"
+    }
 }

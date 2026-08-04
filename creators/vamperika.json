@@ -1,4 +1,27 @@
 {
     "bio": "Let’s all have fun in the Bat Cave together! 🦇❤️ R18, little bats welcome but there may be naughty words. 🦇❤️",
-    "id": "68127795"
+    "twitch": {
+        "id": "68127795",
+        "login": "vamperika",
+        "displayName": "Vamperika",
+        "createdAt": "2014-08-04T05:32:11.325296Z",
+        "updatedAt": "2026-08-02T18:44:54.541424Z",
+        "description": "Let’s all have fun in the Bat Cave together! 🦇❤️ R18, little bats welcome but there may be naughty words. 🦇❤️",
+        "primaryColorHex": "D5C4FC",
+        "followers": {
+            "totalCount": 1516
+        },
+        "follows": {
+            "totalCount": 1455
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T05:17:50.957445Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ce6e1c4-df4a-4f3e-a0e1-ed180bfafbdc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3a79b52-25e6-47fd-88df-6b2dac45a57c-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hi! I'm Tara and I'm attempting to play video games! Though I'm not the best I want to improve and get better see you along the ride! I have 32 levels of exp and I hope to see you in chat! For business inquires Email: Tarawillplay@gmail.com",
-    "id": "827167581"
+    "twitch": {
+        "id": "827167581",
+        "login": "tarazuzu",
+        "displayName": "Tarazuzu",
+        "createdAt": "2022-09-20T06:47:43.902222Z",
+        "updatedAt": "2026-07-31T03:17:39.391502Z",
+        "description": "Hi! I'm Tara and I'm attempting to play video games! Though I'm not the best I want to improve and get better see you along the ride! I have 32 levels of exp and I hope to see you in chat! For business inquires Email: Tarawillplay@gmail.com",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 3295
+        },
+        "follows": {
+            "totalCount": 1153
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T07:27:14.061888Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/71f6c638-eb0a-4fb3-9368-e2ef1399a556-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/73d670b6-b180-4ee7-9b72-6a6d07ef9ae7-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Eldritch deity Vtuber | Liminal kemetic witch | 🔞 | Live ritual work & horror games on twitch | https://youtube.com/@mordraga0/ | http://throne.com/mordraga0 |",
-    "id": "747961821"
+    "twitch": {
+        "id": "747961821",
+        "login": "mordraga0",
+        "displayName": "Mordraga0",
+        "createdAt": "2021-11-29T18:45:29.051638Z",
+        "updatedAt": "2026-07-30T22:10:10.335146Z",
+        "description": "Eldritch deity Vtuber | Liminal kemetic witch | 🔞 | Live ritual work & horror games on twitch | https://youtube.com/@mordraga0/ | http://throne.com/mordraga0 |",
+        "primaryColorHex": "FA2929",
+        "followers": {
+            "totalCount": 188
+        },
+        "follows": {
+            "totalCount": 77
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T02:54:54.7341Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e6e8f67-732a-4c6c-966b-0427ee11398d-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c76692d4-1ce1-47a7-ad44-00cc028944a0-profile_banner-480.png"
+    }
 }

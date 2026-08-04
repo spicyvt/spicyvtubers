@@ -1,4 +1,27 @@
 {
-    "bio": "❀  A Jackalope Forest Guardian that uses her soothing voice and her body to lure people into her domain and trap them forever as Sprouts ❀    ",
-    "id": "925973222"
+    "bio": "❀  A Jackalope Forest Guardian that uses her soothing voice and her body to lure people into her domain and trap them forever as Sprouts ❀",
+    "twitch": {
+        "id": "925973222",
+        "login": "mommymaple_",
+        "displayName": "MommyMaple_",
+        "createdAt": "2023-06-25T14:04:36.958373Z",
+        "updatedAt": "2026-08-03T01:36:48.271038Z",
+        "description": "❀  A Jackalope Forest Guardian that uses her soothing voice and her body to lure people into her domain and trap them forever as Sprouts ❀    ",
+        "primaryColorHex": "E7A3C7",
+        "followers": {
+            "totalCount": 9917
+        },
+        "follows": {
+            "totalCount": 77
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:12:27.870359Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72c658d6-5afe-4717-8030-243365c3f994-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdca121c-afc6-4fdd-9682-d001f1878947-profile_banner-480.png"
+    }
 }

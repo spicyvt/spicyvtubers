@@ -1,4 +1,27 @@
 {
     "bio": "WOOSH I'M CLOUDY",
-    "id": "1275364685"
+    "twitch": {
+        "id": "1275364685",
+        "login": "cloudywhisp",
+        "displayName": "cloudywhisp",
+        "createdAt": "2025-03-06T17:59:07.306337Z",
+        "updatedAt": "2026-07-16T16:58:23.41904Z",
+        "description": "WOOSH I'M CLOUDY",
+        "primaryColorHex": "7A90BB",
+        "followers": {
+            "totalCount": 276
+        },
+        "follows": {
+            "totalCount": 17
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-16T21:34:17.47552Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3396f053-57d8-407c-82e8-cc7b998a3fdb-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/605e7985-1cca-4c65-941f-ed5a8a08a013-profile_banner-480.png"
+    }
 }

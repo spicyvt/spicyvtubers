@@ -1,4 +1,27 @@
 {
     "bio": "An ancient Lamia (Apophis) Goddess with a penchant for growing, lust and all things shiny. 18+ stream. Business email and inquiries:  vexoriathesuneater@gmail.com",
-    "id": "695150280"
+    "twitch": {
+        "id": "695150280",
+        "login": "vexoria_the_suneater",
+        "displayName": "Vexoria_The_SunEater",
+        "createdAt": "2021-06-08T04:35:57.492652Z",
+        "updatedAt": "2026-07-13T18:40:58.903384Z",
+        "description": "An ancient Lamia (Apophis) Goddess with a penchant for growing, lust and all things shiny. 18+ stream. Business email and inquiries:  vexoriathesuneater@gmail.com",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 128185
+        },
+        "follows": {
+            "totalCount": 321
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-13T21:48:18.471735Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c946249-87bc-459d-b8be-ff8dbf338651-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb3264ae-0e34-4d89-be5b-38538ce84b2f-profile_banner-480.png"
+    }
 }

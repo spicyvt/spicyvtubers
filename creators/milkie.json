@@ -1,4 +1,27 @@
 {
     "bio": "Comfy but Chaotic, a real Milkie Menace sometimes (づ◕‿‿◕｡)づ",
-    "id": "487703553"
+    "twitch": {
+        "id": "487703553",
+        "login": "milkie",
+        "displayName": "MILKIE",
+        "createdAt": "2020-01-24T07:40:07.353106Z",
+        "updatedAt": "2026-08-02T09:57:58.316133Z",
+        "description": "Comfy but Chaotic, a real Milkie Menace sometimes (づ◕‿‿◕｡)づ",
+        "primaryColorHex": "A1B9E9",
+        "followers": {
+            "totalCount": 22024
+        },
+        "follows": {
+            "totalCount": 269
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-25T00:45:30.243603Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d529d6a-a762-4bee-b188-622fa8148db7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62722038-9169-43b8-8a90-dc74d000d79c-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Phoenix Cat Vtuber 🐦🔥| Be protected by my flame!~",
-    "id": "94753955"
+    "twitch": {
+        "id": "94753955",
+        "login": "avicatbird",
+        "displayName": "avicatbird",
+        "createdAt": "2015-06-28T22:46:32.578446Z",
+        "updatedAt": "2026-07-31T21:48:37.1117Z",
+        "description": "Phoenix Cat Vtuber 🐦🔥| Be protected by my flame!~",
+        "primaryColorHex": "6904FF",
+        "followers": {
+            "totalCount": 620
+        },
+        "follows": {
+            "totalCount": 222
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T22:54:20.279342Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba553534-f3e1-436e-9e6b-da5a2227c7fd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/480717bd-4e1a-4329-b8e7-14e29d016236-profile_banner-480.png"
+    }
 }

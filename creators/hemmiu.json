@@ -1,4 +1,27 @@
 {
-    "bio": "self-made vtuber with 9 lives! NYAA~ I made basically everything you see here (๑˃ᴗ˂)ﻭ ‧₊ ˚ ★ ",
-    "id": "848260694"
+    "bio": "self-made vtuber with 9 lives! NYAA~ I made basically everything you see here (๑˃ᴗ˂)ﻭ ‧₊ ˚ ★",
+    "twitch": {
+        "id": "848260694",
+        "login": "hemmiu",
+        "displayName": "hemmiu",
+        "createdAt": "2022-11-16T08:23:43.960426Z",
+        "updatedAt": "2026-08-01T07:09:56.88474Z",
+        "description": "self-made vtuber with 9 lives! NYAA~ I made basically everything you see here (๑˃ᴗ˂)ﻭ ‧₊ ˚ ★ ",
+        "primaryColorHex": "070B3F",
+        "followers": {
+            "totalCount": 6243
+        },
+        "follows": {
+            "totalCount": 543
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T07:25:57.689318Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7789e1f9-b9b2-433b-b1ce-f8155f1d1c2f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ee9103-4480-4e45-a1c8-273c7df1e0c8-profile_banner-480.png"
+    }
 }

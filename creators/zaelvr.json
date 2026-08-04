@@ -1,4 +1,27 @@
 {
     "bio": "Welcome, welcome! I'm Zael. I am a mute streamer who mainly streams VRChat~",
-    "id": "496769273"
+    "twitch": {
+        "id": "496769273",
+        "login": "zaelvr",
+        "displayName": "ZaelVR",
+        "createdAt": "2020-03-03T12:26:54.383305Z",
+        "updatedAt": "2026-07-17T17:39:12.252192Z",
+        "description": "Welcome, welcome! I'm Zael. I am a mute streamer who mainly streams VRChat~",
+        "primaryColorHex": "FF6BE4",
+        "followers": {
+            "totalCount": 686
+        },
+        "follows": {
+            "totalCount": 147
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-03-19T22:24:11.568136Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ace6f1a1-75c9-43df-ad00-501105cf6e12-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6eff46d7-d060-4f65-bf0b-c3ff1ccdb187-profile_banner-480.png"
+    }
 }

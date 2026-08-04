@@ -1,4 +1,27 @@
 {
     "bio": "Check out my details below! Business inquiries can be directed to mckenziealexsl@gmail.com.",
-    "id": "189093703"
+    "twitch": {
+        "id": "189093703",
+        "login": "thesnootyfox",
+        "displayName": "TheSnootyFox",
+        "createdAt": "2018-01-05T22:10:37.001583Z",
+        "updatedAt": "2026-08-02T23:09:07.005894Z",
+        "description": "Check out my details below! Business inquiries can be directed to mckenziealexsl@gmail.com.",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 19446
+        },
+        "follows": {
+            "totalCount": 23
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T01:25:00.672871Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9298b3d-3916-4e2d-9946-d0f0c55dff74-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3988e868-faa3-4dd7-949c-4cdc8fbf3330-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hello! I'm a Vtuber streamer who is the kind of Variety streamer with no rhyme or reason with what games she plays and when, but no matter what I always try to have fun. I Love chatting with anyone who will join in on the conversation and I enjoy adding fun redeems for my viewers!",
-    "id": "81489217"
+    "twitch": {
+        "id": "81489217",
+        "login": "blabbercat",
+        "displayName": "Blabbercat",
+        "createdAt": "2015-02-01T03:25:48.164673Z",
+        "updatedAt": "2026-07-23T02:27:38.041184Z",
+        "description": "Hello! I'm a Vtuber streamer who is the kind of Variety streamer with no rhyme or reason with what games she plays and when, but no matter what I always try to have fun. I Love chatting with anyone who will join in on the conversation and I enjoy adding fun redeems for my viewers!",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 626
+        },
+        "follows": {
+            "totalCount": 211
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-11T23:14:30.281733Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d7f14de-8849-4cdf-9834-a13c1575719f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ecd8911-3625-49f2-8527-1fed9185d031-profile_banner-480.png"
+    }
 }

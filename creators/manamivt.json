@@ -1,4 +1,27 @@
 {
     "bio": "Manami is the Goddess of Realities! When not overseeing the multiverse, she does song covers on YouTube and streams on Twitch!",
-    "id": "615605818"
+    "twitch": {
+        "id": "615605818",
+        "login": "manamivt",
+        "displayName": "ManamiVT",
+        "createdAt": "2020-12-02T06:57:46.62084Z",
+        "updatedAt": "2026-06-21T00:47:12.030421Z",
+        "description": "Manami is the Goddess of Realities! When not overseeing the multiverse, she does song covers on YouTube and streams on Twitch!",
+        "primaryColorHex": "6127B8",
+        "followers": {
+            "totalCount": 930
+        },
+        "follows": {
+            "totalCount": 89
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-23T00:51:32.089841Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50fc157f-db22-47de-b23f-95332aa0ad83-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e31fe09-a682-4652-aeee-31d6e8515e83-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "local goober tanuki (he/they)",
-    "id": "826134502"
+    "twitch": {
+        "id": "826134502",
+        "login": "kodawithsoda",
+        "displayName": "KodawithSoda",
+        "createdAt": "2022-09-17T04:35:32.29833Z",
+        "updatedAt": "2026-08-01T04:01:07.11677Z",
+        "description": "local goober tanuki (he/they)",
+        "primaryColorHex": "FFA3F0",
+        "followers": {
+            "totalCount": 616
+        },
+        "follows": {
+            "totalCount": 316
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T06:00:22.740686Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cbedbeae-3e4e-4a2e-a0c9-b83fd6af568c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7dde5680-e3ac-4218-92a4-2dea7c48428b-profile_banner-480.png"
+    }
 }

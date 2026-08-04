@@ -1,4 +1,27 @@
 {
     "bio": "ʕ •ᴥ•ʔ I'm Padu!  ♥ Full-time Illustrator. Purveyor of Thickness. Chronic Giggler. ♥  Business Email:  elitebamboo@gmail.com",
-    "id": "43872349"
+    "twitch": {
+        "id": "43872349",
+        "login": "padunk",
+        "displayName": "Padunk",
+        "createdAt": "2013-05-23T18:14:21.258611Z",
+        "updatedAt": "2026-08-03T16:42:21.391995Z",
+        "description": "ʕ •ᴥ•ʔ I'm Padu!  ♥ Full-time Illustrator. Purveyor of Thickness. Chronic Giggler. ♥  Business Email:  elitebamboo@gmail.com",
+        "primaryColorHex": "800000",
+        "followers": {
+            "totalCount": 1156
+        },
+        "follows": {
+            "totalCount": 442
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:00:12.005723Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcba36ca-8ed8-4100-9c8b-3c538b70a54f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb3b35fb-66c4-4ba7-8ff3-97835c426bd4-profile_banner-480.png"
+    }
 }

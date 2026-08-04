@@ -1,4 +1,27 @@
 {
-    "bio": "Hai Haiya! Call me Kit! I'm a variety streamer who will play whatever she wants but Marathon, Escape from Tarkov, and Games with VOIP have a special place in my heart! Yes I am a fox NOT a cat! Come say Nyark Nyark! ~ Business Email: management@awildkitsune.com ~Website: https://awildkitsune.com",
-    "id": "190007217"
+    "bio": "Hai Haiya! Call me Kit! I'm a variety streamer who will play whatever she wants but Marathon, Escape from Tarkov, and Games with VOIP have a special place in my heart! Yes I am a fox NOT a cat! Come say Nyark Nyark! ~ Business Email: management@awildkitsune.com ~KICK: awildkitsune",
+    "twitch": {
+        "id": "190007217",
+        "login": "awildkitsune",
+        "displayName": "AWildKITsune",
+        "createdAt": "2018-01-11T03:15:39.656882Z",
+        "updatedAt": "2026-08-03T20:10:48.365451Z",
+        "description": "Hai Haiya! Call me Kit! I'm a variety streamer who will play whatever she wants but Marathon, Escape from Tarkov, and Games with VOIP have a special place in my heart! Yes I am a fox NOT a cat! Come say Nyark Nyark! ~ Business Email: management@awildkitsune.com ~KICK: awildkitsune",
+        "primaryColorHex": "8205B3",
+        "followers": {
+            "totalCount": 11315
+        },
+        "follows": {
+            "totalCount": 163
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:21:09.88593Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e4ffd04-252c-46f2-af8d-e67ee3c8587c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d63232f-0882-474c-9dde-7a4172a80af6-profile_banner-480.png"
+    }
 }

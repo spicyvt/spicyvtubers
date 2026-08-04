@@ -1,4 +1,27 @@
 {
-    "bio": "Hello! I am your silly, goofy Megalodon Shark Vtuber✨You can call me Mega! I am a variety streamer. You can find my stream schedule on my twitter or discord server! ",
-    "id": "810617325"
+    "bio": "Hello! I am your silly, goofy Megalodon Shark Vtuber✨You can call me Mega! I am a variety streamer. You can find my stream schedule on my twitter or discord server!",
+    "twitch": {
+        "id": "810617325",
+        "login": "megalodonvt",
+        "displayName": "MegalodonVT",
+        "createdAt": "2022-07-20T03:40:32.942893Z",
+        "updatedAt": "2026-08-03T03:48:43.403454Z",
+        "description": "Hello! I am your silly, goofy Megalodon Shark Vtuber✨You can call me Mega! I am a variety streamer. You can find my stream schedule on my twitter or discord server! ",
+        "primaryColorHex": "A984E1",
+        "followers": {
+            "totalCount": 214346
+        },
+        "follows": {
+            "totalCount": 368
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T03:52:10.649731Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2aa324a3-0b41-48d5-84b8-6ef854e76f3c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47be78b7-688e-4949-be90-ea3888c39771-profile_banner-480.png"
+    }
 }

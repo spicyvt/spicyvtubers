@@ -1,4 +1,27 @@
 {
-    "bio": "Your bratty chameleon Cammy :3 I stream daily around 4-6pm EST! I play comfy games, gacha games, and FPS. For business inquiries email me at cammybutprofessional@gmail.com ",
-    "id": "1126440178"
+    "bio": "Your bratty chameleon Cammy :3 I stream M/T/FSaturday around 4-6pm EST! I play comfy games, gacha games, and FPS. For business inquiries email me at cammybutprofessional@gmail.com",
+    "twitch": {
+        "id": "1126440178",
+        "login": "cammycallisto",
+        "displayName": "CammyCallisto",
+        "createdAt": "2024-08-11T19:16:27.430372Z",
+        "updatedAt": "2026-07-31T00:29:04.778461Z",
+        "description": "Your bratty chameleon Cammy :3 I stream M/T/FSaturday around 4-6pm EST! I play comfy games, gacha games, and FPS. For business inquiries email me at cammybutprofessional@gmail.com ",
+        "primaryColorHex": "074C30",
+        "followers": {
+            "totalCount": 3067
+        },
+        "follows": {
+            "totalCount": 268
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:27:58.992977Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9fb42703-e8f3-4317-acb1-2149e387bdcd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2b5c7b7-66c7-45b0-9b7c-08f9c34c3d2d-profile_banner-480.png"
+    }
 }

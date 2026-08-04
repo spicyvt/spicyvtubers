@@ -1,4 +1,27 @@
 {
     "bio": "Dreamweaver Yokai here to craft a special little fantasy for you...and/or scream at video games, whichever comes first 😳",
-    "id": "923493330"
+    "twitch": {
+        "id": "923493330",
+        "login": "starlitva",
+        "displayName": "StarlitVA",
+        "createdAt": "2023-06-18T00:08:27.90597Z",
+        "updatedAt": "2026-07-22T22:14:45.623863Z",
+        "description": "Dreamweaver Yokai here to craft a special little fantasy for you...and/or scream at video games, whichever comes first 😳",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 604
+        },
+        "follows": {
+            "totalCount": 92
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-23T01:39:08.609907Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/955c7b77-1913-4132-9a34-468911d2c76b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8813eadc-ce3e-459a-a5cb-617c6e0a24bc-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Heyo, friends. I'm Melody -  OG lewdtuber, rocking purple hair, cringe, & generalized anxiety. I stan my community (The Science Team) with all my h3ntai-loving, artificial heart. My buds are awesome af, too. You bring the bagels, I'll bring my obnoxious robots!",
-    "id": "478575546"
+    "twitch": {
+        "id": "478575546",
+        "login": "projektmelody",
+        "displayName": "projektmelody",
+        "createdAt": "2019-12-18T17:39:57.982683Z",
+        "updatedAt": "2026-08-01T03:18:52.160673Z",
+        "description": "Heyo, friends. I'm Melody -  OG lewdtuber, rocking purple hair, cringe, & generalized anxiety. I stan my community (The Science Team) with all my h3ntai-loving, artificial heart. My buds are awesome af, too. You bring the bagels, I'll bring my obnoxious robots!",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 704897
+        },
+        "follows": {
+            "totalCount": 206
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:59:46.477546Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3cb5c54-2f52-41c0-ad6d-8a9808871df2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb7ff336-3108-4b37-8786-666d90afa5ca-profile_banner-480.png"
+    }
 }

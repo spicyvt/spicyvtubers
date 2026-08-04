@@ -1,4 +1,27 @@
 {
     "bio": "fruity femboy furry PNGtuber! Sometimes a panda, sometimes an elf!🍓🍓🍓",
-    "id": "444743155"
+    "twitch": {
+        "id": "444743155",
+        "login": "berryguild",
+        "displayName": "BerryGuild",
+        "createdAt": "2019-06-29T05:29:55.220282Z",
+        "updatedAt": "2026-08-03T05:46:49.234313Z",
+        "description": "fruity femboy furry PNGtuber! Sometimes a panda, sometimes an elf!🍓🍓🍓",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 285
+        },
+        "follows": {
+            "totalCount": 371
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T03:31:50.292061Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3695fd4-13f6-4343-b916-f2a540c4603b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8b056d7-fce6-494e-a4ec-be2a866cd368-profile_banner-480.png"
+    }
 }

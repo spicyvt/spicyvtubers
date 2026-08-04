@@ -1,4 +1,27 @@
 {
-    "bio": "Snowbunny doing sillybunny things ❄️ 🐰                                                                                  My accent is from the land of cute (snow)bunnies.                         Streaming on 18:00 (UTC)/ 14:00 (EDT) 5 times a week (trying, no promises🖤)        ",
-    "id": "1001282717"
+    "bio": "Snowbunny doing sillybunny things ❄️ 🐰                                                                                  My accent is from the land of cute (snow)bunnies.                         Streaming on 18:00 (UTC)/ 14:00 (EDT) 5 times a week (trying, no promises🖤)",
+    "twitch": {
+        "id": "1001282717",
+        "login": "bunyy2b",
+        "displayName": "bunyy2b",
+        "createdAt": "2023-12-08T16:10:25.299494Z",
+        "updatedAt": "2026-08-01T19:28:36.260061Z",
+        "description": "Snowbunny doing sillybunny things ❄️ 🐰                                                                                  My accent is from the land of cute (snow)bunnies.                         Streaming on 18:00 (UTC)/ 14:00 (EDT) 5 times a week (trying, no promises🖤)        ",
+        "primaryColorHex": "5F0ED9",
+        "followers": {
+            "totalCount": 4994
+        },
+        "follows": {
+            "totalCount": 15
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T21:41:13.509351Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8a493c0-e39a-4e7d-ae23-cb03cf1c546e-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

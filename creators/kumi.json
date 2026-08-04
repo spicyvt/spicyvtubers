@@ -1,4 +1,27 @@
 {
     "bio": "I'M KUMI! I'm a Harpy VTuber! Weekly Schedule in Discord! | BUSINESS: kumivt.business@gmail.com",
-    "id": "142260777"
+    "twitch": {
+        "id": "142260777",
+        "login": "kumi",
+        "displayName": "kumi",
+        "createdAt": "2016-12-18T14:37:51.977666Z",
+        "updatedAt": "2026-08-02T18:22:00.911973Z",
+        "description": "I'M KUMI! I'm a Harpy VTuber! Weekly Schedule in Discord! | BUSINESS: kumivt.business@gmail.com",
+        "primaryColorHex": "87C77E",
+        "followers": {
+            "totalCount": 135925
+        },
+        "follows": {
+            "totalCount": 481
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T21:17:29.643919Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62727b18-e686-4c6a-8b99-234668ac32bc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/12d02cb9-6af7-4eeb-a889-189c3f61346b-profile_banner-480.png"
+    }
 }

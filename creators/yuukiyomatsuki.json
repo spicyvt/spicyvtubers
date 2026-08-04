@@ -1,4 +1,27 @@
 {
     "bio": "Hi, I´m Yuuki Yomatsuki welcome to my channel 🦊I´m both Vtuber and a Cosplayer, bringing my characters to life in two worlds - digital and real ✨",
-    "id": "168176125"
+    "twitch": {
+        "id": "168176125",
+        "login": "yuukiyomatsuki",
+        "displayName": "YuukiYomatsuki",
+        "createdAt": "2017-08-03T21:22:25.522362Z",
+        "updatedAt": "2026-08-03T13:24:24.639381Z",
+        "description": "Hi, I´m Yuuki Yomatsuki welcome to my channel 🦊I´m both Vtuber and a Cosplayer, bringing my characters to life in two worlds - digital and real ✨",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 291
+        },
+        "follows": {
+            "totalCount": 91
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T15:04:10.528071Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/377a046e-a88f-4e08-ba3e-59d2d4a710f9-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fe1a50e-b151-4aea-a00f-29bf4e0ff045-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Please don’t tap the glass. It scares the Vtuber also don’t feed him. He bites.",
-    "id": "131424898"
+    "twitch": {
+        "id": "131424898",
+        "login": "cluelessnix",
+        "displayName": "CluelessNix",
+        "createdAt": "2016-08-05T18:43:08.482443Z",
+        "updatedAt": "2026-08-01T21:10:30.744116Z",
+        "description": "Please don’t tap the glass. It scares the Vtuber also don’t feed him. He bites.",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 1939
+        },
+        "follows": {
+            "totalCount": 595
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-26T15:07:39.402248Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/32da4e0e-a814-48c0-9a90-5fe45a1d639d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8396c37-28c9-4f5b-b7c9-4990b9f11279-profile_banner-480.png"
+    }
 }

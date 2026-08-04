@@ -1,4 +1,27 @@
 {
     "bio": "🦊 Soft fox ASMR streamer here to help you sleep 3 nights a week~Gentle whispers, kisses, and flirty comfort just for you 💗",
-    "id": "1002887029"
+    "twitch": {
+        "id": "1002887029",
+        "login": "miidere",
+        "displayName": "Miidere",
+        "createdAt": "2023-12-13T03:10:56.845814Z",
+        "updatedAt": "2026-06-30T09:06:07.553975Z",
+        "description": "🦊 Soft fox ASMR streamer here to help you sleep 3 nights a week~Gentle whispers, kisses, and flirty comfort just for you 💗",
+        "primaryColorHex": "FF86B7",
+        "followers": {
+            "totalCount": 7537
+        },
+        "follows": {
+            "totalCount": 35
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-02T03:15:41.120188Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fa2e8cc6-cda7-41f2-81bb-a59a871b3923-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/87d23c3b-6fd1-4dd2-be11-d9779fb239a3-profile_banner-480.png"
+    }
 }

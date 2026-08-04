@@ -1,4 +1,27 @@
 {
     "bio": "[18+ ONLY] Hello I'm Director Feng Moonlight! Artist まま n ぱぱ, VA and Lewdtuber~💚⏱️ Lovely to meet you~",
-    "id": "133240486"
+    "twitch": {
+        "id": "133240486",
+        "login": "feng_moonlightvt",
+        "displayName": "Feng_MoonlightVT",
+        "createdAt": "2016-08-27T02:05:45.839241Z",
+        "updatedAt": "2026-07-31T13:26:49.479433Z",
+        "description": "[18+ ONLY] Hello I'm Director Feng Moonlight! Artist まま n ぱぱ, VA and Lewdtuber~💚⏱️ Lovely to meet you~",
+        "primaryColorHex": "62D985",
+        "followers": {
+            "totalCount": 970
+        },
+        "follows": {
+            "totalCount": 1874
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-03-04T19:25:15.258355Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02826568-e7b0-4412-987a-287c55ca5c46-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/04a85681-75f3-4160-891e-823c154f0d65-profile_banner-480.jpeg"
+    }
 }

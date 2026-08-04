@@ -1,4 +1,27 @@
 {
     "bio": "🌹​𓆩𓆪 Hi I'm Nyxie! ​𓆩𓆪 🌹 A cozy-chaotic vampire VTuber who likes to play with her food...꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷                                              email: nyxieenvt@gmail.com",
-    "id": "193252304"
+    "twitch": {
+        "id": "193252304",
+        "login": "nyxiesinclair",
+        "displayName": "NyxieSinclair",
+        "createdAt": "2018-01-27T12:19:08.894218Z",
+        "updatedAt": "2026-08-03T11:42:22.196083Z",
+        "description": "🌹​𓆩𓆪 Hi I'm Nyxie! ​𓆩𓆪 🌹 A cozy-chaotic vampire VTuber who likes to play with her food...꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷                                              email: nyxieenvt@gmail.com",
+        "primaryColorHex": "60141F",
+        "followers": {
+            "totalCount": 3790
+        },
+        "follows": {
+            "totalCount": 1945
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T14:46:38.210699Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63dd99ad-4074-4886-a26e-5a95ff3e0c78-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e6c5b39-8230-4aca-ad15-93dad665357e-profile_banner-480.png"
+    }
 }

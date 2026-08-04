@@ -1,4 +1,27 @@
 {
     "bio": "Hello I'm KirbyMochii aka Kirby 🐮 | Spicy Pink Cow 🐄💕  | A Big Yapper | 18 + Streamer 📺 🔴Streams on Mon, Wed & Friday at 7pm est 🔴| Follow My Tikok , Instagram , YouTube & Twitter .. | 💌 Business Email: kirbymochiibusiness@gmail.com",
-    "id": "138088492"
+    "twitch": {
+        "id": "138088492",
+        "login": "kirbymochii",
+        "displayName": "kirbymochii",
+        "createdAt": "2016-10-27T23:20:53.80141Z",
+        "updatedAt": "2026-07-31T18:32:29.793272Z",
+        "description": "Hello I'm KirbyMochii aka Kirby 🐮 | Spicy Pink Cow 🐄💕  | A Big Yapper | 18 + Streamer 📺 🔴Streams on Mon, Wed & Friday at 7pm est 🔴| Follow My Tikok , Instagram , YouTube & Twitter .. | 💌 Business Email: kirbymochiibusiness@gmail.com",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 341
+        },
+        "follows": {
+            "totalCount": 183
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:08:08.278437Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/40b7e31e-8fe9-4e13-813e-9ab91bfc33d9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d711d7a7-35ff-4f74-9ecf-b7f23f51b222-profile_banner-480.png"
+    }
 }

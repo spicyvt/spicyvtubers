@@ -1,4 +1,27 @@
 {
     "bio": "˜”*°•. 🎶 Professional Opera Singer and Spicy Voice Actress 🎶 .•°*”˜",
-    "id": "555454462"
+    "twitch": {
+        "id": "555454462",
+        "login": "deadlydesiree",
+        "displayName": "DeadlyDesiree",
+        "createdAt": "2020-07-16T23:38:30.549601Z",
+        "updatedAt": "2026-08-03T05:18:48.361132Z",
+        "description": "˜”*°•. 🎶 Professional Opera Singer and Spicy Voice Actress 🎶 .•°*”˜",
+        "primaryColorHex": "4C0808",
+        "followers": {
+            "totalCount": 13576
+        },
+        "follows": {
+            "totalCount": 560
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-07-05T02:32:04.330756Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/af19b6bc-c5c7-465a-9fc5-e440f51025be-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0df67d1-2ac8-4acf-87e0-886f21d8bde0-profile_banner-480.png"
+    }
 }

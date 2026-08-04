@@ -1,4 +1,27 @@
 {
     "bio": "[+18] ꔫ  Freaky and Lewd Cyber CatBat!  ꔫ  Horror + Variety streamer ꔫ  Cyber and Iced Tea Obsessed ꔫ",
-    "id": "772196041"
+    "twitch": {
+        "id": "772196041",
+        "login": "ravennanya",
+        "displayName": "RavennaNya",
+        "createdAt": "2022-02-13T03:52:16.141739Z",
+        "updatedAt": "2026-07-11T23:30:07.57708Z",
+        "description": "[+18] ꔫ  Freaky and Lewd Cyber CatBat!  ꔫ  Horror + Variety streamer ꔫ  Cyber and Iced Tea Obsessed ꔫ",
+        "primaryColorHex": "FF00D0",
+        "followers": {
+            "totalCount": 7317
+        },
+        "follows": {
+            "totalCount": 323
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-12T04:23:49.38177Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f69b65b-b060-4ba0-8dcb-fa2fc2e2efe5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8015a002-c5bf-490b-999a-979deb452b2a-profile_banner-480.jpeg"
+    }
 }

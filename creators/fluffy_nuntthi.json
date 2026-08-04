@@ -1,4 +1,27 @@
 {
     "bio": "Hello and welcome to my channel. I am Fluffy. I'm a variety streamer. I play what I want when I want.  I also have a few different health issues that may cause me to not stream or to start late. Join  the discord to find out when I'm streaming next time or to make suggestions on games.",
-    "id": "118487963"
+    "twitch": {
+        "id": "118487963",
+        "login": "fluffy_nuntthi",
+        "displayName": "Fluffy_Nuntthi",
+        "createdAt": "2016-03-12T06:40:36.556342Z",
+        "updatedAt": "2026-08-01T22:16:27.514385Z",
+        "description": "Hello and welcome to my channel. I am Fluffy. I'm a variety streamer. I play what I want when I want.  I also have a few different health issues that may cause me to not stream or to start late. Join  the discord to find out when I'm streaming next time or to make suggestions on games.",
+        "primaryColorHex": "26005A",
+        "followers": {
+            "totalCount": 3498
+        },
+        "follows": {
+            "totalCount": 567
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T00:07:54.968571Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fdfb229-9e1c-409a-96d2-38782517fce3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b37ec9aa-8c07-48ac-9890-b7779bd50919-profile_banner-480.png"
+    }
 }

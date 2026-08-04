@@ -1,4 +1,27 @@
 {
     "bio": "Hello, I’m Lillieon. I am a dedicated streamer\\VTuber focused on creating a entertaining experience for my viewers                        I play games, and I often find myself losing in most.  I also collect Pokémon cards  |MDNI: 18+| lillie0n.vtuber@gmail.com https://vtubie.com/lillie0n/",
-    "id": "1005189259"
+    "twitch": {
+        "id": "1005189259",
+        "login": "lillie0n",
+        "displayName": "Lillie0n",
+        "createdAt": "2023-12-17T22:07:16.969656Z",
+        "updatedAt": "2026-08-03T17:03:07.055544Z",
+        "description": "Hello, I’m Lillieon. I am a dedicated streamer\\VTuber focused on creating a entertaining experience for my viewers                        I play games, and I often find myself losing in most.  I also collect Pokémon cards  |MDNI: 18+| lillie0n.vtuber@gmail.com https://vtubie.com/lillie0n/",
+        "primaryColorHex": "4ADABD",
+        "followers": {
+            "totalCount": 1860
+        },
+        "follows": {
+            "totalCount": 371
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:34:33.930288Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/68c4f85e-57e8-4c50-92ac-454371baafee-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dee74b57-8ace-4023-a28e-c5ed6f88f718-profile_banner-480.png"
+    }
 }

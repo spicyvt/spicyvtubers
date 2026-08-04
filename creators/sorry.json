@@ -1,4 +1,27 @@
 {
     "bio": "alien femboy (he/him.)from the planet hëll.incubus that will take your garbage and eat it.",
-    "id": "196175505"
+    "twitch": {
+        "id": "196175505",
+        "login": "sorry",
+        "displayName": "sorry",
+        "createdAt": "2018-02-13T11:30:00.520251Z",
+        "updatedAt": "2026-08-03T15:55:33.814974Z",
+        "description": "alien femboy (he/him.)from the planet hëll.incubus that will take your garbage and eat it.",
+        "primaryColorHex": "C22A5B",
+        "followers": {
+            "totalCount": 36478
+        },
+        "follows": {
+            "totalCount": 296
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T17:57:17.282411Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/959acefa-a616-4ccd-9e1b-09097fb14b77-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f12c817f-28f8-4ab3-9917-c058784de595-profile_banner-480.png"
+    }
 }

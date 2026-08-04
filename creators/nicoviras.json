@@ -1,4 +1,27 @@
 {
     "bio": "📡 Brat who streams every Thursday - Sunday @8pm ET 📺⚡🔞",
-    "id": "894303374"
+    "twitch": {
+        "id": "894303374",
+        "login": "nicoviras",
+        "displayName": "nicoviras",
+        "createdAt": "2023-03-28T23:54:04.961943Z",
+        "updatedAt": "2026-08-03T14:18:46.21626Z",
+        "description": "📡 Brat who streams every Thursday - Sunday @8pm ET 📺⚡🔞",
+        "primaryColorHex": "794EB2",
+        "followers": {
+            "totalCount": 5017
+        },
+        "follows": {
+            "totalCount": 321
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T02:59:46.771602Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fe953f3-02ca-430d-8504-b0771dfe248c-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2659a959-7a58-4fdc-8a05-8fa66aec86b8-profile_banner-480.png"
+    }
 }

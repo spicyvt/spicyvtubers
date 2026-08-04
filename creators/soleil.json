@@ -1,4 +1,27 @@
 {
     "bio": "🌟 Welcome, my suns and stars! 🌟I'm Soleil (So-Lay), a moth girl and local moffia boss! Join me for variety streams including chatting, ASMR, handcams, horror games, and more! Contact: soleilestellevt@gmail.com",
-    "id": "692169761"
+    "twitch": {
+        "id": "692169761",
+        "login": "soleil",
+        "displayName": "soleil",
+        "createdAt": "2021-05-29T21:57:01.620704Z",
+        "updatedAt": "2026-03-26T22:37:15.547187Z",
+        "description": "🌟 Welcome, my suns and stars! 🌟I'm Soleil (So-Lay), a moth girl and local moffia boss! Join me for variety streams including chatting, ASMR, handcams, horror games, and more! Contact: soleilestellevt@gmail.com",
+        "primaryColorHex": "1345AA",
+        "followers": {
+            "totalCount": 14205
+        },
+        "follows": {
+            "totalCount": 325
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-03-01T00:06:17.907854Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2d21b12-bd33-44d6-9e3b-576ad75e2424-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c55617c2-0f5b-44aa-8225-5e4737a68fbb-profile_banner-480.png"
+    }
 }

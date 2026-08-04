@@ -1,4 +1,27 @@
 {
     "bio": "Just a busy bunny looking for some well deserved playtime with friends! ♥",
-    "id": "48140975"
+    "twitch": {
+        "id": "48140975",
+        "login": "tealoafy",
+        "displayName": "Tealoafy",
+        "createdAt": "2013-08-26T03:38:46.458503Z",
+        "updatedAt": "2026-07-27T23:12:16.002005Z",
+        "description": "Just a busy bunny looking for some well deserved playtime with friends! ♥",
+        "primaryColorHex": "FFACCA",
+        "followers": {
+            "totalCount": 242
+        },
+        "follows": {
+            "totalCount": 92
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T01:08:34.005099Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/473f0745-d957-4a67-96e6-8b6609ce56a4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/878c0cee-6c65-4be6-9bcc-96bb8f047ffc-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "Variety streamer in a constant state of anxiety but not enough to contain my gremlinI enjoy mmorpgs and survival craft games the most ~ I have a potty mouth and am a degen ",
-    "id": "62276072"
+    "bio": "Variety streamer in a constant state of anxiety but not enough to contain my gremlinI enjoy mmorpgs and survival craft games the most ~ I have a potty mouth and am a degen",
+    "twitch": {
+        "id": "62276072",
+        "login": "lucateal",
+        "displayName": "Lucateal",
+        "createdAt": "2014-05-08T00:15:33.903036Z",
+        "updatedAt": "2026-04-13T03:55:50.411343Z",
+        "description": "Variety streamer in a constant state of anxiety but not enough to contain my gremlinI enjoy mmorpgs and survival craft games the most ~ I have a potty mouth and am a degen ",
+        "primaryColorHex": "510519",
+        "followers": {
+            "totalCount": 761
+        },
+        "follows": {
+            "totalCount": 160
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-28T22:38:56.702711Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b478cd7-29f9-4706-9956-8e90f191f6b9-profile_image-70x70.jpeg",
+        "bannerImageUrl": null
+    }
 }

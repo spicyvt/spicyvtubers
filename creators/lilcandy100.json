@@ -1,4 +1,27 @@
 {
     "bio": "︵°‎₊‧꒰ა˖⟡♡✧˖ ໒꒱‧₊°︵Welcome to my channel! I'm Candy, I'm a 25 y/o smol chaotic gremlin with a chronic illness who draws, plays games, and burps a lot. I Hope I can make you smile, even if it's just for a second! ♥ Taken~",
-    "id": "452541996"
+    "twitch": {
+        "id": "452541996",
+        "login": "lilcandy100",
+        "displayName": "LilCandy100",
+        "createdAt": "2019-08-04T14:51:43.238756Z",
+        "updatedAt": "2026-08-03T23:22:21.013459Z",
+        "description": "︵°‎₊‧꒰ა˖⟡♡✧˖ ໒꒱‧₊°︵Welcome to my channel! I'm Candy, I'm a 25 y/o smol chaotic gremlin with a chronic illness who draws, plays games, and burps a lot. I Hope I can make you smile, even if it's just for a second! ♥ Taken~",
+        "primaryColorHex": "FF99D1",
+        "followers": {
+            "totalCount": 2680
+        },
+        "follows": {
+            "totalCount": 863
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:13:48.11464Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/070ee527-6371-43f4-b094-a6c76d6a8ef4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/488c5fc0-ce4b-4399-b2bc-51a1fa934797-profile_banner-480.png"
+    }
 }

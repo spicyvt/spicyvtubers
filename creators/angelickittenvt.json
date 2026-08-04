@@ -1,4 +1,27 @@
 {
     "bio": "My name is Kitten, and I love to play games and dress in lolita fashion",
-    "id": "667471785"
+    "twitch": {
+        "id": "667471785",
+        "login": "angelickittenvt",
+        "displayName": "AngelicKittenVT",
+        "createdAt": "2021-03-27T08:39:39.572944Z",
+        "updatedAt": "2026-08-02T03:51:29.103661Z",
+        "description": "My name is Kitten, and I love to play games and dress in lolita fashion",
+        "primaryColorHex": "BFAAE0",
+        "followers": {
+            "totalCount": 3767
+        },
+        "follows": {
+            "totalCount": 597
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T05:55:24.500743Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bbb5f0e-0899-4a8f-a05f-49a9755dfbb3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/795b1cb7-a5e7-444a-bdd8-d09c6aecb27a-profile_banner-480.png"
+    }
 }

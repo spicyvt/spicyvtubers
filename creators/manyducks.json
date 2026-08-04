@@ -1,4 +1,27 @@
 {
     "bio": "\\( •ө• )/",
-    "id": "606647927"
+    "twitch": {
+        "id": "606647927",
+        "login": "manyducks",
+        "displayName": "ManyDucks",
+        "createdAt": "2020-11-12T15:41:18.877557Z",
+        "updatedAt": "2026-07-29T23:16:46.817847Z",
+        "description": "\\( •ө• )/",
+        "primaryColorHex": "9A71D9",
+        "followers": {
+            "totalCount": 633
+        },
+        "follows": {
+            "totalCount": 658
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T02:11:57.146371Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6575c2a-855f-421d-b7f1-24c0aa811cd7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5642715e-d5e5-4b44-ad1b-012890b8294d-profile_banner-480.jpeg"
+    }
 }

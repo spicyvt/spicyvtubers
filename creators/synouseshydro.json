@@ -1,4 +1,27 @@
 {
     "bio": "Hi! I'm Syno! I'm a Vtuber, Gamer, and all around silly goofy girl. Join me as I play games of all types, have adventures with friends, and make terrible jokes!",
-    "id": "688021928"
+    "twitch": {
+        "id": "688021928",
+        "login": "synouseshydro",
+        "displayName": "SynoUsesHydro",
+        "createdAt": "2021-05-16T17:07:07.858878Z",
+        "updatedAt": "2026-07-30T18:48:15.019462Z",
+        "description": "Hi! I'm Syno! I'm a Vtuber, Gamer, and all around silly goofy girl. Join me as I play games of all types, have adventures with friends, and make terrible jokes!",
+        "primaryColorHex": "AA58D8",
+        "followers": {
+            "totalCount": 672
+        },
+        "follows": {
+            "totalCount": 73
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T22:48:41.091007Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc30c7f2-92d0-4509-afb2-7c0429e04aa7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1553dba8-3697-4e04-be9b-3a7c11014aa3-profile_banner-480.jpeg"
+    }
 }

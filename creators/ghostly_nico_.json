@@ -1,4 +1,27 @@
 {
     "bio": "Cosmic Ghost Vtuber! i crash landed on earth after floating in space for who knows how long! I'm here to go on adventures with others and tell an incredible tale for the Universe to see!! They/Them",
-    "id": "168531391"
+    "twitch": {
+        "id": "168531391",
+        "login": "ghostly_nico_",
+        "displayName": "ghostly_nico_",
+        "createdAt": "2017-08-06T00:29:45.070748Z",
+        "updatedAt": "2026-08-03T19:10:03.180867Z",
+        "description": "Cosmic Ghost Vtuber! i crash landed on earth after floating in space for who knows how long! I'm here to go on adventures with others and tell an incredible tale for the Universe to see!! They/Them",
+        "primaryColorHex": "00C5A8",
+        "followers": {
+            "totalCount": 103
+        },
+        "follows": {
+            "totalCount": 206
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T00:22:01.335115Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5c0e4ff9-7b19-4776-abda-5627784656c6-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/788ac0ee-17a4-45f1-a8cb-badf430fce86-profile_banner-480.jpeg"
+    }
 }

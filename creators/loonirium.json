@@ -1,4 +1,27 @@
 {
     "bio": "I don’t do normal streams. Every live is a challenge, punishment, or bad decision, usually of my own making. You can call me Loona for short ^-^ Email: loonirium@gmail.com",
-    "id": "804963171"
+    "twitch": {
+        "id": "804963171",
+        "login": "loonirium",
+        "displayName": "Loonirium",
+        "createdAt": "2022-06-28T02:44:03.342832Z",
+        "updatedAt": "2026-07-29T16:06:33.004013Z",
+        "description": "I don’t do normal streams. Every live is a challenge, punishment, or bad decision, usually of my own making. You can call me Loona for short ^-^ Email: loonirium@gmail.com",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 3834
+        },
+        "follows": {
+            "totalCount": 200
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T19:02:56.716572Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3079ece6-2263-45cd-be06-232c974a049f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a861e33b-764f-49ab-8934-6219c5d6f10a-profile_banner-480.png"
+    }
 }

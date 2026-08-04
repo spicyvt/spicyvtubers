@@ -1,4 +1,27 @@
 {
     "bio": "Here with one existing brain cell trying to entertain you! (っ◔◡◔)っ",
-    "id": "747388591"
+    "twitch": {
+        "id": "747388591",
+        "login": "mochiweebo",
+        "displayName": "mochiweebo",
+        "createdAt": "2021-11-28T00:09:06.266016Z",
+        "updatedAt": "2026-08-01T21:22:39.530359Z",
+        "description": "Here with one existing brain cell trying to entertain you! (っ◔◡◔)っ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 3271
+        },
+        "follows": {
+            "totalCount": 653
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T21:40:29.924321Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f786761-006f-49a2-bbde-6b07f18e53b5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84980957-ab02-4049-8234-d6acdd52964f-profile_banner-480.png"
+    }
 }

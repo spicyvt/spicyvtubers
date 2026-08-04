@@ -1,4 +1,27 @@
 {
     "bio": "˖｡𐙚‧₊˚ ❀ ˚₊‧✧˖˚ Sheep princess vtuber | Variety Streamer ˚˖✧‧₊˚ ❀ ˚₊𐙚｡˖",
-    "id": "74512425"
+    "twitch": {
+        "id": "74512425",
+        "login": "asamikaisuri",
+        "displayName": "AsamiKaisuri",
+        "createdAt": "2014-11-05T02:26:25.702859Z",
+        "updatedAt": "2026-08-01T20:24:31.240329Z",
+        "description": "˖｡𐙚‧₊˚ ❀ ˚₊‧✧˖˚ Sheep princess vtuber | Variety Streamer ˚˖✧‧₊˚ ❀ ˚₊𐙚｡˖",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 489
+        },
+        "follows": {
+            "totalCount": 63
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T00:42:44.484584Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a57cfc1a-dd9f-44fa-8e3d-5622d46cafa0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3e7dce1-8982-4e1d-917f-0a08ace252fa-profile_banner-480.png"
+    }
 }

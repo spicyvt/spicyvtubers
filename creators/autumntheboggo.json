@@ -1,4 +1,27 @@
 {
-    "bio": "Hi! My name is Autumn! I'm a Vtuber Variety streamer and Vrchat streamer who is aspiring to grow a caring loving community! The feeling of my streams is community family orientated and i love giving my mother/father energy to everyone~. Become a part of our growing family today! ",
-    "id": "686336923"
+    "bio": "Hi! My name is Autumn! I'm a Vtuber Variety streamer and Vrchat streamer who is aspiring to grow a caring loving community! The feeling of my streams is community family orientated and i love giving my mother/father energy to everyone~. Become a part of our growing family today!",
+    "twitch": {
+        "id": "686336923",
+        "login": "autumntheboggo",
+        "displayName": "autumntheboggo",
+        "createdAt": "2021-05-11T05:55:44.70938Z",
+        "updatedAt": "2025-12-17T23:46:23.166344Z",
+        "description": "Hi! My name is Autumn! I'm a Vtuber Variety streamer and Vrchat streamer who is aspiring to grow a caring loving community! The feeling of my streams is community family orientated and i love giving my mother/father energy to everyone~. Become a part of our growing family today! ",
+        "primaryColorHex": "4F2460",
+        "followers": {
+            "totalCount": 232
+        },
+        "follows": {
+            "totalCount": 74
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-10-31T17:39:57.98487Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5501667f-0fdb-4d51-8f2e-ace63114aaea-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e81fd0d-c6ee-4944-85ed-6ffc170a6397-profile_banner-480.png"
+    }
 }

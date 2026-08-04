@@ -1,4 +1,27 @@
 {
     "bio": "Awoo there, fellow Shibas!  It's Luvie Bubbles here, ready to bring you the fluffiest streams on the internet!  I'm obsessed with all things Shiba, and I love sharing my passion for variety streams with my awesome community.  Join the Shiba Squad for good vibes, hilarious moments.",
-    "id": "503095958"
+    "twitch": {
+        "id": "503095958",
+        "login": "luviebubbles",
+        "displayName": "LuvieBubbles",
+        "createdAt": "2020-03-24T07:55:58.124048Z",
+        "updatedAt": "2026-08-03T21:29:10.988107Z",
+        "description": "Awoo there, fellow Shibas!  It's Luvie Bubbles here, ready to bring you the fluffiest streams on the internet!  I'm obsessed with all things Shiba, and I love sharing my passion for variety streams with my awesome community.  Join the Shiba Squad for good vibes, hilarious moments.",
+        "primaryColorHex": "BD9AFD",
+        "followers": {
+            "totalCount": 1660
+        },
+        "follows": {
+            "totalCount": 2000
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T18:50:55.61914Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dbb6c5d5-6db1-411f-9f3c-9b080433c6db-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f29b8cd6-1624-42e1-baa6-07c5b3360270-profile_banner-480.jpeg"
+    }
 }

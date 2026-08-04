@@ -1,4 +1,27 @@
 {
     "bio": "Just your local corrupted angel. I play in VR a lot and give chat headpats. Any pronouns are fine for me!",
-    "id": "489197906"
+    "twitch": {
+        "id": "489197906",
+        "login": "sofiecloud",
+        "displayName": "SofieCloud",
+        "createdAt": "2020-01-30T21:25:58.912387Z",
+        "updatedAt": "2026-07-31T17:29:53.650486Z",
+        "description": "Just your local corrupted angel. I play in VR a lot and give chat headpats. Any pronouns are fine for me!",
+        "primaryColorHex": "DA00ED",
+        "followers": {
+            "totalCount": 3179
+        },
+        "follows": {
+            "totalCount": 359
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T03:15:37.63175Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d3f4556-2f50-4934-9114-7fe53951f65e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e059b31-e2ea-4507-94ed-ddfcc1674fc8-profile_banner-480.png"
+    }
 }

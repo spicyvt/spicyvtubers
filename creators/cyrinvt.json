@@ -1,4 +1,27 @@
 {
-    "bio": "Local failgirl streamer ",
-    "id": "430687523"
+    "bio": "Local failgirl streamer",
+    "twitch": {
+        "id": "430687523",
+        "login": "cyrinvt",
+        "displayName": "CyrinVT",
+        "createdAt": "2019-04-18T01:12:45.099171Z",
+        "updatedAt": "2026-08-02T01:35:33.654762Z",
+        "description": "Local failgirl streamer ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 2505
+        },
+        "follows": {
+            "totalCount": 7
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:00:57.865292Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2df008d2-24b9-4895-9473-b0ea4ff20a6e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39f4e135-d876-40c8-8db2-2862ae25fd10-profile_banner-480.jpeg"
+    }
 }

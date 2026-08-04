@@ -1,4 +1,27 @@
 {
     "bio": "r u a weirdo too? then i love u 😍",
-    "id": "810467291"
+    "twitch": {
+        "id": "810467291",
+        "login": "yumprincessvt",
+        "displayName": "YumprincessVT",
+        "createdAt": "2022-07-19T18:59:23.607387Z",
+        "updatedAt": "2026-08-03T10:28:13.419585Z",
+        "description": "r u a weirdo too? then i love u 😍",
+        "primaryColorHex": "CEB3FF",
+        "followers": {
+            "totalCount": 14272
+        },
+        "follows": {
+            "totalCount": 224
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-05-22T03:32:40.660311Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8cb6dfcb-79ee-4cf2-a06a-e2aee8d61f87-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/57ea3895-2f77-4b00-8c88-f950cbc64301-profile_banner-480.png"
+    }
 }

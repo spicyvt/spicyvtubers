@@ -1,4 +1,27 @@
 {
     "bio": "Baal ❤︎ Sheep Goddess ❤︎ Nice to Meet You!",
-    "id": "599576194"
+    "twitch": {
+        "id": "599576194",
+        "login": "baalvtuber",
+        "displayName": "BaalVtuber",
+        "createdAt": "2020-10-24T21:29:08.099806Z",
+        "updatedAt": "2026-08-03T01:57:13.156284Z",
+        "description": "Baal ❤︎ Sheep Goddess ❤︎ Nice to Meet You!",
+        "primaryColorHex": "FFBDEA",
+        "followers": {
+            "totalCount": 517
+        },
+        "follows": {
+            "totalCount": 207
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T04:16:08.130197Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3b9b5a6-38d2-4169-9c2c-5873a9a18201-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/879cf6a7-05d3-4c93-b159-c3b808195f86-profile_banner-480.png"
+    }
 }

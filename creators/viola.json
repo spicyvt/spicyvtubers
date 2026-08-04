@@ -1,4 +1,27 @@
 {
     "bio": "*:･ﾟ✧Catgirl Vtuber  ≽^•⩊•^≼丨 Business Email: violaontwitch@gmail.com *:･ﾟ✧",
-    "id": "487936385"
+    "twitch": {
+        "id": "487936385",
+        "login": "viola",
+        "displayName": "Viola",
+        "createdAt": "2020-01-25T10:49:49.367277Z",
+        "updatedAt": "2026-07-26T21:34:17.082022Z",
+        "description": "*:･ﾟ✧Catgirl Vtuber  ≽^•⩊•^≼丨 Business Email: violaontwitch@gmail.com *:･ﾟ✧",
+        "primaryColorHex": "C8CDF6",
+        "followers": {
+            "totalCount": 7769
+        },
+        "follows": {
+            "totalCount": 313
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-03T01:44:49.485065Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/46a6af53-5a6b-4653-83eb-dd484d91b1ee-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a6a646f-eb22-4a55-b688-36288e92d766-profile_banner-480.jpeg"
+    }
 }

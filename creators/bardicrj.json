@@ -1,4 +1,27 @@
 {
     "bio": "One man's trash is another man's treasure. I'm the trash. Furry VTuber Coyote",
-    "id": "39664992"
+    "twitch": {
+        "id": "39664992",
+        "login": "bardicrj",
+        "displayName": "BardicRJ",
+        "createdAt": "2013-01-25T15:46:37.697211Z",
+        "updatedAt": "2026-08-03T16:04:49.511246Z",
+        "description": "One man's trash is another man's treasure. I'm the trash. Furry VTuber Coyote",
+        "primaryColorHex": "FF00E9",
+        "followers": {
+            "totalCount": 34838
+        },
+        "follows": {
+            "totalCount": 205
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T19:58:54.91286Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7554d50-35cd-45c5-a295-640f271de270-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4330d08a-6caf-4305-b90a-34106661b650-profile_banner-480.png"
+    }
 }

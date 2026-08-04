@@ -1,4 +1,27 @@
 {
-    "bio": " 🤍 Dumb Siamese Coffee Addicted Cat 🤍 // MDNI 🔞 // Oshi Mark: ☕️🍁 // Tag: #MiyuKaede //",
-    "id": "595451598"
+    "bio": "🤍 Dumb Siamese Coffee Addicted Cat 🤍 // MDNI 🔞 // Oshi Mark: ☕️🍁 // Tag: #MiyuKaede //",
+    "twitch": {
+        "id": "595451598",
+        "login": "miyukaede_",
+        "displayName": "MiyuKaede_",
+        "createdAt": "2020-10-13T21:36:33.412708Z",
+        "updatedAt": "2026-08-02T02:47:56.561632Z",
+        "description": " 🤍 Dumb Siamese Coffee Addicted Cat 🤍 // MDNI 🔞 // Oshi Mark: ☕️🍁 // Tag: #MiyuKaede //",
+        "primaryColorHex": "503232",
+        "followers": {
+            "totalCount": 2143
+        },
+        "follows": {
+            "totalCount": 1654
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T06:10:13.302032Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34abeb71-6e22-4aa2-8724-57370b7070f7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e7d9420-be6a-43a6-aa8f-1edd204fbfdd-profile_banner-480.png"
+    }
 }

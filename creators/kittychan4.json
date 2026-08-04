@@ -1,4 +1,27 @@
 {
     "bio": "Heya! I'm Kittychan, your loca Gyaru Catgirl. I stream Handcams (Scrapbooking, Nail Design, Model building), Gaming, chatting, and ASMR on occasion. I am a 2D goddess ready to dominate the world and your wallet~! Business Inquiries: 4thekittychan4@gmail.com",
-    "id": "58390008"
+    "twitch": {
+        "id": "58390008",
+        "login": "kittychan4",
+        "displayName": "KittyChan4",
+        "createdAt": "2014-03-08T01:37:29.785982Z",
+        "updatedAt": "2026-07-30T04:25:18.596006Z",
+        "description": "Heya! I'm Kittychan, your loca Gyaru Catgirl. I stream Handcams (Scrapbooking, Nail Design, Model building), Gaming, chatting, and ASMR on occasion. I am a 2D goddess ready to dominate the world and your wallet~! Business Inquiries: 4thekittychan4@gmail.com",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 1987
+        },
+        "follows": {
+            "totalCount": 417
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T04:01:15.382572Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1d95bcb-70f5-468e-b3e2-1fef14de09c6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/04306bac-e8ec-455d-acf0-a5a0328154bd-profile_banner-480.png"
+    }
 }

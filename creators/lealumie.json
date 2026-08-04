@@ -1,4 +1,27 @@
 {
-    "bio": "Lea (Lee~ah!) |  Your Sweet & Sleepy Soft Fox!  |   Business Inquiries: Lealumie@hotmail.com   ",
-    "id": "477339913"
+    "bio": "Lea (Lee~ah!) |  Your Sweet & Sleepy Soft Fox!  |   Business Inquiries: Lealumie@hotmail.com",
+    "twitch": {
+        "id": "477339913",
+        "login": "lealumie",
+        "displayName": "Lealumie",
+        "createdAt": "2019-12-12T00:04:54.326739Z",
+        "updatedAt": "2026-08-02T16:10:35.53851Z",
+        "description": "Lea (Lee~ah!) |  Your Sweet & Sleepy Soft Fox!  |   Business Inquiries: Lealumie@hotmail.com   ",
+        "primaryColorHex": "A58DCA",
+        "followers": {
+            "totalCount": 22769
+        },
+        "follows": {
+            "totalCount": 278
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T22:15:34.936578Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/628304a3-0e49-4b29-a765-1fc9a7e0a2b4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba05e012-6b42-4fc0-b621-e7f13beec778-profile_banner-480.jpeg"
+    }
 }

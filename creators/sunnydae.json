@@ -1,4 +1,27 @@
 {
     "bio": "You favorite YAWNdere. The Daemon of the Sun. Like hell we can't!",
-    "id": "132484755"
+    "twitch": {
+        "id": "132484755",
+        "login": "sunnydae",
+        "displayName": "sunnydae",
+        "createdAt": "2016-08-18T02:15:53.347512Z",
+        "updatedAt": "2026-08-01T03:23:38.154584Z",
+        "description": "You favorite YAWNdere. The Daemon of the Sun. Like hell we can't!",
+        "primaryColorHex": "710201",
+        "followers": {
+            "totalCount": 28458
+        },
+        "follows": {
+            "totalCount": 713
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:19:09.105852Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/475cca93-dea7-47c0-9424-59ff0f10838b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/794d867c-e83c-4810-bd58-2acdcaa09eef-profile_banner-480.png"
+    }
 }

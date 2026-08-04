@@ -1,4 +1,27 @@
 {
     "bio": "Soy Moomochi la vaca mas watona de todo tuish.Soy grande, watona, norteña y chilena honoraria",
-    "id": "672683282"
+    "twitch": {
+        "id": "672683282",
+        "login": "moomochi_",
+        "displayName": "Moomochi_",
+        "createdAt": "2021-04-07T17:07:45.051461Z",
+        "updatedAt": "2026-02-08T20:40:37.89758Z",
+        "description": "Soy Moomochi la vaca mas watona de todo tuish.Soy grande, watona, norteña y chilena honoraria",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 14141
+        },
+        "follows": {
+            "totalCount": 564
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-01-05T23:24:32.758819Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd930e75-5413-45c0-9972-169b08eb7678-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/45536c0a-6a68-48ef-bcfe-79f75fb83100-profile_banner-480.png"
+    }
 }

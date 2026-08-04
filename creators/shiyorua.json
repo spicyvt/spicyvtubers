@@ -1,4 +1,27 @@
 {
-    "bio": "BANG! ⁍ War Devil | PMC Boss | Guns, Games & Bad Decisions ",
-    "id": "73844260"
+    "bio": "BANG! ⁍ War Devil | PMC Boss | Guns, Games & Bad Decisions",
+    "twitch": {
+        "id": "73844260",
+        "login": "shiyorua",
+        "displayName": "Shiyorua",
+        "createdAt": "2014-10-27T01:27:52.513935Z",
+        "updatedAt": "2026-08-02T18:09:27.81315Z",
+        "description": "BANG! ⁍ War Devil | PMC Boss | Guns, Games & Bad Decisions ",
+        "primaryColorHex": "FF005D",
+        "followers": {
+            "totalCount": 2981
+        },
+        "follows": {
+            "totalCount": 203
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T20:26:54.958651Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0f28420-d00e-483d-b9f9-e7f928bd4c25-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25060d11-a3a7-4752-a61a-72f3d7d50d27-profile_banner-480.png"
+    }
 }

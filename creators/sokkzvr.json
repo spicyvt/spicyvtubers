@@ -1,4 +1,27 @@
 {
     "bio": "Escape reality ♥️ ♫ ♬",
-    "id": "274422632"
+    "twitch": {
+        "id": "274422632",
+        "login": "sokkzvr",
+        "displayName": "SokkzVR",
+        "createdAt": "2018-11-12T04:55:21.799393Z",
+        "updatedAt": "2026-08-02T07:14:04.769099Z",
+        "description": "Escape reality ♥️ ♫ ♬",
+        "primaryColorHex": "CC3366",
+        "followers": {
+            "totalCount": 49271
+        },
+        "follows": {
+            "totalCount": 980
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T13:19:16.072941Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e407013-22de-4d69-9207-491d168cbe49-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4aff49b5-43ad-4ccf-9300-e75d3b11417d-profile_banner-480.png"
+    }
 }

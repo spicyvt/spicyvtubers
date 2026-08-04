@@ -1,4 +1,27 @@
 {
-    "bio": "I'm Crumpet! Snort when I laugh, love sugar, and I talk too fast! Peek in for a neat time! Contact: MurderCrumpet@mythictalent.com ",
-    "id": "277057209"
+    "bio": "I'm Crumpet! Snort when I laugh, love sugar, and I talk too fast! Peek in for a neat time! Contact: MurderCrumpet@mythictalent.com",
+    "twitch": {
+        "id": "277057209",
+        "login": "murdercrumpet",
+        "displayName": "MurderCrumpet",
+        "createdAt": "2018-11-22T03:28:37.647364Z",
+        "updatedAt": "2026-08-03T20:16:58.692851Z",
+        "description": "I'm Crumpet! Snort when I laugh, love sugar, and I talk too fast! Peek in for a neat time! Contact: MurderCrumpet@mythictalent.com ",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 121456
+        },
+        "follows": {
+            "totalCount": 340
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:58:29.475906Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc444111-c887-4842-8dbc-4e2ac8088eba-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1c8e2c1-2a59-471f-823e-4b197ecb182e-profile_banner-480.png"
+    }
 }

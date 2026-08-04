@@ -1,4 +1,27 @@
 {
-    "bio": "stupid heifer succuguts@gmail.com for big cow business only ",
-    "id": "71380288"
+    "bio": "stupid heifer succuguts@gmail.com for big cow business only",
+    "twitch": {
+        "id": "71380288",
+        "login": "succuguts",
+        "displayName": "Succuguts",
+        "createdAt": "2014-09-17T02:10:44.335419Z",
+        "updatedAt": "2026-07-24T21:48:15.173987Z",
+        "description": "stupid heifer succuguts@gmail.com for big cow business only ",
+        "primaryColorHex": "CCA6FD",
+        "followers": {
+            "totalCount": 11432
+        },
+        "follows": {
+            "totalCount": 436
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-19T22:49:00.260974Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdfce71b-4422-4235-ba7d-18c4e978b36d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f4ca95a-eb67-4c33-8ea5-824e2ec3d52f-profile_banner-480.png"
+    }
 }

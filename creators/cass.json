@@ -1,4 +1,27 @@
 {
     "bio": "𝐌𝐚𝐫𝐬𝐡𝐦𝐚𝐥𝐥𝐨𝐰 𝐂𝐚𝐭 𝐕𝐓𝐮𝐛𝐞𝐫 ꔫ GAMER SUPPS Partner Code \"CASS\" ┆ 💌 : cassievttv@gmail.com",
-    "id": "137868869"
+    "twitch": {
+        "id": "137868869",
+        "login": "cass",
+        "displayName": "Cass",
+        "createdAt": "2016-10-25T03:33:27.155618Z",
+        "updatedAt": "2026-08-02T01:15:35.205556Z",
+        "description": "𝐌𝐚𝐫𝐬𝐡𝐦𝐚𝐥𝐥𝐨𝐰 𝐂𝐚𝐭 𝐕𝐓𝐮𝐛𝐞𝐫 ꔫ GAMER SUPPS Partner Code \"CASS\" ┆ 💌 : cassievttv@gmail.com",
+        "primaryColorHex": "ED91AB",
+        "followers": {
+            "totalCount": 14888
+        },
+        "follows": {
+            "totalCount": 419
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T10:26:27.480446Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fce697c1-177e-44b2-9615-31c8c571fdf9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/acb9f651-7c7c-4378-abce-7cfbf4210aa0-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "am horny. am bird.",
-    "id": "811074874"
+    "twitch": {
+        "id": "811074874",
+        "login": "sivibird",
+        "displayName": "sivibird",
+        "createdAt": "2022-07-21T16:10:22.27278Z",
+        "updatedAt": "2026-08-01T03:00:16.743315Z",
+        "description": "am horny. am bird.",
+        "primaryColorHex": "830000",
+        "followers": {
+            "totalCount": 2582
+        },
+        "follows": {
+            "totalCount": 194
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T05:50:22.521743Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cadbd68-07ca-4bfc-a808-fe5d81469ca5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75286944-09ed-40a1-9cfe-7330e6f18653-profile_banner-480.png"
+    }
 }

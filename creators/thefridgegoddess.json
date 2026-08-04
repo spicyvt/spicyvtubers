@@ -1,4 +1,27 @@
 {
     "bio": "Open your fridge, crack open a beer, and bear witness to all that she holds! With her icy grasp and tendency to suck at all games she plays The Fridge Goddess will attempt to entertain you!  Watch videogame violence, unskilled roleplaying, and profanity in the cool 32 degrees of the holy fridge!",
-    "id": "454012415"
+    "twitch": {
+        "id": "454012415",
+        "login": "thefridgegoddess",
+        "displayName": "TheFridgeGoddess",
+        "createdAt": "2019-08-11T19:20:11.985329Z",
+        "updatedAt": "2026-08-03T19:31:33.196056Z",
+        "description": "Open your fridge, crack open a beer, and bear witness to all that she holds! With her icy grasp and tendency to suck at all games she plays The Fridge Goddess will attempt to entertain you!  Watch videogame violence, unskilled roleplaying, and profanity in the cool 32 degrees of the holy fridge!",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 1342
+        },
+        "follows": {
+            "totalCount": 57
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:07:47.216267Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/774f002c-1b8f-4e53-9f3b-991caab58488-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/24c4e72d-18ee-4af3-9ab7-d3fdaebe53c9-profile_banner-480.png"
+    }
 }

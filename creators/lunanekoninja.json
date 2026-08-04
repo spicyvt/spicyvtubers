@@ -1,4 +1,27 @@
 {
     "bio": "Hai! I'm just a nyan that likes to play video games and share the experience with others! My main addictions are chocolate milk and Final Fantasy XIV, but that doesn't mean there aren't more!",
-    "id": "80014297"
+    "twitch": {
+        "id": "80014297",
+        "login": "lunanekoninja",
+        "displayName": "LunaNekoninja",
+        "createdAt": "2015-01-16T22:47:11.708462Z",
+        "updatedAt": "2026-07-30T21:04:08.614717Z",
+        "description": "Hai! I'm just a nyan that likes to play video games and share the experience with others! My main addictions are chocolate milk and Final Fantasy XIV, but that doesn't mean there aren't more!",
+        "primaryColorHex": "4D0D98",
+        "followers": {
+            "totalCount": 3524
+        },
+        "follows": {
+            "totalCount": 207
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:34:08.406109Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cad2ee7-76de-46b2-8939-b3963beb09d5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb950065-380f-42d5-9cf6-d5027ccf3708-profile_banner-480.jpeg"
+    }
 }

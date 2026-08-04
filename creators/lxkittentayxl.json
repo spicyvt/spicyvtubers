@@ -1,4 +1,27 @@
 {
     "bio": "Just a dorky puppy vtuber that games and cosplays sometimes!🐶🦴🥹💞Business Email: lxkittentayxl@gmail.com",
-    "id": "101086362"
+    "twitch": {
+        "id": "101086362",
+        "login": "lxkittentayxl",
+        "displayName": "lxKittenTayxl",
+        "createdAt": "2015-08-31T08:53:02.105025Z",
+        "updatedAt": "2026-07-31T23:46:03.637922Z",
+        "description": "Just a dorky puppy vtuber that games and cosplays sometimes!🐶🦴🥹💞Business Email: lxkittentayxl@gmail.com",
+        "primaryColorHex": "F48BEE",
+        "followers": {
+            "totalCount": 2248
+        },
+        "follows": {
+            "totalCount": 142
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T01:35:57.805776Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dff583cd-4494-47d6-9974-bd939a35df40-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2338f63d-86c0-4be2-9f85-e20cad8491f0-profile_banner-480.png"
+    }
 }

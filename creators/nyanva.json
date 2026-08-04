@@ -1,4 +1,27 @@
 {
     "bio": "⋆.˚cosmic maine-coon cat vtuber⋆.˚pfp: https://x.com/JJoyBRAT",
-    "id": "904474724"
+    "twitch": {
+        "id": "904474724",
+        "login": "nyanva",
+        "displayName": "nyanva",
+        "createdAt": "2023-04-28T21:07:25.744991Z",
+        "updatedAt": "2026-07-23T12:25:50.774899Z",
+        "description": "⋆.˚cosmic maine-coon cat vtuber⋆.˚pfp: https://x.com/JJoyBRAT",
+        "primaryColorHex": "7014C6",
+        "followers": {
+            "totalCount": 2657
+        },
+        "follows": {
+            "totalCount": 33
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-02T04:29:23.251778Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/abfe874e-4443-4681-bcd3-7eae05ccaf82-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a9ca429-25e0-4624-a0cf-8ae132fd9fe4-profile_banner-480.png"
+    }
 }

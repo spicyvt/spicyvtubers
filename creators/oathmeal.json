@@ -1,4 +1,27 @@
 {
     "bio": "dumb cat 🐱",
-    "id": "186321663"
+    "twitch": {
+        "id": "186321663",
+        "login": "oathmeal",
+        "displayName": "Oathmeal",
+        "createdAt": "2017-12-18T05:58:10.773863Z",
+        "updatedAt": "2026-08-03T02:00:28.992128Z",
+        "description": "dumb cat 🐱",
+        "primaryColorHex": "00FAFA",
+        "followers": {
+            "totalCount": 52838
+        },
+        "follows": {
+            "totalCount": 376
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T13:43:47.240025Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c9f1249-b430-417f-b2c6-9d5be34deba3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/78cd76b9-9084-4956-a57f-9d8be2344ce8-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Greetings! I am Dominic Bytes, the synth walker. I hail from the distant future. Where brains occupy robot bodies, time travel is a trip to the corner store, and the neon glow of our attire is powered by the light of our souls. Join me on a 1.21 gigawatt powered journey of chill vibes!",
-    "id": "763859518"
+    "twitch": {
+        "id": "763859518",
+        "login": "dominicbytes",
+        "displayName": "DominicBytes",
+        "createdAt": "2022-01-19T19:25:18.911884Z",
+        "updatedAt": "2026-07-29T00:51:02.219334Z",
+        "description": "Greetings! I am Dominic Bytes, the synth walker. I hail from the distant future. Where brains occupy robot bodies, time travel is a trip to the corner store, and the neon glow of our attire is powered by the light of our souls. Join me on a 1.21 gigawatt powered journey of chill vibes!",
+        "primaryColorHex": "4B098A",
+        "followers": {
+            "totalCount": 610
+        },
+        "follows": {
+            "totalCount": 770
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:19:01.472922Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22955af9-fb97-4d4d-b50d-d627dc07579d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/394dcef6-d935-47c0-bb12-d4ffa242ff14-profile_banner-480.png"
+    }
 }

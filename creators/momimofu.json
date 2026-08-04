@@ -1,4 +1,27 @@
 {
-    "bio": "🩷 Seiso because I say so 💋🐑",
-    "id": "1257696401"
+    "bio": "Seiso because I say so ⛓💄",
+    "twitch": {
+        "id": "1257696401",
+        "login": "momimofu",
+        "displayName": "Momimofu",
+        "createdAt": "2025-02-15T19:44:07.732323Z",
+        "updatedAt": "2026-08-03T11:56:36.686731Z",
+        "description": "Seiso because I say so ⛓💄",
+        "primaryColorHex": "9213AD",
+        "followers": {
+            "totalCount": 3245
+        },
+        "follows": {
+            "totalCount": 79
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T10:04:01.452673Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c80739-b82d-4446-8245-57f1dcada4cf-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cec0a88-fbf0-4f1c-86e5-3a92a6861c99-profile_banner-480.png"
+    }
 }

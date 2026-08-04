@@ -1,4 +1,27 @@
 {
     "bio": "Just an eldritch deity catgirl from space on the internet. 🐙✨🌌",
-    "id": "469772969"
+    "twitch": {
+        "id": "469772969",
+        "login": "catbeecozy",
+        "displayName": "catbeecozy",
+        "createdAt": "2019-10-28T23:33:02.498144Z",
+        "updatedAt": "2026-08-03T19:53:40.392868Z",
+        "description": "Just an eldritch deity catgirl from space on the internet. 🐙✨🌌",
+        "primaryColorHex": "222854",
+        "followers": {
+            "totalCount": 3968
+        },
+        "follows": {
+            "totalCount": 1457
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:12:00.468769Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/43b4a6f7-972f-415e-afbc-8bca0950c314-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fab2de28-d9f2-4809-9304-3036ffaa678f-profile_banner-480.png"
+    }
 }

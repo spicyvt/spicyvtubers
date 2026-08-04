@@ -1,4 +1,27 @@
 {
     "bio": "bird",
-    "id": "923607314"
+    "twitch": {
+        "id": "923607314",
+        "login": "sweetwingsvr",
+        "displayName": "SweetWingsVR",
+        "createdAt": "2023-06-18T14:16:48.348485Z",
+        "updatedAt": "2026-07-02T00:56:18.690645Z",
+        "description": "bird",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 404
+        },
+        "follows": {
+            "totalCount": 16
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-02T02:29:34.093767Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4e52062-c8a7-41ee-be4f-081fac422cfa-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55e8d2fe-d903-491d-b6ea-cc9328d8c179-profile_banner-480.png"
+    }
 }

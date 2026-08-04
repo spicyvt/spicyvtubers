@@ -1,4 +1,27 @@
 {
     "bio": "Voice Actor",
-    "id": "1208552897"
+    "twitch": {
+        "id": "1208552897",
+        "login": "switchyvalva",
+        "displayName": "SwitchyValVA",
+        "createdAt": "2024-11-28T03:47:02.91341Z",
+        "updatedAt": "2026-08-01T20:08:08.772322Z",
+        "description": "Voice Actor",
+        "primaryColorHex": "884BE4",
+        "followers": {
+            "totalCount": 1370
+        },
+        "follows": {
+            "totalCount": 361
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T21:16:05.221833Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f2c6848-11bf-42ff-ad02-98810a50512a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/11aba81a-6959-4ce0-87e5-2ae99d254a47-profile_banner-480.png"
+    }
 }

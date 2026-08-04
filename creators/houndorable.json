@@ -1,4 +1,27 @@
 {
     "bio": "⛧ head empty whorror hound demon, shapeshifter (cosplayer), & definitely not a cult leader 🐺🐍 variety streamer & wannabe voice artist 💚 business inquiries: houndorablecos@gmail.com 📩",
-    "id": "56888328"
+    "twitch": {
+        "id": "56888328",
+        "login": "houndorable",
+        "displayName": "Houndorable",
+        "createdAt": "2014-02-16T04:59:21.116224Z",
+        "updatedAt": "2026-08-01T23:59:30.174888Z",
+        "description": "⛧ head empty whorror hound demon, shapeshifter (cosplayer), & definitely not a cult leader 🐺🐍 variety streamer & wannabe voice artist 💚 business inquiries: houndorablecos@gmail.com 📩",
+        "primaryColorHex": "8CE600",
+        "followers": {
+            "totalCount": 1947
+        },
+        "follows": {
+            "totalCount": 1071
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T02:49:41.214753Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52601b1a-150c-43a1-8de0-d03d21507e33-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63345b1f-c3a0-4c0f-926f-3f4380c532c3-profile_banner-480.png"
+    }
 }

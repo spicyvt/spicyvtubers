@@ -1,4 +1,27 @@
 {
     "bio": "Hi There~ I'm Mikki Kitta || She/He/They/Any || DogGirl Vtuber || LGBTQ+ Friendly ||English (Working on learning Spanish and Korean) || Not entirely family friendly, but not completely 18+ on here either, I fall somewhere in between",
-    "id": "781371218"
+    "twitch": {
+        "id": "781371218",
+        "login": "mikki_kitta",
+        "displayName": "mikki_kitta",
+        "createdAt": "2022-03-20T00:40:49.652458Z",
+        "updatedAt": "2026-07-31T06:03:38.035526Z",
+        "description": "Hi There~ I'm Mikki Kitta || She/He/They/Any || DogGirl Vtuber || LGBTQ+ Friendly ||English (Working on learning Spanish and Korean) || Not entirely family friendly, but not completely 18+ on here either, I fall somewhere in between",
+        "primaryColorHex": "C8A2C8",
+        "followers": {
+            "totalCount": 444
+        },
+        "follows": {
+            "totalCount": 474
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-13T20:33:20.150235Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a01430e-1767-4ee4-82b1-37c2b8152519-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b99856a-bd9a-4999-8440-06f748ca745d-profile_banner-480.png"
+    }
 }

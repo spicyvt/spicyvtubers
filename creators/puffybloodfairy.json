@@ -1,4 +1,27 @@
 {
-    "bio": "Vtuber I'm a variety streamer. I play mostly rpgs of some sort. I go by Puffy. Please be respectful on my channel. Any business inquiries email me at puffybloodfairy@gmail.com ",
-    "id": "138090055"
+    "bio": "Vtuber I'm a variety streamer. I play mostly rpgs of some sort. I go by Puffy. Please be respectful on my channel. Any business inquiries email me at puffybloodfairy@gmail.com",
+    "twitch": {
+        "id": "138090055",
+        "login": "puffybloodfairy",
+        "displayName": "Puffybloodfairy",
+        "createdAt": "2016-10-27T23:53:32.715564Z",
+        "updatedAt": "2026-08-03T00:14:13.914092Z",
+        "description": "Vtuber I'm a variety streamer. I play mostly rpgs of some sort. I go by Puffy. Please be respectful on my channel. Any business inquiries email me at puffybloodfairy@gmail.com ",
+        "primaryColorHex": "4C0100",
+        "followers": {
+            "totalCount": 1825
+        },
+        "follows": {
+            "totalCount": 707
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T18:45:00.002922Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5af3e07-7697-4a21-a0c4-da233ae74a4b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec02ffde-707d-4cf9-ba6c-0292ee0b6ffc-profile_banner-480.png"
+    }
 }

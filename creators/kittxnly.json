@@ -1,4 +1,27 @@
 {
     "bio": "League of Legends VTuber ✧ 2125 LP Challenger EUW ✧ Highest ranked Woman ✧ Rank 1 Lulu / Soraka ✧ Rank 30 EUW Peak ✧ Business inquiries: Kittxnly@gmail.com",
-    "id": "838724476"
+    "twitch": {
+        "id": "838724476",
+        "login": "kittxnly",
+        "displayName": "kittxnly",
+        "createdAt": "2022-10-19T16:52:51.60775Z",
+        "updatedAt": "2026-07-24T13:57:12.815107Z",
+        "description": "League of Legends VTuber ✧ 2125 LP Challenger EUW ✧ Highest ranked Woman ✧ Rank 1 Lulu / Soraka ✧ Rank 30 EUW Peak ✧ Business inquiries: Kittxnly@gmail.com",
+        "primaryColorHex": "5EBCFF",
+        "followers": {
+            "totalCount": 11021
+        },
+        "follows": {
+            "totalCount": 350
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-24T18:10:24.225428Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e075e2fb-20c3-4a22-8389-436c0040bbdc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/714b0fda-1eac-4c50-a411-d7e2b9a74064-profile_banner-480.png"
+    }
 }

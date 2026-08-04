@@ -1,4 +1,27 @@
 {
     "bio": "Kaiju Waifu VTuber - Call me Maki! Just an over-caffeinated lizard girl.   ✼ Live: Mon / Th / Sat ✼                              Business contact: coffeekaijuu@gmail.com",
-    "id": "430670112"
+    "twitch": {
+        "id": "430670112",
+        "login": "kaiju_waifu",
+        "displayName": "Kaiju_Waifu",
+        "createdAt": "2019-04-17T23:16:38.444452Z",
+        "updatedAt": "2026-08-01T20:30:40.588003Z",
+        "description": "Kaiju Waifu VTuber - Call me Maki! Just an over-caffeinated lizard girl.   ✼ Live: Mon / Th / Sat ✼                              Business contact: coffeekaijuu@gmail.com",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 19529
+        },
+        "follows": {
+            "totalCount": 1014
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T21:57:12.771725Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f464de1-5e61-4a98-baf6-83b644193aab-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55ad05d4-41a3-40da-b103-d434c5d0c57c-profile_banner-480.png"
+    }
 }

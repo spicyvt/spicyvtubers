@@ -1,4 +1,27 @@
 {
     "bio": "Cozy and chaotic! Sussy and sweet!",
-    "id": "916136971"
+    "twitch": {
+        "id": "916136971",
+        "login": "skyanoire",
+        "displayName": "SkyaNoire",
+        "createdAt": "2023-05-30T00:45:10.115867Z",
+        "updatedAt": "2026-07-30T02:44:41.100859Z",
+        "description": "Cozy and chaotic! Sussy and sweet!",
+        "primaryColorHex": "0BC132",
+        "followers": {
+            "totalCount": 1211
+        },
+        "follows": {
+            "totalCount": 189
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:00:33.231982Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6640dd0-d3dc-4437-bcd3-b45bced9e7b5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e5cfca6-a2c7-442d-9cc6-c27e8fe468fc-profile_banner-480.png"
+    }
 }

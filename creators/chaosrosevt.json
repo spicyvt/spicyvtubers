@@ -1,4 +1,27 @@
 {
     "bio": "Hi im Chaosrose! Your local Fae Dragon Vtuber. Im the daughter of the Queen of the Fae Wilds! I hope you like your visit. Dont leave your name though cause those hold power.",
-    "id": "125132478"
+    "twitch": {
+        "id": "125132478",
+        "login": "chaosrosevt",
+        "displayName": "ChaosroseVT",
+        "createdAt": "2016-05-26T00:50:17.12368Z",
+        "updatedAt": "2026-08-03T17:36:08.424685Z",
+        "description": "Hi im Chaosrose! Your local Fae Dragon Vtuber. Im the daughter of the Queen of the Fae Wilds! I hope you like your visit. Dont leave your name though cause those hold power.",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 516
+        },
+        "follows": {
+            "totalCount": 202
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:57:21.71967Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50a9bf46-084a-4550-900c-c4fdc860d61d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5bb7d2f8-06a1-460c-a3bb-f6d3600c1324-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Chalyth also formerly known as Hadoca, pleasure to meet you~18+ channel, minors DNI -Business Email: chalythmortivox@gmail.com",
-    "id": "39002504"
+    "twitch": {
+        "id": "39002504",
+        "login": "chalythmortivox",
+        "displayName": "ChalythMortivox",
+        "createdAt": "2013-01-03T19:20:48.861315Z",
+        "updatedAt": "2026-08-04T00:22:09.275687Z",
+        "description": "Chalyth also formerly known as Hadoca, pleasure to meet you~18+ channel, minors DNI -Business Email: chalythmortivox@gmail.com",
+        "primaryColorHex": "380845",
+        "followers": {
+            "totalCount": 1567
+        },
+        "follows": {
+            "totalCount": 567
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T03:36:10.081484Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c657c41-f45c-43d4-bb1f-0d551ea0bdc5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/49f1c6ea-23f2-44e4-b531-24d213c47d43-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "EnvVtuber, Lamia and adult content creator❤ Any pronouns! 18+ ",
-    "id": "554767020"
+    "bio": "EnvVtuber, Lamia and adult content creator❤ Any pronouns! 18+",
+    "twitch": {
+        "id": "554767020",
+        "login": "serpentinecici",
+        "displayName": "SerpentineCiCi",
+        "createdAt": "2020-07-15T03:13:12.193405Z",
+        "updatedAt": "2026-08-01T22:13:15.990838Z",
+        "description": "EnvVtuber, Lamia and adult content creator❤ Any pronouns! 18+ ",
+        "primaryColorHex": "4E0004",
+        "followers": {
+            "totalCount": 1806
+        },
+        "follows": {
+            "totalCount": 129
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T01:10:55.168257Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19a3f511-70c9-49bf-a3ee-1a394f6be20e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cad979a-f7ec-41a6-b276-665ee35efb40-profile_banner-480.png"
+    }
 }

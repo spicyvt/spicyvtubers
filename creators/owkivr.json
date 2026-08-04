@@ -1,4 +1,27 @@
 {
     "bio": "OWA OWA ＝ ＾ w ＾ ＝ Hellur I'm Owki! A blue haired, horned up, Danish Girl. ;3 Let's get chaotic! Nicknamed Loud Blue for unknown reasons.",
-    "id": "923155633"
+    "twitch": {
+        "id": "923155633",
+        "login": "owkivr",
+        "displayName": "OwkiVR",
+        "createdAt": "2023-06-16T17:03:35.655661Z",
+        "updatedAt": "2026-08-04T00:57:50.727981Z",
+        "description": "OWA OWA ＝ ＾ w ＾ ＝ Hellur I'm Owki! A blue haired, horned up, Danish Girl. ;3 Let's get chaotic! Nicknamed Loud Blue for unknown reasons.",
+        "primaryColorHex": "47B6FF",
+        "followers": {
+            "totalCount": 2657
+        },
+        "follows": {
+            "totalCount": 74
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-23T20:08:44.777056Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cfc1b778-97c2-491c-8f47-f82f43eb3704-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92ebf6b4-d66c-40e2-9ccf-4865b996d2e3-profile_banner-480.png"
+    }
 }

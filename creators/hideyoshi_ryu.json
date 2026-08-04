@@ -1,4 +1,27 @@
 {
     "bio": "Im just a nerdy girl that likes games",
-    "id": "951774980"
+    "twitch": {
+        "id": "951774980",
+        "login": "hideyoshi_ryu",
+        "displayName": "Hideyoshi_Ryu",
+        "createdAt": "2023-09-03T00:23:53.300974Z",
+        "updatedAt": "2026-08-03T00:04:00.93216Z",
+        "description": "Im just a nerdy girl that likes games",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 657
+        },
+        "follows": {
+            "totalCount": 62
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:42:51.634109Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d30c0bb-077d-4fc6-a5f1-a7acfe36b6b1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1635240f-d188-4f19-b7b0-a6937bbb1514-profile_banner-480.jpeg"
+    }
 }

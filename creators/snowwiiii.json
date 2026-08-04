@@ -1,4 +1,27 @@
 {
     "bio": "comfy & always tired ( - ˕ -｡)ᶻ 𝗓 𐰁  WoW, DJ, Gaming & ASMR catgirl vtuber ❄️ #BeKind",
-    "id": "142473728"
+    "twitch": {
+        "id": "142473728",
+        "login": "snowwiiii",
+        "displayName": "Snowwiiii",
+        "createdAt": "2016-12-21T05:25:30.94887Z",
+        "updatedAt": "2026-07-31T21:08:55.349388Z",
+        "description": "comfy & always tired ( - ˕ -｡)ᶻ 𝗓 𐰁  WoW, DJ, Gaming & ASMR catgirl vtuber ❄️ #BeKind",
+        "primaryColorHex": "08F4D1",
+        "followers": {
+            "totalCount": 10452
+        },
+        "follows": {
+            "totalCount": 914
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T23:24:53.18114Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f561a0a8-2300-4ed1-b89a-075b389379a8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5452f897-9933-425c-9b08-bbecfff5b51d-profile_banner-480.jpeg"
+    }
 }

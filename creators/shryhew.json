@@ -1,4 +1,27 @@
 {
     "bio": "I'm Shryhew, Goblin part Shark / Crocodile Macro Vtuber. An Agobgamation if you will. I'm an 18+ creator from Australia. I work fulltime so I usually start my stream around 6-7pm AEST. I stream pretty much everyday unless I have other commitments. Join my Goblin Kissers today! We heading to the top!",
-    "id": "170677168"
+    "twitch": {
+        "id": "170677168",
+        "login": "shryhew",
+        "displayName": "Shryhew",
+        "createdAt": "2017-08-20T12:17:58.523606Z",
+        "updatedAt": "2026-08-03T09:55:50.324335Z",
+        "description": "I'm Shryhew, Goblin part Shark / Crocodile Macro Vtuber. An Agobgamation if you will. I'm an 18+ creator from Australia. I work fulltime so I usually start my stream around 6-7pm AEST. I stream pretty much everyday unless I have other commitments. Join my Goblin Kissers today! We heading to the top!",
+        "primaryColorHex": "4C8D4D",
+        "followers": {
+            "totalCount": 578
+        },
+        "follows": {
+            "totalCount": 77
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T12:24:00.367999Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9211bb5f-2dcb-45a8-9a4c-460ab1aee548-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/94dadc53-295b-4da4-b64b-55ec83f640e0-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hewwo Babes! A Palace Shadow Vtuber with a coffee addiction. Who wants to share a cup at Leblanc with me. (IRL A Poly Non-Binary Black Asian nerd who loves to Squee at all things awesome!)",
-    "id": "60074969"
+    "twitch": {
+        "id": "60074969",
+        "login": "squeeequeenvt",
+        "displayName": "SqueeeQueenVT",
+        "createdAt": "2014-04-02T16:16:06.142186Z",
+        "updatedAt": "2026-07-22T20:08:08.072434Z",
+        "description": "Hewwo Babes! A Palace Shadow Vtuber with a coffee addiction. Who wants to share a cup at Leblanc with me. (IRL A Poly Non-Binary Black Asian nerd who loves to Squee at all things awesome!)",
+        "primaryColorHex": "FA2929",
+        "followers": {
+            "totalCount": 2947
+        },
+        "follows": {
+            "totalCount": 527
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T19:28:16.935299Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0514b2dd-f381-4dbe-a1c4-3c84a764e9a6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9682f0e5-eef7-4d28-8cd9-da4bfddbb76b-profile_banner-480.jpeg"
+    }
 }

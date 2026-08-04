@@ -1,4 +1,27 @@
 {
-    "bio": "I'm a Dragon haha   (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧ ",
-    "id": "65781636"
+    "bio": "I'm a Dragon haha   (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧",
+    "twitch": {
+        "id": "65781636",
+        "login": "goldentatsu",
+        "displayName": "GoldenTatsu",
+        "createdAt": "2014-07-07T03:59:46.663129Z",
+        "updatedAt": "2026-07-22T06:22:26.499127Z",
+        "description": "I'm a Dragon haha   (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧ ",
+        "primaryColorHex": "FF0000",
+        "followers": {
+            "totalCount": 13917
+        },
+        "follows": {
+            "totalCount": 554
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-30T01:23:46.238478Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/967af3ab-1911-471f-b518-0f357d59bdee-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96ecab01-0875-4d9f-addf-5e5d234e09c2-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "Vtuber 🎙️ASMR 🔞 | Mercenaria / Succubus ",
-    "id": "1008075313"
+    "bio": "Vtuber 🎙️ASMR 🔞 | Mercenaria / Succubus",
+    "twitch": {
+        "id": "1008075313",
+        "login": "kaori_blaze",
+        "displayName": "Kaori_Blaze",
+        "createdAt": "2023-12-23T21:36:39.148035Z",
+        "updatedAt": "2026-08-03T06:02:16.74558Z",
+        "description": "Vtuber 🎙️ASMR 🔞 | Mercenaria / Succubus ",
+        "primaryColorHex": "B71A05",
+        "followers": {
+            "totalCount": 6389
+        },
+        "follows": {
+            "totalCount": 53
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T06:54:39.416039Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8652268-1191-4f57-bd65-857d6c223a6c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22710045-4a76-4ea2-b45d-72411968f87f-profile_banner-480.png"
+    }
 }

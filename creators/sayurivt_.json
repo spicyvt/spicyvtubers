@@ -1,4 +1,27 @@
 {
     "bio": "Bienvenido, mi dulce Bomboncito este es nuestro lugar especial 🩷",
-    "id": "913068075"
+    "twitch": {
+        "id": "913068075",
+        "login": "sayurivt_",
+        "displayName": "SayuriVT_",
+        "createdAt": "2023-05-23T02:11:45.012687Z",
+        "updatedAt": "2026-08-01T21:36:44.307245Z",
+        "description": "Bienvenido, mi dulce Bomboncito este es nuestro lugar especial 🩷",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 9932
+        },
+        "follows": {
+            "totalCount": 260
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T21:38:16.014027Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19a68c23-d0d6-4076-862f-b7770ef6aaf6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9fb424a1-e98c-4c44-928c-e10677eab708-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hey! I am your local kitsune, here to enchant you with singing, ASMR, voice acting, and cozy gaming sessions! Step into my shrine, unwind, and let the magic of relaxation take over, please note this shrine is 18+ only! Co-Founder and founding wave member of Astrae Agency, wave Lunaris!",
-    "id": "474706559"
+    "twitch": {
+        "id": "474706559",
+        "login": "akiyokumivt",
+        "displayName": "AkiyoKumiVT",
+        "createdAt": "2019-11-26T05:36:25.187497Z",
+        "updatedAt": "2026-08-02T21:28:40.181389Z",
+        "description": "Hey! I am your local kitsune, here to enchant you with singing, ASMR, voice acting, and cozy gaming sessions! Step into my shrine, unwind, and let the magic of relaxation take over, please note this shrine is 18+ only! Co-Founder and founding wave member of Astrae Agency, wave Lunaris!",
+        "primaryColorHex": "B890B1",
+        "followers": {
+            "totalCount": 926
+        },
+        "follows": {
+            "totalCount": 354
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T19:26:25.756543Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf0e9afd-5a8d-4a94-a2ed-a18b4e583851-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb41899c-90ea-427f-bf51-14efc62e5533-profile_banner-480.png"
+    }
 }

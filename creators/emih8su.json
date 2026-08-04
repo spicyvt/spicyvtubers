@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "706111184"
+    "twitch": {
+        "id": "706111184",
+        "login": "emih8su",
+        "displayName": "Emih8su",
+        "createdAt": "2021-07-11T00:03:07.667738Z",
+        "updatedAt": "2026-08-03T01:57:37.948303Z",
+        "description": "",
+        "primaryColorHex": "5D0200",
+        "followers": {
+            "totalCount": 709
+        },
+        "follows": {
+            "totalCount": 102
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T02:33:49.775407Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c72f9b2b-bd85-4fe7-be32-b48228e2d850-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50e609bd-689d-4f53-8a38-e57b30ce18c4-profile_banner-480.png"
+    }
 }

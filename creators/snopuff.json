@@ -1,4 +1,27 @@
 {
     "bio": "Hello and welcome to my palace | 18+ STREAMER | Shapeshifting Demonic Dragon Waifu | Twitch Affiliate | Sussy seiso that will pronounce your name wrong",
-    "id": "36432101"
+    "twitch": {
+        "id": "36432101",
+        "login": "snopuff",
+        "displayName": "Snopuff",
+        "createdAt": "2012-09-24T20:44:10.328552Z",
+        "updatedAt": "2026-08-02T05:43:12.203338Z",
+        "description": "Hello and welcome to my palace | 18+ STREAMER | Shapeshifting Demonic Dragon Waifu | Twitch Affiliate | Sussy seiso that will pronounce your name wrong",
+        "primaryColorHex": "1345AA",
+        "followers": {
+            "totalCount": 4960
+        },
+        "follows": {
+            "totalCount": 2000
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T09:46:52.782366Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9789238c-fbe7-4a48-ba39-c811181e76e2-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62efe315-a5de-4392-9c96-6785608d3cb7-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Cat Vtuber with a Big Bouncy Personality =3",
-    "id": "81108663"
+    "twitch": {
+        "id": "81108663",
+        "login": "catinajacket",
+        "displayName": "CatinaJacket",
+        "createdAt": "2015-01-28T02:48:23.260427Z",
+        "updatedAt": "2026-07-28T21:10:52.991067Z",
+        "description": "Cat Vtuber with a Big Bouncy Personality =3",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 1795
+        },
+        "follows": {
+            "totalCount": 105
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T22:13:46.346949Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/17eb9152-e2ca-4a91-86b8-fd8457fbd2e9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5d0763a-d92e-4bbb-82a7-aaa6ed68bedd-profile_banner-480.png"
+    }
 }

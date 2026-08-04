@@ -1,4 +1,27 @@
 {
     "bio": "Trash at games, Fun to laugh at, xoxo",
-    "id": "147351573"
+    "twitch": {
+        "id": "147351573",
+        "login": "filthyfangirl",
+        "displayName": "filthyfangirl",
+        "createdAt": "2017-02-09T17:11:41.512849Z",
+        "updatedAt": "2026-08-01T08:49:06.731496Z",
+        "description": "Trash at games, Fun to laugh at, xoxo",
+        "primaryColorHex": "E15279",
+        "followers": {
+            "totalCount": 6427
+        },
+        "follows": {
+            "totalCount": 1256
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T21:52:10.598965Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a2bfcaa-6994-46c4-bbc7-374e26d8286d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9a3b2696-15d0-444e-9347-e26a5080cd7d-profile_banner-480.png"
+    }
 }

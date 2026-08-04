@@ -1,4 +1,27 @@
 {
     "bio": "🔞18+ only! 🔴 She/Her/Hers 🔴 - Owl Girl VTuber - British - 27 Years Dumb 🔞",
-    "id": "178462950"
+    "twitch": {
+        "id": "178462950",
+        "login": "trirealm",
+        "displayName": "TriRealm",
+        "createdAt": "2017-10-20T17:01:14.85624Z",
+        "updatedAt": "2026-07-29T07:33:14.200267Z",
+        "description": "🔞18+ only! 🔴 She/Her/Hers 🔴 - Owl Girl VTuber - British - 27 Years Dumb 🔞",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 723
+        },
+        "follows": {
+            "totalCount": 291
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T15:42:50.167107Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/01090f63-f045-43d6-8e4a-76b054ea4183-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/203b568a-635d-41a3-a1b8-815037c345be-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "i know i sound drunk all the time...",
-    "id": "263448503"
+    "twitch": {
+        "id": "263448503",
+        "login": "daph",
+        "displayName": "daph",
+        "createdAt": "2018-09-29T09:15:35.031163Z",
+        "updatedAt": "2026-08-03T03:40:49.134107Z",
+        "description": "i know i sound drunk all the time...",
+        "primaryColorHex": "FFB9E3",
+        "followers": {
+            "totalCount": 68568
+        },
+        "follows": {
+            "totalCount": 435
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T06:20:28.632035Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0137318a-da60-4e41-9f0d-49e1ebd097d5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2fd9ae0-91c9-4229-900e-684ef8bf8429-profile_banner-480.png"
+    }
 }

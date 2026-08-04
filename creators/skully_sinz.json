@@ -1,4 +1,27 @@
 {
     "bio": "Just an orc who is trying to find her way in this world.  Come by for a laugh while I struggle. Giving \"Hanging out in your friends basement vibes\" -- I'll bring the Soda",
-    "id": "599258318"
+    "twitch": {
+        "id": "599258318",
+        "login": "skully_sinz",
+        "displayName": "Skully_Sinz",
+        "createdAt": "2020-10-24T01:12:25.407224Z",
+        "updatedAt": "2026-08-01T21:24:05.734815Z",
+        "description": "Just an orc who is trying to find her way in this world.  Come by for a laugh while I struggle. Giving \"Hanging out in your friends basement vibes\" -- I'll bring the Soda",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 811
+        },
+        "follows": {
+            "totalCount": 127
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:19:11.682714Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b008b41-743b-46b5-8b80-e7a9a70f622c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/708cab53-8092-4900-9429-c043f0090057-profile_banner-480.png"
+    }
 }

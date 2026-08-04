@@ -1,4 +1,27 @@
 {
     "bio": "Aspiring VtuberFull time idiot. I stream almost everyday at 10pm GMT+8",
-    "id": "1040038221"
+    "twitch": {
+        "id": "1040038221",
+        "login": "aurievermillionvt",
+        "displayName": "aurievermillionvt",
+        "createdAt": "2024-02-21T01:54:32.127635Z",
+        "updatedAt": "2026-07-31T14:02:53.321048Z",
+        "description": "Aspiring VtuberFull time idiot. I stream almost everyday at 10pm GMT+8",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 697
+        },
+        "follows": {
+            "totalCount": 216
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T16:15:05.235323Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23f0ec81-aba1-46e2-93a6-2735f82418d6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b382b1d-19c4-4871-8578-67526d3a8279-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Eldritch Space Pirate Vtuber just plundering his way across the universe looking for fresh meat to join his crewthulu!",
-    "id": "625295357"
+    "twitch": {
+        "id": "625295357",
+        "login": "adonisthuul",
+        "displayName": "AdonisThuul",
+        "createdAt": "2020-12-24T04:30:21.741526Z",
+        "updatedAt": "2026-07-31T17:49:07.209988Z",
+        "description": "Eldritch Space Pirate Vtuber just plundering his way across the universe looking for fresh meat to join his crewthulu!",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 3813
+        },
+        "follows": {
+            "totalCount": 1434
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T15:42:48.092004Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/132f4ed9-277b-489b-81b3-cffa0375d67c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22fb2a7e-a80c-48a2-901d-8e8efbe48413-profile_banner-480.jpeg"
+    }
 }

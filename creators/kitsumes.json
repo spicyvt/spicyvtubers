@@ -1,4 +1,27 @@
 {
-    "bio": "hi hi! im kits vesper (aka kits/kitsumes) & i am a goth fox-girl shinigami vtuber ",
-    "id": "466016692"
+    "bio": "hi hi! im kits vesper (aka kits/kitsumes) & i am a goth shinigami vtuber",
+    "twitch": {
+        "id": "466016692",
+        "login": "kitsumes",
+        "displayName": "kitsumes",
+        "createdAt": "2019-10-08T16:41:50.418603Z",
+        "updatedAt": "2026-08-02T23:20:53.928421Z",
+        "description": "hi hi! im kits vesper (aka kits/kitsumes) & i am a goth shinigami vtuber ",
+        "primaryColorHex": "FFBBF2",
+        "followers": {
+            "totalCount": 637
+        },
+        "follows": {
+            "totalCount": 430
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-19T02:28:21.812839Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f754590-1711-4c2a-9f43-df5bc39b8d80-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf30e816-b2e9-4d34-863f-2fe1f1934ea0-profile_banner-480.png"
+    }
 }

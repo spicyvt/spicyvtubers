@@ -1,4 +1,27 @@
 {
     "bio": "Hi I'm Sylvee, a wolf demon VTuber and I love making people smile! I stream a lot of FFXIV with a little variety sprinkled in :D",
-    "id": "19504039"
+    "twitch": {
+        "id": "19504039",
+        "login": "sylveevt",
+        "displayName": "SylveeVT",
+        "createdAt": "2011-01-14T02:15:30.390862Z",
+        "updatedAt": "2026-07-26T02:18:38.347216Z",
+        "description": "Hi I'm Sylvee, a wolf demon VTuber and I love making people smile! I stream a lot of FFXIV with a little variety sprinkled in :D",
+        "primaryColorHex": "FFFFFF",
+        "followers": {
+            "totalCount": 28446
+        },
+        "follows": {
+            "totalCount": 228
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-14T05:18:39.035508Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/80022a79-ac79-40e6-aa53-cfcee940f019-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ae6e2d4-0a12-4969-a3cb-beabeb47500a-profile_banner-480.png"
+    }
 }

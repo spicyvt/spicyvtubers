@@ -1,4 +1,27 @@
 {
     "bio": "Hihi ! My name is Lola! I like to play video games and have fun!I Working on a stream schedule :3",
-    "id": "590299993"
+    "twitch": {
+        "id": "590299993",
+        "login": "fairlyoddlola",
+        "displayName": "fairlyoddlola",
+        "createdAt": "2020-09-30T01:08:59.621152Z",
+        "updatedAt": "2026-07-28T17:16:29.198713Z",
+        "description": "Hihi ! My name is Lola! I like to play video games and have fun!I Working on a stream schedule :3",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 50
+        },
+        "follows": {
+            "totalCount": 46
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T18:23:54.417489Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/57fb025c-2958-41ff-b313-fb1bd6133ad3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6254a0b-fc5f-4528-ab25-3e15c713229f-profile_banner-480.png"
+    }
 }

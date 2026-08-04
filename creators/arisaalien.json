@@ -1,4 +1,27 @@
 {
     "bio": "Meu nome é Arisa e moro no Brasil, estou estudando Artes Visuais e trabalho como artista freelancer.",
-    "id": "604930304"
+    "twitch": {
+        "id": "604930304",
+        "login": "arisaalien",
+        "displayName": "ArisaAlien",
+        "createdAt": "2020-11-08T01:08:01.43551Z",
+        "updatedAt": "2026-07-05T16:48:52.948069Z",
+        "description": "Meu nome é Arisa e moro no Brasil, estou estudando Artes Visuais e trabalho como artista freelancer.",
+        "primaryColorHex": "FFDBE7",
+        "followers": {
+            "totalCount": 639
+        },
+        "follows": {
+            "totalCount": 120
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2024-09-14T20:28:25.846019Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34875c39-33d4-4b64-a874-69a61d32600e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4fad7612-ac75-4c85-ae90-cda17bad96b2-profile_banner-480.png"
+    }
 }

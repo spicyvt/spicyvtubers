@@ -1,4 +1,27 @@
 {
     "bio": "Your living dolly wife brought to life! Silly sister like and totally sane! Please take me home, i’ll keep you company, eternally!👁️🎀⛓️",
-    "id": "428445815"
+    "twitch": {
+        "id": "428445815",
+        "login": "littleniivt",
+        "displayName": "LittleNiiVT",
+        "createdAt": "2019-04-06T22:25:17.956019Z",
+        "updatedAt": "2026-07-17T01:02:58.519533Z",
+        "description": "Your living dolly wife brought to life! Silly sister like and totally sane! Please take me home, i’ll keep you company, eternally!👁️🎀⛓️",
+        "primaryColorHex": "FF88E3",
+        "followers": {
+            "totalCount": 39835
+        },
+        "follows": {
+            "totalCount": 205
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:40:54.517559Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7d0f5d4-1de6-41ef-a77c-352d01390a78-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a0df83d-79ee-4e5f-9ef5-d058601d1782-profile_banner-480.png"
+    }
 }

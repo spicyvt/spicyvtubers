@@ -1,4 +1,27 @@
 {
     "bio": "jalumfo",
-    "id": "525322083"
+    "twitch": {
+        "id": "525322083",
+        "login": "jouffa",
+        "displayName": "jouffa",
+        "createdAt": "2020-05-04T09:52:31.332071Z",
+        "updatedAt": "2026-08-03T17:34:20.260303Z",
+        "description": "jalumfo",
+        "primaryColorHex": "F0196B",
+        "followers": {
+            "totalCount": 51848
+        },
+        "follows": {
+            "totalCount": 156
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:58:00.458133Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef3f5c17-c4de-4a48-a16b-d921402de104-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/afb1f70e-c41e-4cf7-a30d-ea96b2736d25-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Welcome, little cultist. Are you sure you don't want to step into my confession booth? 👅 🧎",
-    "id": "1255298985"
+    "twitch": {
+        "id": "1255298985",
+        "login": "phylaeinrose",
+        "displayName": "PhylaEinrose",
+        "createdAt": "2025-02-12T17:15:46.402239Z",
+        "updatedAt": "2026-08-03T13:32:13.673566Z",
+        "description": "Welcome, little cultist. Are you sure you don't want to step into my confession booth? 👅 🧎",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 4637
+        },
+        "follows": {
+            "totalCount": 31
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:20:58.440588Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de650cb3-7be0-4642-840a-010a30fd5645-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8850fba1-1f18-4281-928f-73586494b0bc-profile_banner-480.png"
+    }
 }

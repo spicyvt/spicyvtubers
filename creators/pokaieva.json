@@ -1,4 +1,27 @@
 {
     "bio": "Hi I'm Pokaie! I'm an 18+ chaotic femboy Vtuber that does variety content.",
-    "id": "1299598677"
+    "twitch": {
+        "id": "1299598677",
+        "login": "pokaieva",
+        "displayName": "PokaieVA",
+        "createdAt": "2025-04-17T21:21:25.293108Z",
+        "updatedAt": "2026-08-02T00:01:20.792381Z",
+        "description": "Hi I'm Pokaie! I'm an 18+ chaotic femboy Vtuber that does variety content.",
+        "primaryColorHex": "12EBC4",
+        "followers": {
+            "totalCount": 164
+        },
+        "follows": {
+            "totalCount": 144
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:01:03.244661Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/54834150-1414-44c8-a25e-f7b2ed88993f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b50aa3aa-a7aa-40de-ba43-ccc0613b7518-profile_banner-480.png"
+    }
 }

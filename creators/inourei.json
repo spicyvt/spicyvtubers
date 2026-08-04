@@ -1,4 +1,27 @@
 {
     "bio": "autistic, chaotic, canadian vampire; here to make you smile! albert wesker's canonical wife  vampinourei@gmail.com for inquiries!",
-    "id": "428383411"
+    "twitch": {
+        "id": "428383411",
+        "login": "inourei",
+        "displayName": "inourei",
+        "createdAt": "2019-04-06T17:54:05.317897Z",
+        "updatedAt": "2026-07-31T23:29:57.439264Z",
+        "description": "autistic, chaotic, canadian vampire; here to make you smile! albert wesker's canonical wife  vampinourei@gmail.com for inquiries!",
+        "primaryColorHex": "D53C9D",
+        "followers": {
+            "totalCount": 1632
+        },
+        "follows": {
+            "totalCount": 245
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T00:44:41.199961Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/21f9df20-3592-4736-80d6-27204497c4da-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/203c9035-855b-4f2f-9a25-e5826b7e38e9-profile_banner-480.jpeg"
+    }
 }

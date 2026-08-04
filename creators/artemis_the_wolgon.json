@@ -1,4 +1,27 @@
 {
     "bio": "Mainly Plays VRChat but i occasionally stream War Thunder and other games.",
-    "id": "79057158"
+    "twitch": {
+        "id": "79057158",
+        "login": "artemis_the_wolgon",
+        "displayName": "Artemis_The_Wolgon",
+        "createdAt": "2015-01-06T08:56:37.963956Z",
+        "updatedAt": "2026-03-08T02:17:39.141598Z",
+        "description": "Mainly Plays VRChat but i occasionally stream War Thunder and other games.",
+        "primaryColorHex": "47FF4A",
+        "followers": {
+            "totalCount": 2170
+        },
+        "follows": {
+            "totalCount": 1091
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-09-28T00:20:39.605017Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ee676b7-868c-4ead-9da2-c170e95b1811-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7feceed3-79cf-48ba-8c7e-2eaea07f3a46-profile_banner-480.png"
+    }
 }

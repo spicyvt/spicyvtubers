@@ -1,4 +1,27 @@
 {
     "bio": "Silly wolf/succubus Vtuber does dumb stuff to entertain you 🌙💜 | Business womfy3103@gmail.com",
-    "id": "263446776"
+    "twitch": {
+        "id": "263446776",
+        "login": "womfyy",
+        "displayName": "womfyy",
+        "createdAt": "2018-09-29T09:03:54.746038Z",
+        "updatedAt": "2026-08-03T12:11:32.297519Z",
+        "description": "Silly wolf/succubus Vtuber does dumb stuff to entertain you 🌙💜 | Business womfy3103@gmail.com",
+        "primaryColorHex": "DAA3FF",
+        "followers": {
+            "totalCount": 10859
+        },
+        "follows": {
+            "totalCount": 433
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T10:08:42.150621Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ebe4c80a-5746-47b6-88c2-a54677d781de-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7da12518-c1c8-4e21-9312-89852217d80c-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Corpse Vtuber with a passion for plastic, fps and mmos 🖤⛓️",
-    "id": "36976106"
+    "twitch": {
+        "id": "36976106",
+        "login": "queenswrath",
+        "displayName": "QueensWrath",
+        "createdAt": "2012-10-17T03:13:26.890021Z",
+        "updatedAt": "2026-08-01T20:01:56.528801Z",
+        "description": "Corpse Vtuber with a passion for plastic, fps and mmos 🖤⛓️",
+        "primaryColorHex": "A0E095",
+        "followers": {
+            "totalCount": 2159
+        },
+        "follows": {
+            "totalCount": 1290
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T01:11:09.788765Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ec3b27a-9997-4c43-a76e-e1c3293688d6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2b878a0-4408-4acd-8a40-c51f8b0f1418-profile_banner-480.png"
+    }
 }

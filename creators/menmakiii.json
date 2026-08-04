@@ -1,4 +1,27 @@
 {
     "bio": "I scream a lot I'm sorry",
-    "id": "741744172"
+    "twitch": {
+        "id": "741744172",
+        "login": "menmakiii",
+        "displayName": "menmakiii",
+        "createdAt": "2021-11-09T22:26:11.335045Z",
+        "updatedAt": "2026-08-01T01:31:03.478697Z",
+        "description": "I scream a lot I'm sorry",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 24266
+        },
+        "follows": {
+            "totalCount": 223
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T03:33:44.374617Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca0889a6-fec7-4244-b59b-da976c46ab45-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3922dbc1-f14a-4fe8-9c97-7b07328de0d9-profile_banner-480.png"
+    }
 }

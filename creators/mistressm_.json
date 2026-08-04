@@ -1,4 +1,27 @@
 {
     "bio": "Hiya I am the lewd and wonderful Mistress M. I am a succubus down on her luck working her way to the top! I mostly stream Games I dabble in most genres. from rts to fps",
-    "id": "880421668"
+    "twitch": {
+        "id": "880421668",
+        "login": "mistressm_",
+        "displayName": "MistressM_",
+        "createdAt": "2023-02-09T18:47:26.950972Z",
+        "updatedAt": "2026-08-03T17:27:18.999948Z",
+        "description": "Hiya I am the lewd and wonderful Mistress M. I am a succubus down on her luck working her way to the top! I mostly stream Games I dabble in most genres. from rts to fps",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 4019
+        },
+        "follows": {
+            "totalCount": 217
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T05:56:44.362324Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa82dc73-0d61-44f1-9b9b-60dd66742ef9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/863d1958-dd37-425e-b038-2d166c443b81-profile_banner-480.jpeg"
+    }
 }

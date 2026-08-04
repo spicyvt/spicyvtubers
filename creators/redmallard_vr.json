@@ -1,4 +1,27 @@
 {
     "bio": "girlfail vtuber | hag who pretends to be young still | no i'm not homeless you're homeless!",
-    "id": "1491631048"
+    "twitch": {
+        "id": "1491631048",
+        "login": "redmallard_vr",
+        "displayName": "RedMallard_VR",
+        "createdAt": "2026-05-02T14:07:12.328108Z",
+        "updatedAt": "2026-06-29T16:23:26.672063Z",
+        "description": "girlfail vtuber | hag who pretends to be young still | no i'm not homeless you're homeless!",
+        "primaryColorHex": "140A09",
+        "followers": {
+            "totalCount": 14
+        },
+        "follows": {
+            "totalCount": 28
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-29T16:25:25.571161Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c07b5c06-5f86-4fa9-9054-cb848edcd5b7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb6fa771-e35b-458a-b4e1-462ff969185c-profile_banner-480.png"
+    }
 }

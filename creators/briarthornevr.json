@@ -1,4 +1,27 @@
 {
     "bio": "Briar is an autistic, transgender, v-tuber catgirl! I love anime, nerdcore, and gaming. Bring chill vibes or perish! Please be nice to me!~ https://thrn.co/u/zaynakitty",
-    "id": "66438109"
+    "twitch": {
+        "id": "66438109",
+        "login": "briarthornevr",
+        "displayName": "BriarThorneVR",
+        "createdAt": "2014-07-16T00:39:19.107873Z",
+        "updatedAt": "2026-07-28T20:55:48.598846Z",
+        "description": "Briar is an autistic, transgender, v-tuber catgirl! I love anime, nerdcore, and gaming. Bring chill vibes or perish! Please be nice to me!~ https://thrn.co/u/zaynakitty",
+        "primaryColorHex": "60418D",
+        "followers": {
+            "totalCount": 1706
+        },
+        "follows": {
+            "totalCount": 1221
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T23:27:07.04357Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63538f65-e6a5-428a-bedb-6405772dffce-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a77103-4c85-4ba8-979e-b338c9d14b74-profile_banner-480.png"
+    }
 }

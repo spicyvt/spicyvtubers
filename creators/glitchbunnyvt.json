@@ -1,4 +1,27 @@
 {
     "bio": "Hi I'm Glitch Bunny! ✧༺💜༻✧Cyber Demon Bunny Who Loves to Play and Voice Video Games!💜 I Love Horror Games And Making Music ! 💜Voice Actor and A Professional Loser at Games!",
-    "id": "1069606487"
+    "twitch": {
+        "id": "1069606487",
+        "login": "glitchbunnyvt",
+        "displayName": "GlitchBunnyVT",
+        "createdAt": "2024-04-20T23:53:51.245785Z",
+        "updatedAt": "2026-08-02T23:27:21.29694Z",
+        "description": "Hi I'm Glitch Bunny! ✧༺💜༻✧Cyber Demon Bunny Who Loves to Play and Voice Video Games!💜 I Love Horror Games And Making Music ! 💜Voice Actor and A Professional Loser at Games!",
+        "primaryColorHex": "A476E8",
+        "followers": {
+            "totalCount": 6945
+        },
+        "follows": {
+            "totalCount": 238
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:08:49.176099Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2169f49e-6b82-45bb-b71e-51af292455ec-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d77c3044-9e88-454e-81bb-c26b964ac6e8-profile_banner-480.jpeg"
+    }
 }

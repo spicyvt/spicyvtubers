@@ -1,4 +1,27 @@
 {
     "bio": "♡ Your local 18+ Mommy obsessed with sharks ♡ Internet Flirt ♡ The Deity of Whor-or ♡ Business Email: makomommyvt@gmail.com ♡",
-    "id": "798410655"
+    "twitch": {
+        "id": "798410655",
+        "login": "makomommyvt",
+        "displayName": "MakoMommyVT",
+        "createdAt": "2022-05-30T22:42:43.141379Z",
+        "updatedAt": "2026-08-01T02:41:08.038121Z",
+        "description": "♡ Your local 18+ Mommy obsessed with sharks ♡ Internet Flirt ♡ The Deity of Whor-or ♡ Business Email: makomommyvt@gmail.com ♡",
+        "primaryColorHex": "325689",
+        "followers": {
+            "totalCount": 4940
+        },
+        "follows": {
+            "totalCount": 429
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-20T04:10:11.32555Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/da3fa2ad-ea52-4426-a349-0fd236c9f00b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79cc67f-ad0b-4faa-ae3d-1977bc086d4c-profile_banner-480.jpeg"
+    }
 }

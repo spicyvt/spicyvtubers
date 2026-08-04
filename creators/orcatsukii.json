@@ -1,4 +1,27 @@
 {
     "bio": "♡ Name is Orca! I am a Canadian Orca Whale who loves all things horror and cute. I hope you enjoy your time and don't worry....I don't bite much ♡",
-    "id": "507116720"
+    "twitch": {
+        "id": "507116720",
+        "login": "orcatsukii",
+        "displayName": "OrcaTsukii",
+        "createdAt": "2020-04-02T01:36:12.895198Z",
+        "updatedAt": "2026-08-02T19:31:57.381735Z",
+        "description": "♡ Name is Orca! I am a Canadian Orca Whale who loves all things horror and cute. I hope you enjoy your time and don't worry....I don't bite much ♡",
+        "primaryColorHex": "E75313",
+        "followers": {
+            "totalCount": 15986
+        },
+        "follows": {
+            "totalCount": 2000
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T23:08:20.131917Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e7f7c15-e53c-4676-b783-af3cd26e4dc1-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/18afdacf-5887-4e6e-aba0-291bd5b26d63-profile_banner-480.png"
+    }
 }

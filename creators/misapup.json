@@ -1,4 +1,27 @@
 {
     "bio": "just your stinky vampire puppy trying her best ૮ • ﻌ - ა | 18+",
-    "id": "913828896"
+    "twitch": {
+        "id": "913828896",
+        "login": "misapup",
+        "displayName": "misapup",
+        "createdAt": "2023-05-25T04:09:14.540636Z",
+        "updatedAt": "2026-08-02T20:44:54.354636Z",
+        "description": "just your stinky vampire puppy trying her best ૮ • ﻌ - ა | 18+",
+        "primaryColorHex": "790E2A",
+        "followers": {
+            "totalCount": 2577
+        },
+        "follows": {
+            "totalCount": 343
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T20:45:15.559412Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffb97941-61c2-402d-a0fb-f516b5aa9902-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2a0d197-acf7-4659-bfc4-b11c53159327-profile_banner-480.png"
+    }
 }

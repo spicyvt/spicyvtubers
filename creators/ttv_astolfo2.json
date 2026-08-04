@@ -1,4 +1,27 @@
 {
     "bio": "hi im astolfo and i stream any game i have installed and also make sure to check at my wishlist at https://throne.com/ttv_astolfo",
-    "id": "465720285"
+    "twitch": {
+        "id": "465720285",
+        "login": "ttv_astolfo2",
+        "displayName": "ttv_astolfo2",
+        "createdAt": "2019-10-06T13:46:14.003736Z",
+        "updatedAt": "2026-07-30T03:22:06.519263Z",
+        "description": "hi im astolfo and i stream any game i have installed and also make sure to check at my wishlist at https://throne.com/ttv_astolfo",
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 198
+        },
+        "follows": {
+            "totalCount": 300
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T03:21:24.235446Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1661ba15-6605-4b45-8220-6dbf7bfff424-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31d44ecf-965c-417c-8a5d-36de4b80d463-profile_banner-480.png"
+    }
 }

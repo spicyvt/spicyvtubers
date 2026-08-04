@@ -1,4 +1,27 @@
 {
     "bio": "【🦴Hikikomori Hellhound🍃】 if depression was a VTuber | business inquiries: hexhellstarcontact@gmail.com",
-    "id": "1153792951"
+    "twitch": {
+        "id": "1153792951",
+        "login": "hexhellstar",
+        "displayName": "HexHellstar",
+        "createdAt": "2024-09-29T18:59:09.980712Z",
+        "updatedAt": "2026-08-03T00:32:19.334644Z",
+        "description": "【🦴Hikikomori Hellhound🍃】 if depression was a VTuber | business inquiries: hexhellstarcontact@gmail.com",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 505
+        },
+        "follows": {
+            "totalCount": 42
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:01:33.586198Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5064ce2-5e33-47fe-894b-34655cdb2e94-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d87df7ce-19e8-46f3-b161-f4b93492b3f9-profile_banner-480.png"
+    }
 }

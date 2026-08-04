@@ -1,4 +1,27 @@
 {
     "bio": "Hi Hi My name is Minnie.  I am a sexy/cutie bunny sensei who promotes self care and self love while having fun. She plays a variety of games and does reactions.",
-    "id": "808377248"
+    "twitch": {
+        "id": "808377248",
+        "login": "missminnievt",
+        "displayName": "MissMinnieVT",
+        "createdAt": "2022-07-12T02:17:44.838866Z",
+        "updatedAt": "2026-07-21T02:49:21.496283Z",
+        "description": "Hi Hi My name is Minnie.  I am a sexy/cutie bunny sensei who promotes self care and self love while having fun. She plays a variety of games and does reactions.",
+        "primaryColorHex": "996AE0",
+        "followers": {
+            "totalCount": 442
+        },
+        "follows": {
+            "totalCount": 155
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-21T05:08:54.535429Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4c9fcbe-114f-4786-a87c-f733b3880043-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bb99df6-2fe8-44d9-88a4-7df44f0af9d7-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hi, I’m Eriana — your favorite cringe-core trans wolf girl howling through VRChat and beyond 💜I stream virtual chaos, cozy vibes, and LGBTQ+ joy with a side of dark aesthetic and unhinged energy. Expect a wild mix of heartfelt convos, cursed memes, and fashionably feral fits.",
-    "id": "160883668"
+    "twitch": {
+        "id": "160883668",
+        "login": "erianavr",
+        "displayName": "ErianaVR",
+        "createdAt": "2017-06-20T20:31:54.840132Z",
+        "updatedAt": "2026-07-12T00:24:01.827456Z",
+        "description": "Hi, I’m Eriana — your favorite cringe-core trans wolf girl howling through VRChat and beyond 💜I stream virtual chaos, cozy vibes, and LGBTQ+ joy with a side of dark aesthetic and unhinged energy. Expect a wild mix of heartfelt convos, cursed memes, and fashionably feral fits.",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 1187
+        },
+        "follows": {
+            "totalCount": 523
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-12T03:52:01.108966Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a736db3b-6d1b-48cb-ae9c-5b513e9bc73c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84ad95b2-c6b9-4d3d-9f14-7c6c08d2a321-profile_banner-480.png"
+    }
 }

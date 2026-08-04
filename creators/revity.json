@@ -1,4 +1,27 @@
 {
     "bio": "The thirstiest, nerdiest deer you'll ever meet | Hoyoverse content creator, RPG and gacha enjoyer, professional yapper | Streams 3-4 times a week @ 4 PM PDT | Business Inquiries: revityvt@gmail.com",
-    "id": "175130490"
+    "twitch": {
+        "id": "175130490",
+        "login": "revity",
+        "displayName": "Revity",
+        "createdAt": "2017-09-22T22:59:12.698539Z",
+        "updatedAt": "2026-08-01T23:23:08.400937Z",
+        "description": "The thirstiest, nerdiest deer you'll ever meet | Hoyoverse content creator, RPG and gacha enjoyer, professional yapper | Streams 3-4 times a week @ 4 PM PDT | Business Inquiries: revityvt@gmail.com",
+        "primaryColorHex": "AA95ED",
+        "followers": {
+            "totalCount": 17600
+        },
+        "follows": {
+            "totalCount": 726
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:10:52.64439Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/251bfdcb-c1dd-41ce-8442-3b5ec8003ef5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ccd173c-a7ad-4977-89cf-428416c5e38a-profile_banner-480.png"
+    }
 }

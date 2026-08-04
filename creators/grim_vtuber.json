@@ -1,4 +1,27 @@
 {
     "bio": "Hey there, sinful souls~ 😈 I’m Grim, your incubus rockstar, variety streamer, and proud lewdtuber🎸🔥 Whether you're here for the sultry vibes, killer tunes, or a wild ride of laughs and chaos, I’m here to make your day a whole lot steamier. 😉",
-    "id": "600570104"
+    "twitch": {
+        "id": "600570104",
+        "login": "grim_vtuber",
+        "displayName": "Grim_Vtuber",
+        "createdAt": "2020-10-27T15:42:26.83184Z",
+        "updatedAt": "2026-07-30T21:16:10.241251Z",
+        "description": "Hey there, sinful souls~ 😈 I’m Grim, your incubus rockstar, variety streamer, and proud lewdtuber🎸🔥 Whether you're here for the sultry vibes, killer tunes, or a wild ride of laughs and chaos, I’m here to make your day a whole lot steamier. 😉",
+        "primaryColorHex": "750000",
+        "followers": {
+            "totalCount": 609
+        },
+        "follows": {
+            "totalCount": 1997
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T02:53:26.442307Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/037fe070-cbec-4b18-bc89-f610cffc6377-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81ae88e-afc9-4e29-acd8-070539a83dac-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Tu vampira y demonio~ ♥ ♕ ASMR Princess ♕",
-    "id": "798425464"
+    "twitch": {
+        "id": "798425464",
+        "login": "zuriekyun",
+        "displayName": "ZurieKyun",
+        "createdAt": "2022-05-31T00:23:47.451468Z",
+        "updatedAt": "2026-08-02T00:55:46.861562Z",
+        "description": "Tu vampira y demonio~ ♥ ♕ ASMR Princess ♕",
+        "primaryColorHex": "A02D2B",
+        "followers": {
+            "totalCount": 6935
+        },
+        "follows": {
+            "totalCount": 53
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T04:20:54.800865Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc466447-5c5f-4fb0-b4eb-06435876ccbb-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92dae5ed-d8fe-441e-8d49-bb30d6e607e2-profile_banner-480.jpeg"
+    }
 }

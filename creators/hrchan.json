@@ -1,4 +1,27 @@
 {
     "bio": "Hag Relations Officer, Vtuber, and Pro Shitposter. 🔞 Minors DNI 🔞 Business Email: HRvtuber@gmail.com",
-    "id": "1050479370"
+    "twitch": {
+        "id": "1050479370",
+        "login": "hrchan",
+        "displayName": "HRchan",
+        "createdAt": "2024-03-11T19:19:37.325564Z",
+        "updatedAt": "2026-08-03T16:24:00.219268Z",
+        "description": "Hag Relations Officer, Vtuber, and Pro Shitposter. 🔞 Minors DNI 🔞 Business Email: HRvtuber@gmail.com",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 7076
+        },
+        "follows": {
+            "totalCount": 275
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:12:06.686591Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfa0aa8c-3a7d-42c8-bf2c-94452fc67bdd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e35a419-7717-4ed1-b5b9-0091002de22a-profile_banner-480.png"
+    }
 }

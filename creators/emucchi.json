@@ -1,4 +1,27 @@
 {
     "bio": "CHAOTIC DEGEN BUN - mostly draw & play games 💙 check muh socials",
-    "id": "272943201"
+    "twitch": {
+        "id": "272943201",
+        "login": "emucchi",
+        "displayName": "emucchi",
+        "createdAt": "2018-11-06T23:44:09.176164Z",
+        "updatedAt": "2026-07-31T02:38:52.8429Z",
+        "description": "CHAOTIC DEGEN BUN - mostly draw & play games 💙 check muh socials",
+        "primaryColorHex": "BB98CD",
+        "followers": {
+            "totalCount": 27799
+        },
+        "follows": {
+            "totalCount": 1375
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T07:32:46.809054Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a9a1cc0-eb23-4717-9955-d80d72197f5e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5afe91ce-6fa9-4f4c-ad3b-2cab48c8b44e-profile_banner-480.png"
+    }
 }

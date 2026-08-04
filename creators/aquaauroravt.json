@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "1300200448"
+    "twitch": {
+        "id": "1300200448",
+        "login": "aquaauroravt",
+        "displayName": "AquaAuroraVT",
+        "createdAt": "2025-04-19T04:16:42.142767Z",
+        "updatedAt": "2026-07-31T21:08:03.695702Z",
+        "description": null,
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 223
+        },
+        "follows": {
+            "totalCount": 105
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T22:20:18.364514Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a0c5b22-7f21-44c3-ba6e-b5df45966992-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c82a010-f8be-4609-9409-19fe59abe929-profile_banner-480.png"
+    }
 }

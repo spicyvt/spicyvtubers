@@ -1,4 +1,27 @@
 {
-    "bio": "Lofty | Host of the Sketchy Skymotel 💜⭐️ | @ADVANCEDgg Partner (use code: LOFTY) | ",
-    "id": "802701569"
+    "bio": "Lofty | Host of the Sketchy Skymotel 💜⭐️ | @ADVANCEDgg Partner (use code: LOFTY) |",
+    "twitch": {
+        "id": "802701569",
+        "login": "lofty_vtuber",
+        "displayName": "Lofty_Vtuber",
+        "createdAt": "2022-06-18T17:36:53.522181Z",
+        "updatedAt": "2026-08-03T15:23:07.098859Z",
+        "description": "Lofty | Host of the Sketchy Skymotel 💜⭐️ | @ADVANCEDgg Partner (use code: LOFTY) | ",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 3021
+        },
+        "follows": {
+            "totalCount": 401
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T18:12:42.30421Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cee4a0bd-d8f6-4cda-aa2c-62931a5ff39c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81844e4-78f5-486e-aa37-85ac2fc289ad-profile_banner-480.png"
+    }
 }

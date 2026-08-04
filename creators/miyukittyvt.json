@@ -1,4 +1,27 @@
 {
     "bio": "💕Welcome to my Twitch! I'm Miyuki! ~The Quirky AngHELLic-Alien Catgirl~ 💕 ❤️ I obviously stream here on Twitch but I also voice act and do ASMR and a bunch of other stuff! When you get the time, do check out all my other links~❤ All My Links Are Right Here!: linktr.ee/miyulinks",
-    "id": "619699892"
+    "twitch": {
+        "id": "619699892",
+        "login": "miyukittyvt",
+        "displayName": "miyukittyvt",
+        "createdAt": "2020-12-12T20:54:08.511051Z",
+        "updatedAt": "2026-07-27T18:22:53.25526Z",
+        "description": "💕Welcome to my Twitch! I'm Miyuki! ~The Quirky AngHELLic-Alien Catgirl~ 💕 ❤️ I obviously stream here on Twitch but I also voice act and do ASMR and a bunch of other stuff! When you get the time, do check out all my other links~❤ All My Links Are Right Here!: linktr.ee/miyulinks",
+        "primaryColorHex": "FA1ED2",
+        "followers": {
+            "totalCount": 3918
+        },
+        "follows": {
+            "totalCount": 9
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-22T07:36:45.193502Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5789b21-df77-41b4-9c9e-233e75d426db-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a88b474-e4c5-48f2-884a-ca506835799c-profile_banner-480.jpeg"
+    }
 }

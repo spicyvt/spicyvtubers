@@ -1,4 +1,27 @@
 {
-    "bio": "Your bratty gyaru♂️ best friend who likes to bully you sometimes. Oh yeah, did I mention I was a Minotaur? ",
-    "id": "960899917"
+    "bio": "Your bratty gyaru♂️ best friend who likes to bully you sometimes. Oh yeah, did I mention I was a Minotaur?",
+    "twitch": {
+        "id": "960899917",
+        "login": "toroyuma",
+        "displayName": "ToroYuma",
+        "createdAt": "2023-09-26T01:54:34.954711Z",
+        "updatedAt": "2026-07-31T02:30:06.734469Z",
+        "description": "Your bratty gyaru♂️ best friend who likes to bully you sometimes. Oh yeah, did I mention I was a Minotaur? ",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 1012
+        },
+        "follows": {
+            "totalCount": 179
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T05:15:31.745987Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cf0ca7e-e5ef-4253-8cd9-6e4c5857ec48-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/272965c5-6dff-42df-9484-078aeeac6a8f-profile_banner-480.png"
+    }
 }

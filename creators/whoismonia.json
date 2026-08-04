@@ -1,4 +1,27 @@
 {
-    "bio": "Hi, I’m Monia, your favorite demon rockstar idol and horror streamer! My goal is to become your next favorite obsession… uh, I mean, source of entertainment! Mostly playing Dead by Daylight, so are you ready to rock with me? 🎸 • whoismonia@gmail.com",
-    "id": "511775171"
+    "bio": "Hi, I’m Monia, your favorite demon rockstar idol and horror streamer! My goal is to become your next favorite obsession… uh, I mean, source of entertainment! Mostly playing Dead by Daylight, so are you ready to rock with me? 🎸",
+    "twitch": {
+        "id": "511775171",
+        "login": "whoismonia",
+        "displayName": "WhoisMonia",
+        "createdAt": "2020-04-10T14:20:18.043191Z",
+        "updatedAt": "2026-08-03T23:22:36.23515Z",
+        "description": "Hi, I’m Monia, your favorite demon rockstar idol and horror streamer! My goal is to become your next favorite obsession… uh, I mean, source of entertainment! Mostly playing Dead by Daylight, so are you ready to rock with me? 🎸 ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 3393
+        },
+        "follows": {
+            "totalCount": 396
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-24T01:09:07.028925Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4e0a7df-1140-423a-b384-f9f0dd2f3551-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8aae559-3197-41ff-8c65-8ed47057108e-profile_banner-480.png"
+    }
 }

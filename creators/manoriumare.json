@@ -1,4 +1,27 @@
 {
     "bio": "♡ Horse girl Vtuber  ♡ Brainrotted artist ♡ business email pomaxipom@gmail.com ♡",
-    "id": "843065801"
+    "twitch": {
+        "id": "843065801",
+        "login": "manoriumare",
+        "displayName": "ManoriUmare",
+        "createdAt": "2022-11-02T23:00:41.956366Z",
+        "updatedAt": "2026-08-02T12:32:11.55043Z",
+        "description": "♡ Horse girl Vtuber  ♡ Brainrotted artist ♡ business email pomaxipom@gmail.com ♡",
+        "primaryColorHex": "FF9239",
+        "followers": {
+            "totalCount": 10903
+        },
+        "follows": {
+            "totalCount": 836
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T01:55:07.66423Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f38cc0f9-f888-4395-b7e6-3693e77e50a4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f802444-ea36-4d1a-a5d8-5d5a3509bcf4-profile_banner-480.png"
+    }
 }

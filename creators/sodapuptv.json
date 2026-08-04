@@ -1,4 +1,27 @@
 {
     "bio": "Just your cute lil vampire bunny who may also be a part-time streamer, why not come lay in my lap as you watch me play random games hmmm~",
-    "id": "833843822"
+    "twitch": {
+        "id": "833843822",
+        "login": "sodapuptv",
+        "displayName": "SodaPupTV",
+        "createdAt": "2022-09-29T00:20:40.500455Z",
+        "updatedAt": "2026-07-31T02:46:28.85103Z",
+        "description": "Just your cute lil vampire bunny who may also be a part-time streamer, why not come lay in my lap as you watch me play random games hmmm~",
+        "primaryColorHex": "DE67FF",
+        "followers": {
+            "totalCount": 7358
+        },
+        "follows": {
+            "totalCount": 76
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T08:46:37.476475Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0e42a80-1ad5-43e5-abc5-1fa8184a1ec3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0808bf71-d6cb-4a45-8e50-c231dd17f1cf-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Yes, I scream a lot during League 💀 https://throne.com/lilimorgaine | lilithuvt@gmail.com",
-    "id": "667383767"
+    "twitch": {
+        "id": "667383767",
+        "login": "lilimorgaine",
+        "displayName": "LiliMorgaine",
+        "createdAt": "2021-03-27T02:29:32.336518Z",
+        "updatedAt": "2026-07-28T02:13:41.438633Z",
+        "description": "Yes, I scream a lot during League 💀 https://throne.com/lilimorgaine | lilithuvt@gmail.com",
+        "primaryColorHex": "5B357C",
+        "followers": {
+            "totalCount": 1800
+        },
+        "follows": {
+            "totalCount": 381
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T05:04:42.895065Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55c5581a-d277-41e7-ba07-9c0e9faffbe6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcea7bb7-c14f-405b-b388-479eeb78ac6b-profile_banner-480.png"
+    }
 }

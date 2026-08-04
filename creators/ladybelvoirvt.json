@@ -1,4 +1,27 @@
 {
     "bio": "(Viking VTuber) A history nerd with a penchant for games. Belvoir is pronounced Beaver, like the animal, blame the Normans. I'm an early medieval reenactor. NB She/They",
-    "id": "614090520"
+    "twitch": {
+        "id": "614090520",
+        "login": "ladybelvoirvt",
+        "displayName": "LadyBelvoirVT",
+        "createdAt": "2020-11-28T13:11:35.059053Z",
+        "updatedAt": "2026-07-30T21:07:48.323786Z",
+        "description": "(Viking VTuber) A history nerd with a penchant for games. Belvoir is pronounced Beaver, like the animal, blame the Normans. I'm an early medieval reenactor. NB She/They",
+        "primaryColorHex": "0A3700",
+        "followers": {
+            "totalCount": 1826
+        },
+        "follows": {
+            "totalCount": 1425
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T21:38:12.758178Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d7990d0-3dc4-4d7a-95b8-6b0a0b9f510f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6116ec94-5fe8-4f9d-84c0-349a4cedaaa6-profile_banner-480.png"
+    }
 }

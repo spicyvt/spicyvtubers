@@ -1,4 +1,27 @@
 {
     "bio": "Im your FPS ASMR VARIETY cringe cosmic Art Fox ~",
-    "id": "106458429"
+    "twitch": {
+        "id": "106458429",
+        "login": "starhabit",
+        "displayName": "starhabit",
+        "createdAt": "2015-11-07T23:07:02.183034Z",
+        "updatedAt": "2026-08-01T22:55:40.808036Z",
+        "description": "Im your FPS ASMR VARIETY cringe cosmic Art Fox ~",
+        "primaryColorHex": "A2DDFF",
+        "followers": {
+            "totalCount": 17409
+        },
+        "follows": {
+            "totalCount": 1061
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T22:57:25.135838Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7749edf0-b8cb-4aa8-b6ec-909e8b299809-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/580c9a16-2093-4b87-9c35-1ed5bdb49d85-profile_banner-480.png"
+    }
 }

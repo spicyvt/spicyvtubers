@@ -1,4 +1,27 @@
 {
     "bio": "I am Glubby, a Ginger Fox VTuber from Britain!",
-    "id": "36468444"
+    "twitch": {
+        "id": "36468444",
+        "login": "glubbable",
+        "displayName": "Glubbable",
+        "createdAt": "2012-09-26T17:38:31.388168Z",
+        "updatedAt": "2026-08-02T12:10:15.988932Z",
+        "description": "I am Glubby, a Ginger Fox VTuber from Britain!",
+        "primaryColorHex": "EE5E27",
+        "followers": {
+            "totalCount": 65275
+        },
+        "follows": {
+            "totalCount": 632
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T19:35:05.945315Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b87e83de-ad71-4460-9f5d-30469f2aeb79-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6050572-df66-411c-9491-9609b44db1bf-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hai, I'm Bunny ~ Your virtual weird manic bunny girl ~ I'm known for a few different things (tell you about that later) but here on this channel, I focus on having a good time with you guys and creating a space where we all can kick back explore games, watch videos together and laugh!",
-    "id": "1321801697"
+    "twitch": {
+        "id": "1321801697",
+        "login": "xbuntai",
+        "displayName": "xBuntai",
+        "createdAt": "2025-06-10T16:46:08.296138Z",
+        "updatedAt": "2026-07-29T00:03:37.240992Z",
+        "description": "Hai, I'm Bunny ~ Your virtual weird manic bunny girl ~ I'm known for a few different things (tell you about that later) but here on this channel, I focus on having a good time with you guys and creating a space where we all can kick back explore games, watch videos together and laugh!",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 332
+        },
+        "follows": {
+            "totalCount": 22
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:10:15.208461Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d1b8165-7557-46ba-ac58-3be138c7b1b8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb394e12-a802-4f65-8f84-e0e8e37706e3-profile_banner-480.png"
+    }
 }

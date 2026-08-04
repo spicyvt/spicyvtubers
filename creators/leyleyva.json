@@ -1,4 +1,27 @@
 {
     "bio": "Celestial Goddess Of Your Dreams ✧ Business inquiries: leyleyvabusiness@gmail.com",
-    "id": "1235906040"
+    "twitch": {
+        "id": "1235906040",
+        "login": "leyleyva",
+        "displayName": "LeyLeyVA",
+        "createdAt": "2025-01-20T21:19:25.165374Z",
+        "updatedAt": "2026-07-22T01:59:06.364694Z",
+        "description": "Celestial Goddess Of Your Dreams ✧ Business inquiries: leyleyvabusiness@gmail.com",
+        "primaryColorHex": "B182F8",
+        "followers": {
+            "totalCount": 9680
+        },
+        "follows": {
+            "totalCount": 48
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-22T04:04:00.710004Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19f8de96-396e-4b1e-a34f-6e7ba490e321-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e4d952d-3509-47c6-8028-f00ba2a7eff0-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "your australian (un)comfort catgirl! lia~! ♡ business inquiries: nymphelia.ch@gmail.com ♡",
-    "id": "542363039"
+    "twitch": {
+        "id": "542363039",
+        "login": "nymphelia",
+        "displayName": "nymphelia",
+        "createdAt": "2020-06-11T14:42:50.321447Z",
+        "updatedAt": "2026-08-02T01:31:33.29637Z",
+        "description": "your australian (un)comfort catgirl! lia~! ♡ business inquiries: nymphelia.ch@gmail.com ♡",
+        "primaryColorHex": "FFA1B9",
+        "followers": {
+            "totalCount": 75563
+        },
+        "follows": {
+            "totalCount": 314
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T03:47:54.203158Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/16fa1fe4-4e0f-443c-a65f-dc0efecd9b78-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3a69e88-5a35-4a85-ba9c-3437eff02e35-profile_banner-480.png"
+    }
 }

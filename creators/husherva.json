@@ -1,4 +1,27 @@
 {
-    "bio": "ASMR Demon Queen ✨ (I only do ASMR here) Let me enchant you~ My variety channel: @husherX_ ",
-    "id": "593696032"
+    "bio": "ASMR Demon Queen ✨ (I only do ASMR here) Let me enchant you~ My variety channel: @husherX_",
+    "twitch": {
+        "id": "593696032",
+        "login": "husherva",
+        "displayName": "husherVA",
+        "createdAt": "2020-10-09T12:18:34.330178Z",
+        "updatedAt": "2026-08-03T09:09:38.296692Z",
+        "description": "ASMR Demon Queen ✨ (I only do ASMR here) Let me enchant you~ My variety channel: @husherX_ ",
+        "primaryColorHex": "5D0EB2",
+        "followers": {
+            "totalCount": 53269
+        },
+        "follows": {
+            "totalCount": 645
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T09:08:38.417123Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/689a76fc-bcff-4da5-82e0-8d86142b8f0a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d71bd995-7913-4734-b074-c50a21538fcd-profile_banner-480.png"
+    }
 }

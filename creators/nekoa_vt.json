@@ -1,4 +1,27 @@
 {
     "bio": "The 2nd coolest catgirl and femboy you know!! I go meow-meow",
-    "id": "213207239"
+    "twitch": {
+        "id": "213207239",
+        "login": "nekoa_vt",
+        "displayName": "Nekoa_VT",
+        "createdAt": "2018-04-10T07:36:26.667488Z",
+        "updatedAt": "2026-08-02T16:50:16.311341Z",
+        "description": "The 2nd coolest catgirl and femboy you know!! I go meow-meow",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 11323
+        },
+        "follows": {
+            "totalCount": 598
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:42:05.331419Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ccf1c7-b287-4877-a233-13e9e5f0ff73-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c321e4a1-c37c-426d-ad32-d282c65a609d-profile_banner-480.png"
+    }
 }

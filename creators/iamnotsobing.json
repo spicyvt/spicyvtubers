@@ -1,4 +1,27 @@
 {
     "bio": "I'm NOT a femboy! i'm just Scottish!!",
-    "id": "825107565"
+    "twitch": {
+        "id": "825107565",
+        "login": "iamnotsobing",
+        "displayName": "IamNotSoBing",
+        "createdAt": "2022-09-13T17:40:18.377972Z",
+        "updatedAt": "2026-07-31T20:51:42.301877Z",
+        "description": "I'm NOT a femboy! i'm just Scottish!!",
+        "primaryColorHex": "FF6A00",
+        "followers": {
+            "totalCount": 570
+        },
+        "follows": {
+            "totalCount": 238
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T20:53:08.535552Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ceb6a0f6-e8c3-45d2-a362-a3d431cf2576-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1a7dac9-5acf-4fda-942d-82ee57c5b40e-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "What’s up nerds I’m a fox-scorpion hybrid vtuber 🦂🦊 Variety streaming 3 times a week [sometimes more] I can bite or sting you it’s up to you, either way, you'll be infected by my love in no time.",
-    "id": "951176895"
+    "twitch": {
+        "id": "951176895",
+        "login": "kiakuromivt",
+        "displayName": "KiakuromiVT",
+        "createdAt": "2023-09-01T14:39:48.829366Z",
+        "updatedAt": "2026-06-18T19:11:33.059907Z",
+        "description": "What’s up nerds I’m a fox-scorpion hybrid vtuber 🦂🦊 Variety streaming 3 times a week [sometimes more] I can bite or sting you it’s up to you, either way, you'll be infected by my love in no time.",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 3708
+        },
+        "follows": {
+            "totalCount": 318
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-18T19:57:55.95211Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25535508-8d16-4237-9a8f-8d3431a99743-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca825007-0d91-4d40-9aae-a9c52cd94cd0-profile_banner-480.png"
+    }
 }

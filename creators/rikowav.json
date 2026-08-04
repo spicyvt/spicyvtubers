@@ -1,4 +1,27 @@
 {
-    "bio": "STREAM EVERY : Tuesday, Wednesday, Friday, Saturday at 9PM CET / 3PM EST ",
-    "id": "429758010"
+    "bio": "STREAM EVERY : Tuesday, Wednesday, Friday, Saturday at 9PM CET / 3PM EST",
+    "twitch": {
+        "id": "429758010",
+        "login": "rikowav",
+        "displayName": "RikoWAV",
+        "createdAt": "2019-04-13T13:43:29.599962Z",
+        "updatedAt": "2026-07-19T22:26:05.107474Z",
+        "description": "STREAM EVERY : Tuesday, Wednesday, Friday, Saturday at 9PM CET / 3PM EST ",
+        "primaryColorHex": "FFCAD2",
+        "followers": {
+            "totalCount": 3728
+        },
+        "follows": {
+            "totalCount": 431
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-19T22:45:48.413077Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fac74bb6-96dc-4f9d-aa6d-5d8062b42765-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ad00b2e-2d5b-4d7c-a955-480b6f7f2737-profile_banner-480.jpeg"
+    }
 }

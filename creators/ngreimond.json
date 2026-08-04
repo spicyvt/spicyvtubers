@@ -1,4 +1,27 @@
 {
     "bio": "\"Welcome to my cage, night visitor.\" I am Ng Reimond, you can call me Reimond or Rei. I like playing game, writing music, and playing piano. I'd appreciate if you visit me often.",
-    "id": "718719325"
+    "twitch": {
+        "id": "718719325",
+        "login": "ngreimond",
+        "displayName": "ngreimond",
+        "createdAt": "2021-08-18T07:17:14.739166Z",
+        "updatedAt": "2026-07-15T21:25:21.483422Z",
+        "description": "\"Welcome to my cage, night visitor.\" I am Ng Reimond, you can call me Reimond or Rei. I like playing game, writing music, and playing piano. I'd appreciate if you visit me often.",
+        "primaryColorHex": "FFBF00",
+        "followers": {
+            "totalCount": 1411
+        },
+        "follows": {
+            "totalCount": 146
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-15T23:51:53.960887Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/99597ff4-0535-4e6b-8e22-ca7846436ebd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee702f88-2653-484c-b602-f921e879853e-profile_banner-480.png"
+    }
 }

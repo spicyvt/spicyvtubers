@@ -1,4 +1,27 @@
 {
     "bio": "Welcome to my doll shop. Are you here to see me personally? Come on in and watch your chill/chaotic living doll game often! I'm also a Full Time 18+ Voice Actress, Casting Director For Shady Corner Games, and Vsinger in training!",
-    "id": "655628217"
+    "twitch": {
+        "id": "655628217",
+        "login": "harulunava",
+        "displayName": "harulunava",
+        "createdAt": "2021-02-27T03:04:04.249595Z",
+        "updatedAt": "2026-08-01T02:55:14.027166Z",
+        "description": "Welcome to my doll shop. Are you here to see me personally? Come on in and watch your chill/chaotic living doll game often! I'm also a Full Time 18+ Voice Actress, Casting Director For Shady Corner Games, and Vsinger in training!",
+        "primaryColorHex": "FF8200",
+        "followers": {
+            "totalCount": 1260
+        },
+        "follows": {
+            "totalCount": 563
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T05:56:12.592178Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/48177122-d199-4a8e-9a3c-74b5695e4b5e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25570b30-b212-4df4-86a0-28655a6d8318-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Your favourite British Fire Fox Nyx~!🦊🔥 | 50% Fox, 50% Phoenix.. 100% Gremlin 👹  | Business Inquiries: PhoenyxVT@gmail.com",
-    "id": "43232547"
+    "twitch": {
+        "id": "43232547",
+        "login": "phoenyx",
+        "displayName": "Phoenyx",
+        "createdAt": "2013-05-05T18:44:22.53726Z",
+        "updatedAt": "2026-08-01T17:55:49.241341Z",
+        "description": "Your favourite British Fire Fox Nyx~!🦊🔥 | 50% Fox, 50% Phoenix.. 100% Gremlin 👹  | Business Inquiries: PhoenyxVT@gmail.com",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 14259
+        },
+        "follows": {
+            "totalCount": 369
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T21:31:38.891592Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fa2671f-602b-4e2b-b720-b40ef1106027-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31e70f0d-434f-4020-8bbc-f6988f6ffbc4-profile_banner-480.png"
+    }
 }

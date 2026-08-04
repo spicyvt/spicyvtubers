@@ -1,4 +1,27 @@
 {
     "bio": "just a cyber girl living in the real world✨🛸",
-    "id": "161171772"
+    "twitch": {
+        "id": "161171772",
+        "login": "suzy_q",
+        "displayName": "suzy_q",
+        "createdAt": "2017-06-22T14:51:42.178967Z",
+        "updatedAt": "2026-07-21T05:24:11.187532Z",
+        "description": "just a cyber girl living in the real world✨🛸",
+        "primaryColorHex": "E47B95",
+        "followers": {
+            "totalCount": 23045
+        },
+        "follows": {
+            "totalCount": 124
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T04:08:21.30011Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2e64b2a-fdf6-406f-8854-cc15e467be8b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3e41b20-822a-4863-a2c7-5adcdba8b1ea-profile_banner-480.png"
+    }
 }

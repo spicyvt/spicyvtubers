@@ -1,4 +1,27 @@
 {
     "bio": "Ello n Welcome I'm a Crazy Kitten love to play all types of games Like Horror, Chill, & Some randoms or sometimes come talk to me and chill i love to chat ^^  ฅ^⩊^ ฅ",
-    "id": "1210813485"
+    "twitch": {
+        "id": "1210813485",
+        "login": "pinkstrawberrymochii",
+        "displayName": "pinkstrawberrymochii",
+        "createdAt": "2024-12-03T05:09:31.589028Z",
+        "updatedAt": "2026-06-06T23:38:46.281606Z",
+        "description": "Ello n Welcome I'm a Crazy Kitten love to play all types of games Like Horror, Chill, & Some randoms or sometimes come talk to me and chill i love to chat ^^  ฅ^⩊^ ฅ",
+        "primaryColorHex": "FFC8F5",
+        "followers": {
+            "totalCount": 77
+        },
+        "follows": {
+            "totalCount": 14
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-13T22:54:12.049667Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09c08d68-ca19-4b51-b11b-48d42e8dce00-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52f6894a-b86a-4c62-aae1-9c352dbee92d-profile_banner-480.png"
+    }
 }

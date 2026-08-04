@@ -1,4 +1,27 @@
 {
-    "bio": "I sometimes stream stuff ",
-    "id": "187624169"
+    "bio": "I sometimes stream stuff",
+    "twitch": {
+        "id": "187624169",
+        "login": "ashunera",
+        "displayName": "Ashunera",
+        "createdAt": "2017-12-28T00:52:38.209584Z",
+        "updatedAt": "2026-08-03T03:47:45.139011Z",
+        "description": "I sometimes stream stuff ",
+        "primaryColorHex": "B11B1B",
+        "followers": {
+            "totalCount": 32661
+        },
+        "follows": {
+            "totalCount": 194
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:15:50.5021Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b77c29c2-a27a-4052-a0c1-1b06f335f4ff-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf1d0a16-2f64-4ac3-a662-866291389626-profile_banner-480.jpeg"
+    }
 }

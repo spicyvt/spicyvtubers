@@ -1,4 +1,27 @@
 {
-    "bio": "Your unstable landmine is a girl failure 🦨 🤍 ",
-    "id": "502226123"
+    "bio": "Your unstable landmine is a girl failure 🦨 🤍",
+    "twitch": {
+        "id": "502226123",
+        "login": "hellomimiz",
+        "displayName": "HelloMimiz",
+        "createdAt": "2020-03-22T06:06:45.707186Z",
+        "updatedAt": "2026-08-03T14:14:51.38365Z",
+        "description": "Your unstable landmine is a girl failure 🦨 🤍 ",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 5334
+        },
+        "follows": {
+            "totalCount": 199
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T14:23:55.979013Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b25b83e6-23f9-4042-aa1c-33e246408ee3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/595aeef9-16b1-41c6-9290-4a9c9c4d5c4f-profile_banner-480.png"
+    }
 }

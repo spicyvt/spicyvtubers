@@ -1,4 +1,27 @@
 {
     "bio": "a little bunbun here to spread good vibes and happy times",
-    "id": "232924007"
+    "twitch": {
+        "id": "232924007",
+        "login": "hunnybunnyvt",
+        "displayName": "HunnyBunnyVT",
+        "createdAt": "2018-06-21T01:11:24.262707Z",
+        "updatedAt": "2026-08-02T23:16:47.209843Z",
+        "description": "a little bunbun here to spread good vibes and happy times",
+        "primaryColorHex": "FFCBF5",
+        "followers": {
+            "totalCount": 825
+        },
+        "follows": {
+            "totalCount": 103
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:00:26.582402Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/deb72062-34bb-4fb6-859f-17f75a7a6d1f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c9716e0-ad98-4ce4-9b54-5a89529e3de7-profile_banner-480.png"
+    }
 }

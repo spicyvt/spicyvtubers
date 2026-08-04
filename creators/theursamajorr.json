@@ -1,4 +1,27 @@
 {
-    "bio": "Hello! I'm Polaris and I'm an ursine concept based off The Ursa Major! I provide random bear facts, scream at almost everything that scares me, and have a passion for gaming, singing, and art! Thank you for stopping by! ",
-    "id": "905392321"
+    "bio": "Hello! I'm Polaris and I'm an ursine concept based off The Ursa Major! I provide random bear facts, scream at almost everything that scares me, and have a passion for gaming, singing, and art! Thank you for stopping by!",
+    "twitch": {
+        "id": "905392321",
+        "login": "theursamajorr",
+        "displayName": "TheUrsaMajorr",
+        "createdAt": "2023-05-01T23:49:57.059582Z",
+        "updatedAt": "2026-08-03T05:21:25.40272Z",
+        "description": "Hello! I'm Polaris and I'm an ursine concept based off The Ursa Major! I provide random bear facts, scream at almost everything that scares me, and have a passion for gaming, singing, and art! Thank you for stopping by! ",
+        "primaryColorHex": "6095F1",
+        "followers": {
+            "totalCount": 3963
+        },
+        "follows": {
+            "totalCount": 281
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:02:04.439149Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b164d4d5-b2e7-45c0-b587-1464217d485b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/11ad6a42-2a6f-4a98-ae82-6f07ca861ce8-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "V-Streamer  |  E-neko  |  Tester @ Bungie |  Rhythm game lover |  She/Her icon/model by @da3iann Follow me on twitter/tiktok @nekomeiko_  ",
-    "id": "181906156"
+    "bio": "V-Streamer  |  E-neko  |  Tester @ Bungie |  Rhythm game lover |  She/Her icon/model by @da3iann Follow me on twitter/tiktok @nekomeiko_",
+    "twitch": {
+        "id": "181906156",
+        "login": "nekomeiko",
+        "displayName": "NekoMeiko",
+        "createdAt": "2017-11-15T17:05:12.011443Z",
+        "updatedAt": "2026-06-28T22:35:47.337421Z",
+        "description": "V-Streamer  |  E-neko  |  Tester @ Bungie |  Rhythm game lover |  She/Her icon/model by @da3iann Follow me on twitter/tiktok @nekomeiko_  ",
+        "primaryColorHex": "504B69",
+        "followers": {
+            "totalCount": 6801
+        },
+        "follows": {
+            "totalCount": 253
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-09-01T20:44:40.522188Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8ec8ad6-47e4-4785-88d4-4c69f1d18629-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0028a459-e377-4450-9af3-34ae323e7c42-profile_banner-480.jpeg"
+    }
 }

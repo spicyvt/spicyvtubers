@@ -1,4 +1,27 @@
 {
     "bio": "Hi, I'm saku your horror and theory obsessed Shark.🦈 Streams Tue-Thusday-Fri 4PM BST!",
-    "id": "227566520"
+    "twitch": {
+        "id": "227566520",
+        "login": "sharkurin",
+        "displayName": "sharkurin",
+        "createdAt": "2018-05-31T15:15:40.621243Z",
+        "updatedAt": "2026-08-03T17:43:42.067774Z",
+        "description": "Hi, I'm saku your horror and theory obsessed Shark.🦈 Streams Tue-Thusday-Fri 4PM BST!",
+        "primaryColorHex": "96A4EB",
+        "followers": {
+            "totalCount": 2999
+        },
+        "follows": {
+            "totalCount": 807
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T18:00:08.221551Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96ed6f8a-62b2-4932-9d8d-7209126875bc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a347f133-1480-4dba-8e76-ff8af6c16682-profile_banner-480.png"
+    }
 }

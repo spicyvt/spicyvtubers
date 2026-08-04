@@ -1,4 +1,27 @@
 {
     "bio": "AKA I want to be bread girl 🐳",
-    "id": "110059426"
+    "twitch": {
+        "id": "110059426",
+        "login": "bao",
+        "displayName": "bao",
+        "createdAt": "2015-12-21T05:02:05.003792Z",
+        "updatedAt": "2026-07-31T06:22:44.266726Z",
+        "description": "AKA I want to be bread girl 🐳",
+        "primaryColorHex": "00D0FF",
+        "followers": {
+            "totalCount": 624477
+        },
+        "follows": {
+            "totalCount": 555
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T06:46:42.805965Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c310b9e-58db-49bb-9227-a703d8001c33-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7865d56f-8c88-44cb-a44b-0bd8e8f7359f-profile_banner-480.jpeg"
+    }
 }

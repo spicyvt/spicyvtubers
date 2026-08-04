@@ -1,4 +1,27 @@
 {
-    "bio": "Cuppy | Pastel Vampire Vtuber | 28 | They/She | Non-Binary | Please read the rules and info below! Stream is intended for a mature audience and is not for minors. ",
-    "id": "73013050"
+    "bio": "Cuppy | Pastel Vampire Vtuber | 28 | They/She | Non-Binary | Please read the rules and info below! Stream is intended for a mature audience and is not for minors.",
+    "twitch": {
+        "id": "73013050",
+        "login": "cuppycakiee",
+        "displayName": "CuppyCakiee",
+        "createdAt": "2014-10-14T01:14:17.878274Z",
+        "updatedAt": "2026-08-01T15:15:36.78114Z",
+        "description": "Cuppy | Pastel Vampire Vtuber | 28 | They/She | Non-Binary | Please read the rules and info below! Stream is intended for a mature audience and is not for minors. ",
+        "primaryColorHex": "FFDAF9",
+        "followers": {
+            "totalCount": 5538
+        },
+        "follows": {
+            "totalCount": 785
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-03T08:46:02.873557Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cd51542-7d60-4d12-8eea-a072a74dbe31-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/86774f04-e735-473f-8cd6-0a3966090574-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Haiio! Just your Pinkie Vtuber here :D",
-    "id": "537471904"
+    "twitch": {
+        "id": "537471904",
+        "login": "mokymoo",
+        "displayName": "MokyMoo",
+        "createdAt": "2020-05-30T15:12:08.729476Z",
+        "updatedAt": "2026-07-15T12:01:55.221927Z",
+        "description": "Haiio! Just your Pinkie Vtuber here :D",
+        "primaryColorHex": "111111",
+        "followers": {
+            "totalCount": 2971
+        },
+        "follows": {
+            "totalCount": 44
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-09T19:44:39.433533Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09a11463-f9a9-47a4-add3-70015f8e0192-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/35baabbd-f1bd-47bf-9035-ffc57b2c895d-profile_banner-480.png"
+    }
 }

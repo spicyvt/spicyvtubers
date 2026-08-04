@@ -1,4 +1,27 @@
 {
     "bio": "Whalecome in beautiful soul! I'm a Stardust Orca VTuber! 18+ STREAMER Comfy & Chaotic | LEWD | LOUD MOUTH | BLUNT | EST Timezone | Tells Whale Jokes |Humble Partner | Twitch Creator Club | Cameo Partner | Streamily Partner | Blerp Partner",
-    "id": "727920406"
+    "twitch": {
+        "id": "727920406",
+        "login": "evertrua",
+        "displayName": "EverTrua",
+        "createdAt": "2021-09-19T13:28:56.549477Z",
+        "updatedAt": "2026-08-01T20:15:20.811194Z",
+        "description": "Whalecome in beautiful soul! I'm a Stardust Orca VTuber! 18+ STREAMER Comfy & Chaotic | LEWD | LOUD MOUTH | BLUNT | EST Timezone | Tells Whale Jokes |Humble Partner | Twitch Creator Club | Cameo Partner | Streamily Partner | Blerp Partner",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 12106
+        },
+        "follows": {
+            "totalCount": 1643
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T05:19:03.055055Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/404b22b5-6889-4cda-b3b1-c041b0fbb36a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/85b01787-f00c-47df-88d5-52f36edd5142-profile_banner-480.jpeg"
+    }
 }

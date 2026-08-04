@@ -1,4 +1,27 @@
 {
-    "bio": "The Sinfluencer | Cheshire Cat Demon VTuber | Welcome To Nocturnia | Ps ur cute im lov u ",
-    "id": "171539943"
+    "bio": "The Sinfluencer | Cheshire Cat Demon VTuber | Welcome To Nocturnia | Ps ur cute im lov u",
+    "twitch": {
+        "id": "171539943",
+        "login": "kitnetic",
+        "displayName": "KitNetic",
+        "createdAt": "2017-08-26T17:12:29.408876Z",
+        "updatedAt": "2026-08-03T21:51:52.923843Z",
+        "description": "The Sinfluencer | Cheshire Cat Demon VTuber | Welcome To Nocturnia | Ps ur cute im lov u ",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 50266
+        },
+        "follows": {
+            "totalCount": 526
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:11:01.65694Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c707787b-c3ab-4040-ad34-601e23835ee0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3fe9bb9-e749-41dd-99e7-5c46c17bafa4-profile_banner-480.png"
+    }
 }

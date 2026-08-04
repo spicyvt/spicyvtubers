@@ -1,4 +1,27 @@
 {
     "bio": "Hallo! It's me! Callix! Your resident furry femboy who is just, really, REALLY, silly! 18+ Streamer!! Anime, vidya games, and randomness aplenty here! I hope you enjoy the stay in the manor my boos and ghouls~",
-    "id": "709741805"
+    "twitch": {
+        "id": "709741805",
+        "login": "callixir",
+        "displayName": "Callixir",
+        "createdAt": "2021-07-22T01:39:00.107318Z",
+        "updatedAt": "2026-07-28T20:49:45.352767Z",
+        "description": "Hallo! It's me! Callix! Your resident furry femboy who is just, really, REALLY, silly! 18+ Streamer!! Anime, vidya games, and randomness aplenty here! I hope you enjoy the stay in the manor my boos and ghouls~",
+        "primaryColorHex": "1345AA",
+        "followers": {
+            "totalCount": 649
+        },
+        "follows": {
+            "totalCount": 97
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T02:24:49.564376Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc3c33e5-095b-4e54-be21-28e5179fc5f0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72d5d6a4-3b17-48f2-9075-d515a2568202-profile_banner-480.png"
+    }
 }

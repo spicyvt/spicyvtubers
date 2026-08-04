@@ -1,4 +1,27 @@
 {
     "bio": "Find the Joy in the Dark. Rest here Lost Soul, lets pour a drink, and share a tale.",
-    "id": "51761895"
+    "twitch": {
+        "id": "51761895",
+        "login": "theemohealer",
+        "displayName": "TheEmoHealer",
+        "createdAt": "2013-11-18T05:49:39.416108Z",
+        "updatedAt": "2026-07-17T23:13:43.263645Z",
+        "description": "Find the Joy in the Dark. Rest here Lost Soul, lets pour a drink, and share a tale.",
+        "primaryColorHex": "00E7E7",
+        "followers": {
+            "totalCount": 2614
+        },
+        "follows": {
+            "totalCount": 402
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-24T11:03:35.657309Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfb9e0f8-4caf-4142-9c98-8f3da591ec20-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b0052eb-45cb-4c9b-ad3a-31e7df9c7185-profile_banner-480.png"
+    }
 }

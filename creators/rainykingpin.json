@@ -1,4 +1,27 @@
 {
-    "bio": "Hey how's it going? I'm Rainy~ The One & Only Femboy Kingpin 👑 ",
-    "id": "689689438"
+    "bio": "Hey how's it going? I'm Rainy~ The One & Only Femboy Kingpin 👑",
+    "twitch": {
+        "id": "689689438",
+        "login": "rainykingpin",
+        "displayName": "RainyKingpin",
+        "createdAt": "2021-05-22T03:28:44.877017Z",
+        "updatedAt": "2026-08-02T22:28:49.121487Z",
+        "description": "Hey how's it going? I'm Rainy~ The One & Only Femboy Kingpin 👑 ",
+        "primaryColorHex": "F8D627",
+        "followers": {
+            "totalCount": 1598
+        },
+        "follows": {
+            "totalCount": 1091
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T01:13:00.942983Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/36e2a32e-87ef-4bda-a749-d3f3b6243135-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e1e7f49-7be6-4ea2-8f63-6eaa6e214df8-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "your new favourite auntie latina anime dom hag. i like zombie games.",
-    "id": "169507183"
+    "twitch": {
+        "id": "169507183",
+        "login": "lunaria",
+        "displayName": "Lunaria",
+        "createdAt": "2017-08-12T11:07:49.108401Z",
+        "updatedAt": "2026-08-03T19:33:24.444781Z",
+        "description": "your new favourite auntie latina anime dom hag. i like zombie games.",
+        "primaryColorHex": "ED1070",
+        "followers": {
+            "totalCount": 217991
+        },
+        "follows": {
+            "totalCount": 542
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:27:09.665641Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ed0025-bd25-4cae-beaf-4f3483f39218-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67690fa6-098f-4947-a27e-d693d78e74e5-profile_banner-480.png"
+    }
 }

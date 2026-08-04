@@ -1,4 +1,27 @@
 {
     "bio": "✧ˋ°•*⁀➷Your Bloomlight Deity that's here to give positive vibes and fun, cozy ASMR for all the critters! Cozy gaming, chatting and art streams, variety for life 🍃.ೃ࿔* ˖ ✧",
-    "id": "1047506162"
+    "twitch": {
+        "id": "1047506162",
+        "login": "feyremiari",
+        "displayName": "FeyreMiari",
+        "createdAt": "2024-03-04T12:23:58.613268Z",
+        "updatedAt": "2026-07-21T16:08:15.325068Z",
+        "description": "✧ˋ°•*⁀➷Your Bloomlight Deity that's here to give positive vibes and fun, cozy ASMR for all the critters! Cozy gaming, chatting and art streams, variety for life 🍃.ೃ࿔* ˖ ✧",
+        "primaryColorHex": "556B2F",
+        "followers": {
+            "totalCount": 20737
+        },
+        "follows": {
+            "totalCount": 80
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-21T16:15:53.010444Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55872f74-27bb-42be-9e69-5526de418d81-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e33aa54c-b39d-4be0-b866-d51c0aff3c1d-profile_banner-480.jpeg"
+    }
 }

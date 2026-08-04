@@ -1,4 +1,27 @@
 {
-    "bio": "𝘮𝘪𝘴𝘤𝘩𝘦𝘷𝘪𝘰𝘶𝘴 𝘮𝘰𝘰𝘯 𝘬𝘪𝘵𝘵𝘦𝘯 & 𝘮𝘢𝘨𝘪𝘤𝘢𝘭 𝘨𝘪𝘳𝘭 .𖹭.ᐟ Watch me LIVE weekly ! ",
-    "id": "161623256"
+    "bio": "𝘮𝘪𝘴𝘤𝘩𝘦𝘷𝘪𝘰𝘶𝘴 𝘮𝘰𝘰𝘯 𝘬𝘪𝘵𝘵𝘦𝘯 & 𝘮𝘢𝘨𝘪𝘤𝘢𝘭 𝘨𝘪𝘳𝘭 .𖹭.ᐟ Watch me LIVE weekly !",
+    "twitch": {
+        "id": "161623256",
+        "login": "divymoon",
+        "displayName": "divymoon",
+        "createdAt": "2017-06-26T08:37:44.239601Z",
+        "updatedAt": "2026-08-02T23:46:44.436311Z",
+        "description": "𝘮𝘪𝘴𝘤𝘩𝘦𝘷𝘪𝘰𝘶𝘴 𝘮𝘰𝘰𝘯 𝘬𝘪𝘵𝘵𝘦𝘯 & 𝘮𝘢𝘨𝘪𝘤𝘢𝘭 𝘨𝘪𝘳𝘭 .𖹭.ᐟ Watch me LIVE weekly ! ",
+        "primaryColorHex": "FFB8F6",
+        "followers": {
+            "totalCount": 5214
+        },
+        "follows": {
+            "totalCount": 486
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-01-31T04:10:48.038187Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6beedb6d-70d9-4109-a6f4-f59150d38844-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90847122-9ec7-42fd-a6e9-b204d33c83de-profile_banner-480.png"
+    }
 }

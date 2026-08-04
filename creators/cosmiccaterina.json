@@ -1,4 +1,27 @@
 {
     "bio": "Totally not sus and completely normal foxgirl being chaotic. Enjoyer of rpgs and random games",
-    "id": "922777981"
+    "twitch": {
+        "id": "922777981",
+        "login": "cosmiccaterina",
+        "displayName": "CosmicCaterina",
+        "createdAt": "2023-06-15T13:40:32.211793Z",
+        "updatedAt": "2026-07-31T15:39:48.854857Z",
+        "description": "Totally not sus and completely normal foxgirl being chaotic. Enjoyer of rpgs and random games",
+        "primaryColorHex": "44335E",
+        "followers": {
+            "totalCount": 1010
+        },
+        "follows": {
+            "totalCount": 156
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T19:11:32.685796Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0fb980e-d8a9-4c14-86b0-0d8f5b5ee148-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c8e655c-463a-4360-a541-b090cbe2b05a-profile_banner-480.jpeg"
+    }
 }

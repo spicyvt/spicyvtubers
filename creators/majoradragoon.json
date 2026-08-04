@@ -1,4 +1,27 @@
 {
     "bio": "Oi, I'm Majora! I'm a chaotic, goober dragon with sufficient brain rot. I stream a variety of games so come have a laugh and chat with me awhile! My stream schedule is usually Mon/Wed/Weekends at 10pm (+/-1h) CST",
-    "id": "526287044"
+    "twitch": {
+        "id": "526287044",
+        "login": "majoradragoon",
+        "displayName": "MajoraDragoon",
+        "createdAt": "2020-05-06T03:30:59.426447Z",
+        "updatedAt": "2026-08-01T04:24:55.663346Z",
+        "description": "Oi, I'm Majora! I'm a chaotic, goober dragon with sufficient brain rot. I stream a variety of games so come have a laugh and chat with me awhile! My stream schedule is usually Mon/Wed/Weekends at 10pm (+/-1h) CST",
+        "primaryColorHex": "4010D7",
+        "followers": {
+            "totalCount": 2184
+        },
+        "follows": {
+            "totalCount": 283
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T06:30:09.293088Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1d9866b-eb78-4b83-8594-58a5ed4b7b5f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09f7b817-4384-4966-9906-24dd757b4a0c-profile_banner-480.png"
+    }
 }

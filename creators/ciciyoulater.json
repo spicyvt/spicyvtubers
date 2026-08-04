@@ -1,4 +1,27 @@
 {
     "bio": "Part-Time Streamer. Full-Time Gremlin. Variety Streamer. I don't know what I am doing most of the time. Business Email: ciciyoulaterttv@gmail.com",
-    "id": "896949335"
+    "twitch": {
+        "id": "896949335",
+        "login": "ciciyoulater",
+        "displayName": "CiCiYouLater",
+        "createdAt": "2023-04-06T06:32:10.452898Z",
+        "updatedAt": "2026-08-02T19:17:04.168098Z",
+        "description": "Part-Time Streamer. Full-Time Gremlin. Variety Streamer. I don't know what I am doing most of the time. Business Email: ciciyoulaterttv@gmail.com",
+        "primaryColorHex": "666666",
+        "followers": {
+            "totalCount": 3828
+        },
+        "follows": {
+            "totalCount": 339
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T05:35:48.528505Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/225eb0a3-aadd-4b6b-9bc6-78d1b121fa93-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a45b52b0-9182-40cb-a3a2-4f4970dade6e-profile_banner-480.png"
+    }
 }

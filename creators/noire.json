@@ -1,4 +1,27 @@
 {
     "bio": "Cozy puppy coded girl on the internet. Wait why is there a hole in your peanut butter jar? || 💌 nyxia.inbox@gmail.com",
-    "id": "895092328"
+    "twitch": {
+        "id": "895092328",
+        "login": "noire",
+        "displayName": "noire",
+        "createdAt": "2023-03-31T17:48:07.853489Z",
+        "updatedAt": "2026-08-03T05:45:45.864029Z",
+        "description": "Cozy puppy coded girl on the internet. Wait why is there a hole in your peanut butter jar? || 💌 nyxia.inbox@gmail.com",
+        "primaryColorHex": "A0000C",
+        "followers": {
+            "totalCount": 6754
+        },
+        "follows": {
+            "totalCount": 1276
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-17T00:12:13.991234Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/477fe8e8-39f0-467e-af21-82ff51bad793-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8015bd38-4589-4ab2-82d4-339efdace9a5-profile_banner-480.png"
+    }
 }

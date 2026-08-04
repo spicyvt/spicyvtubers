@@ -1,4 +1,27 @@
 {
     "bio": "Celestial Goddess ENVtuber | 18+ | Chaotically fun safe space | Horror Enthusiast / Variety Streamer.Business email : mail@minatiaxiv.com",
-    "id": "165691043"
+    "twitch": {
+        "id": "165691043",
+        "login": "minatiaxiv",
+        "displayName": "minatiaXIV",
+        "createdAt": "2017-07-19T22:12:37.028874Z",
+        "updatedAt": "2026-08-03T03:08:50.087818Z",
+        "description": "Celestial Goddess ENVtuber | 18+ | Chaotically fun safe space | Horror Enthusiast / Variety Streamer.Business email : mail@minatiaxiv.com",
+        "primaryColorHex": "7C3DB0",
+        "followers": {
+            "totalCount": 1367
+        },
+        "follows": {
+            "totalCount": 465
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T03:08:37.481434Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/917a1a91-7b8f-413e-bcfd-cd28c66a922c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a3d690a-bf12-446d-a252-0bc95469494c-profile_banner-480.png"
+    }
 }

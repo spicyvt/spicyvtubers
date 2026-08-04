@@ -1,4 +1,27 @@
 {
     "bio": "A Cuddly Floofy Fox • 20+ • Bisexual • Single • Loves Belly Rubs & ear rubs • I am a variety streamer that loves playing all sorts of games with my friends.",
-    "id": "144507709"
+    "twitch": {
+        "id": "144507709",
+        "login": "slythefloof",
+        "displayName": "SlyTheFloof",
+        "createdAt": "2017-01-11T18:55:40.758796Z",
+        "updatedAt": "2026-07-20T23:45:18.510186Z",
+        "description": "A Cuddly Floofy Fox • 20+ • Bisexual • Single • Loves Belly Rubs & ear rubs • I am a variety streamer that loves playing all sorts of games with my friends.",
+        "primaryColorHex": "00FF14",
+        "followers": {
+            "totalCount": 222
+        },
+        "follows": {
+            "totalCount": 19
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-21T03:07:50.72637Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/79d94e6e-cc5b-4c5f-b6dc-2a140e126dff-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64a546fa-e73e-41c6-bf5a-01f159e02948-profile_banner-480.jpeg"
+    }
 }

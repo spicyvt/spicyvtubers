@@ -1,4 +1,27 @@
 {
     "bio": "A sleepy sloth vtuber that's definitely going to become an idol! 🦥 Come watch me as I find my own light!",
-    "id": "570229937"
+    "twitch": {
+        "id": "570229937",
+        "login": "miyuyus",
+        "displayName": "miyuyus",
+        "createdAt": "2020-08-20T23:06:09.615214Z",
+        "updatedAt": "2026-07-27T02:02:04.990745Z",
+        "description": "A sleepy sloth vtuber that's definitely going to become an idol! 🦥 Come watch me as I find my own light!",
+        "primaryColorHex": "FF588E",
+        "followers": {
+            "totalCount": 12854
+        },
+        "follows": {
+            "totalCount": 954
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-27T05:02:23.364157Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d083cf8-25ea-4c97-82f3-2af777427bce-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d199099-3ca5-49f6-bc93-fd4e5cf91469-profile_banner-480.png"
+    }
 }

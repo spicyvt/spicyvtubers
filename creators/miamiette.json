@@ -1,4 +1,27 @@
 {
-    "bio": "InsoMia ⏾ Your favorite reason to lose sleep ✦ Cheshire Cat ",
-    "id": "90777852"
+    "bio": "InsoMia ⏾ Your favorite reason to lose sleep ✦ Cheshire Cat",
+    "twitch": {
+        "id": "90777852",
+        "login": "miamiette",
+        "displayName": "MiaMiette",
+        "createdAt": "2015-05-10T21:31:43.832736Z",
+        "updatedAt": "2026-08-03T20:01:29.178554Z",
+        "description": "InsoMia ⏾ Your favorite reason to lose sleep ✦ Cheshire Cat ",
+        "primaryColorHex": "370808",
+        "followers": {
+            "totalCount": 12240
+        },
+        "follows": {
+            "totalCount": 953
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:02:55.000971Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/879a6073-eaf8-4659-9743-7fe7ed63177a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/81a2e140-953b-480c-90eb-9d520ed46447-profile_banner-480.png"
+    }
 }

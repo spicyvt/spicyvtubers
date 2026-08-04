@@ -1,4 +1,27 @@
 {
     "bio": "Alien puppygirl 🛸 🦴🎨 ⚙️ - akizone🔗links + credits - http://squishivt.carrd.co",
-    "id": "401040468"
+    "twitch": {
+        "id": "401040468",
+        "login": "squishipup",
+        "displayName": "squishipup",
+        "createdAt": "2018-12-08T23:53:16.4916Z",
+        "updatedAt": "2026-05-27T03:52:44.099956Z",
+        "description": "Alien puppygirl 🛸 🦴🎨 ⚙️ - akizone🔗links + credits - http://squishivt.carrd.co",
+        "primaryColorHex": "CCA3FF",
+        "followers": {
+            "totalCount": 2621
+        },
+        "follows": {
+            "totalCount": 465
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-27T04:54:04.069923Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcab0cd1-faf5-4498-ac0f-d5bb2981fb1f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/016b3de5-a4dc-4735-b386-cd01b712a747-profile_banner-480.png"
+    }
 }

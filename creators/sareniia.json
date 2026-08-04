@@ -1,4 +1,27 @@
 {
-    "bio": "Siren Kitty vtuber ",
-    "id": "89789948"
+    "bio": "Siren Kitty vtuber",
+    "twitch": {
+        "id": "89789948",
+        "login": "sareniia",
+        "displayName": "Sareniia",
+        "createdAt": "2015-04-29T01:33:13.921335Z",
+        "updatedAt": "2026-08-02T21:43:46.416522Z",
+        "description": "Siren Kitty vtuber ",
+        "primaryColorHex": "9F79D8",
+        "followers": {
+            "totalCount": 6196
+        },
+        "follows": {
+            "totalCount": 324
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T22:39:30.209525Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8265922-27f0-4f2a-8a73-e327993c19ea-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2eb8efe-770f-4a56-a065-3d994f7eb674-profile_banner-480.jpeg"
+    }
 }

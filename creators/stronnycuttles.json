@@ -1,4 +1,27 @@
 {
-    "bio": "Hello I'm Stronny Cuttles from VAllure and my Twitch is for ASMR focused content! ",
-    "id": "1011870741"
+    "bio": "Hello I'm Stronny Cuttles from VAllure and my Twitch is for ASMR focused content!",
+    "twitch": {
+        "id": "1011870741",
+        "login": "stronnycuttles",
+        "displayName": "StronnyCuttles",
+        "createdAt": "2023-12-31T20:11:18.529912Z",
+        "updatedAt": "2026-06-14T23:56:22.902229Z",
+        "description": "Hello I'm Stronny Cuttles from VAllure and my Twitch is for ASMR focused content! ",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 5797
+        },
+        "follows": {
+            "totalCount": 12
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-10T17:47:53.34225Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/836036ac-82d7-402b-8027-5ef366bdff64-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd758423-a8f0-4cd4-ab93-3a098682e5ab-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Just a 2D girl with a god complex who is trying to subjugate every human she interacts with. [THIS IS ROLEPLAY + FOR ENTERTAINMENT ONLY :) WE ARE HAVING FUN HERE.]",
-    "id": "1093037984"
+    "twitch": {
+        "id": "1093037984",
+        "login": "agoniaddiction",
+        "displayName": "AgoniAddiction",
+        "createdAt": "2024-05-30T20:41:44.260802Z",
+        "updatedAt": "2026-07-22T05:05:39.197587Z",
+        "description": "Just a 2D girl with a god complex who is trying to subjugate every human she interacts with. [THIS IS ROLEPLAY + FOR ENTERTAINMENT ONLY :) WE ARE HAVING FUN HERE.]",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 993
+        },
+        "follows": {
+            "totalCount": 57
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-08T00:01:01.210156Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/497b5a79-7c41-41a7-a02f-ff9b8964fa10-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dc31482-1738-4e61-8c12-48cc6242b5c1-profile_banner-480.png"
+    }
 }

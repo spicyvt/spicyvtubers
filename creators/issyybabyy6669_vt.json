@@ -1,4 +1,27 @@
 {
-    "bio": "Hello welcome to my channel. My name is Marissa. Iam a VTuber  This is the most random stream you will ever be in.  I Play Mostly League Of Legends, and horror games. I hope you enjoy! ",
-    "id": "833606299"
+    "bio": "Hello welcome to my channel. My name is Marissa. Iam a VTuber  This is the most random stream you will ever be in.  I Play Mostly League Of Legends, and horror games. I hope you enjoy!",
+    "twitch": {
+        "id": "833606299",
+        "login": "issyybabyy6669_vt",
+        "displayName": "issyybabyy6669_vt",
+        "createdAt": "2022-09-27T18:06:53.348964Z",
+        "updatedAt": "2026-08-02T01:48:33.194052Z",
+        "description": "Hello welcome to my channel. My name is Marissa. Iam a VTuber  This is the most random stream you will ever be in.  I Play Mostly League Of Legends, and horror games. I hope you enjoy! ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 650
+        },
+        "follows": {
+            "totalCount": 346
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T05:22:09.5959Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a54f0ce-a6ff-44ac-ab5c-8c9c9f745e3c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b93891c-159f-4021-8fa5-26d1e14895f5-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hey there cuties~ Looking to share my passions and a variety of games with my viewers. I hope you all enjoy the streams and have fun!",
-    "id": "1016362464"
+    "twitch": {
+        "id": "1016362464",
+        "login": "avisn0w",
+        "displayName": "AviSn0w",
+        "createdAt": "2024-01-10T10:21:55.256304Z",
+        "updatedAt": "2026-08-02T19:32:19.62714Z",
+        "description": "Hey there cuties~ Looking to share my passions and a variety of games with my viewers. I hope you all enjoy the streams and have fun!",
+        "primaryColorHex": "341C5C",
+        "followers": {
+            "totalCount": 3482
+        },
+        "follows": {
+            "totalCount": 135
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T20:12:14.725933Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/420b9f65-7380-4235-ae59-88eebeefafe5-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6daac07c-d94d-4426-9931-5404e8b6b03f-profile_banner-480.jpeg"
+    }
 }

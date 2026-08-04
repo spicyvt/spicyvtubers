@@ -1,4 +1,27 @@
 {
     "bio": "You can call me Nami!",
-    "id": "503368955"
+    "twitch": {
+        "id": "503368955",
+        "login": "kitsunamii",
+        "displayName": "Kitsunamii",
+        "createdAt": "2020-03-24T21:27:01.188371Z",
+        "updatedAt": "2026-08-03T10:31:29.181301Z",
+        "description": "You can call me Nami!",
+        "primaryColorHex": "84D5FF",
+        "followers": {
+            "totalCount": 7771
+        },
+        "follows": {
+            "totalCount": 513
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T10:46:19.718874Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0cc848b-cadb-4cb6-a0ea-d1600ceb349a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c55d96-1f72-4d2b-bf27-1de714475780-profile_banner-480.png"
+    }
 }

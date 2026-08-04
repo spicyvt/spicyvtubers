@@ -1,4 +1,27 @@
 {
-    "bio": "Hola Chibii hermoso! Bienvenido a mi canal soy Meiii VGamer una stremer con una voz chillona pero que te hará amarme tanto que querrás estar siempre aquí! Ponte cómodo que el momento del mankeo extremo va a comenzar! Juguemos Valorant o Minecraft o Fall Guys,ETC. Pero divirtámonos! ",
-    "id": "600442662"
+    "bio": "Hola Chibii hermoso! Bienvenido a mi canal soy Meiii VGamer una stremer con una voz chillona pero que te hará amarme tanto que querrás estar siempre aquí! Ponte cómodo que el momento del mankeo extremo va a comenzar! Juguemos Valorant o Minecraft o Fall Guys,ETC. Pero divirtámonos!",
+    "twitch": {
+        "id": "600442662",
+        "login": "meiiivgamer",
+        "displayName": "MeiiiVGamer",
+        "createdAt": "2020-10-27T03:41:00.074781Z",
+        "updatedAt": "2026-08-03T18:42:19.511276Z",
+        "description": "Hola Chibii hermoso! Bienvenido a mi canal soy Meiii VGamer una stremer con una voz chillona pero que te hará amarme tanto que querrás estar siempre aquí! Ponte cómodo que el momento del mankeo extremo va a comenzar! Juguemos Valorant o Minecraft o Fall Guys,ETC. Pero divirtámonos! ",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 12991
+        },
+        "follows": {
+            "totalCount": 75
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:44:10.572779Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75bb64cf-83b7-4ac3-ba7d-9824c3cb1845-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a9edba2-73f0-4499-909e-3f6deb23b98b-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Aloha! ♥ It´s me, your friendly neighbourhood space dragon! ♥A virtual goober with virtual booba :&gt; ♥",
-    "id": "67125043"
+    "twitch": {
+        "id": "67125043",
+        "login": "xhyraldia",
+        "displayName": "xHyraldia",
+        "createdAt": "2014-07-24T12:21:21.515596Z",
+        "updatedAt": "2026-07-31T13:02:16.892585Z",
+        "description": "Aloha! ♥ It´s me, your friendly neighbourhood space dragon! ♥A virtual goober with virtual booba :&gt; ♥",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 10149
+        },
+        "follows": {
+            "totalCount": 293
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T13:43:14.342399Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d6615e0-c2c4-482a-af1c-ed33e723340d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/945a2b0a-9ee9-449b-a6c9-713facccfa1d-profile_banner-480.png"
+    }
 }

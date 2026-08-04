@@ -1,4 +1,27 @@
 {
     "bio": "Your Cosmically Chaotic Vtuber 💫⭐ | 18+ Community! | 📧novastarbritevtuber@gmail.com",
-    "id": "1145275683"
+    "twitch": {
+        "id": "1145275683",
+        "login": "novastarbrite",
+        "displayName": "NovaStarbrite",
+        "createdAt": "2024-09-17T14:15:32.789054Z",
+        "updatedAt": "2026-08-01T20:56:25.965119Z",
+        "description": "Your Cosmically Chaotic Vtuber 💫⭐ | 18+ Community! | 📧novastarbritevtuber@gmail.com",
+        "primaryColorHex": "230059",
+        "followers": {
+            "totalCount": 404
+        },
+        "follows": {
+            "totalCount": 356
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T20:51:30.793666Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b7a07e2-224a-4ca5-8c4d-ac1106d5596d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dc83dc2-4195-4f30-bd35-d43bc7eed2b6-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "https://linktr.ee/TadakoNyanko",
-    "id": "770809538"
+    "twitch": {
+        "id": "770809538",
+        "login": "tadakonyanko",
+        "displayName": "TadakoNyanko",
+        "createdAt": "2022-02-08T19:36:37.315851Z",
+        "updatedAt": "2026-06-19T03:24:25.266399Z",
+        "description": "https://linktr.ee/TadakoNyanko",
+        "primaryColorHex": "F500FF",
+        "followers": {
+            "totalCount": 1341
+        },
+        "follows": {
+            "totalCount": 24
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-19T13:32:17.165856Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dbb989f9-ef7b-4ad1-bc0b-58a5c29061d2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9d6acf6-e1fc-4d5b-9df4-9a043a757b39-profile_banner-480.jpeg"
+    }
 }

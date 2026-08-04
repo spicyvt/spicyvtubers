@@ -1,4 +1,27 @@
 {
     "bio": "Hello I am Val! Welcome to my channel I am an adorable totally normal Vtuber.",
-    "id": "874198394"
+    "twitch": {
+        "id": "874198394",
+        "login": "valeriyavixen",
+        "displayName": "valeriyavixen",
+        "createdAt": "2023-01-24T21:27:42.789919Z",
+        "updatedAt": "2026-08-01T23:57:42.510862Z",
+        "description": "Hello I am Val! Welcome to my channel I am an adorable totally normal Vtuber.",
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 390
+        },
+        "follows": {
+            "totalCount": 13
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T06:58:36.54104Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a2cebac-b92e-4f1a-bdf5-4230aac3cd85-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c3ddf91-787d-4889-9ea0-289857bb4ea8-profile_banner-480.png"
+    }
 }

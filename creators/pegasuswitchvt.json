@@ -1,4 +1,27 @@
 {
     "bio": "Welcome to the Cloud Herd! My name is Selene, I'm a comfy cozy Pegasus mommy vtuber. I specialize with collabs, pokemon, tcg and asmr content. Come join me for some chaos and questionable fun! For Business inquiries: PegasusWitchSelene@gmail.com",
-    "id": "555484972"
+    "twitch": {
+        "id": "555484972",
+        "login": "pegasuswitchvt",
+        "displayName": "PegasusWitchVT",
+        "createdAt": "2020-07-17T01:21:17.816888Z",
+        "updatedAt": "2026-07-31T04:21:52.639731Z",
+        "description": "Welcome to the Cloud Herd! My name is Selene, I'm a comfy cozy Pegasus mommy vtuber. I specialize with collabs, pokemon, tcg and asmr content. Come join me for some chaos and questionable fun! For Business inquiries: PegasusWitchSelene@gmail.com",
+        "primaryColorHex": "F385DF",
+        "followers": {
+            "totalCount": 8953
+        },
+        "follows": {
+            "totalCount": 1948
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-17T05:52:17.6752Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/405873ed-1b45-45b7-ac18-f91bbe3c440d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f276b931-0e0c-42a8-a359-0ffd143993cd-profile_banner-480.jpeg"
+    }
 }

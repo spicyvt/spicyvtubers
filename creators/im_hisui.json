@@ -1,4 +1,27 @@
 {
     "bio": "your favorite scuffed streamer ;)",
-    "id": "624566470"
+    "twitch": {
+        "id": "624566470",
+        "login": "im_hisui",
+        "displayName": "im_hisui",
+        "createdAt": "2020-12-22T07:47:42.043655Z",
+        "updatedAt": "2026-08-02T23:28:06.412103Z",
+        "description": "your favorite scuffed streamer ;)",
+        "primaryColorHex": "FF94E5",
+        "followers": {
+            "totalCount": 3410
+        },
+        "follows": {
+            "totalCount": 489
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T01:30:41.272173Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad393f47-02d4-466d-9fd4-9a11693dcadb-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22251a0f-fae8-4609-93f9-7f1a948310d2-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "❀ Kitsune Vtuber ✧ Fighting Games, Shooters and RPGs ❀ Live every Mon, Tue, Thur @ 4PM UK",
-    "id": "691820563"
+    "twitch": {
+        "id": "691820563",
+        "login": "cynthilaashera",
+        "displayName": "CynthilaAshera",
+        "createdAt": "2021-05-28T21:36:15.285257Z",
+        "updatedAt": "2026-07-31T15:07:35.216012Z",
+        "description": "❀ Kitsune Vtuber ✧ Fighting Games, Shooters and RPGs ❀ Live every Mon, Tue, Thur @ 4PM UK",
+        "primaryColorHex": "D163FF",
+        "followers": {
+            "totalCount": 3191
+        },
+        "follows": {
+            "totalCount": 59
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T19:32:55.301615Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7f57321-cc03-4fbf-b9f6-215bd3db4948-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3046c0be-aada-4f66-b04a-ff894ffa5895-profile_banner-480.png"
+    }
 }

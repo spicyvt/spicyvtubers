@@ -1,4 +1,27 @@
 {
     "bio": "An Icelandic/SE-Asian Kitsune-Oni VTuber from The Mountains! Air is thin and oxygen is scarce so Sugi may be a lil stupid!",
-    "id": "127113689"
+    "twitch": {
+        "id": "127113689",
+        "login": "sugituber",
+        "displayName": "sugituber",
+        "createdAt": "2016-06-18T13:23:38.439373Z",
+        "updatedAt": "2026-07-04T23:46:54.757423Z",
+        "description": "An Icelandic/SE-Asian Kitsune-Oni VTuber from The Mountains! Air is thin and oxygen is scarce so Sugi may be a lil stupid!",
+        "primaryColorHex": "FF0050",
+        "followers": {
+            "totalCount": 462
+        },
+        "follows": {
+            "totalCount": 176
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-05T02:24:38.884425Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/708e9584-dde2-4f94-971e-8f0706315fe2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4f5ba2a-6b85-4e45-bcca-6ccf9db5cedb-profile_banner-480.png"
+    }
 }

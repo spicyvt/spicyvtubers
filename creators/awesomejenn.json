@@ -1,4 +1,27 @@
 {
-    "bio": " Full-time streamer and lover of games! I am an avid gamer and a person who loves to have fun with friends doing what we do best -- gaming!  Streaming is so much fun! I am here to promote the good vibes of gaming with my out there and blunt antics!  Check me out as well on Vtubie as well. ",
-    "id": "37280821"
+    "bio": "Full-time streamer and lover of games! I am an avid gamer and a person who loves to have fun with friends doing what we do best -- gaming!  Streaming is so much fun! I am here to promote the good vibes of gaming with my out there and blunt antics!  Check me out as well on Vtubie as well.",
+    "twitch": {
+        "id": "37280821",
+        "login": "awesomejenn",
+        "displayName": "AwesomeJenn",
+        "createdAt": "2012-10-29T17:41:50.022347Z",
+        "updatedAt": "2024-09-10T22:04:35.703053Z",
+        "description": " Full-time streamer and lover of games! I am an avid gamer and a person who loves to have fun with friends doing what we do best -- gaming!  Streaming is so much fun! I am here to promote the good vibes of gaming with my out there and blunt antics!  Check me out as well on Vtubie as well. ",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 1475
+        },
+        "follows": {
+            "totalCount": 351
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2023-08-20T01:24:20.820502Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31e07fa8-e784-48e8-93b3-d5cbc6916096-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a08e5246-7d71-4f2e-b763-16e87efc1c23-profile_banner-480.png"
+    }
 }

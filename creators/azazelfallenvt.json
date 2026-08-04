@@ -1,4 +1,27 @@
 {
     "bio": "I am Azazel the Octopus Yokai vtuber, I am here to haunt your dreams and steal your heart. Hear my voice and follow me to the deeps. Model by @necropsii  Overlay in-stream is by @Raiu_Relo    Logo by @necropsii",
-    "id": "139431469"
+    "twitch": {
+        "id": "139431469",
+        "login": "azazelfallenvt",
+        "displayName": "AzazelFallenVT",
+        "createdAt": "2016-11-13T16:00:48.508316Z",
+        "updatedAt": "2026-07-12T20:03:55.622476Z",
+        "description": "I am Azazel the Octopus Yokai vtuber, I am here to haunt your dreams and steal your heart. Hear my voice and follow me to the deeps. Model by @necropsii  Overlay in-stream is by @Raiu_Relo    Logo by @necropsii",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 489
+        },
+        "follows": {
+            "totalCount": 583
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-12T23:42:01.69692Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/234534c3-c761-4a6d-9743-13fcb7a83197-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/570fdcac-19c2-4ecc-8ffd-8dd8917b10e0-profile_banner-480.jpeg"
+    }
 }

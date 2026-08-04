@@ -1,4 +1,27 @@
 {
     "bio": "Holy Priestess Sulkycats. Bass Player and worshipper of the holy thighble. Sensitive tail.For business inquiries sulkycats.7@gmail.com",
-    "id": "271416712"
+    "twitch": {
+        "id": "271416712",
+        "login": "sulkycats",
+        "displayName": "sulkycats",
+        "createdAt": "2018-11-01T14:47:53.098652Z",
+        "updatedAt": "2026-08-02T16:01:14.386543Z",
+        "description": "Holy Priestess Sulkycats. Bass Player and worshipper of the holy thighble. Sensitive tail.For business inquiries sulkycats.7@gmail.com",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 21500
+        },
+        "follows": {
+            "totalCount": 509
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T18:59:36.966354Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/687f370f-f0a5-4664-a279-afa80d025e31-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/123fa427-f74a-4070-bb99-ac52973db415-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Useless Fox Vtuber 🦊 Come vibe with me 🦊 ✉️ BUSINESS EMAIL: foxxylillyvtuber@gmail.com ✉️",
-    "id": "491607961"
+    "twitch": {
+        "id": "491607961",
+        "login": "foxxylillyvt",
+        "displayName": "FoxxyLillyVT",
+        "createdAt": "2020-02-10T10:45:10.996167Z",
+        "updatedAt": "2026-08-03T19:50:30.80157Z",
+        "description": "Useless Fox Vtuber 🦊 Come vibe with me 🦊 ✉️ BUSINESS EMAIL: foxxylillyvtuber@gmail.com ✉️",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 3533
+        },
+        "follows": {
+            "totalCount": 1363
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T19:50:11.431386Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cef7dfab-e236-4dee-8d43-01a71b812184-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/473be58f-e31c-42a0-b27c-dcdf4f75e5e4-profile_banner-480.jpeg"
+    }
 }

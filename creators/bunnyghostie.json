@@ -1,4 +1,27 @@
 {
     "bio": "Hiya! My name is Emi, your ghost-bunny sweetheart and NSFW VA! Come and spook around! Minors please do not interact! 18+ only!",
-    "id": "432308781"
+    "twitch": {
+        "id": "432308781",
+        "login": "bunnyghostie",
+        "displayName": "bunnyghostie",
+        "createdAt": "2019-04-25T20:26:14.948645Z",
+        "updatedAt": "2026-07-28T21:31:45.447622Z",
+        "description": "Hiya! My name is Emi, your ghost-bunny sweetheart and NSFW VA! Come and spook around! Minors please do not interact! 18+ only!",
+        "primaryColorHex": "AF86EC",
+        "followers": {
+            "totalCount": 274
+        },
+        "follows": {
+            "totalCount": 38
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-25T20:29:10.702099Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/88930b78-48af-45c5-9abd-59656e112887-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc5dd20e-7f05-4645-9d04-25c4cd07ceea-profile_banner-480.jpeg"
+    }
 }

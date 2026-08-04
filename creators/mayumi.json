@@ -1,4 +1,27 @@
 {
     "bio": "Moon Maiden and Crown Princess of Stellaris || 18+ ASMR || @MayumiAlter for Gaming || Twitch, Kick & Youtube Partner || business inquiries: mayumi.yoruno@gmail.com 🎀✨",
-    "id": "108361140"
+    "twitch": {
+        "id": "108361140",
+        "login": "mayumi",
+        "displayName": "Mayumi",
+        "createdAt": "2015-11-30T01:26:10.689767Z",
+        "updatedAt": "2026-07-27T14:40:15.418004Z",
+        "description": "Moon Maiden and Crown Princess of Stellaris || 18+ ASMR || @MayumiAlter for Gaming || Twitch, Kick & Youtube Partner || business inquiries: mayumi.yoruno@gmail.com 🎀✨",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 9951
+        },
+        "follows": {
+            "totalCount": 384
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-27T17:53:24.515063Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d46fe506-2db6-41a7-b6a8-3858a55054f1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/88e887e8-fcd6-45fe-b5e1-1e0a550ee0cb-profile_banner-480.png"
+    }
 }

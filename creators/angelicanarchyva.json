@@ -1,4 +1,27 @@
 {
-    "bio": "Hi new frens! - I'm Angelic, pumpkin flavored chaos gremlin! OG Pumpkin-Spiced V-Tuber from the Land down under! Everything is upside down for me, that's why I am bad at games, but at least I am funny enough for you to laugh at! ",
-    "id": "1413820872"
+    "bio": "Hi new frens! - I'm Angelic, pumpkin flavored chaos gremlin! OG Pumpkin-Spiced V-Tuber from the Land down under! Everything is upside down for me, that's why I am bad at games, but at least I am funny enough for you to laugh at!",
+    "twitch": {
+        "id": "1413820872",
+        "login": "angelicanarchyva",
+        "displayName": "AngelicAnarchyVA",
+        "createdAt": "2025-12-29T23:18:28.559116Z",
+        "updatedAt": "2026-07-13T01:01:00.222334Z",
+        "description": "Hi new frens! - I'm Angelic, pumpkin flavored chaos gremlin! OG Pumpkin-Spiced V-Tuber from the Land down under! Everything is upside down for me, that's why I am bad at games, but at least I am funny enough for you to laugh at! ",
+        "primaryColorHex": "7CD5FF",
+        "followers": {
+            "totalCount": 195
+        },
+        "follows": {
+            "totalCount": 57
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-04T02:25:48.770409Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/621a6110-a9b8-4eb2-b5f1-6a30a747bb2d-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

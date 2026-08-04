@@ -1,4 +1,27 @@
 {
-    "bio": "Gaming Penguin Detective VTuber/VStreamer. Enjoy playing games either solo or in co-op. Always just swimming the gaming world with penguins. Check out YT Penlock Holmes, Instagram and Facebook page or Twitter. ",
-    "id": "556716028"
+    "bio": "Gaming Penguin Detective VTuber/VStreamer. Enjoy playing games either solo or in co-op. Always just swimming the gaming world with penguins. Check out YT Penlock Holmes, Instagram and Facebook page or Twitter.",
+    "twitch": {
+        "id": "556716028",
+        "login": "penlockholmes",
+        "displayName": "PenlockHolmes",
+        "createdAt": "2020-07-20T14:36:25.445445Z",
+        "updatedAt": "2026-08-03T05:04:25.184381Z",
+        "description": "Gaming Penguin Detective VTuber/VStreamer. Enjoy playing games either solo or in co-op. Always just swimming the gaming world with penguins. Check out YT Penlock Holmes, Instagram and Facebook page or Twitter. ",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 3662
+        },
+        "follows": {
+            "totalCount": 637
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T07:10:57.407412Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/250a819f-f8e2-4998-a493-1a878dbd2b5e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed6fe3ee-af99-4b57-bb48-c5b804817cd4-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Be afraid!~ Little sis is here!! (૭ ｡•̀ ᵕ •́｡ )૭ Check out my other socials here! (👉⁰▽⁰)👉",
-    "id": "1011883719"
+    "twitch": {
+        "id": "1011883719",
+        "login": "immybisou",
+        "displayName": "ImmyBisou",
+        "createdAt": "2023-12-31T20:56:37.319345Z",
+        "updatedAt": "2026-07-31T22:29:00.681783Z",
+        "description": "Be afraid!~ Little sis is here!! (૭ ｡•̀ ᵕ •́｡ )૭ Check out my other socials here! (👉⁰▽⁰)👉",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 8648
+        },
+        "follows": {
+            "totalCount": 19
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T00:57:12.64872Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aee3b42b-431f-4927-ae54-066318d40841-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c078c727-05db-4292-b0aa-945b6f134f41-profile_banner-480.jpeg"
+    }
 }

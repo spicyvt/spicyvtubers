@@ -1,4 +1,27 @@
 {
     "bio": "Hi I'm TrinkBell and i play a mix of games. Join me as i try and not die. I'm a vampire princess who has a very handsome wendigo bodyguard/Husband. So stay and chat.",
-    "id": "99687116"
+    "twitch": {
+        "id": "99687116",
+        "login": "trinkbell",
+        "displayName": "TrinkBell",
+        "createdAt": "2015-08-19T00:43:01.690817Z",
+        "updatedAt": "2026-07-31T23:01:07.089723Z",
+        "description": "Hi I'm TrinkBell and i play a mix of games. Join me as i try and not die. I'm a vampire princess who has a very handsome wendigo bodyguard/Husband. So stay and chat.",
+        "primaryColorHex": "5B19BF",
+        "followers": {
+            "totalCount": 946
+        },
+        "follows": {
+            "totalCount": 529
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T00:50:05.793103Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6442802b-19c5-4050-8b73-77fd545786f8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecb1ff7-be3e-40e0-b0c5-89b41751cefd-profile_banner-480.png"
+    }
 }

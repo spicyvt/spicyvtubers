@@ -1,4 +1,27 @@
 {
     "bio": "The Goddess of War. Fight me, I dare you~ ⚔️",
-    "id": "910512276"
+    "twitch": {
+        "id": "910512276",
+        "login": "aresmythos",
+        "displayName": "AresMythos",
+        "createdAt": "2023-05-17T01:53:20.674906Z",
+        "updatedAt": "2026-07-18T21:23:41.740799Z",
+        "description": "The Goddess of War. Fight me, I dare you~ ⚔️",
+        "primaryColorHex": "EC1310",
+        "followers": {
+            "totalCount": 12383
+        },
+        "follows": {
+            "totalCount": 150
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-19T00:50:10.325438Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb4202b7-49e9-417a-b2b1-b2c8d92efe65-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed62468e-0302-47be-89fb-cab1f44e03a0-profile_banner-480.png"
+    }
 }

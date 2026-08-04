@@ -1,4 +1,27 @@
 {
     "bio": "A Cyber-Succubus from the deepest circle of the internet's hellscape. Check out my DMCA-free Tunes for your stream! || She/Her || Nintendo and Pew-Pew Addict || Business Inquiries Email: skoutvt@proton.me",
-    "id": "138861778"
+    "twitch": {
+        "id": "138861778",
+        "login": "skout",
+        "displayName": "Skout",
+        "createdAt": "2016-11-06T00:53:35.615928Z",
+        "updatedAt": "2026-08-02T13:07:40.665655Z",
+        "description": "A Cyber-Succubus from the deepest circle of the internet's hellscape. Check out my DMCA-free Tunes for your stream! || She/Her || Nintendo and Pew-Pew Addict || Business Inquiries Email: skoutvt@proton.me",
+        "primaryColorHex": "EE6BFF",
+        "followers": {
+            "totalCount": 12591
+        },
+        "follows": {
+            "totalCount": 1315
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T13:53:03.116984Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/99c09102-2a34-47dc-ac7a-775cf5eb0efd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f2436b7-9592-4870-b829-e4714738c3d5-profile_banner-480.png"
+    }
 }

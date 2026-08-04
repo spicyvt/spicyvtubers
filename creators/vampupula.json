@@ -1,4 +1,27 @@
 {
     "bio": "Vampy da 18+ vampire puppi girl ♡ ˎˊ˗ ♡ STREAMS: random times 4 now c:",
-    "id": "1056056041"
+    "twitch": {
+        "id": "1056056041",
+        "login": "vampupula",
+        "displayName": "vampupula",
+        "createdAt": "2024-03-23T10:07:39.184454Z",
+        "updatedAt": "2026-07-16T03:44:13.587068Z",
+        "description": "Vampy da 18+ vampire puppi girl ♡ ˎˊ˗ ♡ STREAMS: random times 4 now c:",
+        "primaryColorHex": "FFCAF5",
+        "followers": {
+            "totalCount": 637
+        },
+        "follows": {
+            "totalCount": 25
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-04T01:13:37.910565Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ccd88947-c0ab-43d7-ac55-1629b33fc949-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ef397a5-18c2-4e19-9985-9bbfcbe0accc-profile_banner-480.png"
+    }
 }

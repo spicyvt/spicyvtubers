@@ -1,4 +1,27 @@
 {
     "bio": "Virtual YouTuber Trina Wylington ON TWITCH!!! PFP by Chosmahe [VGen + Twitter (X)]",
-    "id": "242324181"
+    "twitch": {
+        "id": "242324181",
+        "login": "trina_wylington",
+        "displayName": "Trina_Wylington",
+        "createdAt": "2018-07-26T21:27:05.735888Z",
+        "updatedAt": "2026-06-02T13:57:12.8707Z",
+        "description": "Virtual YouTuber Trina Wylington ON TWITCH!!! PFP by Chosmahe [VGen + Twitter (X)]",
+        "primaryColorHex": "00C7AC",
+        "followers": {
+            "totalCount": 702
+        },
+        "follows": {
+            "totalCount": 40
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-11-03T17:56:12.797036Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e9c8db1-ea42-4dd2-aa4b-5d9145bf90b5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f271841a-9c90-4ffb-b508-dfc1d7753afd-profile_banner-480.png"
+    }
 }

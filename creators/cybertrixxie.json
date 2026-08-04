@@ -1,4 +1,27 @@
 {
     "bio": "♡ Just a blonde gremlin content creator! Here to vibe with you all! ♡",
-    "id": "937002325"
+    "twitch": {
+        "id": "937002325",
+        "login": "cybertrixxie",
+        "displayName": "cybertrixxie",
+        "createdAt": "2023-07-27T02:38:39.187292Z",
+        "updatedAt": "2026-08-02T21:33:28.438952Z",
+        "description": "♡ Just a blonde gremlin content creator! Here to vibe with you all! ♡",
+        "primaryColorHex": "FF63E2",
+        "followers": {
+            "totalCount": 341
+        },
+        "follows": {
+            "totalCount": 34
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T02:32:51.192542Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6ba08be-0c28-4d85-aff8-a60b2461b4f5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4fc41663-c050-4188-be43-87276f8adcf3-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "hii im emuuki (eh-moo-key) very very goth tsundere bug with medium energy that streams or whatever (They/Them) || For business - contact.emuuki@gmail.com || Schedule in Discord!",
-    "id": "759133486"
+    "twitch": {
+        "id": "759133486",
+        "login": "emuuki",
+        "displayName": "Emuuki",
+        "createdAt": "2022-01-06T02:36:24.916469Z",
+        "updatedAt": "2026-08-04T00:20:38.254025Z",
+        "description": "hii im emuuki (eh-moo-key) very very goth tsundere bug with medium energy that streams or whatever (They/Them) || For business - contact.emuuki@gmail.com || Schedule in Discord!",
+        "primaryColorHex": "2B203A",
+        "followers": {
+            "totalCount": 7598
+        },
+        "follows": {
+            "totalCount": 354
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:21:39.093168Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/da37ecbd-2956-4c9f-8f81-a5df4333f3e5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/023df828-9da9-403f-a95d-6e96ba163c76-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "You are now uplinked to Noct.EXE, a corrupted consciousness drifting through dream fragments and neural resonance. Join the NerveCluster and roam the digital void with us. The stream never sleeps, and neither do we.",
-    "id": "516572208"
+    "twitch": {
+        "id": "516572208",
+        "login": "nocturnalnerves",
+        "displayName": "nocturnalnerves",
+        "createdAt": "2020-04-18T18:02:30.324303Z",
+        "updatedAt": "2026-08-03T19:19:35.297493Z",
+        "description": "You are now uplinked to Noct.EXE, a corrupted consciousness drifting through dream fragments and neural resonance. Join the NerveCluster and roam the digital void with us. The stream never sleeps, and neither do we.",
+        "primaryColorHex": "A8E300",
+        "followers": {
+            "totalCount": 1709
+        },
+        "follows": {
+            "totalCount": 306
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:34:11.28766Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b3a432f-f993-49ba-bc4e-90be18398413-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c2da6ec-dfa4-4b6e-93d2-eadb9ab1989d-profile_banner-480.png"
+    }
 }

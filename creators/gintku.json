@@ -1,4 +1,27 @@
 {
-    "bio": " hello, I'm gin ♡(´･ᴗ･ ` ) 2d & irl strawberry-blonde gamer catgirl🍓^•ﻌ•^ฅ ",
-    "id": "517366500"
+    "bio": "hello, I'm gin ♡(´･ᴗ･ ` ) 2d & irl strawberry-blonde gamer catgirl🍓^•ﻌ•^ฅ",
+    "twitch": {
+        "id": "517366500",
+        "login": "gintku",
+        "displayName": "gintku",
+        "createdAt": "2020-04-20T00:55:56.2971Z",
+        "updatedAt": "2026-08-03T03:08:23.452196Z",
+        "description": " hello, I'm gin ♡(´･ᴗ･ ` ) 2d & irl strawberry-blonde gamer catgirl🍓^•ﻌ•^ฅ ",
+        "primaryColorHex": "A2C1FF",
+        "followers": {
+            "totalCount": 1039
+        },
+        "follows": {
+            "totalCount": 246
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:32:56.759987Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d95cafb4-247f-40c1-8542-c2175b4a5b6c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a810486-5d53-42f3-a8de-28f3d8d45bf5-profile_banner-480.jpeg"
+    }
 }

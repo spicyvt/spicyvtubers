@@ -1,4 +1,27 @@
 {
     "bio": "HowlingLotus or Howl or Lotus | she/her | Business: howlinglotus219@gmail.com 🪷An average wolf girl ready to party with new friends &lt;3 🪷Awwwwoooo~~~",
-    "id": "820928133"
+    "twitch": {
+        "id": "820928133",
+        "login": "howlinglotusvt",
+        "displayName": "HowlingLotusVT",
+        "createdAt": "2022-08-27T22:19:12.453504Z",
+        "updatedAt": "2026-08-02T23:35:48.925674Z",
+        "description": "HowlingLotus or Howl or Lotus | she/her | Business: howlinglotus219@gmail.com 🪷An average wolf girl ready to party with new friends &lt;3 🪷Awwwwoooo~~~",
+        "primaryColorHex": "7E89D9",
+        "followers": {
+            "totalCount": 5027
+        },
+        "follows": {
+            "totalCount": 1085
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T01:32:42.667742Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ea46b9a7-cc41-4b94-8986-715ef4042220-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a30268-f230-4ffb-bef4-42d0b9553db0-profile_banner-480.jpeg"
+    }
 }

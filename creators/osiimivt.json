@@ -1,4 +1,27 @@
 {
-    "bio": "Succubus Vtuber + Artist '💜'↝ ✦ ✉ **ErOsiimiStudio@gmail.com** ",
-    "id": "546317180"
+    "bio": "Succubus Vtuber + Artist '💜'↝ ✦ ✉ **ErOsiimiStudio@gmail.com**",
+    "twitch": {
+        "id": "546317180",
+        "login": "osiimivt",
+        "displayName": "OsiimiVT",
+        "createdAt": "2020-06-21T15:58:26.307078Z",
+        "updatedAt": "2026-08-01T14:08:38.169953Z",
+        "description": "Succubus Vtuber + Artist '💜'↝ ✦ ✉ **ErOsiimiStudio@gmail.com** ",
+        "primaryColorHex": "6C509E",
+        "followers": {
+            "totalCount": 15401
+        },
+        "follows": {
+            "totalCount": 110
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T18:31:38.245765Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/042f415c-0792-4d1d-857e-86054c2a62e2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2498da47-6728-4750-ab10-b91f0cd7eb9d-profile_banner-480.jpeg"
+    }
 }

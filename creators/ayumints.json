@@ -1,4 +1,27 @@
 {
     "bio": "Hey! I'm Ayumin! I just stream whatever I feel like playing! :3",
-    "id": "89109982"
+    "twitch": {
+        "id": "89109982",
+        "login": "ayumints",
+        "displayName": "Ayumints",
+        "createdAt": "2015-04-21T01:33:31.874236Z",
+        "updatedAt": "2026-07-31T19:34:35.022875Z",
+        "description": "Hey! I'm Ayumin! I just stream whatever I feel like playing! :3",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 3434
+        },
+        "follows": {
+            "totalCount": 453
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T23:20:45.381762Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c54e80a-113b-4ad5-8469-97d98eab2a2a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/decb03c7-9abb-4176-b094-3bc051d43924-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "\"Do you have what it takes to join me?\" ✧ Mafia Boss of the Zodiacs, Australian Bull VTuber, Variety Streamer, and ASMR Creator. ✧ (For Business: invain.biz@gmail.com)",
-    "id": "36888859"
+    "twitch": {
+        "id": "36888859",
+        "login": "invain",
+        "displayName": "InVain",
+        "createdAt": "2012-10-13T23:58:20.678144Z",
+        "updatedAt": "2026-08-03T01:21:21.041295Z",
+        "description": "\"Do you have what it takes to join me?\" ✧ Mafia Boss of the Zodiacs, Australian Bull VTuber, Variety Streamer, and ASMR Creator. ✧ (For Business: invain.biz@gmail.com)",
+        "primaryColorHex": "2F1D3B",
+        "followers": {
+            "totalCount": 85043
+        },
+        "follows": {
+            "totalCount": 298
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:17:24.095889Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5b7ce24-964f-4f3a-9d64-ee1f28de1b5f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77f3758d-e097-46d8-a872-21e898a4a7a8-profile_banner-480.png"
+    }
 }

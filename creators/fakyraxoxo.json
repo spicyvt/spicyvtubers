@@ -1,4 +1,27 @@
 {
     "bio": "I stream sometimes.",
-    "id": "546977858"
+    "twitch": {
+        "id": "546977858",
+        "login": "fakyraxoxo",
+        "displayName": "FakyraXoXo",
+        "createdAt": "2020-06-23T11:56:47.711742Z",
+        "updatedAt": "2026-07-31T08:28:28.497903Z",
+        "description": "I stream sometimes.",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 42337
+        },
+        "follows": {
+            "totalCount": 59
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T18:10:24.713068Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/489393c2-b943-4538-8b0b-d5c4b6c47a0d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9b9a601-73bf-421b-bb1e-8eea71e0043a-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "✨ Hello my darlings, I am Goddess Reverie, your favorite soft Dommy Mommy VTuber! ✨ Sit back, relax and enjoy cozy vibes, degen commentary, and my (sometimes) w(hole)some community. 📨 BUSINESS: inquiries@goddessreverie.com",
-    "id": "981574508"
+    "twitch": {
+        "id": "981574508",
+        "login": "goddessreverie",
+        "displayName": "GoddessReverie",
+        "createdAt": "2023-11-02T20:48:07.647265Z",
+        "updatedAt": "2026-08-01T20:07:21.910903Z",
+        "description": "✨ Hello my darlings, I am Goddess Reverie, your favorite soft Dommy Mommy VTuber! ✨ Sit back, relax and enjoy cozy vibes, degen commentary, and my (sometimes) w(hole)some community. 📨 BUSINESS: inquiries@goddessreverie.com",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 1000
+        },
+        "follows": {
+            "totalCount": 103
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T00:34:21.357641Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aac360e4-b310-43bb-acf5-bcfd1658bdae-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d77e748-2a2f-4026-8f15-4d9fe78ebb05-profile_banner-480.png"
+    }
 }

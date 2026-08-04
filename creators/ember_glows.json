@@ -1,4 +1,27 @@
 {
     "bio": "Nail tech possessed by a self-love demon. 40s/queer/AuDHD/total dork. 🔞MDNI",
-    "id": "1053716974"
+    "twitch": {
+        "id": "1053716974",
+        "login": "ember_glows",
+        "displayName": "ember_glows",
+        "createdAt": "2024-03-17T23:30:16.623247Z",
+        "updatedAt": "2026-07-12T19:44:14.135221Z",
+        "description": "Nail tech possessed by a self-love demon. 40s/queer/AuDHD/total dork. 🔞MDNI",
+        "primaryColorHex": "FF3880",
+        "followers": {
+            "totalCount": 508
+        },
+        "follows": {
+            "totalCount": 629
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-21T22:26:26.268542Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/545fc2c0-5b32-4c31-a931-3ff1e4a6e67f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e13b3bed-baa5-4c7f-bfc4-3ed2bd2c8deb-profile_banner-480.jpeg"
+    }
 }

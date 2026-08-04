@@ -1,4 +1,27 @@
 {
     "bio": "Hello! I make spicy content, and skits, react to stuff, play video games all day, mostly mario kart~!I'm Misty but you can call me Lily. I am just a clumsy pink-headed girl~",
-    "id": "123610954"
+    "twitch": {
+        "id": "123610954",
+        "login": "mistygarden",
+        "displayName": "MistyGarden",
+        "createdAt": "2016-05-06T18:42:29.868899Z",
+        "updatedAt": "2026-07-07T21:48:56.052244Z",
+        "description": "Hello! I make spicy content, and skits, react to stuff, play video games all day, mostly mario kart~!I'm Misty but you can call me Lily. I am just a clumsy pink-headed girl~",
+        "primaryColorHex": "FF6BAF",
+        "followers": {
+            "totalCount": 1048
+        },
+        "follows": {
+            "totalCount": 230
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-03T01:22:07.451454Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f5b971-7f35-41a4-90c3-bbec93892f4d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70558f9a-7abe-4466-bba8-1116584a305f-profile_banner-480.png"
+    }
 }

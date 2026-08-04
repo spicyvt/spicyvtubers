@@ -1,4 +1,27 @@
 {
     "bio": "Your locally non-local Fish Wife archaeologist always on the hunt for more information and more fun games!",
-    "id": "93026225"
+    "twitch": {
+        "id": "93026225",
+        "login": "esmieinsitu",
+        "displayName": "EsmieInSitu",
+        "createdAt": "2015-06-08T19:18:16.962219Z",
+        "updatedAt": "2026-07-31T21:45:00.76922Z",
+        "description": "Your locally non-local Fish Wife archaeologist always on the hunt for more information and more fun games!",
+        "primaryColorHex": "07342E",
+        "followers": {
+            "totalCount": 1519
+        },
+        "follows": {
+            "totalCount": 440
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-12T02:58:54.627056Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd54b574-4f0c-4315-82f8-2d779c6924cd-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6df8821-000d-4fee-980d-5ebbea1144f5-profile_banner-480.png"
+    }
 }

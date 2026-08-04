@@ -1,4 +1,27 @@
 {
-    "bio": "✨ Eldritch Shapeshifting Vtuber ✨Meowdy, mortals~ I'm a lil cosmic menace who loves making art, solving puzzles, and playing Metroidvania-styles games! ",
-    "id": "495657876"
+    "bio": "✨ Eldritch Shapeshifting Vtuber ✨Meowdy, mortals~ I'm a lil cosmic menace who loves making art, solving puzzles, and playing Metroidvania-styles games!",
+    "twitch": {
+        "id": "495657876",
+        "login": "itsrenrie",
+        "displayName": "ItsRenRie",
+        "createdAt": "2020-02-27T17:08:18.161578Z",
+        "updatedAt": "2026-08-03T01:59:37.506955Z",
+        "description": "✨ Eldritch Shapeshifting Vtuber ✨Meowdy, mortals~ I'm a lil cosmic menace who loves making art, solving puzzles, and playing Metroidvania-styles games! ",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 1384
+        },
+        "follows": {
+            "totalCount": 408
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T20:14:22.061289Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/560509da-dfb5-4c5a-a8f0-901d042b268e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aad98406-623a-4f7d-86a9-0563da0c2a6d-profile_banner-480.jpeg"
+    }
 }

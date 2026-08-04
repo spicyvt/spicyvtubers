@@ -1,4 +1,27 @@
 {
     "bio": "just want to be more social i guess? https://linktr.ee/therootbeer",
-    "id": "427422173"
+    "twitch": {
+        "id": "427422173",
+        "login": "root_beerlive",
+        "displayName": "ROOT_BEERlive",
+        "createdAt": "2019-04-02T02:13:35.993632Z",
+        "updatedAt": "2026-05-12T01:39:21.800977Z",
+        "description": "just want to be more social i guess? https://linktr.ee/therootbeer",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 694
+        },
+        "follows": {
+            "totalCount": 105
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-12T02:49:12.202243Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2169cdd-5d03-461e-890d-62be4d177442-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/feda47d5-f343-47a3-b12b-dbbc2347cfb4-profile_banner-480.png"
+    }
 }

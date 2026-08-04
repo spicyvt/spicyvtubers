@@ -1,4 +1,27 @@
 {
     "bio": "Hi everyone welcome to my Twitch channel! I'm Sif Avellana and I'm a fluffy squirrel vtuber from Denmark! Let's have tons of fun together in my secret treehouse!",
-    "id": "702139592"
+    "twitch": {
+        "id": "702139592",
+        "login": "sifavellana",
+        "displayName": "SifAvellana",
+        "createdAt": "2021-06-28T06:16:29.749397Z",
+        "updatedAt": "2026-08-03T21:12:13.581498Z",
+        "description": "Hi everyone welcome to my Twitch channel! I'm Sif Avellana and I'm a fluffy squirrel vtuber from Denmark! Let's have tons of fun together in my secret treehouse!",
+        "primaryColorHex": "00A3A3",
+        "followers": {
+            "totalCount": 29617
+        },
+        "follows": {
+            "totalCount": 804
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:03:31.169737Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7eeb6182-6ca8-414d-b88b-145e3d32af02-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/634468a5-5da7-46a1-b962-26f560182e80-profile_banner-480.png"
+    }
 }

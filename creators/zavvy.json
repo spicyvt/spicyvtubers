@@ -1,4 +1,27 @@
 {
     "bio": "chronically sleepy ✨ semi-professional rage-baiter ✨ friendslop connoisseur ✨ loud",
-    "id": "535876748"
+    "twitch": {
+        "id": "535876748",
+        "login": "zavvy",
+        "displayName": "ZAVVY",
+        "createdAt": "2020-05-26T15:46:02.651458Z",
+        "updatedAt": "2026-08-03T05:12:34.209735Z",
+        "description": "chronically sleepy ✨ semi-professional rage-baiter ✨ friendslop connoisseur ✨ loud",
+        "primaryColorHex": "8A1917",
+        "followers": {
+            "totalCount": 28159
+        },
+        "follows": {
+            "totalCount": 890
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T18:01:06.733382Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d454de4-29e8-4bbe-8113-66bf8fb1a363-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/486af533-d768-4df9-9291-2a99274df75e-profile_banner-480.png"
+    }
 }

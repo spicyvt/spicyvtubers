@@ -1,4 +1,27 @@
 {
     "bio": "regarded tomboy hellhound",
-    "id": "618962456"
+    "twitch": {
+        "id": "618962456",
+        "login": "pubby",
+        "displayName": "pubby",
+        "createdAt": "2020-12-11T01:53:30.698615Z",
+        "updatedAt": "2026-07-31T21:12:42.307747Z",
+        "description": "regarded tomboy hellhound",
+        "primaryColorHex": "750C0C",
+        "followers": {
+            "totalCount": 14359
+        },
+        "follows": {
+            "totalCount": 678
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T01:01:03.246722Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/46a8fb44-7752-4e0c-b73b-d39e0c962656-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dcf7c007-c3ba-4686-8189-9f47fe1b22f8-profile_banner-480.png"
+    }
 }

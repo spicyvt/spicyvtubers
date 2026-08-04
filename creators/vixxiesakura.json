@@ -1,4 +1,27 @@
 {
     "bio": "Hi hi! 🌸 I'm Vixxie! ☕ Your coffee obsessed and playful Kitsune ♡ I play a variety of games and would love it if you visited my Café~ 💌 Business Email: Vixxie_Chan@yahoo.com",
-    "id": "656766804"
+    "twitch": {
+        "id": "656766804",
+        "login": "vixxiesakura",
+        "displayName": "VixxieSakura",
+        "createdAt": "2021-03-02T03:05:49.983677Z",
+        "updatedAt": "2026-08-03T00:51:01.415084Z",
+        "description": "Hi hi! 🌸 I'm Vixxie! ☕ Your coffee obsessed and playful Kitsune ♡ I play a variety of games and would love it if you visited my Café~ 💌 Business Email: Vixxie_Chan@yahoo.com",
+        "primaryColorHex": "FF9DED",
+        "followers": {
+            "totalCount": 9257
+        },
+        "follows": {
+            "totalCount": 127
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T04:24:44.682514Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/00169bb7-9cb6-4e21-9171-b60dd1f7b918-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ef550b7-9229-4268-a301-1598c0d5151b-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "a chronically ill goth girl looking to spread happiness and laughter ",
-    "id": "666931568"
+    "bio": "a chronically ill goth girl looking to spread happiness and laughter",
+    "twitch": {
+        "id": "666931568",
+        "login": "plushiesuccubus",
+        "displayName": "PlushieSuccubus",
+        "createdAt": "2021-03-26T00:45:04.447536Z",
+        "updatedAt": "2026-07-18T01:43:34.90739Z",
+        "description": "a chronically ill goth girl looking to spread happiness and laughter ",
+        "primaryColorHex": "7686A5",
+        "followers": {
+            "totalCount": 3056
+        },
+        "follows": {
+            "totalCount": 483
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-03-27T00:14:10.596208Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5c53b508-a026-4055-b965-5c4fde480df2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/344a34e2-f7f2-4e14-90e0-54b85d00bb6f-profile_banner-480.png"
+    }
 }

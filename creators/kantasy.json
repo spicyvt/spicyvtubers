@@ -1,4 +1,27 @@
 {
     "bio": "Unhinged tomboy scorpion-cat variety strimmer. ASMRtist, DJ, & gamer who's incredibly bad at video games. Backseating Welcome (just be nice please!) [18+ only] business contact: kan@kandroid.tv",
-    "id": "139090256"
+    "twitch": {
+        "id": "139090256",
+        "login": "kantasy",
+        "displayName": "kantasy",
+        "createdAt": "2016-11-08T23:07:25.049556Z",
+        "updatedAt": "2026-08-03T20:25:34.331614Z",
+        "description": "Unhinged tomboy scorpion-cat variety strimmer. ASMRtist, DJ, & gamer who's incredibly bad at video games. Backseating Welcome (just be nice please!) [18+ only] business contact: kan@kandroid.tv",
+        "primaryColorHex": "6D9BED",
+        "followers": {
+            "totalCount": 4379
+        },
+        "follows": {
+            "totalCount": 409
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:18:16.692556Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d75db9d-afad-4993-a965-7cb04a5374ca-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ccd81de3-d87a-43f6-a260-08e8702bf45b-profile_banner-480.png"
+    }
 }

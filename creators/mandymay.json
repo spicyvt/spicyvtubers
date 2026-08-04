@@ -1,4 +1,27 @@
 {
-    "bio": "I am Mandy, the orange cow vtuber before your eyes. I have a degree in yapping, and a minor in embarrassing stories and useless knowledge. Please feel free to stick around for how to's and what not to do's. ✉️:mandymaystreams@gmail.com ",
-    "id": "782613083"
+    "bio": "I am Mandy, the orange cow vtuber before your eyes. I have a degree in yapping, and a minor in embarrassing stories and useless knowledge. Please feel free to stick around for how to's and what not to do's. ✉️:mandymaystreams@gmail.com",
+    "twitch": {
+        "id": "782613083",
+        "login": "mandymay",
+        "displayName": "MandyMay",
+        "createdAt": "2022-03-24T23:09:56.906174Z",
+        "updatedAt": "2026-07-31T21:48:40.613422Z",
+        "description": "I am Mandy, the orange cow vtuber before your eyes. I have a degree in yapping, and a minor in embarrassing stories and useless knowledge. Please feel free to stick around for how to's and what not to do's. ✉️:mandymaystreams@gmail.com ",
+        "primaryColorHex": "FFA024",
+        "followers": {
+            "totalCount": 2456
+        },
+        "follows": {
+            "totalCount": 677
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:02:05.844433Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/faf8bc9b-f30c-4f76-8876-ac4783fc4758-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/97aff386-e78c-41be-8d6f-2ba363d55aac-profile_banner-480.png"
+    }
 }

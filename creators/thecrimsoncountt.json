@@ -1,4 +1,27 @@
 {
-    "bio": "HI there~ I'm the Count of this realm! I love horror games, tentacles and Cthulhu! I stream whenever I can! This is a safe zone for all cuties ",
-    "id": "468218607"
+    "bio": "HI there~ I'm the Count of this realm! I love horror games, tentacles and Cthulhu! I stream whenever I can! This is a safe zone for all cuties",
+    "twitch": {
+        "id": "468218607",
+        "login": "thecrimsoncountt",
+        "displayName": "TheCrimsonCountt",
+        "createdAt": "2019-10-20T13:23:14.132506Z",
+        "updatedAt": "2026-08-03T11:34:04.159267Z",
+        "description": "HI there~ I'm the Count of this realm! I love horror games, tentacles and Cthulhu! I stream whenever I can! This is a safe zone for all cuties ",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 3510
+        },
+        "follows": {
+            "totalCount": 717
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T13:26:29.683615Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96eb4e84-bcf1-484f-8f9f-6b0fc6efc16c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47c5e0a0-9f08-4af0-b183-010f9ed26254-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "I'M KRIMBO, NSFW / comic / caricature artist and boss of the NiNiRiGang , I draw, do improv skits, wild out in VRChat, play games, listen to videogame music and hang out with you! Please be +18! MDNI !  For buisness krimbokills@gmail.com",
-    "id": "648859564"
+    "twitch": {
+        "id": "648859564",
+        "login": "krimbokills",
+        "displayName": "KRIMBOKILLS",
+        "createdAt": "2021-02-11T15:58:24.447861Z",
+        "updatedAt": "2026-08-03T14:20:30.220158Z",
+        "description": "I'M KRIMBO, NSFW / comic / caricature artist and boss of the NiNiRiGang , I draw, do improv skits, wild out in VRChat, play games, listen to videogame music and hang out with you! Please be +18! MDNI !  For buisness krimbokills@gmail.com",
+        "primaryColorHex": "00844F",
+        "followers": {
+            "totalCount": 11010
+        },
+        "follows": {
+            "totalCount": 1007
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:27:56.117888Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bc06002-da2a-496e-886f-4a98b4cb4210-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bdedf9a6-e488-4821-b062-9fd12c3f19b1-profile_banner-480.png"
+    }
 }

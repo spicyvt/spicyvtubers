@@ -1,4 +1,27 @@
 {
-    "bio": "Cheesy Cow Chizu ready for some warm snuggles 🧀🐮 18+ ASMR Channel! ",
-    "id": "1486638115"
+    "bio": "Cheesy Cow Chizu ready for some warm snuggles 🧀🐮 18+ ASMR Channel!",
+    "twitch": {
+        "id": "1486638115",
+        "login": "chizuwhiz",
+        "displayName": "chizuwhiz",
+        "createdAt": "2026-04-23T05:14:47.10492Z",
+        "updatedAt": "2026-07-31T21:01:16.767532Z",
+        "description": "Cheesy Cow Chizu ready for some warm snuggles 🧀🐮 18+ ASMR Channel! ",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 1752
+        },
+        "follows": {
+            "totalCount": 15
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T22:53:20.547381Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52f66954-01c8-4f20-8b0a-04e7e3cf47c0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c016c752-6535-43ce-b2c6-33e2a679154b-profile_banner-480.png"
+    }
 }

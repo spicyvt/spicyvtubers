@@ -1,4 +1,27 @@
 {
     "bio": "Kitsune Vtuber | Scuff and Fluff | Do not put your fingers through the fence | Business email: maple@heirsmgmt.com",
-    "id": "156918454"
+    "twitch": {
+        "id": "156918454",
+        "login": "maplechicken",
+        "displayName": "MapleChicken",
+        "createdAt": "2017-05-15T00:59:09.943922Z",
+        "updatedAt": "2026-08-04T01:18:59.29156Z",
+        "description": "Kitsune Vtuber | Scuff and Fluff | Do not put your fingers through the fence | Business email: maple@heirsmgmt.com",
+        "primaryColorHex": "FFC7A6",
+        "followers": {
+            "totalCount": 27526
+        },
+        "follows": {
+            "totalCount": 1919
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:01:15.019723Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47fcaf80-e196-49ed-aa61-836b27986b17-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a3945de-9d9a-4a08-b5fc-9a971fd05c5c-profile_banner-480.png"
+    }
 }

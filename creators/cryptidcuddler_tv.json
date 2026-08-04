@@ -1,4 +1,27 @@
 {
     "bio": "Spooky Jackalope Vtuber who runs a national park! ♡ | Business Enquires - CryptidCuddlerTV@gmail.com  |  | Vods are on my youtube",
-    "id": "69494522"
+    "twitch": {
+        "id": "69494522",
+        "login": "cryptidcuddler_tv",
+        "displayName": "CryptidCuddler_TV",
+        "createdAt": "2014-08-20T19:02:14.722689Z",
+        "updatedAt": "2026-07-25T00:48:35.976895Z",
+        "description": "Spooky Jackalope Vtuber who runs a national park! ♡ | Business Enquires - CryptidCuddlerTV@gmail.com  |  | Vods are on my youtube",
+        "primaryColorHex": "040203",
+        "followers": {
+            "totalCount": 5667
+        },
+        "follows": {
+            "totalCount": 258
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-25T05:21:06.679371Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ddbd459-bcf1-4f80-98a0-7a330e9ac4c6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f1b7ad3-e4da-4328-b33b-f6ba5bf5d8be-profile_banner-480.png"
+    }
 }

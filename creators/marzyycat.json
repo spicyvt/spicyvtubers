@@ -1,4 +1,27 @@
 {
-    "bio": "      ˚๑  ✦ gremlin tiger✦  ๑˚・・・     Vtuber with ADHD・・・         ︶ ꒷ ︶ ꒷ ꒦﹕✦ —I’m your favourite southern cat girl ﹕✧ —I love horror games ﹕✦ —I have terrible humour ﹕✧ —I hope you enjoy ",
-    "id": "708116240"
+    "bio": "    ˚๑  ✦ gremlin tiger✦  ๑˚・・・     Vtuber with ADHD・・・         ︶ ꒷ ︶ ꒷ ꒦﹕✦ —I’m your favourite southern cat girl ﹕✧ —I love horror games ﹕✦ —I have terrible humour ﹕✧ —I hope you enjoy",
+    "twitch": {
+        "id": "708116240",
+        "login": "marzyycat",
+        "displayName": "marzyycat",
+        "createdAt": "2021-07-17T02:20:44.445007Z",
+        "updatedAt": "2026-07-05T19:31:27.729081Z",
+        "description": "      ˚๑  ✦ gremlin tiger✦  ๑˚・・・     Vtuber with ADHD・・・         ︶ ꒷ ︶ ꒷ ꒦﹕✦ —I’m your favourite southern cat girl ﹕✧ —I love horror games ﹕✦ —I have terrible humour ﹕✧ —I hope you enjoy ",
+        "primaryColorHex": "00F593",
+        "followers": {
+            "totalCount": 201
+        },
+        "follows": {
+            "totalCount": 17
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-05T20:40:26.373615Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a5a0456-74a8-44f5-821f-fa594ed8b3a1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b1bb93c-ff1e-4eca-85a3-96c949df4641-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Fairy queen on a journey to reclaim my lost magic and my throne. Come play with me?",
-    "id": "1215908102"
+    "twitch": {
+        "id": "1215908102",
+        "login": "anenyaqueen",
+        "displayName": "AnenyaQueen",
+        "createdAt": "2024-12-14T07:12:57.661872Z",
+        "updatedAt": "2026-07-14T22:59:51.12914Z",
+        "description": "Fairy queen on a journey to reclaim my lost magic and my throne. Come play with me?",
+        "primaryColorHex": "47C4FF",
+        "followers": {
+            "totalCount": 25
+        },
+        "follows": {
+            "totalCount": 15
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-11-21T05:10:05.066256Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8486026-0baf-4457-bf87-8502a47da923-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/092af4c9-d0df-405a-aefb-1dcf3304631b-profile_banner-480.png"
+    }
 }

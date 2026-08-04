@@ -1,4 +1,27 @@
 {
     "bio": "🌸 Welcome to My Spooky-Cute Office! 🌸Hey there! I’m Hana Sakura your office lady VTuber. I play games with cute art and spooky scares! 🎮✨👻 Cute Horror: Eerie chills with charming art!🎀 Adorable Adventures: Heartwarming games that make you smile!📅 Themed Months: New fun every month",
-    "id": "804564171"
+    "twitch": {
+        "id": "804564171",
+        "login": "hanasakuravt",
+        "displayName": "HanaSakuraVT",
+        "createdAt": "2022-06-26T11:54:32.110514Z",
+        "updatedAt": "2026-08-03T13:14:47.178987Z",
+        "description": "🌸 Welcome to My Spooky-Cute Office! 🌸Hey there! I’m Hana Sakura your office lady VTuber. I play games with cute art and spooky scares! 🎮✨👻 Cute Horror: Eerie chills with charming art!🎀 Adorable Adventures: Heartwarming games that make you smile!📅 Themed Months: New fun every month",
+        "primaryColorHex": "FFACBC",
+        "followers": {
+            "totalCount": 1019
+        },
+        "follows": {
+            "totalCount": 166
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T15:05:23.322688Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13dece7b-656f-48ea-b445-082d334ce0a6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6291df7-14dd-44f2-bab5-2ee334411fae-profile_banner-480.png"
+    }
 }

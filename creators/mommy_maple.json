@@ -1,4 +1,27 @@
 {
     "bio": "⫘⫘⫘⟢ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕿𝖍𝖊 𝕯𝖊𝖓 𝖆𝖘 𝕴 𝖆𝖒 𝖞𝖔𝖚𝖗 𝖓𝖊𝖜 (𝖑𝖔𝖈𝖆𝖑) 𝖒𝖆𝖋𝖎𝖆 𝖇𝖔𝖘𝖘, 𝖙𝖗𝖚𝖘𝖙 𝖒𝖊 𝕴'𝖒 𝖓𝖔𝖙 𝖆𝖘 𝖘𝖈𝖆𝖗𝖞 𝖆𝖘 𝕴 𝖘𝖊𝖊𝖒 𝖔𝖗 𝖘𝖔𝖚𝖓𝖉 ⟢⫘⫘⫘",
-    "id": "593564275"
+    "twitch": {
+        "id": "593564275",
+        "login": "mommy_maple",
+        "displayName": "mommy_maple",
+        "createdAt": "2020-10-09T01:38:40.935193Z",
+        "updatedAt": "2026-08-03T04:26:17.954418Z",
+        "description": "⫘⫘⫘⟢ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕿𝖍𝖊 𝕯𝖊𝖓 𝖆𝖘 𝕴 𝖆𝖒 𝖞𝖔𝖚𝖗 𝖓𝖊𝖜 (𝖑𝖔𝖈𝖆𝖑) 𝖒𝖆𝖋𝖎𝖆 𝖇𝖔𝖘𝖘, 𝖙𝖗𝖚𝖘𝖙 𝖒𝖊 𝕴'𝖒 𝖓𝖔𝖙 𝖆𝖘 𝖘𝖈𝖆𝖗𝖞 𝖆𝖘 𝕴 𝖘𝖊𝖊𝖒 𝖔𝖗 𝖘𝖔𝖚𝖓𝖉 ⟢⫘⫘⫘",
+        "primaryColorHex": "A21414",
+        "followers": {
+            "totalCount": 2657
+        },
+        "follows": {
+            "totalCount": 1799
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:58:54.141437Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e9146e8-2f44-4e6c-9c26-2c35a455aafa-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96fab5d4-876a-4f18-a889-10ce7c7c90b7-profile_banner-480.png"
+    }
 }

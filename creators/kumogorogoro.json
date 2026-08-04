@@ -1,4 +1,27 @@
 {
-    "bio": "I promise my bite only hurts a little. ",
-    "id": "666949326"
+    "bio": "I promise my bite only hurts a little.",
+    "twitch": {
+        "id": "666949326",
+        "login": "kumogorogoro",
+        "displayName": "kumogorogoro",
+        "createdAt": "2021-03-26T01:51:59.404993Z",
+        "updatedAt": "2026-08-03T04:21:51.901693Z",
+        "description": "I promise my bite only hurts a little. ",
+        "primaryColorHex": "FB87A0",
+        "followers": {
+            "totalCount": 40392
+        },
+        "follows": {
+            "totalCount": 1002
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T06:00:40.337056Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e24ca464-5e21-4a79-87bb-aa106df03a23-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4cc0071c-e8bd-4315-8644-a8ec7ccf0b61-profile_banner-480.png"
+    }
 }

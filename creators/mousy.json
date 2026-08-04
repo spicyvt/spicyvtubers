@@ -1,4 +1,27 @@
 {
     "bio": "Variety streamer, 3D modeler, and VR casual, hope you enjoy the content!",
-    "id": "236022386"
+    "twitch": {
+        "id": "236022386",
+        "login": "mousy",
+        "displayName": "mousy",
+        "createdAt": "2018-07-04T00:49:28.965279Z",
+        "updatedAt": "2026-08-02T21:43:04.537607Z",
+        "description": "Variety streamer, 3D modeler, and VR casual, hope you enjoy the content!",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 8441
+        },
+        "follows": {
+            "totalCount": 101
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:39:05.023245Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e055cb06-11ff-4e90-bea7-889e56206d36-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7b2e934-363a-4f16-93ae-b7cc012d193d-profile_banner-480.png"
+    }
 }

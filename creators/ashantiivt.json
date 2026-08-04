@@ -1,4 +1,27 @@
 {
     "bio": "Hi, I'm Ashantii! 💕Your favorite girl failure cosplayer and variety streamer.",
-    "id": "906933073"
+    "twitch": {
+        "id": "906933073",
+        "login": "ashantiivt",
+        "displayName": "AshantiiVT",
+        "createdAt": "2023-05-07T01:26:23.463624Z",
+        "updatedAt": "2026-08-02T22:17:46.441043Z",
+        "description": "Hi, I'm Ashantii! 💕Your favorite girl failure cosplayer and variety streamer.",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 653
+        },
+        "follows": {
+            "totalCount": 26
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T00:19:53.148318Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22fef280-f90d-4aad-814c-36cbd4616909-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90048f72-c78a-4494-9b56-0539a70b4353-profile_banner-480.jpeg"
+    }
 }

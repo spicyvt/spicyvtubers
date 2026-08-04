@@ -1,4 +1,27 @@
 {
-    "bio": "An angelic bnuuy ready to steal your snacks! はじめまして! ♡ ",
-    "id": "585904842"
+    "bio": "An angelic bnuuy ready to steal your snacks! はじめまして! ♡",
+    "twitch": {
+        "id": "585904842",
+        "login": "usagikira_",
+        "displayName": "usagikira_",
+        "createdAt": "2020-09-21T19:26:50.561462Z",
+        "updatedAt": "2026-08-02T14:48:14.401037Z",
+        "description": "An angelic bnuuy ready to steal your snacks! はじめまして! ♡ ",
+        "primaryColorHex": "D664AD",
+        "followers": {
+            "totalCount": 22918
+        },
+        "follows": {
+            "totalCount": 157
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T17:14:06.727843Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ac777ea-7913-480f-9c31-3c1bdad022b3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b06a15-c491-4296-b947-2ac4e51b4275-profile_banner-480.png"
+    }
 }

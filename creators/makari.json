@@ -1,4 +1,27 @@
 {
-    "bio": "Just your average Multi-Dimensional nuisance  ",
-    "id": "22880697"
+    "bio": "Just your average Multi-Dimensional nuisance",
+    "twitch": {
+        "id": "22880697",
+        "login": "makari",
+        "displayName": "Makari",
+        "createdAt": "2011-06-10T16:26:48.597991Z",
+        "updatedAt": "2026-08-03T21:59:37.569578Z",
+        "description": "Just your average Multi-Dimensional nuisance  ",
+        "primaryColorHex": "D700FF",
+        "followers": {
+            "totalCount": 95211
+        },
+        "follows": {
+            "totalCount": 1826
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T15:02:22.359465Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8abc872-2689-4393-8053-ff3e42144be4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/216c656f-7b67-442d-abff-7728f5c515a8-profile_banner-480.png"
+    }
 }

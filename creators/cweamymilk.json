@@ -1,4 +1,27 @@
 {
     "bio": "☆ lotta yapping, and a lil too much cweam in my coffee",
-    "id": "588976913"
+    "twitch": {
+        "id": "588976913",
+        "login": "cweamymilk",
+        "displayName": "CweamyMilk",
+        "createdAt": "2020-09-27T05:03:42.324026Z",
+        "updatedAt": "2026-07-27T04:56:13.407853Z",
+        "description": "☆ lotta yapping, and a lil too much cweam in my coffee",
+        "primaryColorHex": "EF7194",
+        "followers": {
+            "totalCount": 33234
+        },
+        "follows": {
+            "totalCount": 693
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T06:54:56.893837Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/839be066-d4e0-4bcf-99eb-e255bb7ac140-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d0169f-f9c0-4532-ae34-5689bbab0be8-profile_banner-480.jpeg"
+    }
 }

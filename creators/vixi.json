@@ -1,4 +1,27 @@
 {
     "bio": "foxsu escaped containment 🦊 Business: v@vulpix.si",
-    "id": "165165027"
+    "twitch": {
+        "id": "165165027",
+        "login": "vixi",
+        "displayName": "vixi",
+        "createdAt": "2017-07-17T04:38:24.666952Z",
+        "updatedAt": "2026-08-03T07:59:19.74241Z",
+        "description": "foxsu escaped containment 🦊 Business: v@vulpix.si",
+        "primaryColorHex": "A3C8FF",
+        "followers": {
+            "totalCount": 33182
+        },
+        "follows": {
+            "totalCount": 1707
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T13:34:57.483092Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4353bdf-e5f9-4887-b179-0fb46995f27e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8f3fc03-be65-4d3c-aa26-9ebd30a439c0-profile_banner-480.png"
+    }
 }

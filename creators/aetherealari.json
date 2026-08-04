@@ -1,4 +1,27 @@
 {
     "bio": "A little angelic Jackalope who wants to be here for you~ ASMR, gaming here and there and just being a gremlin or a caring waifu~",
-    "id": "190982560"
+    "twitch": {
+        "id": "190982560",
+        "login": "aetherealari",
+        "displayName": "AetherealAri",
+        "createdAt": "2018-01-15T20:58:38.00807Z",
+        "updatedAt": "2026-07-30T17:26:04.187565Z",
+        "description": "A little angelic Jackalope who wants to be here for you~ ASMR, gaming here and there and just being a gremlin or a caring waifu~",
+        "primaryColorHex": "47CCFF",
+        "followers": {
+            "totalCount": 19958
+        },
+        "follows": {
+            "totalCount": 169
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T22:21:35.821571Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72935f9b-344c-47e3-9454-31700b2e435d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/37c60ebc-0696-449e-9994-b01137f30cfb-profile_banner-480.png"
+    }
 }

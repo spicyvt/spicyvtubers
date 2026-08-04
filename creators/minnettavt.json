@@ -1,4 +1,27 @@
 {
     "bio": "https://minnetta.carrd.co",
-    "id": "823259048"
+    "twitch": {
+        "id": "823259048",
+        "login": "minnettavt",
+        "displayName": "MinnettaVT",
+        "createdAt": "2022-09-06T07:14:05.211268Z",
+        "updatedAt": "2026-07-30T05:19:55.225786Z",
+        "description": "https://minnetta.carrd.co",
+        "primaryColorHex": "4D7D47",
+        "followers": {
+            "totalCount": 288
+        },
+        "follows": {
+            "totalCount": 143
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T05:18:22.963015Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/049b9516-0a85-4f28-b71c-c4f7cac12b83-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/669da790-6ec9-4f03-92af-347a7ed22a75-profile_banner-480.png"
+    }
 }

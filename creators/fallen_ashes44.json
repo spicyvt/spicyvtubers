@@ -1,4 +1,27 @@
 {
-    "bio": "welcome the library is gone, only ashes remain of my heart, we will be listening to heavy metal and screaming into the empty void and rebuilding here &lt;3 ",
-    "id": "551545873"
+    "bio": "welcome the library is gone, only ashes remain of my heart, we will be listening to heavy metal and screaming into the empty void and rebuilding here &lt;3",
+    "twitch": {
+        "id": "551545873",
+        "login": "fallen_ashes44",
+        "displayName": "fallen_ashes44",
+        "createdAt": "2020-07-06T02:34:53.081512Z",
+        "updatedAt": "2026-08-03T20:08:44.070246Z",
+        "description": "welcome the library is gone, only ashes remain of my heart, we will be listening to heavy metal and screaming into the empty void and rebuilding here &lt;3 ",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 1616
+        },
+        "follows": {
+            "totalCount": 1918
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T04:37:47.838734Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cc6fec0-6616-44be-94c6-cd011d852163-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5adc4d37-c204-4195-ba3e-57ed09ccb4ee-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "i like hawtdawg - Business Inquires: silvenahvtuber@gmail.com",
-    "id": "888278623"
+    "twitch": {
+        "id": "888278623",
+        "login": "silvenah",
+        "displayName": "silvenah",
+        "createdAt": "2023-03-08T05:56:22.473429Z",
+        "updatedAt": "2026-08-03T23:36:09.439928Z",
+        "description": "i like hawtdawg - Business Inquires: silvenahvtuber@gmail.com",
+        "primaryColorHex": "FF258F",
+        "followers": {
+            "totalCount": 6455
+        },
+        "follows": {
+            "totalCount": 344
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:32:08.474518Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b67b35ac-002d-4683-9e79-f004494ac658-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4eac9d21-3b95-4dc0-a14d-5d22721741e4-profile_banner-480.png"
+    }
 }

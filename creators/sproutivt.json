@@ -1,4 +1,27 @@
 {
-    "bio": "Very confused leafy friend coming to screens near… or in front of you! Giving you the stare down, the screams, and most of all the snacks. Join the fun in the forest! ",
-    "id": "465185823"
+    "bio": "Very confused leafy friend coming to screens near… or in front of you! Giving you the stare down, the screams, and most of all the snacks. Join the fun in the forest!",
+    "twitch": {
+        "id": "465185823",
+        "login": "sproutivt",
+        "displayName": "Sproutivt",
+        "createdAt": "2019-10-02T23:07:15.960131Z",
+        "updatedAt": "2026-07-26T14:22:13.843726Z",
+        "description": "Very confused leafy friend coming to screens near… or in front of you! Giving you the stare down, the screams, and most of all the snacks. Join the fun in the forest! ",
+        "primaryColorHex": "B180A8",
+        "followers": {
+            "totalCount": 470
+        },
+        "follows": {
+            "totalCount": 70
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-22T02:18:32.437624Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47eb6e48-879e-43a8-a10b-cac2abcca9fa-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23ef6f42-d392-49bb-a538-07f5bc861f46-profile_banner-480.jpeg"
+    }
 }

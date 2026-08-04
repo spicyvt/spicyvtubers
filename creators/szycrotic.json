@@ -1,4 +1,27 @@
 {
     "bio": "Hi my name is szy (said like psy) I'm a transfem vtuber who mostly do just chatting where i yap about gender, answer any all questions about being trans and hang out with other vtubers.....and i clicker train chat ♥",
-    "id": "68685842"
+    "twitch": {
+        "id": "68685842",
+        "login": "szycrotic",
+        "displayName": "szycrotic",
+        "createdAt": "2014-08-11T02:04:36.387233Z",
+        "updatedAt": "2026-08-03T18:57:09.951458Z",
+        "description": "Hi my name is szy (said like psy) I'm a transfem vtuber who mostly do just chatting where i yap about gender, answer any all questions about being trans and hang out with other vtubers.....and i clicker train chat ♥",
+        "primaryColorHex": "06A00B",
+        "followers": {
+            "totalCount": 13800
+        },
+        "follows": {
+            "totalCount": 290
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:18:16.90251Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fcb0ec3-8fd1-4b56-aba9-76a83147442b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0c972fd-1c97-4da3-bfb9-e3bd872cee18-profile_banner-480.jpeg"
+    }
 }

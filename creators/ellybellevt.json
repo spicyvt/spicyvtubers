@@ -1,4 +1,27 @@
 {
-    "bio": "big bad squirele ",
-    "id": "997182852"
+    "bio": "big bad squirele",
+    "twitch": {
+        "id": "997182852",
+        "login": "ellybellevt",
+        "displayName": "EllyBelleVT",
+        "createdAt": "2023-11-28T14:10:52.978373Z",
+        "updatedAt": "2026-08-03T11:58:40.766117Z",
+        "description": "big bad squirele ",
+        "primaryColorHex": "C03067",
+        "followers": {
+            "totalCount": 6492
+        },
+        "follows": {
+            "totalCount": 236
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-02-18T23:52:25.531726Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b110631-f48d-42ae-b509-2677ee428786-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e10fbe9-e9cb-48ad-96eb-8d9d81681de5-profile_banner-480.png"
+    }
 }

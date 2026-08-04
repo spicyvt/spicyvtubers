@@ -1,4 +1,27 @@
 {
-    "bio": "Hey you, I'm Shleepy! A cozy but unexplainably chaotic sheep-like creature here to keep you company and entertain your brain cells. ",
-    "id": "1388609714"
+    "bio": "Hey you, I'm Shleepy! A cozy but unexplainably chaotic sheep-like creature here to keep you company and entertain your brain cells.",
+    "twitch": {
+        "id": "1388609714",
+        "login": "soshleepyy",
+        "displayName": "soshleepyy",
+        "createdAt": "2025-11-04T19:18:52.317316Z",
+        "updatedAt": "2026-07-29T22:40:56.469198Z",
+        "description": "Hey you, I'm Shleepy! A cozy but unexplainably chaotic sheep-like creature here to keep you company and entertain your brain cells. ",
+        "primaryColorHex": "4E2F7B",
+        "followers": {
+            "totalCount": 714
+        },
+        "follows": {
+            "totalCount": 7
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T01:55:36.601179Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9751c920-ed69-43a6-9336-53024d206184-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6502e2b4-5691-4191-bd32-f0546b28d9a9-profile_banner-480.png"
+    }
 }

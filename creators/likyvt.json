@@ -1,4 +1,27 @@
 {
-    "bio": "🀄️Femboy de Profesión y VTuber de Hobby / 💜 Afiliado / Miembro de VTubersEs💫⏰Horarios:Ecuador 8:00 pm / Argentina 10:00 pm /  Chile 10:00 pm / México 7:00 pm / Perú 8:00 pm / ",
-    "id": "799231255"
+    "bio": "🀄️Femboy de Profesión y VTuber de Hobby / 💜 Afiliado / Miembro de VTubersEs💫⏰Horarios:Ecuador 8:00 pm / Argentina 10:00 pm /  Chile 10:00 pm / México 7:00 pm / Perú 8:00 pm /",
+    "twitch": {
+        "id": "799231255",
+        "login": "likyvt",
+        "displayName": "LikyVT",
+        "createdAt": "2022-06-04T03:46:25.988983Z",
+        "updatedAt": "2026-07-25T02:42:56.296282Z",
+        "description": "🀄️Femboy de Profesión y VTuber de Hobby / 💜 Afiliado / Miembro de VTubersEs💫⏰Horarios:Ecuador 8:00 pm / Argentina 10:00 pm /  Chile 10:00 pm / México 7:00 pm / Perú 8:00 pm / ",
+        "primaryColorHex": "7A0000",
+        "followers": {
+            "totalCount": 1126
+        },
+        "follows": {
+            "totalCount": 559
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T23:26:39.031992Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d0908db-efad-48fb-a85e-0ba2be3ef49e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b577eca3-ac62-410c-b257-57be1a3898bf-profile_banner-480.jpeg"
+    }
 }

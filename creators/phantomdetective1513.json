@@ -1,4 +1,27 @@
 {
     "bio": "Hi my little thieves. My name is Phantom. I'm an artist, voice actor & content creator. Hope you'll enjoy the show. The two VTuber personas you see are Ying a demon wolf assassin and Min a human with magic capabilitieshttps://throne.com/phantomdetective1513",
-    "id": "170945889"
+    "twitch": {
+        "id": "170945889",
+        "login": "phantomdetective1513",
+        "displayName": "PhantomDetective1513",
+        "createdAt": "2017-08-22T15:01:39.411469Z",
+        "updatedAt": "2026-07-06T22:24:45.56607Z",
+        "description": "Hi my little thieves. My name is Phantom. I'm an artist, voice actor & content creator. Hope you'll enjoy the show. The two VTuber personas you see are Ying a demon wolf assassin and Min a human with magic capabilitieshttps://throne.com/phantomdetective1513",
+        "primaryColorHex": "8F0B0B",
+        "followers": {
+            "totalCount": 1189
+        },
+        "follows": {
+            "totalCount": 1036
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-08T02:08:34.684675Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19a5f200-5e31-4279-b692-019950197b20-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/46f4575d-e97c-4347-89f5-fbaa88d5c045-profile_banner-480.png"
+    }
 }

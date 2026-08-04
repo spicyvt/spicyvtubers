@@ -1,4 +1,27 @@
 {
-    "bio": "I'm Hexchu! I'm a sealy cat spirit who loves art, spicy chips and making people smile!I hope you enjoy your time with me ♥~| Throne Partner(!Throne)~ | ",
-    "id": "97790807"
+    "bio": "I'm Hexchu! I'm a sealy cat spirit who loves art, spicy chips and making people smile!I hope you enjoy your time with me ♥~| Throne Partner(!Throne)~ |",
+    "twitch": {
+        "id": "97790807",
+        "login": "hexchu",
+        "displayName": "HexChu",
+        "createdAt": "2015-07-31T04:49:32.599365Z",
+        "updatedAt": "2026-07-26T21:15:14.273003Z",
+        "description": "I'm Hexchu! I'm a sealy cat spirit who loves art, spicy chips and making people smile!I hope you enjoy your time with me ♥~| Throne Partner(!Throne)~ | ",
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 5680
+        },
+        "follows": {
+            "totalCount": 250
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T21:55:56.533138Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3844dd3f-92ec-4cb6-9d79-2249525fc65e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a84857-1757-4f6f-8029-46440ff19977-profile_banner-480.png"
+    }
 }

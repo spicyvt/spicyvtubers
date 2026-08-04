@@ -1,4 +1,27 @@
 {
     "bio": "Your future alien overlord. Ready to destroy her enemies and eat pudding.",
-    "id": "95522979"
+    "twitch": {
+        "id": "95522979",
+        "login": "lufinalulufina",
+        "displayName": "LufinaLulufina",
+        "createdAt": "2015-07-07T23:28:44.422831Z",
+        "updatedAt": "2026-07-21T22:52:07.147022Z",
+        "description": "Your future alien overlord. Ready to destroy her enemies and eat pudding.",
+        "primaryColorHex": "396DD6",
+        "followers": {
+            "totalCount": 305
+        },
+        "follows": {
+            "totalCount": 53
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-21T23:39:06.639006Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70e8d850-18e9-4083-9ef2-625be1f5b578-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf6c5f0a-77cd-4a08-ba3b-46a9b75be692-profile_banner-480.png"
+    }
 }

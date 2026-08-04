@@ -1,4 +1,27 @@
 {
     "bio": "Hi! I'm Lumeria Lynn, but you can call me Lynn if it's easier. I'm a bit new to this, but it's nice to meet you!",
-    "id": "1103734861"
+    "twitch": {
+        "id": "1103734861",
+        "login": "lumeria_lynn",
+        "displayName": "lumeria_lynn",
+        "createdAt": "2024-06-27T15:32:25.323893Z",
+        "updatedAt": "2026-08-01T10:16:09.144073Z",
+        "description": "Hi! I'm Lumeria Lynn, but you can call me Lynn if it's easier. I'm a bit new to this, but it's nice to meet you!",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 1707
+        },
+        "follows": {
+            "totalCount": 278
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T10:33:42.368674Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae81308f-f067-4894-9916-bcccb26e88ca-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6cb6a07b-4485-4150-9f85-ae04c12994ab-profile_banner-480.png"
+    }
 }

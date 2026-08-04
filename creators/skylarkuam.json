@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "499529180"
+    "twitch": {
+        "id": "499529180",
+        "login": "skylarkuam",
+        "displayName": "SkylarKuam",
+        "createdAt": "2020-03-15T02:09:19.337648Z",
+        "updatedAt": "2026-07-31T17:27:06.171621Z",
+        "description": "",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 21543
+        },
+        "follows": {
+            "totalCount": 231
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T19:51:13.953875Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4bb34ad-47ec-46c1-83ee-a95161a2f0f1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5a916f1-5071-4501-8ede-6cf2050e668a-profile_banner-480.png"
+    }
 }

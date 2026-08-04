@@ -1,4 +1,27 @@
 {
     "bio": "Goofy Goober Gooner Anime Character https://www.lolliepopvt.com Business Inquiries: lolliepopvt@gmail.com",
-    "id": "1213382405"
+    "twitch": {
+        "id": "1213382405",
+        "login": "lolliepopvt",
+        "displayName": "LolliePopVT",
+        "createdAt": "2024-12-08T14:21:47.971512Z",
+        "updatedAt": "2026-08-02T20:21:03.047345Z",
+        "description": "Goofy Goober Gooner Anime Character https://www.lolliepopvt.com Business Inquiries: lolliepopvt@gmail.com",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 2923
+        },
+        "follows": {
+            "totalCount": 126
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T22:02:21.37989Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13bf61e1-c217-4892-94ce-8505250fed20-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23e354bb-56d9-4f70-83df-cec90bde9a0b-profile_banner-480.png"
+    }
 }

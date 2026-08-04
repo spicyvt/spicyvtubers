@@ -1,4 +1,27 @@
 {
-    "bio": " Sleepy sheep(?)",
-    "id": "47796106"
+    "bio": "Sleepy sheep(?)",
+    "twitch": {
+        "id": "47796106",
+        "login": "uesugisen",
+        "displayName": "UesugiSen",
+        "createdAt": "2013-08-18T19:50:56.113517Z",
+        "updatedAt": "2026-08-03T03:23:12.00122Z",
+        "description": " Sleepy sheep(?)",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 1215
+        },
+        "follows": {
+            "totalCount": 341
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T07:53:44.07215Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70f0b4cd-ada1-4568-9f95-a83cca36300d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/def8cb28-a74c-4bb1-8277-cf653d5b763e-profile_banner-480.png"
+    }
 }

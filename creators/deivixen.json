@@ -1,4 +1,27 @@
 {
     "bio": "A Goddess of old that is trying to find her place in the new world where I try to form bonds and connections with whoever I can. Making a positive change is what I wish to do for you.This is an 18+ Area, for adults only",
-    "id": "1209355249"
+    "twitch": {
+        "id": "1209355249",
+        "login": "deivixen",
+        "displayName": "Deivixen",
+        "createdAt": "2024-11-29T14:10:41.394085Z",
+        "updatedAt": "2026-08-01T22:11:39.164255Z",
+        "description": "A Goddess of old that is trying to find her place in the new world where I try to form bonds and connections with whoever I can. Making a positive change is what I wish to do for you.This is an 18+ Area, for adults only",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 460
+        },
+        "follows": {
+            "totalCount": 81
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T01:20:51.448176Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc923783-6950-4869-8e11-f7a6c908cf82-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ad19159-ff18-445e-9c06-b675ee364e83-profile_banner-480.png"
+    }
 }

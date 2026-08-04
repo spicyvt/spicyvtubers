@@ -1,4 +1,27 @@
 {
     "bio": "Vamp Vboober and big weeb with an even bigger heart. Mostly stream whatever I'm doing with my friends, but things you can expect from me are: indie games, boomer shooters, 'friendslop', and Marvel Rivals. Hope you stick around for the chill vibes and maybe get a laugh or two from my groups antics.",
-    "id": "108809472"
+    "twitch": {
+        "id": "108809472",
+        "login": "mewgenvt",
+        "displayName": "MewgenVT",
+        "createdAt": "2015-12-05T22:36:10.705904Z",
+        "updatedAt": "2026-07-23T08:55:58.819851Z",
+        "description": "Vamp Vboober and big weeb with an even bigger heart. Mostly stream whatever I'm doing with my friends, but things you can expect from me are: indie games, boomer shooters, 'friendslop', and Marvel Rivals. Hope you stick around for the chill vibes and maybe get a laugh or two from my groups antics.",
+        "primaryColorHex": "BD0078",
+        "followers": {
+            "totalCount": 338
+        },
+        "follows": {
+            "totalCount": 579
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-23T08:56:31.220463Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70294c79-c747-4bfc-998f-a49b8d10a94b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcc756db-a67a-4c4e-bf43-4294fb24783a-profile_banner-480.png"
+    }
 }

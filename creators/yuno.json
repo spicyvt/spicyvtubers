@@ -1,4 +1,27 @@
 {
     "bio": "Hallo! Yuno Rein here, I wanna mess around!",
-    "id": "123557281"
+    "twitch": {
+        "id": "123557281",
+        "login": "yuno",
+        "displayName": "yuno",
+        "createdAt": "2016-05-06T00:29:08.313433Z",
+        "updatedAt": "2026-08-03T09:01:30.291468Z",
+        "description": "Hallo! Yuno Rein here, I wanna mess around!",
+        "primaryColorHex": "FFA2CF",
+        "followers": {
+            "totalCount": 33539
+        },
+        "follows": {
+            "totalCount": 464
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T21:27:13.239996Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/380f10f0-529f-4c94-9ed6-1b74777694b4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c9bace5-8bd5-488a-b653-65f490ed89d3-profile_banner-480.png"
+    }
 }

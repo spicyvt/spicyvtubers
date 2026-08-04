@@ -1,4 +1,27 @@
 {
     "bio": "🌸🍁 Don't mind me, I'm just your average Canadian Schmuck! By trade, I'm a Mixologist! But I'm also a single parent to a Pickle Jr! Here there's streams of sometimes scary games, sometimes making drinks, either way it's a fun time! 🍁🌸~Remember to stay safe, and be kind~",
-    "id": "85643229"
+    "twitch": {
+        "id": "85643229",
+        "login": "crunchyypickle",
+        "displayName": "CrunchyyPickle",
+        "createdAt": "2015-03-20T05:54:18.895024Z",
+        "updatedAt": "2026-08-04T00:39:14.770386Z",
+        "description": "🌸🍁 Don't mind me, I'm just your average Canadian Schmuck! By trade, I'm a Mixologist! But I'm also a single parent to a Pickle Jr! Here there's streams of sometimes scary games, sometimes making drinks, either way it's a fun time! 🍁🌸~Remember to stay safe, and be kind~",
+        "primaryColorHex": "18A91B",
+        "followers": {
+            "totalCount": 2222
+        },
+        "follows": {
+            "totalCount": 579
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:09:22.305935Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e75ce7c0-403f-4e70-af5e-4cd749ac5659-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/crunchyypickle-profile_banner-5f0420259b407a74-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Demon raccoon gremlin hours",
-    "id": "51936193"
+    "twitch": {
+        "id": "51936193",
+        "login": "wolesvt",
+        "displayName": "WolesVT",
+        "createdAt": "2013-11-22T00:34:24.96862Z",
+        "updatedAt": "2026-08-02T19:11:56.727791Z",
+        "description": "Demon raccoon gremlin hours",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 988
+        },
+        "follows": {
+            "totalCount": 373
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T21:53:20.933674Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b339449-4e45-41fe-827f-4c8b09210105-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13ab9311-6ed3-4d24-96af-f4639d21c105-profile_banner-480.jpeg"
+    }
 }

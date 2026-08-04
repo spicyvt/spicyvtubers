@@ -1,4 +1,27 @@
 {
     "bio": "aloo! chuuni devil girl obsessed with the number 4! come escape reality with me (–⩊–)💥",
-    "id": "807343040"
+    "twitch": {
+        "id": "807343040",
+        "login": "ch4i",
+        "displayName": "CH4I",
+        "createdAt": "2022-07-08T01:18:20.649031Z",
+        "updatedAt": "2026-07-23T02:20:11.867147Z",
+        "description": "aloo! chuuni devil girl obsessed with the number 4! come escape reality with me (–⩊–)💥",
+        "primaryColorHex": "A60D0D",
+        "followers": {
+            "totalCount": 5995
+        },
+        "follows": {
+            "totalCount": 343
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-23T04:02:46.873888Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c80646c5-7b5b-4a55-af0d-dc050be8851f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ac2a152-3bd0-48d9-b1c3-08e6d86ebefe-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Sun ☀️ & Moon 🌙 Twin Duo Goddesses VTubers let the comfy chaos begin!",
-    "id": "751587199"
+    "twitch": {
+        "id": "751587199",
+        "login": "artemis_apolla",
+        "displayName": "Artemis_Apolla",
+        "createdAt": "2021-12-09T17:00:20.789976Z",
+        "updatedAt": "2026-08-01T02:29:47.487335Z",
+        "description": "Sun ☀️ & Moon 🌙 Twin Duo Goddesses VTubers let the comfy chaos begin!",
+        "primaryColorHex": "10EBD1",
+        "followers": {
+            "totalCount": 6968
+        },
+        "follows": {
+            "totalCount": 298
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T03:40:27.694883Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9616b232-9b41-4d4b-97c8-7aa6c7d4c472-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca693122-9c09-4137-8403-a5698b5d9abf-profile_banner-480.jpeg"
+    }
 }

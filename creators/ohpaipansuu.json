@@ -1,4 +1,27 @@
 {
     "bio": "Hi! I'm Ohpie and I'm a Shape-Shifting Kaiju girl that loves to stream and meet new people. I am the leader of a thigh cult called Thighentology and we exist to spread the gospel of her holy thighness far and wide. Welcome brothers & sisters, I wish you degenerates a very cultured evening ~ 💜",
-    "id": "567662218"
+    "twitch": {
+        "id": "567662218",
+        "login": "ohpaipansuu",
+        "displayName": "ohpaipansuu",
+        "createdAt": "2020-08-15T17:11:01.296644Z",
+        "updatedAt": "2026-08-01T21:23:33.723303Z",
+        "description": "Hi! I'm Ohpie and I'm a Shape-Shifting Kaiju girl that loves to stream and meet new people. I am the leader of a thigh cult called Thighentology and we exist to spread the gospel of her holy thighness far and wide. Welcome brothers & sisters, I wish you degenerates a very cultured evening ~ 💜",
+        "primaryColorHex": "2F2241",
+        "followers": {
+            "totalCount": 14141
+        },
+        "follows": {
+            "totalCount": 158
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T01:33:43.927249Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e342955f-a79f-42d7-91cb-d97555345cb8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13220161-c216-4869-afc2-ff23b5976ec1-profile_banner-480.png"
+    }
 }

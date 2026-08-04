@@ -1,4 +1,27 @@
 {
     "bio": "ᓚ₍⑅^..^₎♡  18+ Bratty Sakura Cloud Kitten VTuber.ᐟ",
-    "id": "416791818"
+    "twitch": {
+        "id": "416791818",
+        "login": "callikatt",
+        "displayName": "callikatt",
+        "createdAt": "2019-02-16T00:12:24.050855Z",
+        "updatedAt": "2026-07-28T21:14:10.331727Z",
+        "description": "ᓚ₍⑅^..^₎♡  18+ Bratty Sakura Cloud Kitten VTuber.ᐟ",
+        "primaryColorHex": "E2758A",
+        "followers": {
+            "totalCount": 355
+        },
+        "follows": {
+            "totalCount": 267
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-22T01:02:28.191474Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5506e7d-154b-41f0-8356-72e4c2a0d12c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/57d79e94-7cf7-440b-b030-d746ac10b70c-profile_banner-480.png"
+    }
 }

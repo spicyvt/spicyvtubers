@@ -1,4 +1,27 @@
 {
     "bio": "Hoiii I'm  Katsuma! I’m a degen fox. I’m happy to be here and very loud about it!!",
-    "id": "423695669"
+    "twitch": {
+        "id": "423695669",
+        "login": "katsumakun",
+        "displayName": "Katsumakun",
+        "createdAt": "2019-03-15T18:25:23.694721Z",
+        "updatedAt": "2026-08-01T00:07:08.545364Z",
+        "description": "Hoiii I'm  Katsuma! I’m a degen fox. I’m happy to be here and very loud about it!!",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 3599
+        },
+        "follows": {
+            "totalCount": 1995
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T02:48:42.226027Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ac93f0d-ec5d-4259-a0fa-8917e07f5645-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/38a0eb88-65ca-44e5-94be-1f2637b65cc8-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "A blue and orange cat that keeps u warm and cold :3 I dance (Try to at least O///O) For business: icefire4080@gmail.com",
-    "id": "608166085"
+    "twitch": {
+        "id": "608166085",
+        "login": "icefire",
+        "displayName": "Icefire",
+        "createdAt": "2020-11-13T03:19:25.459017Z",
+        "updatedAt": "2026-07-20T13:36:04.498841Z",
+        "description": "A blue and orange cat that keeps u warm and cold :3 I dance (Try to at least O///O) For business: icefire4080@gmail.com",
+        "primaryColorHex": "04B6E8",
+        "followers": {
+            "totalCount": 3091
+        },
+        "follows": {
+            "totalCount": 572
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T16:11:22.487056Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02ce0da2-e879-4cba-b974-7b561ca07e04-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ceba076-c3b6-4ae4-870f-73b213639ce7-profile_banner-480.jpeg"
+    }
 }

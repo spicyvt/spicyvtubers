@@ -1,4 +1,27 @@
 {
     "bio": "British hellhound VTuber and silly lil guy 🐶 enjoy your stay! This is an 18+ community!",
-    "id": "39664274"
+    "twitch": {
+        "id": "39664274",
+        "login": "zakkievr",
+        "displayName": "ZakkieVR",
+        "createdAt": "2013-01-25T15:09:41.18587Z",
+        "updatedAt": "2026-08-03T18:25:36.231676Z",
+        "description": "British hellhound VTuber and silly lil guy 🐶 enjoy your stay! This is an 18+ community!",
+        "primaryColorHex": "FA2929",
+        "followers": {
+            "totalCount": 10117
+        },
+        "follows": {
+            "totalCount": 329
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:55:08.973997Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb5e9296-419f-4785-bb5d-1643990bf3dc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/11a3f4a8-5196-40de-b392-72a6a123a62e-profile_banner-480.png"
+    }
 }

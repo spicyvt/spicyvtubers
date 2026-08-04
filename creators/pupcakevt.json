@@ -1,4 +1,27 @@
 {
     "bio": "Your friendly local Hell Hound with a sweet tooth. Welcome to the Barkery!",
-    "id": "1058753610"
+    "twitch": {
+        "id": "1058753610",
+        "login": "pupcakevt",
+        "displayName": "PupcakeVT",
+        "createdAt": "2024-03-28T23:43:31.866714Z",
+        "updatedAt": "2026-08-03T00:35:24.992402Z",
+        "description": "Your friendly local Hell Hound with a sweet tooth. Welcome to the Barkery!",
+        "primaryColorHex": "F677DE",
+        "followers": {
+            "totalCount": 1312
+        },
+        "follows": {
+            "totalCount": 315
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:43:07.226231Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c69ccf8-c10b-4f95-b168-0d2d147a2eef-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1491c70b-758a-4872-8f20-dda45ce1ff0d-profile_banner-480.png"
+    }
 }

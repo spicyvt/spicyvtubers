@@ -1,4 +1,27 @@
 {
     "bio": "Just a clumsy bunny *:･ﾟ✧ vynehellebore@gmail.com for business inquiries",
-    "id": "264162344"
+    "twitch": {
+        "id": "264162344",
+        "login": "vyne",
+        "displayName": "Vyne",
+        "createdAt": "2018-10-02T03:39:20.612455Z",
+        "updatedAt": "2026-08-01T22:11:26.688579Z",
+        "description": "Just a clumsy bunny *:･ﾟ✧ vynehellebore@gmail.com for business inquiries",
+        "primaryColorHex": "5C844A",
+        "followers": {
+            "totalCount": 13332
+        },
+        "follows": {
+            "totalCount": 732
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-06T05:47:46.089932Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/38154c13-1075-4790-907f-339350ef5fe0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/314a77e6-ffa6-4706-a96e-09ea717a1c13-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Aery here, a VA making ASMR roleplay audios for you, my protagonist ~ I yap a lot and also play games!",
-    "id": "1209260918"
+    "twitch": {
+        "id": "1209260918",
+        "login": "aerylla_va",
+        "displayName": "Aerylla_VA",
+        "createdAt": "2024-11-29T07:05:00.266268Z",
+        "updatedAt": "2026-07-30T01:29:48.102678Z",
+        "description": "Aery here, a VA making ASMR roleplay audios for you, my protagonist ~ I yap a lot and also play games!",
+        "primaryColorHex": "B17DFF",
+        "followers": {
+            "totalCount": 3691
+        },
+        "follows": {
+            "totalCount": 73
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T04:05:20.429226Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/11fb0a4e-55cb-4343-aa7e-f8cb55c1f9dd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/247cf00f-6afe-4635-b0ce-c6bd9a09ad27-profile_banner-480.png"
+    }
 }

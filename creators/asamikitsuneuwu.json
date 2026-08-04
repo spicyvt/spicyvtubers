@@ -1,4 +1,27 @@
 {
     "bio": "🌸Just your local Kitsune that just want to enjoy streaming video games art and chat :3🌸 ♡ Hey, if you want to let me know your pronouns, just go to this link so I always remember! (And feel free to get the extension yourself!) https://pronouns.alejo.io/ ♡",
-    "id": "463518641"
+    "twitch": {
+        "id": "463518641",
+        "login": "asamikitsuneuwu",
+        "displayName": "AsamiKitsuneuwu",
+        "createdAt": "2019-09-21T16:02:38.686324Z",
+        "updatedAt": "2026-08-03T21:49:24.290453Z",
+        "description": "🌸Just your local Kitsune that just want to enjoy streaming video games art and chat :3🌸 ♡ Hey, if you want to let me know your pronouns, just go to this link so I always remember! (And feel free to get the extension yourself!) https://pronouns.alejo.io/ ♡",
+        "primaryColorHex": "B07BFF",
+        "followers": {
+            "totalCount": 2880
+        },
+        "follows": {
+            "totalCount": 675
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T06:23:52.535177Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/98e1d6a1-0788-4e0e-ad20-151f5024367d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/38107ccb-dc78-4b7a-89c1-e0c3289792c5-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "A Curator of the Dark Music and an Architect of Vibes",
-    "id": "38778555"
+    "twitch": {
+        "id": "38778555",
+        "login": "lichbait",
+        "displayName": "Lichbait",
+        "createdAt": "2012-12-26T19:57:42.723578Z",
+        "updatedAt": "2026-08-03T22:27:03.324237Z",
+        "description": "A Curator of the Dark Music and an Architect of Vibes",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 12726
+        },
+        "follows": {
+            "totalCount": 401
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T23:47:38.550761Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/977d0083-90ca-4787-a784-d1c836aaded2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82b1ccfb-40bb-4949-b066-ac93fd1a7a2a-profile_banner-480.png"
+    }
 }

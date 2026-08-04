@@ -1,4 +1,27 @@
 {
     "bio": "brattiest dumb puppi around (˶˃ ᵕ ˂˶) 🐾😈 | gamersupps code: “reaver” | 📧: arunareaver.official@gmail.com",
-    "id": "905126239"
+    "twitch": {
+        "id": "905126239",
+        "login": "arunareaver",
+        "displayName": "ArunaReaver",
+        "createdAt": "2023-05-01T05:46:30.122775Z",
+        "updatedAt": "2026-08-02T01:18:34.329451Z",
+        "description": "brattiest dumb puppi around (˶˃ ᵕ ˂˶) 🐾😈 | gamersupps code: “reaver” | 📧: arunareaver.official@gmail.com",
+        "primaryColorHex": "171919",
+        "followers": {
+            "totalCount": 16487
+        },
+        "follows": {
+            "totalCount": 550
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T04:15:26.040946Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8edfcf39-3c95-41ad-82d9-082c54ee4b43-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d99871df-c4c2-4958-a73f-66a8802d8a3f-profile_banner-480.jpeg"
+    }
 }

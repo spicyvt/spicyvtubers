@@ -1,4 +1,27 @@
 {
     "bio": "A Marshmallow Bunny VTuber with comfy vibes! Nice to meet you! I stream a whole bunch of games, both old and new, and sometimes a bit of art on the side. I hope you'll enjoy my content! (Clips encouraged, use !clip to make a clip!)",
-    "id": "8162123"
+    "twitch": {
+        "id": "8162123",
+        "login": "mallow_vt",
+        "displayName": "Mallow_VT",
+        "createdAt": "2009-09-07T00:50:00.1844Z",
+        "updatedAt": "2026-08-03T17:43:12.010448Z",
+        "description": "A Marshmallow Bunny VTuber with comfy vibes! Nice to meet you! I stream a whole bunch of games, both old and new, and sometimes a bit of art on the side. I hope you'll enjoy my content! (Clips encouraged, use !clip to make a clip!)",
+        "primaryColorHex": "7866FF",
+        "followers": {
+            "totalCount": 2779
+        },
+        "follows": {
+            "totalCount": 1987
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:12:42.160427Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f64c57f-2f8b-4045-81c4-e8ea3c74f8bf-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb5f0828-8d71-42a0-b370-4b6e980d52ba-profile_banner-480.png"
+    }
 }

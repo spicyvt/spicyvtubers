@@ -1,4 +1,27 @@
 {
     "bio": "Hello there! My name is Altaira, a small brained Neko-Oni Vtuber, who likes to play games and talk an awful lot of gibberish. Certainly nothing evil from another dimension, that's trying to feed on your soul! ( Cough ) But yes welcome in.",
-    "id": "97742677"
+    "twitch": {
+        "id": "97742677",
+        "login": "altairademon",
+        "displayName": "AltairaDemon",
+        "createdAt": "2015-07-30T19:24:25.161601Z",
+        "updatedAt": "2026-08-03T17:04:41.660736Z",
+        "description": "Hello there! My name is Altaira, a small brained Neko-Oni Vtuber, who likes to play games and talk an awful lot of gibberish. Certainly nothing evil from another dimension, that's trying to feed on your soul! ( Cough ) But yes welcome in.",
+        "primaryColorHex": "FA1ED2",
+        "followers": {
+            "totalCount": 2829
+        },
+        "follows": {
+            "totalCount": 378
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:40:19.183539Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6b80793-070c-4996-88f1-767cdf3a5392-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d983bd9a-b132-4235-908d-11a5f4699777-profile_banner-480.jpeg"
+    }
 }

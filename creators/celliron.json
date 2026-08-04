@@ -1,4 +1,27 @@
 {
-    "bio": "✧𝒀𝑶𝑼 𝑺𝑼𝑴𝑴𝑶𝑵𝑬𝑫 𝑴𝑬.ᐣ ✧  I'm a comfy chaos streamer who creates other vtubers. ",
-    "id": "75847493"
+    "bio": "✧𝒀𝑶𝑼 𝑺𝑼𝑴𝑴𝑶𝑵𝑬𝑫 𝑴𝑬.ᐣ ✧  I'm a comfy chaos streamer who creates other vtubers.",
+    "twitch": {
+        "id": "75847493",
+        "login": "celliron",
+        "displayName": "Celliron",
+        "createdAt": "2014-11-24T06:59:39.497683Z",
+        "updatedAt": "2026-07-29T17:31:41.316333Z",
+        "description": "✧𝒀𝑶𝑼 𝑺𝑼𝑴𝑴𝑶𝑵𝑬𝑫 𝑴𝑬.ᐣ ✧  I'm a comfy chaos streamer who creates other vtubers. ",
+        "primaryColorHex": "0E0E10",
+        "followers": {
+            "totalCount": 3695
+        },
+        "follows": {
+            "totalCount": 469
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T18:48:56.958931Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f46b36c-4369-4672-ac45-d68eba974588-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cabbd850-11f3-4e53-8ab0-a7c7db1753c1-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Vespera & Regent 💜🖤  VTuber couple from the Forgotten Realms! Banner & PFP: Ataraxia",
-    "id": "176183273"
+    "twitch": {
+        "id": "176183273",
+        "login": "starfallvr",
+        "displayName": "starfallvr",
+        "createdAt": "2017-10-01T19:30:54.113688Z",
+        "updatedAt": "2026-08-01T14:29:54.647023Z",
+        "description": "Vespera & Regent 💜🖤  VTuber couple from the Forgotten Realms! Banner & PFP: Ataraxia",
+        "primaryColorHex": "2F1357",
+        "followers": {
+            "totalCount": 90
+        },
+        "follows": {
+            "totalCount": 66
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-17T22:04:24.317062Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/793f1da1-db78-42eb-affa-aad2e4ee4a66-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aaed6fb0-65ba-48ae-80be-b8cb1477aa73-profile_banner-480.png"
+    }
 }

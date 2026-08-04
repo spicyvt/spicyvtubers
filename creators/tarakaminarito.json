@@ -1,4 +1,27 @@
 {
     "bio": "🐶⁉️ Puppy Girl in Training vtuber (REBRAND ARC) 🩷 ASMR on weekdays 😵‍💫 Variety on weekends 🩷 / 🇨🇦🇰🇷 / spread love and tingles! ❤️",
-    "id": "670654028"
+    "twitch": {
+        "id": "670654028",
+        "login": "tarakaminarito",
+        "displayName": "TaraKaminarito",
+        "createdAt": "2021-04-03T00:49:18.346393Z",
+        "updatedAt": "2026-08-03T00:14:05.094478Z",
+        "description": "🐶⁉️ Puppy Girl in Training vtuber (REBRAND ARC) 🩷 ASMR on weekdays 😵‍💫 Variety on weekends 🩷 / 🇨🇦🇰🇷 / spread love and tingles! ❤️",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 29293
+        },
+        "follows": {
+            "totalCount": 606
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:01:38.606842Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8292197f-ed19-4e15-aa34-325ce3425c38-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b4d4f14-0454-4aaa-800c-90754ab00dff-profile_banner-480.png"
+    }
 }

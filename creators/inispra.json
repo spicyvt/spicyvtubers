@@ -1,4 +1,27 @@
 {
     "bio": "Honestly I’ll try an stream when I’m free, I don’t show my face sooooooo…….anyways Ill just stream any game and make yall laugh lol. Also check out my links! thank you for checking me out!",
-    "id": "649669308"
+    "twitch": {
+        "id": "649669308",
+        "login": "inispra",
+        "displayName": "Inispra",
+        "createdAt": "2021-02-13T03:52:52.11979Z",
+        "updatedAt": "2026-05-31T00:40:18.215853Z",
+        "description": "Honestly I’ll try an stream when I’m free, I don’t show my face sooooooo…….anyways Ill just stream any game and make yall laugh lol. Also check out my links! thank you for checking me out!",
+        "primaryColorHex": "390A31",
+        "followers": {
+            "totalCount": 62
+        },
+        "follows": {
+            "totalCount": 5
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-03-09T05:08:41.725476Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/623f177c-921d-4fae-9e01-c0e0a10c461f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/682bc0dd-0e84-455d-8cce-9a2b7147acaf-profile_banner-480.png"
+    }
 }

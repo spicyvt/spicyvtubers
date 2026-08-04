@@ -1,4 +1,27 @@
 {
     "bio": "💜She/Her | 💬 Twitch Affiliate | 🏝️Exotic Succubus Demi-Goddess Vtuber |🥵 Deep Sultry French Accent |🔞Lewdtuber |🎮 Variety Streamer (horrorvtuber) | 🎙ASMR & VA| 💍Taken",
-    "id": "174994563"
+    "twitch": {
+        "id": "174994563",
+        "login": "deathbl00ms",
+        "displayName": "DEATHBL00MS",
+        "createdAt": "2017-09-21T19:05:29.42998Z",
+        "updatedAt": "2026-08-03T16:18:08.907049Z",
+        "description": "💜She/Her | 💬 Twitch Affiliate | 🏝️Exotic Succubus Demi-Goddess Vtuber |🥵 Deep Sultry French Accent |🔞Lewdtuber |🎮 Variety Streamer (horrorvtuber) | 🎙ASMR & VA| 💍Taken",
+        "primaryColorHex": "BB43DD",
+        "followers": {
+            "totalCount": 12405
+        },
+        "follows": {
+            "totalCount": 281
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:15:37.069076Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6f1181b-0947-4891-acd6-9e1719fe9efe-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7674a85-f6f5-43dd-a432-cc84c67eda66-profile_banner-480.png"
+    }
 }

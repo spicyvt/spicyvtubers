@@ -1,4 +1,27 @@
 {
     "bio": "Sock Agency's captive hag.",
-    "id": "1054004535"
+    "twitch": {
+        "id": "1054004535",
+        "login": "camizolecorzette",
+        "displayName": "CamizoleCorzette",
+        "createdAt": "2024-03-18T13:08:37.768157Z",
+        "updatedAt": "2026-08-03T18:51:05.543876Z",
+        "description": "Sock Agency's captive hag.",
+        "primaryColorHex": "F3A7BF",
+        "followers": {
+            "totalCount": 14834
+        },
+        "follows": {
+            "totalCount": 290
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:56:00.937807Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d586226-9584-4bea-8fab-49247817fb40-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26a1c51b-7516-4302-bd72-71dbe76b6b0b-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "ur favoritest puppyboy femboy vtuber!",
-    "id": "1116887018"
+    "twitch": {
+        "id": "1116887018",
+        "login": "whimsicalfemboy",
+        "displayName": "whimsicalfemboy",
+        "createdAt": "2024-07-24T04:15:02.967936Z",
+        "updatedAt": "2026-07-26T01:52:41.584162Z",
+        "description": "ur favoritest puppyboy femboy vtuber!",
+        "primaryColorHex": "FFC5F4",
+        "followers": {
+            "totalCount": 119
+        },
+        "follows": {
+            "totalCount": 79
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T05:05:05.17104Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/53010ea4-c8ab-49b9-8fec-ec7a62c6bb34-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

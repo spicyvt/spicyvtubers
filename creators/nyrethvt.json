@@ -1,4 +1,27 @@
 {
     "bio": "Hot succubus found in your area (1), say hi!!! | Business Mail: nyreth.yt@gmail.com",
-    "id": "1312368528"
+    "twitch": {
+        "id": "1312368528",
+        "login": "nyrethvt",
+        "displayName": "NyrethVT",
+        "createdAt": "2025-05-18T21:06:33.511922Z",
+        "updatedAt": "2026-08-02T18:30:16.907474Z",
+        "description": "Hot succubus found in your area (1), say hi!!! | Business Mail: nyreth.yt@gmail.com",
+        "primaryColorHex": "FFAAA8",
+        "followers": {
+            "totalCount": 1351
+        },
+        "follows": {
+            "totalCount": 194
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T19:02:07.069038Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/347e20ca-e3b6-4345-865b-6994fb576acc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c65121f7-5d71-4258-b86f-cb3daad88011-profile_banner-480.jpeg"
+    }
 }

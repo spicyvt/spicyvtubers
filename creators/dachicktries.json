@@ -1,4 +1,27 @@
 {
-    "bio": "Hello! Chicky here (Your favourite Fairy Waifu), You have stumbled into the Cosy Coop! The place on the internet where you get to sit back and let me relax you! - Business Inquiries: dachicktries@gmail.com ꕤ ",
-    "id": "452016969"
+    "bio": "Hello! Chicky here (Your favourite Fairy Waifu), You have stumbled into the Cosy Coop! The place on the internet where you get to sit back and let me relax you! - Business Inquiries: dachicktries@gmail.com ꕤ",
+    "twitch": {
+        "id": "452016969",
+        "login": "dachicktries",
+        "displayName": "DaChickTries",
+        "createdAt": "2019-08-01T19:18:20.17609Z",
+        "updatedAt": "2026-08-03T14:38:09.61668Z",
+        "description": "Hello! Chicky here (Your favourite Fairy Waifu), You have stumbled into the Cosy Coop! The place on the internet where you get to sit back and let me relax you! - Business Inquiries: dachicktries@gmail.com ꕤ ",
+        "primaryColorHex": "955B71",
+        "followers": {
+            "totalCount": 11650
+        },
+        "follows": {
+            "totalCount": 521
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T17:10:14.462615Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/645c70f6-8f3b-4dcf-8a8b-433895c90f83-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/060cf59e-5a4b-45c5-b0d1-c3007f6c115d-profile_banner-480.png"
+    }
 }

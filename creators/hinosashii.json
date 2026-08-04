@@ -1,4 +1,27 @@
 {
     "bio": "Hello! Soy HinoSashi.🐑🌸|| \"Femboy\", pendej profesional y furro.✨",
-    "id": "1231865607"
+    "twitch": {
+        "id": "1231865607",
+        "login": "hinosashii",
+        "displayName": "HinoSashii",
+        "createdAt": "2025-01-13T22:16:53.744331Z",
+        "updatedAt": "2026-07-31T23:10:26.209514Z",
+        "description": "Hello! Soy HinoSashi.🐑🌸|| \"Femboy\", pendej profesional y furro.✨",
+        "primaryColorHex": "FFA3B7",
+        "followers": {
+            "totalCount": 511
+        },
+        "follows": {
+            "totalCount": 274
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T06:54:04.886183Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f00b5c51-ac1e-402c-9a1f-341c3b977e5e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26c12940-8c56-49f5-952c-c008f380d07b-profile_banner-480.png"
+    }
 }

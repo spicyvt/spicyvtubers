@@ -1,4 +1,27 @@
 {
     "bio": "Your humble Tsundere Femboy .....Business email: Azzyscapegoat@gmail.com",
-    "id": "807944211"
+    "twitch": {
+        "id": "807944211",
+        "login": "sinfulazzy",
+        "displayName": "SinfulAzzy",
+        "createdAt": "2022-07-10T14:25:16.580445Z",
+        "updatedAt": "2026-08-03T03:35:52.516488Z",
+        "description": "Your humble Tsundere Femboy .....Business email: Azzyscapegoat@gmail.com",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 6322
+        },
+        "follows": {
+            "totalCount": 662
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T01:00:55.895683Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd6469dd-924d-4ba3-9176-7ae8992153f3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6612ef95-0f00-4ae5-9ec5-dbd389c4ffd7-profile_banner-480.jpeg"
+    }
 }

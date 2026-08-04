@@ -1,4 +1,27 @@
 {
     "bio": "Ahoy there, I'm Missy, your friendly neighborhood b!mbocowclown! Thanks so much for stopping by and hangin' out with us here at TheB!mboFarm! Grab a seat, a blanket, and get nice and cozy with us as we hail Gregory and play lots of fun games!",
-    "id": "492265947"
+    "twitch": {
+        "id": "492265947",
+        "login": "missydagreat",
+        "displayName": "MissyDaGreat",
+        "createdAt": "2020-02-13T17:34:10.723521Z",
+        "updatedAt": "2026-07-28T00:16:03.227563Z",
+        "description": "Ahoy there, I'm Missy, your friendly neighborhood b!mbocowclown! Thanks so much for stopping by and hangin' out with us here at TheB!mboFarm! Grab a seat, a blanket, and get nice and cozy with us as we hail Gregory and play lots of fun games!",
+        "primaryColorHex": "FAB3FF",
+        "followers": {
+            "totalCount": 1969
+        },
+        "follows": {
+            "totalCount": 215
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T01:57:09.18467Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1eecb00-616d-446d-a34c-82d7e77e3710-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0e986b5-fe0a-4c57-b1ec-8359e60d7cea-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Just a random sussy redhead that's sometimes ok at flirting! Casual Gamer, Voice Actor, and Vtuber. Come play a game and have some fun with me! I play a variety of games!",
-    "id": "401711695"
+    "twitch": {
+        "id": "401711695",
+        "login": "jenofflames",
+        "displayName": "JenofFlames",
+        "createdAt": "2018-12-12T16:46:04.224804Z",
+        "updatedAt": "2026-08-01T20:36:30.704358Z",
+        "description": "Just a random sussy redhead that's sometimes ok at flirting! Casual Gamer, Voice Actor, and Vtuber. Come play a game and have some fun with me! I play a variety of games!",
+        "primaryColorHex": "721717",
+        "followers": {
+            "totalCount": 1030
+        },
+        "follows": {
+            "totalCount": 263
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:01:09.091612Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d6f150b-51f7-48a9-b106-361e7a2c0886-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c614d77-4832-425a-a863-98f076cf2465-profile_banner-480.png"
+    }
 }

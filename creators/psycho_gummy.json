@@ -1,4 +1,27 @@
 {
-    "bio": "Welcome to my shit show hun! I'm Gummy your chaotic host❣️Otaku South African Catgirl Vtuber. ",
-    "id": "552180029"
+    "bio": "Welcome to my shit show hun! I'm Gummy your chaotic host❣️Otaku South African Catgirl Vtuber.",
+    "twitch": {
+        "id": "552180029",
+        "login": "psycho_gummy",
+        "displayName": "Psycho_Gummy",
+        "createdAt": "2020-07-07T22:55:26.070459Z",
+        "updatedAt": "2026-08-01T17:09:41.229913Z",
+        "description": "Welcome to my shit show hun! I'm Gummy your chaotic host❣️Otaku South African Catgirl Vtuber. ",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 35401
+        },
+        "follows": {
+            "totalCount": 137
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T17:54:34.587269Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8c5b384-0707-4482-86b5-6fd46b4fe429-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5394d880-879d-4fa3-9d6a-14b189ed08fc-profile_banner-480.png"
+    }
 }

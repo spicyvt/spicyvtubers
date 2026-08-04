@@ -1,4 +1,27 @@
 {
     "bio": "I'm simply an android that is built to make you smile...in more ways than one~",
-    "id": "67698098"
+    "twitch": {
+        "id": "67698098",
+        "login": "soulcamera",
+        "displayName": "SoulCamera",
+        "createdAt": "2014-07-30T06:56:58.970805Z",
+        "updatedAt": "2026-08-01T22:48:53.759755Z",
+        "description": "I'm simply an android that is built to make you smile...in more ways than one~",
+        "primaryColorHex": "0700C5",
+        "followers": {
+            "totalCount": 8069
+        },
+        "follows": {
+            "totalCount": 489
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T05:32:17.026312Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa01c3c3-b71d-4741-8b4a-322fd3953955-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1c929e3-dbf7-4678-8d7b-9fd0be667473-profile_banner-480.png"
+    }
 }

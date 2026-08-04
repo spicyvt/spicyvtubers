@@ -1,4 +1,27 @@
 {
     "bio": "Sapphic Succubus Cow VTuber & head maid of the Moonlight Cafe. I do voice work & post content daily! Oh, and I'm also blind!",
-    "id": "105149493"
+    "twitch": {
+        "id": "105149493",
+        "login": "monabymoonlight",
+        "displayName": "MonaByMoonlight",
+        "createdAt": "2015-10-25T09:27:19.035716Z",
+        "updatedAt": "2026-08-03T21:22:49.952895Z",
+        "description": "Sapphic Succubus Cow VTuber & head maid of the Moonlight Cafe. I do voice work & post content daily! Oh, and I'm also blind!",
+        "primaryColorHex": "FFD1DC",
+        "followers": {
+            "totalCount": 1973
+        },
+        "follows": {
+            "totalCount": 77
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-24T04:19:11.636926Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ebb8932b-3e3d-47ac-b64c-e5508cc2b853-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6a4cfcb-3b69-44d0-bdf5-d6dee5b46c34-profile_banner-480.png"
+    }
 }

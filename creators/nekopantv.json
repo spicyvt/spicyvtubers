@@ -1,4 +1,27 @@
 {
     "bio": "Bread Cat 🍞 Millennial Vtuber",
-    "id": "546554709"
+    "twitch": {
+        "id": "546554709",
+        "login": "nekopantv",
+        "displayName": "NekopanTV",
+        "createdAt": "2020-06-22T07:58:01.500151Z",
+        "updatedAt": "2025-12-01T05:52:18.694525Z",
+        "description": "Bread Cat 🍞 Millennial Vtuber",
+        "primaryColorHex": "AB7253",
+        "followers": {
+            "totalCount": 17297
+        },
+        "follows": {
+            "totalCount": 1792
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-11-16T06:01:50.800955Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/14f46e7c-9700-4a10-95f3-1eb5c8b7b64a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d43471ed-b2e0-460b-85b8-923fb042dea6-profile_banner-480.png"
+    }
 }

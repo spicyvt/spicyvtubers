@@ -1,4 +1,27 @@
 {
     "bio": "Welcome in! I'm Leyne, a Fallen Angel VTuber! I love Retro games, Pokemon, and Boba Tea!",
-    "id": "96780390"
+    "twitch": {
+        "id": "96780390",
+        "login": "leynevt",
+        "displayName": "LeyneVT",
+        "createdAt": "2015-07-21T18:37:27.599343Z",
+        "updatedAt": "2026-08-03T02:27:05.237762Z",
+        "description": "Welcome in! I'm Leyne, a Fallen Angel VTuber! I love Retro games, Pokemon, and Boba Tea!",
+        "primaryColorHex": "7A00FF",
+        "followers": {
+            "totalCount": 1204
+        },
+        "follows": {
+            "totalCount": 855
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T04:10:13.929351Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b67f074-198e-4bf1-9234-00223da1376e-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8a5f7bb-8c8d-47e5-beb3-f839e7350030-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "I play shooters, make music, and cannot shut up",
-    "id": "61951064"
+    "twitch": {
+        "id": "61951064",
+        "login": "rileyzenko",
+        "displayName": "RileyZenko",
+        "createdAt": "2014-05-01T22:13:03.172429Z",
+        "updatedAt": "2026-08-02T23:21:05.92297Z",
+        "description": "I play shooters, make music, and cannot shut up",
+        "primaryColorHex": "568EFF",
+        "followers": {
+            "totalCount": 1217
+        },
+        "follows": {
+            "totalCount": 331
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T00:10:17.316644Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/83e36797-2675-4001-b6da-e34342c1dab7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaa579c2-31f6-482c-b9a5-ba23142b6e84-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hi~ I'm Mable! 🦦 🌩️ (W)holesome Stormy Sea Otter ✧ NIKKE Creator ✧ Stream M-T-Th-F @ 12PM ET ✧ Business: contactcapablemable@gmail.com",
-    "id": "894441752"
+    "twitch": {
+        "id": "894441752",
+        "login": "capablemable",
+        "displayName": "CapableMable",
+        "createdAt": "2023-03-29T15:52:01.983533Z",
+        "updatedAt": "2026-07-31T22:04:59.34294Z",
+        "description": "Hi~ I'm Mable! 🦦 🌩️ (W)holesome Stormy Sea Otter ✧ NIKKE Creator ✧ Stream M-T-Th-F @ 12PM ET ✧ Business: contactcapablemable@gmail.com",
+        "primaryColorHex": "423951",
+        "followers": {
+            "totalCount": 7850
+        },
+        "follows": {
+            "totalCount": 442
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:48:11.825077Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c29bb528-2c1c-45ab-aabc-f27bf4c3bad2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e5b5b7-3acf-40bc-923d-f51b55186904-profile_banner-480.png"
+    }
 }

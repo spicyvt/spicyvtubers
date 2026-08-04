@@ -1,4 +1,27 @@
 {
     "bio": "I'm Ayanari. I've never debuted and I became a Vtuber by accident. I'm just chillin here and I'm saving my 1st debut for when I finish my 2.0 model!",
-    "id": "759360715"
+    "twitch": {
+        "id": "759360715",
+        "login": "ayanarivt",
+        "displayName": "AyanariVT",
+        "createdAt": "2022-01-06T21:19:59.150267Z",
+        "updatedAt": "2026-08-03T19:25:04.100105Z",
+        "description": "I'm Ayanari. I've never debuted and I became a Vtuber by accident. I'm just chillin here and I'm saving my 1st debut for when I finish my 2.0 model!",
+        "primaryColorHex": "00A3A3",
+        "followers": {
+            "totalCount": 8094
+        },
+        "follows": {
+            "totalCount": 74
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:57:46.320128Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd6fdd97-067a-4de8-9cfa-671dfb73c480-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/119a735b-b5c9-4884-b75c-cc4748e61a35-profile_banner-480.png"
+    }
 }

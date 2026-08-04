@@ -1,4 +1,27 @@
 {
     "bio": "🔞 Fluffy puppygirl NEET lewdtuber ❄️ 18+ any pronouns ✨ I like bones 💙",
-    "id": "838934250"
+    "twitch": {
+        "id": "838934250",
+        "login": "zirconwolfdog",
+        "displayName": "ZirconWolfdog",
+        "createdAt": "2022-10-20T14:50:58.012547Z",
+        "updatedAt": "2026-05-24T21:26:21.862779Z",
+        "description": "🔞 Fluffy puppygirl NEET lewdtuber ❄️ 18+ any pronouns ✨ I like bones 💙",
+        "primaryColorHex": "858EFF",
+        "followers": {
+            "totalCount": 212
+        },
+        "follows": {
+            "totalCount": 76
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-11-04T12:56:57.183647Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6093d09-2781-430f-a79c-2ac2191c6dd1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fe1d0ec-8b31-462c-a25f-8ca0edd11212-profile_banner-480.png"
+    }
 }

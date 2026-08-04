@@ -1,4 +1,27 @@
 {
-    "bio": "Hiii!! Idk what I'm going to play or do usually, but it'll be chill 18+ pleasssseee! ",
-    "id": "606465808"
+    "bio": "Hiii!! Idk what I'm going to play or do usually, but it'll be chill 18+ pleasssseee!",
+    "twitch": {
+        "id": "606465808",
+        "login": "dopalene",
+        "displayName": "Dopalene",
+        "createdAt": "2020-11-12T01:40:17.713828Z",
+        "updatedAt": "2026-01-27T01:37:56.837643Z",
+        "description": "Hiii!! Idk what I'm going to play or do usually, but it'll be chill 18+ pleasssseee! ",
+        "primaryColorHex": "250606",
+        "followers": {
+            "totalCount": 597
+        },
+        "follows": {
+            "totalCount": 184
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-01-27T05:00:56.193317Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b5962d2-0f58-44c2-8f87-4ed7c17dbca8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/65254130-6e0b-4d52-a4d5-a842b8cc27a9-profile_banner-480.png"
+    }
 }

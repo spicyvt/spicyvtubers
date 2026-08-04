@@ -1,4 +1,27 @@
 {
-    "bio": "On Break For Mental Health Reasons, See You In August!",
-    "id": "482849885"
+    "bio": "Delustional Raccoon With Rabies And Fleas Here To Give You Lots Of Love :3",
+    "twitch": {
+        "id": "482849885",
+        "login": "guillotinepuppy",
+        "displayName": "GuillotinePuppy",
+        "createdAt": "2020-01-04T07:34:15.551939Z",
+        "updatedAt": "2026-08-01T16:18:14.544461Z",
+        "description": "Delustional Raccoon With Rabies And Fleas Here To Give You Lots Of Love :3",
+        "primaryColorHex": "FF6300",
+        "followers": {
+            "totalCount": 24
+        },
+        "follows": {
+            "totalCount": 78
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T19:54:41.31098Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d8004c2-74f4-4599-bad3-5c07bd8bd629-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ad32cef-e28c-47d0-b138-3bf68f8c5eb3-profile_banner-480.jpeg"
+    }
 }

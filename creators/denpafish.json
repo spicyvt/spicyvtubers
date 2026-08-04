@@ -1,4 +1,27 @@
 {
     "bio": "just denppy 🪱🫀",
-    "id": "779607673"
+    "twitch": {
+        "id": "779607673",
+        "login": "denpafish",
+        "displayName": "denpafish",
+        "createdAt": "2022-03-13T00:41:11.273558Z",
+        "updatedAt": "2026-08-03T02:06:45.538507Z",
+        "description": "just denppy 🪱🫀",
+        "primaryColorHex": "00F593",
+        "followers": {
+            "totalCount": 12920
+        },
+        "follows": {
+            "totalCount": 486
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T03:48:52.570971Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64494c5f-29d5-4cfd-8188-fbbe3c62fbfd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3695487-74d7-4d18-acb5-6e3519dcf1a2-profile_banner-480.png"
+    }
 }

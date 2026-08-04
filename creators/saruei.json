@@ -1,4 +1,27 @@
 {
     "bio": "The Woman Who Sold The World | Games & Degen Talks | Business email: None, contact through Discord | Throne Gifts: https://throne.com/saruei",
-    "id": "122863474"
+    "twitch": {
+        "id": "122863474",
+        "login": "saruei",
+        "displayName": "Saruei",
+        "createdAt": "2016-04-27T18:37:54.905214Z",
+        "updatedAt": "2026-08-02T17:54:49.646856Z",
+        "description": "The Woman Who Sold The World | Games & Degen Talks | Business email: None, contact through Discord | Throne Gifts: https://throne.com/saruei",
+        "primaryColorHex": "FF1F61",
+        "followers": {
+            "totalCount": 504837
+        },
+        "follows": {
+            "totalCount": 142
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T18:41:43.514754Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/998a9f0c-f43a-4e8a-a7e4-42518a1591a8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f8b8dc5-0f87-4b24-97de-d780de8a6c4f-profile_banner-480.png"
+    }
 }

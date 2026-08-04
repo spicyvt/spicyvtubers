@@ -1,4 +1,27 @@
 {
-    "bio": "Dorky skunk Vtuber (˶˃𐃷˂˶)",
-    "id": "1215449272"
+    "bio": "Graduated",
+    "twitch": {
+        "id": "1215449272",
+        "login": "mimipuffz",
+        "displayName": "MimiPuffz",
+        "createdAt": "2024-12-13T01:29:16.152918Z",
+        "updatedAt": "2026-08-02T08:41:01.199095Z",
+        "description": "Graduated",
+        "primaryColorHex": "342C41",
+        "followers": {
+            "totalCount": 1929
+        },
+        "follows": {
+            "totalCount": 46
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T02:12:49.77162Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff78df23-2df0-4828-bb6e-1b8badf9a476-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5008104e-e99b-4269-b823-0fe5dd228481-profile_banner-480.png"
+    }
 }

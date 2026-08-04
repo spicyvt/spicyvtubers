@@ -1,4 +1,27 @@
 {
     "bio": "hey there im amity. a slowly growing Vtuber! Model made by SugarbombVR https://twitter.com/sugarbombvr Outfit and current body type setup by Zaibitez rigged for warudo by Spaceynerd",
-    "id": "77633832"
+    "twitch": {
+        "id": "77633832",
+        "login": "amitythedeer",
+        "displayName": "amitythedeer",
+        "createdAt": "2014-12-21T07:25:33.070868Z",
+        "updatedAt": "2026-07-24T01:37:11.695213Z",
+        "description": "hey there im amity. a slowly growing Vtuber! Model made by SugarbombVR https://twitter.com/sugarbombvr Outfit and current body type setup by Zaibitez rigged for warudo by Spaceynerd",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 194
+        },
+        "follows": {
+            "totalCount": 147
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-17T01:01:14.147787Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5e2b162-1f44-4ae7-8ebf-99c7279a77b1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa2e83f0-7746-4b83-aece-dabce9bb6996-profile_banner-480.png"
+    }
 }

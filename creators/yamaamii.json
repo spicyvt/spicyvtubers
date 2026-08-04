@@ -1,4 +1,27 @@
 {
-    "bio": "Hi, I'm Yama your local cat girl failure I love all types of games mainly horror games and just chatting! ",
-    "id": "1335775946"
+    "bio": "Hi, I'm Yama your local cat girl failure I love all types of games mainly horror games and just chatting!",
+    "twitch": {
+        "id": "1335775946",
+        "login": "yamaamii",
+        "displayName": "yamaamii",
+        "createdAt": "2025-07-14T21:40:36.17384Z",
+        "updatedAt": "2026-08-02T11:57:39.788329Z",
+        "description": "Hi, I'm Yama your local cat girl failure I love all types of games mainly horror games and just chatting! ",
+        "primaryColorHex": "BA768F",
+        "followers": {
+            "totalCount": 1323
+        },
+        "follows": {
+            "totalCount": 144
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:59:43.729339Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e65b6545-d502-44bb-90b3-babeb88ebea6-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09dbb3ec-bf5f-486d-8919-4c7037c10db3-profile_banner-480.png"
+    }
 }

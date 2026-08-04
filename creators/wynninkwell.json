@@ -1,4 +1,27 @@
 {
     "bio": "Wynn Inkwell, your Primordial Ink Idol! ~ 🧿✨ Stay posted.",
-    "id": "1330201067"
+    "twitch": {
+        "id": "1330201067",
+        "login": "wynninkwell",
+        "displayName": "WynnInkwell",
+        "createdAt": "2025-07-07T05:28:33.938529Z",
+        "updatedAt": "2026-07-31T06:39:30.184369Z",
+        "description": "Wynn Inkwell, your Primordial Ink Idol! ~ 🧿✨ Stay posted.",
+        "primaryColorHex": "001849",
+        "followers": {
+            "totalCount": 865
+        },
+        "follows": {
+            "totalCount": 215
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T02:46:25.6958Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1946632-e472-4c9b-8c6a-9e5f05e4adf2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fec75df5-47a7-414a-8f87-751231d73705-profile_banner-480.png"
+    }
 }

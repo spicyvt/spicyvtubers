@@ -1,4 +1,27 @@
 {
-    "bio": "🔪Alessia🔪 | VtuberEN 🔪Just a shygirl yandere & her tentacle entity🤍| ENG/EST  ",
-    "id": "429675379"
+    "bio": "🔪Alessia🔪 | VtuberEN 🔪Just a shygirl yandere & her tentacle entity🤍| ENG/EST",
+    "twitch": {
+        "id": "429675379",
+        "login": "alessiaara",
+        "displayName": "AlessiaAra",
+        "createdAt": "2019-04-13T02:06:40.194399Z",
+        "updatedAt": "2026-07-31T00:47:21.507753Z",
+        "description": "🔪Alessia🔪 | VtuberEN 🔪Just a shygirl yandere & her tentacle entity🤍| ENG/EST  ",
+        "primaryColorHex": "5C1211",
+        "followers": {
+            "totalCount": 7560
+        },
+        "follows": {
+            "totalCount": 185
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:50:16.825092Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82566477-efdd-48e7-9734-10959b2aad4d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cad310ad-7236-4e7e-9934-fdb190d53c1f-profile_banner-480.png"
+    }
 }

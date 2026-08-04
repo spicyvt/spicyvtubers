@@ -1,4 +1,27 @@
 {
     "bio": "A Magical Pandatuber that promises not to hex you… if you join the coven.. 🔮🐼🌹",
-    "id": "152407805"
+    "twitch": {
+        "id": "152407805",
+        "login": "mysticalrosalie",
+        "displayName": "MysticalRosalie",
+        "createdAt": "2017-04-04T23:11:02.297222Z",
+        "updatedAt": "2026-08-03T00:54:48.546315Z",
+        "description": "A Magical Pandatuber that promises not to hex you… if you join the coven.. 🔮🐼🌹",
+        "primaryColorHex": "9335B8",
+        "followers": {
+            "totalCount": 1606
+        },
+        "follows": {
+            "totalCount": 349
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:04:48.724554Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee967e8c-8f59-4ef4-a32f-def0571375c4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aece5bff-359d-466d-8d51-5d5cc19f6f86-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hi I'm Peef! I'm a girlfailure puppy vtuber, join my stream and smell my feet[+18] oshi mark-🐾🥜",
-    "id": "1169247988"
+    "twitch": {
+        "id": "1169247988",
+        "login": "puppy_c0ded",
+        "displayName": "puppy_c0ded",
+        "createdAt": "2024-10-24T23:17:09.509167Z",
+        "updatedAt": "2026-07-20T20:51:30.885177Z",
+        "description": "Hi I'm Peef! I'm a girlfailure puppy vtuber, join my stream and smell my feet[+18] oshi mark-🐾🥜",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 1364
+        },
+        "follows": {
+            "totalCount": 36
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T03:08:32.77869Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/837c32f1-9554-4411-8253-c35296dece3b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/83064741-b5e7-406e-85cb-cb06feac2792-profile_banner-480.png"
+    }
 }

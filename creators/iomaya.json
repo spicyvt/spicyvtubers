@@ -1,4 +1,27 @@
 {
     "bio": "Mai here ~ Kraken vtuber 🌸🌸Get spicy drawings, RP Audios cosplay pics 🌸https://linktr.ee/iomaya",
-    "id": "687729100"
+    "twitch": {
+        "id": "687729100",
+        "login": "iomaya",
+        "displayName": "Iomaya",
+        "createdAt": "2021-05-15T19:41:14.00537Z",
+        "updatedAt": "2026-07-13T18:01:58.522177Z",
+        "description": "Mai here ~ Kraken vtuber 🌸🌸Get spicy drawings, RP Audios cosplay pics 🌸https://linktr.ee/iomaya",
+        "primaryColorHex": "FFEDF3",
+        "followers": {
+            "totalCount": 18555
+        },
+        "follows": {
+            "totalCount": 338
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-13T18:21:38.177937Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e0c088e-078c-4aaa-ba17-63df357f24ee-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62715e16-6973-4572-97d0-dab41d507709-profile_banner-480.jpeg"
+    }
 }

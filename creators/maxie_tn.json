@@ -1,4 +1,27 @@
 {
-    "bio": "Hi Howdy Hey just a Silly Succubus Vtuber having Chaotic Fun time ",
-    "id": "480626823"
+    "bio": "Hi Howdy Hey just a Silly Succubus Vtuber having Chaotic Fun time",
+    "twitch": {
+        "id": "480626823",
+        "login": "maxie_tn",
+        "displayName": "Maxie_TN",
+        "createdAt": "2019-12-28T22:57:20.039052Z",
+        "updatedAt": "2026-08-03T22:52:06.891105Z",
+        "description": "Hi Howdy Hey just a Silly Succubus Vtuber having Chaotic Fun time ",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 1933
+        },
+        "follows": {
+            "totalCount": 1769
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T05:02:52.605955Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/30f83454-02c3-40d1-b953-579c4cbbc636-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/baa3405e-aa9f-42cc-9a07-7091b978d304-profile_banner-480.jpeg"
+    }
 }

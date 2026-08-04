@@ -1,4 +1,27 @@
 {
     "bio": "🌸The Fresh Fish of Pond-Air🍣𓆝",
-    "id": "823208434"
+    "twitch": {
+        "id": "823208434",
+        "login": "rynfrei",
+        "displayName": "Rynfrei",
+        "createdAt": "2022-09-06T01:14:51.450899Z",
+        "updatedAt": "2026-08-03T03:33:30.19283Z",
+        "description": "🌸The Fresh Fish of Pond-Air🍣𓆝",
+        "primaryColorHex": "9A77CF",
+        "followers": {
+            "totalCount": 6618
+        },
+        "follows": {
+            "totalCount": 326
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T07:40:38.424865Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c684404c-f0e6-4477-afe0-cd719d788635-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/15836f26-6d55-4243-a963-d3d132674431-profile_banner-480.jpeg"
+    }
 }

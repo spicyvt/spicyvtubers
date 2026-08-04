@@ -1,4 +1,27 @@
 {
     "bio": "✧･ﾟ: *✧･ﾟ:*  VTuber / Streamer  *:･ﾟ✧*:･ﾟ✧FBT + Face Tracking ♡I love making content, streaming, and just chilling with you all~ You guys make me so happy every single stream, thank you for being here ♡It's nice to meet you! 🌸",
-    "id": "1253718345"
+    "twitch": {
+        "id": "1253718345",
+        "login": "gloryboxvr",
+        "displayName": "GloryBoxVR",
+        "createdAt": "2025-02-10T01:33:42.590893Z",
+        "updatedAt": "2026-08-03T10:28:32.957047Z",
+        "description": "✧･ﾟ: *✧･ﾟ:*  VTuber / Streamer  *:･ﾟ✧*:･ﾟ✧FBT + Face Tracking ♡I love making content, streaming, and just chilling with you all~ You guys make me so happy every single stream, thank you for being here ♡It's nice to meet you! 🌸",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 4479
+        },
+        "follows": {
+            "totalCount": 43
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T12:06:36.847286Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3aa6fb7-8b65-4d88-af74-f0903498842b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/698f8015-f411-49e4-9a87-a379333740a7-profile_banner-480.png"
+    }
 }

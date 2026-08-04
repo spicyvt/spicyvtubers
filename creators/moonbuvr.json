@@ -1,4 +1,27 @@
 {
     "bio": "Just a lil tiger c:",
-    "id": "1059470859"
+    "twitch": {
+        "id": "1059470859",
+        "login": "moonbuvr",
+        "displayName": "MoonBuVR",
+        "createdAt": "2024-03-30T05:22:37.265679Z",
+        "updatedAt": "2026-08-01T22:27:52.716752Z",
+        "description": "Just a lil tiger c:",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 16219
+        },
+        "follows": {
+            "totalCount": 173
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:04:08.34996Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d049255-fcac-4b19-9df7-6befd60e7cde-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b00d995d-1579-46d8-9140-963a822ff3e1-profile_banner-480.jpeg"
+    }
 }

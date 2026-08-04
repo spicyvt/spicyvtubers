@@ -1,4 +1,27 @@
 {
     "bio": "🌟 Stella 🫧 Bubbly Spacepup 💫 Celestial Digipet 🛸 Pomeralien Princess ⭐ Welcome 2 my starship ⭐",
-    "id": "1157432392"
+    "twitch": {
+        "id": "1157432392",
+        "login": "fizzystella",
+        "displayName": "FizzyStella",
+        "createdAt": "2024-10-07T03:02:03.865616Z",
+        "updatedAt": "2026-07-24T21:02:54.036171Z",
+        "description": "🌟 Stella 🫧 Bubbly Spacepup 💫 Celestial Digipet 🛸 Pomeralien Princess ⭐ Welcome 2 my starship ⭐",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 170
+        },
+        "follows": {
+            "totalCount": 27
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-24T23:48:39.728208Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5726544c-28cc-425f-934f-156436eaabd9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba2ab334-b9a4-474e-817a-a842ac95161a-profile_banner-480.png"
+    }
 }

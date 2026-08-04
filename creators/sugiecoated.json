@@ -1,4 +1,27 @@
 {
     "bio": "「Hi! I’m Sugie, the Sugar Coated Witch, making the world sweeter one spell at a time!」☆〜（ゝ。∂） ♡VRCRoleplayer♡ASMR♡Artist♡Witch♡",
-    "id": "114571553"
+    "twitch": {
+        "id": "114571553",
+        "login": "sugiecoated",
+        "displayName": "Sugiecoated",
+        "createdAt": "2016-02-01T22:30:38.26981Z",
+        "updatedAt": "2026-08-04T00:00:36.841872Z",
+        "description": "「Hi! I’m Sugie, the Sugar Coated Witch, making the world sweeter one spell at a time!」☆〜（ゝ。∂） ♡VRCRoleplayer♡ASMR♡Artist♡Witch♡",
+        "primaryColorHex": "FAB3FF",
+        "followers": {
+            "totalCount": 7256
+        },
+        "follows": {
+            "totalCount": 779
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:10:36.871292Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e13be6ff-ef4d-4f3a-9cc9-d170f7dfb188-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/389f409b-7f0e-45df-9b10-9ea4539dc73c-profile_banner-480.png"
+    }
 }

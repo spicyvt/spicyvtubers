@@ -1,4 +1,27 @@
 {
     "bio": "【 SUCCUBUS TEACHER VTUBER 😈🍎 】【 Canadian Variety Streamer 🖥️ + Artist 🎨 】 I have an amazing classroom of students. Let's have fun together! Learning FR & 日本語✏️ ( Business Inquiries: tane@nyantastic.com )",
-    "id": "53572703"
+    "twitch": {
+        "id": "53572703",
+        "login": "tanetenshi",
+        "displayName": "TaneTenshi",
+        "createdAt": "2013-12-21T00:57:37.524668Z",
+        "updatedAt": "2026-08-03T01:57:57.225235Z",
+        "description": "【 SUCCUBUS TEACHER VTUBER 😈🍎 】【 Canadian Variety Streamer 🖥️ + Artist 🎨 】 I have an amazing classroom of students. Let's have fun together! Learning FR & 日本語✏️ ( Business Inquiries: tane@nyantastic.com )",
+        "primaryColorHex": "FF6666",
+        "followers": {
+            "totalCount": 36321
+        },
+        "follows": {
+            "totalCount": 623
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T06:44:41.877256Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a89bc2e-e89d-4fa3-b032-62879a0f7d6e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a930f07e-ae5a-4508-84be-a59d1c7390dc-profile_banner-480.png"
+    }
 }

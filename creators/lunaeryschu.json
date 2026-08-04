@@ -1,4 +1,27 @@
 {
     "bio": "hi I'm Lunaerys Michurii but you can call me Luna~ Cat Sith who enjoys gaming! -- (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ here have some sparkles~  Business email: lunaeryschu@gmail.com for gifts~ https://throne.com/lunaerys",
-    "id": "226944063"
+    "twitch": {
+        "id": "226944063",
+        "login": "lunaeryschu",
+        "displayName": "Lunaeryschu",
+        "createdAt": "2018-05-29T00:57:39.290793Z",
+        "updatedAt": "2026-07-31T19:56:45.815231Z",
+        "description": "hi I'm Lunaerys Michurii but you can call me Luna~ Cat Sith who enjoys gaming! -- (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ here have some sparkles~  Business email: lunaeryschu@gmail.com for gifts~ https://throne.com/lunaerys",
+        "primaryColorHex": "A593FF",
+        "followers": {
+            "totalCount": 3284
+        },
+        "follows": {
+            "totalCount": 643
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T00:53:22.910189Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3ad67b9-30d0-48ad-96a0-b93c1fc2a9e8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bb9c6d4-8a47-4875-a7a8-1bc1122dde43-profile_banner-480.png"
+    }
 }

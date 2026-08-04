@@ -1,4 +1,27 @@
 {
     "bio": "Hey! My name is Classy and I am a fallen angel who has arrived on earth and started my own community called Haven! I stream a variety of games so tune in!",
-    "id": "28904060"
+    "twitch": {
+        "id": "28904060",
+        "login": "classyvt",
+        "displayName": "ClassyVT",
+        "createdAt": "2012-03-11T22:22:46.323529Z",
+        "updatedAt": "2026-07-28T03:52:53.577464Z",
+        "description": "Hey! My name is Classy and I am a fallen angel who has arrived on earth and started my own community called Haven! I stream a variety of games so tune in!",
+        "primaryColorHex": "990000",
+        "followers": {
+            "totalCount": 1747
+        },
+        "follows": {
+            "totalCount": 1968
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-19T04:09:20.092141Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb117efd-036e-4d60-8d9f-af00e69f0fe7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2d2e967-c7e2-4849-9c0f-72d97a985a56-profile_banner-480.jpeg"
+    }
 }

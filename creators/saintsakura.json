@@ -1,4 +1,27 @@
 {
     "bio": "I'm Sakura, the comfy, cozy, and cursed, catgirl  ❤ for business inquiries reach out to saintsakuraofficial@gmail.com",
-    "id": "215669220"
+    "twitch": {
+        "id": "215669220",
+        "login": "saintsakura",
+        "displayName": "saintsakura",
+        "createdAt": "2018-04-20T22:31:06.125879Z",
+        "updatedAt": "2026-08-02T02:38:38.786563Z",
+        "description": "I'm Sakura, the comfy, cozy, and cursed, catgirl  ❤ for business inquiries reach out to saintsakuraofficial@gmail.com",
+        "primaryColorHex": "F7A3E9",
+        "followers": {
+            "totalCount": 64233
+        },
+        "follows": {
+            "totalCount": 549
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T05:43:11.736642Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a0f2114-12d8-4c5d-b887-140a30db6d94-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e78aca67-52cd-4b7f-b90c-5c5706033253-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "(He/Him) Wholesome and *holesome* femboy succubus! I am an entertainer of the hotel variety and I share stories about my client interactions. Yes I am that lavender TikTok femboy.",
-    "id": "834236779"
+    "twitch": {
+        "id": "834236779",
+        "login": "helheim_lynx",
+        "displayName": "Helheim_Lynx",
+        "createdAt": "2022-10-01T01:08:34.304594Z",
+        "updatedAt": "2026-07-29T05:24:36.835507Z",
+        "description": "(He/Him) Wholesome and *holesome* femboy succubus! I am an entertainer of the hotel variety and I share stories about my client interactions. Yes I am that lavender TikTok femboy.",
+        "primaryColorHex": "B685FF",
+        "followers": {
+            "totalCount": 49110
+        },
+        "follows": {
+            "totalCount": 183
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T06:21:11.720649Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70185a2a-6b01-47b6-8dd0-5711114b08ef-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6b36aa5-053a-49c2-9c8b-115f68c1cabb-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "💤Labrinth The Demon Of Despair | 🎮 Nekomata LewdTuber | 💖 Making Jokes And Being Dumb | 📆 Join My Chaotic Gaming |",
-    "id": "871545609"
+    "twitch": {
+        "id": "871545609",
+        "login": "labrinthvt",
+        "displayName": "LabrinthVT",
+        "createdAt": "2023-01-16T19:24:00.631905Z",
+        "updatedAt": "2026-07-13T05:34:30.512898Z",
+        "description": "💤Labrinth The Demon Of Despair | 🎮 Nekomata LewdTuber | 💖 Making Jokes And Being Dumb | 📆 Join My Chaotic Gaming |",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 211
+        },
+        "follows": {
+            "totalCount": 717
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-27T19:24:18.766452Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d68b2b-6a75-4236-ae6f-ddfbdb3602d8-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/205e1c1a-0aa0-46ff-890f-f8e6caedb1a0-profile_banner-480.png"
+    }
 }

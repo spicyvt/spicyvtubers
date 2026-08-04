@@ -1,4 +1,27 @@
 {
     "bio": "| Just a Space Brained Dawg w/ ADHD | Variety Gamer :3 | Profile Pic: by Pupriot |",
-    "id": "782510914"
+    "twitch": {
+        "id": "782510914",
+        "login": "kabbiepatty",
+        "displayName": "KabbiePatty",
+        "createdAt": "2022-03-24T14:54:37.02791Z",
+        "updatedAt": "2026-07-23T02:30:39.92503Z",
+        "description": "| Just a Space Brained Dawg w/ ADHD | Variety Gamer :3 | Profile Pic: by Pupriot |",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 222
+        },
+        "follows": {
+            "totalCount": 119
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-28T03:42:46.830063Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/245a2b36-4d9e-41bf-a043-85b5b7befb3c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7667c17a-7302-467d-ba12-b50edb6c1aae-profile_banner-480.png"
+    }
 }

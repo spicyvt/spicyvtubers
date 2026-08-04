@@ -1,4 +1,27 @@
 {
     "bio": "₍ᐢ•ﻌ•ᐢ₎✧˖𝘏𝘪! 𝘐 𝘢𝘮 𝘺𝘰𝘶𝘳 𝘢𝘥𝘰𝘳𝘢𝘣𝘭𝘦 𝘚𝘱𝘢𝘤𝘦 𝘚𝘲𝘶𝘪𝘳𝘳𝘦𝘭 𝘝𝘵𝘶𝘣𝘦𝘳! -🐿*ੈ✩‧₊˚⋆˙",
-    "id": "1306687113"
+    "twitch": {
+        "id": "1306687113",
+        "login": "starunavtuber",
+        "displayName": "starunavtuber",
+        "createdAt": "2025-05-04T21:28:30.448678Z",
+        "updatedAt": "2026-07-21T18:47:28.396633Z",
+        "description": "₍ᐢ•ﻌ•ᐢ₎✧˖𝘏𝘪! 𝘐 𝘢𝘮 𝘺𝘰𝘶𝘳 𝘢𝘥𝘰𝘳𝘢𝘣𝘭𝘦 𝘚𝘱𝘢𝘤𝘦 𝘚𝘲𝘶𝘪𝘳𝘳𝘦𝘭 𝘝𝘵𝘶𝘣𝘦𝘳! -🐿*ੈ✩‧₊˚⋆˙",
+        "primaryColorHex": "AB2DD3",
+        "followers": {
+            "totalCount": 1330
+        },
+        "follows": {
+            "totalCount": 284
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T21:39:50.860696Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e361406-8781-4e8b-8086-69b6064a2d92-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b72c340f-a026-448d-b34f-7c44453754dc-profile_banner-480.png"
+    }
 }

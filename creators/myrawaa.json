@@ -1,4 +1,27 @@
 {
-    "bio": "Bratty Syrup Tomboy ┊ ⋆ ┊Streaming at 7pm EST ~! ",
-    "id": "785841602"
+    "bio": "Bratty Syrup Tomboy ┊ ⋆ ┊Streaming at 7pm EST ~!",
+    "twitch": {
+        "id": "785841602",
+        "login": "myrawaa",
+        "displayName": "Myrawaa",
+        "createdAt": "2022-04-06T00:03:39.49423Z",
+        "updatedAt": "2026-07-20T22:54:29.790409Z",
+        "description": "Bratty Syrup Tomboy ┊ ⋆ ┊Streaming at 7pm EST ~! ",
+        "primaryColorHex": "C11E1C",
+        "followers": {
+            "totalCount": 2271
+        },
+        "follows": {
+            "totalCount": 556
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-09-21T00:40:37.772978Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3efb2c3-1797-485c-8ad6-890124c706cf-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0058a717-2cfc-4237-ad8d-690fe405e7c1-profile_banner-480.png"
+    }
 }

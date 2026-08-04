@@ -1,4 +1,27 @@
 {
     "bio": "Come vibe with the 🌙 Moon Bun Fam 🐰",
-    "id": "84997175"
+    "twitch": {
+        "id": "84997175",
+        "login": "rinnibun",
+        "displayName": "RinniBun",
+        "createdAt": "2015-03-12T05:27:17.369518Z",
+        "updatedAt": "2026-08-03T03:03:04.95978Z",
+        "description": "Come vibe with the 🌙 Moon Bun Fam 🐰",
+        "primaryColorHex": "B44CB4",
+        "followers": {
+            "totalCount": 7846
+        },
+        "follows": {
+            "totalCount": 1115
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:48:06.313416Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c57a0c74-9823-49a2-aaca-04975163c3a7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa37b794-a88a-4b2b-917e-c3d084c8b957-profile_banner-480.png"
+    }
 }

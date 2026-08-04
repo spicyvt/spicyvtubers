@@ -1,4 +1,27 @@
 {
     "bio": "18+ magical catgirl who needs you to marry her right now",
-    "id": "1167289729"
+    "twitch": {
+        "id": "1167289729",
+        "login": "yunadereva",
+        "displayName": "YunadereVA",
+        "createdAt": "2024-10-21T18:16:47.99977Z",
+        "updatedAt": "2026-08-03T21:50:37.072035Z",
+        "description": "18+ magical catgirl who needs you to marry her right now",
+        "primaryColorHex": "E25465",
+        "followers": {
+            "totalCount": 1704
+        },
+        "follows": {
+            "totalCount": 60
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:01:24.153808Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/742bed6b-5cd4-4a28-b704-8ba0b0adbb02-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf8dcc6e-fc3b-454e-83f1-0d91cb8ba37c-profile_banner-480.png"
+    }
 }

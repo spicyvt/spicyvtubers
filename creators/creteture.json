@@ -1,4 +1,27 @@
 {
     "bio": "🌸Let's Play - (J)RPGs - Soulslike🌸@Twitch affiliate🌸Powered by @therogueenergy - @SexyGamerGear - @SpacePandaDelta",
-    "id": "52105942"
+    "twitch": {
+        "id": "52105942",
+        "login": "creteture",
+        "displayName": "Creteture",
+        "createdAt": "2013-11-24T14:54:37.042543Z",
+        "updatedAt": "2026-08-01T23:17:10.688704Z",
+        "description": "🌸Let's Play - (J)RPGs - Soulslike🌸@Twitch affiliate🌸Powered by @therogueenergy - @SexyGamerGear - @SpacePandaDelta",
+        "primaryColorHex": "7D0700",
+        "followers": {
+            "totalCount": 719
+        },
+        "follows": {
+            "totalCount": 374
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T16:41:52.139981Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bafb5050-a12e-4e58-be65-d96dcd4473a1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e58c818-935e-4a7c-b2b4-3d5aaf99479b-profile_banner-480.png"
+    }
 }

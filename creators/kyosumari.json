@@ -1,4 +1,27 @@
 {
     "bio": "[18+] Freelance Artist, VTuber & Aspiring VA - Excelling in spicy, sparkly, and saturated digital illustration and character design. Maker of graphics, emotes, frames, & logos for streamers. Mother of thicc waifus. Addicted to karaoke.(Variety Streamer - Art, Games, Collabs, & A.S.M.R.)",
-    "id": "39736200"
+    "twitch": {
+        "id": "39736200",
+        "login": "kyosumari",
+        "displayName": "Kyosumari",
+        "createdAt": "2013-01-27T10:15:40.895191Z",
+        "updatedAt": "2026-07-20T21:50:42.632592Z",
+        "description": "[18+] Freelance Artist, VTuber & Aspiring VA - Excelling in spicy, sparkly, and saturated digital illustration and character design. Maker of graphics, emotes, frames, & logos for streamers. Mother of thicc waifus. Addicted to karaoke.(Variety Streamer - Art, Games, Collabs, & A.S.M.R.)",
+        "primaryColorHex": "A171ED",
+        "followers": {
+            "totalCount": 298
+        },
+        "follows": {
+            "totalCount": 323
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T22:57:30.583386Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d665c95-a8f7-4e66-b3ac-a355174e5798-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd38183a-a4ac-4b2f-b5da-691b21d75a90-profile_banner-480.png"
+    }
 }

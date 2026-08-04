@@ -1,4 +1,27 @@
 {
     "bio": "Hell was too hot so I left",
-    "id": "688287622"
+    "twitch": {
+        "id": "688287622",
+        "login": "kaifuyu_",
+        "displayName": "Kaifuyu_",
+        "createdAt": "2021-05-17T16:02:25.886937Z",
+        "updatedAt": "2026-08-01T22:21:39.73936Z",
+        "description": "Hell was too hot so I left",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 2436
+        },
+        "follows": {
+            "totalCount": 628
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-28T09:26:20.204345Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de9b17e9-5f64-4dbc-99a0-0261734ce35b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de0eef6b-3f36-4283-90fb-9d18cd2d3ca2-profile_banner-480.jpeg"
+    }
 }

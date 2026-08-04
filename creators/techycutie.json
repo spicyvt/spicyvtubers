@@ -1,4 +1,27 @@
 {
     "bio": "Call me TECHY. I am a half demon half angel cutie! I also love to draw and even have an online store for my merch!",
-    "id": "104951992"
+    "twitch": {
+        "id": "104951992",
+        "login": "techycutie",
+        "displayName": "Techycutie",
+        "createdAt": "2015-10-23T02:47:28.38073Z",
+        "updatedAt": "2026-06-05T20:55:10.296466Z",
+        "description": "Call me TECHY. I am a half demon half angel cutie! I also love to draw and even have an online store for my merch!",
+        "primaryColorHex": "9C5AFF",
+        "followers": {
+            "totalCount": 28810
+        },
+        "follows": {
+            "totalCount": 463
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-05T23:21:15.805964Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f92922c2-4d97-4fdf-8b75-b927ab67d51d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d522aca3-c169-42aa-942c-742d9eafd0c3-profile_banner-480.png"
+    }
 }

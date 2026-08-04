@@ -1,4 +1,27 @@
 {
     "bio": "[18+] Fox Hel-Witch VTuber | tell me.. what lurks in the shadows of The Boreal Woods & beneath the ice of Helheim?❄️",
-    "id": "588391801"
+    "twitch": {
+        "id": "588391801",
+        "login": "sylvanafoxx",
+        "displayName": "SylvanaFoxx",
+        "createdAt": "2020-09-26T02:12:30.569784Z",
+        "updatedAt": "2026-07-31T19:40:44.579606Z",
+        "description": "[18+] Fox Hel-Witch VTuber | tell me.. what lurks in the shadows of The Boreal Woods & beneath the ice of Helheim?❄️",
+        "primaryColorHex": "FFC9F5",
+        "followers": {
+            "totalCount": 4388
+        },
+        "follows": {
+            "totalCount": 522
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T20:42:36.0986Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/502b3a72-bff2-4410-8587-4a59f1105fbc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aeb3ee26-7864-46fa-89f6-8865aaf2e8bf-profile_banner-480.png"
+    }
 }

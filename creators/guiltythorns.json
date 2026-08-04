@@ -1,4 +1,27 @@
 {
     "bio": "Drowcubus Vtuber 𖤐 Cozy Chaotic vmommy 𖤐 Variety Streamer Extraordinaire 𖤐 Mark: 🫦🌹𖤐 Business Inquiry: guiltythornbusiness@gmail.com",
-    "id": "112570664"
+    "twitch": {
+        "id": "112570664",
+        "login": "guiltythorns",
+        "displayName": "guiltythorns",
+        "createdAt": "2016-01-12T21:02:06.844232Z",
+        "updatedAt": "2026-07-31T21:28:14.029524Z",
+        "description": "Drowcubus Vtuber 𖤐 Cozy Chaotic vmommy 𖤐 Variety Streamer Extraordinaire 𖤐 Mark: 🫦🌹𖤐 Business Inquiry: guiltythornbusiness@gmail.com",
+        "primaryColorHex": "CF0011",
+        "followers": {
+            "totalCount": 10572
+        },
+        "follows": {
+            "totalCount": 1145
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:16:17.948783Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3d778ec-8b13-4a13-a1ad-d49c31033f28-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c90df790-eeaa-49c8-9343-a6b749c2ddba-profile_banner-480.jpeg"
+    }
 }

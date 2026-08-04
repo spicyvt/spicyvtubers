@@ -1,4 +1,27 @@
 {
-    "bio": "A Reality In The Making. You and Me Are on this journey. ",
-    "id": "138334943"
+    "bio": "A Reality In The Making. You and Me Are on this journey.",
+    "twitch": {
+        "id": "138334943",
+        "login": "riikamivt",
+        "displayName": "RiiKamiVT",
+        "createdAt": "2016-10-30T17:24:50.764419Z",
+        "updatedAt": "2026-08-01T22:22:01.041526Z",
+        "description": "A Reality In The Making. You and Me Are on this journey. ",
+        "primaryColorHex": "581AFF",
+        "followers": {
+            "totalCount": 120847
+        },
+        "follows": {
+            "totalCount": 788
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T01:07:02.744175Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf5e8041-511b-4a01-9142-b0ff27b342c5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/68c9bd80-f0cd-4175-9c28-51a99b94340d-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "🍮🐾🎀 arf arf ",
-    "id": "450351985"
+    "bio": "🍮🐾🎀 arf arf",
+    "twitch": {
+        "id": "450351985",
+        "login": "puddingpuppie",
+        "displayName": "PuddingPuppie",
+        "createdAt": "2019-07-24T15:17:25.707452Z",
+        "updatedAt": "2026-07-24T19:02:01.921618Z",
+        "description": "🍮🐾🎀 arf arf ",
+        "primaryColorHex": "FFB3DA",
+        "followers": {
+            "totalCount": 6284
+        },
+        "follows": {
+            "totalCount": 40
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-01-12T21:51:33.482431Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b54b2eed-c129-4a06-bc50-d5f4285d425d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/83dcb995-4570-42c8-9974-bff48dcdc2fe-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Variety 4/20 friendly streamer! A lot of Dead by Daylight, Phasmophobia, 420 reviews and more!!!! Stream is subject to start between noon and 1pm pst!!",
-    "id": "125863664"
+    "twitch": {
+        "id": "125863664",
+        "login": "kwasumi",
+        "displayName": "Kwasumi",
+        "createdAt": "2016-06-04T01:53:48.841747Z",
+        "updatedAt": "2026-07-19T03:35:41.851625Z",
+        "description": "Variety 4/20 friendly streamer! A lot of Dead by Daylight, Phasmophobia, 420 reviews and more!!!! Stream is subject to start between noon and 1pm pst!!",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 3868
+        },
+        "follows": {
+            "totalCount": 458
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-09T21:48:18.204086Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a55b2f4-92bd-4d8e-8ed2-c1182c7de3f8-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55ae04d2-7414-42cc-a51f-900dcd455624-profile_banner-480.png"
+    }
 }

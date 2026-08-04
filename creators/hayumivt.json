@@ -1,4 +1,27 @@
 {
     "bio": "🏳️‍🌈 just a lesbian who like's to scream ;3 🏳️‍🌈 | Business Email → hayumivt@gmail.com",
-    "id": "534836407"
+    "twitch": {
+        "id": "534836407",
+        "login": "hayumivt",
+        "displayName": "HayumiVT",
+        "createdAt": "2020-05-24T00:39:34.656934Z",
+        "updatedAt": "2026-08-03T01:36:17.270782Z",
+        "description": "🏳️‍🌈 just a lesbian who like's to scream ;3 🏳️‍🌈 | Business Email → hayumivt@gmail.com",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 4919
+        },
+        "follows": {
+            "totalCount": 1995
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T20:39:43.795538Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/27aa295d-5ebb-4ea7-b93b-5f60ab231b57-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/61208eed-5a07-46eb-a8bd-5e32bd8a3995-profile_banner-480.png"
+    }
 }

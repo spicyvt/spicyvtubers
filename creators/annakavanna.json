@@ -1,4 +1,27 @@
 {
     "bio": "beep boop",
-    "id": "174668310"
+    "twitch": {
+        "id": "174668310",
+        "login": "annakavanna",
+        "displayName": "AnnaKavanna",
+        "createdAt": "2017-09-18T16:20:34.764906Z",
+        "updatedAt": "2026-05-06T04:13:41.039649Z",
+        "description": "beep boop",
+        "primaryColorHex": "47C5FF",
+        "followers": {
+            "totalCount": 3372
+        },
+        "follows": {
+            "totalCount": 300
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-06T06:30:02.436638Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc558f05-d904-4458-a2f2-a6105d84b8cd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cab776fd-fa46-4fca-b60f-2ced90f723cf-profile_banner-480.jpeg"
+    }
 }

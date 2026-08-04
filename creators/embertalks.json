@@ -1,4 +1,27 @@
 {
-    "bio": "I am weredragon kaiju vtuber, voice actress, and ASMRtist :3 ( https://www.youtube.com/@EmberTalks/ ). ",
-    "id": "671968890"
+    "bio": "I am weredragon kaiju vtuber, voice actress, and ASMRtist :3 ( https://www.youtube.com/@EmberTalks/ ).",
+    "twitch": {
+        "id": "671968890",
+        "login": "embertalks",
+        "displayName": "EmberTalks",
+        "createdAt": "2021-04-06T04:18:39.162461Z",
+        "updatedAt": "2026-07-22T22:05:23.061383Z",
+        "description": "I am weredragon kaiju vtuber, voice actress, and ASMRtist :3 ( https://www.youtube.com/@EmberTalks/ ). ",
+        "primaryColorHex": "A20C0A",
+        "followers": {
+            "totalCount": 9499
+        },
+        "follows": {
+            "totalCount": 380
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-23T01:18:17.945768Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/79f0d62d-c676-435b-a90f-b956bd4004dc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/80bb790c-dae4-4af4-b114-46be122cdddf-profile_banner-480.jpeg"
+    }
 }

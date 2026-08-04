@@ -1,4 +1,27 @@
 {
-    "bio": " A sky pirate by trade, my shore time is spent streaming a variety of games and flirting my way through town! With delicious drinks and even tastier company, I hope you come join the rogues as we sail and sing~",
-    "id": "68380695"
+    "bio": "A sky pirate by trade, my shore time is spent streaming a variety of games and flirting my way through town! With delicious drinks and even tastier company, I hope you come join the rogues as we sail and sing~",
+    "twitch": {
+        "id": "68380695",
+        "login": "rainathemouse",
+        "displayName": "RainaTheMouse",
+        "createdAt": "2014-08-07T10:39:09.309415Z",
+        "updatedAt": "2026-07-29T04:34:26.060998Z",
+        "description": " A sky pirate by trade, my shore time is spent streaming a variety of games and flirting my way through town! With delicious drinks and even tastier company, I hope you come join the rogues as we sail and sing~",
+        "primaryColorHex": "1BBEA8",
+        "followers": {
+            "totalCount": 4335
+        },
+        "follows": {
+            "totalCount": 563
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T05:45:07.093131Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bc108da-bce3-4886-8815-a8ab60de157f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33e3d3af-13e5-42f4-8678-e9d654f615ac-profile_banner-480.png"
+    }
 }

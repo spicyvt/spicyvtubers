@@ -1,4 +1,27 @@
 {
     "bio": "OVER $60,000 RAISED FOR CHARITY Most people call me Avalon ^^; I love games and I want to share them with people, but I can't do that as well on Reddit, so here we are :D PFP by @mantourei",
-    "id": "113200071"
+    "twitch": {
+        "id": "113200071",
+        "login": "everdistant_utopia",
+        "displayName": "everdistant_utopia",
+        "createdAt": "2016-01-18T20:40:15.71184Z",
+        "updatedAt": "2026-08-03T05:26:22.420538Z",
+        "description": "OVER $60,000 RAISED FOR CHARITY Most people call me Avalon ^^; I love games and I want to share them with people, but I can't do that as well on Reddit, so here we are :D PFP by @mantourei",
+        "primaryColorHex": "FFBE47",
+        "followers": {
+            "totalCount": 5637
+        },
+        "follows": {
+            "totalCount": 168
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:46:55.782661Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfddcff3-a237-440d-93d8-e0fd83327f15-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/98c08f0f-1dd2-4ea2-b9ac-f51aca56762a-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hi! I'm Alchamee (like Alchemy) or most just call me Alch! I stream a lot of Variety but FFXIV is my main love. I call myself a lo-fi vibe streamer cuz we keep it chill. Stop by and say hi sometime!",
-    "id": "278791015"
+    "twitch": {
+        "id": "278791015",
+        "login": "alchamee",
+        "displayName": "Alchamee",
+        "createdAt": "2018-11-27T22:15:16.502746Z",
+        "updatedAt": "2026-08-03T22:42:40.948135Z",
+        "description": "Hi! I'm Alchamee (like Alchemy) or most just call me Alch! I stream a lot of Variety but FFXIV is my main love. I call myself a lo-fi vibe streamer cuz we keep it chill. Stop by and say hi sometime!",
+        "primaryColorHex": "B9C5A2",
+        "followers": {
+            "totalCount": 6436
+        },
+        "follows": {
+            "totalCount": 759
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:40:44.533334Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7d51a2d-e1de-402f-9ce5-98156f73f823-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d75c1ff7-5a19-4419-8980-8751d74f36ee-profile_banner-480.png"
+    }
 }

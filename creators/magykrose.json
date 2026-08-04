@@ -1,4 +1,27 @@
 {
     "bio": "Hiya~! Call me Magyk; please come and chill with me ~Nya",
-    "id": "73908649"
+    "twitch": {
+        "id": "73908649",
+        "login": "magykrose",
+        "displayName": "MagykRose",
+        "createdAt": "2014-10-28T08:29:43.752Z",
+        "updatedAt": "2026-08-01T22:03:57.326151Z",
+        "description": "Hiya~! Call me Magyk; please come and chill with me ~Nya",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 3489
+        },
+        "follows": {
+            "totalCount": 581
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T00:59:14.358734Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67a21be7-368d-426d-9cdc-d3b02d66e619-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/130d88bd-8a5f-45c9-9343-dc830b9751f1-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "unhinged adhd cyber girl who can't stop yapping ── .✦  | ✉ ▸ laeletvgames@gmail.com",
-    "id": "245313890"
+    "twitch": {
+        "id": "245313890",
+        "login": "laeledarling",
+        "displayName": "LaeleDarling",
+        "createdAt": "2018-08-04T00:54:37.705488Z",
+        "updatedAt": "2026-08-01T04:13:17.271896Z",
+        "description": "unhinged adhd cyber girl who can't stop yapping ── .✦  | ✉ ▸ laeletvgames@gmail.com",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 8136
+        },
+        "follows": {
+            "totalCount": 688
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:20:34.332189Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60c1a28d-ae9d-4b89-964a-7a9459e0a02b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/073a9f1e-fc25-40ab-b9e9-b236ac812190-profile_banner-480.png"
+    }
 }

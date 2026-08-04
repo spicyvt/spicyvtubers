@@ -1,4 +1,27 @@
 {
     "bio": "Hello darling~ I am your maiden of entertainment, here to fulfill your wishes and satisfy your desires",
-    "id": "271794270"
+    "twitch": {
+        "id": "271794270",
+        "login": "mourningvenus",
+        "displayName": "MourningVenus",
+        "createdAt": "2018-11-02T22:04:34.717485Z",
+        "updatedAt": "2026-07-27T20:38:36.440577Z",
+        "description": "Hello darling~ I am your maiden of entertainment, here to fulfill your wishes and satisfy your desires",
+        "primaryColorHex": "AA82C5",
+        "followers": {
+            "totalCount": 713
+        },
+        "follows": {
+            "totalCount": 85
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-18T17:12:54.627972Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ddf24d43-d7f7-4e6a-8171-02d22cac8b0f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/89e5cd14-8e23-4271-89f5-ac92eb48d4b0-profile_banner-480.png"
+    }
 }

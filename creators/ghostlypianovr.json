@@ -1,4 +1,27 @@
 {
-    "bio": "Cute Bunny boy here to vibe, ASMR, play piano and explore the world of VR--I play chill games, and like to be lazy! ",
-    "id": "1478640571"
+    "bio": "Cute Bunny boy here to vibe, ASMR, play piano and explore the world of VR--I play chill games, and like to be lazy!",
+    "twitch": {
+        "id": "1478640571",
+        "login": "ghostlypianovr",
+        "displayName": "GhostlyPianoVR",
+        "createdAt": "2026-04-10T09:13:32.022382Z",
+        "updatedAt": "2026-08-02T00:02:31.679719Z",
+        "description": "Cute Bunny boy here to vibe, ASMR, play piano and explore the world of VR--I play chill games, and like to be lazy! ",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 83
+        },
+        "follows": {
+            "totalCount": 17
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T01:42:32.836281Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e53eb05-37db-4c25-8177-b88089193928-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25ed2ec7-8170-4afe-af5a-306d7843c1d1-profile_banner-480.png"
+    }
 }

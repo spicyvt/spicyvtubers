@@ -1,4 +1,27 @@
 {
     "bio": "✧ 18+ ✧ Celestial Calico Shapeshifter ✧ Keep shining, Stardust! ✧ Casual gamer and variety streamer! ✧ More plushies than braincells ✧ Chaos Gremlin ✧ Comfy Safespace ✧ Lewdtuber",
-    "id": "108633231"
+    "twitch": {
+        "id": "108633231",
+        "login": "xmissrave",
+        "displayName": "xMissRave",
+        "createdAt": "2015-12-03T22:33:52.99546Z",
+        "updatedAt": "2026-08-03T00:17:01.203419Z",
+        "description": "✧ 18+ ✧ Celestial Calico Shapeshifter ✧ Keep shining, Stardust! ✧ Casual gamer and variety streamer! ✧ More plushies than braincells ✧ Chaos Gremlin ✧ Comfy Safespace ✧ Lewdtuber",
+        "primaryColorHex": "D1A9FF",
+        "followers": {
+            "totalCount": 1342
+        },
+        "follows": {
+            "totalCount": 252
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-16T00:33:19.0947Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/346dd3d4-110b-4e54-b305-3fe3bb44a6e1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13455f36-384c-4363-b931-d120b9be729b-profile_banner-480.png"
+    }
 }

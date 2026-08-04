@@ -1,4 +1,27 @@
 {
     "bio": "Brains, strategy, and fun all wrapped in one! 🎮💛",
-    "id": "725134195"
+    "twitch": {
+        "id": "725134195",
+        "login": "erpg0d",
+        "displayName": "ERPG0D",
+        "createdAt": "2021-09-08T22:50:32.429459Z",
+        "updatedAt": "2026-07-26T23:00:40.813204Z",
+        "description": "Brains, strategy, and fun all wrapped in one! 🎮💛",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 2534
+        },
+        "follows": {
+            "totalCount": 201
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T23:40:06.048741Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/89cafa5b-03ad-4478-80a3-4691d20c3fec-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc81b1f-5c7f-4e6e-92ca-4bd323f13a6d-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "Your hallucination mushroom girl, with a weird sense of humor 🍄🦋  ✉️ifera@iferaanimation.com                                                                                         ",
-    "id": "193424748"
+    "bio": "Your hallucination mushroom girl, with a weird sense of humor 🍄🦋  ✉️ifera@iferaanimation.com",
+    "twitch": {
+        "id": "193424748",
+        "login": "ifera9",
+        "displayName": "Ifera9",
+        "createdAt": "2018-01-28T02:20:37.838743Z",
+        "updatedAt": "2026-08-01T01:31:12.517847Z",
+        "description": "Your hallucination mushroom girl, with a weird sense of humor 🍄🦋  ✉️ifera@iferaanimation.com                                                                                         ",
+        "primaryColorHex": "6FD9F7",
+        "followers": {
+            "totalCount": 9626
+        },
+        "follows": {
+            "totalCount": 191
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T04:47:03.401069Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60afad2b-e86f-40d9-89a8-6cf81be7e858-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6acad10f-35bf-486f-9528-9fc867f46542-profile_banner-480.jpeg"
+    }
 }

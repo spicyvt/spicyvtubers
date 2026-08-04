@@ -1,4 +1,27 @@
 {
-    "bio": "im the bunny who does the voices and 1 billion characters - VALLURE FOREVER ",
-    "id": "1011890509"
+    "bio": "im the bunny who does the voices and 1 billion characters - VALLURE FOREVER",
+    "twitch": {
+        "id": "1011890509",
+        "login": "shibicottonbum",
+        "displayName": "ShibiCottonbum",
+        "createdAt": "2023-12-31T21:19:53.834095Z",
+        "updatedAt": "2026-08-01T17:27:22.663598Z",
+        "description": "im the bunny who does the voices and 1 billion characters - VALLURE FOREVER ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 3792
+        },
+        "follows": {
+            "totalCount": 131
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T20:05:04.501148Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f98a696-d1a1-4ef2-afb7-b835564aa5fb-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee48935-b92c-438f-a68b-b7e448066142-profile_banner-480.png"
+    }
 }

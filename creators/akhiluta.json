@@ -1,4 +1,27 @@
 {
     "bio": "Akhlut (half wolf; half orca whale spirit) Vtuber & ASMR creator. Specializes in water / aquaphile content. Come be a sea wolf!",
-    "id": "1082634385"
+    "twitch": {
+        "id": "1082634385",
+        "login": "akhiluta",
+        "displayName": "AkhiLuta",
+        "createdAt": "2024-05-10T09:52:18.567878Z",
+        "updatedAt": "2026-07-23T07:30:02.309937Z",
+        "description": "Akhlut (half wolf; half orca whale spirit) Vtuber & ASMR creator. Specializes in water / aquaphile content. Come be a sea wolf!",
+        "primaryColorHex": "0F9491",
+        "followers": {
+            "totalCount": 520
+        },
+        "follows": {
+            "totalCount": 19
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-04T04:55:00.751625Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b21954e-8c93-4465-8dd3-baeb95d672c4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/569465bb-1ee3-4717-8a1e-860bbf88bcbb-profile_banner-480.png"
+    }
 }

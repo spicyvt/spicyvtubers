@@ -1,4 +1,27 @@
 {
     "bio": "🕮 Your local plug and play vermin father librarian- no matter the dimension ⋆⭒˚.⋆ 「 ✦ They / He ✦ 」",
-    "id": "124182942"
+    "twitch": {
+        "id": "124182942",
+        "login": "casmurdis",
+        "displayName": "CasMurdis",
+        "createdAt": "2016-05-14T01:32:02.324363Z",
+        "updatedAt": "2026-07-17T13:51:24.562271Z",
+        "description": "🕮 Your local plug and play vermin father librarian- no matter the dimension ⋆⭒˚.⋆ 「 ✦ They / He ✦ 」",
+        "primaryColorHex": "630807",
+        "followers": {
+            "totalCount": 398
+        },
+        "follows": {
+            "totalCount": 197
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-17T19:52:38.644189Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5159f67f-5cfc-4230-a912-dc863d280dc4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c228adbd-ad83-461e-8b25-b29a5c63e24c-profile_banner-480.png"
+    }
 }

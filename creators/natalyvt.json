@@ -1,4 +1,27 @@
 {
     "bio": "Your Favorite Waifu! Destiny 2 Creator 💕Welcome to Kitty Gang :3 Powered by @ADVANCEDgg",
-    "id": "846301130"
+    "twitch": {
+        "id": "846301130",
+        "login": "natalyvt",
+        "displayName": "NatalyVT",
+        "createdAt": "2022-11-11T18:28:59.784536Z",
+        "updatedAt": "2026-08-03T06:13:07.679257Z",
+        "description": "Your Favorite Waifu! Destiny 2 Creator 💕Welcome to Kitty Gang :3 Powered by @ADVANCEDgg",
+        "primaryColorHex": "17C8FF",
+        "followers": {
+            "totalCount": 2553
+        },
+        "follows": {
+            "totalCount": 924
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T09:46:25.793849Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ffeefd6-66e4-45b8-a39a-03d2b1af7d08-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8a63a6c-8e17-442f-97cc-9a2c5e0a13ab-profile_banner-480.png"
+    }
 }

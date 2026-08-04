@@ -1,4 +1,27 @@
 {
-    "bio": "gyaru ghoul always ready to bite chu~ ",
-    "id": "816693700"
+    "bio": "gyaru ghoul always ready to bite chu~",
+    "twitch": {
+        "id": "816693700",
+        "login": "rubitechu",
+        "displayName": "RuBiteChu",
+        "createdAt": "2022-08-11T05:23:48.065734Z",
+        "updatedAt": "2026-08-01T03:53:16.035123Z",
+        "description": "gyaru ghoul always ready to bite chu~ ",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 8200
+        },
+        "follows": {
+            "totalCount": 364
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T06:04:41.117709Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/97380b18-81d4-49aa-9d21-757a1f7c7c74-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6538ee7-f565-4fec-9b28-2b150dd61d27-profile_banner-480.png"
+    }
 }

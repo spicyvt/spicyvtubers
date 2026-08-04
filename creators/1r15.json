@@ -1,4 +1,27 @@
 {
     "bio": "Lewd elf with unmedicated adhd and mental illness. 18+ stream 💙",
-    "id": "658569369"
+    "twitch": {
+        "id": "658569369",
+        "login": "1r15",
+        "displayName": "1R15",
+        "createdAt": "2021-03-06T16:21:48.053259Z",
+        "updatedAt": "2026-08-03T07:20:27.788164Z",
+        "description": "Lewd elf with unmedicated adhd and mental illness. 18+ stream 💙",
+        "primaryColorHex": "0558B3",
+        "followers": {
+            "totalCount": 10036
+        },
+        "follows": {
+            "totalCount": 204
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T11:55:43.699125Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9727dc33-0559-42ce-9396-a7d76888b712-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/68c6edab-733a-47ec-8e60-a31938f9b7ec-profile_banner-480.png"
+    }
 }

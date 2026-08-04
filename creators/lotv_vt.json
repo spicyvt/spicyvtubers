@@ -1,4 +1,27 @@
 {
     "bio": "Lily Of The Valley! Pro yapper, artist, aspiring vtuber maker, scuffed gamer, even more scuffed singer! | business inquiries: lilyofthevalleyvt@gmail.com",
-    "id": "1510492627"
+    "twitch": {
+        "id": "1510492627",
+        "login": "lotv_vt",
+        "displayName": "LOTV_VT",
+        "createdAt": "2026-06-10T13:43:06.652063Z",
+        "updatedAt": "2026-07-18T08:30:48.015294Z",
+        "description": "Lily Of The Valley! Pro yapper, artist, aspiring vtuber maker, scuffed gamer, even more scuffed singer! | business inquiries: lilyofthevalleyvt@gmail.com",
+        "primaryColorHex": "FD8EC6",
+        "followers": {
+            "totalCount": 128
+        },
+        "follows": {
+            "totalCount": 103
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-08T19:59:00.973289Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23adfe49-c0de-4ec5-932c-2da8cd522ba8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e6c8bf8-8a08-40af-a267-bb2d0920e3cf-profile_banner-480.png"
+    }
 }

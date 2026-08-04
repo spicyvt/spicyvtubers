@@ -1,4 +1,27 @@
 {
     "bio": "IRL and Bunny V-Tuber 🥕 ASMR, Gaming & Comfy Variety streams 🥕 Welcome, please enjoy your stay! ♡ ✉️ BUSINESS EMAIL: bunnyayu@iso-ent.com",
-    "id": "70964046"
+    "twitch": {
+        "id": "70964046",
+        "login": "bunnyayu",
+        "displayName": "BunnyAyu",
+        "createdAt": "2014-09-10T23:39:12.301843Z",
+        "updatedAt": "2026-08-03T16:02:51.314263Z",
+        "description": "IRL and Bunny V-Tuber 🥕 ASMR, Gaming & Comfy Variety streams 🥕 Welcome, please enjoy your stay! ♡ ✉️ BUSINESS EMAIL: bunnyayu@iso-ent.com",
+        "primaryColorHex": "59C8FF",
+        "followers": {
+            "totalCount": 357325
+        },
+        "follows": {
+            "totalCount": 625
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T02:57:17.663333Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/71f7c77b-85d6-4e08-837b-920d087d843b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb83f154-e062-4705-b246-aae82d13ba38-profile_banner-480.png"
+    }
 }

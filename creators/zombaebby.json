@@ -1,4 +1,27 @@
 {
     "bio": "Model | Artist | Vtuber | Gamer | www.zombae.com | Wshlist: https://thrn.co/u/zombaebby",
-    "id": "51772229"
+    "twitch": {
+        "id": "51772229",
+        "login": "zombaebby",
+        "displayName": "zombaebby",
+        "createdAt": "2013-11-18T15:04:01.106666Z",
+        "updatedAt": "2026-08-03T21:03:10.767689Z",
+        "description": "Model | Artist | Vtuber | Gamer | www.zombae.com | Wshlist: https://thrn.co/u/zombaebby",
+        "primaryColorHex": "3D0022",
+        "followers": {
+            "totalCount": 7016
+        },
+        "follows": {
+            "totalCount": 366
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:58:51.218929Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dfa94839-f364-48ec-aaea-0b15e98ec86c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b01c5f3-65ff-450a-b1b3-69fccfc1783c-profile_banner-480.jpeg"
+    }
 }

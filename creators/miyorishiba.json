@@ -1,4 +1,27 @@
 {
     "bio": "A shiba Vtuber who does tarot readings, ASMR and casually plays gacha games like Honkai: Star Rail and Wuthering Waves. I love to yap about everything ;3 Feel free to drop by anytime! Business email: miyorishiba@gmail.com",
-    "id": "723139591"
+    "twitch": {
+        "id": "723139591",
+        "login": "miyorishiba",
+        "displayName": "MiyoriShiba",
+        "createdAt": "2021-09-01T12:18:38.643552Z",
+        "updatedAt": "2026-07-10T00:56:28.544566Z",
+        "description": "A shiba Vtuber who does tarot readings, ASMR and casually plays gacha games like Honkai: Star Rail and Wuthering Waves. I love to yap about everything ;3 Feel free to drop by anytime! Business email: miyorishiba@gmail.com",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 3565
+        },
+        "follows": {
+            "totalCount": 321
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-01T16:20:31.173753Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a69b0a36-20b4-474e-a407-7e58d86a2d88-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8144fdb-8683-4675-a27c-e05de7c2fc3c-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "[18+ only] I'm Angelica, your favorite succubus online.. here to steal your attention (not your soul... probably). Expect cozy games, chaotic energy and chill vibes. Variety streamer with a soft spot for simulations.",
-    "id": "924538582"
+    "twitch": {
+        "id": "924538582",
+        "login": "angelica_vtuber",
+        "displayName": "Angelica_vtuber",
+        "createdAt": "2023-06-21T15:06:20.73251Z",
+        "updatedAt": "2026-08-03T20:08:38.282821Z",
+        "description": "[18+ only] I'm Angelica, your favorite succubus online.. here to steal your attention (not your soul... probably). Expect cozy games, chaotic energy and chill vibes. Variety streamer with a soft spot for simulations.",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 455
+        },
+        "follows": {
+            "totalCount": 75
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:13:09.234537Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22be9dad-16e3-41fe-961e-92bf68922bdc-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/45ffcb2a-2aaf-4769-a52a-114d331d8050-profile_banner-480.jpeg"
+    }
 }

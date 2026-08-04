@@ -1,4 +1,27 @@
 {
     "bio": "Something/Femboy Florida Streamer/Youtuber With CF (Cystic Fibrosis)",
-    "id": "428785140"
+    "twitch": {
+        "id": "428785140",
+        "login": "admiralmorkbork",
+        "displayName": "AdmiralMorkBork",
+        "createdAt": "2019-04-08T10:44:50.035109Z",
+        "updatedAt": "2026-08-03T14:28:17.155598Z",
+        "description": "Something/Femboy Florida Streamer/Youtuber With CF (Cystic Fibrosis)",
+        "primaryColorHex": "FA1ED2",
+        "followers": {
+            "totalCount": 3192
+        },
+        "follows": {
+            "totalCount": 546
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T15:48:09.278678Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5cdd85c-fa34-49de-80ab-f28fbc5d8432-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7773960-d36e-492d-8e5a-1aa98e8967fb-profile_banner-480.png"
+    }
 }

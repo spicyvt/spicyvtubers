@@ -1,4 +1,27 @@
 {
-    "bio": "tattoo artist, cheese enthusiast and gamer (deragotory)  ",
-    "id": "123509676"
+    "bio": "tattoo artist, cheese enthusiast and gamer (deragotory)",
+    "twitch": {
+        "id": "123509676",
+        "login": "chinchilladaas",
+        "displayName": "chinchilladaas",
+        "createdAt": "2016-05-05T11:14:50.426991Z",
+        "updatedAt": "2026-08-02T16:08:49.39227Z",
+        "description": "tattoo artist, cheese enthusiast and gamer (deragotory)  ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 1273
+        },
+        "follows": {
+            "totalCount": 139
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:30:05.80965Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7630025-5cba-4a5e-bae7-d503a6224094-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e8f647a-6b4b-4cc6-a0cf-0a7d17eed18e-profile_banner-480.png"
+    }
 }

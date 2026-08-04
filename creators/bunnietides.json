@@ -1,4 +1,27 @@
 {
     "bio": "hi!! I'm bunnie :) just a lazy time deity that'd rather be lounging by the ocean and talking to you! lover of all things visual novel, bl and overwatch! :3",
-    "id": "1323478545"
+    "twitch": {
+        "id": "1323478545",
+        "login": "bunnietides",
+        "displayName": "BunnieTides",
+        "createdAt": "2025-06-17T03:32:09.346492Z",
+        "updatedAt": "2026-07-21T01:31:37.444057Z",
+        "description": "hi!! I'm bunnie :) just a lazy time deity that'd rather be lounging by the ocean and talking to you! lover of all things visual novel, bl and overwatch! :3",
+        "primaryColorHex": "74D5FF",
+        "followers": {
+            "totalCount": 194
+        },
+        "follows": {
+            "totalCount": 35
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-19T01:06:39.23801Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/096d8ee8-0d19-4a69-9d7b-fafd89d5562b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96287594-10fc-4d35-aae7-f221ee3d153c-profile_banner-480.png"
+    }
 }

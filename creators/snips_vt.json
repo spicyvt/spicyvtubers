@@ -1,4 +1,27 @@
 {
-    "bio": "hi i’m snips! just a herb-loving dragoness in a human world... ",
-    "id": "568649356"
+    "bio": "hi i’m snips! just a herb-loving dragoness in a human world...",
+    "twitch": {
+        "id": "568649356",
+        "login": "snips_vt",
+        "displayName": "snips_vt",
+        "createdAt": "2020-08-17T18:59:22.309346Z",
+        "updatedAt": "2026-08-04T00:39:54.835223Z",
+        "description": "hi i’m snips! just a herb-loving dragoness in a human world... ",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 295
+        },
+        "follows": {
+            "totalCount": 287
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T23:47:28.916009Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5762361f-1dbd-4919-aa99-7dfaf8435917-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a52701c0-f34d-460b-992a-40c8086ec4d8-profile_banner-480.png"
+    }
 }

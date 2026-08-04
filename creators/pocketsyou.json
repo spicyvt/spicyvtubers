@@ -1,4 +1,27 @@
 {
     "bio": "♡ Just a dog. I'm not very good at this streaming thing but If you're vibin', I'm vibin'. ♡",
-    "id": "158677394"
+    "twitch": {
+        "id": "158677394",
+        "login": "pocketsyou",
+        "displayName": "pocketsyou",
+        "createdAt": "2017-06-02T03:41:53.177648Z",
+        "updatedAt": "2026-08-02T19:34:31.115811Z",
+        "description": "♡ Just a dog. I'm not very good at this streaming thing but If you're vibin', I'm vibin'. ♡",
+        "primaryColorHex": "53948F",
+        "followers": {
+            "totalCount": 5360
+        },
+        "follows": {
+            "totalCount": 120
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T22:34:29.898303Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0353801a-9e01-4c48-b9cc-be4ebea990cb-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5d6768d-a204-4d67-ab37-780e9e1f78cd-profile_banner-480.png"
+    }
 }

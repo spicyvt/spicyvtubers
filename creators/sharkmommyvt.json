@@ -1,4 +1,27 @@
 {
     "bio": "Ghost shark mom here to keep you company and gently guide you to the afterlife 🖤",
-    "id": "1405546314"
+    "twitch": {
+        "id": "1405546314",
+        "login": "sharkmommyvt",
+        "displayName": "SharkMommyVT",
+        "createdAt": "2025-12-13T17:17:45.160608Z",
+        "updatedAt": "2026-08-01T14:52:56.261035Z",
+        "description": "Ghost shark mom here to keep you company and gently guide you to the afterlife 🖤",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 2693
+        },
+        "follows": {
+            "totalCount": 76
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T18:08:43.076211Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/08cc188d-c7b7-4aa4-b02b-8ffbed59cc5c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c9ac46-0ec6-441d-9d6d-f049f53ee382-profile_banner-480.png"
+    }
 }

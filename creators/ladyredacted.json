@@ -1,4 +1,27 @@
 {
     "bio": "Hiya! I'm a Eldritch Goddess of Luck, a Fox Vtuber who has a dedication to streaming. On entrance to my stream you offer me your luck and I welcome you into my den. My dream is for the community that forms around me to be friendly and welcoming.",
-    "id": "66582638"
+    "twitch": {
+        "id": "66582638",
+        "login": "ladyredacted",
+        "displayName": "LadyRedacted",
+        "createdAt": "2014-07-17T21:47:43.79117Z",
+        "updatedAt": "2026-08-03T17:03:02.502859Z",
+        "description": "Hiya! I'm a Eldritch Goddess of Luck, a Fox Vtuber who has a dedication to streaming. On entrance to my stream you offer me your luck and I welcome you into my den. My dream is for the community that forms around me to be friendly and welcoming.",
+        "primaryColorHex": "FF002F",
+        "followers": {
+            "totalCount": 595
+        },
+        "follows": {
+            "totalCount": 130
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:54:28.983264Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b0bca4b-a7fc-41b6-88dd-b4f2ed8b93f6-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/41fea63f-fe23-4520-9be8-efcd01b7d4f3-profile_banner-480.png"
+    }
 }

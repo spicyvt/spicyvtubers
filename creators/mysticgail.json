@@ -1,4 +1,27 @@
 {
     "bio": "☾ ⋆*･ﾟ:⋆*･ﾟ Mystical Unikitty here to cast a spell on you!.・。.・゜✭・.18+ and a fun mix of lewd and seiso~ ᓚᘏᗢ gamer and goofy goober ᨐฅStop by streams for tarot readings and potion crafting!",
-    "id": "838837229"
+    "twitch": {
+        "id": "838837229",
+        "login": "mysticgail",
+        "displayName": "MysticGail",
+        "createdAt": "2022-10-20T02:30:36.445118Z",
+        "updatedAt": "2026-08-04T01:24:50.39006Z",
+        "description": "☾ ⋆*･ﾟ:⋆*･ﾟ Mystical Unikitty here to cast a spell on you!.・。.・゜✭・.18+ and a fun mix of lewd and seiso~ ᓚᘏᗢ gamer and goofy goober ᨐฅStop by streams for tarot readings and potion crafting!",
+        "primaryColorHex": "A163FF",
+        "followers": {
+            "totalCount": 2698
+        },
+        "follows": {
+            "totalCount": 1010
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T04:02:28.559894Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec23fa2c-023e-4f47-95da-64c3598a7533-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bb47ea4-1b22-471f-867a-63f99e5e6692-profile_banner-480.png"
+    }
 }

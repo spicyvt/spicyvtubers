@@ -1,4 +1,27 @@
 {
     "bio": "Welcome to my channel! I am louisthebeastly and you are part of the beastlycrew so i hope yall enjoy it here!",
-    "id": "111789507"
+    "twitch": {
+        "id": "111789507",
+        "login": "louisthebeastly",
+        "displayName": "louisthebeastly",
+        "createdAt": "2016-01-05T19:41:07.556095Z",
+        "updatedAt": "2026-08-03T04:06:26.416627Z",
+        "description": "Welcome to my channel! I am louisthebeastly and you are part of the beastlycrew so i hope yall enjoy it here!",
+        "primaryColorHex": "8205B3",
+        "followers": {
+            "totalCount": 1571
+        },
+        "follows": {
+            "totalCount": 2000
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:42:29.450605Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b4260e-ec21-43ca-8375-d8e824d70c84-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f86974c8-75a0-4712-aa81-4ba84cc8e0b9-profile_banner-480.png"
+    }
 }

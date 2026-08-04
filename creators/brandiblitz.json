@@ -1,4 +1,27 @@
 {
     "bio": "Heya, Am BrandiBlitz! An Android Catgirl who's been stuck in this server for god knows how long! Nice to meet you~",
-    "id": "622370776"
+    "twitch": {
+        "id": "622370776",
+        "login": "brandiblitz",
+        "displayName": "BrandiBlitz",
+        "createdAt": "2020-12-18T02:52:15.996857Z",
+        "updatedAt": "2026-07-28T17:18:49.882863Z",
+        "description": "Heya, Am BrandiBlitz! An Android Catgirl who's been stuck in this server for god knows how long! Nice to meet you~",
+        "primaryColorHex": "530000",
+        "followers": {
+            "totalCount": 111
+        },
+        "follows": {
+            "totalCount": 826
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-17T00:08:52.833922Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95102b3d-4c13-4ba1-bde7-0b42f903e191-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7010e0a4-7f0b-4c4c-9e87-75cbd00d15d4-profile_banner-480.png"
+    }
 }

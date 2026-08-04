@@ -1,4 +1,27 @@
 {
-    "bio": "Seiso gremlin that is bad at games! 🔞[ESP/ENVtuber]  ",
-    "id": "668340677"
+    "bio": "Seiso gremlin that is bad at games! 🔞[ESP/ENVtuber]",
+    "twitch": {
+        "id": "668340677",
+        "login": "ayumiipix",
+        "displayName": "Ayumiipix",
+        "createdAt": "2021-03-29T01:25:11.034763Z",
+        "updatedAt": "2026-07-27T08:35:16.223495Z",
+        "description": "Seiso gremlin that is bad at games! 🔞[ESP/ENVtuber]  ",
+        "primaryColorHex": "8D13AE",
+        "followers": {
+            "totalCount": 41690
+        },
+        "follows": {
+            "totalCount": 528
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T12:04:29.405838Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aea38ff3-a6df-4bb6-aeff-bf68ca1909b8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2b95bdc-7f1d-47bd-8ae7-4f04ff9bc9fa-profile_banner-480.png"
+    }
 }

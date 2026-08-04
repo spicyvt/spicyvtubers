@@ -1,4 +1,27 @@
 {
     "bio": "♥ 𝕀'𝕞 𝕒 𝕕𝕠𝕘 𝕒𝕟𝕕 𝕀 𝕘𝕠 𝔸ℝ𝔽 𝔸ℝ𝔽 💙🦴",
-    "id": "55586352"
+    "twitch": {
+        "id": "55586352",
+        "login": "mamablu_",
+        "displayName": "MamaBlu_",
+        "createdAt": "2014-01-25T21:32:36.644901Z",
+        "updatedAt": "2026-07-30T19:51:06.104173Z",
+        "description": "♥ 𝕀'𝕞 𝕒 𝕕𝕠𝕘 𝕒𝕟𝕕 𝕀 𝕘𝕠 𝔸ℝ𝔽 𝔸ℝ𝔽 💙🦴",
+        "primaryColorHex": "1F9AFF",
+        "followers": {
+            "totalCount": 2732
+        },
+        "follows": {
+            "totalCount": 383
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-21T06:53:38.350847Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8c2d32b-2e56-4e26-bfdf-7a8083bb6834-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/222459ac-26ff-4e27-8b5b-bfb25b68d365-profile_banner-480.png"
+    }
 }

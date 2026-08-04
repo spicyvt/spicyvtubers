@@ -1,4 +1,27 @@
 {
     "bio": "Meow?",
-    "id": "79252162"
+    "twitch": {
+        "id": "79252162",
+        "login": "yoobinzzz",
+        "displayName": "yoobinzzz",
+        "createdAt": "2015-01-08T19:13:35.709074Z",
+        "updatedAt": "2026-07-01T14:32:34.100592Z",
+        "description": "Meow?",
+        "primaryColorHex": "906DC5",
+        "followers": {
+            "totalCount": 2260
+        },
+        "follows": {
+            "totalCount": 375
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-17T00:36:10.643875Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce62f898-fd4f-48b3-8821-bbbbfce26b8e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d51c10cd-6ffd-474f-bb55-feb2ef9e9cd3-profile_banner-480.png"
+    }
 }

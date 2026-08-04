@@ -1,4 +1,27 @@
 {
     "bio": "Hi there, I'm Kanade💕Usually I'm making ASMR audio roleplays on YouTube and Patreon but on here, I'm just a silly little gremlin who streams a variety of games and videos. Welcome to my dungeon~",
-    "id": "833314781"
+    "twitch": {
+        "id": "833314781",
+        "login": "kanadeasmr",
+        "displayName": "KanadeASMR",
+        "createdAt": "2022-09-26T02:47:27.969199Z",
+        "updatedAt": "2026-08-01T01:52:39.527739Z",
+        "description": "Hi there, I'm Kanade💕Usually I'm making ASMR audio roleplays on YouTube and Patreon but on here, I'm just a silly little gremlin who streams a variety of games and videos. Welcome to my dungeon~",
+        "primaryColorHex": "F4BD4F",
+        "followers": {
+            "totalCount": 1181
+        },
+        "follows": {
+            "totalCount": 258
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T05:19:35.980298Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce4dd623-cacd-499c-94c6-86de0c036d51-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd69707-5270-4633-96e8-75cea198b863-profile_banner-480.png"
+    }
 }

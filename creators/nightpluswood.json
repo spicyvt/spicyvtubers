@@ -1,4 +1,27 @@
 {
     "bio": "Is everybody in? Everybody in?? The Ceremony is about to begin! Here to play retro, indie, and retro indie games! I hope I get to show you something New To You!",
-    "id": "566884769"
+    "twitch": {
+        "id": "566884769",
+        "login": "nightpluswood",
+        "displayName": "NightPluswood",
+        "createdAt": "2020-08-14T01:30:16.154418Z",
+        "updatedAt": "2026-08-03T13:05:08.861845Z",
+        "description": "Is everybody in? Everybody in?? The Ceremony is about to begin! Here to play retro, indie, and retro indie games! I hope I get to show you something New To You!",
+        "primaryColorHex": "949F75",
+        "followers": {
+            "totalCount": 50
+        },
+        "follows": {
+            "totalCount": 162
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T10:33:50.469687Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1821f476-a003-47f4-8e95-2636ab393b1e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50aa1820-fdbe-438a-8a7c-5ca6ba887cfe-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "rose, the cat sprout vtuber; goes beepu beepu, draws cute waifus, vile yet wholesome, enjoys shiptoasting, & screeches loudly about who knows what",
-    "id": "105621562"
+    "twitch": {
+        "id": "105621562",
+        "login": "rosedoodle",
+        "displayName": "rosedoodle",
+        "createdAt": "2015-10-30T01:05:49.407191Z",
+        "updatedAt": "2026-08-02T12:44:14.491945Z",
+        "description": "rose, the cat sprout vtuber; goes beepu beepu, draws cute waifus, vile yet wholesome, enjoys shiptoasting, & screeches loudly about who knows what",
+        "primaryColorHex": "ED628E",
+        "followers": {
+            "totalCount": 283741
+        },
+        "follows": {
+            "totalCount": 401
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T20:17:29.093607Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb1f0942-393f-4642-8d13-0c0bfbb48e35-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f45c515-6e16-4ef9-99ed-46c790fd218e-profile_banner-480.png"
+    }
 }

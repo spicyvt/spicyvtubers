@@ -1,4 +1,27 @@
 {
     "bio": "Embracing chaos as a variety streamer deity, I delve into any game or stream that piques my interest. Often found exploring the spooky realms with Dixper by my side, I also enjoy the occasional cozy game stream. Join me for a whirlwind of gaming adventures!",
-    "id": "214103500"
+    "twitch": {
+        "id": "214103500",
+        "login": "ladychaosvtuber",
+        "displayName": "LadyChaosVtuber",
+        "createdAt": "2018-04-14T01:53:46.600258Z",
+        "updatedAt": "2026-08-02T22:26:57.799042Z",
+        "description": "Embracing chaos as a variety streamer deity, I delve into any game or stream that piques my interest. Often found exploring the spooky realms with Dixper by my side, I also enjoy the occasional cozy game stream. Join me for a whirlwind of gaming adventures!",
+        "primaryColorHex": "5200D8",
+        "followers": {
+            "totalCount": 3178
+        },
+        "follows": {
+            "totalCount": 650
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T04:57:36.695362Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c816605e-bfa9-4587-be33-159ff621aad5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/479fd6e0-85b4-4cec-8cdf-b5fe180847de-profile_banner-480.png"
+    }
 }

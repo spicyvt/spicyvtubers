@@ -1,4 +1,27 @@
 {
     "bio": "(18+) Anti-social VRC mute / I squeak  Affiliated w/ IridescenceVR | Business ONLY- RoxieRileyBusiness@protonmail.com",
-    "id": "1095450826"
+    "twitch": {
+        "id": "1095450826",
+        "login": "rileyvr",
+        "displayName": "RileyVR",
+        "createdAt": "2024-06-06T03:31:46.125836Z",
+        "updatedAt": "2026-08-03T00:26:21.511042Z",
+        "description": "(18+) Anti-social VRC mute / I squeak  Affiliated w/ IridescenceVR | Business ONLY- RoxieRileyBusiness@protonmail.com",
+        "primaryColorHex": "8643EB",
+        "followers": {
+            "totalCount": 2377
+        },
+        "follows": {
+            "totalCount": 81
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-24T09:24:29.137997Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/118a9f01-c7a6-4cb8-9143-4511137f8149-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25f36a87-714a-477a-a70f-f65e2fbdabee-profile_banner-480.png"
+    }
 }

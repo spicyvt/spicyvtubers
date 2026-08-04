@@ -1,4 +1,27 @@
 {
     "bio": "🐰💫 PemaMysterious | Pemalas the Mysterious | Pema! #VTuber",
-    "id": "686875691"
+    "twitch": {
+        "id": "686875691",
+        "login": "pema",
+        "displayName": "Pema",
+        "createdAt": "2021-05-12T23:20:39.851289Z",
+        "updatedAt": "2026-07-20T19:32:31.070199Z",
+        "description": "🐰💫 PemaMysterious | Pemalas the Mysterious | Pema! #VTuber",
+        "primaryColorHex": "FF6C9F",
+        "followers": {
+            "totalCount": 22544
+        },
+        "follows": {
+            "totalCount": 677
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T21:52:02.460407Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c32f2cd7-3bc4-43ff-9a59-4601a70a8adb-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/439e6426-136f-40ed-9e2f-26688b019325-profile_banner-480.png"
+    }
 }

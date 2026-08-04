@@ -1,4 +1,27 @@
 {
-    "bio": "Hiii, I'm Honey! I play Overwatch 2, Valorant, Minecraft, and Stardew! ",
-    "id": "651539858"
+    "bio": "Hiii, I'm Honey! I play Overwatch 2, Valorant, Minecraft, and Stardew!",
+    "twitch": {
+        "id": "651539858",
+        "login": "hhoneycombb",
+        "displayName": "hhoneycombb",
+        "createdAt": "2021-02-16T22:40:24.462558Z",
+        "updatedAt": "2026-08-01T20:52:03.435266Z",
+        "description": "Hiii, I'm Honey! I play Overwatch 2, Valorant, Minecraft, and Stardew! ",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 573
+        },
+        "follows": {
+            "totalCount": 432
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T21:09:29.542928Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b89b68c4-523a-400a-8f7a-3be05a439247-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1bc39b7b-705c-4ac3-8b80-0339f3368d7d-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "For Business Inquires: vlb1999@yahoo.com || Salutations my Vampire brothers and sisters! It is I, Marceline Silvermoon! Your Gothic Victorian Vampire Femboy Vtuber I been streaming since 2017 from Mixer! streaming variety content such as story, RPGs, multiplayer, music and horror games.",
-    "id": "59471223"
+    "twitch": {
+        "id": "59471223",
+        "login": "marcelinesilvermoon",
+        "displayName": "MarcelineSilvermoon",
+        "createdAt": "2014-03-23T05:57:00.037312Z",
+        "updatedAt": "2026-08-01T05:25:24.152966Z",
+        "description": "For Business Inquires: vlb1999@yahoo.com || Salutations my Vampire brothers and sisters! It is I, Marceline Silvermoon! Your Gothic Victorian Vampire Femboy Vtuber I been streaming since 2017 from Mixer! streaming variety content such as story, RPGs, multiplayer, music and horror games.",
+        "primaryColorHex": "FF0000",
+        "followers": {
+            "totalCount": 2368
+        },
+        "follows": {
+            "totalCount": 434
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T11:33:36.571637Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/57649e8f-97fe-4ec0-8907-84e470900afe-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/584885d7-5900-4a21-99b8-ba07488af474-profile_banner-480.png"
+    }
 }

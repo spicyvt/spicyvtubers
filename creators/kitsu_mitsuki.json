@@ -1,4 +1,27 @@
 {
-    "bio": "Am a Kitsu, A fluffy fox that does cute things~ Am a mute Vtuber~           ",
-    "id": "122102648"
+    "bio": "Am a Kitsu, A fluffy fox that does cute things~ Am a mute Vtuber~",
+    "twitch": {
+        "id": "122102648",
+        "login": "kitsu_mitsuki",
+        "displayName": "Kitsu_Mitsuki",
+        "createdAt": "2016-04-18T06:39:41.65653Z",
+        "updatedAt": "2026-07-31T17:28:19.618085Z",
+        "description": "Am a Kitsu, A fluffy fox that does cute things~ Am a mute Vtuber~           ",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 124
+        },
+        "follows": {
+            "totalCount": 11
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2024-08-03T07:09:10.307405Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b04d937-debc-4c30-954d-7fdef8d39810-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9f84579-de3f-42b1-8a91-deecbc6f8008-profile_banner-480.png"
+    }
 }

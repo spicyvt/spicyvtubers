@@ -1,4 +1,27 @@
 {
     "bio": "Cat Demon go meow, nice to meet you!",
-    "id": "11527099"
+    "twitch": {
+        "id": "11527099",
+        "login": "saiyuna0",
+        "displayName": "saiyuna0",
+        "createdAt": "2010-04-01T16:14:26.178169Z",
+        "updatedAt": "2026-08-03T21:52:03.496279Z",
+        "description": "Cat Demon go meow, nice to meet you!",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 4405
+        },
+        "follows": {
+            "totalCount": 1261
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:40:32.880676Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b693e3cc-be69-4b1d-8362-a805db4d94dd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ccc0a8d-2e1b-4f2c-8bfd-62a12cdf1e0f-profile_banner-480.jpeg"
+    }
 }

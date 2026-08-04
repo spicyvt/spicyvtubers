@@ -1,4 +1,27 @@
 {
     "bio": "Just a silly dog ♥",
-    "id": "132775612"
+    "twitch": {
+        "id": "132775612",
+        "login": "fluffycorgivr",
+        "displayName": "fluffycorgivr",
+        "createdAt": "2016-08-21T13:34:42.117597Z",
+        "updatedAt": "2026-08-01T23:55:23.325707Z",
+        "description": "Just a silly dog ♥",
+        "primaryColorHex": "FF2B80",
+        "followers": {
+            "totalCount": 2006
+        },
+        "follows": {
+            "totalCount": 87
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T01:46:15.43678Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d17c489e-b152-423d-88a1-539c7beaa13b-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

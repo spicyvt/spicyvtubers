@@ -1,4 +1,27 @@
 {
     "bio": "🔞Your sassy, sussy librarian gorgon♥  🔞I do what I want, and you will too♥   📸Mon-Thurs 530pmEST",
-    "id": "44327294"
+    "twitch": {
+        "id": "44327294",
+        "login": "ephrys",
+        "displayName": "ephrys",
+        "createdAt": "2013-06-03T21:48:47.322731Z",
+        "updatedAt": "2026-07-31T20:58:28.595676Z",
+        "description": "🔞Your sassy, sussy librarian gorgon♥  🔞I do what I want, and you will too♥   📸Mon-Thurs 530pmEST",
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 544
+        },
+        "follows": {
+            "totalCount": 272
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T23:24:48.373317Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ea75aa11-b39c-41ca-8cb3-9d1f4b1b0bd8-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8af2a5c4-2101-4920-8c89-157487780b65-profile_banner-480.jpeg"
+    }
 }

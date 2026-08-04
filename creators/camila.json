@@ -1,4 +1,27 @@
 {
     "bio": "🎪✨ welcome to the circus, where the fun never ends! im camila, your silly clown. sit back, relax, and enjoy the show . . 🎈🎉",
-    "id": "469632185"
+    "twitch": {
+        "id": "469632185",
+        "login": "camila",
+        "displayName": "camila",
+        "createdAt": "2019-10-28T03:25:40.186116Z",
+        "updatedAt": "2026-08-01T20:29:26.01362Z",
+        "description": "🎪✨ welcome to the circus, where the fun never ends! im camila, your silly clown. sit back, relax, and enjoy the show . . 🎈🎉",
+        "primaryColorHex": "958EFF",
+        "followers": {
+            "totalCount": 333688
+        },
+        "follows": {
+            "totalCount": 687
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:36:16.942157Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0fce1cd-63c4-47e9-aabe-47276cbb8524-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a89055f-2c0b-41f3-bc89-4b6ea1a9fd33-profile_banner-480.png"
+    }
 }

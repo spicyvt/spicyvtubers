@@ -1,4 +1,27 @@
 {
-    "bio": "I'm Chantico! A Vamp Witch VTuber. 🦇🧡 Variety Gaming + Reacts!🖤 Email: chanticoritual@gmail.com ",
-    "id": "1306952618"
+    "bio": "I'm Chantico! A Vamp Witch VTuber. 🦇🧡 Variety Gaming + Reacts!🖤 Email: chanticoritual@gmail.com",
+    "twitch": {
+        "id": "1306952618",
+        "login": "chanticoritual",
+        "displayName": "ChanticoRitual",
+        "createdAt": "2025-05-05T07:37:59.875403Z",
+        "updatedAt": "2026-08-01T04:36:46.48606Z",
+        "description": "I'm Chantico! A Vamp Witch VTuber. 🦇🧡 Variety Gaming + Reacts!🖤 Email: chanticoritual@gmail.com ",
+        "primaryColorHex": "FE6D2B",
+        "followers": {
+            "totalCount": 5276
+        },
+        "follows": {
+            "totalCount": 128
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T10:19:00.031401Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a774e5bd-c0d4-4044-a57f-271c1f275031-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/968fdf49-e6b8-43fe-8ee6-ac30dbf8d127-profile_banner-480.png"
+    }
 }

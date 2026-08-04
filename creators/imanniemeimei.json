@@ -1,4 +1,27 @@
 {
     "bio": "🌸 I'm AnnieMeiMei but you can call me Annie! I'm a female Tropical Dryad Vtuber from Jamaica, here to make your day better! My pronouns are she/her 🌸My streams often start at 9pm CST 🌸 Welcome to my Enchanted Forest! 🌸",
-    "id": "637846829"
+    "twitch": {
+        "id": "637846829",
+        "login": "imanniemeimei",
+        "displayName": "ImAnnieMeiMei",
+        "createdAt": "2021-01-17T20:22:09.712835Z",
+        "updatedAt": "2026-08-03T03:02:07.652909Z",
+        "description": "🌸 I'm AnnieMeiMei but you can call me Annie! I'm a female Tropical Dryad Vtuber from Jamaica, here to make your day better! My pronouns are she/her 🌸My streams often start at 9pm CST 🌸 Welcome to my Enchanted Forest! 🌸",
+        "primaryColorHex": "FFBBF3",
+        "followers": {
+            "totalCount": 1273
+        },
+        "follows": {
+            "totalCount": 595
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:20:31.608063Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/89a2fcaa-d24e-4fb7-a637-1f709df4e439-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/abb04c15-919d-4887-b641-26080b383c6c-profile_banner-480.png"
+    }
 }

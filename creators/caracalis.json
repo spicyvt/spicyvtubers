@@ -1,4 +1,27 @@
 {
     "bio": "18+ Goth Auntie Vtuber | Transwoman | 25 | Internet VAuntie | Model: @Xiaojing1 & Spacey_Nerd",
-    "id": "815697136"
+    "twitch": {
+        "id": "815697136",
+        "login": "caracalis",
+        "displayName": "CaraCalis",
+        "createdAt": "2022-08-07T10:40:22.181519Z",
+        "updatedAt": "2026-06-13T19:48:02.744657Z",
+        "description": "18+ Goth Auntie Vtuber | Transwoman | 25 | Internet VAuntie | Model: @Xiaojing1 & Spacey_Nerd",
+        "primaryColorHex": "ED3E3B",
+        "followers": {
+            "totalCount": 1692
+        },
+        "follows": {
+            "totalCount": 143
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-11-02T18:58:23.277521Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e9a6bad-4105-4c2f-b203-1209d833c426-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1ace127-d773-4ea8-be00-ea58ed6e6a10-profile_banner-480.png"
+    }
 }

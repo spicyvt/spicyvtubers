@@ -1,4 +1,27 @@
 {
     "bio": "Your favorite disorganized demonic cult leader! ✨⛓ || business email: deviousspwite@gmail.com",
-    "id": "79018641"
+    "twitch": {
+        "id": "79018641",
+        "login": "spwitevt",
+        "displayName": "SpwiteVT",
+        "createdAt": "2015-01-05T21:55:48.002344Z",
+        "updatedAt": "2026-08-01T05:00:43.279764Z",
+        "description": "Your favorite disorganized demonic cult leader! ✨⛓ || business email: deviousspwite@gmail.com",
+        "primaryColorHex": "27346F",
+        "followers": {
+            "totalCount": 16512
+        },
+        "follows": {
+            "totalCount": 569
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T07:58:29.134622Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26fc2d5a-5f9c-4c48-ae80-2891cbe62047-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/71a90416-be93-4c64-9270-2718bb63c1ba-profile_banner-480.png"
+    }
 }

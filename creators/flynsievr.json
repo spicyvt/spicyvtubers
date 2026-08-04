@@ -1,4 +1,27 @@
 {
     "bio": "Im batman.",
-    "id": "799783812"
+    "twitch": {
+        "id": "799783812",
+        "login": "flynsievr",
+        "displayName": "FlynsieVR",
+        "createdAt": "2022-06-06T07:01:33.797846Z",
+        "updatedAt": "2026-07-14T15:50:32.661426Z",
+        "description": "Im batman.",
+        "primaryColorHex": "FFD100",
+        "followers": {
+            "totalCount": 4045
+        },
+        "follows": {
+            "totalCount": 104
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-14T21:35:35.963536Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a42433a9-e6a0-4993-afe7-c8c070870345-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d78a7716-9dfc-4bb3-8179-e141f3b9e15f-profile_banner-480.jpeg"
+    }
 }

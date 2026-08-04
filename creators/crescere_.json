@@ -1,4 +1,27 @@
 {
     "bio": "Hey, I'm Cres. The glitchiest b***h on Twitch. I watched the matrix one time and decided to make it my entire personality. Follow the white rabbit (me). 🟆 Streams Mon - Fri @ 7pm EST 🟆 Business inquiries & collab requests: crescxre@gmail.com",
-    "id": "61506508"
+    "twitch": {
+        "id": "61506508",
+        "login": "crescere_",
+        "displayName": "Crescere_",
+        "createdAt": "2014-04-24T00:12:57.720462Z",
+        "updatedAt": "2026-08-03T02:15:49.357825Z",
+        "description": "Hey, I'm Cres. The glitchiest b***h on Twitch. I watched the matrix one time and decided to make it my entire personality. Follow the white rabbit (me). 🟆 Streams Mon - Fri @ 7pm EST 🟆 Business inquiries & collab requests: crescxre@gmail.com",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 1878
+        },
+        "follows": {
+            "totalCount": 259
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:15:11.534724Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/434f7302-10d6-4f39-bffd-563bf82982ea-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52ddb3d3-6dc6-4122-ac0c-4769328e609b-profile_banner-480.png"
+    }
 }

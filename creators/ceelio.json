@@ -1,4 +1,27 @@
 {
     "bio": "Demon Sheep DJ that's stuck in the 2000s※ I do ASMR on weekdays and play games on weekends 👌🏾",
-    "id": "122213747"
+    "twitch": {
+        "id": "122213747",
+        "login": "ceelio",
+        "displayName": "ceelio",
+        "createdAt": "2016-04-19T19:03:47.811438Z",
+        "updatedAt": "2026-08-01T19:26:14.606632Z",
+        "description": "Demon Sheep DJ that's stuck in the 2000s※ I do ASMR on weekdays and play games on weekends 👌🏾",
+        "primaryColorHex": "320080",
+        "followers": {
+            "totalCount": 12651
+        },
+        "follows": {
+            "totalCount": 237
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T05:31:10.259641Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa3f5052-94a1-42a3-bca9-5c5a56eb1bc8-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d09b0a08-f8bc-4d7e-8a1b-082ca998fa62-profile_banner-480.png"
+    }
 }

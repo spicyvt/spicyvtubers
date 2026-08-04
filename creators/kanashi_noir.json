@@ -1,4 +1,27 @@
 {
     "bio": "Just a chill streamer who likes to have fun and hang out, I play all kinds of games... Even ones I’m not good at (basically most games), come and hang out!!!!",
-    "id": "278581390"
+    "twitch": {
+        "id": "278581390",
+        "login": "kanashi_noir",
+        "displayName": "kanashi_noir",
+        "createdAt": "2018-11-27T02:48:24.238322Z",
+        "updatedAt": "2026-08-03T17:26:49.749077Z",
+        "description": "Just a chill streamer who likes to have fun and hang out, I play all kinds of games... Even ones I’m not good at (basically most games), come and hang out!!!!",
+        "primaryColorHex": "56042E",
+        "followers": {
+            "totalCount": 7692
+        },
+        "follows": {
+            "totalCount": 460
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T08:04:18.971442Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a494dd7b-d2c7-48ba-b311-74320158820d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d667f16-b16a-4a19-8c1c-17f248b63460-profile_banner-480.png"
+    }
 }

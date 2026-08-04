@@ -1,4 +1,27 @@
 {
     "bio": "ASMRtist & Part-Time VTuber ♥",
-    "id": "53070208"
+    "twitch": {
+        "id": "53070208",
+        "login": "lucalullaby",
+        "displayName": "LucaLullaby",
+        "createdAt": "2013-12-12T02:08:07.502185Z",
+        "updatedAt": "2026-07-30T18:54:59.777197Z",
+        "description": "ASMRtist & Part-Time VTuber ♥",
+        "primaryColorHex": "F2517A",
+        "followers": {
+            "totalCount": 9265
+        },
+        "follows": {
+            "totalCount": 676
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T21:01:14.924565Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ddb0a678-e3c4-455d-aa26-0ae7e8a430b4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/adaad2b1-125a-481b-9172-04cd580bf8cc-profile_banner-480.png"
+    }
 }

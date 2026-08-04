@@ -1,4 +1,27 @@
 {
     "bio": "Dapper yapper & deep voice waifu™️, jack of all trades creator & amateur repair technician with AuDHD from Norway 🇳🇴, being a full-time content creator.",
-    "id": "37303475"
+    "twitch": {
+        "id": "37303475",
+        "login": "black_light_st",
+        "displayName": "Black_Light_ST",
+        "createdAt": "2012-10-30T20:05:48.559266Z",
+        "updatedAt": "2026-08-03T16:47:28.820786Z",
+        "description": "Dapper yapper & deep voice waifu™️, jack of all trades creator & amateur repair technician with AuDHD from Norway 🇳🇴, being a full-time content creator.",
+        "primaryColorHex": "DA5DC1",
+        "followers": {
+            "totalCount": 4703
+        },
+        "follows": {
+            "totalCount": 603
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:58:36.412207Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba38035-3321-460d-83a7-f7aafd068441-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d930a920-c16c-4c1e-8c72-13f5cc5a53f4-profile_banner-480.png"
+    }
 }

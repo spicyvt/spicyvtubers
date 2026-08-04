@@ -1,4 +1,27 @@
 {
     "bio": "[18+] Hi welcome to the Club, I'm Kimiko Bobtail the Manekinekomata Pole Dancer I like Videogames, puns, singing, Voices and unnecessary monologuing.",
-    "id": "47418136"
+    "twitch": {
+        "id": "47418136",
+        "login": "kimikobobtail",
+        "displayName": "KimikoBobtail",
+        "createdAt": "2013-08-11T02:24:50.272487Z",
+        "updatedAt": "2026-08-03T02:56:55.377334Z",
+        "description": "[18+] Hi welcome to the Club, I'm Kimiko Bobtail the Manekinekomata Pole Dancer I like Videogames, puns, singing, Voices and unnecessary monologuing.",
+        "primaryColorHex": "77DD77",
+        "followers": {
+            "totalCount": 1262
+        },
+        "follows": {
+            "totalCount": 590
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:14:22.406426Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd66f6cf-630c-46e4-992e-d009155e9cb1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3fc77707-f6b5-4423-8628-067573377db7-profile_banner-480.png"
+    }
 }

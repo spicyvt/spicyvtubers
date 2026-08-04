@@ -1,4 +1,27 @@
 {
     "bio": "hiiii i'm rae, short for viscerae (pronounced vih · ser · aye), and i like blood and horror stuff ٩(•ᴗ•)۶",
-    "id": "44192400"
+    "twitch": {
+        "id": "44192400",
+        "login": "viscerae",
+        "displayName": "viscerae",
+        "createdAt": "2013-05-31T23:28:22.758141Z",
+        "updatedAt": "2026-07-31T21:00:54.644132Z",
+        "description": "hiiii i'm rae, short for viscerae (pronounced vih · ser · aye), and i like blood and horror stuff ٩(•ᴗ•)۶",
+        "primaryColorHex": "830000",
+        "followers": {
+            "totalCount": 21014
+        },
+        "follows": {
+            "totalCount": 373
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:15:07.429732Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4147ba1c-7598-4e2e-99eb-ff76a26ee997-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcdb73c6-a084-469d-902b-b221e97012cd-profile_banner-480.png"
+    }
 }

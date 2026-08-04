@@ -1,4 +1,27 @@
 {
     "bio": "I'm a 38 year old Content Creator that focuses primarily on VRChat, Vtubing Software, Blender, Unity and more! I game some times too!",
-    "id": "9848509"
+    "twitch": {
+        "id": "9848509",
+        "login": "kareeda",
+        "displayName": "Kareeda",
+        "createdAt": "2010-01-09T23:19:45.431291Z",
+        "updatedAt": "2026-07-31T05:05:31.378131Z",
+        "description": "I'm a 38 year old Content Creator that focuses primarily on VRChat, Vtubing Software, Blender, Unity and more! I game some times too!",
+        "primaryColorHex": "00A1A1",
+        "followers": {
+            "totalCount": 10856
+        },
+        "follows": {
+            "totalCount": 212
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T06:33:29.112342Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dee0ed2d-e575-439a-9e46-ac9621894053-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/311f8016-b6f5-4d8d-a618-a0637f473bc1-profile_banner-480.png"
+    }
 }

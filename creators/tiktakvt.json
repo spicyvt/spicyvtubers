@@ -1,4 +1,27 @@
 {
     "bio": "Tiktak | Lovecore Bunny Girl Vtuber | 18+ streamer | No minors please",
-    "id": "712705922"
+    "twitch": {
+        "id": "712705922",
+        "login": "tiktakvt",
+        "displayName": "TiktakVT",
+        "createdAt": "2021-07-30T17:27:58.911572Z",
+        "updatedAt": "2026-07-31T20:36:35.45337Z",
+        "description": "Tiktak | Lovecore Bunny Girl Vtuber | 18+ streamer | No minors please",
+        "primaryColorHex": "EA5A8A",
+        "followers": {
+            "totalCount": 752
+        },
+        "follows": {
+            "totalCount": 95
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:04:09.342032Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c493653-cd20-48ae-8356-aa6501d4e48b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de563b4a-e3bb-432f-9afb-5b276882bc17-profile_banner-480.png"
+    }
 }

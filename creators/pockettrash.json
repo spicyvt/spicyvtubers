@@ -1,4 +1,27 @@
 {
-    "bio": "the cutest piece of trash for your pocket, playing the games you grew up with and the new games you love 💜 | she/her ",
-    "id": "788640973"
+    "bio": "the cutest piece of trash for your pocket, playing the games you grew up with and the new games you love 💜 | she/her",
+    "twitch": {
+        "id": "788640973",
+        "login": "pockettrash",
+        "displayName": "PocketTrash",
+        "createdAt": "2022-04-17T04:52:45.64241Z",
+        "updatedAt": "2026-08-03T21:24:13.65637Z",
+        "description": "the cutest piece of trash for your pocket, playing the games you grew up with and the new games you love 💜 | she/her ",
+        "primaryColorHex": "C2A8E8",
+        "followers": {
+            "totalCount": 9093
+        },
+        "follows": {
+            "totalCount": 489
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:24:20.475319Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/471d2a50-0fee-4675-84b2-ad9c40ccedc3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9519d664-7bcc-4bbb-8904-dbf2ad55477a-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "25 year old left turn enthusiast from the USA. VRChat streamer with a mix of random things.",
-    "id": "198805349"
+    "twitch": {
+        "id": "198805349",
+        "login": "dogman_vr",
+        "displayName": "Dogman_VR",
+        "createdAt": "2018-02-28T02:17:28.314262Z",
+        "updatedAt": "2026-07-31T18:40:02.466478Z",
+        "description": "25 year old left turn enthusiast from the USA. VRChat streamer with a mix of random things.",
+        "primaryColorHex": "FF0400",
+        "followers": {
+            "totalCount": 1695
+        },
+        "follows": {
+            "totalCount": 284
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T19:15:45.488964Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60e9c1c3-b36e-4737-a4a0-16e1091ccf50-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd2ed582-0179-4867-acb7-f8b9b4062c7e-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Welcome in! I'm Kizanari Kiiyu, a sorceress turned succubus with a very sussy mind. Streamer of silly, absolute loot goblin, totally trustworthy seller of magical wares and massive yapper that flirts with chat, all while being an absolute gamer! Make yourselves comfortable and enjoy the show!",
-    "id": "193118066"
+    "twitch": {
+        "id": "193118066",
+        "login": "kizanarikiiyu",
+        "displayName": "KizanariKiiyu",
+        "createdAt": "2018-01-26T20:38:28.421369Z",
+        "updatedAt": "2026-08-02T06:11:37.640512Z",
+        "description": "Welcome in! I'm Kizanari Kiiyu, a sorceress turned succubus with a very sussy mind. Streamer of silly, absolute loot goblin, totally trustworthy seller of magical wares and massive yapper that flirts with chat, all while being an absolute gamer! Make yourselves comfortable and enjoy the show!",
+        "primaryColorHex": "BC1E6D",
+        "followers": {
+            "totalCount": 855
+        },
+        "follows": {
+            "totalCount": 181
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T20:39:38.427176Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25e11f9e-a2b2-410d-aa38-53b85c6f6c6e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ecf70a1f-37d4-4c45-a85c-7250f92ffa65-profile_banner-480.png"
+    }
 }

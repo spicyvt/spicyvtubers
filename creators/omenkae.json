@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "759178702"
+    "twitch": {
+        "id": "759178702",
+        "login": "omenkae",
+        "displayName": "OmenKae",
+        "createdAt": "2022-01-06T06:51:17.211857Z",
+        "updatedAt": "2026-08-03T03:05:00.858864Z",
+        "description": "",
+        "primaryColorHex": "565656",
+        "followers": {
+            "totalCount": 6798
+        },
+        "follows": {
+            "totalCount": 1118
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:52:48.444335Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a8fa271-2ee3-455f-8a38-40291fe03118-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/966cf8b6-c6b3-4064-9af4-dde333ae4151-profile_banner-480.png"
+    }
 }

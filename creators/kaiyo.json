@@ -1,4 +1,27 @@
 {
     "bio": "i am kaiyo (pronounced kai-oh) i like chicken tenders | business email: k9kaiyo@gmail.com",
-    "id": "185192187"
+    "twitch": {
+        "id": "185192187",
+        "login": "kaiyo",
+        "displayName": "kaiyo",
+        "createdAt": "2017-12-10T06:02:15.085829Z",
+        "updatedAt": "2026-08-03T02:56:09.342944Z",
+        "description": "i am kaiyo (pronounced kai-oh) i like chicken tenders | business email: k9kaiyo@gmail.com",
+        "primaryColorHex": "AB2020",
+        "followers": {
+            "totalCount": 80195
+        },
+        "follows": {
+            "totalCount": 563
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T21:01:30.438363Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4537b1bf-fb8f-4e2a-bffa-3412a99b8e1d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dce613a-4f70-4975-a1f2-210c46ccc868-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Hello there! I’m Danika, hallo aus Deutschland! I’m a German Femboy Vtuber who plays VRC and a variety of games. I try to vibe and have a good time. Willkommen!",
-    "id": "820149435"
+    "twitch": {
+        "id": "820149435",
+        "login": "danikacat",
+        "displayName": "danikacat",
+        "createdAt": "2022-08-24T19:22:21.148814Z",
+        "updatedAt": "2026-08-03T20:13:06.630736Z",
+        "description": "Hello there! I’m Danika, hallo aus Deutschland! I’m a German Femboy Vtuber who plays VRC and a variety of games. I try to vibe and have a good time. Willkommen!",
+        "primaryColorHex": "CD4C6A",
+        "followers": {
+            "totalCount": 1029
+        },
+        "follows": {
+            "totalCount": 309
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:12:35.045729Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b4073fe-8d09-44fc-b422-6a6f7470f412-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd807e23-0c16-4067-a6d9-4d03414cfcae-profile_banner-480.png"
+    }
 }

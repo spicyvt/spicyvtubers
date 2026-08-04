@@ -1,4 +1,27 @@
 {
-    "bio": "Hey yall, I'm Suvimaru, you can call me Suvi, Maru, whatever you would like. I started gaming in April of 2020 with a focus on Valorant. Since then I have expanded my gaming library a bit. I do prefer my channel to stay 18+. So come join the squad and see what we're all about. ",
-    "id": "511386185"
+    "bio": "Hey yall, I'm Suvimaru, you can call me Suvi, Maru, whatever you would like. I started gaming in April of 2020 with a focus on Valorant. Since then I have expanded my gaming library a bit. I do prefer my channel to stay 18+. So come join the squad and see what we're all about.",
+    "twitch": {
+        "id": "511386185",
+        "login": "suvimaru",
+        "displayName": "suvimaru",
+        "createdAt": "2020-04-09T20:20:05.649107Z",
+        "updatedAt": "2026-08-02T02:46:41.735651Z",
+        "description": "Hey yall, I'm Suvimaru, you can call me Suvi, Maru, whatever you would like. I started gaming in April of 2020 with a focus on Valorant. Since then I have expanded my gaming library a bit. I do prefer my channel to stay 18+. So come join the squad and see what we're all about. ",
+        "primaryColorHex": "E365F1",
+        "followers": {
+            "totalCount": 4058
+        },
+        "follows": {
+            "totalCount": 1757
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T05:01:40.693626Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/03b706e8-0428-4292-91e1-834bd162fdc0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e6e8b0c-9394-4575-83f0-61eb1cde41ff-profile_banner-480.png"
+    }
 }

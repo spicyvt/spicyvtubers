@@ -1,4 +1,27 @@
 {
     "bio": "Your bat librarian guide to all things spooky, cozy, indie horror, and beyond! 💜🦇",
-    "id": "232837936"
+    "twitch": {
+        "id": "232837936",
+        "login": "battiechan",
+        "displayName": "BattieChan",
+        "createdAt": "2018-06-20T17:15:55.730876Z",
+        "updatedAt": "2026-08-01T03:07:12.900888Z",
+        "description": "Your bat librarian guide to all things spooky, cozy, indie horror, and beyond! 💜🦇",
+        "primaryColorHex": "4F2978",
+        "followers": {
+            "totalCount": 6751
+        },
+        "follows": {
+            "totalCount": 1386
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T04:51:38.690529Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1a7915f-af1c-480b-8e0d-e38c613e331e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e9923b5-150a-4f24-9d2d-799d73df767f-profile_banner-480.png"
+    }
 }

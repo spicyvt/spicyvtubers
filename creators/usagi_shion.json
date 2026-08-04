@@ -1,4 +1,27 @@
 {
     "bio": "Oh hi~ Welcome to my Twitch channel. I'm but a silly bunny who hopes to grow big enough to bring happiness to a lot of people. Let's build a Legion~!",
-    "id": "160946334"
+    "twitch": {
+        "id": "160946334",
+        "login": "usagi_shion",
+        "displayName": "Usagi_Shion",
+        "createdAt": "2017-06-21T03:10:25.512576Z",
+        "updatedAt": "2026-08-02T23:52:14.194969Z",
+        "description": "Oh hi~ Welcome to my Twitch channel. I'm but a silly bunny who hopes to grow big enough to bring happiness to a lot of people. Let's build a Legion~!",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 892
+        },
+        "follows": {
+            "totalCount": 24
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T21:02:20.405719Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60bca776-29c6-4eb3-8077-bae6e01d6dbc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a438da0-c606-4906-96d9-f898423c4fdf-profile_banner-480.png"
+    }
 }

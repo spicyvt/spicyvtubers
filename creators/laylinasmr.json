@@ -1,4 +1,27 @@
 {
-    "bio": "OwO cat maid ready to give the sleepy eepies! ",
-    "id": "1385415738"
+    "bio": "OwO cat maid ready to give the sleepy eepies! When do you stream?.... Yes",
+    "twitch": {
+        "id": "1385415738",
+        "login": "laylinasmr",
+        "displayName": "Laylinasmr",
+        "createdAt": "2025-10-27T19:55:06.750432Z",
+        "updatedAt": "2026-08-01T22:46:27.302044Z",
+        "description": "OwO cat maid ready to give the sleepy eepies! When do you stream?.... Yes",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 7856
+        },
+        "follows": {
+            "totalCount": 386
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T00:41:48.589037Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5c36e77-1dfe-47f7-a6c8-823f6a00fc21-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/642e7ac7-6b4a-4b60-88a4-a4acb0f2cf35-profile_banner-480.png"
+    }
 }

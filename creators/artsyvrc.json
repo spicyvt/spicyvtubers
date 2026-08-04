@@ -1,4 +1,27 @@
 {
     "bio": "awooga",
-    "id": "188490584"
+    "twitch": {
+        "id": "188490584",
+        "login": "artsyvrc",
+        "displayName": "ArtsyVRC",
+        "createdAt": "2018-01-02T18:49:34.960495Z",
+        "updatedAt": "2026-07-23T21:51:53.277633Z",
+        "description": "awooga",
+        "primaryColorHex": "241518",
+        "followers": {
+            "totalCount": 103891
+        },
+        "follows": {
+            "totalCount": 477
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-23T22:08:43.374201Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56339497-b6e9-4491-b383-4d94f8671dfc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/65de9abf-51fd-4807-92d7-201717292819-profile_banner-480.png"
+    }
 }

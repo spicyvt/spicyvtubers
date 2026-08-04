@@ -1,4 +1,27 @@
 {
     "bio": "Everyone's favorite boba loving harpy! Silly games, cozy streams, and maybe even... horror??",
-    "id": "1112406680"
+    "twitch": {
+        "id": "1112406680",
+        "login": "heliosdharpy",
+        "displayName": "HeliosDHarpy",
+        "createdAt": "2024-07-15T01:52:47.439811Z",
+        "updatedAt": "2026-07-19T21:36:47.218779Z",
+        "description": "Everyone's favorite boba loving harpy! Silly games, cozy streams, and maybe even... horror??",
+        "primaryColorHex": "00A3A3",
+        "followers": {
+            "totalCount": 65
+        },
+        "follows": {
+            "totalCount": 64
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-15T19:12:04.994662Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/321996bc-e8bf-4cea-b9f3-c1004c256621-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9ec7c71-db5b-463b-ac92-60d6c24dc5b6-profile_banner-480.jpeg"
+    }
 }

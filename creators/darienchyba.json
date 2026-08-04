@@ -1,4 +1,27 @@
 {
     "bio": "i am THE premier athlete of the VTubing community.",
-    "id": "964759759"
+    "twitch": {
+        "id": "964759759",
+        "login": "darienchyba",
+        "displayName": "darienchyba",
+        "createdAt": "2023-10-04T06:02:24.965411Z",
+        "updatedAt": "2026-08-02T12:38:29.992775Z",
+        "description": "i am THE premier athlete of the VTubing community.",
+        "primaryColorHex": "FF7A00",
+        "followers": {
+            "totalCount": 703
+        },
+        "follows": {
+            "totalCount": 495
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T15:09:57.826764Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b42f1a0-853b-4289-b075-8a9db8301777-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09d41ca6-d898-4263-a371-46753ab2136e-profile_banner-480.jpeg"
+    }
 }

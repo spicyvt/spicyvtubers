@@ -1,4 +1,27 @@
 {
     "bio": "🌸 Come with me",
-    "id": "534552211"
+    "twitch": {
+        "id": "534552211",
+        "login": "pepperfoxx",
+        "displayName": "pepperfoxx",
+        "createdAt": "2020-05-23T10:54:44.169722Z",
+        "updatedAt": "2026-08-03T01:08:36.395284Z",
+        "description": "🌸 Come with me",
+        "primaryColorHex": "FF0085",
+        "followers": {
+            "totalCount": 3737
+        },
+        "follows": {
+            "totalCount": 130
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T03:51:49.807315Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bacac3ad-9410-41f1-aae2-fb9570da54d3-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09aa8cb7-9a43-4cd2-a999-d450c31e337b-profile_banner-480.png"
+    }
 }

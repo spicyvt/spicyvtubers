@@ -1,4 +1,27 @@
 {
-    "bio": "Hi, I'm Naki! Wolf Goddess of Orano here to bring good vibes with a touch of chaos! Welcome to the Shrine, Kamicubs! 💜",
-    "id": "595443345"
+    "bio": "Your gremlin wolf goddess 💜",
+    "twitch": {
+        "id": "595443345",
+        "login": "naki_vt",
+        "displayName": "naki_vt",
+        "createdAt": "2020-10-13T21:07:52.087602Z",
+        "updatedAt": "2026-08-02T07:42:12.777498Z",
+        "description": "Your gremlin wolf goddess 💜",
+        "primaryColorHex": "AA60C6",
+        "followers": {
+            "totalCount": 5487
+        },
+        "follows": {
+            "totalCount": 373
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:08:18.212185Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e020362-930c-4fb2-98a7-5bca016d61d7-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5714e9c-4153-4a3e-bf51-46168126c20b-profile_banner-480.png"
+    }
 }

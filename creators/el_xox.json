@@ -1,4 +1,27 @@
 {
     "bio": "Not a dork and not a brat. Just your Bun Boss! 🐰♡",
-    "id": "476703571"
+    "twitch": {
+        "id": "476703571",
+        "login": "el_xox",
+        "displayName": "el_XoX",
+        "createdAt": "2019-12-08T02:16:37.354438Z",
+        "updatedAt": "2026-08-03T03:40:12.68715Z",
+        "description": "Not a dork and not a brat. Just your Bun Boss! 🐰♡",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 118888
+        },
+        "follows": {
+            "totalCount": 571
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T09:44:48.15863Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc091f88-4db4-401b-8ee2-3df24f67e800-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82f52296-5d44-4040-bc2f-8b1a5ef253be-profile_banner-480.png"
+    }
 }

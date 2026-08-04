@@ -1,4 +1,27 @@
 {
     "bio": "18+ 🔞 ♾Autistic♾ 🏳️‍🌈LGBTQ+🏳️‍🌈 🎮Gamer🎮 🎨Artist🎨 🎀Cosplayer🎀 📱Tiktoker📱 ✨Streamer✨ 🌶Spicy Creator🌶 💚They/Them💗",
-    "id": "509810606"
+    "twitch": {
+        "id": "509810606",
+        "login": "lilaclychee",
+        "displayName": "LilacLychee",
+        "createdAt": "2020-04-07T02:05:51.75812Z",
+        "updatedAt": "2026-07-27T22:30:22.874353Z",
+        "description": "18+ 🔞 ♾Autistic♾ 🏳️‍🌈LGBTQ+🏳️‍🌈 🎮Gamer🎮 🎨Artist🎨 🎀Cosplayer🎀 📱Tiktoker📱 ✨Streamer✨ 🌶Spicy Creator🌶 💚They/Them💗",
+        "primaryColorHex": "B68CFF",
+        "followers": {
+            "totalCount": 171
+        },
+        "follows": {
+            "totalCount": 208
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-04-07T14:42:52.813478Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8ba1434-c07b-45e1-b10b-b589aaabadd9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2398e160-7d24-40b5-bab5-d3313ef904cb-profile_banner-480.png"
+    }
 }

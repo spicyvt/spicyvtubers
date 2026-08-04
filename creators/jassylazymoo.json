@@ -1,4 +1,27 @@
 {
     "bio": "Yo! I am Queen Victoria babes however, you can just call me Queen or Jassy!",
-    "id": "757997557"
+    "twitch": {
+        "id": "757997557",
+        "login": "jassylazymoo",
+        "displayName": "JassyLazyMoo",
+        "createdAt": "2022-01-02T12:01:48.635879Z",
+        "updatedAt": "2026-07-24T02:27:39.694988Z",
+        "description": "Yo! I am Queen Victoria babes however, you can just call me Queen or Jassy!",
+        "primaryColorHex": "507BD2",
+        "followers": {
+            "totalCount": 1023
+        },
+        "follows": {
+            "totalCount": 128
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-24T08:23:24.853367Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3621fbbd-ee0e-459e-810f-22cbf91e9484-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26dabdf7-d025-417c-9b51-26da0dd2d698-profile_banner-480.png"
+    }
 }

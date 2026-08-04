@@ -1,4 +1,27 @@
 {
-    "bio": "girl failure pup ♡ ",
-    "id": "976202892"
+    "bio": "girl failure pup ♡",
+    "twitch": {
+        "id": "976202892",
+        "login": "zpaws",
+        "displayName": "zPaws",
+        "createdAt": "2023-10-25T17:49:17.013944Z",
+        "updatedAt": "2026-07-22T18:02:57.361541Z",
+        "description": "girl failure pup ♡ ",
+        "primaryColorHex": "E27EA2",
+        "followers": {
+            "totalCount": 900
+        },
+        "follows": {
+            "totalCount": 60
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-18T01:28:06.036501Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee0e5170-7004-4c5a-88b2-554e88908f13-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7b0424e-3c27-4eb8-acbd-d135aa4d00f5-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "24yr Streamer Furry From California ",
-    "id": "463434199"
+    "bio": "24yr Streamer Furry From California",
+    "twitch": {
+        "id": "463434199",
+        "login": "deogilapis",
+        "displayName": "deogilapis",
+        "createdAt": "2019-09-21T03:06:27.278809Z",
+        "updatedAt": "2026-07-02T22:01:31.481698Z",
+        "description": "24yr Streamer Furry From California ",
+        "primaryColorHex": "000B63",
+        "followers": {
+            "totalCount": 189
+        },
+        "follows": {
+            "totalCount": 122
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-18T07:55:31.449924Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/74cd65c5-c8ab-4678-9fef-96a233393023-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f853ff09-7eee-48f7-964b-41abe282af18-profile_banner-480.png"
+    }
 }

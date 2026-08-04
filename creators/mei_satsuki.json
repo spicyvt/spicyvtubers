@@ -1,4 +1,27 @@
 {
     "bio": "Mei  🦊🤍 | Your Silly Gooner Fox Waifu ( •̀ ω •́ )✧ | Due to my chronic condition I have no Stream Schedules - Join my Discord for upcoming Stream pings! 🦊🤍",
-    "id": "1025400416"
+    "twitch": {
+        "id": "1025400416",
+        "login": "mei_satsuki",
+        "displayName": "mei_satsuki",
+        "createdAt": "2024-01-25T17:58:32.711842Z",
+        "updatedAt": "2026-08-02T19:59:14.713335Z",
+        "description": "Mei  🦊🤍 | Your Silly Gooner Fox Waifu ( •̀ ω •́ )✧ | Due to my chronic condition I have no Stream Schedules - Join my Discord for upcoming Stream pings! 🦊🤍",
+        "primaryColorHex": "AF79FF",
+        "followers": {
+            "totalCount": 7023
+        },
+        "follows": {
+            "totalCount": 505
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T23:53:01.023057Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/21defec7-9346-4f31-a4a7-6e2ac38be0cd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b445a7c-5599-4cfa-b190-50bdb8a29d51-profile_banner-480.png"
+    }
 }

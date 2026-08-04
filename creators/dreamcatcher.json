@@ -1,4 +1,27 @@
 {
     "bio": "Goddess Dream of the House of Baja Blast || 18+ ASMR & Gaming || business inquiries: dreamvtuber@gmail.com",
-    "id": "427836335"
+    "twitch": {
+        "id": "427836335",
+        "login": "dreamcatcher",
+        "displayName": "Dreamcatcher",
+        "createdAt": "2019-04-04T04:24:36.267533Z",
+        "updatedAt": "2026-08-02T23:28:29.00311Z",
+        "description": "Goddess Dream of the House of Baja Blast || 18+ ASMR & Gaming || business inquiries: dreamvtuber@gmail.com",
+        "primaryColorHex": "0EEBC2",
+        "followers": {
+            "totalCount": 81633
+        },
+        "follows": {
+            "totalCount": 55
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T02:25:39.549997Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/15955d76-c342-47fc-98b7-749a5782aad9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7dd10ce2-8b09-4420-b7b8-dddaf0f48bb9-profile_banner-480.png"
+    }
 }

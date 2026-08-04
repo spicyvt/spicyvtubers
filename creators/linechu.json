@@ -1,4 +1,27 @@
 {
     "bio": "I do funny things email: LineChuu@gmail.com",
-    "id": "92612248"
+    "twitch": {
+        "id": "92612248",
+        "login": "linechu",
+        "displayName": "LineChu",
+        "createdAt": "2015-06-03T18:56:25.095704Z",
+        "updatedAt": "2026-07-31T07:05:55.283061Z",
+        "description": "I do funny things email: LineChuu@gmail.com",
+        "primaryColorHex": "05DDF3",
+        "followers": {
+            "totalCount": 90505
+        },
+        "follows": {
+            "totalCount": 488
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-29T23:52:00.898656Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c691676-8797-4031-a2cd-ae0b039af9e4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3305080d-5523-4b87-8614-a19d786d48d6-profile_banner-480.png"
+    }
 }

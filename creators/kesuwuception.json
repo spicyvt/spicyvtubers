@@ -1,4 +1,27 @@
 {
     "bio": "✨It is bubblegum time ✨ Grab your snacks and drinks because we are going to have a great time! ✨Pronouns: She/They. I like to play videogames and have a negative iq. UwU",
-    "id": "843006297"
+    "twitch": {
+        "id": "843006297",
+        "login": "kesuwuception",
+        "displayName": "Kesuwuception",
+        "createdAt": "2022-11-02T18:44:34.97187Z",
+        "updatedAt": "2026-07-20T17:45:53.348921Z",
+        "description": "✨It is bubblegum time ✨ Grab your snacks and drinks because we are going to have a great time! ✨Pronouns: She/They. I like to play videogames and have a negative iq. UwU",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 2577
+        },
+        "follows": {
+            "totalCount": 108
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T18:56:07.65174Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e3ea253-b138-476e-8fe7-31b104b7202a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bcf7496-fab4-4760-8879-8ae34ad1a2df-profile_banner-480.png"
+    }
 }

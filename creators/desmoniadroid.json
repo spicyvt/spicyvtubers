@@ -1,4 +1,27 @@
 {
     "bio": "Your Personal Companion Android is ready to entertain you~ || 18+ ||",
-    "id": "604520341"
+    "twitch": {
+        "id": "604520341",
+        "login": "desmoniadroid",
+        "displayName": "DesmoniaDroid",
+        "createdAt": "2020-11-07T01:11:48.623663Z",
+        "updatedAt": "2026-07-29T18:57:55.628813Z",
+        "description": "Your Personal Companion Android is ready to entertain you~ || 18+ ||",
+        "primaryColorHex": "2A2C2D",
+        "followers": {
+            "totalCount": 1178
+        },
+        "follows": {
+            "totalCount": 419
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:28:21.790252Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/223fc0e2-51be-4c58-890c-f5c7304be931-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d15ebd3-c3cc-45da-a8e3-549316e5c782-profile_banner-480.png"
+    }
 }

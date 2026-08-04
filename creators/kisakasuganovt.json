@@ -1,4 +1,27 @@
 {
     "bio": "Hey there. Just a Vtuber playing games for your entertainment. Business Email: kisakasuganovt@gmail.com",
-    "id": "772208320"
+    "twitch": {
+        "id": "772208320",
+        "login": "kisakasuganovt",
+        "displayName": "KisaKasuganoVT",
+        "createdAt": "2022-02-13T04:57:52.598866Z",
+        "updatedAt": "2026-08-03T19:05:55.221995Z",
+        "description": "Hey there. Just a Vtuber playing games for your entertainment. Business Email: kisakasuganovt@gmail.com",
+        "primaryColorHex": "A01916",
+        "followers": {
+            "totalCount": 548
+        },
+        "follows": {
+            "totalCount": 75
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:28:38.447104Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f4879a-ce13-4af8-8a06-f01dd012ad24-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a960622-3b65-46a7-ade3-ca04a6bfd657-profile_banner-480.png"
+    }
 }

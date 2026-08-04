@@ -1,4 +1,27 @@
 {
     "bio": "Irasshaimase~ ❤︎ Your new avian onee-san is here! I’m Ruri Touka, bird-type yokai that tends to the Kasouzan shrine 🪶",
-    "id": "1448062728"
+    "twitch": {
+        "id": "1448062728",
+        "login": "ruritouka",
+        "displayName": "ruritouka",
+        "createdAt": "2026-02-21T20:46:43.959998Z",
+        "updatedAt": "2026-08-03T21:35:42.999288Z",
+        "description": "Irasshaimase~ ❤︎ Your new avian onee-san is here! I’m Ruri Touka, bird-type yokai that tends to the Kasouzan shrine 🪶",
+        "primaryColorHex": "6A051F",
+        "followers": {
+            "totalCount": 462
+        },
+        "follows": {
+            "totalCount": 11
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:31:28.865873Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/471e6c81-7a6c-4997-8c21-64d50d033280-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fda4285d-1d2b-4bdc-9928-3b20848944c6-profile_banner-480.png"
+    }
 }

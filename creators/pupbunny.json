@@ -1,4 +1,27 @@
 {
     "bio": "Mother, mommy, puppy; whatever you choose me to be. [18+]",
-    "id": "551870050"
+    "twitch": {
+        "id": "551870050",
+        "login": "pupbunny",
+        "displayName": "pupbunny",
+        "createdAt": "2020-07-07T01:21:05.176052Z",
+        "updatedAt": "2026-08-03T21:36:50.11794Z",
+        "description": "Mother, mommy, puppy; whatever you choose me to be. [18+]",
+        "primaryColorHex": "FFF35B",
+        "followers": {
+            "totalCount": 4589
+        },
+        "follows": {
+            "totalCount": 529
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:41:56.971689Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8aecb1ae-2f4f-40b8-9844-6187d1d9b651-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/21b0ae84-0024-46c1-8663-6c51a02b2699-profile_banner-480.png"
+    }
 }

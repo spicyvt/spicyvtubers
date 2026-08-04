@@ -1,4 +1,27 @@
 {
     "bio": "lil dragon voice actress just doing her best",
-    "id": "724500850"
+    "twitch": {
+        "id": "724500850",
+        "login": "alekirser",
+        "displayName": "alekirser",
+        "createdAt": "2021-09-06T14:50:35.002712Z",
+        "updatedAt": "2026-08-03T03:34:27.274537Z",
+        "description": "lil dragon voice actress just doing her best",
+        "primaryColorHex": "200100",
+        "followers": {
+            "totalCount": 59904
+        },
+        "follows": {
+            "totalCount": 294
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T04:09:51.299899Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/07deebee-6ccf-453f-a70c-533851f1e26f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d06b8d8a-9b18-4983-bdb1-9a824bd4c79c-profile_banner-480.png"
+    }
 }

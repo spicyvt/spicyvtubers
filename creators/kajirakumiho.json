@@ -1,4 +1,27 @@
 {
     "bio": "i'm kaji and i love streaming games and myyyy....... yeah!",
-    "id": "701225284"
+    "twitch": {
+        "id": "701225284",
+        "login": "kajirakumiho",
+        "displayName": "kajirakumiho",
+        "createdAt": "2021-06-25T14:24:25.462687Z",
+        "updatedAt": "2026-08-01T09:32:00.728721Z",
+        "description": "i'm kaji and i love streaming games and myyyy....... yeah!",
+        "primaryColorHex": "B61C88",
+        "followers": {
+            "totalCount": 791
+        },
+        "follows": {
+            "totalCount": 90
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T21:48:19.72829Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/200dd5c2-714d-47c8-9555-62417813877d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2c7998c-baa9-4bc2-8f88-a09c6a8bfdde-profile_banner-480.png"
+    }
 }

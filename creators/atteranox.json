@@ -1,4 +1,27 @@
 {
     "bio": "Play with me, stay with me, forget the clock is ticking. The time that you gift me tastes the sweetest. [ Dracolich Vtuber. Metal, Monster, and Horror enjoyer. I stream whatever I feel like. ]",
-    "id": "641357081"
+    "twitch": {
+        "id": "641357081",
+        "login": "atteranox",
+        "displayName": "AtteraNox",
+        "createdAt": "2021-01-25T18:02:48.677444Z",
+        "updatedAt": "2026-08-03T23:01:12.224449Z",
+        "description": "Play with me, stay with me, forget the clock is ticking. The time that you gift me tastes the sweetest. [ Dracolich Vtuber. Metal, Monster, and Horror enjoyer. I stream whatever I feel like. ]",
+        "primaryColorHex": "767676",
+        "followers": {
+            "totalCount": 10652
+        },
+        "follows": {
+            "totalCount": 1370
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:59:52.511174Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/418edc4a-b072-49db-b7a3-b9927a9bfb2e-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2039816e-ec35-40ed-b67e-66140e31aeba-profile_banner-480.png"
+    }
 }

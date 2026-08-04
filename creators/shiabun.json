@@ -1,4 +1,27 @@
 {
     "bio": "Dumpy BUNtuber :)",
-    "id": "56642080"
+    "twitch": {
+        "id": "56642080",
+        "login": "shiabun",
+        "displayName": "ShiaBun",
+        "createdAt": "2014-02-12T06:59:23.86259Z",
+        "updatedAt": "2026-08-03T01:52:28.667354Z",
+        "description": "Dumpy BUNtuber :)",
+        "primaryColorHex": "FA1ED2",
+        "followers": {
+            "totalCount": 70014
+        },
+        "follows": {
+            "totalCount": 493
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T04:06:15.641421Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e671301f-4fd1-425a-94e3-c1db488f4838-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7df703-b340-442e-a8c8-165e26f8bd09-profile_banner-480.png"
+    }
 }

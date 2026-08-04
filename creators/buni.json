@@ -1,4 +1,27 @@
 {
     "bio": "🥕 I Like Redbull | Im That Adhd Bunni ‎‎ | ‎Australian Bun Bun 🥕",
-    "id": "203670402"
+    "twitch": {
+        "id": "203670402",
+        "login": "buni",
+        "displayName": "Buni",
+        "createdAt": "2018-03-08T09:44:09.961468Z",
+        "updatedAt": "2026-08-04T01:10:03.351383Z",
+        "description": "🥕 I Like Redbull | Im That Adhd Bunni ‎‎ | ‎Australian Bun Bun 🥕",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 80804
+        },
+        "follows": {
+            "totalCount": 702
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T22:00:51.396587Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/74f72055-d8c1-4c0f-84c3-2ddd95e7314c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7438a3c-4913-4c38-88a3-d27080346dc0-profile_banner-480.png"
+    }
 }

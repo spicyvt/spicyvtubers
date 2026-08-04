@@ -1,4 +1,27 @@
 {
     "bio": "hihi I'm Kana! I'm an energetic princess kitten that enjoys yapping while doing ASMR, RP, or Shooters! Give me lots of pats and maybe RNG will be by your side!",
-    "id": "107921718"
+    "twitch": {
+        "id": "107921718",
+        "login": "kanakovt",
+        "displayName": "KanakoVT",
+        "createdAt": "2015-11-25T00:08:30.053888Z",
+        "updatedAt": "2026-07-31T23:33:41.429739Z",
+        "description": "hihi I'm Kana! I'm an energetic princess kitten that enjoys yapping while doing ASMR, RP, or Shooters! Give me lots of pats and maybe RNG will be by your side!",
+        "primaryColorHex": "FFB8D3",
+        "followers": {
+            "totalCount": 7402
+        },
+        "follows": {
+            "totalCount": 410
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T04:57:42.625295Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5952e4c7-643b-4a31-8526-437e758d35ad-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ac6a2f7-5418-4979-ba47-91f73608ba1f-profile_banner-480.png"
+    }
 }

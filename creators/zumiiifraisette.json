@@ -1,4 +1,27 @@
 {
     "bio": "( ꈍᴗꈍ)ﾉ*.✧ Your favourite strawberry farmer form hell~ 🍓💖",
-    "id": "578304526"
+    "twitch": {
+        "id": "578304526",
+        "login": "zumiiifraisette",
+        "displayName": "ZumiiiFraisette",
+        "createdAt": "2020-09-04T18:06:27.66737Z",
+        "updatedAt": "2026-07-31T15:57:06.591225Z",
+        "description": "( ꈍᴗꈍ)ﾉ*.✧ Your favourite strawberry farmer form hell~ 🍓💖",
+        "primaryColorHex": "B3464B",
+        "followers": {
+            "totalCount": 2083
+        },
+        "follows": {
+            "totalCount": 571
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T18:46:36.54232Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/888c949f-6ccd-429b-addf-93e0032f07b1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8284f0c-a925-447b-bcfb-36b2c856076b-profile_banner-480.png"
+    }
 }

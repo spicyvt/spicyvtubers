@@ -1,4 +1,27 @@
 {
     "bio": "I'm a futuristic cyberpunk bunny boy vtuber!",
-    "id": "190998328"
+    "twitch": {
+        "id": "190998328",
+        "login": "tenshiivt",
+        "displayName": "Tenshiivt",
+        "createdAt": "2018-01-15T22:26:16.759593Z",
+        "updatedAt": "2026-07-31T03:49:18.154376Z",
+        "description": "I'm a futuristic cyberpunk bunny boy vtuber!",
+        "primaryColorHex": "6600FF",
+        "followers": {
+            "totalCount": 1853
+        },
+        "follows": {
+            "totalCount": 359
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T04:55:50.983903Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9eb813ef-f123-45be-8041-11d8a5f61209-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2bccda3-1e66-431c-8d19-617deaa1ac6b-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
-    "bio": "Call me Rose 🌹  or Rosie ♡ 27 | she/her 🏳️‍⚧️| VA | vtuber streamer! ",
-    "id": "54516776"
+    "bio": "Call me Rose 🌹  or Rosie ♡ 27 | she/her 🏳️‍⚧️| VA | vtuber streamer!",
+    "twitch": {
+        "id": "54516776",
+        "login": "rosiedreamva",
+        "displayName": "RosieDreamVA",
+        "createdAt": "2014-01-06T04:08:44.882441Z",
+        "updatedAt": "2026-08-03T00:08:26.545312Z",
+        "description": "Call me Rose 🌹  or Rosie ♡ 27 | she/her 🏳️‍⚧️| VA | vtuber streamer! ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 626
+        },
+        "follows": {
+            "totalCount": 252
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T07:51:28.798584Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a059e49c-2d38-4802-b111-d16a4a89c86f-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47ae1771-5481-4b86-8f56-bf9a18b2dddb-profile_banner-480.jpeg"
+    }
 }

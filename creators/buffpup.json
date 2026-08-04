@@ -1,4 +1,27 @@
 {
-    "bio": " I am a werewolf VTuber who laughs at herself way too much!!",
-    "id": "22562338"
+    "bio": "I am a werewolf VTuber who laughs at herself way too much!!",
+    "twitch": {
+        "id": "22562338",
+        "login": "buffpup",
+        "displayName": "Buffpup",
+        "createdAt": "2011-05-23T01:27:01.246512Z",
+        "updatedAt": "2026-08-03T14:00:54.339342Z",
+        "description": " I am a werewolf VTuber who laughs at herself way too much!!",
+        "primaryColorHex": "FF772E",
+        "followers": {
+            "totalCount": 332230
+        },
+        "follows": {
+            "totalCount": 408
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T18:20:54.980615Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/08c950cb-ca10-4b0d-b22e-78ae1b66bc52-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e7ea8e7-3457-493b-84c7-bb8baabdc2aa-profile_banner-480.png"
+    }
 }

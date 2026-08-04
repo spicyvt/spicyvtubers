@@ -1,4 +1,27 @@
 {
-    "bio": "Your bratty succubus-elf! ˚ʚ♡ɞ˚ Lewd VA ♡ Vtuber ♡ Streamer ♡ manager : @inamazu #AmaraJadeArt ",
-    "id": "97970845"
+    "bio": "Your bratty succubus-elf! ˚ʚ♡ɞ˚ Lewd VA ♡ Vtuber ♡ Streamer ♡ manager : @inamazu #AmaraJadeArt",
+    "twitch": {
+        "id": "97970845",
+        "login": "amarajadevt",
+        "displayName": "amarajadevt",
+        "createdAt": "2015-08-01T23:42:15.415776Z",
+        "updatedAt": "2026-08-01T16:39:26.269988Z",
+        "description": "Your bratty succubus-elf! ˚ʚ♡ɞ˚ Lewd VA ♡ Vtuber ♡ Streamer ♡ manager : @inamazu #AmaraJadeArt ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 2172
+        },
+        "follows": {
+            "totalCount": 402
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T19:30:37.908838Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4818542-5171-4d3e-8ba5-cd94cab40529-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5e2fc9e-f153-48ec-8cf4-dc580eb9e908-profile_banner-480.jpeg"
+    }
 }

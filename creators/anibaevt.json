@@ -1,4 +1,27 @@
 {
     "bio": "EDM idol who loves to entertain! ;3  At your service...♡ Gaming, VR dancing/raves, original music and more! ♡",
-    "id": "1118246964"
+    "twitch": {
+        "id": "1118246964",
+        "login": "anibaevt",
+        "displayName": "AnibaeVT",
+        "createdAt": "2024-07-27T00:31:52.368187Z",
+        "updatedAt": "2026-07-27T01:59:28.949513Z",
+        "description": "EDM idol who loves to entertain! ;3  At your service...♡ Gaming, VR dancing/raves, original music and more! ♡",
+        "primaryColorHex": "FB83B0",
+        "followers": {
+            "totalCount": 8407
+        },
+        "follows": {
+            "totalCount": 289
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-23T05:27:01.440442Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/79c94574-7135-4074-9178-79efcb7715a0-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c79bf4d2-d690-4047-931f-b22831feba75-profile_banner-480.png"
+    }
 }

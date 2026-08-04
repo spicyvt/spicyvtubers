@@ -1,4 +1,27 @@
 {
     "bio": "[18+] hi, i’m Lu, a silly gal hiding deep in the rural PNW wilderness! 🌿 I work in voice over and stream when I can! I love playing a variety of games (cozy adventure, roguelikes, friendslop... etc!) and being wholesomely chaotic, so stay a while and enjoy the vibes! 💚 #MooLu 🐮",
-    "id": "263790916"
+    "twitch": {
+        "id": "263790916",
+        "login": "fieldsoflupine",
+        "displayName": "fieldsoflupine",
+        "createdAt": "2018-09-30T15:26:42.29585Z",
+        "updatedAt": "2026-07-29T16:52:22.910091Z",
+        "description": "[18+] hi, i’m Lu, a silly gal hiding deep in the rural PNW wilderness! 🌿 I work in voice over and stream when I can! I love playing a variety of games (cozy adventure, roguelikes, friendslop... etc!) and being wholesomely chaotic, so stay a while and enjoy the vibes! 💚 #MooLu 🐮",
+        "primaryColorHex": "BBB0FF",
+        "followers": {
+            "totalCount": 3657
+        },
+        "follows": {
+            "totalCount": 113
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T20:11:27.20225Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/925d819b-708b-44f6-b623-7c9957a0af22-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2f09866-46cd-4630-8efe-9f725ea55072-profile_banner-480.png"
+    }
 }

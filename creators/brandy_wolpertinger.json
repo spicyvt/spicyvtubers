@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "1292887725"
+    "twitch": {
+        "id": "1292887725",
+        "login": "brandy_wolpertinger",
+        "displayName": "brandy_wolpertinger",
+        "createdAt": "2025-04-03T03:42:34.536742Z",
+        "updatedAt": "2026-07-31T01:00:20.618647Z",
+        "description": null,
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 35
+        },
+        "follows": {
+            "totalCount": 12
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T04:43:44.795631Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8627f31d-9500-432c-b15a-0adee873dc78-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/53350dd8-b56c-4dc9-bec6-b7ebc9d5b4b8-profile_banner-480.png"
+    }
 }

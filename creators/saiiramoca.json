@@ -1,4 +1,27 @@
 {
     "bio": "Uwaahh! Just your local little fishyy! Nice to meet youu ❤️ 100% sussy~ No filter hehehe Don't be scaredd~",
-    "id": "575855269"
+    "twitch": {
+        "id": "575855269",
+        "login": "saiiramoca",
+        "displayName": "SaiiraMoca",
+        "createdAt": "2020-08-31T05:18:02.578464Z",
+        "updatedAt": "2026-07-31T14:06:44.950829Z",
+        "description": "Uwaahh! Just your local little fishyy! Nice to meet youu ❤️ 100% sussy~ No filter hehehe Don't be scaredd~",
+        "primaryColorHex": "FFD6EB",
+        "followers": {
+            "totalCount": 578
+        },
+        "follows": {
+            "totalCount": 258
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T17:12:53.752575Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9753f579-78ea-4ba6-8545-45522e9e8c4e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/db8fa2fa-5913-42fc-bdbe-222a2481b283-profile_banner-480.png"
+    }
 }

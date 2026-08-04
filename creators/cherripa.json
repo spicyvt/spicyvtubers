@@ -1,4 +1,27 @@
 {
     "bio": "Howdy! I'm a suspicious dog that plays mainly multiplayer and fighting games, I also do art streams and make music sometimes! Thanks for stopping by!!",
-    "id": "559365997"
+    "twitch": {
+        "id": "559365997",
+        "login": "cherripa",
+        "displayName": "cherripa",
+        "createdAt": "2020-07-28T03:16:12.386092Z",
+        "updatedAt": "2026-07-30T10:17:12.101881Z",
+        "description": "Howdy! I'm a suspicious dog that plays mainly multiplayer and fighting games, I also do art streams and make music sometimes! Thanks for stopping by!!",
+        "primaryColorHex": "F07562",
+        "followers": {
+            "totalCount": 799
+        },
+        "follows": {
+            "totalCount": 328
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T12:13:42.140265Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d13cb67-6c8a-4215-86bb-97be7a49bbd2-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d536fb2b-bdf8-462f-868c-fa5d304b53a3-profile_banner-480.png"
+    }
 }

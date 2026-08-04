@@ -1,4 +1,27 @@
 {
     "bio": "A chaotic and dumb girlfailure from Italy, focusing on games, singing and art! You can tease her with pizza and make fun of her english too éwè// Ps. DON'T BLIRA ME",
-    "id": "38507873"
+    "twitch": {
+        "id": "38507873",
+        "login": "kiralushia",
+        "displayName": "Kiralushia",
+        "createdAt": "2012-12-15T23:04:13.846733Z",
+        "updatedAt": "2026-08-01T19:26:04.780638Z",
+        "description": "A chaotic and dumb girlfailure from Italy, focusing on games, singing and art! You can tease her with pizza and make fun of her english too éwè// Ps. DON'T BLIRA ME",
+        "primaryColorHex": "B36E76",
+        "followers": {
+            "totalCount": 13741
+        },
+        "follows": {
+            "totalCount": 394
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T22:39:36.503363Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b78f4364-31bb-4e56-8c77-e6c81d38f21f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ede05cab-32ce-452a-bece-f41d7edf54c5-profile_banner-480.jpeg"
+    }
 }

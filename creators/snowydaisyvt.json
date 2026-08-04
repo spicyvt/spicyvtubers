@@ -1,4 +1,27 @@
 {
     "bio": "Hi!! You can call me Snowy or You can call me Daisy! Come on over and say hi! I play a lot of VRC and Balatro! https://throne.com/snowydaisy",
-    "id": "475854243"
+    "twitch": {
+        "id": "475854243",
+        "login": "snowydaisyvt",
+        "displayName": "SnowyDaisyVT",
+        "createdAt": "2019-12-03T03:23:51.303283Z",
+        "updatedAt": "2026-08-01T01:53:38.941635Z",
+        "description": "Hi!! You can call me Snowy or You can call me Daisy! Come on over and say hi! I play a lot of VRC and Balatro! https://throne.com/snowydaisy",
+        "primaryColorHex": "00DEF5",
+        "followers": {
+            "totalCount": 653
+        },
+        "follows": {
+            "totalCount": 282
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T04:52:06.877777Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1bc50989-0751-4d6a-8349-017d6bf55103-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09dda112-75be-4767-9763-a77bf0522bce-profile_banner-480.png"
+    }
 }

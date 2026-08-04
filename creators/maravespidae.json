@@ -1,4 +1,27 @@
 {
-    "bio": "British Bee Maid VTuber, at your service~ 🎀🐝 ♡ ASMR & Gaming Streams at 8pm GMT / 3pm EST ♡ Check my Twitter for my stream schedule! ♡ ",
-    "id": "1255298596"
+    "bio": "British Bee Maid VTuber, at your service~ 🎀🐝 ♡ ASMR & Gaming Streams at 8pm GMT / 3pm EST ♡ Check my Twitter for my stream schedule! ♡",
+    "twitch": {
+        "id": "1255298596",
+        "login": "maravespidae",
+        "displayName": "MaraVespidae",
+        "createdAt": "2025-02-12T17:14:44.571798Z",
+        "updatedAt": "2026-08-02T18:48:27.042593Z",
+        "description": "British Bee Maid VTuber, at your service~ 🎀🐝 ♡ ASMR & Gaming Streams at 8pm GMT / 3pm EST ♡ Check my Twitter for my stream schedule! ♡ ",
+        "primaryColorHex": "F4B2E9",
+        "followers": {
+            "totalCount": 10624
+        },
+        "follows": {
+            "totalCount": 102
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T21:05:59.485332Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f72022-9099-4a1d-946f-b0e9aa8ef64a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8587603-15dd-4299-b2d5-de6701ea9bcd-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Your sunny fox Vtuber ☀️🦊 I stream every Friday at 7pm ET",
-    "id": "1439785238"
+    "twitch": {
+        "id": "1439785238",
+        "login": "fenrieku",
+        "displayName": "Fenrieku",
+        "createdAt": "2026-02-08T22:55:11.820955Z",
+        "updatedAt": "2026-08-01T01:28:06.128708Z",
+        "description": "Your sunny fox Vtuber ☀️🦊 I stream every Friday at 7pm ET",
+        "primaryColorHex": "693EC6",
+        "followers": {
+            "totalCount": 1141
+        },
+        "follows": {
+            "totalCount": 58
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T04:22:30.480861Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c96d70a5-d7ba-41e6-9bf7-f25dad005cbf-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ae0c4a6-9388-42fa-969a-b41d2ef32610-profile_banner-480.png"
+    }
 }

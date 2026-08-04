@@ -1,4 +1,27 @@
 {
     "bio": "You sound like someone I know..... Your local silly goose~!",
-    "id": "1507568371"
+    "twitch": {
+        "id": "1507568371",
+        "login": "curs_saiya",
+        "displayName": "curs_saiya",
+        "createdAt": "2026-06-03T07:18:00.282762Z",
+        "updatedAt": "2026-08-03T17:53:18.005364Z",
+        "description": "You sound like someone I know..... Your local silly goose~!",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 483
+        },
+        "follows": {
+            "totalCount": 28
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:23:24.895199Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/519ee760-7ace-4c05-86b6-90a3d11d4882-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a96d9fba-a5d7-47a3-b033-a4b0594f4dcc-profile_banner-480.png"
+    }
 }

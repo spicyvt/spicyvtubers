@@ -1,4 +1,27 @@
 {
-    "bio": "dru is bratty gaki vampbear!! I play games and do art :3 grrrrrrrr !!! Live 5-6 days a week!  schedule on offline screen, disc, and twt! ",
-    "id": "711685698"
+    "bio": "dru is bratty gaki vampbear!! I play games and do art :3 grrrrrrrr !!! Live 5-6 days a week!  schedule on offline screen, disc, and twt!",
+    "twitch": {
+        "id": "711685698",
+        "login": "druillakuma",
+        "displayName": "DruillaKuma",
+        "createdAt": "2021-07-27T20:07:49.573887Z",
+        "updatedAt": "2026-08-01T23:30:07.749307Z",
+        "description": "dru is bratty gaki vampbear!! I play games and do art :3 grrrrrrrr !!! Live 5-6 days a week!  schedule on offline screen, disc, and twt! ",
+        "primaryColorHex": "FF68C2",
+        "followers": {
+            "totalCount": 13239
+        },
+        "follows": {
+            "totalCount": 724
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T03:48:09.871043Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ea5cd1e0-d561-499b-a4d3-cdfa2cb1ad96-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8467cbc1-4d66-4345-912d-55dc8fe1a3c3-profile_banner-480.jpeg"
+    }
 }

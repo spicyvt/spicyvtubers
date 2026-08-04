@@ -1,4 +1,27 @@
 {
     "bio": "🩸 Hemomal | Unlicensed nurse bunny 💉 Obsessed with blood & soft screams 🐇 Cute, clinical, chaotic 🔪  | She/Her",
-    "id": "267399829"
+    "twitch": {
+        "id": "267399829",
+        "login": "hemomalvt",
+        "displayName": "HemoMalVT",
+        "createdAt": "2018-10-16T22:37:20.366255Z",
+        "updatedAt": "2026-07-26T02:23:07.629821Z",
+        "description": "🩸 Hemomal | Unlicensed nurse bunny 💉 Obsessed with blood & soft screams 🐇 Cute, clinical, chaotic 🔪  | She/Her",
+        "primaryColorHex": "1B1151",
+        "followers": {
+            "totalCount": 2402
+        },
+        "follows": {
+            "totalCount": 454
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-10T18:11:04.251767Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d44239b-7178-4aef-a385-7df963a259c5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc6bfe61-7a21-4b0e-a4b1-e0ce7cbce5ca-profile_banner-480.png"
+    }
 }

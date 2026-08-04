@@ -1,4 +1,27 @@
 {
     "bio": "That dumb goth girl~I play a variety of games but mostly VRChat!",
-    "id": "30884878"
+    "twitch": {
+        "id": "30884878",
+        "login": "speedynya",
+        "displayName": "SpeedyNya",
+        "createdAt": "2012-05-29T00:00:51.954656Z",
+        "updatedAt": "2026-07-30T15:57:08.34389Z",
+        "description": "That dumb goth girl~I play a variety of games but mostly VRChat!",
+        "primaryColorHex": "1C1A20",
+        "followers": {
+            "totalCount": 4518
+        },
+        "follows": {
+            "totalCount": 408
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:58:13.048161Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/439ac868-2452-413d-adab-9e8c58c6c53f-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/244d5c9b-fd7a-44e9-8c5e-68cd663012c5-profile_banner-480.png"
+    }
 }

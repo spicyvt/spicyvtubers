@@ -1,4 +1,27 @@
 {
     "bio": "lmao imagine streaming as an anime character looooooool",
-    "id": "557992334"
+    "twitch": {
+        "id": "557992334",
+        "login": "virtuallylewd",
+        "displayName": "virtuallylewd",
+        "createdAt": "2020-07-24T03:01:36.972741Z",
+        "updatedAt": "2026-08-04T00:10:44.837056Z",
+        "description": "lmao imagine streaming as an anime character looooooool",
+        "primaryColorHex": "FF0202",
+        "followers": {
+            "totalCount": 16877
+        },
+        "follows": {
+            "totalCount": 207
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-25T23:18:12.438913Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d356234f-199b-45b9-b9a0-13c66fe51089-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee87e375-4929-42cf-9795-1d8e660e6487-profile_banner-480.jpeg"
+    }
 }

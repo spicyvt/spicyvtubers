@@ -1,4 +1,27 @@
 {
     "bio": "I’m Coffee! A caffeine-addicted Red Fox vtuber 🦊☕️ I am a variety streamer but mainly focus on League of Legends, Pokemon, and Overwatch. Founder of the vtuber group Vristas!",
-    "id": "1272145766"
+    "twitch": {
+        "id": "1272145766",
+        "login": "coffeefox_vt",
+        "displayName": "coffeefox_vt",
+        "createdAt": "2025-03-01T16:21:09.477177Z",
+        "updatedAt": "2026-07-29T16:59:55.174272Z",
+        "description": "I’m Coffee! A caffeine-addicted Red Fox vtuber 🦊☕️ I am a variety streamer but mainly focus on League of Legends, Pokemon, and Overwatch. Founder of the vtuber group Vristas!",
+        "primaryColorHex": "FFB4B4",
+        "followers": {
+            "totalCount": 573
+        },
+        "follows": {
+            "totalCount": 258
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-16T02:49:10.256086Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a5780e7-7335-4196-99f6-82ebc5009bfb-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f713f9da-de0f-409d-a031-35fdc2c152d4-profile_banner-480.png"
+    }
 }

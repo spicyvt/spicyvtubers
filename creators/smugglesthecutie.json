@@ -1,4 +1,27 @@
 {
     "bio": "Hawwas It me, Smug. Your friendly local Ice Dragon. I stream games I feel like and don't have a set schedule so if you see me streaming feel free to pop in to say hi.",
-    "id": "228476536"
+    "twitch": {
+        "id": "228476536",
+        "login": "smugglesthecutie",
+        "displayName": "SmugglesTheCutie",
+        "createdAt": "2018-06-03T22:55:21.192703Z",
+        "updatedAt": "2026-07-31T09:35:54.60531Z",
+        "description": "Hawwas It me, Smug. Your friendly local Ice Dragon. I stream games I feel like and don't have a set schedule so if you see me streaming feel free to pop in to say hi.",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 112
+        },
+        "follows": {
+            "totalCount": 59
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T22:59:03.45465Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f4c7d89-8572-42b5-92d5-59ebaa4790de-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "I'm Neon Yaminaire a Gyaru Boss / Dark Desire Demon Vtuber from outer space come to take over your home town!!! (Don’t think about it, respect the process!!!)",
-    "id": "839962168"
+    "twitch": {
+        "id": "839962168",
+        "login": "neonyaminaire",
+        "displayName": "NeonYaminaire",
+        "createdAt": "2022-10-24T02:58:19.220693Z",
+        "updatedAt": "2026-08-01T18:16:17.255092Z",
+        "description": "I'm Neon Yaminaire a Gyaru Boss / Dark Desire Demon Vtuber from outer space come to take over your home town!!! (Don’t think about it, respect the process!!!)",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 757
+        },
+        "follows": {
+            "totalCount": 369
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T22:36:17.351532Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1d0f2e7-0055-47fb-9070-a7672016f5dd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2f60ebfb-750a-4587-bb6d-b2da175d9a02-profile_banner-480.png"
+    }
 }

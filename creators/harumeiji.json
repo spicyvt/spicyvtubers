@@ -1,4 +1,27 @@
 {
     "bio": "just some demon who plays a variety of video games",
-    "id": "529375578"
+    "twitch": {
+        "id": "529375578",
+        "login": "harumeiji",
+        "displayName": "harumeiji",
+        "createdAt": "2020-05-12T00:28:55.272995Z",
+        "updatedAt": "2026-08-01T21:11:58.594555Z",
+        "description": "just some demon who plays a variety of video games",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 2643
+        },
+        "follows": {
+            "totalCount": 44
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-07-13T05:53:12.842727Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56d05b57-de0a-4d56-8387-f07b75154890-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2eae1697-ac9b-418a-b3b1-bb37a9d39441-profile_banner-480.png"
+    }
 }

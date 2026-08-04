@@ -1,4 +1,27 @@
 {
     "bio": "Confused? I was formerly AkiFae. Now I'm your Nekogan Nekomancer running the Katacomb Katfé! Every Monday to Friday live streams! Follow on Twitter & Join Discord for updates! 💕 Business Inquiry - nevralesca@gmail.com",
-    "id": "98394721"
+    "twitch": {
+        "id": "98394721",
+        "login": "nevra",
+        "displayName": "Nevra",
+        "createdAt": "2015-08-06T03:39:28.745513Z",
+        "updatedAt": "2026-07-31T15:40:48.494305Z",
+        "description": "Confused? I was formerly AkiFae. Now I'm your Nekogan Nekomancer running the Katacomb Katfé! Every Monday to Friday live streams! Follow on Twitter & Join Discord for updates! 💕 Business Inquiry - nevralesca@gmail.com",
+        "primaryColorHex": "FF8D8B",
+        "followers": {
+            "totalCount": 17157
+        },
+        "follows": {
+            "totalCount": 120
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T21:34:15.11028Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4c5c511-405c-4fd6-b549-8875b7ba729b-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6277e771-8525-4200-be09-6c882964202a-profile_banner-480.png"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "Moon Rabbit Vtuber ☾ Call me Uzu ☾ Cozy Vibes",
-    "id": "57250486"
+    "twitch": {
+        "id": "57250486",
+        "login": "uzuri",
+        "displayName": "Uzuri",
+        "createdAt": "2014-02-20T05:39:33.161012Z",
+        "updatedAt": "2026-07-31T02:17:17.58091Z",
+        "description": "Moon Rabbit Vtuber ☾ Call me Uzu ☾ Cozy Vibes",
+        "primaryColorHex": "B280FF",
+        "followers": {
+            "totalCount": 24111
+        },
+        "follows": {
+            "totalCount": 971
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T06:45:18.565875Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0ecaae8-785c-4872-835c-d5b962ce5001-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1d99966-c459-413d-bcee-f94ff7905c9c-profile_banner-480.png"
+    }
 }

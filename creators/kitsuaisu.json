@@ -1,4 +1,27 @@
 {
     "bio": "New ASMR Artist~ and Marvel Rivals Partner!      Contact: kitsuaisuvt@gmail.com",
-    "id": "704681372"
+    "twitch": {
+        "id": "704681372",
+        "login": "kitsuaisu",
+        "displayName": "KitsuAisu",
+        "createdAt": "2021-07-06T19:21:17.302309Z",
+        "updatedAt": "2026-03-20T21:56:31.139976Z",
+        "description": "New ASMR Artist~ and Marvel Rivals Partner!      Contact: kitsuaisuvt@gmail.com",
+        "primaryColorHex": "4D0310",
+        "followers": {
+            "totalCount": 8444
+        },
+        "follows": {
+            "totalCount": 284
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-03-21T01:57:54.075049Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c94f7d65-1490-4195-96c5-ec7aae432dea-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3a7ff3d-4af2-444d-9ee7-fbc989957ba1-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "♡ your local succubus kitty ♡ professional yapper + scuffed aura | wiggle maxxer ✧ become one of my devoted~",
-    "id": "734970752"
+    "twitch": {
+        "id": "734970752",
+        "login": "kinkykarma_xo",
+        "displayName": "kinkykarma_xo",
+        "createdAt": "2021-10-17T03:43:34.077295Z",
+        "updatedAt": "2026-08-01T01:55:08.845643Z",
+        "description": "♡ your local succubus kitty ♡ professional yapper + scuffed aura | wiggle maxxer ✧ become one of my devoted~",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 1014
+        },
+        "follows": {
+            "totalCount": 82
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T04:18:24.472216Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0acaab79-596d-41ad-b7d1-bc6266921e53-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ef46ccf-6857-4045-bde3-b22727dc55bd-profile_banner-480.png"
+    }
 }

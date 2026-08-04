@@ -1,4 +1,27 @@
 {
     "bio": "🍿 Hello! I'm Dani Whispers, A Writer Director Vtuber 🎬",
-    "id": "1208269701"
+    "twitch": {
+        "id": "1208269701",
+        "login": "daniwhispersvt",
+        "displayName": "DaniWhispersVT",
+        "createdAt": "2024-11-27T18:22:55.011512Z",
+        "updatedAt": "2026-06-25T23:04:32.40604Z",
+        "description": "🍿 Hello! I'm Dani Whispers, A Writer Director Vtuber 🎬",
+        "primaryColorHex": "FE395C",
+        "followers": {
+            "totalCount": 758
+        },
+        "follows": {
+            "totalCount": 91
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-26T02:13:16.38222Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae2fbaae-bfa8-4865-a752-9b44c3feef96-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ac4277b-ecd8-41ca-9338-33946b08b824-profile_banner-480.jpeg"
+    }
 }

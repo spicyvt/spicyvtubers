@@ -1,4 +1,27 @@
 {
     "bio": "🌿👻 Forest Spirit VTuber here to haunt ya~! | TAGS: General: #MokuzaiVT | Art: #DoodleMoku | Clips: #MokuClips | Memes: #MokuMemes | Fan name: Boobers | Oshi mark: 🌿👻",
-    "id": "857790726"
+    "twitch": {
+        "id": "857790726",
+        "login": "mokuthespirit",
+        "displayName": "mokuthespirit",
+        "createdAt": "2022-12-17T18:39:02.801902Z",
+        "updatedAt": "2026-08-01T23:23:16.670857Z",
+        "description": "🌿👻 Forest Spirit VTuber here to haunt ya~! | TAGS: General: #MokuzaiVT | Art: #DoodleMoku | Clips: #MokuClips | Memes: #MokuMemes | Fan name: Boobers | Oshi mark: 🌿👻",
+        "primaryColorHex": "65EB0D",
+        "followers": {
+            "totalCount": 613
+        },
+        "follows": {
+            "totalCount": 388
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T05:01:30.107414Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f53b2d4-a749-4dd8-9bd3-fae07ce29b95-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26cfc03d-71ae-4d89-8c75-cddb41cc3abe-profile_banner-480.png"
+    }
 }

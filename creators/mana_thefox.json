@@ -1,4 +1,27 @@
 {
     "bio": "I am the annoying fluffy female Fox Furry Known as Mana The Fox everywhere or Mana Juliet Maka if you like to know my full name. I maybe an dumb Foxy but don't get surprised with the chaos that comes from my streams ❤️",
-    "id": "116176368"
+    "twitch": {
+        "id": "116176368",
+        "login": "mana_thefox",
+        "displayName": "mana_thefox",
+        "createdAt": "2016-02-18T01:16:11.254526Z",
+        "updatedAt": "2026-07-31T16:59:29.278251Z",
+        "description": "I am the annoying fluffy female Fox Furry Known as Mana The Fox everywhere or Mana Juliet Maka if you like to know my full name. I maybe an dumb Foxy but don't get surprised with the chaos that comes from my streams ❤️",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 10214
+        },
+        "follows": {
+            "totalCount": 578
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T18:24:38.273104Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fa96a87a-ea5b-472f-9508-4673c4b7294d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/11eee3d0-d8ff-4e50-bb87-0b3bc77c7542-profile_banner-480.png"
+    }
 }

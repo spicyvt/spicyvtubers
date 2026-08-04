@@ -1,4 +1,27 @@
 {
     "bio": "18+!!! Hi. I legally own the title of degen. I do not have a particular set of skills. I'm basically not very skilled in anything. Often described as a cosmic horror that suffers from hyperfixation.",
-    "id": "154211228"
+    "twitch": {
+        "id": "154211228",
+        "login": "root_vt",
+        "displayName": "ROOT_vt",
+        "createdAt": "2017-04-22T13:25:26.835552Z",
+        "updatedAt": "2026-08-02T15:01:29.403407Z",
+        "description": "18+!!! Hi. I legally own the title of degen. I do not have a particular set of skills. I'm basically not very skilled in anything. Often described as a cosmic horror that suffers from hyperfixation.",
+        "primaryColorHex": "CEFFDA",
+        "followers": {
+            "totalCount": 2740
+        },
+        "follows": {
+            "totalCount": 683
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T17:33:19.758794Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c31d25c-0b6c-4695-aaa9-ff0949c22aca-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/324d3f72-4bcc-4360-b9ce-8486fafeef1c-profile_banner-480.png"
+    }
 }

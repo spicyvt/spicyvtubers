@@ -1,4 +1,27 @@
 {
     "bio": "",
-    "id": "402735341"
+    "twitch": {
+        "id": "402735341",
+        "login": "teawithtrixie",
+        "displayName": "teawithtrixie",
+        "createdAt": "2018-12-17T23:36:52.18828Z",
+        "updatedAt": "2026-08-03T03:33:30.750044Z",
+        "description": null,
+        "primaryColorHex": "FFAA00",
+        "followers": {
+            "totalCount": 439
+        },
+        "follows": {
+            "totalCount": 320
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T05:53:11.951067Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a98de85f-335f-4e00-9956-8dc17356c5a9-profile_image-70x70.png",
+        "bannerImageUrl": null
+    }
 }

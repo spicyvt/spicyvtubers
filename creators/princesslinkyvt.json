@@ -1,4 +1,27 @@
 {
     "bio": "Your local Maine Coon Catboy Prince!! I play silly games with my friends enjoy making new friends! Drama and Hate have no place in my kingdom and it's a 1 strike basis in most cases! They/Them-Kyu/Kyim",
-    "id": "604968409"
+    "twitch": {
+        "id": "604968409",
+        "login": "princesslinkyvt",
+        "displayName": "PrincessLinkyVT",
+        "createdAt": "2020-11-08T03:27:43.667761Z",
+        "updatedAt": "2026-07-23T23:16:00.832256Z",
+        "description": "Your local Maine Coon Catboy Prince!! I play silly games with my friends enjoy making new friends! Drama and Hate have no place in my kingdom and it's a 1 strike basis in most cases! They/Them-Kyu/Kyim",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 406
+        },
+        "follows": {
+            "totalCount": 118
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T02:29:26.097552Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e924ed9-21fa-4156-84da-0f699fc781bc-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ad8077f-ea26-4fe9-a3bc-6503793462a6-profile_banner-480.png"
+    }
 }

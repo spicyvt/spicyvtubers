@@ -1,4 +1,27 @@
 {
     "bio": "Hai Hai, Suction Cup!! I'm Nexu! A tentacle alien vtuber and v-goober!! I play FPS and variety games!! Streams are 18+ | Business Inquiries: tentaclesrppl@gmail.com",
-    "id": "149573505"
+    "twitch": {
+        "id": "149573505",
+        "login": "tentaclesareppl",
+        "displayName": "TentaclesArePpl",
+        "createdAt": "2017-03-06T02:43:34.93574Z",
+        "updatedAt": "2026-07-30T23:09:19.573174Z",
+        "description": "Hai Hai, Suction Cup!! I'm Nexu! A tentacle alien vtuber and v-goober!! I play FPS and variety games!! Streams are 18+ | Business Inquiries: tentaclesrppl@gmail.com",
+        "primaryColorHex": "7A1A1A",
+        "followers": {
+            "totalCount": 1467
+        },
+        "follows": {
+            "totalCount": 190
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T00:03:57.550632Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a946b63-2516-4805-a3cb-3f5a325e3178-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a560b6a-c115-4da7-b3ac-d48a8ff6a1fa-profile_banner-480.png"
+    }
 }

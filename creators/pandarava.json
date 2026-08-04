@@ -1,4 +1,27 @@
 {
     "bio": "(N)SFW Voice actress who secretly likes hand holding!",
-    "id": "745703851"
+    "twitch": {
+        "id": "745703851",
+        "login": "pandarava",
+        "displayName": "PandaraVA",
+        "createdAt": "2021-11-22T13:04:24.777241Z",
+        "updatedAt": "2026-08-02T01:25:10.436328Z",
+        "description": "(N)SFW Voice actress who secretly likes hand holding!",
+        "primaryColorHex": "4300A5",
+        "followers": {
+            "totalCount": 4519
+        },
+        "follows": {
+            "totalCount": 137
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T00:11:41.132033Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ac03ca00-3963-4718-907d-ac3eb4ee6cad-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2eb430b7-a10b-4cd6-be93-da86788c91de-profile_banner-480.png"
+    }
 }

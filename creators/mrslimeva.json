@@ -1,4 +1,27 @@
 {
-    "bio": "Welcome too the slime pit, im your slimy boi, who cant remember where i am, hope you'll enjoy your stay in my slimy streams. ",
-    "id": "1243295211"
+    "bio": "Welcome too the slime pit, im your slimy boi, who cant remember where i am, hope you'll enjoy your stay in my slimy streams.",
+    "twitch": {
+        "id": "1243295211",
+        "login": "mrslimeva",
+        "displayName": "MrSlimeVa",
+        "createdAt": "2025-01-30T22:37:47.793811Z",
+        "updatedAt": "2026-08-04T00:40:12.924361Z",
+        "description": "Welcome too the slime pit, im your slimy boi, who cant remember where i am, hope you'll enjoy your stay in my slimy streams. ",
+        "primaryColorHex": "520B6D",
+        "followers": {
+            "totalCount": 167
+        },
+        "follows": {
+            "totalCount": 52
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-04T00:12:17.853429Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/517f5e77-4784-4924-812f-7880f2837978-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34c05206-d04d-41ca-9ce1-9a7825e9aef8-profile_banner-480.png"
+    }
 }

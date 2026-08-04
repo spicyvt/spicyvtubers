@@ -1,4 +1,27 @@
 {
-    "bio": "こんにちは! Welcome to my sleepover party, enjoy your stay!~ ",
-    "id": "706082675"
+    "bio": "こんにちは! Welcome to my sleepover party, enjoy your stay!~",
+    "twitch": {
+        "id": "706082675",
+        "login": "caramelkaiteki",
+        "displayName": "caramelkaiteki",
+        "createdAt": "2021-07-10T23:18:07.228289Z",
+        "updatedAt": "2026-06-16T20:04:20.624187Z",
+        "description": "こんにちは! Welcome to my sleepover party, enjoy your stay!~ ",
+        "primaryColorHex": "99867D",
+        "followers": {
+            "totalCount": 1543
+        },
+        "follows": {
+            "totalCount": 265
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-12-31T23:33:23.863039Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8aeb119-9777-4d20-9648-b52d1cea0d19-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9307c113-8d53-484e-91d0-b02f89834bf2-profile_banner-480.png"
+    }
 }

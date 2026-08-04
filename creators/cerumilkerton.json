@@ -1,4 +1,27 @@
 {
     "bio": "Hi shweetie! If you're reading this, I am now your mommy and there is NOTHING you can do about it",
-    "id": "1255298085"
+    "twitch": {
+        "id": "1255298085",
+        "login": "cerumilkerton",
+        "displayName": "CeruMilkerton",
+        "createdAt": "2025-02-12T17:13:21.151875Z",
+        "updatedAt": "2026-07-31T17:50:28.47487Z",
+        "description": "Hi shweetie! If you're reading this, I am now your mommy and there is NOTHING you can do about it",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 7281
+        },
+        "follows": {
+            "totalCount": 31
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T20:08:24.954371Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7989400-b799-4b26-b647-e9830d1e6c9e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b445101-774d-403d-9829-4cd2a551559b-profile_banner-480.jpeg"
+    }
 }

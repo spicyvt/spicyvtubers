@@ -1,4 +1,27 @@
 {
     "bio": "feral ♡",
-    "id": "620419001"
+    "twitch": {
+        "id": "620419001",
+        "login": "vampeaches",
+        "displayName": "vampeaches",
+        "createdAt": "2020-12-14T16:12:55.394428Z",
+        "updatedAt": "2026-08-01T20:54:09.886467Z",
+        "description": "feral ♡",
+        "primaryColorHex": "AD1369",
+        "followers": {
+            "totalCount": 21795
+        },
+        "follows": {
+            "totalCount": 473
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T21:01:38.983704Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47c214c9-49c1-4453-b05d-423594c80cb4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6f586ca-87f9-4734-b78b-80591528e82b-profile_banner-480.png"
+    }
 }

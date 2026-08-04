@@ -1,4 +1,27 @@
 {
     "bio": "Hi! I'm Gorefairy, your resident cursed doll. Won't you come play with me?",
-    "id": "179333542"
+    "twitch": {
+        "id": "179333542",
+        "login": "gorefairy",
+        "displayName": "gorefairy",
+        "createdAt": "2017-10-27T02:32:40.111448Z",
+        "updatedAt": "2026-08-02T21:54:21.905116Z",
+        "description": "Hi! I'm Gorefairy, your resident cursed doll. Won't you come play with me?",
+        "primaryColorHex": "362857",
+        "followers": {
+            "totalCount": 4490
+        },
+        "follows": {
+            "totalCount": 498
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T00:35:34.731113Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a33071d7-0209-444c-b980-468047f5ba2a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e768f403-3535-45ad-a101-ae0fb21cb6c0-profile_banner-480.jpeg"
+    }
 }

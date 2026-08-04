@@ -1,4 +1,27 @@
 {
     "bio": "VTuber/VStreamer & ASMRtist. The Witch gremlin GF you didn't ask for but that's a you problem~. My cat Luna loves to make an appearance. 🌙💙",
-    "id": "206890974"
+    "twitch": {
+        "id": "206890974",
+        "login": "saddie_odearg",
+        "displayName": "Saddie_ODearg",
+        "createdAt": "2018-03-19T22:10:45.953658Z",
+        "updatedAt": "2026-08-01T23:22:58.23468Z",
+        "description": "VTuber/VStreamer & ASMRtist. The Witch gremlin GF you didn't ask for but that's a you problem~. My cat Luna loves to make an appearance. 🌙💙",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 961
+        },
+        "follows": {
+            "totalCount": 71
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T20:42:38.276809Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a41e305f-49c3-4dfc-b58e-7229873a14b5-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90987a10-334e-4fbc-ac3f-904c1ee71acd-profile_banner-480.png"
+    }
 }

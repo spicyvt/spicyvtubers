@@ -1,4 +1,27 @@
 {
     "bio": "Welcome to my Dungeon little one. This channel is dedicated to bring you comfort and relaxation with ASMR and Hypnosis content. Adults only ♥",
-    "id": "934241834"
+    "twitch": {
+        "id": "934241834",
+        "login": "carmillarouxvt",
+        "displayName": "CarmillaRouxVT",
+        "createdAt": "2023-07-17T21:55:59.781393Z",
+        "updatedAt": "2026-07-31T00:28:03.957501Z",
+        "description": "Welcome to my Dungeon little one. This channel is dedicated to bring you comfort and relaxation with ASMR and Hypnosis content. Adults only ♥",
+        "primaryColorHex": "B90805",
+        "followers": {
+            "totalCount": 5017
+        },
+        "follows": {
+            "totalCount": 194
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-31T03:59:09.64011Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6734fac-ed9a-47c1-9169-f6b22b421d22-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/80ed0792-eca0-458d-8383-93ac2b26ab70-profile_banner-480.jpeg"
+    }
 }

@@ -1,4 +1,27 @@
 {
     "bio": "🖤SUPER LOUD AND SILLY SEAL (•⩊• っ)3 🦭STREAMS: Tue-Sun (-Wed) @ 2 PM CEST ʚ┊Business Inquiries: jennivtbusiness@gmail.com",
-    "id": "836372146"
+    "twitch": {
+        "id": "836372146",
+        "login": "jenniyukime",
+        "displayName": "JenniYukime",
+        "createdAt": "2022-10-10T16:16:30.687808Z",
+        "updatedAt": "2026-08-03T15:29:18.612411Z",
+        "description": "🖤SUPER LOUD AND SILLY SEAL (•⩊• っ)3 🦭STREAMS: Tue-Sun (-Wed) @ 2 PM CEST ʚ┊Business Inquiries: jennivtbusiness@gmail.com",
+        "primaryColorHex": "B3E4FF",
+        "followers": {
+            "totalCount": 17285
+        },
+        "follows": {
+            "totalCount": 317
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T18:31:09.408162Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9288b75a-140e-4175-8fa5-481253e1a136-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/20c62f76-080d-4039-8486-5538398d901a-profile_banner-480.png"
+    }
 }

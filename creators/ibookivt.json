@@ -1,4 +1,27 @@
 {
     "bio": "Soy una poltergeist muy chistosita y coqueta ☆ ～('▽^人)",
-    "id": "770977567"
+    "twitch": {
+        "id": "770977567",
+        "login": "ibookivt",
+        "displayName": "IbookiVT",
+        "createdAt": "2022-02-09T07:06:32.969865Z",
+        "updatedAt": "2026-07-29T02:33:28.56846Z",
+        "description": "Soy una poltergeist muy chistosita y coqueta ☆ ～('▽^人)",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 9880
+        },
+        "follows": {
+            "totalCount": 138
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-29T03:46:44.454843Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/050201c4-d7d1-4d80-be0d-0a77bb68573e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/378f8d77-c08e-4449-b62a-892d6d2b1293-profile_banner-480.jpeg"
+    }
 }

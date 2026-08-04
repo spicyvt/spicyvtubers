@@ -1,4 +1,27 @@
 {
     "bio": "I have noooo idea what to say here none lol~",
-    "id": "69520307"
+    "twitch": {
+        "id": "69520307",
+        "login": "frozenhelix",
+        "displayName": "FroZenHelix",
+        "createdAt": "2014-08-21T00:35:08.770314Z",
+        "updatedAt": "2026-07-12T18:07:41.803828Z",
+        "description": "I have noooo idea what to say here none lol~",
+        "primaryColorHex": "4760FF",
+        "followers": {
+            "totalCount": 2096
+        },
+        "follows": {
+            "totalCount": 254
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-26T01:04:44.745392Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a58826eb-bc60-492a-93e2-18ae8357a71d-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb808412-1ade-45de-9b10-df47e4ed567e-profile_banner-480.png"
+    }
 }

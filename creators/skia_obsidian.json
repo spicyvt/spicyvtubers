@@ -1,4 +1,27 @@
 {
-    "bio": "🔮I am Skia the Minotaur Sorceress and my Obsidian Chateau in the Labyrinth is a pleasant place for weary travelers such as yourselves. Come in: get a fortune reading, let me make you a healing potion and we can discuss your adventures over tea. You are safe here, Darling. Breathe easy now🔮 ",
-    "id": "489965111"
+    "bio": "🔮I am Skia the Minotaur Sorceress and my Obsidian Chateau in the Labyrinth is a pleasant place for weary travelers such as yourselves. Come in: get a fortune reading, let me make you a healing potion and we can discuss your adventures over tea. You are safe here, Darling. Breathe easy now🔮",
+    "twitch": {
+        "id": "489965111",
+        "login": "skia_obsidian",
+        "displayName": "Skia_Obsidian",
+        "createdAt": "2020-02-03T00:50:32.378114Z",
+        "updatedAt": "2026-07-17T01:24:20.488577Z",
+        "description": "🔮I am Skia the Minotaur Sorceress and my Obsidian Chateau in the Labyrinth is a pleasant place for weary travelers such as yourselves. Come in: get a fortune reading, let me make you a healing potion and we can discuss your adventures over tea. You are safe here, Darling. Breathe easy now🔮 ",
+        "primaryColorHex": "B188F1",
+        "followers": {
+            "totalCount": 7355
+        },
+        "follows": {
+            "totalCount": 10
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-17T03:21:45.388499Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39100416-addc-442e-85bf-efaa1677c362-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c20be76-a12a-4a00-8b11-cc36fcf6bf7c-profile_banner-480.png"
+    }
 }

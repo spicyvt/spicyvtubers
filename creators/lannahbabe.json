@@ -1,4 +1,27 @@
 {
-    "bio": "Chaotic and sus vtuber from australia x💕 Email: lannahbabebusiness@gmail.com ",
-    "id": "146530506"
+    "bio": "Chaotic and sus vtuber from australia x💕 Email: lannahbabebusiness@gmail.com",
+    "twitch": {
+        "id": "146530506",
+        "login": "lannahbabe",
+        "displayName": "lannahbabe",
+        "createdAt": "2017-01-31T06:05:12.9424Z",
+        "updatedAt": "2026-08-03T02:50:00.294057Z",
+        "description": "Chaotic and sus vtuber from australia x💕 Email: lannahbabebusiness@gmail.com ",
+        "primaryColorHex": "FFDAE9",
+        "followers": {
+            "totalCount": 9756
+        },
+        "follows": {
+            "totalCount": 233
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T07:04:28.854273Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/783b4013-c588-4451-9fbc-61b1b9b20321-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3faa95c9-97a0-4cab-bae2-8f290f3ba962-profile_banner-480.png"
+    }
 }
