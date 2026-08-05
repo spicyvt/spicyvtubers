@@ -23,5 +23,100 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f2c6848-11bf-42ff-ad02-98810a50512a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/11aba81a-6959-4ce0-87e5-2ae99d254a47-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "904525909300617216",
+        "username": "SwitchyValVA",
+        "displayName": null,
+        "version": 6,
+        "followCount": 1495,
+        "statusId": 1,
+        "accountMediaLikes": 853,
+        "postLikes": 1535,
+        "about": "Live Streams WED FRI SAT 8 PM EST\n🌶️ IRL Yandere Mommy GF, B/G & Solo Porn, BLACKED, Feet, Audios & More\n🎁 Gifts https://throne.com/switchyvalva\n🚀 Lovense Partner Link https://www.lovense.com/p/Val \nAll content on this page belongs to me. Reproduction, copying, saving, or redistribution of my content in any form is strictly prohibited. Unauthorized use or reposting will result in an immediate ban and legal action. All sales are final. No refunds. I reserve the right to block or ban anyone at any time, for any reason. ",
+        "location": "",
+        "streaming": {
+            "accountId": "904525909300617216",
+            "channel": {
+                "id": "914021901272100864",
+                "accountId": "904525909300617216",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.B5sZb9y0Lki2.m3u8",
+                "chatRoomId": "914022050681610240",
+                "status": 2,
+                "version": 50,
+                "createdAt": 1779414163000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "914021901272100865",
+                    "historyId": "940812246806712323",
+                    "channelId": "914021901272100864",
+                    "accountId": "904525909300617216",
+                    "title": "Comfy Stream NEW MENU $50 Control Link $13 Spin Wheel !menu !links !discord",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 66,
+                    "createdAt": 1779414163000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785900774000,
+                    "startedAt": 1785801479000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "941118136965427200",
+                                "streamId": "914021901272100865",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"917873410262974464\\\",\\\"label\\\":\\\"mods\\\"}\"}"
+                            },
+                            {
+                                "id": "941118136965427201",
+                                "streamId": "914021901272100865",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "941118136965427202",
+                                "streamId": "914021901272100865",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"916417013226684417\\\"}\"}"
+                            },
+                            {
+                                "id": "941118136965427203",
+                                "streamId": "914021901272100865",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"916418110179786754\\\"}\"}"
+                            },
+                            {
+                                "id": "941118136965427204",
+                                "streamId": "914021901272100865",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"916418550992760834\\\"}\"}"
+                            },
+                            {
+                                "id": "941118136965427205",
+                                "streamId": "914021901272100865",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"916419764971134976\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

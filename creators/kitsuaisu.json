@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c94f7d65-1490-4195-96c5-ec7aae432dea-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3a7ff3d-4af2-444d-9ee7-fbc989957ba1-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "846900024934670336",
+        "username": "Kitsuaisu",
+        "displayName": "Kitsuaisu",
+        "version": 4,
+        "followCount": 130,
+        "statusId": 1,
+        "accountMediaLikes": 42,
+        "postLikes": 188,
+        "about": "Hi~! My name is Kitsuaisu and I am your favorite foxy vtuber.\n\nTwitch streamer by day, sussy vtuber by night. I have a whole host of NSFW imagery that I will be posting for you and make sure to stay tuned for more ASMR content as well.\n\nFull list of links here: https://linktr.ee/kitsuaisu",
+        "location": "",
+        "streaming": {
+            "accountId": "846900024934670336",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:21:18Z"
     }
 }

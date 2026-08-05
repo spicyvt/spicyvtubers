@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/89a2fcaa-d24e-4fb7-a637-1f709df4e439-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/abb04c15-919d-4887-b641-26080b383c6c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "518393936297865216",
+        "username": "imanniemeimei",
+        "displayName": "AnnieMeiMei",
+        "version": 9,
+        "followCount": 95,
+        "statusId": 1,
+        "accountMediaLikes": 6,
+        "postLikes": 55,
+        "about": "Hai, I'm Annie MeiMei 🌸🌲Your lewd tropical dryad Vtuber~\n\nIll be posting lewd/18+ artworks, gameplay and my unhinged thoughts~ \nLet your goddess take good care of you darling~ ",
+        "location": "Jamaica",
+        "streaming": {
+            "accountId": "518393936297865216",
+            "channel": {
+                "id": "901309276385980416",
+                "accountId": "518393936297865216",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.K4t8RgSb7uRS.m3u8",
+                "chatRoomId": "901311676479971328",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1776383237000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "901309276385980417",
+                    "historyId": null,
+                    "channelId": "901309276385980416",
+                    "accountId": "518393936297865216",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1776383237000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "901309526978883585",
+                                "streamId": "901309276385980417",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

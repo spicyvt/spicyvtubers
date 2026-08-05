@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd22ad3f-1d93-419a-91fe-63715ba10d4a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a436d702-d4fc-4ae2-a788-378ee4531145-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "695675763558461443",
+        "username": "AvaleaAudio",
+        "displayName": "Avalea",
+        "version": 13,
+        "followCount": 963,
+        "statusId": 1,
+        "accountMediaLikes": 718,
+        "postLikes": 675,
+        "about": " 🌿･Mommy Nature ･🌿\n ─ ──── 💚 ─── ─\n🎥VR content + VTuber Streams \n📷IRL pictures\n🔊Erotic Audios\n👑Subscribe = 𝘼𝙘𝙘𝙚𝙨𝙨 𝙩𝙤 𝑭𝒖𝒍𝒍 𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝙇𝙞𝙗𝙧𝙖𝙧𝙮\n\n❀ Ask about my \"𝒔𝒆𝒄𝒓𝒆𝒕 𝒎𝒆𝒏𝒖\"\n❀ All transactions are final and non-refundable. \n❀ Discounts: All 𝑺𝒉𝒂𝒓𝒌𝑴𝒐𝒎𝒎𝒚 subs get a 15% discount to Subs (DM with proof)\n\n🍃 𝙨𝙥𝙤𝙞𝙡 𝙢𝙚⭑.ᐟ\n🔗 ♡ https://avaleaaudio.uwu.ai/\n🎁 https://throne.com/avaleaaudio\n#switch #monstergirl #mommy\n----──────༺♡༻─────----\n\n𝑇𝐻𝐼𝑆 𝑃𝐴𝐺𝐸/𝐶𝑂𝑁𝑇𝐸𝑁𝑇 𝐼𝑆 𝐹𝑂𝑅 𝐴𝐷𝑈𝐿𝑇𝑆 𝑂𝑁𝐿𝑌! 𝐴𝐺𝐸 18+ 𝑂𝑁𝐿𝑌!\n- 𝐴𝑙𝑙 𝑐𝑜𝑛𝑡𝑒𝑛𝑡 𝑜𝑛 𝑚𝑦 𝑝𝑎𝑔𝑒 𝑚𝑎𝑦 𝑁𝑂𝑇 𝑏𝑒 𝑐𝑜𝑝𝑖𝑒𝑑, 𝑠𝑎𝑣𝑒𝑑, 𝑜𝑟 𝑟𝑒𝑑𝑖𝑠𝑡𝑟𝑖𝑏𝑢𝑡𝑒𝑑 𝑖𝑛 𝑎𝑛𝑦 𝑤𝑎𝑦❗\n𝘼𝙡𝙡 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 𝙤𝙣 𝙩𝙝𝙞𝙨 𝙥𝙖𝙜𝙚 𝙞𝙨 𝙛𝙤𝙧 𝙧𝙤𝙡𝙚-𝙥𝙡𝙖𝙮𝙞𝙣𝙜 𝙥𝙪𝙧𝙥𝙤𝙨𝙚𝙨 𝙤𝙣𝙡𝙮❗\n──── ♡ ────\navi by : https://jinxxy.com/NetPet",
+        "location": "",
+        "streaming": {
+            "accountId": "695675763558461443",
+            "channel": {
+                "id": "854529663068807169",
+                "accountId": "695675763558461443",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.DPZexROmStOK.m3u8",
+                "chatRoomId": "854852493174140928",
+                "status": 2,
+                "version": 36,
+                "createdAt": 1765230108000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "854529663068807170",
+                    "historyId": "912516714040668160",
+                    "channelId": "854529663068807169",
+                    "accountId": "695675763558461443",
+                    "title": "LOVENSE ON! SPIN THE WHEEL! | CUM chat with me!",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 26,
+                    "createdAt": 1765230108000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1779061168000,
+                    "startedAt": 1779055298000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

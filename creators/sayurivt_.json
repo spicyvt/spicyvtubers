@@ -23,5 +23,76 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19a68c23-d0d6-4076-862f-b7770ef6aaf6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9fb424a1-e98c-4c44-928c-e10677eab708-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "710982535739351041",
+        "username": "SayuriVT",
+        "displayName": "Sayuri ",
+        "version": 26,
+        "followCount": 2413,
+        "statusId": 3,
+        "accountMediaLikes": 966,
+        "postLikes": 1209,
+        "about": "🩷Tu princesa súcubo favorita directamente desde tus sueños🩷\n\n❤️Vtuber \n❤️ASMR\n❤️Gamer\n❤️ Hobby al Cosplay \n\n💗Mis Redes: https://linktr.ee/SayuriVT",
+        "location": "",
+        "streaming": {
+            "accountId": "710982535739351041",
+            "channel": {
+                "id": "826223218225324032",
+                "accountId": "710982535739351041",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4nVgpApugN53.m3u8",
+                "chatRoomId": "827338432782028800",
+                "status": 2,
+                "version": 28,
+                "createdAt": 1758481325000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "826223218225324033",
+                    "historyId": "939767599430905857",
+                    "channelId": "826223218225324032",
+                    "accountId": "710982535739351041",
+                    "title": "Ven a llenar mi coñito 💕",
+                    "status": 1,
+                    "viewerCount": 78,
+                    "version": 50,
+                    "createdAt": 1758481326000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785560146000,
+                    "startedAt": 1785552415000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "871967335160758272",
+                                "streamId": "826223218225324033",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"858794248479207424\\\",\\\"label\\\":\\\"Bot\\\"}\"}"
+                            },
+                            {
+                                "id": "871967335160758273",
+                                "streamId": "826223218225324033",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "871967335160758274",
+                                "streamId": "826223218225324033",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":3000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:51Z"
     }
 }

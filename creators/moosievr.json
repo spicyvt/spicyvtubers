@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92a7c65b-aca1-42d0-be6d-4f52bd20dbb1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ac93b839-4fb5-4762-9de2-ff83e46a0839-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "665070580273258496",
+        "username": "MoosieVR",
+        "displayName": "MoosieVR",
+        "version": 11,
+        "followCount": 3827,
+        "statusId": 1,
+        "accountMediaLikes": 6978,
+        "postLikes": 2775,
+        "about": "Your 8 foot tall Moose Mommy here to tie you up, force you to cum, and get thicker to make you go crazy for me~\nWeekly Photos\nWeekly Streams\nLoads of horny~",
+        "location": "",
+        "streaming": {
+            "accountId": "665070580273258496",
+            "channel": {
+                "id": "740387471849697280",
+                "accountId": "665070580273258496",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.75meUsxgN1BO.m3u8",
+                "chatRoomId": "822804426640089088",
+                "status": 2,
+                "version": 38,
+                "createdAt": 1738016489000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "740387471849697281",
+                    "historyId": "939766787078123520",
+                    "channelId": "740387471849697280",
+                    "accountId": "665070580273258496",
+                    "title": "Grow Your Vorny Goth Mommy BONUS STREAM~ !menu",
+                    "status": 1,
+                    "viewerCount": 54,
+                    "version": 96,
+                    "createdAt": 1738016489000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785566091000,
+                    "startedAt": 1785552222000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

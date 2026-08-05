@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c74bf00a-a9da-43ed-9d7f-15ad2680c01a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f4bb373-f2c0-4dfa-9ca5-407e74894419-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "573819486629535744",
+        "username": "KRAVENBLXXD",
+        "displayName": "Kraven",
+        "version": 6,
+        "followCount": 1077,
+        "statusId": 1,
+        "accountMediaLikes": 421,
+        "postLikes": 686,
+        "about": "ANTI-ICON\nASMRTIST\nI STREAM ON TWITCH AT TWITCH.TV/KRAVENBLXXD",
+        "location": "",
+        "streaming": {
+            "accountId": "573819486629535744",
+            "channel": {
+                "id": "655583336856559616",
+                "accountId": "573819486629535744",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.a6HvTPvCmJSE.m3u8",
+                "chatRoomId": "656471329440014336",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1717797607000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "655583336856559617",
+                    "historyId": "895533710756032512",
+                    "channelId": "655583336856559616",
+                    "accountId": "573819486629535744",
+                    "title": "3D MODEL DEBUT/RETURN STREAM",
+                    "status": 1,
+                    "viewerCount": 24,
+                    "version": 5534,
+                    "createdAt": 1717797608000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1775010851000,
+                    "startedAt": 1775006234000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "656471234036375552",
+                                "streamId": "655583336856559617",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

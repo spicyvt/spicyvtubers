@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cad2ee7-76de-46b2-8939-b3963beb09d5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb950065-380f-42d5-9cf6-d5027ccf3708-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "783019177932759040",
+        "username": "LunaNekoninja",
+        "displayName": null,
+        "version": 2,
+        "followCount": 2030,
+        "statusId": 3,
+        "accountMediaLikes": 11942,
+        "postLikes": 2951,
+        "about": "🦉Hai! I'm just an owlcat girl who likes to party and have a good time!😸\n\n📷DAILY PHOTOS: I release tease photos for followers, but the full stuff is for subscribers ;P Every Weekday I try to post em!📷\n\n💵All photo batches can be bought for $10 so you can keep them even if your subscription ends!💵\n\n🌑Followers - Tease Photos as I post subscriber ones\n\n🌗Half Moon - Photos every day\n\n🌕Full Moon - Eventually I will have regular video content, but right now this isn't in place. If you want to simply support me at a higher tier for now, this tier currently offers no additional benefits, but I plan to in the future.\n\n💺Throne: https://throne.com/lunanekoninja\n\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "783019177932759040",
+            "channel": {
+                "id": "892512732836806657",
+                "accountId": "783019177932759040",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yqlGtuz6QQCd.m3u8",
+                "chatRoomId": "896894297335410688",
+                "status": 2,
+                "version": 26,
+                "createdAt": 1774285977000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "892512732836806658",
+                    "historyId": "940032952065073152",
+                    "channelId": "892512732836806657",
+                    "accountId": "783019177932759040",
+                    "title": "🚙Girls Trip! || Drive Beyond Horizons w @Yumiikko @Kana 🫦",
+                    "status": 1,
+                    "viewerCount": 22,
+                    "version": 66,
+                    "createdAt": 1774285977000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785627175000,
+                    "startedAt": 1785615680000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "902032209660092416",
+                                "streamId": "892512732836806658",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

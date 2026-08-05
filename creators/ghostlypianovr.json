@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e53eb05-37db-4c25-8177-b88089193928-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25ed2ec7-8170-4afe-af5a-306d7843c1d1-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "629916147877163008",
+        "username": "GhostlyPiano",
+        "displayName": "GhostlyPiano | うさぎ",
+        "version": 24,
+        "followCount": 2802,
+        "statusId": 3,
+        "accountMediaLikes": 9786,
+        "postLikes": 5211,
+        "about": "The one and only \nASMR piano Bunny!\nhttps://allmylinks.com/ghostlypiano\nhttps://throne.com/ghostlypianovr\n18+ Only <3",
+        "location": "",
+        "streaming": {
+            "accountId": "629916147877163008",
+            "channel": {
+                "id": "670631723813314561",
+                "accountId": "629916147877163008",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xOZM3JQa7vRu.m3u8",
+                "chatRoomId": "670631853845131265",
+                "status": 2,
+                "version": 140,
+                "createdAt": 1721385422000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "670631723813314562",
+                    "historyId": "941205448218918912",
+                    "channelId": "670631723813314561",
+                    "accountId": "629916147877163008",
+                    "title": " | VR lewd Bunny | Chill VIBES",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 870,
+                    "createdAt": 1721385423000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785902765000,
+                    "startedAt": 1785895225000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

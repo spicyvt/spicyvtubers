@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/125cfb0a-766a-4574-88ed-6e9431ffc37a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/10f7aa7b-6f60-4727-bdbb-51bbe36d8651-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "570583087054860288",
+        "username": "rosysilvers",
+        "displayName": "rosy",
+        "version": 15,
+        "followCount": 1551,
+        "statusId": 1,
+        "accountMediaLikes": 1329,
+        "postLikes": 2407,
+        "about": "Hai all, first off welcome into my comfy lil home. I hope to get to know you better. My Name is Rosy, but most people call me \"Scarlett\", I'm a classy and sassy fox from a noble family of fighters. I can be fun to play with however, I'm someone you don't want to betray or you'll regret it~\n",
+        "location": "",
+        "streaming": {
+            "accountId": "570583087054860288",
+            "channel": {
+                "id": "733132256817721344",
+                "accountId": "570583087054860288",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Q3IcNZHdO4ou.m3u8",
+                "chatRoomId": "733132499059744768",
+                "status": 2,
+                "version": 184,
+                "createdAt": 1736286711000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "733132256817721345",
+                    "historyId": "941223188539404288",
+                    "channelId": "733132256817721344",
+                    "accountId": "570583087054860288",
+                    "title": "fun lewd times ",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 8765,
+                    "createdAt": 1736286711000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785905689000,
+                    "startedAt": 1785899455000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

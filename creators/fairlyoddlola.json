@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/57fb025c-2958-41ff-b313-fb1bd6133ad3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6254a0b-fc5f-4528-ab25-3e15c713229f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "827916073390055424",
+        "username": "fairlyoddlola",
+        "displayName": null,
+        "version": 3,
+        "followCount": 1751,
+        "statusId": 3,
+        "accountMediaLikes": 1292,
+        "postLikes": 1003,
+        "about": "ON A BREAK\n\nLocal e-whore with a naughty little sparkle ⋆˙⟡♡\nVR Content Creator bringing your fantasies to life\n\nCustom videos available ♡ made just for you\nHere to flirt, play, and have fun\n\nSupport is always appreciated, baby 💕\n\n© Fairlyoddlola. All content on this page, including but not limited to photos, videos, livestreams, audio, captions, and written material, is protected by copyright law.\n\nYou are granted access to this content for your personal viewing only. You do not have permission to copy, download, record, screenshot, screen capture, redistribute, repost, share, sell, publish, or otherwise distribute any content from this page on any platform, website, social media service, messaging app, or file-sharing service.",
+        "location": "",
+        "streaming": {
+            "accountId": "827916073390055424",
+            "channel": {
+                "id": "874739792045166592",
+                "accountId": "827916073390055424",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.PjxTR5RgIzoL.m3u8",
+                "chatRoomId": "874740142114349057",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1770048578000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "874739792045166593",
+                    "historyId": "939009613754286080",
+                    "channelId": "874739792045166592",
+                    "accountId": "827916073390055424",
+                    "title": "݁ ˖Ი𐑼⋆ Your Princess is Awake & Horny | !tip !goals",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 90,
+                    "createdAt": 1770048578000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785378705000,
+                    "startedAt": 1785371697000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "877662309202284544",
+                                "streamId": "874739792045166593",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

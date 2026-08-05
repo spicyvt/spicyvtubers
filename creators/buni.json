@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/74f72055-d8c1-4c0f-84c3-2ddd95e7314c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7438a3c-4913-4c38-88a3-d27080346dc0-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "375936282171289600",
+        "username": "Buni",
+        "displayName": "Buni",
+        "version": 17,
+        "followCount": 5390,
+        "statusId": 3,
+        "accountMediaLikes": 1355,
+        "postLikes": 1596,
+        "about": "BUNI 🤍 \nVirtual Buni\nVR CONTENT\nIRL CONTENT~\nCOSPLAYS\nSubscribe to see more!",
+        "location": "Australia",
+        "streaming": {
+            "accountId": "375936282171289600",
+            "channel": {
+                "id": "451550868873949184",
+                "accountId": "375936282171289600",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jrvhc9abapcq.m3u8",
+                "chatRoomId": "837935878516006912",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1669152476000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "451550868873949185",
+                    "historyId": "862596476864319489",
+                    "channelId": "451550868873949184",
+                    "accountId": "375936282171289600",
+                    "title": "💜 BUNI WANTS YOU 💜",
+                    "status": 1,
+                    "viewerCount": 297,
+                    "version": 22,
+                    "createdAt": 1669152477000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1767161552000,
+                    "startedAt": 1767153386000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

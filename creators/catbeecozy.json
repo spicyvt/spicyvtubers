@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/43b4a6f7-972f-415e-afbc-8bca0950c314-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fab2de28-d9f2-4809-9304-3036ffaa678f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "288075453766316032",
+        "username": "catbeehorny",
+        "displayName": "Cat",
+        "version": 11,
+        "followCount": 3739,
+        "statusId": 2,
+        "accountMediaLikes": 826,
+        "postLikes": 390,
+        "about": "✨Space Mommy reporting for duty, space cadet!✨\n\n🌌A cozy, cumfy bottom with a Mommy voice MILF VTuber who enjoys orgasm denial, edging, getting spoiled, puppy play, breeding, degradation, voyeurism & exhibitionism, and of course, tentacles.🐙\n\n🌟~ 👅 Cat hardware, puppy software.™️\n\n~ 🔥 VTuber & VR Streams\n~ 🎨 NSFW Artwork\n\n\nSOCIALS:\nTwitch - https://www.twitch.tv/catbeecozy\nTwitter  - https://x.com/catbeecozy\nTiktok - https://www.tiktok.com/@catbeecozy\nAll Links: https://linktr.ee/catbeecozy\n\nGIFTS:\nThrone - https://throne.com/catbeecozy\n\nVRCHAT MODEL:\nAbbess by Jinny\nAbbess Texture Edits by Cat",
+        "location": "Cozy Cartel",
+        "streaming": {
+            "accountId": "288075453766316032",
+            "channel": {
+                "id": "547911757125922832",
+                "accountId": "288075453766316032",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.dxaMFQlwRyIV.m3u8",
+                "chatRoomId": "547989164486828032",
+                "status": 2,
+                "version": 56,
+                "createdAt": 1692126702000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "547911757125922833",
+                    "historyId": "939725848385187840",
+                    "channelId": "547911757125922832",
+                    "accountId": "288075453766316032",
+                    "title": "CS2 🌟 I missed you, won't you come get cozy on my lap~? [ TOYS ACTIVE ] 💦 ",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 5787,
+                    "createdAt": 1692126703000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785552274000,
+                    "startedAt": 1785542461000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "677001229192146944",
+                                "streamId": "547911757125922833",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "677001229192146945",
+                                "streamId": "547911757125922833",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":1000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/03b75f6c-f773-4193-8902-a1075c0b1f6b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c036675e-551b-4f84-9148-62cb91f3ade3-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "680969309417119745",
+        "username": "Acrios",
+        "displayName": null,
+        "version": 8,
+        "followCount": 25465,
+        "statusId": 3,
+        "accountMediaLikes": 26148,
+        "postLikes": 13296,
+        "about": "🐾 | 𝒀𝒐𝒖𝒓 𝑮𝒐𝒕𝒉𝒊𝒄 Bastet 𝑬𝒈𝒚𝒑𝒕𝒊𝒂𝒏 𝑮𝒐𝒅𝒅𝒆𝒔𝒔 \n\n👑 | HENTAI Content Experience ✨ \n🐾 | SPICY Videos & Streams 🎥 \n🍫 | Chocolate Milk FOREVER \n🐪 | Exclusive content for subscribers 🐈‍⬛ \n\nhttps://linktr.ee/acrios \n\n♡━━━━━━━━━━━━━━━━━━━━━━━━━━𓃭♡𓃭━━━━━━━━━━━━━━━━━━━━━━━━━━━♡ \n📜 About Me & My World \n\nEnter my temple, where shadows and seduction collide. I'm Acrios, your playful. bratty. submissive. But still your caring, comforting Mommy Goddess when I want to be in charge. Whether you want to worship me or make me beg, l'll take you to the edge of heaven and hell. Be good for your goddess.\nI love voice acting, role-playing, and showering you with sweet praise or teasing you until you beg. \n\nJoin my world and let's dance between light and shadow together. Let’s play.🐾 \n˖⁺‧₊˚♡˚₊‧⁺˖ ⋆ ˚｡𓂀✧𓂀 ˚｡⋆ ˖⁺‧₊˚♡˚₊‧⁺˖ \n\n𝗝𝗼𝗶𝗻 𝘁𝗵𝗲 𝗱𝗶𝘀𝗰𝗼𝗿𝗱 𝘁𝗼 𝗴𝗲𝘁 𝘀𝘁𝗿𝗲𝗮𝗺 𝗽𝗶𝗻𝗴 𝗻𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀!~ \n\nhttps://discord.gg/acrios\n\n2025-2026 Acrios. All rights reserved. Do not reproduce without permission.",
+        "location": "Between Your Knees and Your Dreams~",
+        "streaming": {
+            "accountId": "680969309417119745",
+            "channel": {
+                "id": "685692407961886720",
+                "accountId": "680969309417119745",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WZcuRRV2nPJf.m3u8",
+                "chatRoomId": "685698571474841600",
+                "status": 2,
+                "version": 175,
+                "createdAt": 1724976169000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "685692407961886721",
+                    "historyId": "940812922605563908",
+                    "channelId": "685692407961886720",
+                    "accountId": "680969309417119745",
+                    "title": "🐾Undiagnosed but I'm pretty sure💜 !menu !obeying (｡･∀･)ﾉﾞ",
+                    "status": 1,
+                    "viewerCount": 219,
+                    "version": 7707,
+                    "createdAt": 1724976170000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785819979000,
+                    "startedAt": 1785801640000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "924889940439867396",
+                                "streamId": "685692407961886721",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

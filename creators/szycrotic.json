@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fcb0ec3-8fd1-4b56-aba9-76a83147442b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0c972fd-1c97-4da3-bfb9-e3bd872cee18-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "300330985508052993",
+        "username": "szycrotic",
+        "displayName": null,
+        "version": 4,
+        "followCount": 2687,
+        "statusId": 1,
+        "accountMediaLikes": 528,
+        "postLikes": 3467,
+        "about": "So you found your way to the secret part of the club?\n\nDISCLAIMER\n\nALL ART/AUDIO/PICS ARE UNDER SZYCROTIC COPY RIGHT, BY SUBSCRIBING AND VIEWING THAT CONTENT YOU ACCEPT THAT THIS IS COPYRIGHTED MATERAIL THAT SHOULD NOT BE SHARED/SAVED OR TAKEN\n\n\nSERVICES I OFFER\n\nPersonal voice coms (read follower dm for offers and prices)\n\nCock rating *yes from all genders/gender expressions* (13$ tip and pics and if you would like me to be mean, honest, or give praise)\n\nNude ratings *yes from all genders/gender expressions* (10$ tip and pics and if you would like me to be mean, honest, or give praise)\n\nExclusive art not shared anywhere else\n\nVideos\n\nAudios\n\n(streams will happen once i have more of an audience here)\n\n\n**MORE TO CUM SOON**\n",
+        "location": "Your dad's pants but dinner at your mom's house",
+        "streaming": {
+            "accountId": "300330985508052993",
+            "channel": {
+                "id": "549679081105399808",
+                "accountId": "300330985508052993",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NCd3fqkAQVzH.m3u8",
+                "chatRoomId": "549679141952167936",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1692548065000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "549679081105399809",
+                    "historyId": null,
+                    "channelId": "549679081105399808",
+                    "accountId": "300330985508052993",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1692548065000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

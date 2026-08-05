@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f45d591-5b72-43a7-930e-f696a4398478-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/092fcbda-f55e-4b27-83bb-f73bdfec63f7-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "516583557481639937",
+        "username": "Skydarc",
+        "displayName": "Skye 🐺",
+        "version": 10,
+        "followCount": 29413,
+        "statusId": 3,
+        "accountMediaLikes": 25914,
+        "postLikes": 19469,
+        "about": "🔞 🐺 Lewdsome wolfgirl\n\n✨NSFW streams (Free for followers) ✨\n\n💌 Occasional lewd art and NSFW audios\n💌 IRL pics, NO IRL NUDES\n💌 DM for customs \n\nFAQ :\n✧ I try my best to answer DMs, I might be slow at times.\n✧ Do not be rude or annoying or you will be blocked.\n✧ Do not push my boundaries.\n✧ Do not ask me personal questions.\n\n❗️ LEGAL DISCLAIMER❗️\nThis profile and its content is protected by Rulta OU ©. All rights reserved.\n\nAny unauthorized use or redistribution of my profile, video, pictures or audio in any form is NOT permissible without my expressed written consent. Any act to promote, commercially exploit, or gain profit in any manner from the use of my profile, is a violation of my privacy and subject to legal action.",
+        "location": "",
+        "streaming": {
+            "accountId": "516583557481639937",
+            "channel": {
+                "id": "637843252455682049",
+                "accountId": "516583557481639937",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.LyFS0scY5pU0.m3u8",
+                "chatRoomId": "637846578823962624",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1713568041000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "637843252455682050",
+                    "historyId": "934546639819919360",
+                    "channelId": "637843252455682049",
+                    "accountId": "516583557481639937",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 6828,
+                    "createdAt": 1713568042000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784310338000,
+                    "startedAt": 1784307642000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "934546560631455744",
+                                "streamId": "637843252455682050",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d7dfe2f-8a38-4bf7-acea-9ac31d0a9ca7-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60a55f9e-a71c-4714-9064-b516e97e3c59-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "697957167180816384",
+        "username": "Narwhal_Xx",
+        "displayName": "Narwhal 💜",
+        "version": 5,
+        "followCount": 1442,
+        "statusId": 1,
+        "accountMediaLikes": 1073,
+        "postLikes": 644,
+        "about": "Your local unhinged Siren Succubus 🔱\n────୨ৎ────\nHi Cuties! Im Narwhal. A Seatuber sent to create chaos and spread love a̶n̶d̶ ̶m̶y̶ ̶l̶e̶g̶s̶ !\nHere you'll find all the spicy content i like to create! \n♡ NSFW art \n♡ VR chat content\n♡ ASMR & VA content\n♡ Spicy game & VR streams\n♡ and so much more! \n────୨ৎ────\nWanna spoil me? ᵔᴗᵔ https://throne.com/narwhal_xx\n\n⠀     ∧,,,∧ ⠀⠀\n ⠀⠀(  ̳• · • ̳) ⠀⠀⠀ \n ⠀⠀/    ♡　",
+        "location": "your dads bed",
+        "streaming": {
+            "accountId": "697957167180816384",
+            "channel": {
+                "id": "721191624662593537",
+                "accountId": "697957167180816384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9QYBIwTQijnB.m3u8",
+                "chatRoomId": "721194490257219584",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1733439842000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "721191624662593538",
+                    "historyId": "770010603984007168",
+                    "channelId": "721191624662593537",
+                    "accountId": "697957167180816384",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 2258,
+                    "createdAt": 1733439842000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1745091660000,
+                    "startedAt": 1745079194000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

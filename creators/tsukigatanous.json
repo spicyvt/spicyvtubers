@@ -11,5 +11,76 @@
         "bannerImageUrl": "https://yt3.googleusercontent.com/4lNCf7XrBDKPbFl_wSEJug82Kp8Qelx3tJfwyib1c0ZRjgJLBH-J9D95su1OjJ9t7yrWS0nvEYA=s480",
         "subscriberCountText": "12.7K subscribers",
         "videoCountText": "269 videos"
+    },
+    "fansly": {
+        "id": "643167037547360256",
+        "username": "TsukigataNous",
+        "displayName": "Nous",
+        "version": 22,
+        "followCount": 1537,
+        "statusId": 1,
+        "accountMediaLikes": 413,
+        "postLikes": 531,
+        "about": "Goddess of Insanity",
+        "location": "",
+        "streaming": {
+            "accountId": "643167037547360256",
+            "channel": {
+                "id": "701524058826612736",
+                "accountId": "643167037547360256",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.sFkfqwj6vwR0.m3u8",
+                "chatRoomId": "701704068434767872",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1728750729000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "701524058826612737",
+                    "historyId": "774860920143749120",
+                    "channelId": "701524058826612736",
+                    "accountId": "643167037547360256",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 8233,
+                    "createdAt": 1728750729000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1746241462000,
+                    "startedAt": 1746235599000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "762523399556706304",
+                                "streamId": "701524058826612737",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"701171264428978176\\\"}\"}"
+                            },
+                            {
+                                "id": "762523399556706305",
+                                "streamId": "701524058826612737",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"701171368569352192\\\"}\"}"
+                            },
+                            {
+                                "id": "762523399556706306",
+                                "streamId": "701524058826612737",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":10000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

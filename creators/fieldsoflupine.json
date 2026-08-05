@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/925d819b-708b-44f6-b623-7c9957a0af22-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2f09866-46cd-4630-8efe-9f725ea55072-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "285195940795527168",
+        "username": "fieldsoflupine",
+        "displayName": null,
+        "version": 4,
+        "followCount": 1302,
+        "statusId": 1,
+        "accountMediaLikes": 1232,
+        "postLikes": 3145,
+        "about": "THIS ACCOUNT IS **NOT** CURRENTLY BEING UPDATED WITH CONTENT. IT IS ONLY USED FOR LIVESTREAMS, COMMISSIONS, AND FOR HOSTING MY BACKLOG OF PICTURES. PLEASE DO NOT SUBSCRIBE IF YOU ARE LOOKING FOR NEW EXCLUSIVE CONTENT <3\n\nI’m Lupine! 💖 I’m a chubby girl with tig biddies and I create erotic audio experiences and love to please!\n\nsubscribing will get you:\n♡ access to PAST erotic audios, ramblefaps, exclusive photos and Lovense stream VODs.\n♡ the only place to order custom audios and personalized ramblefaps when available (message for details!)\n\nCopyright Notice & Disclaimer\nThe copyright of the material contained on my OnlyFans page (Including all Images, Audio & Video material) is owned by Lupine Fields (fieldsoflupine). You may not download, use, copy, share, reproduce, rehost, reupload, or print any of my material outside of my OnlyFans page. Failure to comply will result in Legal action. All rights reserved",
+        "location": "",
+        "streaming": {
+            "accountId": "285195940795527168",
+            "channel": {
+                "id": "576880761542553600",
+                "accountId": "285195940795527168",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TDlTNqkRA5eb.m3u8",
+                "chatRoomId": "576992492201713664",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1699033451000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "576880761542553601",
+                    "historyId": "838243966863306752",
+                    "channelId": "576880761542553600",
+                    "accountId": "285195940795527168",
+                    "title": "Mommy After Dark ✨ Come play with me!!!",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 532,
+                    "createdAt": 1699033451000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1761354762000,
+                    "startedAt": 1761347295000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "576880936252088321",
+                                "streamId": "576880761542553601",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ea75aa11-b39c-41ca-8cb3-9d1f4b1b0bd8-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8af2a5c4-2101-4920-8c89-157487780b65-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "538303649302978560",
+        "username": "ephrys",
+        "displayName": null,
+        "version": 8,
+        "followCount": 3676,
+        "statusId": 1,
+        "accountMediaLikes": 3391,
+        "postLikes": 3886,
+        "about": "Your Big, Sassy, Gorgon Librarian.  Come down to the basement where the forbidden books are kept and see what secrets they hold♥\n\nIf you'd like to buy me gifts, my throne is available~\nhttps://throne.com/ephrys\nIf you order an outfit you'll get to enjoy the photoshoot a week before they get posted here~\n\nTips can go to ko-fi for daily treats~\nhttps://ko-fi.com/ephrys\n\n💞Lovense Affiliate💞\nhttps://www.lovense.com/r/u28kht",
+        "location": "The Library",
+        "streaming": {
+            "accountId": "538303649302978560",
+            "channel": {
+                "id": "572256488601427968",
+                "accountId": "538303649302978560",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.paqvXptXuKOc.m3u8",
+                "chatRoomId": "572256730046537728",
+                "status": 2,
+                "version": 41,
+                "createdAt": 1697930938000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "572256488601427969",
+                    "historyId": "939334488092061697",
+                    "channelId": "572256488601427968",
+                    "accountId": "538303649302978560",
+                    "title": "train45~ !menu",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 1976,
+                    "createdAt": 1697930939000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785460144000,
+                    "startedAt": 1785449153000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "835303331206295552",
+                                "streamId": "572256488601427969",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

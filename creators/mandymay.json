@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/faf8bc9b-f30c-4f76-8876-ac4783fc4758-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/97aff386-e78c-41be-8d6f-2ba363d55aac-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "470754985651482624",
+        "username": "MsMandyMay",
+        "displayName": "Ms. Mandy May",
+        "version": 7,
+        "followCount": 239,
+        "statusId": 2,
+        "accountMediaLikes": 78,
+        "postLikes": 121,
+        "about": "Goofy cow girl with jiggle physics. \n\nPFP: @WynnTensei\nHeader: @CooterzI",
+        "location": "Around",
+        "streaming": {
+            "accountId": "470754985651482624",
+            "channel": {
+                "id": "671244959050903552",
+                "accountId": "470754985651482624",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.QsRKzvyhslt2.m3u8",
+                "chatRoomId": "671245481258524672",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1721531629000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "671244959050903553",
+                    "historyId": "805718704720461824",
+                    "channelId": "671244959050903552",
+                    "accountId": "470754985651482624",
+                    "title": "Feeling bratty... let me tease you! ",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 10,
+                    "createdAt": 1721531630000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1753600124000,
+                    "startedAt": 1753592668000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "671245395778613249",
+                                "streamId": "671244959050903553",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:53Z"
     }
 }

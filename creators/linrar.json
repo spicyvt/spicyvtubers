@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c0713d9-4b01-4a08-aa8d-9de41ae654e4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae90201c-01ae-46ef-b475-3eef95b7c8a2-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "434130228390928384",
+        "username": "LinRARVtuber",
+        "displayName": "LinRAR",
+        "version": 25,
+        "followCount": 2842,
+        "statusId": 1,
+        "accountMediaLikes": 4158,
+        "postLikes": 5204,
+        "about": "38J cup size + big booty + short stack height\nThighs so thicc they block the Lovense Bluetooth signal\nIRL + VTuber NSFW Content\nhttps://throne.com/linrar <-- buy me lingerie?\nhttps://linrarvtuber.carrd.co/ <-- all in one link\nI mod for @KumBomb -- check her out !!\n",
+        "location": "https://linrarvtuber.carrd.co/",
+        "streaming": {
+            "accountId": "434130228390928384",
+            "channel": {
+                "id": "681567691454033921",
+                "accountId": "434130228390928384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YfeDry6cccz1.m3u8",
+                "chatRoomId": "681696588971646976",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1723992760000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "681567691454033922",
+                    "historyId": "767991160953118720",
+                    "channelId": "681567691454033921",
+                    "accountId": "434130228390928384",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 3076,
+                    "createdAt": 1723992761000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1744604826000,
+                    "startedAt": 1744597721000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

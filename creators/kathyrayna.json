@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8a9b4ded-1058-4cd6-9424-44ea3277bf9f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1316fff-5f9a-4116-b152-9dfb99def845-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "292147692350480384",
+        "username": "KathielVRC",
+        "displayName": null,
+        "version": 7,
+        "followCount": 8126,
+        "statusId": 3,
+        "accountMediaLikes": 17763,
+        "postLikes": 16605,
+        "about": "🦝 Silly Tomboy VTuber & Lewdtuber!\n🔞 Lewdsome content!\n🔗 https://www.lovense.com/r/z4b8bc\n🔗 https://linktr.ee/KathielVRC\n🔗 https://www.lovense.com/wish-list/rsp82y3",
+        "location": "Metaverse",
+        "streaming": {
+            "accountId": "292147692350480384",
+            "channel": {
+                "id": "416181669972684800",
+                "accountId": "292147692350480384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.5N3kEpXRIK3M.m3u8",
+                "chatRoomId": "416181820887932928",
+                "status": 2,
+                "version": 47,
+                "createdAt": 1660719802000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "416181669972684801",
+                    "historyId": "939756845529055232",
+                    "channelId": "416181669972684800",
+                    "accountId": "292147692350480384",
+                    "title": "Yummy Messy Vibes~💦💙",
+                    "status": 1,
+                    "viewerCount": 17,
+                    "version": 246,
+                    "createdAt": 1660719802000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785560371000,
+                    "startedAt": 1785549851000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "416181772334673920",
+                                "streamId": "416181669972684801",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

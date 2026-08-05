@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9dcc1542-51ea-46b2-9b23-a29d92202d67-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/53af3a2a-582f-4c9b-b542-cedd22ac157e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "292122456485801984",
+        "username": "nikkinsfw",
+        "displayName": "nikkiiinsfw",
+        "version": 19,
+        "followCount": 519,
+        "statusId": 1,
+        "accountMediaLikes": 326,
+        "postLikes": 296,
+        "about": "Big Bootied Goth Girl Who is Obsessed with Horror 💀and Anime ✨ | Cosplayer 👩🏻‍🎤 | Cum Subscribe and Watch the Fun Begin ;) \n\n\nAll of my content is DMCA protected. You do not have permission to use, copy, reproduce, or redistribute any of this material without my prior consent; it is against the law.",
+        "location": "",
+        "streaming": {
+            "accountId": "292122456485801984",
+            "channel": {
+                "id": "676321658444718080",
+                "accountId": "292122456485801984",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9uDWC0rSeDyU.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1722742008000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "676321658444718081",
+                    "historyId": null,
+                    "channelId": "676321658444718080",
+                    "accountId": "292122456485801984",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1722742009000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e055cb06-11ff-4e90-bea7-889e56206d36-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7b2e934-363a-4f16-93ae-b7cc012d193d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "459486672606732288",
+        "username": "mousyuwu",
+        "displayName": "mousy",
+        "version": 6,
+        "followCount": 15962,
+        "statusId": 3,
+        "accountMediaLikes": 36897,
+        "postLikes": 30496,
+        "about": "💗natural and hairy anime girl shows off just for you\n💗free generally softcore photos and gifs/videos!\n💗i make my own models so expect new outfits all the time ;o\n💗amateur content c:\n💗paid lewd photos or videos\n💗streaming with VOD uploads!\n\ni try to do streams when i can, keep an eye out for posts!\n\nAll content made in CVR, Blender Render's or Unity Posing. ",
+        "location": "",
+        "streaming": {
+            "accountId": "459486672606732288",
+            "channel": {
+                "id": "460778828768223232",
+                "accountId": "459486672606732288",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.1C6oMtT5yXz7.m3u8",
+                "chatRoomId": "460916145524842497",
+                "status": 2,
+                "version": 12,
+                "createdAt": 1671352593000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "460778828768223233",
+                    "historyId": "940116810290700289",
+                    "channelId": "460778828768223232",
+                    "accountId": "459486672606732288",
+                    "title": "saturday lewd wiggles",
+                    "status": 1,
+                    "viewerCount": 242,
+                    "version": 5387,
+                    "createdAt": 1671352593000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785644198000,
+                    "startedAt": 1785635674000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "606022951828992001",
+                                "streamId": "460778828768223233",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

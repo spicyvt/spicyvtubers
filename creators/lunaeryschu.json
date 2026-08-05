@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3ad67b9-30d0-48ad-96a0-b93c1fc2a9e8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bb9c6d4-8a47-4875-a7a8-1bc1122dde43-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "834430385520668672",
+        "username": "lunaeryschu",
+        "displayName": "Lunaeryschu",
+        "version": 6,
+        "followCount": 1589,
+        "statusId": 3,
+        "accountMediaLikes": 408,
+        "postLikes": 743,
+        "about": "‧₊˚ Lewd Cat Sith VTuber ♡ silly, needy, chaotic, and spicy~ ₊˚⊹ᰔ\n➝ NSFW art ⁠♡ teasing clips ⁠♡ spicy VODs ⁠♡ ratings & audios\n➝ sub-lean switch || solo content || occasional collabs \n\nstart with Tier 1, get closer with Tier 2~\n\nhttps://throne.com/lunaerys <--- spoil the kitty here!",
+        "location": "in your closet <3",
+        "streaming": {
+            "accountId": "834430385520668672",
+            "channel": {
+                "id": "885713793055739904",
+                "accountId": "834430385520668672",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.mDljwyoRimW7.m3u8",
+                "chatRoomId": "885723173562101760",
+                "status": 2,
+                "version": 57,
+                "createdAt": 1772664984000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "885713793055739905",
+                    "historyId": "940112000460009472",
+                    "channelId": "885713793055739904",
+                    "accountId": "834430385520668672",
+                    "title": "First ever NSFW Collab~! PEAKIN || !discord ft @mawytan",
+                    "status": 1,
+                    "viewerCount": 19,
+                    "version": 82,
+                    "createdAt": 1772664984000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785654820000,
+                    "startedAt": 1785634527000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

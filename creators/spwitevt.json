@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26fc2d5a-5f9c-4c48-ae80-2891cbe62047-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/71a90416-be93-4c64-9270-2718bb63c1ba-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "438748815164448768",
+        "username": "darklordwaifu",
+        "displayName": "Spwite ✨⛓️ VTuber",
+        "version": 10,
+        "followCount": 2046,
+        "statusId": 1,
+        "accountMediaLikes": 1180,
+        "postLikes": 803,
+        "about": "Famous  Cult Leader who likes to be lewd sometimes~ ✨\nIRL Pics & NSFW Streams\n🔗 https://linktr.ee/SpwiteVT",
+        "location": "California",
+        "streaming": {
+            "accountId": "438748815164448768",
+            "channel": {
+                "id": "562120095707439104",
+                "accountId": "438748815164448768",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jc04FI7CSRgB.m3u8",
+                "chatRoomId": "562120348267454466",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1695514234000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "562120095707439105",
+                    "historyId": "579978780404097024",
+                    "channelId": "562120095707439104",
+                    "accountId": "438748815164448768",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 31,
+                    "version": 128,
+                    "createdAt": 1695514235000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1699781526000,
+                    "startedAt": 1699772076000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "562120137268797440",
+                                "streamId": "562120095707439105",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

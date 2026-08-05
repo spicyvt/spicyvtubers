@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b40664a5-5362-4b23-adb0-c6f2c9f448d5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0b678fc-9700-4107-9d83-180e92d99fc7-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "821934679748784137",
+        "username": "pommyvt",
+        "displayName": "Pommy",
+        "version": 7,
+        "followCount": 31444,
+        "statusId": 3,
+        "accountMediaLikes": 17505,
+        "postLikes": 14710,
+        "about": "Pervert Masokitty :3\n🩵 Natural 34DDD, 5’5, 140 lbs \n🤍 Live Thur/Fri & weekends 8:30 PM EST\n🩵Customs are open!\nLinks💗 https://pommysocials.carrd.co\nWishlist💗 https://throne.com/pommy",
+        "location": "",
+        "streaming": {
+            "accountId": "821934679748784137",
+            "channel": {
+                "id": "863447319863910400",
+                "accountId": "821934679748784137",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TdhU9hV9w2C3.m3u8",
+                "chatRoomId": "863447347307229184",
+                "status": 2,
+                "version": 205,
+                "createdAt": 1767356243000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "863447319863910401",
+                    "historyId": "940137464528392192",
+                    "channelId": "863447319863910400",
+                    "accountId": "821934679748784137",
+                    "title": "MEOWWW 💗 PRIVATE 💗 !menu !tip !goals !throne",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 282,
+                    "createdAt": 1767356243000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785645849000,
+                    "startedAt": 1785640598000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940726598716387328",
+                                "streamId": "863447319863910401",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"940726332973670400\\\",\\\"label\\\":\\\"private cast\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:19Z"
     }
 }

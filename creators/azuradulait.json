@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23128ee-eb33-46f9-a790-87b907b7ff99-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e1809e2-6ead-4ed8-8093-d9ab9d48afc0-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "597951421261815808",
+        "username": "AzuraDulait",
+        "displayName": null,
+        "version": 9,
+        "followCount": 6469,
+        "statusId": 3,
+        "accountMediaLikes": 2827,
+        "postLikes": 4196,
+        "about": "🐐🍼 The Fertility Goat Goddess of VAllure's Gen 1 Indulge~ Worship your THICC goddess~\n\nASMR friendly and striving to be the your muscle mommy~\n\nContent on Wednesday 8pm EST (1)once a Month\n\n🍼 Lewd ASMR\n🍼 Gaming with Lovense\n🍼 Exercising with Lovense\n🍼 Extreme Erotica\n\nContent free unless you want members for VODs\n\n✦•······················•✦•······················•✦\n\n🐐 More Support 🐐\n\n🍼 Tips: \nhttps://streamelements.com/azuradulait/tip\n\n🍼 Patreon: \nhttps://www.patreon.com/AzuraDulait \n\n🍼 Throne: \nhttps://throne.com/azuradulait\n\n🍼 Merch: \nhttps://uwumarket.us/collections/azuradulait\n\n🍼 GamerSupps Affiliate: \nhttps://gamersupps.gg/Azura - Use Code \"Azura\" for 10% off your order!\n\n\nNote: Tips and donations are non-refundable! Please only give if you can.\n\n✦•······················•✦•······················•✦\n\n🐐 Social Media 🐐\n\n🍼 YouTube: \nhttps://www.youtube.com/@AzuraDulait\n\n🍼 Twitch: \nhttps://www.twitch.tv/azuradulait\n\n🍼 Twitter: \nhttps://x.com/AzuraDulait\n\n🍼 Instagram:\nhttps://www.instagram.com/azuradulait/\n\n🍼 Marshmallow: \nhttps://marshmallow-qa.com/azuradulait\n\npfp by: 0marusankaku || header by: TheMothBug\n",
+        "location": "",
+        "streaming": {
+            "accountId": "597951421261815808",
+            "channel": {
+                "id": "725239949221175296",
+                "accountId": "597951421261815808",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jrVwer4XS8Vl.m3u8",
+                "chatRoomId": "725265465164701696",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1734405038000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "725239949221175297",
+                    "historyId": "932178561131884544",
+                    "channelId": "725239949221175296",
+                    "accountId": "597951421261815808",
+                    "title": "Quickie With The Gyaru ♡",
+                    "status": 1,
+                    "viewerCount": 135,
+                    "version": 6980,
+                    "createdAt": 1734405038000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783748722000,
+                    "startedAt": 1783743048000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "932178427128074241",
+                                "streamId": "725239949221175297",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

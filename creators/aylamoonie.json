@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a760f2-c2c9-4969-826a-c36e0f04958c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f108122e-1a2a-4b5a-b621-dc6edc437c21-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "568553508601602048",
+        "username": "aylamoonie",
+        "displayName": "AylaMoonie",
+        "version": 14,
+        "followCount": 679,
+        "statusId": 3,
+        "accountMediaLikes": 972,
+        "postLikes": 605,
+        "about": "Vtuber Lewdtuber Artist who is Kinky and Chaotic\nPan - All Gender- Two Spirit - Indigenous - Bratty Switch\nFollow for Art & Sub for IRL NSFW \nSpoil me: https://throne.com/aylamoonie",
+        "location": "United States",
+        "streaming": {
+            "accountId": "568553508601602048",
+            "channel": {
+                "id": "627935016239767552",
+                "accountId": "568553508601602048",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.FLzOT2unrxyQ.m3u8",
+                "chatRoomId": "635734842876633088",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1711205734000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "627935016239767553",
+                    "historyId": null,
+                    "channelId": "627935016239767552",
+                    "accountId": "568553508601602048",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1711205735000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "635734437115469827",
+                                "streamId": "627935016239767553",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"568578371332612096\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

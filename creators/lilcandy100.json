@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/070ee527-6371-43f4-b094-a6c76d6a8ef4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/488c5fc0-ce4b-4399-b2bc-51a1fa934797-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "445845088698904576",
+        "username": "LilCandy100",
+        "displayName": "LilCandy100",
+        "version": 9,
+        "followCount": 233,
+        "statusId": 1,
+        "accountMediaLikes": 90,
+        "postLikes": 57,
+        "about": "Thicc lil succubus goddess just trying to spread the seed of joy. 25/she/her. 💜Bisexual~ Taken🖤🌸 pfp and banner by me🌸\n\nArtist/Cosplayer/Aspiring VA\n\nNo nudity on irl stuff~🌸\nYes nudity to art and vrc stuff~💗",
+        "location": "~Under Your Bed~",
+        "streaming": {
+            "accountId": "445845088698904576",
+            "channel": {
+                "id": "897400355829080065",
+                "accountId": "445845088698904576",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hQ0xtINyLovk.m3u8",
+                "chatRoomId": "897401622366277632",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1775451277000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "897400355829080066",
+                    "historyId": "898768991567241216",
+                    "channelId": "897400355829080065",
+                    "accountId": "445845088698904576",
+                    "title": "ART TIME~♥ Cum say hi♥ Burpin~❀",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 4,
+                    "createdAt": 1775451278000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1775786815000,
+                    "startedAt": 1775777585000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "897401138259718144",
+                                "streamId": "897400355829080066",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

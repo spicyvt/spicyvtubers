@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8649a395-6983-47bd-99de-8bbac24164a2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64adb081-3494-457d-818e-4d1ceea57e6f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "846561512800657408",
+        "username": "YokoBytes",
+        "displayName": "YokoBytes",
+        "version": 7,
+        "followCount": 53,
+        "statusId": 1,
+        "accountMediaLikes": 5,
+        "postLikes": 7,
+        "about": "Hopefully this page will be the home of erotic ASMR, NSFW game streams, and more! ",
+        "location": "",
+        "streaming": {
+            "accountId": "846561512800657408",
+            "channel": {
+                "id": "848288698536574976",
+                "accountId": "846561512800657408",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7aAP7aacHrAk.m3u8",
+                "chatRoomId": "926970789926809600",
+                "status": 2,
+                "version": 14,
+                "createdAt": 1763742146000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "848288698536574977",
+                    "historyId": "937217730749149184",
+                    "channelId": "848288698536574976",
+                    "accountId": "846561512800657408",
+                    "title": "Let's play nunholy and vibe~!!",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 6,
+                    "createdAt": 1763742146000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784951580000,
+                    "startedAt": 1784944479000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "926969058606194688",
+                                "streamId": "848288698536574977",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:51Z"
     }
 }

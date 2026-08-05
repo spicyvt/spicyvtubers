@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/950b8232-d70b-4a3e-b276-02c5b550b906-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/340db966-034f-4f78-b70e-e1e8e5b3da6f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "587128562847326209",
+        "username": "kitsuthots",
+        "displayName": "kode",
+        "version": 4,
+        "followCount": 1110,
+        "statusId": 1,
+        "accountMediaLikes": 1756,
+        "postLikes": 825,
+        "about": "puppy-coded & bratty kitsune femboy~\n\n✨ free streams every thurs + sat @ 9pm et\n🎙️ nsfw va and voiced content\n📷 IRL & VR photosets\n📧 dms open for custom requests~\n\ncan't get enough? check out my socials > https://kodeshinju.rip",
+        "location": "your dad's bedroom",
+        "streaming": {
+            "accountId": "587128562847326209",
+            "channel": {
+                "id": "712174432004616192",
+                "accountId": "587128562847326209",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7mYljnlAF5qN.m3u8",
+                "chatRoomId": "712174468415365122",
+                "status": 2,
+                "version": 89,
+                "createdAt": 1731289976000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "712174432004616193",
+                    "historyId": "940108081679835136",
+                    "channelId": "712174432004616192",
+                    "accountId": "587128562847326209",
+                    "title": "HAPPY YAOI DAY - fucking around #yaoi",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 2419,
+                    "createdAt": 1731289976000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785643136000,
+                    "startedAt": 1785633593000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e15f8f3-cda2-4e36-92dd-448b776878f0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0198fa28-d966-4bb7-b16f-c221b757d698-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "321639085032615936",
+        "username": "TaigaTorayami",
+        "displayName": "Taiga",
+        "version": 59,
+        "followCount": 62481,
+        "statusId": 3,
+        "accountMediaLikes": 105423,
+        "postLikes": 57593,
+        "about": "͙ ͙⁺˚*･༓✧༓･˚⁺‧ 🖤🐯🖤 ‧͙⁺˚･༓✧༓･˚⁺‧͙  \n✩ 100% REAL, NO AGENCY INVOLVED! ✩\nAll DMs are me, please be patient with me <3 \n\n🧡 IRL CONTENT WEEKLY ! ! !\n🤍 Open DM's for Tier 2-3 Subs ONLY !\n🖤 DM ME FOR CUSTOMS! / AUDIOS ($100+)\n\nhttps://throne.com/torayami\n\nAll content shared on this page is exclusive and intended for subscribers only ✨\n\nPlease do not redistribute, repost, leak, or publish any content from my Fansly or any of my private platforms. This includes, but is not limited to, videos, photos, messages, and any other material shared here.\n\nScreenshots and screen recordings of private content are strictly prohibited.\n\nAny violation of these terms will result in immediate action, including potential legal consequences ♡",
+        "location": "your mom's house",
+        "streaming": {
+            "accountId": "321639085032615936",
+            "channel": {
+                "id": "393590436712689664",
+                "accountId": "321639085032615936",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9QOkk88dUth5.m3u8",
+                "chatRoomId": "393591214508617728",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1655333632000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "393590436712689665",
+                    "historyId": "935384902117904384",
+                    "channelId": "393590436712689664",
+                    "accountId": "321639085032615936",
+                    "title": "♡ 1-1 ANIME DATE ♡",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 6592,
+                    "createdAt": 1655333633000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784516624000,
+                    "startedAt": 1784507499000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "900668650313240576",
+                                "streamId": "393590436712689665",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"900667433201709056\\\",\\\"label\\\":\\\"<3\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

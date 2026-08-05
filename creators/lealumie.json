@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/628304a3-0e49-4b29-a765-1fc9a7e0a2b4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba05e012-6b42-4fc0-b621-e7f13beec778-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "389316271574888448",
+        "username": "Lealewdi",
+        "displayName": "Lealewdi",
+        "version": 14,
+        "followCount": 5391,
+        "statusId": 1,
+        "accountMediaLikes": 3056,
+        "postLikes": 5047,
+        "about": "Dream fox goddess here to bless your naughty dreams... 🦊\n\n🔴 LIVE on one Sat Night @ 7pm EST\n\n💜 IRL photos once a week for Leudmies and up! \n\n🌺 Give love to your goddess:\n\n🌺 Buy me gifts! (If you do... you get spicy private photos from me.): https://throne.com/lealumie \n🌺 Merch: https://uwumarket.us/collections/lealumie \n🌺 Twitch: https://twitch.tv/lealumie\n\n\n\n",
+        "location": "In your dreams… ",
+        "streaming": {
+            "accountId": "389316271574888448",
+            "channel": {
+                "id": "433133152811102208",
+                "accountId": "389316271574888448",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.VNjCgVXcU8lm.m3u8",
+                "chatRoomId": "433133902706520064",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1664761350000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "433133152811102209",
+                    "historyId": "879570708051533824",
+                    "channelId": "433133152811102208",
+                    "accountId": "389316271574888448",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 67,
+                    "version": 6376,
+                    "createdAt": 1664761351000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1771207053000,
+                    "startedAt": 1771200358000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "595096220804853760",
+                                "streamId": "433133152811102209",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

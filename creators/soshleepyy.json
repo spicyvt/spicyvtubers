@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9751c920-ed69-43a6-9336-53024d206184-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6502e2b4-5691-4191-bd32-f0546b28d9a9-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "841814175322750981",
+        "username": "SoShleepy",
+        "displayName": "Shleepy",
+        "version": 8,
+        "followCount": 1196,
+        "statusId": 3,
+        "accountMediaLikes": 665,
+        "postLikes": 653,
+        "about": "Needy sheep girl with big tits ~ Live Every Saturday @ 10:00PM EST\n\nVTuber / VR Content • Versatile Sheep Mommy • Audios • Videos / Photos •  Lewd Art • ASMR 🖤 \n\nWanna spoil me? https://throne.com/soshleepy \n\nPlease respect my content,🖤\nAll content here belongs to me and may not be reposted or redistributed.",
+        "location": "In the clouds",
+        "streaming": {
+            "accountId": "841814175322750981",
+            "channel": {
+                "id": "912913843561193472",
+                "accountId": "841814175322750981",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.fdMmXDGdmvLZ.m3u8",
+                "chatRoomId": "912914632857907201",
+                "status": 2,
+                "version": 25,
+                "createdAt": 1779149981000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "912913843561193473",
+                    "historyId": "940480555470823424",
+                    "channelId": "912913843561193472",
+                    "accountId": "841814175322750981",
+                    "title": "BREAK THE SHEEP GIRL~  GOONTIVITIES W/A SHEEP MOMMY ~ :3 ",
+                    "status": 1,
+                    "viewerCount": 15,
+                    "version": 52,
+                    "createdAt": 1779149981000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785729023000,
+                    "startedAt": 1785722397000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

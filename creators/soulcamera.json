@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa01c3c3-b71d-4741-8b4a-322fd3953955-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1c929e3-dbf7-4678-8d7b-9fd0be667473-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "228817938151374848",
+        "username": "SoulCamera",
+        "displayName": null,
+        "version": 4,
+        "followCount": 2959,
+        "statusId": 1,
+        "accountMediaLikes": 1427,
+        "postLikes": 1571,
+        "about": "Hi lovelies! :3 💙\n\n♥ Android Lewdtuber ♥ \n♥ NSFW Game Lover ♥\n♥ Dark Souls Expert ♥\n♥ ASMR ♥\n♥ Built for your pleasure ♥\n\nTwitch: https://twitch.tv/soulcamera\nTwitter: https://twitter.com/SoulCamcorder\nThrone: https://throne.me/soulcamera/wishlist\nDiscord: https://discord.gg/WzvhpPAASH\n\nGlad you visited and hope you are having a good day. If not then let me make it better for you~...\n",
+        "location": "In your room charging",
+        "streaming": {
+            "accountId": "228817938151374848",
+            "channel": {
+                "id": "445988046370775040",
+                "accountId": "228817938151374848",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yzSnAKyZxxIx.m3u8",
+                "chatRoomId": "446743336670212096",
+                "status": 2,
+                "version": 54,
+                "createdAt": 1667826196000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "445988046370775041",
+                    "historyId": "941217895130611713",
+                    "channelId": "445988046370775040",
+                    "accountId": "228817938151374848",
+                    "title": "💙💦I want some attention...💦💙 !price !socials Donothon Stream",
+                    "status": 1,
+                    "viewerCount": 18,
+                    "version": 5403,
+                    "createdAt": 1667826196000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785905962000,
+                    "startedAt": 1785898193000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

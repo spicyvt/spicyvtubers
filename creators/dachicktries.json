@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/645c70f6-8f3b-4dcf-8a8b-433895c90f83-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/060cf59e-5a4b-45c5-b0d1-c3007f6c115d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "822526622480478208",
+        "username": "DaChickTries",
+        "displayName": null,
+        "version": 4,
+        "followCount": 5402,
+        "statusId": 1,
+        "accountMediaLikes": 1016,
+        "postLikes": 917,
+        "about": "Hello DaChickTries here, but you can call me Chicky! \nI'm a Forest Fairy Kitty Deredere Vtuber. I'm Your Waifu! Let me relax you into tomorrow! 💋\n\nAll Content will be made with 2D or 3D Models! \nUnless for Special Occasions \n\nSpecialising in the Waifu Experience, Being Sweet and Nice or all Full of Spice.\n\n💚 Live Streams Tuesday, Thursday and Saturday 8PM - 9PM BST\n🌸 Toys, Games and a whole lot of Teasing.\n💚 DMs open: any RP sent is not guaranteed a response.\n\nLinks!\nLive on Twitch weekly\n⁀➴\nhttps://www.twitch.tv/dachicktries\nJoin my Discord and become a member of the Cosy Coop Crew\n⁀➴\nhttps://discord.gg/3b79hgucSF\nWanna Spoil Chicky? or Check out the socials? \n⁀➴\n\nhttps://throne.com/dachicktries\nhttps://dachickdelights.carrd.co/#links\n\n© All material appearing on DaChickTries’s Fansly is protected under copyright law. Unauthorised copying, reproduction, modification, distribution, resale, or public display of this content, in whole or in part, is strictly prohibited and may result in legal consequences. All content is under copyright.",
+        "location": "Your Dreams",
+        "streaming": {
+            "accountId": "822526622480478208",
+            "channel": {
+                "id": "823696181354844160",
+                "accountId": "822526622480478208",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ilMselVjTQww.m3u8",
+                "chatRoomId": "823723123588214784",
+                "status": 2,
+                "version": 84,
+                "createdAt": 1757878833000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "823696181354844161",
+                    "historyId": "941371773750886401",
+                    "channelId": "823696181354844160",
+                    "accountId": "822526622480478208",
+                    "title": "[ Comfy ASMR ] Spend Time with your waifu! [ !comfymenu #tip #asmr ]",
+                    "status": 1,
+                    "viewerCount": 15,
+                    "version": 166,
+                    "createdAt": 1757878833000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785945860000,
+                    "startedAt": 1785934880000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "919123625922023424",
+                                "streamId": "823696181354844161",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

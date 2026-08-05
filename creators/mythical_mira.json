@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d88fa16-f4c7-4a93-9f24-5166e34408a1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77ea8a86-4b4a-465e-a7dd-f20beed6bc59-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "636495286830637056",
+        "username": "Mythical_Mira",
+        "displayName": "Mythical Mira ",
+        "version": 16,
+        "followCount": 1554,
+        "statusId": 1,
+        "accountMediaLikes": 2471,
+        "postLikes": 1341,
+        "about": "A very lewd octopus        💜 Taken 🩵\n\nWebsite https://mythicalmira.carrd.co/\n\nINQUIRE   mythicalmiravt@gmail.com\n\n",
+        "location": "https://mythicalmira.carrd.co/",
+        "streaming": {
+            "accountId": "636495286830637056",
+            "channel": {
+                "id": "648613106280312833",
+                "accountId": "636495286830637056",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.N3eh997YgNqS.m3u8",
+                "chatRoomId": "648628501246648320",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1716135775000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "648613106280312834",
+                    "historyId": "805529470290108416",
+                    "channelId": "648613106280312833",
+                    "accountId": "636495286830637056",
+                    "title": "Working on human VRC model",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 3793,
+                    "createdAt": 1716135775000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1753552989000,
+                    "startedAt": 1753547551000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "772388981311549444",
+                                "streamId": "648613106280312834",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

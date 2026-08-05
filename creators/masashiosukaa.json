@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c945fc4-8755-4412-a827-f50f197dce8c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e416625f-b16d-4d56-8dd1-6130ed4082c7-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "573981695158530048",
+        "username": "masushy",
+        "displayName": "Masushy",
+        "version": 4,
+        "followCount": 510,
+        "statusId": 3,
+        "accountMediaLikes": 597,
+        "postLikes": 225,
+        "about": "NSFW Account For Mostly Art and Some IRL Content On Occasions\n🔞Content / My Little Corner For Being Full On Unhinged Fudanshi ;p\n\nCommissions - https://vgen.co/masashiosukaa\nThrone For Lewd and Non Lewd Stuff - https://throne.com/masashiosukaa\nSFW Twitter/X - https://twitter.com/CommanderO25",
+        "location": "Twitch - twitch.tv/masashiosukaa",
+        "streaming": {
+            "accountId": "573981695158530048",
+            "channel": {
+                "id": "719123066210230272",
+                "accountId": "573981695158530048",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.CjCBe3ciqduF.m3u8",
+                "chatRoomId": "719129179307651073",
+                "status": 2,
+                "version": 42,
+                "createdAt": 1732946659000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "719123066210230273",
+                    "historyId": "929688234177355776",
+                    "channelId": "719123066210230272",
+                    "accountId": "573981695158530048",
+                    "title": "Making Some Boy Milk At This Yaoi Factory",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 4732,
+                    "createdAt": 1732946659000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783154952000,
+                    "startedAt": 1783149307000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

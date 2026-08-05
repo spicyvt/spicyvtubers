@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f206d3b-3e26-49cd-a0df-60e7a9950fb5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb81c7d6-2557-4176-8ac2-5825d3ecd7d0-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "618111590884974592",
+        "username": "RoseBunnyVT",
+        "displayName": "Shu Ivy Rose",
+        "version": 6,
+        "followCount": 2877,
+        "statusId": 2,
+        "accountMediaLikes": 3911,
+        "postLikes": 2812,
+        "about": "Vtuber/Voice Actor/Lewdtuber. Your cute adorable Rose Bunny Chubby Princess with many designs (Shu-niverse). Uses L2D and 3D models\n\n🔴 𝗪𝗵𝗮𝘁 𝗜 𝗽𝗼𝘀𝘁 𝗶𝘀 𝗳𝗼𝗿 𝗠𝗬 𝗙𝗮𝗻𝘀𝗹𝘆 𝗮𝗰𝗰𝗼𝘂𝗻𝘁 𝗢𝗡𝗟𝗬. 𝗬𝗼𝘂 𝗺𝗮𝘆 𝗡𝗢𝗧 𝗿𝗲𝗽𝗿𝗼𝗱𝘂𝗰𝗲, 𝗰𝗼𝗽𝘆, 𝗼𝗿 𝗿𝗲𝗱𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲 𝗮𝗻𝘆 𝗼𝗳 𝗺𝘆 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗺𝘆 𝗰𝗼𝗻𝘀𝗲𝗻𝘁.  Anything regarding custom content may not be shared or distributed without my consent or permission as well. 🔴\n\nLive Streams: Wednesdays-Saturdays \n\nSFW/NSFW content and live streams.\n\n🌹 linktree: https://linktr.ee/ShuIvyVT\n🌹 Throne: https://throne.com/shuivyvt\n🌹 Twitch: https://twitch.tv/shuivyvt\n🌹 Lovense : https://www.lovense.com/r/bsij79\n🌹 NSFW Twitter: https://x.com/lewdrosebun?s=21",
+        "location": "",
+        "streaming": {
+            "accountId": "618111590884974592",
+            "channel": {
+                "id": "715967984450940928",
+                "accountId": "618111590884974592",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.kTNuJ20ORB4N.m3u8",
+                "chatRoomId": "715968240819380224",
+                "status": 2,
+                "version": 31,
+                "createdAt": 1732194429000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "715967984450940929",
+                    "historyId": "941125263834509312",
+                    "channelId": "715967984450940928",
+                    "accountId": "618111590884974592",
+                    "title": "Nsfw Gaming❤️ [18+]",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 1262,
+                    "createdAt": 1732194429000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785897439000,
+                    "startedAt": 1785876108000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:24Z"
     }
 }

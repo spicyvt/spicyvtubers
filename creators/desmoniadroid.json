@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/223fc0e2-51be-4c58-890c-f5c7304be931-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d15ebd3-c3cc-45da-a8e3-549316e5c782-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "346076566297522176",
+        "username": "DesmoniaDroid",
+        "displayName": null,
+        "version": 4,
+        "followCount": 2512,
+        "statusId": 1,
+        "accountMediaLikes": 1761,
+        "postLikes": 1280,
+        "about": "      💦💚⚙ • Personal Companion Android • ⚙💚💦 \n                               •  Vtuber || VR || Art  •\n════════════════════════════════════\n✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺    . ✦　\n︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶\n\nHello there, I'm Desmonia Droid!\nHere to serve, entertain, and make sure you're well hydrated! \n════════════════════════════════════\n\nIf you'd like to get me a cute little gift:\n❯❯ https://throne.com/desmoniadroid\n\nI'm slowly getting back into making lewd content, and am saving up to replace my base stations so that I can start making VR content again as well~ \n\n════════════════════════════════════\nDO NOT SCREENSHOTS/SCREEN RECORD/REUPLOAD/SHARE MY CONTENT\nAny unauthorized distribution of my content & live streams will result in a ban from ALL platforms & legal action will be taken",
+        "location": "https://desmoniadroid.carrd.co/",
+        "streaming": {
+            "accountId": "346076566297522176",
+            "channel": {
+                "id": "425315623384391680",
+                "accountId": "346076566297522176",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HHIyLmtvMJFZ.m3u8",
+                "chatRoomId": "431686193357271040",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1662897506000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "425315623384391681",
+                    "historyId": "937175605865099264",
+                    "channelId": "425315623384391680",
+                    "accountId": "346076566297522176",
+                    "title": "Dumb Bimbot is ready to SHORT CIRCUIT || !menu ﹒ !socials ﹒ !throne",
+                    "status": 1,
+                    "viewerCount": 16,
+                    "version": 646,
+                    "createdAt": 1662897507000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784944232000,
+                    "startedAt": 1784934436000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "433196384573730816",
+                                "streamId": "425315623384391681",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:06Z"
     }
 }

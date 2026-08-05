@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22add1b1-be59-45f7-8be3-a29996db30c9-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/529a77fb-15e3-41da-b7be-737c0aaeb520-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "445392984477802496",
+        "username": "FlosV",
+        "displayName": null,
+        "version": 4,
+        "followCount": 2671,
+        "statusId": 3,
+        "accountMediaLikes": 636,
+        "postLikes": 581,
+        "about": "🔮Zmora\n🌸SFW and NSFW media~\n✨Wholesome and Horny~\n💦Switching~ \n\n\n☄️ linktr.ee/flosv ☄️\n\nWhat happens on BLUE stays on BLUE - meaning, please keep whatever happens on my NSFW socials away from my discord, streams and so on. People who do not comply with this request will be banned. \n\nPlease remember that I indulge in a LOT of RP and you should not take everything at face value.\n\nYou may NOT reproduce, copy, or redistribute content posted here without my consent.\nAny UNAUTHORIZED action (redistribution, copy, reproduce or any of this sort) will be PROSECUTED LEAGALY. ",
+        "location": "inside your walls ",
+        "streaming": {
+            "accountId": "445392984477802496",
+            "channel": {
+                "id": "531581129828872192",
+                "accountId": "445392984477802496",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.I5Ua4tHxUnlu.m3u8",
+                "chatRoomId": "531582074126086144",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1688233177000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "531581129828872193",
+                    "historyId": "934166607431749632",
+                    "channelId": "531581129828872192",
+                    "accountId": "445392984477802496",
+                    "title": "SO HORNY // RP With You // !menu !throne",
+                    "status": 1,
+                    "viewerCount": 85,
+                    "version": 7814,
+                    "createdAt": 1688233178000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784227318000,
+                    "startedAt": 1784217035000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

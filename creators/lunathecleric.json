@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c763afd1-f980-4b71-aed5-f06cbbc14d04-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffba49a9-437c-48db-8b6b-844ade7a4630-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "385123216647004160",
+        "username": "LunaTheCleric",
+        "displayName": "Luna",
+        "version": 11,
+        "followCount": 299,
+        "statusId": 1,
+        "accountMediaLikes": 652,
+        "postLikes": 1481,
+        "about": "She/They, 30, Latina, bisexual. Vtuber streamer on twitch and here. Voice artist and audiobook narrator. Nudes, audio clips, and other stuff posted here~\n\nWanna treat me to something? https://throne.com/lunathecleric\n\nSome of my services:\nLive streams are for followers and subs.\nSmut stories and scripts - read and written on stream\nPhoto sets\nCustom photo sets\nVideos\nSpicy story time streams ",
+        "location": "",
+        "streaming": {
+            "accountId": "385123216647004160",
+            "channel": {
+                "id": "568861326256906240",
+                "accountId": "385123216647004160",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zHeNy1vTMqYw.m3u8",
+                "chatRoomId": "568876399117475840",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1697121469000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "568861326256906241",
+                    "historyId": "881275684570275840",
+                    "channelId": "568861326256906240",
+                    "accountId": "385123216647004160",
+                    "title": "Getting Buzzed while I try to Rivals",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 3400,
+                    "createdAt": 1697121469000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1771614988000,
+                    "startedAt": 1771606856000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "688080460080754688",
+                                "streamId": "568861326256906241",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "688080460080754689",
+                                "streamId": "568861326256906241",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

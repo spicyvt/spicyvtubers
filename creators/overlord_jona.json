@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f1f77ad-496f-4797-be3a-63ae52401362-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bcd90af-9e7e-43b7-94a9-7abb7f885824-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "740486489300807680",
+        "username": "overlord_jona",
+        "displayName": null,
+        "version": 3,
+        "followCount": 209,
+        "statusId": 1,
+        "accountMediaLikes": 473,
+        "postLikes": 278,
+        "about": "The mighty overlord will be using and streaming here for some less stream friendly activites~\n\n♥ Submissive little fox~\n♥ Pouty little brat~\n♥ Ready to tease and please~\n\nHere's a fun throne and any outfits/toys will be used for content here >:3\nhttps://throne.com/sussy_overlord",
+        "location": "",
+        "streaming": {
+            "accountId": "740486489300807680",
+            "channel": {
+                "id": "781979130559213568",
+                "accountId": "740486489300807680",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zLTHWpAGqo4B.m3u8",
+                "chatRoomId": "781980320193851392",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1747932713000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "781979130559213569",
+                    "historyId": "785052353110749184",
+                    "channelId": "781979130559213568",
+                    "accountId": "740486489300807680",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 6,
+                    "createdAt": 1747932713000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1748665473000,
+                    "startedAt": 1748665426000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

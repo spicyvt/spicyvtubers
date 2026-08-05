@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f606574-0e26-4c06-81d7-a7fdf8be15c1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/727b55c3-704f-4c9d-8192-fa5c25d211d8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "899717862984282112",
+        "username": "Ruurochu",
+        "displayName": null,
+        "version": 2,
+        "followCount": 12,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "✦ Non-Binary (They/He) 🏳️‍🌈\n✦ Variety Content Creator 🎮 🎨🎤\n\nReposting any of my content is prohibited and will result in legal action.",
+        "location": "",
+        "streaming": {
+            "accountId": "899717862984282112",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:47Z"
     }
 }

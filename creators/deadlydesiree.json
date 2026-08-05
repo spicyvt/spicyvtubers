@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/af19b6bc-c5c7-465a-9fc5-e440f51025be-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0df67d1-2ac8-4acf-87e0-886f21d8bde0-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "475257470697086976",
+        "username": "DeadlyDesiree",
+        "displayName": "Deadly Desiree",
+        "version": 7,
+        "followCount": 18747,
+        "statusId": 3,
+        "accountMediaLikes": 19970,
+        "postLikes": 22944,
+        "about": "Siren Seductress Vtuber 🫦\n\n🎧 ASMR\n🎙 Audio Porn ♡ Erotic Audio\n📷 IRL Photos/Videos \n🎨 Art/Animation\n\nYou want to be my little Sea Snack? Let me sing you my Siren Song of Lust and you'll cum just by my voice. 💦 Be careful. Desire can be deadly, darling....\n\nUp to 55% off Lovense Toys:\n🔗 https://www.lovense.com/r/kj2zla\n\nHelp get the Sirussy:\n🔗 otonaJP | https://www.otonajp.com/?xid=ddlyd\n\nHelp get our ADVANCEDgg flavor/cup\n🔗 USE CODE: DEADLY at checkout or use link https://advanced.gg/discount/DEADLY?ref=deadlydesiree\n\nSOCIALS\n🎶 ALL LINKS | https://beacons.ai/deadlydesiree\n🎶 Discord | https://discord.gg/5TmH74mG6m\n🎶 Twitch | https://www.twitch.tv/DeadlyDesiree\n🎶 YouTube | https://www.youtube.com/@DeadlyDesireeasmr\n🎶 Twitter | https://www.twitter.com/DeadlyDesiree69\n🎶 TikTok | https://www.tiktok.com/@deadlydesiree\n🎶 Instagram | https://instagram.com/deadlydesireevt?igshid=NGExMmI2YTkyZg==\n\nMERCH\n🫦 UwU Market | https://uwumarket.us/collections/deadlydesireee\n🫦 Fourthwall Merch | https://deadlydesiree-shop.fourthwall.com/?\n🫦 Daki | https://cuddlyoctopus.com/product/deadly-desiree/\n\nShower your Siren Seductress with tributes and gifts\n🫦Throne: https://throne.me/deadlydesiree",
+        "location": "$50 Devotion",
+        "streaming": {
+            "accountId": "475257470697086976",
+            "channel": {
+                "id": "494491898623303680",
+                "accountId": "475257470697086976",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.IQeAOPX00AGD.m3u8",
+                "chatRoomId": "494493571248828423",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1679390415000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "494491898623303681",
+                    "historyId": "798080805858455554",
+                    "channelId": "494491898623303680",
+                    "accountId": "475257470697086976",
+                    "title": "Mistress Missed You",
+                    "status": 1,
+                    "viewerCount": 44,
+                    "version": 4499,
+                    "createdAt": 1679390416000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1751783472000,
+                    "startedAt": 1751771651000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "494491926834196480",
+                                "streamId": "494491898623303681",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

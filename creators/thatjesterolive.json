@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/99f360d9-8c4b-48ea-9855-0fab66d433d5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/44b9a1b3-2d7b-46cf-a77e-92c6652e30aa-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "445067227218063360",
+        "username": "ThatJesterOlive",
+        "displayName": "♥♣ThatJesterOlive♠️♦",
+        "version": 16,
+        "followCount": 1143,
+        "statusId": 1,
+        "accountMediaLikes": 568,
+        "postLikes": 732,
+        "about": "TransFem Gamble Jester / Streams Inconsistent, working on a schedule :3",
+        "location": "",
+        "streaming": {
+            "accountId": "445067227218063360",
+            "channel": {
+                "id": "751104694272663552",
+                "accountId": "445067227218063360",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.dlgw7qA9p019.m3u8",
+                "chatRoomId": "751104758797840384",
+                "status": 2,
+                "version": 77,
+                "createdAt": 1740571674000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "751104694272663553",
+                    "historyId": "934684270658613248",
+                    "channelId": "751104694272663552",
+                    "accountId": "445067227218063360",
+                    "title": "title",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 9653,
+                    "createdAt": 1740571674000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784934423000,
+                    "startedAt": 1784340455000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

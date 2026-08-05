@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9753f579-78ea-4ba6-8545-45522e9e8c4e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/db8fa2fa-5913-42fc-bdbe-222a2481b283-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "786616054502666241",
+        "username": "SaiiraMocaVT",
+        "displayName": null,
+        "version": 2,
+        "followCount": 343,
+        "statusId": 1,
+        "accountMediaLikes": 79,
+        "postLikes": 71,
+        "about": "Welcome to Saiira's Fishie Kingdom!!\nI'm Saiira, the lewd little princess of your dreams~ Free for you to destroy and play with!! Please come watch me and cum together with mee!!\nWe'll definitely have a lot of fun together~!\n \nStreams on Wednesday and Saturday at 11pm (GMT+8)\n🩷 Vtuber centered!!\n🩷 More NSFW Contents!!\n🩷 Monthly Audios!! \n🩷 Spicier Streams!!",
+        "location": "",
+        "streaming": {
+            "accountId": "786616054502666241",
+            "channel": {
+                "id": "884233868482203648",
+                "accountId": "786616054502666241",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.tynKX0wjrFA8.m3u8",
+                "chatRoomId": "884235107144069120",
+                "status": 2,
+                "version": 19,
+                "createdAt": 1772312142000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "884233868482203649",
+                    "historyId": "909874147650191360",
+                    "channelId": "884233868482203648",
+                    "accountId": "786616054502666241",
+                    "title": "Saiiwa try not to cum challenge? Who can make Saiiwa break~🩷!tipmenu !throne",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 14,
+                    "createdAt": 1772312142000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778434907000,
+                    "startedAt": 1778425261000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3d778ec-8b13-4a13-a1ad-d49c31033f28-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c90df790-eeaa-49c8-9343-a6b749c2ddba-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "563621739834126337",
+        "username": "Guiltythorns",
+        "displayName": "Guiltythorn",
+        "version": 8,
+        "followCount": 2159,
+        "statusId": 3,
+        "accountMediaLikes": 675,
+        "postLikes": 601,
+        "about": "Drowcubus ᴅᴏᴍ ᴍᴏᴍ .ᐟSwitch\nFemdom and Findom connoisseur\n\nsemi-IRL, 2D, 3D, Audio, and Lewd Stream Content\n🖤custom content/audio can be requested in dms \nᵂᴼᴿˢᴴᴵᴾ ᴹᴱ ❥ https://throne.com/guiltythorn ♡\n⌞Streams: Wednesday and Friday 10am PST⌝\n\nCheck out my socials\n──── 💋 ────\n» Twitch: https://www.twitch.tv/guiltythorns\n» Twitter: https://x.com/FreakyThorn\n» Everything: guiltylinks.uwu.ai\n\n𝙈𝙤𝙢𝙢𝙮'𝙨 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙚:\n\nReposting my content is strictly prohibited & illegal \nAny reposting of any sort will result in action from my legal team.\nNo refunds ",
+        "location": "Las Vegas",
+        "streaming": {
+            "accountId": "563621739834126337",
+            "channel": {
+                "id": "793390107376758785",
+                "accountId": "563621739834126337",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vkiW5u3oCTzy.m3u8",
+                "chatRoomId": "793390178424070144",
+                "status": 2,
+                "version": 52,
+                "createdAt": 1750653302000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "793390107376758786",
+                    "historyId": "933923646571823104",
+                    "channelId": "793390107376758785",
+                    "accountId": "563621739834126337",
+                    "title": "Are you Hooked or Hung? Let me test it for you 🩵 !lovense !tm",
+                    "status": 1,
+                    "viewerCount": 17,
+                    "version": 326,
+                    "createdAt": 1750653302000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784170284000,
+                    "startedAt": 1784159108000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "793390774422085632",
+                                "streamId": "793390107376758786",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

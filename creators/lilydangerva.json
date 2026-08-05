@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e97fc12a-d11e-4271-baaf-6ac07281e44b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a444eca4-e10b-4ef7-baa9-422ff960cf7f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "537441422161227776",
+        "username": "LilyDanger",
+        "displayName": "Lily Danger ",
+        "version": 6,
+        "followCount": 4753,
+        "statusId": 1,
+        "accountMediaLikes": 4755,
+        "postLikes": 5949,
+        "about": "Your sinful little big booty Vampire babe 💫\n\nPosting smutty audio roleplays, lewds, nudes, and livestreaming! \n\nOfficial Lily Danger merch!: https://lilydanger.bigcartel.com/\n🎁: https://throne.com/lilydanger\n🎧: https://www.patreon.com/lilydanger\n🎮: https://www.twitch.tv/lilydangerva\n🔗:https://lilydanger.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "537441422161227776",
+            "channel": {
+                "id": "799754812982833152",
+                "accountId": "537441422161227776",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.nobBbtNMS6ps.m3u8",
+                "chatRoomId": "799756733332332544",
+                "status": 2,
+                "version": 23,
+                "createdAt": 1752170766000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "799754812982833153",
+                    "historyId": "939718442083172353",
+                    "channelId": "799754812982833152",
+                    "accountId": "537441422161227776",
+                    "title": "Librarian Lilia Debut! Gooning with my new Lovense Spinel + discounted toy control for subs | !socials [vtuber] [lovense]",
+                    "status": 1,
+                    "viewerCount": 21,
+                    "version": 166,
+                    "createdAt": 1752170766000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785547944000,
+                    "startedAt": 1785540695000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "799754961733824512",
+                                "streamId": "799754812982833153",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

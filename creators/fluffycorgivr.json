@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d17c489e-b152-423d-88a1-539c7beaa13b-profile_image-70x70.png",
         "bannerImageUrl": null
+    },
+    "fansly": {
+        "id": "505226305994760192",
+        "username": "FluffyCorgi",
+        "displayName": "FluffyCorgiVR",
+        "version": 14,
+        "followCount": 20368,
+        "statusId": 2,
+        "accountMediaLikes": 70729,
+        "postLikes": 53932,
+        "about": "I'm FluffyCorgi!\nSilly gal among many other things <3\nWelcome to my playspace <3\nVR x Lewdtuber ♥\nlinktr.ee/fluffycorgivr",
+        "location": "In a doggy bed <3",
+        "streaming": {
+            "accountId": "505226305994760192",
+            "channel": {
+                "id": "561675553711595520",
+                "accountId": "505226305994760192",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.woJkiuryBoYv.m3u8",
+                "chatRoomId": "561760763778183168",
+                "status": 2,
+                "version": 168,
+                "createdAt": 1695408247000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "561675553711595521",
+                    "historyId": "940841677231251456",
+                    "channelId": "561675553711595520",
+                    "accountId": "505226305994760192",
+                    "title": "Gaming and Gooning ♥",
+                    "status": 1,
+                    "viewerCount": 224,
+                    "version": 860,
+                    "createdAt": 1695408247000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785821970000,
+                    "startedAt": 1785808495000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

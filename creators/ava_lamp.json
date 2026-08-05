@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d6ed831-ec99-4c86-8bec-0e4fcd6053dd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b30e6c61-15b1-4adc-9406-7241cd4935c9-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "492111983089295360",
+        "username": "AvaLamp",
+        "displayName": "Ava Lamp",
+        "version": 8,
+        "followCount": 7292,
+        "statusId": 3,
+        "accountMediaLikes": 7881,
+        "postLikes": 15874,
+        "about": "I am a chaotically cozy gloopy gal that wants to make a gloopy mess out of you! \n\nMerch and Gifts\n❤️ Buy me presents on Throne: https://throne.com/avalamp\n❤️ Merch:  https://uwumarket.us/collections/ava-lamp \n\nSocials\n❤️ Twitter: https://twitter.com/ava_lamp\n❤️ Twitch: https://www.twitch.tv/ava_lamp\n❤️ Discord Server: https://discord.com/invite/UBM9qXTyuR\n❤️ YouTube: https://www.youtube.com/c/AvaLamp\n❤️ ASMR: https://www.youtube.com/@AvaLampASMR",
+        "location": "",
+        "streaming": {
+            "accountId": "492111983089295360",
+            "channel": {
+                "id": "664658476840005634",
+                "accountId": "492111983089295360",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.mWW5kzAL05CC.m3u8",
+                "chatRoomId": "664658545274265600",
+                "status": 2,
+                "version": 59,
+                "createdAt": 1719961289000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "664658476840005635",
+                    "historyId": "940809273053552640",
+                    "channelId": "664658476840005634",
+                    "accountId": "492111983089295360",
+                    "title": "Getting Wet With Mistress M ",
+                    "status": 1,
+                    "viewerCount": 28,
+                    "version": 7643,
+                    "createdAt": 1719961290000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785809739000,
+                    "startedAt": 1785800770000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

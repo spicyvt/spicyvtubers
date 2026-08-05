@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/627069b4-4c02-467f-941c-faf40239ed8b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77192031-f971-4f9d-a126-df582d48af73-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "524558174921961473",
+        "username": "Ophie_Zita",
+        "displayName": "Ophie Zita",
+        "version": 14,
+        "followCount": 109,
+        "statusId": 3,
+        "accountMediaLikes": 71,
+        "postLikes": 86,
+        "about": "A little sussy, a little silly and a whole lotta horny.\n\nI'm a Ghost Kitsune VTuber whose here to help you fulfill your dark desires. I post a mix of IRL and VTuber content here and have separate tiers for both, but all followers have access to the majority of content plus all streams!\n\nHorny Valo? Lewd games and maybe some Hentai with Senpai action is sure to leave us all feeling satiated after our time together.\n\nHave any ideas? Let me know via fansly dms and I can take things into account.\n\nI'm currently using a succubus model for any Live2D streams as I'm working on my 2.0 debut that will have a NSFW version so bear with me on that! ",
+        "location": "",
+        "streaming": {
+            "accountId": "524558174921961473",
+            "channel": {
+                "id": "617276043920683008",
+                "accountId": "524558174921961473",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Mx5BwkJSua6T.m3u8",
+                "chatRoomId": "620546993890009088",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1708664437000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "617276043920683009",
+                    "historyId": "775204175104450562",
+                    "channelId": "617276043920683008",
+                    "accountId": "524558174921961473",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 2330,
+                    "createdAt": 1708664437000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1746323965000,
+                    "startedAt": 1746317437000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "620544109173551105",
+                                "streamId": "617276043920683009",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

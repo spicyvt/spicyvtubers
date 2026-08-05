@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50fc157f-db22-47de-b23f-95332aa0ad83-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e31fe09-a682-4652-aeee-31d6e8515e83-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "403808168129339392",
+        "username": "ManamiVT",
+        "displayName": "ManamiVT",
+        "version": 17,
+        "followCount": 3542,
+        "statusId": 1,
+        "accountMediaLikes": 1832,
+        "postLikes": 1932,
+        "about": "🌟 Lewdsome VTuber\n🌟 Demi Subby (& Bratty) Bottom\n🌟 💍 @NSFWYuno\n\n💓𝗟𝗢𝗩𝗘𝗡𝗦𝗘 𝗔𝗙𝗙𝗜𝗟𝗜𝗔𝗧𝗘 | https://www.lovense.com/r/zw4zr0\n💬𝗗𝗜𝗦𝗖𝗢𝗥𝗗 | https://discord.com/invite/hnMVAfKrhT\n🎁𝗪𝗜𝗦𝗛𝗟𝗜𝗦𝗧 | https://throne.com/manamivt\n🌐𝗦𝗢𝗖𝗜𝗔𝗟𝗦 | https://manamivt.carrd.co",
+        "location": "Space",
+        "streaming": {
+            "accountId": "403808168129339392",
+            "channel": {
+                "id": "605325671660527616",
+                "accountId": "403808168129339392",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.tGgCER517d72.m3u8",
+                "chatRoomId": "605326914076286976",
+                "status": 2,
+                "version": 30,
+                "createdAt": 1705815246000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "605325671660527617",
+                    "historyId": "939756388836466688",
+                    "channelId": "605325671660527616",
+                    "accountId": "403808168129339392",
+                    "title": "SURPRISE STREAM - SLUTTIN IT UP",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 1447,
+                    "createdAt": 1705815246000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785559121000,
+                    "startedAt": 1785549742000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "605326900306391040",
+                                "streamId": "605325671660527617",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

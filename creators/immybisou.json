@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aee3b42b-431f-4927-ae54-066318d40841-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c078c727-05db-4292-b0aa-945b6f134f41-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "597948898119524352",
+        "username": "ImmyBisou",
+        "displayName": null,
+        "version": 8,
+        "followCount": 16787,
+        "statusId": 1,
+        "accountMediaLikes": 11163,
+        "postLikes": 16224,
+        "about": "ITS HAPPENING BROS",
+        "location": "under your bed",
+        "streaming": {
+            "accountId": "597948898119524352",
+            "channel": {
+                "id": "683558804964515840",
+                "accountId": "597948898119524352",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AqwhVSslS1OR.m3u8",
+                "chatRoomId": "683558858358005761",
+                "status": 2,
+                "version": 28,
+                "createdAt": 1724467479000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "683558804964515841",
+                    "historyId": "940423973500366849",
+                    "channelId": "683558804964515840",
+                    "accountId": "597948898119524352",
+                    "title": "(Members Only) Cum With Me!  (⸝⸝๑﹏๑⸝⸝)",
+                    "status": 1,
+                    "viewerCount": 107,
+                    "version": 2044,
+                    "createdAt": 1724467479000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785714059000,
+                    "startedAt": 1785708907000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940414933063987200",
+                                "streamId": "683558804964515841",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

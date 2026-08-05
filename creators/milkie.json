@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d529d6a-a762-4bee-b188-622fa8148db7-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62722038-9169-43b8-8a90-dc74d000d79c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "535809621298782208",
+        "username": "MilkieVT",
+        "displayName": "Milkie",
+        "version": 18,
+        "followCount": 8375,
+        "statusId": 1,
+        "accountMediaLikes": 1916,
+        "postLikes": 2902,
+        "about": "Your soft dom gf / your new mommy 💙\n⌞Streams sometimes!⌝\n\nSpicy ASMR on Kick! https://kick.com/milkie\nSpoil me: https://throne.com/milkievt \n\nLINKS BELOW ⬇\n\n✦ Discord: https://discord.com/invite/milkie\n✦ Twitch: https://www.twitch.tv/Milkie\n✦ Twitter: https://x.com/MilkieVT\n✦ Everything: https://milkievt.carrd.co/\n\n\nReposting my content is strictly prohibited & illegal \nAny reposting of any sort will result in action from my legal team\n",
+        "location": "United States",
+        "streaming": {
+            "accountId": "535809621298782208",
+            "channel": {
+                "id": "536280512952545280",
+                "accountId": "535809621298782208",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.XRPhbPL294hm.m3u8",
+                "chatRoomId": "536413072655396864",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1689353597000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "536280512952545281",
+                    "historyId": "888999670443950080",
+                    "channelId": "536280512952545280",
+                    "accountId": "535809621298782208",
+                    "title": "MOMMY ASMR - WHIMPERS, WHINES, MOANS AND MORE",
+                    "status": 1,
+                    "viewerCount": 434,
+                    "version": 3184,
+                    "createdAt": 1689353598000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1773451633000,
+                    "startedAt": 1773448398000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "739312468446158848",
+                                "streamId": "536280512952545281",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

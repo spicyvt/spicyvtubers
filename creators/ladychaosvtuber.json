@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c816605e-bfa9-4587-be33-159ff621aad5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/479fd6e0-85b4-4cec-8cdf-b5fe180847de-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "818017722112692224",
+        "username": "LadyChaosVtuber",
+        "displayName": null,
+        "version": 3,
+        "followCount": 633,
+        "statusId": 1,
+        "accountMediaLikes": 42,
+        "postLikes": 67,
+        "about": "My name is Chaos I am a shapeshifting chaos deity  who is looking to play some games and have some little spice when doing it.",
+        "location": "",
+        "streaming": {
+            "accountId": "818017722112692224",
+            "channel": {
+                "id": "820491598834982912",
+                "accountId": "818017722112692224",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yHS2lz3FzoGy.m3u8",
+                "chatRoomId": "821529400636891136",
+                "status": 2,
+                "version": 92,
+                "createdAt": 1757114801000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "820491598834982913",
+                    "historyId": "938054736509149184",
+                    "channelId": "820491598834982912",
+                    "accountId": "818017722112692224",
+                    "title": "Just a horny Dragon girl playing outlast",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 120,
+                    "createdAt": 1757114801000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785149367000,
+                    "startedAt": 1785144037000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "844349965995110400",
+                                "streamId": "820491598834982913",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "844349965995110401",
+                                "streamId": "820491598834982913",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

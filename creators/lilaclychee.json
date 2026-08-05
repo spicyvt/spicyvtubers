@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8ba1434-c07b-45e1-b10b-b589aaabadd9-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2398e160-7d24-40b5-bab5-d3313ef904cb-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "480893701925646336",
+        "username": "LilacLychee",
+        "displayName": "Lilac_Lychee",
+        "version": 11,
+        "followCount": 162,
+        "statusId": 1,
+        "accountMediaLikes": 92,
+        "postLikes": 73,
+        "about": "18+ NSFW. \n✨Glitter for brains✨ I've been a internet whore for 10 years, here i post a wide range of nude and lewd content. I try to post daily if I can, my content ranges, I have solo stuff, boy girl stuff, BDSM, anal, cosplay and a lotta BJ stuff plus more.",
+        "location": "Durham England",
+        "streaming": {
+            "accountId": "480893701925646336",
+            "channel": {
+                "id": "523474458384543745",
+                "accountId": "480893701925646336",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JGnRTevPc0nM.m3u8",
+                "chatRoomId": "523474644808769536",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1686300396000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "523474458384543746",
+                    "historyId": null,
+                    "channelId": "523474458384543745",
+                    "accountId": "480893701925646336",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1686300396000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

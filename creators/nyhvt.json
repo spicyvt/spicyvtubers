@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/35d75e05-fa6f-4278-80c8-a446972f739f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d160adbd-c4fc-4c0f-877c-6a7885abc8be-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "396797649916796928",
+        "username": "nyhVT",
+        "displayName": "nyh",
+        "version": 7,
+        "followCount": 5240,
+        "statusId": 3,
+        "accountMediaLikes": 4166,
+        "postLikes": 9181,
+        "about": "nyhVT Twitch's VOD page!\n\n⚠️ Timezone notice: VOD dates follow Brazilian time (BRT). Streams often occur after midnight, so some uploads may show a date one day later than the actual stream.\n\n⛓ ♡ twitch: www.twitch.tv/nyhVT ♡ ⛓\n⛓ ♡ youtube: www.youtube.com/@nyhVT ♡ ⛓\n⛓ ♡ throne: www.throne.com/nyhzumi ♡ ⛓\n⛓ ♡ 🔞throne: www.throne.com/nyh34 ♡ ⛓",
+        "location": "",
+        "streaming": {
+            "accountId": "396797649916796928",
+            "channel": {
+                "id": "675284816513474560",
+                "accountId": "396797649916796928",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ua6nCV4PB1Y8.m3u8",
+                "chatRoomId": "675284976240963585",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1722494806000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "675284816513474561",
+                    "historyId": "919858417684717569",
+                    "channelId": "675284816513474560",
+                    "accountId": "396797649916796928",
+                    "title": "♡ your pup is hornyh ;; ♡",
+                    "status": 1,
+                    "viewerCount": 267,
+                    "version": 1086,
+                    "createdAt": 1722494807000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780812887000,
+                    "startedAt": 1780805696000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "899949681126158336",
+                                "streamId": "675284816513474561",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

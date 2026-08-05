@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc558f05-d904-4458-a2f2-a6105d84b8cd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cab776fd-fa46-4fca-b60f-2ced90f723cf-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "291714409544298496",
+        "username": "AnnaKavanna",
+        "displayName": null,
+        "version": 4,
+        "followCount": 261,
+        "statusId": 1,
+        "accountMediaLikes": 135,
+        "postLikes": 57,
+        "about": "Hello.mp3\n\nI am a curious robo looking for connections with people! Many, many connections~\n\nGames, art, roleplay, toys, and so many other sensual delights are ready and waiting for use and I plan to take full advantage. \n\nThe main theme for this channel will be NSFW content and games! A perfect combination in my opinion.\n\nCome with me and see what the future has in store~! <3",
+        "location": "The Internet",
+        "streaming": {
+            "accountId": "291714409544298496",
+            "channel": {
+                "id": "596961131101167616",
+                "accountId": "291714409544298496",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.dKGewRx6Yv1i.m3u8",
+                "chatRoomId": "596961249695113216",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1703820984000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "596961131101167617",
+                    "historyId": "838154870459482112",
+                    "channelId": "596961131101167616",
+                    "accountId": "291714409544298496",
+                    "title": "This isn't so hard!",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 1774,
+                    "createdAt": 1703820985000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1761344644000,
+                    "startedAt": 1761326053000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "614369090210902016",
+                                "streamId": "596961131101167617",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:06Z"
     }
 }

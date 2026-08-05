@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7f57321-cc03-4fbf-b9f6-215bd3db4948-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3046c0be-aada-4f66-b04a-ff894ffa5895-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "495539529302683648",
+        "username": "Cynthila",
+        "displayName": "Cynthila (死ンチラ)",
+        "version": 13,
+        "followCount": 3454,
+        "statusId": 1,
+        "accountMediaLikes": 9268,
+        "postLikes": 10444,
+        "about": "Hi I'm Cynthila and I'm a Femboy Vtuber! I will be posting in real life pictures of myself\n\n🏮 Want to gift me or see me wear something? Check out my Wishlist! 🏮\n🏮 https://throne.com/cynthila\n\nActive content! 💖\n✧ Feet\n✧ Cosplay\n✧ Thighs\n✧ Tummy\n✧ Customs\n\n🏮 Follow me on my socials! 🏮 \n🏮 https://www.twitch.tv/cynthilaashera\n🏮 https://linktr.ee/cynthila\n\nI do not consent to the reposting of my content ANYWHERE, and I will take legal action against anyone who violates this right",
+        "location": "My Shrine",
+        "streaming": {
+            "accountId": "495539529302683648",
+            "channel": {
+                "id": "522052275191947264",
+                "accountId": "495539529302683648",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xDSMhTb1M1FB.m3u8",
+                "chatRoomId": "522053078640242688",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1685961321000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "522052275191947265",
+                    "historyId": "896046906893934594",
+                    "channelId": "522052275191947264",
+                    "accountId": "495539529302683648",
+                    "title": "Overwatch and Feet",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 4782,
+                    "createdAt": 1685961322000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1775144709000,
+                    "startedAt": 1775128590000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "780252683826114560",
+                                "streamId": "522052275191947265",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "780252683826114561",
+                                "streamId": "522052275191947265",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

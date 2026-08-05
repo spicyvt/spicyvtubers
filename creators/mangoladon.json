@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63a4b0f9-230f-48e8-8861-534685f7f337-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c902155-8a9b-429b-92c8-cf8b94b72f5a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "505728504965378048",
+        "username": "Mangoladon",
+        "displayName": "Mangoladon",
+        "version": 14,
+        "followCount": 19907,
+        "statusId": 3,
+        "accountMediaLikes": 9072,
+        "postLikes": 5712,
+        "about": "                                            ❣ 𝐴 𝑤ℎ𝑜𝑙𝑒 𝑠𝑒𝑥𝑦 𝑚𝑒𝑠𝑠 ❣\nღ A bitch with a whole lotta technical issues but always fucking delivers ღ\n\n🦈 Free Livestreams \n🦈 Free Picture Content \n🦈 Solo/GG/BG/Futa/Orgy\n🦈 High quality VR Videos, Nsfw Audios, and much much more \n🦈 Accepting Customs/Dick Ratings/Private Dates\n\n⚡ DON'T FORGET TO DM ME!!! (did I mention I love sexting >:3)⚡\n\n\nCOPYRIGHT Mangoladon >.> don't be silly you know better\n",
+        "location": "In your pc files",
+        "streaming": {
+            "accountId": "505728504965378048",
+            "channel": {
+                "id": "528822748848332800",
+                "accountId": "505728504965378048",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jfJQ0tkPddeJ.m3u8",
+                "chatRoomId": "528894712501772288",
+                "status": 2,
+                "version": 190,
+                "createdAt": 1687575528000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "528822748848332801",
+                    "historyId": "940877888066957313",
+                    "channelId": "528822748848332800",
+                    "accountId": "505728504965378048",
+                    "title": "~Cozy Cummin~🎉Integrations!!!🎉 !Throne !Subperks !Lovense !DGG !discord !VTMenu.  ",
+                    "status": 1,
+                    "viewerCount": 52,
+                    "version": 5667,
+                    "createdAt": 1687575528000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785828823000,
+                    "startedAt": 1785817129000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "779284024139984896",
+                                "streamId": "528822748848332801",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

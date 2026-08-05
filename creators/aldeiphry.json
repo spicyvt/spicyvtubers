@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ba04828-3409-404f-99cb-61b8020eca39-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe507ca1-e414-45bf-9d22-5b912e35da4b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "934162697644171264",
+        "username": "Aldeiphry",
+        "displayName": null,
+        "version": 3,
+        "followCount": 3,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "Aldeiphry, Dragoness Vtuber!",
+        "location": "",
+        "streaming": {
+            "accountId": "934162697644171264",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

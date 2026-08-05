@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d18494a-c8fb-4cab-adb7-d55cc30cc76b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b897b13a-1bae-4591-b0f8-5e112866ccaf-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "422291970614898688",
+        "username": "JasmineLilith",
+        "displayName": "JasmineLilith",
+        "version": 6,
+        "followCount": 7993,
+        "statusId": 3,
+        "accountMediaLikes": 6906,
+        "postLikes": 7031,
+        "about": "🍓Let me make your dreams come true 🍓\n      \nI make low effort VR Porn Videos! Meant to be for people who want quickies~\n I stream when I stream! I wont do schedules! I'm too dumb to keep track xD\n \n🍓Lovense Partner!🍓\nhttps://www.lovense.com/r/p3yii1 \n\n🍰All My Content        \n🍓 https://guns.lol/jasminelilith",
+        "location": "Napping Grove",
+        "streaming": {
+            "accountId": "422291970614898688",
+            "channel": {
+                "id": "637578841845411840",
+                "accountId": "422291970614898688",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.61uzHgTDPIPD.m3u8",
+                "chatRoomId": "638975690221301760",
+                "status": 2,
+                "version": 116,
+                "createdAt": 1713505001000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "637578841845411841",
+                    "historyId": "940756950797283328",
+                    "channelId": "637578841845411840",
+                    "accountId": "422291970614898688",
+                    "title": "Sleepy vibes !tipmenu Lovense Active ",
+                    "status": 1,
+                    "viewerCount": 17,
+                    "version": 1258,
+                    "createdAt": 1713505002000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785797093000,
+                    "startedAt": 1785788295000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937597346043142144",
+                                "streamId": "637578841845411841",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:28Z"
     }
 }

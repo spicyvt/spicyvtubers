@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca2c77f1-7116-4ee2-a4a4-0bef4bdc40e6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/42b30268-87d1-45da-b554-64b30be8bb45-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "717188720851169280",
+        "username": "MomoCitaVT",
+        "displayName": "Momo Cita",
+        "version": 2,
+        "followCount": 3973,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "Coming soon ♥ Stay tuned\n",
+        "location": "",
+        "streaming": {
+            "accountId": "717188720851169280",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

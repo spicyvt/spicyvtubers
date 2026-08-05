@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b3a432f-f993-49ba-bc4e-90be18398413-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c2da6ec-dfa4-4b6e-93d2-eadb9ab1989d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "737906094818467840",
+        "username": "NocturnalKitten",
+        "displayName": "NocturnalKitten",
+        "version": 10,
+        "followCount": 309,
+        "statusId": 1,
+        "accountMediaLikes": 474,
+        "postLikes": 347,
+        "about": "♡ I'm Nocturnal, your bratty gamer girl\n♡ NSFW Audios, LewdTuber content, and more\n\n♡ You can find all of my socials on my Linktree - https://linktr.ee/nocturnalnerves\n♡ You can be a good pet and spoil me here - https://throne.com/nocturnalnerves\n\n♡ If you know me IRL, either subscribe or fuck off\n♡ No IRL nudity. No sexting. No calls.\n\n♡ ALL CONTENT BELONGS TO ME. YOU DO NOT HAVE PERMISSION TO USE, REUPLOAD, OR CLAIM ANY OF IT AS YOUR OWN!",
+        "location": "ur moms bed",
+        "streaming": {
+            "accountId": "737906094818467840",
+            "channel": {
+                "id": "913676771478487040",
+                "accountId": "737906094818467840",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vxAL7ecpbGjh.m3u8",
+                "chatRoomId": "913678010492657664",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1779331877000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "913676771478487041",
+                    "historyId": "913678706248011776",
+                    "channelId": "913676771478487040",
+                    "accountId": "737906094818467840",
+                    "title": "test",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2,
+                    "createdAt": 1779331877000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1779332358000,
+                    "startedAt": 1779332338000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "913678633258729472",
+                                "streamId": "913676771478487041",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"913642574806274048\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

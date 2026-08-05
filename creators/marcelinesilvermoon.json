@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/57649e8f-97fe-4ec0-8907-84e470900afe-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/584885d7-5900-4a21-99b8-ba07488af474-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "509360101333676032",
+        "username": "MarcelineSilvermoon",
+        "displayName": "Marceline Silvermoon",
+        "version": 5,
+        "followCount": 971,
+        "statusId": 1,
+        "accountMediaLikes": 981,
+        "postLikes": 819,
+        "about": "Welcome to my Vampiric Conven! I am Marceline Silvermoon, your Gothic Victorian Vampire Femboy Vtuber ^,...,^\n\nWelcome to my Fansly account! I will be doing 18+ streams with my Vtuber, IRL and VR! What I post is for MY Fansly account ONLY. You may NOT reproduce, copy, or redistribute any of my content without my consent.\n \nInfo\n- Subby Bratty Femboy\n- Bisexual - I don't care what you're packing as long as I get to taste~\n- Derpy Brain\n- Streams every Monday and Tuesday at 11PM CST\n\nI do respond to DMs, but please be patient with me. Subs/tips get DM priority\n\nSocials https://linktr.ee/MarcelineSilvermoon",
+        "location": "United States",
+        "streaming": {
+            "accountId": "509360101333676032",
+            "channel": {
+                "id": "690336592262344704",
+                "accountId": "509360101333676032",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wcbEXALfPIk9.m3u8",
+                "chatRoomId": "690340122268278785",
+                "status": 2,
+                "version": 42,
+                "createdAt": 1726083429000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "690336592262344705",
+                    "historyId": "935801139792728064",
+                    "channelId": "690336592262344704",
+                    "accountId": "509360101333676032",
+                    "title": "Care to buzz me while I work? | Vampire Femboy Vtuber !tipmenu !discord",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 9068,
+                    "createdAt": 1726083429000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784614614000,
+                    "startedAt": 1784606738000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

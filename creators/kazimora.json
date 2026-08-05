@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19265e67-c385-450e-9e58-aaf02dd4c891-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b404e5d-0e99-42b0-a194-48630cd7662d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "558411914376388608",
+        "username": "Kazimora",
+        "displayName": "Kazimora ",
+        "version": 5,
+        "followCount": 42,
+        "statusId": 1,
+        "accountMediaLikes": 9,
+        "postLikes": 30,
+        "about": " Oh-hey-o! Kazi here! I am a Kitsune-Yokai Shinigami Vtuber with NO IDEA what im doing LOL. How do you even use this site? OWO UH UH UH-…MOMMY MILKERS GO BRRRR... (help me ;w;) \n\nHorny on main foxy floofer~ \nWill Bork for you.\nObsessive :3\nHeadpat Slut",
+        "location": "",
+        "streaming": {
+            "accountId": "558411914376388608",
+            "channel": {
+                "id": "899590205084815361",
+                "accountId": "558411914376388608",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BL3JT7wXqzvr.m3u8",
+                "chatRoomId": "899590267768696832",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1775973378000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "899590205084815362",
+                    "historyId": "899874578233319424",
+                    "channelId": "899590205084815361",
+                    "accountId": "558411914376388608",
+                    "title": "FIRST EVER STREAM! BORK BORK! SPICY FISHING OWO",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 2,
+                    "createdAt": 1775973378000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776052704000,
+                    "startedAt": 1776041178000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "899703720969793536",
+                                "streamId": "899590205084815362",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b9ab679-b79e-4c8f-9d19-6cb7840df60a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0e580d0-c858-4f2f-9e31-be3c49a06403-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "837308474395205632",
+        "username": "WhispPaw",
+        "displayName": "🎀  𝒲𝒽𝒾𝓈𝓅𝒫𝒶𝓌",
+        "version": 14,
+        "followCount": 3211,
+        "statusId": 1,
+        "accountMediaLikes": 2593,
+        "postLikes": 2733,
+        "about": "Bri’ish 4’11” Lamia | ENVTuber | Twitch Partner | Streams every weekday!\nSoft, short, and built different 🐍🍑\nI don’t mind being thrown around…\nas long as you can handle the attitude that comes with it 😌\n🤘🏻 Metalhead\n🎮 WoW addict\nSoft ASMR • Lewd audio • Teasing • Brat/mommy energy • Lots of tail\n────────────────────\n💌 DMs = business only\n💸 Tips = chatting + priority\n🎀 Spoil me and I’ll remember you\n────────────────────\n🎀 Spoil me → throne.com/lamiawhisp\n🥀 Twitch Partner → twitch.tv/lamiawhisp\n☁️ All my links → linktr.ee/whisppaw\n(っ◔◡◔)っ ♥\n⚠️ Do not redistribute my content.\nEverything here belongs to WhispPaw.\nSharing = legal action.",
+        "location": "not australia",
+        "streaming": {
+            "accountId": "837308474395205632",
+            "channel": {
+                "id": "844182529182277632",
+                "accountId": "837308474395205632",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TkjEolYoO2dL.m3u8",
+                "chatRoomId": "844182831218307072",
+                "status": 2,
+                "version": 196,
+                "createdAt": 1762763159000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "844182529182277633",
+                    "historyId": "940568451162849288",
+                    "channelId": "844182529182277632",
+                    "accountId": "837308474395205632",
+                    "title": "House Flipping & Bean Flicking 💜 tips set off my toy~ ",
+                    "status": 1,
+                    "viewerCount": 21,
+                    "version": 248,
+                    "createdAt": 1762763159000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785749706000,
+                    "startedAt": 1785743353000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940561720533860352",
+                                "streamId": "844182529182277633",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:51Z"
     }
 }

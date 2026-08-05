@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a5780e7-7335-4196-99f6-82ebc5009bfb-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f713f9da-de0f-409d-a031-35fdc2c152d4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "920425753986752512",
+        "username": "CoffeeFox_VT",
+        "displayName": "Coffee",
+        "version": 4,
+        "followCount": 73,
+        "statusId": 1,
+        "accountMediaLikes": 198,
+        "postLikes": 262,
+        "about": "she/they (w)holesome caffeine-addicted red fox lewdtuber☕️🦊🌿Shy sub-leaning switch, 25, bi\n",
+        "location": "United States",
+        "streaming": {
+            "accountId": "920425753986752512",
+            "channel": {
+                "id": "923478342903017473",
+                "accountId": "920425753986752512",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wem1Bo5msaq9.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1781668754000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "923478342903017474",
+                    "historyId": null,
+                    "channelId": "923478342903017473",
+                    "accountId": "920425753986752512",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1781668754000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

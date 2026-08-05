@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/132f4ed9-277b-489b-81b3-cffa0375d67c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22fb2a7e-a80c-48a2-901d-8e8efbe48413-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "450475452193054721",
+        "username": "AdonisThuul",
+        "displayName": "Adonis Thuul",
+        "version": 5,
+        "followCount": 424,
+        "statusId": 1,
+        "accountMediaLikes": 633,
+        "postLikes": 922,
+        "about": "Tentacle Daddy. Eldritch Space Pirate Vtuber & Lewdtuber! IRL Content, Audios, Vtuber Art & Weekly Streams. 8\" 😉\n🐙: https://throne.me/adonis\n🐙: https://twitch.tv/adonisthuul\n\nAll content is under copyright. Enforced by bruqi.com.",
+        "location": "Under your bed",
+        "streaming": {
+            "accountId": "450475452193054721",
+            "channel": {
+                "id": "710651487037956096",
+                "accountId": "450475452193054721",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.R2ZiwmJW0UcH.m3u8",
+                "chatRoomId": "710653230299750400",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1730926877000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "710651487037956097",
+                    "historyId": "737905969593327616",
+                    "channelId": "710651487037956096",
+                    "accountId": "450475452193054721",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 8888,
+                    "createdAt": 1730926878000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1737428435000,
+                    "startedAt": 1737424852000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

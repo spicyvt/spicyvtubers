@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5064ce2-5e33-47fe-894b-34655cdb2e94-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d87df7ce-19e8-46f3-b161-f4b93492b3f9-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "537237660255657984",
+        "username": "HexPuppyMolly",
+        "displayName": "Hex Puppy",
+        "version": 10,
+        "followCount": 79,
+        "statusId": 1,
+        "accountMediaLikes": 122,
+        "postLikes": 276,
+        "about": "Hello hi my name is Puppy! I'm your resident yandere puppy girlfriend!\n\nBuy me new toys to play with: https://throne.com/ruffhypnopup",
+        "location": "",
+        "streaming": {
+            "accountId": "537237660255657984",
+            "channel": {
+                "id": "632201462369234944",
+                "accountId": "537237660255657984",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.pAWMbgaDjII6.m3u8",
+                "chatRoomId": "632202099400126466",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1712222934000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "632201462369234945",
+                    "historyId": "934259663262720000",
+                    "channelId": "632201462369234944",
+                    "accountId": "537237660255657984",
+                    "title": "test stream, come play your puppy !!!",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 8,
+                    "createdAt": 1712222935000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784239227000,
+                    "startedAt": 1784239221000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "925524846681542657",
+                                "streamId": "632201462369234945",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

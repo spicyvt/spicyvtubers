@@ -11,5 +11,60 @@
         "bannerImageUrl": "https://yt3.googleusercontent.com/ca71Pa3UFPR9ZiETkk7d2MB9T7tXq31K1W8nafIT4ikauHbHlDaz2qK5txsS1lB2sMM41hLfrQ=s480",
         "subscriberCountText": "15.4K subscribers",
         "videoCountText": "119 videos"
+    },
+    "fansly": {
+        "id": "544473857784819712",
+        "username": "remukira",
+        "displayName": "Remukia",
+        "version": 18,
+        "followCount": 43806,
+        "statusId": 1,
+        "accountMediaLikes": 34809,
+        "postLikes": 16536,
+        "about": "Remukira レム Cosplay | Vtuber\n🐶 momochan ~ “remu” is here\nThis place will be filled with love♥️\nYou will see what makes your heart beat\n\n✨Pls follow me\nwe will become more intimate💋\n\n♥ Updates almost daily\n♥ Exclusive photos&videos\n♥ Cosplay content\n♥️ Masturbate content\n♥ Private messages\n\n💗 Thank for your support 💦",
+        "location": "Thailand",
+        "streaming": {
+            "accountId": "544473857784819712",
+            "channel": {
+                "id": "724963302660120576",
+                "accountId": "544473857784819712",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.l2q1bvlqcEoE.m3u8",
+                "chatRoomId": "724963386093219840",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1734339080000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "724963302660120577",
+                    "historyId": "941386650729066496",
+                    "channelId": "724963302660120576",
+                    "accountId": "544473857784819712",
+                    "title": "REMUKIRA Lewd live",
+                    "status": 1,
+                    "viewerCount": 91,
+                    "version": 7473,
+                    "createdAt": 1734339080000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785943778000,
+                    "startedAt": 1785938427000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "941382174857248768",
+                                "streamId": "724963302660120577",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

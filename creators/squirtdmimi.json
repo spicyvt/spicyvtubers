@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e41c956c-2741-4501-8a18-9515f95a4ae9-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5c4050d-f564-4c41-8dee-442b8d5f0f8e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "805376456967331840",
+        "username": "SQUIRTDMIMI",
+        "displayName": null,
+        "version": 8,
+        "followCount": 1039,
+        "statusId": 1,
+        "accountMediaLikes": 35,
+        "postLikes": 0,
+        "about": "slimey immortal snail who loves squirtin', writin', asmrin', hard workin' AND THAT D~! 🐌💦💦💦",
+        "location": "https://linktr.ee/squirtdmimi",
+        "streaming": {
+            "accountId": "805376456967331840",
+            "channel": {
+                "id": "871083411651973121",
+                "accountId": "805376456967331840",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BZstPz4D6YHN.m3u8",
+                "chatRoomId": "871084625731002372",
+                "status": 2,
+                "version": 25,
+                "createdAt": 1769176829000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "871083411651973122",
+                    "historyId": "916256292027265024",
+                    "channelId": "871083411651973121",
+                    "accountId": "805376456967331840",
+                    "title": "Snetflix and Shell~🍿💋 (and my neighours FINALLY stopped moaning lesgooo ;w;)",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 260,
+                    "createdAt": 1769176829000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1779965011000,
+                    "startedAt": 1779946883000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "915157693340078080",
+                                "streamId": "871083411651973122",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"862083665671237632\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

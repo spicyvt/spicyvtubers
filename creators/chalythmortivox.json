@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c657c41-f45c-43d4-bb1f-0d551ea0bdc5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/49f1c6ea-23f2-44e4-b531-24d213c47d43-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "290653642090881024",
+        "username": "Chalyth",
+        "displayName": "Chalyth",
+        "version": 10,
+        "followCount": 606,
+        "statusId": 1,
+        "accountMediaLikes": 253,
+        "postLikes": 274,
+        "about": "Eldritch Jester VTuber~ Here to be sus, very horny and hopefully bring you pleasure as well\n\nAll Links and credits here: https://chalyth.carrd.co\nVRChat model made by: Cupcake, https://cupkakes-haven.myshopify.com/",
+        "location": "",
+        "streaming": {
+            "accountId": "290653642090881024",
+            "channel": {
+                "id": "687567721365254146",
+                "accountId": "290653642090881024",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.kQg4za0dmMq6.m3u8",
+                "chatRoomId": "687568023858454529",
+                "status": 2,
+                "version": 16,
+                "createdAt": 1725423279000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "687567721365254147",
+                    "historyId": "938216995034255360",
+                    "channelId": "687567721365254146",
+                    "accountId": "290653642090881024",
+                    "title": "Chill vibes [New Sub tier]",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 1062,
+                    "createdAt": 1725423279000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785188908000,
+                    "startedAt": 1785182722000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "772830096812683264",
+                                "streamId": "687567721365254147",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

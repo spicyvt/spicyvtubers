@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de650cb3-7be0-4642-840a-010a30fd5645-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8850fba1-1f18-4281-928f-73586494b0bc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "746086479075225600",
+        "username": "PhylaEinrose",
+        "displayName": "Phyla Einrose",
+        "version": 10,
+        "followCount": 8294,
+        "statusId": 1,
+        "accountMediaLikes": 7771,
+        "postLikes": 9957,
+        "about": "👅 🧎\nYou know what this means... Don't you?\n\nContent: \n⟡ Streams Every Saturday at 9PM EDT | 2AM BST \n⟡ Lewd JC and RP ASMR\n⟡ Eroge\n⟡ IRL Photos and Videos\n\n˖⁺‧₊˚ ♡ ˚₊‧⁺˖\n\n⟡ Support Me ⟡\n\nNSFW Roleplay Audios: https://patreon.com/PhylaEinrose\nWishlist: https://throne.com/phylaeinrose\n\n⟡ Social Media ⟡\n\nhttps://x.com/PhylaEinrose\nhttps://x.com/PhylaNSFW\nhttps://www.youtube.com/@Phylaasmr\nhttps://marshmallow-qa.com/phylaeinrose",
+        "location": "Confession Booth",
+        "streaming": {
+            "accountId": "746086479075225600",
+            "channel": {
+                "id": "802783785690091520",
+                "accountId": "746086479075225600",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Lf03fQlw1AYg.m3u8",
+                "chatRoomId": "802784049448894464",
+                "status": 2,
+                "version": 172,
+                "createdAt": 1752892929000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "802783785690091521",
+                    "historyId": "941159940775485440",
+                    "channelId": "802783785690091520",
+                    "accountId": "746086479075225600",
+                    "title": "💜 Dono Goal 💜 Feetcam Zatsu While Changing Pantsu~",
+                    "status": 1,
+                    "viewerCount": 95,
+                    "version": 178,
+                    "createdAt": 1752892929000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785892822000,
+                    "startedAt": 1785884375000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "802783984265228288",
+                                "streamId": "802783785690091521",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

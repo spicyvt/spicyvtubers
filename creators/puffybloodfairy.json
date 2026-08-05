@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5af3e07-7697-4a21-a0c4-da233ae74a4b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec02ffde-707d-4cf9-ba6c-0292ee0b6ffc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "448782969235054592",
+        "username": "Puffybloodfairy",
+        "displayName": "Puffybloodfairy",
+        "version": 3,
+        "followCount": 192,
+        "statusId": 1,
+        "accountMediaLikes": 65,
+        "postLikes": 163,
+        "about": "Hello I am Puffybloodfairy kinky horny vtuber. Often find me on twitch but here I like to get extra spicy! Streams will be free for all! Videos, Pics, and audio will be for subs or you can pay per either or :)",
+        "location": "",
+        "streaming": {
+            "accountId": "448782969235054592",
+            "channel": {
+                "id": "484964410960388096",
+                "accountId": "448782969235054592",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.LdNDDQErU5dQ.m3u8",
+                "chatRoomId": "484964514270294016",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1677118885000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "484964410960388097",
+                    "historyId": "938987520757100544",
+                    "channelId": "484964410960388096",
+                    "accountId": "448782969235054592",
+                    "title": "Tales of Arising the Cock",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 7500,
+                    "createdAt": 1677118886000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785374498000,
+                    "startedAt": 1785366430000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

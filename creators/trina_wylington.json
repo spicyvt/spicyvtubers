@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e9c8db1-ea42-4dd2-aa4b-5d9145bf90b5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f271841a-9c90-4ffb-b508-dfc1d7753afd-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "613833247306035201",
+        "username": "Trina_Wylington",
+        "displayName": "Trina Wylington",
+        "version": 10,
+        "followCount": 7568,
+        "statusId": 1,
+        "accountMediaLikes": 15997,
+        "postLikes": 17594,
+        "about": "*~ The Goddess of Edging ~*\nAn Asexual queen who shows that you don’t have to be sexual to be sexy.\n *~IRL Plus Sized + Married~*",
+        "location": "Centria",
+        "streaming": {
+            "accountId": "613833247306035201",
+            "channel": {
+                "id": "613919567047041024",
+                "accountId": "613833247306035201",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.LJwm4WAoJYYn.m3u8",
+                "chatRoomId": "613919582209449984",
+                "status": 2,
+                "version": 26,
+                "createdAt": 1707864190000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "613919567047041025",
+                    "historyId": "941386788415479809",
+                    "channelId": "613919567047041024",
+                    "accountId": "613833247306035201",
+                    "title": "The Asexual Goddess",
+                    "status": 2,
+                    "viewerCount": 15,
+                    "version": 7222,
+                    "createdAt": 1707864191000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785946459000,
+                    "startedAt": 1785938460000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

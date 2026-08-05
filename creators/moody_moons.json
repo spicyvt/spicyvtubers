@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c8c6ddc-995a-43a6-a43e-b1337a3fab41-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d50ed5f-6c27-4cb7-9b45-4ff1a0ed3280-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "920348709256978432",
+        "username": "Moody_Moons",
+        "displayName": null,
+        "version": 3,
+        "followCount": 34,
+        "statusId": 1,
+        "accountMediaLikes": 28,
+        "postLikes": 21,
+        "about": "Come to me dear and let me make your dirtiest dreams come true 🌙✨\n I am just a silly Vampire after all... what harm could I do ? \n\nThis page will be dedicated to my NSFW content 💜😈\nOpen for custom content 🌙✨\n\n🔞 Freelancer | Spicy and Vanilla 2D Digital Artist | Vtuber 🌙✨\n Verified 5⭐️ VGen Artist\n🎨 OCs • Spicy Art • YCH\n🇮🇹 / 🇬🇧 (Commissions Status: OPEN )\n\nAll my links ^=^\nhttps://moodycmoons.carrd.co",
+        "location": "",
+        "streaming": {
+            "accountId": "920348709256978432",
+            "channel": {
+                "id": "920443487613100032",
+                "accountId": "920348709256978432",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.XXuxRfH5fuib.m3u8",
+                "chatRoomId": "923225185337749504",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1780945188000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "920443487613100033",
+                    "historyId": "926038607595053056",
+                    "channelId": "920443487613100032",
+                    "accountId": "920348709256978432",
+                    "title": "Illustrate spicy art with me ",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 6,
+                    "createdAt": 1780945188000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782284494000,
+                    "startedAt": 1782279169000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7ab487dd-f0a9-480a-8a82-e9d19f009e80-profile_image-70x70.png",
         "bannerImageUrl": null
+    },
+    "fansly": {
+        "id": "329247613876445184",
+        "username": "TheDiviy",
+        "displayName": null,
+        "version": 6,
+        "followCount": 640,
+        "statusId": 1,
+        "accountMediaLikes": 497,
+        "postLikes": 419,
+        "about": "Cozy Cat girl!! \nLazy horny and squishy~ ;3c",
+        "location": "",
+        "streaming": {
+            "accountId": "329247613876445184",
+            "channel": {
+                "id": "841894648728264704",
+                "accountId": "329247613876445184",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.8AGdO5e4CZAk.m3u8",
+                "chatRoomId": "841897106158395392",
+                "status": 2,
+                "version": 17,
+                "createdAt": 1762217685000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "841894648728264705",
+                    "historyId": "914817841411149824",
+                    "channelId": "841894648728264704",
+                    "accountId": "329247613876445184",
+                    "title": "Chilling for a bit~",
+                    "status": 1,
+                    "viewerCount": 18,
+                    "version": 46,
+                    "createdAt": 1762217686000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1779614957000,
+                    "startedAt": 1779603929000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

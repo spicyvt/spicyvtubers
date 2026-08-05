@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae071afa-4dcb-4daa-aa2e-4cf126b96105-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4951f47-d4d9-439d-b5b0-f09eadb7bfe9-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "637823306245877760",
+        "username": "ScarletVr",
+        "displayName": "ScarletVr",
+        "version": 4,
+        "followCount": 5039,
+        "statusId": 1,
+        "accountMediaLikes": 7239,
+        "postLikes": 6127,
+        "about": "🔞 HI welcome to the cult of scarlet🔞\n\n🇲🇽 Mexicana\n📩DM me for Collabs or Custom Conten📩\n🍒Discord server: https://discord.gg/VXnyMxjUX9\n🔥A big fan of rock music from the 80s and 90s\n\n",
+        "location": "vr",
+        "streaming": {
+            "accountId": "637823306245877760",
+            "channel": {
+                "id": "838641765031370752",
+                "accountId": "637823306245877760",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xSRb5tXjk3yW.m3u8",
+                "chatRoomId": "838642343266508801",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1761442138000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "838641765031370753",
+                    "historyId": "940514151468376064",
+                    "channelId": "838641765031370752",
+                    "accountId": "637823306245877760",
+                    "title": "Don't look back, just look at me 🖤Esp/Eng",
+                    "status": 1,
+                    "viewerCount": 41,
+                    "version": 366,
+                    "createdAt": 1761442138000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785734329000,
+                    "startedAt": 1785730407000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

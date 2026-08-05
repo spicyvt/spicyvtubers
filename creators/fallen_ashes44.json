@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cc6fec0-6616-44be-94c6-cd011d852163-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5adc4d37-c204-4195-ba3e-57ed09ccb4ee-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "456229668329107456",
+        "username": "Teachussy",
+        "displayName": "fallen_ashes44",
+        "version": 13,
+        "followCount": 291,
+        "statusId": 3,
+        "accountMediaLikes": 152,
+        "postLikes": 120,
+        "about": "Sussy puppy needs some love. Give out control links to subscribers every stream. Have fun vods and just wants to be fucked hard and raw. My partners love me and I love them and I love you guys and just wanna grow and share this experience together ",
+        "location": "",
+        "streaming": {
+            "accountId": "456229668329107456",
+            "channel": {
+                "id": "666018757868531713",
+                "accountId": "456229668329107456",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9JaNvcx8QWe5.m3u8",
+                "chatRoomId": "666019123242741760",
+                "status": 2,
+                "version": 56,
+                "createdAt": 1720285605000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "666018757868531714",
+                    "historyId": "940163261699989504",
+                    "channelId": "666018757868531713",
+                    "accountId": "456229668329107456",
+                    "title": "Gooning for hero shooter raising money for car payment ",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 2760,
+                    "createdAt": 1720285606000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785653523000,
+                    "startedAt": 1785646749000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

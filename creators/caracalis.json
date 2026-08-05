@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e9a6bad-4105-4c2f-b203-1209d833c426-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1ace127-d773-4ea8-be00-ea58ed6e6a10-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "437891382619676672",
+        "username": "CaraCalis",
+        "displayName": "Cara",
+        "version": 15,
+        "followCount": 623,
+        "statusId": 1,
+        "accountMediaLikes": 226,
+        "postLikes": 308,
+        "about": "18+ Auntie #Vtuber Transwoman | 25 | Internet #VAuntie | Model: @Spacey_Nerd | Discord: discord.gg/DvHWwXqbFQ ",
+        "location": "",
+        "streaming": {
+            "accountId": "437891382619676672",
+            "channel": {
+                "id": "595016194621186048",
+                "accountId": "437891382619676672",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jQrfvRToUN6w.m3u8",
+                "chatRoomId": "595016800018636800",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1703357275000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "595016194621186049",
+                    "historyId": "782357902567419905",
+                    "channelId": "595016194621186048",
+                    "accountId": "437891382619676672",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 6022,
+                    "createdAt": 1703357275000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1748030103000,
+                    "startedAt": 1748023019000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "595019411664941056",
+                                "streamId": "595016194621186049",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "595019411664941057",
+                                "streamId": "595016194621186049",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"587608705504124928\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

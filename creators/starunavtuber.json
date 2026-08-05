@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e361406-8781-4e8b-8086-69b6064a2d92-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b72c340f-a026-448d-b34f-7c44453754dc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "739261902504337409",
+        "username": "OnlyBeigeThings",
+        "displayName": "StarunaVtuber",
+        "version": 12,
+        "followCount": 64,
+        "statusId": 1,
+        "accountMediaLikes": 104,
+        "postLikes": 127,
+        "about": "Sentient squirrel coming to you live from the orbit!\n\nAny sent Throne outfits will be worn in videos!",
+        "location": "https://throne.com/starunavtuber",
+        "streaming": {
+            "accountId": "739261902504337409",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

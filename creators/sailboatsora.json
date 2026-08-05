@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2276e5fa-e88c-4168-b4f7-c5c651324dce-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa3bbe36-ca62-4b7b-b823-bb1485ca2eca-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "780149761930964992",
+        "username": "susboatsora",
+        "displayName": "susboatsora ⛵️🪢 ",
+        "version": 4,
+        "followCount": 1075,
+        "statusId": 1,
+        "accountMediaLikes": 492,
+        "postLikes": 340,
+        "about": "Sora, but a bit more sus ⛵️🪢 Your moist & unstable sailboat waifu.\n🔞 Subscribe for additional IRL content, ASMRs and explicit art.\n📢 Follow for free livestreams and NSFW art.\n﹏𓊝﹏☼⋆.˚\nDonations:\nhttps://ko-fi.com/sailboatsora\n\nGift suggestions:\nhttps://throne.com/sailboatsora\n\nAnonymous questions:\nhttps://marshmallow-qa.com/faf87sddabsfri6\n\nMore Sora channels:\n🟣 https://www.twitch.tv/sailboatsora\n🔵 https://x.com/sailboatsora\n🔴 https://www.youtube.com/@SailboatSora",
+        "location": "sailboatsora on twitch!!!",
+        "streaming": {
+            "accountId": "780149761930964992",
+            "channel": {
+                "id": "911603946563317760",
+                "accountId": "780149761930964992",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.PPs9RGwqYkMP.m3u8",
+                "chatRoomId": "911604014116773888",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1778837677000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "911603946563317761",
+                    "historyId": "926966557500784640",
+                    "channelId": "911603946563317760",
+                    "accountId": "780149761930964992",
+                    "title": "˚ 𓇼 ˚｡⋆ BOAT VTUBER GRINDING (GAMES) ༄｡° ",
+                    "status": 1,
+                    "viewerCount": 22,
+                    "version": 10,
+                    "createdAt": 1778837677000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782507518000,
+                    "startedAt": 1782500409000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "911604119288963073",
+                                "streamId": "911603946563317761",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

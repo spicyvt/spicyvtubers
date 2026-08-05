@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0eafa79e-5c15-44da-aa22-e869cfd62ff4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f98c6f8d-44c0-4afa-8c71-0552bef903af-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "462204385787654144",
+        "username": "SakyWolf",
+        "displayName": "SakyWolf",
+        "version": 22,
+        "followCount": 6,
+        "statusId": 3,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "\n\n⚠︎All my content is copyrighted by me. So you by subscribing are also understanding and agreeing to legal terms.\nALL content should not be shared, there will be legal consequences if done so.⚠︎",
+        "location": "",
+        "streaming": {
+            "accountId": "462204385787654144",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

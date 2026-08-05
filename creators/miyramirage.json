@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55d3f64c-71cf-4077-92df-11dc3dcd6e59-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef3ec00c-fadd-40e3-9bfa-6c070e0393e7-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "860821375466631168",
+        "username": "MiyraMirage",
+        "displayName": "Miyra Mirage",
+        "version": 6,
+        "followCount": 16952,
+        "statusId": 2,
+        "accountMediaLikes": 27040,
+        "postLikes": 15288,
+        "about": "｡ﾟ•┈୨ Hi! Im Miyra, your new snow leopard waifu ♡ Got That Big Paw Energy ୧┈• ｡ﾟ\n⤷ Vtuber only, No IRL \n⤷ Replies to all DMs \n⤷ Live Streams - Reaction to Hentai, Porn games, ETC\n⤷ Fetish/Kink Friendly\n⤷ Free videos about my best moments and Memes\n\nGift Wishlist : https://throne.com/miyramirage\n\n\nGirl Friend Experience available! Custom per person, DM to request on Fansly to discuss \n(GFE Has a discord to communicate outside Fansly)\n\n\n💙 Just watching, right? 💙 $10\n⤷  Vod Access\n⤷ Menu Requests\n\n💗 I'm noticing you 💗$20\n⤷ Includes Just watching, right tier benefits.\n⤷ Open DM's\n⤷ NSFW Art\n⤷ Custom Requests\n\n❄️ My Favourite Supporter ❄️ $30\n⤷ Includes I’m noticing you tier benefits\n⤷ Priority DM's\n⤷ Voice Messages (on request)\n\n🌸The Leopards Chosen 1/1 🌸  $100  \n⤷ Includes My Favourite Support tier benefits. \n⤷ Highest Priority DM's\n⤷ Voice Messages (on Request)           \n⤷ Limited Slot                                                                                                                                                                                      \n⤷ Exclusive Art Monthly\n\n🧊 GFE - Snowkit 🧊\n⤷ Private Discord\n⤷ Girlfriend Style Messages\n⤷ Voice Messages\n⤷ Quick Replies\n⤷ Monthly Hangouts\n\n💕 Fetish GFE -  Frostfang 💕\n⤷ Kink Tailored Girlfriend Experience \n⤷ Private Discord \n⤷ Fast Replies\n⤷ Voice Messages\n⤷ NSFW Art\n⤷ Private calls with NSFW model (monthly)\n⤷ DM me to discuss specifics \n\n\n\n❄️💙 Check out all my socials on my website: https://www.miyramirage.com 💙❄️\n\n⤷ DO NOT SHARE ANY CONTENT OR DM'S \n⤷ Any services requested through Fansly must be tipped through Fansly \n",
+        "location": "In Control",
+        "streaming": {
+            "accountId": "860821375466631168",
+            "channel": {
+                "id": "861494721921433601",
+                "accountId": "860821375466631168",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.L59gYRqluOSQ.m3u8",
+                "chatRoomId": "882561383034527744",
+                "status": 2,
+                "version": 28,
+                "createdAt": 1766890707000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "861494721921433602",
+                    "historyId": "939393966430760960",
+                    "channelId": "861494721921433601",
+                    "accountId": "860821375466631168",
+                    "title": "❤︎ Shorter stream today, What kinky stuff will we talk about?~ ❤︎",
+                    "status": 1,
+                    "viewerCount": 104,
+                    "version": 32,
+                    "createdAt": 1766890707000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785468089000,
+                    "startedAt": 1785463334000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

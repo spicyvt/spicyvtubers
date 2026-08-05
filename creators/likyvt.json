@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d0908db-efad-48fb-a85e-0ba2be3ef49e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b577eca3-ac62-410c-b257-57be1a3898bf-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "714066479649140736",
+        "username": "LikyVT",
+        "displayName": "Liky",
+        "version": 5,
+        "followCount": 1616,
+        "statusId": 1,
+        "accountMediaLikes": 2855,
+        "postLikes": 4154,
+        "about": "VTuber Femboy Submissive Succubo\n\nI upload content with all my heart UwU\n\nDiscord: https://discord.gg/8gEYVfB7f6",
+        "location": "",
+        "streaming": {
+            "accountId": "714066479649140736",
+            "channel": {
+                "id": "800175521764749312",
+                "accountId": "714066479649140736",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.6N4nqArIokB0.m3u8",
+                "chatRoomId": "800175544334295042",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1752271070000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "800175521764749313",
+                    "historyId": null,
+                    "channelId": "800175521764749312",
+                    "accountId": "714066479649140736",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1752271071000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "800176320708358147",
+                                "streamId": "800175521764749313",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

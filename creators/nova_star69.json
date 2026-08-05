@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/30c4068f-1f1a-4feb-913f-61b343434889-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/24174d5b-b9ce-4323-a9e1-59bf3710e10c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "286221558131728384",
+        "username": "NovaStar69",
+        "displayName": "NovaStar",
+        "version": 12,
+        "followCount": 4059,
+        "statusId": 3,
+        "accountMediaLikes": 1717,
+        "postLikes": 1774,
+        "about": "🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃\nIt's your girl, NovaStar, the Hentai CyberPunk Camgirl\ncoming at you straight from the neon-soaked streets of the future to make your pant soaked \n\n☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣\n\n  ",
+        "location": "Your House ",
+        "streaming": {
+            "accountId": "286221558131728384",
+            "channel": {
+                "id": "515037745442201600",
+                "accountId": "286221558131728384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.buIqPgw1fOsu.m3u8",
+                "chatRoomId": "515038247848521728",
+                "status": 2,
+                "version": 323,
+                "createdAt": 1684288927000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "515037745442201601",
+                    "historyId": "940118278003519488",
+                    "channelId": "515037745442201600",
+                    "accountId": "286221558131728384",
+                    "title": " 🔥 Weekend Mode 😈 I’m not holding back tonight (3D Stream)#vtuber",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 5427,
+                    "createdAt": 1684288927000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785639943000,
+                    "startedAt": 1785636024000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:51Z"
     }
 }

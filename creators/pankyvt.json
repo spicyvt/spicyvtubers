@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d6913cf-e766-4667-aa56-04938283b246-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7566626f-624a-4354-90af-2c4be773ec05-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "503057739505737728",
+        "username": "PankyVT",
+        "displayName": "PankyVT",
+        "version": 7,
+        "followCount": 27935,
+        "statusId": 1,
+        "accountMediaLikes": 25313,
+        "postLikes": 15508,
+        "about": "Hello everyone, I am Panky! I am a lewd fox Demi-God femboy~\nI stream on every other saturday at 9pm EST on here!! (ALL streams are free!!)\nNew posts every thursday!\nOther Socials --> https://linktr.ee/PankyVtuber\n\nI post NSFW animations of me here monthly, as well as other special things on occasion such as uncensored and uncut access to any videos I make and ASMR videos.\n\nI take commissions for ASMR if you wish to get any specific audios from me!~",
+        "location": "Autumn Shrine",
+        "streaming": {
+            "accountId": "503057739505737728",
+            "channel": {
+                "id": "681642220910030848",
+                "accountId": "503057739505737728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.XLng7m2XDIEa.m3u8",
+                "chatRoomId": "694406277039665152",
+                "status": 2,
+                "version": 15,
+                "createdAt": 1724010529000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "681642220910030849",
+                    "historyId": "937929476342304768",
+                    "channelId": "681642220910030848",
+                    "accountId": "503057739505737728",
+                    "title": "18+ PLAYING HUNIEPOP FOR THE FIRST TIME (Donate to activate lovense) !tipmenu",
+                    "status": 1,
+                    "viewerCount": 121,
+                    "version": 5544,
+                    "createdAt": 1724010530000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785119529000,
+                    "startedAt": 1785114173000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

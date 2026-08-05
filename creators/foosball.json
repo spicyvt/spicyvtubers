@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67137d45-9223-43b5-8c86-3e2de45b52d3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66b50f00-ed7d-46a7-9a3a-9f0ecb0f6ace-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "889284214980112384",
+        "username": "Foosball_VT",
+        "displayName": "Foosball",
+        "version": 7,
+        "followCount": 695,
+        "statusId": 1,
+        "accountMediaLikes": 113,
+        "postLikes": 195,
+        "about": "               ﹒﹒ ɴꜱꜰᴡ  ﹒﹒\n            ˖᯽ ݁˖ 💋🍑✨ ˖ ݁᯽˖ \n  —— ˗ˏˋ ✮ ˎˊ˗ ———— ˗ˏˋ ✮ ˎˊ˗ ——\n  𓊆 Bimbo ┆ Puppy Girl ┆ Brat 𓊇 \n₊˚⊹♡───・┆✦ʚ♡ɞ✦┆・───♡⊹˚₊\n\nHello there! I'm Foosball!\nI'm your new favorite dumb bimbo puppy\nwho loves to play dress up & be a needy drooly mess!\n\nWhat can I say, I'm just a girl (*˶ᵔ ᵕ ᵔ˶)ꕤ*.ﾟ\n\nJoin me for some silly lewd fun and watch me wag my tail for you!~ ♡\n\n˙⋆✮ Follow me for NSFW VR Content & Audios ✮⋆˙\n\n₊˚⊹♡────・┆✦ʚ♡ɞ✦┆・────♡⊹˚₊\n\nWanna spoil me more? >> throne.com/foosball\n\n════════════════════════════════════\nDO NOT SCREENSHOTS/SCREEN RECORD/REUPLOAD/SHARE MY CONTENT\nAny unauthorized distribution of my content & live streams\nwill result in a ban from ALL platforms & legal action will be taken\n════════════════════════════════════\n✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺    . ✦　\n ︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶\n\nOwned by @WulfPaisen 🐺💜",
+        "location": "foosball.carrd.co || locked in a kennel",
+        "streaming": {
+            "accountId": "889284214980112384",
+            "channel": {
+                "id": "896542741930979328",
+                "accountId": "889284214980112384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.DuwxLpkpycHm.m3u8",
+                "chatRoomId": "896542948714356736",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1775246806000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "896542741930979329",
+                    "historyId": "909641462650511362",
+                    "channelId": "896542741930979328",
+                    "accountId": "889284214980112384",
+                    "title": "Woof Woof!~ Bimbo Puppy Game & Chill ||  !menu ・ !socials ・ !throne ",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 4,
+                    "createdAt": 1775246806000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778375765000,
+                    "startedAt": 1778369785000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "896543013143072768",
+                                "streamId": "896542741930979329",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:06Z"
     }
 }

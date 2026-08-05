@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/251bfdcb-c1dd-41ce-8442-3b5ec8003ef5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ccd173c-a7ad-4977-89cf-428416c5e38a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "511095047693803522",
+        "username": "Revity",
+        "displayName": null,
+        "version": 3,
+        "followCount": 7130,
+        "statusId": 3,
+        "accountMediaLikes": 12279,
+        "postLikes": 6314,
+        "about": "💎 Your favorite eldritch deer Vtuber! 🦌\n\nSubby pillow princess with the voice of a mommy~ 👑\n\nVoice actor | Nerdy gamer | Here to soothe and satisfy you\n\nDo you want a dommy mommy? A brat ready to tame? A needy baby? I can be anything you want~\n\nWhat you can find here:\n💦 Lewd livestreams (Spicy games, live gooning, and more!)\n🎧 NSFW Audio RPs\n🎨 Vtuber content (Live2D currently, 3D in the future hopefully)\n📸 IRL content NO FACE REVEALS\n\nHi darling, welcome to the deeries! Feel free to look around and make yourself comfy~ I love attention and cuddles, and I'm ready to make you feel good 💕\n\nI'm a little new here, so please be patient with me! (I'm actually a bit shy >.<)",
+        "location": "",
+        "streaming": {
+            "accountId": "511095047693803522",
+            "channel": {
+                "id": "816489688448655360",
+                "accountId": "511095047693803522",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.A7vM0layLP58.m3u8",
+                "chatRoomId": "816489931873472512",
+                "status": 2,
+                "version": 60,
+                "createdAt": 1756160671000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "816489688448655361",
+                    "historyId": "937197813417123840",
+                    "channelId": "816489688448655360",
+                    "accountId": "511095047693803522",
+                    "title": "Flooding Friday, let's squirt today :3 | 💦 !menu 🔗 !lovense",
+                    "status": 1,
+                    "viewerCount": 82,
+                    "version": 66,
+                    "createdAt": 1756160671000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785542945000,
+                    "startedAt": 1784939731000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

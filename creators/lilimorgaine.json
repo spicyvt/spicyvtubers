@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55c5581a-d277-41e7-ba07-9c0e9faffbe6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcea7bb7-c14f-405b-b388-479eeb78ac6b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "410540869293187072",
+        "username": "LiliMorgaine",
+        "displayName": "Lili Morgaine",
+        "version": 23,
+        "followCount": 1811,
+        "statusId": 1,
+        "accountMediaLikes": 1304,
+        "postLikes": 1092,
+        "about": "Your Real Life Only Yandere (pay attention to me an only me~) | Offical NSFW account of @lilimorgaine on Twitter| ENVTuber & Little Brat | @/77L on Mihuashi | @ladycheese1 | NSFW Art : #bratgaine\n $10 Tribute for the FinDom experience, Prepare for your wallet to be drained\n38DDD 💜 9.5 💜 Switch 💜 FinDom\nhttps://throne.com/lilimorgaine",
+        "location": "",
+        "streaming": {
+            "accountId": "410540869293187072",
+            "channel": {
+                "id": "869375309101674496",
+                "accountId": "410540869293187072",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JOZ9B3aEmVzL.m3u8",
+                "chatRoomId": "869456927183106048",
+                "status": 2,
+                "version": 33,
+                "createdAt": 1768769585000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "869375309101674497",
+                    "historyId": "925986654907285507",
+                    "channelId": "869375309101674496",
+                    "accountId": "410540869293187072",
+                    "title": "Sewing IRL~! Come buzz me~ | Lovense On~",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 50,
+                    "createdAt": 1768769586000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782276794000,
+                    "startedAt": 1782266782000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "869456785801502720",
+                                "streamId": "869375309101674497",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "869456785801502721",
+                                "streamId": "869375309101674497",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":500}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

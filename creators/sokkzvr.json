@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e407013-22de-4d69-9207-491d168cbe49-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4aff49b5-43ad-4ccf-9300-e75d3b11417d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "290887023454068736",
+        "username": "SokkzVR",
+        "displayName": null,
+        "version": 7,
+        "followCount": 17154,
+        "statusId": 1,
+        "accountMediaLikes": 8118,
+        "postLikes": 6868,
+        "about": "Your Virtual Goth GF 💀🕯️\nFollow for FREE 💖 \nSubscribe for Full Nudes 🔞",
+        "location": "USA",
+        "streaming": {
+            "accountId": "290887023454068736",
+            "channel": {
+                "id": "321457273324974080",
+                "accountId": "290887023454068736",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.8XHfMY8YNNgf.m3u8",
+                "chatRoomId": "321457421006413824",
+                "status": 2,
+                "version": 21,
+                "createdAt": 1638135746000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "321457273324974081",
+                    "historyId": "936878795682496512",
+                    "channelId": "321457273324974080",
+                    "accountId": "290887023454068736",
+                    "title": "MENU ON ~ Playtimmeee~🤤🔥",
+                    "status": 1,
+                    "viewerCount": 237,
+                    "version": 6436,
+                    "createdAt": 1638135746000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784870129000,
+                    "startedAt": 1784863671000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "776353199056494592",
+                                "streamId": "321457273324974081",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

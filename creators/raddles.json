@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d1aa3e4-fd41-4096-9f83-b8e6fe4b068f-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6756e9a2-ccbf-405f-84e6-14502d0105dd-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "438858471610261504",
+        "username": "raddles",
+        "displayName": "raddles",
+        "version": 14,
+        "followCount": 29068,
+        "statusId": 1,
+        "accountMediaLikes": 11217,
+        "postLikes": 4201,
+        "about": "curious catgirl 🐾\n♡ vtuber ✨\n♡ bratty bottom 😈\n♡ attention whore 😝\n\nI respond to all DMs (please be patient, tips get priority)\n♡ custom requests ❔\n♡ spicy messaging 💦\n♡ dick ratings 🍆\n♡ lewd audios 👂\n♡ GFEs 🎀\n\n🔴 FREE STREAMS for followers 👥\n\nGAMERSUPPS 🌊\nGet 10% OFF With Code 'TRASH' 🗑️✨\nhttps://gamersupps.gg/trash\n\n♡ send me gifts on Throne! 🎁\nhttps://throne.com/raddles\n\nall of my content is copyrighted content that I own.\nhttps://linktr.ee/radraddles",
+        "location": "right down your alley",
+        "streaming": {
+            "accountId": "438858471610261504",
+            "channel": {
+                "id": "615721586338574337",
+                "accountId": "438858471610261504",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AoMZeVjeqB9m.m3u8",
+                "chatRoomId": "615723752725946368",
+                "status": 2,
+                "version": 14,
+                "createdAt": 1708293825000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "615721586338574338",
+                    "historyId": "912190013905592320",
+                    "channelId": "615721586338574337",
+                    "accountId": "438858471610261504",
+                    "title": "GOONING WITH FRIENDS (Kana & TabbyPac)",
+                    "status": 1,
+                    "viewerCount": 82,
+                    "version": 570,
+                    "createdAt": 1708293826000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778987107000,
+                    "startedAt": 1778977407000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "833548708938264576",
+                                "streamId": "615721586338574338",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8674a376-fdc9-4ad4-9fb3-864116461cc9-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ab8fee9-23f4-4b19-b00b-6c41eb5bd799-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "460894853480329216",
+        "username": "YumiVT",
+        "displayName": "YoruVexa",
+        "version": 5,
+        "followCount": 425,
+        "statusId": 1,
+        "accountMediaLikes": 1928,
+        "postLikes": 1752,
+        "about": "I'm YoruVexa, a tomboy wolf-girl merc for hire in charge of the Okami Brigade! So let's get out there and cause some chaos",
+        "location": "",
+        "streaming": {
+            "accountId": "460894853480329216",
+            "channel": {
+                "id": "727768677071462400",
+                "accountId": "460894853480329216",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Dhl2ki2FYeE9.m3u8",
+                "chatRoomId": "727769265406488576",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1735007933000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "727768677071462401",
+                    "historyId": null,
+                    "channelId": "727768677071462400",
+                    "accountId": "460894853480329216",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1735007934000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "727768726790742016",
+                                "streamId": "727768677071462401",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

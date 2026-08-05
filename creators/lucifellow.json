@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33249453-57f1-4c68-9af3-0b76ac2e9e7e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a55aa47-070c-4f50-88f6-7d42a57598a4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "436383208485953536",
+        "username": "Lucifellow",
+        "displayName": "Lucifellow",
+        "version": 7,
+        "followCount": 18475,
+        "statusId": 1,
+        "accountMediaLikes": 38246,
+        "postLikes": 10323,
+        "about": "I make immersive NSFW lewd ASMR roleplays, and cinematic movies 💘 You will find all the kinks here that your heart desires~ 💕\n\nLinks:  allmylinks.com/lucifellow\n\nGet amazing HoloExe models with my link ~ \n https://gumroad.com/a/368919699",
+        "location": "",
+        "streaming": {
+            "accountId": "436383208485953536",
+            "channel": {
+                "id": "650517654070632449",
+                "accountId": "436383208485953536",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.88MnVAVQomHu.m3u8",
+                "chatRoomId": "650517891090755584",
+                "status": 2,
+                "version": 85,
+                "createdAt": 1716589854000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "650517654070632450",
+                    "historyId": "940482506795278336",
+                    "channelId": "650517654070632449",
+                    "accountId": "436383208485953536",
+                    "title": "Non Stop Breeding Nights With Face Tracking ",
+                    "status": 1,
+                    "viewerCount": 73,
+                    "version": 5772,
+                    "createdAt": 1716589855000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785735502000,
+                    "startedAt": 1785722862000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "931423732478521344",
+                                "streamId": "650517654070632450",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

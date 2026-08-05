@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e0a9947-e51f-4a35-8908-70d2c96db3c2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/42b85506-a0f1-4c35-88bc-2cb7791c3f0a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "304500375694618624",
+        "username": "Maeowi",
+        "displayName": null,
+        "version": 3,
+        "followCount": 6571,
+        "statusId": 1,
+        "accountMediaLikes": 12814,
+        "postLikes": 14191,
+        "about": "Cosplay / Lingerie / Tasteful nudes & Lewds 💖💦\nhttps://twitter.com/hentaowi | https://thrn.co/u/maeowi | \n\n29 years old | Pansexual | Tattoo's and piercings🌻\nI post DAILY for subs and once weekly for following.\n⌛ Slender Hourglass body\n🦶 Size 6 feet\n📏5ft tall\n🕹️ Gamer \n✨Cosplay\n\nI LOVE cum tributes, so feel free to DM them to me 💦\nI love trying new things and experimenting, so bare in mind that through this new experience, you'll be in for a ride with me~",
+        "location": "",
+        "streaming": {
+            "accountId": "304500375694618624",
+            "channel": {
+                "id": "847072443712430080",
+                "accountId": "304500375694618624",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.p2YYUPPOLzgH.m3u8",
+                "chatRoomId": "847073054373720064",
+                "status": 2,
+                "version": 15,
+                "createdAt": 1763452168000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "847072443712430081",
+                    "historyId": "914721947017830400",
+                    "channelId": "847072443712430080",
+                    "accountId": "304500375694618624",
+                    "title": "Make this brat SCREAM!~ 😳💦",
+                    "status": 1,
+                    "viewerCount": 25,
+                    "version": 16,
+                    "createdAt": 1763452168000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1779585273000,
+                    "startedAt": 1779581066000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

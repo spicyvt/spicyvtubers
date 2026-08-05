@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31550926-3de2-4b5a-a077-3c6ff323c6c8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/41ea6f74-ee3f-4cd9-836e-a71bcc6351b7-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "461334604435959808",
+        "username": "ViraLewder",
+        "displayName": "Vira",
+        "version": 10,
+        "followCount": 3459,
+        "statusId": 3,
+        "accountMediaLikes": 1579,
+        "postLikes": 1072,
+        "about": "Names Vira, I may be fighting hard during the day, but sometimes you need some sweet sexy relief at night amiright~? We're all adults here, so come get wet with me~\n\n⚠️Important Info ⚠️\n👉 I am an entertainer first and foremost.\n👉 Do not try to form a parasocial relationship with me.\n👉 Treat me with respect and I will treat you with respect in return.\n👉 Consent is extremely important for me. Unsolicited dick/pussy pics = Block\n",
+        "location": "",
+        "streaming": {
+            "accountId": "461334604435959808",
+            "channel": {
+                "id": "553029788311232513",
+                "accountId": "461334604435959808",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.gRK5nj5StImp.m3u8",
+                "chatRoomId": "553030504668999680",
+                "status": 2,
+                "version": 26,
+                "createdAt": 1693346936000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "553029788311232514",
+                    "historyId": "932477998672662528",
+                    "channelId": "553029788311232513",
+                    "accountId": "461334604435959808",
+                    "title": "7/11 Stream (with alot of creators chillin)",
+                    "status": 1,
+                    "viewerCount": 25,
+                    "version": 7036,
+                    "createdAt": 1693346936000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783817697000,
+                    "startedAt": 1783814439000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "553030405813448704",
+                                "streamId": "553029788311232514",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:24Z"
     }
 }

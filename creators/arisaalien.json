@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34875c39-33d4-4b64-a874-69a61d32600e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4fad7612-ac75-4c85-ae90-cda17bad96b2-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "519006109437009920",
+        "username": "ArisaAlien",
+        "displayName": null,
+        "version": 12,
+        "followCount": 81,
+        "statusId": 3,
+        "accountMediaLikes": 5,
+        "postLikes": 22,
+        "about": "A shapeshifter poisonous alien vtuber who likes drawing. I stream chill art and cozy games mostly 𐔌՞ ܸ.ˬ.ܸ՞𐦯",
+        "location": "The Backrooms",
+        "streaming": {
+            "accountId": "519006109437009920",
+            "channel": {
+                "id": "733505090597433344",
+                "accountId": "519006109437009920",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.94bQx6cJOiXw.m3u8",
+                "chatRoomId": "733505987289296896",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1736375601000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "733505090597433345",
+                    "historyId": "766405391746609152",
+                    "channelId": "733505090597433344",
+                    "accountId": "519006109437009920",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 1422,
+                    "createdAt": 1736375601000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1744223194000,
+                    "startedAt": 1744219644000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "733522200111357952",
+                                "streamId": "733505090597433345",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

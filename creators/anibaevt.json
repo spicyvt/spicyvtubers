@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/79c94574-7135-4074-9178-79efcb7715a0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c79bf4d2-d690-4047-931f-b22831feba75-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "236981703111868416",
+        "username": "Anibae",
+        "displayName": "Anibae",
+        "version": 7,
+        "followCount": 7024,
+        "statusId": 1,
+        "accountMediaLikes": 5286,
+        "postLikes": 4612,
+        "about": "𓆩♡𓆪 World's kinkiest VTuber 𓆩♡𓆪 𖹭 Idol + DJ ᰔᩚ\n\nᰔᩚ Vtuber + IRL 𖹭 ◣Mommy Brat Switch ◥\n\nFindom 💋\n\n「 Weekly FREE to watch Streams 」\n\nI only respond to DM's here! 💋ᰔᩚ\n\nAlways horny ;3\n\n  My socials\n⭒☆━━━✰━━━☆⭒\n» Twitch: https://www.twitch.tv/AnibaeVT\n» Twitter: https://x.com/AnibaeVT\n» Youtube: https://www.youtube.com/@AnibaeVT\n» Everything: https://anibae.carrd.co\n\nReposting any of my content is strictly prohibited & illegal \nand will result in legal action\n\n〔 Use code ANIBAE for 10% off your GSUPPS  〕\n\nﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ",
+        "location": "  follow me on Twitch at twitch.tv/anibaevt",
+        "streaming": {
+            "accountId": "236981703111868416",
+            "channel": {
+                "id": "683916436325806080",
+                "accountId": "236981703111868416",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.veHkfWVJKYCo.m3u8",
+                "chatRoomId": "683917103618600960",
+                "status": 2,
+                "version": 43,
+                "createdAt": 1724552745000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "683916436325806081",
+                    "historyId": "927075236669579264",
+                    "channelId": "683916436325806080",
+                    "accountId": "236981703111868416",
+                    "title": "HOT Vtuber in your area wants you!! <3",
+                    "status": 1,
+                    "viewerCount": 20,
+                    "version": 8505,
+                    "createdAt": 1724552745000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782533191000,
+                    "startedAt": 1782526320000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "855718514672033792",
+                                "streamId": "683916436325806081",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

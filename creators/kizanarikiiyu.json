@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25e11f9e-a2b2-410d-aa38-53b85c6f6c6e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ecf70a1f-37d4-4c45-a85c-7250f92ffa65-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "298892918477828096",
+        "username": "kizanarikiiyu",
+        "displayName": "Kizanari Kiiyu",
+        "version": 5,
+        "followCount": 334,
+        "statusId": 1,
+        "accountMediaLikes": 132,
+        "postLikes": 144,
+        "about": "Sorceress with a side of succ 😈 \nCan and WILL make your balls explode with cum\nKoikatsu artist | Girl enthusiast\nWill step on you 🦶\n\nSimp for me, gooner~ ✨",
+        "location": "Your Bed~",
+        "streaming": {
+            "accountId": "298892918477828096",
+            "channel": {
+                "id": "722221162704150528",
+                "accountId": "298892918477828096",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.rpF925aVvCGs.m3u8",
+                "chatRoomId": "722221206228443136",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1733685303000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "722221162704150529",
+                    "historyId": "833803463581245440",
+                    "channelId": "722221162704150528",
+                    "accountId": "298892918477828096",
+                    "title": " Alcumy with a side of succ",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 1782,
+                    "createdAt": 1733685304000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1760295399000,
+                    "startedAt": 1760288597000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

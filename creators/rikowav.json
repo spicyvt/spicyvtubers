@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fac74bb6-96dc-4f9d-aa6d-5d8062b42765-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ad00b2e-2d5b-4d7c-a955-480b6f7f2737-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "903724053888528384",
+        "username": "SpicyRiko",
+        "displayName": "Riko",
+        "version": 15,
+        "followCount": 876,
+        "statusId": 1,
+        "accountMediaLikes": 450,
+        "postLikes": 794,
+        "about": "Haiii > < \nPosting spicy cosplay pics, feet pics and more ~\n\nSize kink, BDSM kink\n\nhttps://throne.com/sussyaiko",
+        "location": "",
+        "streaming": {
+            "accountId": "903724053888528384",
+            "channel": {
+                "id": "926650673825607680",
+                "accountId": "903724053888528384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4Vd233n4Nj80.m3u8",
+                "chatRoomId": "926659320618180610",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1782425097000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "926650673825607681",
+                    "historyId": "933172194626777088",
+                    "channelId": "926650673825607680",
+                    "accountId": "903724053888528384",
+                    "title": "I MAY BE HORNY .. as always",
+                    "status": 1,
+                    "viewerCount": 50,
+                    "version": 8,
+                    "createdAt": 1782425097000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783985424000,
+                    "startedAt": 1783979948000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "926650729655984128",
+                                "streamId": "926650673825607681",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:06Z"
     }
 }

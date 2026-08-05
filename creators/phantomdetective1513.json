@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19a5f200-5e31-4279-b692-019950197b20-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/46f4575d-e97c-4347-89f5-fbaa88d5c045-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "595847734792036352",
+        "username": "PhantomDetective1513",
+        "displayName": "PhantomDetective1513",
+        "version": 5,
+        "followCount": 2594,
+        "statusId": 3,
+        "accountMediaLikes": 3585,
+        "postLikes": 3462,
+        "about": "Welcome Darlings~\nI'm your resident demon assassin (Rent a Demon)\nDo check out my other sites~\n\nI hope we can cum together my precious darlings~\n\nLinktree: https://linktr.ee/PhantomDetective1513\nWishlist: https://throne.com/phantomdetective1513\n\nPfp: https://twitter.com/YatsuneKoi\nModel: https://twitter.com/HulderMoe\n\nVR Models\nFenrir by Remi  https://avatars-by-remi.carrd.co\nEsha by Mini-Lucas  https://mini-lucas05.carrd.co",
+        "location": "",
+        "streaming": {
+            "accountId": "595847734792036352",
+            "channel": {
+                "id": "607404299957317640",
+                "accountId": "595847734792036352",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.eas1p9WRP4hc.m3u8",
+                "chatRoomId": "609955212215459840",
+                "status": 2,
+                "version": 168,
+                "createdAt": 1706310830000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "607404299957317641",
+                    "historyId": "934552361827856384",
+                    "channelId": "607404299957317640",
+                    "accountId": "595847734792036352",
+                    "title": "Horny Demon Girlfriend Goes to a Birthday Party",
+                    "status": 1,
+                    "viewerCount": 22,
+                    "version": 2758,
+                    "createdAt": 1706310830000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784329661000,
+                    "startedAt": 1784309006000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

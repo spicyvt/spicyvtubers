@@ -11,5 +11,60 @@
         "bannerImageUrl": null,
         "subscriberCountText": "20K subscribers",
         "videoCountText": "170 videos"
+    },
+    "fansly": {
+        "id": "790724977040044032",
+        "username": "isTHISrealVR",
+        "displayName": null,
+        "version": 3,
+        "followCount": 13277,
+        "statusId": 3,
+        "accountMediaLikes": 31787,
+        "postLikes": 17818,
+        "about": "VRChat Succubus & Dancer\nFinally here on Fansly, bringing you enjoyment and wiggles for your pleasure 💙\n\nPosting 4 times per week~\nStreams every Wednesday 9PM UTC+2 💦\n\nCustom requests OPEN for Sugar Daddy tier! 😋",
+        "location": "VR world",
+        "streaming": {
+            "accountId": "790724977040044032",
+            "channel": {
+                "id": "839608334947471360",
+                "accountId": "790724977040044032",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ECVqeXNwW6Q7.m3u8",
+                "chatRoomId": "839608407987089408",
+                "status": 2,
+                "version": 49,
+                "createdAt": 1761672586000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "839608334947471361",
+                    "historyId": "938925732657115136",
+                    "channelId": "839608334947471360",
+                    "accountId": "790724977040044032",
+                    "title": "Looking for your attention, cum have fun~  Lovense & PiShock ON!",
+                    "status": 1,
+                    "viewerCount": 428,
+                    "version": 86,
+                    "createdAt": 1761672586000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785359551000,
+                    "startedAt": 1785351699000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "839608471853740033",
+                                "streamId": "839608334947471361",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:24Z"
     }
 }

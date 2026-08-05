@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09a11463-f9a9-47a4-add3-70015f8e0192-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/35baabbd-f1bd-47bf-9035-ffc57b2c895d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "326873523932901376",
+        "username": "MokyMoo",
+        "displayName": " 𓆩 Moky The Brat 𓆪",
+        "version": 16,
+        "followCount": 49450,
+        "statusId": 3,
+        "accountMediaLikes": 45143,
+        "postLikes": 45656,
+        "about": "𝐍𝐄𝐄𝐃𝐘, 𝐆𝐑𝐄𝐄𝐃𝐘 & 𝐁𝐑𝐄𝐄𝐃𝐘™~\n\nBiggest 𝐁𝐑𝐀𝐓 you'll ever meet~ 𝒮𝓅𝑜𝒾𝓁 𝓂𝑒  ;3 https://youpay.me/MokyMoo\nYour Wifey pup :3\n\n🔴 LIVE every FRI & SAT 8PM cet / 2PM est\n\n⫘⫘⫘⫘⫘\n\n🤍 Your Naughty Fennec Cult Leader~\n🦴 BBW Pup \n🔥 Full IRL and VR nude!\n💦 15+ Streams A Month! 8ᴘᴍ ᴄᴇᴛ\n🐾 Furry and good Pupper~\n❤️‍🩹 First Danish LewdTuber\n\n⫘⫘⫘⫘⫘\n\nCheck out my socials\n————————————\n⊰ Twitter: https://x.com/Moky_Moo\n⊰ Discord: https://discord.gg/um85x2Dq8s\n⊰ All socials: https://linktr.ee/MokyMoo\n\nReposting my content is strictly prohibited & illegal \nAny reposting of any sort will result in action from my legal team\nNo refunds ",
+        "location": "Under your covers ?",
+        "streaming": {
+            "accountId": "326873523932901376",
+            "channel": {
+                "id": "327678894171758592",
+                "accountId": "326873523932901376",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JXlnezVK1VhJ.m3u8",
+                "chatRoomId": "331250284170846208",
+                "status": 2,
+                "version": 72,
+                "createdAt": 1639619096000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "327678894171758593",
+                    "historyId": "939896267763367936",
+                    "channelId": "327678894171758592",
+                    "accountId": "326873523932901376",
+                    "title": "🐾 Your Wifey is here~ 🐾 !socials !spoil !menu !menu2",
+                    "status": 1,
+                    "viewerCount": 54,
+                    "version": 6935,
+                    "createdAt": 1639619096000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785598655000,
+                    "startedAt": 1785583092000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:28Z"
     }
 }

@@ -23,5 +23,84 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dff583cd-4494-47d6-9974-bd939a35df40-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2338f63d-86c0-4be2-9f85-e20cad8491f0-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "285926957449748480",
+        "username": "lxsmolkittenxl",
+        "displayName": "Kitten 🐶",
+        "version": 7,
+        "followCount": 4168,
+        "statusId": 1,
+        "accountMediaLikes": 14731,
+        "postLikes": 5831,
+        "about": "\nYour Bisexual Pocket Vtuber Cosplaying Goofy Chubby Little Gamer girl just trying to make people happy in more ways than one ;3 If you are new let Introduce myself! Im Kitten, a 27 year old cosplayer who started doing This type of work for over 7 years agp. I offer all kinds of content but the 1 on 1 messages have always been my favorite. My photo style is more artsy and well most of my content floats that way. I love to have fun and let loose and something i've always gotten is I master the look of cute and sexy! \n\nI am the Kinky, Bisexual, Dorky, Weight loss journey, Disney loving, Gamer Girl package all in one! Did I mention that dad jokes make me snort LMAO!\n\nI love to do sexy gaming livestreams\n\nI do IRL content and Vtuber content. <3\n➡️ Subscribe for everything tease 😘  (paywall for noodles and vids) \n\n➡️ Subscribe to 🐶Pet🐶 for super nsfw photo sets (includes all pictures and discounts videos) \n\n➡️ Subscribe to ✨Sugar Daddy✨ for HYPER NSFW CONTENT includes all full length videos 🤤 (NO PAYWALL!) (BEST DEAL TBH!)\n\nP.S. The content sent through dms only goes out to  current subs so make sure rebill is on to not miss a single photo ;) \n\nProfile Pic by : @ Vicat_draws\n\nLEGAL NOTICE\nAll content published on this Fansly, Inc account is exclusive copyrighted material belonging SmolKitten. Subscribers may not distribute or publish any content from my Fansly, or private accounts, including but not limited to videos, photographs and any other such content that is posted here. Violation of this will result in legal action, any questions feel free to reach out to me. NO CHARGEBACKS. I run my page honestly. Subscribing means you agree to terms.",
+        "location": "Senpai’s lap ",
+        "streaming": {
+            "accountId": "285926957449748480",
+            "channel": {
+                "id": "340647522152230912",
+                "accountId": "285926957449748480",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qmKQPIcOY3fE.m3u8",
+                "chatRoomId": "343939353073950720",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1642711058000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "340647522152230913",
+                    "historyId": "939761276526018560",
+                    "channelId": "340647522152230912",
+                    "accountId": "285926957449748480",
+                    "title": "Cozy Palworld Gaming Stream, Cum with me ~",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 5487,
+                    "createdAt": 1642711058000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785555301000,
+                    "startedAt": 1785550908000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "758557295134121984",
+                                "streamId": "340647522152230913",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"286288631138627584\\\"}\"}"
+                            },
+                            {
+                                "id": "758557295134121985",
+                                "streamId": "340647522152230913",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"294986294214275072\\\"}\"}"
+                            },
+                            {
+                                "id": "758557295134121986",
+                                "streamId": "340647522152230913",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"294988359833493504\\\"}\"}"
+                            },
+                            {
+                                "id": "758557295134121987",
+                                "streamId": "340647522152230913",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9211bb5f-2dcb-45a8-9a4c-460ab1aee548-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/94dadc53-295b-4da4-b64b-55ec83f640e0-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "500733448533585920",
+        "username": "Shryhew",
+        "displayName": "Shryhew",
+        "version": 4,
+        "followCount": 22,
+        "statusId": 3,
+        "accountMediaLikes": 8,
+        "postLikes": 6,
+        "about": "Shryhew, your Goblin part Shark/Crocodile Vtuber\n\nJoin my Goblin Kissers!",
+        "location": "Queensland, Australia",
+        "streaming": {
+            "accountId": "500733448533585920",
+            "channel": {
+                "id": "750340887287963648",
+                "accountId": "500733448533585920",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.0qaIMHnwg0M4.m3u8",
+                "chatRoomId": "750341019467259904",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1740389568000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "750340887287963649",
+                    "historyId": "750341731555221505",
+                    "channelId": "750340887287963648",
+                    "accountId": "500733448533585920",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 8,
+                    "createdAt": 1740389568000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1740390725000,
+                    "startedAt": 1740389769000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "873143753034964992",
+                                "streamId": "750340887287963649",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"749101184668676096\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

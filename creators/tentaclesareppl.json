@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a946b63-2516-4805-a3cb-3f5a325e3178-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a560b6a-c115-4da7-b3ac-d48a8ff6a1fa-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "345174678563725312",
+        "username": "TentaclesAreLewd",
+        "displayName": "Nexu",
+        "version": 11,
+        "followCount": 2855,
+        "statusId": 3,
+        "accountMediaLikes": 5124,
+        "postLikes": 2934,
+        "about": "Hi Daddy~ I'm Nexu! A horny tentacle loving degen and bratty switch~ 😘\n\n💞I focus mostly on short form lewd content to bring you only the best parts :3 I do a lot of strip teases, dancing, and fucking my tight pussy~ \n\n💦Content is a mix of both my real body and my vtuber, so you get the best of all dimensions. I stream on some Saturdays around 9pm EST \n\n💌Customs are available for followers~ Just check my Menu ;3 I'm kink and fetish friendly so don't be afraid to ask me for something~\n\n💖I answer all DMs myself :3 so please be patient while you wait for a response. I work full-time and stream while I do this\n\nWatch My Regular Livestreams on Twitch: twitch.tv/tentaclesareppl\nMy Wishlist: https://throne.com/tentaclesareppl\n\nAll content is under copyright. Enforced by bruqi.com.",
+        "location": "Under your desk :3",
+        "streaming": {
+            "accountId": "345174678563725312",
+            "channel": {
+                "id": "662924367734255616",
+                "accountId": "345174678563725312",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YRe5k4N8kHqG.m3u8",
+                "chatRoomId": "662924738028384257",
+                "status": 2,
+                "version": 23,
+                "createdAt": 1719547845000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "662924367734255617",
+                    "historyId": "937923048651112450",
+                    "channelId": "662924367734255616",
+                    "accountId": "345174678563725312",
+                    "title": "BRATTY TENTACLE HERE",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 8399,
+                    "createdAt": 1719547846000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785119184000,
+                    "startedAt": 1785112640000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937921022852612096",
+                                "streamId": "662924367734255617",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

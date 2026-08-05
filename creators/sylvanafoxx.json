@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/502b3a72-bff2-4410-8587-4a59f1105fbc-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aeb3ee26-7864-46fa-89f6-8865aaf2e8bf-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "682702039234392065",
+        "username": "SylvanaFoxx",
+        "displayName": "Sylvana Foxx",
+        "version": 11,
+        "followCount": 2512,
+        "statusId": 3,
+        "accountMediaLikes": 1212,
+        "postLikes": 3477,
+        "about": "🌙 Bratty, Needy, & Submissive Hel-Witch\n🖤 NSFW art + animations | IRL: lewd only | Vtuber: nude & lewd | Lewd ASMR | \n🕯️ FREE STREAMS FOR FOLLOWERS FRIDAYS @ 6PM CST\n🔪 English Only \n\n💌Spoil me & get me riled: throne.com/SylvanaFoxx\n🔮 LOVENSE WL: https://www.lovense.com/wish-list/14mv\n\n‼️All of my content is for my Fansly profile only. ‼️\n\n⚠️You may not reproduce, copy, or redistribute any of the content posted on this page without my explicit written permission. Any unauthorized distribution of my content, including live streams, will result in a ban from ALL platforms immediately with potential legal action. NO REFUNDS | I have the right to block, ban, or refuse anything I see fit |⚠️",
+        "location": "Be good & follow my Twitch: twitch.tv/SylvanaFoxx",
+        "streaming": {
+            "accountId": "682702039234392065",
+            "channel": {
+                "id": "709831535242518529",
+                "accountId": "682702039234392065",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.938iMRDsTmIE.m3u8",
+                "chatRoomId": "711340557049278464",
+                "status": 2,
+                "version": 19,
+                "createdAt": 1730731386000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "709831535242518530",
+                    "historyId": "927026936419467264",
+                    "channelId": "709831535242518529",
+                    "accountId": "682702039234392065",
+                    "title": "Playing my Hentai game Cameo!! 💦🫣",
+                    "status": 1,
+                    "viewerCount": 29,
+                    "version": 5232,
+                    "createdAt": 1730731386000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782523819000,
+                    "startedAt": 1782514805000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "712853148359733249",
+                                "streamId": "709831535242518530",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "712853148359733250",
+                                "streamId": "709831535242518530",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

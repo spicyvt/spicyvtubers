@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70fe02d9-9cd1-4d6c-930d-14e76641942e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cd94ac9-444d-436e-bee1-c4c628e36b7a-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "451970996274999296",
+        "username": "AudioEve",
+        "displayName": "Eve 🌸",
+        "version": 5,
+        "followCount": 15025,
+        "statusId": 1,
+        "accountMediaLikes": 47071,
+        "postLikes": 51672,
+        "about": "✨ Hiya! I'm Eve! ✨Your favorite girl with the best dirty talk ever❤️ ASMR, JOIs, and hot livestreams ahead \n💗 Femdom, Fsub, POV, JOIs, dirty talk, all things kinky\n🌸 Daily Posts 📹 100+ PPV Videos\n✨Message me for customs, dick ratings, GFE, and private calls\n\nDaily DMs, and everything is run by me ♥️ No AI or agency\n\n🎁 Gifts & Wishlist: throne.com/AudioEve",
+        "location": "",
+        "streaming": {
+            "accountId": "451970996274999296",
+            "channel": {
+                "id": "602262924781694976",
+                "accountId": "451970996274999296",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.biS7Bc0Cwr8K.m3u8",
+                "chatRoomId": "602264405371006977",
+                "status": 2,
+                "version": 45,
+                "createdAt": 1705085030000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "602262924781694977",
+                    "historyId": "939726066623213568",
+                    "channelId": "602262924781694976",
+                    "accountId": "451970996274999296",
+                    "title": "Wet and HORNY ❤️ Make Me Moan? ~ Vibe is ON ~ !menu for redeems!",
+                    "status": 1,
+                    "viewerCount": 48,
+                    "version": 2046,
+                    "createdAt": 1705085031000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785546576000,
+                    "startedAt": 1785542513000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd930e75-5413-45c0-9972-169b08eb7678-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/45536c0a-6a68-48ef-bcfe-79f75fb83100-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "362322507912454144",
+        "username": "MoomochiMoo_",
+        "displayName": "Moomo",
+        "version": 14,
+        "followCount": 11131,
+        "statusId": 3,
+        "accountMediaLikes": 15936,
+        "postLikes": 12096,
+        "about": "The fattest cow 🔞\n\n💌FEEDERISM\n💌300 LB\n💌5.4 FEET\n💌 FETISHES\n💌 ASMR +18\n💌 FULL NSFW\n💌 DIRTY TALK\n💌IRL PICS NUDE\n💌34DD BOOBA!",
+        "location": "Durango",
+        "streaming": {
+            "accountId": "362322507912454144",
+            "channel": {
+                "id": "493553424302878720",
+                "accountId": "362322507912454144",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zptXUThsf8IK.m3u8",
+                "chatRoomId": "493553467210604544",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1679166666000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "493553424302878721",
+                    "historyId": "811472599216312320",
+                    "channelId": "493553424302878720",
+                    "accountId": "362322507912454144",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 35,
+                    "version": 177,
+                    "createdAt": 1679166666000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1754969559000,
+                    "startedAt": 1754964504000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "670934449189298176",
+                                "streamId": "493553424302878721",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

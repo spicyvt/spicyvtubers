@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0137318a-da60-4e41-9f0d-49e1ebd097d5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2fd9ae0-91c9-4229-900e-684ef8bf8429-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "507246807948992512",
+        "username": "daph_vt",
+        "displayName": "daph ♡.ᐟ",
+        "version": 30,
+        "followCount": 43375,
+        "statusId": 1,
+        "accountMediaLikes": 76131,
+        "postLikes": 71429,
+        "about": "big titty 22 yr old hehe 🫶🏻 \ni reply to all msg - sub to get priority ₊˚⊹ᰔ\n🎀 cosplay and lingerie  \n🍒 uncensored tits \n🌸 customs, and dick ratings",
+        "location": "",
+        "streaming": {
+            "accountId": "507246807948992512",
+            "channel": {
+                "id": "535888567168151552",
+                "accountId": "507246807948992512",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.EIERan7PNoah.m3u8",
+                "chatRoomId": "535888592220729344",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1689260150000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "535888567168151553",
+                    "historyId": "727008304798113792",
+                    "channelId": "535888567168151552",
+                    "accountId": "507246807948992512",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 117,
+                    "version": 4426,
+                    "createdAt": 1689260151000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1734834899000,
+                    "startedAt": 1734826647000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "535888883171205122",
+                                "streamId": "535888567168151553",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/998a9f0c-f43a-4e8a-a7e4-42518a1591a8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f8b8dc5-0f87-4b24-97de-d780de8a6c4f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "347880989575356416",
+        "username": "Saruei",
+        "displayName": "Saruei",
+        "version": 16,
+        "followCount": 148276,
+        "statusId": 3,
+        "accountMediaLikes": 148846,
+        "postLikes": 186476,
+        "about": "NSFW animations & Roleplays ASMR \n18+ ~ I hope you enjoy your stay ! ♡\nWebsites ✧ https://solo.to/saruei",
+        "location": "Secret Location",
+        "streaming": {
+            "accountId": "347880989575356416",
+            "channel": {
+                "id": "738944743643295744",
+                "accountId": "347880989575356416",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.QNO6qyW6Pj8N.m3u8",
+                "chatRoomId": "738945359325179904",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1737672515000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "738944743643295745",
+                    "historyId": "752282513140887552",
+                    "channelId": "738944743643295744",
+                    "accountId": "347880989575356416",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 1458,
+                    "version": 495,
+                    "createdAt": 1737672516000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1740859897000,
+                    "startedAt": 1740852487000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "752274225795969024",
+                                "streamId": "738944743643295745",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

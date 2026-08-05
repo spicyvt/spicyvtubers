@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1d9866b-eb78-4b83-8594-58a5ed4b7b5f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09f7b817-4384-4966-9906-24dd757b4a0c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "592654624972873728",
+        "username": "MajoraDragoon",
+        "displayName": "MajoraDragoon",
+        "version": 17,
+        "followCount": 489,
+        "statusId": 3,
+        "accountMediaLikes": 18,
+        "postLikes": 9,
+        "about": "Goon with the Lewd Dragoon ♡\n\nLive every Saturday at 11:30 PM CST",
+        "location": "",
+        "streaming": {
+            "accountId": "592654624972873728",
+            "channel": {
+                "id": "843075449734057985",
+                "accountId": "592654624972873728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.aTKmOa3sMQ4l.m3u8",
+                "chatRoomId": "843075852626321408",
+                "status": 2,
+                "version": 142,
+                "createdAt": 1762499210000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "843075449734057986",
+                    "historyId": "940173770050510848",
+                    "channelId": "843075449734057985",
+                    "accountId": "592654624972873728",
+                    "title": "LOVENSE┃Gaming and Gooning♡",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 74,
+                    "createdAt": 1762499211000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785656522000,
+                    "startedAt": 1785649254000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

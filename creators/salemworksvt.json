@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e99b3a2-f1ce-4cda-b3f7-d14f1122f813-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0afde97c-db53-4006-a600-bb1abb97c53f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "557721142043877376",
+        "username": "SalemWorks",
+        "displayName": "Salem",
+        "version": 5,
+        "followCount": 91,
+        "statusId": 3,
+        "accountMediaLikes": 5,
+        "postLikes": 32,
+        "about": "Welcome to my Love Lounge, Patron. Your personal bat succubi his here to serve you \n(live streams to cum soon ;))\n\nStreamer / Artist / Voice Actress",
+        "location": "your mom",
+        "streaming": {
+            "accountId": "557721142043877376",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

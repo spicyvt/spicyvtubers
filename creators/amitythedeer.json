@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5e2b162-1f44-4ae7-8ebf-99c7279a77b1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa2e83f0-7746-4b83-aece-dabce9bb6996-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "508090083581112320",
+        "username": "AmityDeerWhore",
+        "displayName": null,
+        "version": 4,
+        "followCount": 3634,
+        "statusId": 1,
+        "accountMediaLikes": 13433,
+        "postLikes": 18248,
+        "about": "🦌 Artificer Witch deer\n🎥 Whenever I'm feeling like it.\n💜 Hope you enjoy & see you around~ \n\nOther links 👉 https://linktr.ee/amitythedeer\n",
+        "location": "VR",
+        "streaming": {
+            "accountId": "508090083581112320",
+            "channel": {
+                "id": "524615614866665472",
+                "accountId": "508090083581112320",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NRruznyIiDBd.m3u8",
+                "chatRoomId": "553191016031596544",
+                "status": 2,
+                "version": 92,
+                "createdAt": 1686572469000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "524615614866665473",
+                    "historyId": "931831101696000000",
+                    "channelId": "524615614866665472",
+                    "accountId": "508090083581112320",
+                    "title": "Sex bot online~",
+                    "status": 1,
+                    "viewerCount": 17,
+                    "version": 8277,
+                    "createdAt": 1686572469000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783661587000,
+                    "startedAt": 1783660207000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:24Z"
     }
 }

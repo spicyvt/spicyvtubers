@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4414c621-37a5-4c06-a7d5-594edf6a4f80-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3b8a661-702b-4bf7-945b-0841f268b364-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "816384826503356418",
+        "username": "Vunisse",
+        "displayName": null,
+        "version": 3,
+        "followCount": 2,
+        "statusId": 3,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "Hey, I am using Fansly.",
+        "location": "",
+        "streaming": {
+            "accountId": "816384826503356418",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/925c7cec-f1a7-473e-ad2f-e0428bc0eb63-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/43e4f7c8-4d4b-4de2-98fc-d2148e55e324-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "788524979615444992",
+        "username": "breedablemale",
+        "displayName": null,
+        "version": 3,
+        "followCount": 34,
+        "statusId": 1,
+        "accountMediaLikes": 1,
+        "postLikes": 12,
+        "about": "Check out my links: https://linktr.ee/BreedableMaleNSFW",
+        "location": "",
+        "streaming": {
+            "accountId": "788524979615444992",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

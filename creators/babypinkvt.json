@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a221dc5e-7595-4bba-9ab5-a356521ae8cf-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9021a678-bb06-414a-8ae7-c913a6e735a5-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "557590485711990787",
+        "username": "babypinkasmr",
+        "displayName": "BabyPink",
+        "version": 4,
+        "followCount": 419,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "NSFW Audio, Art & streaming lewd games (not active)",
+        "location": "",
+        "streaming": {
+            "accountId": "557590485711990787",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

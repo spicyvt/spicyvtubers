@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ace6f1a1-75c9-43df-ad00-501105cf6e12-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6eff46d7-d060-4f65-bf0b-c3ff1ccdb187-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "426520449585782784",
+        "username": "ZaelVR",
+        "displayName": "Zael. ~",
+        "version": 6,
+        "followCount": 2617,
+        "statusId": 3,
+        "accountMediaLikes": 1525,
+        "postLikes": 1729,
+        "about": "One day I might know where to go with this.\n\nBut until then, enjoy your stay, hot stuff. <3\n\n\n\n\nEverything of course taken in CVR! ~",
+        "location": "Your wildest dreams",
+        "streaming": {
+            "accountId": "426520449585782784",
+            "channel": {
+                "id": "539847780022104064",
+                "accountId": "426520449585782784",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oDLMSiGgQRWI.m3u8",
+                "chatRoomId": "806867576473796608",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1690204100000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "539847780022104065",
+                    "historyId": null,
+                    "channelId": "539847780022104064",
+                    "accountId": "426520449585782784",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1690204101000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "915101913530265600",
+                                "streamId": "539847780022104065",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

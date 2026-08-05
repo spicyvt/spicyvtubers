@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8eaa3a5-d0f6-402e-a14f-3f21664d1e67-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f09207-00de-4076-8092-f12c2829bb95-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "743951809910943744",
+        "username": "TrixxVT",
+        "displayName": null,
+        "version": 3,
+        "followCount": 137,
+        "statusId": 3,
+        "accountMediaLikes": 78,
+        "postLikes": 91,
+        "about": "⊱ ─── ⋅ʚ♡ɞ⋅ ─── ⊰\n𝑱𝒖𝒔𝒕 𝒂 𝒄𝒉𝒖𝒃𝒃𝒚 𝒑𝒊𝒏𝒌 𝒃𝒖𝒏𝒏𝒚𝒈𝒊𝒓𝒍 𝒘𝒉𝒐 𝒑𝒍𝒂𝒚𝒔 𝒉𝒆𝒏𝒕𝒂𝒊 𝒈𝒂𝒎𝒆𝒔 𝒂𝒏𝒅 𝒚𝒂𝒑𝒔\n⊱ ─── ⋅ʚ♡ɞ⋅ ─── ⊰\n𝙇𝙚𝙩 𝙢𝙚 𝙗𝙚 𝙮𝙤𝙪𝙧 𝙥𝙤𝙘𝙠𝙚𝙩 𝙗𝙪𝙣, 𝙗𝙪𝙩 𝙗𝙚 𝙜𝙚𝙣𝙩𝙡𝙚 𝙖𝙨 𝙄'𝙢 𝙣𝙚𝙬 𝙩𝙤 𝙩𝙝𝙚 𝙗𝙡𝙪𝙚 𝙧𝙚𝙖𝙡𝙢\n\nStreams are free but vods are behind a paywall.\nI will occasionally post IRL pics  ⁿᵒ ᵇᵒᵈʸ ˢʰᵃᵐⁱⁿᵍ\n\n\n⊹ ࣪ ˖ Socials ⊹ ࣪ ˖ -  https://trixxvt.carrd.co/\n",
+        "location": "",
+        "streaming": {
+            "accountId": "743951809910943744",
+            "channel": {
+                "id": "879887612255416320",
+                "accountId": "743951809910943744",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.s6Htw1xAN5Zu.m3u8",
+                "chatRoomId": "879888285395083264",
+                "status": 2,
+                "version": 24,
+                "createdAt": 1771275914000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "879887612255416321",
+                    "historyId": "939688671022428165",
+                    "channelId": "879887612255416320",
+                    "accountId": "743951809910943744",
+                    "title": "♡ ASMR ♡ Succubun brat demands your essense  ︶꒷꒦︶ ๋ ࣭ ⭑",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 32,
+                    "createdAt": 1771275914000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785541596000,
+                    "startedAt": 1785533597000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/946dd277-ec9a-48fe-bc25-6fdbe4031a1c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6b3d390-55b5-442a-be74-b7e40c07da7c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "342888299989311488",
+        "username": "blonde_kat",
+        "displayName": "Blonde Kat",
+        "version": 15,
+        "followCount": 1489,
+        "statusId": 3,
+        "accountMediaLikes": 1714,
+        "postLikes": 1960,
+        "about": "🔞🐱 KATGIRL LEWDTUBER 🐱🔞\n🤍💦 EXHIBITIONIST, BRAT, MASOCHIST 💦🤍\n💖🏳️‍🌈 SHE/HER  -  BISEXUAL 🏳️‍🌈💖\n📱👀 SOCIALS: https://blondekat.carrd.co/ 👀📱",
+        "location": "",
+        "streaming": {
+            "accountId": "342888299989311488",
+            "channel": {
+                "id": "344601087329710080",
+                "accountId": "342888299989311488",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.eKYv522NELR3.m3u8",
+                "chatRoomId": "344664244958015488",
+                "status": 2,
+                "version": 32,
+                "createdAt": 1643653661000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "344601087329710081",
+                    "historyId": "937253873003802624",
+                    "channelId": "344601087329710080",
+                    "accountId": "342888299989311488",
+                    "title": "test, don't pay attention",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 4828,
+                    "createdAt": 1643653662000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784953225000,
+                    "startedAt": 1784953096000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7630025-5cba-4a5e-bae7-d503a6224094-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e8f647a-6b4b-4cc6-a0cf-0a7d17eed18e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "769834920859152385",
+        "username": "chinchilladas",
+        "displayName": null,
+        "version": 3,
+        "followCount": 1174,
+        "statusId": 2,
+        "accountMediaLikes": 3414,
+        "postLikes": 2844,
+        "about": "Cheese Enthusiast and gamer (derogatory) ",
+        "location": "Texas",
+        "streaming": {
+            "accountId": "769834920859152385",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:53Z"
     }
 }

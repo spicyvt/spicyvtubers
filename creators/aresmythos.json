@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb4202b7-49e9-417a-b2b1-b2c8d92efe65-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed62468e-0302-47be-89fb-cab1f44e03a0-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "823837435443032064",
+        "username": "AresMythos",
+        "displayName": "AresMythos",
+        "version": 6,
+        "followCount": 4773,
+        "statusId": 3,
+        "accountMediaLikes": 523,
+        "postLikes": 2524,
+        "about": "Your bratty goddess of war! Fight me, I dare you~\nNSFW art, gaming, IRL, & more! Live every weekend, Friday and/or Saturday between 8-9pm MT!\n5'1 ~95lbs\n\n⋆༺𓆩⚔𓆪༻⋆\n\nSpoil me? https://throne.com/aresmythos | https://throne.com/aresmythosnsfw\n\nTwitch: https://www.twitch.tv/aresmythos\nYouTube: https://www.youtube.com/@AresMythos\nTwitter: https://x.com/AresMythosVT | https://x.com/AresMythosNSFW\n\nEverything else --> https://aresmythos.carrd.co\n\n⋆༺𓆩⚔𓆪༻⋆\n\nUse code FIGHTME for 10% off GamerSupps\n\n⋆༺𓆩⚔𓆪༻⋆\n\nI'm new to this side of things so please be kind as I learn and I'll do my best for you ❤️\n\n⋆༺𓆩⚔𓆪༻⋆\n\n⚠️ Reposting/sharing my content is strictly prohibited! ⚠️",
+        "location": "",
+        "streaming": {
+            "accountId": "823837435443032064",
+            "channel": {
+                "id": "880106830200578048",
+                "accountId": "823837435443032064",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oSmRv5WpzPj6.m3u8",
+                "chatRoomId": "880107056252612608",
+                "status": 2,
+                "version": 32,
+                "createdAt": 1771328179000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "880106830200578049",
+                    "historyId": "940152407113879552",
+                    "channelId": "880106830200578048",
+                    "accountId": "823837435443032064",
+                    "title": "⚔️🥀 Back from OffKai! | Late night gooning sesh 😝 | Lovense ON | !tipmenu !throne !gg !socials",
+                    "status": 1,
+                    "viewerCount": 73,
+                    "version": 36,
+                    "createdAt": 1771328180000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785657807000,
+                    "startedAt": 1785644161000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "883955415409250305",
+                                "streamId": "880106830200578049",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "883955415409250306",
+                                "streamId": "880106830200578049",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:21:18Z"
     }
 }

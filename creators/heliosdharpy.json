@@ -23,5 +23,76 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/321996bc-e8bf-4cea-b9f3-c1004c256621-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9ec7c71-db5b-463b-ac92-60d6c24dc5b6-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "319870393609363456",
+        "username": "HeliosDHarpy",
+        "displayName": "Helios D. Harpy",
+        "version": 11,
+        "followCount": 56,
+        "statusId": 1,
+        "accountMediaLikes": 8,
+        "postLikes": 27,
+        "about": "They/Them\nFem/Masc content \n18+ \nCosplay, feet pics, used lacy unmentionables.\n",
+        "location": "East Blue",
+        "streaming": {
+            "accountId": "319870393609363456",
+            "channel": {
+                "id": "565085035972014080",
+                "accountId": "319870393609363456",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.tOzxfGXGPGYl.m3u8",
+                "chatRoomId": "587162392681521152",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1696221131000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "565085035972014081",
+                    "historyId": "784724822910312448",
+                    "channelId": "565085035972014080",
+                    "accountId": "319870393609363456",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 4494,
+                    "createdAt": 1696221131000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1748590434000,
+                    "startedAt": 1748587337000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "642577886695399424",
+                                "streamId": "565085035972014081",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "642577886695399425",
+                                "streamId": "565085035972014081",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":2000}\"}"
+                            },
+                            {
+                                "id": "642577886695399426",
+                                "streamId": "565085035972014081",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

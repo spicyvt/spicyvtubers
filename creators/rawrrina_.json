@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64bcc9aa-ce29-4217-aff6-ac96ce6a8cf8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/491dcb04-31ae-4319-8e30-3cfb51b812bf-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "644737093553102848",
+        "username": "RiniLewd",
+        "displayName": "RiniLewd",
+        "version": 4,
+        "followCount": 15477,
+        "statusId": 3,
+        "accountMediaLikes": 22689,
+        "postLikes": 25454,
+        "about": "✨ ─・ Rawr~ I'm Rini, Triceratops Vtuber ・─ ✨\n\n・─ ୨💚୧ ENG/SPA\n・─ ୨💚୧ Soft & hard kinks\n・─ ୨💚୧ Submissive (I can be switch)\n・─ ୨💚୧ Content without showing genitals\n・─ ୨💚୧ She/her\n・─ ୨💚୧ (+18) ASMR RP | Streams\n\nAll content is under copyright. Enforced by bruqi.com.",
+        "location": "Rawrland<3",
+        "streaming": {
+            "accountId": "644737093553102848",
+            "channel": {
+                "id": "648785382040678400",
+                "accountId": "644737093553102848",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.cFATitDsh50f.m3u8",
+                "chatRoomId": "660030581630840832",
+                "status": 2,
+                "version": 90,
+                "createdAt": 1716176848000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "648785382040678401",
+                    "historyId": "940541166972059649",
+                    "channelId": "648785382040678400",
+                    "accountId": "644737093553102848",
+                    "title": "Me veras sin nada hoy? ^_^ // @RiniLewd @RiniThicc",
+                    "status": 1,
+                    "viewerCount": 140,
+                    "version": 5239,
+                    "createdAt": 1716176849000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785746554000,
+                    "startedAt": 1785736848000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "881440943008411648",
+                                "streamId": "648785382040678401",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:51Z"
     }
 }

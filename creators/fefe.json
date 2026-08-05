@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/27ddfcb9-c725-4998-a9d9-c865bfff4385-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/688eb626-27d0-44e5-94d4-c8b95ecb73ff-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "299720777228365824",
+        "username": "FeFe",
+        "displayName": "FeFe",
+        "version": 8,
+        "followCount": 291715,
+        "statusId": 3,
+        "accountMediaLikes": 327834,
+        "postLikes": 395691,
+        "about": "NSFW • Punk • Lewdtuber ★💋\nPunk-ass bitch here to kick rocks & milk cocks!\nFat ass, big tits, and I really love dicks <3\n\n━━━ ★ What you’ll find here ★ ━━━\n\n♥️ IRL pics\n♥️ Cosplays\n♥️ Sexting\n♥️ NSFW streams\n♥️ Custom audios that’ll ruin your brain forever\n\n━━━ ★ Please note ★ ━━━\n\nI reply to everyone in DMs, but it might take a little time —\nbe patient and I promise I’ll get to you 💋\nSpeak soon~",
+        "location": "Your Bed ?",
+        "streaming": {
+            "accountId": "299720777228365824",
+            "channel": {
+                "id": "300936364558393344",
+                "accountId": "299720777228365824",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4sUlZ9Ws6zsP.m3u8",
+                "chatRoomId": "394770187879981056",
+                "status": 2,
+                "version": 24,
+                "createdAt": 1633243180000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "300936364558393345",
+                    "historyId": "902067916462104576",
+                    "channelId": "300936364558393344",
+                    "accountId": "299720777228365824",
+                    "title": "NAKED BUNNY GIRL",
+                    "status": 1,
+                    "viewerCount": 837,
+                    "version": 9019,
+                    "createdAt": 1633243180000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776569737000,
+                    "startedAt": 1776564110000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:28Z"
     }
 }

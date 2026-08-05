@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f72022-9099-4a1d-946f-b0e9aa8ef64a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8587603-15dd-4299-b2d5-de6701ea9bcd-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "746086098781876224",
+        "username": "MaraVespidae",
+        "displayName": "Mara Vespidae",
+        "version": 9,
+        "followCount": 4676,
+        "statusId": 3,
+        "accountMediaLikes": 4935,
+        "postLikes": 5175,
+        "about": "British Mommy, Ready To Serve...or Be Served~♡\n           ⊹₊ ˚‧︵‿₊୨୧₊‿︵‧ ˚ ₊⊹\n\nStreams every Saturday at 6pm BST ♡\n\nVtuber & voice actress, creating lewd audio roleplays & IRL pics ♡\n(Sometimes I cosplay too ♡ no irl nudity)\n\nMore spicy audios > https://www.patreon.com/MaraVespidae\nTwitter: https://x.com/MaraVNSFW\nSuggest an Outfit? > https://throne.com/maravespidae",
+        "location": "",
+        "streaming": {
+            "accountId": "746086098781876224",
+            "channel": {
+                "id": "850422595500142593",
+                "accountId": "746086098781876224",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.KzPQWgH1MfaB.m3u8",
+                "chatRoomId": "850443094603091970",
+                "status": 2,
+                "version": 61,
+                "createdAt": 1764250906000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "850422595500142594",
+                    "historyId": "939983087180206080",
+                    "channelId": "850422595500142593",
+                    "accountId": "746086098781876224",
+                    "title": "Priestess Edging Challenge - Can you Break Me~? !tipmenu",
+                    "status": 1,
+                    "viewerCount": 18,
+                    "version": 106,
+                    "createdAt": 1764250907000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785610628000,
+                    "startedAt": 1785603792000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "850443047660441600",
+                                "streamId": "850422595500142594",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

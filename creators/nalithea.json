@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b7daa2e-b080-4973-a368-5e9580296dd1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b08db32b-fcf8-4436-8bf1-eac81b3e1587-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "452151209327861760",
+        "username": "Nalithea",
+        "displayName": "Nalithea",
+        "version": 4,
+        "followCount": 9101,
+        "statusId": 2,
+        "accountMediaLikes": 9224,
+        "postLikes": 5938,
+        "about": "Hey, I'm Nalithea💖\nMy streams are FREE for all FOLLOWERS😍\nPlease enjoy yourself by using my content😘\n💕Here are all my socials -> https://nalithea.com <- 💕\n\nAbout me:\n⬆️Solo-leveling on Fansly⬆️\n✨Slavic girl from Eastern Europe✨\n💃Retired actress & rhythmic gymnast🤸\n👁️Knowing a lot about the human eye & optics👓\n🎮Passionate for fast-paced & dynamic video games 🎮\n\n",
+        "location": "In ur mind",
+        "streaming": {
+            "accountId": "452151209327861760",
+            "channel": {
+                "id": "708572574094733312",
+                "accountId": "452151209327861760",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hROL1zh5Y9I5.m3u8",
+                "chatRoomId": "708574284473180161",
+                "status": 2,
+                "version": 23,
+                "createdAt": 1730431226000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "708572574094733313",
+                    "historyId": "940051746716147712",
+                    "channelId": "708572574094733312",
+                    "accountId": "452151209327861760",
+                    "title": "❤️I am anxious, pls be gentle ❤️",
+                    "status": 1,
+                    "viewerCount": 48,
+                    "version": 3251,
+                    "createdAt": 1730431226000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785623127000,
+                    "startedAt": 1785620161000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "818998470424666112",
+                                "streamId": "708572574094733313",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "818998470424666113",
+                                "streamId": "708572574094733313",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":1000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

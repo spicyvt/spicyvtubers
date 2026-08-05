@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/36ed80a0-aa58-483e-8215-e3ea588fe47d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/17a95450-c69a-4611-b03c-04424a7de9e8-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "622842290389393408",
+        "username": "NocturnaVon",
+        "displayName": "NocturnaVon ",
+        "version": 23,
+        "followCount": 89,
+        "statusId": 1,
+        "accountMediaLikes": 8,
+        "postLikes": 15,
+        "about": "Your favorite goth mommy returns to fansly 4/2025!!! ",
+        "location": "",
+        "streaming": {
+            "accountId": "622842290389393408",
+            "channel": {
+                "id": "799734687864991744",
+                "accountId": "622842290389393408",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Fe6UpwpihduX.m3u8",
+                "chatRoomId": "799763868745216000",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1752165967000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "799734687864991745",
+                    "historyId": "799763705641312256",
+                    "channelId": "799734687864991744",
+                    "accountId": "622842290389393408",
+                    "title": "YOUR GOTH MOTHER RETURNS",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 20,
+                    "createdAt": 1752165968000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1752175803000,
+                    "startedAt": 1752172886000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "799734940219482112",
+                                "streamId": "799734687864991745",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

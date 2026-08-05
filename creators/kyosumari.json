@@ -23,5 +23,76 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d665c95-a8f7-4e66-b3ac-a355174e5798-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd38183a-a4ac-4b2f-b5da-691b21d75a90-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "530915988254760960",
+        "username": "Kyosumari",
+        "displayName": "Kyosumari",
+        "version": 9,
+        "followCount": 63,
+        "statusId": 1,
+        "accountMediaLikes": 19,
+        "postLikes": 14,
+        "about": "She/They | 32 | ThiccAF | AsianBBW | ENG\n18+ Artist / VTuber / VA\nSilky & Smoky-Voiced Waifu-Bait with the Soft Dommy Mommy vibes.\nCosmic Slime\n🌌💎🖊️🔞\n\nVGen (Artist Code Needed)\nhttps://vgen.co/Kyosumari\n\nDiscord\nhttps://discord.gg/DSpQgcCdFJ\n\nWebsite (Carrd)\nhttps://kyosumari.carrd.co/\n\n🔞  Twitter \nhttps://twitter.com/kyosumari\n\nTwitch\nhttp://twitch.tv/Kyosumari\n\nKo-Fi/Shop (Asset Store & Donations)\nhttps://ko-fi.com/kyosumari\n\n🔞  Patreon \nhttps://patreon.com/Kyosumari\n\nTips (through StreamElements)\nhttps://streamelements.com/kyosumari/tip\n\nThrone Wishlist & Viewer Suggested Gifts\nhttps://throne.com/kyosumari/wishlist\n\nYouTube\nhttps://www.youtube.com/@Kyosumari\n________________________________________________\n\nI am... a freelance & commissioning artist who creates mature and entertainment-focused illustrations, character designs, digital assets & audio-focused entertainment as an artist & aspiring VA - With variety content on the side!\n\nThough my main focus remains on character design and being a spicy content creator, I also create Icons, Logos, Emotes, Model Designs, Reference Sheets, and Overlay assets for other streamers and virtual personalities!\n\nMy main content will consist of femme/female characters, illustrations, sketches, and NSFW/Adult material and themes soaked in saturation, high gloss, and a lot of sparkle!\n________________________________________________\n\n♥ Where indulgence meets creativity ♥.",
+        "location": "USA",
+        "streaming": {
+            "accountId": "530915988254760960",
+            "channel": {
+                "id": "784416165387579392",
+                "accountId": "530915988254760960",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.s200RitENsIc.m3u8",
+                "chatRoomId": "784416199579541505",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1748513747000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "784416165387579393",
+                    "historyId": "784958691823591425",
+                    "channelId": "784416165387579392",
+                    "accountId": "530915988254760960",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 764,
+                    "createdAt": 1748513748000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1748649809000,
+                    "startedAt": 1748643095000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "784958594138255360",
+                                "streamId": "784416165387579393",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "784958594138255361",
+                                "streamId": "784416165387579393",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":500}\"}"
+                            },
+                            {
+                                "id": "784958594138255362",
+                                "streamId": "784416165387579393",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc3c33e5-095b-4e54-be21-28e5179fc5f0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72d5d6a4-3b17-48f2-9075-d515a2568202-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "387707545541681152",
+        "username": "Callixir",
+        "displayName": "Callix",
+        "version": 17,
+        "followCount": 721,
+        "statusId": 1,
+        "accountMediaLikes": 145,
+        "postLikes": 135,
+        "about": "Meowdy!!! I am Callix AKA Cal or Calli, your silly little frankenskank who likes to be a lil spicy~ \nI am a subby lil switch slut who loves to be told what to do. My fave kinks are edging, orgasm denial, choking, being gagged and tied up, breeding, and  voyeurism / exhibitionism ♡\n\nPlease be SUPER aware, I will NOT do any IRL stuff\n\nI love being a spoiled little whore ♡ : https://throne.com/callixir\n\nAll socials : https://callixir.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "387707545541681152",
+            "channel": {
+                "id": "549406409322672128",
+                "accountId": "387707545541681152",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.EkpXAo9zpiZW.m3u8",
+                "chatRoomId": "549407630154539008",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1692483055000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "549406409322672129",
+                    "historyId": "845184814230294529",
+                    "channelId": "549406409322672128",
+                    "accountId": "387707545541681152",
+                    "title": "Showing off the new model!",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 2043,
+                    "createdAt": 1692483055000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1763010593000,
+                    "startedAt": 1763002122000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "549406877406998528",
+                                "streamId": "549406409322672129",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

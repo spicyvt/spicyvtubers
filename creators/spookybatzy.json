@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/01a61fca-2c3c-4019-b29e-fd19cec6fc0c-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6e872e8-4f96-4fae-b797-4d2c716be76f-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "546976177516978177",
+        "username": "SpookyBatzy",
+        "displayName": "Batzy",
+        "version": 9,
+        "followCount": 439,
+        "statusId": 1,
+        "accountMediaLikes": 69,
+        "postLikes": 96,
+        "about": "STREAMS EVERY SUN @ 11:30 PM EST\nThe cutest bubblegum goth vampire bat who is the perfect blend of sweet, cozy, and chaotic. With big ears, big eyes, and a big heart comes a bigger personality and even bigger assets! She'll drive you absolutely batty!",
+        "location": "",
+        "streaming": {
+            "accountId": "546976177516978177",
+            "channel": {
+                "id": "902762842015428608",
+                "accountId": "546976177516978177",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.PA5989obbb1Y.m3u8",
+                "chatRoomId": "902763010416730112",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1776729794000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "902762842015428609",
+                    "historyId": "940882523498508296",
+                    "channelId": "902762842015428608",
+                    "accountId": "546976177516978177",
+                    "title": "[NEW TOY] Cum help me test it~ | !tipmenu !kinks !socials",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 12,
+                    "createdAt": 1776729794000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785825689000,
+                    "startedAt": 1785818234000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "902762877193039872",
+                                "streamId": "902762842015428609",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

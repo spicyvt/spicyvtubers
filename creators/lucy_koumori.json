@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a9c7d7a8-8fd0-4680-8795-498690e166af-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dcec4c25-2046-490c-8f1a-adde20cb8146-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "612859401589501952",
+        "username": "Lucy_Koumori",
+        "displayName": "Lucy Koumori",
+        "version": 5,
+        "followCount": 1390,
+        "statusId": 1,
+        "accountMediaLikes": 408,
+        "postLikes": 329,
+        "about": "English speaking Succubus, who streams Weekends around 6-8 pm EST. \nCUMBACK JULY 25TH 5PM EST\nOccasional IRL posts\nVRChat Posts\nStream VODs\nNSFW Artwork\n\n3D Model made by Zenidora on X\n\nTwitch: https://www.twitch.tv/lucy_koumori\nThrone: https://throne.com/lucykoumori\nLovense: https://www.lovense.com/wish-list/jv2k",
+        "location": "On your lap",
+        "streaming": {
+            "accountId": "612859401589501952",
+            "channel": {
+                "id": "618956200096047104",
+                "accountId": "612859401589501952",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7RQYUtDt40mj.m3u8",
+                "chatRoomId": "621480426036273152",
+                "status": 2,
+                "version": 32,
+                "createdAt": 1709065017000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "618956200096047105",
+                    "historyId": "937510060488151040",
+                    "channelId": "618956200096047104",
+                    "accountId": "612859401589501952",
+                    "title": "First day back in 9 months! | LOVENSE OFF ˚ʚ♡ɞ˚ !toy !socials !throne",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 4972,
+                    "createdAt": 1709065018000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785018142000,
+                    "startedAt": 1785014176000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

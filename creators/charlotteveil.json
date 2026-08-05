@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb9671e2-4c10-421e-b884-1ae977118e86-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d65542ad-e76a-4275-a611-1f5c241442ba-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "710849407515369472",
+        "username": "CharlotteVeil",
+        "displayName": "CharlotteVeil",
+        "version": 3,
+        "followCount": 2584,
+        "statusId": 1,
+        "accountMediaLikes": 2934,
+        "postLikes": 5777,
+        "about": "Let me suck your d*** before going to meet your parents \nhttps://www.twitch.tv/charlotteveil",
+        "location": "",
+        "streaming": {
+            "accountId": "710849407515369472",
+            "channel": {
+                "id": "854915088656658432",
+                "accountId": "710849407515369472",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.61LbQ5d1jKoR.m3u8",
+                "chatRoomId": "854915741374226432",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1765322000000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "854915088656658433",
+                    "historyId": "854916753606594560",
+                    "channelId": "854915088656658432",
+                    "accountId": "710849407515369472",
+                    "title": "1st Time on Fansly! ",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2,
+                    "createdAt": 1765322001000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1765322438000,
+                    "startedAt": 1765322397000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "854916032920297472",
+                                "streamId": "854915088656658433",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"851193038049914880\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

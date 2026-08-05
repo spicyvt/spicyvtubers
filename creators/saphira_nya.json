@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/048fe69d-0ff6-4f96-ad09-f2c61923c809-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95eeb80d-16ac-4dad-a3a8-b87db97402ca-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "321809629598199808",
+        "username": "Saphiray",
+        "displayName": "Saphira_Nya",
+        "version": 9,
+        "followCount": 5433,
+        "statusId": 1,
+        "accountMediaLikes": 8748,
+        "postLikes": 12302,
+        "about": "🩵 Silly English Catgirl Vtuber 🩵 Flirty & Teasy af 🩵 Lewd af~ 🩵 \n🩵 content includes: Reallife and Virtual Content 🩵",
+        "location": "Socials : https://saphira-nya.carrd.co/#",
+        "streaming": {
+            "accountId": "321809629598199808",
+            "channel": {
+                "id": "471819528871882752",
+                "accountId": "321809629598199808",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Tt1HAlPkLuAG.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1673984901000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "471819528871882753",
+                    "historyId": null,
+                    "channelId": "471819528871882752",
+                    "accountId": "321809629598199808",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1673984902000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "785371551884128256",
+                                "streamId": "471819528871882753",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

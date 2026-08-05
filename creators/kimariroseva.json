@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a4c7769-2e32-49bd-9034-fffb0fe5c0cf-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3aa0cbf6-ff19-4b43-9e66-af6d530abf18-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "831751369760202752",
+        "username": "KimariRoseVA",
+        "displayName": "KimariRoseVA",
+        "version": 10,
+        "followCount": 46,
+        "statusId": 1,
+        "accountMediaLikes": 2,
+        "postLikes": 4,
+        "about": "Intimate, playful, sleepy ✧ writer & editor // cheeky sub VA // Dreamweaver VTuber ",
+        "location": "Your dreams... or nightmares",
+        "streaming": {
+            "accountId": "831751369760202752",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

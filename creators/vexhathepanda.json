@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d597de16-98f2-4e9a-9961-efe2684ac520-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b28cb4e2-332c-45c2-b596-8283abed85ec-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "493165141605490688",
+        "username": "VexhaThePanda",
+        "displayName": "VexhaThePanda",
+        "version": 21,
+        "followCount": 225,
+        "statusId": 1,
+        "accountMediaLikes": 41,
+        "postLikes": 65,
+        "about": "Hellooo I'm Panda, your friendly local fuck toy 🐼 \nFollow me for free lewds and subscribe for my older full vids (I no longer do fansly specific content but treat this as a place to upload my joystick.tv stream VODs.).\n\n💙-Switch(depends on the mood)\n💜-He/Him\n💙-Secret con non-con enjoyer (don't underestimate the level of roughness I enjoy)\n💜-DIRTY TALK\n💙-Breeder of fat asses or cocks\n\n",
+        "location": "Hopefully in your guts or on your cock",
+        "streaming": {
+            "accountId": "493165141605490688",
+            "channel": {
+                "id": "646539781081145344",
+                "accountId": "493165141605490688",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vELJQqr6YcHh.m3u8",
+                "chatRoomId": "646539822776725504",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1715641455000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "646539781081145345",
+                    "historyId": "701199478362746882",
+                    "channelId": "646539781081145344",
+                    "accountId": "493165141605490688",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 292,
+                    "createdAt": 1715641456000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1728673780000,
+                    "startedAt": 1728673343000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

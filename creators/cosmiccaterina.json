@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0fb980e-d8a9-4c14-86b0-0d8f5b5ee148-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c8e655c-463a-4360-a541-b090cbe2b05a-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "736496564184293376",
+        "username": "Cosmiccaterina",
+        "displayName": "CosmicCaterina",
+        "version": 3,
+        "followCount": 2311,
+        "statusId": 1,
+        "accountMediaLikes": 1159,
+        "postLikes": 626,
+        "about": "Your newest supernova desire!\nJust a bratty, poly, degen wanting to have a bit of fun <3\nDon't mind me, I can be a bit (very) oblivious sometimes",
+        "location": "",
+        "streaming": {
+            "accountId": "736496564184293376",
+            "channel": {
+                "id": "817425731825983488",
+                "accountId": "736496564184293376",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yiQQG77diJB0.m3u8",
+                "chatRoomId": "817426579352203264",
+                "status": 2,
+                "version": 47,
+                "createdAt": 1756383841000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "817425731825983489",
+                    "historyId": "937505819795136524",
+                    "channelId": "817425731825983488",
+                    "accountId": "736496564184293376",
+                    "title": "I'm not prepared for this suffering <3 Playing FFXIV",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 86,
+                    "createdAt": 1756383841000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785024710000,
+                    "startedAt": 1785013165000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "920432021698781184",
+                                "streamId": "817425731825983489",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:06Z"
     }
 }

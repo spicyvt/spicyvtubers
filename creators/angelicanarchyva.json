@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/621a6110-a9b8-4eb2-b5f1-6a30a747bb2d-profile_image-70x70.png",
         "bannerImageUrl": null
+    },
+    "fansly": {
+        "id": "467962011792187392",
+        "username": "AngelicAnarchy",
+        "displayName": "Angelic 🎃",
+        "version": 20,
+        "followCount": 7364,
+        "statusId": 3,
+        "accountMediaLikes": 17974,
+        "postLikes": 12456,
+        "about": "🦊Pumpkin-Spiced Lewdtuber Aussie 🎃\n📆LIVE STREAMS Weekly Follower +  Sub/ PPV\n🌈Girl kisser - sinfully sweet Hedonist 😇\n💕Exclusive Videos and Photo |✨SUB Perks ✨| \n\n⬇️Check out all links for more content ⬇️\n    ✨ https://linktr.ee/angelicanarchy ✨\n\n💖Treat me? 💖\n https://throne.com/angelicanarchy \n https://www.lovense.com/wish-list/du0j \n\n+.·:·.✧ ✦ ✧.·:·.+✧ ✦ ✧.·:·.+✧ ✦ ✧.·:·.+✧ ✦ ✧.·:·.+ \n\n❥Lovense Affiliate Link! Give the Gift of a orgasm!\n╰┈➤ https://www.lovense.com/r/kf568a\n\n+.·:·.✧ ✦ ✧.·:·.+✧ ✦ ✧.·:·.+✧ ✦ ✧.·:·.+✧ ✦ ✧.·:·.+\n\nDue to personal health issues, I tend to take content breaks regularly, Thank You for understanding and supporting me <3\n\nModels: \nPersonal made by myself // All Other Models are made by Heartmarksman!",
+        "location": "virtuwuheaven",
+        "streaming": {
+            "accountId": "467962011792187392",
+            "channel": {
+                "id": "608528458301054978",
+                "accountId": "467962011792187392",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.obo4k60m7GFF.m3u8",
+                "chatRoomId": "608528709850247168",
+                "status": 2,
+                "version": 146,
+                "createdAt": 1706578850000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "608528458301054979",
+                    "historyId": "939379115495014400",
+                    "channelId": "608528458301054978",
+                    "accountId": "467962011792187392",
+                    "title": "im back!! semi mute vibe + tips= unmuted moans| !commands !menu",
+                    "status": 1,
+                    "viewerCount": 41,
+                    "version": 4523,
+                    "createdAt": 1706578850000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785465507000,
+                    "startedAt": 1785459793000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "939929928231567360",
+                                "streamId": "608528458301054979",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

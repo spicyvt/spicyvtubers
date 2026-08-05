@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a9a1cc0-eb23-4717-9955-d80d72197f5e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5afe91ce-6fa9-4f4c-ad3b-2cab48c8b44e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "463236956550082560",
+        "username": "emucchi",
+        "displayName": "Numelhunter",
+        "version": 7,
+        "followCount": 1311,
+        "statusId": 1,
+        "accountMediaLikes": 3345,
+        "postLikes": 1791,
+        "about": "WISHLIST: https://thrn.co/u/emucchi\nTWITCH: https://www.twitch.tv/emucchi\nSOCIALS: https://emucchi.uwu.ai/\n",
+        "location": "",
+        "streaming": {
+            "accountId": "463236956550082560",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

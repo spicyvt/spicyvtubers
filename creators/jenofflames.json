@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d6f150b-51f7-48a9-b106-361e7a2c0886-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c614d77-4832-425a-a863-98f076cf2465-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "534207918812180481",
+        "username": "JenofFlames",
+        "displayName": null,
+        "version": 3,
+        "followCount": 150,
+        "statusId": 3,
+        "accountMediaLikes": 119,
+        "postLikes": 110,
+        "about": "Just a sussy redhead that's sometimes ok at flirting. Figuring life out while torturing you along the way 😈🔥\n\n🔥 Domme\n🔥 BDSM / Kink Friendly\n\nSpoil me: https://throne.com/jenofflames",
+        "location": "",
+        "streaming": {
+            "accountId": "534207918812180481",
+            "channel": {
+                "id": "577453514733662208",
+                "accountId": "534207918812180481",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.XYZxbUHXR0uF.m3u8",
+                "chatRoomId": "577708092347654144",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1699170006000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "577453514733662209",
+                    "historyId": "628120978253160449",
+                    "channelId": "577453514733662208",
+                    "accountId": "534207918812180481",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 344,
+                    "createdAt": 1699170006000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1711255441000,
+                    "startedAt": 1711250071000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

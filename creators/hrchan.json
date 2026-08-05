@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfa0aa8c-3a7d-42c8-bf2c-94452fc67bdd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e35a419-7717-4ed1-b5b9-0091002de22a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "780295809966026753",
+        "username": "HagRelations",
+        "displayName": "HR Chan",
+        "version": 5,
+        "followCount": 2153,
+        "statusId": 3,
+        "accountMediaLikes": 2964,
+        "postLikes": 4515,
+        "about": "HR after hours, before hours, and sometimes during hours. We follow cumpliance here.\n\nI post lewd and nude art. Lewd IRL and NSFW AUDIOS!\n\nYou should get one of these, so you can play with me. \nM: https://www.lovense.com/r/cltimm\nF: https://www.lovense.com/r/wgj56l",
+        "location": "",
+        "streaming": {
+            "accountId": "780295809966026753",
+            "channel": {
+                "id": "782285446347501568",
+                "accountId": "780295809966026753",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7bf6AlkUWrMv.m3u8",
+                "chatRoomId": "782286034032402432",
+                "status": 2,
+                "version": 16,
+                "createdAt": 1748005744000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "782285446347501569",
+                    "historyId": "928381080585650176",
+                    "channelId": "782285446347501568",
+                    "accountId": "780295809966026753",
+                    "title": "Toy control while I try to play Marvel Rivals. Cum play with me ;3",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 84,
+                    "createdAt": 1748005744000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782845240000,
+                    "startedAt": 1782837658000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "928348859439017985",
+                                "streamId": "782285446347501569",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"809524567939751936\\\",\\\"label\\\":\\\"VIP\\\"}\"}"
+                            },
+                            {
+                                "id": "928348859439017986",
+                                "streamId": "782285446347501569",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

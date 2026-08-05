@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6842e31-0d7e-47b7-ae05-6359ea634cb0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/665689fd-2c2a-4484-b06f-54f15a0393ee-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "707698221408858113",
+        "username": "NekoalexkiVR",
+        "displayName": "NekoalexkiVR",
+        "version": 8,
+        "followCount": 3127,
+        "statusId": 1,
+        "accountMediaLikes": 2695,
+        "postLikes": 2218,
+        "about": "NSFW VR Actress\nI aim to be your FinDom little Biscuit,\n\nNO! AI! \nWill Block You for 24 Hours for calling me cutie -\nfast unblock Pay Stupid fee of 25 $ tip \n\n💋I read and reply to all messages~! Please be patient💋\n\nThe Bratty Charm\n\nVRCTemptress | Virtual Trouble in Heels\nToo cute to behave, too bold to stop.\nI create, I play, I tease — and I always keep it fun.\nYou’ve been warned 💋\nAll of my content is copyrighted content that I own. \nI Dont own rights to any of the music on my streams ",
+        "location": "stream On the 17th",
+        "streaming": {
+            "accountId": "707698221408858113",
+            "channel": {
+                "id": "707784016853479428",
+                "accountId": "707698221408858113",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.1P9C5xp9rdYh.m3u8",
+                "chatRoomId": "708878605244964865",
+                "status": 2,
+                "version": 173,
+                "createdAt": 1730243219000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "707784016853479429",
+                    "historyId": "939740780593946624",
+                    "channelId": "707784016853479428",
+                    "accountId": "707698221408858113",
+                    "title": " Mommy Is Horny For Your cUM  Lets Make Some Noise Vrchat Gothic ",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 3503,
+                    "createdAt": 1730243220000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785548262000,
+                    "startedAt": 1785546021000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "707797276021501952",
+                                "streamId": "707784016853479429",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

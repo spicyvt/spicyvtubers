@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb77b00a-ebb3-40ad-9072-9c709b47ce0e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc14b317-bb34-429e-8065-f00dabc51e5f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "523682893222912000",
+        "username": "MrNick_VT",
+        "displayName": "Mr. Nick VT",
+        "version": 6,
+        "followCount": 32,
+        "statusId": 1,
+        "accountMediaLikes": 1,
+        "postLikes": 23,
+        "about": "Rule 34 of the Internet: \"If it exists, there is porn of it.\"\n\nWelcome to the sexy side of Mr. Nick. Here on Fansly, I stream some Not Safe For Twitch (NSFT) mods on games, Hentai games and watch and react to smut and more. When I'm not live, here you can see some of my exclusive lewd commissions made by real artists and some of my tattoos that I can't show in public.\n\nIf I get a least 20 active subscribers, then I might consider doing a lewd cosplay photoshoot. 👀",
+        "location": "At the Hotel Motel Holiday Inn",
+        "streaming": {
+            "accountId": "523682893222912000",
+            "channel": {
+                "id": "732218241547513856",
+                "accountId": "523682893222912000",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wd3V93jP9Vjc.m3u8",
+                "chatRoomId": "732434468509327360",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1736068792000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "732218241547513857",
+                    "historyId": "741181780668719104",
+                    "channelId": "732218241547513856",
+                    "accountId": "523682893222912000",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 2148,
+                    "createdAt": 1736068792000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1738215260000,
+                    "startedAt": 1738205867000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

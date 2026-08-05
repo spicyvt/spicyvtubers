@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/99597ff4-0535-4e6b-8e22-ca7846436ebd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee702f88-2653-484c-b602-f921e879853e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "619129715071918081",
+        "username": "NgReimond",
+        "displayName": "Ng Reimond",
+        "version": 4,
+        "followCount": 1237,
+        "statusId": 3,
+        "accountMediaLikes": 552,
+        "postLikes": 1377,
+        "about": "IRL horny account.",
+        "location": "",
+        "streaming": {
+            "accountId": "619129715071918081",
+            "channel": {
+                "id": "619392343535005696",
+                "accountId": "619129715071918081",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.83t2V7YNnS9x.m3u8",
+                "chatRoomId": "619449966284255233",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1709169002000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "619392343535005697",
+                    "historyId": "914177532452937728",
+                    "channelId": "619392343535005696",
+                    "accountId": "619129715071918081",
+                    "title": "Wanan control my lovense toy~?",
+                    "status": 1,
+                    "viewerCount": 18,
+                    "version": 6831,
+                    "createdAt": 1709169003000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1779457505000,
+                    "startedAt": 1779451268000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

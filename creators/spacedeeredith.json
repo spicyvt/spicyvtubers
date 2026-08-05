@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/04ec644e-8257-4e95-b4e4-9b14afb419e0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ab50fddf-8986-4fe3-b965-5a3443206bb8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "733900454366294016",
+        "username": "SpicyDeerEdith",
+        "displayName": null,
+        "version": 3,
+        "followCount": 3,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "I'm just a silly deer with a lot of mom energy who wants to share her love with the world! I make custom audio clips full of comfort, praise, and encouragement...but I like to get naughty too! Which is your preference?\n\nExamples of stuff I'll do for you:\n♡ Whisper your name softly and lovingly\n♡ Call you a Good Boy / Good Girl / Good Pet\n♡ Give you encouragement and support\n♡ Help you relieve some tension with JOI (Getting Spicy or Fully Lewd only)\n♡ Let you listen to my moans while I play with myself using my toy (Fully Lewd only)\n\nAll of my tiers come with DM privileges so you can tell me exactly what you want me to say (or just chat with me)!\n\nFind me on other sites: https://linktr.ee/spacedeeredith",
+        "location": "Maryland, United States",
+        "streaming": {
+            "accountId": "733900454366294016",
+            "channel": {
+                "id": "891443597893713920",
+                "accountId": "733900454366294016",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.tOttzniVe5wp.m3u8",
+                "chatRoomId": "891443982557532160",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1774031076000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "891443597893713921",
+                    "historyId": null,
+                    "channelId": "891443597893713920",
+                    "accountId": "733900454366294016",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1774031076000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

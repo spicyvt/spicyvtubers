@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ce6e1c4-df4a-4f3e-a0e1-ed180bfafbdc-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3a79b52-25e6-47fd-88df-6b2dac45a57c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "382993414821523456",
+        "username": "Vamperika",
+        "displayName": "Vamperika",
+        "version": 6,
+        "followCount": 879,
+        "statusId": 1,
+        "accountMediaLikes": 159,
+        "postLikes": 224,
+        "about": "Your lavender vampire villainess that wants to tempt your desires.\n\nPlanning on streaming 1-2 times a month and posting lewd audios and photos relatively soon.",
+        "location": "The Cave",
+        "streaming": {
+            "accountId": "382993414821523456",
+            "channel": {
+                "id": "477347806558826497",
+                "accountId": "382993414821523456",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.P0bjMkPBV9DH.m3u8",
+                "chatRoomId": "477385616477138944",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1675302945000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "477347806558826498",
+                    "historyId": "913271714090082304",
+                    "channelId": "477347806558826497",
+                    "accountId": "382993414821523456",
+                    "title": "Returning to spicy streams after a year | Hentai Watching",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 3492,
+                    "createdAt": 1675302946000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1779243706000,
+                    "startedAt": 1779235304000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "480597167497555968",
+                                "streamId": "477347806558826498",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

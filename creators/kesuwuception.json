@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e3ea253-b138-476e-8fe7-31b104b7202a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bcf7496-fab4-4760-8879-8ae34ad1a2df-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "489201471938637824",
+        "username": "Kesuwuception",
+        "displayName": null,
+        "version": 3,
+        "followCount": 891,
+        "statusId": 3,
+        "accountMediaLikes": 418,
+        "postLikes": 390,
+        "about": "Fulltime Transgirl, Part-Time Vtuber.\nWill occasionally upload pics and do sus livestreams.\n\nReady to obsess over me~?\n\nImpressum: https://impressum4u.de/kesuwuception/",
+        "location": "Germany",
+        "streaming": {
+            "accountId": "489201471938637824",
+            "channel": {
+                "id": "660911416605159424",
+                "accountId": "489201471938637824",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Q6puqh2fjRB2.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1719067920000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "660911416605159425",
+                    "historyId": null,
+                    "channelId": "660911416605159424",
+                    "accountId": "489201471938637824",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1719067921000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

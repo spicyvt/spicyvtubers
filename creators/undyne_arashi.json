@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/48f2210e-6c0f-41cb-96a9-a846954bfef8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d379223-f9ad-48c8-af68-22fb40dfe5a7-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "458141556939956224",
+        "username": "UndyneAra",
+        "displayName": "Undyne Ara",
+        "version": 9,
+        "followCount": 6180,
+        "statusId": 1,
+        "accountMediaLikes": 5072,
+        "postLikes": 3814,
+        "about": "💜 Siren ☠️ VSinger 🎶 Sussy Switch \n\n: 𓏲🐋 ๋࣭  ࣪ ˖✩࿐࿔ 🌊\n\nWant to see my try something on? Throne Gifts/ outfit buyers will receive photos of outfits in private DM!\n\n: 𓏲🐋 ๋࣭  ࣪ ˖✩࿐࿔ 🌊\n\nSocial: http://undyne-arashi.carrd.co\nThrone: https://throne.com/undyne_arashi",
+        "location": "",
+        "streaming": {
+            "accountId": "458141556939956224",
+            "channel": {
+                "id": "666040057932554242",
+                "accountId": "458141556939956224",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ChPZhSviyf3d.m3u8",
+                "chatRoomId": "666040443275845632",
+                "status": 2,
+                "version": 62,
+                "createdAt": 1720290684000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "666040057932554243",
+                    "historyId": "938991205973241856",
+                    "channelId": "666040057932554242",
+                    "accountId": "458141556939956224",
+                    "title": "Mecha Chameleon Orgy~",
+                    "status": 1,
+                    "viewerCount": 20,
+                    "version": 9927,
+                    "createdAt": 1720290684000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785377804000,
+                    "startedAt": 1785367309000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "827759532036861952",
+                                "streamId": "666040057932554243",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

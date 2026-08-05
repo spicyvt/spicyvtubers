@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a42433a9-e6a0-4993-afe7-c8c070870345-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d78a7716-9dfc-4bb3-8179-e141f3b9e15f-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "379471273106878464",
+        "username": "Flynsie",
+        "displayName": "Flynsie",
+        "version": 5,
+        "followCount": 6362,
+        "statusId": 3,
+        "accountMediaLikes": 7047,
+        "postLikes": 4401,
+        "about": "a good kitty.\nReplies to all Subscribers~\nCustom pictures and videos!",
+        "location": "Erdtree",
+        "streaming": {
+            "accountId": "379471273106878464",
+            "channel": {
+                "id": "895678013482496000",
+                "accountId": "379471273106878464",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TN1et8CwMzjy.m3u8",
+                "chatRoomId": "900418458762629120",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1775040639000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "895678013482496001",
+                    "historyId": "941162498382393344",
+                    "channelId": "895678013482496000",
+                    "accountId": "379471273106878464",
+                    "title": "TIGER IS BACK READY TO PLEASURE YOU~",
+                    "status": 1,
+                    "viewerCount": 36,
+                    "version": 82,
+                    "createdAt": 1775040639000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785890511000,
+                    "startedAt": 1785884985000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "941162542921687040",
+                                "streamId": "895678013482496001",
+                                "type": 0,
+                                "flags": 10,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":10000}\"}"
+                            },
+                            {
+                                "id": "941162542921687041",
+                                "streamId": "895678013482496001",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

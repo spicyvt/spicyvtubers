@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a57cfc1a-dd9f-44fa-8e3d-5622d46cafa0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3e7dce1-8982-4e1d-917f-0a08ace252fa-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "659164301562486784",
+        "username": "AsamiKaisuri",
+        "displayName": "Asami",
+        "version": 5,
+        "followCount": 598,
+        "statusId": 2,
+        "accountMediaLikes": 981,
+        "postLikes": 996,
+        "about": "Naughty Sheep Princess 👑🌸\n\nBratty switch/ Submissive/ Dominate\n\n🔞┆NSFW & Lewd Art, Animations, and Audios\n  ▶┆IRL, Vtuber & VRChat OC content\n\n🔗┆ https://asamikaisuri.carrd.co/\n🎁┆ https://throne.com/asamikaisuri\n👀┆ https://www.lovense.com/wish-list/aox6\n\n📍Please keep my Fansly & Twitch separate.\n\nLeaking or reposting my content from this platform is strictly prohibited. This will result in legal action against you & perma ban from all social platforms.\n\nI reserve the right to block or ban you if you make me feel uncomfortable. I don’t need to tell you why I’m blocking.\n\nDo not add me on discord unless I give you the username AND permission.\n\nNo refunds!!",
+        "location": "",
+        "streaming": {
+            "accountId": "659164301562486784",
+            "channel": {
+                "id": "818958604626317312",
+                "accountId": "659164301562486784",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BoCkZz8LQfBC.m3u8",
+                "chatRoomId": "818963917534412800",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1756749306000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "818958604626317313",
+                    "historyId": "898806237095817216",
+                    "channelId": "818958604626317312",
+                    "accountId": "659164301562486784",
+                    "title": "🌸 Model Test - Goon and Game 🌸",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 4,
+                    "createdAt": 1756749307000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785467246000,
+                    "startedAt": 1775786465000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:28Z"
     }
 }

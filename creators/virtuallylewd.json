@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d356234f-199b-45b9-b9a0-13c66fe51089-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee87e375-4929-42cf-9795-1d8e660e6487-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "308958641807958016",
+        "username": "virtuallylewd",
+        "displayName": "VirtuallyLewd",
+        "version": 8,
+        "followCount": 24481,
+        "statusId": 1,
+        "accountMediaLikes": 15551,
+        "postLikes": 13008,
+        "about": "I'm VL! I'm a kinky vtuber that loves to be watched~ half IRL, half virtual\n\nNSFW • STREAMS • CUSTOMS • SEXTING • ERP • AUDIOS • CALLS • RATING\n& open to requests! DM to see my menu~\n\nlinks, shop & collab info: https://virtuallylewd.link\nget me a gift: https://throne.com/virtuallylewd\n\nClicking on sub tiers will show you all perks of the tier. Clicking on \"additional plans\" will show you discounted rates for subscribing multiple months in advance!\n\nBE SURE TO ADD A TIP TO YOUR DM TO GET MY ATTENTION OK ❤️",
+        "location": "!!! LIVE every Wed/Fri/Sun 10pm EST !!! ",
+        "streaming": {
+            "accountId": "308958641807958016",
+            "channel": {
+                "id": "706326057090822145",
+                "accountId": "308958641807958016",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.5fEMXRLvZbJp.m3u8",
+                "chatRoomId": "706327504943591424",
+                "status": 2,
+                "version": 208,
+                "createdAt": 1729895614000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "706326057090822146",
+                    "historyId": "940480175563358209",
+                    "channelId": "706326057090822145",
+                    "accountId": "308958641807958016",
+                    "title": "💙panty & sock store now live! https://virtuallylewd.link/💙live wed/fri/sun 10PM EST",
+                    "status": 1,
+                    "viewerCount": 68,
+                    "version": 318,
+                    "createdAt": 1729895615000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785732066000,
+                    "startedAt": 1785722307000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "939770155452350464",
+                                "streamId": "706326057090822146",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:21:07Z"
     }
 }

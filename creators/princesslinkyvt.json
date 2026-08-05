@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e924ed9-21fa-4156-84da-0f699fc781bc-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ad8077f-ea26-4fe9-a3bc-6503793462a6-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "512081937909690368",
+        "username": "PrincessLinkyVT",
+        "displayName": "Pinky Linky",
+        "version": 10,
+        "followCount": 52,
+        "statusId": 3,
+        "accountMediaLikes": 290,
+        "postLikes": 179,
+        "about": "~Hobby Vtuber | 23 | Male~\n\nHey! I am that Kitten Prince from Twitter! I hope you enjoy whatever is it you came here for you sick sick bastard!\n\nhttps://throne.com/princesslinky",
+        "location": "Exatlas",
+        "streaming": {
+            "accountId": "512081937909690368",
+            "channel": {
+                "id": "932575715306516480",
+                "accountId": "512081937909690368",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.3MVzELibM4wE.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1783837736000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "932575715306516481",
+                    "historyId": null,
+                    "channelId": "932575715306516480",
+                    "accountId": "512081937909690368",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1783837737000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

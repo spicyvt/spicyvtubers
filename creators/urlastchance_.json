@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/999e2502-2e2d-46ab-b5d6-d1fa8e71c2c8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ddc4ac9-134f-4689-a6bf-c5a01e074f5a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "418374042660118528",
+        "username": "UrLastChance",
+        "displayName": "UrLastChance",
+        "version": 8,
+        "followCount": 7906,
+        "statusId": 3,
+        "accountMediaLikes": 12971,
+        "postLikes": 14030,
+        "about": "NSFW Male VA, Check out my lewd BF Roleplays: https://linktr.ee/urlastchance\nLive Streams 8pm EST: Wednesday to Saturday\nLovense Affiliate📎 : lovense.com/r/stdzwe",
+        "location": "Your Bedroom",
+        "streaming": {
+            "accountId": "418374042660118528",
+            "channel": {
+                "id": "514702701498474497",
+                "accountId": "418374042660118528",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.6LBA3bBo1ZmU.m3u8",
+                "chatRoomId": "514703962910240768",
+                "status": 2,
+                "version": 372,
+                "createdAt": 1684209046000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "514702701498474498",
+                    "historyId": "940108197698490368",
+                    "channelId": "514702701498474497",
+                    "accountId": "418374042660118528",
+                    "title": "🔞DMC 2 PT 7 /  PORN MEDIA SHARE- USING SOLACE PRO + DOMI l AUGASM💦",
+                    "status": 1,
+                    "viewerCount": 18,
+                    "version": 9521,
+                    "createdAt": 1684209047000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785684480000,
+                    "startedAt": 1785633620000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:53Z"
     }
 }

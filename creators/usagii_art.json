@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/be35808c-2471-4faa-90d1-e933b9c37fcf-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec29ddc-7a22-4e06-871b-0864f17c2769-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "497408734163640320",
+        "username": "Usagii_akihiko",
+        "displayName": "Usagii Akihiko",
+        "version": 3,
+        "followCount": 300,
+        "statusId": 1,
+        "accountMediaLikes": 331,
+        "postLikes": 418,
+        "about": "Just a random bun bun that likes cute stuffs",
+        "location": "",
+        "streaming": {
+            "accountId": "497408734163640320",
+            "channel": {
+                "id": "614845817177518081",
+                "accountId": "497408734163640320",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Zk0XBtgJKUqx.m3u8",
+                "chatRoomId": "614845911423524864",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1708085026000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "614845817177518082",
+                    "historyId": "847192249367281664",
+                    "channelId": "614845817177518081",
+                    "accountId": "497408734163640320",
+                    "title": "vibe together ",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 5148,
+                    "createdAt": 1708085026000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1763488539000,
+                    "startedAt": 1763480732000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

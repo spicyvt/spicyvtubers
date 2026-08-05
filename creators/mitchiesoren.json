@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/525bced7-3f4b-43e2-8362-68990c7d904c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e0eee41-304c-4605-9e90-69233fe295b6-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "542072801876516864",
+        "username": "mitchiesoren",
+        "displayName": "Mitchie Soren 🍹🦇",
+        "version": 9,
+        "followCount": 27380,
+        "statusId": 3,
+        "accountMediaLikes": 60699,
+        "postLikes": 92605,
+        "about": "LOVENSE STORE: https://www.lovense.com/p/MitchieSoren\nTWITCH: https://www.twitch.tv/mitchiesoren\nALL LINKS: msoren.carrd.co\n\nI'm Mitchie Soren, the tropical fruit bat VTuber who feeds off of your love! 🦇\n🏖️ 27 y/o | 5’3” | DDD cups 🏖️\nI post IRL content and do free livestreams 🎥\n\nSubscribe at any tier for unlimited DM access (all replies by me), VOD access, and unlock ALL of my posts and media 💕\n\n🍹 CREDITS 🍹\nIcon: Fuyu_2320\nHeader: NovaYStudio\nLogo: NikkiGZ0",
+        "location": "United States",
+        "streaming": {
+            "accountId": "542072801876516864",
+            "channel": {
+                "id": "661470691698155520",
+                "accountId": "542072801876516864",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.uHYMpbe7qQoV.m3u8",
+                "chatRoomId": "662804357019869184",
+                "status": 2,
+                "version": 255,
+                "createdAt": 1719201262000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "661470691698155521",
+                    "historyId": "940420378495295488",
+                    "channelId": "661470691698155520",
+                    "accountId": "542072801876516864",
+                    "title": "WORK WITH THE BAT! 🎀🦇 !commands",
+                    "status": 1,
+                    "viewerCount": 159,
+                    "version": 1858,
+                    "createdAt": 1719201263000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785714931000,
+                    "startedAt": 1785708050000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:21:12Z"
     }
 }

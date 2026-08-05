@@ -11,5 +11,68 @@
         "bannerImageUrl": "https://yt3.googleusercontent.com/YqN0eoKjtdpOySeB7GtJF9YGhlv01SBaskEeOoi0nHuzp47obAiZNJV6LuvAA5RneQuxyVDnvvU=s480",
         "subscriberCountText": "12 subscribers",
         "videoCountText": "4 videos"
+    },
+    "fansly": {
+        "id": "348713742093000704",
+        "username": "brassflamingo",
+        "displayName": null,
+        "version": 3,
+        "followCount": 40,
+        "statusId": 1,
+        "accountMediaLikes": 16,
+        "postLikes": 16,
+        "about": "Hi, I'm brass! (she/her) I'm a harpy LewdTuber!",
+        "location": "",
+        "streaming": {
+            "accountId": "348713742093000704",
+            "channel": {
+                "id": "872218568219967488",
+                "accountId": "348713742093000704",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xrVf0MFTAlYl.m3u8",
+                "chatRoomId": "872285611610894336",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1769447471000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "872218568219967489",
+                    "historyId": "872321813940563968",
+                    "channelId": "872218568219967488",
+                    "accountId": "348713742093000704",
+                    "title": "Horny Marvel Rivals",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 6,
+                    "createdAt": 1769447471000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1769473122000,
+                    "startedAt": 1769472087000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "872219664258703360",
+                                "streamId": "872218568219967489",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "872219664258703361",
+                                "streamId": "872218568219967489",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

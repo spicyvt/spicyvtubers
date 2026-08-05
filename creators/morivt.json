@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5ad042a-f439-4017-918a-97b72e93fe4a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b85190b6-a837-47bd-b6be-bd1ae684f17e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "789612281389391874",
+        "username": "MoriMoriVT",
+        "displayName": null,
+        "version": 3,
+        "followCount": 38,
+        "statusId": 1,
+        "accountMediaLikes": 6,
+        "postLikes": 44,
+        "about": "🔞 NSFW IRL, audio, & degen streams! Want SFW ever? Check out my other socials, we kinky out here! 🖤\n\nhttps://morimorivt.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "789612281389391874",
+            "channel": {
+                "id": "791029108120231936",
+                "accountId": "789612281389391874",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JZBKiDth1Ash.m3u8",
+                "chatRoomId": "791029513235472384",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1750090396000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "791029108120231937",
+                    "historyId": null,
+                    "channelId": "791029108120231936",
+                    "accountId": "789612281389391874",
+                    "title": "TEST STREAM ROSES",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1750090396000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "791030185225891877",
+                                "streamId": "791029108120231937",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "791030185225891878",
+                                "streamId": "791029108120231937",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47fcaf80-e196-49ed-aa61-836b27986b17-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a3945de-9d9a-4a08-b5fc-9a971fd05c5c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "483909629256933376",
+        "username": "Maple_Chicken",
+        "displayName": "Maple",
+        "version": 7,
+        "followCount": 14889,
+        "statusId": 1,
+        "accountMediaLikes": 10833,
+        "postLikes": 7185,
+        "about": "♡ ʏᴏᴜʀ ꜱʟᴜᴛꜱᴜɴᴇ ɪꜱ ʀᴇᴀᴅʏ ᴛᴏ ɢᴇᴛ ꜱᴛɪᴄᴋʏ ᴡɪᴛʜ ʏᴏᴜ ♡ ᴄᴏᴍᴇ ɢᴇᴛ ᴀ ᴛᴀꜱᴛᴇ ᴏꜰ ᴛʜᴇ ꜱʏʀᴜᴘ ♡\n\nVTUBER 💋 SHY 🫣 SLUTSUNE 💦 FOX 🦊\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n\n🧡Welcome to the foul family🧡\n\nHiiii I'm Maple - I'm a Kitsune Vtuber. I can be shy, but so desperate when you break me out of my shell. Come Play with me ~ ♡ P-please....\n\n\n🧡 Hentai gaming / watching\n🧡 NSFW VR Chat \n🧡 Toy control and play live\n🧡 Good pet \n🧡 IRL only to those that deserve it\n\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n\n🧡 Spoils welcome 🧡 \nPrincess treatment gets me so horny. Feel free to spoil me at https://throne.com/maple_chicken 🧡 All gifts get a personal thank you.\n\n🧡Customs available upon request. Dm for more details and pricing info. All tips are non-refundable.\n\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n\n(˶°ㅁ°) !! All content posted is for my Fansly profile & is copyrighted and owned by ME!\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. Any unauthorized distribution of my content & live streams will result in a ban from ALL platforms & legal action will be taken.\n",
+        "location": "",
+        "streaming": {
+            "accountId": "483909629256933376",
+            "channel": {
+                "id": "731654423448662016",
+                "accountId": "483909629256933376",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7lp4Ils43p7J.m3u8",
+                "chatRoomId": "736459571500949504",
+                "status": 2,
+                "version": 46,
+                "createdAt": 1735934368000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "731654423448662017",
+                    "historyId": "941205363150045184",
+                    "channelId": "731654423448662016",
+                    "accountId": "483909629256933376",
+                    "title": "It's August BB!!! Let's play",
+                    "status": 1,
+                    "viewerCount": 104,
+                    "version": 4076,
+                    "createdAt": 1735934368000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785904925000,
+                    "startedAt": 1785895205000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "924154902576381952",
+                                "streamId": "731654423448662017",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

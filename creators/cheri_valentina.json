@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/06203890-ecd5-4d35-9230-115ae1e5451e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a42e0866-4ed7-4916-bb87-cd78be729196-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "932953791987208192",
+        "username": "Cheri_Valentina",
+        "displayName": null,
+        "version": 3,
+        "followCount": 412,
+        "statusId": 3,
+        "accountMediaLikes": 250,
+        "postLikes": 329,
+        "about": "hello!~ i'm cheri valentina!\nyour princess who's \"cumming\"\nto win your heart! <3\n⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔\n\ncosplay photos & streams! ❤️\n\n⤷ ゛ABOUT ME!  ˎˊ˗\n~ service sub!\n~ bratty dom!\n~ dedicated to your every need...!\n\n⤷ ゛LINKS!  ˎˊ˗\nX / Twitter: https://x.com/Cheri_Valentina\nNSFW Alt: https://x.com/takemycheri\nCarrd: https://cherivalentina.carrd.co\n",
+        "location": "",
+        "streaming": {
+            "accountId": "932953791987208192",
+            "channel": {
+                "id": "933852154030997505",
+                "accountId": "932953791987208192",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.QpSMEWIpFPQY.m3u8",
+                "chatRoomId": "933852375066619912",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1784142063000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "933852154030997506",
+                    "historyId": "940756261463404545",
+                    "channelId": "933852154030997505",
+                    "accountId": "932953791987208192",
+                    "title": "Becoming A Virgin Killer!",
+                    "status": 1,
+                    "viewerCount": 28,
+                    "version": 10,
+                    "createdAt": 1784142064000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785792360000,
+                    "startedAt": 1785788131000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "935313899413073921",
+                                "streamId": "933852154030997506",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:28Z"
     }
 }

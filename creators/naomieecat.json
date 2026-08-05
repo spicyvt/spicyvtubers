@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a862ad03-1d28-4480-8006-1bfa9e2932aa-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b1e8372-5489-4873-afca-70e4121bc7ea-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "700201237433298944",
+        "username": "NaomieeCat",
+        "displayName": "NaomieeCat",
+        "version": 19,
+        "followCount": 3052,
+        "statusId": 1,
+        "accountMediaLikes": 3473,
+        "postLikes": 1363,
+        "about": "Hi! I am NaomieeCat 💙 \nI am a Snow Leopard Succubus and I would love to please you~\nI do both VRChat content and irl content(mainly irl)~ So you can get a good mix of stuff here :3 \n\nI love making genuine connections with people and getting to know you~ So don't be afraid to message me~ I love knowing how to get you off <3\n\nᓚᘏᗢ I am a Switch~ I can both dominate and me a perfect little sub for you\nFeel free to degrade me, objectify me, use me as your little cum toy, most everything goes~ And I can perfectly return the same to you /ᐠ˵- ⩊ -˵マ\n\nᓚᘏᗢ I am into many kinks and very open minded~ If I say no to something, please respect my decision. If you don't you will be blocked. \n\n𑄝੭ Kinks I WILL NOT do \n Ageplay\n Diapers\n Anything against TOS\n\nᓚ₍つ^. .^₎っ♡ I stream once a week, either Tuesdays and Fridays~ \nso make sure to spoil me as much as you can ^. .^₎ฅ\n\n*DISCLAIMER* \nAll my IRL content is used without a filter and this is my natural body. There might be minor editing to make the shadows look better, but I DO NOT photoshop anything on my body. \nMy chubbiness is all mine~ \n\nI live with roommates so I have very limited space to take photos and make videos, so all my content is done in my bedroom. Once I can afford to move out I will have much more variety of content for you all <3\n\n",
+        "location": "Canada",
+        "streaming": {
+            "accountId": "700201237433298944",
+            "channel": {
+                "id": "762801121226924032",
+                "accountId": "700201237433298944",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ivDYus1DpvrW.m3u8",
+                "chatRoomId": "762801188373540864",
+                "status": 2,
+                "version": 41,
+                "createdAt": 1743360319000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "762801121226924033",
+                    "historyId": "936128490128818176",
+                    "channelId": "762801121226924032",
+                    "accountId": "700201237433298944",
+                    "title": "I missed you all~ Show me how much you missed me <3",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 1562,
+                    "createdAt": 1743360319000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784692405000,
+                    "startedAt": 1784684784000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "771237445487308802",
+                                "streamId": "762801121226924033",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

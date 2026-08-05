@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c07b5c06-5f86-4fa9-9054-cb848edcd5b7-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb6fa771-e35b-458a-b4e1-462ff969185c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "708390522103803910",
+        "username": "redmallard",
+        "displayName": "Red",
+        "version": 6,
+        "followCount": 240,
+        "statusId": 1,
+        "accountMediaLikes": 415,
+        "postLikes": 261,
+        "about": "Hi I'm Red, aka Red Mallard aka your favorite virtual girl!\n\n🍒 Subscription includes NSFW videos, pics, and stream access\n🍒 DMs $1 for non-subscriber barnacles, free for subscribers\n🍒 Sexy requests and chat available in DMs :)\n\nOther links (including Throne for gifts!): \nhttps://redmallard.moe\n\nVR/Fantasy only! I do not do RL content (face, body, voice). Please do not ask! ",
+        "location": "Michigan, USA",
+        "streaming": {
+            "accountId": "708390522103803910",
+            "channel": {
+                "id": "918135875479564289",
+                "accountId": "708390522103803910",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.cmveHS6V2nso.m3u8",
+                "chatRoomId": "918136160977444865",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1780395010000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "918135875479564290",
+                    "historyId": "919301296387809280",
+                    "channelId": "918135875479564289",
+                    "accountId": "708390522103803910",
+                    "title": "Red's PREDEBUT FANSLY STREAAAAAM",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 8,
+                    "createdAt": 1780395011000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780673019000,
+                    "startedAt": 1780672868000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "918136072276287488",
+                                "streamId": "918135875479564290",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "918136072276287489",
+                                "streamId": "918135875479564290",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"910265355258052608\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

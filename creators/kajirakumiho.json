@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/200dd5c2-714d-47c8-9555-62417813877d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2c7998c-baa9-4bc2-8f88-a09c6a8bfdde-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "505870581808246784",
+        "username": "kajira_kumiho",
+        "displayName": "kaji",
+        "version": 8,
+        "followCount": 3508,
+        "statusId": 3,
+        "accountMediaLikes": 3551,
+        "postLikes": 3703,
+        "about": "🔗: linktr.ee/kajira_kumiho\n\n🌷kaji 🌷she/her 🌷 just an adorable little kumiho with a praise kink 🌷\n🌷mostly subby but can be Domme (and sadistic) in private 😉😉😉\n🌷I focus mostly on my Vtuber Model but I have NSFW IRL content for subscribers!!!\n\nAll 💋Private Menu💋 items are with my VTuber Model Only!!!\n💋 IRL Media requests can be discussed in private 💋 \n\n🚂sub training for only one person at a time🚂\n🚂DM if you desire training to be a proper submissive🚂\n\nKinks:\n💜BDSM\n💜Hentai\n💜Shibari\n💜Anal\n💜Tentacles\n💜D/s\n💜Breath Play\n💜Knife Play\n💜Voyeur\n💜Group Play\n\nHard Limits:\n🚫Food\n🚫Pet names without consent (baby is okay)\n🚫Derogoratory names without consent\n🚫Asking me to call you Daddy/Master/Sir, etc. without prior discussion\n\n\n📞Join my Discord to play games with me!!!! discord.gg/kajira 📞\n\n👑Throne: throne.com/kajira_kumiho👑\n👑toy purchases come with a photoset and a short clip of me using it!!!👑\n\n\n",
+        "location": "city of angels",
+        "streaming": {
+            "accountId": "505870581808246784",
+            "channel": {
+                "id": "589233558816563200",
+                "accountId": "505870581808246784",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.N0WcyPgacuvE.m3u8",
+                "chatRoomId": "589347505880178688",
+                "status": 2,
+                "version": 33,
+                "createdAt": 1701978587000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "589233558816563201",
+                    "historyId": "940060005401370625",
+                    "channelId": "589233558816563200",
+                    "accountId": "505870581808246784",
+                    "title": "Date Night!!!!",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 4754,
+                    "createdAt": 1701978588000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785626474000,
+                    "startedAt": 1785622130000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

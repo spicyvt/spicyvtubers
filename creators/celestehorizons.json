@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b46c2a3-608f-40d2-a42f-f5562276751c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a06ece2b-31b1-41d6-a79b-f5899f66f835-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "795591258377560064",
+        "username": "CelesteHorizons",
+        "displayName": "Celeste Horizons",
+        "version": 7,
+        "followCount": 793,
+        "statusId": 1,
+        "accountMediaLikes": 294,
+        "postLikes": 224,
+        "about": "Solar Cat Girl VTuber ☀️🐱 | 🏳️‍⚧️\nNSFW Voice Actress | Lewdsome Switch\n\n‼️Not accepting customs at this time‼️\n\nPosting spicy audios, occasional lewd visuals, and whatever else I feel like when I'm in the mood~ 😘\n\nWhen it comes to DMs, be kind, be patient, also keep in mind: Tipping gets priority.\n\nhttps://celestialhorizons.carrd.co",
+        "location": "",
+        "streaming": {
+            "accountId": "795591258377560064",
+            "channel": {
+                "id": "936404112432439296",
+                "accountId": "795591258377560064",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Y3JptIN5nG0o.m3u8",
+                "chatRoomId": "936407477715476480",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1784750497000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "936404112432439297",
+                    "historyId": "940140863583961089",
+                    "channelId": "936404112432439296",
+                    "accountId": "795591258377560064",
+                    "title": "Goon with me? | Lovense Connected!! | Free Control Link Every $25",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 12,
+                    "createdAt": 1784750498000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785652531000,
+                    "startedAt": 1785641408000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "936404273497923585",
+                                "streamId": "936404112432439297",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

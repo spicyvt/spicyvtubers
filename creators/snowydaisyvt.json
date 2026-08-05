@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1bc50989-0751-4d6a-8349-017d6bf55103-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09dda112-75be-4767-9763-a77bf0522bce-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "728666792804753409",
+        "username": "SnowyDaisy",
+        "displayName": "SnowyDaisy",
+        "version": 3,
+        "followCount": 411,
+        "statusId": 1,
+        "accountMediaLikes": 186,
+        "postLikes": 179,
+        "about": "Hey, I am Daisy, and I am new to Fansly so please be gentle\nhttps://linktr.ee/snowydaisyvr",
+        "location": "Virtual Reality",
+        "streaming": {
+            "accountId": "728666792804753409",
+            "channel": {
+                "id": "775106662670282752",
+                "accountId": "728666792804753409",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ofBBxvJjWtgX.m3u8",
+                "chatRoomId": "775106680726757376",
+                "status": 2,
+                "version": 15,
+                "createdAt": 1746294189000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "775106662670282753",
+                    "historyId": "909331082132877313",
+                    "channelId": "775106662670282752",
+                    "accountId": "728666792804753409",
+                    "title": "if we reach the main goal I WILL Turn off the Voice changer!!",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 804,
+                    "createdAt": 1746294189000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785939389000,
+                    "startedAt": 1778295784000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "775106708958621696",
+                                "streamId": "775106662670282753",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:24Z"
     }
 }

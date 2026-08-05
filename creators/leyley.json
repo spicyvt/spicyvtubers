@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92b25026-97ad-4867-ab4b-0c028eb8618d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/247c9fd8-1257-4c49-8f49-a7438ad396ad-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "538589080313667584",
+        "username": "LeyCantPlay",
+        "displayName": "LeyLey 🐐",
+        "version": 50,
+        "followCount": 13011,
+        "statusId": 3,
+        "accountMediaLikes": 12527,
+        "postLikes": 7787,
+        "about": "I am a Vtuber who loves video games and sunflowers! I enjoy taking pics!\nThrone: https://throne.com/leyley\n\nVR content in ChilloutVR",
+        "location": "Petting Zoo",
+        "streaming": {
+            "accountId": "538589080313667584",
+            "channel": {
+                "id": "547804651878100992",
+                "accountId": "538589080313667584",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.DRsG913hvJTU.m3u8",
+                "chatRoomId": "645457166651633664",
+                "status": 2,
+                "version": 69,
+                "createdAt": 1692101166000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "547804651878100993",
+                    "historyId": "937260910441934848",
+                    "channelId": "547804651878100992",
+                    "accountId": "538589080313667584",
+                    "title": "VR Fun Times! 🐐💕🐈",
+                    "status": 1,
+                    "viewerCount": 74,
+                    "version": 5835,
+                    "createdAt": 1692101167000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784966857000,
+                    "startedAt": 1784954774000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

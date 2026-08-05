@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f464de1-5e61-4a98-baf6-83b644193aab-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55ad05d4-41a3-40da-b103-d434c5d0c57c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "535578736485998592",
+        "username": "KaijuWaifu",
+        "displayName": "Kaiju Waifu",
+        "version": 7,
+        "followCount": 29591,
+        "statusId": 3,
+        "accountMediaLikes": 45964,
+        "postLikes": 20793,
+        "about": "ANAL 🍑 BRAT 😈 VTUBER 💦 SOLO FEMALE💋\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n💙 About Me💙\nHi cutie, I'm Maki. \nI'm 80% subby pet, 20% soft dom, anal slut, Kaiju VTuber. You have to tame me before you ride, otherwise I bite💖\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n💙 What to expect💙\n✧Sensual and personal ASMR audios\n✧Spicy art and animations\n✧Livestreams & VODs\n✧IRL videos & photo sets\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n💙 What not to expect💙\n🗙1 on 1 ERP/Sexting- but I am very friendly & love to chat in DMs\n🗙 Ratings\n🗙 DMs on other platforms. (only here cuties)\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n💙 Want to treat me?💙\nPurchase an outfit or item on my Throne and its very likely I will make content with it.  Also, you'll receive a personal thank you from me 💌 \nthrone.com/kaiju_waifu",
+        "location": "",
+        "streaming": {
+            "accountId": "535578736485998592",
+            "channel": {
+                "id": "630745065077088256",
+                "accountId": "535578736485998592",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.r2WjuOl0nsbi.m3u8",
+                "chatRoomId": "630745194811109376",
+                "status": 2,
+                "version": 18,
+                "createdAt": 1711875702000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "630745065077088257",
+                    "historyId": "940107373282861056",
+                    "channelId": "630745065077088256",
+                    "accountId": "535578736485998592",
+                    "title": "✨Free for Followers✨  Kaiju Cummies | Lush4 Gravity Hush 2",
+                    "status": 1,
+                    "viewerCount": 262,
+                    "version": 1620,
+                    "createdAt": 1711875702000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785646857000,
+                    "startedAt": 1785633424000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "630745725684166656",
+                                "streamId": "630745065077088257",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

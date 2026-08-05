@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64494c5f-29d5-4cfd-8188-fbbe3c62fbfd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3695487-74d7-4d18-acb5-6e3519dcf1a2-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "695363864023277569",
+        "username": "mimiyamu",
+        "displayName": null,
+        "version": 6,
+        "followCount": 23619,
+        "statusId": 1,
+        "accountMediaLikes": 36935,
+        "postLikes": 76581,
+        "about": "i have big breasts and am very nervous!\nthis page is managed by only me, please be patient with DMs ! \n\nI post IRL NUDE videos, LEWD cosplay videos and pictures, and NSFW AUDIOS!\n\nI try to stream once a week at 10 PM est\n\nspoil me: https://throne.com/mimiyamu\n\nLinks here: https://linktr.ee/denpafish",
+        "location": "",
+        "streaming": {
+            "accountId": "695363864023277569",
+            "channel": {
+                "id": "696901538165039106",
+                "accountId": "695363864023277569",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.r0QNXONSXkaU.m3u8",
+                "chatRoomId": "696902569171103744",
+                "status": 2,
+                "version": 57,
+                "createdAt": 1727648634000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "696901538165039107",
+                    "historyId": "940135405527769143",
+                    "channelId": "696901538165039106",
+                    "accountId": "695363864023277569",
+                    "title": "[3DIO ASMR] practicing ear licks and kisses on you~ ❤️",
+                    "status": 1,
+                    "viewerCount": 92,
+                    "version": 9305,
+                    "createdAt": 1727648634000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785644535000,
+                    "startedAt": 1785640107000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940134759181348864",
+                                "streamId": "696901538165039107",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

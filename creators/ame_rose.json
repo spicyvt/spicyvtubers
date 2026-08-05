@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67674c03-af46-49d1-a0df-ca8bdabd2518-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90bb0be5-668d-4d5c-ae35-48b84b08a87a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "852095796185686016",
+        "username": "ame_rose",
+        "displayName": "Ame Rose",
+        "version": 3,
+        "followCount": 155,
+        "statusId": 3,
+        "accountMediaLikes": 234,
+        "postLikes": 254,
+        "about": "Hiya! I'm Ame Rose the shapeshifting crystal witch vtuber, Here you can find all of my NSFW content and streams~",
+        "location": "",
+        "streaming": {
+            "accountId": "852095796185686016",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

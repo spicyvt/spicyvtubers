@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b979b4a3-6416-470f-953f-7b84912cea2a-profile_image-70x70.png",
         "bannerImageUrl": null
+    },
+    "fansly": {
+        "id": "648618632724619264",
+        "username": "YourDragonWifey",
+        "displayName": "Scylla Brantley",
+        "version": 15,
+        "followCount": 6800,
+        "statusId": 3,
+        "accountMediaLikes": 3622,
+        "postLikes": 3748,
+        "about": "Don't forget to follow my socials darlings~ so you'll know where I go 💕 I also update streaming schedule on my socials 🥰 subscription content will be renewed every month ✨",
+        "location": "",
+        "streaming": {
+            "accountId": "648618632724619264",
+            "channel": {
+                "id": "686301443124109313",
+                "accountId": "648618632724619264",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.rK5mDvpmyLdV.m3u8",
+                "chatRoomId": "694959167961571328",
+                "status": 2,
+                "version": 15,
+                "createdAt": 1725121374000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "686301443124109314",
+                    "historyId": "939669286249570304",
+                    "channelId": "686301443124109313",
+                    "accountId": "648618632724619264",
+                    "title": "Darlings, Would You Like to Feel Pleasure Tonight?",
+                    "status": 1,
+                    "viewerCount": 32,
+                    "version": 7168,
+                    "createdAt": 1725121375000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785538296000,
+                    "startedAt": 1785528976000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "845093317833146368",
+                                "streamId": "686301443124109314",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

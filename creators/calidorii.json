@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1829ebf-8111-4360-b402-a693d27d91d6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d066b28d-9d99-4535-adbd-7e43ea3f5016-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "925812656735023104",
+        "username": "Calidori",
+        "displayName": null,
+        "version": 4,
+        "followCount": 213,
+        "statusId": 1,
+        "accountMediaLikes": 107,
+        "postLikes": 77,
+        "about": "Robot entertainer from the future\n\n💚 Fully autonomous\n💚 Fully wireless and portless\n💚 Natural human-like personality module\n💚 Complex facial mechanisms which make thousands of facial expression combinations, and facilitate communication, empathy, and understanding\n💚 Human-like vocal inflections, laughter, and breath simulation\n💚 Real time emotional recognition\n💚 Carbon based consumable food tank processor and water loop\n💚 Endocannabinoid system\n💚 Fully water tight\n\nThis account is not explicit",
+        "location": "Portugal",
+        "streaming": {
+            "accountId": "925812656735023104",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

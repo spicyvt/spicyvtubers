@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6efd506a-9d0b-48ec-8fe6-5dfa0362c534-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb05e430-8581-417a-b04a-1894c6f7bf5e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "795430973813563392",
+        "username": "PingMik",
+        "displayName": null,
+        "version": 3,
+        "followCount": 937,
+        "statusId": 3,
+        "accountMediaLikes": 561,
+        "postLikes": 859,
+        "about": "👻 Your shy ghost girl vtuber 🐾\n\n🔗: https://pingmik.carrd.co/\n❤️ Spoil your ghostie: https://throne.com/pingmik\n\n♡ She/Her, Sub, 5'3\"\n♡ I do plan to do lewd and nsfw on my model and irl!\n♡ All replies are from me, plz be patient! Come dm me my goons <3\n♡ Customs, ratings, streams, nsfw audios & more!\n♡ I like lots of kinks... come tell me what you like :3\n\n⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹\n\n⚠️All of my content is for my Fansly profile only. ⚠️\n\n© 2025. All rights reserved. No recording, reposting, sharing, or screenshotting. No chargebacks. Violations breach Fansly TOS and will result in legal action & a ban.",
+        "location": "",
+        "streaming": {
+            "accountId": "795430973813563392",
+            "channel": {
+                "id": "854218131785142273",
+                "accountId": "795430973813563392",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YIv7NeI93Y9G.m3u8",
+                "chatRoomId": "854242093369925632",
+                "status": 2,
+                "version": 34,
+                "createdAt": 1765155833000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "854218131785142274",
+                    "historyId": "938653519450222592",
+                    "channelId": "854218131785142273",
+                    "accountId": "795430973813563392",
+                    "title": "Horny and playing Horny Game <3 [Lovense Connected]",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 84,
+                    "createdAt": 1765155833000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785293318000,
+                    "startedAt": 1785286798000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "913291496470364160",
+                                "streamId": "854218131785142274",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:51Z"
     }
 }

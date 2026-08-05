@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a01430e-1767-4ee4-82b1-37c2b8152519-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b99856a-bd9a-4999-8440-06f748ca745d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "429369769246859264",
+        "username": "Mikki_Kitta",
+        "displayName": "Ms Mikki",
+        "version": 12,
+        "followCount": 988,
+        "statusId": 3,
+        "accountMediaLikes": 365,
+        "postLikes": 521,
+        "about": "Hewwo! I'm Mikki, your lewd Shrine Priestess waifu! ⛩️\n✨ 25+ y/o streamer bringing the spicy vibes to Fansly.\n\nWhat you’ll find here: \n🔥 Exclusive spicy photos & videos \n💬 Chat & DM access \n🎡 LIVE GAMES: Every stream features my Prize Wheel!\n🎁 Throne Rewards: Clothing gifts = 4-pic photoshoot | Toys = 30s video!\n\nDM for private custom requests!\n~~~\nCatch me on: https://twitch.tv/mikki_kitta\nGifts here: https://throne.com/mikki_kitta",
+        "location": "At The Shrine",
+        "streaming": {
+            "accountId": "429369769246859264",
+            "channel": {
+                "id": "465718298982494208",
+                "accountId": "429369769246859264",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.8sQixsHiiFjK.m3u8",
+                "chatRoomId": "492201802293325825",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1672530255000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "465718298986688512",
+                    "historyId": "902457688221310976",
+                    "channelId": "465718298982494208",
+                    "accountId": "429369769246859264",
+                    "title": "Another Stream",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 2524,
+                    "createdAt": 1672530255000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776661757000,
+                    "startedAt": 1776657039000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

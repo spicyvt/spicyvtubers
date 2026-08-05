@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/796d7fde-0ac8-4c0d-986e-66a4036c69b7-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/844babb1-0ece-4c95-a1c1-2bb5fa41991b-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "359569627908415488",
+        "username": "Taiga-tan",
+        "displayName": "Taiga-tan",
+        "version": 5,
+        "followCount": 75162,
+        "statusId": 3,
+        "accountMediaLikes": 119134,
+        "postLikes": 66557,
+        "about": "DAILY FREE CONTENT!\n32, sleepy gremlin gamer girl (who is also pretty slutty...)\nFULL IMMERSION (2D/3D ONLY, all VTuber all the time!) LARP/roleplay/fictional character. All irl pics are fan cosplayers.\n\n[SUBSCRIPTION TIERS]\n🩷 Taiga-stan\nContains NSFW artwork, image sets, roleplay videos, stream highlights and animations. Some content are PPV (at a discounted rate). \nAccess to all spicy live streams (check schedule on my discord - https://discord.gg/AdFvFQF8FK )\n\n💙 VODs & Highlights\nAll rewards from previous tier + free VODs & stream highlights\n\n🧡 Sugar Daddy \nAccess to ALL posts for FREE\nI call you 'Daddy' during streams~\n\n🐯 [LINKS] https://allmylinks.com/taiga-tan\n🐯 [WISHLIST] https://throne.com/taiga-tan\nCheck out my Throne Wishlist to request a new outfit for me! Lingerie, heels, you name it I can do it...\nhttps://throne.com/taiga-tan/collections/vr-outfits\n🐯 [CUSTOM VIDEO COMMISSIONS] https://fansly.com/post/679417875261300741\n\n[LARP / ROLEPLAY]\n❌ Respect the LARP and don't ruin the immersion for others\n❌ Do not refer to me as a 'model' or 'avatar' or my movements as 'toggles', treat me as though I am the character at all times. This includes on social media or during livestreams\n❌ Call me only 'Karen' or 'Taiga', no mention of OolayTiger or any of her work\n\n[BOUNDARIES]\n❌ I will never date you, have personal connections/calls with you or play games with you, just enjoy the content I choose to make\n❌ No DM's or using tips to simulate DM's of any kind, especially not sexting, flirty messages, pics/videos of you or requests for free personalized content. I don't offer any services outside of streaming and content creation.",
+        "location": "New Zealand",
+        "streaming": {
+            "accountId": "359569627908415488",
+            "channel": {
+                "id": "504569819480203264",
+                "accountId": "359569627908415488",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ii8jAyLrWKaE.m3u8",
+                "chatRoomId": "607117112523108353",
+                "status": 2,
+                "version": 112,
+                "createdAt": 1681793179000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "504569819480203265",
+                    "historyId": "941228366772584448",
+                    "channelId": "504569819480203264",
+                    "accountId": "359569627908415488",
+                    "title": "Strapped down to a fuck machine...",
+                    "status": 1,
+                    "viewerCount": 271,
+                    "version": 4164,
+                    "createdAt": 1681793179000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785906317000,
+                    "startedAt": 1785900689000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "938858111656026112",
+                                "streamId": "504569819480203265",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

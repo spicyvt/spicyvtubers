@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd6469dd-924d-4ba3-9176-7ae8992153f3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6612ef95-0f00-4ae5-9ec5-dbd389c4ffd7-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "918747379958566912",
+        "username": "SinfulAzzy",
+        "displayName": "SinfulAzzy",
+        "version": 3,
+        "followCount": 305,
+        "statusId": 1,
+        "accountMediaLikes": 148,
+        "postLikes": 169,
+        "about": "🖤Demon and Angel Possessed Femboy🤍\n🤍DM FOR CUSTOMS🖤\n\n💜 https://throne.com/azazel\n📷 https://www.instagram.com/sinfulazzy/\n💜 https://www.twitch.tv/sinfulazzy\n🟥 https://www.youtube.com/@sinfulazzy",
+        "location": "Your dreams : 3",
+        "streaming": {
+            "accountId": "918747379958566912",
+            "channel": {
+                "id": "932277295886913536",
+                "accountId": "918747379958566912",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BGPf9aUAU7aR.m3u8",
+                "chatRoomId": "934757199840817153",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1783766588000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "932277295886913537",
+                    "historyId": "938607449110245376",
+                    "channelId": "932277295886913536",
+                    "accountId": "918747379958566912",
+                    "title": "DONT BULLY ME ILL CUM SMH",
+                    "status": 1,
+                    "viewerCount": 22,
+                    "version": 2718,
+                    "createdAt": 1783766588000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785289017000,
+                    "startedAt": 1785275814000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "932277440292597760",
+                                "streamId": "932277295886913537",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

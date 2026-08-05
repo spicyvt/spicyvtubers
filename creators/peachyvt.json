@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81161de-fe9d-4a82-ae8b-f35055fbc33d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a9b452cb-ce73-4db8-b8de-e3da3e26c860-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "381009636821573632",
+        "username": "PeachyVT",
+        "displayName": "PeachyVT",
+        "version": 12,
+        "followCount": 436,
+        "statusId": 1,
+        "accountMediaLikes": 66,
+        "postLikes": 69,
+        "about": "Hoi! I’m Peachy!\n\nFind all my links here: https://linktr.ee/peachyvt",
+        "location": "United States",
+        "streaming": {
+            "accountId": "381009636821573632",
+            "channel": {
+                "id": "439261951399309312",
+                "accountId": "381009636821573632",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.C5L8EL7EuZlp.m3u8",
+                "chatRoomId": "439262004121710592",
+                "status": 2,
+                "version": 21,
+                "createdAt": 1666222570000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "439261951399309313",
+                    "historyId": "930014705848709120",
+                    "channelId": "439261951399309312",
+                    "accountId": "381009636821573632",
+                    "title": "🎆 Cute and silly vtuber here to light your fireworks and watch you explode~ 🤯 #hentai #anime #blowjob #cosplay #sensual",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 9233,
+                    "createdAt": 1666222570000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783234830000,
+                    "startedAt": 1783227144000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "439585054490898432",
+                                "streamId": "439261951399309313",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

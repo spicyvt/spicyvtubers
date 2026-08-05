@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c42439d9-a7a9-4acf-85f7-4aec6b630ad1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bd596da-d429-4bb4-8f25-d877fdad697e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "595874319788154880",
+        "username": "Peachuri",
+        "displayName": "Peachuri",
+        "version": 5,
+        "followCount": 4522,
+        "statusId": 3,
+        "accountMediaLikes": 1429,
+        "postLikes": 2109,
+        "about": "Dive into the duality of my universe, where I embody the delicate balance between light and dark, chaos and harmony.\n\nFollow & spoil me: \n✨ twitch.tv/peachuri\n✨ tiktok.com/@peachuriVT\n✨ youtube.com/@peachuriVT \n✨ twitter.com/peachuriVT\n✨ twitter.com/peachuriNSFW\n✨ discord.gg/fruitfam\n🎁  throne.com/peachuri\n🍑  peachuri.com\n✉️  peachurivt@gmail.com\n\nfemdom & findom <3\n",
+        "location": "Follow me on Twitch: twitch.tv/peachuri",
+        "streaming": {
+            "accountId": "595874319788154880",
+            "channel": {
+                "id": "658612412965990400",
+                "accountId": "595874319788154880",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hwT1CGkSC4SK.m3u8",
+                "chatRoomId": "659958071895793664",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1718519795000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "658612412965990401",
+                    "historyId": "761823420533977090",
+                    "channelId": "658612412965990400",
+                    "accountId": "595874319788154880",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 51,
+                    "version": 8237,
+                    "createdAt": 1718519796000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1743131904000,
+                    "startedAt": 1743127217000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "713643142351433728",
+                                "streamId": "658612412965990401",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

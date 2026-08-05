@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cf522aa-027c-46ce-aa0f-1c56dd0096ea-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b2ae235-e9c5-42fc-a7f6-96ccc3586008-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "516101044002893825",
+        "username": "CanariaVTuber",
+        "displayName": "Cana",
+        "version": 25,
+        "followCount": 7374,
+        "statusId": 1,
+        "accountMediaLikes": 2265,
+        "postLikes": 991,
+        "about": "✦︶︶︶︶︶︶✦♡✦︶︶︶︶︶︶\nYour sussy succubus vtuber mommy~\nYou can find me on :\n♡Twitch | https://www.twitch.tv/cana\n♡Wishlist | throne.com/canariavtuber/wishlist\n♡Patreon | https://www.patreon.com/CanariaVTuber\n✦︶︶︶︶︶︶✦♡✦︶︶︶︶︶︶✦\n",
+        "location": "Your Dreams ?",
+        "streaming": {
+            "accountId": "516101044002893825",
+            "channel": {
+                "id": "531651045089095681",
+                "accountId": "516101044002893825",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.cxJJf5XuPXdb.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1688249846000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "531651045089095682",
+                    "historyId": null,
+                    "channelId": "531651045089095681",
+                    "accountId": "516101044002893825",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1688249847000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

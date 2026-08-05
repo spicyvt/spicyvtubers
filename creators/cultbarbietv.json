@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef42f494-94ab-4e44-8c51-339f827d96b0-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6d687aa-ab14-4413-98e2-02df19008bcd-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "466727993297870848",
+        "username": "CultBarbieTV",
+        "displayName": "⛧Summoning Valky⛧",
+        "version": 21,
+        "followCount": 597,
+        "statusId": 2,
+        "accountMediaLikes": 2033,
+        "postLikes": 2650,
+        "about": "\"I came because you summoned me.\"\n☽⋆⋅♰⛧About Me⛧♰⋅⋆☾ \n⛧ Bat Entity Demoness \n⛧ Dommy Mommy of your Nightmares\n⛧ Cult Leader Vtuber\n⛧ Chubby Horror GF\n⛧ Pansexual \n⛧ Thick Thighs, Tummy, Large Assets\n⛧ Tsundere Yandere\n⛧ Sink into Obsession\n\n☽⋆⋅♰⛧Bestowed Upon You⛧♰⋅⋆☾ \n⛧ Voice Acting & Erotic Audio \n⛧ NSFW Art \n⛧ VR / Vtuber Content\n⛧ Sexting & Body Rates\n⛧ Solo IRL Nudity\n⛧ My Kinks & BDSM Information\n⛧ Streaming & VODS\n\nComing Soon . . .\n⛧ Couple IRL \n\n\n☽⋆⋅♰⛧BDSM Enthusiast⛧♰⋅⋆☾ \n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "466727993297870848",
+            "channel": {
+                "id": "831789254249041920",
+                "accountId": "466727993297870848",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.z6PX9q8xa6P1.m3u8",
+                "chatRoomId": "834002195694239744",
+                "status": 2,
+                "version": 12,
+                "createdAt": 1759808372000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "831789254249041921",
+                    "historyId": "934649850245435392",
+                    "channelId": "831789254249041920",
+                    "accountId": "466727993297870848",
+                    "title": "Valky's Reviews YOUR favourite hentai (2)",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 42,
+                    "createdAt": 1759808372000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784341349000,
+                    "startedAt": 1784332249000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:53Z"
     }
 }

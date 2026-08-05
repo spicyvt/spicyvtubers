@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d46fe506-2db6-41a7-b6a8-3858a55054f1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/88e887e8-fcd6-45fe-b5e1-1e0a550ee0cb-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "589679159039504385",
+        "username": "MayumiYoruno",
+        "displayName": null,
+        "version": 6,
+        "followCount": 1406,
+        "statusId": 3,
+        "accountMediaLikes": 113,
+        "postLikes": 284,
+        "about": "Hey there! I'm Mayumi, but you can call me Yumi~ \nI'm a Moon Maiden Princess and Goddess Vtuber. Now, let Mommy Yumi take good care of you~\n\n🎀 All Content will be made with my 2D model (3D can be possible if a crowdfunding happens. NO IRL content.) \n🎀 Live Fansly Streams Mondays and Thursdays @ 8PM EST\n🎀 Lovense is live on every Stream~\n🎀 Live ASMR on Twitch Monday to Fridays @ 10am EST\n\nExternal Links:\n✨ Twitch | https://twitch.tv/MayumiYoruno\n✨ Kick | https://kick.com/MayumiYoruno\n✨ Wishlist | https://throne.com/MayumiYoruno\n✨ Carrd | https://mayumiyoruno.carrd.co",
+        "location": "Stellaris",
+        "streaming": {
+            "accountId": "589679159039504385",
+            "channel": {
+                "id": "778449552473595904",
+                "accountId": "589679159039504385",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4xhCY7HCULiI.m3u8",
+                "chatRoomId": "778556131076218880",
+                "status": 2,
+                "version": 39,
+                "createdAt": 1747091196000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "778449552473595905",
+                    "historyId": "905300451589648384",
+                    "channelId": "778449552473595904",
+                    "accountId": "589679159039504385",
+                    "title": "[ASMR] Missed Mommy? Cum with me~ ♡ Lovense is on! ~ !socials !menu !throne #moans #mommy ",
+                    "status": 1,
+                    "viewerCount": 31,
+                    "version": 1131,
+                    "createdAt": 1747091196000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1777342360000,
+                    "startedAt": 1777334807000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "789694099098710016",
+                                "streamId": "778449552473595905",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

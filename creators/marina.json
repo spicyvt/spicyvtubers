@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c0bab5f-a01e-4a6d-abbf-47eb337c67e3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b3597dc-b296-4d7b-a7e6-df71fafa0f22-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "300380607995715584",
+        "username": "marinaboo",
+        "displayName": "Marina",
+        "version": 40,
+        "followCount": 15706,
+        "statusId": 1,
+        "accountMediaLikes": 6526,
+        "postLikes": 3854,
+        "about": "💦 Top 0.3% 💦 Dommy Mommy VTuber & Twitch Partner\nLikes: Armpits, Sweat, Tiddies, Being Spoiled, Findom\n\nTwitch: https://www.twitch.tv/marina\nWishlist: https://jointhrone.com/u/marina",
+        "location": "US",
+        "streaming": {
+            "accountId": "300380607995715584",
+            "channel": {
+                "id": "359343788042231808",
+                "accountId": "300380607995715584",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.UgEuCzo679GG.m3u8",
+                "chatRoomId": "359344245284282368",
+                "status": 2,
+                "version": 18,
+                "createdAt": 1647168595000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "359343788042231809",
+                    "historyId": "921250906656235520",
+                    "channelId": "359343788042231808",
+                    "accountId": "300380607995715584",
+                    "title": "Sweaty Naked Goth MILF Playing FlipWitch Randomizer",
+                    "status": 1,
+                    "viewerCount": 24,
+                    "version": 7652,
+                    "createdAt": 1647168595000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781155792000,
+                    "startedAt": 1781137692000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "799888141031845888",
+                                "streamId": "359343788042231809",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

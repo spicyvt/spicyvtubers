@@ -1,0 +1,73 @@
+{
+    "bio": "Welcome to the Lightning Clan territory. I'm Sandy Lightning, community based chaos streamer, klepto kitsune, Lightning Clan Leader and lover of adventure. It's time for you all to join the fun!",
+    "twitch": {
+        "id": "582566287",
+        "login": "sandylightning",
+        "displayName": "SandyLightning",
+        "createdAt": "2020-09-12T22:05:50.214417Z",
+        "updatedAt": "2026-08-02T22:22:16.873133Z",
+        "description": "Welcome to the Lightning Clan territory. I'm Sandy Lightning, community based chaos streamer, klepto kitsune, Lightning Clan Leader and lover of adventure. It's time for you all to join the fun! ",
+        "primaryColorHex": "0013A3",
+        "followers": {
+            "totalCount": 2780
+        },
+        "follows": {
+            "totalCount": 675
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T01:14:26.895417Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d585f95-62d2-4e19-93ce-ccb117d47025-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c826ef2-1a7e-4489-ad74-4c4f2c8d79c2-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "497299145657163776",
+        "username": "LightningOnlyFoxes",
+        "displayName": "SandyLightning#OnlyF",
+        "version": 10,
+        "followCount": 171,
+        "statusId": 1,
+        "accountMediaLikes": 82,
+        "postLikes": 235,
+        "about": "Dire horny kitsune getting herself satisfied. Even the Leader of the Lightning Clan has to get her stress relieved. \n\nTwitch: https://www.twitch.tv/sandylightning\n\nYoutube: https://www.youtube.com/@sandylightning\n\nThrone: https://throne.com/sandylightning",
+        "location": "",
+        "streaming": {
+            "accountId": "497299145657163776",
+            "channel": {
+                "id": "645103939284381696",
+                "accountId": "497299145657163776",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.pfdKUCOhtl9f.m3u8",
+                "chatRoomId": "670493184987504641",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1715299124000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "645103939284381697",
+                    "historyId": "879223299656146945",
+                    "channelId": "645103939284381696",
+                    "accountId": "497299145657163776",
+                    "title": "Date Everything~ Never Alone~",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 4598,
+                    "createdAt": 1715299125000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1771124202000,
+                    "startedAt": 1771117529000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:28Z"
+    }
+}

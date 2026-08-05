@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47eb6e48-879e-43a8-a10b-cac2abcca9fa-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23ef6f42-d392-49bb-a538-07f5bc861f46-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "371807552805023744",
+        "username": "NatMone",
+        "displayName": "Natasha M.",
+        "version": 5,
+        "followCount": 70,
+        "statusId": 1,
+        "accountMediaLikes": 202,
+        "postLikes": 35,
+        "about": "Hey there 🤍\nWelcome to my new page, I’m still getting adjusted so you should follow me on my socials! \nVtubing cams on Thursday or Friday!\nMultiple tiers!\n✨Mainly Professional Photoshoots with some amateur content tossed in.\n✨ Always taking suggestions/ commissions on what you wanna see, while having a little fun on my own as well\n✨Catering to niche fetish content like: food, giantess, findom, femdom, looner, feet, cosplay, and much more! \n✨Tatted skin, soft lips, a fat ass and a shining personality.\n",
+        "location": "",
+        "streaming": {
+            "accountId": "371807552805023744",
+            "channel": {
+                "id": "827624179816751104",
+                "accountId": "371807552805023744",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vzRaeVd5pvOv.m3u8",
+                "chatRoomId": "827624921982070784",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1758815341000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "827624179816751105",
+                    "historyId": "833240188183400448",
+                    "channelId": "827624179816751104",
+                    "accountId": "371807552805023744",
+                    "title": "Going Live with @MysticalRosalie with a man tied under my desk. AMA",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 4,
+                    "createdAt": 1758815341000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1760163376000,
+                    "startedAt": 1760154301000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "827624588987887616",
+                                "streamId": "827624179816751105",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:06Z"
     }
 }

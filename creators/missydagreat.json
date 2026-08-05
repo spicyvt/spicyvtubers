@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1eecb00-616d-446d-a34c-82d7e77e3710-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0e986b5-fe0a-4c57-b1ec-8359e60d7cea-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "363411546115678208",
+        "username": "MissyDaGreat",
+        "displayName": "MissyDaGreat ",
+        "version": 62,
+        "followCount": 24884,
+        "statusId": 1,
+        "accountMediaLikes": 65027,
+        "postLikes": 58485,
+        "about": "🙏Welcome to The Herd🙏\n\nI'm Missy! I do IRL/VR/2D streams and content! I'm your friendly neighborhood bimbocowclown with a severe oral fixation! \n\n💕Sloppy oral\n💕Creamy pussy fucking\n💕Big tiddies, tummy, ass, and pretty fupa!\n💕Fuck machine content\n\nI do customs and 1 on 1 sessions! Let's have some fun and see what we can make ;)\n\n✨️Want full nude IRL? Don't forget to subscribe to Worshiper tier! Every sub tier gets a free control link EVERY SINGLE STREAM! ✨️\n\nTHRONE: https://throne.me/u/missydagreat",
+        "location": "The Bimbo Farm",
+        "streaming": {
+            "accountId": "363411546115678208",
+            "channel": {
+                "id": "370827590509801472",
+                "accountId": "363411546115678208",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.eeNjDxaQd27v.m3u8",
+                "chatRoomId": "371126128196198400",
+                "status": 2,
+                "version": 336,
+                "createdAt": 1649906547000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "370827590509801473",
+                    "historyId": "940796464072761344",
+                    "channelId": "370827590509801472",
+                    "accountId": "363411546115678208",
+                    "title": "Don't be shy <3 Chat with me! I love interaction :3",
+                    "status": 1,
+                    "viewerCount": 26,
+                    "version": 3869,
+                    "createdAt": 1649906547000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785870697000,
+                    "startedAt": 1785797716000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

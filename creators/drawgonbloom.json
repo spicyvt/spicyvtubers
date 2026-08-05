@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c71780b4-70de-44b2-8f82-80e900dd4f46-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7abd2a55-db35-445b-ae74-dc3971f7c38a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "580224764329598976",
+        "username": "TinyGreenLeef",
+        "displayName": "Tiny Green Leef",
+        "version": 45,
+        "followCount": 1699,
+        "statusId": 1,
+        "accountMediaLikes": 482,
+        "postLikes": 371,
+        "about": "I'm Tiny Green Leef you can just call me Leef <3\nVR Anime Futa G.I.R.L. ;3\nAny pronoun are welcome I'm genderfluid & don't care what I'm called.\n\nYou want HOT & WILD Futa G.I.R.L. action!? you're in the right PLACE!!\nAND! I have a full female mode too!! I'm a \"Wild Monster\" of a switch in bed you could say, now gib mouth plz >:3 tehe~\n\nlinks https://tinygreenleef.carrd.co/\n\nThat's a joke btw fansly lol x3\nDue to Fansly TOS I have to inform you that I am a human wearing a tail and I have some body paint on some spots of my body that looks a bit like scales because it's fun to dress up. Any and all none human parts are just a costume or body paint on my characters. Am very human, yis :3\n\nA bit about me, I love monster like characters & games! I think dragons, kaiju, and dinos are super kool! Yeah I'm a dork who likes dorky things x3\n\nOriginally here just to help out PixiePups. But now she's talked me into making things too.\nWe'll see where this goes, & what I end up doing.\n@PixiePups will show up here sometimes.\n\nMy main avatar base is made by ScarlettKat",
+        "location": "",
+        "streaming": {
+            "accountId": "580224764329598976",
+            "channel": {
+                "id": "723376945579962369",
+                "accountId": "580224764329598976",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.45A62kjJ07cY.m3u8",
+                "chatRoomId": "723382675112468481",
+                "status": 2,
+                "version": 36,
+                "createdAt": 1733960863000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "723376945579962370",
+                    "historyId": "941161413202702336",
+                    "channelId": "723376945579962369",
+                    "accountId": "580224764329598976",
+                    "title": "NSFW VR Stream Co-staring PixieWubs",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 277,
+                    "createdAt": 1733960863000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785892065000,
+                    "startedAt": 1785884726000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "723393174441046017",
+                                "streamId": "723376945579962370",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

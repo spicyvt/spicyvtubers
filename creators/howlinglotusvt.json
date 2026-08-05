@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ea46b9a7-cc41-4b94-8986-715ef4042220-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a30268-f230-4ffb-bef4-42d0b9553db0-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "698644470941364224",
+        "username": "MoaningLotus",
+        "displayName": "MoaningLotus",
+        "version": 7,
+        "followCount": 12500,
+        "statusId": 1,
+        "accountMediaLikes": 8575,
+        "postLikes": 5187,
+        "about": "🐺Sussy Partying Gremlin Wolfgirl🪷\n\n✨🔞MDNI🔞✨Vtuber (lewd & nude)✨She/Her✨Bottom✨Kink and Fetish friendly\n\n🎨Banner by tehqqi🎨\n\n🪷Vtuber Shenanigans\n🪷NSFW games\n🪷NSFW watch-a-longs\n🪷Naked Streams and Toy Play\n🪷Lewds & Nudes for IRL & Art\n\n☽｡⋆ twitch.tv/howlinglotusvt\n☽｡⋆ tiktok.com/@howlinglotusvt\n☽｡⋆ youtube.com/@howlinglotusvt\n☽｡⋆ twitter.com/HowlingLotusVT\n☽｡⋆ twitter.com/MoaningLotus\n☽｡⋆ discord.gg/Ub3cmnkDeY\n☽｡⋆ throne.com/howlinglotusvt\n☽｡⋆ wish.ly/moaninglotus\n☽｡⋆ howlinglotus219@gmail.com\n\n✧.* All other content: https://howlinglotusvt.carrd.co ✧.*\n\n-‘๑’- Credits: https://howlinglotusvt.carrd.co/#credits -‘๑’-\n\n⚠️All of my content here is for my Fansly profile only. ⚠️\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. Any unauthorized distribution of my content & live streams will result in a ban from ALL platforms.",
+        "location": "Under your desk giving support :3",
+        "streaming": {
+            "accountId": "698644470941364224",
+            "channel": {
+                "id": "766115855539908609",
+                "accountId": "698644470941364224",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.V6VqSeIlej6r.m3u8",
+                "chatRoomId": "768343481209856000",
+                "status": 2,
+                "version": 53,
+                "createdAt": 1744150613000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "766115855539908610",
+                    "historyId": "940366052871651328",
+                    "channelId": "766115855539908609",
+                    "accountId": "698644470941364224",
+                    "title": "[LOVENSE] Watching Hentai n Yapping with your Vtuber Wolf Whore~ ",
+                    "status": 1,
+                    "viewerCount": 49,
+                    "version": 9746,
+                    "createdAt": 1744150614000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785704088000,
+                    "startedAt": 1785695098000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "769317017437089792",
+                                "streamId": "766115855539908610",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

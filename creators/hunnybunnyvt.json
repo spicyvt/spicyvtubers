@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/deb72062-34bb-4fb6-859f-17f75a7a6d1f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c9716e0-ad98-4ce4-9b54-5a89529e3de7-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "825606456647626753",
+        "username": "HunnyBunnyVT",
+        "displayName": null,
+        "version": 7,
+        "followCount": 216,
+        "statusId": 1,
+        "accountMediaLikes": 21,
+        "postLikes": 14,
+        "about": "I'm a silly little vtuber bunny!\nI read and reply to all messages so please be patient!\nlinktr.ee/HunnyBunnyVT",
+        "location": "in your walls",
+        "streaming": {
+            "accountId": "825606456647626753",
+            "channel": {
+                "id": "835690254533931008",
+                "accountId": "825606456647626753",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ivzFq9vmmOKN.m3u8",
+                "chatRoomId": "835691387633557504",
+                "status": 2,
+                "version": 22,
+                "createdAt": 1760738443000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "835690254533931009",
+                    "historyId": "936826620117790720",
+                    "channelId": "835690254533931008",
+                    "accountId": "825606456647626753",
+                    "title": "A private stream just for you (;",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 34,
+                    "createdAt": 1760738443000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784859054000,
+                    "startedAt": 1784851231000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "936824423254609920",
+                                "streamId": "835690254533931009",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"856371955345928192\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

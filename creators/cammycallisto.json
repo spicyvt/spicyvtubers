@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9fb42703-e8f3-4317-acb1-2149e387bdcd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2b5c7b7-66c7-45b0-9b7c-08f9c34c3d2d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "793765609778192386",
+        "username": "CammyChameleon",
+        "displayName": "CammyCallisto",
+        "version": 4,
+        "followCount": 146,
+        "statusId": 1,
+        "accountMediaLikes": 37,
+        "postLikes": 68,
+        "about": "Will be streaming on https://joystick.tv/u/cammychameleonvt~ \n\nThis will be used for Art posts, asmr/voice packs, and recorded streams~ ",
+        "location": "https://cammycallistovt.carrd.co/",
+        "streaming": {
+            "accountId": "793765609778192386",
+            "channel": {
+                "id": "796962813577801728",
+                "accountId": "793765609778192386",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7oAwfRa6VPyO.m3u8",
+                "chatRoomId": "796962901519773698",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1751505101000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "796962813577801729",
+                    "historyId": "803499688970952704",
+                    "channelId": "796962813577801728",
+                    "accountId": "793765609778192386",
+                    "title": "PLAYING V-LOVER?!?!? Free Stream! ",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 14,
+                    "createdAt": 1751505102000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1753070561000,
+                    "startedAt": 1753063614000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "798063616803741697",
+                                "streamId": "796962813577801729",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

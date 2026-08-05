@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1e2329f-7a5a-4aaa-9db7-256e5463b631-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f6b74c6-0298-4674-8cc2-32f0ba7e4c97-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "560228012608466944",
+        "username": "CaelumVT",
+        "displayName": "CaeCae♥🔞",
+        "version": 9,
+        "followCount": 6030,
+        "statusId": 1,
+        "accountMediaLikes": 1936,
+        "postLikes": 4929,
+        "about": "Patreon (Roleplay & Porn audios)\nhttps://www.patreon.com/Caelumasmr\nBFE & Lovense call prices: \nhttps://twitter.com/Caecaensfw2/status/1755285994109018512/photo/1\nNSFW Art & personal accound:\nhttps://twitter.com/Caecaensfw2",
+        "location": "",
+        "streaming": {
+            "accountId": "560228012608466944",
+            "channel": {
+                "id": "590444920016220160",
+                "accountId": "560228012608466944",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.gYuimheLbmru.m3u8",
+                "chatRoomId": "590446381756325888",
+                "status": 2,
+                "version": 16,
+                "createdAt": 1702267398000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "590444920016220161",
+                    "historyId": "869438102215614465",
+                    "channelId": "590444920016220160",
+                    "accountId": "560228012608466944",
+                    "title": "🔞(FTM/Cuntboy) I masturbate to chat, then ride you! #BlowjobPOV #RidingPOV #femboy #nsfw #malemoaning #masked",
+                    "status": 1,
+                    "viewerCount": 22,
+                    "version": 4600,
+                    "createdAt": 1702267399000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1768791285000,
+                    "startedAt": 1768784556000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "869401708818616326",
+                                "streamId": "590444920016220161",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "869401708818616327",
+                                "streamId": "590444920016220161",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":500}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

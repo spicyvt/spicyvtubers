@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d8004c2-74f4-4599-bad3-5c07bd8bd629-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ad32cef-e28c-47d0-b138-3bf68f8c5eb3-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "767746160256364544",
+        "username": "GuillotinePuppy",
+        "displayName": "Sunny",
+        "version": 9,
+        "followCount": 390,
+        "statusId": 1,
+        "accountMediaLikes": 687,
+        "postLikes": 278,
+        "about": "૮₍ ´ ꒳ `₎ა𐂯🦴⋆🐾°ᶻ 𝗓 𐰁₊˚⊹ 𐂯zᶻ   ૮˶- ﻌ -˶ა⌒)ᦱ\nHe/They/It Trans-Man\nRaccoon Puppy Lewdtuber//Subby And Shy\nI Mostly Do Videos And Pictures On Vrchat\nhttps://guillotinepuppy.carrd.co/\n૮₍ ´ ꒳ `₎ა𐂯🦴⋆🐾°ᶻ 𝗓 𐰁₊˚⊹ 𐂯zᶻ   ૮˶- ﻌ -˶ა⌒)ᦱ",
+        "location": "Dogtown, Me",
+        "streaming": {
+            "accountId": "767746160256364544",
+            "channel": {
+                "id": "863193309739233280",
+                "accountId": "767746160256364544",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qY8DzXYMbVWQ.m3u8",
+                "chatRoomId": "863194323850645504",
+                "status": 2,
+                "version": 56,
+                "createdAt": 1767295682000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "863193309739233281",
+                    "historyId": "941083510322520064",
+                    "channelId": "863193309739233280",
+                    "accountId": "767746160256364544",
+                    "title": "Delustional Raccoon Wants Your Attention~",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 120,
+                    "createdAt": 1767295682000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785881381000,
+                    "startedAt": 1785866153000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

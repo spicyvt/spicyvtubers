@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66580d80-1aeb-421e-aacf-8758842b9890-profile_image-70x70.png",
         "bannerImageUrl": null
+    },
+    "fansly": {
+        "id": "881015063022956544",
+        "username": "peachdemonade",
+        "displayName": "kellia || peachdemon",
+        "version": 4,
+        "followCount": 24,
+        "statusId": 1,
+        "accountMediaLikes": 16,
+        "postLikes": 18,
+        "about": "Your favourite demon who can be bratty, subby or mommy💙😈\n\nWhat I do:\n💙IRL and VTuber uncensored nudes and videos\n😈DMs for Subs\n💙Cosplay, toys, lingerie\n😈 lewd streams\n\ndiscord: https://discord.gg/P5pamKtyUj\ntwitch: https://twitch.tv/peachdemonade\nbuy me gifts for a personalised thank you💙😈: https://throne.com/peachdemonade",
+        "location": "",
+        "streaming": {
+            "accountId": "881015063022956544",
+            "channel": {
+                "id": "927821946920394755",
+                "accountId": "881015063022956544",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.bmUM0W7PGqXq.m3u8",
+                "chatRoomId": "927822200688357376",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1782704350000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "927821946920394756",
+                    "historyId": "939775866123075584",
+                    "channelId": "927821946920394755",
+                    "accountId": "881015063022956544",
+                    "title": "test stream! hanging and hunniepop",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 4,
+                    "createdAt": 1782704350000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785560740000,
+                    "startedAt": 1785554386000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:24Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d7841d5-21af-47ab-ad72-c023966890d0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ef6990-eabb-45ed-98a9-12fa86e327c8-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "512880136425582592",
+        "username": "Ebiko",
+        "displayName": "Ebiko",
+        "version": 6,
+        "followCount": 84231,
+        "statusId": 1,
+        "accountMediaLikes": 119221,
+        "postLikes": 96699,
+        "about": "ᴘʀᴀᴡɴꜱᴛᴀʀ | ꜱᴘᴏɪʟ ᴍᴇ ❥ https://throne.com/ebiko ♡\n⌞Streams every Friday at 8pm EST ⌝\n\n──── ୨୧ ────\n» Twitch: https://www.twitch.tv/ebiko\n» Twitter: https://x.com/EbikoVtuber\n» Youtube: https://www.youtube.com/@EbikoVT\n» Everything: https://ebiko.carrd.co\n\n\nReposting my content is strictly prohibited & illegal \nAny reposting of any sort will result in action from my legal team\nNo refunds \n\n「 Use CODE: EBIKO to get 10% off your GSUPPS ⌋\n\nCustoms are queue based <3 \n",
+        "location": "Canada",
+        "streaming": {
+            "accountId": "512880136425582592",
+            "channel": {
+                "id": "708231321171795968",
+                "accountId": "512880136425582592",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yW4RKrVAD0tM.m3u8",
+                "chatRoomId": "710313831330492416",
+                "status": 2,
+                "version": 42,
+                "createdAt": 1730349865000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "708231321171795969",
+                    "historyId": "937547764210888704",
+                    "channelId": "708231321171795968",
+                    "accountId": "512880136425582592",
+                    "title": "Eepy shremp",
+                    "status": 1,
+                    "viewerCount": 603,
+                    "version": 9393,
+                    "createdAt": 1730349865000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785030259000,
+                    "startedAt": 1785023165000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "886454878132518912",
+                                "streamId": "708231321171795969",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

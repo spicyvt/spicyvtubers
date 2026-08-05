@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/250a819f-f8e2-4998-a493-1a878dbd2b5e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed6fe3ee-af99-4b57-bb48-c5b804817cd4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "727253066113359872",
+        "username": "PenlockHolmes",
+        "displayName": "Penlock Holmes",
+        "version": 12,
+        "followCount": 5915,
+        "statusId": 1,
+        "accountMediaLikes": 1528,
+        "postLikes": 1331,
+        "about": "Hai~~ Penni Here! \nPenguin Fairy Detective is getting Naughty Here!\nSpoil the brat - https://throne.com/penlockholmes\nN/SFW ASMR-ist RP\n18+ | Lewd\n",
+        "location": "In your basement",
+        "streaming": {
+            "accountId": "727253066113359872",
+            "channel": {
+                "id": "821264829074399232",
+                "accountId": "727253066113359872",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.lVrK7rbXqRd9.m3u8",
+                "chatRoomId": "821267579694764032",
+                "status": 2,
+                "version": 148,
+                "createdAt": 1757299153000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "821264829074399233",
+                    "historyId": "940792813614804992",
+                    "channelId": "821264829074399232",
+                    "accountId": "727253066113359872",
+                    "title": "Hot Babes at a Hotel Yes please | Toy is activated  !menu !goals ",
+                    "status": 1,
+                    "viewerCount": 15,
+                    "version": 354,
+                    "createdAt": 1757299153000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785803637000,
+                    "startedAt": 1785796845000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "821264892202868736",
+                                "streamId": "821264829074399233",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

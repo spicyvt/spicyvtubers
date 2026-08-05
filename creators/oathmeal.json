@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c9f1249-b430-417f-b2c6-9d5be34deba3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/78cd76b9-9084-4956-a57f-9d8be2344ce8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "320096814365679616",
+        "username": "Lewdmeal",
+        "displayName": "Lewdmeal",
+        "version": 6,
+        "followCount": 25506,
+        "statusId": 3,
+        "accountMediaLikes": 12087,
+        "postLikes": 13104,
+        "about": "Here to make you question your sexuality~ ❤︎ 🐱\nWelcome to my fansly page, I hope you enjoy your stay!\n\nI post new content whenever I can for followers & subscribers alike, although subscribers definitely receive more.\n\nI go LIVE 1-2 times a month on average, and it's generally open to everyone so long as you're following! Occasionally I do private sub-only streams too with the tip menu already active for toy play (and will occasionally drop codes in chat as well).\n\nIf you have any suggestions my dm's are OPEN (subscribers get priority). I'm also open to paid requests within reason, so don't hesitate to message me if you have something you'd be interested in having me do for content. I don't bite (too hard)! 😉\n\nDiscord  :: https://discord.gg/tZMnTfkYdv\nWishlist :: https://throne.me/u/oathmeal\nSocials  :: https://oathmeal.tv",
+        "location": "",
+        "streaming": {
+            "accountId": "320096814365679616",
+            "channel": {
+                "id": "405342450580725760",
+                "accountId": "320096814365679616",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.UBnYwSyETLIz.m3u8",
+                "chatRoomId": "405342669397569536",
+                "status": 2,
+                "version": 90,
+                "createdAt": 1658135531000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "405342450580725761",
+                    "historyId": "940882773235736576",
+                    "channelId": "405342450580725760",
+                    "accountId": "320096814365679616",
+                    "title": "relapsing on passion~ ❤︎ | !wishlist !social",
+                    "status": 1,
+                    "viewerCount": 26,
+                    "version": 6251,
+                    "createdAt": 1658135531000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785839347000,
+                    "startedAt": 1785818293000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "789061964025311232",
+                                "streamId": "405342450580725761",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

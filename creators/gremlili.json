@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b95ec741-7041-4f30-8d93-3d7029ed7ba5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/43ea9149-595e-4357-ae8c-01e104ebb15c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "792227968138092544",
+        "username": "Gremlili",
+        "displayName": "Gremmie",
+        "version": 9,
+        "followCount": 638,
+        "statusId": 1,
+        "accountMediaLikes": 743,
+        "postLikes": 1021,
+        "about": "Your 152cm DD shortstack bratty demanding princess～🩷🩵\nGFE Experience in DMs (Please be patient! Tips get Priority!) (๑>؂•̀๑)\n\n🔗Support me everywhere → https://gremlili.uwu.ai\n🎁Spoil your princess → https://throne.com/gremlili\n💦Lovense Partner Link → https://www.lovense.com/p/gremlili\n🫦Erotic Audios → https://www.patreon.com/c/gremlili\n👂ASMR and Streams → https://www.youtube.com/@gremlili\n\n♡ FREE Streams every Saturday @ 8 PM ET / 5 PM PT\n♡ IRL Lewds (no nudity)\n♡ NSFW Artwork\n♡ NSFW 3D and 2D Videos\n\nDo not repost my content. Reposting it may result in legal action.",
+        "location": "Your Bed",
+        "streaming": {
+            "accountId": "792227968138092544",
+            "channel": {
+                "id": "939032709668302947",
+                "accountId": "792227968138092544",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.CG2zGGQbIHi6.m3u8",
+                "chatRoomId": "939033471119024128",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1785377204000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "939032709668302948",
+                    "historyId": null,
+                    "channelId": "939032709668302947",
+                    "accountId": "792227968138092544",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1785377204000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "939032763900645376",
+                                "streamId": "939032709668302948",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

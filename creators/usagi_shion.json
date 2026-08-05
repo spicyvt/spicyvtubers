@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60bca776-29c6-4eb3-8077-bae6e01d6dbc-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a438da0-c606-4906-96d9-f898423c4fdf-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "408712389622505472",
+        "username": "ShionVT",
+        "displayName": "UsagiShion (NSFW)",
+        "version": 7,
+        "followCount": 98,
+        "statusId": 1,
+        "accountMediaLikes": 17,
+        "postLikes": 14,
+        "about": "Hello! i'm Shion, Welcome to my Fansly Account! <3\n\nI'll be uploading uncensored content from Twitter over here~!\nSub to see the premium content!\n** Don't Miss out on Live Streams! **",
+        "location": "Foreing Burrow",
+        "streaming": {
+            "accountId": "408712389622505472",
+            "channel": {
+                "id": "791063420949504000",
+                "accountId": "408712389622505472",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TPQb2pN88pTk.m3u8",
+                "chatRoomId": "791063851255738368",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1750098576000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "791063420949504001",
+                    "historyId": "924055316390227969",
+                    "channelId": "791063420949504000",
+                    "accountId": "408712389622505472",
+                    "title": "Strip Karaoke! Drop by to say hi!",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 18,
+                    "createdAt": 1750098577000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781812566000,
+                    "startedAt": 1781806315000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

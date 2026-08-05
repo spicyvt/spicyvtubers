@@ -23,5 +23,76 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/daeaa200-acb9-4685-b71c-b7f009d22c44-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d7f01c2-ae70-420a-9327-f05dbe09cc98-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "935358021867937792",
+        "username": "IndexVoss",
+        "displayName": null,
+        "version": 2,
+        "followCount": 4,
+        "statusId": 1,
+        "accountMediaLikes": 2,
+        "postLikes": 2,
+        "about": "Hello darlings! Index is here to murmur and whisper those sweet nothings to you 😘",
+        "location": "Hopefully your bed",
+        "streaming": {
+            "accountId": "935358021867937792",
+            "channel": {
+                "id": "936942812786618369",
+                "accountId": "935358021867937792",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.KElmp2SyMQ0f.m3u8",
+                "chatRoomId": "936942860031238144",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1784878934000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "936942812786618370",
+                    "historyId": "939741306668736512",
+                    "channelId": "936942812786618369",
+                    "accountId": "935358021867937792",
+                    "title": "August ASMR Recording Session",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2,
+                    "createdAt": 1784878934000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785548680000,
+                    "startedAt": 1785546147000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "939738401232404481",
+                                "streamId": "936942812786618370",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"936941607205216256\\\"}\"}"
+                            },
+                            {
+                                "id": "939738401232404482",
+                                "streamId": "936942812786618370",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"936940997575716864\\\"}\"}"
+                            },
+                            {
+                                "id": "939738401232404483",
+                                "streamId": "936942812786618370",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"939738348195422208\\\",\\\"label\\\":\\\"QA Testers\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:28Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c58bdaba-d3ae-4548-8c2a-6ed0b14b368f-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39afd375-94d7-4437-8a95-37daea8852ca-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "864392646561374208",
+        "username": "SxrynityVT",
+        "displayName": "Sxrynity🦊⚙️",
+        "version": 11,
+        "followCount": 158,
+        "statusId": 1,
+        "accountMediaLikes": 84,
+        "postLikes": 133,
+        "about": "Hi! I'm Sxrynity, an enby Vtuber on Twitch, Tik Tok, and Youtube! I'm new to Fansly but I'll be giving it a shot c:\n[FTM]\n~ Private Commissions Welcome ~\nAlso, feel free to jerk off to me while I stream on any other site c: I have the channel point redeem \"Test Redeem\" on Twitch so you can let me know you are~\nI find it extremely hot owo",
+        "location": "",
+        "streaming": {
+            "accountId": "864392646561374208",
+            "channel": {
+                "id": "869346742246600704",
+                "accountId": "864392646561374208",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HJmhyqoPM0NZ.m3u8",
+                "chatRoomId": "869474763536347136",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1768762775000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "869346742246600705",
+                    "historyId": "879337873524932608",
+                    "channelId": "869346742246600704",
+                    "accountId": "864392646561374208",
+                    "title": "Valentine's Lovense Stream :3",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 30,
+                    "createdAt": 1768762775000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1771160802000,
+                    "startedAt": 1771144846000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

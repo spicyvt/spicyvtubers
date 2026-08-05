@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9327f272-9102-41fb-a4ae-539b679685b1-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/30e355a7-525b-4936-9f63-42f9af260eeb-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "861927173060059136",
+        "username": "Haniivale",
+        "displayName": "Hani 💢🦴",
+        "version": 4,
+        "followCount": 1093,
+        "statusId": 1,
+        "accountMediaLikes": 809,
+        "postLikes": 723,
+        "about": "Your bratty Void Pup 💢🐾\n\n 🦴 Bratty but innocent Sub | VR/Vtuber/IRL Content🦴\n \n⋆｡ﾟ🐾Free To Watch Streams🐾⋆｡ﾟ\n          (I DONT ERP OR SEXT...yet)\n\nVOD's For 'Lost in the void' Tier & Up 🦴 \n     ~ stream schedule still being worked on 💢\n\nI only respond to DM's here 💢!!\n\n(. ❛ ᴗ ❛.) Spoil me here~ https://throne.com/Haniivale \nother links ~ link.me/haniivale\n\n(ノ｀Д)ノ All content posted is for my Fansly profile & is copyrighted and owned by ME!\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. Any unauthorized distribution of my content & live streams will result in a ban from ALL platforms & legal action will be taken.\n\nI also reserve the right to ban/block anyone at ANY point even if no rules have been broken. If you are banned/blocked on any of my other social platforms, you WILL be blocked here as well. ",
+        "location": "Dog House",
+        "streaming": {
+            "accountId": "861927173060059136",
+            "channel": {
+                "id": "918358231464558592",
+                "accountId": "861927173060059136",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JAQalPxsF2OP.m3u8",
+                "chatRoomId": "925175846837170176",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1780448024000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "918358231464558593",
+                    "historyId": null,
+                    "channelId": "918358231464558592",
+                    "accountId": "861927173060059136",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1780448024000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

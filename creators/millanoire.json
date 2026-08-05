@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b72c65f-017a-4a44-9682-d7c81427f587-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/908d2fdf-2813-4691-9297-12784d2006d6-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "595707298358239232",
+        "username": "MillaNoire",
+        "displayName": null,
+        "version": 3,
+        "followCount": 4068,
+        "statusId": 1,
+        "accountMediaLikes": 1259,
+        "postLikes": 1254,
+        "about": "Updates on my health and stuff, meaning when I can post here again are posted in my discord or twitter!\n♡-Hi!~ I'm a cutesy little bottom Black Hole bimbo VTuber who loves to serve~\n♡-Check pinned message for Discord/Twitch/Twitter\n♡-I'm a very emotional and loving girl who likes to be affectionate during sex, I know that might not appeal to everyone, but if you like sensitive, soft and loving sex, you and I might have a very good time together <3\n♡-Main fetishes I play with a lot are of Breast/Ass expansion and Bimbo fetish!",
+        "location": "",
+        "streaming": {
+            "accountId": "595707298358239232",
+            "channel": {
+                "id": "597238914893230080",
+                "accountId": "595707298358239232",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.IaJHZgQ7k3mp.m3u8",
+                "chatRoomId": "597240515775180800",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1703887213000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "597238914893230081",
+                    "historyId": "701251476911042561",
+                    "channelId": "597238914893230080",
+                    "accountId": "595707298358239232",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 136,
+                    "version": 6068,
+                    "createdAt": 1703887213000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1728693118000,
+                    "startedAt": 1728685740000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "659178879742652416",
+                                "streamId": "597238914893230081",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": false
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

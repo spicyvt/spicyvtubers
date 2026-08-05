@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/634a2b20-b844-43f7-973d-e14ebdb2fdab-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e34b2ab5-43fd-40b2-960c-607e491a82df-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "616405840127074304",
+        "username": "ShinichiKaiVT",
+        "displayName": "ShinichiKaiVT",
+        "version": 5,
+        "followCount": 893,
+        "statusId": 1,
+        "accountMediaLikes": 406,
+        "postLikes": 703,
+        "about": "I'm a your sussy demonlord who has been isekai'd into the human realm. Maybe you can help me find my way home or maybe you can take me home instead~",
+        "location": "",
+        "streaming": {
+            "accountId": "616405840127074304",
+            "channel": {
+                "id": "756801513560481792",
+                "accountId": "616405840127074304",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.y63LTEUgX3Um.m3u8",
+                "chatRoomId": "756801906197671936",
+                "status": 2,
+                "version": 21,
+                "createdAt": 1741929901000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "756801513560481793",
+                    "historyId": "924851405431255040",
+                    "channelId": "756801513560481792",
+                    "accountId": "616405840127074304",
+                    "title": "Down bad for Jason",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 4870,
+                    "createdAt": 1741929901000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782001612000,
+                    "startedAt": 1781996118000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1acadb75-c3c7-4eba-b109-c6b4e8c17ef3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34dbb3e8-e1c3-4bc4-8810-a10eccd79d82-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "871295879934398465",
+        "username": "tsukimittv",
+        "displayName": "Tsukimi",
+        "version": 6,
+        "followCount": 1756,
+        "statusId": 3,
+        "accountMediaLikes": 250,
+        "postLikes": 265,
+        "about": "vtuber ✮ streamer\n✮ content creator ✮\n-♡´──────── 💙 ────────♡´-\nSpoil me, nya? \nhttps://ko-fi.com/tsukimittv\nhttps://throne.com/tsukimittv\n\nJoin the Orbit for updates!\nhttps://discord.gg/tsukimi\n\nOther places to catch me at?\nhttps://linktr.ee/tsukimittv\n-♡´──────── 💙 ────────♡´-\n\nDo NOT redistribute content found on this page.\n© Tsukimittv 2026. Enforced by bruqi",
+        "location": "twitch.tv/tsukimi",
+        "streaming": {
+            "accountId": "871295879934398465",
+            "channel": {
+                "id": "881687697205243904",
+                "accountId": "871295879934398465",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.VnFL37f4kI4b.m3u8",
+                "chatRoomId": "881687765526257664",
+                "status": 2,
+                "version": 23,
+                "createdAt": 1771705088000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "881687697205243905",
+                    "historyId": "925140743427735553",
+                    "channelId": "881687697205243904",
+                    "accountId": "871295879934398465",
+                    "title": "Games & Pleasure always cum together💙👽",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 62,
+                    "createdAt": 1771705088000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785537348000,
+                    "startedAt": 1782065101000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937281205437489152",
+                                "streamId": "881687697205243905",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:51Z"
     }
 }

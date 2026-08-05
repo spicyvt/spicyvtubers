@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/87775d69-c852-4044-a4ef-8b204c82f377-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4a8b5f9-debb-45b8-8235-46ada687c23b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "295381683358670848",
+        "username": "LyspeAfterDark",
+        "displayName": "Apa 💜🐭",
+        "version": 10,
+        "followCount": 7409,
+        "statusId": 1,
+        "accountMediaLikes": 16082,
+        "postLikes": 7021,
+        "about": "Chinchilla SuccuBoi🐭💜 Lewdtuber 🔞 | Content Creator\n                               ♡ He/They ♡\n",
+        "location": "Chinchilla Hub",
+        "streaming": {
+            "accountId": "295381683358670848",
+            "channel": {
+                "id": "304070031824658432",
+                "accountId": "295381683358670848",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.g1tbQHjUZwwK.m3u8",
+                "chatRoomId": "360946098417704960",
+                "status": 2,
+                "version": 108,
+                "createdAt": 1633990304000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "304070031824658433",
+                    "historyId": "927548458028511232",
+                    "channelId": "304070031824658432",
+                    "accountId": "295381683358670848",
+                    "title": "Late Night SuccuBoi Stream // !discord !lovense !menu !goals",
+                    "status": 1,
+                    "viewerCount": 20,
+                    "version": 2257,
+                    "createdAt": 1633990305000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782650336000,
+                    "startedAt": 1782639145000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "869985696989863936",
+                                "streamId": "304070031824658433",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:47Z"
     }
 }

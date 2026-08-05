@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2f1423a3-c41d-4817-9989-22a3af70f7ff-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/41b24a95-179c-46a2-92bb-20a25ab7ca29-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "489867866212937728",
+        "username": "aspengray",
+        "displayName": "Aspen Gray",
+        "version": 11,
+        "followCount": 796,
+        "statusId": 1,
+        "accountMediaLikes": 1556,
+        "postLikes": 1074,
+        "about": "18+ creator\nWill nya and beg if you please\n",
+        "location": "California ",
+        "streaming": {
+            "accountId": "489867866212937728",
+            "channel": {
+                "id": "537479199879868417",
+                "accountId": "489867866212937728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.KF9TufxzRftA.m3u8",
+                "chatRoomId": "537479319061016581",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1689639387000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "537479199879868418",
+                    "historyId": "774870930710081536",
+                    "channelId": "537479199879868417",
+                    "accountId": "489867866212937728",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 1259,
+                    "createdAt": 1689639387000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1746244255000,
+                    "startedAt": 1746237986000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "774870849122480128",
+                                "streamId": "537479199879868418",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:47Z"
     }
 }

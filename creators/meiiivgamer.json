@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75bb64cf-83b7-4ac3-ba7d-9824c3cb1845-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a9edba2-73f0-4499-909e-3f6deb23b98b-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "475783594053214208",
+        "username": "MeiiiVGamer",
+        "displayName": "MeiiiVGamer",
+        "version": 10,
+        "followCount": 4744,
+        "statusId": 1,
+        "accountMediaLikes": 6236,
+        "postLikes": 4809,
+        "about": "Your new waifu | Vtuber | Locutora | Amante de los shooters | Creadora independiente💜| Diseñadora Gráfica 🖱️ | Mistress | Sugar Baby",
+        "location": "MEXICO",
+        "streaming": {
+            "accountId": "475783594053214208",
+            "channel": {
+                "id": "509209172139581441",
+                "accountId": "475783594053214208",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Byjba5nKhXXK.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1682899287000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "509209172139581442",
+                    "historyId": null,
+                    "channelId": "509209172139581441",
+                    "accountId": "475783594053214208",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1682899287000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

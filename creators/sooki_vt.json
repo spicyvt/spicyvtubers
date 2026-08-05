@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-70x70.png",
         "bannerImageUrl": null
+    },
+    "fansly": {
+        "id": "827958858088460289",
+        "username": "Sookicat",
+        "displayName": "Sooki",
+        "version": 7,
+        "followCount": 6500,
+        "statusId": 3,
+        "accountMediaLikes": 12226,
+        "postLikes": 7018,
+        "about": "The one and only succucat who likes to lay on your lap but also haunts you at night!  🦇🐈‍⬛️\n\nSometimes I'm a needy pain slut and sometimes I'm a mean Mommy...\n\nExpect spicy streams, audios and videos with 2d model as well as irl nudes and videos! \n\nCurrently streaming Tuesdays at 7pm EST and Fridays or Saturdays at 730pm EST, 🩷🩷🩷\n\nCheck out my other content here: https://sookivt.carrd.co/\n\nJoin my Discord!    https://discord.gg/Pa3kxYxM42 ",
+        "location": "Under your bed",
+        "streaming": {
+            "accountId": "827958858088460289",
+            "channel": {
+                "id": "895044897025826816",
+                "accountId": "827958858088460289",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vvjDutVAHRHS.m3u8",
+                "chatRoomId": "895496433392701440",
+                "status": 2,
+                "version": 44,
+                "createdAt": 1774889692000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "895044897025826817",
+                    "historyId": "941159357784006657",
+                    "channelId": "895044897025826816",
+                    "accountId": "827958858088460289",
+                    "title": "Yapping and Fapping",
+                    "status": 1,
+                    "viewerCount": 60,
+                    "version": 110,
+                    "createdAt": 1774889693000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785895677000,
+                    "startedAt": 1785884236000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:19Z"
     }
 }

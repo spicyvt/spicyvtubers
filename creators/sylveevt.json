@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/80022a79-ac79-40e6-aa53-cfcee940f019-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ae6e2d4-0a12-4969-a3cb-beabeb47500a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "388072509611716609",
+        "username": "SylveeVT",
+        "displayName": "Sylvee 🤍🖤",
+        "version": 5,
+        "followCount": 85076,
+        "statusId": 1,
+        "accountMediaLikes": 207438,
+        "postLikes": 277655,
+        "about": "💕 18+ amateur IRL & VTuber content 💕\n\nur alternative girl next door ;3\n\n✨ Lewds and nudes (IRL & VTuber)\n✨ Free livestreams (while actively live) for followers!\n✨ Bisexual 🌈\n\nSpoil me!\nThrone Wishlist: https://thronegifts.com/u/sylveevt\n\nBanner: @necrotenshi (Twitter)\n\n❗️ Please do not redistribute or post my pictures on other websites, that makes me sad :( ❗",
+        "location": "USA",
+        "streaming": {
+            "accountId": "388072509611716609",
+            "channel": {
+                "id": "489043012811235328",
+                "accountId": "388072509611716609",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AbV186Tosh2B.m3u8",
+                "chatRoomId": "489043165232246784",
+                "status": 2,
+                "version": 36,
+                "createdAt": 1678091300000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "489043012811235329",
+                    "historyId": "928248214052683776",
+                    "channelId": "489043012811235328",
+                    "accountId": "388072509611716609",
+                    "title": "NSFW IRL x VTuber (trying to snag a top 50 spot!!)",
+                    "status": 1,
+                    "viewerCount": 304,
+                    "version": 5103,
+                    "createdAt": 1678091300000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782823381000,
+                    "startedAt": 1782805980000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "924114765540773888",
+                                "streamId": "489043012811235329",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:33:49Z"
     }
 }

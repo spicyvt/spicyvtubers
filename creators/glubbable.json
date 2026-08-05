@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b87e83de-ad71-4460-9f5d-30469f2aeb79-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6050572-df66-411c-9491-9609b44db1bf-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "328249847524110336",
+        "username": "Glubbable",
+        "displayName": null,
+        "version": 3,
+        "followCount": 57,
+        "statusId": 3,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "Hi, I'm Glubbable (a British VTuber Fox Girl)! Welcome to my Fansly page!\n\nI might do something here in the future if I feel like it.",
+        "location": "Britain",
+        "streaming": {
+            "accountId": "328249847524110336",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

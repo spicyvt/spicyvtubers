@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f95b0e37-af4d-4b0d-9dca-ca9d151355d6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9469a23a-2453-4995-b424-cb60fa06c097-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "647312531513159680",
+        "username": "KittyfluteVT",
+        "displayName": null,
+        "version": 3,
+        "followCount": 13377,
+        "statusId": 3,
+        "accountMediaLikes": 13152,
+        "postLikes": 15286,
+        "about": "I’m fucking horny 👆\n\n",
+        "location": "Kittyflute’s cum dungeon cumgeon ",
+        "streaming": {
+            "accountId": "647312531513159680",
+            "channel": {
+                "id": "702808835051499521",
+                "accountId": "647312531513159680",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.guLE5S1rvOqF.m3u8",
+                "chatRoomId": "702811571633532929",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1729057043000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "702808835051499522",
+                    "historyId": "924955471050203136",
+                    "channelId": "702808835051499521",
+                    "accountId": "647312531513159680",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 526,
+                    "version": 4027,
+                    "createdAt": 1729057044000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782022903000,
+                    "startedAt": 1782020929000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

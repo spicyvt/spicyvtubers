@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8a887c76-675e-461d-98b1-c59944405ca1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8eb53b45-3be2-4d88-b0da-e167fef311cc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "601742092493922305",
+        "username": "Tooruwu",
+        "displayName": "Tooru",
+        "version": 5,
+        "followCount": 28,
+        "statusId": 1,
+        "accountMediaLikes": 24,
+        "postLikes": 22,
+        "about": "Hewo! I'm Tooru the Lich/Fairy femboy VTuber! :3",
+        "location": "Canada",
+        "streaming": {
+            "accountId": "601742092493922305",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

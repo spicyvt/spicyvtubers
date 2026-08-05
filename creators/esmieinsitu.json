@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd54b574-4f0c-4315-82f8-2d779c6924cd-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6df8821-000d-4fee-980d-5ebbea1144f5-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "438379544353710080",
+        "username": "Esmieology",
+        "displayName": "Esmie",
+        "version": 35,
+        "followCount": 1904,
+        "statusId": 3,
+        "accountMediaLikes": 2465,
+        "postLikes": 3968,
+        "about": "I'm Esmie, you're Fish Wife Archaeologist. Here to have a good time, and slowly make a dent on those pesky student loans~♡\n\nThrone: https://throne.com/esmieinsitu",
+        "location": "The Abyss",
+        "streaming": {
+            "accountId": "438379544353710080",
+            "channel": {
+                "id": "577289745319604224",
+                "accountId": "438379544353710080",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.H7iDunBqfrwu.m3u8",
+                "chatRoomId": "578025695188361216",
+                "status": 2,
+                "version": 41,
+                "createdAt": 1699130960000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "577289745319604225",
+                    "historyId": "890448662407172096",
+                    "channelId": "577289745319604224",
+                    "accountId": "438379544353710080",
+                    "title": "We're back for more~ Playing Married into Hell tonight!",
+                    "status": 1,
+                    "viewerCount": 17,
+                    "version": 2957,
+                    "createdAt": 1699130961000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1773802884000,
+                    "startedAt": 1773793864000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "882117867535884289",
+                                "streamId": "577289745319604225",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

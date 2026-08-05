@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56d05b57-de0a-4d56-8387-f07b75154890-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2eae1697-ac9b-418a-b3b1-bb37a9d39441-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "300349650299269120",
+        "username": "harumeiji",
+        "displayName": null,
+        "version": 4,
+        "followCount": 272,
+        "statusId": 1,
+        "accountMediaLikes": 87,
+        "postLikes": 184,
+        "about": "ASMRtist and silly lil lewd voice actress vtuber ",
+        "location": "in your pants",
+        "streaming": {
+            "accountId": "300349650299269120",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/234534c3-c761-4a6d-9743-13fcb7a83197-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/570fdcac-19c2-4ecc-8ffd-8dd8917b10e0-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "656599390105907201",
+        "username": "AzazelFallenVT",
+        "displayName": "Azazel",
+        "version": 3,
+        "followCount": 73,
+        "statusId": 1,
+        "accountMediaLikes": 174,
+        "postLikes": 188,
+        "about": "Some random English speaking French vtuber with a pretty good voice\n\nhttps://throne.com/azazelfallenvt \nhttps://linktr.ee/azazelfallenvt",
+        "location": "France",
+        "streaming": {
+            "accountId": "656599390105907201",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

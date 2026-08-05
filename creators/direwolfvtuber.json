@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a156d3a3-9958-46cd-ab9e-c03c4022d4d4-profile_image-70x70.png",
         "bannerImageUrl": null
+    },
+    "fansly": {
+        "id": "651697611304087552",
+        "username": "LunaBella",
+        "displayName": "Luna",
+        "version": 20,
+        "followCount": 493,
+        "statusId": 3,
+        "accountMediaLikes": 79,
+        "postLikes": 332,
+        "about": "Hi, I'm Luna Bella but you can call me your next obsession,\n\nWolfgirl She/her | Spoiled/Submissive \n\nI will try to stream Thursday + Saturday \n\n🥀 Lewd + NSFW Art\n🥀 NSFW Audio + Video\n🥀Exclusive Art & 2D Model Content\n🥀 Free Live Gaming Stream, NSFW Streams for $5/Subs\n\nNo IRL unless in dms, (some customs if I like it)\n\nI'm just a hungry wolf looking to get teased & pleased \n\n\nSpoil me:\nhttps://throne.com/bigtittygothic\nhttps://ko-fi.com/lunabellavt\n\nSocials: https://direwolfvtuber.uwu.ai\n\n❗❗ Please do not redistribute my posts or photos on other websites, it would make me upset ",
+        "location": "Hell ",
+        "streaming": {
+            "accountId": "651697611304087552",
+            "channel": {
+                "id": "690828168000450560",
+                "accountId": "651697611304087552",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.clU5QBTXph9s.m3u8",
+                "chatRoomId": "690831780743229441",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1726200630000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "690828168000450561",
+                    "historyId": "924702608822652928",
+                    "channelId": "690828168000450560",
+                    "accountId": "651697611304087552",
+                    "title": "Stream 2026",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 4661,
+                    "createdAt": 1726200630000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781962421000,
+                    "startedAt": 1781960642000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "729086671089315841",
+                                "streamId": "690828168000450561",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

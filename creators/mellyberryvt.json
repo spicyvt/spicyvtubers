@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba23235e-4461-493d-8efe-65afc4228369-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0717a1d8-cf82-428f-bc74-d08cf6c26741-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "604545843881582592",
+        "username": "MellyMakesMoans",
+        "displayName": null,
+        "version": 8,
+        "followCount": 1529,
+        "statusId": 3,
+        "accountMediaLikes": 5878,
+        "postLikes": 5303,
+        "about": "U ´ᴥ` U \n\n・❥・Cute Succupup happy to serve you~\n・❥・VR Photos - Gifs - Videos - Audio - Livestreams every Friday at 8pm CST~!\n・❥・DMs Locked to Subscribers, or Tip $5 to Open DMs!\n・❥・Femboy Content: https://fansly.com/MiloBerry/ \n\n︵‿︵୨˚̣̣̣୧  Disclaimers  ୨˚̣̣̣୧‿︵‿︵\nI reserve the right to refuse requests that are unreasonable or uncomfortable. I will work to find a compromise if any request is refused.\n\nSubscriber rewards are expected to be redeemed by each subscriber! I will not chase people down to redeem their rewards, so please reach out to me to receive your rewards.\n\nMy kindness is not flirting, courting, or showing romantic interest. I appreciate any and all support, but I am not interested in forming romantic connections here!\n\nAll content made in ChilloutVR.\n\n︵‿︵୨˚̣̣̣୧  Credits  ୨˚̣̣̣୧‿︵‿︵\nStream overlay and other graphics by me and Liquidgtx\nMain Model is custom!\nBooth Model is Velle on Booth (edited by RappuInu)",
+        "location": "https://mellymakesmoans.com",
+        "streaming": {
+            "accountId": "604545843881582592",
+            "channel": {
+                "id": "634212136318414848",
+                "accountId": "604545843881582592",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Bw2O2nNRc1kV.m3u8",
+                "chatRoomId": "634220659563573248",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1712702316000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "634212136318414849",
+                    "historyId": "820439873365233665",
+                    "channelId": "634212136318414848",
+                    "accountId": "604545843881582592",
+                    "title": "Visual Novel Night~!",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 4951,
+                    "createdAt": 1712702316000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1757110695000,
+                    "startedAt": 1757102468000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "634212259215712256",
+                                "streamId": "634212136318414849",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d3f4556-2f50-4934-9114-7fe53951f65e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e059b31-e2ea-4507-94ed-ddfcc1674fc8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "421567640083902464",
+        "username": "SofieCloud",
+        "displayName": "SofieCloud",
+        "version": 17,
+        "followCount": 18371,
+        "statusId": 3,
+        "accountMediaLikes": 49279,
+        "postLikes": 33350,
+        "about": "🌟Just a corrupted futa angel, here to please and tease you~\n🌟Horny VR streams with my Lovense toys every Monday at 7pm PT/10pm ET\n\n➡️ The rest of my content: http://sofiecloud.com\n➡️ Throne Wishlist: https://throne.com/sofiecloud34\n➡️ Lovense affiliate link: https://www.lovense.com/r/1fbv7e\n\n🎯 Subscribers get VOD's from previous streams and the nakey versions of my picture sets~",
+        "location": "on my knees",
+        "streaming": {
+            "accountId": "421567640083902464",
+            "channel": {
+                "id": "463960465572114432",
+                "accountId": "421567640083902464",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.CIEkhmlYJj66.m3u8",
+                "chatRoomId": "464238680177909760",
+                "status": 2,
+                "version": 152,
+                "createdAt": 1672111155000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "463960465572114433",
+                    "historyId": "940847510417596416",
+                    "channelId": "463960465572114432",
+                    "accountId": "421567640083902464",
+                    "title": "Milk the futa cow~ ❤️ !menu",
+                    "status": 1,
+                    "viewerCount": 107,
+                    "version": 4430,
+                    "createdAt": 1672111155000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785820555000,
+                    "startedAt": 1785809886000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

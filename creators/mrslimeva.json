@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/517f5e77-4784-4924-812f-7880f2837978-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34c05206-d04d-41ca-9ce1-9a7825e9aef8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "802009887696494592",
+        "username": "MrSlimeva",
+        "displayName": null,
+        "version": 17,
+        "followCount": 29,
+        "statusId": 1,
+        "accountMediaLikes": 2,
+        "postLikes": 14,
+        "about": "Lewd tuber. slime. switch. Amsr.\n\nRunning my slimy tentacles all over you\nsliding them inside you\nso I can take control of you\n\nYou'll be mine soon.\n\n-------------------------------------------------------------------\nBi. Slime sexual. Monster fucker #1\n\nWe do:\n\nAsmr\nlive streams\nhentai game reviews\nkink explaining\nSlime after dark (sex positive podcast)\n\nSome irl content will come soon. (or sooner with dono goals)\n\nTwitter: @mrslimeva\nNsfw Twitter: @mrslimensfw\nBsky: mrslimeva.bsky.social\nThrone: https://fansly.com/mrslimeva\n\nNormal streams over on twitch: https://www.twitch.tv/mrslimeva\n",
+        "location": "Slime pit",
+        "streaming": {
+            "accountId": "802009887696494592",
+            "channel": {
+                "id": "861733905789640705",
+                "accountId": "802009887696494592",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WBMj5gHiXyWZ.m3u8",
+                "chatRoomId": "861771234856165376",
+                "status": 2,
+                "version": 14,
+                "createdAt": 1766947733000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "861733905789640706",
+                    "historyId": "940158390103973888",
+                    "channelId": "861733905789640705",
+                    "accountId": "802009887696494592",
+                    "title": "Goobing. gooning and stuff",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 22,
+                    "createdAt": 1766947733000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785654673000,
+                    "startedAt": 1785645587000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "910396317451165696",
+                                "streamId": "861733905789640706",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

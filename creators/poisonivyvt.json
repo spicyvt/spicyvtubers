@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f1ef133-ddfa-4edd-8d47-d6c38eabf8e3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a68c7eb9-05f1-4f7c-9ae5-d83426f1a2d6-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "405523432466292736",
+        "username": "PoisonIvyVT",
+        "displayName": "Ivy",
+        "version": 7,
+        "followCount": 10293,
+        "statusId": 3,
+        "accountMediaLikes": 13859,
+        "postLikes": 21773,
+        "about": "Hivy I'm Ivy and I'm a shy, degenerate, virtual AND irl brat :)\n\nI post irl and VR content, LOTS of moaning, VR Porn, naughty ASMR, LOTS of ass, lewds, semi-nudes, JOI's, BJ audios and more 😈\n\nLinks:\nTwitter: https://twitter.com/PoisonIvyVT\nTwitch: https://www.twitch.tv/poisonivyvt\nDiscord: https://t.co/QtuYqwvXU4\nThrone Gifts: https://throne.me/poisonivyvt/wishlist\nLovense Toys: https://www.lovense.com/r/jtmqnj \nCarrd: https://poisonivyvt.carrd.co/\n\nIF YOU WANT NOTIFICATIONS FOR WHEN I POST: I suggest joining my discord and choosing the fansly notifications role. I always update there when I post. \n\nAbout me n my content\n🍃 I'm a little shy, but maybe also a lil degen\n🍃 biiiiiiig sub\n🍃 I post irl lewds\n🍃 Custom lewds and audios\n🍃 Live streams\n🍃 Did I mention I'm shy????? \n🍃 lovense shit\n🍃 VR CONTENT\n\n⚠️Do not steal, download, share or reupload my content. Legal action will be taken against those who do. ⚠️",
+        "location": "",
+        "streaming": {
+            "accountId": "405523432466292736",
+            "channel": {
+                "id": "440014571705475072",
+                "accountId": "405523432466292736",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.c7AjyK6HEBj3.m3u8",
+                "chatRoomId": "440017359684509696",
+                "status": 2,
+                "version": 60,
+                "createdAt": 1666402009000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "440014571705475073",
+                    "historyId": "939334907472142339",
+                    "channelId": "440014571705475072",
+                    "accountId": "405523432466292736",
+                    "title": "WELCOME TO MY BIRTHDAY PARTY!!",
+                    "status": 1,
+                    "viewerCount": 22,
+                    "version": 1514,
+                    "createdAt": 1666402009000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785461363000,
+                    "startedAt": 1785449253000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "877036718212001792",
+                                "streamId": "440014571705475073",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:28Z"
     }
 }

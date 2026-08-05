@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/042f415c-0792-4d1d-857e-86054c2a62e2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2498da47-6728-4750-ab10-b91f0cd7eb9d-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "654446786085138433",
+        "username": "osiimiartist",
+        "displayName": "osiimi",
+        "version": 5,
+        "followCount": 8538,
+        "statusId": 2,
+        "accountMediaLikes": 11577,
+        "postLikes": 11123,
+        "about": "'💜'↝ succubus, part-time illustrator\n⤷ osiimi.carrd.co\n\n 𓆩⚝𓆪 twitch.tv/osiimivt 𓆩⚝𓆪 fansly.com/osiimiartist",
+        "location": "Your dream, your mind, your heart",
+        "streaming": {
+            "accountId": "654446786085138433",
+            "channel": {
+                "id": "655576560186699776",
+                "accountId": "654446786085138433",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.OVX4KSzvxepA.m3u8",
+                "chatRoomId": "655577007173672961",
+                "status": 2,
+                "version": 18,
+                "createdAt": 1717795992000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "655576560186699777",
+                    "historyId": "898868477853446144",
+                    "channelId": "655576560186699776",
+                    "accountId": "654446786085138433",
+                    "title": "LEMME SUCK UU  '💜'↝ ASMR",
+                    "status": 1,
+                    "viewerCount": 23,
+                    "version": 5777,
+                    "createdAt": 1717795992000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1775810223000,
+                    "startedAt": 1775801305000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "711166031447470080",
+                                "streamId": "655576560186699777",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

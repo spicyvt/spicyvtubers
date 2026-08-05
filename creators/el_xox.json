@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc091f88-4db4-401b-8ee2-3df24f67e800-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82f52296-5d44-4040-bc2f-8b1a5ef253be-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "334145976023396352",
+        "username": "el_XoX",
+        "displayName": null,
+        "version": 14,
+        "followCount": 170000,
+        "statusId": 2,
+        "accountMediaLikes": 141788,
+        "postLikes": 186306,
+        "about": "Spoil your bunnie! https://throne.com/el_xox ♡\nDorky Lewd Bunny!! I'm a switch!! 🐰❤️ | Website: https://elxox.carrd.co \n🔴 I stream LIVE HERE most streams are free to watch just follow!\n🔞 AUDIOS: http://patreon.com/el_XoX",
+        "location": "follow me on Twitch at twitch.tv/el_xox",
+        "streaming": {
+            "accountId": "334145976023396352",
+            "channel": {
+                "id": "345755802813865984",
+                "accountId": "334145976023396352",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.coetv055mpxW.m3u8",
+                "chatRoomId": "345755992715173888",
+                "status": 2,
+                "version": 115,
+                "createdAt": 1643928967000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "345755802813865985",
+                    "historyId": "940122701643653122",
+                    "channelId": "345755802813865984",
+                    "accountId": "334145976023396352",
+                    "title": "Breed your bun~ 🥵",
+                    "status": 1,
+                    "viewerCount": 598,
+                    "version": 7754,
+                    "createdAt": 1643928967000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785645243000,
+                    "startedAt": 1785637078000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "935425085467021312",
+                                "streamId": "345755802813865985",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

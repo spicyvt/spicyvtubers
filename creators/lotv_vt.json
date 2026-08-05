@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23adfe49-c0de-4ec5-932c-2da8cd522ba8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e6c8bf8-8a08-40af-a267-bb2d0920e3cf-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "868027333930405888",
+        "username": "LilyOfTheValleyVT",
+        "displayName": "Lily 🍃",
+        "version": 4,
+        "followCount": 680,
+        "statusId": 1,
+        "accountMediaLikes": 144,
+        "postLikes": 258,
+        "about": "Lily after dark 💕🍃",
+        "location": "",
+        "streaming": {
+            "accountId": "868027333930405888",
+            "channel": {
+                "id": "868180642578321408",
+                "accountId": "868027333930405888",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.CUZDTyp2lmqR.m3u8",
+                "chatRoomId": "868180695204257792",
+                "status": 2,
+                "version": 76,
+                "createdAt": 1768484755000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "868180642578321409",
+                    "historyId": "929865812628496385",
+                    "channelId": "868180642578321408",
+                    "accountId": "868027333930405888",
+                    "title": "Let me take care of you tonight [lewd ASMR] [LOVENSE ON]",
+                    "status": 1,
+                    "viewerCount": 37,
+                    "version": 26,
+                    "createdAt": 1768484755000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783201077000,
+                    "startedAt": 1783191645000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "868180871650226176",
+                                "streamId": "868180642578321409",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

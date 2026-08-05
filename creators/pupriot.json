@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6aa03eac-4e02-48de-991d-90b712a8d1c5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67e314e4-7d86-4d68-8cba-2c3ac8376050-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "466059057371820032",
+        "username": "PupRiotVT",
+        "displayName": "PupRiot",
+        "version": 9,
+        "followCount": 2934,
+        "statusId": 1,
+        "accountMediaLikes": 1980,
+        "postLikes": 2550,
+        "about": "Hi I'm Riot !~  💕✨💕  pfp: @LemonsAreReal\nHentai artist | 25 | they/them | wishlist: https://throne.com/pupriotvt\n( STREAMS EVERY THURSDAY )",
+        "location": "ur mom's house",
+        "streaming": {
+            "accountId": "466059057371820032",
+            "channel": {
+                "id": "539700447577907200",
+                "accountId": "466059057371820032",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2WTtFAAoHytD.m3u8",
+                "chatRoomId": "672672955058102277",
+                "status": 2,
+                "version": 44,
+                "createdAt": 1690168973000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "539700447577907201",
+                    "historyId": "893717604240203776",
+                    "channelId": "539700447577907200",
+                    "accountId": "466059057371820032",
+                    "title": "[+18] destory my mouth with ur cock ( !redeem for Tip Menu ) ",
+                    "status": 1,
+                    "viewerCount": 15,
+                    "version": 4378,
+                    "createdAt": 1690168974000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1774577318000,
+                    "startedAt": 1774573241000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

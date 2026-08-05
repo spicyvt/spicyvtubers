@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a494dd7b-d2c7-48ba-b311-74320158820d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d667f16-b16a-4a19-8c1c-17f248b63460-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "331715274665373696",
+        "username": "Kanashi_noir",
+        "displayName": null,
+        "version": 4,
+        "followCount": 2526,
+        "statusId": 1,
+        "accountMediaLikes": 3612,
+        "postLikes": 2846,
+        "about": "(content made in CVR) Welcome to my fansly, where i let loose my spicier side i cant show on stream for you all to enjoy. So sit back relax and grab some \"hot coffee\" <3<3<3 And don't be afraid to ask for extra cream for your coffee.  If anyone would like photoshoots, videos, sessions plz DM for pricing\n\n",
+        "location": "your bedroom",
+        "streaming": {
+            "accountId": "331715274665373696",
+            "channel": {
+                "id": "541124043407892480",
+                "accountId": "331715274665373696",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.lyCNTKvAQy7d.m3u8",
+                "chatRoomId": "541124794909728768",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1690508385000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "541124043407892481",
+                    "historyId": "748829143390498816",
+                    "channelId": "541124043407892480",
+                    "accountId": "331715274665373696",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 26,
+                    "version": 1241,
+                    "createdAt": 1690508386000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1740037608000,
+                    "startedAt": 1740029140000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "541197114022043648",
+                                "streamId": "541124043407892481",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

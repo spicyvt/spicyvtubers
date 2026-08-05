@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96ed6f8a-62b2-4932-9d8d-7209126875bc-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a347f133-1480-4dba-8e76-ff8af6c16682-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "790442182392684544",
+        "username": "Sakurin",
+        "displayName": "Sakurin",
+        "version": 4,
+        "followCount": 919,
+        "statusId": 1,
+        "accountMediaLikes": 847,
+        "postLikes": 1895,
+        "about": "🦈 Your favorite Shark Brat Vtuber has arrived ~ 💙\n\nBratty pillow princes who loves to be humiliated 👉👈\n\nCosplayer | Gamer | Bratty Latina with a big ass | Here to satisfy daddy \n\nI can be your bratty shark girl, I can be your mommy, just beg me <3 \n\n💙 FANSLY: SOON\n💜 TWITCH: Thursday/Friday 4:00PM GMT\n   twitch.tv/sharkurin\n\nSpoil me and you will get pictures in return: https://throne.com/sakurinvt\n\nPlay with me & LOVENSE: https://www.lovense.com/r/gds3hr\n\n💦Cosplay\n💦Lingerie/Bikini\n💦NUDE\n💦Latina with fat ass and big chest\n💦Audios\n💦Streams SOON\n\n⚠️ Terms and Conditions:\n- Respect my boundaries, any unwated comments will ge you removed.\n- By subscribing to my page you agree to these legally binding terms: ALL CONTENT on this page is copyrighted/owned by myself. ALL Content here is NOT to be shared under any circumstances.\n⭐Officially protected by Rulta. Legal action will be taken against leaks.\n",
+        "location": "Your bed",
+        "streaming": {
+            "accountId": "790442182392684544",
+            "channel": {
+                "id": "896798856669327360",
+                "accountId": "790442182392684544",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.M5gR1qs5GveH.m3u8",
+                "chatRoomId": "896798995240738816",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1775307869000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "896798856669327361",
+                    "historyId": "899002880013393920",
+                    "channelId": "896798856669327360",
+                    "accountId": "790442182392684544",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 102,
+                    "createdAt": 1775307869000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1775841099000,
+                    "startedAt": 1775833349000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "896798948151287808",
+                                "streamId": "896798856669327361",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

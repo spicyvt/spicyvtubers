@@ -23,5 +23,84 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/30c13bc6-3a6a-4467-a434-c0a0c4b0446c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70dbc89d-da52-471b-8a14-b3565d534054-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "502522146405232640",
+        "username": "Sussydonna",
+        "displayName": "Sussydonna 🧪✨",
+        "version": 11,
+        "followCount": 11521,
+        "statusId": 3,
+        "accountMediaLikes": 8347,
+        "postLikes": 30478,
+        "about": "I playa da D&D and fucka da dragons 😎 Outlet for my subathon horniness, worship kink & helping me become a homeowner 💕\n\nSpoil me here ✨ https://throne.com/tieflingmelissa",
+        "location": "Your mom",
+        "streaming": {
+            "accountId": "502522146405232640",
+            "channel": {
+                "id": "773152394845368320",
+                "accountId": "502522146405232640",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.f1QNbOteQ01o.m3u8",
+                "chatRoomId": "773389420102426624",
+                "status": 2,
+                "version": 32,
+                "createdAt": 1745828255000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "773152394845368321",
+                    "historyId": "895120559245914112",
+                    "channelId": "773152394845368320",
+                    "accountId": "502522146405232640",
+                    "title": "🔴 IRL STREAM 💋 Let's build LEGO & get off together? 💦",
+                    "status": 1,
+                    "viewerCount": 38,
+                    "version": 7206,
+                    "createdAt": 1745828255000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1774916603000,
+                    "startedAt": 1774907731000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "895111711835570176",
+                                "streamId": "773152394845368321",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"773049640005148672\\\"}\"}"
+                            },
+                            {
+                                "id": "895111711835570177",
+                                "streamId": "773152394845368321",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"773046006676729856\\\"}\"}"
+                            },
+                            {
+                                "id": "895111711835570178",
+                                "streamId": "773152394845368321",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"773047600164118528\\\"}\"}"
+                            },
+                            {
+                                "id": "895111711835570179",
+                                "streamId": "773152394845368321",
+                                "type": 0,
+                                "flags": 3,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":25000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f69b65b-b060-4ba0-8dcb-fa2fc2e2efe5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8015a002-c5bf-490b-999a-979deb452b2a-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "414945989556707328",
+        "username": "RavennaNya",
+        "displayName": "RavennaNya 🩷🩵💋",
+        "version": 6,
+        "followCount": 10511,
+        "statusId": 1,
+        "accountMediaLikes": 9760,
+        "postLikes": 6205,
+        "about": "💕🐾 Da Gooner Imouto Bimbo infecting your PC 🐾💕\n\n♡ Vtuber/IRL, ASMR & Audios, NSFW VA ,Taboo roleplay, Hard kinks, and super frweaky stuff ♡ |  bratty/shy switch | ♡ DM me for customs!! | 4’11” | ♡ Try to break me, but don't cry if I'm mean to you~ ;P\n\n\n.♡ . ───────── .♡ . ───────── .♡ .\n\n♡  [ All my links: https://ravennanya.carrd.co/ ]\n♡  [ Spoil your brat: throne.com/ravennanya ]\n♡  [ Join the Network: https://discord.gg/RavennaNya ]\n\n「Use CODE: CATBAT to get 10% off your GSUPPS   」\n.♡ . ───────── .♡ . ───────── .♡ .\n\nALL ACTS ARE CONSENSUAL\nReposting my content is strictly prohibited & illegal \nAny reposting of any sort will result in action from my legal team\nNo refunds \nDont be an asshole",
+        "location": "In your walls ~ Make a Gloryhole <3",
+        "streaming": {
+            "accountId": "414945989556707328",
+            "channel": {
+                "id": "752521683524399104",
+                "accountId": "414945989556707328",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.T1pluMfUtn3b.m3u8",
+                "chatRoomId": "752548027780046848",
+                "status": 2,
+                "version": 41,
+                "createdAt": 1740909510000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "752521683524399105",
+                    "historyId": "931787450324365312",
+                    "channelId": "752521683524399104",
+                    "accountId": "414945989556707328",
+                    "title": "Angry Dik time",
+                    "status": 1,
+                    "viewerCount": 24,
+                    "version": 8468,
+                    "createdAt": 1740909510000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783656011000,
+                    "startedAt": 1783649799000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "874564155774889984",
+                                "streamId": "752521683524399105",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

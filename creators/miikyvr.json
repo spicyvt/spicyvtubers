@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8864764f-6008-4f2b-965d-e5fe8659a41e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c907f997-ae43-4d59-8096-234a3ef2d044-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "568875036333580288",
+        "username": "iMiky",
+        "displayName": null,
+        "version": 8,
+        "followCount": 2929,
+        "statusId": 3,
+        "accountMediaLikes": 3510,
+        "postLikes": 2059,
+        "about": "📢(ENG/ESP)\n\n🍑Latina rikulona🍑\nNaughty content creator, NO mute🔊\nAlso very active on other platforms, come find me bebe https://linktr.ee/mikyvr\n",
+        "location": "",
+        "streaming": {
+            "accountId": "568875036333580288",
+            "channel": {
+                "id": "772624663925764096",
+                "accountId": "568875036333580288",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zgvdE4hvEoin.m3u8",
+                "chatRoomId": "772641373114343424",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1745702434000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "772624663925764097",
+                    "historyId": "939758915380334592",
+                    "channelId": "772624663925764096",
+                    "accountId": "568875036333580288",
+                    "title": "(ENG/ESP) 🍑Latina girl making you lose control 😏",
+                    "status": 1,
+                    "viewerCount": 64,
+                    "version": 3589,
+                    "createdAt": 1745702434000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785560856000,
+                    "startedAt": 1785550345000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "795476858157146112",
+                                "streamId": "772624663925764097",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

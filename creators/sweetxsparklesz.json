@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6aed142-6414-416d-8455-e4901f968a97-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5e6854b-fe83-4e6f-ba44-2b892507c14a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "769360385189883904",
+        "username": "SweetxSparklesz",
+        "displayName": null,
+        "version": 2,
+        "followCount": 2,
+        "statusId": 2,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "Sweet but Spicy~ coming soon ;)",
+        "location": "",
+        "streaming": {
+            "accountId": "769360385189883904",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6093d09-2781-430f-a79c-2ac2191c6dd1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fe1d0ec-8b31-462c-a25f-8ca0edd11212-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "432429667216011264",
+        "username": "Zirconwolfdog",
+        "displayName": "Zircon ❄🐾",
+        "version": 13,
+        "followCount": 7808,
+        "statusId": 3,
+        "accountMediaLikes": 3523,
+        "postLikes": 3801,
+        "about": "🌟 cringetuber NEET kemonomimi girlfail 🩵 squishy 🐾 furry 🌈 any pronouns ❄️ under your desk, on your floor, and stuck in your wall ~ vtuber & irl ✨ FREE STREAMS FRIDAYS 🍑 \n\nSpoil me!! https://throne.com/zirconwolfdog \nMy other socials!! https://zirconwolfdog.carrd.co ",
+        "location": "Canada",
+        "streaming": {
+            "accountId": "432429667216011264",
+            "channel": {
+                "id": "648274349077307392",
+                "accountId": "432429667216011264",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2doZUjQihW85.m3u8",
+                "chatRoomId": "648419846895185920",
+                "status": 2,
+                "version": 112,
+                "createdAt": 1716055009000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "648274349077307393",
+                    "historyId": "939818232653553665",
+                    "channelId": "648274349077307392",
+                    "accountId": "432429667216011264",
+                    "title": "✨🌈 EYESTRAIN WARNING!!! 🐾🌟 omg hiiiiヾ(•ω•`)o",
+                    "status": 1,
+                    "viewerCount": 29,
+                    "version": 4904,
+                    "createdAt": 1716055009000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785581991000,
+                    "startedAt": 1785564487000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "916892621362716672",
+                                "streamId": "648274349077307393",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

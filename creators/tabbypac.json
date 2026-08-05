@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31aa80b8-45f8-4db8-804a-0bf3a8ba1eb2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/710a53fa-9265-45bf-8bbd-130cc59e75c6-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "740520094685208576",
+        "username": "TabbyPac",
+        "displayName": null,
+        "version": 9,
+        "followCount": 24975,
+        "statusId": 1,
+        "accountMediaLikes": 23857,
+        "postLikes": 11089,
+        "about": "Bratty femboy cat both in 2d and 3d ^-^\n\nFREE STREAMS FOR FOLLOWERS ✅\n\n- DMs OPEN 💌\n- Spicy Messages 🔥\n- Customs requests ❔\n- Ratings 🍆\n- Don’t be shy I love making custom content\n\nSometimes I get too excited so instead of moaning I start purring :33\n\nSend me gifts 🎁 \nhttps://throne.com/pac/wishlist",
+        "location": "",
+        "streaming": {
+            "accountId": "740520094685208576",
+            "channel": {
+                "id": "809986105184116736",
+                "accountId": "740520094685208576",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.nP4UODRKvcFL.m3u8",
+                "chatRoomId": "810120813565988864",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1754610096000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "809986105184116737",
+                    "historyId": "912190046390472704",
+                    "channelId": "809986105184116736",
+                    "accountId": "740520094685208576",
+                    "title": "Stream After Party",
+                    "status": 1,
+                    "viewerCount": 100,
+                    "version": 66,
+                    "createdAt": 1754610096000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778984792000,
+                    "startedAt": 1778977414000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "810120863725670401",
+                                "streamId": "809986105184116737",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

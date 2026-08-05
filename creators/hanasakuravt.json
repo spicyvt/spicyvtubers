@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13dece7b-656f-48ea-b445-082d334ce0a6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6291df7-14dd-44f2-bab5-2ee334411fae-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "384460565340233728",
+        "username": "Hanasakura",
+        "displayName": "Hana🌸",
+        "version": 5,
+        "followCount": 294,
+        "statusId": 1,
+        "accountMediaLikes": 273,
+        "postLikes": 461,
+        "about": "Hey, I am using Fansly.",
+        "location": "",
+        "streaming": {
+            "accountId": "384460565340233728",
+            "channel": {
+                "id": "832295237744336896",
+                "accountId": "384460565340233728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.bzLedzw8dt0S.m3u8",
+                "chatRoomId": "832297598269267968",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1759929008000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "832295237744336897",
+                    "historyId": "939219419412832256",
+                    "channelId": "832295237744336896",
+                    "accountId": "384460565340233728",
+                    "title": "How powerful are you",
+                    "status": 1,
+                    "viewerCount": 22,
+                    "version": 112,
+                    "createdAt": 1759929008000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785428220000,
+                    "startedAt": 1785421719000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

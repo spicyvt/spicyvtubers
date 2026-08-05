@@ -23,5 +23,100 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c29bb528-2c1c-45ab-aabc-f27bf4c3bad2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e5b5b7-3acf-40bc-923d-f51b55186904-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "707038187607830528",
+        "username": "capablemable",
+        "displayName": "Mable",
+        "version": 4,
+        "followCount": 28649,
+        "statusId": 3,
+        "accountMediaLikes": 36228,
+        "postLikes": 10406,
+        "about": "Your stormy sea otter. 🦦🌩️\n\n“I may be a lighthouse keeper, but I’d sink a thousand ships just to keep your eyes on me.”\n\nSoft voice • Sharp teeth\nTease first • Ruin later\nSwitch • Pansexual\nNon-monogamous\nVTuber • IRL\n\nWeekly follower streams.\nMonthly sub-only streams.\nIRL lewds to nudes.\nModel art & animation.\nRoleplay.\n\nLimited customs, DM me!\nꕀ\nLovense affiliate: https://www.lovense.com/r/iyxr0k\nTwitch: twitch.tv/capablemable\nTwitter: x.com/CapableMable\nThrone: throne.com/capablemable\nLinks: capablemable.carrd.co\nꕀ\nDMs\nI only reply here.\n\nRules & Disclaimers\nAll content on this page belongs to me.\nReproduction, copying, saving, or redistribution of my content in any form is strictly prohibited.\nUnauthorized use or reposting will result in an immediate ban and legal action.\nAll sales are final. No refunds.\nI reserve the right to block or ban anyone at any time, for any reason.",
+        "location": "",
+        "streaming": {
+            "accountId": "707038187607830528",
+            "channel": {
+                "id": "840624321381543936",
+                "accountId": "707038187607830528",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yrwmEqNLmK1W.m3u8",
+                "chatRoomId": "840630879511404544",
+                "status": 2,
+                "version": 84,
+                "createdAt": 1761914816000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "840624321381543937",
+                    "historyId": "940446520057032706",
+                    "channelId": "840624321381543936",
+                    "accountId": "707038187607830528",
+                    "title": "[1HR PRE-SHOW] | VTUBER + IRL | MODERN DAY TAVERN WENCH !tip !goals",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 106,
+                    "createdAt": 1761914816000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785716697000,
+                    "startedAt": 1785714283000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940446352133869568",
+                                "streamId": "840624321381543937",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"837029958009245696\\\"}\"}"
+                            },
+                            {
+                                "id": "940446352133869569",
+                                "streamId": "840624321381543937",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"837030929552646144\\\"}\"}"
+                            },
+                            {
+                                "id": "940446352133869570",
+                                "streamId": "840624321381543937",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"837040028260524032\\\"}\"}"
+                            },
+                            {
+                                "id": "940446352133869571",
+                                "streamId": "840624321381543937",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"837043963322974208\\\"}\"}"
+                            },
+                            {
+                                "id": "940446352133869572",
+                                "streamId": "840624321381543937",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"846575871962669056\\\",\\\"label\\\":\\\"Mods\\\"}\"}"
+                            },
+                            {
+                                "id": "940446352133869573",
+                                "streamId": "840624321381543937",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"853762590541627392\\\",\\\"label\\\":\\\"Private Stream\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

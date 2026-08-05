@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/79ebac03-5245-4ebd-84fe-a6696594d88a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7637f517-c1b9-4d7c-88cf-e212e4bd6e8e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "399413988808470528",
+        "username": "KonekoSukii",
+        "displayName": "KonekoSukii",
+        "version": 13,
+        "followCount": 43700,
+        "statusId": 3,
+        "accountMediaLikes": 71176,
+        "postLikes": 83068,
+        "about": "❤️Lewd succubus hype🖤\n\n❣️IRL Content\n❣️Free Streams every week\n❣️Photo/Video Ratings\n❣️Custom photos and videos\n\nPurchase Lovense Toys to vibe with me during streams using my affiliate link! ❤️💦\nhttps://www.lovense.com/r/xl6wj7\n\n❤️Socials: https://KonekoSukii.carrd.co 🖤\n❤️Discord: https://discord.gg/pVwfJZ3Y4k 🖤",
+        "location": "Your Bedroom",
+        "streaming": {
+            "accountId": "399413988808470528",
+            "channel": {
+                "id": "413838500446609408",
+                "accountId": "399413988808470528",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.6AuOBVBgAmys.m3u8",
+                "chatRoomId": "413838788364607488",
+                "status": 2,
+                "version": 113,
+                "createdAt": 1660161147000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "413838500446609409",
+                    "historyId": "940081823482925058",
+                    "channelId": "413838500446609408",
+                    "accountId": "399413988808470528",
+                    "title": "IM BACK! VR STREAM ❤️ PiShock works again~",
+                    "status": 1,
+                    "viewerCount": 135,
+                    "version": 6771,
+                    "createdAt": 1660161147000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785632015000,
+                    "startedAt": 1785627332000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

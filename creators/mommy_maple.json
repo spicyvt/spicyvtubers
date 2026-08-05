@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e9146e8-2f44-4e6c-9c26-2c35a455aafa-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96fab5d4-876a-4f18-a889-10ce7c7c90b7-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "486695324530778112",
+        "username": "Mommymaple",
+        "displayName": "Mother Maple",
+        "version": 6,
+        "followCount": 121,
+        "statusId": 1,
+        "accountMediaLikes": 5,
+        "postLikes": 8,
+        "about": "VR content creator & Vtuber! Why don't we get cozy yea?",
+        "location": "My Dungeon ",
+        "streaming": {
+            "accountId": "486695324530778112",
+            "channel": {
+                "id": "809946845135511552",
+                "accountId": "486695324530778112",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wEz06wZax9Uv.m3u8",
+                "chatRoomId": "810677735264382976",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1754600736000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "809946845135511553",
+                    "historyId": "900141048439795712",
+                    "channelId": "809946845135511552",
+                    "accountId": "486695324530778112",
+                    "title": "𝓨𝓸𝓾 𝓶𝓾𝓼𝓽 𝓵𝓸𝓿𝓮 𝓶𝔂 𝓿𝓸𝓲𝓬𝓮 𝓭𝓸𝓷'𝓽 𝔂𝓸𝓾....",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 4,
+                    "createdAt": 1754600736000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776122272000,
+                    "startedAt": 1776104709000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "810677337522712576",
+                                "streamId": "809946845135511553",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:53Z"
     }
 }

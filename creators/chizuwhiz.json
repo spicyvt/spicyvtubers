@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52f66954-01c8-4f20-8b0a-04e7e3cf47c0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c016c752-6535-43ce-b2c6-33e2a679154b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "395343139277123584",
+        "username": "chizuwhiz",
+        "displayName": "ChizuWhiz",
+        "version": 10,
+        "followCount": 16090,
+        "statusId": 1,
+        "accountMediaLikes": 16947,
+        "postLikes": 9097,
+        "about": "🐼Welcome To My Bamboosly!🎋\n\nNSFW content! Art, lovense livestreams, rp,audio and jois and more!\n\nAll Tips/Purchases will go to my vtuber funds and will really help and support me in pursuing my careers and goals!\n\nYou will be blocked or restricted if deemed inappropriate/uncomfortable\nKeep all Fansly conversations in Fansly, if you talk to me about Fansly on other social medias I will ban you!\n\nTerms:\n-You do not have the full rights to the image and its distribution and use meaning you are not allowed to distribute, post or share any of the contents posted here.\n-Subscribing/Tipping/Buying does not give ownership to the contents.\n-Under no circumstances may the buyer/tipper use the image(s) for commercial or profit purposes including prints and redistribution of image(s)",
+        "location": "throne.com/ruiasaka/",
+        "streaming": {
+            "accountId": "395343139277123584",
+            "channel": {
+                "id": "774397519680516096",
+                "accountId": "395343139277123584",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.bo8MmV7vuUb9.m3u8",
+                "chatRoomId": "775675455259815936",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1746125116000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "774397519680516097",
+                    "historyId": "939713164373684224",
+                    "channelId": "774397519680516096",
+                    "accountId": "395343139277123584",
+                    "title": "Moosly time!!",
+                    "status": 1,
+                    "viewerCount": 108,
+                    "version": 7889,
+                    "createdAt": 1746125116000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785544716000,
+                    "startedAt": 1785539437000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

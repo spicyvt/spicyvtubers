@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/da946edd-afc7-4088-8a8f-391e67942da7-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/85fe0a9a-f8a8-4993-bc55-b14d7a893845-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "286318931256291328",
+        "username": "ChazVT_",
+        "displayName": "Chaz ♡",
+        "version": 9,
+        "followCount": 1233,
+        "statusId": 3,
+        "accountMediaLikes": 1076,
+        "postLikes": 1880,
+        "about": "Just here to do Thirsty things that I don't wanna put on Twitter (yet) !\n\nThrone 💚 : https://throne.com/trashctrl_\n\nEverything else : https://trashctrl.carrd.co",
+        "location": "",
+        "streaming": {
+            "accountId": "286318931256291328",
+            "channel": {
+                "id": "755246181663125506",
+                "accountId": "286318931256291328",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AuZIeUJ3FcjL.m3u8",
+                "chatRoomId": "755247357536247808",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1741559081000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "755246181663125507",
+                    "historyId": "759898427743023104",
+                    "channelId": "755246181663125506",
+                    "accountId": "286318931256291328",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 715,
+                    "createdAt": 1741559081000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1742679174000,
+                    "startedAt": 1742668263000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "759866017034809345",
+                                "streamId": "755246181663125507",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

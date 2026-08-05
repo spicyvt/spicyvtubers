@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13b5724d-3ed2-4f18-a96b-73be26a03797-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22cf5e5e-2055-40dd-8b12-39cdff5478da-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "645676306893123584",
+        "username": "ApolloMythos",
+        "displayName": "ApolloRyze",
+        "version": 22,
+        "followCount": 32426,
+        "statusId": 3,
+        "accountMediaLikes": 21238,
+        "postLikes": 30652,
+        "about": "Mon - Fri 💋 | Live 8PM CST | VIP Saturdays\n⚠️ Reposting/sharing my content is strictly prohibited! ⚠️\nGamersupps 🍑 code \"YumYum\"",
+        "location": "https://allmylinks.com/apolloryze",
+        "streaming": {
+            "accountId": "645676306893123584",
+            "channel": {
+                "id": "700466503467675650",
+                "accountId": "645676306893123584",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.FuEbk7fjyv65.m3u8",
+                "chatRoomId": "700466523097018368",
+                "status": 2,
+                "version": 93,
+                "createdAt": 1728498588000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "700466503467675651",
+                    "historyId": "926332549632897024",
+                    "channelId": "700466503467675650",
+                    "accountId": "645676306893123584",
+                    "title": "LEWD ASMR TIME W APOLLO 💸 !tipmenu 🍆 !pocket 🎮 !Twitch 🍹 !gg 👄!lovense~",
+                    "status": 1,
+                    "viewerCount": 107,
+                    "version": 3963,
+                    "createdAt": 1728498588000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782355951000,
+                    "startedAt": 1782349250000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:20:57Z"
     }
 }

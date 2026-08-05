@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/36e2a32e-87ef-4bda-a749-d3f3b6243135-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e1e7f49-7be6-4ea2-8f63-6eaa6e214df8-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "498798996127494144",
+        "username": "RainyDayKingpin",
+        "displayName": "Rainy Kingpin",
+        "version": 17,
+        "followCount": 893,
+        "statusId": 1,
+        "accountMediaLikes": 1016,
+        "postLikes": 696,
+        "about": "Hey how’s it going~ ✨",
+        "location": "",
+        "streaming": {
+            "accountId": "498798996127494144",
+            "channel": {
+                "id": "912496915596189697",
+                "accountId": "498798996127494144",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4ttL9y6rBtX4.m3u8",
+                "chatRoomId": "912497389443493888",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1779050578000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "912496915596189698",
+                    "historyId": "931424694312116224",
+                    "channelId": "912496915596189697",
+                    "accountId": "498798996127494144",
+                    "title": "REPO & GOONING TIME! with @itschloekennedy",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 12,
+                    "createdAt": 1779050578000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783569097000,
+                    "startedAt": 1783563312000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cee4a0bd-d8f6-4cda-aa2c-62931a5ff39c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81844e4-78f5-486e-aa37-85ac2fc289ad-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "882001329701003265",
+        "username": "Lofty_Vtuber",
+        "displayName": "Lofty_Vtuber",
+        "version": 6,
+        "followCount": 194,
+        "statusId": 1,
+        "accountMediaLikes": 45,
+        "postLikes": 82,
+        "about": "Cosmic Skyslut 💜⭐️ \n「 ✦ Streams every other Friday at 11am EST ✦ 」\n\n𓆩⟡𓆪 Lewds, Audios, NSFW Streaming Content\n\nAll content is under copyright.\nhttps://loftyyoru.carrd.co/",
+        "location": "in your walls",
+        "streaming": {
+            "accountId": "882001329701003265",
+            "channel": {
+                "id": "891376349522968576",
+                "accountId": "882001329701003265",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.z82OfT7knvud.m3u8",
+                "chatRoomId": "891392782118174720",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1774015042000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "891376349522968577",
+                    "historyId": "906666769752535040",
+                    "channelId": "891376349522968576",
+                    "accountId": "882001329701003265",
+                    "title": "New Model UwU 💜⭐️",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 18,
+                    "createdAt": 1774015042000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1777661146000,
+                    "startedAt": 1777660563000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

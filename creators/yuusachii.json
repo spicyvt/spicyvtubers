@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0615bac2-d023-4a43-b7c7-92d58878d5e3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f607cc7b-f505-4b4c-8300-6e322f68522d-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "300196010347470848",
+        "username": "Xanzera",
+        "displayName": "Xanzera",
+        "version": 13,
+        "followCount": 8005,
+        "statusId": 1,
+        "accountMediaLikes": 8539,
+        "postLikes": 11324,
+        "about": "💜 𝐄𝐱𝐭𝐫𝐞𝐦𝐞𝐥𝐲 𝐁𝐫𝐚𝐭𝐭𝐲 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐭𝐲 💜\n\n🍆 - 𝐍𝐒𝐅𝐖 𝐂𝐨𝐬𝐩𝐥𝐚𝐲𝐞𝐫\n🍆 - 𝐍𝐒𝐅𝐖 𝐕𝐀\n🍆 - 𝐈 𝐫𝐞𝐚𝐝 𝐚𝐧𝐝 𝐫𝐞𝐩𝐥𝐲 𝐭𝐨 𝐚𝐥𝐥 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬~! 𝐏𝐥𝐞𝐚𝐬𝐞 𝐛𝐞 𝐩𝐚𝐭𝐢𝐞𝐧𝐭\n🍆 - 𝐈 𝐚𝐜𝐜𝐞𝐩𝐭 𝐜𝐨𝐬𝐩𝐥𝐚𝐲 𝐬𝐩𝐨𝐧𝐬𝐨𝐫𝐬 𝐚𝐧𝐝 𝐫𝐞𝐪𝐮𝐞𝐬𝐭𝐬\n🍆 - 𝐈 𝐩𝐨𝐬𝐭 𝐈𝐑𝐋 𝐍𝐔𝐃𝐄 𝐌𝐚𝐬𝐭𝐮𝐫𝐛𝐚𝐭𝐢𝐧𝐠 𝐯𝐢𝐝𝐞𝐨𝐬, 𝐋𝐄𝐖𝐃 𝐜𝐨𝐬𝐩𝐥𝐚𝐲 𝐯𝐢𝐝𝐞𝐨𝐬 𝐚𝐧𝐝 𝐩𝐢𝐜𝐭𝐮𝐫𝐞𝐬, 𝐚𝐧𝐝 𝐍𝐒𝐅𝐖 𝐕𝐀𝐬!\n🍆 - 𝐈 𝐚𝐥𝐬𝐨 𝐚𝐜𝐜𝐞𝐩𝐭 𝐊𝐢𝐧𝐤𝐲 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 (𝐝𝐞𝐩𝐞𝐧𝐝𝐢𝐧𝐠 𝐢𝐟 𝐈 𝐜𝐚𝐧 𝐝𝐨 𝐢𝐭 𝐨𝐫 𝐧𝐨𝐭)",
+        "location": "MEGA BRAT INDUSTRY",
+        "streaming": {
+            "accountId": "300196010347470848",
+            "channel": {
+                "id": "728522434021437441",
+                "accountId": "300196010347470848",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.lFPqBGe4MDSr.m3u8",
+                "chatRoomId": "728524757930094592",
+                "status": 2,
+                "version": 17,
+                "createdAt": 1735187643000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "728522434021437442",
+                    "historyId": "934872850190319616",
+                    "channelId": "728522434021437441",
+                    "accountId": "300196010347470848",
+                    "title": "LIVE DICK RATING  !tipmenu !cosplays ~ 💜💦",
+                    "status": 1,
+                    "viewerCount": 37,
+                    "version": 6253,
+                    "createdAt": 1735187644000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784392041000,
+                    "startedAt": 1784385416000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "817473495121289216",
+                                "streamId": "728522434021437442",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

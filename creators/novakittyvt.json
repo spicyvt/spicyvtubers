@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b8511f9-ca02-4351-a375-f1760fb9c5bd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4f2a798-41a5-49f3-8987-45165b1bac2d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "761677150158860288",
+        "username": "NovaKittyVT",
+        "displayName": "Kitty",
+        "version": 20,
+        "followCount": 299,
+        "statusId": 3,
+        "accountMediaLikes": 195,
+        "postLikes": 534,
+        "about": "spoil me~ \nhttps://ko-fi.com/novakittyvt\nhttps://throne.com/novakittyvt",
+        "location": "",
+        "streaming": {
+            "accountId": "761677150158860288",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

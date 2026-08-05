@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad393f47-02d4-466d-9fd4-9a11693dcadb-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22251a0f-fae8-4609-93f9-7f1a948310d2-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "515023034772369408",
+        "username": "im_hisui",
+        "displayName": "Hisui",
+        "version": 4,
+        "followCount": 2296,
+        "statusId": 3,
+        "accountMediaLikes": 1134,
+        "postLikes": 513,
+        "about": "Hisui's Spicy site for NSFW content.\n\nStreams every Wednesday & Saturday at 9 pm EST ˚ʚ♡ɞ˚\n\nI post weekly!",
+        "location": "",
+        "streaming": {
+            "accountId": "515023034772369408",
+            "channel": {
+                "id": "803087805851910144",
+                "accountId": "515023034772369408",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oxaGGufGaEcR.m3u8",
+                "chatRoomId": "803155111328100352",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1752965413000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "803087805851910145",
+                    "historyId": "940105131293155328",
+                    "channelId": "803087805851910144",
+                    "accountId": "515023034772369408",
+                    "title": "FIRST STREAM OF THE MONTH LETS SPOIL EACH OTHER~ !tipmenu  🖤SHOCK COLLAR + LUSH + GEMINI + MORE ",
+                    "status": 1,
+                    "viewerCount": 73,
+                    "version": 52,
+                    "createdAt": 1752965413000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785641298000,
+                    "startedAt": 1785632889000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "861481059064246273",
+                                "streamId": "803087805851910145",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f92922c2-4d97-4fdf-8b75-b927ab67d51d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d522aca3-c169-42aa-942c-742d9eafd0c3-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "350933002668220416",
+        "username": "techycutie",
+        "displayName": null,
+        "version": 7,
+        "followCount": 9817,
+        "statusId": 3,
+        "accountMediaLikes": 9518,
+        "postLikes": 10746,
+        "about": "Hey cuties it's me, TECHY! Your cutie with the booty \n🩷Shy little brat\n💙Kinda stupid\n💛Big boobs and fat ass\n💜Praise kink\nOfficial account of https://twitter.com/techylewd\nWishlist: https://throne.com/techylewd\n\n┈┈・ ✦ ・┈┈\nReposting or redistributing my content in any form is strictly prohibited and unlawful. Any unauthorized sharing will result in legal action. All sales are final, no refunds will be issued.",
+        "location": "",
+        "streaming": {
+            "accountId": "350933002668220416",
+            "channel": {
+                "id": "887439886699732993",
+                "accountId": "350933002668220416",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HiulihQZnbpi.m3u8",
+                "chatRoomId": "887449061496467456",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1773076516000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "887439886699732994",
+                    "historyId": "940467202996318208",
+                    "channelId": "887439886699732993",
+                    "accountId": "350933002668220416",
+                    "title": "Last Stream before trip",
+                    "status": 1,
+                    "viewerCount": 203,
+                    "version": 60,
+                    "createdAt": 1773076517000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785732073000,
+                    "startedAt": 1785719214000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940457110032887808",
+                                "streamId": "887439886699732994",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

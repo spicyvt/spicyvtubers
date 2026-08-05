@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ecc71c32-acf4-40d3-8d49-87bee337513e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/208912b0-63d7-4c27-9439-7f303384b024-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "632335547292987393",
+        "username": "MySealium",
+        "displayName": "MySealium",
+        "version": 11,
+        "followCount": 191,
+        "statusId": 1,
+        "accountMediaLikes": 114,
+        "postLikes": 126,
+        "about": "Deep in the waters waits in ambush... a SEXY ambush from a mutated shark! Watch out shes gonna blow her spores all over you!!!\n\nOh... too late, looks like you've been assimilated into the MySealium Hive mind, enjoy your stay gooners and goonettes~\n\nSolo/gg/bg/3some/futa/orgy content \nlots of free pictures and live-streams (Live2D and VRC)\nCheap customs available, just ask!\nDM's are free!\n\nOpen for collab's of any kind\n\nWaffle's Throne - https://throne.com/nudistenwafelvr\nDeep's Throne - https://throne.com/deepdenizen",
+        "location": "",
+        "streaming": {
+            "accountId": "632335547292987393",
+            "channel": {
+                "id": "637823035298033664",
+                "accountId": "632335547292987393",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.R8zJSs3qASUG.m3u8",
+                "chatRoomId": "637823140075941889",
+                "status": 2,
+                "version": 18,
+                "createdAt": 1713563221000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "637823035298033665",
+                    "historyId": "940550992640897024",
+                    "channelId": "637823035298033664",
+                    "accountId": "632335547292987393",
+                    "title": "Late Night Delta Force! Draining myself each death!",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 210,
+                    "createdAt": 1713563222000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785744025000,
+                    "startedAt": 1785739191000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

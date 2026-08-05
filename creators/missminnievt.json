@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4c9fcbe-114f-4786-a87c-f733b3880043-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bb99df6-2fe8-44d9-88a4-7df44f0af9d7-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "531758843126882304",
+        "username": "MissMinnieee",
+        "displayName": "MissMinnieVT",
+        "version": 8,
+        "followCount": 5032,
+        "statusId": 3,
+        "accountMediaLikes": 3578,
+        "postLikes": 4141,
+        "about": "Voice actress, lewdtuber, 🐰🦋\n\nYou will find 🐰🦋\n- lewd pics that include lingerie and nudes\n-spicy videos\n-occasional nsfw audios\n\n Feel free to follow me on all socials: \nhttps://missminnie.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "531758843126882304",
+            "channel": {
+                "id": "608279776762802176",
+                "accountId": "531758843126882304",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.PERBRUdkXXhy.m3u8",
+                "chatRoomId": "608280923489705984",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1706519560000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "608279776762802177",
+                    "historyId": "940873123555733504",
+                    "channelId": "608279776762802176",
+                    "accountId": "531758843126882304",
+                    "title": "Messy blowjob and Spinel stream!",
+                    "status": 1,
+                    "viewerCount": 17,
+                    "version": 2183,
+                    "createdAt": 1706519560000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785820060000,
+                    "startedAt": 1785815993000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "907899898861477888",
+                                "streamId": "608279776762802177",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

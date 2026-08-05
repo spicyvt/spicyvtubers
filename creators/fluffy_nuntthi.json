@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fdfb229-9e1c-409a-96d2-38782517fce3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b37ec9aa-8c07-48ac-9890-b7779bd50919-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "401303892819718144",
+        "username": "Fluffy_Nuntthi",
+        "displayName": "Fluffy",
+        "version": 5,
+        "followCount": 9,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "Well hello there. I see that you have found me. Please allow me to please you ;3",
+        "location": "",
+        "streaming": {
+            "accountId": "401303892819718144",
+            "channel": {
+                "id": "829714117823590400",
+                "accountId": "401303892819718144",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Ji3cGmSVOrvW.m3u8",
+                "chatRoomId": "829715063630741505",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1759313621000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "829714117823590401",
+                    "historyId": "829715183684308993",
+                    "channelId": "829714117823590400",
+                    "accountId": "401303892819718144",
+                    "title": "first ever stream",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 174,
+                    "createdAt": 1759313621000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1759318119000,
+                    "startedAt": 1759313875000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

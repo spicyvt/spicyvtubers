@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72935f9b-344c-47e3-9454-31700b2e435d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/37c60ebc-0696-449e-9994-b01137f30cfb-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "919853809201586177",
+        "username": "AetherealAri",
+        "displayName": null,
+        "version": 2,
+        "followCount": 1703,
+        "statusId": 1,
+        "accountMediaLikes": 1544,
+        "postLikes": 2181,
+        "about": "Silly Jackalope, sometimes a silly space pirate or puppy girl, just wanting to make you feel good and happy every day~ Come play with me ;)",
+        "location": "",
+        "streaming": {
+            "accountId": "919853809201586177",
+            "channel": {
+                "id": "926683151231639552",
+                "accountId": "919853809201586177",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oI4bZROKha1r.m3u8",
+                "chatRoomId": "930296921115873281",
+                "status": 2,
+                "version": 14,
+                "createdAt": 1782432840000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "926683151231639553",
+                    "historyId": "940369859127029760",
+                    "channelId": "926683151231639552",
+                    "accountId": "919853809201586177",
+                    "title": "Vr dancy time!",
+                    "status": 1,
+                    "viewerCount": 83,
+                    "version": 22,
+                    "createdAt": 1782432840000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785721836000,
+                    "startedAt": 1785696005000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/037fe070-cbec-4b18-bc89-f610cffc6377-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81ae88e-afc9-4e29-acd8-070539a83dac-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "675583399783575555",
+        "username": "GrimVT",
+        "displayName": "GrimVT ",
+        "version": 3,
+        "followCount": 124,
+        "statusId": 3,
+        "accountMediaLikes": 156,
+        "postLikes": 411,
+        "about": "Hey there! I’m Grim, your incubus rockstar and variety streamer over on twitch. Let’s rock out together and create some unforgettable moments ✨Streams, Art and VA stuff coming soon✨ Open for collabs ❤️\n\nPfp: kokohinari",
+        "location": "your bed",
+        "streaming": {
+            "accountId": "675583399783575555",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

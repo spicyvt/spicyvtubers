@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22eae855-81fb-4c28-9580-e4dc7351f2c5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf3e7e37-77df-434c-98bc-12ce3b2317ac-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "599853448845864960",
+        "username": "Onifu",
+        "displayName": "Onifu",
+        "version": 6,
+        "followCount": 23899,
+        "statusId": 2,
+        "accountMediaLikes": 10709,
+        "postLikes": 10188,
+        "about": "❗❗ FREE + PAID CONTENT! (Just follow~) ❗❗\n\nYou are my dorei... \n\nDorei=Slave\n\nI am... \n🖤Sadistic\n🖤 Dancer Succubus\n🖤 And I NEED to feed on your soul... \n\nThis is an account for ONIFU (me) and NOT YFU... \n\nWe don't need her anyway, right dorei? \n\n❗❗YFU content, meetups,  & live streams will be on her Patreon ❗❗",
+        "location": "XSTA-Z",
+        "streaming": {
+            "accountId": "599853448845864960",
+            "channel": {
+                "id": "651861013536186370",
+                "accountId": "599853448845864960",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.UjL0iVjGqOcK.m3u8",
+                "chatRoomId": "653470896706564097",
+                "status": 2,
+                "version": 121,
+                "createdAt": 1716910136000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "651861013536186371",
+                    "historyId": "937970838764793857",
+                    "channelId": "651861013536186370",
+                    "accountId": "599853448845864960",
+                    "title": "ཐི⋆♱⋆ཋྀ YOURE UNDER ARREST! Cop RP w/ RTXFU",
+                    "status": 1,
+                    "viewerCount": 29,
+                    "version": 3117,
+                    "createdAt": 1716910137000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785136570000,
+                    "startedAt": 1785124034000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937970816514015232",
+                                "streamId": "651861013536186371",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"651641869721149440\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

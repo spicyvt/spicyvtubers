@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b54c8742-b163-4c0b-8dc2-45602fb6310b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22811ed3-2c1c-462d-91a2-765400c21c44-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "746086856982011904",
+        "username": "QuetzuSolscale",
+        "displayName": "Quetzu Solscale",
+        "version": 12,
+        "followCount": 5318,
+        "statusId": 3,
+        "accountMediaLikes": 2031,
+        "postLikes": 5172,
+        "about": "Your endlessly horny wife, trembling and ready for you to take control 💍\nVR play • lactation • sleepy streams • limitless orgasms 💕\nStreams 3+ times a week. \nWed Fri Sun @ 9pm EDT!\n\nLatina | 5'5 | Always yours to please\n\n\n⋆⁺₊⋆⊱༒︎ • ༒︎⊰⋆⁺₊⋆\n\n🎁 Spoil Me: https://throne.com/quetzusolscale\n🔗 Patreon: https://patreon.com/QuetzuSolscale\n📺YouTube: https://www.youtube.com/@QuetzuSolscale\n🐦Twitter: https://x.com/QuetzuSolscale\n🔞Alt Twitter: https://x.com/QuetzuNSFW\n\nFake Deity of VAllure 🐉🪽\n\n⚡CODE: QUETZU → 10% off your GamerSupps\n",
+        "location": "",
+        "streaming": {
+            "accountId": "746086856982011904",
+            "channel": {
+                "id": "856452644149948416",
+                "accountId": "746086856982011904",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.kEuWyP9HrkhJ.m3u8",
+                "chatRoomId": "856456763724017665",
+                "status": 2,
+                "version": 31,
+                "createdAt": 1765688582000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "856452644149948417",
+                    "historyId": "934758198508789760",
+                    "channelId": "856452644149948416",
+                    "accountId": "746086856982011904",
+                    "title": "Making me cream, Papi~ ♥",
+                    "status": 1,
+                    "viewerCount": 74,
+                    "version": 60,
+                    "createdAt": 1765688582000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784367488000,
+                    "startedAt": 1784358081000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "858768095504773120",
+                                "streamId": "856452644149948417",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:20:57Z"
     }
 }

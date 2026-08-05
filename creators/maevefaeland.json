@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/715f99b0-7464-4f34-8160-edaa06c6f764-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/420a399e-d524-44cc-95be-dfa0fed0363e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "651866749041385473",
+        "username": "MaeveFaeland",
+        "displayName": null,
+        "version": 3,
+        "followCount": 20,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 1,
+        "about": "A VTuber Cambion, leaning into their Demon of Lust side~\n\nWill you contribute to the Chaos and feed Them your soul energy?\n\nhttps://throne.com/MaeveFaeland",
+        "location": "Canada",
+        "streaming": {
+            "accountId": "651866749041385473",
+            "channel": {
+                "id": "929297701617553408",
+                "accountId": "651866749041385473",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2qOIWMClNiiZ.m3u8",
+                "chatRoomId": "929302881272623104",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1783056197000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "929297701617553409",
+                    "historyId": "930333870933417984",
+                    "channelId": "929297701617553408",
+                    "accountId": "651866749041385473",
+                    "title": "*Toy ON* BIRTHDAY STREAM~ Cum spoil me~",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 4,
+                    "createdAt": 1783056197000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783315093000,
+                    "startedAt": 1783303239000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:47Z"
     }
 }

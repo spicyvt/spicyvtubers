@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/955c7b77-1913-4132-9a34-468911d2c76b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8813eadc-ce3e-459a-a5cb-617c6e0a24bc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "498059290955751424",
+        "username": "BabydollStarlit",
+        "displayName": "BabydollStarlit",
+        "version": 5,
+        "followCount": 11440,
+        "statusId": 3,
+        "accountMediaLikes": 4084,
+        "postLikes": 6940,
+        "about": " 💖 LIVE EVERY Tuesday ♥ Friday ♥ Saturday at 10pm EST  💖\nMeet your new favorite dreamweaver Yokai and virtual cumslut ♥\nMy content is all about making both an erotic and emotional connection with you, whether I'm being a teasing little brat or a desperate demon princess begging for your cum! ♥ I specialize in GFE, teasing, JOI, and fun unique roleplay experiences. Following is FREE and you'll get to see all sorts of fun stuff <3 Banner by twitter artist @anna_o_renko",
+        "location": "The Dream Realm",
+        "streaming": {
+            "accountId": "498059290955751424",
+            "channel": {
+                "id": "517916633486860288",
+                "accountId": "498059290955751424",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wMunYWid8jxH.m3u8",
+                "chatRoomId": "517916776235802624",
+                "status": 2,
+                "version": 148,
+                "createdAt": 1684975307000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "517916633486860289",
+                    "historyId": "937579752246484992",
+                    "channelId": "517916633486860288",
+                    "accountId": "498059290955751424",
+                    "title": "LIVE DISCORD/VRCHAT LIVE FUCK MACHINE EVENT!! FM Control: $100 for 5m ♥ $175 for 10m",
+                    "status": 1,
+                    "viewerCount": 33,
+                    "version": 155,
+                    "createdAt": 1684975308000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785043805000,
+                    "startedAt": 1785030792000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "912219894190206977",
+                                "streamId": "517916633486860289",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

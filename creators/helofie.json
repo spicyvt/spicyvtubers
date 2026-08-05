@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc54baf3-375c-4f11-aace-e1f6616c8b84-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8dcf67d4-94f7-4049-afa5-74f1b24c089c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "786463157441798145",
+        "username": "helofie",
+        "displayName": "loafie",
+        "version": 12,
+        "followCount": 211,
+        "statusId": 1,
+        "accountMediaLikes": 58,
+        "postLikes": 110,
+        "about": "mwehehe.\n\nlewd / wholesome / chaotic / evil\ncannot be tamed but you can try (good luck) \nsilly & evil demon vtuber who loves to yell a lot ~\n",
+        "location": "",
+        "streaming": {
+            "accountId": "786463157441798145",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

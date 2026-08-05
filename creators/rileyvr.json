@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/118a9f01-c7a6-4cb8-9143-4511137f8149-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25f36a87-714a-477a-a70f-f65e2fbdabee-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "736343744831299584",
+        "username": "RileyVR",
+        "displayName": "RileyVR",
+        "version": 7,
+        "followCount": 570,
+        "statusId": 1,
+        "accountMediaLikes": 248,
+        "postLikes": 172,
+        "about": "VRC Mute that want's to explore more of her wild side\nSpoil me https://throne.com/rileyvr\nAll  other links ~ https://linktr.ee/Roxie_RileyVR",
+        "location": "",
+        "streaming": {
+            "accountId": "736343744831299584",
+            "channel": {
+                "id": "861608751478632448",
+                "accountId": "736343744831299584",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.djRE9g4FRxJS.m3u8",
+                "chatRoomId": "861612054438486016",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1766917894000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "861608751478632449",
+                    "historyId": "924956035901304832",
+                    "channelId": "861608751478632448",
+                    "accountId": "736343744831299584",
+                    "title": "Cat/Dragon wants to be pleasured by you",
+                    "status": 1,
+                    "viewerCount": 37,
+                    "version": 12,
+                    "createdAt": 1766917894000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782028758000,
+                    "startedAt": 1782021063000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "861611238856081408",
+                                "streamId": "861608751478632449",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:53Z"
     }
 }

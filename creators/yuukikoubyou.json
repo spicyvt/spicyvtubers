@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a45759dc-c4fa-4539-9669-7fdbc7684564-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fee5661-c4b9-4029-828a-0cd19564ba15-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "420048298330562561",
+        "username": "YuukiCockbyou",
+        "displayName": "Yuuki",
+        "version": 6,
+        "followCount": 130,
+        "statusId": 1,
+        "accountMediaLikes": 96,
+        "postLikes": 139,
+        "about": "meowdy :3! who doesnt like a catboy who is a super degenerate and like to moan. hope to make you satisfied in every way ~  ",
+        "location": "",
+        "streaming": {
+            "accountId": "420048298330562561",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

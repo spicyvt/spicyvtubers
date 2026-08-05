@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3287ffc-ce97-4785-a8e9-ac72609014a5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed89a99f-8b48-4178-abb7-a96181377498-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "580719187953987584",
+        "username": "Yuziko",
+        "displayName": "Yuziko 🔥🏁",
+        "version": 7,
+        "followCount": 455,
+        "statusId": 1,
+        "accountMediaLikes": 990,
+        "postLikes": 528,
+        "about": "A local Racing Latina girl with some curves you will desire 💋🏁\n\n💜| Car Enthusiast\n💜| Koikatsu Artist\n💜| VR Learner\n\n\nI'm new in here. Hope to see you enjoyng my lewds ❤",
+        "location": "",
+        "streaming": {
+            "accountId": "580719187953987584",
+            "channel": {
+                "id": "829168688027410432",
+                "accountId": "580719187953987584",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SloRdQ7d1pQA.m3u8",
+                "chatRoomId": "829170352323043328",
+                "status": 2,
+                "version": 21,
+                "createdAt": 1759183580000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "829168688027410433",
+                    "historyId": "937902973793624064",
+                    "channelId": "829168688027410432",
+                    "accountId": "580719187953987584",
+                    "title": "🏁 Goon Pit Stop Open || Redline Your Cock & Cum For Me 🚗💦",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 24,
+                    "createdAt": 1759183580000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785479884000,
+                    "startedAt": 1785107854000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63dd99ad-4074-4886-a26e-5a95ff3e0c78-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e6c5b39-8230-4aca-ad15-93dad665357e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "584406624832069632",
+        "username": "NyxieSinclair",
+        "displayName": "NyxieSinclair",
+        "version": 8,
+        "followCount": 20,
+        "statusId": 1,
+        "accountMediaLikes": 1,
+        "postLikes": 0,
+        "about": "⋮ 𝗰𝘂𝗿𝗶𝗼𝘀𝗶𝘁𝘆 𝗹𝗲𝗱 𝘆𝗼𝘂 𝘁𝗼 𝗺𝗲. 🌹🦇🩸\n\n◞ vampire VTuber with a chaotic streak.\n◞ exclusive NSFW 2D & 3D streams, VODs, art & animations.\n◞ toy play, IRL content & behind-the-scenes exclusives.\n◞ subscribe... if you think you can keep up. ♡\n\n🔴 𝗡𝗘𝗪 𝗖𝗢𝗡𝗧𝗘𝗡𝗧  will be posted regularly + subscriber-only exclusives.\n\n. . . . .\n\n◞ All my socials ⟶ https://nyxiesinclair.com\n◞ Join my community ⟶ https://discord.gg/8KeMyS6qha\n◞ Spoil me!!! ⟶ https://throne.com/nyxiesinclair\n\n\n🚨 All content is consensual, 18+, and owned by me. No leaks, no reposting. Do not mention my NSFW profiles or content in my SFW spaces (Twitch, YouTube, TikTok, Twitter or any other social accounts)",
+        "location": "",
+        "streaming": {
+            "accountId": "584406624832069632",
+            "channel": {
+                "id": "875756602169249792",
+                "accountId": "584406624832069632",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ONWEK6YIxBb3.m3u8",
+                "chatRoomId": "875756623996411904",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1770291004000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "875756602169249793",
+                    "historyId": null,
+                    "channelId": "875756602169249792",
+                    "accountId": "584406624832069632",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1770291005000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "930666290354339840",
+                                "streamId": "875756602169249793",
+                                "type": 0,
+                                "flags": 132,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"875424768055058432\\\"}\",\"128\":\"{\\\"listId\\\":\\\"930666226223443968\\\",\\\"label\\\":\\\"Moderators\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:51Z"
     }
 }

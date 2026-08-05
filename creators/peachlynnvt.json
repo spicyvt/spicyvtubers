@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c822e98-ae4e-4cf6-bcf4-5961025625f2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39d5730b-d160-4b25-acfa-c2ff89511402-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "528360102944579584",
+        "username": "PeachlynnVT",
+        "displayName": "Peachlynn",
+        "version": 7,
+        "followCount": 658,
+        "statusId": 1,
+        "accountMediaLikes": 356,
+        "postLikes": 1183,
+        "about": "Care to spoil a corgi princess? Check my throne: https://throne.com/peachlynn\n\n\nYour precious corgi necromancer princess making way into the blue crowd 💖",
+        "location": "On  your lap",
+        "streaming": {
+            "accountId": "528360102944579584",
+            "channel": {
+                "id": "562539134221037568",
+                "accountId": "528360102944579584",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.GXBGX3PgS0A9.m3u8",
+                "chatRoomId": "563985757962772480",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1695614141000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "562539134221037569",
+                    "historyId": "630625545096273920",
+                    "channelId": "562539134221037568",
+                    "accountId": "528360102944579584",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 7194,
+                    "createdAt": 1695614141000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1711856155000,
+                    "startedAt": 1711847206000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

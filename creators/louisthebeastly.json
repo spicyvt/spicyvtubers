@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b4260e-ec21-43ca-8375-d8e824d70c84-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f86974c8-75a0-4712-aa81-4ba84cc8e0b9-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "285742125797089280",
+        "username": "beastlylewds",
+        "displayName": null,
+        "version": 3,
+        "followCount": 492,
+        "statusId": 1,
+        "accountMediaLikes": 939,
+        "postLikes": 5666,
+        "about": "💋❤️Hai! Im beastly, if you like guys who are bearded and are kind of chubby, then you are at the right place! I’m here to satisfy your cravings to the best of my ability, and i hope you enjoy!\nI will post feet pics, shower pics/vids when im in the shower, and will post masturbation vids too!\nI also take requests! Also im a streamer so ask about that too! https://louisthebeastly.carrd.co/",
+        "location": "Tn",
+        "streaming": {
+            "accountId": "285742125797089280",
+            "channel": {
+                "id": "301302461245693952",
+                "accountId": "285742125797089280",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Z2bnre1kBD7M.m3u8",
+                "chatRoomId": "302814401403039744",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1633330464000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "301302461245693953",
+                    "historyId": "862611431550365697",
+                    "channelId": "301302461245693952",
+                    "accountId": "285742125797089280",
+                    "title": "streamin vrc",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 5631,
+                    "createdAt": 1633330465000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1767158638000,
+                    "startedAt": 1767156951000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

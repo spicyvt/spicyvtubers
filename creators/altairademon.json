@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6b80793-070c-4996-88f1-767cdf3a5392-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d983bd9a-b132-4235-908d-11a5f4699777-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "898565475229790208",
+        "username": "Altaira-Demon",
+        "displayName": null,
+        "version": 4,
+        "followCount": 735,
+        "statusId": 3,
+        "accountMediaLikes": 117,
+        "postLikes": 151,
+        "about": "Hi there my horny little devils! Welcome to my Fansly!\nMy name is Altaira, a smol brained Vtuber, who talks an awful lot of gibberish.\n\nHere I'll be hosting Adult Only Streams, every Saturday from 6pm ( UK Time )\nWhile I won't be doing NSFW content of myself, there will be more risque outfits ( One's Twitch would ban me for hehe ) Sexy art and I'll be playing NSFW games etc.\nSaucy Gifts: https://throne.com/altaira-nyx",
+        "location": "",
+        "streaming": {
+            "accountId": "898565475229790208",
+            "channel": {
+                "id": "899402975875719186",
+                "accountId": "898565475229790208",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qSI0nK1QDVln.m3u8",
+                "chatRoomId": "899521904287703040",
+                "status": 2,
+                "version": 20,
+                "createdAt": 1775928739000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "899402975875719187",
+                    "historyId": "939982636711960578",
+                    "channelId": "899402975875719186",
+                    "accountId": "898565475229790208",
+                    "title": "Big titted Mommy gets her holes plundered looking for booty! ",
+                    "status": 1,
+                    "viewerCount": 31,
+                    "version": 36,
+                    "createdAt": 1775928739000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785618904000,
+                    "startedAt": 1785603684000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

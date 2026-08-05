@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3efb2c3-1797-485c-8ad6-890124c706cf-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0058a717-2cfc-4237-ad8d-690fe405e7c1-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "751323794001371136",
+        "username": "Myrawaa",
+        "displayName": "Myra 🍁",
+        "version": 8,
+        "followCount": 2493,
+        "statusId": 1,
+        "accountMediaLikes": 1344,
+        "postLikes": 1114,
+        "about": "Your shy maple girl~ \n\n(Will not show genitals please respect my boundaries)\n\n🍁 Fennec Fox | she/her | Tomboy Girlfailure | V-artist 🎨 | https://twitch.tv/myrawaa | rig: \n@wolesVT",
+        "location": "Canada",
+        "streaming": {
+            "accountId": "751323794001371136",
+            "channel": {
+                "id": "772586921602854915",
+                "accountId": "751323794001371136",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zzc0tStuuRLU.m3u8",
+                "chatRoomId": "772622353233354752",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1745693436000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "772586921602854916",
+                    "historyId": "820499575562313728",
+                    "channelId": "772586921602854915",
+                    "accountId": "751323794001371136",
+                    "title": "NSFW art with your fav tomboy <333",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 2,
+                    "createdAt": 1745693436000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1757123980000,
+                    "startedAt": 1757116703000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "772590594865242112",
+                                "streamId": "772586921602854916",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

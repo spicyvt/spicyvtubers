@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfb9e0f8-4caf-4142-9c98-8f3da591ec20-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b0052eb-45cb-4c9b-ad3a-31e7df9c7185-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "615101511701110784",
+        "username": "TheEmoHealer",
+        "displayName": null,
+        "version": 4,
+        "followCount": 8453,
+        "statusId": 3,
+        "accountMediaLikes": 3278,
+        "postLikes": 2939,
+        "about": "Hello loves, I'm a Ghostly LewdTuber, eager to give you an out of body experience! \nWant to take a step towards the Dark side?\nRequests OPEN!\n[Genderfluid, Pansexual, Poly!]",
+        "location": "Totally not Haunted House.",
+        "streaming": {
+            "accountId": "615101511701110784",
+            "channel": {
+                "id": "632693911357239298",
+                "accountId": "615101511701110784",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Plu8ywN7MXOr.m3u8",
+                "chatRoomId": "633554406108835842",
+                "status": 2,
+                "version": 20,
+                "createdAt": 1712340343000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "632693911357239299",
+                    "historyId": "941111775774928896",
+                    "channelId": "632693911357239298",
+                    "accountId": "615101511701110784",
+                    "title": "I'd compare my Gock to a white monster can, but its cold! j-j",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 4928,
+                    "createdAt": 1712340344000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785881776000,
+                    "startedAt": 1785872892000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "633554454980866048",
+                                "streamId": "632693911357239299",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

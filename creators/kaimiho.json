@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c16e7dc3-2984-47b2-a5b2-315dbcf7cd90-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b571fdb-00d1-4dcb-a113-69082fdabb30-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "420696483025661952",
+        "username": "Kaimiho",
+        "displayName": "Kai 🦴❤️‍🩹",
+        "version": 21,
+        "followCount": 11192,
+        "statusId": 2,
+        "accountMediaLikes": 11486,
+        "postLikes": 14469,
+        "about": "Certified Good Girl 🐾🦴\nIRL - Art - Audios - VR +\n4'11 Kinky pocket puppy\n      ︶꒦꒷♡꒷꒦︶\nI'm Kai -  Your degen dog! ⸜(*ˊᗜˋ*)⸝ \nVtuber/Lewdtuber - Bratty Switch \nHypersexual, obsessive, fiendish \nAfflicted with Hyperovulation ✌︎('ω')✌︎\n\n♡ My other links to my platforms:\n➔ https://kaimiho.carrd.co\n\n♡ Consider giving your good girl a gift:\n➔ https://throne.com/kaimiho\n\nI work a fulltime job while on top of making content/streaming! I appreciate all the patience and support you give me, thank you for letting me be my degen self~ \n\nI try to get back to every DM - but subs have priority ❤️\n\nAll content is under copyright. Enforced by bruqi.com.\n\n© DMCA © (https://www.dmca.com)\nThis page and its content are copyrighted by Kaimiho. The distribution of any content is strictly prohibited. Kaimiho ( i.e, me) & people I've given explicit permission to are the only authorized personnel to repost Fansly content. Violators will be susceptible to a DMCA takedown request on my behalf. \n\n\n*ABSOLUTELY NO SCREENSHOTS/SCREEN RECORDING/REUPLOADS/SHARING MY CONTENT*",
+        "location": "",
+        "streaming": {
+            "accountId": "420696483025661952",
+            "channel": {
+                "id": "542374054393294848",
+                "accountId": "420696483025661952",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.CmACBdxIJQTu.m3u8",
+                "chatRoomId": "542374091110227968",
+                "status": 2,
+                "version": 213,
+                "createdAt": 1690806411000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "542374054393294849",
+                    "historyId": "940823394104909824",
+                    "channelId": "542374054393294848",
+                    "accountId": "420696483025661952",
+                    "title": "(*/ω＼) Puppygirl Unwinding - I'm back, fr!! // !Menu- !Lovense - !Links - !Credits - !Throne",
+                    "status": 1,
+                    "viewerCount": 56,
+                    "version": 8388,
+                    "createdAt": 1690806411000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785808329000,
+                    "startedAt": 1785804136000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "938471173031751682",
+                                "streamId": "542374054393294849",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

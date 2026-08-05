@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b08a5bc5-8fb5-4e55-acfd-7a1cd2f87ca5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3824c23-e1da-41e5-8ff9-a60f98ddeb7a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "882796767882534913",
+        "username": "Kuroyuklhlme",
+        "displayName": "yuki 🖤❄️",
+        "version": 13,
+        "followCount": 88,
+        "statusId": 1,
+        "accountMediaLikes": 61,
+        "postLikes": 63,
+        "about": "",
+        "location": "",
+        "streaming": {
+            "accountId": "882796767882534913",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

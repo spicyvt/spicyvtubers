@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/473f0745-d957-4a67-96e6-8b6609ce56a4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/878c0cee-6c65-4be6-9bcc-96bb8f047ffc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "529099327038038016",
+        "username": "Tealoafy",
+        "displayName": "Tealoafy",
+        "version": 21,
+        "followCount": 19050,
+        "statusId": 3,
+        "accountMediaLikes": 11244,
+        "postLikes": 9136,
+        "about": "Your buzzin' lil' cum bunny is here.\n\nBoss me around, sometimes I listen.\n\nAdd me everywhere! ♥ tealoafy.com ♥",
+        "location": "",
+        "streaming": {
+            "accountId": "529099327038038016",
+            "channel": {
+                "id": "731951088869060608",
+                "accountId": "529099327038038016",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.5nkd8RkAJnth.m3u8",
+                "chatRoomId": "731951341500375040",
+                "status": 2,
+                "version": 405,
+                "createdAt": 1736005098000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "731951088869060609",
+                    "historyId": "941026996886978560",
+                    "channelId": "731951088869060608",
+                    "accountId": "529099327038038016",
+                    "title": "♥ 2D TUESDAY ♥ !tipmenu !socials !d100",
+                    "status": 1,
+                    "viewerCount": 31,
+                    "version": 3114,
+                    "createdAt": 1736005098000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785861484000,
+                    "startedAt": 1785852679000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "731952519172857856",
+                                "streamId": "731951088869060609",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:19Z"
     }
 }

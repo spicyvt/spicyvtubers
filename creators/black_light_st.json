@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba38035-3321-460d-83a7-f7aafd068441-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d930a920-c16c-4c1e-8c72-13f5cc5a53f4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "302495210137464832",
+        "username": "Black_Light_ST",
+        "displayName": null,
+        "version": 4,
+        "followCount": 9731,
+        "statusId": 1,
+        "accountMediaLikes": 4830,
+        "postLikes": 2682,
+        "about": "Dapper yapper & deep voice waifu™️, jack of all trades creator & amateur repair technician with AuDHD // YouTuber & Streamer.\nI aim to please, but love to tease~\nI'm kinda shy when it comes to certain things and never expected so many of you to support me here 💗\n\nI know a lot of you know me from my other platforms, but for those who would like to check them out, here is a link. 🔗's ▷ https://black-light.uwu.ai/ ◁\n\n▰▱▰▱▰▱▰▱▰▱▰▱▰▱\n\n• 💲Model referral Code: https://fansly.com/application/form?r=Black_Light_ST\n• 💖 Lovense affiliate link: https://www.lovense.com/r/33gmwm",
+        "location": "Norway",
+        "streaming": {
+            "accountId": "302495210137464832",
+            "channel": {
+                "id": "315940873848233984",
+                "accountId": "302495210137464832",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.l3VDQdlIT5S5.m3u8",
+                "chatRoomId": "315976904958029824",
+                "status": 2,
+                "version": 82,
+                "createdAt": 1636820534000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "315940873848233985",
+                    "historyId": "936782607599804416",
+                    "channelId": "315940873848233984",
+                    "accountId": "302495210137464832",
+                    "title": "Time to take the Gravity for a ride? 🩵 Verified friends welcome to join~ Shocking ⚡ zap zap. ⚠️  🞮 !vibe !discord !tipmenu",
+                    "status": 1,
+                    "viewerCount": 22,
+                    "version": 7067,
+                    "createdAt": 1636820534000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784852189000,
+                    "startedAt": 1784840738000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "590440724101607424",
+                                "streamId": "315940873848233985",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

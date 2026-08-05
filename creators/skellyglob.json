@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ff31967-3120-4c6c-a364-632e29d508e3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1723ad2-5b1a-4871-b088-2867b0bc3992-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "737888587336392704",
+        "username": "Skellyglob",
+        "displayName": null,
+        "version": 2,
+        "followCount": 10,
+        "statusId": 1,
+        "accountMediaLikes": 3,
+        "postLikes": 0,
+        "about": "Hi I'm skelly a dude being a slime girl on the internet. I am mainly here to play games that would get me banned anywhere else. What you will see here is mainly hentai games or borderline hentai games I've been wanting to play but would get me bonked on other platforms. I want to reiterate I AM A MAN USING A SLIME GIRL MODEL! So...welcome! Lets enjoy our time here <3",
+        "location": "",
+        "streaming": {
+            "accountId": "737888587336392704",
+            "channel": {
+                "id": "806582750105579521",
+                "accountId": "737888587336392704",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.fVxAMJ9iRQw5.m3u8",
+                "chatRoomId": "806583030394146816",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1753798673000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "806582750105579522",
+                    "historyId": null,
+                    "channelId": "806582750105579521",
+                    "accountId": "737888587336392704",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1753798673000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

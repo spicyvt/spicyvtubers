@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/54834150-1414-44c8-a25e-f7b2ed88993f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b50aa3aa-a7aa-40de-ba43-ccc0613b7518-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "832699801463177216",
+        "username": "Pokaie",
+        "displayName": null,
+        "version": 2,
+        "followCount": 248,
+        "statusId": 1,
+        "accountMediaLikes": 174,
+        "postLikes": 136,
+        "about": "Furry Femboy Vtuber and NSFW VA | DM me for customs cutie😘",
+        "location": "",
+        "streaming": {
+            "accountId": "832699801463177216",
+            "channel": {
+                "id": "923780686907723776",
+                "accountId": "832699801463177216",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BTTezcmoHjZE.m3u8",
+                "chatRoomId": "924113252420444160",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1781740838000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "923780686907723777",
+                    "historyId": "936387690352357377",
+                    "channelId": "923780686907723776",
+                    "accountId": "832699801463177216",
+                    "title": "Make me cum lots cutie",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 12,
+                    "createdAt": 1781740839000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784751693000,
+                    "startedAt": 1784746582000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:47Z"
     }
 }

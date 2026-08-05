@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/475cca93-dea7-47c0-9424-59ff0f10838b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/794d867c-e83c-4810-bd58-2acdcaa09eef-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "352313024519872512",
+        "username": "sunnybaevt",
+        "displayName": "sunnybae",
+        "version": 6,
+        "followCount": 43840,
+        "statusId": 1,
+        "accountMediaLikes": 55382,
+        "postLikes": 55949,
+        "about": "✘  ɢᴏᴛʜ ᴘᴜᴘᴘʏᴄᴀᴛ\n✘  𝗙𝗥𝗘𝗘 𝗦𝗧𝗥𝗘𝗔𝗠𝗦 𝗧𝗨𝗘𝗦-𝗧𝗛𝗨𝗥𝗦-𝗦𝗔𝗧 @𝟱𝗣𝗠-𝟭𝗔𝗠 𝗖𝗦𝗧\n────────────﹢＋﹢────────────\nhttps://discord.gg/sunnyfans\nhttps://twitch.tv/sunnydae",
+        "location": "your mom's",
+        "streaming": {
+            "accountId": "352313024519872512",
+            "channel": {
+                "id": "615018346454196224",
+                "accountId": "352313024519872512",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.teIRKCi93f1y.m3u8",
+                "chatRoomId": "615046738469728256",
+                "status": 2,
+                "version": 319,
+                "createdAt": 1708126160000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "615018346454196225",
+                    "historyId": "940950859372576769",
+                    "channelId": "615018346454196224",
+                    "accountId": "352313024519872512",
+                    "title": "the goodest kitty doing the baddest things :3 || !menu !discord",
+                    "status": 1,
+                    "viewerCount": 161,
+                    "version": 5788,
+                    "createdAt": 1708126161000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785834583000,
+                    "startedAt": 1785834526000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "938665141057118208",
+                                "streamId": "615018346454196225",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:24:20Z"
     }
 }

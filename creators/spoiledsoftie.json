@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d84a5173-e211-4d8d-be9e-75895deae008-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2926f25-db53-464d-8752-1ec8987a4461-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "621338065708785664",
+        "username": "spoiledsoftie",
+        "displayName": "𑣲softie",
+        "version": 23,
+        "followCount": 9596,
+        "statusId": 1,
+        "accountMediaLikes": 12053,
+        "postLikes": 9544,
+        "about": "Erocosplay ♡ Gym pics ♡ Findom ♡ Private messaging ♡ No management/AI.\n\n‎ ‎ ‎ ‎ 🔗 spoiledsoftie.com\n\n",
+        "location": "your heart",
+        "streaming": {
+            "accountId": "621338065708785664",
+            "channel": {
+                "id": "707993997980741633",
+                "accountId": "621338065708785664",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AL8ds3yKZAIj.m3u8",
+                "chatRoomId": "754496306445033474",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1730293283000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "707993997980741634",
+                    "historyId": "884947256304742400",
+                    "channelId": "707993997980741633",
+                    "accountId": "621338065708785664",
+                    "title": "silly stream wow (its my first time be nice)",
+                    "status": 1,
+                    "viewerCount": 46,
+                    "version": 22,
+                    "createdAt": 1730293283000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1772482250000,
+                    "startedAt": 1772482227000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "804710475471269888",
+                                "streamId": "707993997980741634",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:28Z"
     }
 }

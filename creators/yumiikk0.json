@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e72135a-9610-4a2d-9caf-35228400f838-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce8ae999-162d-452c-9ab8-b00cc2227bb8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "821191550481485824",
+        "username": "Yumiikko",
+        "displayName": null,
+        "version": 6,
+        "followCount": 3324,
+        "statusId": 2,
+        "accountMediaLikes": 5043,
+        "postLikes": 2225,
+        "about": "Hey youuu ~ ♡\nLIVE WEEKENDS ~ 4/5PM EST: SAT Collabs toy streams || SUN VR toy fun :3\nJust a catgirl who felt the desire to get more playful and wanted to share 💋☆*\n*Sporadic posts throughout the week*\nhttps://linktr.ee/Yumiikko\n\nDMs open: If you have a special request, idea/ suggestion, or would like to commission a private video. Always open to ideas so don’t be shy! I’ll respond as soon as I’m able ~ ❤️‍🔥\n\nCurrently not doing personal VR ERP sessions at this time ~ ❌\n\nTo those who support me, seriously thank you so much 💖\n\nTo fansly... i am not real cat, cat girrrrl :) \n\n",
+        "location": "under you <3",
+        "streaming": {
+            "accountId": "821191550481485824",
+            "channel": {
+                "id": "896293977710419968",
+                "accountId": "821191550481485824",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.U7j7iE8CK3Iy.m3u8",
+                "chatRoomId": "896296261202751488",
+                "status": 2,
+                "version": 43,
+                "createdAt": 1775187496000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "896293977710419969",
+                    "historyId": "940407035386671104",
+                    "channelId": "896293977710419968",
+                    "accountId": "821191550481485824",
+                    "title": "Come Play With Me 🤤 |Fuck Machine DOWN ;-; || VR Lovense Toy Play |",
+                    "status": 1,
+                    "viewerCount": 38,
+                    "version": 48,
+                    "createdAt": 1775187496000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785716573000,
+                    "startedAt": 1785704869000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940029650208321536",
+                                "streamId": "896293977710419969",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

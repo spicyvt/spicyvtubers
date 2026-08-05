@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b41644c8-3592-4e9d-be06-b7bcb859a1d2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb62b377-e8fd-46bf-84aa-6576598254d6-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "764879834131210240",
+        "username": "Manuki",
+        "displayName": null,
+        "version": 2,
+        "followCount": 297,
+        "statusId": 1,
+        "accountMediaLikes": 757,
+        "postLikes": 655,
+        "about": "https://linktr.ee/ManukiVT\n^ Go look at that.^\n\n𓄋 ~Your Demon Queen Welcomes You~ 𓄋\n\n⛧It seem's you have stumbled across something you shouldn't have.. ⛧\n⛧If you already landed here, why don't you make yourself comfortable and  enjoy the sight ⛧\n\n☆ Racoons!\n☆ VRChat Pictures & Videos\n☆ Art\n☆ Me. (A Boob-Obsessed Girl) \n\n\nhttps://discord.gg/AUGc43rcFw\n⛧ ^ Livestream Notifications! ^ ⛧\n\n⛧Want to support me? ^^ ⛧ \nhttps://throne.com/manuki\nhttps://streamelements.com/manukivt/tip",
+        "location": "~Demon-Queen's Realm~",
+        "streaming": {
+            "accountId": "764879834131210240",
+            "channel": {
+                "id": "828757515981303808",
+                "accountId": "764879834131210240",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SgyBYaMP8v8F.m3u8",
+                "chatRoomId": "828757760173690880",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1759085549000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "828757515981303809",
+                    "historyId": "918994144691503104",
+                    "channelId": "828757515981303808",
+                    "accountId": "764879834131210240",
+                    "title": "♡ ~Another Day Another Goon~ ♡",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 12,
+                    "createdAt": 1759085549000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780606879000,
+                    "startedAt": 1780599638000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

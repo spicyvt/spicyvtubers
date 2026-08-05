@@ -11,5 +11,60 @@
         "bannerImageUrl": "https://yt3.googleusercontent.com/WNWJ92Czh_nsNdc8fV30cKq27VgZPIB1HyDMiV_tuJHqMEBE_tZboz88acjuNxVxs-nO9rFl=s480",
         "subscriberCountText": "123K subscribers",
         "videoCountText": "438 videos"
+    },
+    "fansly": {
+        "id": "466262848150974464",
+        "username": "MommyEin",
+        "displayName": "Mommy Ein",
+        "version": 6,
+        "followCount": 6533,
+        "statusId": 3,
+        "accountMediaLikes": 3371,
+        "postLikes": 985,
+        "about": "✧˖°. your favourite bear in heat 𝜗𝜚 ‧₊˚ ⊹\n\ni just yap stream unfiltered\n\nAll my nsfw links: https://linktr.ee/BearyEinNSFW ",
+        "location": "I love submissive men",
+        "streaming": {
+            "accountId": "466262848150974464",
+            "channel": {
+                "id": "718806040430256128",
+                "accountId": "466262848150974464",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WPuiuJKFMahQ.m3u8",
+                "chatRoomId": "721406429881184256",
+                "status": 2,
+                "version": 16,
+                "createdAt": 1732871074000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "718806040430256129",
+                    "historyId": "892128054858489856",
+                    "channelId": "718806040430256128",
+                    "accountId": "466262848150974464",
+                    "title": "reviewing bro... i mean bf applications!",
+                    "status": 1,
+                    "viewerCount": 49,
+                    "version": 5745,
+                    "createdAt": 1732871075000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1774207228000,
+                    "startedAt": 1774194263000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "772456183050018816",
+                                "streamId": "718806040430256129",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

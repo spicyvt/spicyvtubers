@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/44d2f6fe-cd35-4b39-8881-2a5fc26610d6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bf14098-8fef-4763-8cef-d623b1276975-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "855583381927239680",
+        "username": "Junky_Buggy",
+        "displayName": null,
+        "version": 3,
+        "followCount": 7,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 2,
+        "about": "This page is just me, unfiltered.\nCasual posts, extra content, behind-the-scenes stuff, and whatever I feel like sharing.\nThrone: https://throne.com/junky_buggy\n",
+        "location": "",
+        "streaming": {
+            "accountId": "855583381927239680",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

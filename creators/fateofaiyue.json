@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52f84e75-5cab-499a-9f84-6cecbcb1c934-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3378899-81df-40c8-a8ec-03f696756827-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "705500903045603328",
+        "username": "Moon__Lotus",
+        "displayName": "FateofAiyue",
+        "version": 12,
+        "followCount": 3312,
+        "statusId": 1,
+        "accountMediaLikes": 1413,
+        "postLikes": 2036,
+        "about": "                                ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆\n\nִֶָ࣪☾. Im Aiyue ( eye you eh), your hot asian wifey \nִֶָ࣪☾. She/Her | Bisexual \nִֶָ࣪☾. Novice VA \nִֶָ࣪☾. Bratty Switch \nִֶָ࣪☾. I'm in to Praise, Creampies, and a voyeur \nִֶָ࣪☾. Use multiple Lovense Toys on Stream \nִֶָ࣪☾. Lewd Artist/ Vtuber Artist \nִֶָ࣪☾.  Kink &  LGBTQIA+ friendly space\n\n                                              ⛧°. ⋆༺☾𖤓༻⋆. °⛧\n\nWant to spoil me? You get a free exclusive pic if you buy me something:   https://throne.com/fateofaiyue\n         \n                                                ⛧°. ⋆༺☾𖤓༻⋆. °⛧\n\n💙 Fansly- Thursday & Sunday \n\n💜 Twitch - Tues, Wed, Friday, Sat \n\n     ┎┈┈┈┈┈┈┈୨⏾୧┈┈┈┈┈┈┈┒\n                       Check My Socials\n     ┖┈┈┈┈┈┈┈୨⏾୧┈┈┈┈┈┈┈┚\n\n\n⤷ Twitch : https://www.twitch.tv/fateofaiyue\n\n⤷ Discord : https://discord.gg/GJhQCqyctZ\n\n⤷ All Socials : https://linktr.ee/FateofAiyue\n\n⚠️ All content on this page is protected by copyright law. Reproduction, copying, or distribution of any material, including live streams, is strictly prohibited without my express written consent. Unauthorized sharing or redistribution will result in immediate removal and a permanent ban from all affiliated platforms, with potential legal action. ⚠️",
+        "location": "",
+        "streaming": {
+            "accountId": "705500903045603328",
+            "channel": {
+                "id": "726998867303739393",
+                "accountId": "705500903045603328",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.RRckcWhPes3s.m3u8",
+                "chatRoomId": "726998891345485824",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1734824396000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "726998867303739394",
+                    "historyId": "940534207279542272",
+                    "channelId": "726998867303739393",
+                    "accountId": "705500903045603328",
+                    "title": "Gaming and Gooning!",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 6934,
+                    "createdAt": 1734824397000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785745575000,
+                    "startedAt": 1785735189000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "726998949373685760",
+                                "streamId": "726998867303739394",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:19Z"
     }
 }

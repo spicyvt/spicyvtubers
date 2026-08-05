@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ae5bf55-96f1-43ca-b237-40870db88df0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a76b7828-e753-47ea-b1d8-a8af9e814117-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "451133216661708800",
+        "username": "Showy",
+        "displayName": "Showy",
+        "version": 7,
+        "followCount": 3877,
+        "statusId": 1,
+        "accountMediaLikes": 2065,
+        "postLikes": 2916,
+        "about": "🌸 FREE Streams: Fri, Sat, Sun, Mon - 9pm EST\n🦢 Pansexual switch, sub leaning\n🩷 IRL, 2D, 3D, Audio, Nude and Lewd Stream Content\n🐇 Custom IRL/3D Content Available\n\n╰┈𖹭 All links: https://showylinks.carrd.co ⊹ ˖ ໒꒱\n╰┈𖹭 Twitch: https://twitch.tv/showyvt ⊹ ˖ ໒꒱\n╰┈𖹭 Twitter: https://x.com/showyvt ⊹ ˖ ໒꒱\n╰┈𖹭 Throne: https://throne.com/showy ⊹ ˖ ໒꒱\n╰┈𖹭 SFW Discord: https://discord.gg/showy ⊹ ˖ ໒꒱\n╰┈𖹭 Business Email: showyvtbusiness@gmail.com ⊹ ˖ ໒꒱\n\n⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹\n\nRe-uploading/reposting any of my content is strictly prohibited & against tos. \nSchedule is subject to changes.\nPrices of subscription and menu items can be altered at any time. \nChanges made to subscription tier perks and prices will always be announced on my page.\nNo refunds.",
+        "location": "Your Lap",
+        "streaming": {
+            "accountId": "451133216661708800",
+            "channel": {
+                "id": "871598745127505920",
+                "accountId": "451133216661708800",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.CNssUIUktgx5.m3u8",
+                "chatRoomId": "871598806192386049",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1769299694000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "871598745127505921",
+                    "historyId": "940126337157328897",
+                    "channelId": "871598745127505920",
+                    "accountId": "451133216661708800",
+                    "title": "I'm Back Baby! Did you miss me?",
+                    "status": 1,
+                    "viewerCount": 25,
+                    "version": 28,
+                    "createdAt": 1769299694000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785642017000,
+                    "startedAt": 1785637945000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "918283836821884928",
+                                "streamId": "871598745127505921",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

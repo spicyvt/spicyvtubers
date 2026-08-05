@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6e6625e-6f6c-4938-a2af-e7252531a1e5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/28f6e70c-c970-4794-bfb8-c3bc2813c252-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "297990813831409664",
+        "username": "Dival",
+        "displayName": "DivalTheFroge",
+        "version": 4,
+        "followCount": 44,
+        "statusId": 2,
+        "accountMediaLikes": 0,
+        "postLikes": 26,
+        "about": "Hey, I'm Dival a Lewd Dart Frog Variety gamer.. come see what the Tongue can do \n🐸💚💦\n\nVR Content coming very soon!\n\nhttps://joystick.tv/u/divalthefrogevt",
+        "location": "The Lilypad",
+        "streaming": {
+            "accountId": "297990813831409664",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

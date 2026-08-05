@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1a7915f-af1c-480b-8e0d-e38c613e331e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e9923b5-150a-4f24-9d2d-799d73df767f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "373957605376143360",
+        "username": "battiechan",
+        "displayName": "Battie-chan",
+        "version": 3,
+        "followCount": 11114,
+        "statusId": 2,
+        "accountMediaLikes": 8394,
+        "postLikes": 5813,
+        "about": "🦇Hello Everybattie🦇\nIt’s me, your lewdsome bat girl 💜\nFollow ➡️ Horny Posting 😈│Battie NSFW Art 🎨\nSubscribe ➡️ IRL Nudes 📸│NSFW RP Audios │NSFW Streams 💦\nPfp: @sugara_777",
+        "location": "",
+        "streaming": {
+            "accountId": "373957605376143360",
+            "channel": {
+                "id": "432851643948609536",
+                "accountId": "373957605376143360",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iRFIkfEgdHZw.m3u8",
+                "chatRoomId": "432851795740471296",
+                "status": 2,
+                "version": 84,
+                "createdAt": 1664694233000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "432851643948609537",
+                    "historyId": "938989929411661824",
+                    "channelId": "432851643948609536",
+                    "accountId": "373957605376143360",
+                    "title": "Making Masterpieces w/ the Girls {Meccha Chameleon}",
+                    "status": 1,
+                    "viewerCount": 42,
+                    "version": 9541,
+                    "createdAt": 1664694234000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785375256000,
+                    "startedAt": 1785367004000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "541489928337371136",
+                                "streamId": "432851643948609537",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

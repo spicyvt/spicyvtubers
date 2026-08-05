@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e44024a-cf40-4e9f-ae36-7567b64b747a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b7b3c74-4706-4d64-b057-18f844c9cc9b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "915752730344050688",
+        "username": "rawrumii",
+        "displayName": "Rawrumii",
+        "version": 4,
+        "followCount": 12,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "Grem Vtuber & Wonderland Ruler of Your Heart!~❤️‍🩹 Absolute Gooner 🐾\n🎙️ASMRist\n🔞 VA ",
+        "location": "Your moms bed",
+        "streaming": {
+            "accountId": "915752730344050688",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

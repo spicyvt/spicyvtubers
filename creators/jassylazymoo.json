@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3621fbbd-ee0e-459e-810f-22cbf91e9484-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26dabdf7-d025-417c-9b51-26da0dd2d698-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "310901393080721408",
+        "username": "JassyLazyMoo",
+        "displayName": "JassyLazyMoo",
+        "version": 15,
+        "followCount": 7253,
+        "statusId": 3,
+        "accountMediaLikes": 3796,
+        "postLikes": 2342,
+        "about": "Welcome to my kingdom my wonderful highlander~ My name is Jasmine Victoria. I am THE Queen Bitch! \n\nWhat can you expect from my streams and posts;\n\n👑Hentai Pics \n👑Daydream (Doujin) \n👑A lot of Blowjobs \n\nOne big rule, please don't call me cute I do not like that! \nI am a bisexual aromantic girlie (parasocial is not welcomed here) \nI AM A SWITCH!!! (Sub on stream, Dom in dm's \n\n\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "310901393080721408",
+            "channel": {
+                "id": "455075330378444800",
+                "accountId": "310901393080721408",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.kWU7tjT3YcAE.m3u8",
+                "chatRoomId": "455076030151929856",
+                "status": 2,
+                "version": 518,
+                "createdAt": 1669992773000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "455075330378444801",
+                    "historyId": "940133858328715264",
+                    "channelId": "455075330378444800",
+                    "accountId": "310901393080721408",
+                    "title": "WARNING: Queen is insatiable, you have been warned  (Domi) !goals !discord",
+                    "status": 1,
+                    "viewerCount": 16,
+                    "version": 6130,
+                    "createdAt": 1669992774000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785655835000,
+                    "startedAt": 1785639738000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937239392701923328",
+                                "streamId": "455075330378444801",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8292197f-ed19-4e15-aa34-325ce3425c38-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b4d4f14-0454-4aaa-800c-90754ab00dff-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "445524416047095808",
+        "username": "TaraKaminarito",
+        "displayName": null,
+        "version": 2,
+        "followCount": 14044,
+        "statusId": 1,
+        "accountMediaLikes": 13819,
+        "postLikes": 12239,
+        "about": "WELCOME TO MY FANSLY!!! ❤️ \n\nyour #1 Hot Bunny Grand Admiral Mommy ❤️ \n\n- PEAK MOMMY CONTENT 💋\n- NSFW asmr 🔊\n- PPV content for all my babies 🩷\n- streams every friday night 9pm EST📽️\n- nsfw videos 🥵\n\nTwitch: https://www.twitch.tv/TaraKaminarito\nTwitter: https://www.twitter.com/TaraKaminarito\nDiscord: https://discord.gg/TaraKaminarito ",
+        "location": "",
+        "streaming": {
+            "accountId": "445524416047095808",
+            "channel": {
+                "id": "534290770937520128",
+                "accountId": "445524416047095808",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.x8Kir4zVShrR.m3u8",
+                "chatRoomId": "534297215770832896",
+                "status": 2,
+                "version": 36,
+                "createdAt": 1688879206000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "534290770937520129",
+                    "historyId": "939744415574925312",
+                    "channelId": "534290770937520128",
+                    "accountId": "445524416047095808",
+                    "title": "FIRST FANSLY STREAM EVER (in like 6 months or something)",
+                    "status": 1,
+                    "viewerCount": 164,
+                    "version": 7969,
+                    "createdAt": 1688879206000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785555778000,
+                    "startedAt": 1785546888000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

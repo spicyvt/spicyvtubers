@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c684404c-f0e6-4477-afe0-cd719d788635-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/15836f26-6d55-4243-a963-d3d132674431-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "668296809885478913",
+        "username": "RynHub",
+        "displayName": "🦊 Ryn 𓆝 𓆟",
+        "version": 12,
+        "followCount": 3692,
+        "statusId": 1,
+        "accountMediaLikes": 2693,
+        "postLikes": 3504,
+        "about": "Pond Star| Kitsune Koi fish/ Koisune 🔞\nBDSM Enthusiast | Resident Brat | Gamer 𓆩 ♡ 𓆪\nI post IRL NUDES and clips, NSFW Audio, and Hentai pics!\nI read and reply to all messages! Please be patient with me. Tips get priority! \n\nAll of my content is copyrighted content that I own.\n\nAll links ➡️ https://rynfrei.carrd.co",
+        "location": "Pond-Air",
+        "streaming": {
+            "accountId": "668296809885478913",
+            "channel": {
+                "id": "723525075877240832",
+                "accountId": "668296809885478913",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.luqqwDERANfZ.m3u8",
+                "chatRoomId": "723525107552628736",
+                "status": 2,
+                "version": 41,
+                "createdAt": 1733996180000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "723525075877240833",
+                    "historyId": "936133640482463744",
+                    "channelId": "723525075877240832",
+                    "accountId": "668296809885478913",
+                    "title": "NEW MODEL COME PLAY WITH ME!! !throne",
+                    "status": 1,
+                    "viewerCount": 27,
+                    "version": 1298,
+                    "createdAt": 1733996181000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784690948000,
+                    "startedAt": 1784686012000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "870201706648985600",
+                                "streamId": "723525075877240833",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:12Z"
     }
 }

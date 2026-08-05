@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/14f46e7c-9700-4a10-95f3-1eb5c8b7b64a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d43471ed-b2e0-460b-85b8-923fb042dea6-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "713945209246855168",
+        "username": "NekopanVT",
+        "displayName": "Bread",
+        "version": 11,
+        "followCount": 5530,
+        "statusId": 1,
+        "accountMediaLikes": 5890,
+        "postLikes": 11973,
+        "about": "DarkiPan hours ✝️💀 \nwhere the bread cat comes out to play~\nsaving up ✌️DM for customs/requests!\nWishlist @ throne.com/nekopan",
+        "location": "",
+        "streaming": {
+            "accountId": "713945209246855168",
+            "channel": {
+                "id": "790579601226080256",
+                "accountId": "713945209246855168",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.6k5QHulf6MFb.m3u8",
+                "chatRoomId": "843498057482907648",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1749983225000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "790579601226080257",
+                    "historyId": null,
+                    "channelId": "790579601226080256",
+                    "accountId": "713945209246855168",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1749983225000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

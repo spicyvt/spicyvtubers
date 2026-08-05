@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/51855dd8-0246-4251-9e4a-00a3ba2482d6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b7b2a61-ddf3-489f-befc-3da741f5c38c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "286105604097843200",
+        "username": "YukimeVT",
+        "displayName": "⁺‧₊ 𝖸𝗎𝗄𝗂 ₊‧⁺",
+        "version": 11,
+        "followCount": 6371,
+        "statusId": 1,
+        "accountMediaLikes": 6704,
+        "postLikes": 5486,
+        "about": "Hello!! \nWelcome to my profile!\n\n⭑ . ݁₊ ⊹ . ݁˖ . ݁🕸️ ⊹ ࣪ ˖ .ᐟ ₊ ⊹\n\n About my Fansly \n\n🕸️ What You’ll Get 🕸️\n\n- Some nudes on the feed\n- Cosplay content\n- GxG\n- Monthly sets\n- Vtuber content\n- Upcoming ASMR content\n\n⭑ . ݁₊ ⊹ . ݁˖ . ݁🕸️ ⊹ ࣪ ˖ .ᐟ ₊ ⊹\n\nImportant Notes:\n⚠️ If I’m unresponsive or slow to send purchased content, I may be dealing with a migraine.\n⭑ . ݁₊ ⊹ . ݁˖ . ݁🕸️ ⊹ ࣪ ˖ .ᐟ ₊ ⊹",
+        "location": "Your bed",
+        "streaming": {
+            "accountId": "286105604097843200",
+            "channel": {
+                "id": "504661226945523712",
+                "accountId": "286105604097843200",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HU3TrVpqPZtA.m3u8",
+                "chatRoomId": "504661514825768960",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1681814972000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "504661226945523713",
+                    "historyId": null,
+                    "channelId": "504661226945523712",
+                    "accountId": "286105604097843200",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1681814973000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "504661602415423488",
+                                "streamId": "504661226945523713",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

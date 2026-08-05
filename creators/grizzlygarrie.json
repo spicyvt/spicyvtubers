@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9e0258f-1ab3-4b4f-a909-378e026e518d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1b938a4-6148-4c4c-9475-cf2d069e399b-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "571971752540778496",
+        "username": "GrizzlyGarrie",
+        "displayName": "GrizzlyGarrie",
+        "version": 5,
+        "followCount": 135,
+        "statusId": 3,
+        "accountMediaLikes": 15,
+        "postLikes": 70,
+        "about": "Just a lewd demon bear hear to make you horny ",
+        "location": "",
+        "streaming": {
+            "accountId": "571971752540778496",
+            "channel": {
+                "id": "732399238943617024",
+                "accountId": "571971752540778496",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4QsfAnB1vWC0.m3u8",
+                "chatRoomId": "738973571220512768",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1736111945000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "732399238943617025",
+                    "historyId": "888693181716119556",
+                    "channelId": "732399238943617024",
+                    "accountId": "571971752540778496",
+                    "title": "Gooning and gaming",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 3532,
+                    "createdAt": 1736111946000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1773378950000,
+                    "startedAt": 1773375325000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "732399388420222976",
+                                "streamId": "732399238943617025",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

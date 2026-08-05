@@ -23,5 +23,76 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8aef28d-ca29-4567-9a25-498afa5c5b74-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb5ad117-aee7-4def-ad9a-ed47d4fb54de-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "450013220023840768",
+        "username": "Vixxann",
+        "displayName": "VixxannVT",
+        "version": 21,
+        "followCount": 465,
+        "statusId": 1,
+        "accountMediaLikes": 1095,
+        "postLikes": 396,
+        "about": "♥♥ ♥♥ Hi there, I’m Vixxann! A thicc, sussy, party-going Kitsune! I stream a variety of games, sing karaoke, and just all around have a fun time with my community! Stick around for some spicy art, photos and voice work! ♥♥\n\nTwitch: https://www.twitch.tv/vixxannvt\nThrone: throne.me/u/vixxann",
+        "location": "",
+        "streaming": {
+            "accountId": "450013220023840768",
+            "channel": {
+                "id": "450381863953903616",
+                "accountId": "450013220023840768",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.A3tqF03vAJL1.m3u8",
+                "chatRoomId": "450382121500942336",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1668873764000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "450381863953903617",
+                    "historyId": "867278698200449024",
+                    "channelId": "450381863953903616",
+                    "accountId": "450013220023840768",
+                    "title": "First Stream of the Year!!",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 803,
+                    "createdAt": 1668873764000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1768283499000,
+                    "startedAt": 1768269714000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "455230242663964673",
+                                "streamId": "450381863953903617",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "455230242663964674",
+                                "streamId": "450381863953903617",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            },
+                            {
+                                "id": "455230242663964675",
+                                "streamId": "450381863953903617",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:53Z"
     }
 }

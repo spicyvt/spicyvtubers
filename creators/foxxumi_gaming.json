@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/755f19b4-eeef-4797-8d59-bedfe18ff2af-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4faec011-abb8-4b8b-908c-d58a4b141a38-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "780912187525836800",
+        "username": "Foxxumi",
+        "displayName": null,
+        "version": 4,
+        "followCount": 1709,
+        "statusId": 1,
+        "accountMediaLikes": 3443,
+        "postLikes": 1179,
+        "about": "🦊Bipolar fox gamer girl at your service!\ni have a spoil kink, my wishlist https://www.lovense.com/wish-list/zvn2xe0\nI'm a new cute streamer / vtuber, and I'm excited to start my journey here on Fansly! 💞SI might be a bit shy at first, but let me know you better, and you'll be suprised! ✨\n🦊Sort of shapeshifter lol. I also have a futa form and I can change my body parts so they can be bigger os smaller!\nI stream almost daily (gaming & lewd streams), come play and chat! \nI do customs, ratings and private sessions 💖 DM for request! \n\nAll content published on this page, is created by me. Please do not repost, copy or leak it, it's mean and appropriate action will be taken, thank you for understanding.\n",
+        "location": "Digital World",
+        "streaming": {
+            "accountId": "780912187525836800",
+            "channel": {
+                "id": "784639495411609600",
+                "accountId": "780912187525836800",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vgscdW05WTEw.m3u8",
+                "chatRoomId": "784642999228313600",
+                "status": 2,
+                "version": 78,
+                "createdAt": 1748566993000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "784639495411609601",
+                    "historyId": "940430460922646528",
+                    "channelId": "784639495411609600",
+                    "accountId": "780912187525836800",
+                    "title": "Gaming w/Lush In🔥FAV PATTERNS $11 $21 $33 $22 $13🔥!!menu !toys !patterns",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 1577,
+                    "createdAt": 1748566993000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785716514000,
+                    "startedAt": 1785710454000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

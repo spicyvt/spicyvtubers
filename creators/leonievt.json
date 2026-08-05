@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c9cd41f-4477-4e4d-a716-4013b94b98a5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e25c5a2-d20a-4152-bb76-599869224484-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "461673289379491840",
+        "username": "Leonie",
+        "displayName": "Leonie",
+        "version": 6,
+        "followCount": 19826,
+        "statusId": 1,
+        "accountMediaLikes": 38577,
+        "postLikes": 22179,
+        "about": "𖹭🍓Bratty Bimbo Redhead Catgirl🍓𖹭\n\n𖹭🍓| Fat Ass 🍑 | Bratty Sub 🌶️ | Redhead❤️‍🔥| Vtuber | 🍓𖹭\n \n𖹭🍓Free To Watch Streams Wednesday🍓𖹭\n\n𖹭🍓VODS Videos and Photos🍓𖹭\n\n𖹭🍓I only respond to DM's here!🍓𖹭\n\n𖹭🍓Spoil me: https://throne.com/itsleonie🍓𖹭\n\n𖹭 All content posted is for my Fansly profile & is copyrighted and owned by me 𖹭\n\n𖹭 https://linktr.ee/itsleonievr 𖹭",
+        "location": "",
+        "streaming": {
+            "accountId": "461673289379491840",
+            "channel": {
+                "id": "497266850476863488",
+                "accountId": "461673289379491840",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ttZHnYlP2DDJ.m3u8",
+                "chatRoomId": "497267056178110464",
+                "status": 2,
+                "version": 54,
+                "createdAt": 1680052015000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "497266850476863489",
+                    "historyId": "938966073435234304",
+                    "channelId": "497266850476863488",
+                    "accountId": "461673289379491840",
+                    "title": "❤️Distract me from my games~❤️",
+                    "status": 1,
+                    "viewerCount": 63,
+                    "version": 5485,
+                    "createdAt": 1680052016000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785373466000,
+                    "startedAt": 1785361317000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "918625820329652224",
+                                "streamId": "497266850476863489",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

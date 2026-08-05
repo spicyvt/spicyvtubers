@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9727dc33-0559-42ce-9396-a7d76888b712-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/68c6edab-733a-47ec-8e60-a31938f9b7ec-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "358832351737819136",
+        "username": "1R15",
+        "displayName": "Iris",
+        "version": 10,
+        "followCount": 4452,
+        "statusId": 3,
+        "accountMediaLikes": 4339,
+        "postLikes": 3298,
+        "about": "Hi my name is Iris!💙 Im a switch milf and a elf vtuber. \n💙Devotee: Lewds, maybe some videos but‼️ NO NUDE‼️\n💙Worshipper: Nude videos, pictures \n🩷Mommys Bitch: My wallet :3\n💙Dm for rating info",
+        "location": "https://irisvt.carrd.co/",
+        "streaming": {
+            "accountId": "358832351737819136",
+            "channel": {
+                "id": "416310373826699264",
+                "accountId": "358832351737819136",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.r2ewx7VqBd3r.m3u8",
+                "chatRoomId": "416310506358321152",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1660750487000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "416310373826699265",
+                    "historyId": "530907452309250049",
+                    "channelId": "416310373826699264",
+                    "accountId": "358832351737819136",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 460,
+                    "createdAt": 1660750488000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1688072581000,
+                    "startedAt": 1688072560000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "511730931715813377",
+                                "streamId": "416310373826699265",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:21:23Z"
     }
 }

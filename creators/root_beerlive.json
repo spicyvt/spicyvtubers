@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2169cdd-5d03-461e-890d-62be4d177442-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/feda47d5-f343-47a3-b12b-dbbc2347cfb4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "357069396855762944",
+        "username": "therootbeer",
+        "displayName": "ROOTYY",
+        "version": 9,
+        "followCount": 4720,
+        "statusId": 1,
+        "accountMediaLikes": 11618,
+        "postLikes": 8961,
+        "about": "just the root of the beer, part time lewd eheh. I think I am an online femboy :)\n\nhttps://allmylinks.com/therootbeer\nor\nhttps://rootyy.link",
+        "location": "",
+        "streaming": {
+            "accountId": "357069396855762944",
+            "channel": {
+                "id": "668363260071784450",
+                "accountId": "357069396855762944",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xpanGCfUEs70.m3u8",
+                "chatRoomId": "668363337259556864",
+                "status": 2,
+                "version": 27,
+                "createdAt": 1720844578000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "668363260071784451",
+                    "historyId": "939423150146351104",
+                    "channelId": "668363260071784450",
+                    "accountId": "357069396855762944",
+                    "title": "Lewd behavior only | !tipmenu !Links !sr",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 6961,
+                    "createdAt": 1720844579000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785473380000,
+                    "startedAt": 1785470292000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/380f10f0-529f-4c94-9ed6-1b74777694b4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c9bace5-8bd5-488a-b653-65f490ed89d3-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "629594389634621440",
+        "username": "YunoRein",
+        "displayName": "Yuno Rein",
+        "version": 9,
+        "followCount": 5561,
+        "statusId": 2,
+        "accountMediaLikes": 1759,
+        "postLikes": 2071,
+        "about": "🧋Haiho my dear wanderer, welcome in!\n💖 Call me your darling & princess, I prefer pet-names!\n✦•······················•✦•······················•✦\n🌙 Bi-weekly lewd ASMR streams\n🌙 VRChat spicy content\n🌙 Vtuber giving you luv luv eyes~\n",
+        "location": "Your head",
+        "streaming": {
+            "accountId": "629594389634621440",
+            "channel": {
+                "id": "714657607385624578",
+                "accountId": "629594389634621440",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.UP1LfFFLNBKZ.m3u8",
+                "chatRoomId": "714657649928450051",
+                "status": 2,
+                "version": 15,
+                "createdAt": 1731882011000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "714657607385624579",
+                    "historyId": "927347050398359553",
+                    "channelId": "714657607385624578",
+                    "accountId": "629594389634621440",
+                    "title": "It's a vibe, is it vibing?",
+                    "status": 1,
+                    "viewerCount": 23,
+                    "version": 6079,
+                    "createdAt": 1731882011000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782596784000,
+                    "startedAt": 1782591126000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "927341180461543424",
+                                "streamId": "714657607385624579",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

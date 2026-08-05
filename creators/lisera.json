@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad782120-612a-4e47-a368-66b53ec2ec64-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cffccce6-2178-4b58-8093-3b8e257125e5-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "431310372406833152",
+        "username": "LiseraVT",
+        "displayName": "Lisera",
+        "version": 10,
+        "followCount": 45769,
+        "statusId": 3,
+        "accountMediaLikes": 44009,
+        "postLikes": 37622,
+        "about": "💕🐾Bratty monster girl craving your attention & cum 🐾💕\n\n୨୧Switch୨୧\n୨୧Needy Playtoy୨୧\n୨୧Masochist୨୧\n\n𖹭.ᐟExclusive NSFW Audios: https://www.patreon.com/lisera\n𖹭.ᐟ ASMRtist & VA𖹭.ᐟ\n𖹭.ᐟStreams every Saturday at 9pm EST!𖹭.ᐟ\n\n\nWhat you'll find here:\n⤷||♡ Live Streams/VODs/Clips\n  ⤷||♡ Roleplay Audios & Ramblefaps\n     ⤷||♡ ASMR\n\nCheck out my socials!\n||♡ Twitter: https://twitter.com/LiseraVT\n||♡ Youtube: https://www.youtube.com/@liseravt\n||♡ Twitch: https://www.twitch.tv/lisera\n||♡ Throne Wishlist: https://throne.com/lisera\n||♡ All: https://lisera.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "431310372406833152",
+            "channel": {
+                "id": "506462698930708480",
+                "accountId": "431310372406833152",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.6v8yvmDPLRW3.m3u8",
+                "chatRoomId": "506463869011501056",
+                "status": 2,
+                "version": 124,
+                "createdAt": 1682244477000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "506462698930708481",
+                    "historyId": "940155989062070272",
+                    "channelId": "506462698930708480",
+                    "accountId": "431310372406833152",
+                    "title": "♥️Slutty Kitty Maid Cafe ASMR♥️|| !tip",
+                    "status": 1,
+                    "viewerCount": 17,
+                    "version": 3312,
+                    "createdAt": 1682244477000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785654935000,
+                    "startedAt": 1785645015000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940155970581979136",
+                                "streamId": "506462698930708481",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "940155970581979137",
+                                "streamId": "506462698930708481",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:51Z"
     }
 }

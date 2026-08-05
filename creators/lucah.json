@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c1918a8-804b-4d18-8853-e2b9f60721b4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b9bd9b7-f8cd-49fe-804e-d4abedece38b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "907496006877200384",
+        "username": "MotherMare",
+        "displayName": null,
+        "version": 5,
+        "followCount": 2285,
+        "statusId": 1,
+        "accountMediaLikes": 2369,
+        "postLikes": 4340,
+        "about": "Hey Sweetie hearts! \n\nThis is the silly, chill, laid back adult domain of your doting Horse Mother! Here you'll find NSFW Audios/ASMR, lewd fanart, occasional custom audios, and silly streams of adult chat/porn games!\n\nNo IRL or RP, but sometimes I can surprise you! 💋",
+        "location": "Church of Horse",
+        "streaming": {
+            "accountId": "907496006877200384",
+            "channel": {
+                "id": "912092032674045952",
+                "accountId": "907496006877200384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Lp1jvXWgIfDM.m3u8",
+                "chatRoomId": "912092213729587201",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1778954046000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "912092032674045953",
+                    "historyId": "934292725543477248",
+                    "channelId": "912092032674045952",
+                    "accountId": "907496006877200384",
+                    "title": "Mother Mare is here to make you feel better xo",
+                    "status": 1,
+                    "viewerCount": 136,
+                    "version": 2,
+                    "createdAt": 1778954046000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784255172000,
+                    "startedAt": 1784247104000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

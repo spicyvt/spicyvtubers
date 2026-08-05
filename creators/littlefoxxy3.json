@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a3ae563-2ade-484c-ae01-6ba3fbf0a49d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d69100c-b81a-48b2-a8fb-b50f9438eea4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "447596593206538240",
+        "username": "LittleFoxxy3",
+        "displayName": null,
+        "version": 3,
+        "followCount": 12546,
+        "statusId": 1,
+        "accountMediaLikes": 4065,
+        "postLikes": 2891,
+        "about": "Cum to me while i play games, have lovense toys in and even have fuck machine sometimes! \n28 year old Vtuber who mostly does lewd content! \nHave lots of tiers of content you can also be apart of! \n\nStreams are free to be in and wild things happen there so be ready! \n\nhttps://littlefoxxy.carrd.co/\nI am taking private picture requests for the right price, if your interested Dm me \n\n\n2D Full Body Model used in streams is made and rigged by @ YiotaArt_\n2D Body only Models by @ AYmumuu\n2D Half Body Model @ Uame088\n",
+        "location": "IN YA PANTIES WHERE THE PASSION FRUIT IS SWEET",
+        "streaming": {
+            "accountId": "447596593206538240",
+            "channel": {
+                "id": "713673316337983489",
+                "accountId": "447596593206538240",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vf8seewlat8Z.m3u8",
+                "chatRoomId": "713674594782814214",
+                "status": 2,
+                "version": 144,
+                "createdAt": 1731647338000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "713673316337983490",
+                    "historyId": "941409844848521216",
+                    "channelId": "713673316337983489",
+                    "accountId": "447596593206538240",
+                    "title": "Toys in and ready to game!! (Testing new model)",
+                    "status": 2,
+                    "viewerCount": 11,
+                    "version": 6112,
+                    "createdAt": 1731647338000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785946489000,
+                    "startedAt": 1785943957000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "713673771013120000",
+                                "streamId": "713673316337983490",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:06Z"
     }
 }

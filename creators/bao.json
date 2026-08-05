@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c310b9e-58db-49bb-9227-a703d8001c33-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7865d56f-8c88-44cb-a44b-0bd8e8f7359f-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "665110462043533312",
+        "username": "hoejousama",
+        "displayName": null,
+        "version": 5,
+        "followCount": 74194,
+        "statusId": 1,
+        "accountMediaLikes": 91933,
+        "postLikes": 124905,
+        "about": "💙 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑯𝒐𝒖𝒋𝒐𝒖𝒔𝒂𝒎𝒂'𝒔 𝑴𝒊𝒏𝒅 𝑷𝒂𝒍𝒂𝒄𝒆 💙\nOhoho~! I'm your Houjousama, the pillow princess of your dreams! I am 120 lbs, 5'0\", and a 24/7 free-use puppy girl waiting to be put in my place 🐶🎀\n--------------------------------------------------------------------\n☁️ 𝗡𝗘𝗪 𝗦𝗙𝗪 𝗔𝗨𝗗𝗜𝗢 𝗘𝗔𝗖𝗛 𝗠𝗢𝗡𝗧𝗛 ☁️\n☁️ 𝗡𝗘𝗪 𝗡𝗦𝗙𝗪 𝗔𝗨𝗗𝗜𝗢 𝗘𝗔𝗖𝗛 𝗠𝗢𝗡𝗧𝗛 ☁️\n☁️ 𝗡𝗘𝗪 𝗙𝗔𝗡𝗦𝗟𝗬 𝗩𝗢𝗗 𝗪𝗘𝗘𝗞𝗟𝗬 ☁️\n☁️ 𝗡𝗦𝗙𝗪 𝗔𝗥𝗧 & 𝗔𝗡𝗜𝗠𝗔𝗧𝗜𝗢𝗡 ☁️\n☁️ 𝗩𝗧𝗨𝗕𝗘𝗥 𝗙𝗢𝗖𝗨𝗦𝗘𝗗 𝗖𝗢𝗡𝗧𝗘𝗡𝗧 ☁️\n☁️ 𝗙𝗘𝗧𝗜𝗦𝗛 𝗙𝗥𝗜𝗘𝗡𝗗𝗟𝗬 ☁️\n☁️ 𝗘𝗫𝗖𝗟𝗨𝗦𝗜𝗩𝗘 𝗕𝗘𝗛𝗜𝗡𝗗 𝗧𝗛𝗘 𝗦𝗖𝗘𝗡𝗘𝗦 𝗣𝗜𝗖𝗦 ;) ☁️",
+        "location": "",
+        "streaming": {
+            "accountId": "665110462043533312",
+            "channel": {
+                "id": "714880508516904962",
+                "accountId": "665110462043533312",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2PKCqf2l2IDc.m3u8",
+                "chatRoomId": "716878449729347584",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1731935155000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "714880508516904963",
+                    "historyId": "882139046002843648",
+                    "channelId": "714880508516904962",
+                    "accountId": "665110462043533312",
+                    "title": "Hoejousama Official Live2D NSFW Nurse Model Debut!!!",
+                    "status": 1,
+                    "viewerCount": 1392,
+                    "version": 1806,
+                    "createdAt": 1731935155000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1771826265000,
+                    "startedAt": 1771812697000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "836463749337468928",
+                                "streamId": "714880508516904963",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

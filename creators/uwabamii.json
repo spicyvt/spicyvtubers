@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dce2843f-d3e5-448e-a1c3-365f67d5b0a0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/edc931c5-268b-4e88-b63a-af5d7795effe-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "460403076604370944",
+        "username": "Uwabamii",
+        "displayName": "Uwabamii",
+        "version": 12,
+        "followCount": 584,
+        "statusId": 1,
+        "accountMediaLikes": 390,
+        "postLikes": 405,
+        "about": "Why hello there sexy~ I'm your bratty lamia Vtuber! 🐍\n\nIRL lewds and nude monthly posts ❤️\n\n💚 Want to spoil me: https://throne.com/uwabamii\n💚 All my links: https://linktr.ee/uwabamii",
+        "location": "Behind You",
+        "streaming": {
+            "accountId": "460403076604370944",
+            "channel": {
+                "id": "645770631647862797",
+                "accountId": "460403076604370944",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.tGDgQg711OgH.m3u8",
+                "chatRoomId": "645772319163162624",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1715458076000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "645770631647862798",
+                    "historyId": null,
+                    "channelId": "645770631647862797",
+                    "accountId": "460403076604370944",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1715458077000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

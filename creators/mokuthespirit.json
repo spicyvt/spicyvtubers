@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f53b2d4-a749-4dd8-9bd3-fae07ce29b95-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26cfc03d-71ae-4d89-8c75-cddb41cc3abe-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "439691672905850880",
+        "username": "MokuzaitheFemboy",
+        "displayName": "Mokuzai",
+        "version": 8,
+        "followCount": 399,
+        "statusId": 1,
+        "accountMediaLikes": 44,
+        "postLikes": 40,
+        "about": "✧🍃 Here to haunt ya~ 👻✧ | ˖꒰. Bratty Femboy Spirit ꒱‧₊ \n𖹭Ghost slut𖹭 | ❤︎Brat❤︎ | 𖹭Vtuber/IRL𖹭\n \nI respond to all DMs (please be patient, tips get priority)\n♡ custom requests ❔\n♡ spicy messaging 💦\n♡ dick ratings 🍆\n♡ lewd audios 👂\n\nFree To Watch Streams, NSFW VR Content, and more~\n Next Stream: TBA\n\n𖹭VOD's For Gooner Spirit Tier Up!𖹭",
+        "location": "your dad's house~",
+        "streaming": {
+            "accountId": "439691672905850880",
+            "channel": {
+                "id": "804825656448794624",
+                "accountId": "439691672905850880",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yzyQrSrPLzf5.m3u8",
+                "chatRoomId": "804826594978848768",
+                "status": 2,
+                "version": 14,
+                "createdAt": 1753379749000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "804825656448794625",
+                    "historyId": "927461708589457408",
+                    "channelId": "804825656448794624",
+                    "accountId": "439691672905850880",
+                    "title": "I'm so fricking horny and i NEED to goon, come help me won't you?~",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 12,
+                    "createdAt": 1753379749000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782618508000,
+                    "startedAt": 1782618462000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "891529029969006592",
+                                "streamId": "804825656448794625",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

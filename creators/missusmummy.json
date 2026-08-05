@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd387aaa-c1ee-4884-aaa7-1a5de4fac61b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8e79b78-2d3c-43c5-be61-cd8c8fab59e6-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "446723351264632832",
+        "username": "missusmummy",
+        "displayName": "Missus Mummy",
+        "version": 5,
+        "followCount": 15427,
+        "statusId": 2,
+        "accountMediaLikes": 14202,
+        "postLikes": 30468,
+        "about": "Vtuber / Lewdtuber who is a rare breed of Bratty Dommy Mommy & Switch milf yandere. Biggest kinks are findom, cum, breeding, choking, cum denial & voyeurism / exhibitionism. I love watching jack off vods & hearing men moan / whimper for me ♥ I love being spoiled & taken care off. https://mummylewd.carrd.co || https://throne.com/missusmummy/wishlist",
+        "location": "https://mummylewd.carrd.co",
+        "streaming": {
+            "accountId": "446723351264632832",
+            "channel": {
+                "id": "515680515097899008",
+                "accountId": "446723351264632832",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JlTbgQVQ95Zg.m3u8",
+                "chatRoomId": "515680612091174912",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1684442175000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "515680515097899009",
+                    "historyId": "940082541086388224",
+                    "channelId": "515680515097899008",
+                    "accountId": "446723351264632832",
+                    "title": "JUST VIBING & CHILLING AND PLAYING GAMES",
+                    "status": 1,
+                    "viewerCount": 21,
+                    "version": 4305,
+                    "createdAt": 1684442176000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785645584000,
+                    "startedAt": 1785627503000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "887909579977936896",
+                                "streamId": "515680515097899009",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

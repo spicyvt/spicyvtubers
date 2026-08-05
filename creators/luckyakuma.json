@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2796f87-2b8e-4bcf-bd8d-848326446070-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d2870ad-69b3-4476-a3fe-153332bb5126-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "702448462582525952",
+        "username": "luckyakuma",
+        "displayName": "lucky akuma 🖤",
+        "version": 4,
+        "followCount": 1242,
+        "statusId": 1,
+        "accountMediaLikes": 724,
+        "postLikes": 949,
+        "about": "🔞 | devil bear vtuber | bratty switch waiting to be tamed ♥ | IRL and vtuber content | join discord for stream pings!\n\n💌 buy hentai games: https://shadycorner.com/?wpam_id=50\n💦 buy toys to use for my streams here: https://www.lovense.com/r/8rfxq1\n🖤 buy me gifts: https://throne.com/luckyakuma\n🎀 twitch for w(holes)ome content: https://twitch.tv/luckyakuma\n🍑 join discord for updates: https://www.discord.gg/luckyakuma\n",
+        "location": "",
+        "streaming": {
+            "accountId": "702448462582525952",
+            "channel": {
+                "id": "766165163136004097",
+                "accountId": "702448462582525952",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ujFWTQQmusuC.m3u8",
+                "chatRoomId": "766165217963941888",
+                "status": 2,
+                "version": 19,
+                "createdAt": 1744162369000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "766165163136004098",
+                    "historyId": "890511724476645376",
+                    "channelId": "766165163136004097",
+                    "accountId": "702448462582525952",
+                    "title": "TRY TO MAKE A GINGER SLUT CUM 💗 !TIPMENU !SHADY !LOVENSE !WISHLIST 💦",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 3682,
+                    "createdAt": 1744162369000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1773810838000,
+                    "startedAt": 1773808900000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "890511662396743680",
+                                "streamId": "766165163136004098",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

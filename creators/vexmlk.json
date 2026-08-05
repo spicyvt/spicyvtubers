@@ -23,5 +23,76 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed161af8-4d19-4059-bb00-f38a29bc6d56-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e33f8131-a7c3-4438-a82e-2e881ba1151d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "791777663017562112",
+        "username": "vexmlk",
+        "displayName": "VE(XXX)MLK",
+        "version": 5,
+        "followCount": 3614,
+        "statusId": 1,
+        "accountMediaLikes": 2785,
+        "postLikes": 5159,
+        "about": "A THICK EMO BITCH WITH TATTOOS & INSATIABLE HORNY !\n\nDMs FOR CUSTOM REQUESTS ONLY !\n\nTWITCH.TV/VEXMLK - SFW LIVE STREAMS & GAMING !",
+        "location": "USA",
+        "streaming": {
+            "accountId": "791777663017562112",
+            "channel": {
+                "id": "819479071841853440",
+                "accountId": "791777663017562112",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.32pDrZAFIjOJ.m3u8",
+                "chatRoomId": "819480273975537664",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1756873395000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "819479071841853441",
+                    "historyId": "822244180913831936",
+                    "channelId": "819479071841853440",
+                    "accountId": "791777663017562112",
+                    "title": "MY FIRST BLUE SITE STREAM ! ;3",
+                    "status": 1,
+                    "viewerCount": 17,
+                    "version": 2,
+                    "createdAt": 1756873396000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1757536383000,
+                    "startedAt": 1757532649000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "819479972270862337",
+                                "streamId": "819479071841853441",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":7000}\"}"
+                            },
+                            {
+                                "id": "819479972270862338",
+                                "streamId": "819479071841853441",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"792208181085347840\\\"}\"}"
+                            },
+                            {
+                                "id": "819479972270862339",
+                                "streamId": "819479071841853441",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"792431471129276416\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:28Z"
     }
 }

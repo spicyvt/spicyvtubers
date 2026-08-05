@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3695fd4-13f6-4343-b916-f2a540c4603b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8b056d7-fce6-494e-a4ec-be2a866cd368-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "304571266696753152",
+        "username": "berryguild",
+        "displayName": "berry🍓",
+        "version": 11,
+        "followCount": 1523,
+        "statusId": 1,
+        "accountMediaLikes": 1494,
+        "postLikes": 1755,
+        "about": "Fruity alt fem furry with a sexy panda (and elf) sona~ We both have equally fat asses~ I produce animations, audio projects, and much more!💖\n\nwhat do you get by subbing/following?\n\n🍓 updates on all projects I’m working on before anyone else \n🍓 nude/saucy pics and videos\n🍓 the ability to DM me and use your OCs in projects \n🍓 make special requests for content \n\nThanks for checking out my page! Hope you enjoy what I put out!😘",
+        "location": "All over your keyboard!",
+        "streaming": {
+            "accountId": "304571266696753152",
+            "channel": {
+                "id": "789400537643622402",
+                "accountId": "304571266696753152",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.KHVltG1ppVKH.m3u8",
+                "chatRoomId": "789400624109199361",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1749702114000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "789400537643622403",
+                    "historyId": null,
+                    "channelId": "789400537643622402",
+                    "accountId": "304571266696753152",
+                    "title": "HOT ELF GOONERS IN YOUR AREA‼️💞🧝🏾‍♀️",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1749702114000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:53Z"
     }
 }

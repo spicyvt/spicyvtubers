@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52ece4e1-18dd-4240-b5fc-1c6e5d257835-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e37b9f34-c6f9-43c2-96eb-784716d4def1-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "322870196521938944",
+        "username": "ItzJessieeeee",
+        "displayName": null,
+        "version": 4,
+        "followCount": 580,
+        "statusId": 1,
+        "accountMediaLikes": 206,
+        "postLikes": 96,
+        "about": "Hi all, I’m Jessie! I'm your lewd nerdy succubus waifu~\nI'll be using this page to give you all kinds of fun content ranging from posts to the occasional stream! I hope you'll support me~❤️",
+        "location": "",
+        "streaming": {
+            "accountId": "322870196521938944",
+            "channel": {
+                "id": "905264216376627201",
+                "accountId": "322870196521938944",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.m0yNv19TI7mR.m3u8",
+                "chatRoomId": "905264557558087680",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1777326168000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "905264216376627202",
+                    "historyId": "905267847855370241",
+                    "channelId": "905264216376627201",
+                    "accountId": "322870196521938944",
+                    "title": "TEST STREAM: IGNORE",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2,
+                    "createdAt": 1777326168000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1777327057000,
+                    "startedAt": 1777327034000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "905265833456988161",
+                                "streamId": "905264216376627202",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"905265820089720832\\\",\\\"label\\\":\\\"TEST\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

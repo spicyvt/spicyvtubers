@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/da3fa2ad-ea52-4426-a349-0fd236c9f00b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79cc67f-ad0b-4faa-ae3d-1977bc086d4c-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "749930220760346624",
+        "username": "MakoMommy",
+        "displayName": "Demonia",
+        "version": 27,
+        "followCount": 1544,
+        "statusId": 2,
+        "accountMediaLikes": 1605,
+        "postLikes": 2724,
+        "about": "The hottest devil in all of Hell~",
+        "location": "",
+        "streaming": {
+            "accountId": "749930220760346624",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

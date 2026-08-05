@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c691676-8797-4031-a2cd-ae0b039af9e4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3305080d-5523-4b87-8614-a19d786d48d6-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "497276488828067840",
+        "username": "LineChu",
+        "displayName": null,
+        "version": 5,
+        "followCount": 11286,
+        "statusId": 1,
+        "accountMediaLikes": 7160,
+        "postLikes": 7542,
+        "about": "That one blue femboy ♂️\n\nNext stream: TBA\n\n-Dm's open 🔓\n-Custom requests 👉👈\n-Ratings 🍆\n-Videos 🎥\n-RP 😳\n-And much much more so, don't be shy to ask :3",
+        "location": "Norway",
+        "streaming": {
+            "accountId": "497276488828067840",
+            "channel": {
+                "id": "868137895645421568",
+                "accountId": "497276488828067840",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.fR6z6trq1tM0.m3u8",
+                "chatRoomId": "868137927635390464",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1768474563000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "868137895645421569",
+                    "historyId": "928124903066972160",
+                    "channelId": "868137895645421568",
+                    "accountId": "497276488828067840",
+                    "title": "Last stream for a while 😳 Make the catboy feel good :3",
+                    "status": 1,
+                    "viewerCount": 215,
+                    "version": 74,
+                    "createdAt": 1768474564000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782784639000,
+                    "startedAt": 1782776580000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "891235800954449920",
+                                "streamId": "868137895645421569",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

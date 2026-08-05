@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/049b9516-0a85-4f28-b71c-c4f7cac12b83-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/669da790-6ec9-4f03-92af-347a7ed22a75-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "728640696948367360",
+        "username": "Minnetta",
+        "displayName": "Minnetta",
+        "version": 4,
+        "followCount": 4161,
+        "statusId": 3,
+        "accountMediaLikes": 3827,
+        "postLikes": 1552,
+        "about": "Hi honey ❤️\nI don't really know how to do this but for you I would like to try 😊\nI'm very shy but when I get lost into my headspace I would do anything for you 🥺\nI'll be your baby girl 🤭\n\n\n💦 Picture Content\n\n💦 VR Videos, NSFW Audios and more...\n\n💦 Solo/BG/GG/Futa/Orgy\n\n💦 Free Livesteams\n\n💦 Commissions and Services\n\n\nhttps://minnetta.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "728640696948367360",
+            "channel": {
+                "id": "735822609169522688",
+                "accountId": "728640696948367360",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.00abBdOBYUnf.m3u8",
+                "chatRoomId": "735831417786736641",
+                "status": 2,
+                "version": 161,
+                "createdAt": 1736928140000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "735822609169522689",
+                    "historyId": "940151775694970880",
+                    "channelId": "735822609169522688",
+                    "accountId": "728640696948367360",
+                    "title": "💦Take 2💦!menu💦!services💦",
+                    "status": 1,
+                    "viewerCount": 23,
+                    "version": 2336,
+                    "createdAt": 1736928141000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785651479000,
+                    "startedAt": 1785644010000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "735831457775235072",
+                                "streamId": "735822609169522689",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:19Z"
     }
 }

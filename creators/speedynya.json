@@ -23,5 +23,84 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/439ac868-2452-413d-adab-9e8c58c6c53f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/244d5c9b-fd7a-44e9-8c5e-68cd663012c5-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "356434932664381440",
+        "username": "speedynya",
+        "displayName": "Speedy",
+        "version": 11,
+        "followCount": 4974,
+        "statusId": 1,
+        "accountMediaLikes": 3167,
+        "postLikes": 2376,
+        "about": "Your Local Goth girl~\n\nCheck out my other stuff~\nhttps://linktr.ee/speedynya",
+        "location": "",
+        "streaming": {
+            "accountId": "356434932664381440",
+            "channel": {
+                "id": "723873583541006336",
+                "accountId": "356434932664381440",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.aVEXfZUBPFC1.m3u8",
+                "chatRoomId": "723873801783222272",
+                "status": 2,
+                "version": 55,
+                "createdAt": 1734079271000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "723873583541006337",
+                    "historyId": "939753267359932417",
+                    "channelId": "723873583541006336",
+                    "accountId": "356434932664381440",
+                    "title": "Fweaky Friday",
+                    "status": 1,
+                    "viewerCount": 50,
+                    "version": 9307,
+                    "createdAt": 1734079271000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785556984000,
+                    "startedAt": 1785548998000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "723875050909868032",
+                                "streamId": "723873583541006337",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "723875050909868033",
+                                "streamId": "723873583541006337",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"678507429662564352\\\"}\"}"
+                            },
+                            {
+                                "id": "723875050909868034",
+                                "streamId": "723873583541006337",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"678815490331648001\\\"}\"}"
+                            },
+                            {
+                                "id": "723875050909868035",
+                                "streamId": "723873583541006337",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"678815994130477056\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

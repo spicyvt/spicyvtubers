@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b77c29c2-a27a-4052-a0c1-1b06f335f4ff-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf1d0a16-2f64-4ac3-a662-866291389626-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "326400566097883136",
+        "username": "Ashunera",
+        "displayName": null,
+        "version": 4,
+        "followCount": 19010,
+        "statusId": 3,
+        "accountMediaLikes": 22143,
+        "postLikes": 28935,
+        "about": "I like cock.",
+        "location": "Virtual Reality",
+        "streaming": {
+            "accountId": "326400566097883136",
+            "channel": {
+                "id": "646867007483944962",
+                "accountId": "326400566097883136",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.41Sf6fegfLSv.m3u8",
+                "chatRoomId": "646867163436560384",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1715719472000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "646867007483944963",
+                    "historyId": "738964782362664960",
+                    "channelId": "646867007483944962",
+                    "accountId": "326400566097883136",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 77,
+                    "version": 2176,
+                    "createdAt": 1715719473000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1737686008000,
+                    "startedAt": 1737677293000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "646867050890797056",
+                                "streamId": "646867007483944963",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50252b3e-cb54-4357-8f73-f7fae82b4746-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/14847c00-538c-4071-9267-eca4bc96370c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "938994986253299712",
+        "username": "MelodiaMews",
+        "displayName": "MelodiaMews",
+        "version": 5,
+        "followCount": 679,
+        "statusId": 1,
+        "accountMediaLikes": 67,
+        "postLikes": 210,
+        "about": "𑣲⋆Brat - Bimbo - Busty 𑣲⋆₍^. .^₎⟆ 💛\n\nSwitch / H cups / 4'11 (SHORT)\n\n--------------------------------------------------\n\n👑Throne : https://throne.com/melodiamews\n📱Socials: melodiamews.carrd.co\n\n----------------------------\nDms for custom content ",
+        "location": "",
+        "streaming": {
+            "accountId": "938994986253299712",
+            "channel": {
+                "id": "940816140035174400",
+                "accountId": "938994986253299712",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.bx9eKVDLyFPJ.m3u8",
+                "chatRoomId": "940821477937135616",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1785802407000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "940816140035174401",
+                    "historyId": "940854946650144768",
+                    "channelId": "940816140035174400",
+                    "accountId": "938994986253299712",
+                    "title": "First Fansly Stream - PREPARE FOR SCUFF",
+                    "status": 1,
+                    "viewerCount": 20,
+                    "version": 2,
+                    "createdAt": 1785802407000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785818307000,
+                    "startedAt": 1785811659000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940819070876397568",
+                                "streamId": "940816140035174401",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:12Z"
     }
 }

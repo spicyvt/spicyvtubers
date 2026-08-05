@@ -23,5 +23,92 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95102b3d-4c13-4ba1-bde7-0b42f903e191-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7010e0a4-7f0b-4c4c-9e87-75cbd00d15d4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "586261573492809728",
+        "username": "BrandiBlitz",
+        "displayName": "Brandi Blitz",
+        "version": 5,
+        "followCount": 29,
+        "statusId": 3,
+        "accountMediaLikes": 2,
+        "postLikes": 8,
+        "about": "Human-vocaloid hybrid here.\n\nSometimes post here.",
+        "location": "Your walls",
+        "streaming": {
+            "accountId": "586261573492809728",
+            "channel": {
+                "id": "824178805705822208",
+                "accountId": "586261573492809728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.FXDftOaPa3H7.m3u8",
+                "chatRoomId": "824179416849465344",
+                "status": 2,
+                "version": 141,
+                "createdAt": 1757993899000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "824178805705822209",
+                    "historyId": "912173842615513088",
+                    "channelId": "824178805705822208",
+                    "accountId": "586261573492809728",
+                    "title": "Art Practice #2 Part 6🖌️ | Art Stream!🎨",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 274,
+                    "createdAt": 1757993900000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778976537000,
+                    "startedAt": 1778973551000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "828102992824643584",
+                                "streamId": "824178805705822209",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "828102992824643585",
+                                "streamId": "824178805705822209",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":500}\"}"
+                            },
+                            {
+                                "id": "828102992824643586",
+                                "streamId": "824178805705822209",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "828102992824643587",
+                                "streamId": "824178805705822209",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"828097222544486400\\\",\\\"label\\\":\\\"Safe List\\\"}\"}"
+                            },
+                            {
+                                "id": "828102992824643588",
+                                "streamId": "824178805705822209",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

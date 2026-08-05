@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc466447-5c5f-4fb0-b4eb-06435876ccbb-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92dae5ed-d8fe-441e-8d49-bb30d6e607e2-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "709578282420416512",
+        "username": "ZurieKyun",
+        "displayName": null,
+        "version": 3,
+        "followCount": 1713,
+        "statusId": 1,
+        "accountMediaLikes": 2073,
+        "postLikes": 1786,
+        "about": "Tu súcubo lasciva favorita~ 🔞 Hentai ASMR Princess y Vtuber ♥\nhttps://zuriekyun.carrd.co\n\n🩸 JOI and RP\n🩸 IRL Cosplay\n🩸 Contenido NSFW\n🩸 Sumisa por dinero\n🩸 Kinkfriendly\n",
+        "location": "En tus fantasías más lascivas~ ",
+        "streaming": {
+            "accountId": "709578282420416512",
+            "channel": {
+                "id": "759599143520837632",
+                "accountId": "709578282420416512",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Dxe3iNjipoCc.m3u8",
+                "chatRoomId": "759645702509830145",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1742596908000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "759599143520837633",
+                    "historyId": "930017919172112384",
+                    "channelId": "759599143520837632",
+                    "accountId": "709578282420416512",
+                    "title": "Pruebo mi juguetito en VRChat por primera vez~💕",
+                    "status": 1,
+                    "viewerCount": 44,
+                    "version": 4732,
+                    "createdAt": 1742596908000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783236473000,
+                    "startedAt": 1783227910000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:19Z"
     }
 }

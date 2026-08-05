@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6092d1c-5f9c-4f69-83c1-ae112f56ae99-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3c6ebbd-b5c5-41fc-b31f-64b974106224-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "285283154590183424",
+        "username": "luckycatkira",
+        "displayName": null,
+        "version": 4,
+        "followCount": 44208,
+        "statusId": 1,
+        "accountMediaLikes": 102811,
+        "postLikes": 62805,
+        "about": "🤍Your IRL and vtuber waifu who loves to cum and be spoiled 🤍\n\nI can be subby, mommy, or bratty. I love cumming on my hitachi and letting me coomers overstim me until I'm a drooling cum brained mess. Share me with all your homies nya (at the same time please 🙏) \nTry to be patient with me since it's just me but I do my best to answer all dms nya.\n\nI do:\n💟IRL and VR uncensored nudes, videos, and cooms\n💟extra irl dms for big kitty subs and lewd dms for all subs\n💟cosplay, toys, and gremoleen degeneracy >:3\n💟 lewd streams and collabs\n💟 I make content with all genders 🏳‍🌈\n💟guaranteed to give you a silly boner\n\nCome be horny with me nyaa ☆⌒(*＾-゜)v\n\nMake sure to follow me *everywhere*\n\ndiscord: https://discord.gg/Sg25qngJqC\nwish list: https://throne.com/luckycatkira/wishlist\n\nAll links can be found on my carrd: https://luckycatkira.carrd.co\n",
+        "location": "rapidly approaching",
+        "streaming": {
+            "accountId": "285283154590183424",
+            "channel": {
+                "id": "357033910833520640",
+                "accountId": "285283154590183424",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.mKAlgvVT0qF8.m3u8",
+                "chatRoomId": "357034789414383616",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1646617877000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "357033910833520641",
+                    "historyId": "940872576555569153",
+                    "channelId": "357033910833520640",
+                    "accountId": "285283154590183424",
+                    "title": "I promise not to cum too loudly in your ears okay?",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 4758,
+                    "createdAt": 1646617877000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785817149000,
+                    "startedAt": 1785815862000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940872518040838144",
+                                "streamId": "357033910833520641",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

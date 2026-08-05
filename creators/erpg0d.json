@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/89cafa5b-03ad-4478-80a3-4691d20c3fec-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fc81b1f-5c7f-4e6e-92ca-4bd323f13a6d-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "284868138724503552",
+        "username": "ERPGod",
+        "displayName": null,
+        "version": 6,
+        "followCount": 34133,
+        "statusId": 3,
+        "accountMediaLikes": 111767,
+        "postLikes": 103511,
+        "about": "Hi there, I'm Edith! 🍎✨\n\nI'm a virtual nympho creating sensual, immersive experiences through audio, VR, 3D, and IRL content. Every subscription unlocks exclusive content based on your tier, with higher tiers including everything below them!\n\n✨ What you'll find here:\n• Audio, VR, 3D, and IRL content!\n• Face reveals for subscribers!\n• Interactive live streams where you influence what happens!\n• Sexting, roleplay, and a personalized GFE experiences!\n• Tasks, ratings, calls, and virtual dates!\n• Lovense-compatible interactive content!\n\nI'm a switch, love building genuine connections, and I'm always creating something new for my subscribers. 💜\n\n🔗 Fansly: https://fansly.com/ERPGod\n🔗 Discord: https://discord.gg/WETnJbQBTa\n\n✦📚🍎✨📚✧\n\nLooking to become a Fansly creator yourself?\nJoin me, on my favorite platform!\nhttps://fansly.com/application/form?r=ERPGod",
+        "location": "erpgod.com",
+        "streaming": {
+            "accountId": "284868138724503552",
+            "channel": {
+                "id": "353806575472746496",
+                "accountId": "284868138724503552",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.lsdIYRrSJWRh.m3u8",
+                "chatRoomId": "391838883546931200",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1645848421000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "353806575472746497",
+                    "historyId": "936109048858693632",
+                    "channelId": "353806575472746496",
+                    "accountId": "284868138724503552",
+                    "title": "Third time streaming in a while! Glad to be back!",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 4247,
+                    "createdAt": 1645848421000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784684528000,
+                    "startedAt": 1784680149000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "888274256545202176",
+                                "streamId": "353806575472746497",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

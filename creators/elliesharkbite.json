@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa2a78da-77d6-46e8-92b6-8a199cf5fe56-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c5b7ae8-e101-4e6c-ac80-cd68122ca8d1-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "363888077921329152",
+        "username": "gothgfeliza",
+        "displayName": "Eliza",
+        "version": 10,
+        "followCount": 1777,
+        "statusId": 1,
+        "accountMediaLikes": 991,
+        "postLikes": 768,
+        "about": "🦈 Your favorite chaotic shark VTuber 🦈\n\nBratty, switchy, and a little too confident for my own good\nI don’t pick a role — I change it when I feel like it >:3\n\nI do:\n💟 VRChat content, VTuber streams, and digital chaos\n💟 spicy/suggestive supporter content (don’t get shy now)\n💟 flirty DMs for subs who can handle me\n💟 collabs, streams, and unhinged shark behavior\n💟 content with all genders 🏳️‍🌈\n💟 guaranteed to test your patience in the cutest way possible\n\nI bite, I tease, and I don’t behave unless I’m made to 😌🦈\n\nCome swim in my little digital ocean… if you can keep up\n\n\n\n\n\n\n\n\n\nDisclaimer ⚠️\nThe copyright of the material contained on my Fansly page (Including All Images & Video material) is owned by me You do not have permission to Use, Copy, Reproduce, Print or Play any of my material outside of My Fansly page. Failure to comply with this will result in Legal action taken against the person whos information you used to sign up with IE Your/Their Bank Details. All rights reserved.\n",
+        "location": "",
+        "streaming": {
+            "accountId": "363888077921329152",
+            "channel": {
+                "id": "482720092740661248",
+                "accountId": "363888077921329152",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AOUnOowVZPRN.m3u8",
+                "chatRoomId": "482720174936436736",
+                "status": 2,
+                "version": 12,
+                "createdAt": 1676583798000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "482720092740661249",
+                    "historyId": "940493314988191745",
+                    "channelId": "482720092740661248",
+                    "accountId": "363888077921329152",
+                    "title": "🦈🖤 What kind of shark is this? 🖤🦈",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 9819,
+                    "createdAt": 1676583799000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785727915000,
+                    "startedAt": 1785725439000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

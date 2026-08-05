@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e965ede-d194-4d30-a81b-183754772d62-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2246bfb5-6abd-46f5-9679-61883c25cdaa-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "707330232377417728",
+        "username": "Minari_Vee",
+        "displayName": null,
+        "version": 7,
+        "followCount": 4681,
+        "statusId": 3,
+        "accountMediaLikes": 5028,
+        "postLikes": 2086,
+        "about": "5ft (152.4cm) breedable size queen, ASMRtist, obliviously asexual, exploring and learning with scuff along the way~\n\nStreams: Mon, Wed, Fri*, Sat ~19:30MDT\n(Friday's depend on if kiddos are staying the night)\n\nGifts: https://throne.com/minari_vee",
+        "location": "@Minari_Vee on Twitch!",
+        "streaming": {
+            "accountId": "707330232377417728",
+            "channel": {
+                "id": "848092111503892480",
+                "accountId": "707330232377417728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jU7YOBxGPJlh.m3u8",
+                "chatRoomId": "848110690370600960",
+                "status": 2,
+                "version": 84,
+                "createdAt": 1763695276000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "848092111503892481",
+                    "historyId": "940110260352348160",
+                    "channelId": "848092111503892480",
+                    "accountId": "707330232377417728",
+                    "title": "Missed you something awful~ (Lovense: Hush 2)",
+                    "status": 1,
+                    "viewerCount": 26,
+                    "version": 234,
+                    "createdAt": 1763695276000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785640462000,
+                    "startedAt": 1785634112000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

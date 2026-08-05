@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/443533d3-4c8c-4458-8f4b-38ea2d599c4f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc24af2-4749-4eb6-822e-d9334c07dd96-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "321714885119451136",
+        "username": "TheSirenVT_",
+        "displayName": "Siren",
+        "version": 21,
+        "followCount": 6215,
+        "statusId": 1,
+        "accountMediaLikes": 12024,
+        "postLikes": 9488,
+        "about": "Whalecum to my Fansly Page! What will you find here? IRL, 2D, Audio, Lewd & Nude streams and content, I read and reply to all messages, Tips get priority \n🔞 Age: 30 {Birthday: Oct. 9th}\n🦈 5'1'' {155cm} ~ 170lbs {77kg} ~ C Cup ~ Brunette ~ Tattooed ~ Glasses\n🩵 Occupation: Full-Time Content Creator\n💍 Relationship Status: Married {Monogamous}\n💞 Bisexual\n🐋 Location: USA ~ EST\n🎮 Games: NTE (Neverness to Everness), Subnautica 2, Schedule 1, Cozy Games, Any games w/ friends!\n🌊 Fun facts about me: I love whales, sharks and anglerfish ~ fav drink: diet pepsi and dirty sodas ~ fav food: sushi + steak\n\nFrequently asked Q & A:\n- Whats the things on your stomach: I'm a Type 1 Diabetic, that's my insulin pump (Omnipod5) and CGM (DexcomG6)\n- Can I get free stuff? No\n- How long have you been streaming? April 2021\n- When do you stream? S,Tu, W on Twitch: 5pmEST ~ Th, F, Sa on Fansly: 5/6pmEST\n- Can we collab? Please contact my manager FaytStarrunner via here, in streams, or in the discord to talk to him\n- How many tattoos do you have? 9 and want more!\n\nCustoms: Accepting Request\n\nDo not DM me outside of Joystick or Fansly. If you need something, please DM here, Joystick, or in my Discord server. Do not add me on Discord. My Discord DMs are ONLY OPEN to other Verified Streamers on Joystick and Fansly. Even with that said, if it is in regards to collabs or better ways to improve my content, please message/email my Manager Fayt.\n\nAll of my content is copyrighted content that I own. NO REFUNDS. \nhttps://sirenvt.carrd.co/",
+        "location": "Bottom of the Abyss",
+        "streaming": {
+            "accountId": "321714885119451136",
+            "channel": {
+                "id": "489696489476464640",
+                "accountId": "321714885119451136",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TaiJAYjAE3Y7.m3u8",
+                "chatRoomId": "490789522150268932",
+                "status": 2,
+                "version": 104,
+                "createdAt": 1678247101000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "489696489476464641",
+                    "historyId": "939690552188743680",
+                    "channelId": "489696489476464640",
+                    "accountId": "321714885119451136",
+                    "title": "{Vtuber} Horny Fish in your Area ~ Dono to 2.0 Vtuber on Throne for control links!",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 5053,
+                    "createdAt": 1678247101000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785551535000,
+                    "startedAt": 1785534046000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937509355052347393",
+                                "streamId": "489696489476464641",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ac777ea-7913-480f-9c31-3c1bdad022b3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b06a15-c491-4296-b947-2ac4e51b4275-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "715797674242093056",
+        "username": "Smallfloofie",
+        "displayName": "Renna",
+        "version": 16,
+        "followCount": 549,
+        "statusId": 1,
+        "accountMediaLikes": 905,
+        "postLikes": 1594,
+        "about": "  /)/)\n( . .)\n( づ♡ Big nipple bratty girl~ im a bottom! \n\n♡ DADDY’S GET TO SEE MY FACE\n♡ NUDE PICTURES & VIDEOS\n♡ Check out my vtuber account: Usagikira\n\n♡ ∩_∩ \n  („• ֊ •„)♡\n|￣U U￣￣￣￣￣￣￣￣￣|\n|           SPOIL ME                  |   \nwant to buy me outfits & toys? \nhttps://throne.com/smallfloofie",
+        "location": "Canada",
+        "streaming": {
+            "accountId": "715797674242093056",
+            "channel": {
+                "id": "892920614568865792",
+                "accountId": "715797674242093056",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.J6DSlOEYGEM9.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 2,
+                "createdAt": 1774383224000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "892920614568865793",
+                    "historyId": null,
+                    "channelId": "892920614568865792",
+                    "accountId": "715797674242093056",
+                    "title": "first stream~ quick one!",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1774383224000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "892920732722417664",
+                                "streamId": "892920614568865793",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:51Z"
     }
 }

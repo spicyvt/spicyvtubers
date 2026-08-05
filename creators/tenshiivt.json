@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9eb813ef-f123-45be-8041-11d8a5f61209-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2bccda3-1e66-431c-8d19-617deaa1ac6b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "507795879785148447",
+        "username": "TenshiVT",
+        "displayName": null,
+        "version": 7,
+        "followCount": 111,
+        "statusId": 1,
+        "accountMediaLikes": 33,
+        "postLikes": 55,
+        "about": "Bara Bunny's blue app account",
+        "location": "",
+        "streaming": {
+            "accountId": "507795879785148447",
+            "channel": {
+                "id": "817281893513838592",
+                "accountId": "507795879785148447",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.3qyS1sB5DzDg.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1756349547000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "817281893513838593",
+                    "historyId": null,
+                    "channelId": "817281893513838592",
+                    "accountId": "507795879785148447",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1756349548000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

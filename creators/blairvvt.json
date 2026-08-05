@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/911f2877-1f4d-4226-903f-69cc14a56302-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1210ff1d-3e57-42af-9bbd-263693af4e9e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "731461025206902784",
+        "username": "Blairvvt",
+        "displayName": "Blairvvt",
+        "version": 3,
+        "followCount": 2576,
+        "statusId": 3,
+        "accountMediaLikes": 641,
+        "postLikes": 191,
+        "about": "                                                                                  ~ Hi there ~ \nMy name is Blair Valentine and I'm a sleepy succubus!\n\nI'll be playing NSFW games (WITH NO TOYS) , vrchat pics and feet pics!\n\nJoin a stream and say hi!!\n\n\nCOPYRIGHT BELONGS TO ME!!! 💜 ",
+        "location": "",
+        "streaming": {
+            "accountId": "731461025206902784",
+            "channel": {
+                "id": "746623865307803648",
+                "accountId": "731461025206902784",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.B5J0LbGAZhwf.m3u8",
+                "chatRoomId": "746625526919081984",
+                "status": 2,
+                "version": 15,
+                "createdAt": 1739503361000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "746623865307803649",
+                    "historyId": "914791258197602304",
+                    "channelId": "746623865307803648",
+                    "accountId": "731461025206902784",
+                    "title": "HIHIi ITS VR TIME",
+                    "status": 1,
+                    "viewerCount": 18,
+                    "version": 8047,
+                    "createdAt": 1739503361000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1779607969000,
+                    "startedAt": 1779597591000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "747035189988827136",
+                                "streamId": "746623865307803649",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

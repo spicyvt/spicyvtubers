@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bcbb596-08b8-4640-84c9-15b75d398a12-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/442a2467-7475-4ff8-aaf1-f8acc7da661f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "415935172341411840",
+        "username": "LolaShow",
+        "displayName": "LulaVyr",
+        "version": 5,
+        "followCount": 12721,
+        "statusId": 1,
+        "accountMediaLikes": 14045,
+        "postLikes": 20462,
+        "about": "\n💜Welcome to my lewd world! 💜\nI am Lula, a naughty VTUBER/IRL bae💜\n You will find here spicy content with IRL / VTUBER !💜\n\nALL Links: https://lulavyr.carrd.co\nMy discord link: https://discord.gg/lulavyr\nPersonality: wholesome, loving, naughty, lewd\n\nThrone: https://throne.com/lulavyr\n\n\n>What you will find here<\nI post almost daily\nStreams coming SOON\n\nU can DM me if you are subscriber\nKinky Pictures and videos with Lula IRL and Vtuber MODEL\nSometimes Hentai with Lula💜\nMore Streams soon💜\nDM for custom💜 (CHECK PROFILE FOR THE CUSTOM LIST)\n\nMAKE SURE YOU FOLLOW ME AND IF YOU LIKE THE CONTENT SUBSCRIBE. THANK YOU MWAHH💜💜🔥🔥\n\n❗️Reminder: All content on this page (photos, videos, messages) is owned by me and protected by copyright law.\nReposting, sharing, saving, or distributing any of my content without my permission — including to other sites, chats, or forums — is a violation and will result in bans, DMCA takedowns, and possible legal action.\n\nBe respectful. Support, don’t steal. 💜\n\n #vtuber  #lewdtuber #hentai #sexy #sex #anime #waifu #fyp",
+        "location": "Your Bed",
+        "streaming": {
+            "accountId": "415935172341411840",
+            "channel": {
+                "id": "673789124628459521",
+                "accountId": "415935172341411840",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.reOhBpFKU4fv.m3u8",
+                "chatRoomId": "673790264472514560",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1722138205000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "673789124628459522",
+                    "historyId": "831793123779690496",
+                    "channelId": "673789124628459521",
+                    "accountId": "415935172341411840",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 2044,
+                    "createdAt": 1722138206000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1759809324000,
+                    "startedAt": 1759809294000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "681410411559399425",
+                                "streamId": "673789124628459522",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

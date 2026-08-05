@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31ff4bcd-e647-4f9c-a226-951d278b1267-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/081bec20-03da-45b3-9f37-be32ba3e5fbd-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "374807180739620864",
+        "username": "AmyDoggyVR",
+        "displayName": "AmyDoggy",
+        "version": 10,
+        "followCount": 7801,
+        "statusId": 1,
+        "accountMediaLikes": 14458,
+        "postLikes": 10322,
+        "about": "🎀My name is Amy, I'm a transgender girl, vtuber who creates lewd VRporn content within virtual spaces!\n\n🎀 Socials: https://linktr.ee/Amydoggy\n\n🎀I do weekly Live Streams every week including one on Tuesday that turns into an Orgy\n\n🎀I have a subscription tier for one on one ERP sessions within VRC if you want to get to know me on an intimate level\n\n🎀I do post IRL content of myself weekly so if you are interested in seeing a cute dick girl spread herself for you then subscribe to the IRL tier\n\n",
+        "location": "North Carolina",
+        "streaming": {
+            "accountId": "374807180739620864",
+            "channel": {
+                "id": "376178071369162752",
+                "accountId": "374807180739620864",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zrNIjLgq0RrN.m3u8",
+                "chatRoomId": "376178755531452416",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1651182201000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "376178071369162753",
+                    "historyId": "903894623963856896",
+                    "channelId": "376178071369162752",
+                    "accountId": "374807180739620864",
+                    "title": "Back on Fansly! New Model ",
+                    "status": 1,
+                    "viewerCount": 26,
+                    "version": 2859,
+                    "createdAt": 1651182201000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1777008450000,
+                    "startedAt": 1776999631000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/377a046e-a88f-4e08-ba3e-59d2d4a710f9-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fe1a50e-b151-4aea-a00f-29bf4e0ff045-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "890197703173099521",
+        "username": "YuukiYomatsuki",
+        "displayName": "Yuuki",
+        "version": 5,
+        "followCount": 213,
+        "statusId": 1,
+        "accountMediaLikes": 1704,
+        "postLikes": 394,
+        "about": "Hi my name is Yuuki ✨\nCosplay/Erocosplay\nTurning 2D crushes into reality\nSoft looks, sharp edges & a lot of passion 🖤\nEnjoy the chaos.",
+        "location": "In your dream",
+        "streaming": {
+            "accountId": "890197703173099521",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:24Z"
     }
 }

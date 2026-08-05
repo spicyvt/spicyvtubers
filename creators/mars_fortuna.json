@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/42cf8d3f-0944-40e6-bc1b-786315cb89cf-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ccdb979-7955-48e8-b259-df9ca4fe8167-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "657415009202085889",
+        "username": "mars_fortuna",
+        "displayName": "Mars Fortuna",
+        "version": 3,
+        "followCount": 11933,
+        "statusId": 3,
+        "accountMediaLikes": 6408,
+        "postLikes": 15470,
+        "about": "Weirdo tomboy succubus with a tendency to sleep more than 14 hours a day. Also a goon addict.\n\n🩷 Streams Tuesdays/Thursdays 5PM PDT (Free viewing)\n🩷 Occasional lewd art and NSFW audios\n🩷 I do nudes now ✌️\n🩷 DM for customs\n🩷 SFW Customs: $15/min | NSFW Customs: $30/min \n🩷 Twitch: twitch.tv/mars_fortuna\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "657415009202085889",
+            "channel": {
+                "id": "756008693278973952",
+                "accountId": "657415009202085889",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.cPUEaQwylqA3.m3u8",
+                "chatRoomId": "756008805019430912",
+                "status": 2,
+                "version": 254,
+                "createdAt": 1741740878000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "756008693278973953",
+                    "historyId": "940787898150572032",
+                    "channelId": "756008693278973952",
+                    "accountId": "657415009202085889",
+                    "title": "shortcum 🩷💦 (!menu !rules)",
+                    "status": 1,
+                    "viewerCount": 162,
+                    "version": 8713,
+                    "createdAt": 1741740878000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785798401000,
+                    "startedAt": 1785795673000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

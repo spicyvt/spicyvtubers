@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2aa324a3-0b41-48d5-84b8-6ef854e76f3c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47be78b7-688e-4949-be90-ea3888c39771-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "731686094122266625",
+        "username": "MommyDawn",
+        "displayName": "Mommy Dawn",
+        "version": 5,
+        "followCount": 35539,
+        "statusId": 3,
+        "accountMediaLikes": 16575,
+        "postLikes": 39034,
+        "about": "Hehe~ hi~<33\nI get naughty here~\n♡ Streams every 14th at 8pm EST<33\n♡ Service top\n♡ Spicy Audio's\n♡ Lewd Vod Access\n♡ Some IRL lewd pics \n♡ T̶i̶p̶ ̶D̶M̶'̶s̶  ( DM's off for now ) \n\nMommy also has an ASMR channel <33 \nhttps://www.youtube.com/@MommyMega\n\nMommyDawn’s official Fansly account ",
+        "location": "",
+        "streaming": {
+            "accountId": "731686094122266625",
+            "channel": {
+                "id": "827788493152346112",
+                "accountId": "731686094122266625",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Y6h9uX3S3rWN.m3u8",
+                "chatRoomId": "830303016463654912",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1758854516000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "827788493152346113",
+                    "historyId": "933927467851194368",
+                    "channelId": "827788493152346112",
+                    "accountId": "731686094122266625",
+                    "title": "3D fun time~ ♡ Sex position to your list~",
+                    "status": 1,
+                    "viewerCount": 765,
+                    "version": 20,
+                    "createdAt": 1758854516000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784160053000,
+                    "startedAt": 1784160019000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "933565344876883968",
+                                "streamId": "827788493152346113",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

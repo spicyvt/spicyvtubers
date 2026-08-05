@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a059e49c-2d38-4802-b111-d16a4a89c86f-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47ae1771-5481-4b86-8f56-bf9a18b2dddb-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "495099305879678976",
+        "username": "PrincessDream",
+        "displayName": "RosieDreamVA",
+        "version": 7,
+        "followCount": 644,
+        "statusId": 1,
+        "accountMediaLikes": 315,
+        "postLikes": 236,
+        "about": "Howdy I'm Rosemari but you can call me Rosie\n\n27 | She/Her | Trans | Pansexual | I do Nsfw VA/IRL Content ♥",
+        "location": "",
+        "streaming": {
+            "accountId": "495099305879678976",
+            "channel": {
+                "id": "686804231797088256",
+                "accountId": "495099305879678976",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.N76TsIEGakwe.m3u8",
+                "chatRoomId": "695808879354720256",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1725241249000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "686804231797088257",
+                    "historyId": "703147100535271425",
+                    "channelId": "686804231797088256",
+                    "accountId": "495099305879678976",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 572,
+                    "createdAt": 1725241249000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1729142434000,
+                    "startedAt": 1729137692000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

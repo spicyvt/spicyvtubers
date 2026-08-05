@@ -23,5 +23,76 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ccf1c7-b287-4877-a233-13e9e5f0ff73-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c321e4a1-c37c-426d-ad32-d282c65a609d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "381572777368363008",
+        "username": "Nekoa_VT",
+        "displayName": "Nekoa_VT",
+        "version": 21,
+        "followCount": 35493,
+        "statusId": 1,
+        "accountMediaLikes": 70278,
+        "postLikes": 16389,
+        "about": "🩷 Daily Posts!! \n 💙 FANSLY: Occasionally Friday: 8PM EST\n💜 TWITCH: Fri., Sat., Sun. Mon.: 1 PM EST \nSwitchy Femboy Catgirl :3 \n- Sexting😳\n- NSFW Audio’s 🥵\n- Custom Fetish Content! =^-^=\n- Dick Ratings 🍆\n\nBuy me stuff here: https://throne.com/nekoa \nDiscord Server: discord.gg/nekoa",
+        "location": "The Moon",
+        "streaming": {
+            "accountId": "381572777368363008",
+            "channel": {
+                "id": "538218148667596801",
+                "accountId": "381572777368363008",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4xrF6yreRd1O.m3u8",
+                "chatRoomId": "538218204669943809",
+                "status": 2,
+                "version": 143,
+                "createdAt": 1689815566000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "538218148667596802",
+                    "historyId": "939733716832382976",
+                    "channelId": "538218148667596801",
+                    "accountId": "381572777368363008",
+                    "title": "FEMBOY FRIDAY THIGHCAM MAID OUTFIT - Hour-long stream 'cause I missed ya'll!! ",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 198,
+                    "createdAt": 1689815566000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785546159000,
+                    "startedAt": 1785544337000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "939733638159814656",
+                                "streamId": "538218148667596802",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":100000}\"}"
+                            },
+                            {
+                                "id": "939733638159814657",
+                                "streamId": "538218148667596802",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"801303212547125248\\\"}\"}"
+                            },
+                            {
+                                "id": "939733638159814658",
+                                "streamId": "538218148667596802",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":50000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

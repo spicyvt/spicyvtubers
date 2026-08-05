@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d1b8165-7557-46ba-ac58-3be138c7b1b8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb394e12-a802-4f65-8f84-e0e8e37706e3-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "578329854005489664",
+        "username": "HentaiBunny",
+        "displayName": "HentaiBunny",
+        "version": 7,
+        "followCount": 13126,
+        "statusId": 3,
+        "accountMediaLikes": 18013,
+        "postLikes": 9829,
+        "about": "Your Virtual Lewd Princess with a Wicked Oral Fixation 💖\n✨ NSFW 2D & 3D Content Creator/Streamer\n💌 Custom content for my fav gooners\n🎧 Girlfriend vibes, dirty talk, and pixel-perfect teasing\n🐾 Fansly exclusives for the real degenerates~\n💦 Weekly Live Streams \n\n📍 All links & naughtiness → linktr.ee/hentaibunnyx\n\nCome play with your favorite digital bunnygirl~ 💋\n\n💕 Want to support me some other way, take a look at my wishlist - https://throne.com/hentaibunny 💕\n\n\n\n",
+        "location": "in the garden ~",
+        "streaming": {
+            "accountId": "578329854005489664",
+            "channel": {
+                "id": "583178594440716288",
+                "accountId": "578329854005489664",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.nYPceltglDx3.m3u8",
+                "chatRoomId": "583179064051773440",
+                "status": 2,
+                "version": 74,
+                "createdAt": 1700534971000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "583178594440716289",
+                    "historyId": "939741198623461376",
+                    "channelId": "583178594440716288",
+                    "accountId": "578329854005489664",
+                    "title": "  ♡ ⭑ Shut this whore up. More tips = stuffing her pussy, ass and mouth ⭑ ♡",
+                    "status": 1,
+                    "viewerCount": 20,
+                    "version": 9895,
+                    "createdAt": 1700534972000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785556896000,
+                    "startedAt": 1785546121000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "790667446154440705",
+                                "streamId": "583178594440716289",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

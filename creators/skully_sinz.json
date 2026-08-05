@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b008b41-743b-46b5-8b80-e7a9a70f622c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/708cab53-8092-4900-9429-c043f0090057-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "516123894441058304",
+        "username": "SkullySinz",
+        "displayName": "SkullySinz",
+        "version": 4,
+        "followCount": 377,
+        "statusId": 3,
+        "accountMediaLikes": 902,
+        "postLikes": 919,
+        "about": "Your friendly Orcubus",
+        "location": "Swiggity Swooty I'm coming for that Booty",
+        "streaming": {
+            "accountId": "516123894441058304",
+            "channel": {
+                "id": "718157339164684288",
+                "accountId": "516123894441058304",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HdtcfUaQn61o.m3u8",
+                "chatRoomId": "718159993467056129",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1732716412000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "718157339164684289",
+                    "historyId": null,
+                    "channelId": "718157339164684288",
+                    "accountId": "516123894441058304",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1732716412000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "718159956389408768",
+                                "streamId": "718157339164684289",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

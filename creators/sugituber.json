@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/708e9584-dde2-4f94-971e-8f0706315fe2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4f5ba2a-6b85-4e45-bcca-6ccf9db5cedb-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "445430440833069056",
+        "username": "sugituber",
+        "displayName": "sugituber",
+        "version": 6,
+        "followCount": 68,
+        "statusId": 3,
+        "accountMediaLikes": 1,
+        "postLikes": 7,
+        "about": "fansly has made a huge mistake in verifying me!\nhere you will find full-length strip-teases and wank sessions! I also livestream ;>\nhttps://www.twitter.com/sugituber",
+        "location": "",
+        "streaming": {
+            "accountId": "445430440833069056",
+            "channel": {
+                "id": "577023917307207680",
+                "accountId": "445430440833069056",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.bETsVjpcgEOd.m3u8",
+                "chatRoomId": "648044954232299520",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1699067582000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "577023917307207681",
+                    "historyId": "724503813737684992",
+                    "channelId": "577023917307207680",
+                    "accountId": "445430440833069056",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 10,
+                    "createdAt": 1699067582000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1734229663000,
+                    "startedAt": 1734229529000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "724500640260169728",
+                                "streamId": "577023917307207681",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

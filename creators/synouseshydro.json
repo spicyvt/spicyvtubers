@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc30c7f2-92d0-4509-afb2-7c0429e04aa7-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1553dba8-3697-4e04-be9b-3a7c11014aa3-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "608477572296093696",
+        "username": "SynoXXX",
+        "displayName": "Syno",
+        "version": 7,
+        "followCount": 20265,
+        "statusId": 3,
+        "accountMediaLikes": 22948,
+        "postLikes": 27086,
+        "about": "Heya I'm Syno! I play video games and take VR photos. I'm also a lover of anime, cats, and dinosaur facts. If any of that interests you then I encourage you to stay a while. \n\n** I reserve the right to block or revoke links for people who abuse me in any form. I am not a plastic toy, I am a human being. Please act respectfully and lets treat each other with kindness! **\n\nAll my socials:\nhttps://synouseshydro.carrd.co/\n",
+        "location": "",
+        "streaming": {
+            "accountId": "608477572296093696",
+            "channel": {
+                "id": "609894966398820352",
+                "accountId": "608477572296093696",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.T1Acor0oVnpE.m3u8",
+                "chatRoomId": "610366405925150721",
+                "status": 2,
+                "version": 786,
+                "createdAt": 1706904651000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "609894966398820353",
+                    "historyId": "940496393779298304",
+                    "channelId": "609894966398820352",
+                    "accountId": "608477572296093696",
+                    "title": "Mommy is here! - Subs Sunday - !socials - !menu - $5 Wheel",
+                    "status": 1,
+                    "viewerCount": 42,
+                    "version": 3470,
+                    "createdAt": 1706904652000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785732826000,
+                    "startedAt": 1785726173000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937965709856628748",
+                                "streamId": "609894966398820353",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/32da4e0e-a814-48c0-9a90-5fe45a1d639d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8396c37-28c9-4f5b-b7c9-4990b9f11279-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "338485991247458305",
+        "username": "CluelessNix",
+        "displayName": null,
+        "version": 3,
+        "followCount": 3282,
+        "statusId": 1,
+        "accountMediaLikes": 1949,
+        "postLikes": 2027,
+        "about": "Just a horny Femboy that like that attention. 👀\nI stream on twitch and on here soon! Follow for free streams and teaser and pay for exclusive content and more! \n\nI’m still figuring this out tho. ",
+        "location": "",
+        "streaming": {
+            "accountId": "338485991247458305",
+            "channel": {
+                "id": "455112787580952576",
+                "accountId": "338485991247458305",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ccsWqVHif9AU.m3u8",
+                "chatRoomId": "455116655505190912",
+                "status": 2,
+                "version": 15,
+                "createdAt": 1670001704000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "455112787580952577",
+                    "historyId": "934515150700945408",
+                    "channelId": "455112787580952576",
+                    "accountId": "338485991247458305",
+                    "title": "Lets get naughty~",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 2727,
+                    "createdAt": 1670001704000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784306940000,
+                    "startedAt": 1784300134000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

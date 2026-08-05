@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/74c263f7-ca01-4bfd-8b92-14ff09b34e02-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de969f3-97e4-45ea-98ea-86a1f4f75916-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "538484413474811904",
+        "username": "David_Demantoid",
+        "displayName": "David_Demantoid",
+        "version": 6,
+        "followCount": 898,
+        "statusId": 1,
+        "accountMediaLikes": 274,
+        "postLikes": 401,
+        "about": "Deep Voiced Bisexual Gem Vtuber 💚💎 | Focusing on NSFW Audios and Spicy Streams for my lil gems to join in the fun!\n\nSTREAMS EVERY FRIDAY 9PM EST\n\nCustom VR Content open to purchase through Inquiry\n\nDISCLAIMER: All content is of ownership of David_Demantoid, all rights reserved. Redistribution and republishing any content will be met with appropriate legal action. \n\nAll parties in pictures, videos and streams are of legal age (18+) ",
+        "location": "",
+        "streaming": {
+            "accountId": "538484413474811904",
+            "channel": {
+                "id": "870532303690932224",
+                "accountId": "538484413474811904",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.FRqybzN5UOiv.m3u8",
+                "chatRoomId": "870532320040345601",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1769045434000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "870532303690932225",
+                    "historyId": "921984016658223104",
+                    "channelId": "870532303690932224",
+                    "accountId": "538484413474811904",
+                    "title": "Hookup Stories, VA and some Wickedwhims",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 22,
+                    "createdAt": 1769045435000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781317945000,
+                    "startedAt": 1781312479000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

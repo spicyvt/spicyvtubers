@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ddbd459-bcf1-4f80-98a0-7a330e9ac4c6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f1b7ad3-e4da-4328-b33b-f6ba5bf5d8be-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "286336211927179264",
+        "username": "monsterfncker",
+        "displayName": "🍂 TiTi 🍂",
+        "version": 7,
+        "followCount": 2247,
+        "statusId": 3,
+        "accountMediaLikes": 5970,
+        "postLikes": 10876,
+        "about": "🌲 Welcome to my neck of the woods 🌲\n♡ NSFW Vtuber & VA | LGBTQ+ & kink friendly space\n♡ Content consists of Art lewds, IRL pics & audios, toy reviews and more!\n✰Spoil Me: throne.com/cryptidcuddler_tv\n🔞✖️ᴅᴏ ɴᴏᴛ ᴍᴇɴᴛɪᴏɴ ꜰᴀɴꜱʟʏ ᴅᴜʀɪɴɢ ᴛᴡɪᴛᴄʜ ꜱᴛʀᴇᴀᴍꜱ✖️",
+        "location": "in the woods",
+        "streaming": {
+            "accountId": "286336211927179264",
+            "channel": {
+                "id": "740993775131701248",
+                "accountId": "286336211927179264",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4LlIgjFI6xPv.m3u8",
+                "chatRoomId": "740994098890022912",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1738161043000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "740993775131701249",
+                    "historyId": "899834417302757378",
+                    "channelId": "740993775131701248",
+                    "accountId": "286336211927179264",
+                    "title": "CAN I CLIMB OUT OF GOLD?!",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 4733,
+                    "createdAt": 1738161043000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776038683000,
+                    "startedAt": 1776031603000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "785328902082928640",
+                                "streamId": "740993775131701249",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "785328902082928641",
+                                "streamId": "740993775131701249",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":1000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:47Z"
     }
 }

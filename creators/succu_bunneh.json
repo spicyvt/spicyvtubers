@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2701803f-3784-423f-bd89-a7db2cf09f2c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/435abd60-9452-4a64-b62a-2196566bb343-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "420061641342726144",
+        "username": "SuccuBunneh",
+        "displayName": "SuccuBunneh",
+        "version": 7,
+        "followCount": 1600,
+        "statusId": 1,
+        "accountMediaLikes": 641,
+        "postLikes": 553,
+        "about": "Somedays I wanna play more than just games with you... You'll play with me right~!\n\nJust a vtuber being an absolute Degenerate for your enjoyment. 2d + real life lewds & nudes\n",
+        "location": "Tied up on your bed~",
+        "streaming": {
+            "accountId": "420061641342726144",
+            "channel": {
+                "id": "483871966118289408",
+                "accountId": "420061641342726144",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.XPKxk2amIQqI.m3u8",
+                "chatRoomId": "523738696160129026",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1676858426000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "483871966118289409",
+                    "historyId": "932315097156579328",
+                    "channelId": "483871966118289408",
+                    "accountId": "420061641342726144",
+                    "title": "Test Stream",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 1053,
+                    "createdAt": 1676858426000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783777404000,
+                    "startedAt": 1783775600000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "523735338590412801",
+                                "streamId": "483871966118289409",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:28Z"
     }
 }

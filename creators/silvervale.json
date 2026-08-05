@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6792e70b-e5a1-49aa-ad06-1d48a22323b3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de812c73-32b8-4c83-b54b-5480bfb56770-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "775182184314052608",
+        "username": "Silvervale",
+        "displayName": "Silvervale 🌸 ",
+        "version": 4,
+        "followCount": 56931,
+        "statusId": 3,
+        "accountMediaLikes": 209780,
+        "postLikes": 157208,
+        "about": "🌸 Your wholesome and lewd gamer wolfgirl 🌸 \n🔗 silvervale.carrd.co\n\n♡ 3D NSFW Photo Sets and Voiced Animations\n♡ Spicy Messaging 💦 and Girlfriend Experience (remember - it's a fantasy! I reply as quickly as I can, tips get priority!)  💕\n♡ NSFW Roleplay ASMR\n♡ Voiced Interactive Hentai\n♡ Lewd Gaming Streams?! (coming soon™)!\n\nI'm new to Fansly but hoping to have lots of fun and keep you company! 💕\n\nReposting my content is strictly prohibited and will result in legal action",
+        "location": "in your walls c:",
+        "streaming": {
+            "accountId": "775182184314052608",
+            "channel": {
+                "id": "891437915333222402",
+                "accountId": "775182184314052608",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Nya8VyAANHjP.m3u8",
+                "chatRoomId": "891440305620934656",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1774029721000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "891437915333222403",
+                    "historyId": null,
+                    "channelId": "891437915333222402",
+                    "accountId": "775182184314052608",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1774029721000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

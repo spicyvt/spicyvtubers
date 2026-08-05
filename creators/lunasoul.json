@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1778aed-5312-4cce-a552-f0618d8a6505-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8cc0d387-e872-4374-a61d-d3f6cdddb98c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "323493718004867072",
+        "username": "LunaSoul",
+        "displayName": null,
+        "version": 5,
+        "followCount": 2020,
+        "statusId": 1,
+        "accountMediaLikes": 1345,
+        "postLikes": 1380,
+        "about": "\nHai my names Soul and I'm a virtual goth anime girl! Watch anime with me? 🥺\nWishlist: \nhttps://www.throne.me/u/lunasoul\nhttps://www.throne.me/u/lunasoullewd\n\n🖤 NEW POSTS WEEKLY\n🖤 VR & IRL Content\n🖤 Replies to fans in DM's\n🖤 Very kink friendly\n🖤 Submissive & Breedable\n🖤 Horny wolf waifu\n🖤 Bisexual\n🖤 Gamer\n🖤 VR and IRL Nudes\n\nCatch me live on Twitch at https://www.twitch.tv/lunasoul to see me gaming and creating art. \n\n-Twitter: https://www.twitter.com/lunasoulttv\n-Lewd Twitter: https://www.twitter.com/lewdasoul\n-Discord: discord.io/wolfcoven\n\n\n",
+        "location": "On Your Cock",
+        "streaming": {
+            "accountId": "323493718004867072",
+            "channel": {
+                "id": "374339987346300928",
+                "accountId": "323493718004867072",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.VFvRakcLQ8L9.m3u8",
+                "chatRoomId": "374341031358902272",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1650743967000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "374339987346300929",
+                    "historyId": "439190358908215296",
+                    "channelId": "374339987346300928",
+                    "accountId": "323493718004867072",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 156,
+                    "createdAt": 1650743968000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1666222420000,
+                    "startedAt": 1666205501000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "441881548501819392",
+                                "streamId": "374339987346300929",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"341056879381716992\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cf0ca7e-e5ef-4253-8cd9-6e4c5857ec48-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/272965c5-6dff-42df-9484-078aeeac6a8f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "612192541210587136",
+        "username": "ToroYuma",
+        "displayName": "Yuma",
+        "version": 7,
+        "followCount": 1457,
+        "statusId": 1,
+        "accountMediaLikes": 435,
+        "postLikes": 571,
+        "about": "💢My name is Toro Yuma! You can call me Yuma.🐂\n\\\nI'm a gyaru-o femboy minotaur with MEGA brat vibes😈\n\\\nI'll be posting lewd art, audios and more!\n\\\nIf ya wanna get me a lil sumthin😘 https://throne.com/toroyuma",
+        "location": "On top of you~",
+        "streaming": {
+            "accountId": "612192541210587136",
+            "channel": {
+                "id": "640124724919152641",
+                "accountId": "612192541210587136",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.N6X5LSc3Vpna.m3u8",
+                "chatRoomId": "713887478515245056",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1714111987000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "640124724919152642",
+                    "historyId": "889435868702449665",
+                    "channelId": "640124724919152641",
+                    "accountId": "612192541210587136",
+                    "title": "Minotaur Plays Elf x Orc game! [Lewd Gaming ASMR]",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 697,
+                    "createdAt": 1714111988000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1773562716000,
+                    "startedAt": 1773552396000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "713885443891933184",
+                                "streamId": "640124724919152642",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

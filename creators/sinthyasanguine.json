@@ -11,5 +11,60 @@
         "bannerImageUrl": "https://yt3.googleusercontent.com/fULzcEGJxJvxspYupNdKmK0ylzkKENWHuk7_pk2ryJm-7qBh6lKHykdUW1j0-WjbIVYiNrSJOw=s480",
         "subscriberCountText": "52.3K subscribers",
         "videoCountText": "466 videos"
+    },
+    "fansly": {
+        "id": "746087339658326016",
+        "username": "SinthyaSanguine",
+        "displayName": "Sinthya Sanguine",
+        "version": 12,
+        "followCount": 23886,
+        "statusId": 1,
+        "accountMediaLikes": 55841,
+        "postLikes": 54444,
+        "about": "₊˚ ✧ 𝙂𝙊𝙏𝙃 𝙑𝘼𝙈𝙋𝙄𝙍𝙀 𝘽𝙍𝘼𝙏✧ ₊˚ | \n⌞Streams every Saturday at 12PM PST⌝\n\nᴅʀᴇꜱꜱ ᴍᴇ ᴜᴘ? ➡ https://throne.com/sinthyasanguine\n\nNSFW Voice Actor & VTuber \n154cm goth shortstack with a fat ass! lewd streams, exclusive audios, sexy lingerie pinups (no nude), and content i can't post anywhere else~ Free pic in dms when you follow ( ˘ ³˘)♥︎\n\n🦇Vtuber Model and IRL Livestreams, photos and videos\n\n🍷NSFW Roleplay Audios https://patreon.com/SinthyaSanguine\n\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "746087339658326016",
+            "channel": {
+                "id": "797716173289435137",
+                "accountId": "746087339658326016",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SxbM4qzsUueO.m3u8",
+                "chatRoomId": "797716483273662464",
+                "status": 2,
+                "version": 157,
+                "createdAt": 1751684716000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "797716173289435138",
+                    "historyId": "939997328746504193",
+                    "channelId": "797716173289435137",
+                    "accountId": "746087339658326016",
+                    "title": "𝘱𝘶𝘱𝘱𝘺 𝘮𝘪𝘴𝘴𝘦𝘥 𝘺𝘰𝘶~!! 𝘱𝘭𝘦𝘢𝘢𝘴𝘦 𝘮𝘢𝘬𝘦 𝘮𝘦 𝘤𝘶𝘮! >//<~! (𝘵𝘪𝘱 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘦 𝘴𝘲𝘶𝘪𝘳𝘮!) ♡ ",
+                    "status": 1,
+                    "viewerCount": 192,
+                    "version": 180,
+                    "createdAt": 1751684716000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785613318000,
+                    "startedAt": 1785607187000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "876574228546088960",
+                                "streamId": "797716173289435138",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

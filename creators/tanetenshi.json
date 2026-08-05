@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a89bc2e-e89d-4fa3-b032-62879a0f7d6e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a930f07e-ae5a-4508-84be-a59d1c7390dc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "372207090967519233",
+        "username": "TaneTenshi",
+        "displayName": "Miss Tane",
+        "version": 5,
+        "followCount": 12961,
+        "statusId": 3,
+        "accountMediaLikes": 8801,
+        "postLikes": 11003,
+        "about": "Deliciously Cruel Succubus Teacher VTuber\n♥ Findom ♥ Sensual Fetish Fantasy ♥ NSFW Audio + ASMR Roleplay ♥ NSFW Gaming Livestreams ♥\n🔴 LIVE Saturdays at 9PM EST\n\n📧 Business inquiries: tane@nyantastic.com\n\n❤️ All links. Tribute. Please Me. ❤️\nhttps://tanetenshi.carrd.co/\n\n💙 JAST - Use code TANETENSHI for 15% off Eroge and Visual Novels\n📦 J-LIST - https://a.jlist.com/moe.php?id=3135\n💓 LOVENSE - https://www.lovense.com/r/d1yue8",
+        "location": "Above you",
+        "streaming": {
+            "accountId": "372207090967519233",
+            "channel": {
+                "id": "457095487711879168",
+                "accountId": "372207090967519233",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2g0Qf1N9kcoz.m3u8",
+                "chatRoomId": "457095951660625920",
+                "status": 2,
+                "version": 21,
+                "createdAt": 1670474416000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "457095487711879169",
+                    "historyId": "940126787340353547",
+                    "channelId": "457095487711879168",
+                    "accountId": "372207090967519233",
+                    "title": "❤️SUCCUBUS VTUBER❤️FINDOM, FEMDOM, HENTAI GAMING❤️",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 2203,
+                    "createdAt": 1670474417000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785668056000,
+                    "startedAt": 1785638052000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "798058351941398528",
+                                "streamId": "457095487711879169",
+                                "type": 0,
+                                "flags": 3,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            },
+                            {
+                                "id": "798058351941398529",
+                                "streamId": "457095487711879169",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

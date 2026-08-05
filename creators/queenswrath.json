@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ec3b27a-9997-4c43-a76e-e1c3293688d6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2b878a0-4408-4acd-8a40-c51f8b0f1418-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "660276931047993344",
+        "username": "QueensWrath",
+        "displayName": "Queens",
+        "version": 11,
+        "followCount": 1178,
+        "statusId": 1,
+        "accountMediaLikes": 328,
+        "postLikes": 645,
+        "about": "💀 Cute Corpse Vtuber 💀 \n➡️ Links: https://linktr.ee/QueensWrath\n➡️ Throne: https://throne.com/queens",
+        "location": "Underworld",
+        "streaming": {
+            "accountId": "660276931047993344",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

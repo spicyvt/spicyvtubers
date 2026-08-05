@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/917a1a91-7b8f-413e-bcfd-cd28c66a922c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a3d690a-bf12-446d-a252-0bc95469494c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "458038803525804032",
+        "username": "minatiaXIV",
+        "displayName": "minatiaXIV",
+        "version": 9,
+        "followCount": 420,
+        "statusId": 3,
+        "accountMediaLikes": 78,
+        "postLikes": 212,
+        "about": "A bratty celestial vtuber who loves findom, breeding, cum, and choking. While it doesn't take much, get me flustered and I'll be your good obedient girl. I like offerings and being taken care of https://throne.com/minatiaxivlewds                                ",
+        "location": "",
+        "streaming": {
+            "accountId": "458038803525804032",
+            "channel": {
+                "id": "594739916299051008",
+                "accountId": "458038803525804032",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.O9cTkG2f5rYw.m3u8",
+                "chatRoomId": "594739954320420864",
+                "status": 2,
+                "version": 18,
+                "createdAt": 1703291405000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "594739916299051009",
+                    "historyId": "934682690840436736",
+                    "channelId": "594739916299051008",
+                    "accountId": "458038803525804032",
+                    "title": "Cum look at my new looks~",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 8288,
+                    "createdAt": 1703291406000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784349965000,
+                    "startedAt": 1784340079000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

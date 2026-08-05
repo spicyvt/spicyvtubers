@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/967af3ab-1911-471f-b518-0f357d59bdee-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96ecab01-0875-4d9f-addf-5e5d234e09c2-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "401277439000453120",
+        "username": "GoldenTatsu",
+        "displayName": "GoldenTatsu",
+        "version": 4,
+        "followCount": 7927,
+        "statusId": 1,
+        "accountMediaLikes": 9761,
+        "postLikes": 13427,
+        "about": "🐉💛FEMBOY DRAGON💛🐉\n\n🖤LATEX LOVER🖤\n❤️FUTA POSSIBLE❤️\n💚IRL PICS AND VIDEOS💚\n💛DOMINANT & SUBMISSIVE💛\n\nDM for Customs 💛",
+        "location": "",
+        "streaming": {
+            "accountId": "401277439000453120",
+            "channel": {
+                "id": "684912614593011712",
+                "accountId": "401277439000453120",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.1rXZnUOkwkbz.m3u8",
+                "chatRoomId": "698032361962483712",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1724790252000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "684912614593011713",
+                    "historyId": "907156241497731072",
+                    "channelId": "684912614593011712",
+                    "accountId": "401277439000453120",
+                    "title": "Sexy Dragon Gaming",
+                    "status": 1,
+                    "viewerCount": 36,
+                    "version": 3064,
+                    "createdAt": 1724790252000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1777785183000,
+                    "startedAt": 1777777262000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "801382282236534784",
+                                "streamId": "684912614593011713",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

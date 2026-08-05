@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dbb989f9-ef7b-4ad1-bc0b-58a5c29061d2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9d6acf6-e1fc-4d5b-9df4-9a043a757b39-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "347550937545449472",
+        "username": "NyankoTadako",
+        "displayName": "Tadako Nyanko",
+        "version": 9,
+        "followCount": 12620,
+        "statusId": 1,
+        "accountMediaLikes": 2024,
+        "postLikes": 3151,
+        "about": "Fansly Top 0.23% \nWill you be my Master?\n♡ Links | http://linktr.ee/TadakoNyanko\n♡ Wishlist | https://throne.com/tadakonyanko\n♡ Twitch | https://www.twitch.tv/tadakonyanko",
+        "location": "Japan",
+        "streaming": {
+            "accountId": "347550937545449472",
+            "channel": {
+                "id": "566907081077039104",
+                "accountId": "347550937545449472",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2u0eaGCnQQc2.m3u8",
+                "chatRoomId": "566907326599016448",
+                "status": 2,
+                "version": 32,
+                "createdAt": 1696655540000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "566907081077039105",
+                    "historyId": "941387956109717504",
+                    "channelId": "566907081077039104",
+                    "accountId": "347550937545449472",
+                    "title": "$16 ULTRA HIGH random time ~ best way to make me squirt tip $100",
+                    "status": 2,
+                    "viewerCount": 7,
+                    "version": 432,
+                    "createdAt": 1696655541000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785946444000,
+                    "startedAt": 1785938738000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "813644459282558976",
+                                "streamId": "566907081077039105",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

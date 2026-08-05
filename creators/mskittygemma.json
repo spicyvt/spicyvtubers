@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/782fcbcf-2032-4298-96b9-c08723d56814-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdb71ba8-0bd0-4c1a-95e0-536138180eef-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "623372091881693184",
+        "username": "KittyGemma",
+        "displayName": null,
+        "version": 8,
+        "followCount": 8246,
+        "statusId": 3,
+        "accountMediaLikes": 13172,
+        "postLikes": 12278,
+        "about": "Submissive, Ropebunny and inexperienced.\n5'3. 30 years old. Vtuber Content only!\nRaiju Arc (Thunder demon⁄beast）- May 2026-Present (2D coming in July)\nSin of Envy⁄ Demonic Bitch\n-Subscribers get extra benefits including access to content, toy controls and even lap dances!\n\nSocials: https://mskittygemma.carrd.co/\nMerch: https://ko-fi.com/s/a1f9a37124 (Low stock/No restocking after)\n\nStreams: (BST)\nMonday: 11AM-1:30PM\nWednesday: 5:30PM-8PM\nThursday: 11AM-1:30PM (Maybe/Bonus Stream)\nSaturday: 5:15PM-7:45PM \nSunday: 5:15PM-7:45PM \n\n-Collabs are Open (Verified Fansly Vtubers only and have at LEAST 2+ months worth of content)\n-Check pinned post for rules, information about my custom content orders and any giveaways.",
+        "location": "England",
+        "streaming": {
+            "accountId": "623372091881693184",
+            "channel": {
+                "id": "705171302897426432",
+                "accountId": "623372091881693184",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.1CevFyOcvoei.m3u8",
+                "chatRoomId": "705172129481498624",
+                "status": 2,
+                "version": 658,
+                "createdAt": 1729620300000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "705171302897426433",
+                    "historyId": "940602754164875264",
+                    "channelId": "705171302897426432",
+                    "accountId": "623372091881693184",
+                    "title": "Raiju Arc (2D) Come and meet the new me!",
+                    "status": 1,
+                    "viewerCount": 29,
+                    "version": 9301,
+                    "createdAt": 1729620300000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785943810000,
+                    "startedAt": 1785751532000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

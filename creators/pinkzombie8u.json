@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33f9b606-e524-4694-bc5d-9a04bf7ba153-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa677b8-e93b-44b7-98ca-f40fbfc80582-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "770404695473664007",
+        "username": "SpiccyPinkZombie8u",
+        "displayName": null,
+        "version": 7,
+        "followCount": 189,
+        "statusId": 3,
+        "accountMediaLikes": 177,
+        "postLikes": 382,
+        "about": "Hi guys, if you found this, congrats, I made it hard on purpose, just like you will become <3\n\nI like to mix comedy into my play, so I like to have conversations with my gooner people often <3\n\nnsfw throne:\nhttps://throne.com/nsfwpinkzombie",
+        "location": "",
+        "streaming": {
+            "accountId": "770404695473664007",
+            "channel": {
+                "id": "778869733540769792",
+                "accountId": "770404695473664007",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qFyzBf9Te5wB.m3u8",
+                "chatRoomId": "909583922776514560",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1747191375000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "778869733540769793",
+                    "historyId": "936495413211455488",
+                    "channelId": "778869733540769792",
+                    "accountId": "770404695473664007",
+                    "title": "wanna fuck me in different worlds!~",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 16,
+                    "createdAt": 1747191375000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784778597000,
+                    "startedAt": 1784772265000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

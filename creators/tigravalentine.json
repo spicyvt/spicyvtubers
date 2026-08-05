@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/706f56b5-292a-4f65-9edc-5703b9b45f4c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/68d6362f-5618-433d-a5be-6a48c019b5c8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "432850859341127681",
+        "username": "TigraValentine",
+        "displayName": "Tigra Valentine",
+        "version": 5,
+        "followCount": 1553,
+        "statusId": 3,
+        "accountMediaLikes": 422,
+        "postLikes": 648,
+        "about": "Vampire Goddess Vtuber | Gothic Dommy Mommy | She/Her | Variety Streamer | Lewdsome | Professional Tease | Twitch Affiliate\n\nFollow me on all my socials to keep up with all the latest updates!\n\n🖤Discord: https://discord.gg/zz5895ttH4\n\n💜Twitch: https://twitch.tv/tigravalentine\n\n🦇 NSFW Twitter: https://x.com/SussyTigra",
+        "location": "US",
+        "streaming": {
+            "accountId": "432850859341127681",
+            "channel": {
+                "id": "434489209907064832",
+                "accountId": "432850859341127681",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.h7a3SfnQM6x8.m3u8",
+                "chatRoomId": "434489250138824704",
+                "status": 2,
+                "version": 57,
+                "createdAt": 1665084660000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "434489209907064833",
+                    "historyId": "899085607161044994",
+                    "channelId": "434489209907064832",
+                    "accountId": "432850859341127681",
+                    "title": "Miss me? 💋",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 6515,
+                    "createdAt": 1665084660000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1775856388000,
+                    "startedAt": 1775853072000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

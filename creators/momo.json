@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7b90aef-f93a-4bb1-bbb3-e7c7cb67fc4f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0feb55c3-8a1c-4b0d-b797-5d906a32add2-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "460025833382223872",
+        "username": "MomoNoods",
+        "displayName": "Momo",
+        "version": 3,
+        "followCount": 6215,
+        "statusId": 3,
+        "accountMediaLikes": 1937,
+        "postLikes": 2537,
+        "about": "Just a spaced out cat that likes to play.\nExpect photo and video updates of my fun silly little life in space.",
+        "location": "",
+        "streaming": {
+            "accountId": "460025833382223872",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

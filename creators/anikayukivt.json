@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/27e0e5bc-0fa9-4bed-9b26-256c05bf2811-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/89652a75-28d0-4fd0-ab30-2f298baf349d-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "917642186210684929",
+        "username": "LewdAnika",
+        "displayName": null,
+        "version": 2,
+        "followCount": 943,
+        "statusId": 1,
+        "accountMediaLikes": 204,
+        "postLikes": 213,
+        "about": "𝒴𝑜𝓊𝓇 𝒮𝒶𝓀𝓊𝓇𝒶 𝒲𝑜𝓁𝒻\n\n𝜗ৎ Bratty Pup | Submissive | Spoiled 𝜗ৎ\n\n♡ Free Weekly Streams for Followers\n♡ Art/Animations, IRL Lewds, Audios\n♡ Services\n\n⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹\nSPOIL ME: https://throne.com/lewdanika\n\nFollow your Pup:\n❀ Twitch: https://www.twitch.tv/anikayukivt\n❀ Discord: https://discord.gg/C6rfH2Ah2P\n❀ Lewd Twitter: https://x.com/anikalewd\n\n──────────── ୨୧ ────────────\n\n⚠️ © 2025. All rights reserved. No recording, reposting, sharing, or screenshotting. No chargebacks. Violations breach Fansly TOS and will result in legal action and a ban. ⚠️  \n\nDISCLAIMER: No refunds. I reserve the right to block anyone at any time even if no rules have been broken. If you are blocked on any of my other socials, your block will be reflected here as well. I reserve the right to resell custom content. I reserve the right to suspend any subscriber benefits at any time without a refund. By subscribing/tipping you are agreeing to these terms.",
+        "location": "",
+        "streaming": {
+            "accountId": "917642186210684929",
+            "channel": {
+                "id": "917689400488386560",
+                "accountId": "917642186210684929",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.mgB3QQxuJsIS.m3u8",
+                "chatRoomId": "918337361434136576",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1780288562000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "917689400488386561",
+                    "historyId": "939393454776000512",
+                    "channelId": "917689400488386560",
+                    "accountId": "917642186210684929",
+                    "title": "BIG GOALS - Come check them out!",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 24,
+                    "createdAt": 1780288563000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785472095000,
+                    "startedAt": 1785463212000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "918396715705331712",
+                                "streamId": "917689400488386561",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:12Z"
     }
 }

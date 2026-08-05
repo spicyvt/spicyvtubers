@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a97067ee-3082-4f7f-8bab-574554e965d2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0f475cf-58d2-4503-934f-0557f7efbc2a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "866901281321525248",
+        "username": "TillySuperDog",
+        "displayName": null,
+        "version": 2,
+        "followCount": 77,
+        "statusId": 3,
+        "accountMediaLikes": 227,
+        "postLikes": 125,
+        "about": "Hiya! I'm Tilly a UK based Cosplayer, Vtuber and your favourite creators' favourite creator :3\nYou will find something suitable for all audiences here, whether its:\n~Extra SFW Cosplay Content\n~Extra SFW and NSFW Vtuber Content\n~Exclusive NSFW Cosplay Content\n~Exclusive OOC Lingerie Content\nSupporting me is greatly appreciated and will help me fund future projects, hope you enjoy your stay! 💜\n\nWant to gift me something? Then have a look at my Throne wishlist: https://throne.com/tillysuperdog\n\n⚠️ IMPORTANT ⚠️\nMy content is for my Fansly profile only. It is illegal to reproduce, copy, or redistribute any of my content without my consent.\nSending dick pics unsolicited or making threatening sexual comments will get you blocked!\nI don’t offer nudes or sexting!",
+        "location": "UK",
+        "streaming": {
+            "accountId": "866901281321525248",
+            "channel": {
+                "id": "867633567704821760",
+                "accountId": "866901281321525248",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WCxXTNlhWX3H.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1768354322000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "867633567704821761",
+                    "historyId": null,
+                    "channelId": "867633567704821760",
+                    "accountId": "866901281321525248",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1768354322000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "867633767764750336",
+                                "streamId": "867633567704821761",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

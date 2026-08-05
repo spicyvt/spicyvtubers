@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fa2671f-602b-4e2b-b720-b40ef1106027-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31e70f0d-434f-4020-8bbc-f6988f6ffbc4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "403944243913039872",
+        "username": "PhoenyxVT",
+        "displayName": "Phoenyx",
+        "version": 11,
+        "followCount": 7802,
+        "statusId": 3,
+        "accountMediaLikes": 2185,
+        "postLikes": 2712,
+        "about": "🔞 English Tatted Brat\n⚠️ LIVE LOVENSE STREAMS EVERY SUNDAY AT 7PM GMT/BST ⚠️\n💌 Occasional lewd art and NSFW audios\n💌 IRL pics including cosplay, feet, thighs, bikinis & lingerie\n💌 DM for customs [OPEN]\n\n✧ Twitch | https://www.twitch.tv/phoenyx\n✧ Wishlist | https://throne.com/phoenyxvt\n✧ Lovense | https://www.lovense.com/wish-list/4ml8q5r",
+        "location": "",
+        "streaming": {
+            "accountId": "403944243913039872",
+            "channel": {
+                "id": "700114592872804352",
+                "accountId": "403944243913039872",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.N7BeuTdMqptm.m3u8",
+                "chatRoomId": "702276720639614976",
+                "status": 2,
+                "version": 56,
+                "createdAt": 1728414686000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "700114592872804353",
+                    "historyId": "940367683084378112",
+                    "channelId": "700114592872804352",
+                    "accountId": "403944243913039872",
+                    "title": "Play with me ~ LEWD ASMR w/ Lovense ($1+ to Control Vibrator) !menu",
+                    "status": 1,
+                    "viewerCount": 74,
+                    "version": 9469,
+                    "createdAt": 1728414686000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785701461000,
+                    "startedAt": 1785695486000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937802702136553472",
+                                "streamId": "700114592872804353",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

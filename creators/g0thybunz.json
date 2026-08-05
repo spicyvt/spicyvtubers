@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f994fc4-80ee-4600-b6af-8189f64a04e6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/edd9c4fd-bd15-44a0-be20-9ca666d47e2f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "715470803071676416",
+        "username": "GothyBunz",
+        "displayName": "Bunniie💜",
+        "version": 14,
+        "followCount": 10936,
+        "statusId": 1,
+        "accountMediaLikes": 22036,
+        "postLikes": 18256,
+        "about": " #1 lewd, chubby, yan-tsun, & NEET- Goth Bunny💜🐰🔮・I reply to all DMz ・\n・🐰buy onahole: spicerack.market/gothybunz\n・🐰gothybunz.com\n・💜discord.gg/gothicc\n\n© DMCA © (https://www.dmca.com)\nThis page and its content are copyrighted by Gothybunz. The distribution of any content is strictly prohibited. GothyBunz ( i.e, me) & people I've given permission to is the only authorized personnel to repost Fansly content. Violators will be susceptible to a DMCA takedown request on my behalf. 💜",
+        "location": "under ur bed~",
+        "streaming": {
+            "accountId": "715470803071676416",
+            "channel": {
+                "id": "748924855725862912",
+                "accountId": "715470803071676416",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.RSuqf4fkyKhw.m3u8",
+                "chatRoomId": "748926103082512384",
+                "status": 2,
+                "version": 329,
+                "createdAt": 1740051959000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "748924855725862913",
+                    "historyId": "940872213249138689",
+                    "channelId": "748924855725862912",
+                    "accountId": "715470803071676416",
+                    "title": "⛧・ 🔪IM BACC, PREPARE YOURSELF ! :3 💜 ᛝ 🔪 ˚₊ ⊹ !discord !toy !SC !menu",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 4482,
+                    "createdAt": 1740051960000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785815867000,
+                    "startedAt": 1785815776000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "913292460438863873",
+                                "streamId": "748924855725862913",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

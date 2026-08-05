@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cadbd68-07ca-4bfc-a808-fe5d81469ca5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75286944-09ed-40a1-9cfe-7330e6f18653-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "485222432609677313",
+        "username": "sivibird",
+        "displayName": "Sivi",
+        "version": 10,
+        "followCount": 30390,
+        "statusId": 3,
+        "accountMediaLikes": 43712,
+        "postLikes": 53830,
+        "about": "Hi I'm Sivi, your favorite bratty girl failure who also happens to be a bird! I just like playing games while getting off and teasing chat :3c\n\nI stream here every Saturday night at around 11pm EST\nI’m most active on twitter and mainly stream on twitch\nLinks here: https://sivibird.carrd.co/\n\nYou have permission to jack off to me now 🖤",
+        "location": "Your walls",
+        "streaming": {
+            "accountId": "485222432609677313",
+            "channel": {
+                "id": "499654197029904384",
+                "accountId": "485222432609677313",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.igobKaAn9krE.m3u8",
+                "chatRoomId": "499654260108046336",
+                "status": 2,
+                "version": 39,
+                "createdAt": 1680621203000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "499654197029904385",
+                    "historyId": "940150680562196480",
+                    "channelId": "499654197029904384",
+                    "accountId": "485222432609677313",
+                    "title": "fuck machine stream!",
+                    "status": 1,
+                    "viewerCount": 130,
+                    "version": 3127,
+                    "createdAt": 1680621204000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785654569000,
+                    "startedAt": 1785643749000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940138429654507520",
+                                "streamId": "499654197029904385",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

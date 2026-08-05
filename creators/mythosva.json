@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/41301bf4-9089-4fef-941a-68ee041a2567-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e851a39-74fb-4096-ac3f-4837a89d0af8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "613367391891501056",
+        "username": "MythosVA",
+        "displayName": "Mythos",
+        "version": 6,
+        "followCount": 3069,
+        "statusId": 1,
+        "accountMediaLikes": 508,
+        "postLikes": 854,
+        "about": "Professional Good Boy || NSFW VA & Streamer\nMore Depraved Here Than Usual\n\nNSFW Streams & Audios\n\nAll My Links: https://mythosva.carrd.co",
+        "location": "Your Ears",
+        "streaming": {
+            "accountId": "613367391891501056",
+            "channel": {
+                "id": "614042896206667776",
+                "accountId": "613367391891501056",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ZF3Cuj3ytwSV.m3u8",
+                "chatRoomId": "614045436822429697",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1707893594000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "614042896206667777",
+                    "historyId": "885039068709138432",
+                    "channelId": "614042896206667776",
+                    "accountId": "613367391891501056",
+                    "title": "Monday Fansly Stream Time!",
+                    "status": 1,
+                    "viewerCount": 79,
+                    "version": 5143,
+                    "createdAt": 1707893595000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1772509403000,
+                    "startedAt": 1772504117000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "614043723382136832",
+                                "streamId": "614042896206667777",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

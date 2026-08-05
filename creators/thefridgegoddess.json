@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/774f002c-1b8f-4e53-9f3b-991caab58488-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/24c4e72d-18ee-4af3-9ab7-d3fdaebe53c9-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "631649523759849472",
+        "username": "FridgeGoddess",
+        "displayName": null,
+        "version": 8,
+        "followCount": 21,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 6,
+        "about": "Hello I am a Vtuber known as the Fridge Goddess.  Feel free to check out my channel but don't expect any IRL content.",
+        "location": "",
+        "streaming": {
+            "accountId": "631649523759849472",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

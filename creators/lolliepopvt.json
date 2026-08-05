@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13bf61e1-c217-4892-94ce-8505250fed20-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23e354bb-56d9-4f70-83df-cec90bde9a0b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "736023828676751360",
+        "username": "LolliePopVT",
+        "displayName": "Princess Lollie",
+        "version": 9,
+        "followCount": 11256,
+        "statusId": 1,
+        "accountMediaLikes": 27150,
+        "postLikes": 12466,
+        "about": "Bratty Princess Kinky Anal Slut Clown Girl Switch of Your Dreams. Raw, unfiltered, unedited beauty\n\nSexiest Moans on the Internet, Find Out When I'm Streaming Sundays and Mondays at @8 PM EST <3 \n\nSub Application: https://forms.gle/wpUY3PBUsWGCTYPU7\n\nhttps://linktr.ee/lolliepopvt",
+        "location": "Axolaris, Parallel Time Line",
+        "streaming": {
+            "accountId": "736023828676751360",
+            "channel": {
+                "id": "737763843052154880",
+                "accountId": "736023828676751360",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wtE6hwLocgvl.m3u8",
+                "chatRoomId": "739664059208577024",
+                "status": 2,
+                "version": 136,
+                "createdAt": 1737390967000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "737763843052154881",
+                    "historyId": "940449101449809921",
+                    "channelId": "737763843052154880",
+                    "accountId": "736023828676751360",
+                    "title": "Strip Roulette Night 2 !",
+                    "status": 1,
+                    "viewerCount": 31,
+                    "version": 4363,
+                    "createdAt": 1737390967000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785721766000,
+                    "startedAt": 1785714898000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

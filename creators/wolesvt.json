@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b339449-4e45-41fe-827f-4c8b09210105-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13ab9311-6ed3-4d24-96af-f4639d21c105-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "751306940121886722",
+        "username": "WolesVT",
+        "displayName": null,
+        "version": 4,
+        "followCount": 1352,
+        "statusId": 1,
+        "accountMediaLikes": 2037,
+        "postLikes": 1526,
+        "about": "Helo! I'm Woles, a 25yo demon raccoon vtuber, artist, and Live2D rigger! Your 4'10\" horny egirl :3 \n\n**VIP Raccoons get a free pic request via DMs once a month! All other requests are closed until further notice!**\n",
+        "location": "",
+        "streaming": {
+            "accountId": "751306940121886722",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

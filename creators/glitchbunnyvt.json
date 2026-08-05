@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2169f49e-6b82-45bb-b71e-51af292455ec-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d77c3044-9e88-454e-81bb-c26b964ac6e8-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "739213753102381056",
+        "username": "glitchbunnyvt",
+        "displayName": null,
+        "version": 3,
+        "followCount": 587,
+        "statusId": 1,
+        "accountMediaLikes": 100,
+        "postLikes": 220,
+        "about": "I Bite\n ✧༺♥༻✧\nLewd Art and NSFW VA ",
+        "location": "",
+        "streaming": {
+            "accountId": "739213753102381056",
+            "channel": {
+                "id": "739968462280990720",
+                "accountId": "739213753102381056",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.L4kyTqglJCsQ.m3u8",
+                "chatRoomId": "739977216875569152",
+                "status": 2,
+                "version": 24,
+                "createdAt": 1737916589000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "739968462280990721",
+                    "historyId": "924147159186554880",
+                    "channelId": "739968462280990720",
+                    "accountId": "739213753102381056",
+                    "title": "Glitch Gone 3D! Cum Play with Me < 3 ",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 1910,
+                    "createdAt": 1737916589000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781840170000,
+                    "startedAt": 1781828212000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "739976909575692288",
+                                "streamId": "739968462280990721",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

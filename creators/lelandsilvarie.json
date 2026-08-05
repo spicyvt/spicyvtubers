@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6cfd5917-2e17-40ef-b7fb-4854a62480b5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60cdfec8-1660-423e-8b05-ae022feac908-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "485396295050076160",
+        "username": "LelandSilvarie",
+        "displayName": "Leland Silvarie",
+        "version": 9,
+        "followCount": 184,
+        "statusId": 1,
+        "accountMediaLikes": 47,
+        "postLikes": 30,
+        "about": "Welcome to my Abyss~💜\n\nI check dms often but please be patient as I do get busy. I'm a night owl.\n\n🔴- Work is extremely Chaotic. Things will be delayed until things are calm!",
+        "location": "The Abyss",
+        "streaming": {
+            "accountId": "485396295050076160",
+            "channel": {
+                "id": "721728419376672768",
+                "accountId": "485396295050076160",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.QAVM21cck85T.m3u8",
+                "chatRoomId": "721935451560091651",
+                "status": 2,
+                "version": 22,
+                "createdAt": 1733567824000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "721728419376672769",
+                    "historyId": "917256881913745408",
+                    "channelId": "721728419376672768",
+                    "accountId": "485396295050076160",
+                    "title": "Chill Vibes plus?",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 402,
+                    "createdAt": 1733567824000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780191099000,
+                    "startedAt": 1780185442000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "721728451286933504",
+                                "streamId": "721728419376672769",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

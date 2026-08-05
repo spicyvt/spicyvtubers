@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8486026-0baf-4457-bf87-8502a47da923-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/092af4c9-d0df-405a-aefb-1dcf3304631b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "785224593777373184",
+        "username": "AnenyaQueen",
+        "displayName": null,
+        "version": 3,
+        "followCount": 162,
+        "statusId": 3,
+        "accountMediaLikes": 268,
+        "postLikes": 82,
+        "about": "Forest fairy queen who lost and found her crown and wings and is trying to regain her magic and her throne. Find all my links on my Carrd: anenyaqueen.carrd.co\n\nLikes: cats, Kuromi, magical girls, music, demons, making you cum ;)\nDislikes: bears and betrayers\n\nCum for the Queen. Stay for the magic.\n\nNo IRL content.",
+        "location": "The Forest",
+        "streaming": {
+            "accountId": "785224593777373184",
+            "channel": {
+                "id": "786805065695375361",
+                "accountId": "785224593777373184",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.i9oxttsNzzVl.m3u8",
+                "chatRoomId": "786805726948368384",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1749083305000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "786805065695375362",
+                    "historyId": "852089897949876224",
+                    "channelId": "786805065695375361",
+                    "accountId": "785224593777373184",
+                    "title": "Vibing and gaming ~Lovense ON~",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 8,
+                    "createdAt": 1749083306000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1764652127000,
+                    "startedAt": 1764648422000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

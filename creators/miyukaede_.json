@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34abeb71-6e22-4aa2-8724-57370b7070f7-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e7d9420-be6a-43a6-aa8f-1edd204fbfdd-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "678919308973187075",
+        "username": "miyuuvt",
+        "displayName": "Miyu Kaede",
+        "version": 8,
+        "followCount": 187,
+        "statusId": 3,
+        "accountMediaLikes": 86,
+        "postLikes": 100,
+        "about": "╭ •🤍• Dumb Siamese Bimbo Coffee Addict Cat •🤍•\n\nPrices:\nDick Ratings: Name your price. (can't be less then $15)\nNudes: $50 for 4 pictures.\nFor Private Discord Call: $100+ (Depends on what you want to do.)",
+        "location": "",
+        "streaming": {
+            "accountId": "678919308973187075",
+            "channel": {
+                "id": "782811099526340609",
+                "accountId": "678919308973187075",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.CoR5SV6LjhUz.m3u8",
+                "chatRoomId": "782812157573079040",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1748131070000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "782811099526340610",
+                    "historyId": "904261478847094784",
+                    "channelId": "782811099526340609",
+                    "accountId": "678919308973187075",
+                    "title": "Hot Rivals Collab w/ @SoulCamera",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 502,
+                    "createdAt": 1748131070000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1777096682000,
+                    "startedAt": 1777087096000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

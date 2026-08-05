@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4cea16d8-45df-4486-9a56-55c757b29714-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7da6af71-edae-493e-a78f-a58f6453476e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "648790045888622593",
+        "username": "Chuddie",
+        "displayName": null,
+        "version": 4,
+        "followCount": 9977,
+        "statusId": 1,
+        "accountMediaLikes": 11969,
+        "postLikes": 5928,
+        "about": "SUB only stream every Friday 7PM EST\n\nMute ^^\nmeow~\nhttps://linktr.ee/chudvr\nChilloutVR",
+        "location": "Underground",
+        "streaming": {
+            "accountId": "648790045888622593",
+            "channel": {
+                "id": "649017165369843712",
+                "accountId": "648790045888622593",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Bt0JIguoZHOx.m3u8",
+                "chatRoomId": "650055719038496768",
+                "status": 2,
+                "version": 124,
+                "createdAt": 1716232110000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "649017165369843713",
+                    "historyId": "940089475826982912",
+                    "channelId": "649017165369843712",
+                    "accountId": "648790045888622593",
+                    "title": "SATURDAY MADNESS! sub only",
+                    "status": 1,
+                    "viewerCount": 56,
+                    "version": 5265,
+                    "createdAt": 1716232110000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785634855000,
+                    "startedAt": 1785629157000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940096862508040192",
+                                "streamId": "649017165369843713",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

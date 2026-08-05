@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfddcff3-a237-440d-93d8-e0fd83327f15-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/98c08f0f-1dd2-4ea2-b9ac-f51aca56762a-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "522175986733686784",
+        "username": "everdistant-utopia",
+        "displayName": "everdistant-utopia",
+        "version": 4,
+        "followCount": 2314,
+        "statusId": 1,
+        "accountMediaLikes": 2162,
+        "postLikes": 3172,
+        "about": "Your good little slut <3 I love dressing up to be objectified, teased, and bullied. \n\n🎧 FREE WEEKLY NSFW Audios on Reddit\n⭐ Early Access Audios on SubscribeStar\n🎮 Gaming and Chill on Twitch\n🔥 Lewd Pics and Vids Here on Fansly!\n\nPFP: @mantourei\nPFP Background: @siivvvvvv\nBanner: @kalteglia\nVTuber Model: @KenKenMo6\nPNGTuber: @jianrou\n",
+        "location": "",
+        "streaming": {
+            "accountId": "522175986733686784",
+            "channel": {
+                "id": "633848276952559616",
+                "accountId": "522175986733686784",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NFP0GI24f5b2.m3u8",
+                "chatRoomId": "633848357210566658",
+                "status": 2,
+                "version": 21,
+                "createdAt": 1712615565000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "633848276952559617",
+                    "historyId": "927806122465714176",
+                    "channelId": "633848276952559616",
+                    "accountId": "522175986733686784",
+                    "title": "FUCK MACHINE REVEAL & RIDE - Thank you for Over $2,000 for Trans Lifeline",
+                    "status": 1,
+                    "viewerCount": 34,
+                    "version": 7143,
+                    "createdAt": 1712615566000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782706468000,
+                    "startedAt": 1782700577000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "633848302424567808",
+                                "streamId": "633848276952559617",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

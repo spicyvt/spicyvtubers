@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aea38ff3-a6df-4bb6-aeff-bf68ca1909b8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2b95bdc-7f1d-47bd-8ae7-4f04ff9bc9fa-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "432038097128009728",
+        "username": "Ayumiipix",
+        "displayName": "Ayumii",
+        "version": 21,
+        "followCount": 3764,
+        "statusId": 3,
+        "accountMediaLikes": 317,
+        "postLikes": 1246,
+        "about": "Your local lewd gremlin is at your service.  \n\n✧Vtuber\n✧ Lewd voice acting\n✧Submissive just for money\n ✧Kink Friendly\n✧ASMR \n✧ Twitch | https://www.twitch.tv/ayumiipix\n✧ Wishlist | https://throne.com/ayumiipix\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "432038097128009728",
+            "channel": {
+                "id": "510185188408438784",
+                "accountId": "432038097128009728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.OPkCKHhkOYRA.m3u8",
+                "chatRoomId": "535559759512743937",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1683131987000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "510185188408438785",
+                    "historyId": "768903143621668864",
+                    "channelId": "510185188408438784",
+                    "accountId": "432038097128009728",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 44,
+                    "version": 9616,
+                    "createdAt": 1683131988000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1744817104000,
+                    "startedAt": 1744815155000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "633754288731992064",
+                                "streamId": "510185188408438785",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:06Z"
     }
 }

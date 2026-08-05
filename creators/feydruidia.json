@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3ad63e8-41b4-49a0-83e7-8fef7c7c3969-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8311e99c-7492-4f29-9745-637f859cc222-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "879190912641544192",
+        "username": "feydruidia",
+        "displayName": null,
+        "version": 3,
+        "followCount": 62,
+        "statusId": 1,
+        "accountMediaLikes": 6,
+        "postLikes": 9,
+        "about": "nsfw games. vrchat and cb content 😘",
+        "location": "",
+        "streaming": {
+            "accountId": "879190912641544192",
+            "channel": {
+                "id": "883890823706456065",
+                "accountId": "879190912641544192",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vQ8cffvv7BpQ.m3u8",
+                "chatRoomId": "883906437544177664",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1772230354000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "883890823706456066",
+                    "historyId": "903820762832461824",
+                    "channelId": "883890823706456065",
+                    "accountId": "879190912641544192",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 178,
+                    "createdAt": 1772230354000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776982306000,
+                    "startedAt": 1776982022000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "903818059054067712",
+                                "streamId": "883890823706456066",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

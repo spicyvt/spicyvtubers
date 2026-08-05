@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/511224db-364d-45f4-81be-03166b3be12b-profile_image-70x70.png",
         "bannerImageUrl": null
+    },
+    "fansly": {
+        "id": "435217885460180992",
+        "username": "NymphLewd",
+        "displayName": null,
+        "version": 6,
+        "followCount": 102694,
+        "statusId": 3,
+        "accountMediaLikes": 102559,
+        "postLikes": 108644,
+        "about": " 🇺🇸 | 🇲🇽\n𝕱𝖚𝖑𝖑 𝖙𝖎𝖒𝖊 𝖜𝖎𝖙𝖈𝖍 & 𝙫𝙩𝙪𝙗𝙚𝙧 ~♥ 𝑀𝑜𝑎𝑛𝑖𝑛𝑔 𝑢𝑛𝑑𝑒𝑟 𝑡ℎ𝑒 𝑐𝑎𝑛𝑑𝑙𝑒𝑙𝑖𝑔ℎ𝑡 𝑎𝑛𝑑 𝑐𝑎𝑠𝑡𝑖𝑛𝑔 𝑠𝑝𝑒𝑙𝑙𝑠 𝑗𝑢𝑠𝑡 𝑓𝑜𝑟 𝑦𝑜𝑢.\nExpect an answer from me from the very first tier :3\n\n🔮Exclusive lewd content & lives.\n🌒Customs open.\n ⛧Kink friendly.\n\n\nIf you wanna see more magic tricks ⁀➴\n\n🖤 Twitch | https://www.twitch.tv/nymphaaea\n🖤 YT | https://www.youtube.com/@ASMRNymph\n🖤 ALL | https://nymphlewd.carrd.co/ \n\n「 ✦ Cum tributions ✦ 」\n\n🖤 Throne | https://throne.com/nymphaaea \n\n𝐼 𝑑𝑜𝑛'𝑡 𝑑𝑜 𝑟𝑒𝑓𝑢𝑛𝑑𝑠, 𝑝𝑙𝑒𝑎𝑠𝑒 𝑏𝑒 𝑎𝑤𝑎𝑟𝑒 𝑜𝑓 𝑡ℎ𝑎𝑡 𝑏𝑒𝑓𝑜𝑟𝑒 𝑚𝑎𝑘𝑖𝑛𝑔 𝑦𝑜𝑢𝑟 𝑤𝑖𝑠ℎ~\n\nAll content is under copyright. Enforced by bruqi.com.",
+        "location": "In your dreams~ ",
+        "streaming": {
+            "accountId": "435217885460180992",
+            "channel": {
+                "id": "493640634339438592",
+                "accountId": "435217885460180992",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.X4uKKS4QTUZm.m3u8",
+                "chatRoomId": "493640859368042496",
+                "status": 2,
+                "version": 65,
+                "createdAt": 1679187458000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "493640634339438593",
+                    "historyId": "940571840307273728",
+                    "channelId": "493640634339438592",
+                    "accountId": "435217885460180992",
+                    "title": "🔞 Algo rapidito?~ ♥",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 6848,
+                    "createdAt": 1679187459000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785747196000,
+                    "startedAt": 1785744161000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940571781834485760",
+                                "streamId": "493640634339438593",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

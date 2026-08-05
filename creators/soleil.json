@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2d21b12-bd33-44d6-9e3b-576ad75e2424-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c55617c2-0f5b-44aa-8225-5e4737a68fbb-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "415747988279795712",
+        "username": "bigtittymothgf",
+        "displayName": "Soleil",
+        "version": 6,
+        "followCount": 8496,
+        "statusId": 3,
+        "accountMediaLikes": 6807,
+        "postLikes": 11698,
+        "about": "big titty moth gf, nerdy girl, vtuber, nsfw VA & more 💙✨\nbare tiddy, bjs, lingerie, audio porn, etc, here! (p.s i'm not great at responding to DMs T_T)\n\n\nspoil me a little~?\nhttps://throne.com/bigtittymothgf\n\n\nmore socials here, including NSFW ones: https://soleilestelle.com\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "415747988279795712",
+            "channel": {
+                "id": "477172696694665216",
+                "accountId": "415747988279795712",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wPtGRb3qrGDb.m3u8",
+                "chatRoomId": "477175501350248448",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1675261196000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "477172696694665217",
+                    "historyId": "921259811088117760",
+                    "channelId": "477172696694665216",
+                    "accountId": "415747988279795712",
+                    "title": "gaming & vibing~! ♥ (might be a short strem)",
+                    "status": 1,
+                    "viewerCount": 70,
+                    "version": 10,
+                    "createdAt": 1675261196000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781148368000,
+                    "startedAt": 1781139815000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "918706980334354432",
+                                "streamId": "477172696694665217",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

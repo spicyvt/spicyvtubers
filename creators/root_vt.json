@@ -23,5 +23,76 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c31d25c-0b6c-4695-aaa9-ff0949c22aca-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/324d3f72-4bcc-4360-b9ce-8486fafeef1c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "502965807257493504",
+        "username": "Root_vt",
+        "displayName": "Root",
+        "version": 5,
+        "followCount": 7006,
+        "statusId": 1,
+        "accountMediaLikes": 1616,
+        "postLikes": 3028,
+        "about": "Hi mid VTUBER here. I legally own the title of degenerate. I do not have a particular set of skills. I'm basically not very skilled in anything. Often described as a cosmic horror that suffers from hyperfixation.\nI want to post more risky content that other platforms won't let me hehe.\n\nAll the content I create on here is owned by me.\n\nFor any requests please DM me",
+        "location": "Netherlands",
+        "streaming": {
+            "accountId": "502965807257493504",
+            "channel": {
+                "id": "690683882894274560",
+                "accountId": "502965807257493504",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ezyNb19J94R0.m3u8",
+                "chatRoomId": "690684670278377472",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1726166230000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "690683882894274561",
+                    "historyId": "924761703013433344",
+                    "channelId": "690683882894274560",
+                    "accountId": "502965807257493504",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 16,
+                    "version": 7787,
+                    "createdAt": 1726166230000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781990048000,
+                    "startedAt": 1781974731000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "785587764820193280",
+                                "streamId": "690683882894274561",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            },
+                            {
+                                "id": "785587764820193281",
+                                "streamId": "690683882894274561",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"725029144026423296\\\"}\"}"
+                            },
+                            {
+                                "id": "785587764820193282",
+                                "streamId": "690683882894274561",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

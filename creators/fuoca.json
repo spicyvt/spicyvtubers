@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/07f82c62-55b2-4bee-983d-30ada02ceedd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/982ae43d-2ce4-4a61-a8d2-757ed3ce207f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "591430987682951168",
+        "username": "Fuoca",
+        "displayName": null,
+        "version": 5,
+        "followCount": 40296,
+        "statusId": 1,
+        "accountMediaLikes": 33763,
+        "postLikes": 14164,
+        "about": "・❥・Your personal good girl・❥・\nFANSLY STREAMS EVERY MON (7PM EST) + FRIDAY (11AM EST), FREE FOR FOLLOWERS!\nFind me on Twitch: https://www.twitch.tv/fuoca\n              \n┌─────────────────────── ⋆⋅☆⋅⋆ ───────────────────────┐\n\nꕥ I am here to serve you! So, send me a dm ♥ \n\nPlease let me be your little toy ♥\n\n✧.* Spoil me here, thank you daddy~: https://www.throne.com/Fuoca\n✧.* Buy my Pocket Pussy here so you can fuck me~: https://intimaly.com/products/feel-fuoca?bg_ref=zIbqBxnnvm \n\n└─────────────────────── ⋆⋅☆⋅⋆ ───────────────────────┘\n\nAll of my socials here:\n︵‿︵‿୨♡୧‿︵‿︵\n\n❣ Twitch: https://www.twitch.tv/fuoca\n❣ Twitter: https://x.com/FuocaTTV\n❣ Everything else: https://fuoca.carrd.co/\n\n⟿ Use this link to buy a Lovense toy so you can sync with me ♥ https://www.lovense.com/r/yegxey\n\nAll content is under copyright. Enforced by bruqi.com.\n",
+        "location": "Your bed <3",
+        "streaming": {
+            "accountId": "591430987682951168",
+            "channel": {
+                "id": "733449664732340224",
+                "accountId": "591430987682951168",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.lVxFSodPV6kf.m3u8",
+                "chatRoomId": "733449749406953472",
+                "status": 2,
+                "version": 85,
+                "createdAt": 1736362386000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "733449664732340225",
+                    "historyId": "940845201713278976",
+                    "channelId": "733449664732340224",
+                    "accountId": "591430987682951168",
+                    "title": "ANAL AUGUST START!",
+                    "status": 1,
+                    "viewerCount": 61,
+                    "version": 988,
+                    "createdAt": 1736362387000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785810574000,
+                    "startedAt": 1785809336000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "863500098963775488",
+                                "streamId": "733449664732340225",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

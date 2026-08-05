@@ -23,5 +23,92 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/050201c4-d7d1-4d80-be0d-0a77bb68573e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/378f8d77-c08e-4449-b62a-892d6d2b1293-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "572689712297291776",
+        "username": "IbookiVT",
+        "displayName": null,
+        "version": 4,
+        "followCount": 9474,
+        "statusId": 3,
+        "accountMediaLikes": 12995,
+        "postLikes": 17206,
+        "about": "｡⁠♡๑ Tu poltergeist favorita | Streams +18 | Naughty Vtuber\n\n👻JOI & RP\n👻Kinkfriendly\n👻ASMR\n👻IRL COSPLAY",
+        "location": "",
+        "streaming": {
+            "accountId": "572689712297291776",
+            "channel": {
+                "id": "605200213350555648",
+                "accountId": "572689712297291776",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oDeLwjcOJAsV.m3u8",
+                "chatRoomId": "605209882760589312",
+                "status": 2,
+                "version": 59,
+                "createdAt": 1705785334000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "605200213350555649",
+                    "historyId": "939757240754118656",
+                    "channelId": "605200213350555648",
+                    "accountId": "572689712297291776",
+                    "title": "REGRESE",
+                    "status": 1,
+                    "viewerCount": 71,
+                    "version": 1619,
+                    "createdAt": 1705785335000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785556455000,
+                    "startedAt": 1785549946000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "939752032556838912",
+                                "streamId": "605200213350555649",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"576257828142981120\\\"}\"}"
+                            },
+                            {
+                                "id": "939752032556838913",
+                                "streamId": "605200213350555649",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"576258492143251456\\\"}\"}"
+                            },
+                            {
+                                "id": "939752032556838914",
+                                "streamId": "605200213350555649",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"576258940166217728\\\"}\"}"
+                            },
+                            {
+                                "id": "939752032556838915",
+                                "streamId": "605200213350555649",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"576253758304952322\\\"}\"}"
+                            },
+                            {
+                                "id": "939752032556838916",
+                                "streamId": "605200213350555649",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

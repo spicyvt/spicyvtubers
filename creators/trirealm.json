@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/01090f63-f045-43d6-8e4a-76b054ea4183-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/203b568a-635d-41a3-a1b8-815037c345be-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "694351563774238720",
+        "username": "TriRealm",
+        "displayName": "Trinity",
+        "version": 7,
+        "followCount": 81,
+        "statusId": 3,
+        "accountMediaLikes": 156,
+        "postLikes": 179,
+        "about": "Horny Birb Girl 🦉 \nBottom Leaning Switch 😏 (I can be both Dom and Sub) \nBrain dumb 💀\nTendency to try to eat sexual partners, I love the bites 😈\n\nI Respond to DMs! (But please be patient <3) \n\nIRL, 2D, Audio, and Lewd Stream Content~! 💜\n\nLinks - https://trirealm.carrd.co/\n\nAll content is under copyright, NO REPOSTING!",
+        "location": "",
+        "streaming": {
+            "accountId": "694351563774238720",
+            "channel": {
+                "id": "719565514594070529",
+                "accountId": "694351563774238720",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.3JWqjOJp3wEe.m3u8",
+                "chatRoomId": "719565619741077505",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1733052147000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "719565514594070530",
+                    "historyId": "806713367753408512",
+                    "channelId": "719565514594070529",
+                    "accountId": "694351563774238720",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 3656,
+                    "createdAt": 1733052148000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1753840723000,
+                    "startedAt": 1753829814000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "756193788057100289",
+                                "streamId": "719565514594070530",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:47Z"
     }
 }

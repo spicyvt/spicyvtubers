@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39100416-addc-442e-85bf-efaa1677c362-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c20be76-a12a-4a00-8b11-cc36fcf6bf7c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "555722198917066752",
+        "username": "SkiaObsidian",
+        "displayName": "Skia",
+        "version": 6,
+        "followCount": 18670,
+        "statusId": 3,
+        "accountMediaLikes": 30042,
+        "postLikes": 35609,
+        "about": "🔮♡A Celestial Sorceress who would bend the stars to make your fantasies come true♡🌌 \n\n🔮NSFW Voice Actress\n🔮 Content posted every day at 8am and 8pm PST♡\n🔮 Hot anime girl lovense streams every Friday at 7pm PST\n🔮 Custom film, voiceover or ASMR commissions available! \n🔮 MASSIVE BREEDING FETISH -- LET ME HAVE YOUR BABIES~!\n🔮 THICC MAMA with HUGE tits and ass \n🔮 GOTH and NERDY -- Let's Yap about Pokemon and MTG\n🔮 I respond to DM's -- Tips and Subs get priority~! \n\n🔮 BREEDING KINK🔮 MONSTER FUCKING NERD🔮Bratty Dommy Mommy- I hate to lose~! 🔮 Sexy Voiceovers with customs available 🔮 An Audiophile's dream~🔮 All the Praise and love you could need🔮 \n\nFirst cum of 2026: Dashon_Silver!!\n   \n🌌All rights reserved. The copyrighted material on this Fansly page including but not limited to photographs and video material may not be reproduced, distributed by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission from the owner.\nCopyrights 2026 all rights reserved🌌",
+        "location": "The Labyrinth",
+        "streaming": {
+            "accountId": "555722198917066752",
+            "channel": {
+                "id": "558209638571450368",
+                "accountId": "555722198917066752",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YrXrkkRM1v3z.m3u8",
+                "chatRoomId": "558210146270982144",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1694581908000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "558209638571450369",
+                    "historyId": "939754621486776320",
+                    "channelId": "558209638571450368",
+                    "accountId": "555722198917066752",
+                    "title": "FUCK MACHINE STREAM♡ $100 per 5 minute link! !menu",
+                    "status": 1,
+                    "viewerCount": 50,
+                    "version": 7070,
+                    "createdAt": 1694581909000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785556342000,
+                    "startedAt": 1785549321000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "934677049187004416",
+                                "streamId": "558209638571450369",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

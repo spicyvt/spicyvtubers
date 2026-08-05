@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c396c34-39e9-4d94-bc52-8af8f8a3bfff-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1f8bb37-4525-44f3-9040-277d6f0bbc1d-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "399853029488078848",
+        "username": "Atramentum_x",
+        "displayName": "atramentum_x ",
+        "version": 73,
+        "followCount": 2845,
+        "statusId": 1,
+        "accountMediaLikes": 1493,
+        "postLikes": 2383,
+        "about": "30s He/Him Straight\n\nScriptwriter and lewdtuber extraordinaire. \n\nStreaming games and sexy fun on Thursday nights, occasional VA work and lewds.\n\nAll IRL videos are PPV!  Subs are for stream VODs only <3",
+        "location": "atramentum.ink",
+        "streaming": {
+            "accountId": "399853029488078848",
+            "channel": {
+                "id": "486752789406429184",
+                "accountId": "399853029488078848",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iSpbp6cxp7Oj.m3u8",
+                "chatRoomId": "486752828178571264",
+                "status": 2,
+                "version": 105,
+                "createdAt": 1677545268000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "486752789406429185",
+                    "historyId": "935065078632308736",
+                    "channelId": "486752789406429184",
+                    "accountId": "399853029488078848",
+                    "title": "COED LEWD OVERCOOKED ",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 802,
+                    "createdAt": 1677545268000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784434726000,
+                    "startedAt": 1784431247000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "486753014011404288",
+                                "streamId": "486752789406429185",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

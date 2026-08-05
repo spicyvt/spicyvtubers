@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f4879a-ce13-4af8-8a06-f01dd012ad24-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a960622-3b65-46a7-ade3-ca04a6bfd657-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "433330444847558656",
+        "username": "KasuganoKisa",
+        "displayName": "KisaKasuganoVT",
+        "version": 5,
+        "followCount": 676,
+        "statusId": 3,
+        "accountMediaLikes": 446,
+        "postLikes": 588,
+        "about": "Your virtual tomboy",
+        "location": "",
+        "streaming": {
+            "accountId": "433330444847558656",
+            "channel": {
+                "id": "785452327266955264",
+                "accountId": "433330444847558656",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hfomoPs9fjHS.m3u8",
+                "chatRoomId": "785452781421993984",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1748760787000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "785452327266955265",
+                    "historyId": "940458416395010048",
+                    "channelId": "785452327266955264",
+                    "accountId": "433330444847558656",
+                    "title": "Tomboy shows you abs and more",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 154,
+                    "createdAt": 1748760788000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785726926000,
+                    "startedAt": 1785717119000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

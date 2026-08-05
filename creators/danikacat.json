@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b4073fe-8d09-44fc-b422-6a6f7470f412-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd807e23-0c16-4067-a6d9-4d03414cfcae-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "557199581801099264",
+        "username": "DanikaCat",
+        "displayName": "DanikaCat",
+        "version": 8,
+        "followCount": 255,
+        "statusId": 1,
+        "accountMediaLikes": 385,
+        "postLikes": 219,
+        "about": "Hi there, I am a Spicy 21-year-old German Femboy and furry VTuber. I post VRChat Adult Content stream. No ERP other unsolicited DMS, please. My NSFW Server : https://discord.gg/t2PyVYWRPD ,Here are my other Socials :3 https://danika-ad.uwu.ai/\n\n| #NSFW | #VR | #lewdtuber | #Furry | #Neko | #Male | #Femboy | #Switch |#Vrchat |",
+        "location": "Germany",
+        "streaming": {
+            "accountId": "557199581801099264",
+            "channel": {
+                "id": "697823992479756290",
+                "accountId": "557199581801099264",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.08mcX1SyVjwk.m3u8",
+                "chatRoomId": "697824241084542976",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1727868564000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "697823992479756291",
+                    "historyId": "779378464900784129",
+                    "channelId": "697823992479756290",
+                    "accountId": "557199581801099264",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2127,
+                    "createdAt": 1727868565000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1747312730000,
+                    "startedAt": 1747312666000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

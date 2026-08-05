@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02368d19-7b30-4425-aa72-89e74779409b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7098b0-3a47-46fd-8ff2-097a73d0af3f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "872419188860272640",
+        "username": "ToxzicMelody",
+        "displayName": null,
+        "version": 18,
+        "followCount": 520,
+        "statusId": 1,
+        "accountMediaLikes": 314,
+        "postLikes": 285,
+        "about": "🍈I'm not very smart!\n🍈I hope you enjoy my content~ \n🍈MWAH!\n\nContent made in CVR and Unity!\n\nlinktr.ee/toxzicmelody",
+        "location": "under your desk~",
+        "streaming": {
+            "accountId": "872419188860272640",
+            "channel": {
+                "id": "934111697877094400",
+                "accountId": "872419188860272640",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.cKaKIDveLX0u.m3u8",
+                "chatRoomId": "934111855155105792",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1784203943000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "934111697877094401",
+                    "historyId": "936676335986692096",
+                    "channelId": "934111697877094400",
+                    "accountId": "872419188860272640",
+                    "title": "first time dildo :3 short stream",
+                    "status": 1,
+                    "viewerCount": 21,
+                    "version": 4,
+                    "createdAt": 1784203943000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784821469000,
+                    "startedAt": 1784815401000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "934112271016140800",
+                                "streamId": "934111697877094401",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:19Z"
     }
 }

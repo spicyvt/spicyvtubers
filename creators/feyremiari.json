@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55872f74-27bb-42be-9e69-5526de418d81-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e33aa54c-b39d-4be0-b866-d51c0aff3c1d-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "819146970986725376",
+        "username": "FeyreMiari",
+        "displayName": "Feyre",
+        "version": 3,
+        "followCount": 4503,
+        "statusId": 1,
+        "accountMediaLikes": 2195,
+        "postLikes": 3845,
+        "about": "ˋ°•*⁀➷Your Fae Deer Guardian\n\nMommy or Girlfriend, you decide... I'm whatever you need me to be ♡ ♡ ♡ \n\n♡ ┊ Made for Pleasure \n♡ ┊ Free Live Streams / paid vods\n♡ ┊ Kink Roleplay in DMs \n♡ ┊ C*ck ratings, nsfw audios & more! \n\nSPOIL ME DADDY! -> https://throne.com/feyrensfw\n\n.♡ . ───────── .♡ . ───────── .♡ .\n\nAll in one Feyre website! https://feyremiari.carrd.co\n🌿┊Donate: https://streamelements.com/feyremiari/tip\n🌸┊Patreon: https://www.patreon.com/c/feyremiari\n🌿┊Custom Requests: https://vgen.co/FeyreMiari\n🌸┊Youtube: https://www.youtube.com/@FeyreMiari\n🌿┊Twitter: https://x.com/FeyreMiari\n🌸┊Twitch: https://www.twitch.tv/feyremiari\n\n.♡ . ───────── .♡ . ───────── .♡ .\n\n✉️ Contact：\nfeyremiari@gmail.com",
+        "location": "Follow me on Twitch: Feyremiari",
+        "streaming": {
+            "accountId": "819146970986725376",
+            "channel": {
+                "id": "828509985343303680",
+                "accountId": "819146970986725376",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.3oUpcYMSCBE4.m3u8",
+                "chatRoomId": "828515764821581824",
+                "status": 2,
+                "version": 17,
+                "createdAt": 1759026533000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "828509985343303681",
+                    "historyId": "854401298110365696",
+                    "channelId": "828509985343303680",
+                    "accountId": "819146970986725376",
+                    "title": "【Porn Stream】➷ Using all kinds of toys tonight! ~♡ ➷",
+                    "status": 1,
+                    "viewerCount": 92,
+                    "version": 20,
+                    "createdAt": 1759026533000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1765205905000,
+                    "startedAt": 1765199503000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "829216175274606592",
+                                "streamId": "828509985343303681",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

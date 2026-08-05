@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/afbaf62b-cd96-406e-99c2-dae04b05a075-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/986b6a17-3026-472f-9827-3b1247d2b98c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "526941677080817664",
+        "username": "Zairainel",
+        "displayName": "Zairainel",
+        "version": 4,
+        "followCount": 1653,
+        "statusId": 1,
+        "accountMediaLikes": 1378,
+        "postLikes": 1644,
+        "about": "ᴏꜰꜰɪᴄɪᴀʟ ᴀᴄᴄᴏᴜɴᴛ ᴏꜰ ᴢᴀɪʀᴀɪɴᴇʟ | 18+ | ꜱᴄᴜꜰꜰ ɪɴᴄᴀʀɴᴀᴛᴇ\n⌞ꜱᴛʀᴇᴀᴍꜱ ᴏɴ ꜰʀɪᴅᴀʏꜱ ᴀᴛ 10ᴘᴍ ᴄꜱᴛ ⌝\n\n「ᴜꜱᴇ ᴄᴏᴅᴇ: ᴢᴀɪʀᴀɪɴᴇʟ ᴛᴏ ɢᴇᴛ 5% ᴏꜰꜰ ʏᴏᴜʀ ɪᴛᴀꜱʜᴀᴄᴏꜰꜰᴇᴇ」\nhttps://itashacoffee.com/ZAIRAINEL\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nᴛᴡɪᴛᴄʜ: https://www.twitch.tv/zairainel\nᴛᴡɪᴛᴛᴇʀ: https://x.com/zairainel\nʏᴏᴜᴛᴜʙᴇ: https://www.youtube.com/@ZairainelVODs\nᴍᴏʀᴇ ᴏꜰ ᴍᴇ: https://allmylinks.com/zairainel \n\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n⚠️ Copyright Notice & Disclaimer ⚠️\n\nAll content posted on this Fansly account, including but not limited to photos, videos, text, and any other media, is the exclusive property of Zairainel. Unauthorized distribution, reproduction, modification, or sharing of any content from this account is strictly prohibited.",
+        "location": "https://allmylinks.com/zairainel ",
+        "streaming": {
+            "accountId": "526941677080817664",
+            "channel": {
+                "id": "724500786431668224",
+                "accountId": "526941677080817664",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TMVTwobjOUcF.m3u8",
+                "chatRoomId": "724501310623195136",
+                "status": 2,
+                "version": 31,
+                "createdAt": 1734228808000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "724500786431668225",
+                    "historyId": "940345207751188480",
+                    "channelId": "724500786431668224",
+                    "accountId": "526941677080817664",
+                    "title": "Spam 'E' for more Gun",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 1724,
+                    "createdAt": 1734228808000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785702123000,
+                    "startedAt": 1785690128000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "886508461574086656",
+                                "streamId": "724500786431668225",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

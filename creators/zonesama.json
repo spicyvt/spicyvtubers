@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/zonesama-profile_image-153bc397f8a53924-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/zonesama-profile_banner-eb9a234884e60edd-480.png"
+    },
+    "fansly": {
+        "id": "288686330064416768",
+        "username": "Z0NE",
+        "displayName": "ZONE",
+        "version": 8,
+        "followCount": 9568,
+        "statusId": 1,
+        "accountMediaLikes": 6211,
+        "postLikes": 4113,
+        "about": "🤖 DESIGNATION : ZONE-tron\n📄 IDENTIFIER : \"That handlebars robot\"\n📡 SEEKING : INPUT\n⚙️ FEATURES : Titanium love handles, High RPM ambulatory wheels with premium soft rubber tires, Primary & rear exhaust ports (compatible with synthetic & human appendages), Soft heated interior, Generous internal fluid capacity, Optional emotion chip.\n\n📑 ADDITIONAL DATA :\n🌐 zone-archive.com\n🌐 patreon.com/zone\n🌐 throne.com/zone\n🌐 twitch.tv/zonesama",
+        "location": "Internet",
+        "streaming": {
+            "accountId": "288686330064416768",
+            "channel": {
+                "id": "541357752883097600",
+                "accountId": "288686330064416768",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4n9MaCtuuWPm.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1690564106000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "541357752883097601",
+                    "historyId": null,
+                    "channelId": "541357752883097600",
+                    "accountId": "288686330064416768",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1690564106000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "541357819262148608",
+                                "streamId": "541357752883097601",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"540072829547196416\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

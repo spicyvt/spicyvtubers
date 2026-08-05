@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/466f7cac-3508-45fb-a53e-f86e4bb6dc5b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5432df38-495c-49d0-be75-d4d5a42b8f34-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "713738830275944448",
+        "username": "WillO_VT",
+        "displayName": "Will-O",
+        "version": 5,
+        "followCount": 3003,
+        "statusId": 1,
+        "accountMediaLikes": 706,
+        "postLikes": 1345,
+        "about": "Horny Vtuber! Half Minotaur, Half Succubus, ALL BRAT!  \n💦Twitch: twitch.tv/willo_vt\n💦Throne: throne.com/willo",
+        "location": "The Down Underworld",
+        "streaming": {
+            "accountId": "713738830275944448",
+            "channel": {
+                "id": "714030804405067776",
+                "accountId": "713738830275944448",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YSQgai9n3ol3.m3u8",
+                "chatRoomId": "714032381316575232",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1731732569000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "714030804405067777",
+                    "historyId": "870525766553579521",
+                    "channelId": "714030804405067776",
+                    "accountId": "713738830275944448",
+                    "title": "Birthday Stream! 🍰 !throne",
+                    "status": 1,
+                    "viewerCount": 49,
+                    "version": 3152,
+                    "createdAt": 1731732570000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1769052887000,
+                    "startedAt": 1769043876000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "745278303530659840",
+                                "streamId": "714030804405067777",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

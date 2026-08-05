@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3b9b5a6-38d2-4169-9c2c-5873a9a18201-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/879cf6a7-05d3-4c93-b159-c3b808195f86-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "670224633265401858",
+        "username": "SusBaal",
+        "displayName": "Baal",
+        "version": 6,
+        "followCount": 1290,
+        "statusId": 3,
+        "accountMediaLikes": 1598,
+        "postLikes": 818,
+        "about": "Goddess of Fertility at your service~! \n· · ─────── ·𖥸· ─────── · ·\nWelcome to the Holy Sheep's Fruitful Garden\n· · ─────── ·𖥸· ─────── · ·\nDM Response time: 💌 Daily response by 1am CT\nMinimum $10 tip before sending me any pics ;)\n♿🔞 NO AI🚫\n\n🎙️Want more ASMR content? Fund my binaural mic through Throne!!\n\nhttps://solo.to/baalvtuber \n\nHttps://www.throne.com/baalvtuber\n",
+        "location": "",
+        "streaming": {
+            "accountId": "670224633265401858",
+            "channel": {
+                "id": "745215212679868417",
+                "accountId": "670224633265401858",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.A9EJYoZe4GVd.m3u8",
+                "chatRoomId": "746985995215314944",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1739167512000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "745215212679868418",
+                    "historyId": "899923248341348352",
+                    "channelId": "745215212679868417",
+                    "accountId": "670224633265401858",
+                    "title": "More Bunny Baal💕🦋💫 FREE FOLLOWER STREAM~!!",
+                    "status": 1,
+                    "viewerCount": 20,
+                    "version": 150,
+                    "createdAt": 1739167512000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776063398000,
+                    "startedAt": 1776052782000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "871109499383992320",
+                                "streamId": "745215212679868418",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

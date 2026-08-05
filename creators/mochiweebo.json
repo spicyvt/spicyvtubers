@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f786761-006f-49a2-bbde-6b07f18e53b5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84980957-ab02-4049-8234-d6acdd52964f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "655946328475447299",
+        "username": "mochiweebo",
+        "displayName": "𝔪𝔬𝔪𝔬 💘",
+        "version": 13,
+        "followCount": 127,
+        "statusId": 1,
+        "accountMediaLikes": 36,
+        "postLikes": 61,
+        "about": "Hoi Hoi and YEEHAW! I'm Momo your future favourite online girlfriend! 🥵\nVTuber turned real~\n\n",
+        "location": "Your Nightmares",
+        "streaming": {
+            "accountId": "655946328475447299",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

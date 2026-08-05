@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5762361f-1dbd-4919-aa99-7dfaf8435917-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a52701c0-f34d-460b-992a-40c8086ec4d8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "847219291953569792",
+        "username": "snipsvt",
+        "displayName": "dragonmommy snips",
+        "version": 5,
+        "followCount": 48,
+        "statusId": 3,
+        "accountMediaLikes": 9,
+        "postLikes": 16,
+        "about": "Dragonmommy 🐉 I love how you're obsessed with me\n\nCum and make me feel good\nGoonette and free use enjoyer\n\nStreams Saturday Nights at 10 PM MST, and after some twitch streams...\nlewd snips art, irl cosplay, voice notes, customs, and more...\n\n2$ DM Tip required\n\nhttps://throne.com/snipsvt",
+        "location": "",
+        "streaming": {
+            "accountId": "847219291953569792",
+            "channel": {
+                "id": "897957061524996096",
+                "accountId": "847219291953569792",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ecwdDjryodfc.m3u8",
+                "chatRoomId": "898757206755782656",
+                "status": 2,
+                "version": 14,
+                "createdAt": 1775584006000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "897957061524996097",
+                    "historyId": "937613979457437696",
+                    "channelId": "897957061524996096",
+                    "accountId": "847219291953569792",
+                    "title": "high dragoness in your area...",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 32,
+                    "createdAt": 1775584006000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785045220000,
+                    "startedAt": 1785038952000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "936213647221354496",
+                                "streamId": "897957061524996097",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:53Z"
     }
 }

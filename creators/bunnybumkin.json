@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b23d2f91-d16f-4820-9c6d-a378ba4e1ae1-profile_image-70x70.png",
         "bannerImageUrl": null
+    },
+    "fansly": {
+        "id": "396949907212083200",
+        "username": "BunnyBumkin",
+        "displayName": "Bunny Bumkin",
+        "version": 16,
+        "followCount": 22933,
+        "statusId": 3,
+        "accountMediaLikes": 18496,
+        "postLikes": 9522,
+        "about": "༺♥༻❀༺♥༻༺♥\n༻❀༺♥༻༺♥༻❀༺♥༻\nBratty and Subby Bunny Girl~!\n\n💗Get your own Lovense using my link to join in on the fun💗\nhttps://www.lovense.com/r/fyt2ik\n💕OFFLINE TUESDAYS AND WEDNESDAYS💕\n\nWill you stay and game with me, pretty please~?\n\n✦ʚ♡ɞ✦ Kinks/Fetishes welcomed\n✦ʚ♡ɞ✦ Smooth brain, thoughts slide right off\n✦ʚ♡ɞ✦ dick smell dick smell dick smell\n✦ʚ♡ɞ✦ Bad at games but has great tits\n\n\nBuy me gifts!  https://throne.com/bunnybumkin\n\n༺♥༻❀༺♥༻༺♥༻❀༺♥༻༺♥༻❀༺♥༻",
+        "location": "Ur Moms Bed",
+        "streaming": {
+            "accountId": "396949907212083200",
+            "channel": {
+                "id": "397238324000993280",
+                "accountId": "396949907212083200",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.RppZhZwI6img.m3u8",
+                "chatRoomId": "401885437255233536",
+                "status": 2,
+                "version": 114,
+                "createdAt": 1656203356000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "397238324000993281",
+                    "historyId": "940420286627459072",
+                    "channelId": "397238324000993280",
+                    "accountId": "396949907212083200",
+                    "title": "✦Barony✦  How deep is this Dungeon?",
+                    "status": 1,
+                    "viewerCount": 19,
+                    "version": 9099,
+                    "createdAt": 1656203357000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785714983000,
+                    "startedAt": 1785708028000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940033483080744961",
+                                "streamId": "397238324000993281",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

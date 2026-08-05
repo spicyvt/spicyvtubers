@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c80739-b82d-4446-8245-57f1dcada4cf-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cec0a88-fbf0-4f1c-86e5-3a92a6861c99-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "738587090828144640",
+        "username": "Momimofu",
+        "displayName": "Momimofu",
+        "version": 13,
+        "followCount": 4268,
+        "statusId": 2,
+        "accountMediaLikes": 954,
+        "postLikes": 605,
+        "about": "German Vtuber and Lewdtuber - 💎Femdom | Findom ⛓️\nBratty Milf 💄 Strict Mistress☝🏻 Mean Domme 💸\n\n⛓️Content:\n      Livestreams\n      Domme Content\n      an actual Milf (44 years old!)\n      Deutsche ... ja, ist so\n\nAll of my content is copyrighted content that I own. \n\nCheck out my socials https://linktr.ee/mommymofu\n\n💎 ⌞Streams will return soon⌝ 💎\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. Any unauthorized distribution of my content & live streams will result in a ban from ALL platforms.\n\nEnforced by bruqi.com",
+        "location": "Germany",
+        "streaming": {
+            "accountId": "738587090828144640",
+            "channel": {
+                "id": "811675584055750659",
+                "accountId": "738587090828144640",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.T170zGpQ0oDO.m3u8",
+                "chatRoomId": "812415641435787264",
+                "status": 2,
+                "version": 28,
+                "createdAt": 1755012899000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "811675584055750660",
+                    "historyId": "936389337224855554",
+                    "channelId": "811675584055750659",
+                    "accountId": "738587090828144640",
+                    "title": "🩷German Dommy Mommy Gets Railed 🩷",
+                    "status": 1,
+                    "viewerCount": 48,
+                    "version": 104,
+                    "createdAt": 1755012899000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784752051000,
+                    "startedAt": 1784746975000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "920839530095845376",
+                                "streamId": "811675584055750660",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

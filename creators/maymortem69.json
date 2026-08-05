@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c67c455-c718-4641-998d-626178298602-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb0cb9af-2bcd-4f22-b50a-4c836057103b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "769384633560211456",
+        "username": "emoderp69",
+        "displayName": "maymortem69",
+        "version": 6,
+        "followCount": 25,
+        "statusId": 1,
+        "accountMediaLikes": 30,
+        "postLikes": 21,
+        "about": "The eldritch horror ready to show you her naughty side~ \nShe/her (trans) \n\nThis is my saucey account for the NSFW content I can't show on other platforms. ",
+        "location": "",
+        "streaming": {
+            "accountId": "769384633560211456",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:28Z"
     }
 }

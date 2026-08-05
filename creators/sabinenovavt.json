@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c689efb1-6055-4ed7-8dde-ef8a767e9faf-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3fb6447-f681-410f-b291-fc7d3b1bdcec-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "614671764005335048",
+        "username": "SabinenovaVT",
+        "displayName": "SabineNovaVT 💜",
+        "version": 22,
+        "followCount": 6611,
+        "statusId": 3,
+        "accountMediaLikes": 7481,
+        "postLikes": 5212,
+        "about": "HEY!!~ I'm Sabine Nova or Sabi/Nova for short💜I'm a Cybernetic 3D Vtuber/Lewdtuber \n\nI offer tons of content to followers!\n✦ FREE MONTHLY AUDIO (Followers get to vote for an audio every month that's free for followers during that month only)\n✦ FREE photo content\n✦ FREE Livestreams\n\n🔒 Check out my subscription tiers if you want more exclusive content like RP/ASMR Audios/Videos, Exclusive Livestreams, VODs, & MORE\n\nCheck out my socials!\n▶|| Twitter/X: https://x.com/SabinenovaVT\n▶|| Twitch: https://twitch.tv/SabinenovaVT\nMORE LINKS: https://beacons.ai/sabinenovavt\n\nStay connected & join the community in 'The Data Den' | ➤ https://discord.gg/hceJSUVcst\n\n💜 Wanna spoil me & help me make more content? Check out my wishlist here: https://throne.com/novaavt",
+        "location": "",
+        "streaming": {
+            "accountId": "614671764005335048",
+            "channel": {
+                "id": "616477128006836225",
+                "accountId": "614671764005335048",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ZInenoSe3TBL.m3u8",
+                "chatRoomId": "616477231824248832",
+                "status": 2,
+                "version": 60,
+                "createdAt": 1708473960000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "616477128006836226",
+                    "historyId": "939070622510620672",
+                    "channelId": "616477128006836225",
+                    "accountId": "614671764005335048",
+                    "title": "Spicy gaming 💜 |  !tipmenu !discord !socials !throne",
+                    "status": 1,
+                    "viewerCount": 18,
+                    "version": 5868,
+                    "createdAt": 1708473961000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785390488000,
+                    "startedAt": 1785386243000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "879165987679657985",
+                                "streamId": "616477128006836226",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:47Z"
     }
 }

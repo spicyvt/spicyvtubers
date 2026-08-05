@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/97c1e20c-99a1-4917-b19a-241be292a813-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1900d66-03f8-483e-a0d8-f2027ff7a888-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "285556290032250880",
+        "username": "Darkpixi",
+        "displayName": "Darkpixi 💀",
+        "version": 8,
+        "followCount": 2841,
+        "statusId": 3,
+        "accountMediaLikes": 1182,
+        "postLikes": 308,
+        "about": "⛔INACTIVE⛔\nEmo Neko VTuber 💀\nThe most depressed and wholesomely lewd meow meow~ 💜\n\n886017\n\n🔞 NSFW Art, Animations, & more... 🔞\n\n🔗 darkpixilinks.carrd.co",
+        "location": "Hell :3",
+        "streaming": {
+            "accountId": "285556290032250880",
+            "channel": {
+                "id": "401844129778114560",
+                "accountId": "285556290032250880",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qldpM2CCxnye.m3u8",
+                "chatRoomId": "401844161893904386",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1657301466000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "401844129778114561",
+                    "historyId": "695962986124156928",
+                    "channelId": "401844129778114560",
+                    "accountId": "285556290032250880",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 15,
+                    "version": 2600,
+                    "createdAt": 1657301466000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1727432101000,
+                    "startedAt": 1727424866000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "401857261250555904",
+                                "streamId": "401844129778114561",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

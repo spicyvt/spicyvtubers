@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca0889a6-fec7-4244-b59b-da976c46ab45-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3922dbc1-f14a-4fe8-9c97-7b07328de0d9-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "720446255288823809",
+        "username": "Menmamaki",
+        "displayName": "Menmamaki",
+        "version": 3,
+        "followCount": 12105,
+        "statusId": 3,
+        "accountMediaLikes": 108182,
+        "postLikes": 63442,
+        "about": "Shortstack lewd maid's late night services \nOTONA JP 🌈 add ?xid=i9f to any link\nLOVENSE AFFILIATE CODE 🔞 https://www.lovense.com/r/cmwd7h\nI am a maid that specializes in the service of releasing your \"stress\" after a long and difficult day. If you want to feel good please rely on me, master! ❤️\n⏰I stream every Wednesday at 9:30PM EST , sometimes Saturdays at the same time or if I get horny after a normal stream...⏰\nAudio schedule is random!",
+        "location": "Your closet",
+        "streaming": {
+            "accountId": "720446255288823809",
+            "channel": {
+                "id": "733146948046958592",
+                "accountId": "720446255288823809",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.UImP7eVbOpKq.m3u8",
+                "chatRoomId": "733147172266057728",
+                "status": 2,
+                "version": 74,
+                "createdAt": 1736290213000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "733146948046958593",
+                    "historyId": "939023701121183744",
+                    "channelId": "733146948046958592",
+                    "accountId": "720446255288823809",
+                    "title": "licks you",
+                    "status": 1,
+                    "viewerCount": 185,
+                    "version": 5704,
+                    "createdAt": 1736290213000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785377758000,
+                    "startedAt": 1785375056000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "910069121268346880",
+                                "streamId": "733146948046958593",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"721892296957636608\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

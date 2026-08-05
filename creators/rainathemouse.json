@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bc108da-bce3-4886-8815-a8ab60de157f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33e3d3af-13e5-42f4-8678-e9d654f615ac-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "411266468815056896",
+        "username": "RainaLove",
+        "displayName": "RainaLove",
+        "version": 10,
+        "followCount": 11285,
+        "statusId": 1,
+        "accountMediaLikes": 19740,
+        "postLikes": 27087,
+        "about": " Lewdtuber sky pirate, I stream regularly on Twitch and here! I also share IRL photos and voice work~! Check my links below to see my other stuff or to commission me for voice work~\n\nCarrd ✨ https://raina-the-mouse.carrd.co/\nThrone 💚 https://throne.com/rainathemouse\nVA Commissions 🎙️  https://bit.ly/raina-comms\nRogue Energy  ⚡  https://rogueenergy.com/?ref=RoguishRaina\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nCopyright Notice & Disclaimer\n\nCopyright © [2025] RainaLove All Rights Reserved.\n\nAll content posted on this Fansly account, including but not limited to photos, videos, text, and any other media, is the exclusive property of RainaLove. Unauthorized distribution, reproduction, modification, or sharing of any content from this account is strictly prohibited.\n\nBy accessing this page, you acknowledge that:\n\n💚 - Content is for personal viewing only and may not be copied, recorded, or redistributed.\n💚 - Legal action may be taken against individuals who violate these terms, including infringement of this account's content\n💚 - All interactions and transactions on this platform are voluntary, and refunds will not be issued once content has been accessed.",
+        "location": "Between sea and sky, near Canada",
+        "streaming": {
+            "accountId": "411266468815056896",
+            "channel": {
+                "id": "412834631952379904",
+                "accountId": "411266468815056896",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NNiRNqHu4u9M.m3u8",
+                "chatRoomId": "412834798051012608",
+                "status": 2,
+                "version": 64,
+                "createdAt": 1659921806000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "412834631952379905",
+                    "historyId": "937120079600951296",
+                    "channelId": "412834631952379904",
+                    "accountId": "411266468815056896",
+                    "title": "{TOYS ON} Low Energy Stuff-It!",
+                    "status": 1,
+                    "viewerCount": 15,
+                    "version": 571,
+                    "createdAt": 1659921806000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784928604000,
+                    "startedAt": 1784921197000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "412835435874627584",
+                                "streamId": "412834631952379905",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

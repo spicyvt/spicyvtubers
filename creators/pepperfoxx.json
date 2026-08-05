@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bacac3ad-9410-41f1-aae2-fb9570da54d3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09aa8cb7-9a43-4cd2-a999-d450c31e337b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "583874020768755717",
+        "username": "Pepperfox",
+        "displayName": "Pepper",
+        "version": 7,
+        "followCount": 19020,
+        "statusId": 2,
+        "accountMediaLikes": 32694,
+        "postLikes": 26893,
+        "about": "Pepper🌸 \nhi :3\nyou aren't talking to anyone besides me, right? >:\\\n\ncustoms open~ https://fansly.com/post/898157561662939137\n\nLIVE 2X WEEKLY (free for followers!)\nSubscribe to unlock pictures, videos, VOD access, VR AND IRL content\nAll my socials~> https://linktr.ee/pepperf0x\n\nLovense toys, come vibe with me ~> https://www.lovense.com/r/rii2m9\n\nmodels: \nhttps://stupidbaby.gumroad.com/\nhttps://kaiylast.love/",
+        "location": "",
+        "streaming": {
+            "accountId": "583874020768755717",
+            "channel": {
+                "id": "646828818786430976",
+                "accountId": "583874020768755717",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.dpKxhbKgtZvl.m3u8",
+                "chatRoomId": "683039694144942080",
+                "status": 2,
+                "version": 183,
+                "createdAt": 1715710367000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "646828818786430977",
+                    "historyId": "940167288298954752",
+                    "channelId": "646828818786430976",
+                    "accountId": "583874020768755717",
+                    "title": "control me ($40 4min link) // !menu",
+                    "status": 1,
+                    "viewerCount": 133,
+                    "version": 7566,
+                    "createdAt": 1715710368000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785650885000,
+                    "startedAt": 1785647709000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

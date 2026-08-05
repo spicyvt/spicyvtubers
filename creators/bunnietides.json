@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/096d8ee8-0d19-4a69-9d7b-fafd89d5562b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96287594-10fc-4d35-aae7-f221ee3d153c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "458470138404937728",
+        "username": "BunnieTides",
+        "displayName": "Bunnie Tides",
+        "version": 17,
+        "followCount": 449,
+        "statusId": 1,
+        "accountMediaLikes": 827,
+        "postLikes": 227,
+        "about": "hi, I'm Bunnie! your 4'8 chubby time deity! :) \nmy IRL content goes here! \nI try to post weekly but things are happening, will always be an archive of my past content :)\n\n\nSocials! -> https://linktr.ee/BunnieTides\n\ndon't download or redistribute any of my content. ",
+        "location": "the beach",
+        "streaming": {
+            "accountId": "458470138404937728",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:51Z"
     }
 }

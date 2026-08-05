@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/742bed6b-5cd4-4a28-b704-8ba0b0adbb02-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf8dcc6e-fc3b-454e-83f1-0d91cb8ba37c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "375758534354153472",
+        "username": "Yunadere",
+        "displayName": "Yuna🎀✨",
+        "version": 20,
+        "followCount": 4990,
+        "statusId": 1,
+        "accountMediaLikes": 583,
+        "postLikes": 1098,
+        "about": "🎀LIVE EVERY(ish) SUNDAY @ 8EST!!✨\n\nMy name is Yuna and I love recording my voice. Come hang out and listen <3\n\nHome to my moaning audios and lewd art and LEWD IRL PICS!\nhttps://beacons.ai/yunadere",
+        "location": "",
+        "streaming": {
+            "accountId": "375758534354153472",
+            "channel": {
+                "id": "734618114825658368",
+                "accountId": "375758534354153472",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xMwmNoDhJPTG.m3u8",
+                "chatRoomId": "769110582174425088",
+                "status": 2,
+                "version": 35,
+                "createdAt": 1736640967000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "734618114825658369",
+                    "historyId": "940450926815105024",
+                    "channelId": "734618114825658368",
+                    "accountId": "375758534354153472",
+                    "title": "lewdoodles night :3 ",
+                    "status": 1,
+                    "viewerCount": 35,
+                    "version": 3394,
+                    "createdAt": 1736640967000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785722648000,
+                    "startedAt": 1785715333000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "771587095541063680",
+                                "streamId": "734618114825658369",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4bb34ad-47ec-46c1-83ee-a95161a2f0f1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5a916f1-5071-4501-8ede-6cf2050e668a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "443866022496182272",
+        "username": "kitachan",
+        "displayName": "Goddess Milky",
+        "version": 14,
+        "followCount": 1681,
+        "statusId": 1,
+        "accountMediaLikes": 956,
+        "postLikes": 655,
+        "about": "FOX GODDESS [ FEMDOM / SUBMISSIVE / FINDOM / MOMMY ]\n\nDMS but NO ERP",
+        "location": "In your phone for eternity <3",
+        "streaming": {
+            "accountId": "443866022496182272",
+            "channel": {
+                "id": "852641126736220160",
+                "accountId": "443866022496182272",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xJoTbE2dA340.m3u8",
+                "chatRoomId": "852641294063783936",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1764779845000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "852641126736220161",
+                    "historyId": "937087329128951808",
+                    "channelId": "852641126736220160",
+                    "accountId": "443866022496182272",
+                    "title": "Fox Goddess Takes Control",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 26,
+                    "createdAt": 1764779846000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784913494000,
+                    "startedAt": 1784913389000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

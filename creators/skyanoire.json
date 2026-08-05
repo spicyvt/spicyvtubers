@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6640dd0-d3dc-4437-bcd3-b45bced9e7b5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e5cfca6-a2c7-442d-9cc6-c27e8fe468fc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "572299908611055616",
+        "username": "SkyaNoire",
+        "displayName": "Skya Noire",
+        "version": 8,
+        "followCount": 423,
+        "statusId": 1,
+        "accountMediaLikes": 48,
+        "postLikes": 91,
+        "about": "𝙵𝙰𝙴𝙱𝚁𝙰𝚃 ☠︎︎ 𝚂𝚞𝚜𝚜𝚢 𝚐𝚘𝚝𝚑 𝚏𝚊𝚒𝚛𝚢 𝚓𝚞𝚜𝚝 𝚏𝚘𝚛 𝚢𝚘𝚞 ⋆♱  \n⌞Streams TBD ⌝\n\n| Sub | Brat | 90 lbs | 5’0 | ☠︎︎ ⋆₊ ♱\n\nCheck out my socials\n\n⋆༺ 𓆩☠︎︎𓆪 ༻ ⋆\n\n✘ Twitch: https://www.twitch.tv/skyanoire\n✘ Twitter: https://www.x.com/skyanoire\n✘ TikTok: https://www.tiktok.com/@skya.noire\n✘ Everything: https://skyanoire.carrd.co\n\n𝒮𝓅𝑜𝒾𝓁 𝓂𝑒: http://throne.com/skyanoire 𓆩☠︎︎𓆪",
+        "location": "",
+        "streaming": {
+            "accountId": "572299908611055616",
+            "channel": {
+                "id": "796290289999294464",
+                "accountId": "572299908611055616",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.u93JTTXk8wty.m3u8",
+                "chatRoomId": "796290686180667392",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1751344759000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "796290289999294465",
+                    "historyId": "866239347022647296",
+                    "channelId": "796290289999294464",
+                    "accountId": "572299908611055616",
+                    "title": "First ever fansly stream!",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 14,
+                    "createdAt": 1751344759000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1768021919000,
+                    "startedAt": 1768021914000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "796493388898643969",
+                                "streamId": "796290289999294465",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee967e8c-8f59-4ef4-a32f-def0571375c4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aece5bff-359d-466d-8d51-5d5cc19f6f86-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "801085296367120384",
+        "username": "MysticalRosalie",
+        "displayName": "Mystical Rosalie",
+        "version": 3,
+        "followCount": 252,
+        "statusId": 1,
+        "accountMediaLikes": 100,
+        "postLikes": 199,
+        "about": "Hi, I'm Rosalie 💜 | Yandere | Bratty | Lewdtuber | Kinky\n\nLewdtuber lives, art & animation (soon to be VA)\n🎉I Respond to tips\n\nFollow my socials & Keep up with me 💋\n\nhttps://x.com/mysticalrosevt\nhttps://www.twitch.tv/mysticalrosalie\nhttps://throne.com/mysticalrosalie\n\n\n⚠️All of my content is for my Fansly profile only. ⚠️\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. Any unauthorized distribution of my content & live streams will result in a ban from ALL platforms.\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "801085296367120384",
+            "channel": {
+                "id": "807822745810255872",
+                "accountId": "801085296367120384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.VOPd9tUcTx39.m3u8",
+                "chatRoomId": "807822849455706113",
+                "status": 2,
+                "version": 19,
+                "createdAt": 1754094311000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "807822745810255873",
+                    "historyId": "833239984285691904",
+                    "channelId": "807822745810255872",
+                    "accountId": "801085296367120384",
+                    "title": "Play with me | Lewdtuber debut ",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 16,
+                    "createdAt": 1754094311000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1764882546000,
+                    "startedAt": 1760154253000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "809569607454052352",
+                                "streamId": "807822745810255873",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

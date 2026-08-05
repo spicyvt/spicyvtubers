@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffb97941-61c2-402d-a0fb-f516b5aa9902-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2a0d197-acf7-4659-bfc4-b11c53159327-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "625123889743142913",
+        "username": "misapup",
+        "displayName": "misapup",
+        "version": 13,
+        "followCount": 559,
+        "statusId": 1,
+        "accountMediaLikes": 1362,
+        "postLikes": 574,
+        "about": "♡ Will be inactive on here soon and moving to Patreon, please see my pin post for more details\n\nLinks to other socials here! > https://linktr.ee/misapup\n--\n*All content is copyrighted. You do not have the permission to screenshot, post or share any of the content posted to this page. Failure to follow these rules can result in legal action taken through your bank details.*",
+        "location": "",
+        "streaming": {
+            "accountId": "625123889743142913",
+            "channel": {
+                "id": "681258680749924353",
+                "accountId": "625123889743142913",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.DTIyXQCbkxwF.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1723919086000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "681258680749924354",
+                    "historyId": null,
+                    "channelId": "681258680749924353",
+                    "accountId": "625123889743142913",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1723919086000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

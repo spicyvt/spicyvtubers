@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdfce71b-4422-4235-ba7d-18c4e978b36d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f4ca95a-eb67-4c33-8ea5-824e2ec3d52f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "309976345276850176",
+        "username": "guts",
+        "displayName": "guts ☆",
+        "version": 13,
+        "followCount": 19424,
+        "statusId": 2,
+        "accountMediaLikes": 23723,
+        "postLikes": 29790,
+        "about": "🌷 on extended break 🌷\ndumb chubby heifer \n",
+        "location": "YOUR DREAMS",
+        "streaming": {
+            "accountId": "309976345276850176",
+            "channel": {
+                "id": "596610906327097344",
+                "accountId": "309976345276850176",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.fuR89AJ89Nww.m3u8",
+                "chatRoomId": "596610960618168320",
+                "status": 2,
+                "version": 34,
+                "createdAt": 1703737484000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "596610906327097345",
+                    "historyId": "886119093571186688",
+                    "channelId": "596610906327097344",
+                    "accountId": "309976345276850176",
+                    "title": "(｡•́   ̫ •̀｡) throat training asmr ",
+                    "status": 1,
+                    "viewerCount": 143,
+                    "version": 5596,
+                    "createdAt": 1703737485000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1772765645000,
+                    "startedAt": 1772761615000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "886116299820769280",
+                                "streamId": "596610906327097345",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c28fb82a-04c3-4cc5-8e83-ee24bc83a29d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7bf8fc-355d-4136-a912-446a6fdaf888-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "644077438170570752",
+        "username": "secretsubject",
+        "displayName": null,
+        "version": 3,
+        "followCount": 721,
+        "statusId": 1,
+        "accountMediaLikes": 41,
+        "postLikes": 59,
+        "about": "The voice inside your head... Femdom asmr vtuber.",
+        "location": "New Zealand",
+        "streaming": {
+            "accountId": "644077438170570752",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

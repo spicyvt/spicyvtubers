@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d6615e0-c2c4-482a-af1c-ed33e723340d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/945a2b0a-9ee9-449b-a6c9-713facccfa1d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "615468559652368384",
+        "username": "VenusDragon",
+        "displayName": "Hyra",
+        "version": 12,
+        "followCount": 14600,
+        "statusId": 3,
+        "accountMediaLikes": 22256,
+        "postLikes": 20284,
+        "about": "Hello! I'm Hyra! ♥ Your favourite D.I.L.F. (Dragon I'd Like to Follow... probably. ;)) ✨\n\nThis profile is completely managed by myself.\nNo bots, nobody who chats with you, it's 100% me. So please be nice! ☺️👌 I try to answer Dm's whenever I got time.\n\n──── ୨୧ ────\n\n✨ Socials & Goodies ✨\n\n» https://guns.lol/hyraldia\n\n──── ୨୧ ────\n\n🐉 My Dragon Toy\n\nhttps://intimaly.com/de/products/feel-hyraldia?bg_ref=QZkrMMDCYW\n\n✨ Save $20 with code HYRA20 ❥\n\n──── ୨୧ ────\n\n♡ Reposting, redistributing, or sharing my content is strictly prohibited and may result in legal action.\n\n♡ All purchases are final. Thank you for supporting your favorite tomboy dragon. ✧･ﾟ: ✧･ﾟ:\n",
+        "location": "",
+        "streaming": {
+            "accountId": "615468559652368384",
+            "channel": {
+                "id": "703711598170087424",
+                "accountId": "615468559652368384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9xPD6k3Yx9Ff.m3u8",
+                "chatRoomId": "703711656466718720",
+                "status": 2,
+                "version": 284,
+                "createdAt": 1729272279000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "703711598170087425",
+                    "historyId": "941116258978373633",
+                    "channelId": "703711598170087424",
+                    "accountId": "615468559652368384",
+                    "title": "Squirt-a-thon day 25 ~ Let´s play some games! (It´s still to hot for VR ;_;) ♥ !irl",
+                    "status": 1,
+                    "viewerCount": 66,
+                    "version": 2010,
+                    "createdAt": 1729272279000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785891179000,
+                    "startedAt": 1785873961000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

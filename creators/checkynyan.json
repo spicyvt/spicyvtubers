@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba8bfb55-4b87-4d62-b7b0-ba805d6b99ba-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0565c815-25f6-466c-a109-933eb2789b28-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "459927521450799104",
+        "username": "CheckyNyan",
+        "displayName": "CheckyNyan",
+        "version": 4,
+        "followCount": 1582,
+        "statusId": 1,
+        "accountMediaLikes": 1494,
+        "postLikes": 1755,
+        "about": "Hi hi! my name is CheckyNyanChan, or Checky for short! I'm a water dragon cat Vtuber! \n**Message me for my Lovesense Link**\n\n💗I answer all DMs♥\n💗Dick/Pussy/Titty Ratings\n💗I take Requests\n💗https://checkynyaughty.carrd.co/\nhttps://throne.com/checkynyan/wishlist",
+        "location": "The Temple",
+        "streaming": {
+            "accountId": "459927521450799104",
+            "channel": {
+                "id": "519337872197689344",
+                "accountId": "459927521450799104",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.rN6R0axZZRsz.m3u8",
+                "chatRoomId": "525168961243852800",
+                "status": 2,
+                "version": 42,
+                "createdAt": 1685314157000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "519337872197689345",
+                    "historyId": "940488046107717633",
+                    "channelId": "519337872197689344",
+                    "accountId": "459927521450799104",
+                    "title": "TOY ON [CheckyNyan] Drawing Smut vibe with me",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 653,
+                    "createdAt": 1685314157000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785732608000,
+                    "startedAt": 1785724183000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

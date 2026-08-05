@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/07e75c64-d145-42f4-954b-6e5a75f45e7e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ec3a276-c297-4f85-8857-42da580497e4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "602506835026522112",
+        "username": "BubbieKilla",
+        "displayName": null,
+        "version": 4,
+        "followCount": 1231,
+        "statusId": 1,
+        "accountMediaLikes": 475,
+        "postLikes": 1452,
+        "about": "World's Best Guilty Pleasure <3\n\nI love cumming I love cumming I love cumming please make me cum 💜\n\nModel by: @KinkyKissu ~\n\nThrone: https://throne.com/bubbiekilla\n",
+        "location": "Hell",
+        "streaming": {
+            "accountId": "602506835026522112",
+            "channel": {
+                "id": "725673340072636417",
+                "accountId": "602506835026522112",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.GixF3rrOgwc6.m3u8",
+                "chatRoomId": "728132002259152897",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1734508366000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "725673340072636418",
+                    "historyId": "910441283514802176",
+                    "channelId": "725673340072636417",
+                    "accountId": "602506835026522112",
+                    "title": "Its sooo colddd~ Cum warm up this horny demon >:3",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 8622,
+                    "createdAt": 1734508366000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778563812000,
+                    "startedAt": 1778560477000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

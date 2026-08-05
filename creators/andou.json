@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84313484-848f-45e5-976e-b2a67926fd16-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/88422010-5dd8-46c8-8d59-489ee5c2145b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "520354575702568961",
+        "username": "andou",
+        "displayName": "andou",
+        "version": 5,
+        "followCount": 5541,
+        "statusId": 1,
+        "accountMediaLikes": 6535,
+        "postLikes": 11427,
+        "about": "😈 BBW hedonist feedee. vtuber. findom brat. 😈\n🌈 LGBTQIA+ & kink friendly space 🌈\n🎁 throne.com/andou 🎁\n🍩 www.lovense.com/p/andou 🍩 GET UP TO 50% OFF ON LOVENSE TOYS USING MY LINK ",
+        "location": "",
+        "streaming": {
+            "accountId": "520354575702568961",
+            "channel": {
+                "id": "533830757697724416",
+                "accountId": "520354575702568961",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ZHF3hg5pbtf8.m3u8",
+                "chatRoomId": "533830959649267713",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1688769530000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "533830757697724417",
+                    "historyId": "900573147311382528",
+                    "channelId": "533830757697724416",
+                    "accountId": "520354575702568961",
+                    "title": "BBW MOMMY WANTS TO JERK OFF WITH YOU",
+                    "status": 1,
+                    "viewerCount": 28,
+                    "version": 5716,
+                    "createdAt": 1688769531000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776213566000,
+                    "startedAt": 1776207730000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "808843609565589504",
+                                "streamId": "533830757697724417",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/783b4013-c588-4451-9fbc-61b1b9b20321-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3faa95c9-97a0-4cab-bae2-8f290f3ba962-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "736464353334669312",
+        "username": "Lannahbabe",
+        "displayName": "Lannahbabe",
+        "version": 6,
+        "followCount": 7235,
+        "statusId": 3,
+        "accountMediaLikes": 5091,
+        "postLikes": 6367,
+        "about": "Your Naughty sakura fox\n \n🔥IRL and Vtuber nude!\n💦Weekly Fansly Streams! \n✉️I do respond to DMs, but please be patient with me. Subs/tips get DM priority \n\n\nJoin my discord for alot of fun~\n 🌸 Discord: https://discord.gg/dedvUyedUj\n 🌸Want to get me a little gift? https://throne.com/lannahbabensfw \n🌸 All socials: https://lannahbabe.carrd.co/\n\n\n\nAll of my content is copyrighted content that I own. ",
+        "location": "Australia",
+        "streaming": {
+            "accountId": "736464353334669312",
+            "channel": {
+                "id": "788036212412657664",
+                "accountId": "736464353334669312",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.nuMJ5zcj913W.m3u8",
+                "chatRoomId": "788036510032080896",
+                "status": 2,
+                "version": 18,
+                "createdAt": 1749376834000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "788036212412657665",
+                    "historyId": "928898622521622528",
+                    "channelId": "788036212412657664",
+                    "accountId": "736464353334669312",
+                    "title": "I'm back darling! ",
+                    "status": 1,
+                    "viewerCount": 45,
+                    "version": 45,
+                    "createdAt": 1749376834000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782969139000,
+                    "startedAt": 1782961049000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "788037932530278401",
+                                "streamId": "788036212412657665",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

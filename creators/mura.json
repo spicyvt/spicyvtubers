@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb9aa83a-1a92-4685-a9cf-5305ddddcafd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9af668f8-d3f4-45ee-a6a3-6f1739a390b2-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "286474256429101056",
+        "username": "mura",
+        "displayName": "milk🥛",
+        "version": 10,
+        "followCount": 15007,
+        "statusId": 3,
+        "accountMediaLikes": 9579,
+        "postLikes": 7323,
+        "about": "💙I might look cute, but you'll see what kinda of cum obsessed slut I am...💙\n🔹all my links: https://mura.tv/\n🔹wishlist: https://throne.com/mura\n🔹all streams are FREE (Monday@MIDNIGHT + Friday@1AM)\n🔹──────────── 🔹\nfor business stuff: twitch@moo.tv",
+        "location": "on your lap :3 ",
+        "streaming": {
+            "accountId": "286474256429101056",
+            "channel": {
+                "id": "305943089149652992",
+                "accountId": "286474256429101056",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.sg4duhZ4hSJk.m3u8",
+                "chatRoomId": "305943160465399808",
+                "status": 2,
+                "version": 64,
+                "createdAt": 1634436876000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "305943089149652993",
+                    "historyId": "938340639152545792",
+                    "channelId": "305943089149652992",
+                    "accountId": "286474256429101056",
+                    "title": "🤍ruin this birthday girl... make me mush... milk me...🤍",
+                    "status": 1,
+                    "viewerCount": 157,
+                    "version": 1311,
+                    "createdAt": 1634436877000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785229140000,
+                    "startedAt": 1785212201000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "856104534357864448",
+                                "streamId": "305943089149652993",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

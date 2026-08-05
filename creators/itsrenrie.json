@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/560509da-dfb5-4c5a-a8f0-901d042b268e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aad98406-623a-4f7d-86a9-0563da0c2a6d-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "518834516920381440",
+        "username": "RenRie",
+        "displayName": null,
+        "version": 4,
+        "followCount": 3809,
+        "statusId": 1,
+        "accountMediaLikes": 3774,
+        "postLikes": 3189,
+        "about": "Your lil eldritch shapeshifter, here for some fun and chaos <3",
+        "location": "",
+        "streaming": {
+            "accountId": "518834516920381440",
+            "channel": {
+                "id": "623628199099637760",
+                "accountId": "518834516920381440",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.f5xWvt4SB6KP.m3u8",
+                "chatRoomId": "623629276574392320",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1710178909000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "623628199099637761",
+                    "historyId": "931497420116742144",
+                    "channelId": "623628199099637760",
+                    "accountId": "518834516920381440",
+                    "title": "Late Night Comm Work",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 8023,
+                    "createdAt": 1710178909000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783588542000,
+                    "startedAt": 1783580651000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "641214626419187713",
+                                "streamId": "623628199099637761",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

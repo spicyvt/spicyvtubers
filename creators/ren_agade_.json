@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/46e9d726-0144-4aef-b62b-2a7c547ec74e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84f4d5d7-673d-47e4-bacf-2d3f1417a380-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "717637147170975744",
+        "username": "ren_agade",
+        "displayName": null,
+        "version": 5,
+        "followCount": 66481,
+        "statusId": 3,
+        "accountMediaLikes": 255444,
+        "postLikes": 115387,
+        "about": "⸜(｡˃ ᵕ ˂)⸝♡ Your cute bratty puppygirl ☁️🪼\n\n𖹭Professional Egirl𖹭 | ❤︎Bratty Switch ❤︎ | 𖹭Vtuber/IRL𖹭\n \n⋆｡ﾟ☁︎ IRL LEWDS/NUDES\n\n૮ ⚆ﻌ⚆ა VOD's For Puppy Knight Tier Up!𖹭\n\n(  •̀ - •́  ) I only respond to DM's here!𖹭\n\n(•̀ᴗ•́ )و Spoil me here cutie https://throne.com/ren_agade_ 𖹭\n\n(˶°ㅁ°) !! All content posted is for my Fansly profile & is copyrighted and owned by ME!\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. Any unauthorized distribution of my content & live streams will result in a ban from ALL platforms & legal action will be taken.\n\nI also reserve the right to ban/block anyone at ANY point even if no rules have been broken. If you are banned/blocked on any of my other social platforms, you WILL be blocked here as well. \n",
+        "location": "",
+        "streaming": {
+            "accountId": "717637147170975744",
+            "channel": {
+                "id": "757387735127302144",
+                "accountId": "717637147170975744",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BqnzB2egTwnx.m3u8",
+                "chatRoomId": "757745290047401984",
+                "status": 2,
+                "version": 215,
+                "createdAt": 1742069667000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "757387735127302145",
+                    "historyId": "940814024138829825",
+                    "channelId": "757387735127302144",
+                    "accountId": "717637147170975744",
+                    "title": "PUPPY LICKS YOU! Asmr!",
+                    "status": 1,
+                    "viewerCount": 137,
+                    "version": 8680,
+                    "createdAt": 1742069668000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785808914000,
+                    "startedAt": 1785801902000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "928498361613443072",
+                                "streamId": "757387735127302145",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:21:28Z"
     }
 }

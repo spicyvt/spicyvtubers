@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1d95bcb-70f5-468e-b3e2-1fef14de09c6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/04306bac-e8ec-455d-acf0-a5a0328154bd-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "485407672162590720",
+        "username": "Kittychan4",
+        "displayName": "Kittychan4",
+        "version": 7,
+        "followCount": 3673,
+        "statusId": 1,
+        "accountMediaLikes": 2011,
+        "postLikes": 3137,
+        "about": "I'm just your gyaru cat girl goddess! Visit and get to worshipping! Want to get my attention? \nSpoil me: https://throne.com/kittychan4 (Sfw) \nhttps://throne.com/kittychan4nsfw (NSFW) \n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "485407672162590720",
+            "channel": {
+                "id": "586877457404010497",
+                "accountId": "485407672162590720",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BEMcHcZyRSWB.m3u8",
+                "chatRoomId": "586877490702594048",
+                "status": 2,
+                "version": 43,
+                "createdAt": 1701416849000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "586877457404010498",
+                    "historyId": "937626819543179266",
+                    "channelId": "586877457404010497",
+                    "accountId": "485407672162590720",
+                    "title": "Come chat!",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 8780,
+                    "createdAt": 1701416849000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785047174000,
+                    "startedAt": 1785042014000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "879621504617160704",
+                                "streamId": "586877457404010498",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

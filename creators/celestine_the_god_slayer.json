@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/586dd7ea-f819-41f8-b7b2-d2893c831284-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa3786b6-b99e-4f85-a045-be888f996079-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "658988183077265408",
+        "username": "CelestineTGS",
+        "displayName": "CelestineTGS",
+        "version": 6,
+        "followCount": 31,
+        "statusId": 1,
+        "accountMediaLikes": 34,
+        "postLikes": 26,
+        "about": "A neko android that loves lewd things, mainly BDSM. I am the Bondage Princess!",
+        "location": "",
+        "streaming": {
+            "accountId": "658988183077265408",
+            "channel": {
+                "id": "706661704527781888",
+                "accountId": "658988183077265408",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qhdcTHNRWeRK.m3u8",
+                "chatRoomId": "713903226545512450",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1729975639000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "706661704527781889",
+                    "historyId": "939766599794040832",
+                    "channelId": "706661704527781888",
+                    "accountId": "658988183077265408",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 973,
+                    "createdAt": 1729975639000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785552207000,
+                    "startedAt": 1785552177000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:24Z"
     }
 }

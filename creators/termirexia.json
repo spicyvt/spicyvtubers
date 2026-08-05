@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7574753-ecfa-400f-b636-56efda5be5f6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e68353c3-48dc-4019-9ef0-c2208a3b8e77-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "321836567767298048",
+        "username": "Termirexia",
+        "displayName": null,
+        "version": 6,
+        "followCount": 4910,
+        "statusId": 3,
+        "accountMediaLikes": 11233,
+        "postLikes": 9031,
+        "about": "Hey there, little Lustling,\nYes, I am talking to you. Here for some sexy Devil Girl action? Sensual or pure hardcore? Well come closer and let me help you out with that desire. \n\nBook me for private fun, hit me up in dms about that ~\n\nDommy Mommy Termirexia is here to fulfill you fantasies and kinks, u fu fu~\n",
+        "location": "Germany",
+        "streaming": {
+            "accountId": "321836567767298048",
+            "channel": {
+                "id": "413959580465242112",
+                "accountId": "321836567767298048",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.64aUIJqQ6c1I.m3u8",
+                "chatRoomId": "583037881094774784",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1660190015000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "413959580465242113",
+                    "historyId": "916479821658210304",
+                    "channelId": "413959580465242112",
+                    "accountId": "321836567767298048",
+                    "title": "thirsty thursday",
+                    "status": 1,
+                    "viewerCount": 23,
+                    "version": 3814,
+                    "createdAt": 1660190015000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780005757000,
+                    "startedAt": 1780000176000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

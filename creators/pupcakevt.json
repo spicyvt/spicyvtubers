@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c69ccf8-c10b-4f95-b168-0d2d147a2eef-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1491c70b-758a-4872-8f20-dda45ce1ff0d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "477716883898900480",
+        "username": "PupcakeVT",
+        "displayName": null,
+        "version": 3,
+        "followCount": 1543,
+        "statusId": 3,
+        "accountMediaLikes": 561,
+        "postLikes": 631,
+        "about": "Just your horny local Hell hound\n~ Certified Puppy Girl  ~\nIRL, art, and streaming content\nI'm Pup ~ your lil pet \n4'10 ( •̀ ω •́ )y\nVtuber/Lewdtuber\n\n♡ Consider getting Puppy a gift\n https://throne.com/pupcakevt\n\n⚠️All of my content is for my Fansly profile only. ⚠️\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. Any unauthorized distribution of my content & live streams will result in a ban from ALL platforms.",
+        "location": "",
+        "streaming": {
+            "accountId": "477716883898900480",
+            "channel": {
+                "id": "713630792944721921",
+                "accountId": "477716883898900480",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hl0PQo4TcQvF.m3u8",
+                "chatRoomId": "713630969592033280",
+                "status": 2,
+                "version": 32,
+                "createdAt": 1731637199000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "713630792944721922",
+                    "historyId": "940103769436205056",
+                    "channelId": "713630792944721921",
+                    "accountId": "477716883898900480",
+                    "title": "♡ ~ Come play with me~ ♡ ",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 4234,
+                    "createdAt": 1731637199000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785638237000,
+                    "startedAt": 1785632564000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "752742975750025216",
+                                "streamId": "713630792944721922",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

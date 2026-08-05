@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3844dd3f-92ec-4cb6-9d79-2249525fc65e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a84857-1757-4f6f-8029-46440ff19977-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "787060688022417408",
+        "username": "Hushchu",
+        "displayName": "Hush",
+        "version": 10,
+        "followCount": 624,
+        "statusId": 3,
+        "accountMediaLikes": 16149,
+        "postLikes": 4969,
+        "about": "*please keep in mind I do only lewd\nNo nude\nI send good morning and good night messages+a lewd selfie everyday!\n",
+        "location": "",
+        "streaming": {
+            "accountId": "787060688022417408",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

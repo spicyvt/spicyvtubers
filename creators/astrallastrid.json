@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f4f1fa2-931c-4a22-922b-5c045246398b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82ead112-d8c8-4500-b5e5-d2ca577ca4f2-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "686199792971292672",
+        "username": "MommaAstrid",
+        "displayName": "AstrallAstrid",
+        "version": 18,
+        "followCount": 656,
+        "statusId": 1,
+        "accountMediaLikes": 251,
+        "postLikes": 301,
+        "about": "Welcome to the whoresome side of the forest~\n\n❄️18+ Adult content\n❄️Fansly exclusive content\n❄️Custom pictures/videos\n❄️Omega Bottom\n❄️Exclusive texting roleplay\n❄️Lovense user\n❄️IRL/2D/Audio/Lewd stream content~\n❄️Fat ass~\n❄️Chubby~",
+        "location": "Under your desk",
+        "streaming": {
+            "accountId": "686199792971292672",
+            "channel": {
+                "id": "808907697041731584",
+                "accountId": "686199792971292672",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jcqZbq4C5tqk.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1754352983000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "808907697041731585",
+                    "historyId": null,
+                    "channelId": "808907697041731584",
+                    "accountId": "686199792971292672",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1754352984000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

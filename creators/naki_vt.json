@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e020362-930c-4fb2-98a7-5bca016d61d7-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5714e9c-4153-4a3e-bf51-46168126c20b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "635228679898673152",
+        "username": "NakiVT",
+        "displayName": "Naki 🌙 🐺",
+        "version": 11,
+        "followCount": 2522,
+        "statusId": 3,
+        "accountMediaLikes": 1032,
+        "postLikes": 1095,
+        "about": "❀ Bratty Wolf Goddess VTuber ❀\n\nHere to drain your attention, praise & offerings 💜\n\nSub-Leaning Switch • Oral Fixation • Praise Addicted • Sweet & Needy <3\n\nStream Schedule: Saturdays (for now)\n\n✦ VTuber/VRChat Content Only 💜\n✦ VRChat Clips & Spicy Pics\n✦ Lewd Streams + Moaning Sessions\n✦ Free DM Interaction for Subscribers\n✦ Lewd Art & Animations\n✦ Custom Requests Opening Soon\n\nGood kamicubs get rewarded 🐺💜\n\n❀ Wanna spoil me? Check my throne: https://throne.com/nakivt\n❀ Links & More: www.nakiokami.com",
+        "location": "The Shrine of Orano",
+        "streaming": {
+            "accountId": "635228679898673152",
+            "channel": {
+                "id": "770153329442435072",
+                "accountId": "635228679898673152",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xUaFgcVHI1Hp.m3u8",
+                "chatRoomId": "770153696687304704",
+                "status": 2,
+                "version": 30,
+                "createdAt": 1745113222000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "770153329442435073",
+                    "historyId": "919689039131451392",
+                    "channelId": "770153329442435072",
+                    "accountId": "635228679898673152",
+                    "title": "Come play with your wolf goddess! V-LOVERS <3",
+                    "status": 1,
+                    "viewerCount": 29,
+                    "version": 3728,
+                    "createdAt": 1745113222000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780773758000,
+                    "startedAt": 1780765313000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "914007809157242881",
+                                "streamId": "770153329442435073",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d7990d0-3dc4-4d7a-95b8-6b0a0b9f510f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6116ec94-5fe8-4f9d-84c0-349a4cedaaa6-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "382950059655835648",
+        "username": "LadyBelvoir",
+        "displayName": "Lady Alva of Belvoir",
+        "version": 8,
+        "followCount": 68,
+        "statusId": 1,
+        "accountMediaLikes": 10,
+        "postLikes": 18,
+        "about": "Viking lewdtuber/vtuber ",
+        "location": "",
+        "streaming": {
+            "accountId": "382950059655835648",
+            "channel": {
+                "id": "677152301319729154",
+                "accountId": "382950059655835648",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.gU533cxHwEG7.m3u8",
+                "chatRoomId": "677152337269108737",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1722940049000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "677152301319729155",
+                    "historyId": "677267398864154624",
+                    "channelId": "677152301319729154",
+                    "accountId": "382950059655835648",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 454,
+                    "createdAt": 1722940049000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1722975894000,
+                    "startedAt": 1722967490000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

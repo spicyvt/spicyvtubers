@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d5e29fc-a14a-4d5b-861a-fff84990768f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4827324-e616-40fd-8fe5-53e2b127606b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "721019170665275392",
+        "username": "kerogaki",
+        "displayName": "kerogaki 🐸💢",
+        "version": 19,
+        "followCount": 19292,
+        "statusId": 3,
+        "accountMediaLikes": 14397,
+        "postLikes": 28667,
+        "about": "im just a dumbass delinquent frog who loves to be brat broken by her masters! ♥ \ni'm kerogaki the digital pet! ♪\n꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶\n\nthe live performance aspects of content making are my passion so i put my heart into that. my own pre-made content feels inauthentc to me so don't expect too much of that. \n\nno tip menu. i like to keep things simple so we can focus on fun. ♥\n\nDMs open but i cant keep up with them. please do not expect or preasure for a reply. i am but one frog.\n\nhttp://jointhrone.com/kerogaki",
+        "location": "",
+        "streaming": {
+            "accountId": "721019170665275392",
+            "channel": {
+                "id": "776634474602438659",
+                "accountId": "721019170665275392",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.FkVf1coy6vIU.m3u8",
+                "chatRoomId": "776634784947384320",
+                "status": 2,
+                "version": 99,
+                "createdAt": 1746658447000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "776634474602438660",
+                    "historyId": "940497495484555266",
+                    "channelId": "776634474602438659",
+                    "accountId": "721019170665275392",
+                    "title": "return of the gaki",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 4994,
+                    "createdAt": 1746658448000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785726472000,
+                    "startedAt": 1785726436000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "776634758040924160",
+                                "streamId": "776634474602438660",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

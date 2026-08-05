@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e98f02e-7241-4258-96f5-26e4fad5f9a6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1982565-9324-4b8a-9173-e73f7f316cf0-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "882660539967229953",
+        "username": "HauntedCorgi",
+        "displayName": "🐾💜Corgi~Pup💜🐾",
+        "version": 13,
+        "followCount": 653,
+        "statusId": 1,
+        "accountMediaLikes": 281,
+        "postLikes": 291,
+        "about": "Just a playful, submissive puppy looking to have fun~♡! Don't worry, I don't bite hard. But I do enjoy being bit.\nYES! I reach out personally to all new followers to say thank you!\nPFP by Nynbug.\nBanner by Burgamisaki.\n\nhttps://throne.com/corgiafterdark\n\nhttps://bad-dragon.com/w/1abcb8d4\n\nhttps://twitch.tv/HauntedCorgi",
+        "location": "Under your desk~",
+        "streaming": {
+            "accountId": "882660539967229953",
+            "channel": {
+                "id": "883233565700014081",
+                "accountId": "882660539967229953",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NEuTBfYuMUJT.m3u8",
+                "chatRoomId": "883234653404684288",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1772073651000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "883233565700014082",
+                    "historyId": "937559516227055616",
+                    "channelId": "883233565700014081",
+                    "accountId": "882660539967229953",
+                    "title": "Last Smut Stream Before Vacation! (Please help)",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 56,
+                    "createdAt": 1772073652000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785037490000,
+                    "startedAt": 1785025967000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

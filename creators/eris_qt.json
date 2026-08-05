@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/78f1c5b5-952f-49f1-8c88-3c765d5bd5a3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/473c70bc-4d1f-4e40-9b0b-3b24c9964a91-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "300260209329188864",
+        "username": "erisqt",
+        "displayName": "ErisQT",
+        "version": 9,
+        "followCount": 118,
+        "statusId": 2,
+        "accountMediaLikes": 12,
+        "postLikes": 71,
+        "about": "Hello my name is ErisQT, im a non-binary catgirl from another universe\n\n💜 Posting NSFW Vtuber Art and Lewd Photos ❌ No ERP/Parasocial DMS 💫 No Custom Requests\n\nMore hornii contents on my tweeter link below nyaa~\n\nPronouns: She/Her \n",
+        "location": "Litter Box ",
+        "streaming": {
+            "accountId": "300260209329188864",
+            "channel": {
+                "id": "546596597933285376",
+                "accountId": "300260209329188864",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YmG5bAp3COdL.m3u8",
+                "chatRoomId": "546597544562532352",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1691813144000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "546596597933285377",
+                    "historyId": "562860322952589312",
+                    "channelId": "546596597933285376",
+                    "accountId": "300260209329188864",
+                    "title": "First Time playing Hentai game weeeee nyaa~",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 14,
+                    "createdAt": 1691813144000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1763436910000,
+                    "startedAt": 1695690718000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "847008291123900416",
+                                "streamId": "546596597933285377",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

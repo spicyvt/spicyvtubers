@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bbb5f0e-0899-4a8f-a05f-49a9755dfbb3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/795b1cb7-a5e7-444a-bdd8-d09c6aecb27a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "657413990854438912",
+        "username": "angelickittenvt",
+        "displayName": null,
+        "version": 4,
+        "followCount": 57,
+        "statusId": 3,
+        "accountMediaLikes": 19,
+        "postLikes": 92,
+        "about": " Here to dump lewd pics + NSFW things I do on the side... content including both virtual and IRL\n\nMessage me for requests\n\nSpoil me:\nhttps://throne.com/angelickitten",
+        "location": "",
+        "streaming": {
+            "accountId": "657413990854438912",
+            "channel": {
+                "id": "913272607002877952",
+                "accountId": "657413990854438912",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.IQHLWoaEBG4g.m3u8",
+                "chatRoomId": "913402148018995200",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1779235517000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "913272607002877953",
+                    "historyId": "932266232743223297",
+                    "channelId": "913272607002877952",
+                    "accountId": "657413990854438912",
+                    "title": "dbd",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 86,
+                    "createdAt": 1779235517000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783768215000,
+                    "startedAt": 1783763950000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:12Z"
     }
 }

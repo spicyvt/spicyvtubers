@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a2dc073-0e84-4830-b477-24796c6df0c2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca5c2740-021c-4aa3-b69d-144e19c223fa-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "409963040755167232",
+        "username": "acvalens",
+        "displayName": "Ana",
+        "version": 8,
+        "followCount": 491,
+        "statusId": 1,
+        "accountMediaLikes": 606,
+        "postLikes": 1160,
+        "about": "Lewdtuber. Your girlfriend calls me Mommy too. This is for IRL + lewd images / videos of me in VTubing settings, like VRChat. PFP art by Ashley Loob, Banner by MaidenWrath",
+        "location": "Hell, USA",
+        "streaming": {
+            "accountId": "409963040755167232",
+            "channel": {
+                "id": "645779411957723137",
+                "accountId": "409963040755167232",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.E9leOI1gOGNK.m3u8",
+                "chatRoomId": "645779857409581056",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1715460169000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "645779411957723138",
+                    "historyId": "939733650780463105",
+                    "channelId": "645779411957723137",
+                    "accountId": "409963040755167232",
+                    "title": "VRChat Lewd Giantess Vore ASMR~! Tip For Special Triggers <3",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 1352,
+                    "createdAt": 1715460170000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785552260000,
+                    "startedAt": 1785544321000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "934008568393265153",
+                                "streamId": "645779411957723138",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

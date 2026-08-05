@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a0f2114-12d8-4c5d-b887-140a30db6d94-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e78aca67-52cd-4b7f-b90c-5c5706033253-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "406202473171132416",
+        "username": "saintsakura",
+        "displayName": "saintsakura",
+        "version": 7,
+        "followCount": 22313,
+        "statusId": 1,
+        "accountMediaLikes": 17098,
+        "postLikes": 11184,
+        "about": "✿ hi hiiii I'm sakura ✿\n\nWatch me on Twitch as well most days :3c starting at 9-10pm EST\nhttps://www.twitch.tv/saintsakura\n\n♡ I stream Fridays at 10pm EST  ♡ \n\n♡ sub for exclusive lewd pictures ♡  \n♡   MUST BE SUBBED TO DM  ♡   I'll gladly chat and talk to you if you're subbed :3\nhttps://throne.com/saintsuskura lewd throne here! ",
+        "location": "",
+        "streaming": {
+            "accountId": "406202473171132416",
+            "channel": {
+                "id": "648935061873242112",
+                "accountId": "406202473171132416",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Um9BHthaNktQ.m3u8",
+                "chatRoomId": "648936398182686720",
+                "status": 2,
+                "version": 20,
+                "createdAt": 1716212535000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "648935061873242113",
+                    "historyId": "922015175953895425",
+                    "channelId": "648935061873242112",
+                    "accountId": "406202473171132416",
+                    "title": "june goon! leadboard going ON",
+                    "status": 1,
+                    "viewerCount": 334,
+                    "version": 8924,
+                    "createdAt": 1716212536000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781327439000,
+                    "startedAt": 1781319908000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "916905013811376129",
+                                "streamId": "648935061873242113",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:45Z"
     }
 }

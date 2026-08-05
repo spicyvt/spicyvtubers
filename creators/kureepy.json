@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cd4affb-ceba-45a6-8e8f-08f920423393-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2bebaad-539e-42cc-ac62-c07ed503b009-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "451330564394332160",
+        "username": "Kureamy",
+        "displayName": "Kureamy",
+        "version": 16,
+        "followCount": 5175,
+        "statusId": 3,
+        "accountMediaLikes": 1426,
+        "postLikes": 2807,
+        "about": "\n~indefinite hiatus~",
+        "location": "",
+        "streaming": {
+            "accountId": "451330564394332160",
+            "channel": {
+                "id": "633910724875264000",
+                "accountId": "451330564394332160",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.q7Y5OH3tOsuZ.m3u8",
+                "chatRoomId": "633910873605283840",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1712630454000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "633910724875264001",
+                    "historyId": "751385311228993536",
+                    "channelId": "633910724875264000",
+                    "accountId": "451330564394332160",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 120,
+                    "version": 6810,
+                    "createdAt": 1712630455000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1740647375000,
+                    "startedAt": 1740638578000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "633930170847211520",
+                                "streamId": "633910724875264001",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "633930170847211521",
+                                "streamId": "633910724875264001",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

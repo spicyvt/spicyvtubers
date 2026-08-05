@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6575c2a-855f-421d-b7f1-24c0aa811cd7-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5642715e-d5e5-4b44-ad1b-012890b8294d-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "841424915855863808",
+        "username": "ManyDucks",
+        "displayName": "ManyDucks",
+        "version": 6,
+        "followCount": 1248,
+        "statusId": 3,
+        "accountMediaLikes": 93,
+        "postLikes": 110,
+        "about": "ManyDucks Vtuber\n\nApparently I'm 100% a brat..",
+        "location": "",
+        "streaming": {
+            "accountId": "841424915855863808",
+            "channel": {
+                "id": "841486200152805376",
+                "accountId": "841424915855863808",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wDfVtKVjfdf9.m3u8",
+                "chatRoomId": "841526294008045568",
+                "status": 2,
+                "version": 28,
+                "createdAt": 1762120304000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "841486200152805377",
+                    "historyId": "940889258648940544",
+                    "channelId": "841486200152805376",
+                    "accountId": "841424915855863808",
+                    "title": "GAMES AND AN EDIBLE!!! !command !discord !menu",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 200,
+                    "createdAt": 1762120304000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785828086000,
+                    "startedAt": 1785819840000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "881309064284356609",
+                                "streamId": "841486200152805377",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:12Z"
     }
 }

@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9710362b-4cd6-4f8f-9b97-b249eb16d310-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1675c0e9-559d-43f8-9cce-41e27b488040-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "625138695942447104",
+        "username": "NotNoonNoon",
+        "displayName": "NoonNoon",
+        "version": 5,
+        "followCount": 383,
+        "statusId": 1,
+        "accountMediaLikes": 25,
+        "postLikes": 85,
+        "about": "Human NoonNoon\n\n🦴https://twitch.tv/noonnoonvt🦴\n\n🥩https://patreon.com/NoonNoon ",
+        "location": "",
+        "streaming": {
+            "accountId": "625138695942447104",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

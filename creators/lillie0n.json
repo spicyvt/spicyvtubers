@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/68c4f85e-57e8-4c50-92ac-454371baafee-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dee74b57-8ace-4023-a28e-c5ed6f88f718-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "821346408824053760",
+        "username": "Lillie0n",
+        "displayName": null,
+        "version": 6,
+        "followCount": 930,
+        "statusId": 3,
+        "accountMediaLikes": 2395,
+        "postLikes": 1693,
+        "about": "♡ 18+ ♡ Lillie ♡ 24 NOT LOOKING FOR A RELATIONSHIP (IN A HAPPY ONE) \n VERRRRRY FEET FOCUSED ;P \n♡ fanart-#lillieonart #lilliemoan ♡ \n\n♡ https://lillie0n.carrd.co \n\n\nCredits <3 \npfp @strawbrrytr1pz on x\nbanner @NoIdea0500 on x\nLogo @@SazawaShiro on x\n",
+        "location": "Toronto ",
+        "streaming": {
+            "accountId": "821346408824053760",
+            "channel": {
+                "id": "868315894911102976",
+                "accountId": "821346408824053760",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qUbTs4DqCANJ.m3u8",
+                "chatRoomId": "868315957284589568",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1768517001000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "868315894911102977",
+                    "historyId": "869454991868317697",
+                    "channelId": "868315894911102976",
+                    "accountId": "821346408824053760",
+                    "title": "Lets get steamy | Huniepop 2 | ",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 4,
+                    "createdAt": 1768517002000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1768803205000,
+                    "startedAt": 1768788583000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "869444406887849984",
+                                "streamId": "868315894911102977",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

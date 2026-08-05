@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ff49dbf-5fdf-40c2-b1f3-293b1841f1f9-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c3d1ad-770c-4450-b13b-676b9bdf15cc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "865140049887391744",
+        "username": "Fuumy",
+        "displayName": "Fuumy",
+        "version": 12,
+        "followCount": 4958,
+        "statusId": 1,
+        "accountMediaLikes": 2365,
+        "postLikes": 1957,
+        "about": "𝐘𝐨𝐮𝐫 𝐟𝐢𝐫𝐬𝐭 𝐛𝐫e𝐞𝐝𝐚𝐛𝐥𝐞 𝐜𝐚𝐭girl 𝐜𝐡𝐨𝐢𝐜𝐞 ( 𝐁𝐔𝐓 𝐈´𝐌 𝐀 𝐋𝐄𝐎𝐏𝐀𝐑𝐃  ::>_<:: )\nSnow leopard succubus Vtuber 🩵\n🔗 https://fuumy.carrd.co\n\n☆彡.。.:・☆彡.。.:・☆彡.。.:・☆彡.。.:・☆彡.。.:・☆彡.。.:・☆彡.。.:*・☆彡\n\nEnglish is not my first languaje ( Spanish is ) so please be kind 🥺\n🩵 Dom & Bot, choose side or play with both 😉\n❄️ SFW & NSFW\n🩵 Kink friendly 🐾\n❄️ Roleplay on DM \n🩵 Treats for my best supporters \n❄️ NSFW AUDIOS\n🩵 Streams are FREE for followers! ( Tuesdays & Saturdays )\n\n⭐ Spoil your kitty ❥ https://throne.com/fuumy\n\nMORE OF YOUR KITTY:\n\n☆ Twitch: https://twitch.com/fuumytv\n☆ Twitter: https://x.com/fuumygummy\n☆ Discord: https://discord.gg/xS2VZ3KNxX\n\n\n\n⚠️ Redistribution, sharing or sell without permission will result in LEGAL ACTION. This is direct violation of Fansly Termas of Service⚠️",
+        "location": "Your horny moments ",
+        "streaming": {
+            "accountId": "865140049887391744",
+            "channel": {
+                "id": "867549567850135552",
+                "accountId": "865140049887391744",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Gc4yCgcijwT8.m3u8",
+                "chatRoomId": "867550022831456256",
+                "status": 2,
+                "version": 72,
+                "createdAt": 1768334295000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "867549567850135553",
+                    "historyId": "937837988681900032",
+                    "channelId": "867549567850135552",
+                    "accountId": "865140049887391744",
+                    "title": "PRIVATE STREAM  || !menu !goals",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 126,
+                    "createdAt": 1768334295000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785094822000,
+                    "startedAt": 1785092360000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937793896115625985",
+                                "streamId": "867549567850135553",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"895400178469580800\\\",\\\"label\\\":\\\"Private stream\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:21:23Z"
     }
 }

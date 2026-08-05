@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb1f0942-393f-4642-8d13-0c0bfbb48e35-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f45c515-6e16-4ef9-99ed-46c790fd218e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "720483423524757504",
+        "username": "rosedoodle",
+        "displayName": null,
+        "version": 3,
+        "followCount": 42105,
+        "statusId": 3,
+        "accountMediaLikes": 9667,
+        "postLikes": 14250,
+        "about": "the brattiest cattiest sprout out there. ♥ \n\nspicy art 🌹 spicy classes/tierlists/reviews 🌹behind the scenes content, and more...?!",
+        "location": "Doodle Dash Arcade",
+        "streaming": {
+            "accountId": "720483423524757504",
+            "channel": {
+                "id": "734521368825049088",
+                "accountId": "720483423524757504",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.O7BxDwhoqrD7.m3u8",
+                "chatRoomId": "734560792921255936",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1736617901000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "734521368825049089",
+                    "historyId": "939974551717036032",
+                    "channelId": "734521368825049088",
+                    "accountId": "720483423524757504",
+                    "title": "SHOCK COLLAR x \"MANNERS\" TRAINING :) this is gonna be rough lmao RIP",
+                    "status": 1,
+                    "viewerCount": 603,
+                    "version": 2348,
+                    "createdAt": 1736617901000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785616104000,
+                    "startedAt": 1785601757000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "811043992144732160",
+                                "streamId": "734521368825049089",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:21:12Z"
     }
 }

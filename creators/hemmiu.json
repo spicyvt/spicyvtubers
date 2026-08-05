@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7789e1f9-b9b2-433b-b1ce-f8155f1d1c2f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ee9103-4480-4e45-a1c8-273c7df1e0c8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "830088783880794113",
+        "username": "hemmiu",
+        "displayName": "hemmi",
+        "version": 4,
+        "followCount": 8074,
+        "statusId": 3,
+        "accountMediaLikes": 813,
+        "postLikes": 999,
+        "about": "★ NSFW VA + Artist + Vtuber | BE MINE FOREVER PLEASEEEE ★\n         ─ ⊹ NSFW STREAMS ON SATURDAY 9 PM PST ⊹ ─\n\n                   I LOVE PRAISE ♡ DO NOT DEGRADE ME!\n                                              ↓ ↓ ↓ ↓ \n \nNSFW roleplay stream theme polls + my weekly stream schedules can be found in my DISCORD: https://discord.com/invite/hKsXFqU5Ms \n\nUse my affiliate link for discounts on toys: https://www.lovense.com/r/i7y1vp\n\nWHAT I POST HERE: \n★  Streams + VODs\n★  NSFW Artwork + Animations\n★  ASMR + NSFW Roleplay Audios\n\n→ ALL LINKS :  https://hemmiu.carrd.co/\n→ THRONE    :  https://throne.com/hemmiu\n→ TWITCH     :  https://www.twitch.tv/hemmiu\n→ NSFW X     :  https://x.com/hemmonade__\n→ ASMR YT   :  https://www.youtube.com/@hemmiASMR",
+        "location": "the basement",
+        "streaming": {
+            "accountId": "830088783880794113",
+            "channel": {
+                "id": "839572075113902080",
+                "accountId": "830088783880794113",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SVJjqwyCaxOX.m3u8",
+                "chatRoomId": "840153098088361987",
+                "status": 2,
+                "version": 68,
+                "createdAt": 1761663941000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "839572075113902081",
+                    "historyId": "940159292479127552",
+                    "channelId": "839572075113902080",
+                    "accountId": "830088783880794113",
+                    "title": "NSFW DRAWING HENTAI",
+                    "status": 1,
+                    "viewerCount": 42,
+                    "version": 140,
+                    "createdAt": 1761663941000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785665841000,
+                    "startedAt": 1785645802000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "839572170119069696",
+                                "streamId": "839572075113902081",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

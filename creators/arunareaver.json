@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8edfcf39-3c95-41ad-82d9-082c54ee4b43-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d99871df-c4c2-4958-a73f-66a8802d8a3f-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "646997196192886784",
+        "username": "ArunaReaver",
+        "displayName": "Aruna Reaver ⛓️🐾",
+        "version": 26,
+        "followCount": 53802,
+        "statusId": 1,
+        "accountMediaLikes": 123908,
+        "postLikes": 110124,
+        "about": "⛓️ dumb bratty puppy girl .ᐟ.ᐟ 😈 ⋆🦴⋆🐾⋆💢°ᶻ 𝗓 𐰁 \n✧ masochistic brat | IRL & VTUBER NUDES / LEWDS!! | 5’3” | switch | G cup ;3\n\n       ♡  [ All my links: https://link.me/arunareaver ]\n       ♡  [ Spoil ur princess: throne.com/arunareaver ]  \n\n⋆⁺₊⋆ ━━━━⊱༒︎ • ༒︎⊰━━━━ ⋆⁺₊⋆\n\n       ♡  [ DM me for custom content! ]\n       ♡  [ Use CODE: REAVER to get 10% off ur Gamersupps! ]\n\n⋆⁺₊⋆ ━━━━⊱༒︎ • ༒︎⊰━━━━ ⋆⁺₊⋆\n♡ Join the cult: https://discord.gg/reavercult\n♡ Business: arunareaver.official@gmail.com\n⋆⁺₊⋆ ━━━━⊱༒︎ • ༒︎⊰━━━━ ⋆⁺₊⋆",
+        "location": "in your head <3",
+        "streaming": {
+            "accountId": "646997196192886784",
+            "channel": {
+                "id": "668278308688900096",
+                "accountId": "646997196192886784",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.rncTq17ThvpO.m3u8",
+                "chatRoomId": "668377181017092096",
+                "status": 2,
+                "version": 446,
+                "createdAt": 1720824324000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "668278308688900097",
+                    "historyId": "940472386308816896",
+                    "channelId": "668278308688900096",
+                    "accountId": "646997196192886784",
+                    "title": "🦴 needy dumb mutt watches porn suggested by chat  🐾",
+                    "status": 1,
+                    "viewerCount": 217,
+                    "version": 245,
+                    "createdAt": 1720824325000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785728460000,
+                    "startedAt": 1785720450000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "928495477907795971",
+                                "streamId": "668278308688900097",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d2ee0a9-5104-4b18-ba6a-1c2e9e9f21e3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/532ef8d6-fd27-48cb-876a-a38fc8f53928-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "417206245603160064",
+        "username": "reiyuguigui",
+        "displayName": "Reiyu GuiGui",
+        "version": 4,
+        "followCount": 20519,
+        "statusId": 3,
+        "accountMediaLikes": 8789,
+        "postLikes": 8841,
+        "about": "🦋👻Giggly Gyaru Geisha Ghost Gamer who loves all things lewd and cultured!\n❣️ FUTANARI ❣️ H-GAMES ❣️ EROMANGA ❣️ MORE! ❣️\n🔞 Bisexual! Switch! Sadomasochist! Inverted nipples!\n\n❤️Most lewds are free for followers! \n🔔 Get notifications for streams on Discord!\n⚠️Currently in the process of moving from Patreon to FanSly! Sorry for scuff!\n\n📧For business inquiries: contact@yozorei.live\n\n👻🦋 SOCIALS 🦋👻\n🌸ALL LINKS｡ www.yozorei.live\n💕TWITCH｡ www.twitch.tv/reiyuguigui\n🦋YOUTUBE｡ www.youtube.com/c/reiyuguigui\n👑THRONE｡ www.throne.com/reiyuguigui\n✉️TWITTER｡ www.twitter.com/reiyuguigui\n💬DISCORD｡ www.discord.gg/reiyu\n❤️PATREON｡ www.patreon.com/reiyuguigui",
+        "location": "rearranging your guts",
+        "streaming": {
+            "accountId": "417206245603160064",
+            "channel": {
+                "id": "557633130219970560",
+                "accountId": "417206245603160064",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JuRoBVYmHssI.m3u8",
+                "chatRoomId": "557633212512219136",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1694444458000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "557633130219970561",
+                    "historyId": "673409986684002304",
+                    "channelId": "557633130219970560",
+                    "accountId": "417206245603160064",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 30,
+                    "version": 1964,
+                    "createdAt": 1694444459000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1722053021000,
+                    "startedAt": 1722047812000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "756601774667739136",
+                                "streamId": "557633130219970561",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:00Z"
     }
 }

@@ -23,5 +23,76 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c45b604-c10f-48f1-8b58-98db1691f5f0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bdedd003-0bd3-4a7c-8dc4-5d35085a8945-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "601102382465560576",
+        "username": "FeliNyara",
+        "displayName": "FeliNyara",
+        "version": 5,
+        "followCount": 902,
+        "statusId": 1,
+        "accountMediaLikes": 249,
+        "postLikes": 750,
+        "about": "🔞 Your german Cat Cult Leader 🎀\n\nHello there~\nI'm Feli, your wholesome, lewd shapeshifting Eldritch Beeing here to make you happy 💕\n\n🎀 99% fictional Content about my virtual Self 🐾\n🎀 NSFW ASMR, Clips, Screenshots and Drawings/Commissions 🎨\n🎀 I love to tease and getting spoiled, i'm just a little Princess ✨\n\nI reply to every DM 💌 Please be patient!\n\n💜 twitch.tv/felinyara (I stream mainly in german)\n✨  ko-fi.com/felinyara\n👑 throne.com/felinyara",
+        "location": "Germany",
+        "streaming": {
+            "accountId": "601102382465560576",
+            "channel": {
+                "id": "612712250469265408",
+                "accountId": "601102382465560576",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SOTiTcAEI2bV.m3u8",
+                "chatRoomId": "612712474453483521",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1707576344000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "612712250469265409",
+                    "historyId": "633432091853336578",
+                    "channelId": "612712250469265408",
+                    "accountId": "601102382465560576",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 20,
+                    "version": 6340,
+                    "createdAt": 1707576344000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1712524449000,
+                    "startedAt": 1712516339000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "612712391192358912",
+                                "streamId": "612712250469265409",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "612712391192358913",
+                                "streamId": "612712250469265409",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "612712391192358914",
+                                "streamId": "612712250469265409",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":1000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

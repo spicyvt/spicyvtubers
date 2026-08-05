@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e6e8f67-732a-4c6c-966b-0427ee11398d-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c76692d4-1ce1-47a7-ad44-00cc028944a0-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "893775072588738561",
+        "username": "Mordraga0",
+        "displayName": null,
+        "version": 4,
+        "followCount": 82,
+        "statusId": 1,
+        "accountMediaLikes": 24,
+        "postLikes": 72,
+        "about": "She/they | 26 | Chaos witch | Equal parts brat and brat tamer | Devotee of Astarte so expect a decent amount of smut.",
+        "location": "",
+        "streaming": {
+            "accountId": "893775072588738561",
+            "channel": {
+                "id": "899606499133775873",
+                "accountId": "893775072588738561",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.VEcZ9zk0w26x.m3u8",
+                "chatRoomId": "926430053036748804",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1775977263000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "899606499133775874",
+                    "historyId": "940438079653556224",
+                    "channelId": "899606499133775873",
+                    "accountId": "893775072588738561",
+                    "title": "Your goddess gets fucked by mithrix~",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 42,
+                    "createdAt": 1775977263000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785713385000,
+                    "startedAt": 1785712270000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:21:33Z"
     }
 }

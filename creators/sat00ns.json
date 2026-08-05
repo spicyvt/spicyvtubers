@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d469905-c787-4992-9895-76de6b1e0019-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e5d0eeb-4792-4f99-8a15-9e3e1522f90e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "496138070710562816",
+        "username": "sat00ns",
+        "displayName": "noons",
+        "version": 5,
+        "followCount": 447,
+        "statusId": 1,
+        "accountMediaLikes": 11,
+        "postLikes": 22,
+        "about": "Super needy orc bimbo 💚\n\nVTUBER CONTENT ONLY!!\n\n💚 Streams\n💚 Audios\n💚 Ratings",
+        "location": "",
+        "streaming": {
+            "accountId": "496138070710562816",
+            "channel": {
+                "id": "750677325426733057",
+                "accountId": "496138070710562816",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.MANa0xFmkdER.m3u8",
+                "chatRoomId": "750678148193988608",
+                "status": 2,
+                "version": 133,
+                "createdAt": 1740469781000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "750677325426733058",
+                    "historyId": "940058063241494529",
+                    "channelId": "750677325426733057",
+                    "accountId": "496138070710562816",
+                    "title": "Lovense = ON [Lush 4] || ♥ BIMBO ORC WANTS TO BE DUMB FOR YOUR COCK ♥ || !tipmenu !commands",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 2396,
+                    "createdAt": 1740469781000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785632200000,
+                    "startedAt": 1785621667000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d44239b-7178-4aef-a385-7df963a259c5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc6bfe61-7a21-4b0e-a4b1-e0ce7cbce5ca-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "677068579660640256",
+        "username": "Hemomal",
+        "displayName": null,
+        "version": 7,
+        "followCount": 1004,
+        "statusId": 1,
+        "accountMediaLikes": 1096,
+        "postLikes": 1455,
+        "about": "Hai hai cuties, I hope I can share the cute pictures and audios I create here with you<333",
+        "location": "",
+        "streaming": {
+            "accountId": "677068579660640256",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

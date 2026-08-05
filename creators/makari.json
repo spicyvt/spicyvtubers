@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8abc872-2689-4393-8053-ff3e42144be4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/216c656f-7b67-442d-abff-7728f5c515a8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "321971568202756096",
+        "username": "Makarimorph",
+        "displayName": "Makari",
+        "version": 6,
+        "followCount": 7386,
+        "statusId": 1,
+        "accountMediaLikes": 6938,
+        "postLikes": 10057,
+        "about": "💜 IRL AND VR Degen 💜\n.Always reads DM's and always down for fun! <3\n\n.I post IRL, VR and Art Lewds!\n\nHang out with me live at:\nhttp://www.twitch.tv/makari\n\nCheck my Carrd!\nhttps://makarimorph.carrd.co/",
+        "location": "England",
+        "streaming": {
+            "accountId": "321971568202756096",
+            "channel": {
+                "id": "565639887324192768",
+                "accountId": "321971568202756096",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.bTYLUXiqfFjE.m3u8",
+                "chatRoomId": "565645717964599296",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1696353418000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "565639887324192769",
+                    "historyId": "774386873735852032",
+                    "channelId": "565639887324192768",
+                    "accountId": "321971568202756096",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 55,
+                    "version": 817,
+                    "createdAt": 1696353418000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1746126909000,
+                    "startedAt": 1746122578000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

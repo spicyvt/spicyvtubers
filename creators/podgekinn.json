@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d017c5ee-5108-47c0-b7c4-f19d5d51bae6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a994d13-772b-4486-91cc-74cfe3699fbd-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "460684884508160000",
+        "username": "podgekinn",
+        "displayName": "Podgekinn",
+        "version": 3,
+        "followCount": 17127,
+        "statusId": 1,
+        "accountMediaLikes": 21520,
+        "postLikes": 30661,
+        "about": "ENVTuber. Goblin. YouTube & Twitch Partner. Cosplayer. NSFW VA. Cute & cursed. Streams every Friday!\n💜Throne: https://throne.me/podgekinn\n💜Socials: https://goblindeeznuts.ca\n💜Lovense Partner Link: https://www.lovense.com/r/l5ipuf\n💜GamerSupps: Code PODGERS https://gamersupps.gg/PODGERS",
+        "location": "Canada",
+        "streaming": {
+            "accountId": "460684884508160000",
+            "channel": {
+                "id": "460697848262959104",
+                "accountId": "460684884508160000",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YYf3eV2am6nh.m3u8",
+                "chatRoomId": "461828683095613440",
+                "status": 2,
+                "version": 78,
+                "createdAt": 1671333286000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "460697848262959105",
+                    "historyId": "936475510551097344",
+                    "channelId": "460697848262959104",
+                    "accountId": "460684884508160000",
+                    "title": "ALT//SPACE Horny D&D Time with your Goblin Waifu - !onahole !socials",
+                    "status": 1,
+                    "viewerCount": 18,
+                    "version": 5150,
+                    "createdAt": 1671333286000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784779468000,
+                    "startedAt": 1784767520000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "787553074733391872",
+                                "streamId": "460697848262959105",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

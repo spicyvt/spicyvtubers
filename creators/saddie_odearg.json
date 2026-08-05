@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a41e305f-49c3-4dfc-b58e-7229873a14b5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90987a10-334e-4fbc-ac3f-904c1ee71acd-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "846959301351206912",
+        "username": "SaddieODearg",
+        "displayName": null,
+        "version": 5,
+        "followCount": 808,
+        "statusId": 2,
+        "accountMediaLikes": 310,
+        "postLikes": 232,
+        "about": "Eldritch Goddess Vtuber, ASMRtist and artist. Mixing Vtubing with IRL occassionally.\n\nFree audios every week, subscribed members get the latest audio before release~\n\nBratty Switch to Mommy dom ♥\n\nTwitch: Saddie ODearg\nYoutube: Saddie O'Dearg\n\nSpoil me: https://throne.com/wevrynvt\nAll links: https://saddieodearg.carrd.co/\n\nMenu~\n\n🍆 Cock Rating - $3\n\n📸 Nude pic - $5\n\n🎤 5 min Custom ASMR - $10\n\n💕 Cock worship video - $15\n\n🎙️ 10 min Custom ASMR - $25\n\n📞 1 hour voice call* - $50\n\n*DM me first for availability.",
+        "location": "Canada",
+        "streaming": {
+            "accountId": "846959301351206912",
+            "channel": {
+                "id": "909301784328032256",
+                "accountId": "846959301351206912",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.OpzDXpOVCZLq.m3u8",
+                "chatRoomId": "909303578999406593",
+                "status": 2,
+                "version": 16,
+                "createdAt": 1778288799000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "909301784328032257",
+                    "historyId": "940780210024894464",
+                    "channelId": "909301784328032256",
+                    "accountId": "846959301351206912",
+                    "title": "Come and play~ !tip",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 34,
+                    "createdAt": 1778288799000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785796864000,
+                    "startedAt": 1785793840000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

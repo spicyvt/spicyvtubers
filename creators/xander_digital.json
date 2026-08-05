@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc6fd939-73d1-420d-9e5e-7377ce8ecf40-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/40c1da32-d57c-4fd3-b87c-d7b1ea92050c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "388642083465863168",
+        "username": "XanderDigital",
+        "displayName": "Xander Digital",
+        "version": 21,
+        "followCount": 4371,
+        "statusId": 1,
+        "accountMediaLikes": 3445,
+        "postLikes": 3154,
+        "about": "⚡I post mainly VR content 🥵\n⚡Occasional IRL teases & cosplays👀\n⚡Exclusive audios🎧\n⚡Lovense-controlled streams😩\n⚡NSFW ART! 🎨\nAll My Links! ➡ https://xanderdigital.carrd.co\njoin my Discord! ➡ https://discord.gg/jax5zdyXGA\n---------------------------------------------------------------------------------------------------------\nI’m open to collabs (just DM me and we can work out the details!) \nBisexual/Possibly Pan? 😎 Most content made in Social VR & Unity\n",
+        "location": "The Internet",
+        "streaming": {
+            "accountId": "388642083465863168",
+            "channel": {
+                "id": "398584793488433152",
+                "accountId": "388642083465863168",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.sIT5OUAl8JdD.m3u8",
+                "chatRoomId": "607092228510199808",
+                "status": 2,
+                "version": 193,
+                "createdAt": 1656524380000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "398584793488433153",
+                    "historyId": "940816809479651328",
+                    "channelId": "398584793488433152",
+                    "accountId": "388642083465863168",
+                    "title": "GOONING TIME!⚡❗🖤 |  !MENU !SOCIALS 🖤 ",
+                    "status": 1,
+                    "viewerCount": 19,
+                    "version": 4083,
+                    "createdAt": 1656524380000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785812166000,
+                    "startedAt": 1785802566000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940168691025199104",
+                                "streamId": "398584793488433153",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "940168691025199105",
+                                "streamId": "398584793488433153",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":2000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

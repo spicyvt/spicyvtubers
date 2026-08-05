@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6f1181b-0947-4891-acd6-9e1719fe9efe-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7674a85-f6f5-43dd-a432-cc84c67eda66-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "425671383578587136",
+        "username": "DEATHBL00MS",
+        "displayName": "LUSTBLOOMS",
+        "version": 8,
+        "followCount": 1389,
+        "statusId": 1,
+        "accountMediaLikes": 2394,
+        "postLikes": 2783,
+        "about": "VTUBER NUDES, NO IRL EXPLICIT CONTENT, only lewdness. Spicy photography, audios as an art!\n\nLewd Sultry French Queen Succubus from the realm of Deathiria, here to collect your souls and feed upon your lust.",
+        "location": "Deathiria ",
+        "streaming": {
+            "accountId": "425671383578587136",
+            "channel": {
+                "id": "484076089476390913",
+                "accountId": "425671383578587136",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.OvtxlunqSkJZ.m3u8",
+                "chatRoomId": "488872275777433600",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1676907093000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "484076089476390914",
+                    "historyId": "635412991084343297",
+                    "channelId": "484076089476390913",
+                    "accountId": "425671383578587136",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 27,
+                    "version": 968,
+                    "createdAt": 1676907093000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1712993310000,
+                    "startedAt": 1712988622000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "484076325573767168",
+                                "streamId": "484076089476390914",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

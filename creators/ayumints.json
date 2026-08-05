@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c54e80a-113b-4ad5-8469-97d98eab2a2a-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/decb03c7-9abb-4176-b094-3bc051d43924-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "465203498900795401",
+        "username": "Poffertjes",
+        "displayName": null,
+        "version": 3,
+        "followCount": 505,
+        "statusId": 3,
+        "accountMediaLikes": 1189,
+        "postLikes": 679,
+        "about": "I'm a danger to your sexuality! /ᐠ˵- ⩊ -˵マ\n\n🎀 please read me 🎀\ntrans girl ✧ yes I come with extra parts\n𝙔𝙀𝙎 I also show everything! 😋 But only if you send me a message funny enough to make me laugh and blush~ <33\n\n183cm :3\n\nusually a good girl… \nsometimes a needy little pet ♡ ⸜(｡˃ ᵕ ˂ )⸝♡ \n\nhttps://throne.com/poffertjes\n",
+        "location": "at home :3",
+        "streaming": {
+            "accountId": "465203498900795401",
+            "channel": {
+                "id": "890304396401860610",
+                "accountId": "465203498900795401",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.1wuqcHGRBx5r.m3u8",
+                "chatRoomId": "890304584373772288",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1773759469000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "890304396401860611",
+                    "historyId": null,
+                    "channelId": "890304396401860610",
+                    "accountId": "465203498900795401",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1773759469000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

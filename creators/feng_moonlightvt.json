@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02826568-e7b0-4412-987a-287c55ca5c46-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/04a85681-75f3-4160-891e-823c154f0d65-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "493482587436621824",
+        "username": "Feng_MoonlightVT",
+        "displayName": "Director Feng",
+        "version": 13,
+        "followCount": 473,
+        "statusId": 2,
+        "accountMediaLikes": 385,
+        "postLikes": 565,
+        "about": "I'm Director Feng Moonlight~ Right Hand of the Grim Reaper, LewdTuber, Artist , and VA!~\n\n‼️Do not suggest things without me asking- you will get blocked‼️\n\nTwitter: https://twitter.com/feng_moonlight\n\nThrone: https://throne.com/feng_moonlight\n\nPocket Pussy: https://intimaly.com/fengmoonlightvt\n\n\nWould you like to support me in my chambers~",
+        "location": "",
+        "streaming": {
+            "accountId": "493482587436621824",
+            "channel": {
+                "id": "549679734196285440",
+                "accountId": "493482587436621824",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.fqz0NjlpaRwj.m3u8",
+                "chatRoomId": "549680172991782912",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1692548221000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "549679734196285441",
+                    "historyId": "779955659226488832",
+                    "channelId": "549679734196285440",
+                    "accountId": "493482587436621824",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 1004,
+                    "createdAt": 1692548221000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1747452619000,
+                    "startedAt": 1747450280000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

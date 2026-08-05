@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ae0ea4e-300b-432a-a9e2-961c5c459c0d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f54fec-dae5-416e-864e-45eb0bd6fdcf-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "355021381370392576",
+        "username": "FeliVR",
+        "displayName": "Feli ",
+        "version": 13,
+        "followCount": 26654,
+        "statusId": 3,
+        "accountMediaLikes": 21487,
+        "postLikes": 22880,
+        "about": "🩵 | Your lil brat~\n🔞 | Free weekly livestreams! Live every Saturday at 6pm EST\n🔥 | Exclusive videos and pics!\n💋 | Feel free to DM for customs~\nhttps://linktr.ee/FeliVR\n\nOpen for collabs <3",
+        "location": "http://discord.gg/TpWHzbrmYp",
+        "streaming": {
+            "accountId": "355021381370392576",
+            "channel": {
+                "id": "434814122756943872",
+                "accountId": "355021381370392576",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.5xppS6rk9mhv.m3u8",
+                "chatRoomId": "434814175840051200",
+                "status": 2,
+                "version": 391,
+                "createdAt": 1665162125000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "434814122756943873",
+                    "historyId": "940980560967266305",
+                    "channelId": "434814122756943872",
+                    "accountId": "355021381370392576",
+                    "title": "Need some company?~ ♡ Live on Kick and Twitch ♡ ",
+                    "status": 1,
+                    "viewerCount": 130,
+                    "version": 820,
+                    "createdAt": 1665162125000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785863775000,
+                    "startedAt": 1785841608000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "938095677206982656",
+                                "streamId": "434814122756943873",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

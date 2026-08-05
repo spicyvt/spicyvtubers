@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/405873ed-1b45-45b7-ac18-f91bbe3c440d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f276b931-0e0c-42a8-a359-0ffd143993cd-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "463694179269095424",
+        "username": "PegasusWitchVT",
+        "displayName": "Selene",
+        "version": 10,
+        "followCount": 3877,
+        "statusId": 3,
+        "accountMediaLikes": 1489,
+        "postLikes": 2055,
+        "about": "Hey Baby~\nI'm Selene, your bratty pegasus mommy~ 🦄\nShe/Her | Pansexual \nI'm into collars, degradation, praise and creampies~\nContent posted on Sunday, Wednesday, Friday!\nWant to spoil me? https://throne.com/pegasuswitchvt \n🌈 LGBTQIA+ & kink friendly space\n\n⚠ All content on this page is protected by copyright law. Reproduction, copying, or distribution of any material, including live streams, is strictly prohibited without my express written consent. Unauthorized sharing or redistribution will result in immediate removal and a permanent ban from all affiliated platforms, with potential legal action. ⚠",
+        "location": "On my Hands and Knees",
+        "streaming": {
+            "accountId": "463694179269095424",
+            "channel": {
+                "id": "622759230159462400",
+                "accountId": "463694179269095424",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.gc3E6hbj3Ei2.m3u8",
+                "chatRoomId": "638573139583840256",
+                "status": 2,
+                "version": 35,
+                "createdAt": 1709971730000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "622759230159462401",
+                    "historyId": "935784402980454400",
+                    "channelId": "622759230159462400",
+                    "accountId": "463694179269095424",
+                    "title": "Last stream before Offkai~",
+                    "status": 1,
+                    "viewerCount": 27,
+                    "version": 5679,
+                    "createdAt": 1709971731000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784606952000,
+                    "startedAt": 1784602747000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "622759786772963328",
+                                "streamId": "622759230159462401",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:28Z"
     }
 }

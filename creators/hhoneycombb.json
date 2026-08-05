@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b89b68c4-523a-400a-8f7a-3be05a439247-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1bc39b7b-705c-4ac3-8b80-0339f3368d7d-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "790677009146585088",
+        "username": "hhoneycombb",
+        "displayName": null,
+        "version": 2,
+        "followCount": 127,
+        "statusId": 1,
+        "accountMediaLikes": 140,
+        "postLikes": 116,
+        "about": "I'm just a bee ;3",
+        "location": "",
+        "streaming": {
+            "accountId": "790677009146585088",
+            "channel": {
+                "id": "821571978652577792",
+                "accountId": "790677009146585088",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9YcXX2JnD6z5.m3u8",
+                "chatRoomId": "821574840212287488",
+                "status": 2,
+                "version": 23,
+                "createdAt": 1757372383000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "821571978652577793",
+                    "historyId": "931744588152979458",
+                    "channelId": "821571978652577792",
+                    "accountId": "790677009146585088",
+                    "title": "Hi loves~! Let's play some games! ",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 50,
+                    "createdAt": 1757372384000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783639932000,
+                    "startedAt": 1783639580000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

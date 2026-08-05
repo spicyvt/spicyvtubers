@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a58826eb-bc60-492a-93e2-18ae8357a71d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb808412-1ade-45de-9b10-df47e4ed567e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "300425580522778624",
+        "username": "FroZenHelix",
+        "displayName": "FroZenHelix",
+        "version": 5,
+        "followCount": 6974,
+        "statusId": 1,
+        "accountMediaLikes": 14579,
+        "postLikes": 8725,
+        "about": "Oh yea I'm that kinda elf.\nIma boyfu (boy)\n\nTwitter if u wanna see more of me not as spicy but still spicy~ ",
+        "location": "Some Where Cold",
+        "streaming": {
+            "accountId": "300425580522778624",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

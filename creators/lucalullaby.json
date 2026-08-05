@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ddb0a678-e3c4-455d-aa26-0ae7e8a430b4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/adaad2b1-125a-481b-9172-04cd580bf8cc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "432131928162840576",
+        "username": "LucaLullaby",
+        "displayName": "LucaLullaby 🍒👑",
+        "version": 14,
+        "followCount": 6430,
+        "statusId": 1,
+        "accountMediaLikes": 11832,
+        "postLikes": 18594,
+        "about": "Wed / Fri / Sat 💋 | Live 7PM EST | With the Occasional Impromptu Stream\nI'm a Toxic Latina who does NSFW Streams, Posts LEWD ART, and NSFW AUDIOS! 🎨🎤\n\n🎙️ Discord Server: https://discord.gg/LucaLullaby\n",
+        "location": "Your Walls",
+        "streaming": {
+            "accountId": "432131928162840576",
+            "channel": {
+                "id": "646163135803170816",
+                "accountId": "432131928162840576",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jt5V0m0Hr90t.m3u8",
+                "chatRoomId": "646163621868478464",
+                "status": 2,
+                "version": 154,
+                "createdAt": 1715551656000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "646163135803170817",
+                    "historyId": "939748822077153280",
+                    "channelId": "646163135803170816",
+                    "accountId": "432131928162840576",
+                    "title": "Horny with Fuck Machine 🍒  ",
+                    "status": 1,
+                    "viewerCount": 19,
+                    "version": 3216,
+                    "createdAt": 1715551657000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785556477000,
+                    "startedAt": 1785547938000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "886488243825029120",
+                                "streamId": "646163135803170817",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:47Z"
     }
 }

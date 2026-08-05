@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/576d6919-faf1-426f-9de5-6c2d411a10b1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fd9cc27-480d-425e-888e-a67c43f176a4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "806654480895471616",
+        "username": "SereanaMikazuki",
+        "displayName": null,
+        "version": 3,
+        "followCount": 1303,
+        "statusId": 1,
+        "accountMediaLikes": 765,
+        "postLikes": 447,
+        "about": "💜 Your bratty bimbo sharkpup. 💜\n\n🔗: https://sereanamikazuki.carrd.co/\n❤︎ Spoil your puppy: throne.com/sereanamikazuki\n\n♡ She/Her, Switch (Sub Leaning), 5'4\"\n♡ Vtuber 2D (lewd & nude) | IRL (lewd, maybe nude)\n♡ All replies are from me, plz be patient! DM me puppy ;)\n♡ Customs, ratings, streams, nsfw audios & more (COMING SOON)! \n♡ Large list of kinks, come and find them out, lovelies ;)\n\n⋆⁺｡˚⋆˙‧₊☽ ◯ ☾₊‧˙⋆˚｡⁺⋆\n\n⚠️All of my content is for my Fansly profile only. ⚠️\n\n© 2025. All rights reserved. No recording, reposting, sharing, or screenshotting. No chargebacks. Violations breach Fansly TOS and will result in legal action & a ban.\n\n\n",
+        "location": "Screaming & Begging for You",
+        "streaming": {
+            "accountId": "806654480895471616",
+            "channel": {
+                "id": "876613637513428992",
+                "accountId": "806654480895471616",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ME5578kCDgtU.m3u8",
+                "chatRoomId": "876616020544999424",
+                "status": 2,
+                "version": 35,
+                "createdAt": 1770495337000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "876613637513428993",
+                    "historyId": "941206043235459072",
+                    "channelId": "876613637513428992",
+                    "accountId": "806654480895471616",
+                    "title": "⋆˙‧₊☽ A Love Hotel, Just For You and Me~ • !throne !goals !tipmenu !tip • #vtuber #lewdtuber ☾₊‧˙⋆",
+                    "status": 1,
+                    "viewerCount": 19,
+                    "version": 54,
+                    "createdAt": 1770495338000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785903129000,
+                    "startedAt": 1785895367000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

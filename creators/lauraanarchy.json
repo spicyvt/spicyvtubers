@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/03c98073-484f-4e7e-abae-a6b229d30b04-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7da413f-651c-422e-a757-a083108db907-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "737412427510984705",
+        "username": "MistressAnarchy",
+        "displayName": "LauraAnarchy",
+        "version": 6,
+        "followCount": 158,
+        "statusId": 1,
+        "accountMediaLikes": 30,
+        "postLikes": 85,
+        "about": "Hey, I'm just a trans girl vampire vtuber who loves streaming and I come here to stream lewd games and show you cute lewds and nudes of me\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "737412427510984705",
+            "channel": {
+                "id": "739295582329253888",
+                "accountId": "737412427510984705",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TVOp3lcJsrFR.m3u8",
+                "chatRoomId": "739295809446621184",
+                "status": 2,
+                "version": 16,
+                "createdAt": 1737756162000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "739295582329253889",
+                    "historyId": "940450415609135104",
+                    "channelId": "739295582329253888",
+                    "accountId": "737412427510984705",
+                    "title": "I miss getting noise complaints",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 1054,
+                    "createdAt": 1737756162000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785720253000,
+                    "startedAt": 1785715211000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "877113092016721920",
+                                "streamId": "739295582329253889",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

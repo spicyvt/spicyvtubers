@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e4ffd04-252c-46f2-af8d-e67ee3c8587c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d63232f-0882-474c-9dde-7a4172a80af6-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "356113957993324544",
+        "username": "AWildKitsune",
+        "displayName": null,
+        "version": 5,
+        "followCount": 2304,
+        "statusId": 1,
+        "accountMediaLikes": 631,
+        "postLikes": 537,
+        "about": "Just a Big Tiddy Fox Girl ;)\n\n~~SERVICES~~\n\nDick Ratings: Please Pick An Option ($10 text $15 audio)\n            (Honest Rating) - (Cock Worship) - (Small Penis Humiliation)\n\nErp (Text) 10$ for 20 minutes OR Erp (Call) 60$ for 30 minutes\nawildk3Shy Lovense Call 50$ for 15 minutes\nKoikatsu Image Render + Audio Package - 90$\n(Custom Animations will be considered if the minimum budget is starting at $500)\n\nMonthly Packages\n$175 - One discord call and one ERP text a month or 1 Lovense call a month. \n$325 - Girlfriend lite - good morning and good night discord messages Will respawn to messages as vavailable\n$650 - total girlfriend package, text messages, 1 date with spicy ending, 3 ERP, 2 lovense call\n\nhttps://awildkitsune.uwu.ai\n\nAll Koikatsu Renders unless stated otherwise are made by @Ecchi_Bun",
+        "location": "",
+        "streaming": {
+            "accountId": "356113957993324544",
+            "channel": {
+                "id": "624099297121542144",
+                "accountId": "356113957993324544",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7KelTz1xddji.m3u8",
+                "chatRoomId": "624101028517650434",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1710291227000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "624099297121542145",
+                    "historyId": "935435944461361152",
+                    "channelId": "624099297121542144",
+                    "accountId": "356113957993324544",
+                    "title": "Reading Smut For You!",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 9050,
+                    "createdAt": 1710291228000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784523834000,
+                    "startedAt": 1784519668000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "736501828165836800",
+                                "streamId": "624099297121542145",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

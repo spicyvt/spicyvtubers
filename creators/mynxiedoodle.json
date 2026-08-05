@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c16389a7-409f-4a10-ae1b-dff1b28b1efa-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/793146d9-8c0c-4b81-8c77-222b0d55223c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "844360526057201664",
+        "username": "MynxieDoodle",
+        "displayName": "Mynxie 🌸",
+        "version": 23,
+        "followCount": 9943,
+        "statusId": 1,
+        "accountMediaLikes": 25462,
+        "postLikes": 12479,
+        "about": "Hey, I'm Mynxie! So happy you're finally here 🩷 Whether you're just looking for a friend to talk nerdy with, or for a subby little pup, I'm your girl! Now roll for initiative and let's see who goes first 😉 \n\n✨ No Agency, Chatters, or Bots\n✨ I NEVER try to sell anything in your DMs when you're subscribed\n\n What you can expect:\n🩷 Real Lewd/Nudes Daily\n🩷 Real Solo Videos: Squirting, Fantasy Toys, etc. \n🩷 A Semi-Cool Person to Talk to\n🩷 Live Streams\n\nI personally reply and try to keep spam at an absolute minimum. That also means I might not reply right away, as I do have a daughter and a full-time job. Please be patient with me 🥺\n\n🤍 Discord Server: discord.gg/g6GqcqGs3r\n🤍 Wishlist: throne.com/mynxiedoodle\n\n✨ About Me ✨\n🤍 I'm very submissive\n🤍 I game, read, and draw in my spare time\n🤍 I play and love DnD\n🤍 Favourite Game: Mass Effect, BG3, Fallout\n🤍 Favourite Movies: LotR, Grandma's Boy\n🤍 Comfort Shows: Star Trek, Supernatural, DBZ \n🤍 Canadian\n\n✨ Kinks & Loves ✨\n🤍 Free Use & Following Commands\n🤍 Large Monsters, Tentacles, and Creatures\n🤍 Bondage & Impact Play\n🤍 Praise & Discipline \n🤍 Fantasy ERP\n🤍 So, so much more.",
+        "location": "Ontario, Canada ",
+        "streaming": {
+            "accountId": "844360526057201664",
+            "channel": {
+                "id": "851727309458132992",
+                "accountId": "844360526057201664",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.QDX6OKiOC6Yi.m3u8",
+                "chatRoomId": "851727422557536257",
+                "status": 2,
+                "version": 117,
+                "createdAt": 1764561974000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "851727309458132993",
+                    "historyId": "941204970873581568",
+                    "channelId": "851727309458132992",
+                    "accountId": "844360526057201664",
+                    "title": "Little Nightmares 2 (Pt. 1) 🩷|  Streaming until 12am ET",
+                    "status": 1,
+                    "viewerCount": 31,
+                    "version": 134,
+                    "createdAt": 1764561975000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785902031000,
+                    "startedAt": 1785895111000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "901336797844348930",
+                                "streamId": "851727309458132993",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:19Z"
     }
 }

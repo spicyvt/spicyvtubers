@@ -23,5 +23,92 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2951492-3365-464e-bd58-ca511b5c51cf-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e16d593a-c291-450a-8a81-219823da98fa-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "292006729867075584",
+        "username": "danktapus",
+        "displayName": "Danktapus",
+        "version": 11,
+        "followCount": 226,
+        "statusId": 1,
+        "accountMediaLikes": 3834,
+        "postLikes": 1394,
+        "about": "Sub to me because I'm cool and sexy and I also draw",
+        "location": "Somewhere between California and Texas",
+        "streaming": {
+            "accountId": "292006729867075584",
+            "channel": {
+                "id": "479610672615792640",
+                "accountId": "292006729867075584",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hsEgWCKCao6t.m3u8",
+                "chatRoomId": "491034054141947904",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1675842455000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "479610672615792641",
+                    "historyId": "861056466470051840",
+                    "channelId": "479610672615792640",
+                    "accountId": "292006729867075584",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 1272,
+                    "createdAt": 1675842455000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1766796290000,
+                    "startedAt": 1766786219000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "685749201803423744",
+                                "streamId": "479610672615792641",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "685749201803423745",
+                                "streamId": "479610672615792641",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":1000}\"}"
+                            },
+                            {
+                                "id": "685749201803423746",
+                                "streamId": "479610672615792641",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":1000}\"}"
+                            },
+                            {
+                                "id": "685749201803423747",
+                                "streamId": "479610672615792641",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "685749201803423748",
+                                "streamId": "479610672615792641",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

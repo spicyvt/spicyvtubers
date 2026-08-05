@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b78f4364-31bb-4e56-8c77-e6c81d38f21f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ede05cab-32ce-452a-bece-f41d7edf54c5-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "319203043025362944",
+        "username": "Kiralushia",
+        "displayName": "Kiralushia",
+        "version": 6,
+        "followCount": 3154,
+        "statusId": 3,
+        "accountMediaLikes": 2856,
+        "postLikes": 4325,
+        "about": "Bottom Masochist ♀ artist, idol mafia boss Lewdtuber.\n\n🎥 Streams: Tuesday & Friday, around 5pm EDT\n\n💥Please no unsolicited irl pics or dick or pussy pics! 💥\n\nMy socials 💌\n@Kiralushia (SFW socials) - @KiralushiaN (Twitter NSFW)\n\nDo you know you can tip and play with me during streams 🕹 ? You can also sub to me and get the following awesome rewards 💦\nOr you can pay your taxes 💰 by gifting me something on https://youpay.me/kiralushia 🎁\nWhat are you waiting for? Don't you want to make your boss proud of you, huh??? 🔥🥰\n\nTiers explanation ✨✨✨✨\n\n✅ Warm Alpaca \n☆ 1 min toy control\n☆ Stream VODs\n☆ Uncensored Art and other special rewards\n\n✅ Hot Alpaca\n☆ 2 min toy control\n☆ Share your kink idea for next art reward\n☆ Free DM (just chatting, answering asap)\n\n✅ Flaming Alpaca\n☆ 4 min toy control\n☆ Priority DM: Your personal slave will listen and talk to you, master~ (lewd chatting)\n☆ Discord Role",
+        "location": "Alpaca fields",
+        "streaming": {
+            "accountId": "319203043025362944",
+            "channel": {
+                "id": "445295702491275264",
+                "accountId": "319203043025362944",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hKdJv6tDo39Z.m3u8",
+                "chatRoomId": "445306597221085483",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1667661128000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "445295702491275265",
+                    "historyId": "941124051684835338",
+                    "channelId": "445295702491275264",
+                    "accountId": "319203043025362944",
+                    "title": "1 Hour with your lewd boss",
+                    "status": 1,
+                    "viewerCount": 19,
+                    "version": 2723,
+                    "createdAt": 1667661129000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785879606000,
+                    "startedAt": 1785875819000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

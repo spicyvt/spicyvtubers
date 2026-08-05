@@ -23,5 +23,92 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3effb81-3f4d-4adc-9d4a-42e4dc564550-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e71fefbe-295e-4e6a-9109-0090bb917f66-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "750490473411391490",
+        "username": "SutoSain",
+        "displayName": "SutoSain",
+        "version": 6,
+        "followCount": 11091,
+        "statusId": 1,
+        "accountMediaLikes": 7394,
+        "postLikes": 6949,
+        "about": "𖦹 CATAXOLOTL W A PHAT 🍑\n𖤐 Unhinged \n𖤐 Unfiltered \n~ IRL, L2D, SEXT, AUDIO, STREAMS\n\n𖤐 Base sub to watch streams, DM, Discounted PPV\n\n𖤐 I Take Custom orders\n\n\nSPOIL ME: https://throne.com/sutoafterdark\nAll content is under copyright. 👮",
+        "location": "",
+        "streaming": {
+            "accountId": "750490473411391490",
+            "channel": {
+                "id": "875160291631968257",
+                "accountId": "750490473411391490",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.avEEYunut5Cp.m3u8",
+                "chatRoomId": "886193734096547840",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1770148833000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "875160291631968258",
+                    "historyId": "902116250367303681",
+                    "channelId": "875160291631968257",
+                    "accountId": "750490473411391490",
+                    "title": "BDAY FANSLY STREAM :D ~ TIP TO STRIP",
+                    "status": 1,
+                    "viewerCount": 23,
+                    "version": 7779,
+                    "createdAt": 1770148833000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776578071000,
+                    "startedAt": 1776575634000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "886193869773889536",
+                                "streamId": "875160291631968258",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"763013820716163072\\\"}\"}"
+                            },
+                            {
+                                "id": "886193869773889537",
+                                "streamId": "875160291631968258",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"874077094940798976\\\"}\"}"
+                            },
+                            {
+                                "id": "886193869773889538",
+                                "streamId": "875160291631968258",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"763014704758009856\\\"}\"}"
+                            },
+                            {
+                                "id": "886193869773889539",
+                                "streamId": "875160291631968258",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"763010006227365888\\\"}\"}"
+                            },
+                            {
+                                "id": "886193869773889540",
+                                "streamId": "875160291631968258",
+                                "type": 0,
+                                "flags": 10,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":7000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

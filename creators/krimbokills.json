@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bc06002-da2a-496e-886f-4a98b4cb4210-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bdedf9a6-e488-4821-b062-9fd12c3f19b1-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "367346822357725185",
+        "username": "Krimbokills",
+        "displayName": "KRIMBO",
+        "version": 9,
+        "followCount": 288,
+        "statusId": 1,
+        "accountMediaLikes": 103,
+        "postLikes": 362,
+        "about": "Vtuber | Pervert Artist | Ruffian | Poly | Queer | Kinky\nI have a list of models I will draw lewds of on stream, ask to be added!\n",
+        "location": "",
+        "streaming": {
+            "accountId": "367346822357725185",
+            "channel": {
+                "id": "747844770679762944",
+                "accountId": "367346822357725185",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.00ddA7wMrJGh.m3u8",
+                "chatRoomId": "747844975982551040",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1739794447000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "747844770679762945",
+                    "historyId": "914446607276056578",
+                    "channelId": "747844770679762944",
+                    "accountId": "367346822357725185",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 3706,
+                    "createdAt": 1739794448000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1779531309000,
+                    "startedAt": 1779515420000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "747844819350462464",
+                                "streamId": "747844770679762945",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:06Z"
     }
 }

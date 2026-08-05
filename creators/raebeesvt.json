@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/00f8b56a-7650-490c-9139-42bbab2a24f8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6370ab82-ec55-4400-9489-e3725aa0bc1e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "741569085791285248",
+        "username": "ifaerae__",
+        "displayName": "Raebees♣️💕",
+        "version": 33,
+        "followCount": 24806,
+        "statusId": 3,
+        "accountMediaLikes": 55189,
+        "postLikes": 25191,
+        "about": "Heyy I'm Rae^^\nwhat I offer here\n🖤Nudes, lewds, cute outfit pics, cosplay\n🖤solo play content, video/pictures\n🖤streams every week in Tuesdays 11pm UK time\n🖤I respond to all dms<3\n\n✨started on the 1st feb 2025✨",
+        "location": "rat colony",
+        "streaming": {
+            "accountId": "741569085791285248",
+            "channel": {
+                "id": "749371504373805056",
+                "accountId": "741569085791285248",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.U2qgT9c58pfk.m3u8",
+                "chatRoomId": "749371981316497408",
+                "status": 2,
+                "version": 62,
+                "createdAt": 1740158449000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "749371504373805057",
+                    "historyId": "940786171032662016",
+                    "channelId": "749371504373805056",
+                    "accountId": "741569085791285248",
+                    "title": "BABE WAKE UP!! RAT STREAM",
+                    "status": 1,
+                    "viewerCount": 138,
+                    "version": 749,
+                    "createdAt": 1740158449000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785806694000,
+                    "startedAt": 1785795262000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5c53b508-a026-4055-b965-5c4fde480df2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/344a34e2-f7f2-4e14-90e0-54b85d00bb6f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "366824790150881280",
+        "username": "PlushieSuccubus",
+        "displayName": "Plushie",
+        "version": 14,
+        "followCount": 38001,
+        "statusId": 3,
+        "accountMediaLikes": 75882,
+        "postLikes": 47342,
+        "about": "•Just a chronically ill alt girl being horny and making content when I’m able! \n\n•Due to my illness(es) I’m not always able to make content and I never know when I’ll be sick, I’ll do my best to have back up content for when this happens! \n\n•I post mainly solo content and occasionally with my partner! I occasionally upload nsfw tiktoks and vlogs as well! \n\n•I love manga, light novels, horror books, painting, gaming, and Red Baron pizza! (And lots of other things too, feel free to ask) \n\n•I love to chat and talk about all sorts of things! ",
+        "location": "Hell (devil spawn) ",
+        "streaming": {
+            "accountId": "366824790150881280",
+            "channel": {
+                "id": "671535243253002241",
+                "accountId": "366824790150881280",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iFnpLw3w5w75.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1721600838000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "671535243253002242",
+                    "historyId": null,
+                    "channelId": "671535243253002241",
+                    "accountId": "366824790150881280",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1721600839000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

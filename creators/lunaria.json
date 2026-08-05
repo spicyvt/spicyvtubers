@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ed0025-bd25-4cae-beaf-4f3483f39218-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67690fa6-098f-4947-a27e-d693d78e74e5-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "627659711734362112",
+        "username": "LunariaAyaren",
+        "displayName": "Lunaria",
+        "version": 4,
+        "followCount": 3938,
+        "statusId": 3,
+        "accountMediaLikes": 1989,
+        "postLikes": 2524,
+        "about": "you found me, congrats!\nyour fav auntie latina and now your favorite gal to spend a sub in :3\n\nDISCLAIMERS: \n- DM's are slow! I'm really sorry but it's really only me handling the account :)\n- I do not show my real body on NSFW posts.I'm not ready for it yet heh",
+        "location": "Chile",
+        "streaming": {
+            "accountId": "627659711734362112",
+            "channel": {
+                "id": "628639070376964104",
+                "accountId": "627659711734362112",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BIlv8Tx1JX54.m3u8",
+                "chatRoomId": "628639193349763072",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1711373593000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "628639070376964105",
+                    "historyId": null,
+                    "channelId": "628639070376964104",
+                    "accountId": "627659711734362112",
+                    "title": "auntie is streaming ~ ♡",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1711373594000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "863460472370786304",
+                                "streamId": "628639070376964105",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

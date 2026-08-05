@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ac03ca00-3963-4718-907d-ac3eb4ee6cad-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2eb430b7-a10b-4cd6-be93-da86788c91de-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "667839270119022592",
+        "username": "PandaraVA",
+        "displayName": null,
+        "version": 5,
+        "followCount": 6280,
+        "statusId": 1,
+        "accountMediaLikes": 7467,
+        "postLikes": 4158,
+        "about": "✨🖤🤍Welcome to my box darlings~🖤🤍✨\n\n🖤Join in for NSFW ART, Exclusive Irl Audios, Lewd Streams, NSFW Pics and more~🤍\n\n🤍You know where you've heard my voice from~🖤\n\n🖤I hope you enjoy yer stay here hot stuff 🤍\n\n©️ [Copyright Notice and Disclaimer]\nThe content on my Fansly page is owned by me, you do not have permission to use, copy, reproduce or distribute any of the material on my profile.",
+        "location": "Pandara's Box",
+        "streaming": {
+            "accountId": "667839270119022592",
+            "channel": {
+                "id": "769542950785921025",
+                "accountId": "667839270119022592",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AmWE0s7XEQyO.m3u8",
+                "chatRoomId": "769545099716603904",
+                "status": 2,
+                "version": 30,
+                "createdAt": 1744967696000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "769542950785921026",
+                    "historyId": "940416054679576577",
+                    "channelId": "769542950785921025",
+                    "accountId": "667839270119022592",
+                    "title": "GOONLOCK NEW MATCHMAKING UPDATEE~!",
+                    "status": 1,
+                    "viewerCount": 25,
+                    "version": 1032,
+                    "createdAt": 1744967697000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785714185000,
+                    "startedAt": 1785707019000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

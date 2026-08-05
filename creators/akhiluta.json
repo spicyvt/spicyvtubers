@@ -23,5 +23,92 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b21954e-8c93-4465-8dd3-baeb95d672c4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/569465bb-1ee3-4717-8a1e-860bbf88bcbb-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "915968765122846720",
+        "username": "AkhiLuta",
+        "displayName": "Akhi Luta",
+        "version": 5,
+        "followCount": 318,
+        "statusId": 2,
+        "accountMediaLikes": 181,
+        "postLikes": 76,
+        "about": "Hello - I'm Akhi Luta! I am an Akhlut (half arctic wolf half orca whale spirit creature from Inuit folklore) Vtuber! I specialize in sensual yet relaxing ASMR content as well as heavily cater to the Aquaphilia/Underwater Kink Fetish Niche! I'm just kinky in general (with all genders)! Content will be a combo of Vtuber  clips, art/animations, and the higher being within me's physical form doing very spicy stuff!",
+        "location": "",
+        "streaming": {
+            "accountId": "915968765122846720",
+            "channel": {
+                "id": "916017318566326272",
+                "accountId": "915968765122846720",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SAc1w5sVshzl.m3u8",
+                "chatRoomId": "916017339625906177",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1779889907000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "916017318566326273",
+                    "historyId": "927097738196180992",
+                    "channelId": "916017318566326272",
+                    "accountId": "915968765122846720",
+                    "title": "[NSFW] [VTUBER] Akhi Luta Plays  CUCKTALES",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 6,
+                    "createdAt": 1779889907000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782536632000,
+                    "startedAt": 1782531685000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "919880824298434560",
+                                "streamId": "916017318566326273",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"916010498686734336\\\"}\"}"
+                            },
+                            {
+                                "id": "919880824298434561",
+                                "streamId": "916017318566326273",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"916011350172397568\\\"}\"}"
+                            },
+                            {
+                                "id": "919880824298434562",
+                                "streamId": "916017318566326273",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"916009774502387712\\\"}\"}"
+                            },
+                            {
+                                "id": "919880824298434563",
+                                "streamId": "916017318566326273",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "919880824298434564",
+                                "streamId": "916017318566326273",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:26Z"
     }
 }

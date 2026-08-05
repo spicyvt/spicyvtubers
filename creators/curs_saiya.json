@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/519ee760-7ace-4c05-86b6-90a3d11d4882-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a96d9fba-a5d7-47a3-b033-a4b0594f4dcc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "488514497061855232",
+        "username": "cursedgoddesssaiya",
+        "displayName": "Saiya",
+        "version": 6,
+        "followCount": 548,
+        "statusId": 1,
+        "accountMediaLikes": 835,
+        "postLikes": 750,
+        "about": "Hi! My name is Saiya✨ I am bratty and submissive yandere~\nI'm posting here erocosplay, cute and naughty pics of me and my vtuber ♡︎\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "488514497061855232",
+            "channel": {
+                "id": "537304330852638720",
+                "accountId": "488514497061855232",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2qLoqVIU2Tco.m3u8",
+                "chatRoomId": "537304543982002176",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1689597695000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "537304330852638721",
+                    "historyId": null,
+                    "channelId": "537304330852638720",
+                    "accountId": "488514497061855232",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1689597695000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "537304667089022976",
+                                "streamId": "537304330852638721",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:47Z"
     }
 }

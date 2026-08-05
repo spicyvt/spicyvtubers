@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/04bfd170-544e-4ba4-ab31-e3734260ed41-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b029bab-7a09-428b-94c7-cab6ed51de79-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "703444175432982529",
+        "username": "Spitevtuber",
+        "displayName": "Spite",
+        "version": 4,
+        "followCount": 32557,
+        "statusId": 1,
+        "accountMediaLikes": 89306,
+        "postLikes": 48524,
+        "about": "Hey Lewdtoys! Here you can find lewd VR dances, NSFW Audios/ASMR, NSFW VR videos, custom audios, and IRL videos & images. Thank you for cumming! 💋",
+        "location": "The Gates of Hell",
+        "streaming": {
+            "accountId": "703444175432982529",
+            "channel": {
+                "id": "851936532406231040",
+                "accountId": "703444175432982529",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9UQdcbSvzuRi.m3u8",
+                "chatRoomId": "851938456757104641",
+                "status": 2,
+                "version": 16,
+                "createdAt": 1764611857000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "851936532406231041",
+                    "historyId": "902775029379395584",
+                    "channelId": "851936532406231040",
+                    "accountId": "703444175432982529",
+                    "title": "WATCH ME SHAKE MY ASS",
+                    "status": 1,
+                    "viewerCount": 81,
+                    "version": 70,
+                    "createdAt": 1764611857000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776745757000,
+                    "startedAt": 1776732699000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

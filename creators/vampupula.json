@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ccd88947-c0ab-43d7-ac55-1629b33fc949-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ef397a5-18c2-4e19-9985-9bbfcbe0accc-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "886761488847486977",
+        "username": "vampupula",
+        "displayName": "vampy",
+        "version": 6,
+        "followCount": 3275,
+        "statusId": 1,
+        "accountMediaLikes": 3664,
+        "postLikes": 1724,
+        "about": "hi!! I'm vampy! your favorite bratty slut~\n\n🐾 Spoil your cutie: Throne.com/vampupula\n🦴 Watch me LIVE: Twitch.tv/vampupula\n\nSub to see:\n- IRL lewd & sfw pics & vids!\n- nsfw audios & streams (coming soon)\n- bratty, subby and dommy vibes >:3\n\n🐶 Credits: https://vampupula.carrd.co/#section01\n\nDISCLAIMERS:\n- this page will not include irl nudity or my full face!\n- although I really really appreciate wishlist gifts I cannot provide anything in return due to TOS! \n- while I do enjoy chatting when I'm available please keep in mind that i manage this page by myself and everything is platonic! please remember to take care of your mental health 🩷 ",
+        "location": "",
+        "streaming": {
+            "accountId": "886761488847486977",
+            "channel": {
+                "id": "937243553787035648",
+                "accountId": "886761488847486977",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.tuAXJObmIAwl.m3u8",
+                "chatRoomId": "937243791524380672",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1784950636000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "937243553787035649",
+                    "historyId": null,
+                    "channelId": "937243553787035648",
+                    "accountId": "886761488847486977",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1784950636000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:28Z"
     }
 }

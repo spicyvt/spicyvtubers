@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/723adcf2-4ea8-4111-865e-123506aaf5dd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e584c61-b2b3-48aa-b0e3-b3aff4420697-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "477373698416844800",
+        "username": "Nyanniee",
+        "displayName": "Nyannie",
+        "version": 8,
+        "followCount": 183556,
+        "statusId": 1,
+        "accountMediaLikes": 201279,
+        "postLikes": 88725,
+        "about": "🞮 GOTH GIRL 🦴\n🞮 Fat Ass 🍑\n🞮 I get obsessed, so be careful!! 💀\n\n🞮 I Respond to DMs! (But please be patient <3) \n\n🞮 IRL, 2D, 3D, Audio, and Lewd Stream Content~! 💙\n\nAll content is under copyright. Enforced by bruqi.com.",
+        "location": "",
+        "streaming": {
+            "accountId": "477373698416844800",
+            "channel": {
+                "id": "500121702320058368",
+                "accountId": "477373698416844800",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oeUujrnv1STb.m3u8",
+                "chatRoomId": "500123134641315840",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1680732665000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "500121702320058369",
+                    "historyId": "927358178033672192",
+                    "channelId": "500121702320058368",
+                    "accountId": "477373698416844800",
+                    "title": "afterstream goon shesh help me wind down~ ",
+                    "status": 1,
+                    "viewerCount": 500,
+                    "version": 1304,
+                    "createdAt": 1680732666000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782599817000,
+                    "startedAt": 1782593779000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "500127295281831936",
+                                "streamId": "500121702320058369",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"490587146353123328\\\"}\"}"
+                            },
+                            {
+                                "id": "500127295281831937",
+                                "streamId": "500121702320058369",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

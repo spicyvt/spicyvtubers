@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4537b1bf-fb8f-4e2a-bffa-3412a99b8e1d-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dce613a-4f70-4975-a1f2-210c46ccc868-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "535720862519664640",
+        "username": "k9exorcist",
+        "displayName": "kaiyo",
+        "version": 11,
+        "followCount": 15118,
+        "statusId": 1,
+        "accountMediaLikes": 19145,
+        "postLikes": 25000,
+        "about": "hey i'm kaiyo the puppy boy\n\ni post IRL photos and videos",
+        "location": "",
+        "streaming": {
+            "accountId": "535720862519664640",
+            "channel": {
+                "id": "682931654557179904",
+                "accountId": "535720862519664640",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.MF3a5IgajUM7.m3u8",
+                "chatRoomId": "760168406073749505",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1724317954000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "682931654557179905",
+                    "historyId": "820956237137989632",
+                    "channelId": "682931654557179904",
+                    "accountId": "535720862519664640",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 143,
+                    "version": 1592,
+                    "createdAt": 1724317954000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1757229355000,
+                    "startedAt": 1757225579000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "760441993624039424",
+                                "streamId": "682931654557179905",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

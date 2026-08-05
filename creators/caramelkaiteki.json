@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8aeb119-9777-4d20-9648-b52d1cea0d19-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9307c113-8d53-484e-91d0-b02f89834bf2-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "472900865523458048",
+        "username": "CaramelKaiteki",
+        "displayName": null,
+        "version": 4,
+        "followCount": 863,
+        "statusId": 1,
+        "accountMediaLikes": 190,
+        "postLikes": 655,
+        "about": "Sussy catgirl with 2 braincells, here to spread some cute n sexy pics\n\nArt will mainly be made with Koikatsu, though in the future might also be made with Blender once I get better :3",
+        "location": "Neko Paradise",
+        "streaming": {
+            "accountId": "472900865523458048",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbd66e73-2300-4d2c-b10b-425c93342890-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6ab95e3-3cd4-49cf-9cb1-32f9cc0a81da-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "491127169909534720",
+        "username": "LewdNico",
+        "displayName": " LᴇᴡᴅNɪᴄᴏ 💜✨",
+        "version": 52,
+        "followCount": 6614,
+        "statusId": 1,
+        "accountMediaLikes": 22002,
+        "postLikes": 21121,
+        "about": "ʏᴏᴜʀ ғᴀᴠᴏʀɪʀᴇ ᴛʜɪᴄᴋ ᴛʜɪɢʜᴇᴅ ᴋɪᴛᴛʏ !!!~\n\nFᴀᴠᴏʀɪᴛᴇ ᴋɪɴᴋs: \n- ʙᴅsᴍ \n- ᴀɴᴀʟ \n- ᴘʀᴀɪsᴇ \n- ɴɪᴘᴘʟᴇ ᴘʟᴀʏ\n- ᴇᴅɢɪɴɢ \n- ɢᴀɢɢᴇᴅ\n- ᴄᴏʟʟᴀʀ / ʟᴇᴀsʜᴇᴅ \n- ᴛᴏʏs / ᴠɪʙʀᴀᴛᴏʀ\n- ᴘᴇᴛ ᴘʟᴀʏ \n- sᴜʙᴍɪssɪᴠᴇ (sᴇʟғ)\n- ᴇxʜɪʙ \n- ɢʟᴏʀʏ ʜᴏʟᴇ \n- ʙᴇɪɴɢ sᴘᴏɪʟᴇᴅ ɪɴ ᴇxᴄʜᴀɴɢᴇ ғᴏʀ sʟᴜᴛᴛʏ sᴇʀᴠɪᴄᴇs ! \n\n------------------------------------------------------------------------\nMᴇssᴀɢᴇs ᴀʀᴇ ɴᴏᴡ $0.50 ᴛᴏ sᴀᴠᴇ ᴍʏ sᴀɴɪᴛʏ ᴏɴ ᴛʜᴇʀᴇ ᴀɴᴅ ʙᴇ ᴀʙʟᴇ ᴛᴏ ᴋᴇᴇᴘ ᴜᴘ ʙᴇᴛᴛᴇʀ! Iғ I ᴏᴡᴇ ʏᴏᴜ sᴏᴍᴇᴛʜɪɴɢ ᴘʟᴇᴀsᴇ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴛᴏ ᴍᴇ ᴏɴ Tᴡɪᴛᴛᴇʀ, Dɪsᴄᴏʀᴅ, ᴏʀ ʙʟᴜᴇsᴋʏ ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴡᴀɴᴛ ᴛᴏ ᴘᴘᴠ!  ",
+        "location": "United States",
+        "streaming": {
+            "accountId": "491127169909534720",
+            "channel": {
+                "id": "897717303397859427",
+                "accountId": "491127169909534720",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Dbshufo8kkal.m3u8",
+                "chatRoomId": "897724823046733824",
+                "status": 2,
+                "version": 15,
+                "createdAt": 1775526843000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "897717303397859428",
+                    "historyId": "923342180381118464",
+                    "channelId": "897717303397859427",
+                    "accountId": "491127169909534720",
+                    "title": "Finna just chill ! ",
+                    "status": 1,
+                    "viewerCount": 23,
+                    "version": 46,
+                    "createdAt": 1775526844000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781641948000,
+                    "startedAt": 1781636290000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "897724933780566016",
+                                "streamId": "897717303397859428",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56339497-b6e9-4491-b383-4d94f8671dfc-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/65de9abf-51fd-4807-92d7-201717292819-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "303018312592273408",
+        "username": "ArtsyVRC",
+        "displayName": "Artsy",
+        "version": 10,
+        "followCount": 66109,
+        "statusId": 1,
+        "accountMediaLikes": 40616,
+        "postLikes": 64357,
+        "about": "This is my hobby, I enjoy being a slut in practice~\n\nMost content is free but you can sub for nudity posts 🤍",
+        "location": "",
+        "streaming": {
+            "accountId": "303018312592273408",
+            "channel": {
+                "id": "438120405421535233",
+                "accountId": "303018312592273408",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WSJGhTEqlca7.m3u8",
+                "chatRoomId": "438120470336774144",
+                "status": 2,
+                "version": 22,
+                "createdAt": 1665950404000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "438120405421535234",
+                    "historyId": "938971328218685440",
+                    "channelId": "438120405421535233",
+                    "accountId": "303018312592273408",
+                    "title": "Alien Booba~ ",
+                    "status": 1,
+                    "viewerCount": 355,
+                    "version": 5359,
+                    "createdAt": 1665950405000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785374741000,
+                    "startedAt": 1785362569000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "438120425361256448",
+                                "streamId": "438120405421535234",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dfa94839-f364-48ec-aaea-0b15e98ec86c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b01c5f3-65ff-450a-b1b3-69fccfc1783c-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "200041701551636480",
+        "username": "zombae",
+        "displayName": "Z O M B Δ E",
+        "version": 8,
+        "followCount": 5182,
+        "statusId": 1,
+        "accountMediaLikes": 1450,
+        "postLikes": 1236,
+        "about": "♥ ᵡ ⁺  † ⟁   Z O M B ∆ E-C ∇ L T   ⟁ †  ⁺ ᵡ ♥\ne l d r i t c h  v i x e n  |  c u l t  l e a d e r  | b r a t\n\n𓂀IRLxVTUBER CONTENT𓂀\nI play an original character, bringing a fantasy to you. \nI want to invoke a feeling and a desire!\n\nSync up with me with your very own Lovense toy using my link: https://www.lovense.com/r/eizgz1\n\nDisclaimer: If you want to show me how hard I make you make sure to attach 100$ along with it. Give me a purpose to want to see your dick.\n\nWishlist: https://throne.com/zombaebby/wishlist\nTwitch: Twitch.tv/ZombaeBby\nTwitter: @Zombaebby",
+        "location": "Cyberspace",
+        "streaming": {
+            "accountId": "200041701551636480",
+            "channel": {
+                "id": "509813315157897216",
+                "accountId": "200041701551636480",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qgf8n7S5zoqf.m3u8",
+                "chatRoomId": "509814356574220288",
+                "status": 2,
+                "version": 20,
+                "createdAt": 1683043326000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "509813315157897217",
+                    "historyId": "908849400715952128",
+                    "channelId": "509813315157897216",
+                    "accountId": "200041701551636480",
+                    "title": "Drawing naughty things",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 5001,
+                    "createdAt": 1683043326000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778187838000,
+                    "startedAt": 1778180942000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "908841091376095232",
+                                "streamId": "509813315157897217",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

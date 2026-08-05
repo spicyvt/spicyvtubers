@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f00b5c51-ac1e-402c-9a1f-341c3b977e5e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26c12940-8c56-49f5-952c-c008f380d07b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "934783541647003648",
+        "username": "hinosashii",
+        "displayName": "LEWD Sasshi",
+        "version": 5,
+        "followCount": 17,
+        "statusId": 1,
+        "accountMediaLikes": 9,
+        "postLikes": 10,
+        "about": "ESP/ENG | Your favorite pink ram.~ 🌸\n\n- DM's open 🔓\n- Custom request ✅\n- Spicy Videos & Pics 🔥\n\nJust send me a message... :3",
+        "location": "Mexico",
+        "streaming": {
+            "accountId": "934783541647003648",
+            "channel": {
+                "id": "938035720122036224",
+                "accountId": "934783541647003648",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.d5GfZBlWYrdP.m3u8",
+                "chatRoomId": "938035779177836546",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1785139503000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "938035720122036225",
+                    "historyId": null,
+                    "channelId": "938035720122036224",
+                    "accountId": "934783541647003648",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1785139503000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:01Z"
     }
 }

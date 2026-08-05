@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b10f5deb-efeb-4bb7-afa7-46a36a0df0fd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/43434cfc-12d4-4a37-aa08-12be9a7243f0-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "396873576289935360",
+        "username": "MattaruLewd",
+        "displayName": "Mattaru",
+        "version": 3,
+        "followCount": 95,
+        "statusId": 1,
+        "accountMediaLikes": 2,
+        "postLikes": 50,
+        "about": "New to Fansly and up for anything! Vtuber on Twitch but I am such a big slut that I just had to get it all out!",
+        "location": "UK",
+        "streaming": {
+            "accountId": "396873576289935360",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ddf24d43-d7f7-4e6a-8171-02d22cac8b0f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/89e5cd14-8e23-4271-89f5-ac92eb48d4b0-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "788926528560832512",
+        "username": "mourningvenus",
+        "displayName": null,
+        "version": 6,
+        "followCount": 673,
+        "statusId": 3,
+        "accountMediaLikes": 580,
+        "postLikes": 587,
+        "about": "Welcome to the Shrine After Hours 🔞💕 \n\n♥ NSFW Art, Games, Pics, ASMR ♥\n♥ NSFW Audios available on Patreon: https://patreon.com/mourningVenus \n♥ Love me and I'll smother you with kisses https://throne.com/mourningvenus\n\nAll donations and subscriptions go towards supporting future audios and streams. Any and all support is greatly appreciated! ♥\n\nGround Rules (to keep everyone having a good time):\n- Any images are not allowed to be redistributed in any manner\n- This is a safe space, please keep it as such. Warnings will be given out to anyone being disorderly/inappropriate before being blocked",
+        "location": "",
+        "streaming": {
+            "accountId": "788926528560832512",
+            "channel": {
+                "id": "789242115266715650",
+                "accountId": "788926528560832512",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.UM8jkS6q2yh8.m3u8",
+                "chatRoomId": "789242578301100034",
+                "status": 2,
+                "version": 37,
+                "createdAt": 1749664343000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "789242115266715651",
+                    "historyId": "909180171481800704",
+                    "channelId": "789242115266715650",
+                    "accountId": "788926528560832512",
+                    "title": "Future Fragments w/ Lovense",
+                    "status": 1,
+                    "viewerCount": 21,
+                    "version": 966,
+                    "createdAt": 1749664344000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778268089000,
+                    "startedAt": 1778259804000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "837096905694519296",
+                                "streamId": "789242115266715651",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

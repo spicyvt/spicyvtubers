@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4e52062-c8a7-41ee-be4f-081fac422cfa-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55e8d2fe-d903-491d-b6ea-cc9328d8c179-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "485226639370756098",
+        "username": "SweetWings",
+        "displayName": null,
+        "version": 8,
+        "followCount": 6070,
+        "statusId": 3,
+        "accountMediaLikes": 12171,
+        "postLikes": 9736,
+        "about": "(*´∀`*) 🍧 The Cotton Candy Bubblegum Birb\nBanner: @MakinaKid\nPFP: @BlackSaikou\nhttps://linktr.ee/sweetwingsvr",
+        "location": "Sugar Town",
+        "streaming": {
+            "accountId": "485226639370756098",
+            "channel": {
+                "id": "520446449637400578",
+                "accountId": "485226639370756098",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SNKDT1FjmRUO.m3u8",
+                "chatRoomId": "520448767409790976",
+                "status": 2,
+                "version": 75,
+                "createdAt": 1685578463000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "520446449637400579",
+                    "historyId": "941229260847198211",
+                    "channelId": "520446449637400578",
+                    "accountId": "485226639370756098",
+                    "title": "Playing some big walk w/Hideyoshi_Ryu",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 821,
+                    "createdAt": 1685578463000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785905956000,
+                    "startedAt": 1785900903000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "928855275513856001",
+                                "streamId": "520446449637400579",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

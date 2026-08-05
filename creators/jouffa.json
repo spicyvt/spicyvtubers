@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef3f5c17-c4de-4a48-a16b-d921402de104-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/afb1f70e-c41e-4cf7-a30d-ea96b2736d25-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "819828607315632128",
+        "username": "jouffas",
+        "displayName": "Jouffa",
+        "version": 5,
+        "followCount": 10927,
+        "statusId": 3,
+        "accountMediaLikes": 17519,
+        "postLikes": 9474,
+        "about": "hey~ 💕\n\nPosts every Tues/Fri\nStreams Fridays 7PM CST ",
+        "location": "",
+        "streaming": {
+            "accountId": "819828607315632128",
+            "channel": {
+                "id": "843079313224908801",
+                "accountId": "819828607315632128",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hD89rzGHHYBa.m3u8",
+                "chatRoomId": "858554139070701568",
+                "status": 2,
+                "version": 92,
+                "createdAt": 1762500131000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "843079313224908802",
+                    "historyId": "939736561283518465",
+                    "channelId": "843079313224908801",
+                    "accountId": "819828607315632128",
+                    "title": "💗 MORI X JOUFFA COLLAB 💗 See this duo get up to trouble... (Shock Collar + Hush  + Gemini +  lush ACTIVE)",
+                    "status": 1,
+                    "viewerCount": 142,
+                    "version": 182,
+                    "createdAt": 1762500132000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785555889000,
+                    "startedAt": 1785545015000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

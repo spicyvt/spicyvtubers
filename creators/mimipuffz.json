@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff78df23-2df0-4828-bb6e-1b8badf9a476-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5008104e-e99b-4269-b823-0fe5dd228481-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "817340813334814720",
+        "username": "PudgyMimi",
+        "displayName": "Mimi",
+        "version": 6,
+        "followCount": 1811,
+        "statusId": 3,
+        "accountMediaLikes": 4210,
+        "postLikes": 3637,
+        "about": "Dorky lady who enjoys gooning ( ｡ •̀ ᴗ •́ ｡)\nIf you're into cute thicc latinas then you have come to the right place!\nI don't do ratings or customs!\nSpoil me! 💖 https://throne.com/pudgymimi",
+        "location": "https://throne.com/pudgymimi",
+        "streaming": {
+            "accountId": "817340813334814720",
+            "channel": {
+                "id": "822688608535195648",
+                "accountId": "817340813334814720",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.J1k8dfs7naUX.m3u8",
+                "chatRoomId": "822747407950307329",
+                "status": 2,
+                "version": 52,
+                "createdAt": 1757638609000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "822688608535195649",
+                    "historyId": "936479326008795136",
+                    "channelId": "822688608535195648",
+                    "accountId": "817340813334814720",
+                    "title": "Evil sex machine time!! (I'm controlling it)",
+                    "status": 1,
+                    "viewerCount": 74,
+                    "version": 66,
+                    "createdAt": 1757638609000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784772184000,
+                    "startedAt": 1784768430000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

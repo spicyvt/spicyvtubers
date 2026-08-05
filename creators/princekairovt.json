@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1d4575b-477b-4e84-a5e6-e72b3f1b1e49-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19cd9e99-527c-4da0-82c0-3b588b4544ad-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "635583529039699969",
+        "username": "PrinceKairoVT",
+        "displayName": "Prince Kairo",
+        "version": 4,
+        "followCount": 228,
+        "statusId": 1,
+        "accountMediaLikes": 102,
+        "postLikes": 86,
+        "about": "The official Fansly account of Prince Kairo, ASMRtist and Amateur Voice actor! I'll be doing NSFW streams with my Lovense toys~",
+        "location": "",
+        "streaming": {
+            "accountId": "635583529039699969",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

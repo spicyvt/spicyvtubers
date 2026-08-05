@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95600288-5ee9-4a00-89cd-23a3b9e4aefb-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b71df099-8fbf-499c-94d3-a505be9a96de-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "701768660817031168",
+        "username": "RitaVRC",
+        "displayName": null,
+        "version": 4,
+        "followCount": 23698,
+        "statusId": 2,
+        "accountMediaLikes": 41717,
+        "postLikes": 11417,
+        "about": "🍭 𝘊𝘢𝘯𝘥𝘺 𝘝𝘛𝘶𝘣𝘦𝘳 · 𝘈𝘧𝘵𝘦𝘳 𝘋𝘢𝘳𝘬 💜\n💬 DMs open on 🟢 — subs get priority!\n📺 FREE Streams --> twitch.tv/ritacakes\n⭐ Sub for exclusive content!\n\n｡˚🍬˚｡ ⋆ ｡˚ ❀ ˚｡ ⋆ ｡˚🍬˚｡\n𝗧𝗛𝗘 𝗖𝗔𝗡𝗗𝗬 𝗦𝗛𝗢𝗣 𝗜𝗦 𝗢𝗣𝗘𝗡 🍭\nCome in, pick a flavor, stay a while~ 💜\n⋆ ˚｡⋆୨୧˚ 𝗪𝗛𝗢'𝗦 𝗕𝗘𝗛𝗜𝗡𝗗 𝗧𝗛𝗘 𝗖𝗢𝗨𝗡𝗧𝗘𝗥 ˚୨୧⋆｡˚ ⋆\nHiii! Its your favorite candy-coated VTuber, and I've been making VR content since 2024. I'm a little sweet on the outside and a little sinful on the inside — I promise to keep things playful, authentic, and just addictive enough to keep you coming back. 🍒\n⋆ ˚｡⋆୨୧˚ 𝗢𝗡 𝗧𝗛𝗘 𝗠𝗘𝗡𝗨 ˚୨୧⋆｡˚ ⋆\n🍓 VR streams that are equal parts cute and chaos\n🍭 Content made to make you melt\n🍬 DMs where I actually reply (subs first~)\n⋆ ˚｡⋆୨୧˚ 𝗧𝗛𝗘 𝗦𝗨𝗚𝗔𝗥 𝗥𝗨𝗦𝗛 ˚୨୧⋆｡˚ ⋆\nLive whenever the mood strikes 🔴 — want the schedule + stream ping notifications? Join my discord then dummy!\n💙 discord.gg/onlygoons\n🔗 allmylinks.com/ritavrc\n｡˚🍬˚｡ ⋆ ｡˚ ❀ ˚｡ ⋆ ｡˚🍬˚｡\nDISCLAIMER: All content is filmed in Unity and Blender.\nCOPYRIGHT 2024–2026 RITAVRC",
+        "location": "",
+        "streaming": {
+            "accountId": "701768660817031168",
+            "channel": {
+                "id": "707289668521046023",
+                "accountId": "701768660817031168",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.c4ojzbCkpfB9.m3u8",
+                "chatRoomId": "707289836683272192",
+                "status": 2,
+                "version": 34,
+                "createdAt": 1730125357000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "707289668521046024",
+                    "historyId": "936910836541173760",
+                    "channelId": "707289668521046023",
+                    "accountId": "701768660817031168",
+                    "title": "Saturday Stream :3",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 5669,
+                    "createdAt": 1730125358000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785027717000,
+                    "startedAt": 1784871310000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937566887858946048",
+                                "streamId": "707289668521046024",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/688c44d2-ed8f-4837-b18e-6802b6d4fdae-profile_image-70x70.png",
         "bannerImageUrl": null
+    },
+    "fansly": {
+        "id": "911859910604500992",
+        "username": "DokiiRem",
+        "displayName": "DokiiRem",
+        "version": 3,
+        "followCount": 37,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 2,
+        "about": "A lewdsome Shy puppy vtuber here to make you feel good~",
+        "location": "",
+        "streaming": {
+            "accountId": "911859910604500992",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

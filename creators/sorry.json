@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/959acefa-a616-4ccd-9e1b-09097fb14b77-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f12c817f-28f8-4ab3-9917-c058784de595-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "433150751062106112",
+        "username": "sorri",
+        "displayName": "sorry",
+        "version": 4,
+        "followCount": 24173,
+        "statusId": 3,
+        "accountMediaLikes": 10221,
+        "postLikes": 11884,
+        "about": "Hiii, i'm Sorri!♡ your little satanic cow.♡ \nyour cum helps keep my form!\nhttps://throne.com/sorry <--- if u WANNAAA <3",
+        "location": "hell",
+        "streaming": {
+            "accountId": "433150751062106112",
+            "channel": {
+                "id": "502377872061636608",
+                "accountId": "433150751062106112",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.loHY6quQlqJT.m3u8",
+                "chatRoomId": "502380224873242624",
+                "status": 2,
+                "version": 36,
+                "createdAt": 1681270578000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "502377872061636609",
+                    "historyId": "940163082569658368",
+                    "channelId": "502377872061636608",
+                    "accountId": "433150751062106112",
+                    "title": "VTUBER FEMBOY SLUT",
+                    "status": 1,
+                    "viewerCount": 182,
+                    "version": 7723,
+                    "createdAt": 1681270578000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785652283000,
+                    "startedAt": 1785646706000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "790463192202489856",
+                                "streamId": "502377872061636609",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

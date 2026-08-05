@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae81308f-f067-4894-9916-bcccb26e88ca-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6cb6a07b-4485-4150-9f85-ae04c12994ab-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "702971104867659776",
+        "username": "Lumeria_Lynn",
+        "displayName": "Lumeria Lynn",
+        "version": 4,
+        "followCount": 565,
+        "statusId": 1,
+        "accountMediaLikes": 48,
+        "postLikes": 135,
+        "about": "Hi! I'm Lume~ This is my degenerate outlet. :3\n\nStreams on Friday! (I try at least)\n\nPfp: leo,pxll\nBanner: Rui",
+        "location": "",
+        "streaming": {
+            "accountId": "702971104867659776",
+            "channel": {
+                "id": "792734652539351040",
+                "accountId": "702971104867659776",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.5ikNYPxvZGVM.m3u8",
+                "chatRoomId": "792736478990966784",
+                "status": 2,
+                "version": 51,
+                "createdAt": 1750497029000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "792734652539351041",
+                    "historyId": "937626924581142528",
+                    "channelId": "792734652539351040",
+                    "accountId": "702971104867659776",
+                    "title": "I wanna be a degen but I'm unsure what to play.. + Fox Lume [Nora] | !discord !throne",
+                    "status": 1,
+                    "viewerCount": 16,
+                    "version": 52,
+                    "createdAt": 1750497029000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785050014000,
+                    "startedAt": 1785042039000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:22Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/00f162d7-550a-428c-873d-74b908a7de94-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd5de1-ba2c-49d8-bb32-ae14e9ddd476-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "287545564055216128",
+        "username": "Yumebyte",
+        "displayName": "Yumebyte",
+        "version": 8,
+        "followCount": 154,
+        "statusId": 1,
+        "accountMediaLikes": 89,
+        "postLikes": 52,
+        "about": "In your computer watching you while you do the most horny degen things ~ Digital Sheep vtuber yumebyte here! I hope you put on a good show for me I'll be watching ~ \n\n709145",
+        "location": "",
+        "streaming": {
+            "accountId": "287545564055216128",
+            "channel": {
+                "id": "400628138624692224",
+                "accountId": "287545564055216128",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.UciMAcRHsdVR.m3u8",
+                "chatRoomId": "432546739975626752",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1657011551000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "400628138624692225",
+                    "historyId": null,
+                    "channelId": "400628138624692224",
+                    "accountId": "287545564055216128",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1657011551000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "432546831600201728",
+                                "streamId": "400628138624692225",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"375634990232248320\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

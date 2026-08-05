@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dbb6c5d5-6db1-411f-9f3c-9b080433c6db-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f29b8cd6-1624-42e1-baa6-07c5b3360270-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "877578103558270976",
+        "username": "luviebubbles",
+        "displayName": null,
+        "version": 7,
+        "followCount": 33,
+        "statusId": 1,
+        "accountMediaLikes": 17,
+        "postLikes": 54,
+        "about": "accepting  payments via Fansly.\nPhotos\nVideos (occassionally)\nWhimper audios  every Friday",
+        "location": "",
+        "streaming": {
+            "accountId": "877578103558270976",
+            "channel": {
+                "id": "940278062858125313",
+                "accountId": "877578103558270976",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.nLCE9lYFofO2.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1785674119000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "940278062858125314",
+                    "historyId": null,
+                    "channelId": "940278062858125313",
+                    "accountId": "877578103558270976",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1785674119000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

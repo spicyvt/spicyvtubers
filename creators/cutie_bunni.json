@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf9496b6-8cc4-4024-92f0-16bdde1fa1e4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7ca3d6b7-2d64-40f7-9c4b-81e059f9b667-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "905603279017238529",
+        "username": "CutieBunni",
+        "displayName": null,
+        "version": 2,
+        "followCount": 0,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "You are probably looking for https://fansly.com/BunniXCutie",
+        "location": "",
+        "streaming": {
+            "accountId": "905603279017238529",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

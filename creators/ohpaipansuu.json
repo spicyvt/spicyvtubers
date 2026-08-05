@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e342955f-a79f-42d7-91cb-d97555345cb8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13220161-c216-4869-afc2-ff23b5976ec1-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "354831933236060160",
+        "username": "OppaiPantsuu",
+        "displayName": null,
+        "version": 4,
+        "followCount": 41346,
+        "statusId": 3,
+        "accountMediaLikes": 34833,
+        "postLikes": 36123,
+        "about": "Dummy thicc Kaiju LewdTuber here to dump thigh pics + NSFW things I do on the side... content including both virtual and IRL\n",
+        "location": "",
+        "streaming": {
+            "accountId": "354831933236060160",
+            "channel": {
+                "id": "391294901343494144",
+                "accountId": "354831933236060160",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.DyNXIzJ50TxR.m3u8",
+                "chatRoomId": "391295069174378496",
+                "status": 2,
+                "version": 70,
+                "createdAt": 1654786334000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "391294901343494145",
+                    "historyId": "935083042580471808",
+                    "channelId": "391294901343494144",
+                    "accountId": "354831933236060160",
+                    "title": "👙Can I CUM while walking 10,000 steps?? 👙",
+                    "status": 1,
+                    "viewerCount": 72,
+                    "version": 882,
+                    "createdAt": 1654786334000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784442541000,
+                    "startedAt": 1784435530000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "544385949031739392",
+                                "streamId": "391294901343494145",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

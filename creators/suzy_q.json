@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2e64b2a-fdf6-406f-8854-cc15e467be8b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3e41b20-822a-4863-a2c7-5adcdba8b1ea-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "382494812512727040",
+        "username": "suzy_q",
+        "displayName": "suzʏ✨🛸 ",
+        "version": 62,
+        "followCount": 43742,
+        "statusId": 3,
+        "accountMediaLikes": 94815,
+        "postLikes": 140691,
+        "about": "your chubby alien bimbo princess <3 \n///streams every Friday at 11PM EST\nVA & VTuber | 16 million views on ⬛🟧 | hybrid vtuber and irl content | suzyqutie.carrd.co\n\nThe provided content is for the model's Fansly profile ONLY. Purchase here is for personal use ONLY, positively no distribution allowed. ",
+        "location": "in subspace",
+        "streaming": {
+            "accountId": "382494812512727040",
+            "channel": {
+                "id": "400252725591289857",
+                "accountId": "382494812512727040",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.MOIaMCKmRPmc.m3u8",
+                "chatRoomId": "400253718630510592",
+                "status": 2,
+                "version": 36,
+                "createdAt": 1656922046000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "400252725591289858",
+                    "historyId": "939775551994880000",
+                    "channelId": "400252725591289857",
+                    "accountId": "382494812512727040",
+                    "title": "Glory Hole - Helpppp IM STUCK! ",
+                    "status": 1,
+                    "viewerCount": 51,
+                    "version": 9923,
+                    "createdAt": 1656922046000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785560058000,
+                    "startedAt": 1785554311000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "927122337277423616",
+                                "streamId": "400252725591289858",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:32Z"
     }
 }

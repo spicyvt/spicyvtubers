@@ -11,5 +11,76 @@
         "bannerImageUrl": "https://yt3.googleusercontent.com/KTmFhIk0jDpWmLrdLKoiJGbwjmHhNah1qcIJSoCYwB37gCpupNFoTKrKsY0BewIq5g8uhRb6Dlk=h480",
         "subscriberCountText": "58.2K subscribers",
         "videoCountText": "1.3K videos"
+    },
+    "fansly": {
+        "id": "244747096006066176",
+        "username": "KittiMinx",
+        "displayName": "Kitti Minx",
+        "version": 13,
+        "followCount": 1637,
+        "statusId": 2,
+        "accountMediaLikes": 3293,
+        "postLikes": 1922,
+        "about": "Name's Kitti Minx and welcome to my Fansly! On here are spicy hq photosets, and hardcore HD videos ft solo play. b/g, g/g,  cosplay, ASMR, and more! You can also get custom content!  XOXO💋🌹💖💕✨",
+        "location": "Texas",
+        "streaming": {
+            "accountId": "244747096006066176",
+            "channel": {
+                "id": "303164087737524224",
+                "accountId": "244747096006066176",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.PZZq6eZd0QvC.m3u8",
+                "chatRoomId": "303164819308032000",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1633774311000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "303164087737524225",
+                    "historyId": "454181343555760128",
+                    "channelId": "303164087737524224",
+                    "accountId": "244747096006066176",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 2014,
+                    "createdAt": 1633774311000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1669780333000,
+                    "startedAt": 1669779630000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "454178676133605376",
+                                "streamId": "303164087737524225",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "454178676133605377",
+                                "streamId": "303164087737524225",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":5000}\"}"
+                            },
+                            {
+                                "id": "454178676133605378",
+                                "streamId": "303164087737524225",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

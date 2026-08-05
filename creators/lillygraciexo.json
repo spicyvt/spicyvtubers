@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a784f2ce-abd1-4bc2-9535-65d9ae0b661e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2da58c1-8c33-4f1b-9454-839a3091df00-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "895344381723168768",
+        "username": "LillyGVtuber",
+        "displayName": "Lilly ❤︎",
+        "version": 8,
+        "followCount": 2254,
+        "statusId": 1,
+        "accountMediaLikes": 1719,
+        "postLikes": 1718,
+        "about": "cutest brat~\nVtuber ~ IRL ~ 3DVR Model",
+        "location": "",
+        "streaming": {
+            "accountId": "895344381723168768",
+            "channel": {
+                "id": "903747714796236800",
+                "accountId": "895344381723168768",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.711eZv2AGMzc.m3u8",
+                "chatRoomId": "903751765860573184",
+                "status": 2,
+                "version": 15,
+                "createdAt": 1776964606000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "903747714796236801",
+                    "historyId": "939303511743541248",
+                    "channelId": "903747714796236800",
+                    "accountId": "895344381723168768",
+                    "title": "instructions for Miss Lilly - JOI livestream",
+                    "status": 1,
+                    "viewerCount": 39,
+                    "version": 24,
+                    "createdAt": 1776964606000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785446017000,
+                    "startedAt": 1785441768000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb117efd-036e-4d60-8d9f-af00e69f0fe7-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2d2e967-c7e2-4849-9c0f-72d97a985a56-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "513911531063226368",
+        "username": "ClassyNSFW",
+        "displayName": "Classy",
+        "version": 10,
+        "followCount": 37,
+        "statusId": 1,
+        "accountMediaLikes": 3,
+        "postLikes": 13,
+        "about": "I'm a Lewdtuber from Canada! Making VR/IRL content here soon~\n\nhttps://twitter.com/ClassyVTNSFW",
+        "location": "Canada",
+        "streaming": {
+            "accountId": "513911531063226368",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

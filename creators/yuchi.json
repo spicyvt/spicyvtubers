@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee2656eb-540f-4d0e-9dd8-1401dbbcd821-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/69370cff-5592-4a90-964d-2fa8ca6e5878-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "610105358140055552",
+        "username": "YuchiVT",
+        "displayName": "Yuchi",
+        "version": 6,
+        "followCount": 4653,
+        "statusId": 3,
+        "accountMediaLikes": 7250,
+        "postLikes": 5635,
+        "about": "Vtuber/IRL Model/Artist\nNSFW Anime Art & IRL Lewd Cosplay/Model Pics (no IRL NSFW/uncensored)\nNo AI / do not repost any of my work\nThrone: https://throne.com/yuchivt (suggest IRL cosplay outfits/gifts)",
+        "location": "",
+        "streaming": {
+            "accountId": "610105358140055552",
+            "channel": {
+                "id": "722405611102281728",
+                "accountId": "610105358140055552",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.E9gFPpRD4y9F.m3u8",
+                "chatRoomId": "722405661668814849",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1733729279000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "722405611102281729",
+                    "historyId": "793500111874301952",
+                    "channelId": "722405611102281728",
+                    "accountId": "610105358140055552",
+                    "title": "Drawing Hentai [ Mute Stream ]",
+                    "status": 1,
+                    "viewerCount": 23,
+                    "version": 6446,
+                    "createdAt": 1733729279000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1750705896000,
+                    "startedAt": 1750679529000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "755523443692154883",
+                                "streamId": "722405611102281729",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

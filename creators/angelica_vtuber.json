@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22be9dad-16e3-41fe-961e-92bf68922bdc-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/45ffcb2a-2aaf-4769-a52a-114d331d8050-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "760170746663153665",
+        "username": "Angelica_vtuber",
+        "displayName": null,
+        "version": 2,
+        "followCount": 65,
+        "statusId": 1,
+        "accountMediaLikes": 149,
+        "postLikes": 201,
+        "about": "🖤 Welcome, darling.\n\nI'm Angelica, a succubus with a taste for attention and a talent for stealing hearts. If you've wandered into my realm, consider yourself warned: leaving may be harder than arriving.\n\nExpect exclusive photos, videos, behind-the-scenes moments, spicy teasing, and plenty of opportunities to get closer to your favorite succubus. Whether you're here for the beauty, the chaos, or the temptation, there's always a place for you in my court.\n\nCome stay awhile. I promise I don't bite... unless you ask nicely. 😈",
+        "location": "",
+        "streaming": {
+            "accountId": "760170746663153665",
+            "channel": {
+                "id": "909546013801328641",
+                "accountId": "760170746663153665",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qOtyi7V1h8ku.m3u8",
+                "chatRoomId": "909627747595210752",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1778347028000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "909546013801328642",
+                    "historyId": "909629738115411968",
+                    "channelId": "909546013801328641",
+                    "accountId": "760170746663153665",
+                    "title": "So the succubus decided to stream...you should stop by",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 6,
+                    "createdAt": 1778347028000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778368408000,
+                    "startedAt": 1778366989000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:24Z"
     }
 }

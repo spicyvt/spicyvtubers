@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/836036ac-82d7-402b-8027-5ef366bdff64-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd758423-a8f0-4cd4-ab93-3a098682e5ab-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "597938049397043200",
+        "username": "StronnyCuttles",
+        "displayName": "Stronny Cuttles",
+        "version": 10,
+        "followCount": 12164,
+        "statusId": 1,
+        "accountMediaLikes": 1837,
+        "postLikes": 3046,
+        "about": "Hello Reefling, I'm sure I won't get up to too much trouble here!\nAll streams will be free to watch 💚 \n\nVoD are pay-walled due to website rules but will have deleted YT Membership Streams that are too much to leave up. \n\n~ Links ~ \nYoutube: https://www.youtube.com/@StronnyCuttles\nPatreon (Audio RP's/ASMRs): https://patreon.com/StronnyCuttles\n\nPFP/Banner: Alfyria",
+        "location": "",
+        "streaming": {
+            "accountId": "597938049397043200",
+            "channel": {
+                "id": "700266819855851521",
+                "accountId": "597938049397043200",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.DJMl1ZhiTcJX.m3u8",
+                "chatRoomId": "701139509537943552",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1728450980000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "700266819855851522",
+                    "historyId": "889302213686476800",
+                    "channelId": "700266819855851521",
+                    "accountId": "597938049397043200",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 309,
+                    "version": 1237,
+                    "createdAt": 1728450980000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1773521632000,
+                    "startedAt": 1773520530000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "701026558478917633",
+                                "streamId": "700266819855851522",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

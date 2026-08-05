@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5fae3e5-d40a-4bc4-a31e-91073411aea8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ac9a618-27c2-45cb-9299-abd23bf951c9-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "365078231763660800",
+        "username": "CottontailVA",
+        "displayName": null,
+        "version": 5,
+        "followCount": 281335,
+        "statusId": 3,
+        "accountMediaLikes": 694759,
+        "postLikes": 568714,
+        "about": "NSFW voice actress 🐰💙💜 \nI post nudes, porn, lewds, cosplay videos and pictures, and AUDIOS!\nI read and reply to all messages~! Please be patient.  Tips get priority \n\nAll of my content is copyrighted content that I own. \nhttps://cottontailva.carrd.co\n",
+        "location": "your wet dreams ",
+        "streaming": {
+            "accountId": "365078231763660800",
+            "channel": {
+                "id": "459249746100363265",
+                "accountId": "365078231763660800",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oHZpXVZpMwgk.m3u8",
+                "chatRoomId": "459250250536726528",
+                "status": 2,
+                "version": 16,
+                "createdAt": 1670988031000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "459249746100363266",
+                    "historyId": "935000772662280193",
+                    "channelId": "459249746100363265",
+                    "accountId": "365078231763660800",
+                    "title": "bro upstairs shhh | $100 for control links! | Tip at least $10 for after pics | Top tipper gets custom pics /w body writing",
+                    "status": 1,
+                    "viewerCount": 1427,
+                    "version": 584,
+                    "createdAt": 1670988032000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784420841000,
+                    "startedAt": 1784415915000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:33Z"
     }
 }

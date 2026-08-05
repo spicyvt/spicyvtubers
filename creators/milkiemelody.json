@@ -23,5 +23,84 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1202a65-0bd9-4201-8dc8-7c4533c693b5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0376f9c1-b082-40c4-9b9d-3c97ab8447d7-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "819825805340192768",
+        "username": "milkiemelody",
+        "displayName": "melody 🍼💕",
+        "version": 15,
+        "followCount": 25254,
+        "statusId": 2,
+        "accountMediaLikes": 21385,
+        "postLikes": 7965,
+        "about": "hiiii, i’m melody 💗 your shy, sweet, submissive angel catgirl gf. i’m 18. \nstream schedule pinned! i post new treats for you every week  ♡ naughty livestreams, spicy videos, art, and more --- stream schedule pinned!\n🔗 https://milkiemelody.carrd.co/\n\n💗 exclusive, ultra spicy, livestreams for \"sweetheart tier\" & up 💗 \n\n\ni love getting sweet messages! want to chat with me sometime? dms open to subscribers! i do respond when i can, please be patient with me! >///< all messages are written by me (no management) so please be gentle :)\n\n\n🍼 🐾 ₊˚⊹ ᰔ\n\ni love anime, cozy video games, the color pink, spoiling, and being called a good girl 💗 i get sooo shy meeting new people, but… I’m really happy you found me! please be gentle with me, okay? i get nervous but i do warm up fast 💗",
+        "location": "with you~ <3",
+        "streaming": {
+            "accountId": "819825805340192768",
+            "channel": {
+                "id": "831092091957305344",
+                "accountId": "819825805340192768",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Tl3pzYgRjn7N.m3u8",
+                "chatRoomId": "831092210945511426",
+                "status": 2,
+                "version": 255,
+                "createdAt": 1759642155000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "831092091957305345",
+                    "historyId": "937582274264702976",
+                    "channelId": "831092091957305344",
+                    "accountId": "819825805340192768",
+                    "title": "trying anal for the very first time 🍑",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 190,
+                    "createdAt": 1759642155000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785044162000,
+                    "startedAt": 1785031393000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937588214233849856",
+                                "streamId": "831092091957305345",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"835779338719731712\\\"}\"}"
+                            },
+                            {
+                                "id": "937588214233849857",
+                                "streamId": "831092091957305345",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"886112362573082624\\\"}\"}"
+                            },
+                            {
+                                "id": "937588214233849858",
+                                "streamId": "831092091957305345",
+                                "type": 0,
+                                "flags": 5,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":10000}\",\"4\":\"{\\\"subscriptionTierId\\\":\\\"835777166506471424\\\"}\"}"
+                            },
+                            {
+                                "id": "937588214233849859",
+                                "streamId": "831092091957305345",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":20000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:21:28Z"
     }
 }

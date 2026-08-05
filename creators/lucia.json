@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb45ffe8-fbf8-4b19-adaa-52e912dd4c41-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e576daca-adee-4fd5-b92b-392fde1cfb19-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "711339902242926593",
+        "username": "PantysLanding",
+        "displayName": "Lucia",
+        "version": 8,
+        "followCount": 8311,
+        "statusId": 1,
+        "accountMediaLikes": 1209,
+        "postLikes": 4032,
+        "about": "have you seen my panties? 💭 funny, ditzy girl giving you story-driven NSFW audios!",
+        "location": "",
+        "streaming": {
+            "accountId": "711339902242926593",
+            "channel": {
+                "id": "803893961390317568",
+                "accountId": "711339902242926593",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JpqhNlzloqhG.m3u8",
+                "chatRoomId": "803895606442487808",
+                "status": 2,
+                "version": 22,
+                "createdAt": 1753157616000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "803893961390317569",
+                    "historyId": "926718988212248576",
+                    "channelId": "803893961390317568",
+                    "accountId": "711339902242926593",
+                    "title": "make me forget my night",
+                    "status": 1,
+                    "viewerCount": 216,
+                    "version": 54,
+                    "createdAt": 1753157616000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782446272000,
+                    "startedAt": 1782441384000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8c2d32b-2e56-4e26-bfdf-7a8083bb6834-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/222459ac-26ff-4e27-8b5b-bfb25b68d365-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "336350336920858624",
+        "username": "MamaBlu",
+        "displayName": "MamaBlu",
+        "version": 7,
+        "followCount": 32042,
+        "statusId": 3,
+        "accountMediaLikes": 18024,
+        "postLikes": 32545,
+        "about": "💝Fan Referral code: https://fansly.com/MamaBlu?r=MamaBlu\n💝Model Referral code: https://fansly.com/application/form?r=916420\n\n🎨📷🎧 This page includes Art, Audio & Real Life Content!\n💝If you aren't into BBWs then this is not the page for you! \n\n🍰 Bio 🍰\n\n❤️ Pleasure Switch\n🧡 BDSM/Impact play/Pet play! 🦴\n💛 Stretch Marks/Cellulite\n💚 Piercings (20)\n💙 Tattoos (9)\n💜 Scars\n\n🌈💖 LGBTQIA+ Safe Space\n\n⚠️ Copyright Notice & Disclaimer ⚠️\n\nCopyright © 2026 MamaBlu, All Rights Reserved.\n\nAll content posted on this Fansly account, including but not limited to photos, videos, text, and any other media, is the exclusive property of MamaBlu. Unauthorized distribution, reproduction, modification, or sharing of any content from this account is strictly prohibited.\n\nBy accessing this page, you acknowledge that:\n\n✨ - Content is for personal viewing only and may not be copied, recorded, or redistributed.\n✨ - Legal action may be taken against individuals who violate these terms, including infringement of this account's content\n✨ - All interactions and transactions on this platform are voluntary, and refunds will not be issued once content has been accessed.✨\n\n(*´▽`*)/ ¸.•´*¨`*•✧",
+        "location": "https://MamaBlu.carrd.co",
+        "streaming": {
+            "accountId": "336350336920858624",
+            "channel": {
+                "id": "435015620535267328",
+                "accountId": "336350336920858624",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.pfL1kt5b99RA.m3u8",
+                "chatRoomId": "435018578102591488",
+                "status": 2,
+                "version": 243,
+                "createdAt": 1665210166000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "435015620535267329",
+                    "historyId": "939075052781977600",
+                    "channelId": "435015620535267328",
+                    "accountId": "336350336920858624",
+                    "title": "I MISSED YOU!!",
+                    "status": 1,
+                    "viewerCount": 31,
+                    "version": 2834,
+                    "createdAt": 1665210166000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785391190000,
+                    "startedAt": 1785387299000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "928394598152159232",
+                                "streamId": "435015620535267329",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

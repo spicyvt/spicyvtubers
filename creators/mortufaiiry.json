@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/86790479-cb36-4ff5-ae63-a68db3c211d5-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/42f9ba9e-a78c-4750-ab28-cb1325e9af19-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "602791432545116160",
+        "username": "Mortufaiiry",
+        "displayName": "Mortufaiiry",
+        "version": 6,
+        "followCount": 8794,
+        "statusId": 3,
+        "accountMediaLikes": 2662,
+        "postLikes": 2639,
+        "about": "𝕬𝖓 𝖚𝖓𝖍𝖎𝖓𝖌𝖊𝖉 𝖋𝖆𝖎𝖗𝖞 𝖔𝖋 𝖉𝖊𝖆𝖙𝖍 𝖜𝖍𝖔 𝖎𝖘 𝖊𝖆𝖌𝖊𝖗 𝖙𝖔 𝖙𝖊𝖆𝖘𝖊 𝖞𝖔𝖚 𝖎𝖓𝖙𝖔 𝖊𝖙𝖊𝖗𝖓𝖆𝖑 𝖕𝖑𝖊𝖆𝖘𝖚𝖗𝖊.🖤\n\n💕 Your Dommy Mommy/Playful Brat/Submissive Pet\n🎤 I've been told I have a very sexy voice.\n🏳️‍🌈 I create content for everyone.\n🔮 Weekly \"Seance Sessions\" (Streams)\n😈 Spoil me and I'll spoil you.\n💋 I respond to all dms.\n🔗 https://linktr.ee/mortufaiiry\n🎁 https://throne.com/mortufaiiry\n🌙ᛏᚺᛁᛊ ᛁᛊ ᛟᚾᛚᛁ ᚦᛖ ᛒᛖᚷᛁᚾᚾᛁᛜ, ᚷᛟᛞᛊ ᚷᚱᚨᚾᛏ ᛗᛖ ᛊᛏᚱᛖᛜᚦ. ᛉ🧿",
+        "location": "In Limbo.",
+        "streaming": {
+            "accountId": "602791432545116160",
+            "channel": {
+                "id": "638774475013234688",
+                "accountId": "602791432545116160",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ixccUSqGgOUX.m3u8",
+                "chatRoomId": "638774592764129280",
+                "status": 2,
+                "version": 24,
+                "createdAt": 1713790062000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "638774475013234689",
+                    "historyId": "940196808091529216",
+                    "channelId": "638774475013234688",
+                    "accountId": "602791432545116160",
+                    "title": "cum and say hi :3 | live every saturday between @11pm/12am PST♥",
+                    "status": 1,
+                    "viewerCount": 34,
+                    "version": 1199,
+                    "createdAt": 1713790063000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785670136000,
+                    "startedAt": 1785654747000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:06Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/21f9df20-3592-4736-80d6-27204497c4da-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/203c9035-855b-4f2f-9a25-e5826b7e38e9-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "418609445505867776",
+        "username": "inourei",
+        "displayName": null,
+        "version": 3,
+        "followCount": 1587,
+        "statusId": 1,
+        "accountMediaLikes": 758,
+        "postLikes": 817,
+        "about": "Hello my lovelies~ welcome to my page where I let myself loosen up and allow myself some physical enjoyment <3\n\nRead Below for everything I offer!\n\nTIERS\n🦇 Vampire Lover - Access to ALL photos!\n🦇 Vampire Supporter - Access to GIFS, and previous tier rewards\n🦇 Vampire Enthusiast - Access to ALL videos, and previous tiers rewards\n🦇 Lovemaking - Access to all previous tier rewards + time with me alone in VRC (SFW OR NSFW)\n🦇Appear on stream - join me on one of my naughty streams~!\n\nCUSTOM MENU\n🩸Custom Photoshoot - 5 photos made JUST for you! $8\n🩸Lewd Photoshoot - Wanna take pictures with me without it ending in ERP? Sure <3 $12\n🩸Custom Video - A video made just for you! Want me to moan your name? Do something to tickle that fetish of yours? (Almost) anything goes! $20 \n",
+        "location": "",
+        "streaming": {
+            "accountId": "418609445505867776",
+            "channel": {
+                "id": "527219014498267137",
+                "accountId": "418609445505867776",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.1qcolLvZN6bO.m3u8",
+                "chatRoomId": "527219609221210112",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1687193168000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "527219014498267138",
+                    "historyId": "780279320735133696",
+                    "channelId": "527219014498267137",
+                    "accountId": "418609445505867776",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 1220,
+                    "createdAt": 1687193168000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1747536434000,
+                    "startedAt": 1747527446000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "527222515597062144",
+                                "streamId": "527219014498267138",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:40Z"
     }
 }

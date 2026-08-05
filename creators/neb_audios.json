@@ -11,5 +11,60 @@
         "bannerImageUrl": null,
         "subscriberCountText": "26 subscribers",
         "videoCountText": "7 videos"
+    },
+    "fansly": {
+        "id": "571393807065554945",
+        "username": "nebulousbeing",
+        "displayName": "Neb <3",
+        "version": 6,
+        "followCount": 3211,
+        "statusId": 3,
+        "accountMediaLikes": 4743,
+        "postLikes": 2824,
+        "about": "✨🌀\nResident Whore Shapeshifter~ \nEven if my form changes, my voice resides in your hearts and minds~ \n\nLewd Audios and Streams! \nStreams Tuesdays, Thursdays, and Saturdays! \n\n✨ Main Info: https://nebulousbeing.carrd.co\n✨ Spoil Me: https://throne.com/nebulousbeing\n✨ Treat Yourself to a New Toy: https://www.lovense.com/r/hol02i",
+        "location": "in your walls",
+        "streaming": {
+            "accountId": "571393807065554945",
+            "channel": {
+                "id": "682712246551322625",
+                "accountId": "571393807065554945",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Z5zeVzEr1abb.m3u8",
+                "chatRoomId": "687783116315566080",
+                "status": 2,
+                "version": 36,
+                "createdAt": 1724265643000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "682712246551322626",
+                    "historyId": "941173655084212226",
+                    "channelId": "682712246551322625",
+                    "accountId": "571393807065554945",
+                    "title": "How about some Aurelia? | !commands !menu !goon",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 2294,
+                    "createdAt": 1724265644000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785895825000,
+                    "startedAt": 1785887645000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "917642436153462784",
+                                "streamId": "682712246551322626",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

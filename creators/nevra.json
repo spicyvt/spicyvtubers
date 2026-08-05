@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4c5c511-405c-4fd6-b549-8875b7ba729b-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6277e771-8525-4200-be09-6c882964202a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "326282762329792512",
+        "username": "Whispurri",
+        "displayName": "Whispurri",
+        "version": 44,
+        "followCount": 6253,
+        "statusId": 3,
+        "accountMediaLikes": 6495,
+        "postLikes": 12811,
+        "about": "All streams Tues, & Thurs at 11pm est\n🩵 Bratty\n💙 Mommy\n🐾 IRL & Vtuber \n🩵 7 lovense toys to choose from \n💙 Vrchat \n🐾 Worth it \n\nAll content is under copyright. Enforced by bruqi.com.\n\nhttps://whispurri.carrd.co",
+        "location": "",
+        "streaming": {
+            "accountId": "326282762329792512",
+            "channel": {
+                "id": "671936936042045444",
+                "accountId": "326282762329792512",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2ZEdwl4mlABW.m3u8",
+                "chatRoomId": "671938782118813696",
+                "status": 2,
+                "version": 77,
+                "createdAt": 1721696609000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "671936936042045445",
+                    "historyId": "939406016330608640",
+                    "channelId": "671936936042045444",
+                    "accountId": "326282762329792512",
+                    "title": "Bet you cant make me cum",
+                    "status": 1,
+                    "viewerCount": 23,
+                    "version": 6654,
+                    "createdAt": 1721696610000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785470071000,
+                    "startedAt": 1785466207000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:12Z"
     }
 }

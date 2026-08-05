@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0eb3ae99-1289-4424-9e87-e006866d284d-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/048796c7-50c2-4c69-9227-2389e5f0c5ec-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "904578621723656192",
+        "username": "Cyb3r_R31na",
+        "displayName": null,
+        "version": 3,
+        "followCount": 89,
+        "statusId": 1,
+        "accountMediaLikes": 163,
+        "postLikes": 214,
+        "about": "✨A bratty Queen. Plays Games and Goons and Yaps.😏 A switch and a kinky woman at heart ❤️. If you show me a good time, I will show you a good time ✨",
+        "location": "",
+        "streaming": {
+            "accountId": "904578621723656192",
+            "channel": {
+                "id": "906042144236523520",
+                "accountId": "904578621723656192",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NLUA0YpSpRAI.m3u8",
+                "chatRoomId": "906042729778135044",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1777511640000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "906042144236523521",
+                    "historyId": "912230762093223936",
+                    "channelId": "906042144236523520",
+                    "accountId": "904578621723656192",
+                    "title": "Sexy Candy Crush Part Dos~",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 10,
+                    "createdAt": 1777511641000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778989711000,
+                    "startedAt": 1778987122000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:06Z"
     }
 }

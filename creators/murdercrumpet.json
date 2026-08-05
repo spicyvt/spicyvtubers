@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc444111-c887-4842-8dbc-4e2ac8088eba-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1c8e2c1-2a59-471f-823e-4b197ecb182e-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "365768984844316672",
+        "username": "MurderCrumpet",
+        "displayName": null,
+        "version": 8,
+        "followCount": 7503,
+        "statusId": 3,
+        "accountMediaLikes": 1879,
+        "postLikes": 2124,
+        "about": "I'm Crumpet! I do the kind of content you'd expect from an anime girl streamer here!",
+        "location": "Hopefully your main monitor!",
+        "streaming": {
+            "accountId": "365768984844316672",
+            "channel": {
+                "id": "706784920546058245",
+                "accountId": "365768984844316672",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qSt6gLbUICLI.m3u8",
+                "chatRoomId": "711812296166350848",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1730005016000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "706784920546058246",
+                    "historyId": "917998102923722753",
+                    "channelId": "706784920546058245",
+                    "accountId": "365768984844316672",
+                    "title": "Start of Goon June! Art Contest!",
+                    "status": 1,
+                    "viewerCount": 667,
+                    "version": 4618,
+                    "createdAt": 1730005016000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780366754000,
+                    "startedAt": 1780362163000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "865881462371536897",
+                                "streamId": "706784920546058246",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:21Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5897e907-a7bd-4476-82a7-226f204789d8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/71d415ae-9f8a-431f-94da-0ec95f16ebee-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "566801306426023937",
+        "username": "DigiVT",
+        "displayName": null,
+        "version": 4,
+        "followCount": 43950,
+        "statusId": 3,
+        "accountMediaLikes": 43346,
+        "postLikes": 24894,
+        "about": "📅Streams Sat 3 pm GMT+1/2\n🔒Monthly Sub-only Streams 「 always on a Sun 3pm GMT+1/2 」\n🫶Pansexual switch, in sub relationship\n🎂Level 29 「 Level up April 27th 」\n🌱Biology teacher (working on degree)\n🚷No (custom) IRL content.\n\n╰┈➤ All links & credits: https://digivt.info ˎˊ˗\n╰┈➤ Merch: https://digivt.store ˎˊ˗\n╰┈➤ Twitch: https://twitch.tv/digivt ˎˊ˗\n╰┈➤ Lovense affiliate link: https://www.lovense.com/p/digivt ˎˊ˗\n╰┈➤ SFW Twitter: https://x.com/DigiiVT ˎˊ˗\n╰┈➤ Youtube: https://youtube.com/@digivt ˎˊ˗\n╰┈➤ Throne: https://throne.com/Digivt ˎˊ˗\n╰┈➤ Discord: https://discord.gg/B3R3YXtqyb ˎˊ˗\n╰┈➤ Business Email: digivtube@gmail.com ˎˊ˗\n\nJust a cute ≽^•⩊•^≼ from space, here to take care of earth's nature and have loads of fun! \n\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n\nRe-uploading/reposting any of my content is strictly prohibited & against tos. \nSchedule is subject to changes.\nPrices of subscription and menu items can be altered at any time. Changes made to subscription tier perks and prices will always be announced on my page.\nNo refunds.\nNo requests for irl content.\n",
+        "location": "",
+        "streaming": {
+            "accountId": "566801306426023937",
+            "channel": {
+                "id": "573553274448257024",
+                "accountId": "566801306426023937",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WHA4wKIatVVM.m3u8",
+                "chatRoomId": "573553474478809088",
+                "status": 2,
+                "version": 110,
+                "createdAt": 1698240116000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "573553274448257025",
+                    "historyId": "939927240882274304",
+                    "channelId": "573553274448257024",
+                    "accountId": "566801306426023937",
+                    "title": "Spicy Saturday: Desperate to cum...",
+                    "status": 1,
+                    "viewerCount": 112,
+                    "version": 212,
+                    "createdAt": 1698240117000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785597625000,
+                    "startedAt": 1785590477000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "939927047931719680",
+                                "streamId": "573553274448257025",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:28Z"
     }
 }

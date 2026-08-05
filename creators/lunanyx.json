@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/40702d83-ccf9-4f0c-a7be-0c4a0b62b86c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f2df174-7aa4-49f5-b18b-8ea8f54988e4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "738615008384004096",
+        "username": "LunaNyxVT",
+        "displayName": "Luna Nyx",
+        "version": 4,
+        "followCount": 513,
+        "statusId": 3,
+        "accountMediaLikes": 34,
+        "postLikes": 49,
+        "about": "Welcome to my naughty little corner of the realm! find exclusive content that’s as irresistible as your deepest desires!!\n⊹܀˙ \nwishlist: https://throne.com/lunanyxvt  \njoin the discord and come hang! https://discord.gg/ztQmUs8HEu\nall my links if you want them! https://lunanyxvt.uwu.ai/ ",
+        "location": "",
+        "streaming": {
+            "accountId": "738615008384004096",
+            "channel": {
+                "id": "766528952570228736",
+                "accountId": "738615008384004096",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.FPo15ox1zPXb.m3u8",
+                "chatRoomId": "766530228297150464",
+                "status": 2,
+                "version": 33,
+                "createdAt": 1744249103000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "766528952570228737",
+                    "historyId": "919782412722909184",
+                    "channelId": "766528952570228736",
+                    "accountId": "738615008384004096",
+                    "title": "Cum with me tonight | !Menu !pussy",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 282,
+                    "createdAt": 1744249103000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780795574000,
+                    "startedAt": 1780787575000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

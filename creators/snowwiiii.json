@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f561a0a8-2300-4ed1-b89a-075b389379a8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5452f897-9933-425c-9b08-bbecfff5b51d-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "582898266706812928",
+        "username": "Snowwiiii",
+        "displayName": "Snowwiiii",
+        "version": 3,
+        "followCount": 3106,
+        "statusId": 3,
+        "accountMediaLikes": 2622,
+        "postLikes": 4276,
+        "about": "always tired ( - ˕ -｡)ᶻ 𝗓 𐰁 lewd catgirl vtuber ❄️\n\nSubmissive | Shy | Rope Bunny | BDSM 🖤\n\n🔞 ┊ NSFW & Lewd Art, Gifs\n 🎙️ ┊ Exclusive Lewd ASMR\n\n▶ Vtuber OC & Lewd IRL Content\n\n─────────⋆.˚✮🎧✮˚.⋆─────────\n\n♡ ┊ Twitch: https://www.twitch.tv/snowwiiii\n♡ ┊ Twitter: https://x.com/Snowwiiii_\n♡ ┊ More Links: https://snowwiiii.carrd.co/\n\n♡ ┊ Lovense: lovense.com/r/scgy02\n\n♡Spoil Me♡\nhttps://throne.com/snowwiii\n",
+        "location": "",
+        "streaming": {
+            "accountId": "582898266706812928",
+            "channel": {
+                "id": "770056368278216704",
+                "accountId": "582898266706812928",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TxxJOuhF4YHU.m3u8",
+                "chatRoomId": "770057632848293888",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1745090105000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "770056368278216705",
+                    "historyId": "871963945966002177",
+                    "channelId": "770056368278216704",
+                    "accountId": "582898266706812928",
+                    "title": "Shy Catgirl is craving you~ Let's be naughty ❤️ licking, moaning, control for you~",
+                    "status": 1,
+                    "viewerCount": 31,
+                    "version": 2633,
+                    "createdAt": 1745090105000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1769398810000,
+                    "startedAt": 1769386765000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "770063414344036352",
+                                "streamId": "770056368278216705",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

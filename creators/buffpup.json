@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/08c950cb-ca10-4b0d-b22e-78ae1b66bc52-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e7ea8e7-3457-493b-84c7-bb8baabdc2aa-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "720480858510729216",
+        "username": "Buffpup",
+        "displayName": null,
+        "version": 5,
+        "followCount": 59102,
+        "statusId": 1,
+        "accountMediaLikes": 48034,
+        "postLikes": 47057,
+        "about": "✨ WELCOME TO MY FANSLY, EVERY PUP! ✨\nThis is my page for NSFW Art, Comics, WIPs, Speed Paints, Streams, and all things lewd!\n\nHere's what you need to know about me:\n🦴 VTuber + Streamer\n🦴 Monster Girl\n🦴  Smut Artist\n🦴  Whatever else I wanna do!!\n\nI DO check my messages here, so you can DM me to chat and hang out, but I like to keep things pretty low key so be respectful and chill!\nThanks for being here! 🐾",
+        "location": "MourningWood",
+        "streaming": {
+            "accountId": "720480858510729216",
+            "channel": {
+                "id": "731334667088703488",
+                "accountId": "720480858510729216",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.h93Hl7b4gI38.m3u8",
+                "chatRoomId": "731334913676029952",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1735858132000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "731334667088703489",
+                    "historyId": "823032580260515840",
+                    "channelId": "731334667088703488",
+                    "accountId": "720480858510729216",
+                    "title": "GETTING WET N WILD WITH @Shiabun ",
+                    "status": 1,
+                    "viewerCount": 1099,
+                    "version": 1606,
+                    "createdAt": 1735858132000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1757727002000,
+                    "startedAt": 1757720618000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

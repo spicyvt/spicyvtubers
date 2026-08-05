@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec23fa2c-023e-4f47-95da-64c3598a7533-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bb47ea4-1b22-471f-867a-63f99e5e6692-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "729597997360361472",
+        "username": "MysticGail",
+        "displayName": "MysticGail",
+        "version": 4,
+        "followCount": 748,
+        "statusId": 1,
+        "accountMediaLikes": 361,
+        "postLikes": 911,
+        "about": "☾ ⋆*･ﾟ:⋆*･ﾟ Submissive Brat VTuber .・。.・゜✭・.\nThink you can tame this kitten? Nya! It won’t be that easy~ \nCome join my streams on Fridays and Sundays to see if you can make this little cat-girl purr~ \nAvatars: Valentina by Remi and Emiru by Asphyxiya",
+        "location": "",
+        "streaming": {
+            "accountId": "729597997360361472",
+            "channel": {
+                "id": "748300120499429376",
+                "accountId": "729597997360361472",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.A91qj0KoDBvF.m3u8",
+                "chatRoomId": "856745652737028096",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1739903011000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "748300120499429377",
+                    "historyId": "899175375135850496",
+                    "channelId": "748300120499429376",
+                    "accountId": "729597997360361472",
+                    "title": "1st VR Stream!",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 20,
+                    "createdAt": 1739903011000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1775881684000,
+                    "startedAt": 1775874475000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "858581057539170304",
+                                "streamId": "748300120499429377",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

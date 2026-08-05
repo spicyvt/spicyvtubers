@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66c49aa6-9c18-4ec6-b461-8ef0c416372c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/44669dcc-c568-4d02-8e1d-c60058add582-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "285580853730357248",
+        "username": "KyonkoHizara",
+        "displayName": "Kyonko Hizara",
+        "version": 6,
+        "followCount": 2484,
+        "statusId": 1,
+        "accountMediaLikes": 15225,
+        "postLikes": 8617,
+        "about": "*＊✿❀ hi im kyonky ❀✿＊*\n\n ☆ Cosplay and Lewds NO NUDE\n ☆ ASMR and RP videos\n ☆ Daily posts, weekly videos (Sunday)\n ☆ Monthly cosplay photosets included for subs (1st of each month)\n ☆ Kynky, KyonklyFans and Bigyunky keep access to all past content\n\nEverything is self photoshoots, pics, and vids\n\nThis account is managed by me and all DMs are answered by me so please be patient~\n\nAll videos, images, and other content shared to my account fall under DMCA protection. By subscribing to this page, you acknowledge that re-uploading and/or distributing of content on this page is prohibited in accordance with Fansly's Terms of Service.\n\nTiming of posts is subject to delays and limitations which are out of my control.",
+        "location": "KyunkyLand",
+        "streaming": {
+            "accountId": "285580853730357248",
+            "channel": {
+                "id": "758879186935885824",
+                "accountId": "285580853730357248",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BFyCtWcS2Wgo.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1742425257000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "758879186935885825",
+                    "historyId": null,
+                    "channelId": "758879186935885824",
+                    "accountId": "285580853730357248",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1742425257000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

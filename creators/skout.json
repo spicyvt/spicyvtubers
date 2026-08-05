@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/99c09102-2a34-47dc-ac7a-775cf5eb0efd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f2436b7-9592-4870-b829-e4714738c3d5-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "727690813219287041",
+        "username": "Skout",
+        "displayName": null,
+        "version": 3,
+        "followCount": 2306,
+        "statusId": 1,
+        "accountMediaLikes": 172,
+        "postLikes": 260,
+        "about": "A Cyber-Succubus from the deepest circle of the internet's hellscape. Music Producer and Moan Maker xD...I game a lot here",
+        "location": "",
+        "streaming": {
+            "accountId": "727690813219287041",
+            "channel": {
+                "id": "736022630817083392",
+                "accountId": "727690813219287041",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7ahLugwMXODY.m3u8",
+                "chatRoomId": "736023888307167232",
+                "status": 2,
+                "version": 88,
+                "createdAt": 1736975829000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "736022630817083393",
+                    "historyId": "935484528762298374",
+                    "channelId": "736022630817083392",
+                    "accountId": "727690813219287041",
+                    "title": "Stream Ends when the Vibrator Stops",
+                    "status": 1,
+                    "viewerCount": 25,
+                    "version": 4808,
+                    "createdAt": 1736975830000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784553436000,
+                    "startedAt": 1784531252000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

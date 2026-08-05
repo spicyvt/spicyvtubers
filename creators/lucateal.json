@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b478cd7-29f9-4706-9956-8e90f191f6b9-profile_image-70x70.jpeg",
         "bannerImageUrl": null
+    },
+    "fansly": {
+        "id": "516526686091620352",
+        "username": "Lucateal",
+        "displayName": "Lucateal 🩸🩹🧸 ",
+        "version": 10,
+        "followCount": 11774,
+        "statusId": 1,
+        "accountMediaLikes": 46831,
+        "postLikes": 19716,
+        "about": "F/She/Her  5'3'' 36D tits - I got the tisms and ADHD babyyy\n\nI'm just a shy baby that loves video games even if I suck at em <3\ngimme my MMORPGS / Souls-likes / tower defenses etc \n\nI also love TCG's so if you wanna chat about any of these i'm happy to always\n\nI like to be bullied but also given the princess treatment so call me your slut and make me your personal cum dumpster \n\nYou can treat me here if you like - lots of cute things to wear makes me happy\nhttps://throne.com/lucateal\n\nMy other socials can be found here <3\nhttps://linktr.ee/lucateal",
+        "location": "",
+        "streaming": {
+            "accountId": "516526686091620352",
+            "channel": {
+                "id": "719816854771609600",
+                "accountId": "516526686091620352",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iSn3HM8bz6Wr.m3u8",
+                "chatRoomId": "719818026098110465",
+                "status": 2,
+                "version": 72,
+                "createdAt": 1733112071000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "719816854771609601",
+                    "historyId": "941214951949758464",
+                    "channelId": "719816854771609600",
+                    "accountId": "516526686091620352",
+                    "title": "Strip wheel and vibrator potentially <3 !sub !wishlist !tip",
+                    "status": 1,
+                    "viewerCount": 129,
+                    "version": 821,
+                    "createdAt": 1733112071000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785917975000,
+                    "startedAt": 1785897491000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

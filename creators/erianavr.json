@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a736db3b-6d1b-48cb-ae9c-5b513e9bc73c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84ad95b2-c6b9-4d3d-9f14-7c6c08d2a321-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "291808261458374656",
+        "username": "LewdianaVR",
+        "displayName": "Lewdiana",
+        "version": 8,
+        "followCount": 2679,
+        "statusId": 1,
+        "accountMediaLikes": 3436,
+        "postLikes": 4415,
+        "about": "Hey im Eriana This account is just for me to express my self Sexually \ntips are welcomed but not needed \nThrone: throne.me/erianavr\nTwitter: https://twitter.com/LewdiEri",
+        "location": "",
+        "streaming": {
+            "accountId": "291808261458374656",
+            "channel": {
+                "id": "613821538013032448",
+                "accountId": "291808261458374656",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xrzqd7tKNoLi.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1707840818000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "613821538013032449",
+                    "historyId": null,
+                    "channelId": "613821538013032448",
+                    "accountId": "291808261458374656",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1707840819000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "613821635455098880",
+                                "streamId": "613821538013032449",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:49Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc706de1-deec-416d-a711-f3ddbbcd79db-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8280de5-3def-4ded-9565-19d0cfd67399-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "285238008884502528",
+        "username": "aerytiefling",
+        "displayName": "Aery Tiefling",
+        "version": 5,
+        "followCount": 42226,
+        "statusId": 3,
+        "accountMediaLikes": 167581,
+        "postLikes": 68042,
+        "about": "Wishlist: https://throne.com/aerytiefling/wishlist\n\nHi! I'm Aery Tiefling, petite Cosplayer with spicy content! 🥵 💞\n\nI usually upload:\n🌶️ 1 cosplay photoshoot of 60-80 photos each per month.\n🌶️ All cosplay sets have explicit videos.\n🌶️ lewd, nude and explicit content (masturbation, dildo riding, fingering, full frontal, etc)\n🌶️ preview of the month's fetish contents (feet, oviposition, a bit of strap on!)\n\nIn my DMs you can also chat with me, ask for D rates or make your own suggestions for cosplays..\nMy main fetishes are Oviposition, Feet and Cum, but I'm open to a lot!\n\nHope you have fun!\n\ndisclaimer\nAll of my content here is exclusive for subscribers. Please do not screenshot or screen record any content. Legal action will be taken if you do either of the following. Thanks for understanding.",
+        "location": "Eberron",
+        "streaming": {
+            "accountId": "285238008884502528",
+            "channel": {
+                "id": "870396007530115072",
+                "accountId": "285238008884502528",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.KMy5ByvlcGpK.m3u8",
+                "chatRoomId": "870396419112988672",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1769012939000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "870396007530115073",
+                    "historyId": null,
+                    "channelId": "870396007530115072",
+                    "accountId": "285238008884502528",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1769012939000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "870396265454661632",
+                                "streamId": "870396007530115073",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce62f898-fd4f-48b3-8821-bbbbfce26b8e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d51c10cd-6ffd-474f-bb55-feb2ef9e9cd3-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "665581578734284801",
+        "username": "Yoobinz",
+        "displayName": "Yoobin",
+        "version": 11,
+        "followCount": 34616,
+        "statusId": 3,
+        "accountMediaLikes": 26640,
+        "postLikes": 21898,
+        "about": "> 𝘐 𝘮𝘦𝘰𝘸 𝘸𝘩𝘦𝘯 𝘐 𝘤𝘶𝘮 💜🐈‍⬛\n\nWelcome to my cat lair ♡\n​🇴​​🇸​​🇭​​🇮​ ​🇲​​🇦​​🇷​​🇰​💜🐈‍⬛\n\n- I can cum endlessly, no breaks needed!\n- I will worship your dick, always.\n- Touch me everywhere please.\n\n* ALL STREAMS ARE FREE TO WATCH *\n\nAll content is under copyright. Any and all infrigement will prosecuted. \n\nI also reserve the right to block/ban anyone at my own discretion. If you are banned/blocked here, you will be blocked on any of my other platforms!\n\nSee more of me:\nhttps://allmylinks.com/yoo-binz\n\nEnforced by bruqi.com.",
+        "location": "",
+        "streaming": {
+            "accountId": "665581578734284801",
+            "channel": {
+                "id": "706167644197232640",
+                "accountId": "665581578734284801",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.B9McXwzkE14G.m3u8",
+                "chatRoomId": "706168953054961664",
+                "status": 2,
+                "version": 337,
+                "createdAt": 1729857846000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "706167644197232641",
+                    "historyId": "940407194690543616",
+                    "channelId": "706167644197232640",
+                    "accountId": "665581578734284801",
+                    "title": "Private stream :3 ",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 8459,
+                    "createdAt": 1729857846000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785712126000,
+                    "startedAt": 1785704907000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940406263546650624",
+                                "streamId": "706167644197232641",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"793287940766707712\\\",\\\"label\\\":\\\"Gooner CEO Private stream \\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:54Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70e8d850-18e9-4083-9ef2-625be1f5b578-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf6c5f0a-77cd-4a08-ba3b-46a9b75be692-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "339910456032374784",
+        "username": "YukaSyrus",
+        "displayName": "LufinaLulufinaVT",
+        "version": 14,
+        "followCount": 830,
+        "statusId": 3,
+        "accountMediaLikes": 91,
+        "postLikes": 138,
+        "about": "Ready to stream and have adult fun while doing so.\n\nWill be posting pics of Me, my VTuber model and my Second Life avatar.\n\nOther NSFW Streams:\nhttps://joystick.tv/u/lufinalulufinavt\n\nStoat Chat (Discord Alt):\nhttps://stt.gg/yf79ZpH9\n\nThrone Wishlist:\nhttps://throne.com/lufinalulufina",
+        "location": "The Mothership",
+        "streaming": {
+            "accountId": "339910456032374784",
+            "channel": {
+                "id": "339925617631834112",
+                "accountId": "339910456032374784",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.MArJv7tQDPvn.m3u8",
+                "chatRoomId": "339927456938991616",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1642538942000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "339925617631834113",
+                    "historyId": "878251577180188672",
+                    "channelId": "339925617631834112",
+                    "accountId": "339910456032374784",
+                    "title": "General Stream With Lovense & Really Cute Moans",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 9691,
+                    "createdAt": 1642538943000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1770899507000,
+                    "startedAt": 1770885853000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "843112594809049088",
+                                "streamId": "339925617631834113",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

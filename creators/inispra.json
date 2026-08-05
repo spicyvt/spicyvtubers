@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/623f177c-921d-4fae-9e01-c0e0a10c461f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/682bc0dd-0e84-455d-8cce-9a2b7147acaf-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "566365814869995520",
+        "username": "Inispra",
+        "displayName": "Inispra",
+        "version": 12,
+        "followCount": 240,
+        "statusId": 1,
+        "accountMediaLikes": 222,
+        "postLikes": 231,
+        "about": "Your loyal little play thing at your service~\nI'm pleased to meet your Sinful Desires~\n/ᐠ. .ᐟ\\ Ⳋ  https://throne.com/inispra \n/ᐠ. .ᐟ\\ Ⳋ  https://linktr.ee/inispra",
+        "location": "",
+        "streaming": {
+            "accountId": "566365814869995520",
+            "channel": {
+                "id": "790006341887336448",
+                "accountId": "566365814869995520",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ez6CLjhRUZsL.m3u8",
+                "chatRoomId": "791449793451798528",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1749846549000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "790006341887336449",
+                    "historyId": "885821683213017090",
+                    "channelId": "790006341887336448",
+                    "accountId": "566365814869995520",
+                    "title": "LEWD Horror games @Lordieforp & @RainFalls",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 22,
+                    "createdAt": 1749846549000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1772694246000,
+                    "startedAt": 1772690707000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "876385250844876800",
+                                "streamId": "790006341887336449",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

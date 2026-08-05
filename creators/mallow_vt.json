@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f64c57f-2f8b-4045-81c4-e8ea3c74f8bf-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb5f0828-8d71-42a0-b370-4b6e980d52ba-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "373336489423024128",
+        "username": "mallow_vt",
+        "displayName": null,
+        "version": 3,
+        "followCount": 768,
+        "statusId": 1,
+        "accountMediaLikes": 449,
+        "postLikes": 473,
+        "about": "Squishy, comfy marshmallow bunny VTuber from the UK!\n\nTransgender MtF.\n",
+        "location": "The Squish Palace",
+        "streaming": {
+            "accountId": "373336489423024128",
+            "channel": {
+                "id": "617977347592691712",
+                "accountId": "373336489423024128",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.uEmIAuq9Aa8L.m3u8",
+                "chatRoomId": "617978248986374144",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1708831641000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "617977347592691713",
+                    "historyId": "934989112035782657",
+                    "channelId": "617977347592691712",
+                    "accountId": "373336489423024128",
+                    "title": "Spicy Peak Collab with @synravt",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 2332,
+                    "createdAt": 1708831641000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784418504000,
+                    "startedAt": 1784413135000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "746956153145008130",
+                                "streamId": "617977347592691713",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

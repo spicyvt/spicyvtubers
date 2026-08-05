@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cfd228bb-3fb9-4933-88d6-7cb99661a80e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8664dd7-02f8-44c5-bf27-02e520686519-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "485269549826977793",
+        "username": "ChanHyuk",
+        "displayName": "ChanHyuk",
+        "version": 6,
+        "followCount": 5693,
+        "statusId": 3,
+        "accountMediaLikes": 7358,
+        "postLikes": 8566,
+        "about": "Vtuber/Cosplayer/Asian/Streamer\nPatreon for NSFW audio patreon/chanhyukvt",
+        "location": "United States",
+        "streaming": {
+            "accountId": "485269549826977793",
+            "channel": {
+                "id": "490128417425993728",
+                "accountId": "485269549826977793",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BRV1ZPbb5DfL.m3u8",
+                "chatRoomId": "530650475687583745",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1678350080000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "490128417425993729",
+                    "historyId": "870893577889148928",
+                    "channelId": "490128417425993728",
+                    "accountId": "485269549826977793",
+                    "title": "Hytale then BL read",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 2173,
+                    "createdAt": 1678350081000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1769139405000,
+                    "startedAt": 1769131569000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:16Z"
     }
 }

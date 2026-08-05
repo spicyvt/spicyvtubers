@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c062f01b-9e8d-46f1-aaeb-4124ceb0573f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e267dac-01fc-45a4-a512-d3b5e2053c4b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "697314877663879168",
+        "username": "tittyvania",
+        "displayName": "♥︎ TittyVania ♥︎",
+        "version": 12,
+        "followCount": 37,
+        "statusId": 1,
+        "accountMediaLikes": 46,
+        "postLikes": 129,
+        "about": "gothic vampire catgirl online, gothic emo chubby girl offline\nsubscribe for kitties titties",
+        "location": "California",
+        "streaming": {
+            "accountId": "697314877663879168",
+            "channel": {
+                "id": "886511237213483008",
+                "accountId": "697314877663879168",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ZVU187Hxnr8V.m3u8",
+                "chatRoomId": "886513005162950656",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1772855109000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "886511237213483009",
+                    "historyId": "886863825536573440",
+                    "channelId": "886511237213483008",
+                    "accountId": "697314877663879168",
+                    "title": "TittyVania Livestream",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 4,
+                    "createdAt": 1772855110000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1772945406000,
+                    "startedAt": 1772939173000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62727b18-e686-4c6a-8b99-234668ac32bc-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/12d02cb9-6af7-4eeb-a889-189c3f61346b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "727295653553643521",
+        "username": "remuki",
+        "displayName": "remu 🍒",
+        "version": 17,
+        "followCount": 6328,
+        "statusId": 3,
+        "accountMediaLikes": 10156,
+        "postLikes": 16310,
+        "about": "✧ 𝙖 𝙥𝙪𝙥𝙥𝙮'𝙨 𝙛𝙪𝙣 𝙥𝙡𝙖𝙘𝙚 🐶 ✧ \nhello! I am remu, I post NSFW art, occasional irl and love hearing your dirty thoughts 🖤\n",
+        "location": "",
+        "streaming": {
+            "accountId": "727295653553643521",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:12Z"
     }
 }

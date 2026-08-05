@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63538f65-e6a5-428a-bedb-6405772dffce-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a77103-4c85-4ba8-979e-b338c9d14b74-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "688873025117892608",
+        "username": "ZaynaKitty",
+        "displayName": null,
+        "version": 3,
+        "followCount": 76,
+        "statusId": 3,
+        "accountMediaLikes": 154,
+        "postLikes": 86,
+        "about": "Part-Time V-Tuber, Full-time Catgirl\nA little catgirl thing whose pronouns are It/Its\nDisabled kitty trying to thrive, maybe give it a few dollars so it can eat better, nya?~",
+        "location": "",
+        "streaming": {
+            "accountId": "688873025117892608",
+            "channel": {
+                "id": "859689801736019968",
+                "accountId": "688873025117892608",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.sec7ohe7xoQc.m3u8",
+                "chatRoomId": "916524811881041920",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1766460381000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "859689801736019969",
+                    "historyId": "916524703936421889",
+                    "channelId": "859689801736019968",
+                    "accountId": "688873025117892608",
+                    "title": "witch/Joystick: BriarThorneVR",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2,
+                    "createdAt": 1766460381000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780011114000,
+                    "startedAt": 1780010877000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:30Z"
     }
 }

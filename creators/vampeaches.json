@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47c214c9-49c1-4453-b05d-423594c80cb4-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6f586ca-87f9-4734-b78b-80591528e82b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "819275616971923456",
+        "username": "nocturnalonyx",
+        "displayName": "onyx",
+        "version": 3,
+        "followCount": 2351,
+        "statusId": 3,
+        "accountMediaLikes": 2456,
+        "postLikes": 5495,
+        "about": "creating NSFW audio roleplays | switchy ♡\n\nall links - https://nocturnalonyx.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "819275616971923456",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:02Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a5a0456-74a8-44f5-821f-fa594ed8b3a1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b1bb93c-ff1e-4eca-85a3-96c949df4641-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "748146139856904192",
+        "username": "marzyycat",
+        "displayName": null,
+        "version": 3,
+        "followCount": 522,
+        "statusId": 1,
+        "accountMediaLikes": 426,
+        "postLikes": 159,
+        "about": "Just your cute virtual Tiger girl! I can be a bit lewd so if you'd like to help me show you my naughty side please consider following! \n\nLove you guys! 🖤\n*** LEGAL NOTICE ***\nThe copyright of the material contained on my fansly page (including all images and video material) is owned by me.\nYou do not have the permission to use, copy, distribute by any means, record, photoprint, save, or play any of my material outside of my fansly page. Failure to comply with this will result in legal action taken against the person whose information you used to sign up with. IE your/their bank details. Copyright 2026.All rights reserved.\n",
+        "location": "The jungle ",
+        "streaming": {
+            "accountId": "748146139856904192",
+            "channel": {
+                "id": "813292547991416832",
+                "accountId": "748146139856904192",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.kCO4haYHfd05.m3u8",
+                "chatRoomId": "813292662168776706",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1755398413000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "813292547991416833",
+                    "historyId": "924564161797574656",
+                    "channelId": "813292547991416832",
+                    "accountId": "748146139856904192",
+                    "title": "Cum Join me getting frisky <3",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 76,
+                    "createdAt": 1755398414000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781931491000,
+                    "startedAt": 1781927633000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

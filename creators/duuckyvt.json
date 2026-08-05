@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e81e1c82-acc1-4e8f-ac4e-fdb49a06041f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c073100-2145-4ff7-9906-60368a717411-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "830961071413014528",
+        "username": "DuuckyVT",
+        "displayName": null,
+        "version": 3,
+        "followCount": 3,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 1,
+        "about": "Heyyy just here to support some friends ^^",
+        "location": "",
+        "streaming": {
+            "accountId": "830961071413014528",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:47Z"
     }
 }

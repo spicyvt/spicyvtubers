@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/91051891-0acc-4f72-9a5e-48acad3edab1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b257e44e-76e2-4667-a7e9-673c30959266-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "771286104509784064",
+        "username": "Sinfoniath",
+        "displayName": null,
+        "version": 3,
+        "followCount": 482,
+        "statusId": 1,
+        "accountMediaLikes": 165,
+        "postLikes": 182,
+        "about": "Hello, darling~ It's Sin, your enchanting succubus from deep below the suface~ I'm here to guide your way into the world of desire and pleasure~ Once I have you, you'll never want to leave~",
+        "location": "",
+        "streaming": {
+            "accountId": "771286104509784064",
+            "channel": {
+                "id": "782836456740626432",
+                "accountId": "771286104509784064",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.X6lBGAvEhi5t.m3u8",
+                "chatRoomId": "782836734986559488",
+                "status": 2,
+                "version": 147,
+                "createdAt": 1748137115000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "782836456740626433",
+                    "historyId": "937082561560064001",
+                    "channelId": "782836456740626432",
+                    "accountId": "771286104509784064",
+                    "title": "EDGE ME UNTIL I WIN | Futa Slug EX - (Demo Part 6)",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 126,
+                    "createdAt": 1748137115000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784917298000,
+                    "startedAt": 1784912252000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:17Z"
     }
 }

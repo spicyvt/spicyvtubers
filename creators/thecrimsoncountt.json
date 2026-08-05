@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96eb4e84-bcf1-484f-8f9f-6b0fc6efc16c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47c5e0a0-9f08-4af0-b183-010f9ed26254-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "598472680823336960",
+        "username": "TheCrimsonCount",
+        "displayName": "Crimson",
+        "version": 8,
+        "followCount": 442,
+        "statusId": 1,
+        "accountMediaLikes": 2802,
+        "postLikes": 3434,
+        "about": "Hi hi ✨\nIt’s your favourite lil degen The Crimson Cun- I mean Count!\nBut you can just call me Crimson 🩸\n\nSwitch / dom / sub / pet play / soft BDSM / voice work\n\nI also stream on Twitch 2-3 days a week 🖤\n\n⚠️ Requests will be at my own discretion unless it's paid custom content ⚠️\n\nThrone/Gifts:\nhttps://throne.com/thecrimsoncount\nAll socials:\nhttps://linktr.ee/TheCrimsonCount",
+        "location": "",
+        "streaming": {
+            "accountId": "598472680823336960",
+            "channel": {
+                "id": "620872596161835008",
+                "accountId": "598472680823336960",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iFje93qjR9PA.m3u8",
+                "chatRoomId": "659372451167219712",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1709521922000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "620872596161835009",
+                    "historyId": "919839678511738880",
+                    "channelId": "620872596161835008",
+                    "accountId": "598472680823336960",
+                    "title": "Horni games with a happy ending uwu",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 3159,
+                    "createdAt": 1709521922000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780814416000,
+                    "startedAt": 1780801229000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "769321342473351168",
+                                "streamId": "620872596161835009",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "769321342473351169",
+                                "streamId": "620872596161835009",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:12Z"
     }
 }

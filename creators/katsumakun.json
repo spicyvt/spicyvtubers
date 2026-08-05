@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ac93f0d-ec5d-4259-a0fa-8917e07f5645-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/38a0eb88-65ca-44e5-94be-1f2637b65cc8-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "467595137497706497",
+        "username": "Katsumakun",
+        "displayName": "SussyfoxyKatsuma",
+        "version": 5,
+        "followCount": 2738,
+        "statusId": 3,
+        "accountMediaLikes": 1900,
+        "postLikes": 1512,
+        "about": "Just bratty foxy gorl. Ready to satisfy your every needs~\n✨Kinks/Fetishes All allowed\n📸 CUSTOMS = OPEN\n\nSocials: https://beacons.ai/katsumakun",
+        "location": "Sussy Den",
+        "streaming": {
+            "accountId": "467595137497706497",
+            "channel": {
+                "id": "504297149933035521",
+                "accountId": "467595137497706497",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AWEheR9riBVW.m3u8",
+                "chatRoomId": "504297462635180032",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1681728169000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "504297149933035522",
+                    "historyId": "618728923785601025",
+                    "channelId": "504297149933035521",
+                    "accountId": "467595137497706497",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 3992,
+                    "createdAt": 1681728170000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1709017060000,
+                    "startedAt": 1709010830000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "538269887764639744",
+                                "streamId": "504297149933035522",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

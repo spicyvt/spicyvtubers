@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25535508-8d16-4237-9a8f-8d3431a99743-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca825007-0d91-4d40-9aae-a9c52cd94cd0-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "675797772011581441",
+        "username": "KiaKuromi2",
+        "displayName": null,
+        "version": 3,
+        "followCount": 21177,
+        "statusId": 3,
+        "accountMediaLikes": 71873,
+        "postLikes": 43552,
+        "about": "Lewdtuber whore \n\nDaily gooner fuel\n\nI show hole in dms if you ask nicely\n\nno games, no time wasting <3 come sext with me and use me as you please",
+        "location": "",
+        "streaming": {
+            "accountId": "675797772011581441",
+            "channel": {
+                "id": "788212199658106880",
+                "accountId": "675797772011581441",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.GJOh4f8Adb5R.m3u8",
+                "chatRoomId": "802995174920691712",
+                "status": 2,
+                "version": 44,
+                "createdAt": 1749418792000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "788212199658106881",
+                    "historyId": "924445494195798016",
+                    "channelId": "788212199658106880",
+                    "accountId": "675797772011581441",
+                    "title": "[IRL CAM] make us vibrate w @ifaerae__ | Make us have sex | FAP TAX $5 ",
+                    "status": 1,
+                    "viewerCount": 78,
+                    "version": 38,
+                    "createdAt": 1749418793000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781904673000,
+                    "startedAt": 1781899341000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "919038823197847552",
+                                "streamId": "788212199658106881",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "919038823197847553",
+                                "streamId": "788212199658106881",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:24Z"
     }
 }

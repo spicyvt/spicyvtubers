@@ -23,5 +23,76 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/471d2a50-0fee-4675-84b2-ad9c40ccedc3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9519d664-7bcc-4bbb-8904-dbf2ad55477a-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "503026622799028224",
+        "username": "PocketTrash",
+        "displayName": "pocket trash",
+        "version": 7,
+        "followCount": 18233,
+        "statusId": 3,
+        "accountMediaLikes": 16455,
+        "postLikes": 25355,
+        "about": "your lil pocket pussy, eager to be used 😉💜\n👑 a Princess switch with a BIG spoil kink\n💦 LIVE every Thursday @ 7:30pm EST\n✨ multi lovense toys to use on me\n🎮 plays ero and hentai games and watches porn with you on stream!!\n\ni have a spoil kink 🥺 GET A FREE EXCLUSIVE PIC if you buy me something: \nhttps://throne.com/pockettrash\n\n⚠️All of my content is for my Fansly profile only. ⚠️\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. Any unauthorized distribution of my content & live streams will result in a ban from ALL platforms.",
+        "location": "under your desk",
+        "streaming": {
+            "accountId": "503026622799028224",
+            "channel": {
+                "id": "674414645427052544",
+                "accountId": "503026622799028224",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.q2F9ExDn1bGP.m3u8",
+                "chatRoomId": "675133683492986880",
+                "status": 2,
+                "version": 84,
+                "createdAt": 1722287341000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "674414645427052545",
+                    "historyId": "939359703098470400",
+                    "channelId": "674414645427052544",
+                    "accountId": "503026622799028224",
+                    "title": "trying out a new sex toy ;) :3 !tips !toys !lovense !throne",
+                    "status": 1,
+                    "viewerCount": 63,
+                    "version": 8882,
+                    "createdAt": 1722287342000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785472100000,
+                    "startedAt": 1785455165000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "936819774405496833",
+                                "streamId": "674414645427052545",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"931343048451837955\\\",\\\"label\\\":\\\"bot\\\"}\"}"
+                            },
+                            {
+                                "id": "936819774405496834",
+                                "streamId": "674414645427052545",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            },
+                            {
+                                "id": "936819774405496835",
+                                "streamId": "674414645427052545",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:39Z"
     }
 }

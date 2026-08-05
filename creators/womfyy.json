@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ebe4c80a-5746-47b6-88c2-a54677d781de-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7da12518-c1c8-4e21-9312-89852217d80c-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "648911656134385664",
+        "username": "womfyy",
+        "displayName": "womfyy",
+        "version": 6,
+        "followCount": 1360,
+        "statusId": 3,
+        "accountMediaLikes": 1653,
+        "postLikes": 1077,
+        "about": "Hey there cuties! I'm womfyy I am a Vtuber who loves slightly sus art and being a brat hehe enjoy your stay <3 ",
+        "location": "",
+        "streaming": {
+            "accountId": "648911656134385664",
+            "channel": {
+                "id": "833998870412292096",
+                "accountId": "648911656134385664",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.D6PQh7iA9CcS.m3u8",
+                "chatRoomId": "833998976209395712",
+                "status": 2,
+                "version": 31,
+                "createdAt": 1760335185000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "833998870412292097",
+                    "historyId": "937044700773232640",
+                    "channelId": "833998870412292096",
+                    "accountId": "648911656134385664",
+                    "title": "Short stream i miss you guys <3",
+                    "status": 1,
+                    "viewerCount": 36,
+                    "version": 164,
+                    "createdAt": 1760335186000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784915940000,
+                    "startedAt": 1784903226000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

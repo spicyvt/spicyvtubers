@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/346dd3d4-110b-4e54-b305-3fe3bb44a6e1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13455f36-384c-4363-b931-d120b9be729b-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "285527838986084352",
+        "username": "xMissRave",
+        "displayName": "Miss Rave",
+        "version": 4,
+        "followCount": 182,
+        "statusId": 1,
+        "accountMediaLikes": 4095,
+        "postLikes": 197,
+        "about": "A SELF CONCIOUS STREAMER\nLvl. 29\nPosting semi-regularly\nCosplay and Lingerie Sets!\nExplicit Toy Pictures and maybe more?",
+        "location": "",
+        "streaming": {
+            "accountId": "285527838986084352",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:23Z"
     }
 }

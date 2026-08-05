@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92f1d23c-54e7-4bd3-a3dc-4aaf9bc006b1-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b2873b9-ab67-4e86-997f-9862363f4253-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "777340297251135488",
+        "username": "DebussyASMR",
+        "displayName": null,
+        "version": 4,
+        "followCount": 2579,
+        "statusId": 3,
+        "accountMediaLikes": 5064,
+        "postLikes": 6919,
+        "about": "I finally caved 😭 I'm Debussy, a femboy ASMRtist :3 I make weekly audios on YouTube, and stream on both Twitch and YouTube. I post sus stuff to Patreon, and I plan to post sus stuff here as well. I also plan to STREAM here on Fansly~",
+        "location": "",
+        "streaming": {
+            "accountId": "777340297251135488",
+            "channel": {
+                "id": "919786619601448960",
+                "accountId": "777340297251135488",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.GvlwmgiXypMx.m3u8",
+                "chatRoomId": "920794357710213120",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1780788578000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "919786619601448961",
+                    "historyId": "927121220879532032",
+                    "channelId": "919786619601448960",
+                    "accountId": "777340297251135488",
+                    "title": "Letting you control the nipple vibrator toy while I play PEGGLE 😳",
+                    "status": 1,
+                    "viewerCount": 42,
+                    "version": 6,
+                    "createdAt": 1780788579000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782544828000,
+                    "startedAt": 1782537284000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

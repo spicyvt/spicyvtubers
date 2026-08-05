@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/777db822-dd17-424c-ba5a-5b8afb1431e8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc9759ff-ea2c-47b6-9f42-021166c336c6-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "387556046387814400",
+        "username": "BaltoFrostLight",
+        "displayName": "Balto",
+        "version": 8,
+        "followCount": 3074,
+        "statusId": 1,
+        "accountMediaLikes": 6761,
+        "postLikes": 10132,
+        "about": "A canine guardian Vtuber/Lewdtuber ~ 30 ~ MDNI\n\nVR Content is always free to view\n\nIRL Content available with purchase\n\nDISCLAIMER: All content is of ownership of BaltoFrostLight, all rights reserved. Redistribution and republishing any content will be met with appropriate legal action. \n\nAll parties in pictures, videos and streams are of legal age (18+) \n\nMy other links: https://linktr.ee/BaltoFrostLight",
+        "location": "",
+        "streaming": {
+            "accountId": "387556046387814400",
+            "channel": {
+                "id": "388258404323307520",
+                "accountId": "387556046387814400",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.GXctDjzJSCME.m3u8",
+                "chatRoomId": "388263466797903872",
+                "status": 2,
+                "version": 109,
+                "createdAt": 1654062377000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "388258404323307521",
+                    "historyId": "938348869849206784",
+                    "channelId": "388258404323307520",
+                    "accountId": "387556046387814400",
+                    "title": "Ovulating by yourself beautiful?",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 147,
+                    "createdAt": 1654062377000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785219368000,
+                    "startedAt": 1785214164000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "927916088748941312",
+                                "streamId": "388258404323307521",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:56Z"
     }
 }

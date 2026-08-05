@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/122f9abf-1886-4a31-9e0b-1d0b98ba3c5f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1259ecd9-b09d-4ff0-8321-94a5c450e2c7-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "837481237693095937",
+        "username": "Maleficxm",
+        "displayName": null,
+        "version": 2,
+        "followCount": 58,
+        "statusId": 1,
+        "accountMediaLikes": 80,
+        "postLikes": 93,
+        "about": "Your favorite eldritch horror is here <3\n\nPfp: DreamyGrave | H: pepethenarax",
+        "location": "",
+        "streaming": {
+            "accountId": "837481237693095937",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:12Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/638b8320-256c-48ea-8e9c-e234d5686fe6-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/00dd52e7-1d3e-44b3-a228-5f99654e4a32-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "378084994494509056",
+        "username": "Celestetheelfvt",
+        "displayName": "Celeste the elf",
+        "version": 5,
+        "followCount": 780,
+        "statusId": 3,
+        "accountMediaLikes": 198,
+        "postLikes": 738,
+        "about": "╔═══.·:·☽✧✯✧☾..·:·.═══╗\n₊‧.°.⋆  bratty gremlin•˚₊‧⋆.\n₊‧.°.⋆ Puppy coded •˚₊‧⋆.\n╚═══.·:·.☽✧✯✧☾.·:·.═══╝\nTwitch:\nhttps://www.twitch.tv/celestetheelf\nWant to spoil me:\nhttps://throne.com/celesteelf\n\nDaki cover:\nhttps://cuddlyoctopus.com/product/celeste-the-elf/\n",
+        "location": "",
+        "streaming": {
+            "accountId": "378084994494509056",
+            "channel": {
+                "id": "901557727426256897",
+                "accountId": "378084994494509056",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.uMFUYV6ZpNLe.m3u8",
+                "chatRoomId": "901558447219154945",
+                "status": 2,
+                "version": 44,
+                "createdAt": 1776442472000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "901557727426256898",
+                    "historyId": "938574339341578240",
+                    "channelId": "901557727426256897",
+                    "accountId": "378084994494509056",
+                    "title": "DEAD BY DAYLIGHT <3",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 168,
+                    "createdAt": 1776442472000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785279727000,
+                    "startedAt": 1785267920000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcba36ca-8ed8-4100-9c8b-3c538b70a54f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb3b35fb-66c4-4ba7-8ff3-97835c426bd4-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "593632835701579778",
+        "username": "Padunk",
+        "displayName": "Padunk",
+        "version": 6,
+        "followCount": 1555,
+        "statusId": 1,
+        "accountMediaLikes": 926,
+        "postLikes": 1446,
+        "about": "❤ Spicy Artist ~ Posting Art & VR Content \n❤ Join Padunk's Art Discord >> https://discord.com/invite/BP42RUvVpN\n❤ Lovense Affiliate ~ https://www.lovense.com/r/frz2n7\n❤ Socials: https://linktr.ee/ipadunk",
+        "location": "",
+        "streaming": {
+            "accountId": "593632835701579778",
+            "channel": {
+                "id": "759516326023667712",
+                "accountId": "593632835701579778",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.w9CjiJ5sGaaN.m3u8",
+                "chatRoomId": "759518213468860416",
+                "status": 2,
+                "version": 58,
+                "createdAt": 1742577163000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "759516326023667713",
+                    "historyId": "940783969236959232",
+                    "channelId": "759516326023667712",
+                    "accountId": "593632835701579778",
+                    "title": "No Socks RPG 🧦 ~ $1 Random Time Buzzes ~ Throne gifts get 10 minute links!",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 7839,
+                    "createdAt": 1742577163000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785804641000,
+                    "startedAt": 1785794737000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:35Z"
     }
 }

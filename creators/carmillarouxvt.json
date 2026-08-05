@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6734fac-ed9a-47c1-9169-f6b22b421d22-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/80ed0792-eca0-458d-8383-93ac2b26ab70-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "545091028290379776",
+        "username": "CarmillaRoux",
+        "displayName": null,
+        "version": 3,
+        "followCount": 11467,
+        "statusId": 3,
+        "accountMediaLikes": 10708,
+        "postLikes": 12337,
+        "about": "I'm an online Dominatrix! | Website: https://carmillaroux.carrd.co/\nYou can Call me Mommy or Mistress❤ soft Dom/mommy Domme. Loving and strict, a combination of sweet and spicy🔥\n\nContent: Hybrid IRL/Vtuber / ASMR NSFW / Fetish / BDSM \n\nDMs Open for Offline Menu requests and Little Piggies Only.\n",
+        "location": "",
+        "streaming": {
+            "accountId": "545091028290379776",
+            "channel": {
+                "id": "703076963232788481",
+                "accountId": "545091028290379776",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.CY5OFyVzeHNG.m3u8",
+                "chatRoomId": "703077608178331648",
+                "status": 2,
+                "version": 88,
+                "createdAt": 1729120970000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "703076963232788482",
+                    "historyId": "939587454950711297",
+                    "channelId": "703076963232788481",
+                    "accountId": "545091028290379776",
+                    "title": "ASMR for GOONERS! Lets do a quicky!",
+                    "status": 1,
+                    "viewerCount": 46,
+                    "version": 4529,
+                    "createdAt": 1729120971000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785513162000,
+                    "startedAt": 1785509465000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "826650665202757632",
+                                "streamId": "703076963232788482",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:09Z"
     }
 }

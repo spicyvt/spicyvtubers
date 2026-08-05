@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a2cebac-b92e-4f1a-bdf5-4230aac3cd85-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c3ddf91-787d-4889-9ea0-289857bb4ea8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "344608621297938432",
+        "username": "ValeriyaVixen",
+        "displayName": "Valeriya Vixen",
+        "version": 6,
+        "followCount": 11387,
+        "statusId": 3,
+        "accountMediaLikes": 1635,
+        "postLikes": 1361,
+        "about": "💖 About Me \nHello Mortal, I’m Valeriya Vixen, your clingy little shape shifting succubus who is always needy for attention 😈\nI specialize in immersive ASMR, degen livestream chaos, and interactive Lovense reactions that make you part of the experience.\n\n⋆Brat energy ⋆ Soft Domme ⋆Tease ⋆ Switch ⋆\nFetish-friendly and very curious.\nIf you like control… or giving it… we’re going to get along 💋\n\n💖 Summoning Me Includes\n✧ Fetish-friendly roleplays (Brat, Yandere, Succubus, teasing dynamics)\n✧ Lovense-interactive streams & recorded reactions 💦\n✧ Exclusive livestream replays\n✧ Custom audios & personalized photos/videos                                                                                                                           ✧ Sensual ear-to-ear ASMR (3Dio, Yeti)\n✧ Weekly Subscriber Ghoul ONLY Streams and VIP Streams at the end of every month *Check Schedule\nI stream 6–7x a week, and yes… tips make me react 😈\n\n💖 Want to Bind Me? \nTip during streams to trigger Lovense reactions.\n\n🥵 Want to vibe with me? Buy your Lovense toy here! - Solace Pro 50% OFF https://www.lovense.com/r/ce9bav\n\n🎁 If you spoil me with outfits or props I will use them in my content! - https://throne.com/valeriyavixen\n\n🫦 Be gentle… or don’t. I bite either way.\n\nLinks Here: https://linktr.ee/valeriyavixen\n\n",
+        "location": "Your Heart",
+        "streaming": {
+            "accountId": "344608621297938432",
+            "channel": {
+                "id": "691150892740653056",
+                "accountId": "344608621297938432",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JdbLm1GlcGWP.m3u8",
+                "chatRoomId": "691151786785906688",
+                "status": 2,
+                "version": 307,
+                "createdAt": 1726277573000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "691150892740653057",
+                    "historyId": "941267394804850688",
+                    "channelId": "691150892740653056",
+                    "accountId": "344608621297938432",
+                    "title": "Domi ON! 💋 | !tipmenu !discord !s !leaderboard !fanslylink",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 2390,
+                    "createdAt": 1726277574000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785917676000,
+                    "startedAt": 1785909994000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "941250948288753665",
+                                "streamId": "691150892740653057",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:42Z"
     }
 }

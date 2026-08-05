@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c32f2cd7-3bc4-43ff-9a59-4601a70a8adb-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/439e6426-136f-40ed-9e2f-26688b019325-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "727713587723771905",
+        "username": "PemaMysterious",
+        "displayName": "Pema",
+        "version": 3,
+        "followCount": 1608,
+        "statusId": 3,
+        "accountMediaLikes": 105,
+        "postLikes": 188,
+        "about": "LewdTuber VA/ASMRtist, VTuber and like, your bunny idol!ママ+ パパ: Macabaca + Take @StudioNekoyama",
+        "location": "",
+        "streaming": {
+            "accountId": "727713587723771905",
+            "channel": {
+                "id": "901970720190394368",
+                "accountId": "727713587723771905",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.eHfIskNxzNU6.m3u8",
+                "chatRoomId": "901971957359079424",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1776540937000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "901970720190394369",
+                    "historyId": "910724717105668102",
+                    "channelId": "901970720190394368",
+                    "accountId": "727713587723771905",
+                    "title": "Pema Playtime: Come Get Naughty with Your Bunny Idol~  ASMR",
+                    "status": 1,
+                    "viewerCount": 54,
+                    "version": 4,
+                    "createdAt": 1776540937000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778634580000,
+                    "startedAt": 1778628053000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "901971865730310144",
+                                "streamId": "901970720190394369",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:58Z"
     }
 }

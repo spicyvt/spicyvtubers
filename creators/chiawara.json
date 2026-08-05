@@ -23,5 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bc22505-5271-4e7a-ad5d-208efdbf8fd0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/737b25e2-37f1-4c3c-8a1c-b679ef368786-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "577920913538818048",
+        "username": "Chiawara",
+        "displayName": "🖤🩸ChiChi 🩸🖤",
+        "version": 8,
+        "followCount": 2136,
+        "statusId": 1,
+        "accountMediaLikes": 1398,
+        "postLikes": 1693,
+        "about": "🩸#1 Bratty Vampire Princess with the best ASS around - here to suck you dry 🩸\nThis page blends VTuber & IRL Goth GF content. Turns out I'm not just funny, I'm also hot - in 2D & IRL hehe ~\n\n🖤 Casual Lewds/Nudes\n🩸 Live Streams (2D + IRL) + Lovense Toy Control\n🖤 FULL NUDE Solo Videos\n🩸 RAW B/G Videos\n🖤 Cosplay Content (TBA)\n🩸 3D Animations\n🖤 NSFW ART\n🩸 Custom Content & more\n\n🔞 Tired of your hand? Cum with me instead! With The Lovense AI in their Solace Pro YOU can fuck me or fuck along: https://www.lovense.com/r/bnfljr 🔞\n\n#curvy #alternative #tattooed #nudeavailable #explicitavailable #lewdtuber #gothgirl\n\n✧ Twitch | https://www.twitch.tv/chiawara\n✧ Wishlist | https://throne.com/_justchichi\n\n© ALL RIGHTS RESERVED. All content is piracy/copyright protected. The copyright of the material contained on my Fansly page is owned by me, chiawara. You do not have permission to use, copy, reproduce, or print any of my material outside of my Fansly page. By joining you are agreeing that you will not share my content across other platforms. Subbing does not give you the consent to redistribute my content. Failure to comply with these statements will result in legal action taken against the person.",
+        "location": "",
+        "streaming": {
+            "accountId": "577920913538818048",
+            "channel": {
+                "id": "626541399528976384",
+                "accountId": "577920913538818048",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.XZVHcMiq954W.m3u8",
+                "chatRoomId": "626543043197022208",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1710873470000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "626541399528976385",
+                    "historyId": "937079697194364929",
+                    "channelId": "626541399528976384",
+                    "accountId": "577920913538818048",
+                    "title": "🩷Comfy Gaming in Lingerie🩷IRL Cam + Lovense Gemini/Ferri 🩷",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 4392,
+                    "createdAt": 1710873470000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784919003000,
+                    "startedAt": 1784911569000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937082931514462208",
+                                "streamId": "626541399528976385",
+                                "type": 0,
+                                "flags": 3,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            },
+                            {
+                                "id": "937082931514462209",
+                                "streamId": "626541399528976385",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:07Z"
     }
 }

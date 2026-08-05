@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f02b064e-88bc-47b1-989f-d96a3ce28542-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/743a924b-1391-4164-a9e4-3338343e33ba-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "729501901481062400",
+        "username": "ByrbbieBaby",
+        "displayName": "Byrddie",
+        "version": 4,
+        "followCount": 173,
+        "statusId": 2,
+        "accountMediaLikes": 310,
+        "postLikes": 148,
+        "about": "Just your cute little resident song bird who'd love to sing you the sweetest songs~\nLover of heels, leather, and lace<3",
+        "location": "",
+        "streaming": {
+            "accountId": "729501901481062400",
+            "channel": {
+                "id": "747667212487106560",
+                "accountId": "729501901481062400",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.LTtHK4d3yUCp.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1739752114000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "747667212487106561",
+                    "historyId": null,
+                    "channelId": "747667212487106560",
+                    "accountId": "729501901481062400",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1739752114000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:24Z"
     }
 }

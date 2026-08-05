@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5402348e-7ece-4073-af96-5c0e03b43a42-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/07baf4af-02e2-4120-b8d8-7b7842b06128-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "285522174884720640",
+        "username": "SuccuPupLily",
+        "displayName": "SuccuPupLily",
+        "version": 16,
+        "followCount": 49975,
+        "statusId": 3,
+        "accountMediaLikes": 84958,
+        "postLikes": 76787,
+        "about": "🐶😈Certified Horny Hellhound Succubus~\n\n♡ Professional Menace\n♡ Bratty switch - Feral or Devotion\n♡ Bad Influence • Corruptor • Tease\n♡ Kink-Friendly… but I bite back\n♡ VR • IRL\n\n\n~>  Spoil me~ https://throne.com/succupuplily\n\n\n~> Show Me Your Love~\n~♡ join the discord! https://discord.gg/r57sfDSpTc\n~♡ twitch! https://www.twitch.tv/succupuplily\n~♡  twitter! https://twitter.com/SuccuPupLily\n\n\nModel credit: \nhttps://lilysstuff.carrd.co/",
+        "location": "your bed",
+        "streaming": {
+            "accountId": "285522174884720640",
+            "channel": {
+                "id": "324528939252854784",
+                "accountId": "285522174884720640",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.D4Bt3Mv9Ouod.m3u8",
+                "chatRoomId": "324529270347018240",
+                "status": 2,
+                "version": 138,
+                "createdAt": 1638868088000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "324528939252854785",
+                    "historyId": "940813658433269765",
+                    "channelId": "324528939252854784",
+                    "accountId": "285522174884720640",
+                    "title": "Horny Mutt Hours ~ !tip !discord",
+                    "status": 1,
+                    "viewerCount": 37,
+                    "version": 5683,
+                    "createdAt": 1638868089000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785807136000,
+                    "startedAt": 1785801815000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:14Z"
     }
 }

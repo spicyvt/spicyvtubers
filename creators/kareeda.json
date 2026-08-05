@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dee0ed2d-e575-439a-9e46-ac9621894053-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/311f8016-b6f5-4d8d-a618-a0637f473bc1-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "480582884147605504",
+        "username": "Kareeda",
+        "displayName": null,
+        "version": 3,
+        "followCount": 5490,
+        "statusId": 1,
+        "accountMediaLikes": 2840,
+        "postLikes": 1477,
+        "about": "Just a Service Bunny making NSFW things for NSFW people.\n\nService Top / Pleasure Dom\nHe / Him\nFuta Bunny Girl Content\nI just keep going... and going.. and going~\n\nStreaming NSFW Unity, Blender work and posting some spicy content sometimes! Stay Tuned~",
+        "location": "United States",
+        "streaming": {
+            "accountId": "480582884147605504",
+            "channel": {
+                "id": "887275943159144448",
+                "accountId": "480582884147605504",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Z9ZptAwxsVhJ.m3u8",
+                "chatRoomId": "892737662161543168",
+                "status": 2,
+                "version": 243,
+                "createdAt": 1773037429000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "887275943159144449",
+                    "historyId": "940923340615335936",
+                    "channelId": "887275943159144448",
+                    "accountId": "480582884147605504",
+                    "title": "VR Stream with RavenVR! Can't wait to fuck her brains out for you guys~",
+                    "status": 1,
+                    "viewerCount": 15,
+                    "version": 204,
+                    "createdAt": 1773037429000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785835028000,
+                    "startedAt": 1785827965000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "902924469561995264",
+                                "streamId": "887275943159144449",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:05Z"
     }
 }

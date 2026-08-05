@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8aec76ac-92f5-4419-8e40-14ef28e6c570-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1996cbcf-2905-4caa-88a3-86ce13236dad-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "736810102492770304",
+        "username": "gemuyo",
+        "displayName": null,
+        "version": 2,
+        "followCount": 6091,
+        "statusId": 1,
+        "accountMediaLikes": 2376,
+        "postLikes": 3861,
+        "about": "♥︎ Streams: Twitch / Fansly / Kick / Youtube ┊♥︎ Fansly: Tues & Fri ┊ NSFW Patreon: Thur & Sun ┊♥︎ VODS on RPLAY: Mon, Wed, Sat ┊♥︎ Be a Stacked nut member ┊📧 gemuyotan@gmail.com\n\nSTREAMS\n💜 TWITCH: twitch.tv/gemuyo\n🩵 FANSLY: fansly.com/gemuyo\n💚 KICK: kick.com/gemuyo\n❤️ YOUTUBE: youtube.com/@gemuyo_vtuber\nㅤ\nASMR / EXCLUSIVE UPLOADS\n💙 RPLAY: tinyurl.com/RPLAYgemuyo\n🖤 PATREON: patreon.com/gemuyo\nㅤ\nPOSTS\n🖤 X / TWITTER: x.com/gemuyo_vtuber\n🧡 INSTAGRAM: instagram.com/gemu_vtuber",
+        "location": "your ass",
+        "streaming": {
+            "accountId": "736810102492770304",
+            "channel": {
+                "id": "752047610604298240",
+                "accountId": "736810102492770304",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ylpwCtCjvF0j.m3u8",
+                "chatRoomId": "783036899106238465",
+                "status": 2,
+                "version": 207,
+                "createdAt": 1740796482000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "752047610604298241",
+                    "historyId": "941238353087438848",
+                    "channelId": "752047610604298240",
+                    "accountId": "736810102492770304",
+                    "title": "【 3DIO ASMR 】18+ deep into the night~ ♡ (EN/中文/日本語) !asmr !rplay !patreon 虚拟主播",
+                    "status": 1,
+                    "viewerCount": 49,
+                    "version": 1401,
+                    "createdAt": 1740796483000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785905674000,
+                    "startedAt": 1785903070000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:28Z"
     }
 }

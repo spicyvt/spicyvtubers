@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9b8eaf4-89c9-45e5-b4dd-cb27b398f708-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06924e9-a694-4dad-83c9-4fb38e667d71-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "852018249271889920",
+        "username": "sussysusuu",
+        "displayName": "Susuu",
+        "version": 9,
+        "followCount": 2115,
+        "statusId": 3,
+        "accountMediaLikes": 1378,
+        "postLikes": 1529,
+        "about": "Lavender cow gal who needs your attention! ✨\n✧˖°. Games but making it spicy~\n✧˖°. VTuber/Small IRL\n✧˖°. Self-play/Toy Use\n✦. ── .✦ ── .✦\n*Yes, I have a partner. He does know I'm doing this and I have his support. Do not call him names or you will be sent to the shadow realm, thank you <3*\nPlease do not DM me on Discord or any of my social sites! I will not reply. DMs are available via sub tier on Fansly ONLY.\n(No customs at this time. Any unsolicited photos/videos will get you sent to the gallows. So be a good darling & enjoy the goontent ✨)",
+        "location": "",
+        "streaming": {
+            "accountId": "852018249271889920",
+            "channel": {
+                "id": "934792786580873217",
+                "accountId": "852018249271889920",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.78NefMZooVa2.m3u8",
+                "chatRoomId": "934794519575015424",
+                "status": 2,
+                "version": 16,
+                "createdAt": 1784366327000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "934792786580873218",
+                    "historyId": "936958480902795264",
+                    "channelId": "934792786580873217",
+                    "accountId": "852018249271889920",
+                    "title": "IRL Booba Cam! Elden Ring but I punish myself... again!  ♡(˃͈ ˂͈ )",
+                    "status": 1,
+                    "viewerCount": 53,
+                    "version": 10,
+                    "createdAt": 1784366328000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784883926000,
+                    "startedAt": 1784882669000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:21:33Z"
     }
 }

@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b67f074-198e-4bf1-9234-00223da1376e-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8a5f7bb-8c8d-47e5-beb3-f839e7350030-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "908901768027451393",
+        "username": "LeyneVT",
+        "displayName": null,
+        "version": 3,
+        "followCount": 12,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "Hey, I'm Leyne! 💜🪽 Tiers are now Live!\nI'm a Fallen Angel of Lust around these parts. Allow me to tempt you towards sin, or perhaps at least, a peaceful slumber.\n\nLewdtuber Lives, ASMR, NSFW Art & Animations.\n🎉I Respond to tips\n\nLive on Twitch weekly:\nhttps://www.twitch.tv/leynevt\n\nWanna spoil me? or Check out more of the socials?\nhttps://leyne.carrd.co/\n\n\n⚠️All of my content is for my Fansly profile only. ⚠️\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. Any unauthorized distribution of my content & live streams will result in a ban from ALL platforms.",
+        "location": "Some Random Boba Cafe",
+        "streaming": {
+            "accountId": "908901768027451393",
+            "channel": {
+                "id": "914654229090549760",
+                "accountId": "908901768027451393",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9JVGf7WKhdlv.m3u8",
+                "chatRoomId": "914655970662031361",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1779564921000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "914654229090549761",
+                    "historyId": null,
+                    "channelId": "914654229090549760",
+                    "accountId": "908901768027451393",
+                    "title": "Test",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1779564922000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "914663829588156416",
+                                "streamId": "914654229090549761",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:10Z"
     }
 }

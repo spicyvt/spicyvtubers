@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0092e6c9-ac73-443e-8c4d-1cfadff3f8d8-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/610c60fe-c468-48d4-a4ee-3dde3eea7a36-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "519268387986092032",
+        "username": "GammaInkk",
+        "displayName": "GammaInkk",
+        "version": 4,
+        "followCount": 12558,
+        "statusId": 1,
+        "accountMediaLikes": 12973,
+        "postLikes": 13506,
+        "about": "🦊 𝐘𝐨𝐮𝐫 𝐟𝐫𝐢𝐞𝐧𝐝𝐥𝐲 𝐧𝐞𝐢𝐠𝐡𝐛𝐨𝐫𝐡𝐨𝐨𝐝 𝒅𝒆𝒇𝒊𝒏𝒊𝒕𝒆𝒍𝒚 𝑵𝑶𝑻 𝒂 𝒇𝒐𝒙 𝐆𝐢𝐫𝐥 🦊\n\n📷 | 𝐋𝐞𝐰𝐝 𝐕𝐑𝐂𝐡𝐚𝐭 𝐏𝐢𝐜𝐬/𝐆𝐈𝐅𝐒/𝐕𝐨𝐝𝐬\n🔴 |  𝐇𝐞𝐧𝐭𝐚𝐢 𝐆𝐚𝐦𝐞 𝐋𝐢𝐯𝐞𝐬𝐭𝐞𝐚𝐦𝐬 【𝒇𝒐𝒓 𝒂𝒍𝒍 𝒇𝒐𝒍𝒍𝒐𝒘𝒆𝒓𝒔】\n\n\n🌸 𝐒𝐮𝐛𝐦𝐢𝐬𝐬𝐢𝐯𝐞 | 𝐒𝐡𝐲 | 𝐁𝐫𝐚𝐭 🌸\n𝙄 𝙖𝙢 𝙩𝙝𝙚 𝙜𝙤𝙤𝙙𝙚𝙨𝙩 𝙜𝙞𝙧𝙡 𝙤𝙣 𝙁𝙖𝙣𝙨𝙡𝙮…….𝙉𝙊 𝙄’𝙈 𝙉𝙊𝙏 𝙇𝙔𝙄𝙉𝙂 ;𝙬;\n\n🡪 ♡ 𝐕𝐑 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐎𝐧𝐥𝐲 ♡ 🡨\n\n────────── « ⋅ʚ☆ɞ⋅ » ──────────\n\n◇ 𝗧𝘄𝗶𝘁𝗰𝗵 | https://www.twitch.tv/gammainkk\n◇ 𝗡𝗦𝗙𝗪 𝗧𝘄𝗶𝘁𝘁𝗲𝗿 | https://x.com/GammaKINKK\n◇ 𝗪𝗶𝘀𝗵𝗹𝗶𝘀𝘁 | https://throne.com/gammainkk\n\n────────── « ⋅ʚ☆ɞ⋅ » ──────────\n\n🔗 𝗢𝗧𝗛𝗘𝗥 𝗟𝗜𝗡𝗞𝗦: \n✿ https://linktr.ee/gammainkk\n\n\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "519268387986092032",
+            "channel": {
+                "id": "531092892232458240",
+                "accountId": "519268387986092032",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2bCDW5SKA9sg.m3u8",
+                "chatRoomId": "531093430504267776",
+                "status": 2,
+                "version": 14,
+                "createdAt": 1688116772000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "531092892232458241",
+                    "historyId": "884314962388869120",
+                    "channelId": "531092892232458240",
+                    "accountId": "519268387986092032",
+                    "title": "♥ FOX GIRLS BACK  ♥",
+                    "status": 1,
+                    "viewerCount": 101,
+                    "version": 6652,
+                    "createdAt": 1688116773000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1772342946000,
+                    "startedAt": 1772331476000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:14:03Z"
     }
 }

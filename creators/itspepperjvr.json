@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ca19e2-961c-4e9b-b13c-2b419a2cd5bd-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d65834e1-b013-4d38-a274-198811f46b19-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "292453546136186880",
+        "username": "ItspepperjVR",
+        "displayName": "ItspepperjVR",
+        "version": 5,
+        "followCount": 3447,
+        "statusId": 1,
+        "accountMediaLikes": 5484,
+        "postLikes": 2318,
+        "about": " follow for the content I'll post, some are free and others are paid~💚\nanyone Is welcome to message me on here to ask questions or concerns 💚 I am busy most of the times so I will be very slow with DM Responses 💚\nwill be streaming on here possibly twice a week~ \nHope Everyone Enjoys My Content, Would Appreciate Feedback Or Ideas For Other types Of Content As Well Either In Post Comments Or DM's Thank you 💚\n\nWholesome Tier = Lewd Comics/ Lewd Pictures\n\nPassionate Tier = Lewd Video Teases/ERP Pictures\n\nLustful Tier = Edited ERP Videos 5-10+Mins Long/Unleashed Version Of Me~\n\nFeral - Uncut - Raw Footage Tier = Basically Uploading The Unedited Long Version Of ERP Videos That Can Last Between 25Mins-2hours. Since this has been requested I'm putting it up here for anyone who wants to see that. \n",
+        "location": "",
+        "streaming": {
+            "accountId": "292453546136186880",
+            "channel": {
+                "id": "594236530222964736",
+                "accountId": "292453546136186880",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9YjZHQCmkNnB.m3u8",
+                "chatRoomId": "598564406011375616",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1703171389000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "594236530222964737",
+                    "historyId": "843189376119742464",
+                    "channelId": "594236530222964736",
+                    "accountId": "292453546136186880",
+                    "title": "Lets have some fun~",
+                    "status": 1,
+                    "viewerCount": 73,
+                    "version": 1895,
+                    "createdAt": 1703171389000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1762536608000,
+                    "startedAt": 1762526373000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "594236706891247616",
+                                "streamId": "594236530222964737",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:15:12Z"
     }
 }

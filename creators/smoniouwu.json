@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4204630e-9bb9-4e48-a036-48505f7dcd07-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/06096085-1495-45dc-9264-838e2816c86f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "890470120906825728",
+        "username": "SmonioUwU",
+        "displayName": null,
+        "version": 2,
+        "followCount": 17,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "Oh wow, look guys. Smo DOES have a Fansly.😯\n\nHey there,  my name is Smo\nI'm a Foxboy Vtuber who is really \"lewd\"some~\nOh, and don't forget the being a Femboy part.\n\nI lost a bet with my Chat, so I had to make a funny blue Twitch account.\n\nWelp, I don't fully know what I'm going to do here, but now I have somewhere to be Horny and play Gooner Games!✨\n\nIf you'd like to see more of the Lewd side of the Foxboy, then follow to stay up to date, and consider helping the Fox out with a sub and get access to exclusive \"content.\"",
+        "location": "Your dad's room",
+        "streaming": {
+            "accountId": "890470120906825728",
+            "channel": {
+                "id": "890926972249587712",
+                "accountId": "890470120906825728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SmsjYFbeuVqY.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1773907902000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "890926972249587713",
+                    "historyId": null,
+                    "channelId": "890926972249587712",
+                    "accountId": "890470120906825728",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1773907903000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:13:37Z"
     }
 }

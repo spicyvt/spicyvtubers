@@ -23,5 +23,60 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/757a6199-f1f1-43f7-83f3-2bb2a6af4cf0-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf5e7583-7587-4eea-9f93-19d427c70aa9-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "642948434185166848",
+        "username": "Lil_Serpentina",
+        "displayName": "Lil_Serpentina",
+        "version": 6,
+        "followCount": 641,
+        "statusId": 1,
+        "accountMediaLikes": 293,
+        "postLikes": 461,
+        "about": "Sweet, sussy Gorgon Vtuber who's made it away from some restraints\n\n🐍 Bratty Bottom\n🌸 Audiophile\n🐍 Praise Addict\n🌸 Not looking for anything romantic, just fun~",
+        "location": "United States",
+        "streaming": {
+            "accountId": "642948434185166848",
+            "channel": {
+                "id": "695889468170706944",
+                "accountId": "642948434185166848",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.XR6y4ZRgkNkU.m3u8",
+                "chatRoomId": "828018654372196352",
+                "status": 2,
+                "version": 26,
+                "createdAt": 1727407338000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "695889468170706945",
+                    "historyId": "919766773618728960",
+                    "channelId": "695889468170706944",
+                    "accountId": "642948434185166848",
+                    "title": "Help Me Step-Snek, I'm Stuck | 2.0 Spicy Stream |",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 30,
+                    "createdAt": 1727407338000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780790582000,
+                    "startedAt": 1780783847000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "848729669057409024",
+                                "streamId": "695889468170706945",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:11:56Z"
     }
 }

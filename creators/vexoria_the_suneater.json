@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c946249-87bc-459d-b8be-ff8dbf338651-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb3264ae-0e34-4d89-be5b-38538ce84b2f-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "377362402670292992",
+        "username": "Vexoriathesuneater",
+        "displayName": "Vexoria The SunEater",
+        "version": 8,
+        "followCount": 90979,
+        "statusId": 3,
+        "accountMediaLikes": 236664,
+        "postLikes": 186056,
+        "about": "Dommy Mommy Lamia Vtuber. Big titty, insatiable, nymphomaniac Goddess constantly looking for something bigger 💜 I'll have you begging for mercy at the end of my tongue 💜Here to swallow your cum, your world, your sun, and anything else you have to offer me! We're not done until I say we're done, darling...\n\n*~ALL MY LINKS~*\n💜 https://vexwhoria.ca\n💙 Daki Cover: https://orchid18.com/collections/vexoria\n\nStreams live with sex toys once per month. Posts RL nudes and lewds frequently, with a monthly ASMR or NSFW Audio! Surrender to me and become my sub. You won't regret it, darling~",
+        "location": "The Hissing Depths",
+        "streaming": {
+            "accountId": "377362402670292992",
+            "channel": {
+                "id": "437843569772867584",
+                "accountId": "377362402670292992",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.O05m7t8ZHaJ6.m3u8",
+                "chatRoomId": "437843914955698176",
+                "status": 2,
+                "version": 73,
+                "createdAt": 1665884401000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "437843569772867585",
+                    "historyId": "932131461862014976",
+                    "channelId": "437843569772867584",
+                    "accountId": "377362402670292992",
+                    "title": "💜WET N WILD💜Soaked Summer Spectacular <3",
+                    "status": 1,
+                    "viewerCount": 752,
+                    "version": 8468,
+                    "createdAt": 1665884402000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783739249000,
+                    "startedAt": 1783731818000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:28Z"
     }
 }

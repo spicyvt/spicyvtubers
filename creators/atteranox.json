@@ -23,5 +23,23 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/418edc4a-b072-49db-b7a3-b9927a9bfb2e-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2039816e-ec35-40ed-b67e-66140e31aeba-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "655295085822357504",
+        "username": "AtteraNox",
+        "displayName": "AtteraNox",
+        "version": 10,
+        "followCount": 960,
+        "statusId": 1,
+        "accountMediaLikes": 1676,
+        "postLikes": 2188,
+        "about": "Goth lich reporting in 🔥 Alt&Cosplay Enthusiast\nVtuber Banner by https://x.com/SuliaVtuber",
+        "location": "",
+        "streaming": {
+            "accountId": "655295085822357504",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:17Z"
     }
 }

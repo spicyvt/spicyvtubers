@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/51a20708-8088-4eec-b46b-0d33ee2224f2-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5140380d-629a-41ca-af13-21ba12ee95e8-profile_banner-480.png"
+    },
+    "fansly": {
+        "id": "517390959705600000",
+        "username": "aPlotTwist",
+        "displayName": "aPlotTwist",
+        "version": 10,
+        "followCount": 5557,
+        "statusId": 2,
+        "accountMediaLikes": 5476,
+        "postLikes": 2413,
+        "about": "「 ✦ Southern Singing Siren ✦ 」 Bratty Feesh Gorwl 🫧🐠 \n♡ Cum on in, the water's fine.  ♡\n\naplottwist.uwu.ai\n\n♡ Twitch: http://twitch.tv/aplottwist \n♡ YT: http://youtube.com/@aplottwist \n♡ Patreon: http://patreon.com/aPlotTwist\n♡ YT Clips: http://youtube.com/@aplottwistclips \n♡ Tiktok: http://tiktok.com/@apl0ttwist\n♡ Discord: http://discord.gg/cultofchaos\n♡ Spotify: https://shorturl.at/czV12\n♡ Merch: https://vee.lol/collections/aplottwist\n♡ Twitter: https://x.com/aPlotTwistVT\n♡ Spicy Twitter: https://x.com/aPlotTwisted\n",
+        "location": "your girlfriend's dreams",
+        "streaming": {
+            "accountId": "517390959705600000",
+            "channel": {
+                "id": "671884949736927232",
+                "accountId": "517390959705600000",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.V8ln0XHDGt3S.m3u8",
+                "chatRoomId": "674840075250446336",
+                "status": 2,
+                "version": 35,
+                "createdAt": 1721684215000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "671884949736927233",
+                    "historyId": "940141758409351169",
+                    "channelId": "671884949736927232",
+                    "accountId": "517390959705600000",
+                    "title": "I'm not even late...",
+                    "status": 1,
+                    "viewerCount": 40,
+                    "version": 5466,
+                    "createdAt": 1721684215000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785649574000,
+                    "startedAt": 1785641622000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T16:12:28Z"
     }
 }
