@@ -1,0 +1,74 @@
+{
+    "bio": "marime | 마리메 | 🌥️ 🎴 you'll always be welcome here, darling ☆cozy, witchy live stream thu/fri/sat/sun evenings @teameggtoast",
+    "twitch": {
+        "id": "430320862",
+        "login": "mardorable",
+        "displayName": "MarDorable",
+        "createdAt": "2019-04-16T03:18:11.453209Z",
+        "updatedAt": "2026-08-05T15:15:39.713857Z",
+        "description": "marime | 마리메 | 🌥️ 🎴 you'll always be welcome here, darling ☆cozy, witchy live stream thu/fri/sat/sun evenings @teameggtoast",
+        "primaryColorHex": "D29AC8",
+        "followers": {
+            "totalCount": 2514
+        },
+        "follows": {
+            "totalCount": 1418
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-13T23:33:33.528956Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc3ce103-c327-4605-97b5-0f710ab6994e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6914ec7e-9d04-4bf4-a918-8c681e8130d2-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-05T17:32:50Z"
+    },
+    "fansly": {
+        "id": "722190216143577088",
+        "username": "486mar",
+        "displayName": "marime",
+        "version": 3,
+        "followCount": 165,
+        "statusId": 1,
+        "accountMediaLikes": 958,
+        "postLikes": 761,
+        "about": "call me mar, send me money, don't waste my time",
+        "location": "In the Clouds",
+        "streaming": {
+            "accountId": "722190216143577088",
+            "channel": {
+                "id": "882119136417701888",
+                "accountId": "722190216143577088",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.LnmZyiB2JsZH.m3u8",
+                "chatRoomId": "882119537464471552",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1771807951000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "882119136417701889",
+                    "historyId": "882119307989905408",
+                    "channelId": "882119136417701888",
+                    "accountId": "722190216143577088",
+                    "title": "i'll listen to anything you say || Lewdtuber || horny",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 12,
+                    "createdAt": 1771807951000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1771809779000,
+                    "startedAt": 1771807992000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-05T17:32:51Z"
+    }
+}
