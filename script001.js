@@ -3,6 +3,7 @@
 
   const DATA_URL = "accounts.json";
 
+  
   const EXTENSION_URLS = {
     chrome: "https://chromewebstore.google.com/detail/spicy-vtubers/oohhdkpmeaeejcaojpccilpfebdbeeib", 
     firefox: "https://addons.mozilla.org/en-US/firefox/addon/spicyvtubers/",
