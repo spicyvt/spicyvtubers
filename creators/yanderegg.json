@@ -23,5 +23,51 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/938ff093-537a-4a66-bd3e-ae88904bff95-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4cbdba0-92e3-404e-9d41-25d6e988aa0c-profile_banner-480.jpeg"
+    },
+    "fansly": {
+        "id": "578501349272989696",
+        "username": "Tentacrool",
+        "displayName": "Tentacrool",
+        "version": 15,
+        "followCount": 357,
+        "statusId": 1,
+        "accountMediaLikes": 88,
+        "postLikes": 77,
+        "about": "Hello Darling! Enjoy my Spice ;) - https://www.patreon.com/tentacrool\n\nLive Fridays and Sundays\n\nhttps://throne.com/tentacrool",
+        "location": "",
+        "streaming": {
+            "accountId": "578501349272989696",
+            "channel": {
+                "id": "858925138287030272",
+                "accountId": "578501349272989696",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.laPx2XBAFiWy.m3u8",
+                "chatRoomId": "858925415673114627",
+                "status": 2,
+                "version": 41,
+                "createdAt": 1766278071000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "858925138287030273",
+                    "historyId": "935711475102658560",
+                    "channelId": "858925138287030272",
+                    "accountId": "578501349272989696",
+                    "title": "Bratty Britsh Femboy ~ Try to break me while I work hehe !tips",
+                    "status": 1,
+                    "viewerCount": 33,
+                    "version": 72,
+                    "createdAt": 1766278071000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784591468000,
+                    "startedAt": 1784585360000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-06T00:40:28Z"
     }
 }
