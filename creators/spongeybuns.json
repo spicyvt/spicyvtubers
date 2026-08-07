@@ -1,0 +1,74 @@
+{
+    "bio": "Hi I'm Spongey",
+    "twitch": {
+        "id": "79286465",
+        "login": "spongeybuns",
+        "displayName": "SpongeyBuns",
+        "createdAt": "2015-01-09T03:01:21.334048Z",
+        "updatedAt": "2026-08-07T03:19:51.38469Z",
+        "description": "Hi I'm Spongey",
+        "primaryColorHex": "FAB3FF",
+        "followers": {
+            "totalCount": 15998
+        },
+        "follows": {
+            "totalCount": 831
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-07T03:19:00.982331Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3607d5b-36a0-4178-b56d-d03bbb8898b4-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a28c469-43af-419a-a1ef-302866e55df8-profile_banner-480.png",
+        "fetchedAt": "2026-08-07T22:34:54Z"
+    },
+    "fansly": {
+        "id": "658147070573555712",
+        "username": "SpongeyBuns",
+        "displayName": "Spongey",
+        "version": 4,
+        "followCount": 3278,
+        "statusId": 3,
+        "accountMediaLikes": 988,
+        "postLikes": 2104,
+        "about": "Hiiii~ I'm Spongey! A Space Demon Vtuber.\n\nWe get a lil lewd here sometimes. Anything I can't do on twitch I'll do it here! \nThrone! Give me Gifts~ https://throne.com/spongeybuns\nLewd but not Nude~\n\n3D Model made by Sn0wHunter",
+        "location": "Space",
+        "streaming": {
+            "accountId": "658147070573555712",
+            "channel": {
+                "id": "668971620349521921",
+                "accountId": "658147070573555712",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zdJpNzomot7b.m3u8",
+                "chatRoomId": "668978791707586560",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1720989623000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "668971620349521922",
+                    "historyId": "936566013200187393",
+                    "channelId": "668971620349521921",
+                    "accountId": "658147070573555712",
+                    "title": "Omg you can have titles now :3 I'm sweaty",
+                    "status": 1,
+                    "viewerCount": 85,
+                    "version": 7992,
+                    "createdAt": 1720989623000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784789293000,
+                    "startedAt": 1784789098000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T22:35:20Z"
+    }
+}

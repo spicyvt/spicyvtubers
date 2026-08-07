@@ -1,0 +1,46 @@
+{
+    "bio": "eCat",
+    "twitch": {
+        "id": "96450416",
+        "login": "oravty",
+        "displayName": "Oravty",
+        "createdAt": "2015-07-18T06:04:36.181777Z",
+        "updatedAt": "2026-08-02T06:30:50.762729Z",
+        "description": "eCat",
+        "primaryColorHex": "00C7AC",
+        "followers": {
+            "totalCount": 3593
+        },
+        "follows": {
+            "totalCount": 403
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-02T10:41:05.908204Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fb487b8-0a47-4baf-bed4-cc2a204d1869-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ef21c5f-16fa-43a9-b934-d89f2a2f0afe-profile_banner-480.png",
+        "fetchedAt": "2026-08-07T22:35:00Z"
+    },
+    "fansly": {
+        "id": "773114409064083456",
+        "username": "Oravty",
+        "displayName": "Ora",
+        "version": 10,
+        "followCount": 105,
+        "statusId": 3,
+        "accountMediaLikes": 186,
+        "postLikes": 166,
+        "about": "eCat\nWelcome to my page, I won't post very frequently unless I want to\n\nExpect mostly Irl and maybe some art bonuses",
+        "location": "",
+        "streaming": {
+            "accountId": "773114409064083456",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T22:35:35Z"
+    }
+}

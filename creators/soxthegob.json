@@ -1,0 +1,74 @@
+{
+    "bio": "My name is Sox, and I'm a goblin! I only started playing videogames around 2022, so I'm still learning and looking forward to trying amazing things. I aim to be the sweetest, most wholesome, lewdest goblin you know.",
+    "twitch": {
+        "id": "865683139",
+        "login": "soxthegob",
+        "displayName": "SoxtheGob",
+        "createdAt": "2023-01-01T08:01:26.238218Z",
+        "updatedAt": "2026-08-07T01:44:52.835203Z",
+        "description": "My name is Sox, and I'm a goblin! I only started playing videogames around 2022, so I'm still learning and looking forward to trying amazing things. I aim to be the sweetest, most wholesome, lewdest goblin you know.",
+        "primaryColorHex": "417A18",
+        "followers": {
+            "totalCount": 2512
+        },
+        "follows": {
+            "totalCount": 219
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-06T08:07:35.183175Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a39e600b-cb64-4546-bd3d-19638617166c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7ad1a73-499f-4f28-bec4-ec69b7e35a1b-profile_banner-480.png",
+        "fetchedAt": "2026-08-07T22:34:58Z"
+    },
+    "fansly": {
+        "id": "593816202913001473",
+        "username": "SoxtheGob",
+        "displayName": "Sox the Gob",
+        "version": 5,
+        "followCount": 1215,
+        "statusId": 3,
+        "accountMediaLikes": 298,
+        "postLikes": 230,
+        "about": "🍄goblin Vtuber and Live2D rigger who wants to play lewd videogames with you",
+        "location": "Tavern basement",
+        "streaming": {
+            "accountId": "593816202913001473",
+            "channel": {
+                "id": "622032406165073920",
+                "accountId": "593816202913001473",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zUaojb9uN0Fr.m3u8",
+                "chatRoomId": "622033060417773568",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1709798442000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "622032406165073921",
+                    "historyId": "855783132819910656",
+                    "channelId": "622032406165073920",
+                    "accountId": "593816202913001473",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 32,
+                    "version": 5872,
+                    "createdAt": 1709798443000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1765544074000,
+                    "startedAt": 1765528958000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T22:35:30Z"
+    }
+}

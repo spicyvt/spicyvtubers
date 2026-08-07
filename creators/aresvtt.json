@@ -1,0 +1,91 @@
+{
+    "bio": "*:･ﾟ✧*:･ﾟ Hahaha.. what? *:･ﾟ✧*:･",
+    "twitch": {
+        "id": "544974254",
+        "login": "aresvtt",
+        "displayName": "ARESvtt",
+        "createdAt": "2020-06-17T23:46:58.807897Z",
+        "updatedAt": "2026-08-05T20:56:47.526466Z",
+        "description": "*:･ﾟ✧*:･ﾟ Hahaha.. what? *:･ﾟ✧*:･",
+        "primaryColorHex": "D5AAEC",
+        "followers": {
+            "totalCount": 662
+        },
+        "follows": {
+            "totalCount": 174
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-07T21:00:19.776703Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/802e5c48-df5e-49b0-9fb9-a26ae1a0def1-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/78f7052d-7c3c-435c-854f-0f8b52c8c018-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-07T22:35:11Z"
+    },
+    "fansly": {
+        "id": "507075553874944000",
+        "username": "aresvtt",
+        "displayName": "ARES",
+        "version": 7,
+        "followCount": 8755,
+        "statusId": 1,
+        "accountMediaLikes": 8754,
+        "postLikes": 4066,
+        "about": "₊˚⊹♡ ᓚ₍ ^. .^₎ ♡₊˚ \nsussy 𝓰𝓸𝓸𝓭 𝓫𝓸𝔂 doing sussy things | He/Him \n♡₊˚ \n「 Streams Saturday 9pm EST 」\nfollow for access to livestreams, spicy art and irl teasers\nthrone.com/aresafterdark\n",
+        "location": "https://aresvt.carrd.co/",
+        "streaming": {
+            "accountId": "507075553874944000",
+            "channel": {
+                "id": "515303074781212672",
+                "accountId": "507075553874944000",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zQ7df2qJfRAo.m3u8",
+                "chatRoomId": "515303684905639941",
+                "status": 2,
+                "version": 140,
+                "createdAt": 1684352186000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "515303074781212673",
+                    "historyId": "940103399574085633",
+                    "channelId": "515303074781212672",
+                    "accountId": "507075553874944000",
+                    "title": "I'm back bitches | !cumathon",
+                    "status": 1,
+                    "viewerCount": 30,
+                    "version": 412,
+                    "createdAt": 1684352187000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785637217000,
+                    "startedAt": 1785632476000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "895196435442581504",
+                                "streamId": "515303074781212673",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "895196435442581505",
+                                "streamId": "515303074781212673",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T22:36:11Z"
+    }
+}

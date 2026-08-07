@@ -1,0 +1,83 @@
+{
+    "bio": "𐔌՞. .՞𐦯 Szia! Minnah Mia vagyok 🤡💖 Játszom, rajzolok és VTuber modelleket is készítek. Ha szeretnél csatlakozni egy fantasztikus közösséghez, itt aztán megéri! Csatlakozz, és ismerd meg Gubikát, a Shiba Inu kiskutyámat is! 🐶A röhögés garantál 100%🍿Semmiről való pofázás 150% ᨐฅ",
+    "twitch": {
+        "id": "672684818",
+        "login": "minnah_mia",
+        "displayName": "Minnah_Mia",
+        "createdAt": "2021-04-07T17:11:15.158764Z",
+        "updatedAt": "2026-08-07T18:50:15.828919Z",
+        "description": "𐔌՞. .՞𐦯 Szia! Minnah Mia vagyok 🤡💖 Játszom, rajzolok és VTuber modelleket is készítek. Ha szeretnél csatlakozni egy fantasztikus közösséghez, itt aztán megéri! Csatlakozz, és ismerd meg Gubikát, a Shiba Inu kiskutyámat is! 🐶A röhögés garantál 100%🍿Semmiről való pofázás 150% ᨐฅ",
+        "primaryColorHex": "5E5E5E",
+        "followers": {
+            "totalCount": 3636
+        },
+        "follows": {
+            "totalCount": 79
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-07T20:01:13.890074Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56e882d1-46f3-458a-a144-42c7fcd49624-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3153ca4-f47f-44c5-80f5-86bb89c44e88-profile_banner-480.png",
+        "fetchedAt": "2026-08-07T22:35:13Z"
+    },
+    "fansly": {
+        "id": "488349233636712448",
+        "username": "Minnah",
+        "displayName": "Minnah_Mia",
+        "version": 8,
+        "followCount": 736,
+        "statusId": 1,
+        "accountMediaLikes": 404,
+        "postLikes": 351,
+        "about": "Hi\n\nI am Minnah skunk and shark VTuber welcome \n\n-  https://throne.com/minnahmia\n\n- The Donation is non-refundable (except if I make decision for that) -",
+        "location": "",
+        "streaming": {
+            "accountId": "488349233636712448",
+            "channel": {
+                "id": "669280011584286720",
+                "accountId": "488349233636712448",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.f1u61PpKfwri.m3u8",
+                "chatRoomId": "669280353445224449",
+                "status": 2,
+                "version": 49,
+                "createdAt": 1721063149000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "669280011584286721",
+                    "historyId": "935315810346356736",
+                    "channelId": "669280011584286720",
+                    "accountId": "488349233636712448",
+                    "title": "HORNY STREAM ",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 8230,
+                    "createdAt": 1721063150000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784492931000,
+                    "startedAt": 1784491026000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "935304461352443904",
+                                "streamId": "669280011584286721",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T22:36:16Z"
+    }
+}

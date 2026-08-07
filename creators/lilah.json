@@ -1,0 +1,83 @@
+{
+    "bio": "hey wait this isn't a talk show",
+    "twitch": {
+        "id": "876622488",
+        "login": "lilah",
+        "displayName": "lilah",
+        "createdAt": "2023-01-31T11:01:10.382598Z",
+        "updatedAt": "2026-08-06T12:27:00.169602Z",
+        "description": "hey wait this isn't a talk show",
+        "primaryColorHex": "FF77C3",
+        "followers": {
+            "totalCount": 30773
+        },
+        "follows": {
+            "totalCount": 294
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-06T15:41:11.755819Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/48c2ce9e-2898-48a4-b50d-86788a65ebdd-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/51604537-97ed-4f1f-a825-2c386a79ec0f-profile_banner-480.png",
+        "fetchedAt": "2026-08-07T22:35:03Z"
+    },
+    "fansly": {
+        "id": "616476618751221760",
+        "username": "latenightlilah",
+        "displayName": "Lilah",
+        "version": 5,
+        "followCount": 7604,
+        "statusId": 3,
+        "accountMediaLikes": 1914,
+        "postLikes": 1778,
+        "about": "Welcome to the lewd side of me :3\n\nHope you enjoy your stay... \n\nFansly streams are free and will be announced at least a week before! <3",
+        "location": "",
+        "streaming": {
+            "accountId": "616476618751221760",
+            "channel": {
+                "id": "631610724271009792",
+                "accountId": "616476618751221760",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.pOJz0IHZ6Gqf.m3u8",
+                "chatRoomId": "631611299683377152",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1712082091000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "631610724271009793",
+                    "historyId": "923665569704595456",
+                    "channelId": "631610724271009792",
+                    "accountId": "616476618751221760",
+                    "title": "lewd",
+                    "status": 1,
+                    "viewerCount": 191,
+                    "version": 7497,
+                    "createdAt": 1712082092000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781719278000,
+                    "startedAt": 1781713392000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "900822986905382912",
+                                "streamId": "631610724271009793",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T22:35:45Z"
+    }
+}

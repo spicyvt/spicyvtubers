@@ -1,0 +1,74 @@
+{
+    "bio": "Yo! I'm Senz, Frost Incubus VTuber! Welcome Snowmies! ❄️🩵 ✧ Business email: senzvtuber@gmail.com",
+    "twitch": {
+        "id": "140160118",
+        "login": "senz",
+        "displayName": "Senz",
+        "createdAt": "2016-11-22T23:42:48.6598Z",
+        "updatedAt": "2026-08-07T04:51:43.312191Z",
+        "description": "Yo! I'm Senz, Frost Incubus VTuber! Welcome Snowmies! ❄️🩵 ✧ Business email: senzvtuber@gmail.com",
+        "primaryColorHex": "7DF9FF",
+        "followers": {
+            "totalCount": 165586
+        },
+        "follows": {
+            "totalCount": 842
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-07T07:36:30.973894Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/21a479f1-02aa-4fc1-b49d-cd94e6a0a40c-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c0342f8-7345-47b1-ab9f-3a7ece830e08-profile_banner-480.png",
+        "fetchedAt": "2026-08-07T21:44:54Z"
+    },
+    "fansly": {
+        "id": "485834193171918848",
+        "username": "Senz",
+        "displayName": "Senz",
+        "version": 15,
+        "followCount": 294,
+        "statusId": 1,
+        "accountMediaLikes": 59,
+        "postLikes": 68,
+        "about": "Snowshi ❄️🩵【Frost Incubus VTuber】\nALL SOCIAL MEDIA LINKS: https://senz.to/\nPersonal Business email: senzvtuber@gmail.com",
+        "location": "twitch.tv/senz",
+        "streaming": {
+            "accountId": "485834193171918848",
+            "channel": {
+                "id": "757028976551014401",
+                "accountId": "485834193171918848",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.naT1mU0JuqW8.m3u8",
+                "chatRoomId": "757029018754101249",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1741984132000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "757028976551014402",
+                    "historyId": "762592576887857152",
+                    "channelId": "757028976551014401",
+                    "accountId": "485834193171918848",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 22,
+                    "version": 1060,
+                    "createdAt": 1741984133000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1743318351000,
+                    "startedAt": 1743310598000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T21:45:02Z"
+    }
+}

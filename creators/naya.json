@@ -1,0 +1,74 @@
+{
+    "bio": "let me give a fox's explanation~",
+    "twitch": {
+        "id": "49483934",
+        "login": "naya",
+        "displayName": "naya",
+        "createdAt": "2013-09-27T00:56:28.317491Z",
+        "updatedAt": "2026-08-04T19:31:19.191756Z",
+        "description": "let me give a fox's explanation~",
+        "primaryColorHex": "FFBE05",
+        "followers": {
+            "totalCount": 95809
+        },
+        "follows": {
+            "totalCount": 355
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-07T19:14:01.889711Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34f16795-577f-4bb8-9539-2b024b8f1255-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/53efdab3-290a-4021-b52a-cfe8b6c44c39-profile_banner-480.png",
+        "fetchedAt": "2026-08-07T22:34:53Z"
+    },
+    "fansly": {
+        "id": "756947074200645632",
+        "username": "OnlyFomx",
+        "displayName": "OnlyFomx~",
+        "version": 22,
+        "followCount": 4943,
+        "statusId": 3,
+        "accountMediaLikes": 2820,
+        "postLikes": 3683,
+        "about": "🎆Your new fav Fomx! 🎆\nI like art and make VRChat lewds, in a cute but sexy way ;3\n+ Im a brat and bottom, take this info how you will <3\nI play games here! - https://twitch.tv/naya",
+        "location": "",
+        "streaming": {
+            "accountId": "756947074200645632",
+            "channel": {
+                "id": "762206855773560832",
+                "accountId": "756947074200645632",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vb2RmPH4X3I1.m3u8",
+                "chatRoomId": "762206974451396608",
+                "status": 2,
+                "version": 12,
+                "createdAt": 1743218635000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "762206855773560833",
+                    "historyId": "927389660563398657",
+                    "channelId": "762206855773560832",
+                    "accountId": "756947074200645632",
+                    "title": "1st Ever Fansly Stream in a long while! Plz be gentle im a nervous bottom >.<",
+                    "status": 1,
+                    "viewerCount": 32,
+                    "version": 22,
+                    "createdAt": 1743218635000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782608570000,
+                    "startedAt": 1782601285000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T22:35:15Z"
+    }
+}

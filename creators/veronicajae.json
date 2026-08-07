@@ -1,0 +1,107 @@
+{
+    "bio": "Hey! I'm VeronicaJae, here to hopefully make your day! I'm a variety Vtuber that likes to play games, complain, and be comfy! Won't you come get cozy with me? 👉👈",
+    "twitch": {
+        "id": "58628514",
+        "login": "veronicajae",
+        "displayName": "VeronicaJae",
+        "createdAt": "2014-03-11T15:27:18.74828Z",
+        "updatedAt": "2026-08-07T19:55:43.444271Z",
+        "description": "Hey! I'm VeronicaJae, here to hopefully make your day! I'm a variety Vtuber that likes to play games, complain, and be comfy! Won't you come get cozy with me? 👉👈",
+        "primaryColorHex": "BF130D",
+        "followers": {
+            "totalCount": 44045
+        },
+        "follows": {
+            "totalCount": 233
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-07T20:59:44.394825Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c79b257a-b056-4742-868f-640c8a50254a-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95cd78d6-0b84-4b96-8843-61e2978bf261-profile_banner-480.png",
+        "fetchedAt": "2026-08-07T22:35:06Z"
+    },
+    "fansly": {
+        "id": "295535312531107840",
+        "username": "VeroticaJae",
+        "displayName": "VeroticaJae",
+        "version": 9,
+        "followCount": 7887,
+        "statusId": 1,
+        "accountMediaLikes": 4551,
+        "postLikes": 2087,
+        "about": "Queen of Gooning | IRL Futa | Fem cock and Anal Enjoyer",
+        "location": "",
+        "streaming": {
+            "accountId": "295535312531107840",
+            "channel": {
+                "id": "729524694113333251",
+                "accountId": "295535312531107840",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2f2VePKHzOoY.m3u8",
+                "chatRoomId": "729525239641284608",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1735426601000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "729524694113333252",
+                    "historyId": "891527857778483200",
+                    "channelId": "729524694113333251",
+                    "accountId": "295535312531107840",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 113,
+                    "version": 7650,
+                    "createdAt": 1735426601000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1774062674000,
+                    "startedAt": 1774051165000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "891534371293511680",
+                                "streamId": "729524694113333252",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"674461137906966529\\\"}\"}"
+                            },
+                            {
+                                "id": "891534371293511681",
+                                "streamId": "729524694113333252",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"674461592485634048\\\"}\"}"
+                            },
+                            {
+                                "id": "891534371293511682",
+                                "streamId": "729524694113333252",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":15000}\"}"
+                            },
+                            {
+                                "id": "891534371293511683",
+                                "streamId": "729524694113333252",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T22:35:56Z"
+    }
+}
