@@ -1,0 +1,83 @@
+{
+    "bio": "Your favorite 𝒔𝒖𝒄𝒄𝒖𝒃𝒖𝒔 Mommy VTuber! I stream a variety of games, but lean more towards Nintendo ones! She/Her. Business - DssVelvet@gmail.com",
+    "twitch": {
+        "id": "45568240",
+        "login": "velvetvylure",
+        "displayName": "VelvetVylure",
+        "createdAt": "2013-07-03T17:26:29.49397Z",
+        "updatedAt": "2026-08-04T21:46:43.774524Z",
+        "description": "Your favorite 𝒔𝒖𝒄𝒄𝒖𝒃𝒖𝒔 Mommy VTuber! I stream a variety of games, but lean more towards Nintendo ones! She/Her. Business - DssVelvet@gmail.com",
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 1312
+        },
+        "follows": {
+            "totalCount": 291
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-05T05:13:57.021862Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/022a3da1-70a6-4d6e-bf24-2c733fe05fb9-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84b379fd-38f6-4806-a867-9ffcba27a71d-profile_banner-480.png",
+        "fetchedAt": "2026-08-07T22:59:51Z"
+    },
+    "fansly": {
+        "id": "548384151175180288",
+        "username": "VelvetVylure",
+        "displayName": "Velvet Vylure VT",
+        "version": 7,
+        "followCount": 1942,
+        "statusId": 1,
+        "accountMediaLikes": 1439,
+        "postLikes": 1105,
+        "about": "Part Dommy Mommy, Part Bratty Succubus Vtuber. \n\nNaughty VR Photos/Videos~\n\nFREE Streams every Sunday at ~10 pm EST\n\nPrivate sessions, Ratings and Audio Comms are open~ (DM me!)\nMaybe consider getting a Lovense of your own and joining me?~ Use my link! https://www.lovense.com/r/0dlnxi\n\nALL my other socials are here! (Discord, X, Bsky, Twitch, etc etc!) - https://linktr.ee/VelvetVylure",
+        "location": "https://www.twitch.tv/velvetvylure",
+        "streaming": {
+            "accountId": "548384151175180288",
+            "channel": {
+                "id": "717933710749478912",
+                "accountId": "548384151175180288",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jTAyU6oMlny9.m3u8",
+                "chatRoomId": "717934691029622784",
+                "status": 2,
+                "version": 16,
+                "createdAt": 1732663095000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "717933710749478913",
+                    "historyId": "930334077226086400",
+                    "channelId": "717933710749478912",
+                    "accountId": "548384151175180288",
+                    "title": "Vibing~",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 7690,
+                    "createdAt": 1732663095000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783312263000,
+                    "startedAt": 1783303288000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "897367353132593153",
+                                "streamId": "717933710749478913",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T22:59:59Z"
+    }
+}

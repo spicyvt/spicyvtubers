@@ -1,0 +1,74 @@
+{
+    "bio": "i love overwatch and umamusume! streams are simulcasted on YT",
+    "twitch": {
+        "id": "560363490",
+        "login": "riaow",
+        "displayName": "RiaOW",
+        "createdAt": "2020-07-30T18:10:55.530142Z",
+        "updatedAt": "2026-08-04T23:55:48.222053Z",
+        "description": "i love overwatch and umamusume! streams are simulcasted on YT",
+        "primaryColorHex": "FF8FC2",
+        "followers": {
+            "totalCount": 13577
+        },
+        "follows": {
+            "totalCount": 591
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-03T23:22:59.153542Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/687237ee-b5ad-476e-bf2f-3444a4dcc310-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72723340-b3f1-4d4a-aa9c-93f801490a5b-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-07T22:59:56Z"
+    },
+    "fansly": {
+        "id": "778419925927600128",
+        "username": "sagisawaria",
+        "displayName": null,
+        "version": 2,
+        "followCount": 6237,
+        "statusId": 1,
+        "accountMediaLikes": 11955,
+        "postLikes": 7751,
+        "about": "Let me whisper to you in my sweet voice! Lewd things of course! 大家好我是莉雅！I make NSFW audio (ASMR, script reading, comic dubbing, etc), light NSFW cosplay/lingerie irl pics (of throne gifts tysm!), NSFW Ria art, and NSFW Ria model short videos. Thank you for your support!\n\nWishlist:\nhttps://throne.com/sagisawaria\n\nTwitch (streams):\nhttps://www.twitch.tv/sagisawaria\n\nYT (videos, music, streams):\nhttps://www.youtube.com/@SagisawaRia\n\nMain Twitter:\nhttps://x.com/sagisawaria\n\nNSFW Twitter:\nhttps://x.com/riarin0112",
+        "location": "",
+        "streaming": {
+            "accountId": "778419925927600128",
+            "channel": {
+                "id": "783433289640714240",
+                "accountId": "778419925927600128",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.OMBwclL8Ubk1.m3u8",
+                "chatRoomId": "783433516149907456",
+                "status": 2,
+                "version": 39,
+                "createdAt": 1748279411000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "783433289640714241",
+                    "historyId": "931066228225622016",
+                    "channelId": "783433289640714240",
+                    "accountId": "778419925927600128",
+                    "title": "Playing hentai games!! 💕 (Everyone can join!)",
+                    "status": 1,
+                    "viewerCount": 38,
+                    "version": 50,
+                    "createdAt": 1748279412000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783487447000,
+                    "startedAt": 1783477847000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T23:00:09Z"
+    }
+}
