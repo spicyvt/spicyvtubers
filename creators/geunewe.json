@@ -1,0 +1,83 @@
+{
+    "bio": "Nice to eat you! I mean meat you!. No.. meet. Nice to meet you! Just your local sheep girl with no horrifying or insidious secrets! So join me on a journey or super sweet or scuttly times;3 See ewe there! Psst its pronounced June btw XP",
+    "twitch": {
+        "id": "849498457",
+        "login": "geunewe",
+        "displayName": "GeunEwe",
+        "createdAt": "2022-11-20T03:19:40.04436Z",
+        "updatedAt": "2026-08-05T20:58:04.075902Z",
+        "description": "Nice to eat you! I mean meat you!. No.. meet. Nice to meet you! Just your local sheep girl with no horrifying or insidious secrets! So join me on a journey or super sweet or scuttly times;3 See ewe there! Psst its pronounced June btw XP",
+        "primaryColorHex": "00A4A4",
+        "followers": {
+            "totalCount": 577
+        },
+        "follows": {
+            "totalCount": 386
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-05T23:49:48.701972Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9702fcc0-1855-4545-a18e-9de7226f986e-profile_image-70x70.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f37cafa0-1fab-44ac-9cd2-3d783e1533e3-profile_banner-480.png",
+        "fetchedAt": "2026-08-07T14:39:32Z"
+    },
+    "fansly": {
+        "id": "632885822500122629",
+        "username": "GeunEwe",
+        "displayName": null,
+        "version": 3,
+        "followCount": 144,
+        "statusId": 3,
+        "accountMediaLikes": 154,
+        "postLikes": 152,
+        "about": "Heyya Sheepies!💙🐏\n\nI have streams here for free just follow!\nAudios / Art / Images are all 18+\nI post IRL LEWD & NUDE cosplay images!\nAll of my content is copyrighted content that I own. \n\nSpend $100+ on throne and get a custom 2 minute audio! https://throne.com/geunewe\nMy Links: https://geunewe.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "632885822500122629",
+            "channel": {
+                "id": "711766009458991105",
+                "accountId": "632885822500122629",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.52eu3irlaoG9.m3u8",
+                "chatRoomId": "711766727926493184",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1731192600000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "711766009458991106",
+                    "historyId": "805204451706040320",
+                    "channelId": "711766009458991105",
+                    "accountId": "632885822500122629",
+                    "title": "How High Can We Count",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 1608,
+                    "createdAt": 1731192601000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1753474822000,
+                    "startedAt": 1753470061000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "711766376980684804",
+                                "streamId": "711766009458991106",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-07T14:39:38Z"
+    }
+}

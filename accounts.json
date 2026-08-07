@@ -7229,22 +7229,24 @@
     "data": true
   },
   {
-    "fansly": "VelvettaLune",
+    "fansly": "velvettalune",
     "joystick": "velvettalune",
-    "channel": "velvettalune",
-    "xHandles": ["VelvettaLune"],
-    "socials": "https://velvettalune.carrd.co/"
+    "channel": "VelvettaLune",
+    "xHandles": ["velvettalune"],
+    "socials": "https://velvettalune.carrd.co/",
+    "data": true
+  },
+  {
+    "fansly": "geunewe",
+    "channel": "GeunEwe",
+    "xHandles": ["ewe_geun"],
+    "socials": "https://geunewe.carrd.co/",
+    "data": true
   },
   {
     "fansly": "",
     "channel": "",
     "xHandles": ["", ""],
-    "socials": ""
-  },
-  {
-    "fansly": "",
-    "channel": "",
-    "xHandles": [""],
     "socials": ""
   }
 ]
