@@ -58,7 +58,7 @@ const OG_FONT = 'DejaVu-Sans-Bold';
 const OG_BG = '#0f0a12';
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style101.css';
+const STYLESHEET = 'style102.css';
 const SCRIPT = 'script101.js';
 
 // ---------------------------------- Data helpers ----------------------------------
@@ -373,10 +373,15 @@ function renderSiteHeader(string $scope): string
 HTML;
 }
 
-function renderSiteFooter(): string
+function renderSiteFooter(string $scope): string
 {
+    $backToIndex = $scope === 'creator'
+        ? '<p class="back-to-index"><a href="/">← All Creators</a></p>'
+        : '';
+
     return <<<HTML
 <footer class="site-footer" id="site-footer">
+  {$backToIndex}
   <button type="button" class="criteria-toggle-btn" id="criteria-toggle-btn" aria-expanded="false" aria-controls="criteria-content">
     <span>Index criteria</span>
     <svg class="criteria-toggle-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5z"/></svg>
@@ -445,7 +450,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $bootstrapHead = stylesheetTag();
     $bootstrapBody = scriptBootstrap('initCreatorPage');
     $header = renderSiteHeader('creator');
-    $footer = renderSiteFooter();
+    $footer = renderSiteFooter('creator');
     $initials = htmlspecialchars(getInitials($channel));
     $bioActionsHtml = ($socialsLinkHtml !== '' || $channelLinkHtml !== '')
         ? '<div class="bio-actions">' . $socialsLinkHtml . $channelLinkHtml . '</div>'
@@ -481,7 +486,6 @@ function renderCreatorHtml(array $creator, ?string $bio): string
       {$bioPanelHtml}
     </div>
   </section>
-  <p class="back-to-index"><a href="/">← All Creators</a></p>
 </main>
 
 {$footer}
@@ -500,7 +504,7 @@ function generateIndexHtml(): string
     $bootstrapHead = stylesheetTag();
     $bootstrapBody = scriptBootstrap('initIndex');
     $header = renderSiteHeader('index');
-    $footer = renderSiteFooter();
+    $footer = renderSiteFooter('index');
     $platformFilterHtml = buildPlatformFilterHtml();
 
     return <<<HTML

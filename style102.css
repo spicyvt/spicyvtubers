@@ -122,14 +122,22 @@ a {
   font-size: 0.95rem;
 }
 
-/* Pinned to the header's top-right corner, holding the sort toggle and
-   (when shown) the index button side by side. Absolutely positioned so it
-   stays out of the flex flow — otherwise it would squeeze .header-titles
-   and force the tagline to wrap on narrow screens. */
-.header-actions {
+/* Pinned to the header's top-right corner, holding the Get Extension
+   button, sort toggle and (when shown) the index button side by side.
+   Absolutely positioned so it stays out of the flex flow — otherwise it
+   would squeeze .header-titles and force the tagline to wrap on narrow
+   screens. Its children lay out in normal flex flow so they never
+   overlap each other regardless of which buttons are currently visible. */
+.header-controls {
   position: absolute;
   top: 1.25rem;
   right: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.header-actions {
   display: flex;
   align-items: center;
   gap: 0.6rem;
@@ -196,20 +204,11 @@ a {
    matching HTML/JS blocks, each marked "GET EXTENSION BUTTON") to disable
    the feature, e.g. while the store listings aren't live yet. Hidden below
    720px by default; re-enabled in the min-width media query further down.
-   Positioned the same way as .header-index-btn (absolute, pinned to the
-   header's top-right) so the two sit side by side without disturbing the
-   normal flex flow of .header-titles. */
+   Sits inside .header-controls, alongside .header-actions, so normal flex
+   layout (not absolute positioning) keeps it from overlapping. */
 .get-extension-wrap {
   display: none;
-  position: absolute;
-  top: 1.25rem;
-  right: 1.5rem;
-}
-
-/* When the Index button is also visible (solo mode/active search), shift
-   this button left to make room for it instead of overlapping. */
-.header-inner:has(#header-index-btn:not([hidden])) .get-extension-wrap {
-  right: 7.5rem;
+  position: relative;
 }
 
 .get-extension-btn {
@@ -299,17 +298,18 @@ a {
     display: inline-flex;
   }
 
-  /* The Get Extension button occupies the header's top-right corner at
-     this width, same as .header-index-btn — reserve space so it never
-     overlaps the brand row. When the Index button is also shown, reserve
-     extra room for both, side by side (see the "right: 7.5rem" rule
-     above). */
+  /* The Get Extension button now sits alongside the sort toggle (and,
+     when shown, the index button) inside .header-controls, so reserve
+     enough room for both at once — and more when the index button joins
+     them too (active multi-result search; see the .header-inner .brand
+     rule further up for when only the sort/index pair show, without the
+     extension button, at narrower widths). */
   .header-inner .brand {
-    padding-right: 7rem;
+    padding-right: 13rem;
   }
 
-  .header-inner:has(#header-index-btn:not([hidden])) .brand {
-    padding-right: 13rem;
+  .header-inner:has(#header-index-btn:not([hidden])):has(#sort-toggle:not([hidden])) .brand {
+    padding-right: 19rem;
   }
 }
 /* GET EXTENSION BUTTON — end. */
@@ -553,11 +553,11 @@ a {
   background: var(--surface-hover);
 }
 
-.creator-table tbody tr:not(.bio-row) {
+.creator-table tbody tr {
   cursor: pointer;
 }
 
-.creator-table tbody tr.is-bio-open {
+.creator-table tbody tr.is-profile-open {
   background: var(--surface-hover);
 }
 
@@ -570,32 +570,32 @@ a {
   vertical-align: middle;
 }
 
-/* Bio row: a full-width panel shown below a creator's row when solo mode
-   (exactly one result) is active, showing that creator's bio and a direct
-   link to their Twitch/YouTube channel. Only one instance of this row ever
+/* Profile row: a full-width row shown below a creator's row instead of the
+   header when solo mode (exactly one result) is active, linking straight
+   through to that creator's own page. Only one instance of this row ever
    exists in the DOM; it's reused/repositioned rather than recreated. */
-.creator-table tbody tr.bio-row {
-  cursor: default;
+.creator-table tbody tr.profile-row {
   background: var(--bg-alt);
 }
 
-.creator-table tbody tr.bio-row:hover {
-  background: var(--bg-alt);
-}
-
-.creator-table tbody td.bio-cell {
-  /* Left matches the avatar's left edge above (same 1.1rem cell padding). */
-  padding: 0.9rem 1.1rem 1.1rem 1.1rem;
-  vertical-align: top;
+.creator-table tbody td.profile-cell {
+  text-align: center;
   /* Ensures the single cell fills the full row width once the mobile
      media query turns tbody tr into a flex container (see below). */
   flex: 1 1 100%;
 }
 
-.bio-row-inner {
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
+.view-profile-link {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.creator-table tbody tr.profile-row:hover .view-profile-link {
+  color: var(--text);
 }
 
 .bio-content {
@@ -642,8 +642,8 @@ a {
 }
 
 /* Wraps the "Open Twitch/YouTube" link and the socials link together as
-   one fixed-size group, always on its own line below the bio text
-   (bio-row-inner is a column now) and pinned to the right edge. */
+   one fixed-size group, always on its own line below the bio text and
+   pinned to the right edge (parent is a column flex container). */
 .bio-actions {
   display: flex;
   align-items: center;
@@ -1012,6 +1012,22 @@ a {
   font-size: 0.85rem;
 }
 
+/* Creator pages only (see renderSiteFooter's $scope) — sits above the
+   criteria toggle button, matching its centered/spaced layout. */
+.back-to-index {
+  margin: 0 auto 0.75rem;
+  font-size: 0.9rem;
+}
+
+.back-to-index a {
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.back-to-index a:hover {
+  color: var(--accent);
+}
+
 .criteria-toggle-btn {
   display: inline-flex;
   align-items: center;
@@ -1119,27 +1135,27 @@ a {
     margin-bottom: 0;
   }
 
-  /* Merge the open row and its bio-row into a single visual card instead of
-     two separate stacked cards: butt them directly together (no gap/margin
-     between) and square off the touching corners, leaving the bio-row's
-     top border as the only divider between the two sections. */
-  .creator-table tbody tr.is-bio-open {
+  /* Merge the open row and its profile-row into a single visual card
+     instead of two separate stacked cards: butt them directly together (no
+     gap/margin between) and square off the touching corners, leaving the
+     profile-row's top border as the only divider between the two. */
+  .creator-table tbody tr.is-profile-open {
     margin-bottom: 0;
     border-bottom: none;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
   }
 
-  .creator-table tbody tr.bio-row {
+  .creator-table tbody tr.profile-row {
     margin-top: 0;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
   }
 
   /* The card (tr) itself already supplies uniform padding on mobile —
-     don't stack the desktop bio-cell padding on top of that, which was
-     doubling up the bottom spacing. */
-  .creator-table tbody td.bio-cell {
+     don't stack the desktop profile-cell padding on top of that, which
+     was doubling up the spacing. */
+  .creator-table tbody td.profile-cell {
     padding: 0;
   }
 
@@ -1177,9 +1193,11 @@ a {
   /* Dissolve the merged Spice cell (which holds both the spicy-platform and
      Twitter/Bluesky pills) and its inner pill-wrapping div so every pill
      becomes one flat, single group of flex items directly inside the row,
-     sitting underneath the creator info as one wrapping span. */
+     sitting underneath the creator info as one wrapping span. Scoped to
+     the table only — .spice-handles is reused as-is (not dissolved) on
+     the standalone creator page. */
   .creator-table tbody td[data-label="Spice"],
-  .spice-handles {
+  .creator-table tbody .spice-handles {
     display: contents;
   }
 
@@ -1255,9 +1273,13 @@ a {
     padding: 1rem;
   }
 
-  .header-actions {
+  .header-controls {
     top: 1rem;
     right: 1rem;
+    gap: 0.4rem;
+  }
+
+  .header-actions {
     gap: 0.4rem;
   }
 
@@ -1274,4 +1296,184 @@ a {
     text-align: right;
   }
 
+}
+
+/* ---------------------------------- Creator page (/c/{slug}/) ---------------------------------- */
+/* Generated by generate-creator-pages.php — reuses .avatar/.channel-name/
+   .bio-actions/.bio-content/.spice-handles from the shared table styles
+   above, laid out the same way a solo table row + its bio panel used to
+   be: avatar-and-name header, wrapping spice links underneath, then a
+   separated panel with the bio and right-aligned socials/channel links. */
+
+.creator-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.creator-profile {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 2rem 0;
+}
+
+.avatar-xl {
+  width: 140px;
+  height: 140px;
+}
+
+.avatar-xl::before {
+  font-size: 2.4rem;
+}
+
+/* Outer shell joining the profile-card and bio panel into a single card
+   (one border/radius/shadow) instead of two separately-boxed cards. */
+.creator-card {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+/* Card wrapping the avatar/name + spice links, matching the index page's
+   row/card background (--surface) so the two pages feel like the same
+   component. */
+.creator-profile-card {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  background: var(--surface);
+  padding: 1.25rem;
+}
+
+.creator-profile-head {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+/* Desktop-only: the creator's banner (fixed 480px tall, variable width)
+   as the row's background, cover+center so varied source widths crop
+   sensibly instead of needing per-image tuning. Bleeds out to the card's
+   own edges (negative margin matching .creator-profile-card's padding)
+   so it reaches the shared .creator-card's rounded corners/overflow clip
+   instead of sitting in as a smaller inset rectangle. */
+.creator-profile-head.has-banner {
+  margin: -1.25rem -1.25rem 0;
+  padding: 1.75rem 1.25rem;
+  background-image: var(--banner-image);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Darkening gradient so the channel name stays legible over bright/busy
+   banners; heavier toward the bottom where the name sits. */
+.creator-profile-head.has-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(15, 10, 18, 0.25) 0%, rgba(15, 10, 18, 0.75) 100%);
+}
+
+.creator-profile-head.has-banner > * {
+  position: relative;
+}
+
+/* Ring in the card's own surface color so the avatar reads as a distinct
+   circle instead of blending into the banner behind it. */
+.creator-profile-head.has-banner .avatar-xl {
+  box-shadow: 0 0 0 4px var(--surface);
+}
+
+/* Dark outline behind the name so it stays legible even over a bright/white
+   banner: a hard 1px stroke in each direction (simulates -webkit-text-stroke,
+   which doesn't blur/anti-alias as reliably across browsers) plus a soft
+   glow/drop-shadow on top for extra separation from busy banners. */
+.creator-profile-head.has-banner .channel-name {
+  text-shadow:
+    -1px -1px 0 rgba(0, 0, 0, 0.95),
+    1px -1px 0 rgba(0, 0, 0, 0.95),
+    -1px 1px 0 rgba(0, 0, 0, 0.95),
+    1px 1px 0 rgba(0, 0, 0, 0.95),
+    0 2px 4px rgba(0, 0, 0, 0.9),
+    0 0 12px rgba(0, 0, 0, 0.8);
+}
+
+.creator-profile .channel-name {
+  font-size: 2.7rem;
+  font-weight: 700;
+  white-space: normal;
+  overflow: visible;
+}
+
+/* Both overridden to 0 — .spice-handles' shared margin-top/bottom exist to
+   center a table row's wrapped pills against the (taller) avatar, which
+   isn't needed here; without this the gap below the links (margin-bottom
+   + the card's own gap) ends up bigger than the gap above them (just the
+   card's gap), making the two look uneven. */
+.creator-profile .spice-handles {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Section below the profile card, inside the same joined .creator-card —
+   same idea as the old solo-row bio panel (distinct background), holding
+   the bio then the right-aligned socials/channel links, with a border-top
+   as the only divider between it and the profile card above. */
+.creator-bio-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  background: var(--bg-alt);
+  border-top: 1px solid var(--border);
+  padding: 1.1rem 1.25rem;
+}
+
+.creator-profile .bio-content {
+  text-align: left;
+}
+
+/* Responsive: same breakpoint the table switches to its card layout at —
+   shrink the avatar/name back down to the index row's sizes and cut most
+   of the gap between the header and the avatar. */
+@media (max-width: 1100px) {
+  .creator-profile {
+    padding: 0.5rem 0 2rem;
+  }
+
+  .avatar-xl {
+    width: 70px;
+    height: 70px;
+  }
+
+  .avatar-xl::before {
+    font-size: 1.4rem;
+  }
+
+  .creator-profile .channel-name {
+    font-size: 1.2rem;
+  }
+
+  /* Banner background is desktop-only; undo the bleed/overlay/ring below
+     this breakpoint regardless of the has-banner class/inline style. */
+  .creator-profile-head.has-banner {
+    margin: 0;
+    padding: 0;
+    background-image: none;
+  }
+
+  .creator-profile-head.has-banner::before {
+    content: none;
+  }
+
+  .creator-profile-head.has-banner .avatar-xl {
+    box-shadow: none;
+  }
+
+  .creator-profile-head.has-banner .channel-name {
+    text-shadow: none;
+  }
 }
