@@ -5,7 +5,7 @@ declare(strict_types=1);
 /**
  * Full site page generator: emits index.html AND a static, fully-baked SEO
  * page + OG image for every creator in accounts.json (c/{channelLower}/
- * index.html + og-image.png). Both page types share the same head/header/
+ * index.html + og-image.webp). Both page types share the same head/header/
  * footer components below (renderHeadMeta/renderSiteHeader/renderSiteFooter)
  * so they can't drift apart the way a hand-edited index.html and a
  * generated creator template otherwise would.
@@ -35,7 +35,7 @@ declare(strict_types=1);
  *                                                  # the snapshot
  *   php generate-creator-pages.php --force-html   # same, but reuses each
  *                                                  # creator's existing
- *                                                  # og-image.png instead of
+ *                                                  # og-image.webp instead of
  *                                                  # rebuilding it (only
  *                                                  # built when missing) —
  *                                                  # for template-only
@@ -43,6 +43,12 @@ declare(strict_types=1);
  *                                                  # than a full --force
  * 
  *   php generate-creator-pages.php --limit=N       # only process the first N creators (for testing)
+ *   php generate-creator-pages.php --clean-c        # delete everything inside c/ (but keep
+ *                                                  # the c/ folder itself) and reset the
+ *                                                  # generated-accounts.json snapshot so the
+ *                                                  # next run regenerates every creator from
+ *                                                  # scratch; exits immediately, does not
+ *                                                  # regenerate anything itself
  *                                                 
  */
 
@@ -413,7 +419,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     // meta/JSON-LD URLs below need to stay fully-qualified per the OG/schema.org spec.
     $avatarUrlRelative = '/avatarsLarge/' . rawurlencode($slug) . '.webp';
     $avatarUrlAbsolute = BASE_URL . 'avatarsLarge/' . rawurlencode($slug) . '.webp';
-    $ogImageUrl = $canonical . 'og-image.png';
+    $ogImageUrl = $canonical . 'og-image.webp';
     // Desktop-only decorative background on the avatar/name row; omitted
     // entirely (no attribute) when the creator has no banner on disk. Passed
     // as a custom property (not the background-image property itself) so the
@@ -621,6 +627,27 @@ function cleanupDir(string $dir): void
     @rmdir($dir);
 }
 
+// Recursively removes everything inside $dir, leaving $dir itself in place.
+function deleteDirContents(string $dir): void
+{
+    $items = is_dir($dir) ? scandir($dir) : false;
+    if ($items === false) {
+        return;
+    }
+    foreach ($items as $item) {
+        if ($item === '.' || $item === '..') {
+            continue;
+        }
+        $path = $dir . '/' . $item;
+        if (is_dir($path) && !is_link($path)) {
+            deleteDirContents($path);
+            @rmdir($path);
+        } else {
+            @unlink($path);
+        }
+    }
+}
+
 function buildOgImage(array $creator, string $outPath): bool
 {
     $tmp = sys_get_temp_dir() . '/spicy-og-' . bin2hex(random_bytes(6));
@@ -782,7 +809,7 @@ function buildOgImage(array $creator, string $outPath): bool
     }
 
     if ($ok) {
-        $ok = copy($step, $outPath);
+        $ok = runCmd(sprintf('convert %s %s', escapeshellarg($step), escapeshellarg($outPath)));
     }
 
     cleanupDir($tmp);
@@ -813,6 +840,15 @@ function writeSitemap(array $slugs): void
 
 function main(array $argv): void
 {
+    if (in_array('--clean-c', $argv, true)) {
+        deleteDirContents(OUTPUT_DIR);
+        if (is_file(SNAPSHOT_PATH)) {
+            @unlink(SNAPSHOT_PATH);
+        }        
+        echo "Cleared all contents of " . OUTPUT_DIR . " (c/ folder itself kept).\n";
+        return;
+    }
+
     $limit = null;
     foreach ($argv as $arg) {
         if (preg_match('/^--limit=(\d+)$/', $arg, $matches)) {
@@ -882,21 +918,23 @@ function main(array $argv): void
             continue;
         }
 
-        $ogImagePath = "{$outDir}/og-image.png";
+        $ogImagePath = "{$outDir}/og-image.webp";
         // --force-html only redoes the HTML; leave an existing OG image alone
         // (still build one if it's missing, e.g. a brand-new creator).
         $skipOgImage = $forceHtml && is_file($ogImagePath);
         if (!$skipOgImage && !buildOgImage($creator, $ogImagePath)) {
-            fwrite(STDERR, "Failed to build og-image.png for {$slug}\n");
+            fwrite(STDERR, "Failed to build og-image.webp for {$slug}\n");
             $failed++;
             continue;
         }
 
         $snapshot[$slug] = ['entry' => $entry, 'generatedAt' => gmdate('c')];
         writeJson(SNAPSHOT_PATH, $snapshot);
-
+        
+        fwrite(STDOUT, "Regenerated: {$slug}\n");
         $regenerated++;
     }
+
 
     if (file_put_contents(INDEX_PATH, generateIndexHtml()) === false) {
         fwrite(STDERR, "Failed to write index.html\n");
