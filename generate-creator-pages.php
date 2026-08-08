@@ -28,10 +28,19 @@ declare(strict_types=1);
  * depend on any single creator's data).
  *
  * Usage:
- *   php generate-creator-pages.php           # incremental (default)
- *   php generate-creator-pages.php --force   # regenerate every creator's
- *                                             # HTML + OG image regardless
- *                                             # of the snapshot
+ *   php generate-creator-pages.php               # incremental (default)
+ *   php generate-creator-pages.php --force        # regenerate every
+ *                                                  # creator's HTML + OG
+ *                                                  # image regardless of
+ *                                                  # the snapshot
+ *   php generate-creator-pages.php --force-html   # same, but reuses each
+ *                                                  # creator's existing
+ *                                                  # og-image.png instead of
+ *                                                  # rebuilding it (only
+ *                                                  # built when missing) —
+ *                                                  # for template-only
+ *                                                  # changes, much faster
+ *                                                  # than a full --force
  */
 
 const BASE_URL = 'https://spicyvtubers.com/';
@@ -39,6 +48,7 @@ const ACCOUNTS_PATH = __DIR__ . '/accounts.json';
 const CREATORS_DIR = __DIR__ . '/creators';
 const IMAGES_DIR = __DIR__ . '/images';
 const AVATARS_DIR = __DIR__ . '/avatarsLarge';
+const BANNERS_DIR = __DIR__ . '/banners';
 const OUTPUT_DIR = __DIR__ . '/c';
 const INDEX_PATH = __DIR__ . '/index2.html';
 const SNAPSHOT_PATH = __DIR__ . '/generated-accounts.json';
@@ -144,6 +154,19 @@ function getOtherLinks(array $creator): array
         }
     }
     return $links;
+}
+
+// Mirrors script100.js's socialsIcon constant exactly, so server-rendered
+// creator pages and any future client-rendered rows stay visually identical.
+function socialsIconSvg(): string
+{
+    return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg>';
+}
+
+// Mirrors script100.js's externalLinkIcon constant.
+function externalLinkIconSvg(): string
+{
+    return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>';
 }
 
 function getChannelInfo(array $creator): ?array
@@ -371,6 +394,16 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $avatarUrlRelative = '/avatarsLarge/' . rawurlencode($slug) . '.webp';
     $avatarUrlAbsolute = BASE_URL . 'avatarsLarge/' . rawurlencode($slug) . '.webp';
     $ogImageUrl = $canonical . 'og-image.png';
+    // Desktop-only decorative background on the avatar/name row; omitted
+    // entirely (no attribute) when the creator has no banner on disk. Passed
+    // as a custom property (not the background-image property itself) so the
+    // mobile media query below — a plain stylesheet rule — can still turn it
+    // off; an inline background-image would always win over that.
+    $hasBanner = is_file(BANNERS_DIR . '/' . $slug . '.webp');
+    $profileHeadClass = 'creator-profile-head' . ($hasBanner ? ' has-banner' : '');
+    $profileHeadStyle = $hasBanner
+        ? ' style="--banner-image: url(\'/banners/' . rawurlencode($slug) . '.webp\')"'
+        : '';
 
     $channelInfo = getChannelInfo($creator);
     $spicePills = buildSpicePills($creator);
@@ -391,10 +424,10 @@ function renderCreatorHtml(array $creator, ?string $bio): string
 
     $bioHtml = $bio !== null ? '<div class="bio-content">' . htmlspecialchars($bio) . '</div>' : '';
     $channelLinkHtml = $channelInfo
-        ? '<a class="bio-channel-link" href="' . htmlspecialchars($channelInfo['href']) . '" target="_blank" rel="noopener noreferrer">' . htmlspecialchars($channelInfo['label']) . '</a>'
+        ? '<a class="bio-channel-link" href="' . htmlspecialchars($channelInfo['href']) . '" target="_blank" rel="noopener noreferrer">' . externalLinkIconSvg() . htmlspecialchars($channelInfo['label']) . '</a>'
         : '';
     $socialsLinkHtml = !empty($creator['socials'])
-        ? '<a class="bio-socials-link" href="' . htmlspecialchars($creator['socials']) . '" target="_blank" rel="noopener noreferrer">Socials</a>'
+        ? '<a class="bio-socials-link" href="' . htmlspecialchars($creator['socials']) . '" target="_blank" rel="noopener noreferrer">' . socialsIconSvg() . 'Socials</a>'
         : '';
     $head = renderHeadMeta($title, $description, $canonical, 'profile', $ogImageUrl, $ogImageUrl);
     $bootstrapHead = stylesheetTag();
@@ -425,7 +458,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
   <section class="creator-profile">
     <div class="creator-card">
       <div class="creator-profile-card">
-        <div class="creator-profile-head">
+        <div class="{$profileHeadClass}"{$profileHeadStyle}>
           <span class="avatar avatar-xl" data-initials="{$initials}">
             <img class="avatar-img is-loaded" src="{$avatarUrlRelative}" alt="" decoding="async">
           </span>
@@ -727,7 +760,8 @@ function writeSitemap(array $slugs): void
 
 function main(array $argv): void
 {
-    $force = in_array('--force', $argv, true);
+    $forceHtml = in_array('--force-html', $argv, true);
+    $force = $forceHtml || in_array('--force', $argv, true);
 
     $accounts = readJson(ACCOUNTS_PATH);
     if (!is_array($accounts)) {
@@ -784,7 +818,11 @@ function main(array $argv): void
             continue;
         }
 
-        if (!buildOgImage($creator, "{$outDir}/og-image.png")) {
+        $ogImagePath = "{$outDir}/og-image.png";
+        // --force-html only redoes the HTML; leave an existing OG image alone
+        // (still build one if it's missing, e.g. a brand-new creator).
+        $skipOgImage = $forceHtml && is_file($ogImagePath);
+        if (!$skipOgImage && !buildOgImage($creator, $ogImagePath)) {
             fwrite(STDERR, "Failed to build og-image.png for {$slug}\n");
             $failed++;
             continue;

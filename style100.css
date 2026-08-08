@@ -1332,9 +1332,51 @@ a {
 }
 
 .creator-profile-head {
+  position: relative;
   display: flex;
   align-items: center;
   gap: 1.25rem;
+}
+
+/* Desktop-only: the creator's banner (fixed 480px tall, variable width)
+   as the row's background, cover+center so varied source widths crop
+   sensibly instead of needing per-image tuning. Bleeds out to the card's
+   own edges (negative margin matching .creator-profile-card's padding)
+   so it reaches the shared .creator-card's rounded corners/overflow clip
+   instead of sitting in as a smaller inset rectangle. */
+.creator-profile-head.has-banner {
+  margin: -1.25rem -1.25rem 0;
+  padding: 1.75rem 1.25rem;
+  background-image: var(--banner-image);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Darkening gradient so the channel name stays legible over bright/busy
+   banners; heavier toward the bottom where the name sits. */
+.creator-profile-head.has-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(15, 10, 18, 0.25) 0%, rgba(15, 10, 18, 0.75) 100%);
+}
+
+.creator-profile-head.has-banner > * {
+  position: relative;
+}
+
+/* Ring in the card's own surface color so the avatar reads as a distinct
+   circle instead of blending into the banner behind it. */
+.creator-profile-head.has-banner .avatar-xl {
+  box-shadow: 0 0 0 4px var(--surface);
+}
+
+/* Dark outline behind the name so it stays legible even over a bright/white
+   banner, on top of the gradient overlay (which alone isn't enough near the
+   top of the row where the overlay is lightest). */
+.creator-profile-head.has-banner .channel-name {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.9), 0 0 8px rgba(0, 0, 0, 0.7), 0 0 2px rgba(0, 0, 0, 0.9);
 }
 
 .creator-profile .channel-name {
@@ -1400,6 +1442,26 @@ a {
 
   .creator-profile .channel-name {
     font-size: 1.2rem;
+  }
+
+  /* Banner background is desktop-only; undo the bleed/overlay/ring below
+     this breakpoint regardless of the has-banner class/inline style. */
+  .creator-profile-head.has-banner {
+    margin: 0;
+    padding: 0;
+    background-image: none;
+  }
+
+  .creator-profile-head.has-banner::before {
+    content: none;
+  }
+
+  .creator-profile-head.has-banner .avatar-xl {
+    box-shadow: none;
+  }
+
+  .creator-profile-head.has-banner .channel-name {
+    text-shadow: none;
   }
 }
 
