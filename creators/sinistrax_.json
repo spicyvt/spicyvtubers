@@ -1,0 +1,83 @@
+{
+    "bio": "Seiso gremlin that is bad at games! 🔞[ESP/ENVtuber]",
+    "twitch": {
+        "id": "668340677",
+        "login": "sinistrax_",
+        "displayName": "Sinistrax_",
+        "createdAt": "2021-03-29T01:25:11.034763Z",
+        "updatedAt": "2026-08-07T10:10:03.161946Z",
+        "description": "Seiso gremlin that is bad at games! 🔞[ESP/ENVtuber]  ",
+        "primaryColorHex": "8D13AE",
+        "followers": {
+            "totalCount": 41514
+        },
+        "follows": {
+            "totalCount": 529
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-07T12:13:41.891259Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/baba764d-068b-4aff-b1cb-9b52a714f34c-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a67d2ab4-79b7-4c80-9f76-40d27ee492be-profile_banner-480.png",
+        "fetchedAt": "2026-08-08T05:17:50Z"
+    },
+    "fansly": {
+        "id": "432038097128009728",
+        "username": "Ayumiipix",
+        "displayName": "Ayumii",
+        "version": 21,
+        "followCount": 3766,
+        "statusId": 3,
+        "accountMediaLikes": 317,
+        "postLikes": 1246,
+        "about": "Your local lewd gremlin is at your service.  \n\n✧Vtuber\n✧ Lewd voice acting\n✧Submissive just for money\n ✧Kink Friendly\n✧ASMR \n✧ Twitch | https://www.twitch.tv/ayumiipix\n✧ Wishlist | https://throne.com/ayumiipix\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "432038097128009728",
+            "channel": {
+                "id": "510185188408438784",
+                "accountId": "432038097128009728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.OPkCKHhkOYRA.m3u8",
+                "chatRoomId": "535559759512743937",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1683131987000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "510185188408438785",
+                    "historyId": "768903143621668864",
+                    "channelId": "510185188408438784",
+                    "accountId": "432038097128009728",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 44,
+                    "version": 9616,
+                    "createdAt": 1683131988000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1744817104000,
+                    "startedAt": 1744815155000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "633754288731992064",
+                                "streamId": "510185188408438785",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-08T05:17:51Z"
+    }
+}
