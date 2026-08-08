@@ -1,0 +1,83 @@
+{
+    "bio": "Degen, Gremlin, sometimes cozy. I play a wide variety of games. Mixed reality.  📧 Inquiries & VA opportunities: violetneko23@gmail.com",
+    "twitch": {
+        "id": "115764907",
+        "login": "thevioletneko",
+        "displayName": "TheVioletNeko",
+        "createdAt": "2016-02-13T22:20:56.372447Z",
+        "updatedAt": "2026-08-07T18:31:12.026471Z",
+        "description": "Degen, Gremlin, sometimes cozy. I play a wide variety of games. Mixed reality.  📧 Inquiries & VA opportunities: violetneko23@gmail.com ",
+        "primaryColorHex": "FF02AF",
+        "followers": {
+            "totalCount": 10657
+        },
+        "follows": {
+            "totalCount": 1264
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-07T05:52:35.978059Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2130414-9b72-4687-8d89-9e34b299282d-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d5b9d47-684f-4daf-8251-dbd71f78a583-profile_banner-480.png",
+        "fetchedAt": "2026-08-08T10:07:02Z"
+    },
+    "fansly": {
+        "id": "582429258572378112",
+        "username": "TheVioletNeko",
+        "displayName": null,
+        "version": 4,
+        "followCount": 577,
+        "statusId": 1,
+        "accountMediaLikes": 1189,
+        "postLikes": 1201,
+        "about": "Your horni, degen 😼girl ..\nFull time vtuber at twitch.tv/thevioletneko \n~ MIXED REALITY ~ (IRL lewds/Nudes Photos & Videos PLUS 😼girl lewds/nudes) \nExcited to try something new and naughty with you!\n- Lewd & Nude, Erotic 😼girl Art and VR\n- Lewd IRL Photos/Videos\n- NSFW Audio / Custom audio\n- Packages can be re-released at a later date for a discounted price, Customs can be released publicly unless you specify and pay an additional privacy fee\n#cosplay #anime #hentai #catgirl\n\n👑 https://throne.com/thevioletneko 👑",
+        "location": "Your Closet",
+        "streaming": {
+            "accountId": "582429258572378112",
+            "channel": {
+                "id": "805258021352521729",
+                "accountId": "582429258572378112",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.OfDJtNKbbKN2.m3u8",
+                "chatRoomId": "805258612581613568",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1753482833000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "805258021352521730",
+                    "historyId": "825565091343654912",
+                    "channelId": "805258021352521729",
+                    "accountId": "582429258572378112",
+                    "title": "Raising funds for my Japan trip! STRIP LEGO!!! ",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 6,
+                    "createdAt": 1753482833000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1758332859000,
+                    "startedAt": 1758324416000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "805258988663894016",
+                                "streamId": "805258021352521730",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-08T10:07:07Z"
+    }
+}

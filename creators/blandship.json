@@ -1,0 +1,83 @@
+{
+    "bio": "This is an account with Gaijin Verification, Uffas!! soy BlandShip un NekoEnder y me encantan los gameplays de casi todo tipo de juegos, en especial tanquesito",
+    "twitch": {
+        "id": "114675021",
+        "login": "blandship",
+        "displayName": "BlandShip",
+        "createdAt": "2016-02-03T00:19:42.315989Z",
+        "updatedAt": "2026-08-07T23:45:48.72559Z",
+        "description": "This is an account with Gaijin Verification, Uffas!! soy BlandShip un NekoEnder y me encantan los gameplays de casi todo tipo de juegos, en especial tanquesito",
+        "primaryColorHex": "7822CD",
+        "followers": {
+            "totalCount": 55105
+        },
+        "follows": {
+            "totalCount": 488
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-08T04:10:12.607185Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0ad3c72-e211-4f40-90b8-9afb99c751f3-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31a3a551-032d-4d25-b21e-e4cbd8bd9ef8-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-08T10:07:05Z"
+    },
+    "fansly": {
+        "id": "536902723749031936",
+        "username": "BlandShip",
+        "displayName": null,
+        "version": 4,
+        "followCount": 7294,
+        "statusId": 1,
+        "accountMediaLikes": 2909,
+        "postLikes": 2804,
+        "about": "Uffas! Hi there, I'm BlandShip, your real-life anime nekogirl waifu 💜 Welcome to my Fansly account! Let's see, about me... I'm a neko ender Vtuber who loves to get lewd in front of the camera for you guys >//< I'll be posting a lot of naughty content, so be sure to follow me to check it all out ;) It's free!",
+        "location": "",
+        "streaming": {
+            "accountId": "536902723749031936",
+            "channel": {
+                "id": "805684739980664832",
+                "accountId": "536902723749031936",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.luL8e9DEwfbG.m3u8",
+                "chatRoomId": "805719687177465856",
+                "status": 2,
+                "version": 68,
+                "createdAt": 1753584570000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "805684739980664833",
+                    "historyId": "942345831833411584",
+                    "channelId": "805684739980664832",
+                    "accountId": "536902723749031936",
+                    "title": "[EN/ESP] Come and get rid of the horny stuff with meVente a quitar lo Horny conmigo!Tipmenu !twitter",
+                    "status": 1,
+                    "viewerCount": 68,
+                    "version": 220,
+                    "createdAt": 1753584571000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786177085000,
+                    "startedAt": 1786167114000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "853951111214678016",
+                                "streamId": "805684739980664833",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-08T10:07:17Z"
+    }
+}
