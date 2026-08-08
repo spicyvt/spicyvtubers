@@ -55,8 +55,6 @@ const SNAPSHOT_PATH = __DIR__ . '/generated-accounts.json';
 const SITEMAP_PATH = __DIR__ . '/sitemap.xml';
 const OG_LOGO_PATH = __DIR__ . '/spicy_vtubers_logo.png';
 const OG_FONT = 'DejaVu-Sans-Bold';
-const OG_ACCENT = '#ff3d6e';
-const OG_ACCENT_2 = '#ff8a3d';
 const OG_BG = '#0f0a12';
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
@@ -612,36 +610,71 @@ function buildOgImage(array $creator, string $outPath): bool
     $step = "{$tmp}/00-canvas.png";
     $ok = $ok && runCmd(sprintf('convert -size 1200x630 xc:%s %s', escapeshellarg(OG_BG), escapeshellarg($step)));
 
-    // Full "Spicy VTubers" wordmark logo, top and centered.
+    // Full "Spicy VTubers" wordmark logo, vertically centered within the
+    // fixed header band above where the banner starts (previously a fixed
+    // logoY left it hugging the banner with a big gap above it instead).
     $logoBottom = 165;
     if ($ok && is_file(OG_LOGO_PATH)) {
         $logoResized = "{$tmp}/logo.png";
         $ok = $ok && runCmd(sprintf('convert %s -resize x110 %s', escapeshellarg(OG_LOGO_PATH), escapeshellarg($logoResized)));
         $logoW = $ok ? (int) trim((string) shell_exec('identify -format "%w" ' . escapeshellarg($logoResized))) : 0;
         $logoH = $ok ? (int) trim((string) shell_exec('identify -format "%h" ' . escapeshellarg($logoResized))) : 0;
-        $logoY = 55;
+        $logoY = intdiv($logoBottom - $logoH, 2);
         if ($ok) {
             $logoX = intdiv(1200 - $logoW, 2);
             $next = "{$tmp}/01.png";
             $ok = runCmd(sprintf('convert %s %s -geometry +%d+%d -composite %s', escapeshellarg($step), escapeshellarg($logoResized), $logoX, $logoY, escapeshellarg($next)));
             if ($ok) {
                 $step = $next;
-                $logoBottom = $logoY + $logoH;
+                // $logoBottom intentionally left as the fixed header height
+                // (not $logoY + $logoH) so the banner/avatar below still
+                // start at a consistent position regardless of the logo's
+                // own (now-centered) height.
             }
         }
     }
 
-    // Avatar (circle-masked, with a diagonal accent-gradient ring behind it for
-    // a bit of flare) + creator name, centered lower in the canvas now that
-    // there's no icon row at the bottom competing for space.
+    // Creator's banner (same source as the /c/{slug}/ page's desktop banner)
+    // filling everything below the logo, dimmed with a top-to-bottom dark
+    // gradient (mirrors the page's CSS overlay) so the avatar/name drawn on
+    // top of it stay legible regardless of the banner's own colors.
+    $bannerBoxH = 630 - $logoBottom;
+    $bannerPath = BANNERS_DIR . '/' . $creator['channelLower'] . '.webp';
+    if ($ok && is_file($bannerPath)) {
+        $bannerFit = "{$tmp}/banner-fit.png";
+        $ok = runCmd(sprintf(
+            'convert %s -resize %dx%d^ -gravity center -extent %dx%d %s',
+            escapeshellarg($bannerPath), 1200, $bannerBoxH, 1200, $bannerBoxH, escapeshellarg($bannerFit)
+        ));
+
+        $bannerOverlay = "{$tmp}/banner-overlay.png";
+        $ok = $ok && runCmd(sprintf(
+            'convert -size %dx%d gradient:%s-%s %s',
+            1200, $bannerBoxH, escapeshellarg('rgba(15,10,18,0.35)'), escapeshellarg('rgba(15,10,18,0.9)'), escapeshellarg($bannerOverlay)
+        ));
+
+        $bannerDimmed = "{$tmp}/banner-dimmed.png";
+        $ok = $ok && runCmd(sprintf('convert %s %s -composite %s', escapeshellarg($bannerFit), escapeshellarg($bannerOverlay), escapeshellarg($bannerDimmed)));
+
+        if ($ok) {
+            $next = "{$tmp}/01b.png";
+            $ok = runCmd(sprintf('convert %s %s -geometry +0+%d -composite %s', escapeshellarg($step), escapeshellarg($bannerDimmed), $logoBottom, escapeshellarg($next)));
+            if ($ok) {
+                $step = $next;
+            }
+        }
+    }
+
+    // Avatar (circle-masked, with a plain black ring behind it so it stands
+    // out from the banner) + creator name, centered lower in the canvas now
+    // that there's no icon row at the bottom competing for space.
     $avatarBottom = $logoBottom + 295;
     $avatarSrc = $ok ? findAvatarSource($creator) : null;
     if ($ok && $avatarSrc) {
         $size = 240;
         $radius = intdiv($size, 2);
-        $ringWidth = 10;
-        $ringSize = $size + $ringWidth * 2;
-        $ringRadius = intdiv($ringSize, 2);
+        $ringWidth = 5;
+        $ringRadius = $radius + $ringWidth;
 
         $square = "{$tmp}/avatar-square.png";
         $ok = runCmd(sprintf('convert %s -resize %dx%d^ -gravity center -extent %dx%d %s', escapeshellarg($avatarSrc), $size, $size, $size, $size, escapeshellarg($square)));
@@ -655,28 +688,20 @@ function buildOgImage(array $creator, string $outPath): bool
         $circle = "{$tmp}/avatar-circle.png";
         $ok = $ok && runCmd(sprintf('convert %s %s -alpha off -compose CopyOpacity -composite %s', escapeshellarg($square), escapeshellarg($mask), escapeshellarg($circle)));
 
-        // Diagonal gradient disc (rotated 45° and cropped back to size), then
-        // masked into a circle — the avatar sits on top of it, leaving a ring
-        // of gradient visible around the edge.
-        $ringGradient = "{$tmp}/ring-gradient.png";
-        $ok = $ok && runCmd(sprintf(
-            'convert -size %dx%d gradient:%s-%s -background none -rotate 135 -gravity center -extent %dx%d %s',
-            $ringSize, $ringSize, escapeshellarg(OG_ACCENT), escapeshellarg(OG_ACCENT_2), $ringSize, $ringSize, escapeshellarg($ringGradient)
-        ));
-
-        $ringMask = "{$tmp}/ring-mask.png";
-        $ok = $ok && runCmd(sprintf('convert -size %dx%d xc:none -fill white -draw %s %s', $ringSize, $ringSize, escapeshellarg("circle {$ringRadius},{$ringRadius} {$ringRadius},3"), escapeshellarg($ringMask)));
-
-        $ring = "{$tmp}/ring.png";
-        $ok = $ok && runCmd(sprintf('convert %s %s -alpha off -compose CopyOpacity -composite %s', escapeshellarg($ringGradient), escapeshellarg($ringMask), escapeshellarg($ring)));
-
         $avatarY = $logoBottom + 55;
         $avatarX = intdiv(1200 - $size, 2);
         if ($ok) {
-            $ringX = intdiv(1200 - $ringSize, 2);
-            $ringY = $avatarY - $ringWidth;
+            // Drawn straight onto the full canvas (plenty of margin from any
+            // edge), so no inset-for-anti-aliasing trick is needed here.
+            $ringCenterX = $avatarX + $radius;
+            $ringCenterY = $avatarY + $radius;
             $next = "{$tmp}/04a.png";
-            $ok = runCmd(sprintf('convert %s %s -geometry +%d+%d -composite %s', escapeshellarg($step), escapeshellarg($ring), $ringX, $ringY, escapeshellarg($next)));
+            $ok = runCmd(sprintf(
+                'convert %s -fill black -draw %s %s',
+                escapeshellarg($step),
+                escapeshellarg("circle {$ringCenterX},{$ringCenterY} {$ringCenterX}," . ($ringCenterY - $ringRadius)),
+                escapeshellarg($next)
+            ));
             if ($ok) {
                 $step = $next;
             }
@@ -702,15 +727,21 @@ function buildOgImage(array $creator, string $outPath): bool
         }
         $nameY = $avatarBottom + 40;
 
-        // Faint accent-colored glow behind the name, for a touch of flare.
-        $glow = "{$tmp}/name-glow.png";
+        // Dark shadow/outline behind the name (mirrors the creator page's CSS
+        // text-shadow: 4 diagonal offset copies softened with a blur) so it
+        // stays legible over the banner instead of a colored glow.
+        $shadow = "{$tmp}/name-shadow.png";
+        $strokeArgs = '';
+        foreach ([[-2, -2], [2, -2], [-2, 2], [2, 2]] as [$dx, $dy]) {
+            $strokeArgs .= sprintf(' -annotate %+d%+d %s', $dx, $nameY + $dy, escapeshellarg($nameText));
+        }
         $ok = runCmd(sprintf(
-            'convert -size 1200x630 xc:none -font %s -pointsize %d -fill %s -gravity North -annotate +0+%d %s -blur 0x3 -channel A -evaluate multiply 0.35 +channel %s',
-            escapeshellarg(OG_FONT), $namePointsize, escapeshellarg(OG_ACCENT), $nameY, escapeshellarg($nameText), escapeshellarg($glow)
+            'convert -size 1200x630 xc:none -font %s -pointsize %d -fill black -gravity North%s -blur 0x3 %s',
+            escapeshellarg(OG_FONT), $namePointsize, $strokeArgs, escapeshellarg($shadow)
         ));
         if ($ok) {
             $next = "{$tmp}/05a.png";
-            $ok = runCmd(sprintf('convert %s %s -composite %s', escapeshellarg($step), escapeshellarg($glow), escapeshellarg($next)));
+            $ok = runCmd(sprintf('convert %s %s -composite %s', escapeshellarg($step), escapeshellarg($shadow), escapeshellarg($next)));
             if ($ok) {
                 $step = $next;
             }
