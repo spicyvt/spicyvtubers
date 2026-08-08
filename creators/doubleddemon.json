@@ -1,0 +1,74 @@
+{
+    "bio": "Hey, sinner. I’m Demon—with the double D’s 😈 Variety streamer & chaos conjurer. I go live everyday, diving into wild games with wilder people. Expect mischief, madness, & maybe a little temptation. 18+ only. Come play… if you can handle the heat 🔥",
+    "twitch": {
+        "id": "941781915",
+        "login": "doubleddemon",
+        "displayName": "DoubleDDemon",
+        "createdAt": "2023-08-08T23:43:14.208415Z",
+        "updatedAt": "2026-08-07T04:45:23.085792Z",
+        "description": "Hey, sinner. I’m Demon—with the double D’s 😈 Variety streamer & chaos conjurer. I go live everyday, diving into wild games with wilder people. Expect mischief, madness, & maybe a little temptation. 18+ only. Come play… if you can handle the heat 🔥",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 836
+        },
+        "follows": {
+            "totalCount": 369
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-07T09:22:31.179707Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f18609b-18bd-498e-bd64-06d6b0acf831-profile_image-70x70.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8725e3ba-adbb-4019-9a16-26b3473df135-profile_banner-480.png",
+        "fetchedAt": "2026-08-08T00:03:59Z"
+    },
+    "fansly": {
+        "id": "824747143150460928",
+        "username": "DoubleDDemon",
+        "displayName": null,
+        "version": 2,
+        "followCount": 77,
+        "statusId": 1,
+        "accountMediaLikes": 27,
+        "postLikes": 21,
+        "about": "Hi, I’m Demon — your spicy VTuber voice actress, here to bring your fantasies to life. 🔥 I don’t just talk the talk… I become the voice in your head. Subscribe… if you dare. 😈",
+        "location": "",
+        "streaming": {
+            "accountId": "824747143150460928",
+            "channel": {
+                "id": "839024749693648897",
+                "accountId": "824747143150460928",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.T7szx6aVdDi0.m3u8",
+                "chatRoomId": "839024880543363072",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1761533448000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "839024749693648898",
+                    "historyId": "888337144496533504",
+                    "channelId": "839024749693648897",
+                    "accountId": "824747143150460928",
+                    "title": "V-Lover — Demon Attempts Romance",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 12,
+                    "createdAt": 1761533448000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1773297796000,
+                    "startedAt": 1773290439000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-08T00:04:00Z"
+    }
+}
