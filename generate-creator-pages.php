@@ -60,7 +60,7 @@ const OG_ACCENT_2 = '#ff8a3d';
 const OG_BG = '#0f0a12';
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style100.css';
+const STYLESHEET = 'style101.css';
 const SCRIPT = 'script100.js';
 
 // ---------------------------------- Data helpers ----------------------------------
