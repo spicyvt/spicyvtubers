@@ -41,6 +41,9 @@ declare(strict_types=1);
  *                                                  # for template-only
  *                                                  # changes, much faster
  *                                                  # than a full --force
+ * 
+ *   php generate-creator-pages.php --limit=N       # only process the first N creators (for testing)
+ *                                                 
  */
 
 const BASE_URL = 'https://spicyvtubers.com/';
@@ -58,7 +61,7 @@ const OG_FONT = 'DejaVu-Sans-Bold';
 const OG_BG = '#0f0a12';
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style102.css';
+const STYLESHEET = 'style103.css';
 const SCRIPT = 'script101.js';
 
 // ---------------------------------- Data helpers ----------------------------------
@@ -810,13 +813,24 @@ function writeSitemap(array $slugs): void
 
 function main(array $argv): void
 {
+    $limit = null;
+    foreach ($argv as $arg) {
+        if (preg_match('/^--limit=(\d+)$/', $arg, $matches)) {
+            $limit = (int) $matches[1];
+            break;
+        }
+    }
     $forceHtml = in_array('--force-html', $argv, true);
     $force = $forceHtml || in_array('--force', $argv, true);
+
 
     $accounts = readJson(ACCOUNTS_PATH);
     if (!is_array($accounts)) {
         fwrite(STDERR, "Failed to read accounts.json\n");
         exit(1);
+    }
+    if ($limit !== null) {
+        $accounts = array_slice($accounts, 0, $limit);
     }
 
     $snapshot = is_file(SNAPSHOT_PATH) ? readJson(SNAPSHOT_PATH) : [];
