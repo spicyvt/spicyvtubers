@@ -59,19 +59,33 @@ const OG_BG = '#0f0a12';
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
 const STYLESHEET = 'style101.css';
-const SCRIPT = 'script100.js';
+const SCRIPT = 'script101.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
 function spicePlatforms(): array
 {
     return [
-        ['key' => 'fansly', 'label' => 'Fansly', 'baseUrl' => 'https://fansly.com/', 'refKey' => 'fanslyRef'],
-        ['key' => 'onlyfans', 'label' => 'OnlyFans', 'baseUrl' => 'https://onlyfans.com/'],
-        ['key' => 'rplay', 'label' => 'Rplay', 'baseUrl' => 'https://rplay.live/c/', 'rootBaseUrl' => 'https://rplay.live/'],
-        ['key' => 'joystick', 'label' => 'joystick.tv', 'baseUrl' => 'https://joystick.tv/u/'],
-        ['key' => 'patreon', 'label' => 'Patreon', 'baseUrl' => 'https://www.patreon.com/'],
+        ['key' => 'fansly', 'label' => 'Fansly', 'baseUrl' => 'https://fansly.com/', 'refKey' => 'fanslyRef', 'icon' => '<img src="fansly.svg" alt="" aria-hidden="true">'],
+        ['key' => 'onlyfans', 'label' => 'OnlyFans', 'baseUrl' => 'https://onlyfans.com/', 'icon' => '<img src="onlyfans.svg" alt="" aria-hidden="true">'],
+        ['key' => 'rplay', 'label' => 'Rplay', 'baseUrl' => 'https://rplay.live/c/', 'rootBaseUrl' => 'https://rplay.live/', 'icon' => '<img src="rplay.svg" alt="" aria-hidden="true">'],
+        ['key' => 'joystick', 'label' => 'joystick.tv', 'baseUrl' => 'https://joystick.tv/u/', 'icon' => '<img src="joystick.svg" alt="" aria-hidden="true">'],
+        ['key' => 'patreon', 'label' => 'Patreon', 'baseUrl' => 'https://www.patreon.com/', 'icon' => '<svg viewBox="0 0 436 476" aria-hidden="true"><path fill="currentColor" d="M436 143c-.084-60.778-47.57-110.591-103.285-128.565C263.528-7.884 172.279-4.649 106.214 26.424 26.142 64.089.988 146.596.051 228.883c-.77 67.653 6.004 245.841 106.83 247.11 74.917.948 86.072-95.279 120.737-141.623 24.662-32.972 56.417-42.285 95.507-51.929C390.309 265.865 436.097 213.011 436 143Z"/></svg>'],
     ];
+}
+
+// Mirrors script100.js's renderPlatformFilter() output exactly. The platform
+// list never changes at runtime, so it's baked into index.html at generation
+// time instead of being (re)built by JS on every page load.
+function buildPlatformFilterHtml(): string
+{
+    $html = '<button type="button" class="platform-filter-btn is-active" data-platform="all" aria-pressed="true" aria-label="All"><span>All</span></button>';
+    foreach (spicePlatforms() as $platform) {
+        $html .= '<button type="button" class="platform-filter-btn" data-platform="' . htmlspecialchars($platform['key']) .
+            '" aria-pressed="false" aria-label="' . htmlspecialchars($platform['label']) . '">' .
+            $platform['icon'] . '<span>' . htmlspecialchars($platform['label']) . '</span></button>';
+    }
+    return $html;
 }
 
 function channelPlatforms(): array
@@ -487,6 +501,7 @@ function generateIndexHtml(): string
     $bootstrapBody = scriptBootstrap('initIndex');
     $header = renderSiteHeader('index');
     $footer = renderSiteFooter();
+    $platformFilterHtml = buildPlatformFilterHtml();
 
     return <<<HTML
 <!DOCTYPE html>
@@ -514,7 +529,7 @@ function generateIndexHtml(): string
       </button>
     </div>
     <div class="toolbar-row">
-      <div class="platform-filter" id="platform-filter" role="group" aria-label="Filter by platform"></div>
+      <div class="platform-filter" id="platform-filter" role="group" aria-label="Filter by platform">{$platformFilterHtml}</div>
       <p class="result-count" id="result-count" aria-live="polite">Loading creators…</p>
     </div>
   </section>
