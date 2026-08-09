@@ -1456,4 +1456,24 @@ a {
   .creator-profile .channel-name {
     font-size: 1.2rem;
   }
+
+  /* Banner background is desktop-only; undo the bleed/overlay/ring below
+     this breakpoint regardless of the has-banner class/inline style. */
+  .creator-profile-head.has-banner {
+    margin: 0;
+    padding: 0;
+    background-image: none;
+  }
+
+  .creator-profile-head.has-banner::before {
+    content: none;
+  }
+
+  .creator-profile-head.has-banner .avatar-xl {
+    box-shadow: none;
+  }
+
+  .creator-profile-head.has-banner .channel-name {
+    text-shadow: none;
+  }  
 }
