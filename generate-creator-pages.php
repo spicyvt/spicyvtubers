@@ -67,7 +67,7 @@ const OG_FONT = 'DejaVu-Sans-Bold';
 const OG_BG = '#0f0a12';
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style104.css';
+const STYLESHEET = 'style105.css';
 const SCRIPT = 'script104.js';
 
 // ---------------------------------- Data helpers ----------------------------------
