@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:23Z"
+    },
+    "twitter": {
+        "helofies": {
+            "id": "1688896197384110080",
+            "handle": "helofies",
+            "displayName": "helofie 🧪🦊",
+            "description": "Demon Fox Vtuber ~ Animator - Twitch Affiliate - Game Enjoyer ✨🔞 @lewdtoastr - 🎨 : https://t.co/WomQJU5qgA \n\npfp: @IvailetsI - banner: @Shaptartvt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2045162796548259840/5cFksgf6_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1688896197384110080/1776439793/1500x500",
+            "followersCount": 2715,
+            "followingCount": 2099,
+            "postsCount": 5711,
+            "accountCreatedAt": "2023-08-08T12:53:39.789Z",
+            "profileUrl": "https://x.com/helofies",
+            "fetchedAt": "2026-08-08T23:47:09Z"
+        },
+        "lewdtoastr": {
+            "id": "2014405365438312448",
+            "handle": "lewdtoastr",
+            "displayName": "toastie",
+            "description": "🔞 main : @helofies",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2053304312336384004/K52HKtlm_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2014405365438312448/1778380818/1500x500",
+            "followersCount": 141,
+            "followingCount": 20,
+            "postsCount": 30,
+            "accountCreatedAt": "2026-01-22T18:30:53.652Z",
+            "profileUrl": "https://x.com/lewdtoastr",
+            "fetchedAt": "2026-08-08T23:47:10Z"
+        }
     }
 }

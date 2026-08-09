@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:54Z"
+    },
+    "twitter": {
+        "sindervtuber": {
+            "id": "1335740087028617216",
+            "handle": "sindervtuber",
+            "displayName": "Sinder 🔥",
+            "description": "Hellhound Wolf VTuber 🐺\n | 🎨 #SinderDoodle | 🔞 #Sinderotica | \n\n@GamerSupps\nCode SINDER for 10% off!\n\n🔴 https://t.co/0ECideiVlP",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1978540648161513472/snge2n_W_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1335740087028617216/1655580172/1500x500",
+            "followersCount": 298445,
+            "followingCount": 529,
+            "postsCount": 14558,
+            "accountCreatedAt": "2020-12-07T00:17:18.532Z",
+            "profileUrl": "https://x.com/SinderVTuber",
+            "fetchedAt": "2026-08-08T23:52:29Z"
+        },
+        "sinderotica": {
+            "id": "1804237747567390720",
+            "handle": "sinderotica",
+            "displayName": "Sinder NSFW 🔥🔞",
+            "description": "Official NSFW account of @SinderVTuber 🔥\n🔞 #Sinderotica\n\n💙 https://t.co/k99qaNZfaJ",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1805595336670429184/TvcDD9hM_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1804237747567390720/1771515413/1500x500",
+            "followersCount": 73157,
+            "followingCount": 21,
+            "postsCount": 479,
+            "accountCreatedAt": "2024-06-21T19:41:21.606Z",
+            "profileUrl": "https://x.com/Sinderotica",
+            "fetchedAt": "2026-08-08T23:52:30Z"
+        }
     }
 }

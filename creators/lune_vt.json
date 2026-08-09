@@ -86,5 +86,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:16Z"
+    },
+    "twitter": {
+        "lunevt": {
+            "id": "1551611009340772357",
+            "handle": "lunevt",
+            "displayName": "๋LuneVT ⚝",
+            "description": "୧ LuneVT | Vtuber de Temu \nCreadora de Contenido   ♩  #LunevtArt #LunevtArtnsfw\n@LuneVTNSFW\n\nREDES | https://t.co/1BJvy3xKLw",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2067301322756378624/2WJKxo5A_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551611009340772357/1781718037/1500x500",
+            "followersCount": 1942,
+            "followingCount": 257,
+            "postsCount": 1200,
+            "accountCreatedAt": "2022-07-25T16:51:22.067Z",
+            "profileUrl": "https://x.com/Lunevt",
+            "fetchedAt": "2026-08-08T23:56:00Z"
+        },
+        "lunevtnsfw": {
+            "id": "2019178271972175872",
+            "handle": "lunevtnsfw",
+            "displayName": "🔞LuneVT🔞",
+            "description": "Cuenta Horny 🔞 de @lunevt ❤️\nhttps://t.co/KSjfOdZDny",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2066318232080777216/2W7YfxuC_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2019178271972175872/1781483658/1500x500",
+            "followersCount": 957,
+            "followingCount": 8,
+            "postsCount": 65,
+            "accountCreatedAt": "2026-02-04T22:36:40.602Z",
+            "profileUrl": "https://x.com/LuneVTNSFW",
+            "fetchedAt": "2026-08-08T23:56:02Z"
+        }
     }
 }

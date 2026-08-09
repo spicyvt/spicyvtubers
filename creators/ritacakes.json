@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:40Z"
+    },
+    "twitter": {
+        "ritaritavr": {
+            "id": "1845387489021657091",
+            "handle": "ritaritavr",
+            "displayName": "Rita🍓🍧(Candy-Coded)",
+            "description": "Heya! Candy-Coded VTuber 🍰\nCEO of OnlyGoons 💦\nTwitch/YouTube Partner🔴\nhttps://t.co/E7sBEpjOUB 💜\nFansly - https://t.co/wp1ZtFXsEN 💙",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2027483761172987904/STekOkNT_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1845387489021657091/1750325997/1500x500",
+            "followersCount": 2102,
+            "followingCount": 232,
+            "postsCount": 401,
+            "accountCreatedAt": "2024-10-13T08:54:09.173Z",
+            "profileUrl": "https://x.com/RitaRitaVR",
+            "fetchedAt": "2026-08-09T00:11:16Z"
+        },
+        "ritafeelsgood": {
+            "id": "1937849778211102721",
+            "handle": "ritafeelsgood",
+            "displayName": "Rita💜 (after dark)",
+            "description": "Main: @ritaritavr\nFun stuff: https://t.co/AusOClmKrd",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2049793283224686592/EpJyqocQ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1937849778211102721/1751874849/1500x500",
+            "followersCount": 4097,
+            "followingCount": 63,
+            "postsCount": 115,
+            "accountCreatedAt": "2025-06-25T12:26:17.223Z",
+            "profileUrl": "https://x.com/ritafeelsgood",
+            "fetchedAt": "2026-08-09T00:11:17Z"
+        }
     }
 }

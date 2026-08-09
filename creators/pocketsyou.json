@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:47Z"
+    },
+    "twitter": {
+        "pocketsyou": {
+            "id": "502129265",
+            "handle": "pocketsyou",
+            "displayName": "Pocket",
+            "description": "Baby- I'm a dog, I'm a mutt~\n(she/her)\nHopelessly gay.\n🌹🇵🇸",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2006877715668815872/LbPuJvL6_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/502129265/1767311858/1500x500",
+            "followersCount": 2001,
+            "followingCount": 1850,
+            "postsCount": 22217,
+            "accountCreatedAt": "2012-02-24T20:55:37.000Z",
+            "profileUrl": "https://x.com/PocketsYou",
+            "fetchedAt": "2026-08-09T00:01:47Z"
+        },
+        "outofpocket___": {
+            "id": "1712107590778535937",
+            "handle": "outofpocket___",
+            "displayName": "Pocket",
+            "description": "R-18+\nx o x o",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1716941354218274817/2ZWxkDo3_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1712107590778535937/1729657333/1500x500",
+            "followersCount": 1679,
+            "followingCount": 1989,
+            "postsCount": 537,
+            "accountCreatedAt": "2023-10-11T14:07:22.634Z",
+            "profileUrl": "https://x.com/OutOfPocket___",
+            "fetchedAt": "2026-08-09T00:01:48Z"
+        }
     }
 }

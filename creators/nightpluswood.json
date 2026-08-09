@@ -23,5 +23,35 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1821f476-a003-47f4-8e95-2636ab393b1e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50aa1820-fdbe-438a-8a7c-5ca6ba887cfe-profile_banner-480.png"
+    },
+    "twitter": {
+        "nightpluswood": {
+            "id": "1987621968385126400",
+            "handle": "nightpluswood",
+            "displayName": "NightPluswood ➕🪵",
+            "description": "Is everybody in? The ceremony is about to begin!\nThe very real talking tree!\nhttps://t.co/yLm1Qz2E3B\nArt tag #Pluswoodcuts",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2037177157655420928/2ooyAt5X_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1987621968385126400/1777385715/1500x500",
+            "followersCount": 108,
+            "followingCount": 351,
+            "postsCount": 629,
+            "accountCreatedAt": "2025-11-09T20:43:51.422Z",
+            "profileUrl": "https://x.com/NightPluswood",
+            "fetchedAt": "2026-08-09T00:15:32Z"
+        },
+        "nightmightywood": {
+            "id": "1987646066729353216",
+            "handle": "nightmightywood",
+            "displayName": "NightMightywood ➕🪵",
+            "description": "Shall I get in, everybody? Remove the comma. \nhttps://t.co/Tg9nDygcHo\n🔞Minors DNI, your time still has not come.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2037178661502148608/JQJz6AsQ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1987646066729353216/1777385866/1500x500",
+            "followersCount": 12,
+            "followingCount": 219,
+            "postsCount": 369,
+            "accountCreatedAt": "2025-11-09T22:19:27.275Z",
+            "profileUrl": "https://x.com/NightMightywood",
+            "fetchedAt": "2026-08-09T00:15:34Z"
+        }
     }
 }

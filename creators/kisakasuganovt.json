@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:03Z"
+    },
+    "twitter": {
+        "kasuganokisa": {
+            "id": "1400461962882928644",
+            "handle": "kasuganokisa",
+            "displayName": "Kisa Kasugano Vtuber",
+            "description": "Your tan tomboy Vtuber. Banner made by @pote0508 🔞\n \n📧 kisakasuganovt@gmail.com\nArt: #KisaKart\nNSFW: @KisaKlewd\n\nPowered by @ADVANCEDgg",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1400462398251618305/ldiH0-73_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1400461962882928644/1654198573/1500x500",
+            "followersCount": 5224,
+            "followingCount": 299,
+            "postsCount": 5536,
+            "accountCreatedAt": "2021-06-03T14:39:04.687Z",
+            "profileUrl": "https://x.com/KasuganoKisa",
+            "fetchedAt": "2026-08-09T00:04:09Z"
+        },
+        "kisaklewd": {
+            "id": "1699585265373675520",
+            "handle": "kisaklewd",
+            "displayName": "Kisa Kasugano",
+            "description": "@KasuganoKisa (follow, Like, RT on the main account.  #KisaKlewd | Spicy stuff: https://t.co/JshyExYeCE",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1859874128620060673/lBkvXgC1_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1699585265373675520/1694117861/1500x500",
+            "followersCount": 2012,
+            "followingCount": 233,
+            "postsCount": 1188,
+            "accountCreatedAt": "2023-09-07T00:48:13.561Z",
+            "profileUrl": "https://x.com/KisaKlewd",
+            "fetchedAt": "2026-08-09T00:04:10Z"
+        }
     }
 }

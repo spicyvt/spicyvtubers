@@ -79,5 +79,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-08T10:07:17Z"
+    },
+    "twitter": {
+        "blandship": {
+            "id": "1046170665131421697",
+            "handle": "blandship",
+            "displayName": "BlandShip 🍕",
+            "description": "✨Twitch Partner ✨\nArt: #BlandArt 🎨 | NSFW:  #Bland_horny\n\nContacto: blandship24@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1903959773189390336/GBrXn11K_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1046170665131421697/1690626473/1500x500",
+            "followersCount": 30021,
+            "followingCount": 386,
+            "postsCount": 3561,
+            "accountCreatedAt": "2018-09-29T22:51:38.311Z",
+            "profileUrl": "https://x.com/BlandShip",
+            "fetchedAt": "2026-08-09T00:22:39Z"
+        },
+        "blandshipnsfw": {
+            "id": "2010473937722077184",
+            "handle": "blandshipnsfw",
+            "displayName": "🔞BlandShipX🔞",
+            "description": "Cuenta Horny 💜🔞 de BlandShip para aumentarles la calentura",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2010474260502876160/7wzdO8k4_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2010473937722077184/1768179383/1500x500",
+            "followersCount": 1794,
+            "followingCount": 10,
+            "postsCount": 76,
+            "accountCreatedAt": "2026-01-11T22:08:49.585Z",
+            "profileUrl": "https://x.com/BlandShipNSFW",
+            "fetchedAt": "2026-08-09T00:22:41Z"
+        }
     }
 }

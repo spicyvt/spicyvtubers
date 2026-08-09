@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:01Z"
+    },
+    "twitter": {
+        "ghostlypiano": {
+            "id": null,
+            "handle": "ghostlypiano",
+            "displayName": "GhostlyPiano | うさぎ🔞",
+            "description": "local bunny brat 🐰 \n\nhttps://t.co/HBKw8atyJx",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2044134743235801090/RF3cTqXG_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1773512032953974784/1768501727/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2024-03-29T00:46:49.936Z",
+            "profileUrl": "https://x.com/GhostlyPiano",
+            "fetchedAt": "2026-08-09T00:16:36Z"
+        },
+        "ghostlypianist": {
+            "id": "740535430051831808",
+            "handle": "ghostlypianist",
+            "displayName": "GhostlyPianoVR",
+            "description": "Piano Bunny, post interests n' stuff\nhttps://t.co/5JQOdFT4AO",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2060426157447667712/XvhrsBd4_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/740535430051831808/1760509471/1500x500",
+            "followersCount": 165,
+            "followingCount": 95,
+            "postsCount": 51,
+            "accountCreatedAt": "2016-06-08T13:26:19.828Z",
+            "profileUrl": "https://x.com/GhostlyPianist",
+            "fetchedAt": "2026-08-09T00:16:38Z"
+        }
     }
 }

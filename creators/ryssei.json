@@ -70,5 +70,49 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-06T00:13:17Z"
+    },
+    "twitter": {
+        "aryssei": {
+            "id": "2071445601204776960",
+            "handle": "aryssei",
+            "displayName": "Ryssei ⛓️🐺💙",
+            "description": "🟣https://t.co/tzW4v0caHh\n\n💙🐺⛓️Hellhound Variety content creator⛓️🐺💙\n\n🎨|#Rysillusts",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2077105715047727104/qXoaThCW_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2071445601204776960/1782716228/1500x500",
+            "followersCount": 242,
+            "followingCount": 99,
+            "postsCount": 302,
+            "accountCreatedAt": "2026-06-29T04:09:24.935Z",
+            "profileUrl": "https://x.com/Aryssei",
+            "fetchedAt": "2026-08-09T00:21:34Z"
+        },
+        "rysseivt": {
+            "id": "1956475490765860865",
+            "handle": "rysseivt",
+            "displayName": "Ryssei",
+            "description": "ASMR account for @Aryssei 🔞@rysseinsfw  B:pr_ponnyan",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2060455811579891712/Vd5pk_fH_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1956475490765860865/1759530381/1500x500",
+            "followersCount": 1160,
+            "followingCount": 283,
+            "postsCount": 628,
+            "accountCreatedAt": "2025-08-15T21:58:10.215Z",
+            "profileUrl": "https://x.com/RysseiVT",
+            "fetchedAt": "2026-08-09T00:21:36Z"
+        },
+        "arysseinsfw": {
+            "id": "2038691471386189824",
+            "handle": "arysseinsfw",
+            "displayName": "Aryssei 🔞",
+            "description": "🔞#SpicyRys  🔗|https://t.co/deXWa370Gp ⇐ ᴀʟʟ ʟɪɴᴋꜱ + ᴄʀᴇᴅɪᴛ |",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2038692540900331520/UWO-AgVY_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2038691471386189824/1782168060/1500x500",
+            "followersCount": 95,
+            "followingCount": 13,
+            "postsCount": 57,
+            "accountCreatedAt": "2026-03-30T18:55:11.408Z",
+            "profileUrl": "https://x.com/Arysseinsfw",
+            "fetchedAt": "2026-08-09T00:21:37Z"
+        }
     }
 }

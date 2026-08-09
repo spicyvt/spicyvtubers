@@ -78,5 +78,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:37Z"
+    },
+    "twitter": {
+        "kanashi_noir": {
+            "id": "1228390899346006016",
+            "handle": "kanashi_noir",
+            "displayName": "Kanashi_Noir",
+            "description": "Comfy VRC Twitch streamer that's always looking to spread love kindness and comfy vibes be sure to check out my linktree to catch all my content",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085513881279983616/0ewKuTjp_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1228390899346006016/1786201551/1500x500",
+            "followersCount": 4160,
+            "followingCount": 997,
+            "postsCount": 2671,
+            "accountCreatedAt": "2020-02-14T18:50:01.311Z",
+            "profileUrl": "https://x.com/Kanashi_noir",
+            "fetchedAt": "2026-08-08T23:59:41Z"
+        }
     }
 }

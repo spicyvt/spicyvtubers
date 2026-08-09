@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:33Z"
+    },
+    "twitter": {
+        "chizuwhiz": {
+            "id": "2047111251575324672",
+            "handle": "chizuwhiz",
+            "displayName": "ChizuWhiz🧀🐮",
+            "description": "Cheesy Cow Chizu ready for some warm snuggles 🧀🐮\n Mama: @sukoyama_mk2\nhttps://t.co/vhU9iKe8NB\nTwitch | Youtube | Kick | Rplay Partner\n🌶️ @sussywhiz",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2080109358017638400/s5DvJJ4m_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2047111251575324672/1781107768/1500x500",
+            "followersCount": 2127,
+            "followingCount": 129,
+            "postsCount": 408,
+            "accountCreatedAt": "2026-04-23T00:32:27.266Z",
+            "profileUrl": "https://x.com/ChizuWhiz",
+            "fetchedAt": "2026-08-08T23:49:01Z"
+        },
+        "ruiasaka": {
+            "id": "2679065371",
+            "handle": "ruiasaka",
+            "displayName": "Rui",
+            "description": "Gremlin | Yapper | Vtuber \nthis is a yap account now!\n moved all vtuber content to @chizuwhiz !",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085051094145937408/1s4Jzghn_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2679065371/1785949894/1500x500",
+            "followersCount": 25314,
+            "followingCount": 1996,
+            "postsCount": 5999,
+            "accountCreatedAt": "2014-07-25T08:14:06.362Z",
+            "profileUrl": "https://x.com/RuiAsaka",
+            "fetchedAt": "2026-08-08T23:49:03Z"
+        }
     }
 }

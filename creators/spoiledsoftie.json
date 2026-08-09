@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:28Z"
+    },
+    "twitter": {
+        "spoiled_softie": {
+            "id": "1555320910483185664",
+            "handle": "spoiled_softie",
+            "displayName": "𑣲softie",
+            "description": "ㅤㅤ♡ spoiled slavic princess",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082787471255908352/OMYDX8DT_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1555320910483185664/1785410216/1500x500",
+            "followersCount": 167777,
+            "followingCount": 329,
+            "postsCount": 2624,
+            "accountCreatedAt": "2022-08-04T22:33:36.813Z",
+            "profileUrl": "https://x.com/spoiled_softie",
+            "fetchedAt": "2026-08-08T23:47:32Z"
+        },
+        "5oftie": {
+            "id": "1262301945324359680",
+            "handle": "5oftie",
+            "displayName": "𑣲",
+            "description": "wp you found me",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1930022987601760256/-wWAE5nQ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1262301945324359680/1753862584/1500x500",
+            "followersCount": 31084,
+            "followingCount": 42,
+            "postsCount": 983,
+            "accountCreatedAt": "2020-05-18T08:40:16.457Z",
+            "profileUrl": "https://x.com/5oftie",
+            "fetchedAt": "2026-08-08T23:47:34Z"
+        }
     }
 }

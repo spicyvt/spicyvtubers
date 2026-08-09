@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:12Z"
+    },
+    "twitter": {
+        "chainavt": {
+            "id": "1305983690988810240",
+            "handle": "chainavt",
+            "displayName": "ChainaVT",
+            "description": "|  Partner | Waifu(?) | Vtuber | \n• https://t.co/n1y7zjLEJt\n• Redes: https://t.co/QyaKy0vf1h\n• 🔞: @HornyChaina\n• Fanart: #ChainaArt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2015493274388025344/l0XLCkDi_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1305983690988810240/1740268365/1500x500",
+            "followersCount": 46862,
+            "followingCount": 1478,
+            "postsCount": 11446,
+            "accountCreatedAt": "2020-09-15T21:36:00.266Z",
+            "profileUrl": "https://x.com/ChainaVT",
+            "fetchedAt": "2026-08-09T00:18:19Z"
+        },
+        "hornychaina": {
+            "id": null,
+            "handle": "hornychaina",
+            "displayName": "Chaina 🔞",
+            "description": "|  VRC | +18 | Vtuber | \n• 🔞: https://t.co/fanGsMoOp9\n• Main Account: @chainavt\n• Redes: https://t.co/7IjiC1ZYvV",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2036246867504406530/X9ZoszbL_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2036246660595212288/1774315052/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2026-03-24T01:00:19.858Z",
+            "profileUrl": "https://x.com/HornyChaina",
+            "fetchedAt": "2026-08-09T00:18:20Z"
+        }
     }
 }

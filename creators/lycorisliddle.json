@@ -23,5 +23,35 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3590da8-5e8c-45e7-a36a-841eb332a105-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc436f35-1619-496d-802b-33a15fe9d1eb-profile_banner-480.png"
+    },
+    "twitter": {
+        "lycorisliddle": {
+            "id": "1971731296876449792",
+            "handle": "lycorisliddle",
+            "displayName": "Lycoris Liddle 🪙 🕯️",
+            "description": "I'll be your guiding light so long as you don't mind a little burn.\nArt + Rig Art: @minawananami\nConcept Art: @SquishyGhool\n🖍️: #iLILIstration 📛: #Aliddlelewd",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2076344080972324864/mZmbS9uy_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1971731296876449792/1783839333/1500x500",
+            "followersCount": 1362,
+            "followingCount": 62,
+            "postsCount": 134,
+            "accountCreatedAt": "2025-09-27T00:19:21.955Z",
+            "profileUrl": "https://x.com/LycorisLiddle",
+            "fetchedAt": "2026-08-09T00:21:24Z"
+        },
+        "liliddlensfw": {
+            "id": "2058767496228765696",
+            "handle": "liliddlensfw",
+            "displayName": "Li Li 🔞🪙🕯️",
+            "description": "silly account, silly daughter, silly times.\nHard Core Pumcon\n@LycorisLiddle ‘s Alt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2076371470951866368/myeWkUY9_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2058767496228765696/1783880521/1500x500",
+            "followersCount": 1107,
+            "followingCount": 4,
+            "postsCount": 192,
+            "accountCreatedAt": "2026-05-25T04:32:19.363Z",
+            "profileUrl": "https://x.com/LiLiddleNSFW",
+            "fetchedAt": "2026-08-09T00:21:25Z"
+        }
     }
 }

@@ -81,6 +81,20 @@ declare(strict_types=1);
  *   calls, and a FANSLY_SLEEP_SECONDS delay between Fansly batch calls.
  * - accounts.json is re-saved after every update so progress isn't lost
  *   if the run is interrupted.
+ *
+ * Twitter/X and Bluesky (added 2026-08-08): every account's "xHandles"
+ * (an array — a creator can have several X handles) and "bskyHandle"
+ * ([name, link], name is index 0 — a creator only ever has one) are also
+ * processed, scraping https://x.com/{handle} and https://bsky.app/profile/
+ * {name} directly (no API/auth). Unlike twitch/youtube, resolved-state is
+ * tracked per handle: creators/{login}.json's "twitter" key is an object
+ * keyed by each lowercased handle (since there can be several), while
+ * "bluesky" is a single object exactly like "twitch"/"youtube". Avatars
+ * are always saved 300x300 (cropped) now, to avatarsX/{handle}.webp and
+ * avatarsB/{name}.webp; banners are resized to a height of 500 (aspect
+ * preserved) to bannersX/{handle}.webp and bannersB/{name}.webp. The
+ * small 70x70 avatar variant was removed everywhere (twitch/youtube
+ * included) since nothing on the site displays it anymore.
  */
 
 // Platform types this script knows how to fetch; add 'kick' here once its
@@ -125,13 +139,16 @@ $accountsPath = __DIR__ . '/accounts.json';
 $dataJsonPath = __DIR__ . '/data.json';
 $imagesDir = __DIR__ . '/images';
 $creatorsDir = __DIR__ . '/creators';
-$avatarsDir = __DIR__ . '/avatars';
 $avatarsLargeDir = __DIR__ . '/avatarsLarge';
 $bannersDir = __DIR__ . '/banners';
+$avatarsXDir = __DIR__ . '/avatarsX';
+$bannersXDir = __DIR__ . '/bannersX';
+$avatarsBDir = __DIR__ . '/avatarsB';
+$bannersBDir = __DIR__ . '/bannersB';
 $chromeManifestPath = __DIR__ . '/extension/chrome/manifest.json';
 $firefoxManifestPath = __DIR__ . '/extension/firefox/manifest.json';
 
-foreach ([$imagesDir, $creatorsDir, $avatarsDir, $avatarsLargeDir, $bannersDir] as $dir) {
+foreach ([$imagesDir, $creatorsDir, $avatarsLargeDir, $bannersDir, $avatarsXDir, $bannersXDir, $avatarsBDir, $bannersBDir] as $dir) {
     if (!is_dir($dir) && !mkdir($dir, 0775, true) && !is_dir($dir)) {
         fwrite(STDERR, "Failed to create directory: {$dir}\n");
         exit(1);
@@ -240,14 +257,20 @@ function downloadTempImage(string $imagesDir, string $tempNameBase, ?string $url
 
 /**
  * Converts $sourcePath to WebP at $destPath via ImageMagick. If
- * $squareSize is given, the image is first cropped/resized to that
- * square size (used for Twitch's locally-resized 70x70 avatar).
+ * $squareSize is given, the image is cropped/resized to that exact
+ * square size (used for every avatar, now always 300). Otherwise, if
+ * $targetHeight is given, the image is resized to that height only,
+ * aspect ratio preserved, no cropping (used for X/Bluesky banners).
  */
-function convertToWebp(string $sourcePath, string $destPath, ?int $squareSize = null): bool
+function convertToWebp(string $sourcePath, string $destPath, ?int $squareSize = null, ?int $targetHeight = null): bool
 {
-    $resizeArgs = $squareSize !== null
-        ? sprintf('-resize %1$dx%1$d^ -gravity center -extent %1$dx%1$d', $squareSize)
-        : '';
+    if ($squareSize !== null) {
+        $resizeArgs = sprintf('-resize %1$dx%1$d^ -gravity center -extent %1$dx%1$d', $squareSize);
+    } elseif ($targetHeight !== null) {
+        $resizeArgs = sprintf('-resize x%d', $targetHeight);
+    } else {
+        $resizeArgs = '';
+    }
 
     $cmd = trim(sprintf('convert %s %s %s', escapeshellarg($sourcePath), $resizeArgs, escapeshellarg($destPath)));
     exec($cmd . ' 2>&1', $output, $exitCode);
@@ -261,74 +284,38 @@ function convertToWebp(string $sourcePath, string $destPath, ?int $squareSize = 
 }
 
 /**
- * Produces avatars/{$login}.webp (70x70) and avatarsLarge/{$login}.webp
- * (~300px) for a creator, skipping whichever of the two already exists on
- * disk unless $force is true (this also runs to backport existing entries
- * and must never re-download/reconvert an avatar that's already there,
- * except when forced). Twitch supplies only $largeUrl (a 300px source)
- * and is resized locally to 70x70; YouTube supplies both $largeUrl and
- * $smallUrl directly, each downloaded and converted independently since
- * resizing it ourselves isn't needed. Every temp file downloaded into
- * images/ is deleted once converted.
+ * Produces avatarsLarge/{$login}.webp, always cropped/resized to exactly
+ * 300x300, skipping if it already exists on disk unless $force is true
+ * (this also runs to backport existing entries and must never
+ * re-download/reconvert an avatar that's already there, except when
+ * forced). The temp file downloaded into images/ is deleted once
+ * converted.
  */
-function saveAvatarWebp(string $imagesDir, string $avatarsDir, string $avatarsLargeDir, string $login, string $type, ?string $largeUrl, ?string $smallUrl, bool $force = false): void
+function saveAvatarWebp(string $imagesDir, string $avatarsLargeDir, string $login, ?string $url, bool $force = false): void
 {
-    $smallDest = $avatarsDir . '/' . $login . '.webp';
-    $largeDest = $avatarsLargeDir . '/' . $login . '.webp';
-    $needLarge = $force || !is_file($largeDest);
-    $needSmall = $force || !is_file($smallDest);
+    if (!is_string($url) || $url === '') {
+        return;
+    }
 
-    if (!$needLarge && !$needSmall) {
+    $dest = $avatarsLargeDir . '/' . $login . '.webp';
+    if (!$force && is_file($dest)) {
         echo "  -> avatar already exists, skipping.\n";
         return;
     }
 
-    if ($type === 'twitch') {
-        if (!is_string($largeUrl) || $largeUrl === '') {
-            return;
-        }
-
-        $temp = downloadTempImage($imagesDir, $login . '_avatar_tmp', $largeUrl);
-        if ($temp === null) {
-            echo "  -> Failed to download profile image.\n";
-            return;
-        }
-
-        if ($needLarge && convertToWebp($temp, $largeDest)) {
-            echo "  -> Saved avatarsLarge/{$login}.webp\n";
-        }
-        if ($needSmall && convertToWebp($temp, $smallDest, 70)) {
-            echo "  -> Saved avatars/{$login}.webp\n";
-        }
-
-        @unlink($temp);
+    $temp = downloadTempImage($imagesDir, $login . '_avatar_tmp', $url);
+    if ($temp === null) {
+        echo "  -> Failed to download profile image.\n";
         return;
     }
 
-    // youtube: both sizes fetched directly, no local resize needed.
-    if ($needLarge && is_string($largeUrl) && $largeUrl !== '') {
-        $temp = downloadTempImage($imagesDir, $login . '_avatar_large_tmp', $largeUrl);
-        if ($temp === null) {
-            echo "  -> Failed to download profile (large) image.\n";
-        } else {
-            if (convertToWebp($temp, $largeDest)) {
-                echo "  -> Saved avatarsLarge/{$login}.webp\n";
-            }
-            @unlink($temp);
-        }
+    if (convertToWebp($temp, $dest, 300)) {
+        echo "  -> Saved avatarsLarge/{$login}.webp\n";
+    } else {
+        echo "  -> Failed to convert profile image.\n";
     }
 
-    if ($needSmall && is_string($smallUrl) && $smallUrl !== '') {
-        $temp = downloadTempImage($imagesDir, $login . '_avatar_small_tmp', $smallUrl);
-        if ($temp === null) {
-            echo "  -> Failed to download profile (small) image.\n";
-        } else {
-            if (convertToWebp($temp, $smallDest)) {
-                echo "  -> Saved avatars/{$login}.webp\n";
-            }
-            @unlink($temp);
-        }
-    }
+    @unlink($temp);
 }
 
 /**
@@ -358,6 +345,73 @@ function saveBannerWebp(string $imagesDir, string $bannersDir, string $login, ?s
 
     if (convertToWebp($temp, $dest)) {
         echo "  -> Saved banners/{$login}.webp\n";
+    } else {
+        echo "  -> Failed to convert banner image.\n";
+    }
+
+    @unlink($temp);
+}
+
+/**
+ * Downloads and converts an avatar to $destDir/{$key}.webp, cropped/resized
+ * to exactly 300x300 — used for X/Bluesky avatars, keyed by handle/name
+ * rather than the creator's own login (a creator can have several X
+ * handles, each with its own avatar). Skips if $dest already exists
+ * unless $force is true.
+ */
+function saveKeyedAvatarWebp(string $imagesDir, string $destDir, string $key, ?string $url, bool $force = false): void
+{
+    if (!is_string($url) || $url === '') {
+        return;
+    }
+
+    $dest = $destDir . '/' . $key . '.webp';
+    if (!$force && is_file($dest)) {
+        echo "  -> avatar already exists, skipping.\n";
+        return;
+    }
+
+    $temp = downloadTempImage($imagesDir, $key . '_avatar_tmp', $url);
+    if ($temp === null) {
+        echo "  -> Failed to download avatar image.\n";
+        return;
+    }
+
+    if (convertToWebp($temp, $dest, 300)) {
+        echo "  -> Saved {$dest}\n";
+    } else {
+        echo "  -> Failed to convert avatar image.\n";
+    }
+
+    @unlink($temp);
+}
+
+/**
+ * Downloads and converts a banner to $destDir/{$key}.webp, resized to a
+ * height of 500 (aspect ratio preserved, no cropping) — used for X/Bluesky
+ * banners, keyed by handle/name. Skips if $dest already exists unless
+ * $force is true.
+ */
+function saveKeyedBannerWebp(string $imagesDir, string $destDir, string $key, ?string $url, bool $force = false): void
+{
+    if (!is_string($url) || $url === '') {
+        return;
+    }
+
+    $dest = $destDir . '/' . $key . '.webp';
+    if (!$force && is_file($dest)) {
+        echo "  -> banner already exists, skipping.\n";
+        return;
+    }
+
+    $temp = downloadTempImage($imagesDir, $key . '_banner_tmp', $url);
+    if ($temp === null) {
+        echo "  -> Failed to download banner image.\n";
+        return;
+    }
+
+    if (convertToWebp($temp, $dest, null, 500)) {
+        echo "  -> Saved {$dest}\n";
     } else {
         echo "  -> Failed to convert banner image.\n";
     }
@@ -496,7 +550,6 @@ function fetchYoutubePlatformData(string $channel): ?array
 
     $description = is_string($channelMeta['description'] ?? null) ? $channelMeta['description'] : '';
     $profileImageUrl = resizeGoogleUserContentUrl($avatarUrl, 300);
-    $profileImageUrlSmall = resizeGoogleUserContentUrl($avatarUrl, 70);
     $bannerImageUrl = is_string($bannerUrl) && $bannerUrl !== '' ? resizeGoogleUserContentUrl($bannerUrl, 480) : null;
 
     return [
@@ -504,7 +557,6 @@ function fetchYoutubePlatformData(string $channel): ?array
         'displayName' => is_string($channelMeta['title'] ?? null) ? $channelMeta['title'] : null,
         'description' => $description,
         'profileImageUrl' => $profileImageUrl,
-        'profileImageUrlSmall' => $profileImageUrlSmall,
         'bannerImageUrl' => $bannerImageUrl,
         'platformData' => [
             'id' => $channelId,
@@ -514,12 +566,310 @@ function fetchYoutubePlatformData(string $channel): ?array
             'channelUrl' => $channelMeta['channelUrl'] ?? null,
             'keywords' => $channelMeta['keywords'] ?? null,
             'profileImageUrl' => $profileImageUrl,
-            'profileImageUrlSmall' => $profileImageUrlSmall,
             'bannerImageUrl' => $bannerImageUrl,
             'subscriberCountText' => is_string($subscriberCountText) ? $subscriberCountText : null,
             'videoCountText' => is_string($videoCountText) ? $videoCountText : null,
         ],
     ];
+}
+
+/**
+ * Plain GET request with a browser User-Agent, returning the response
+ * body, or null on any curl/network/non-200 failure.
+ */
+function curlGet(string $url, array $headers = []): ?string
+{
+    $ch = curl_init($url);
+    if ($ch === false) {
+        return null;
+    }
+
+    curl_setopt_array($ch, [
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_TIMEOUT => 30,
+        CURLOPT_CONNECTTIMEOUT => 10,
+        CURLOPT_HTTPHEADER => array_merge([
+            'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36',
+            'Accept-Language: en-US,en;q=0.9',
+        ], $headers),
+    ]);
+
+    $body = curl_exec($ch);
+    $statusCode = (int) curl_getinfo($ch, CURLINFO_RESPONSE_CODE);
+    curl_close($ch);
+
+    return ($body !== false && $statusCode === 200) ? $body : null;
+}
+
+/**
+ * Parses $html into a DOMDocument, forcing UTF-8 (loadHTML() otherwise
+ * misreads non-ASCII text without an explicit encoding hint) and
+ * suppressing libxml's warnings about the page's non-standard markup.
+ */
+function parseHtmlDom(string $html): DOMDocument
+{
+    $dom = new DOMDocument();
+    $internalErrors = libxml_use_internal_errors(true);
+    $dom->loadHTML('<?xml encoding="UTF-8">' . $html, LIBXML_NOWARNING | LIBXML_NOERROR);
+    libxml_clear_errors();
+    libxml_use_internal_errors($internalErrors);
+
+    return $dom;
+}
+
+/** First matching node's value for an XPath query, or null if none match. */
+function domFirst(DOMXPath $xpath, string $query, ?DOMNode $context = null): ?string
+{
+    $nodes = $context !== null ? $xpath->query($query, $context) : $xpath->query($query);
+
+    return ($nodes !== false && $nodes->length > 0) ? $nodes->item(0)->nodeValue : null;
+}
+
+/**
+ * Picks the highest-resolution URL out of an `imageSrcSet`-style string
+ * ("url1 600w, url2 1080w, url3 1500w"), e.g. an X profile banner's
+ * preload link, which always lists several sizes and never the largest
+ * first.
+ */
+function largestSrcsetUrl(string $srcset): ?string
+{
+    $best = null;
+    $bestWidth = -1;
+
+    foreach (explode(',', $srcset) as $candidate) {
+        if (!preg_match('/^(\S+)\s+(\d+)w$/', trim($candidate), $m)) {
+            continue;
+        }
+        $width = (int) $m[2];
+        if ($width > $bestWidth) {
+            $bestWidth = $width;
+            $best = $m[1];
+        }
+    }
+
+    return $best;
+}
+
+/**
+ * Scrapes an X/Twitter profile page (https://x.com/{handle}) for its
+ * server-rendered schema.org ProfilePage microdata. Only profile-level
+ * data is extracted (avatar, banner, bio, id, follower/following/post
+ * counts, account creation date) — the page also embeds this same
+ * itemProp="author" block for every tweet/repost shown, including other
+ * users', so the first one whose alternateName matches $handle is used
+ * (that's the profile owner's own block); post/tweet content itself is
+ * never read. Returns null if the page couldn't be fetched or no avatar
+ * preload link was found (a sign X served an error/login page instead).
+ */
+function fetchTwitterPlatformData(string $handle): ?array
+{
+    $url = 'https://x.com/' . rawurlencode($handle);
+    $html = curlGet($url);
+    if ($html === null) {
+        return null;
+    }
+
+    $dom = parseHtmlDom($html);
+    $xpath = new DOMXPath($dom);
+
+    $avatarUrl = domFirst($xpath, '(//link[@rel="preload"][@as="image"][contains(@href,"profile_images")]/@href)[1]');
+    $bannerSrcset = domFirst($xpath, '(//link[@rel="preload"][@as="image"][@imagesrcset])[1]/@imagesrcset');
+    $bannerUrl = $bannerSrcset !== null ? largestSrcsetUrl($bannerSrcset) : null;
+    $description = domFirst($xpath, '(//meta[@name="description"]/@content)[1]');
+    $dateCreated = domFirst($xpath, '(//meta[@itemprop="dateCreated"]/@content)[1]');
+    $profileUrl = domFirst($xpath, '(//meta[@itemprop="url"]/@content)[1]');
+
+    $displayName = null;
+    $titleText = domFirst($xpath, '(//title)[1]');
+    if ($titleText !== null && preg_match('/^(.*)\s\(@[^)]+\)/u', trim($titleText), $m)) {
+        $displayName = trim($m[1]);
+    }
+
+    $handleLower = strtolower($handle);
+    $authorNode = null;
+    foreach ($xpath->query('//div[@itemprop="author"]') as $node) {
+        $altName = domFirst($xpath, './/meta[@itemprop="alternateName"]/@content', $node);
+        if ($altName !== null && strtolower(ltrim($altName, '@')) === $handleLower) {
+            $authorNode = $node;
+            break;
+        }
+    }
+
+    $identifier = null;
+    $followersCount = null;
+    $followingCount = null;
+    $postsCount = null;
+
+    if ($authorNode !== null) {
+        $identifier = domFirst($xpath, './/meta[@itemprop="identifier"]/@content', $authorNode);
+        $displayName = domFirst($xpath, './/meta[@itemprop="name"]/@content', $authorNode) ?? $displayName;
+        $avatarUrl = $avatarUrl ?? domFirst($xpath, './/meta[@itemprop="image"]/@content', $authorNode);
+
+        $stats = [];
+        foreach ($xpath->query('.//div[@itemprop="agentInteractionStatistic"] | .//div[@itemprop="interactionStatistic"]', $authorNode) as $statNode) {
+            $name = domFirst($xpath, './/meta[@itemprop="name"]/@content', $statNode);
+            $count = domFirst($xpath, './/meta[@itemprop="userInteractionCount"]/@content', $statNode);
+            if ($name !== null && $count !== null) {
+                $stats[$name] = (int) $count;
+            }
+        }
+        $postsCount = $stats['Tweets'] ?? null;
+        $followingCount = $stats['Following'] ?? null;
+        $followersCount = $stats['Follows'] ?? null;
+    }
+
+    if (!is_string($avatarUrl) || $avatarUrl === '') {
+        return null;
+    }
+
+    return [
+        'profileImageUrl' => $avatarUrl,
+        'bannerImageUrl' => $bannerUrl,
+        'platformData' => [
+            'id' => $identifier,
+            'handle' => $handleLower,
+            'displayName' => $displayName,
+            'description' => $description ?? '',
+            'profileImageUrl' => $avatarUrl,
+            'bannerImageUrl' => $bannerUrl,
+            'followersCount' => $followersCount,
+            'followingCount' => $followingCount,
+            'postsCount' => $postsCount,
+            'accountCreatedAt' => $dateCreated,
+            'profileUrl' => $profileUrl ?? $url,
+        ],
+    ];
+}
+
+/**
+ * Scrapes a Bluesky profile page (https://bsky.app/profile/{name}) for
+ * its embedded `application/ld+json` schema.org ProfilePage script, which
+ * (unlike X) cleanly contains everything needed in valid JSON — no HTML
+ * parsing required. `hasPart` (the user's own posts) is present in that
+ * JSON but deliberately never read, per the profile-only scope here.
+ * Returns null if the page couldn't be fetched or the JSON-LD block / its
+ * avatar image is missing.
+ */
+function fetchBlueskyPlatformData(string $name): ?array
+{
+    $url = 'https://bsky.app/profile/' . rawurlencode($name);
+    $html = curlGet($url);
+    if ($html === null) {
+        return null;
+    }
+
+    if (!preg_match('#<script type="application/ld\+json">(.*?)</script>#s', $html, $ldMatch)) {
+        return null;
+    }
+    $ld = json_decode($ldMatch[1], true);
+    $mainEntity = is_array($ld['mainEntity'] ?? null) ? $ld['mainEntity'] : null;
+    if ($mainEntity === null) {
+        return null;
+    }
+
+    $avatarUrl = $mainEntity['image'] ?? null;
+    if (!is_string($avatarUrl) || $avatarUrl === '') {
+        return null;
+    }
+
+    $bannerUrl = null;
+    if (preg_match('#<meta property="og:image" content="([^"]+)"#', $html, $bannerMatch)) {
+        $bannerUrl = html_entity_decode($bannerMatch[1], ENT_QUOTES);
+    }
+
+    $followersCount = null;
+    foreach ((array) ($mainEntity['interactionStatistic'] ?? []) as $stat) {
+        if (($stat['interactionType'] ?? null) === 'https://schema.org/FollowAction') {
+            $followersCount = (int) ($stat['userInteractionCount'] ?? 0);
+            break;
+        }
+    }
+
+    $followingCount = null;
+    $postsCount = null;
+    foreach ((array) ($mainEntity['agentInteractionStatistic'] ?? []) as $stat) {
+        $type = $stat['interactionType'] ?? null;
+        if ($type === 'https://schema.org/FollowAction') {
+            $followingCount = (int) ($stat['userInteractionCount'] ?? 0);
+        } elseif ($type === 'https://schema.org/WriteAction') {
+            $postsCount = (int) ($stat['userInteractionCount'] ?? 0);
+        }
+    }
+
+    return [
+        'profileImageUrl' => $avatarUrl,
+        'bannerImageUrl' => $bannerUrl,
+        'platformData' => [
+            'did' => $mainEntity['identifier'] ?? null,
+            'handle' => strtolower(ltrim((string) ($mainEntity['alternateName'] ?? $name), '@')),
+            'displayName' => $mainEntity['name'] ?? null,
+            'description' => $mainEntity['description'] ?? '',
+            'profileImageUrl' => $avatarUrl,
+            'bannerImageUrl' => $bannerUrl,
+            'followersCount' => $followersCount,
+            'followingCount' => $followingCount,
+            'postsCount' => $postsCount,
+            'accountCreatedAt' => $ld['dateCreated'] ?? null,
+            'profileUrl' => $url,
+        ],
+    ];
+}
+
+/**
+ * True if creators/{creatorName}.json already has a non-empty value at
+ * the nested path $keyPath (e.g. ['bluesky'] or ['twitter', 'somehandle']).
+ */
+function creatorHasPlatformSubkeyData(string $creatorsDir, string $creatorName, array $keyPath): bool
+{
+    $value = loadCreatorData($creatorsDir, $creatorName);
+    foreach ($keyPath as $segment) {
+        if (!is_array($value) || !array_key_exists($segment, $value)) {
+            return false;
+        }
+        $value = $value[$segment];
+    }
+
+    return !empty($value);
+}
+
+/**
+ * Merges $platformData into creators/{creatorName}.json at the nested
+ * path $keyPath (creating intermediate arrays as needed), plus our own
+ * "fetchedAt" timestamp, unless that path is already set (unless $force).
+ * Every other field already on disk is preserved. Returns true on
+ * success, or null on failure.
+ */
+function saveCreatorPlatformSubkeyData(string $creatorsDir, string $creatorName, array $keyPath, array $platformData, bool $force = false): ?bool
+{
+    if ($creatorName === '' || $keyPath === []) {
+        return null;
+    }
+
+    $creatorFile = $creatorsDir . '/' . $creatorName . '.json';
+    $creatorData = loadCreatorData($creatorsDir, $creatorName);
+
+    $ref = &$creatorData;
+    foreach (array_slice($keyPath, 0, -1) as $segment) {
+        if (!isset($ref[$segment]) || !is_array($ref[$segment])) {
+            $ref[$segment] = [];
+        }
+        $ref = &$ref[$segment];
+    }
+    $lastKey = end($keyPath);
+
+    if ($force || empty($ref[$lastKey])) {
+        $platformData['fetchedAt'] = gmdate('Y-m-d\TH:i:s\Z');
+        $ref[$lastKey] = $platformData;
+    }
+    unset($ref);
+
+    $written = file_put_contents(
+        $creatorFile,
+        json_encode($creatorData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . "\n"
+    );
+
+    return $written === false ? null : true;
 }
 
 /**
@@ -637,13 +987,8 @@ function saveFanslyCreatorData(string $creatorsDir, string $creatorName, array $
  *   creatorName          string  canonical handle; names creators/{name}.json
  *   displayName          ?string updates accounts.json's "channel"
  *   description          string  stored as creators/{name}.json's "bio"
- *   profileImageUrl      ?string ~300px avatar; converted to
- *                                avatarsLarge/{channel}.webp, and (Twitch
- *                                only) locally resized to 70x70 for
- *                                avatars/{channel}.webp
- *   profileImageUrlSmall ?string 70x70 avatar (YouTube only; Twitch has no
- *                                separate small URL, see above); converted
- *                                to avatars/{channel}.webp
+ *   profileImageUrl      ?string avatar; converted (cropped) to a 300x300
+ *                                avatarsLarge/{channel}.webp
  *   bannerImageUrl       ?string converted to banners/{channel}.webp
  *   platformData         array   every field the fetch returned, stored
  *                                under creators/{name}.json's "{$type}" key
@@ -967,7 +1312,7 @@ foreach ($accounts as $index => &$account) {
         continue;
     }
 
-    saveAvatarWebp($imagesDir, $avatarsDir, $avatarsLargeDir, $login, $type, $result['profileImageUrl'] ?? null, $result['profileImageUrlSmall'] ?? null, $force);
+    saveAvatarWebp($imagesDir, $avatarsLargeDir, $login, $result['profileImageUrl'] ?? null, $force);
     saveBannerWebp($imagesDir, $bannersDir, $login, $result['bannerImageUrl'] ?? null, $force);
 
     $changed = false;
@@ -1029,6 +1374,126 @@ writeDataJson(
 
 echo "========================================\n";
 echo "Done. Updated: {$updated}, skipped (complete): {$skippedComplete}, skipped (no channel): {$skippedNoChannel}, skipped (other type): {$skippedOtherType}, failed: {$failed}\n";
+
+// creators/{login}.json's "twitter" key is keyed by each lowercased handle
+// (a creator can have several xHandles), so resolved-state is checked per
+// handle rather than once per creator like twitch/youtube/fansly.
+$twitterRequests = [];
+foreach ($accounts as $account) {
+    $channel = trim((string) ($account['channel'] ?? ''));
+    if ($channel === '') {
+        continue;
+    }
+    $login = strtolower($channel);
+    foreach ((array) ($account['xHandles'] ?? []) as $xHandle) {
+        $xHandle = trim((string) $xHandle);
+        if ($xHandle === '') {
+            continue;
+        }
+        if (!$force && creatorHasPlatformSubkeyData($creatorsDir, $login, ['twitter', strtolower($xHandle)])) {
+            continue;
+        }
+        $twitterRequests[] = ['login' => $login, 'handle' => $xHandle];
+    }
+}
+
+$twitterTotal = count($twitterRequests);
+$twitterUpdated = 0;
+$twitterFailed = 0;
+
+echo "========================================\n";
+echo "Fetching Twitter/X data for {$twitterTotal} handles...\n";
+
+foreach ($twitterRequests as $i => $request) {
+    $position = $i + 1;
+    echo "[{$position}/{$twitterTotal}] Fetching (twitter): {$request['handle']}\n";
+
+    $result = fetchTwitterPlatformData($request['handle']);
+    if ($result === null) {
+        echo "  -> No user data returned, skipping.\n";
+        $twitterFailed++;
+        sleep(1);
+        continue;
+    }
+
+    $handleLower = strtolower($request['handle']);
+    saveKeyedAvatarWebp($imagesDir, $avatarsXDir, $handleLower, $result['profileImageUrl'] ?? null, $force);
+    saveKeyedBannerWebp($imagesDir, $bannersXDir, $handleLower, $result['bannerImageUrl'] ?? null, $force);
+
+    $platformData = is_array($result['platformData'] ?? null) ? $result['platformData'] : [];
+    $saved = saveCreatorPlatformSubkeyData($creatorsDir, $request['login'], ['twitter', $handleLower], $platformData, $force);
+
+    if ($saved === true) {
+        $twitterUpdated++;
+        echo "  -> Saved creator data: creators/{$request['login']}.json (twitter->{$handleLower})\n";
+    } else {
+        $twitterFailed++;
+        echo "  -> Failed to save creator data.\n";
+    }
+
+    sleep(1);
+}
+
+echo "========================================\n";
+echo "Done. Twitter updated: {$twitterUpdated}, failed: {$twitterFailed}\n";
+
+// bskyHandle is [name, link]; only one per creator, so "bluesky" is a
+// single top-level key exactly like "twitch"/"youtube"/"fansly".
+$blueskyRequests = [];
+foreach ($accounts as $account) {
+    $channel = trim((string) ($account['channel'] ?? ''));
+    $bskyHandle = $account['bskyHandle'] ?? null;
+    $bskyName = is_array($bskyHandle) ? trim((string) ($bskyHandle[0] ?? '')) : '';
+    $bskyPath = is_array($bskyHandle) ? trim((string) ($bskyHandle[1] ?? '')) : '';
+    if ($channel === '' || $bskyName === '') {
+        continue;
+    }
+    $login = strtolower($channel);
+    if (!$force && creatorHasPlatformSubkeyData($creatorsDir, $login, ['bluesky'])) {
+        continue;
+    }
+    $blueskyRequests[] = ['login' => $login, 'name' => $bskyName, 'path' => $bskyPath];
+}
+
+$blueskyTotal = count($blueskyRequests);
+$blueskyUpdated = 0;
+$blueskyFailed = 0;
+
+echo "========================================\n";
+echo "Fetching Bluesky data for {$blueskyTotal} accounts...\n";
+
+foreach ($blueskyRequests as $i => $request) {
+    $position = $i + 1;
+    echo "[{$position}/{$blueskyTotal}] Fetching (bluesky): {$request['name']} ({$request['path']})\n";
+
+    $result = fetchBlueskyPlatformData($request['path']);
+    if ($result === null) {
+        echo "  -> No user data returned, skipping.\n";
+        $blueskyFailed++;
+        sleep(1);
+        continue;
+    }
+
+    $nameLower = strtolower($request['name']);
+    saveKeyedAvatarWebp($imagesDir, $avatarsBDir, $nameLower, $result['profileImageUrl'] ?? null, $force);
+    saveKeyedBannerWebp($imagesDir, $bannersBDir, $nameLower, $result['bannerImageUrl'] ?? null, $force);
+
+    $platformData = is_array($result['platformData'] ?? null) ? $result['platformData'] : [];
+    $saved = saveCreatorPlatformSubkeyData($creatorsDir, $request['login'], ['bluesky'], $platformData, $force);
+
+    if ($saved === true) {
+        $blueskyUpdated++;
+        echo "  -> Saved creator data: creators/{$request['login']}.json (bluesky)\n";
+    } else {
+        $blueskyFailed++;
+        echo "  -> Failed to save creator data.\n";
+    }
+
+    sleep(1);
+}
+
+echo "========================================\n";
+echo "Done. Bluesky updated: {$blueskyUpdated}, failed: {$blueskyFailed}\n";
 
 // Like twitch/youtube, creators/{login}.json already having a "fansly"
 // key marks this entry resolved and skips it, batched FANSLY_BATCH_SIZE

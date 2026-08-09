@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:26Z"
+    },
+    "twitter": {
+        "kodeshinju": {
+            "id": "4842646503",
+            "handle": "kodeshinju",
+            "displayName": "Kode Shinju 🦊🗡️",
+            "description": "reality-travelling kitsune | your kitsu boyfriend | twitch pride guild \n\n 現実旅するキツネちゃん🦊 | 君のキツネ彼氏♡| 🔞 @kitsuthots | https://t.co/cm44uaD2jG",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2003027772310999040/sVUSSeSp_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/4842646503/1748100990/1500x500",
+            "followersCount": 1509,
+            "followingCount": 420,
+            "postsCount": 1768,
+            "accountCreatedAt": "2016-01-24T17:42:13.923Z",
+            "profileUrl": "https://x.com/KodeShinju",
+            "fetchedAt": "2026-08-08T23:58:16Z"
+        },
+        "kitsuthots": {
+            "id": "1728585749539291136",
+            "handle": "kitsuthots",
+            "displayName": "🔞kode",
+            "description": "26 || femboy (male) || nsfw audio creator || mdni | #kitsuthots || gay || open for audio collabs || vtuber acc: @KodeShinju",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1987114788195868672/JQrPX5k__400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1728585749539291136/1711501519/1500x500",
+            "followersCount": 10554,
+            "followingCount": 120,
+            "postsCount": 479,
+            "accountCreatedAt": "2023-11-26T01:25:43.482Z",
+            "profileUrl": "https://x.com/kitsuthots",
+            "fetchedAt": "2026-08-08T23:58:18Z"
+        }
     }
 }

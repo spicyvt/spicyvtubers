@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:16Z"
+    },
+    "twitter": {
+        "tenshivt": {
+            "id": "1587160184236912641",
+            "handle": "tenshivt",
+            "displayName": "TenshiVT",
+            "description": "Tech-wearin Bara Bunny Boy Vtuber! Gay|🔞I have the fattest ass in vtubing https://t.co/kcmjykwwlZ",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1986148904992415744/AqZDdwmU_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1587160184236912641/1715467503/1500x500",
+            "followersCount": 4543,
+            "followingCount": 744,
+            "postsCount": 16696,
+            "accountCreatedAt": "2022-10-31T19:11:07.419Z",
+            "profileUrl": "https://x.com/TenshiVT",
+            "fetchedAt": "2026-08-08T23:56:12Z"
+        },
+        "tenshinsfwvt": {
+            "id": "1778219818187202560",
+            "handle": "tenshinsfwvt",
+            "displayName": "TenshiVA COMMS OPEN",
+            "description": "spicy account for the bara bunny dm for voice comms @TenshiVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1778220275735449601/rsPW5JUa_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1778219818187202560/1775419051/1500x500",
+            "followersCount": 4151,
+            "followingCount": 505,
+            "postsCount": 2503,
+            "accountCreatedAt": "2024-04-11T00:33:47.838Z",
+            "profileUrl": "https://x.com/TenshiNSFWVT",
+            "fetchedAt": "2026-08-08T23:56:14Z"
+        }
     }
 }

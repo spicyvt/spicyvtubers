@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:42Z"
+    },
+    "twitter": {
+        "debussyasmr": {
+            "id": "1676479772795322369",
+            "handle": "debussyasmr",
+            "displayName": "🎹 Debussy ASMR 🎹",
+            "description": "Femboy ASMRtist 🎙I'm very dumb\n\nYT: https://t.co/jwcXpt5akF\nTwitch: https://t.co/g6mfTRb0uN\nArt: #DebussyArt\nBusiness: debussyasmr@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1956264348571123712/A7z6Fa01_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1676479772795322369/1759638433/1500x500",
+            "followersCount": 20102,
+            "followingCount": 2,
+            "postsCount": 2039,
+            "accountCreatedAt": "2023-07-05T06:35:26.183Z",
+            "profileUrl": "https://x.com/DebussyASMR",
+            "fetchedAt": "2026-08-09T00:00:24Z"
+        },
+        "debussynsfw": {
+            "id": "1886282283209891840",
+            "handle": "debussynsfw",
+            "displayName": "DebussyNSFW 🔞",
+            "description": "NSFW account for @DebussyASMR\n(basketball account in disguise)",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1886282615528787968/oscy7ODB_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1886282283209891840/1738560464/1500x500",
+            "followersCount": 3420,
+            "followingCount": 3,
+            "postsCount": 321,
+            "accountCreatedAt": "2025-02-03T05:15:39.104Z",
+            "profileUrl": "https://x.com/DebussyNSFW",
+            "fetchedAt": "2026-08-09T00:00:26Z"
+        }
     }
 }

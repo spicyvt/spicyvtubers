@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:09Z"
+    },
+    "twitter": {
+        "thatjesterolive": {
+            "id": "1945454556655001600",
+            "handle": "thatjesterolive",
+            "displayName": "ThatJesterOlive",
+            "description": "♣️ Transfem Gamble~Core Jester\n♦️ Schedule Inconsistent, Streams Almost Daily\n♠️ Collabs Open!\n♥️ PFP by @SpaceyNerdArt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2056023813247172608/APpP3rT1_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1945454556655001600/1776303814/1500x500",
+            "followersCount": 91,
+            "followingCount": 62,
+            "postsCount": 201,
+            "accountCreatedAt": "2025-07-16T12:05:05.111Z",
+            "profileUrl": "https://x.com/ThatJesterOlive",
+            "fetchedAt": "2026-08-09T00:05:26Z"
+        },
+        "thatneedyjester": {
+            "id": "1568333739544961024",
+            "handle": "thatneedyjester",
+            "displayName": "🔞 ThatNeedyJester",
+            "description": "♣️ Transfem Gamble~Core Jester Puppy \n♦️ MDNI \n♠️ DMs Open! / Collabs on Pause\n♥️ PFP By @Midnight_Rian",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2056015202907291648/9piXE0iZ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1568333739544961024/1776303868/1500x500",
+            "followersCount": 630,
+            "followingCount": 554,
+            "postsCount": 2128,
+            "accountCreatedAt": "2022-09-09T20:21:40.358Z",
+            "profileUrl": "https://x.com/ThatNeedyJester",
+            "fetchedAt": "2026-08-09T00:05:28Z"
+        }
     }
 }

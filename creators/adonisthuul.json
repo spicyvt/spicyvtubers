@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:00Z"
+    },
+    "twitter": {
+        "adonisthuul": {
+            "id": "1555705881693630465",
+            "handle": "adonisthuul",
+            "displayName": "Adonis Thuul 🐙🌌🏴‍☠️",
+            "description": "Eldritch Space Pirate VTUBER (2.0 Debut 2026) | MDNI | ART: @/loriscea RIG: @Etoillach | email: adonisthuul@gmail.com | https://t.co/kZ5QupZoWb",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2062963389907763200/H-8WkTwO_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1555705881693630465/1780683488/1500x500",
+            "followersCount": 18182,
+            "followingCount": 1288,
+            "postsCount": 28527,
+            "accountCreatedAt": "2022-08-06T00:03:22.439Z",
+            "profileUrl": "https://x.com/AdonisThuul",
+            "fetchedAt": "2026-08-08T23:53:29Z"
+        },
+        "adonisunleashed": {
+            "id": "1720614826009878528",
+            "handle": "adonisunleashed",
+            "displayName": "Adonis Thuul (but hornier) 🐙🌌🏴‍☠️",
+            "description": "Tentacle Daddy | Downbad AF | MDNI\nMain account: @AdonisThuul\n\nhttps://t.co/tnHYEAXGnC",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1995620664133242880/C91b5FTL_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1720614826009878528/1765336081/1500x500",
+            "followersCount": 254,
+            "followingCount": 359,
+            "postsCount": 788,
+            "accountCreatedAt": "2023-11-04T01:32:25.093Z",
+            "profileUrl": "https://x.com/AdonisUnleashed",
+            "fetchedAt": "2026-08-08T23:53:31Z"
+        }
     }
 }

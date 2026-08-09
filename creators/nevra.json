@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:12Z"
+    },
+    "twitter": {
+        "nevralesca": {
+            "id": "261090446",
+            "handle": "nevralesca",
+            "displayName": "Nevra",
+            "description": "◦ Twitch Partner  ◦ All content is under copyright. Enforced by https://t.co/2tyk8UM87x. ◦ 🎨#NevraArt◦\nNSFW - @whispurri",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085817703470632960/_NvHm3fZ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/261090446/1781218383/1500x500",
+            "followersCount": 27682,
+            "followingCount": 2105,
+            "postsCount": 38189,
+            "accountCreatedAt": "2011-03-05T06:14:40.000Z",
+            "profileUrl": "https://x.com/Nevralesca",
+            "fetchedAt": "2026-08-08T23:44:54Z"
+        },
+        "whispurri": {
+            "id": "2048024887269208064",
+            "handle": "whispurri",
+            "displayName": "Whispurri 🌙🐾",
+            "description": "Degen Luna Kitten purring in your ear - NSFW account 🐾 Fansly Tu & Th 11 pm Est 🩵 art tag - #sinpurri 🔞 https://t.co/svkr8bHj3j",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2051801551849607173/abH9ps7b_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2048024887269208064/1778032714/1500x500",
+            "followersCount": 1334,
+            "followingCount": 167,
+            "postsCount": 192,
+            "accountCreatedAt": "2026-04-25T13:02:51.553Z",
+            "profileUrl": "https://x.com/Whispurri",
+            "fetchedAt": "2026-08-08T23:44:56Z"
+        }
     }
 }

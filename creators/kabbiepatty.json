@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:06Z"
+    },
+    "twitter": {
+        "kabbie_vr": {
+            "id": "1622719183510274067",
+            "handle": "kabbie_vr",
+            "displayName": "Kabbie",
+            "description": "‼️18+ ONLY PROFILE‼️Pfp By @HOTVR1🎨 | Dawg | Stoner | VR Content | my links: \n🔗 https://t.co/XycOgaYqNK ⬇️",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2080568365668515840/haW0kDeg_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1622719183510274067/1746924924/1500x500",
+            "followersCount": 6229,
+            "followingCount": 571,
+            "postsCount": 645,
+            "accountCreatedAt": "2023-02-06T22:09:47.879Z",
+            "profileUrl": "https://x.com/Kabbie_vr",
+            "fetchedAt": "2026-08-09T00:16:58Z"
+        },
+        "kabbiepatty": {
+            "id": "1800855894932013056",
+            "handle": "kabbiepatty",
+            "displayName": "Kabbie Patty",
+            "description": "My IRL profile!! | VR profile: @kabbie_vr",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1871946811004395520/Vke0ZDva_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1800855894932013056/1735141884/1500x500",
+            "followersCount": 645,
+            "followingCount": 50,
+            "postsCount": 13,
+            "accountCreatedAt": "2024-06-12T11:41:29.133Z",
+            "profileUrl": "https://x.com/KabbiePatty",
+            "fetchedAt": "2026-08-09T00:17:00Z"
+        }
     }
 }

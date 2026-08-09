@@ -69,5 +69,49 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:28Z"
+    },
+    "twitter": {
+        "vexthesuneater": {
+            "id": "1397977661943652353",
+            "handle": "vexthesuneater",
+            "displayName": "Vexoria the Sun Eater 🔜 BlizzCon 2026 🌞 🐍",
+            "description": "🇨🇦 #Vtuber | VA acc: @Valeriebelleva |She/Her| Twitch & YT Partner | Art #Vexxyart #SexyVexxy | GSupps Code: Snek | Breast Cancer Survivor 🎀",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2057835292770304000/q0zpDwVr_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1397977661943652353/1779248783/1500x500",
+            "followersCount": 159454,
+            "followingCount": 3579,
+            "postsCount": 24248,
+            "accountCreatedAt": "2021-05-27T18:07:15.665Z",
+            "profileUrl": "https://x.com/VexTheSunEater",
+            "fetchedAt": "2026-08-08T23:48:14Z"
+        },
+        "valeriebelleva": {
+            "id": "1827918363131293696",
+            "handle": "valeriebelleva",
+            "displayName": "Valerie Belle | Voice Actor",
+            "description": "🇨🇦 Canadian VA | Content Creator AKA: @VextheSunEater |  She/Her | Breast Cancer Survivor |  Métis | Email: valeriebelleva@gmail.com #voiceactor #anime",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1988131596352802816/YQyw7HBB_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1827918363131293696/1737179610/1500x500",
+            "followersCount": 12923,
+            "followingCount": 517,
+            "postsCount": 290,
+            "accountCreatedAt": "2024-08-26T03:58:04.830Z",
+            "profileUrl": "https://x.com/ValerieBelleVA",
+            "fetchedAt": "2026-08-08T23:48:16Z"
+        },
+        "vexwhoria": {
+            "id": null,
+            "handle": "vexwhoria",
+            "displayName": "Vexoria The Sun Eater🐍☀️ (Spicy Version!)",
+            "description": "Naughty side of Vexoria the Sun Eater 💜\n🇨🇦 #Vtuber | VA |She/Her| Twitch & YT Partner | Art #Vexxyart #SexyVexxy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2014735967370760192/rp9cR_CW_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1864001300092116992/1769185440/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2024-12-03T17:38:43.986Z",
+            "profileUrl": "https://x.com/vexwhoria",
+            "fetchedAt": "2026-08-08T23:48:18Z"
+        }
     }
 }

@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:23Z"
+    },
+    "twitter": {
+        "hello_mimiz": {
+            "id": "1335040523413803008",
+            "handle": "hello_mimiz",
+            "displayName": "HelloMimiz",
+            "description": "Your favourite Demonic Skunk Entity 🤍 🦨 🔞\n\n|| Spicy Artist || Vtuber Artist || Live2D Rigger ||\n\n🎨tags: #hellomimizart  #mimussy   alt:  @MimizAfterDark",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082724043728551936/ylANvn-R_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1335040523413803008/1785395018/1500x500",
+            "followersCount": 1375,
+            "followingCount": 213,
+            "postsCount": 1435,
+            "accountCreatedAt": "2020-12-05T01:57:30.112Z",
+            "profileUrl": "https://x.com/Hello_Mimiz",
+            "fetchedAt": "2026-08-08T23:46:55Z"
+        },
+        "mimizafterdark": {
+            "id": "1727914825169457152",
+            "handle": "mimizafterdark",
+            "displayName": "HelloMimiz",
+            "description": "Gooner Demonic Skunk Girl || NSFW Artist ||  🤍 🦨 \n\n Main account: @Hello_Mimiz\n\n🎨tags: sfw #hellomimizart //  nsfw #mimussy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082724522005053440/bpWMIqyf_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1727914825169457152/1785395197/1500x500",
+            "followersCount": 1712,
+            "followingCount": 86,
+            "postsCount": 658,
+            "accountCreatedAt": "2023-11-24T04:59:39.701Z",
+            "profileUrl": "https://x.com/MimizAfterDark",
+            "fetchedAt": "2026-08-08T23:46:57Z"
+        }
     }
 }

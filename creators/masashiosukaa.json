@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:35Z"
+    },
+    "twitter": {
+        "commandero25": {
+            "id": "3189128923",
+            "handle": "commandero25",
+            "displayName": "Masashi Vtuber🐰",
+            "description": "Artist, gaymer, and your silly little fudanshi bnuy =p\n\nVGen Commission's Open\nhttps://t.co/t2nX9YgSnM\n\nVtube Rigger Credits: @renaizumi & @ArtemizComs",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1636660903923023873/BxA_wmbd_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3189128923/1640497523/1500x500",
+            "followersCount": 177,
+            "followingCount": 172,
+            "postsCount": 9297,
+            "accountCreatedAt": "2015-05-08T19:37:59.361Z",
+            "profileUrl": "https://x.com/CommanderO25",
+            "fetchedAt": "2026-08-09T00:10:16Z"
+        },
+        "masushy": {
+            "id": "571446110",
+            "handle": "masushy",
+            "displayName": "🔞Masashi NSFW Vtuber🔞",
+            "description": "Bnuy Gaymer, Artist, + NSFW VA\n🔞No Minors🔞\n\nArt Coms. 🎨 - https://t.co/u2BZJRhnEt\nFansly 💙 - https://t.co/30gVCAzZXF\nMain Acc  🐰 - @CommanderO25",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1804250330441617413/TMVsZzYi_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/571446110/1694195540/1500x500",
+            "followersCount": 7257,
+            "followingCount": 115,
+            "postsCount": 474,
+            "accountCreatedAt": "2012-05-05T04:44:35.000Z",
+            "profileUrl": "https://x.com/masushy",
+            "fetchedAt": "2026-08-09T00:10:18Z"
+        }
     }
 }

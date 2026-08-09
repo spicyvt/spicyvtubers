@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:54Z"
+    },
+    "twitter": {
+        "felivrc": {
+            "id": "1306844193638232064",
+            "handle": "felivrc",
+            "displayName": "Feli",
+            "description": "Just a super duper wholesome fox! Nothing to see here :3\nhttps://t.co/hwkcvBLavX",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2070851788450807808/Kl6kgpnY_400x400.png",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1306844193638232064/1772387565/1500x500",
+            "followersCount": 2517,
+            "followingCount": 34,
+            "postsCount": 263,
+            "accountCreatedAt": "2020-09-18T06:35:21.642Z",
+            "profileUrl": "https://x.com/FeliVRC",
+            "fetchedAt": "2026-08-08T23:52:58Z"
+        },
+        "felivr_": {
+            "id": "1322663144494407680",
+            "handle": "felivr_",
+            "displayName": "Feli",
+            "description": "Your scuffed fox girl~\n♡ https://t.co/BU69HLha7D ♡ \n♡ https://t.co/XTFGNG9BL7 ♡\n SFW: @FeliVRC",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2003075574101630976/jLaqRouR_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1322663144494407680/1735923756/1500x500",
+            "followersCount": 9107,
+            "followingCount": 201,
+            "postsCount": 2295,
+            "accountCreatedAt": "2020-10-31T22:14:20.474Z",
+            "profileUrl": "https://x.com/FeliVR_",
+            "fetchedAt": "2026-08-08T23:53:00Z"
+        }
     }
 }

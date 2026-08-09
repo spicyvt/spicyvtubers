@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:06Z"
+    },
+    "twitter": {
+        "shiabun": {
+            "id": "893179246247649281",
+            "handle": "shiabun",
+            "displayName": "Shia 🐰| VchiBan✨",
+            "description": "♡ BUNTuber 🐰 ♡ Game Dev ♡ Singing Guy ♡ 🎨 #ShiaBun 🔞#ShiaBussy ♡ 📧 shiabun@vchiban.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1944114882745393152/3MTBYM70_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/893179246247649281/1759341147/1500x500",
+            "followersCount": 37058,
+            "followingCount": 514,
+            "postsCount": 11075,
+            "accountCreatedAt": "2017-08-03T18:38:21.601Z",
+            "profileUrl": "https://x.com/ShiaBun",
+            "fetchedAt": "2026-08-09T00:17:11Z"
+        },
+        "shiabussy": {
+            "id": "1551224842271313921",
+            "handle": "shiabussy",
+            "displayName": "Shia 🔞",
+            "description": "🔞For all posts #ShiaBussy 🔞\nNSFW account for @ShiaBun",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1635031276850753541/BHezRKo9_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551224842271313921/1658676014/1500x500",
+            "followersCount": 5834,
+            "followingCount": 4,
+            "postsCount": 114,
+            "accountCreatedAt": "2022-07-24T15:16:47.801Z",
+            "profileUrl": "https://x.com/ShiaBussy",
+            "fetchedAt": "2026-08-09T00:17:13Z"
+        }
     }
 }

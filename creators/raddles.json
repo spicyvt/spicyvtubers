@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:07Z"
+    },
+    "twitter": {
+        "radraddles": {
+            "id": "932782316224745472",
+            "handle": "radraddles",
+            "displayName": "raddles 🗑️🐈 Alleycat VTuber",
+            "description": "the weird cat outside 🗑️🐈 • girlfailure neko 🎀 • fanart tag #radoodles 🎨 • alt @bratbrattles 🔞\n\n@GamerSupps 🗑️✨\nCode TRASH for 10% OFF",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2051289598614224897/86JL6xVK_400x400.png",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/932782316224745472/1748729484/1500x500",
+            "followersCount": 57985,
+            "followingCount": 2665,
+            "postsCount": 29203,
+            "accountCreatedAt": "2017-11-21T01:26:49.258Z",
+            "profileUrl": "https://x.com/radraddles",
+            "fetchedAt": "2026-08-08T23:44:00Z"
+        },
+        "bratbrattles": {
+            "id": "1571930470455058434",
+            "handle": "bratbrattles",
+            "displayName": "brattles 🔞💜⚡",
+            "description": "the weird brat outside 🐈 • minors DNI ❌ • main @radraddles 🐾 • 🔞 art #raddlewds • links → https://t.co/6o3JHpualL\n\n@GamerSupps 🗑️✨\nUse Code 'TRASH' For 10% OFF",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2052108497610059776/oPNCQhd2_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1571930470455058434/1764054780/1500x500",
+            "followersCount": 26435,
+            "followingCount": 347,
+            "postsCount": 744,
+            "accountCreatedAt": "2022-09-19T18:33:32.658Z",
+            "profileUrl": "https://x.com/bratbrattles",
+            "fetchedAt": "2026-08-08T23:44:01Z"
+        }
     }
 }

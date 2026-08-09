@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:22Z"
+    },
+    "twitter": {
+        "yumiikko1": {
+            "id": "1303197774385610754",
+            "handle": "yumiikko1",
+            "displayName": "Yumi",
+            "description": "Oh hey ♡  \nShe/Her / You/Me ~\nModels: Mishi & Monami By Soshi Edit ♡",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1974157229898313728/vHntcla-_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1303197774385610754/1774173176/1500x500",
+            "followersCount": 2302,
+            "followingCount": 162,
+            "postsCount": 2078,
+            "accountCreatedAt": "2020-09-08T05:06:02.372Z",
+            "profileUrl": "https://x.com/Yumiikko1",
+            "fetchedAt": "2026-08-09T00:20:02Z"
+        },
+        "notyumiikko": {
+            "id": "2057324734690279424",
+            "handle": "notyumiikko",
+            "displayName": "NotYumi ;)",
+            "description": "🔞 NSFW for more lewd energy 😈 \nMain: Yumiikko1 💞\nShe/Her | You/Me | cvr content \nModels: Mishi & Monami By Soshi Edit ♡",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2057742857369493504/QvbzwAoM_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2057324734690279424/1779439186/1500x500",
+            "followersCount": 1558,
+            "followingCount": 87,
+            "postsCount": 174,
+            "accountCreatedAt": "2026-05-21T04:57:17.379Z",
+            "profileUrl": "https://x.com/NotYumiikko",
+            "fetchedAt": "2026-08-09T00:20:03Z"
+        }
     }
 }

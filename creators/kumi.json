@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:12Z"
+    },
+    "twitter": {
+        "kumivt": {
+            "id": "707617381674315777",
+            "handle": "kumivt",
+            "displayName": "Kumi 🪶🪑",
+            "description": "🪴 INDIE HARPY VTUBER ⇀ Partnered @Twitch 🌲 art; #kumiilust | @GamerSupps code: KUMI 🌿 credits + socials https://t.co/kge8brBfEt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1984624321810100224/5yZgDGCZ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/707617381674315777/1763586702/1500x500",
+            "followersCount": 68628,
+            "followingCount": 867,
+            "postsCount": 9259,
+            "accountCreatedAt": "2016-03-09T17:21:45.511Z",
+            "profileUrl": "https://x.com/KumiVT",
+            "fetchedAt": "2026-08-09T00:18:14Z"
+        },
+        "remuki_": {
+            "id": "1856714809107996672",
+            "handle": "remuki_",
+            "displayName": "remu 🐶",
+            "description": "🔞🖤 just a girl that really loves her puppy oc",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082343507067387904/xRk5WUDc_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1856714809107996672/1781762278/1500x500",
+            "followersCount": 44105,
+            "followingCount": 100,
+            "postsCount": 740,
+            "accountCreatedAt": "2024-11-13T15:05:07.133Z",
+            "profileUrl": "https://x.com/remuki_",
+            "fetchedAt": "2026-08-09T00:18:15Z"
+        }
     }
 }

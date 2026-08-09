@@ -78,5 +78,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:19Z"
+    },
+    "twitter": {
+        "tealoafy": {
+            "id": "1905834210",
+            "handle": "tealoafy",
+            "displayName": "Tealoafy",
+            "description": "Just a buzzin' little bunny: at your service! ♥",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2083371459775287296/8DXSWlQx_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1905834210/1785551596/1500x500",
+            "followersCount": 2221,
+            "followingCount": 162,
+            "postsCount": 392,
+            "accountCreatedAt": "2013-09-26T00:10:17.671Z",
+            "profileUrl": "https://x.com/Tealoafy",
+            "fetchedAt": "2026-08-09T00:07:14Z"
+        }
     }
 }

@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:56Z"
+    },
+    "twitter": {
+        "lunanyxvtuber": {
+            "id": "1965231354955923459",
+            "handle": "lunanyxvtuber",
+            "displayName": "Luna Nyx 💜 루나 닉스",
+            "description": "gumiho vtuber ♡ twitch + youtube partner ♡ https://t.co/oUsYTzvGn5 ♡ #lunanyxdoodles #lewdanyx 🔞@lewdanyx",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2023580061270765569/LUABn1wA_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1965231354955923459/1762157531/1500x500",
+            "followersCount": 893,
+            "followingCount": 1128,
+            "postsCount": 1348,
+            "accountCreatedAt": "2025-09-09T01:50:46.946Z",
+            "profileUrl": "https://x.com/lunanyxvtuber",
+            "fetchedAt": "2026-08-09T00:15:36Z"
+        },
+        "lewdanyx": {
+            "id": "1846335845948968960",
+            "handle": "lewdanyx",
+            "displayName": "Luna Nyx",
+            "description": "official nsfw account for @lunanyxvt | $33 to dm",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1882285311625134080/b9grkT7R_400x400.jpg",
+            "bannerImageUrl": null,
+            "followersCount": 114,
+            "followingCount": 16,
+            "postsCount": 11,
+            "accountCreatedAt": "2024-10-15T23:42:32.348Z",
+            "profileUrl": "https://x.com/lewdanyx",
+            "fetchedAt": "2026-08-09T00:15:37Z"
+        }
     }
 }

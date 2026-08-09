@@ -69,5 +69,19 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:40Z"
+    },
+    "bluesky": {
+        "did": "did:plc:ivv6gggijgcobsvs2bnhukj6",
+        "handle": "spacedeeredith.bsky.social",
+        "displayName": "@spacedeeredith.bsky.social",
+        "description": "",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ivv6gggijgcobsvs2bnhukj6/bafkreibjvdvnhigkiduzgeemfvzs5r6lpfkidwqvypa2hxlexkbexbtyem",
+        "bannerImageUrl": null,
+        "followersCount": 1,
+        "followingCount": 1,
+        "postsCount": 0,
+        "accountCreatedAt": "2026-03-27T20:03:51.345Z",
+        "profileUrl": "https://bsky.app/profile/spacedeeredith.bsky.social",
+        "fetchedAt": "2026-08-09T00:23:25Z"
     }
 }

@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:45Z"
+    },
+    "twitter": {
+        "saiyuna3": {
+            "id": "1373580883567988738",
+            "handle": "saiyuna3",
+            "displayName": "Saiyuna",
+            "description": "🐾Cat Demon Vtuber on the internet\n💚@GamerSupps Partner Code: Tussy\n🟪Twitch Affiliate Streamer\n-----------\nSupport: https://t.co/uOnUh73wvY\n🔞 18+ @Sai_Tussy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2031492809937539072/4UpCHAE5_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1373580883567988738/1773180561/1500x500",
+            "followersCount": 6637,
+            "followingCount": 1249,
+            "postsCount": 6822,
+            "accountCreatedAt": "2021-03-21T10:23:14.166Z",
+            "profileUrl": "https://x.com/Saiyuna3",
+            "fetchedAt": "2026-08-09T00:11:46Z"
+        },
+        "sai_tussy": {
+            "id": null,
+            "handle": "sai_tussy",
+            "displayName": "SaiTussy 🔞",
+            "description": "🔞Lewd alt account🔞\n\n💚You know, If you know, meow meow💚\n_________________\n\n✨ Fansly: https://t.co/Ao9Gd9JNUD\n✨Throne : https://t.co/wWVRkce2qf",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2023986647969239040/d3Iz2xJd_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1250177037299593218/1771391031/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2020-04-14T21:40:20.364Z",
+            "profileUrl": "https://x.com/Sai_Tussy",
+            "fetchedAt": "2026-08-09T00:11:48Z"
+        }
     }
 }

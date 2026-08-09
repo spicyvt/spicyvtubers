@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:09Z"
+    },
+    "twitter": {
+        "ladybelvoirttv": {
+            "id": "1401608621893500930",
+            "handle": "ladybelvoirttv",
+            "displayName": "SFW Lady Alva of Belvoir 🦫🪓",
+            "description": "SFW alt for @ladybelvoir\nViking ENVtuber 🔞 \nBelvoir is pronounced like Beaver 🦫.\nMid 30s\nShe/They\nADHD/ASD",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1815571795161788416/mLPAlYpd_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1401608621893500930/1662750096/1500x500",
+            "followersCount": 1125,
+            "followingCount": 840,
+            "postsCount": 6204,
+            "accountCreatedAt": "2021-06-06T18:35:21.165Z",
+            "profileUrl": "https://x.com/LadyBelvoirTTV",
+            "fetchedAt": "2026-08-09T00:05:23Z"
+        },
+        "ladybelvoir": {
+            "id": "1523679173226676226",
+            "handle": "ladybelvoir",
+            "displayName": "🔞 Lady Belvoir VT 🦫🪓",
+            "description": "🔞 Minors DNI\n\nHistorically Based Viking Vtuber\n\nBelvoir is pronounced like Beaver\n\nMid 30s\n\nshe/they \n\nADHD/ASD\n\nSFW alt is @LadyBelvoirTTV",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2050163075139923968/RK3D2Ygu_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1523679173226676226/1777631941/1500x500",
+            "followersCount": 4047,
+            "followingCount": 1035,
+            "postsCount": 25197,
+            "accountCreatedAt": "2022-05-09T15:00:09.178Z",
+            "profileUrl": "https://x.com/LadyBelvoir",
+            "fetchedAt": "2026-08-09T00:05:25Z"
+        }
     }
 }

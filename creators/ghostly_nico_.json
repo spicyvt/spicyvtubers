@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:53Z"
+    },
+    "twitter": {
+        "ghostlynicoblue": {
+            "id": "2045844304657022976",
+            "handle": "ghostlynicoblue",
+            "displayName": "Ghostly Nico 👻🌌",
+            "description": "space ghost Vtuber! i crash landed on earth after floating in space for who knows long. i'm gonna be King. 🔞 only. they/them/any",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2074858390904279040/a2urTVDQ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2045844304657022976/1776603925/1500x500",
+            "followersCount": 219,
+            "followingCount": 446,
+            "postsCount": 1010,
+            "accountCreatedAt": "2026-04-19T12:38:00.804Z",
+            "profileUrl": "https://x.com/ghostlynicoblue",
+            "fetchedAt": "2026-08-09T00:02:10Z"
+        },
+        "ghostlyfreako": {
+            "id": "2060052614012690436",
+            "handle": "ghostlyfreako",
+            "displayName": "GhostlyFreako 🌌🔞",
+            "description": "Lewdtuber\nNSFW account for @ghostlynicoblue\nMDNI 🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2071307755638448128/lfIdDnEz_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2060052614012690436/1779990425/1500x500",
+            "followersCount": 9,
+            "followingCount": 52,
+            "postsCount": 23,
+            "accountCreatedAt": "2026-05-28T17:40:01.553Z",
+            "profileUrl": "https://x.com/GhostlyFreako",
+            "fetchedAt": "2026-08-09T00:02:12Z"
+        }
     }
 }

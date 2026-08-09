@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:23Z"
+    },
+    "twitter": {
+        "babypinkvtuber": {
+            "id": "1728918055869202433",
+            "handle": "babypinkvtuber",
+            "displayName": "BabyPinkVT 🌙🖥️",
+            "description": "⋆˚Soft spoken Replicant from Cyberspace ˚⋆\n✦ Twitch, Kick & YT Partner ✦  ASMR & Variety ✦ ENG/PL 🇵🇱\n\n▶︎ https://t.co/PeG0U4Uy8m\n\n👉 VA acc @babypinkasmr 🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2070510676288675840/Ncii6ncf_400x400.png",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1728918055869202433/1765580193/1500x500",
+            "followersCount": 6191,
+            "followingCount": 1832,
+            "postsCount": 1540,
+            "accountCreatedAt": "2023-11-26T23:26:57.529Z",
+            "profileUrl": "https://x.com/babypinkvtuber",
+            "fetchedAt": "2026-08-08T23:46:52Z"
+        },
+        "babypinkasmr": {
+            "id": "1250929674424811524",
+            "handle": "babypinkasmr",
+            "displayName": "BabyPinkVA🌙🎙️",
+            "description": "✦  VA/ASMRtist\n✦  https://t.co/ba9kbCEJgQ\n✦  https://t.co/6HunokOiL2\n\n👉 @babypinkvtuber\n\n📧 bbpinkmailbox@gmail.com\n #touchofbbpink 🎨  #tasteofbbpink 🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2023790864708104196/wtqwjiI__400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1250929674424811524/1740786659/1500x500",
+            "followersCount": 29381,
+            "followingCount": 3952,
+            "postsCount": 6102,
+            "accountCreatedAt": "2020-04-16T23:31:06.050Z",
+            "profileUrl": "https://x.com/babypinkasmr",
+            "fetchedAt": "2026-08-08T23:46:53Z"
+        }
     }
 }

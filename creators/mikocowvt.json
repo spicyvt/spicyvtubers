@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:51Z"
+    },
+    "twitter": {
+        "mikocowvt": {
+            "id": "1994497386329378816",
+            "handle": "mikocowvt",
+            "displayName": "Miko da Cow 🐮🍼 Cow VTuber!",
+            "description": "Hi, I'm Miko! I'm a cow that suddenly turned into a cute girl. | 🔞 & VA acc: @MikoCow | Profile pic by @safaerie_garden | Banner art by @sdus1017",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1999790470386294784/W8j8bJqw_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1994497386329378816/1768437373/1500x500",
+            "followersCount": 98,
+            "followingCount": 243,
+            "postsCount": 95,
+            "accountCreatedAt": "2025-11-28T20:03:33.166Z",
+            "profileUrl": "https://x.com/mikocowvt",
+            "fetchedAt": "2026-08-09T00:13:44Z"
+        },
+        "mikocow": {
+            "id": "1742462833021906944",
+            "handle": "mikocow",
+            "displayName": "Miko da Cow 🐄 🔞 Lewdtuber & VA✨",
+            "description": "The lewd side 🔞 of @MikoCowVT\nI am a silly cow :3\nProfile art by @sdus1017sb",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2003496522114052096/k0Zku5Bc_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1742462833021906944/1766505887/1500x500",
+            "followersCount": 77,
+            "followingCount": 173,
+            "postsCount": 15,
+            "accountCreatedAt": "2024-01-03T08:28:21.552Z",
+            "profileUrl": "https://x.com/MikoCow",
+            "fetchedAt": "2026-08-09T00:13:45Z"
+        }
     }
 }

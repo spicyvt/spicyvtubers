@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:21Z"
+    },
+    "twitter": {
+        "podgekinn": {
+            "id": "1498557157620568071",
+            "handle": "podgekinn",
+            "displayName": "Podge 💜🥒 Goblin VTuber ➡️ VeXpo 🇨🇦",
+            "description": "VTuber. VA. @oshiuplink Exec. @_VGen_ Community Mgr.\nM: @da3iann R: @KH_626\nTwitch/YT/GSupps Partner\nWarframe: podgekinn\n💍@brangeddon\nhttps://t.co/huU2iSz8JQ",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2018457552539795457/5XLPp3dU_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1498557157620568071/1771536600/1500x500",
+            "followersCount": 35130,
+            "followingCount": 9382,
+            "postsCount": 34636,
+            "accountCreatedAt": "2022-03-01T07:14:13.865Z",
+            "profileUrl": "https://x.com/podgekinn",
+            "fetchedAt": "2026-08-08T23:57:02Z"
+        },
+        "podgekinky": {
+            "id": "2033995193935138818",
+            "handle": "podgekinky",
+            "displayName": "Podge but Freaky",
+            "description": "NSFW profile for @podgekinn\nNSFW VA. 18+ VTuber.\nBanner: @sephyra_draws PFP: @_zSen_\n💍@spicyoverlord\nhttps://t.co/IMYwTrutNe",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2033995333450022912/qHyTmj16_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2033995193935138818/1773782814/1500x500",
+            "followersCount": 1717,
+            "followingCount": 70,
+            "postsCount": 154,
+            "accountCreatedAt": "2026-03-17T19:53:45.860Z",
+            "profileUrl": "https://x.com/podgekinky",
+            "fetchedAt": "2026-08-08T23:57:03Z"
+        }
     }
 }

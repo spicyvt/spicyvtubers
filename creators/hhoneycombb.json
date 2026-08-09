@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:01Z"
+    },
+    "twitter": {
+        "hhoney_combb": {
+            "id": "1251727922341257218",
+            "handle": "hhoney_combb",
+            "displayName": "hhoneycombb 【Vtuber】",
+            "description": "Just a little bee offering you some sweet treats ☆☆ Twitch Streamer/Content Creator ☆☆ Art Tag; #CombbColors Oshi Marks; 💛🐝 https://t.co/gj0grvlhWJ",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1995024904379400192/JIihPcCO_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1251727922341257218/1719893703/1500x500",
+            "followersCount": 382,
+            "followingCount": 488,
+            "postsCount": 2296,
+            "accountCreatedAt": "2020-04-19T04:22:58.341Z",
+            "profileUrl": "https://x.com/hhoney_combb",
+            "fetchedAt": "2026-08-09T00:16:13Z"
+        },
+        "drippinhhoney": {
+            "id": "1901261259225309184",
+            "handle": "drippinhhoney",
+            "displayName": "Honey",
+            "description": "Honey’s silly acc! 🔞🐝 MINORS DNI |",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1991030106148528128/pu9oWkVl_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1901261259225309184/1742131270/1500x500",
+            "followersCount": 105,
+            "followingCount": 159,
+            "postsCount": 1862,
+            "accountCreatedAt": "2025-03-16T13:16:43.641Z",
+            "profileUrl": "https://x.com/DrippinHhoney",
+            "fetchedAt": "2026-08-09T00:16:15Z"
+        }
     }
 }

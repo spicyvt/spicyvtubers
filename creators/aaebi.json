@@ -69,5 +69,49 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:51Z"
+    },
+    "twitter": {
+        "raatbraat": {
+            "id": "1622991589894197248",
+            "handle": "raatbraat",
+            "displayName": "aebi",
+            "description": ":3",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085480489327194112/xF0hTPEw_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1622991589894197248/1786083486/1500x500",
+            "followersCount": 8958,
+            "followingCount": 138,
+            "postsCount": 27,
+            "accountCreatedAt": "2023-02-07T16:12:14.766Z",
+            "profileUrl": "https://x.com/raatbraat",
+            "fetchedAt": "2026-08-09T00:12:56Z"
+        },
+        "_aaebiya": {
+            "id": "1133120387397632001",
+            "handle": "_aaebiya",
+            "displayName": "AAebi ☢️🐀",
+            "description": "Cosplay x Vtuber 🐀 Radioactive ratgirl ☢️doing silly things online",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1971028573311193088/8s8O_GL6_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1133120387397632001/1768928087/1500x500",
+            "followersCount": 114673,
+            "followingCount": 778,
+            "postsCount": 11379,
+            "accountCreatedAt": "2019-05-27T21:18:47.488Z",
+            "profileUrl": "https://x.com/_aaebiya",
+            "fetchedAt": "2026-08-09T00:12:58Z"
+        },
+        "aebibaebi": {
+            "id": "1410513024365084677",
+            "handle": "aebibaebi",
+            "displayName": "Evil Rat 🐀",
+            "description": "I be squeakin @_aaebiya",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2084734230719000576/VvbTmsvk_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1410513024365084677/1786087206/1500x500",
+            "followersCount": 43033,
+            "followingCount": 274,
+            "postsCount": 5974,
+            "accountCreatedAt": "2021-07-01T08:18:14.039Z",
+            "profileUrl": "https://x.com/Aebibaebi",
+            "fetchedAt": "2026-08-09T00:12:59Z"
+        }
     }
 }

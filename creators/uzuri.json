@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:09Z"
+    },
+    "twitter": {
+        "uzurimia": {
+            "id": "1116441560894312448",
+            "handle": "uzurimia",
+            "displayName": "Uzu🌙🐰VTUBER ウズリ",
+            "description": "☽🌙🐰Moon Bunny/Neet/Otaku/Artist \n☽mama @_spatsula \n☽ General: #uzurimia \n☽ art: #UzuArts ☽ NSFW:#UzuLewds \n@gamersupps Code: UZU \n✉: Uzurimia@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2084297111495933952/neMDnO5h_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1116441560894312448/1769212116/1500x500",
+            "followersCount": 16326,
+            "followingCount": 1293,
+            "postsCount": 9525,
+            "accountCreatedAt": "2019-04-11T20:43:05.381Z",
+            "profileUrl": "https://x.com/UzuriMia",
+            "fetchedAt": "2026-08-09T00:05:06Z"
+        },
+        "uzulewds": {
+            "id": "1001510262942392320",
+            "handle": "uzulewds",
+            "displayName": "UzuLewds",
+            "description": "LewdTuber Bunny girl\nThe NSFW account for @UzuriMia \n🔞NSfW MINORS DNI \nfanart:#uzulewds",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1860842309484494848/objv5P3H_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1001510262942392320/1657533586/1500x500",
+            "followersCount": 1874,
+            "followingCount": 88,
+            "postsCount": 139,
+            "accountCreatedAt": "2018-05-29T17:07:08.640Z",
+            "profileUrl": "https://x.com/UzuLewds",
+            "fetchedAt": "2026-08-09T00:05:08Z"
+        }
     }
 }

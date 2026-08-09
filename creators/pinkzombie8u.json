@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:22Z"
+    },
+    "twitter": {
+        "pinkzombie8u": {
+            "id": "1429852018764488731",
+            "handle": "pinkzombie8u",
+            "displayName": "Pink Zombie | Rose Zombie vtuber🌹🧟‍♀️",
+            "description": "I am a sussy, wholesome 🔞 twitch vtuber!\nI don't play games, I break them... (hmu game devs, I will find your bugs 🐛)\nmulti model user! 🌹🧟‍♀️",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1895707884513546240/TUL25QSc_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1429852018764488731/1722952167/1500x500",
+            "followersCount": 850,
+            "followingCount": 1124,
+            "postsCount": 4241,
+            "accountCreatedAt": "2021-08-23T17:04:42.197Z",
+            "profileUrl": "https://x.com/PinkZombie8u",
+            "fetchedAt": "2026-08-09T00:20:14Z"
+        },
+        "pinkzombiesego": {
+            "id": "1666901322489028627",
+            "handle": "pinkzombiesego",
+            "displayName": "PinkZombie Alter Ego",
+            "description": "this account is for every one of the naughty thoughts I've had and probably a short list of what I like 😜\n\nthrone: https://t.co/bwnwUPfu2Z",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1915102070396362752/Jkm8rK2x_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1666901322489028627/1745547291/1500x500",
+            "followersCount": 82,
+            "followingCount": 75,
+            "postsCount": 683,
+            "accountCreatedAt": "2023-06-08T20:14:30.324Z",
+            "profileUrl": "https://x.com/pinkzombiesego",
+            "fetchedAt": "2026-08-09T00:20:15Z"
+        }
     }
 }

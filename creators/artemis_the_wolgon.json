@@ -23,5 +23,19 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ee676b7-868c-4ead-9da2-c170e95b1811-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7feceed3-79cf-48ba-8c7e-2eaea07f3a46-profile_banner-480.png"
+    },
+    "bluesky": {
+        "did": "did:plc:q2rh66il7kie3vt5omi7klrb",
+        "handle": "artemisthewolgon.bsky.social",
+        "displayName": "Artemis The Wolgon🔜 Fur Squared",
+        "description": "Proud Furry/Brony\nLoves Country Music\n29 years old\nTaken\nStreams on twitch at https://www.twitch.tv/artemis_the_wolgon\nand also on tik tok at https://www.tiktok.com/@artemis_the_wolgon",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:q2rh66il7kie3vt5omi7klrb/bafkreibtudeubrqqguj3nv4sc5lamxzudhvuqpt3b7otlkzls4rq554y3y",
+        "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:q2rh66il7kie3vt5omi7klrb/bafkreiamvhdn5nzlgnmocto7s4776xljujoebo2ykt3ro4rpsc3d4dthki",
+        "followersCount": 65,
+        "followingCount": 92,
+        "postsCount": 18,
+        "accountCreatedAt": "2023-09-17T02:55:09.600Z",
+        "profileUrl": "https://bsky.app/profile/artemisthewolgon.bsky.social",
+        "fetchedAt": "2026-08-09T00:23:05Z"
     }
 }

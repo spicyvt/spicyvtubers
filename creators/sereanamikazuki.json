@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:09Z"
+    },
+    "twitter": {
+        "sereanamikazuki": {
+            "id": "1620846130681761793",
+            "handle": "sereanamikazuki",
+            "displayName": "Sereana 🪻🌙 | 『VBITE』",
+            "description": "Sharkpup Kunoichi 🪻🌙 | → New Main @sharkpupsereana | 💜: @TiberianOasis | Socials: https://t.co/JWJCbTC4ph | Pfp: @koniroyuu | Banner: @RozeniteuWU | 🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2063412005977960448/ueUG5Zmu_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1620846130681761793/1759148671/1500x500",
+            "followersCount": 10568,
+            "followingCount": 555,
+            "postsCount": 7052,
+            "accountCreatedAt": "2023-02-01T18:06:58.561Z",
+            "profileUrl": "https://x.com/SereanaMikazuki",
+            "fetchedAt": "2026-08-09T00:04:58Z"
+        },
+        "sharkpupsereana": {
+            "id": "2062925674441068544",
+            "handle": "sharkpupsereana",
+            "displayName": "Sereana 🪻🌙 | 『VBITE』",
+            "description": "Sharkpup Kunoichi 🪻🌙 | Founder of @VBiteOfficial 🦈 | 💜: @TiberianOasis | Socials: https://t.co/1qfh8igbzn | Pfp: @koniroyuu | Banner: @RozeniteuWU | 🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2062927414074736640/W_uFz55X_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2062925674441068544/1780676219/1500x500",
+            "followersCount": 845,
+            "followingCount": 33,
+            "postsCount": 244,
+            "accountCreatedAt": "2026-06-05T15:54:11.141Z",
+            "profileUrl": "https://x.com/SharkpupSereana",
+            "fetchedAt": "2026-08-09T00:04:59Z"
+        }
     }
 }

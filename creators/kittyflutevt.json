@@ -69,5 +69,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:16Z"
+    },
+    "twitter": {
+        "kittyflutexbl": {
+            "id": "1447718945549701122",
+            "handle": "kittyflutexbl",
+            "displayName": "KittyfluteVT",
+            "description": "Partner on Twitch/Kick. ASMR creator and cosplayer.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1712815990893846528/8Ncm62gc_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1447718945549701122/1667330329/1500x500",
+            "followersCount": 11630,
+            "followingCount": 591,
+            "postsCount": 2500,
+            "accountCreatedAt": "2021-10-12T00:21:17.061Z",
+            "profileUrl": "https://x.com/Kittyflutexbl",
+            "fetchedAt": "2026-08-08T23:55:58Z"
+        }
     }
 }

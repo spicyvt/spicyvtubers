@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:54Z"
+    },
+    "twitter": {
+        "kanakovt": {
+            "id": "1301643739987763200",
+            "handle": "kanakovt",
+            "displayName": "Kana 💌",
+            "description": "✧༺ Bratty Kittygirl Princess ༻✧ https://t.co/aAdR9eMys7 ✧ Top 200 Blue Twitch",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2072653309769318400/DqRIw2Td_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1301643739987763200/1766448999/1500x500",
+            "followersCount": 10439,
+            "followingCount": 281,
+            "postsCount": 828,
+            "accountCreatedAt": "2020-09-03T22:10:34.949Z",
+            "profileUrl": "https://x.com/kanakovt",
+            "fetchedAt": "2026-08-08T23:53:06Z"
+        },
+        "kanakovtuber": {
+            "id": "1815959540254531584",
+            "handle": "kanakovtuber",
+            "displayName": "Kanako",
+            "description": "✧༺ Domesticated Catgirl ༻✧ NSFW Account of @kanakovt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2011833590514958336/IsQlKRBz_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1815959540254531584/1768493481/1500x500",
+            "followersCount": 644,
+            "followingCount": 52,
+            "postsCount": 43,
+            "accountCreatedAt": "2024-07-24T03:58:39.425Z",
+            "profileUrl": "https://x.com/KanakoVTuber",
+            "fetchedAt": "2026-08-08T23:53:08Z"
+        }
     }
 }

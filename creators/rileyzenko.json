@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:03Z"
+    },
+    "twitter": {
+        "rileyzenko_vr": {
+            "id": "1478913880197939213",
+            "handle": "rileyzenko_vr",
+            "displayName": "Riley",
+            "description": "The other 99% of my content is at https://t.co/mdr8Y587jV",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2055371445979516928/iSwTTQdS_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1478913880197939213/1779500116/1500x500",
+            "followersCount": 18154,
+            "followingCount": 6120,
+            "postsCount": 7485,
+            "accountCreatedAt": "2022-01-06T02:19:12.710Z",
+            "profileUrl": "https://x.com/rileyzenko_vr",
+            "fetchedAt": "2026-08-09T00:04:05Z"
+        },
+        "rileyzenko_vt": {
+            "id": "1695160137973972992",
+            "handle": "rileyzenko_vt",
+            "displayName": "RileyZenko Ch. 💙",
+            "description": "boyfu. MDNI. always looking to collab, DM me.\n@rileyzenko_vr",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1944455369389953024/DDfcZpj__400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1695160137973972992/1715712515/1500x500",
+            "followersCount": 3871,
+            "followingCount": 1578,
+            "postsCount": 1847,
+            "accountCreatedAt": "2023-08-25T19:44:25.085Z",
+            "profileUrl": "https://x.com/rileyzenko_vt",
+            "fetchedAt": "2026-08-09T00:04:07Z"
+        }
     }
 }

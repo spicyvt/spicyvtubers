@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:58Z"
+    },
+    "twitter": {
+        "adora_pandara": {
+            "id": "1457361220730753043",
+            "handle": "adora_pandara",
+            "displayName": "💜Adora Pandara | VTUBER | (N)SFW VOICE ACTRESS💜",
+            "description": "NSFW and SFW content! VA (SFW) ACCOUNT: @PandaraOff ( My amazing mother: @maka_nyan_ and my brilliant dad: @ArsL2d )",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2077893666404769792/vi5tFoYi_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1457361220730753043/1672159884/1500x500",
+            "followersCount": 11070,
+            "followingCount": 294,
+            "postsCount": 5198,
+            "accountCreatedAt": "2021-11-07T14:56:29.509Z",
+            "profileUrl": "https://x.com/Adora_Pandara",
+            "fetchedAt": "2026-08-09T00:03:15Z"
+        },
+        "pandaraoff": {
+            "id": "1881491482710073345",
+            "handle": "pandaraoff",
+            "displayName": "PandaraVA",
+            "description": "Official SFW Pandara (Business) Account! (Main: @Adora_Pandara)",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1881516820084957184/TGXPwFbp_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1881491482710073345/1737423584/1500x500",
+            "followersCount": 431,
+            "followingCount": 8,
+            "postsCount": 10,
+            "accountCreatedAt": "2025-01-20T23:59:48.206Z",
+            "profileUrl": "https://x.com/PandaraOff",
+            "fetchedAt": "2026-08-09T00:24:00Z"
+        }
     }
 }

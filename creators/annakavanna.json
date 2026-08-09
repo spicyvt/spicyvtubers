@@ -78,5 +78,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:06Z"
+    },
+    "twitter": {
+        "annakavanna": {
+            "id": "502558702",
+            "handle": "annakavanna",
+            "displayName": "Anna",
+            "description": "A beep boop. I may even boop while I beep. It's a mood thing.\n\nThe machines will win, but it's okay we'll do it better anyways.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1735052696170979331/naZR122Y_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/502558702/1735344624/1500x500",
+            "followersCount": 1013,
+            "followingCount": 607,
+            "postsCount": 2004,
+            "accountCreatedAt": "2012-02-25T05:59:47.000Z",
+            "profileUrl": "https://x.com/Annakavanna",
+            "fetchedAt": "2026-08-09T00:17:15Z"
+        }
     }
 }

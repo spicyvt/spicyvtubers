@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:37Z"
+    },
+    "twitter": {
+        "ashegraysonvt": {
+            "id": "1537554789503860737",
+            "handle": "ashegraysonvt",
+            "displayName": "Ashe Grayson 🥀🐺",
+            "description": "18+ Bratty Werepire VTuber | Throne Partner •⩊•\nGunpla Noob • Souls Lover • Indie Junkie \n🎨 #AsheInks | 🔞 #AsheXole \n\n🔴 https://t.co/l74obO6wNI",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085625008978862081/Ps_59ueg_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1537554789503860737/1779918815/1500x500",
+            "followersCount": 4255,
+            "followingCount": 924,
+            "postsCount": 6024,
+            "accountCreatedAt": "2022-06-16T21:56:49.827Z",
+            "profileUrl": "https://x.com/AsheGraysonVT",
+            "fetchedAt": "2026-08-08T23:59:38Z"
+        },
+        "ashexole": {
+            "id": "1694081733191442432",
+            "handle": "ashexole",
+            "displayName": "Ashe Grayson NSFW 🥀🐺",
+            "description": "Boo, you found me | SFW @ashegraysonvt\nsometimes i write, mostly horny asf here\n\n🔞 #AsheXole",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2070267350168047617/5dlmtM58_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1694081733191442432/1782425175/1500x500",
+            "followersCount": 2048,
+            "followingCount": 344,
+            "postsCount": 1734,
+            "accountCreatedAt": "2023-08-22T20:19:12.852Z",
+            "profileUrl": "https://x.com/AsheXole",
+            "fetchedAt": "2026-08-08T23:59:39Z"
+        }
     }
 }

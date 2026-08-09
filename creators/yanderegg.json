@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-06T00:40:28Z"
+    },
+    "twitter": {
+        "yandereggsmr": {
+            "id": "1636165347345563648",
+            "handle": "yandereggsmr",
+            "displayName": "YanderEgg 🔪🐙",
+            "description": "Certified Yandere ‣ Twitch Partner ‣ 100k on YT ‣ ママ ‣ @kamochiruu | Rig ‣ @WoofNono | https://t.co/at9rggWr0I | Clips: #eggits",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2006001604416126976/vc0Dkgex_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1636165347345563648/1719142906/1500x500",
+            "followersCount": 10247,
+            "followingCount": 1890,
+            "postsCount": 3897,
+            "accountCreatedAt": "2023-03-16T00:40:03.073Z",
+            "profileUrl": "https://x.com/YanderEggsmr",
+            "fetchedAt": "2026-08-09T00:16:02Z"
+        },
+        "tentacroolvt": {
+            "id": "1831983617574055936",
+            "handle": "tentacroolvt",
+            "displayName": "Tentacrool",
+            "description": "See my Fansly/Patreon ~ 🔞Minors will be blocked!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2065304442828623872/OofsJUCp_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1831983617574055936/1781241926/1500x500",
+            "followersCount": 512,
+            "followingCount": 72,
+            "postsCount": 37,
+            "accountCreatedAt": "2024-09-06T09:12:04.993Z",
+            "profileUrl": "https://x.com/TentacroolVT",
+            "fetchedAt": "2026-08-09T00:16:03Z"
+        }
     }
 }

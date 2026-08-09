@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:49Z"
+    },
+    "twitter": {
+        "foxyreine": {
+            "id": "1102604014296809472",
+            "handle": "foxyreine",
+            "displayName": "Reine",
+            "description": "I enjoy drawing cute ladies | @GamerSupps code REINE | 👏https://t.co/V3eb8ylmiB | 📩foxyreine@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1639027152153894913/f_BEuqiL_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1102604014296809472/1750289580/1500x500",
+            "followersCount": 488087,
+            "followingCount": 782,
+            "postsCount": 26329,
+            "accountCreatedAt": "2019-03-04T16:17:37.219Z",
+            "profileUrl": "https://x.com/FoxyReine",
+            "fetchedAt": "2026-08-08T23:52:12Z"
+        },
+        "foxlyein": {
+            "id": "1529707671351222272",
+            "handle": "foxlyein",
+            "displayName": "Ein 😈 Reine Alter",
+            "description": "Virtual Cosplayer",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1878014275425648640/K7Pp74MF_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1529707671351222272/1757085690/1500x500",
+            "followersCount": 179213,
+            "followingCount": 118,
+            "postsCount": 4759,
+            "accountCreatedAt": "2022-05-26T06:15:46.837Z",
+            "profileUrl": "https://x.com/foxlyein",
+            "fetchedAt": "2026-08-08T23:52:14Z"
+        }
     }
 }

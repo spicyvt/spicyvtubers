@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:28Z"
+    },
+    "twitter": {
+        "kasykawaii": {
+            "id": "738952085081755649",
+            "handle": "kasykawaii",
+            "displayName": "kasy | カシー ❤️💢🎀",
+            "description": "your bratty demon princess and lewd ASMRtist! | ママ: @maiulive @skullaraa | 🎨#kasykanvas |  🎨🔞: #kasykunny | 18+ acc: @kasykunny",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2081435194507001856/xmqC7yOD_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/738952085081755649/1779868413/1500x500",
+            "followersCount": 11913,
+            "followingCount": 77,
+            "postsCount": 101,
+            "accountCreatedAt": "2016-06-04T04:34:40.962Z",
+            "profileUrl": "https://x.com/kasykawaii",
+            "fetchedAt": "2026-08-09T00:20:57Z"
+        },
+        "kasykunny": {
+            "id": "1585058801077698561",
+            "handle": "kasykunny",
+            "displayName": "kasy 🔞💢",
+            "description": "flattie and bratty 🔞 alt for @kasykawaii",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2081422156135542784/PI_qtsN1_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1585058801077698561/1779963339/1500x500",
+            "followersCount": 505,
+            "followingCount": 8,
+            "postsCount": 43,
+            "accountCreatedAt": "2022-10-26T00:01:01.538Z",
+            "profileUrl": "https://x.com/kasykunny",
+            "fetchedAt": "2026-08-09T00:20:59Z"
+        }
     }
 }

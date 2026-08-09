@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:01Z"
+    },
+    "twitter": {
+        "majoradragoon": {
+            "id": "1664682685308993538",
+            "handle": "majoradragoon",
+            "displayName": "Majora🖤🐉 Viking Water Dragon",
+            "description": "Goober Dragon with a sprinkle of brain rot✨| Aspiring VA🎙️\n\n🎨: #MajoraArt 🔞: #SpicyMajora\n\nママ: @LillyKuVT パパ: @LadyCheese1 \npfp: @Aris_Ignis",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2002677362203193344/5gmYGMHQ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1664682685308993538/1772311921/1500x500",
+            "followersCount": 471,
+            "followingCount": 460,
+            "postsCount": 673,
+            "accountCreatedAt": "2023-06-02T17:17:55.460Z",
+            "profileUrl": "https://x.com/MajoraDragoon",
+            "fetchedAt": "2026-08-09T00:16:55Z"
+        },
+        "darkmodemajora": {
+            "id": "1898924076187435009",
+            "handle": "darkmodemajora",
+            "displayName": "Majora | NSFW ACC🔞🐉",
+            "description": "✨Majora but more sussy✨NSFW account of @MajoraDragoon 🎨|🔞 #SpicyMajora",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1999523757107331078/jcEdrsI2_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1898924076187435009/1765558514/1500x500",
+            "followersCount": 81,
+            "followingCount": 62,
+            "postsCount": 57,
+            "accountCreatedAt": "2025-03-10T02:29:42.728Z",
+            "profileUrl": "https://x.com/darkmodemajora",
+            "fetchedAt": "2026-08-09T00:16:56Z"
+        }
     }
 }

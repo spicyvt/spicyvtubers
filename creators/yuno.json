@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:56Z"
+    },
+    "twitter": {
+        "yunorein": {
+            "id": "1618207580903411712",
+            "handle": "yunorein",
+            "displayName": "Yuno Rein | Vtuber 🌙",
+            "description": "🌙 SPICE @yunospice\n⭐ SFW/Vtuber side of Yuno Rein - \n⭐ASMR/Art creator\n⭐https://t.co/iJnv40HjLS",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1901764608970678272/lOhC_cjP_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1618207580903411712/1761717216/1500x500",
+            "followersCount": 1674,
+            "followingCount": 745,
+            "postsCount": 458,
+            "accountCreatedAt": "2023-01-25T11:22:14.976Z",
+            "profileUrl": "https://x.com/YunoRein",
+            "fetchedAt": "2026-08-09T00:14:30Z"
+        },
+        "yunospice": {
+            "id": "781203420019654656",
+            "handle": "yunospice",
+            "displayName": "🌙 Yuno Rein",
+            "description": "🌙 Illustrator - ASMRtist with a dose of spice~\n🌙 X NO AI X\n\n- https://t.co/oCr8hwEQmC\n- https://t.co/dWR2dysP7U",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2002556006522310656/yDrbdn1d_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/781203420019654656/1761717255/1500x500",
+            "followersCount": 7460,
+            "followingCount": 3909,
+            "postsCount": 1571,
+            "accountCreatedAt": "2016-09-28T18:46:24.213Z",
+            "profileUrl": "https://x.com/YunoSpice",
+            "fetchedAt": "2026-08-09T00:14:32Z"
+        }
     }
 }

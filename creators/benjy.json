@@ -86,5 +86,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:22Z"
+    },
+    "twitter": {
+        "benjyvr": {
+            "id": "1196511992254795777",
+            "handle": "benjyvr",
+            "displayName": "Benjy 🌙",
+            "description": "❤ Twitch #partner ★ cat creature ★ NSFW is: @BenjyVT ★ #VTuber #ENVtuber ★ 🎨 Art tags: #Artjy #Lewdjy ★ All socials below ❤",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1707756348476133376/LFitB7Wj_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1196511992254795777/1712567598/1500x500",
+            "followersCount": 64832,
+            "followingCount": 367,
+            "postsCount": 5103,
+            "accountCreatedAt": "2019-11-18T19:34:41.939Z",
+            "profileUrl": "https://x.com/BenjyVR",
+            "fetchedAt": "2026-08-09T00:20:25Z"
+        },
+        "benjyvt": {
+            "id": "1874643428455464960",
+            "handle": "benjyvt",
+            "displayName": "BenjyVT🔞",
+            "description": "NSFW content 🔞 no minors ★ SFW is: @BenjyVR ★ #VTuber #ENVtuber ★ 🎨 Art tags: #Artjy #Lewdjy ★ All socials below ❤",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1874653576431034368/hrufxu_h_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1874643428455464960/1735786431/1500x500",
+            "followersCount": 3759,
+            "followingCount": 5,
+            "postsCount": 7,
+            "accountCreatedAt": "2025-01-02T02:29:26.558Z",
+            "profileUrl": "https://x.com/BenjyVT",
+            "fetchedAt": "2026-08-09T00:20:27Z"
+        }
     }
 }

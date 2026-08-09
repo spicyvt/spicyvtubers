@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:16Z"
+    },
+    "twitter": {
+        "milkievt": {
+            "id": "1521965955181469696",
+            "handle": "milkievt",
+            "displayName": "Milkie! 💙🗡",
+            "description": "Cult Mommy Vtuber 🗡\n✦ Partnered Streamer\n✦ https://t.co/ZbqC7WYjQS\n✦ Art: #MilkArchives 🔞 #TasteofMilkie\n❤︎ @eca00000001 ❤︎",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1907539082961408000/vSVwErUA_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1521965955181469696/1743627733/1500x500",
+            "followersCount": 24224,
+            "followingCount": 292,
+            "postsCount": 6296,
+            "accountCreatedAt": "2022-05-04T21:32:25.837Z",
+            "profileUrl": "https://x.com/MilkieVT",
+            "fetchedAt": "2026-08-08T23:56:09Z"
+        },
+        "tasteofmilkie": {
+            "id": "1837005622518128642",
+            "handle": "tasteofmilkie",
+            "displayName": "Milkie",
+            "description": "@milkievt's side acct - Follow me there! 💙\n\n🔞 content & whatever else\nSPICY ASMR🌶️https://t.co/iiR53Wx4Rh\n\nArt: 🔞 #TasteofMilkie 🎨 #MilkArchives",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1928901391734525952/A7bzs7ZS_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1837005622518128642/1728689919/1500x500",
+            "followersCount": 11567,
+            "followingCount": 1,
+            "postsCount": 202,
+            "accountCreatedAt": "2024-09-20T05:47:39.704Z",
+            "profileUrl": "https://x.com/TasteofMilkie",
+            "fetchedAt": "2026-08-08T23:56:10Z"
+        }
     }
 }

@@ -1,0 +1,99 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "267395510",
+        "login": "kohakukurovt",
+        "displayName": "KohakuKuroVT",
+        "createdAt": "2018-10-16T22:11:54.38636Z",
+        "updatedAt": "2026-08-08T16:42:01.754918Z",
+        "description": "",
+        "primaryColorHex": "AC16C4",
+        "followers": {
+            "totalCount": 1968
+        },
+        "follows": {
+            "totalCount": 250
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-08T01:54:02.052498Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55937e18-d921-422c-94bd-ea456c6200c6-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/637103f7-ba91-45fc-a137-ff61e5addc47-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-09T00:23:54Z"
+    },
+    "twitter": {
+        "kohakukurovt": {
+            "id": "1550629897596551171",
+            "handle": "kohakukurovt",
+            "displayName": "Kohaku Kuro🐈‍⬛⚡️",
+            "description": "—————————\n ⚠️UNDER⚠️\nCONSTRUCTION\n—————————",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085910937362378752/VA2y_gEx_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1550629897596551171/1786154907/1500x500",
+            "followersCount": 5740,
+            "followingCount": 7495,
+            "postsCount": 82218,
+            "accountCreatedAt": "2022-07-22T23:52:41.285Z",
+            "profileUrl": "https://x.com/KohakuKuroVT",
+            "fetchedAt": "2026-08-09T00:23:57Z"
+        }
+    },
+    "fansly": {
+        "id": "322870196521938944",
+        "username": "ItzJessieeeee",
+        "displayName": null,
+        "version": 4,
+        "followCount": 581,
+        "statusId": 1,
+        "accountMediaLikes": 206,
+        "postLikes": 97,
+        "about": "Hi all, I’m Jessie! I'm your lewd nerdy succubus waifu~\nI'll be using this page to give you all kinds of fun content ranging from posts to the occasional stream! I hope you'll support me~❤️",
+        "location": "",
+        "streaming": {
+            "accountId": "322870196521938944",
+            "channel": {
+                "id": "905264216376627201",
+                "accountId": "322870196521938944",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.m0yNv19TI7mR.m3u8",
+                "chatRoomId": "905264557558087680",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1777326168000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "905264216376627202",
+                    "historyId": "905267847855370241",
+                    "channelId": "905264216376627201",
+                    "accountId": "322870196521938944",
+                    "title": "TEST STREAM: IGNORE",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2,
+                    "createdAt": 1777326168000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1777327057000,
+                    "startedAt": 1777327034000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "905265833456988161",
+                                "streamId": "905264216376627202",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"905265820089720832\\\",\\\"label\\\":\\\"TEST\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-09T00:24:08Z"
+    }
+}

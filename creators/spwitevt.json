@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:56Z"
+    },
+    "twitter": {
+        "spwitevt": {
+            "id": "1065580004946272257",
+            "handle": "spwitevt",
+            "displayName": "Spwite ✨⛓️",
+            "description": "✦ your favorite demonic cult leader Vtuber! ✦ @Twitch @YouTube Partner ✦ fanart: #SpwiteRKGK ✦ H: @doshi00_ ✦ @GamerSupps @ViteRamen (code: SPWITE) ✦",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1802832804834934784/IVM7qj8r_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1065580004946272257/1729141901/1500x500",
+            "followersCount": 2966,
+            "followingCount": 319,
+            "postsCount": 14997,
+            "accountCreatedAt": "2018-11-22T12:17:25.475Z",
+            "profileUrl": "https://x.com/SpwiteVT",
+            "fetchedAt": "2026-08-09T00:15:23Z"
+        },
+        "darklordwaifu": {
+            "id": null,
+            "handle": "darklordwaifu",
+            "displayName": "🔞 darklordwaifu",
+            "description": "alt acc for my dark or lewd thoughts || privated due to bots",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1622057682533515264/RHNGti8r_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1278474033982390272/1675563663/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2020-07-01T23:42:36.280Z",
+            "profileUrl": "https://x.com/darklordwaifu",
+            "fetchedAt": "2026-08-09T00:15:25Z"
+        }
     }
 }

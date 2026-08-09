@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:54Z"
+    },
+    "twitter": {
+        "fluffycorgivr": {
+            "id": "1642271226151284736",
+            "handle": "fluffycorgivr",
+            "displayName": "FluffyCorgiVR",
+            "description": "https://t.co/RdEafsXkHa\n+18 content\n No minors!\nFurry Account : @FloofyCorgiVR ♥",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2027486344969392128/DjDOIlJO_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1642271226151284736/1732697330/1500x500",
+            "followersCount": 16386,
+            "followingCount": 366,
+            "postsCount": 1079,
+            "accountCreatedAt": "2023-04-01T21:02:40.536Z",
+            "profileUrl": "https://x.com/FluffyCorgiVR",
+            "fetchedAt": "2026-08-08T23:53:01Z"
+        },
+        "floofycorgivr": {
+            "id": null,
+            "handle": "floofycorgivr",
+            "displayName": "FloofyCorgiVR",
+            "description": "More Furry side of your favorite Corgi ♥\nMain account : @FluffyCorgiVR",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2056969585232953344/SBhcuMil_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2056445118282928129/1779131056/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2026-05-18T18:41:43.315Z",
+            "profileUrl": "https://x.com/FloofyCorgiVR",
+            "fetchedAt": "2026-08-08T23:53:03Z"
+        }
     }
 }

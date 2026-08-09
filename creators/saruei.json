@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:02Z"
+    },
+    "twitter": {
+        "saruei": {
+            "id": "711136723623878656",
+            "handle": "saruei",
+            "displayName": "Saruei 💥",
+            "description": "🔞 #saruecchi 🎨#illustruei \n✧@GamerSupps Code: Saruei \n\nLinks✧https://t.co/E4Qdkppbvd",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2066297618506928128/rcgrVvA2_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/711136723623878656/1780797827/1500x500",
+            "followersCount": 625789,
+            "followingCount": 3953,
+            "postsCount": 11098,
+            "accountCreatedAt": "2016-03-19T10:26:21.997Z",
+            "profileUrl": "https://x.com/saruei",
+            "fetchedAt": "2026-08-08T23:43:08Z"
+        },
+        "saruecchi": {
+            "id": null,
+            "handle": "saruecchi",
+            "displayName": "Saruecchi 🔞",
+            "description": "Main at @Saruei\n#saruecchi for my #lewdtuber tags\n\nDo not repost\nLinks✧https://t.co/nswS2I2OnF\nFansly✧https://t.co/pKOYxjOEK0",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1611723023488262146/yl0acp-Y_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1487969912060579840/1673099688/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2022-01-31T02:04:22.450Z",
+            "profileUrl": "https://x.com/Saruecchi",
+            "fetchedAt": "2026-08-08T23:43:09Z"
+        }
     }
 }

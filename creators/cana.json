@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:02Z"
+    },
+    "twitter": {
+        "canariavtuber": {
+            "id": "1541758542746640384",
+            "handle": "canariavtuber",
+            "displayName": "Cana🦋🔜 VeXpo",
+            "description": "♡ @Twitch Partner \n♡ Butterfly Succubus VTuber \n♡ママ ‣ @ijacray82 | Live 2D ‣ @suiika___ \n♡ Links : https://t.co/g5tY6c7fMZ \n🎨#CanariaDraw | 🔞#CanariSus",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1959755250048368640/w2whiHVS_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1541758542746640384/1771274448/1500x500",
+            "followersCount": 60015,
+            "followingCount": 1648,
+            "postsCount": 17878,
+            "accountCreatedAt": "2022-06-28T12:21:12.519Z",
+            "profileUrl": "https://x.com/CanariaVTuber",
+            "fetchedAt": "2026-08-08T23:43:25Z"
+        },
+        "susnaria": {
+            "id": "919346549557268480",
+            "handle": "susnaria",
+            "displayName": "Cana 🔞",
+            "description": "NSFW account of @CanariaVTuber \nMinors stay away \nSocials : https://t.co/oB8VHkSuNj",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1969755469737500672/weyjuvRL_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/919346549557268480/1758461276/1500x500",
+            "followersCount": 36123,
+            "followingCount": 807,
+            "postsCount": 17292,
+            "accountCreatedAt": "2017-10-14T23:37:52.867Z",
+            "profileUrl": "https://x.com/Susnaria",
+            "fetchedAt": "2026-08-08T23:43:27Z"
+        }
     }
 }

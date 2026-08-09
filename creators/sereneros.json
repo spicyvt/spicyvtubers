@@ -23,5 +23,35 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/798f7991-e043-4ce8-8de8-1872a3444567-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/db4a6fa6-7998-4f14-943d-1505939de78d-profile_banner-480.png"
+    },
+    "twitter": {
+        "seren_eros": {
+            "id": "1336212859458637825",
+            "handle": "seren_eros",
+            "displayName": "EROS ❤️‍🔥⛓️ VA",
+            "description": "Tough Love ASMR RP VA | Devil Domme VTuber | 🔞: https://t.co/meEBh4Tg89 | ❤️‍🔥⛓️🎮: https://t.co/3fmuM2K6e8 | 🦇Sfw: @Seren_Thorne",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1956114652363980804/R2EXrMyY_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1336212859458637825/1755188294/1500x500",
+            "followersCount": 16601,
+            "followingCount": 38,
+            "postsCount": 9344,
+            "accountCreatedAt": "2020-12-08T07:35:55.719Z",
+            "profileUrl": "https://x.com/Seren_Eros",
+            "fetchedAt": "2026-08-09T00:20:50Z"
+        },
+        "seren_thorne": {
+            "id": "1411965780216979456",
+            "handle": "seren_thorne",
+            "displayName": "Seren Thorne 🦇 VA",
+            "description": "ASMR RP VA | Dhampir Lore Keeper 🦇 | 🔞: @Seren_Eros | Pfp: @Nogatsu1 | Logo: @Enso_exe | 🎨: #Serenillust",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2045563497124069376/EakP5Zlz_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1411965780216979456/1776533005/1500x500",
+            "followersCount": 3235,
+            "followingCount": 501,
+            "postsCount": 3029,
+            "accountCreatedAt": "2021-07-05T08:30:58.067Z",
+            "profileUrl": "https://x.com/Seren_Thorne",
+            "fetchedAt": "2026-08-09T00:20:52Z"
+        }
     }
 }

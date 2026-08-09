@@ -42,5 +42,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-07T22:35:35Z"
+    },
+    "twitter": {
+        "oravty": {
+            "id": "4809933208",
+            "handle": "oravty",
+            "displayName": "Ora",
+            "description": "eCat 🔞\nhttps://t.co/DQ61uUG0YB",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1930824472929476608/MM-9bOT1_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/4809933208/1643747067/1500x500",
+            "followersCount": 2898,
+            "followingCount": 1667,
+            "postsCount": 1437,
+            "accountCreatedAt": "2016-01-15T02:25:26.548Z",
+            "profileUrl": "https://x.com/Oravty",
+            "fetchedAt": "2026-08-09T00:22:05Z"
+        }
     }
 }

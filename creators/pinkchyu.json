@@ -23,5 +23,49 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e896554d-b5ed-459d-ab5f-056a7f9d39a3-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/18d94b1d-7f4c-4156-b06a-14102ac14975-profile_banner-480.png"
+    },
+    "twitter": {
+        "pinkchyuva": {
+            "id": "1799302115791126528",
+            "handle": "pinkchyuva",
+            "displayName": "Pinkchyu Vtuber",
+            "description": "🖤Best Goth Waifu ≽^-⩊-^≼ ➡️Main: @pinkchyu NSFW: @pinkchyunsfw lewdtuber https://t.co/TPpRunSSxy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1866651213615276032/AKBbkTNt_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1799302115791126528/1728770662/1500x500",
+            "followersCount": 30230,
+            "followingCount": 120,
+            "postsCount": 262,
+            "accountCreatedAt": "2024-06-08T04:47:36.704Z",
+            "profileUrl": "https://x.com/pinkchyuva",
+            "fetchedAt": "2026-08-09T00:12:03Z"
+        },
+        "pinkchyu": {
+            "id": "933880813762043904",
+            "handle": "pinkchyu",
+            "displayName": "Pinkchyu",
+            "description": "💕 Ur favorite Goth Girl @pinkychuwu",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1917132925214371840/4TNd7k6V_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/933880813762043904/1748289083/1500x500",
+            "followersCount": 720950,
+            "followingCount": 540,
+            "postsCount": 769,
+            "accountCreatedAt": "2017-11-24T02:11:51.464Z",
+            "profileUrl": "https://x.com/pinkchyu",
+            "fetchedAt": "2026-08-09T00:12:04Z"
+        },
+        "pinkychuwu": {
+            "id": "1637012794397585410",
+            "handle": "pinkychuwu",
+            "displayName": "Pinkchyu",
+            "description": "Cosplayer and Goth Metalhead 🖤 Alt for @pinkchyu",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1957203141675323392/0w0ZM8Rv_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1637012794397585410/1755468577/1500x500",
+            "followersCount": 440109,
+            "followingCount": 43,
+            "postsCount": 260,
+            "accountCreatedAt": "2023-03-18T08:47:32.217Z",
+            "profileUrl": "https://x.com/pinkychuwu",
+            "fetchedAt": "2026-08-09T00:12:06Z"
+        }
     }
 }

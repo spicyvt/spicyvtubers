@@ -23,5 +23,35 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fa2e8cc6-cda7-41f2-81bb-a59a871b3923-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/87d23c3b-6fd1-4dd2-be11-d9779fb239a3-profile_banner-480.png"
+    },
+    "twitter": {
+        "miidereasmr": {
+            "id": "2021931162084765696",
+            "handle": "miidereasmr",
+            "displayName": "Miidere Yuzuki 🦊🩷",
+            "description": "Comfy fox girl ASMRist\nCome sleep on my lap whilst I whisper you to sleep 🦊🩷\n\n🎨 #dereart 🔞#miiechi\n\nUse @GamerSupps code Miidere\nMy silly sister @miwomizuki",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2021931403806756864/8oztYIIE_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2021931162084765696/1771062572/1500x500",
+            "followersCount": 56,
+            "followingCount": 9,
+            "postsCount": 3,
+            "accountCreatedAt": "2026-02-12T12:55:37.358Z",
+            "profileUrl": "https://x.com/miidereasmr",
+            "fetchedAt": "2026-08-09T00:15:14Z"
+        },
+        "miwomizuki": {
+            "id": "448562289",
+            "handle": "miwomizuki",
+            "displayName": "Miwo Mizuki 💜🪽",
+            "description": "Bratty angel cat variety streamer! ⚠️ I have chronic fatigue so im always sleepy 😴 💜 USE CODE MIWO @gamersupps 📧: miwomizuki@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1990957802114985984/rJCNNE3f_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/448562289/1782646742/1500x500",
+            "followersCount": 10690,
+            "followingCount": 572,
+            "postsCount": 2380,
+            "accountCreatedAt": "2011-12-28T04:11:18.000Z",
+            "profileUrl": "https://x.com/miwomizuki",
+            "fetchedAt": "2026-08-09T00:15:16Z"
+        }
     }
 }

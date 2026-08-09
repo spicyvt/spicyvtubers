@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:21:12Z"
+    },
+    "twitter": {
+        "mitchiesoren": {
+            "id": "1628974831168368640",
+            "handle": "mitchiesoren",
+            "displayName": "Mitchie Soren 🎀🦇 SABOTEN CON",
+            "description": "👻 Vampire VTuber (NOT a succubus!) | 🔞 | i/h: @grissat_ @DRabbitzDrtz | All links: https://t.co/O4M0p5SFNT 👻",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2073753249513971712/aUvHBy3X_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1628974831168368640/1781924011/1500x500",
+            "followersCount": 23570,
+            "followingCount": 2209,
+            "postsCount": 25847,
+            "accountCreatedAt": "2023-02-24T04:27:25.172Z",
+            "profileUrl": "https://x.com/MitchieSoren",
+            "fetchedAt": "2026-08-08T23:51:11Z"
+        },
+        "mitchielewd": {
+            "id": "2044583673446518784",
+            "handle": "mitchielewd",
+            "displayName": "Mitchie Soren 🍹🦇",
+            "description": "🏖️ NSFW side account for @MitchieSoren 🔞 | i/h: @Fuyu_2320 @lity_chann | All links: https://t.co/ABAtHYlHN7 🏖️",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2054712645022801922/4LWSLFh5_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2044583673446518784/1778592946/1500x500",
+            "followersCount": 7029,
+            "followingCount": 42,
+            "postsCount": 972,
+            "accountCreatedAt": "2026-04-16T01:08:35.379Z",
+            "profileUrl": "https://x.com/MitchieLewd",
+            "fetchedAt": "2026-08-08T23:51:13Z"
+        }
     }
 }

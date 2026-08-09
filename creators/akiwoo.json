@@ -78,5 +78,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:14Z"
+    },
+    "twitter": {
+        "akiwoolive": {
+            "id": "170665940",
+            "handle": "akiwoolive",
+            "displayName": "akiwoo 🐮 cowtuber",
+            "description": "australian cow vtuber | mentally deficient partnered twitch streamer | metalcore enjoyer | relapsed mmo addict | vrchat junkie | full-time loser  🏳️‍⚧️",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1622757200241524738/YTPiipP1_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/170665940/1675730442/1500x500",
+            "followersCount": 6329,
+            "followingCount": 545,
+            "postsCount": 706,
+            "accountCreatedAt": "2010-07-25T12:29:20.000Z",
+            "profileUrl": "https://x.com/AkiwooLive",
+            "fetchedAt": "2026-08-09T00:06:31Z"
+        }
     }
 }

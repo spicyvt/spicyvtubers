@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:12Z"
+    },
+    "twitter": {
+        "rynfrei": {
+            "id": "2044433102433550336",
+            "handle": "rynfrei",
+            "displayName": "🦊Rynfrei𓆝 FISH FOX🍣",
+            "description": "The Fresh Fish of Pond-Air 🍣 Koisune\n✨Whimsy with a sprinkle of horror 🔪\n🌐: https://t.co/GLCgDaiUmG | 📧: Rynfrei.gg@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2075759450124853248/N8_Ok1LY_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2044433102433550336/1783734561/1500x500",
+            "followersCount": 407,
+            "followingCount": 155,
+            "postsCount": 207,
+            "accountCreatedAt": "2026-04-15T15:11:09.636Z",
+            "profileUrl": "https://x.com/Rynfrei",
+            "fetchedAt": "2026-08-09T00:18:52Z"
+        },
+        "rynhub": {
+            "id": "1549376095182434304",
+            "handle": "rynhub",
+            "displayName": "🦊 NSFW Ryn 𓆝 𓆟 Pond Star 🍥",
+            "description": "NSFW Koisune🔞 |👑 spoil me: https://t.co/15nUv7O838\n🍑:https://t.co/5O6txNd60S | \nall links ➡ https://t.co/n9Nqp8HA8B |",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2044514491086606337/2wY8FdHx_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1549376095182434304/1771528289/1500x500",
+            "followersCount": 11628,
+            "followingCount": 718,
+            "postsCount": 4156,
+            "accountCreatedAt": "2022-07-19T12:50:33.499Z",
+            "profileUrl": "https://x.com/RynHub",
+            "fetchedAt": "2026-08-09T00:18:54Z"
+        }
     }
 }

@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:00Z"
+    },
+    "twitter": {
+        "megalodonvt": {
+            "id": "1579232673675071496",
+            "handle": "megalodonvt",
+            "displayName": "MegalodonVT | Shark Vtuber 🦈🫧💜",
+            "description": "My names Mega!♡ Links : https://t.co/qKd0hYqfVM |♡ Art: @Blinchii ♡ Rig: @Verse_Erromango | bff @Mommy_Dawn_  | ♡ Pfp @mytb_mono | Banner @drawinggranny",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1965363471735762944/yTpQ8KqZ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1579232673675071496/1730076724/1500x500",
+            "followersCount": 131012,
+            "followingCount": 1,
+            "postsCount": 2322,
+            "accountCreatedAt": "2022-10-09T22:09:54.942Z",
+            "profileUrl": "https://x.com/MegalodonVT",
+            "fetchedAt": "2026-08-08T23:54:00Z"
+        },
+        "mommy_dawn_": {
+            "id": "1888915676175405056",
+            "handle": "mommy_dawn_",
+            "displayName": "MommyDawn",
+            "description": "Shark Vtuber, you can call me Dawn ♡\n\n𐙚 Art tag:  #MommyMegArt\n𐙚 Art: @miiikaccino\n𐙚 Rig: @Rabbitto88\n\n𐙚  All links ( • ᴗ - ) ✧: https://t.co/jj1QiuyicP",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1891729595994460160/N12psIn7_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1888915676175405056/1739858457/1500x500",
+            "followersCount": 40150,
+            "followingCount": 9,
+            "postsCount": 514,
+            "accountCreatedAt": "2025-02-10T11:40:16.763Z",
+            "profileUrl": "https://x.com/Mommy_Dawn_",
+            "fetchedAt": "2026-08-08T23:54:02Z"
+        }
     }
 }

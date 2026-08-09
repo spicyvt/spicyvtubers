@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:02Z"
+    },
+    "twitter": {
+        "elorapard": {
+            "id": "1547243712379588610",
+            "handle": "elorapard",
+            "displayName": "Elo ❄️ Snow Leppy Vtuber",
+            "description": "❄️ ғʀ ᴇɴ Loves Cats & Baking\n💎 Twitch Partner https://t.co/LEMsrrokw4\n🌨️ @Gamersupps code : leppy\n🤍 fan art #LeppyGallery \nママ @Tofuubearart @KoumoriVa",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2011491183571124224/9CbiMuQ4_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1547243712379588610/1757249844/1500x500",
+            "followersCount": 34597,
+            "followingCount": 824,
+            "postsCount": 5853,
+            "accountCreatedAt": "2022-07-13T15:37:11.615Z",
+            "profileUrl": "https://x.com/Elorapard",
+            "fetchedAt": "2026-08-08T23:43:00Z"
+        },
+        "naughtyleppy": {
+            "id": "1733700761542930432",
+            "handle": "naughtyleppy",
+            "displayName": "Leppy 🌨️🤍",
+            "description": "🔞 Official Spicy account of elorapard ❄️ fan art #SpicyLeppy 🤍 NSFW Art, Animations & ASMR on Fansly - Patreon https://t.co/Sge2D389oj",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2011502762488709122/7-XgcomA_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1733700761542930432/1768414606/1500x500",
+            "followersCount": 11733,
+            "followingCount": 281,
+            "postsCount": 208,
+            "accountCreatedAt": "2023-12-10T04:14:01.249Z",
+            "profileUrl": "https://x.com/Naughtyleppy",
+            "fetchedAt": "2026-08-08T23:43:01Z"
+        }
     }
 }

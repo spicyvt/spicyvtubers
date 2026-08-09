@@ -23,5 +23,35 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e501c2c5-79e8-44ed-ac1d-40056b6e6609-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/44f95244-ca5e-4a79-9243-ee070e7c80f0-profile_banner-480.png"
+    },
+    "twitter": {
+        "azusakairu": {
+            "id": "1963083459334897664",
+            "handle": "azusakairu",
+            "displayName": "Azusa Kairu 🦎💥Kaiju Axolotl",
+            "description": "Axolotl Kaiju 🦎💥 vtuber Azu (Zilla) \n▸Cosplay IRL: @MangolooCosplay\n✉️ AzusaKairu@gmail.com \nModel by @KvakozawrStudio\n🎨@Nantokutan ⚙️ @DragonheartCafe",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2080484663835942912/zBXAwrG9_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1963083459334897664/1765634340/1500x500",
+            "followersCount": 3283,
+            "followingCount": 752,
+            "postsCount": 1379,
+            "accountCreatedAt": "2025-09-03T03:36:01.568Z",
+            "profileUrl": "https://x.com/AzusaKairu",
+            "fetchedAt": "2026-08-09T00:17:55Z"
+        },
+        "mangoloocosplay": {
+            "id": "2972020679",
+            "handle": "mangoloocosplay",
+            "displayName": "Mangoloo Cosplays",
+            "description": "Cosplayer, Content Creator, 2K #NextMakers, Twitch Partner, Anime, Video games  \n✉ MangolooCosplays@gmail.com\nVtuber: @AzusaKairu 🦎💥",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1442648867342852099/dBIxPn8t_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2972020679/1662170189/1500x500",
+            "followersCount": 32616,
+            "followingCount": 1795,
+            "postsCount": 10919,
+            "accountCreatedAt": "2015-01-10T20:49:58.599Z",
+            "profileUrl": "https://x.com/MangolooCosplay",
+            "fetchedAt": "2026-08-09T00:17:57Z"
+        }
     }
 }

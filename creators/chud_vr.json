@@ -78,5 +78,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:54Z"
+    },
+    "twitter": {
+        "chud_vr": {
+            "id": "1546996611213139968",
+            "handle": "chud_vr",
+            "displayName": "Chuddie",
+            "description": "Mute\nhuh?\nI stream and create avatars ^^\nhttps://t.co/gh2nS0bzy8",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1928492043535343616/_rxjB5IV_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1546996611213139968/1768364042/1500x500",
+            "followersCount": 5554,
+            "followingCount": 159,
+            "postsCount": 163,
+            "accountCreatedAt": "2022-07-12T23:15:31.275Z",
+            "profileUrl": "https://x.com/Chud_VR",
+            "fetchedAt": "2026-08-08T23:52:42Z"
+        }
     }
 }

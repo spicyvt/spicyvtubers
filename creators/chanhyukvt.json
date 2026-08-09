@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:16Z"
+    },
+    "twitter": {
+        "chanhyukvt": {
+            "id": "1563728193592360961",
+            "handle": "chanhyukvt",
+            "displayName": "Chan Hyuk 🤍🐯",
+            "description": "Incubus white tiger Vtuber/Servant/himbo 🤍🐯 🔞 #HyukArt https://t.co/NuwlJYACes mama: @GT_DunE Rig: @eieruga alt/VA: @ChanhyukVA",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1902511137863675904/T0_fk5MJ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1563728193592360961/1715367722/1500x500",
+            "followersCount": 84379,
+            "followingCount": 1097,
+            "postsCount": 9904,
+            "accountCreatedAt": "2022-08-28T03:21:11.069Z",
+            "profileUrl": "https://x.com/chanhyukvt",
+            "fetchedAt": "2026-08-08T23:56:25Z"
+        },
+        "chanhyukva": {
+            "id": "1986667863424573442",
+            "handle": "chanhyukva",
+            "displayName": "Chan🐯",
+            "description": "Cardio Bunny/ASMR 🤍",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1986670351552589824/Aw8cRJPm_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1986667863424573442/1764603448/1500x500",
+            "followersCount": 8280,
+            "followingCount": 5,
+            "postsCount": 265,
+            "accountCreatedAt": "2025-11-07T05:31:53.792Z",
+            "profileUrl": "https://x.com/ChanhyukVA",
+            "fetchedAt": "2026-08-08T23:56:27Z"
+        }
     }
 }

@@ -69,5 +69,49 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:14Z"
+    },
+    "twitter": {
+        "frankenplushie": {
+            "id": "1383121522408054784",
+            "handle": "frankenplushie",
+            "displayName": "Plushie 🧟‍♀️🐾🧵",
+            "description": "MAIN🔞 @plushiesuccubus • Chronically ill frankenplushie • ArtTag: #plushiegallery • ⚙️@leaxerrose • 🎨@geckobon • Banner: 𝐿𝑖𝑛𝑘𝑖𝑡𝑖𝑛 • PFP: @miragemybae",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2029676699562958848/Xr9puVoB_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1383121522408054784/1688690038/1500x500",
+            "followersCount": 26273,
+            "followingCount": 3799,
+            "postsCount": 1158,
+            "accountCreatedAt": "2021-04-16T18:15:44.910Z",
+            "profileUrl": "https://x.com/frankenplushie",
+            "fetchedAt": "2026-08-09T00:05:56Z"
+        },
+        "plushiesuccubus": {
+            "id": "1407849213304659968",
+            "handle": "plushiesuccubus",
+            "displayName": "Plush🪦",
+            "description": "ASD Chronically ill goth girl who likes to get silly and naked on cam • SFW @plushiesux • vtuber @frankenplushie • https://t.co/FoJWXh3yDe",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1852858576185982976/PuDNa4kw_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1407849213304659968/1774538933/1500x500",
+            "followersCount": 222355,
+            "followingCount": 5040,
+            "postsCount": 11901,
+            "accountCreatedAt": "2021-06-23T23:53:44.418Z",
+            "profileUrl": "https://x.com/plushiesuccubus",
+            "fetchedAt": "2026-08-09T00:05:57Z"
+        },
+        "plushiesux": {
+            "id": "1662843661409763329",
+            "handle": "plushiesux",
+            "displayName": "Plushie",
+            "description": "SFW alt for @plushiesuccubus // I love all things nerdy and horror! // 4’10” sleepy goth girl",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2035138500090372096/DMhL5CMy_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1662843661409763329/1685287939/1500x500",
+            "followersCount": 11085,
+            "followingCount": 67,
+            "postsCount": 94,
+            "accountCreatedAt": "2023-05-28T15:30:25.271Z",
+            "profileUrl": "https://x.com/plushiesux",
+            "fetchedAt": "2026-08-09T00:05:59Z"
+        }
     }
 }

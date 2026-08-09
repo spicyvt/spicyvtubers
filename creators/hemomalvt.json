@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:26Z"
+    },
+    "twitter": {
+        "hemomal": {
+            "id": "1526978638616346628",
+            "handle": "hemomal",
+            "displayName": "Hemomal 🐰 VBrat , ’-",
+            "description": "🩸Mal | Unlicensed nurse bunny | 🎨: #HemoArt | 🔴: #HemoLive | 20 | PFP : @suikarin_ #Hemostream | She/Her MDNI!! Model by @/nineteenn1 🔞twt @AltMal_",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1981510012900909056/uFNKxr0L_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1526978638616346628/1769792792/1500x500",
+            "followersCount": 19496,
+            "followingCount": 2444,
+            "postsCount": 7900,
+            "accountCreatedAt": "2022-05-18T17:31:09.402Z",
+            "profileUrl": "https://x.com/Hemomal",
+            "fetchedAt": "2026-08-08T23:57:55Z"
+        },
+        "altmal_": {
+            "id": "2037605062902439937",
+            "handle": "altmal_",
+            "displayName": "Mal",
+            "description": "@HemoMal ‘s alt account",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2037605724847849472/J6psiX2D_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2037605062902439937/1774672022/1500x500",
+            "followersCount": 5995,
+            "followingCount": 43,
+            "postsCount": 110,
+            "accountCreatedAt": "2026-03-27T18:59:08.030Z",
+            "profileUrl": "https://x.com/Altmal_",
+            "fetchedAt": "2026-08-08T23:57:56Z"
+        }
     }
 }

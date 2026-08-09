@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:17Z"
+    },
+    "twitter": {
+        "neranyelvt": {
+            "id": null,
+            "handle": "neranyelvt",
+            "displayName": "Neranyel",
+            "description": "| Vtuber 🇦🇷 ✨ | 🔮 Bruja victoriana 🪄 | 🥓Connoisseur de milanesas 🥩 | \nMagia indecente🔞👉@NeranyelNSFW",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1820465980985790465/eveXzhbk_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1436484142859001856/1722867888/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2021-09-11T00:18:20.018Z",
+            "profileUrl": "https://x.com/NeranyelVT",
+            "fetchedAt": "2026-08-09T00:19:05Z"
+        },
+        "neranyelnsfw": {
+            "id": null,
+            "handle": "neranyelnsfw",
+            "displayName": "Neranyel 🔞NSFW",
+            "description": "🔮 Bruja tetona victoriana 🪄 | Magia indecente🔞| \nCon ropa👉 @NeranyelVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1957920150893518848/-1zOHlGV_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1957919892528656384/1755640913/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2025-08-19T21:37:45.731Z",
+            "profileUrl": "https://x.com/NeranyelNSFW",
+            "fetchedAt": "2026-08-09T00:19:07Z"
+        }
     }
 }

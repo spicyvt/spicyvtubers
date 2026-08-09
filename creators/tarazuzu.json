@@ -23,5 +23,35 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/71f6c638-eb0a-4fb3-9368-e2ef1399a556-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/73d670b6-b180-4ee7-9b72-6a6d07ef9ae7-profile_banner-480.png"
+    },
+    "twitter": {
+        "tarazuzu": {
+            "id": "1572117814106009600",
+            "handle": "tarazuzu",
+            "displayName": "Tarazuzu",
+            "description": "Hi I'm Tarazuzu! Your Local 18+ Kitsune, come and join us in the glade as we relax and have a great time! Have a great time with me. It'll be fun I promise.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1841081249043267584/gMP9uUAv_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1572117814106009600/1719277023/1500x500",
+            "followersCount": 406,
+            "followingCount": 592,
+            "postsCount": 740,
+            "accountCreatedAt": "2022-09-20T06:58:12.322Z",
+            "profileUrl": "https://x.com/Tarazuzu",
+            "fetchedAt": "2026-08-09T00:09:43Z"
+        }
+    },
+    "bluesky": {
+        "did": "did:plc:dzmfmhr6nzyy6quykixps42i",
+        "handle": "tarazuzu.bsky.social",
+        "displayName": "Tarazuzu",
+        "description": "Hello I'm Tarazuzu I stream on Twitch and I'm your local Kitsune Queen https://www.twitch.tv/tarazuzu\nBackground by ‪@kaienma.bsky.social‬\nProfile by @casittarius.bsky.social\n#Tarart  = Tarazuzu art\n#lewdzuzu = Lewd Tarazuzu art",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzmfmhr6nzyy6quykixps42i/bafkreiaxhbu7xdw3puyd3b7vzys43mp6gkxl2zytbpghov3omgy2hzinym",
+        "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:dzmfmhr6nzyy6quykixps42i/bafkreie5arlomwhjzjtdd622r6ipsidv2grlri6opjvxdfuwx3ppulxtei",
+        "followersCount": 529,
+        "followingCount": 437,
+        "postsCount": 813,
+        "accountCreatedAt": "2024-02-16T09:16:03.918Z",
+        "profileUrl": "https://bsky.app/profile/tarazuzu.bsky.social",
+        "fetchedAt": "2026-08-09T00:23:23Z"
     }
 }

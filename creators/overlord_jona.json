@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:37Z"
+    },
+    "twitter": {
+        "overlord_jona": {
+            "id": "1753541891323289600",
+            "handle": "overlord_jona",
+            "displayName": "🦊Overlord Jona (AGENT OF CHAOS)🦊",
+            "description": "🦊Disgaea - Variety\n🦊@Twitch Affiliate\n🦊Credits: https://t.co/olQKGtCUpu\n🦊Chaotic Fox Overlord\nhttps://t.co/Rcsg8Z5zB0",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2053972281089466368/B1B5qXgs_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1753541891323289600/1738859397/1500x500",
+            "followersCount": 1927,
+            "followingCount": 383,
+            "postsCount": 3818,
+            "accountCreatedAt": "2024-02-02T22:12:31.193Z",
+            "profileUrl": "https://x.com/Overlord_Jona",
+            "fetchedAt": "2026-08-09T00:00:02Z"
+        },
+        "overlordshoard": {
+            "id": "1880720750056718336",
+            "handle": "overlordshoard",
+            "displayName": "Jona",
+            "description": "🔞NSFW account of @overlord_jona\npfp done by @Vdrawstuff\nhttps://t.co/oqXrdFZIch\nhttps://t.co/GIHZBFkWqj\n#Jonahole",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1880805382651576320/L93Chcaw_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1880720750056718336/1737236447/1500x500",
+            "followersCount": 124,
+            "followingCount": 53,
+            "postsCount": 229,
+            "accountCreatedAt": "2025-01-18T20:55:52.553Z",
+            "profileUrl": "https://x.com/OverlordsHoard",
+            "fetchedAt": "2026-08-09T00:00:03Z"
+        }
     }
 }

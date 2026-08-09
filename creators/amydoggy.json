@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:09Z"
+    },
+    "twitter": {
+        "amydoggyvr": {
+            "id": null,
+            "handle": "amydoggyvr",
+            "displayName": "LewdPinkDog",
+            "description": "35 | (She/Her) | Streamer | Full Time Creator | 🔞\n\nTwitch: https://t.co/G3tXjdMOcK\nAll Socials: https://t.co/ZOwlNL1V44\n\nVideos on this profile is created in Unity",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2048897809815105536/ZJ8ej8zA_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2211515880/1719185584/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2013-11-23T23:42:37.683Z",
+            "profileUrl": "https://x.com/AmyDoggyVR",
+            "fetchedAt": "2026-08-09T00:05:37Z"
+        },
+        "amydoggylive": {
+            "id": "1805013475942395904",
+            "handle": "amydoggylive",
+            "displayName": "AmyDoggy",
+            "description": "Hello I'm AmyDoggy I'm a content creator and streamer on Twitch! \nDMs are open.\n\nTwitch: https://t.co/9B8aE6L85s",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2048897986198118400/1tGSc0kJ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1805013475942395904/1719184905/1500x500",
+            "followersCount": 6067,
+            "followingCount": 147,
+            "postsCount": 716,
+            "accountCreatedAt": "2024-06-23T23:02:10.163Z",
+            "profileUrl": "https://x.com/AmyDoggyLive",
+            "fetchedAt": "2026-08-09T00:05:38Z"
+        }
     }
 }

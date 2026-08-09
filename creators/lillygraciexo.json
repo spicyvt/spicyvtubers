@@ -69,5 +69,49 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:39Z"
+    },
+    "twitter": {
+        "lillypounces": {
+            "id": "1579555666838097921",
+            "handle": "lillypounces",
+            "displayName": "Lilly",
+            "description": "🐰 cute bunny Vtuber pounces on you 🐰\n૮₍˶ᵔ ᵕ ᵔ˶₎ა can i keep you?",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2054131022350929921/v4mvUpV6_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1579555666838097921/1778577975/1500x500",
+            "followersCount": 12680,
+            "followingCount": 37,
+            "postsCount": 241,
+            "accountCreatedAt": "2022-10-10T19:33:58.872Z",
+            "profileUrl": "https://x.com/lillypounces",
+            "fetchedAt": "2026-08-08T23:50:18Z"
+        },
+        "lillygraciexo": {
+            "id": "1511592188337131523",
+            "handle": "lillygraciexo",
+            "displayName": "Lilly 🎀",
+            "description": "cutest Vtuber~💞 streaming every Tuesday and Thursday~ wallet emptying on @LillyGracieox",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2020545280681066496/RNZknWnN_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1511592188337131523/1770459919/1500x500",
+            "followersCount": 30820,
+            "followingCount": 1309,
+            "postsCount": 14256,
+            "accountCreatedAt": "2022-04-06T06:30:57.260Z",
+            "profileUrl": "https://x.com/LillyGraciexo",
+            "fetchedAt": "2026-08-08T23:50:20Z"
+        },
+        "lillygvtuber": {
+            "id": "1549469022873329664",
+            "handle": "lillygvtuber",
+            "displayName": "Lilly Gracie",
+            "description": "Cute normal Vtuber brat🧋streaming Tues & Thurs 8pm UK time on Twitch Shiny Pokémon Collector",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1597529813090172928/a2KDahqS_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1549469022873329664/1669715774/1500x500",
+            "followersCount": 39680,
+            "followingCount": 794,
+            "postsCount": 377,
+            "accountCreatedAt": "2022-07-19T19:00:00.005Z",
+            "profileUrl": "https://x.com/LillyGVtuber",
+            "fetchedAt": "2026-08-08T23:50:22Z"
+        }
     }
 }

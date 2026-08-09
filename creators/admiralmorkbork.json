@@ -23,5 +23,35 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5cdd85c-fa34-49de-80ab-f28fbc5d8432-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7773960-d36e-492d-8e5a-1aa98e8967fb-profile_banner-480.png"
+    },
+    "twitter": {
+        "admiralmorkbork": {
+            "id": "1012856117364383750",
+            "handle": "admiralmorkbork",
+            "displayName": "AdmiralMorkBork",
+            "description": "(Minors 🔞DNI)  #Vtuber #MorkArt Streamer/Youtuber Just a Dumb #femboy who love to make Friends~ \nStream Team @MKAUGaming\nLewd Things @OnlyMorks",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1927089790379347968/eFoW1wL8_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1012856117364383750/1714508629/1500x500",
+            "followersCount": 1308,
+            "followingCount": 182,
+            "postsCount": 5700,
+            "accountCreatedAt": "2018-06-30T00:31:31.126Z",
+            "profileUrl": "https://x.com/AdmiralMorkBork",
+            "fetchedAt": "2026-08-09T00:05:42Z"
+        },
+        "onlymorks": {
+            "id": "2031883244007043072",
+            "handle": "onlymorks",
+            "displayName": "The Admiral's Only Borks",
+            "description": "(Minors 🔞 DNI) (20s) Streamer/Youtuber Main: @AdmiralMorkBork\nThe Lewd Dumb Side of Mork's X/Twitter",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2031883506180100096/Hk9n5UGp_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2031883244007043072/1784448950/1500x500",
+            "followersCount": 63,
+            "followingCount": 19,
+            "postsCount": 109,
+            "accountCreatedAt": "2026-03-12T00:01:41.837Z",
+            "profileUrl": "https://x.com/OnlyMorks",
+            "fetchedAt": "2026-08-09T00:05:44Z"
+        }
     }
 }

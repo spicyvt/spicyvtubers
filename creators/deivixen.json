@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:47Z"
+    },
+    "twitter": {
+        "eqyptiangoddess": {
+            "id": "1845314244989849607",
+            "handle": "eqyptiangoddess",
+            "displayName": "The Goddess, Deivixen",
+            "description": "Your Fiery Vixen~\nVR Dancer|Content Creator| Philanthropist\n🔞Not suitable for minors.🔞\nDms Open and Collabs Open\nSFW Account - @Deivixen",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2074597231018082304/xLvZb2JB_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1845314244989849607/1783457499/1500x500",
+            "followersCount": 1166,
+            "followingCount": 532,
+            "postsCount": 1271,
+            "accountCreatedAt": "2024-10-13T04:03:04.130Z",
+            "profileUrl": "https://x.com/EqyptianGoddess",
+            "fetchedAt": "2026-08-09T00:02:07Z"
+        },
+        "deivixen": {
+            "id": "2044833170822950912",
+            "handle": "deivixen",
+            "displayName": "The Goddess, Deivixen",
+            "description": "Loving Goddess of Goddesses\nTwitch affiliate\nPanik Room Streamer\nAD Account - @TheEqyptianGoddess",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2044862195000049664/KEOGaQks_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2044833170822950912/1783457567/1500x500",
+            "followersCount": 95,
+            "followingCount": 18,
+            "postsCount": 55,
+            "accountCreatedAt": "2026-04-16T17:40:04.379Z",
+            "profileUrl": "https://x.com/deivixen",
+            "fetchedAt": "2026-08-09T00:02:09Z"
+        }
     }
 }

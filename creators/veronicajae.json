@@ -103,5 +103,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-07T22:35:56Z"
+    },
+    "twitter": {
+        "vrronicajae": {
+            "id": "1859194119098089472",
+            "handle": "vrronicajae",
+            "displayName": "VeronicaJae",
+            "description": "Twitch Partner | VTuber | Avatar Creator | Sponsored by @GamerSupps and @AntlionAudio",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2017361052631998465/yG1az59t_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1859194119098089472/1733813529/1500x500",
+            "followersCount": 10002,
+            "followingCount": 465,
+            "postsCount": 363,
+            "accountCreatedAt": "2024-11-20T11:16:43.649Z",
+            "profileUrl": "https://x.com/VrronicaJae",
+            "fetchedAt": "2026-08-09T00:22:12Z"
+        }
     }
 }

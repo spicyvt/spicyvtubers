@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:42Z"
+    },
+    "twitter": {
+        "laura_anarchy": {
+            "id": "1721960243691696128",
+            "handle": "laura_anarchy",
+            "displayName": "Miss Anarchy🏳️‍⚧️",
+            "description": "(she/ they) \nyour favorite  vampire princess and spicy VA\npriv :@MissAnarchyNsfw\nbanner made by @kiyodraws_\n#missanarchyart",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1964804437567737856/CN_hTSIJ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1721960243691696128/1756594944/1500x500",
+            "followersCount": 189,
+            "followingCount": 616,
+            "postsCount": 1208,
+            "accountCreatedAt": "2023-11-07T18:38:31.513Z",
+            "profileUrl": "https://x.com/Laura_Anarchy",
+            "fetchedAt": "2026-08-09T00:00:45Z"
+        },
+        "missanarchynsfw": {
+            "id": "1859390545606402048",
+            "handle": "missanarchynsfw",
+            "displayName": "Miss Anarchy",
+            "description": "NSFW MDNI\nshe/her🏳️‍⚧️\npromoting my onlyfans and 18+ game streams\nGaming Twit: \n@Laura_Anarchy\nhttps://t.co/PRGDwzM2lJ",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1964804678698344448/Keg6Nuik_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1859390545606402048/1732148431/1500x500",
+            "followersCount": 30,
+            "followingCount": 96,
+            "postsCount": 151,
+            "accountCreatedAt": "2024-11-21T00:17:22.822Z",
+            "profileUrl": "https://x.com/MissAnarchyNsfw",
+            "fetchedAt": "2026-08-09T00:00:46Z"
+        }
     }
 }

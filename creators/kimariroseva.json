@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:10Z"
+    },
+    "twitter": {
+        "kimariroseva": {
+            "id": "1941691667989540864",
+            "handle": "kimariroseva",
+            "displayName": "KimariRoseVA 🌙🥀",
+            "description": "Intimate, playful, sleepy ✧ writer & editor // cheeky sub VA // Dreamweaver VTuber ✧ https://t.co/NCenaPwoUj ✧ https://t.co/pk5z98ydkv",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2040156296641716224/Ouih5MSx_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1941691667989540864/1760483906/1500x500",
+            "followersCount": 12389,
+            "followingCount": 151,
+            "postsCount": 7157,
+            "accountCreatedAt": "2025-07-06T02:52:37.308Z",
+            "profileUrl": "https://x.com/KimariRoseVA",
+            "fetchedAt": "2026-08-08T23:55:09Z"
+        },
+        "kimarithorne": {
+            "id": "1941693250554953731",
+            "handle": "kimarithorne",
+            "displayName": "KimariThorne",
+            "description": "Every rose has its thorns. And this rose has many. Back-up/alt acct. VA/VTuber acct: @KimariRoseVA",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2044814861067276288/FH2Eu1Pb_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1941693250554953731/1776365917/1500x500",
+            "followersCount": 229,
+            "followingCount": 1,
+            "postsCount": 764,
+            "accountCreatedAt": "2025-07-06T02:59:16.778Z",
+            "profileUrl": "https://x.com/KimariThorne",
+            "fetchedAt": "2026-08-08T23:55:11Z"
+        }
     }
 }

@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:05Z"
+    },
+    "twitter": {
+        "aglubbable": {
+            "id": "1518007304586682373",
+            "handle": "aglubbable",
+            "displayName": "Glubbable 🍕 VTuber",
+            "description": "• • @Twitch & @GamerSupps Partner 🎬🥤 • •\n• • @VRChat Pizza Fox 🗨🦊 • •\n• • Sus Acc @glubbable1 📦 • • \n• •  https://t.co/cTs6W0VnDZ • • ��☁",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2052575486488801283/tID_ghxg_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1518007304586682373/1776509793/1500x500",
+            "followersCount": 72489,
+            "followingCount": 588,
+            "postsCount": 6016,
+            "accountCreatedAt": "2022-04-23T23:23:34.518Z",
+            "profileUrl": "https://x.com/AGlubbable",
+            "fetchedAt": "2026-08-08T23:54:22Z"
+        },
+        "glubbable1": {
+            "id": "1332017799896715264",
+            "handle": "glubbable1",
+            "displayName": "Glubbable 🍕",
+            "description": "🦊 Sussy Fox 💓 VRChat Twitch Streamer 🏳️‍⚧️ She / Her 📦 \"Seiso\" Acc @AGlubbable",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2024205311167307776/zaU43thf_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1332017799896715264/1771443129/1500x500",
+            "followersCount": 54105,
+            "followingCount": 439,
+            "postsCount": 9724,
+            "accountCreatedAt": "2020-11-26T17:48:05.991Z",
+            "profileUrl": "https://x.com/Glubbable1",
+            "fetchedAt": "2026-08-08T23:54:24Z"
+        }
     }
 }

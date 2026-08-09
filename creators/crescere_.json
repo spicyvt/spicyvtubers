@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:12Z"
+    },
+    "twitter": {
+        "crescxre": {
+            "id": "1832694345579036673",
+            "handle": "crescxre",
+            "displayName": "Crescere ✦",
+            "description": "The glitchiest b*tch on Twitch. I watched the matrix one time and made it my entire personality | Art Tag: #CreSFW\nNSFW Account: @CresAfterDark",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082910256917843968/3pGIbXp9_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1832694345579036673/1785439489/1500x500",
+            "followersCount": 679,
+            "followingCount": 330,
+            "postsCount": 721,
+            "accountCreatedAt": "2024-09-08T08:16:09.697Z",
+            "profileUrl": "https://x.com/Crescxre",
+            "fetchedAt": "2026-08-09T00:18:49Z"
+        },
+        "cresafterdark": {
+            "id": "2080490989253447680",
+            "handle": "cresafterdark",
+            "displayName": "Crescere",
+            "description": "NSFW Account\n@crescxre",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2080492034633441280/00d-cNzq_400x400.jpg",
+            "bannerImageUrl": null,
+            "followersCount": 53,
+            "followingCount": 3,
+            "postsCount": 3,
+            "accountCreatedAt": "2026-07-24T03:12:07.236Z",
+            "profileUrl": "https://x.com/CresAfterDark",
+            "fetchedAt": "2026-08-09T00:18:50Z"
+        }
     }
 }

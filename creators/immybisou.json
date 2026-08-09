@@ -78,5 +78,49 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:23Z"
+    },
+    "twitter": {
+        "immybisou": {
+            "id": "1741852158193209344",
+            "handle": "immybisou",
+            "displayName": "Immy Bisou 🎃🩹",
+            "description": "Be afraid!~ Little sis is here!! (૭ ｡•̀ ᵕ •́｡ )૭ ─── The hex maniac of...indie? | パパ:@Naari_jpg | Gamersupps code: IMMY | Banner by @k_szk |",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1950280759165509632/2zHrDOdL_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1741852158193209344/1753819044/1500x500",
+            "followersCount": 53653,
+            "followingCount": 509,
+            "postsCount": 4408,
+            "accountCreatedAt": "2024-01-01T16:01:48.378Z",
+            "profileUrl": "https://x.com/ImmyBisou",
+            "fetchedAt": "2026-08-08T23:47:15Z"
+        },
+        "immybisounsfw": {
+            "id": "1761127486585462784",
+            "handle": "immybisounsfw",
+            "displayName": "Immy Bisou",
+            "description": "🔞 alt for @immybisou || Your switch little sister || I'm a Vtuber 😭 ||",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1914057235614896128/TVLEk0Ja_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1761127486585462784/1716327533/1500x500",
+            "followersCount": 63396,
+            "followingCount": 64,
+            "postsCount": 3911,
+            "accountCreatedAt": "2024-02-23T20:35:15.596Z",
+            "profileUrl": "https://x.com/ImmyBisouNSFW",
+            "fetchedAt": "2026-08-08T23:47:17Z"
+        },
+        "cunnimmy": {
+            "id": "1985382164184354817",
+            "handle": "cunnimmy",
+            "displayName": "Immy 🧡",
+            "description": "Streamer & Cosplayer! IRL account for @immybisou",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2077579114936926208/GmaATswq_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1985382164184354817/1784168435/1500x500",
+            "followersCount": 12531,
+            "followingCount": 44,
+            "postsCount": 19,
+            "accountCreatedAt": "2025-11-03T16:22:56.599Z",
+            "profileUrl": "https://x.com/CunnImmy",
+            "fetchedAt": "2026-08-08T23:47:19Z"
+        }
     }
 }

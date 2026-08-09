@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:28Z"
+    },
+    "twitter": {
+        "vampupula": {
+            "id": "2051382265771376641",
+            "handle": "vampupula",
+            "displayName": "Vampy 🐶🩸",
+            "description": "Vampire Shiba Inu 🦴 nsfw: @lewdpupula\nʚ https://t.co/awYszzJIX5 ɞ\nʚ https://t.co/pahFhEyVJb ɞ\n🎨: @kkohannya ⚙️: @suwaasokewt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085838663519236096/0ligJbHI_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2051382265771376641/1780971049/1500x500",
+            "followersCount": 841,
+            "followingCount": 76,
+            "postsCount": 154,
+            "accountCreatedAt": "2026-05-04T19:24:15.565Z",
+            "profileUrl": "https://x.com/vampupula",
+            "fetchedAt": "2026-08-08T23:47:37Z"
+        },
+        "lewdpupula": {
+            "id": "2085165766609928192",
+            "handle": "lewdpupula",
+            "displayName": "Vampy",
+            "description": "vampy after dark🩸 IM AN ADULT!!\nʚ https://t.co/YBYBWi7yE0 ɞ\nʚ https://t.co/Ao02JrV6c1 ɞ\nmain: @vampupula",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085838735829020672/9ewuh5F4_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2085165766609928192/1785977574/1500x500",
+            "followersCount": 721,
+            "followingCount": 6,
+            "postsCount": 8,
+            "accountCreatedAt": "2026-08-06T00:49:44.094Z",
+            "profileUrl": "https://x.com/lewdpupula",
+            "fetchedAt": "2026-08-08T23:47:39Z"
+        }
     }
 }

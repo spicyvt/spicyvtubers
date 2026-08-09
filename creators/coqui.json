@@ -78,5 +78,19 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:22Z"
+    },
+    "bluesky": {
+        "did": "did:plc:6xrewlf5lchlefkmy7pmt3ts",
+        "handle": "kerogaki.bsky.social",
+        "displayName": "🔞 kerogaki 🔞",
+        "description": "18+fanart → #keroge\nMAIN → https://bsky.app/profile/coqui.3am.moe\noshimark → 🐸💢",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6xrewlf5lchlefkmy7pmt3ts/bafkreigoqym2ox7nbq4jgx5lvnx7w4y3p7xxmjzqylj3i5pg5aztsxcvjq",
+        "bannerImageUrl": null,
+        "followersCount": 2027,
+        "followingCount": 7,
+        "postsCount": 1237,
+        "accountCreatedAt": "2024-10-17T12:28:51.314Z",
+        "profileUrl": "https://bsky.app/profile/kerogaki.bsky.social",
+        "fetchedAt": "2026-08-09T00:23:34Z"
     }
 }

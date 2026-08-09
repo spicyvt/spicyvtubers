@@ -78,5 +78,49 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:33Z"
+    },
+    "twitter": {
+        "arunareaver": {
+            "id": "1646600889787101184",
+            "handle": "arunareaver",
+            "displayName": "Aru ⛓️🐾",
+            "description": "bratty dumb puppy girl .ᐟ.ᐟ 😈 ⋆🦴⋆🐾⋆💢°ᶻ 𝗓 𐰁┆@gamersupps: “reaver” ┆https://t.co/xm6LCDiwvq",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2031332534294810624/ibC8izrX_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1646600889787101184/1782371389/1500x500",
+            "followersCount": 49982,
+            "followingCount": 1354,
+            "postsCount": 16016,
+            "accountCreatedAt": "2023-04-13T19:47:13.986Z",
+            "profileUrl": "https://x.com/ArunaReaver",
+            "fetchedAt": "2026-08-08T23:49:21Z"
+        },
+        "dumbpupreaver": {
+            "id": null,
+            "handle": "dumbpupreaver",
+            "displayName": "Aru ⛓️🐾",
+            "description": "🔞 ⛓️ dumb bratty puppy girl.ᐟ.ᐟ 😈 ⋆🦴⋆🐾⋆💢°ᶻ 𝗓 𐰁",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2031708549143732225/m6w6iKhn_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1986666057315258368/1785838360/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2025-11-07T05:29:00.948Z",
+            "profileUrl": "https://x.com/dumbpupreaver",
+            "fetchedAt": "2026-08-08T23:49:22Z"
+        },
+        "arureaver": {
+            "id": "2063786084564176897",
+            "handle": "arureaver",
+            "displayName": "Aruna Reaver",
+            "description": "silly puppy girl sfw account.ᐟ.ᐟ 😈 ⋆🦴⋆🐾⋆💢°ᶻ 𝗓 𐰁┆@gamersupps: “reaver” ┆manager: @kyojovt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2063788408787357696/GtGLw38B_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2063786084564176897/1785841198/1500x500",
+            "followersCount": 2823,
+            "followingCount": 47,
+            "postsCount": 113,
+            "accountCreatedAt": "2026-06-08T00:52:00.897Z",
+            "profileUrl": "https://x.com/AruReaver",
+            "fetchedAt": "2026-08-08T23:49:24Z"
+        }
     }
 }

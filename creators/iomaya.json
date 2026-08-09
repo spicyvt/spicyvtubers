@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:11:56Z"
+    },
+    "twitter": {
+        "sadosenpai": {
+            "id": "2038376589411373056",
+            "handle": "sadosenpai",
+            "displayName": "Sado Mai 💀💗 Artist彡☆VA",
+            "description": "Goth Monster Girlfailure 🥀 Mai's shadow 💗 main acc: @IomayaAF\n⛓️Exclusive Art/Audios/RP/ASMR⛓️ https://t.co/xQEBhTGg5t\n💋",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2071234520905621504/ahBASses_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2038376589411373056/1774822386/1500x500",
+            "followersCount": 19424,
+            "followingCount": 24,
+            "postsCount": 304,
+            "accountCreatedAt": "2026-03-29T22:06:03.629Z",
+            "profileUrl": "https://x.com/SadoSenpai",
+            "fetchedAt": "2026-08-08T23:42:36Z"
+        },
+        "iomayamai": {
+            "id": "1189216700182548480",
+            "handle": "iomayamai",
+            "displayName": "Mai Desho? 🐟🌸",
+            "description": "Hi! I'm your local Kraken Girlfailure~ 🌸\nArt Tag #MaiArtsu ✖️Exclusive Art & Audios only below ~🎙️💗Twitch & Comm Info ♡ →  https://t.co/8P3nUPJ5hv",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2079635445030236160/hOV1A_NS_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1189216700182548480/1782077619/1500x500",
+            "followersCount": 286423,
+            "followingCount": 517,
+            "postsCount": 3953,
+            "accountCreatedAt": "2019-10-29T16:25:55.595Z",
+            "profileUrl": "https://x.com/IomayaMai",
+            "fetchedAt": "2026-08-08T23:42:38Z"
+        }
     }
 }

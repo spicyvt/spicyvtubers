@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:05Z"
+    },
+    "twitter": {
+        "succuguts": {
+            "id": "1230902984848138240",
+            "handle": "succuguts",
+            "displayName": "GUTS! (haitus)",
+            "description": "36701 followers · 647 following. Joined Feb 2020. See the latest conversations with @Succuguts",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085939747080302592/K60f3AvS_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1230902984848138240/1786161776/1500x500",
+            "followersCount": 36701,
+            "followingCount": 647,
+            "postsCount": 7521,
+            "accountCreatedAt": "2020-02-21T17:12:02.813Z",
+            "profileUrl": "https://x.com/Succuguts",
+            "fetchedAt": "2026-08-08T23:54:11Z"
+        },
+        "succmyguts": {
+            "id": null,
+            "handle": "succmyguts",
+            "displayName": "inactive",
+            "description": "☾⋆｡𖦹 °✩",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085488193067962368/NBdNHg-w_400x400.jpg",
+            "bannerImageUrl": null,
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2022-05-14T23:45:14.433Z",
+            "profileUrl": "https://x.com/succmyguts",
+            "fetchedAt": "2026-08-08T23:54:12Z"
+        }
     }
 }

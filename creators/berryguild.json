@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:53Z"
+    },
+    "twitter": {
+        "berryguild": {
+            "id": "1032330834081144833",
+            "handle": "berryguild",
+            "displayName": "b e r r y🍓🐼 | Fruity PNGTuber",
+            "description": "🍓Fruity MF | Furry | Lover of Elves // PNGTuber, VA, GameDev, Musician // Rest EP soon!😴💤 PandaCam soon!🐼 // https://t.co/93fZYblu6S // Alt @berryguilded 🇿🇦",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231803624329216/gtgUv_ls_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1032330834081144833/1782269468/1500x500",
+            "followersCount": 88333,
+            "followingCount": 5611,
+            "postsCount": 100741,
+            "accountCreatedAt": "2018-08-22T18:17:05.413Z",
+            "profileUrl": "https://x.com/BerryGuild",
+            "fetchedAt": "2026-08-09T00:02:31Z"
+        },
+        "berryguilded": {
+            "id": "1932321883451752448",
+            "handle": "berryguilded",
+            "displayName": "b e r r y🍓🐼 | Fruity PNGTuber",
+            "description": "🍓Fruity MF | Furry | Lover of Elves // PNGTuber, VA, GameDev, Musician // Rest EP soon!😴💤 PandaCam soon!🐼 // https://t.co/IAggGBBQnO // Main: @berryguild 🇿🇦",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1996427884097859584/CBAu1ivQ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1932321883451752448/1786052935/1500x500",
+            "followersCount": 243,
+            "followingCount": 15,
+            "postsCount": 95,
+            "accountCreatedAt": "2025-06-10T06:20:29.059Z",
+            "profileUrl": "https://x.com/BerryGuilded",
+            "fetchedAt": "2026-08-09T00:02:32Z"
+        }
     }
 }

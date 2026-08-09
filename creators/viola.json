@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:51Z"
+    },
+    "twitter": {
+        "violaethereal": {
+            "id": "103594313",
+            "handle": "violaethereal",
+            "displayName": "Viola 🪻",
+            "description": "Twitch Partner丨PFP: @kimu_arts  |Header by: @Kimu_Arts | socials: https://t.co/W4iquoYZSm Business email: violaontwitch@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2004596710740221952/Khs8mB4v_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/103594313/1725756009/1500x500",
+            "followersCount": 4268,
+            "followingCount": 946,
+            "postsCount": 25098,
+            "accountCreatedAt": "2010-01-10T15:31:38.000Z",
+            "profileUrl": "https://x.com/ViolaEthereal",
+            "fetchedAt": "2026-08-09T00:13:16Z"
+        },
+        "lustfulviola": {
+            "id": null,
+            "handle": "lustfulviola",
+            "displayName": "hiatus",
+            "description": "NSFW VA | Lewd arts and thoughts. 🔞 Minors will be blocked.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2063100446416187392/XDxasPwa_400x400.jpg",
+            "bannerImageUrl": null,
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2025-02-04T18:30:40.492Z",
+            "profileUrl": "https://x.com/LustfulViola",
+            "fetchedAt": "2026-08-09T00:13:18Z"
+        }
     }
 }

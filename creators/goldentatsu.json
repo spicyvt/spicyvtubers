@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:02Z"
+    },
+    "twitter": {
+        "goldentatsu": {
+            "id": "1211138616300167168",
+            "handle": "goldentatsu",
+            "displayName": "GoldenTatsu 🐉⚡️➡️ TWITCHCON",
+            "description": "Ninja Dragon Vtuber 🐉⚡️\n|| Twitch Partner || 🔞@Lewddargon || https://t.co/SWbmXKBDfc\n\n@GamerSupps Partner\nCode GOLD for 10% off!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2073192056546308096/Ve7YNM_k_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1211138616300167168/1779682425/1500x500",
+            "followersCount": 42548,
+            "followingCount": 1551,
+            "postsCount": 14364,
+            "accountCreatedAt": "2019-12-29T04:15:28.669Z",
+            "profileUrl": "https://x.com/GoldenTatsu",
+            "fetchedAt": "2026-08-08T23:43:22Z"
+        },
+        "lewddargon": {
+            "id": "1582951453517291521",
+            "handle": "lewddargon",
+            "displayName": "GoldenTatsuNSFW",
+            "description": "A more personal & 18+ side of @Goldentatsu// Gift me? https://t.co/qbvGeqhHtZ // Minors DNI 🔞https://t.co/ay3ytehYU6",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2064487788968624128/O6FDcicP_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1582951453517291521/1742279950/1500x500",
+            "followersCount": 9488,
+            "followingCount": 558,
+            "postsCount": 751,
+            "accountCreatedAt": "2022-10-20T04:27:02.994Z",
+            "profileUrl": "https://x.com/LewdDargon",
+            "fetchedAt": "2026-08-08T23:43:24Z"
+        }
     }
 }

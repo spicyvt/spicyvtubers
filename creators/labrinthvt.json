@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:06Z"
+    },
+    "twitter": {
+        "slpylabrinth": {
+            "id": "2018108848641286145",
+            "handle": "slpylabrinth",
+            "displayName": "Labrinth | ❄️Nekomata LewdTuber❄️",
+            "description": "23 | Nekomata Lewdtuber | Single And Chilling | I Play Horror, VR, And Other Games | Oshi Mark: ❄️🐈‍⬛ | NSFW: @nonexistentlab",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2038241340493017089/ujn-asEZ_400x400.jpg",
+            "bannerImageUrl": null,
+            "followersCount": 55,
+            "followingCount": 162,
+            "postsCount": 284,
+            "accountCreatedAt": "2026-02-01T23:47:08.755Z",
+            "profileUrl": "https://x.com/SlpyLabrinth",
+            "fetchedAt": "2026-08-09T00:17:04Z"
+        },
+        "nonexistentlab": {
+            "id": "1924103424125353984",
+            "handle": "nonexistentlab",
+            "displayName": "Labrinth (Maker Of Milfs, Breeder Of Clowns)",
+            "description": "My Vent And NSFW Page | Will Gladly Get Collab Art | 23 years old | SFW: @SlpyLabrinth",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1933191826472599552/OdV8yC6__400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1924103424125353984/1757480730/1500x500",
+            "followersCount": 31,
+            "followingCount": 1350,
+            "postsCount": 1595,
+            "accountCreatedAt": "2025-05-18T14:03:12.241Z",
+            "profileUrl": "https://x.com/nonexistentlab",
+            "fetchedAt": "2026-08-09T00:17:06Z"
+        }
     }
 }

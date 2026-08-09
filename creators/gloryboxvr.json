@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:19Z"
+    },
+    "twitter": {
+        "lunamoonvrsfw": {
+            "id": "2013901255286874113",
+            "handle": "lunamoonvrsfw",
+            "displayName": "GloryBoxSFW",
+            "description": "just your typical vtuber, definitely nothing to see on my other page… 🔞 @lunakitty04 :3 check out all my links here👇👇👇",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2063466629971759104/P5urUYiG_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2013901255286874113/1768986603/1500x500",
+            "followersCount": 1864,
+            "followingCount": 6,
+            "postsCount": 62,
+            "accountCreatedAt": "2026-01-21T09:07:37.757Z",
+            "profileUrl": "https://x.com/LunamoonvrSFW",
+            "fetchedAt": "2026-08-09T00:06:54Z"
+        },
+        "gloryboxvr": {
+            "id": "1885998809953529856",
+            "handle": "gloryboxvr",
+            "displayName": "GloryBox 💜",
+            "description": "VTuber / streamer / adult content creator 😉 I promise I won’t bite… unless you ask nicely :3 here’s my link👇 Official Lovense Partner💗",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2054316715790548992/tJYVsmk4_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1885998809953529856/1778550435/1500x500",
+            "followersCount": 50718,
+            "followingCount": 476,
+            "postsCount": 32589,
+            "accountCreatedAt": "2025-02-02T10:28:59.283Z",
+            "profileUrl": "https://x.com/GloryBoxVR",
+            "fetchedAt": "2026-08-09T00:24:04Z"
+        }
     }
 }

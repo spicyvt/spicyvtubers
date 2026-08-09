@@ -23,5 +23,35 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82345b23-f63c-49cc-9b07-ce75b58b2a4c-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2352dc91-b714-4a74-b752-17248364769f-profile_banner-480.png"
+    },
+    "twitter": {
+        "calicomata": {
+            "id": null,
+            "handle": "calicomata",
+            "displayName": "Calicomata 🌻🐱",
+            "description": "₊˚⛅.ೃ࿔*:🌻\nASMR Vtuber and spicy VA・he/him・🔞 MDNI ・AI 🚫\n\n🔞 @caliafterdark",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2065754879046344704/t3A_qlf-_400x400.png",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1689078494158802944/1781981802/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2023-08-09T00:58:21.148Z",
+            "profileUrl": "https://x.com/calicomata",
+            "fetchedAt": "2026-08-09T00:14:03Z"
+        },
+        "caliafterdark": {
+            "id": "1880987271182073856",
+            "handle": "caliafterdark",
+            "displayName": "cali 🔞",
+            "description": "🔞 MDNI・he/him・30s・N/SFW VA and ASMR VTuber・AI 🚫\nDM for comms!\n\nSFW account - @calicomata",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2056606169280491520/QyvEe9FS_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1880987271182073856/1782993717/1500x500",
+            "followersCount": 880,
+            "followingCount": 149,
+            "postsCount": 60,
+            "accountCreatedAt": "2025-01-19T14:34:58.232Z",
+            "profileUrl": "https://x.com/CaliAfterDark",
+            "fetchedAt": "2026-08-09T00:14:05Z"
+        }
     }
 }

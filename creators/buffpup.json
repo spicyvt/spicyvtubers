@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:39Z"
+    },
+    "twitter": {
+        "buffpup_": {
+            "id": "462371646",
+            "handle": "buffpup_",
+            "displayName": "Buffpup 🦴VchiBan✨",
+            "description": "Werewolf VTuber 🦴 | Barking @VCHIBAN | 🎨#Buffpup 🔞#Ruffpup | Chugging @GamerSupps code: PUP | 📧 buffpup@vchiban.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2079970021506174976/wjnigBK5_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/462371646/1765135535/1500x500",
+            "followersCount": 257824,
+            "followingCount": 815,
+            "postsCount": 44513,
+            "accountCreatedAt": "2012-01-12T21:58:03.000Z",
+            "profileUrl": "https://x.com/Buffpup_",
+            "fetchedAt": "2026-08-08T23:50:32Z"
+        },
+        "ruffpup_": {
+            "id": "1822068753858809856",
+            "handle": "ruffpup_",
+            "displayName": "Buffpup NSFW 🦴🔞",
+            "description": "Official NSFW account of @Buffpup_ 🔞#Ruffpup",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1927561842097844224/jIUBmm_v_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1822068753858809856/1747449439/1500x500",
+            "followersCount": 38904,
+            "followingCount": 4,
+            "postsCount": 248,
+            "accountCreatedAt": "2024-08-10T00:34:04.045Z",
+            "profileUrl": "https://x.com/Ruffpup_",
+            "fetchedAt": "2026-08-08T23:50:34Z"
+        }
     }
 }

@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:06Z"
+    },
+    "twitter": {
+        "cyr3ina": {
+            "id": "1392855415071850498",
+            "handle": "cyr3ina",
+            "displayName": "💾Cyb3rR3ina👑",
+            "description": "SINGER 4 FUN✨|No Minors!DNI🔞|🎨Art Tag: #CyR3nArt| 💙NSFWAcc: @QueenR31na",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1825597845212131328/-EnAgIHo_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1392855415071850498/1758237426/1500x500",
+            "followersCount": 1097,
+            "followingCount": 1944,
+            "postsCount": 17029,
+            "accountCreatedAt": "2021-05-13T14:53:12.917Z",
+            "profileUrl": "https://x.com/CyR3ina",
+            "fetchedAt": "2026-08-09T00:17:45Z"
+        },
+        "queenr31na": {
+            "id": "2048208393781854208",
+            "handle": "queenr31na",
+            "displayName": "Cyber Reina",
+            "description": "✨Main Acc: @CyR3ina✨",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2079043144285335552/kWdvElHd_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2048208393781854208/1777252435/1500x500",
+            "followersCount": 46,
+            "followingCount": 52,
+            "postsCount": 53,
+            "accountCreatedAt": "2026-04-26T01:13:31.800Z",
+            "profileUrl": "https://x.com/QueenR31na",
+            "fetchedAt": "2026-08-09T00:17:47Z"
+        }
     }
 }

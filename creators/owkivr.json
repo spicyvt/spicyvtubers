@@ -78,5 +78,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:54Z"
+    },
+    "twitter": {
+        "owkika": {
+            "id": "1722650746234023936",
+            "handle": "owkika",
+            "displayName": "Owki 🐰",
+            "description": "❤️ 🔞 ❤️\nLoud blue \n\nNSFW Content Creator",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2077798169543385088/4cJXto19_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1722650746234023936/1755007669/1500x500",
+            "followersCount": 2457,
+            "followingCount": 213,
+            "postsCount": 92,
+            "accountCreatedAt": "2023-11-09T16:22:11.177Z",
+            "profileUrl": "https://x.com/Owkika",
+            "fetchedAt": "2026-08-08T23:53:05Z"
+        }
     }
 }

@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:56Z"
+    },
+    "twitter": {
+        "sensaylive": {
+            "id": "1704284942258380800",
+            "handle": "sensaylive",
+            "displayName": "Sen Say | Elf Astrophysicist 🥼🧪 | EN Vtuber",
+            "description": "She/Her\nYour resident Onee-Sen, Sen Say. Elven physicist vtuber!\n\nSpicy: @sensayafterdark\n\n#VTuber #ENVTuber",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1991005931367510016/OlS34kXY_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1704284942258380800/1715365871/1500x500",
+            "followersCount": 344,
+            "followingCount": 175,
+            "postsCount": 3594,
+            "accountCreatedAt": "2023-09-20T00:02:58.501Z",
+            "profileUrl": "https://x.com/SenSayLive",
+            "fetchedAt": "2026-08-09T00:14:57Z"
+        },
+        "sensayafterdark": {
+            "id": "1754689298505338880",
+            "handle": "sensayafterdark",
+            "displayName": "Sen Say",
+            "description": "🔞 Only 🔞\nAstrophysicist, dancer, content creator! NSFW, mostly! \nPansexual elf-thing!  Non-\"lewd\": @sensaylive",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1988951032806969344/edam1WH7_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1754689298505338880/1763038072/1500x500",
+            "followersCount": 1432,
+            "followingCount": 235,
+            "postsCount": 1254,
+            "accountCreatedAt": "2024-02-06T02:11:50.963Z",
+            "profileUrl": "https://x.com/SenSayAfterDark",
+            "fetchedAt": "2026-08-09T00:14:59Z"
+        }
     }
 }

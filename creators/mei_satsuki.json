@@ -41,5 +41,49 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:02Z"
+    },
+    "twitter": {
+        "mei__satsuki": {
+            "id": "1742668136074051585",
+            "handle": "mei__satsuki",
+            "displayName": "Mei 「VTuber」 🤍 🦊 🖤",
+            "description": "🤍 Your Shapeshifter #Vtuber Fox Waifu\n🦊 https://t.co/lyAvsITqVO・https://t.co/cGvzdOLlyq\n🖤 #SatsukiMeiArt ・ #MeiClippies",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2042637473956978688/RZMnXf73_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1742668136074051585/1775837700/1500x500",
+            "followersCount": 30217,
+            "followingCount": 1408,
+            "postsCount": 5691,
+            "accountCreatedAt": "2024-01-03T22:04:00.831Z",
+            "profileUrl": "https://x.com/mei__satsuki",
+            "fetchedAt": "2026-08-08T23:43:46Z"
+        },
+        "sussy_mei": {
+            "id": "1866196150694342656",
+            "handle": "sussy_mei",
+            "displayName": "Mei「キツネ 」NSFW ✦",
+            "description": "💙 https://t.co/At0Ndyxa5h 💙\n\nYour Sussy #VTuber Fox Waifu~ \nMain: @mei__satsuki (。・ω・。) \n#SatsukiMeiArt for SFW + NSFW (*/ω＼*)",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2019731160637579264/V3UbZM3-_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1866196150694342656/1770373374/1500x500",
+            "followersCount": 5168,
+            "followingCount": 1,
+            "postsCount": 197,
+            "accountCreatedAt": "2024-12-09T19:00:15.825Z",
+            "profileUrl": "https://x.com/sussy_mei",
+            "fetchedAt": "2026-08-08T23:43:48Z"
+        },
+        "mei_offline": {
+            "id": "1891094790781214720",
+            "handle": "mei_offline",
+            "displayName": "not mei",
+            "description": "personal alt where i rant and shitpost\nmain: @mei__satsuki",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2061386912477163522/b53b6wef_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1891094790781214720/1780308216/1500x500",
+            "followersCount": 599,
+            "followingCount": 21,
+            "postsCount": 285,
+            "accountCreatedAt": "2025-02-16T11:58:33.589Z",
+            "profileUrl": "https://x.com/mei_offline",
+            "fetchedAt": "2026-08-08T23:43:50Z"
+        }
     }
 }

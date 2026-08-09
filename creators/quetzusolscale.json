@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:20:57Z"
+    },
+    "twitter": {
+        "quetzusolscale": {
+            "id": "1889754372315463680",
+            "handle": "quetzusolscale",
+            "displayName": "Quetzu Solscale 🐉🪽",
+            "description": "Fake Deity that bites!!! ໒( ⇀ ‸ ↼ )७  l  EN/ESP🆗 ┊ GamerSupps code: QUETZU  ┊https://t.co/lZs1bAUk9N ┊ p: @/artistic_lamp",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2079965139030200321/k0a6ssqx_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1889754372315463680/1750455604/1500x500",
+            "followersCount": 10367,
+            "followingCount": 639,
+            "postsCount": 3862,
+            "accountCreatedAt": "2025-02-12T19:12:10.310Z",
+            "profileUrl": "https://x.com/QuetzuSolscale",
+            "fetchedAt": "2026-08-08T23:50:54Z"
+        },
+        "quetzunsfw": {
+            "id": "1889985056128765952",
+            "handle": "quetzunsfw",
+            "displayName": "Quetzu Solscale 🔞 🐉🪽",
+            "description": "Ruffle my feathers more, Mister~! ♥ #QuetzuLewd",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1963375385229348864/eu1p1e3l_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1889985056128765952/1773945855/1500x500",
+            "followersCount": 5007,
+            "followingCount": 103,
+            "postsCount": 1898,
+            "accountCreatedAt": "2025-02-13T10:28:58.899Z",
+            "profileUrl": "https://x.com/QuetzuNSFW",
+            "fetchedAt": "2026-08-08T23:50:56Z"
+        }
     }
 }

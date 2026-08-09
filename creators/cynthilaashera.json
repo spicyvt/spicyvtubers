@@ -86,5 +86,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:03Z"
+    },
+    "twitter": {
+        "asheracynthila": {
+            "id": "1376578785223512075",
+            "handle": "asheracynthila",
+            "displayName": "Cynthila 🎐🏮",
+            "description": "Kitsune Vtuber (アシェラ・死ンチラ) 🦊\nママ: @TricaTheWild\nFemboy 🇵🇹🇬🇧🇫🇷\n✧ https://t.co/Ipi8ofCHW9\n✧ https://t.co/RERNxUjmAG\n✧ https://t.co/QrLDZneDX1",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2047456989198831616/u--b1ZM8_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1376578785223512075/1717509637/1500x500",
+            "followersCount": 15716,
+            "followingCount": 459,
+            "postsCount": 45170,
+            "accountCreatedAt": "2021-03-29T16:55:41.627Z",
+            "profileUrl": "https://x.com/AsheraCynthila",
+            "fetchedAt": "2026-08-09T00:04:19Z"
+        },
+        "ekusucos": {
+            "id": "1934361289142554624",
+            "handle": "ekusucos",
+            "displayName": "Ekusu ❌",
+            "description": "✧ First Cosplay: Jinx\nWishlist (buy me a cosplay) - https://t.co/vBLFaPsDoa\n\nIt didn't have to be you, but I wanted it to be",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2014611381480312832/mPsVIOng_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1934361289142554624/1769015769/1500x500",
+            "followersCount": 3170,
+            "followingCount": 21,
+            "postsCount": 390,
+            "accountCreatedAt": "2025-06-15T21:24:27.848Z",
+            "profileUrl": "https://x.com/EkusuCos",
+            "fetchedAt": "2026-08-09T00:04:21Z"
+        }
     }
 }

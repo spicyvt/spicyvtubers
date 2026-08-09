@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:24:20Z"
+    },
+    "twitter": {
+        "sunnydaevt": {
+            "id": "769222537981026304",
+            "handle": "sunnydaevt",
+            "displayName": "sunnydae🔅",
+            "description": "➣Certified Demon of the Sun 🔆 #VTuber\n🎨 #sunnyart\n📧 my manager - hpat@sunshinevrc.com\n『 🛈https://t.co/7T8eF9MQOC 』\n\nPowered by @GfuelEnergy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1754914696841383936/elPBjaeB_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/769222537981026304/1730901056/1500x500",
+            "followersCount": 11882,
+            "followingCount": 1113,
+            "postsCount": 8067,
+            "accountCreatedAt": "2016-08-26T17:18:39.355Z",
+            "profileUrl": "https://x.com/sunnydaevt",
+            "fetchedAt": "2026-08-08T23:46:17Z"
+        },
+        "sunnyslewds": {
+            "id": "1483867024216322052",
+            "handle": "sunnyslewds",
+            "displayName": "🔞Sunny After Dark🔞",
+            "description": "NSFW Twitter for @sunnydaevt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1813236700467929088/ofT-u2EK_400x400.jpg",
+            "bannerImageUrl": null,
+            "followersCount": 5435,
+            "followingCount": 126,
+            "postsCount": 647,
+            "accountCreatedAt": "2022-01-19T18:20:57.610Z",
+            "profileUrl": "https://x.com/sunnyslewds",
+            "fetchedAt": "2026-08-08T23:46:18Z"
+        }
     }
 }

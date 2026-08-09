@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:35Z"
+    },
+    "twitter": {
+        "starlitva": {
+            "id": "1922439297254232064",
+            "handle": "starlitva",
+            "displayName": "💖 Starlit 💖 Debut upcoming!",
+            "description": "Voice Actor, Artist and Vtuber ♥ Art Tag #stargazing ♥ Moots: DM to collab! ♥ Debut TBA ♥ Inq: babydollstarlit@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1922441516213002241/7qajT5c__400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1922439297254232064/1761474685/1500x500",
+            "followersCount": 122,
+            "followingCount": 24,
+            "postsCount": 139,
+            "accountCreatedAt": "2025-05-13T23:50:44.675Z",
+            "profileUrl": "https://x.com/StarlitVA",
+            "fetchedAt": "2026-08-09T00:09:52Z"
+        },
+        "babydollstarlit": {
+            "id": "1641646971529175041",
+            "handle": "babydollstarlit",
+            "displayName": "🌘✨ Starlit ✨🌒 NSFW VA",
+            "description": "NSFW VA ♥ Dreamweaver Yokai 🚫 MDNI 🚫 Top 1% Fansly ♥ Live action 🐔👔 ♥ Naughty Art Tag #StarlitAfterdark ♥ Babydollstarlit.inq@gmail.com ♥ SFW: @StarlitVA",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1910779450930659328/ZovEIE5s_400x400.png",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1641646971529175041/1747181099/1500x500",
+            "followersCount": 3135,
+            "followingCount": 725,
+            "postsCount": 5422,
+            "accountCreatedAt": "2023-03-31T03:42:12.297Z",
+            "profileUrl": "https://x.com/BabydollStarlit",
+            "fetchedAt": "2026-08-09T00:09:54Z"
+        }
     }
 }

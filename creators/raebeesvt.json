@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:39Z"
+    },
+    "twitter": {
+        "raebeesvt": {
+            "id": "1989206481015828481",
+            "handle": "raebeesvt",
+            "displayName": "Rae♣️💕",
+            "description": "rat-dragon vtuber & cosplayer || gacha game enthusiast and waifu collector || model: @hoonyusi, Rig: @SpooVae",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2029876756602077184/ukbMnsv__400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1989206481015828481/1770522821/1500x500",
+            "followersCount": 2111,
+            "followingCount": 460,
+            "postsCount": 462,
+            "accountCreatedAt": "2025-11-14T05:39:32.665Z",
+            "profileUrl": "https://x.com/RaebeesVT",
+            "fetchedAt": "2026-08-08T23:49:44Z"
+        },
+        "raebeesnsfw": {
+            "id": "1753415327587688448",
+            "handle": "raebeesnsfw",
+            "displayName": "Rae ₊˚⊹♡",
+            "description": "42 rats in a trench coat 💕 || 18+ acc for @raebeesVT || i stream on twitch and fansly || TOP 1%",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2009417163686260736/DAPkJXDH_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1753415327587688448/1773972943/1500x500",
+            "followersCount": 40199,
+            "followingCount": 126,
+            "postsCount": 12875,
+            "accountCreatedAt": "2024-02-02T13:49:36.219Z",
+            "profileUrl": "https://x.com/raebeesNSFW",
+            "fetchedAt": "2026-08-08T23:49:46Z"
+        }
     }
 }

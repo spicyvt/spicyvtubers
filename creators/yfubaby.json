@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:17Z"
+    },
+    "twitter": {
+        "yfubaby": {
+            "id": "1106799412901277696",
+            "handle": "yfubaby",
+            "displayName": "YFU BABY 💗🎤 【HEIRS】",
+            "description": "Rapping gyaru living in purgatory! ♡Not a brat♡ | Songwriter | 🎨 #Doodlefu | 🌶️ #FuNoodz | 📧 yfu@heirsmgmt.com | | sometimes possessed by @_onifu",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1959101085286871040/86zjC25V_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1106799412901277696/1755570320/1500x500",
+            "followersCount": 50831,
+            "followingCount": 1075,
+            "postsCount": 7094,
+            "accountCreatedAt": "2019-03-16T06:08:38.150Z",
+            "profileUrl": "https://x.com/YFUBABY",
+            "fetchedAt": "2026-08-08T23:46:22Z"
+        },
+        "_onifu": {
+            "id": "1795309441560219648",
+            "handle": "_onifu",
+            "displayName": "ONIFU",
+            "description": "Welcome to my Lair, Dorei | @YFUBABY's better half 😈 | ART: #FuNoodz | 🔞 | EP OUT NOW~!🎵",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2080517218782318592/lFbHpIH5_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1795309441560219648/1734143007/1500x500",
+            "followersCount": 8712,
+            "followingCount": 7,
+            "postsCount": 192,
+            "accountCreatedAt": "2024-05-28T04:21:57.371Z",
+            "profileUrl": "https://x.com/_onifu",
+            "fetchedAt": "2026-08-08T23:46:24Z"
+        }
     }
 }

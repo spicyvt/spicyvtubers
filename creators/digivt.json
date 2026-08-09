@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:28Z"
+    },
+    "twitter": {
+        "digiivt": {
+            "id": "1542596354119274496",
+            "handle": "digiivt",
+            "displayName": "DigiVT 🌱🐾 Space Cat",
+            "description": "Space Cat Vtuber | All links & credits https://t.co/SF66kujDyh | 🛒 https://t.co/5H82KXM7PJ | \n🔞@DigiAfterDark|\nUse code DIGIVT for 5% off at https://t.co/mhJvi3f9hV",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2037450934729519104/bKIDZHt8_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1542596354119274496/1767968621/1500x500",
+            "followersCount": 1544,
+            "followingCount": 1333,
+            "postsCount": 7499,
+            "accountCreatedAt": "2022-06-30T19:50:21.447Z",
+            "profileUrl": "https://x.com/DigiiVT",
+            "fetchedAt": "2026-08-08T23:47:51Z"
+        },
+        "digiafterdark": {
+            "id": "1950531518746505216",
+            "handle": "digiafterdark",
+            "displayName": "DigiVT 🌱🐾 • 🅝🅢🅕🅦 🔞",
+            "description": "Lewd Space Cat • ⚠️ 18+ content warning ⚠️ •  All links & credits https://t.co/vhRcxiZi73 • \n🔞 #diginerate • The official spicy account of @DigiiVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1992660986973569024/04eFxqe8_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1950531518746505216/1759309642/1500x500",
+            "followersCount": 592,
+            "followingCount": 90,
+            "postsCount": 321,
+            "accountCreatedAt": "2025-07-30T12:19:01.790Z",
+            "profileUrl": "https://x.com/DigiAfterDark",
+            "fetchedAt": "2026-08-08T23:47:53Z"
+        }
     }
 }

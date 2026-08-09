@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:24Z"
+    },
+    "twitter": {
+        "bnnuyayu": {
+            "id": "1736451240647598080",
+            "handle": "bnnuyayu",
+            "displayName": "BunnyAyu 🥕",
+            "description": "🐰| Comfy Lewd Bunny ✦ IRL @bunnyayu\n🥕| https://t.co/5HA32CZGU5\n🎨| #BunnyAyuArt 🔞#BunnyAyuNSFW",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2021289761537761280/mDOhpt9s_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1736451240647598080/1770748416/1500x500",
+            "followersCount": 76569,
+            "followingCount": 155,
+            "postsCount": 348,
+            "accountCreatedAt": "2023-12-17T18:20:55.403Z",
+            "profileUrl": "https://x.com/bnnuyayu",
+            "fetchedAt": "2026-08-09T00:07:50Z"
+        },
+        "bunnyayu": {
+            "id": "794394294",
+            "handle": "bunnyayu",
+            "displayName": "BUNNY 🐰",
+            "description": "🧡| Texas streamer ✦ Vtuber @bnnuyayu\n🔗| https://t.co/8ecZS9xHGI\n✉️| bunnyayu@iso-ent.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1788266356976013313/DopnnPRx_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/794394294/1749584911/1500x500",
+            "followersCount": 1237355,
+            "followingCount": 843,
+            "postsCount": 10126,
+            "accountCreatedAt": "2012-08-31T18:20:33.000Z",
+            "profileUrl": "https://x.com/BunnyAyu",
+            "fetchedAt": "2026-08-09T00:07:52Z"
+        }
     }
 }

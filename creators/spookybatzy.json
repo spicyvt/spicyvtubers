@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:32Z"
+    },
+    "twitter": {
+        "spookybatzy": {
+            "id": "257115067",
+            "handle": "spookybatzy",
+            "displayName": "𝕭𝖆𝖙𝖟𝖞🩷🦇 Vampire Bat VTuber 🦇🖤",
+            "description": "Lewd Bubblegum Goth Vampire Bat\nPFP: @DorchadasB2\nBanner: @KurokoChomper\n🔞MDNI\nNSFW: @batzyafterdark\n#batzyart | nsfw: #lewdzy\nhttps://t.co/7xKSsrUFeX",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2054503489540079616/Fdn1kn2o_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/257115067/1783028523/1500x500",
+            "followersCount": 2027,
+            "followingCount": 2639,
+            "postsCount": 8659,
+            "accountCreatedAt": "2011-02-24T19:22:18.000Z",
+            "profileUrl": "https://x.com/SpookyBatzy",
+            "fetchedAt": "2026-08-08T23:58:47Z"
+        },
+        "batzyafterdark": {
+            "id": "1902504282366119936",
+            "handle": "batzyafterdark",
+            "displayName": "𝕭𝖆𝖙𝖟𝖞 🖤 🔞 After Dark~",
+            "description": "Fansly Debut 7/5 🩷\nLEWDTUBER | NSFW page for a certain bat 🤭 | MDNI 🔞 \nsfw: @spookybatzy\n#Lewdzy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2067119097284874240/YeCx35Bd_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1902504282366119936/1769834296/1500x500",
+            "followersCount": 2350,
+            "followingCount": 59,
+            "postsCount": 126,
+            "accountCreatedAt": "2025-03-19T23:36:03.426Z",
+            "profileUrl": "https://x.com/BatzyAfterDark",
+            "fetchedAt": "2026-08-08T23:58:49Z"
+        }
     }
 }

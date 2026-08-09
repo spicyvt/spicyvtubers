@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:45Z"
+    },
+    "twitter": {
+        "vtuberelf": {
+            "id": "1876903211258572800",
+            "handle": "vtuberelf",
+            "displayName": "Elf",
+            "description": "hi i'm elf 🙂 \n\ni love vtuber so much so here i am hehe :3\nIRL @elixir_elf",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2049388482884489216/l8osnqqp_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1876903211258572800/1777446919/1500x500",
+            "followersCount": 1188,
+            "followingCount": 71,
+            "postsCount": 83,
+            "accountCreatedAt": "2025-01-08T08:06:36.452Z",
+            "profileUrl": "https://x.com/VtuberElf",
+            "fetchedAt": "2026-08-09T00:11:51Z"
+        },
+        "elixir_elf": {
+            "id": "1305250856078422016",
+            "handle": "elixir_elf",
+            "displayName": "Elixir Elf",
+            "description": "🤍 Petite Asian Hentai react girl | ex-IT engineer 💜 Vtuber for fun @vtuberelf",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1779313327736524800/W4xCUh_I_400x400.jpg",
+            "bannerImageUrl": null,
+            "followersCount": 30957,
+            "followingCount": 132,
+            "postsCount": 483,
+            "accountCreatedAt": "2020-09-13T21:04:09.664Z",
+            "profileUrl": "https://x.com/elixir_elf",
+            "fetchedAt": "2026-08-09T00:11:52Z"
+        }
     }
 }

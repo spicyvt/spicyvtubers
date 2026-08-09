@@ -41,5 +41,49 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:39Z"
+    },
+    "twitter": {
+        "shyvixi": {
+            "id": "1344452621743001601",
+            "handle": "shyvixi",
+            "displayName": "vixi 妖狐 🪫⛓️",
+            "description": "👻🦊 Bratty Ghost Fox VTuber 🪫⛓️\nLive daily • Gacha + Horror + Variety\nYou’re mine now… be a good pup 🤍\n#foxsu ↗ https://t.co/unFIApcoHU",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082187496503332864/vpXquMO8_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1344452621743001601/1785193467/1500x500",
+            "followersCount": 43064,
+            "followingCount": 986,
+            "postsCount": 35365,
+            "accountCreatedAt": "2020-12-31T01:18:19.839Z",
+            "profileUrl": "https://x.com/shyvixi",
+            "fetchedAt": "2026-08-08T23:49:59Z"
+        },
+        "vixioffline": {
+            "id": "2037622027117617153",
+            "handle": "vixioffline",
+            "displayName": "v 🪫⛓️",
+            "description": "ghost fox’s unhinged alt 🪫⛓️ | @shyvixi",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2084026951115677696/dbIi-d05_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2037622027117617153/1785099374/1500x500",
+            "followersCount": 1081,
+            "followingCount": 4,
+            "postsCount": 1248,
+            "accountCreatedAt": "2026-03-27T20:06:12.756Z",
+            "profileUrl": "https://x.com/vixioffline",
+            "fetchedAt": "2026-08-08T23:50:01Z"
+        },
+        "vixivt": {
+            "id": "2012162230071218176",
+            "handle": "vixivt",
+            "displayName": "vixi 🪫⛓️ ghost fox vtuber",
+            "description": "ghost fox vtuber ✧ indie #VTuber\nart • clips • streams\n🦊 #foxsu | 🎨 #vixiclips\nhttps://t.co/gUjKiltb0q ✉ v@vulpix.si",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2012163782609686528/miORLBt0_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2012162230071218176/1774643017/1500x500",
+            "followersCount": 788,
+            "followingCount": 38,
+            "postsCount": 403,
+            "accountCreatedAt": "2026-01-16T13:57:55.623Z",
+            "profileUrl": "https://x.com/vixivt",
+            "fetchedAt": "2026-08-08T23:50:03Z"
+        }
     }
 }

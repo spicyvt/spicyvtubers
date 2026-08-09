@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:33Z"
+    },
+    "twitter": {
+        "peachurivt": {
+            "id": "1584713964612616192",
+            "handle": "peachurivt",
+            "displayName": "peachuri |【VFeet】",
+            "description": "✦ ɢᴏᴅᴅᴇꜱꜱ ᴏꜰ ʜᴀʀᴍᴏɴʏ ⟡ ᴠᴀʀɪᴇᴛʏ ꜱᴛʀᴇᴀᴍᴇʀ ✦\n┊ᴘᴀʀᴛɴᴇʀᴇᴅ · @twitch ✦ @gamersupps ᴄᴏᴅᴇ: peachuri\n┊ɪɴꜰᴏ · https://t.co/J1KGnDyFIF\n\n🎨 #peachsart 🍑 #peachecchi",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2076866556236103680/dM4KrTIs_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1584713964612616192/1784755332/1500x500",
+            "followersCount": 3390,
+            "followingCount": 1846,
+            "postsCount": 4705,
+            "accountCreatedAt": "2022-10-25T01:10:53.899Z",
+            "profileUrl": "https://x.com/peachuriVT",
+            "fetchedAt": "2026-08-08T23:49:17Z"
+        },
+        "peachurinsfw": {
+            "id": "1719802429661728768",
+            "handle": "peachurinsfw",
+            "displayName": "peachuri NSFW 🔞🍑",
+            "description": "Official NSFW account of @peachuriVT\n\nNSFW tag: #peachecchi",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1805472006940381184/Il-osmPa_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1719802429661728768/1698868161/1500x500",
+            "followersCount": 731,
+            "followingCount": 18,
+            "postsCount": 40,
+            "accountCreatedAt": "2023-11-01T19:43:50.859Z",
+            "profileUrl": "https://x.com/peachuriNSFW",
+            "fetchedAt": "2026-08-08T23:49:19Z"
+        }
     }
 }

@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:05Z"
+    },
+    "twitter": {
+        "leynnieley": {
+            "id": "2534586324",
+            "handle": "leynnieley",
+            "displayName": "Ley Ley | Vtuber Goat Demon🔥🐐😈",
+            "description": "I'm a goat demon from hell, I got a little lost but people are very nice in the mortal realm. | https://t.co/IFzTt7uBEq | #ENVtuber",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1778237748383510528/VOObufxw_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2534586324/1751417468/1500x500",
+            "followersCount": 10291,
+            "followingCount": 2447,
+            "postsCount": 11219,
+            "accountCreatedAt": "2014-05-30T08:48:24.435Z",
+            "profileUrl": "https://x.com/LeynnieLey",
+            "fetchedAt": "2026-08-08T23:54:46Z"
+        },
+        "leycanplay": {
+            "id": "1754786677103427584",
+            "handle": "leycanplay",
+            "displayName": "OnlyGoats",
+            "description": "Spicy Account of @LeynnieLey",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1767432657531555840/ArxNXPtG_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1754786677103427584/1715426106/1500x500",
+            "followersCount": 760,
+            "followingCount": 22,
+            "postsCount": 313,
+            "accountCreatedAt": "2024-02-06T08:39:17.709Z",
+            "profileUrl": "https://x.com/LeyCanPlay",
+            "fetchedAt": "2026-08-08T23:54:47Z"
+        }
     }
 }

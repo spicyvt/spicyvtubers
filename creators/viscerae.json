@@ -41,5 +41,49 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:01Z"
+    },
+    "twitter": {
+        "visceraevt": {
+            "id": "1364683649027764225",
+            "handle": "visceraevt",
+            "displayName": "𝗩𝗜𝗦𝗖𝗘𝗥𝗔𝗘 🗡️🩸",
+            "description": "bloodthirsty horror vtuber & spooky girl ⋆.˚🩸𖦹\n\n⁅ ᴡᴀᴛᴄʜ ⁆ › https://t.co/q3fpmHTskX \n⁅ ᴘᴀʀᴛɴᴇʀᴇᴅ ⁆ › @twitch ⊹ @youtube \n⟢ @gamersupps · ᴄᴏᴅᴇ: viscerae",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2011984025083383808/w6D04XVd_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1364683649027764225/1779464693/1500x500",
+            "followersCount": 19258,
+            "followingCount": 712,
+            "postsCount": 15172,
+            "accountCreatedAt": "2021-02-24T21:08:49.105Z",
+            "profileUrl": "https://x.com/visceraevt",
+            "fetchedAt": "2026-08-09T00:16:18Z"
+        },
+        "miniknaifu": {
+            "id": "1714537134642933760",
+            "handle": "miniknaifu",
+            "displayName": "𝖗𝖆𝖊 ⋆.˚ ☾",
+            "description": "visce(rae) irl 𖦹 \nthe more unfiltered side account of @visceraevt (and @bloodraven) 🩸 \nwishlist › https://t.co/kha13SFtFu ♡",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2040158315448246272/yfR3t-ri_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1714537134642933760/1765017926/1500x500",
+            "followersCount": 2926,
+            "followingCount": 137,
+            "postsCount": 3353,
+            "accountCreatedAt": "2023-10-18T07:01:37.285Z",
+            "profileUrl": "https://x.com/miniknaifu",
+            "fetchedAt": "2026-08-09T00:16:20Z"
+        },
+        "bloodraven": {
+            "id": "1675965228",
+            "handle": "bloodraven",
+            "displayName": "ʀ ᴀ ᴇ 🔪🩸",
+            "description": "casual cosplayer and full-time streamer/vtuber ⤏ @visceraevt · alt: @miniknaifu ♡ @rudyphototaker · https://t.co/MPXXSS0Brt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1777905569384525824/hSmQARB8_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1675965228/1682431895/1500x500",
+            "followersCount": 31400,
+            "followingCount": 559,
+            "postsCount": 50559,
+            "accountCreatedAt": "2013-08-16T15:28:08.044Z",
+            "profileUrl": "https://x.com/bloodraven",
+            "fetchedAt": "2026-08-09T00:16:22Z"
+        }
     }
 }

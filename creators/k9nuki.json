@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:54Z"
+    },
+    "twitter": {
+        "k9nuki": {
+            "id": "1660364806954663937",
+            "handle": "k9nuki",
+            "displayName": "nuki 🐾🩸",
+            "description": "⋮ 𝗱𝗼𝗻'𝘁 𝗹𝗲𝘁 𝘁𝗵𝗲 𝗽𝗶𝗻𝗸 𝗳𝗼𝗼𝗹 𝘆𝗼𝘂. 𝗜 𝗯𝗶𝘁𝗲. \n◞ join the labyrinth! ⟶ https://t.co/3WeZcbpx77",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2042667753421836292/2WCLxcyr_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1660364806954663937/1784886706/1500x500",
+            "followersCount": 11400,
+            "followingCount": 215,
+            "postsCount": 175,
+            "accountCreatedAt": "2023-05-21T19:20:02.796Z",
+            "profileUrl": "https://x.com/K9nuki",
+            "fetchedAt": "2026-08-08T23:52:39Z"
+        },
+        "k9labyrinth": {
+            "id": "1872536229159309312",
+            "handle": "k9labyrinth",
+            "displayName": "nuki 🐾🩸",
+            "description": "⋮ 𝗱𝗼𝗻'𝘁 𝗹𝗲𝘁 𝘁𝗵𝗲 𝗽𝗶𝗻𝗸 𝗳𝗼𝗼𝗹 𝘆𝗼𝘂. 𝗜 𝗯𝗶𝘁𝗲.\n◞ pink succupup!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2080592776668823552/igqvx5u-_400x400.png",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1872536229159309312/1784886948/1500x500",
+            "followersCount": 1992,
+            "followingCount": 84,
+            "postsCount": 237,
+            "accountCreatedAt": "2024-12-27T06:53:28.486Z",
+            "profileUrl": "https://x.com/k9labyrinth",
+            "fetchedAt": "2026-08-08T23:52:40Z"
+        }
     }
 }

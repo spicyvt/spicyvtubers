@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:14Z"
+    },
+    "twitter": {
+        "gintku": {
+            "id": "1183854206492594176",
+            "handle": "gintku",
+            "displayName": "gin☁️",
+            "description": "♡(´･ᴗ･ `) 2d & irl strawberry-blonde catgirl & cosplayer🍓✧ https://t.co/gpLTfH5QHD 🎀 Wishlist: https://t.co/2uGELgMwPX 🍙 2D: @gintkuvt 🐾",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2049551634452131841/V186NMW1_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1183854206492594176/1762067067/1500x500",
+            "followersCount": 10139,
+            "followingCount": 370,
+            "postsCount": 8896,
+            "accountCreatedAt": "2019-10-14T21:17:43.453Z",
+            "profileUrl": "https://x.com/gintku",
+            "fetchedAt": "2026-08-09T00:06:37Z"
+        },
+        "gintkuvt": {
+            "id": "1497417338508951557",
+            "handle": "gintkuvt",
+            "displayName": "2D gintku 🐱🍙🩷 VTuber",
+            "description": "irl & 2d strawberry-blonde catgirl vtuber & cosplayer🍓 @gamersupps code: GIN 🍰 Art & Rig @azuyanii 🎀 Wishlist: https://t.co/UdtgHiviIG 🩷",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2049551921799692288/P3GcpMos_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1497417338508951557/1777486231/1500x500",
+            "followersCount": 555,
+            "followingCount": 459,
+            "postsCount": 1179,
+            "accountCreatedAt": "2022-02-26T03:45:48.205Z",
+            "profileUrl": "https://x.com/gintkuvt",
+            "fetchedAt": "2026-08-09T00:06:39Z"
+        }
     }
 }

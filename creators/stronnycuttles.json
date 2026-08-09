@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:10Z"
+    },
+    "twitter": {
+        "stronnycuttles": {
+            "id": "1741854822553501696",
+            "handle": "stronnycuttles",
+            "displayName": "Stronny Cuttles 🦑🛐",
+            "description": "The hypnotic cuttlefish!~\nRig @naari_jpg Design @SquishyGhool \nBanner @waltz_w_me \n@GamerSupps Code STRONNY",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1797451229364391936/YfqsX2La_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1741854822553501696/1716142603/1500x500",
+            "followersCount": 30340,
+            "followingCount": 809,
+            "postsCount": 1508,
+            "accountCreatedAt": "2024-01-01T16:12:21.541Z",
+            "profileUrl": "https://x.com/StronnyCuttles",
+            "fetchedAt": "2026-08-08T23:55:36Z"
+        },
+        "stronnynsfw": {
+            "id": "1760722917254680576",
+            "handle": "stronnynsfw",
+            "displayName": "🔞 Stronny Cuttles 🔞",
+            "description": "Don't be shy, it's time to ink with me ;)  | Alt of @StronnyCuttles | #smuttlefish | https://t.co/NOP6Z5Qhdr | https://t.co/l0qd7I97ND",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1793590623968399360/spcggQlI_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1760722917254680576/1716460326/1500x500",
+            "followersCount": 33834,
+            "followingCount": 59,
+            "postsCount": 503,
+            "accountCreatedAt": "2024-02-22T17:47:35.692Z",
+            "profileUrl": "https://x.com/StronnyNSFW",
+            "fetchedAt": "2026-08-08T23:55:38Z"
+        }
     }
 }

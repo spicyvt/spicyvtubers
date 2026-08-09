@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:37Z"
+    },
+    "twitter": {
+        "smoniouwu": {
+            "id": "1443347152357502978",
+            "handle": "smoniouwu",
+            "displayName": "SmonioUwU🦊🩸Smo.V Music",
+            "description": "Vtuber Foxboy🦊🩸Ghoul |🎵Music:https://t.co/ECAHpBM7uC |🎙VA |🎂23 |🥰Femboy |🎨Art Tag:#SmonioArt | 💌SmonioUwU@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1920980894623358976/D0Q7Xy20_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1443347152357502978/1692556966/1500x500",
+            "followersCount": 18854,
+            "followingCount": 2082,
+            "postsCount": 8986,
+            "accountCreatedAt": "2021-09-29T23:40:23.310Z",
+            "profileUrl": "https://x.com/SmonioUwU",
+            "fetchedAt": "2026-08-09T00:00:12Z"
+        },
+        "smoniouwu_nsfw": {
+            "id": "1960402251929018368",
+            "handle": "smoniouwu_nsfw",
+            "displayName": "SmonioUwU AD🔞",
+            "description": "🤫Funny Alt for: @SmonioUwU | Horny Furry Femboy Fox~💕| 22🎂| NSFW VA🎙️|🔞18+ Only! |🎨Art Tag: #SmOnlyFans",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1960484026059313152/rQlQDYDq_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1960402251929018368/1756250755/1500x500",
+            "followersCount": 172,
+            "followingCount": 990,
+            "postsCount": 195,
+            "accountCreatedAt": "2025-08-26T18:01:51.800Z",
+            "profileUrl": "https://x.com/SmonioUwU_NSFW",
+            "fetchedAt": "2026-08-09T00:00:14Z"
+        }
     }
 }

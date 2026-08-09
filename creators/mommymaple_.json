@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:21Z"
+    },
+    "twitter": {
+        "mommymaple_": {
+            "id": "1683319998289448961",
+            "handle": "mommymaple_",
+            "displayName": "Mommy Maple 🌿🌷 ReDebut WIP",
+            "description": "VA and ASMR @Twitch Partner ♡┊A Jackalope Forest Guardian ♡ NSFW acc @yourgodessmaple",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085672341254909952/z8HSGS6R_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1683319998289448961/1784619170/1500x500",
+            "followersCount": 3939,
+            "followingCount": 369,
+            "postsCount": 5621,
+            "accountCreatedAt": "2023-07-24T03:37:05.538Z",
+            "profileUrl": "https://x.com/MommyMaple_",
+            "fetchedAt": "2026-08-08T23:57:09Z"
+        },
+        "yourgodessmaple": {
+            "id": "1871842498576035840",
+            "handle": "yourgodessmaple",
+            "displayName": "Maple",
+            "description": "Mistress | Findom | Free Use Mommy | 🔞 Vtuber @missmaplevt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2045522213173186560/dQADI0uV_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1871842498576035840/1776525485/1500x500",
+            "followersCount": 692,
+            "followingCount": 1,
+            "postsCount": 37,
+            "accountCreatedAt": "2024-12-25T08:57:33.603Z",
+            "profileUrl": "https://x.com/YourGodessMaple",
+            "fetchedAt": "2026-08-08T23:57:10Z"
+        }
     }
 }

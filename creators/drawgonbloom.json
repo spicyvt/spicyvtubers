@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:40Z"
+    },
+    "twitter": {
+        "drawgonbloom": {
+            "id": "1506737736467861509",
+            "handle": "drawgonbloom",
+            "displayName": "DrawgonBloom",
+            "description": "A VTuber dork on the internet who's chat trolls him out of love.\n\nI stream and love monster games. Sometimes I draw stuff.\n❤️Taken by @pixie_pups",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1787687207563624448/kofSV4Q9_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1506737736467861509/1714971236/1500x500",
+            "followersCount": 378,
+            "followingCount": 164,
+            "postsCount": 918,
+            "accountCreatedAt": "2022-03-23T21:12:56.045Z",
+            "profileUrl": "https://x.com/DrawgonBloom",
+            "fetchedAt": "2026-08-09T00:10:57Z"
+        },
+        "tinygreenleef": {
+            "id": "1556796469746827264",
+            "handle": "tinygreenleef",
+            "displayName": "Tiny Green Leef",
+            "description": "🔞NSFW VR Content Creator🔞\nHeyo call me Leef!\nArtist. Live streamer. V-Tuber. Renamon fan\nJust a dork on the internet :3\n⚠No Minors⚠",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082610560143642624/hsMKfYDp_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1556796469746827264/1785368025/1500x500",
+            "followersCount": 174,
+            "followingCount": 15,
+            "postsCount": 21,
+            "accountCreatedAt": "2022-08-09T00:23:20.483Z",
+            "profileUrl": "https://x.com/TinyGreenLeef",
+            "fetchedAt": "2026-08-09T00:10:59Z"
+        }
     }
 }

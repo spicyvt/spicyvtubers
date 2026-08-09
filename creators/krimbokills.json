@@ -78,5 +78,49 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:06Z"
+    },
+    "twitter": {
+        "king_kriminal": {
+            "id": "1326326879805206532",
+            "handle": "king_kriminal",
+            "displayName": "⛓ Krimbo ⛓",
+            "description": "Old Pervert Artist | Vtuber | Poly | Queer | Ruffian\n🎨 ONLY = @KRIMBO_ART\n🚫Ai🚫TERF🚫-18🚫iCE🚫",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2067313143999594496/OLVsjn2__400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1326326879805206532/1781720418/1500x500",
+            "followersCount": 16226,
+            "followingCount": 2749,
+            "postsCount": 27392,
+            "accountCreatedAt": "2020-11-11T00:52:59.574Z",
+            "profileUrl": "https://x.com/king_kriminal",
+            "fetchedAt": "2026-08-09T00:17:38Z"
+        },
+        "krimbo_art": {
+            "id": "2072782313146966016",
+            "handle": "krimbo_art",
+            "displayName": "🎨⛓️KRIMBO⛓️🎨 ( ART ONLY )",
+            "description": "Old Pervert Artist | Vtuber | Poly | Queer | Ruffian\n🚫Ai  🚫 TERF🚫Minors🚫 iCE🚫",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2072783328592228352/QUfqBRMS_400x400.png",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2072782313146966016/1783025472/1500x500",
+            "followersCount": 48,
+            "followingCount": 1,
+            "postsCount": 94,
+            "accountCreatedAt": "2026-07-02T20:40:57.240Z",
+            "profileUrl": "https://x.com/KRIMBO_ART",
+            "fetchedAt": "2026-08-09T00:17:40Z"
+        }
+    },
+    "bluesky": {
+        "did": "did:plc:4azw5kqm7j6whwyypfdgcnio",
+        "handle": "krimboloves.bsky.social",
+        "displayName": "⛓ Krimbo ⛓ NSFW Artist | Vtuber",
+        "description": "Old Pervert Artist | Vtuber | Poly | Queer | Ruffian\n🚫Ai🚫TERF🚫-18🚫iCE🚫\n🎧 Twitch: http://twitch.tv/krimbokills\n✅ Vgen: https://vgen.co/krimbokills\n🔞 Vgen: https://vgen.co/krimboloves\n💎 Fansly:  http://fansly.com/Krimbokills",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4azw5kqm7j6whwyypfdgcnio/bafkreihf477wemaubko6t6v3tscx5fifemc7klpu6qtymoklxmu6bxvlaq",
+        "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:4azw5kqm7j6whwyypfdgcnio/bafkreiffyrcjvcemajxxs6kaad3ku5ihpd54vtkxqwtjnaiecrnsy6xjxi",
+        "followersCount": 1766,
+        "followingCount": 836,
+        "postsCount": 230,
+        "accountCreatedAt": "2024-10-17T07:56:44.212Z",
+        "profileUrl": "https://bsky.app/profile/krimboloves.bsky.social",
+        "fetchedAt": "2026-08-09T00:23:28Z"
     }
 }

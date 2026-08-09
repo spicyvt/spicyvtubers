@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:28Z"
+    },
+    "twitter": {
+        "satonanamin": {
+            "id": "1499546330858991619",
+            "handle": "satonanamin",
+            "displayName": "🤍Nami 🤍",
+            "description": "Yes I have one 👇Top 0.04% 💕@NamiKitsunami 5'1 fox girl",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1956569184550502400/p70B6Tq1_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1499546330858991619/1764640922/1500x500",
+            "followersCount": 26222,
+            "followingCount": 567,
+            "postsCount": 1271,
+            "accountCreatedAt": "2022-03-04T00:45:01.436Z",
+            "profileUrl": "https://x.com/SatoNanamin",
+            "fetchedAt": "2026-08-08T23:48:19Z"
+        },
+        "namikitsunami": {
+            "id": "1407665154754555904",
+            "handle": "namikitsunami",
+            "displayName": "💗 Nami 💗",
+            "description": "💗Comfy Fox Vtuber! 💗  🎨 #Kitsunart 📸:CVR",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085243476246188032/kVFTjAad_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1407665154754555904/1770785982/1500x500",
+            "followersCount": 22868,
+            "followingCount": 1501,
+            "postsCount": 3382,
+            "accountCreatedAt": "2021-06-23T11:41:49.386Z",
+            "profileUrl": "https://x.com/NamiKitsunami",
+            "fetchedAt": "2026-08-08T23:48:21Z"
+        }
     }
 }

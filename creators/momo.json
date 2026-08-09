@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:21Z"
+    },
+    "twitter": {
+        "momomischief": {
+            "id": "3285354997",
+            "handle": "momomischief",
+            "displayName": "Momo 👽",
+            "description": "Alien VTuber\nART TAGS: #MomoArts -🔞#MomoNoods\nROGUE ENERGY CODE: MOMO  \n2D ART:@yuniiho ~ 2D RIG:@2wintails ~ 3D:@Shonzo_  \nLINKS: https://t.co/RkJdSjLKVb",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2026211969280225280/FYFtFof4_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3285354997/1771921350/1500x500",
+            "followersCount": 97540,
+            "followingCount": 1049,
+            "postsCount": 6265,
+            "accountCreatedAt": "2015-07-20T12:01:03.764Z",
+            "profileUrl": "https://x.com/MomoMischief",
+            "fetchedAt": "2026-08-08T23:56:47Z"
+        },
+        "momonoods": {
+            "id": "1619257386413293568",
+            "handle": "momonoods",
+            "displayName": "Momo",
+            "description": "NSFW Account for @MomoMischief\nJust a spaced out cat that likes to play.\nArt Tags: 🔞#MomoNoods & #MomoArts",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1619258155011121158/uD6A0Q5T_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1619257386413293568/1677830953/1500x500",
+            "followersCount": 5647,
+            "followingCount": 1,
+            "postsCount": 53,
+            "accountCreatedAt": "2023-01-28T08:54:32.941Z",
+            "profileUrl": "https://x.com/MomoNoods",
+            "fetchedAt": "2026-08-08T23:56:48Z"
+        }
     }
 }

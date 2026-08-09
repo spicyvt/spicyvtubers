@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:12Z"
+    },
+    "twitter": {
+        "kamilabombette": {
+            "id": "1174785592003051521",
+            "handle": "kamilabombette",
+            "displayName": "Kamila Bombette ➡️ San Japan ✈️",
+            "description": "KB | VA & VTuber | 🔞 | 28 | 🇮🇪 🇺🇸 | Pooka (Púca) | Marks: ☘️💣 | Manager: @sovbtw",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2084453199680045056/hReQ9nx2_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1174785592003051521/1785807459/1500x500",
+            "followersCount": 191763,
+            "followingCount": 3525,
+            "postsCount": 24640,
+            "accountCreatedAt": "2019-09-19T20:41:31.595Z",
+            "profileUrl": "https://x.com/KamilaBombette",
+            "fetchedAt": "2026-08-08T23:44:51Z"
+        },
+        "kumbomb": {
+            "id": "1766621103122739200",
+            "handle": "kumbomb",
+            "displayName": "KumBomb (KB) ☘️💣",
+            "description": "KB | 27 | She/Her | VTuber, Pro NSFW VA & IRL Content Creator | 🔞 | 💙 0.05% of F@nsly 💙\nVO: https://t.co/17nE1z6bj0",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2084590749417672704/8gtV4QVW_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1766621103122739200/1785839534/1500x500",
+            "followersCount": 45824,
+            "followingCount": 465,
+            "postsCount": 1291,
+            "accountCreatedAt": "2024-03-10T00:24:40.214Z",
+            "profileUrl": "https://x.com/KumBomb",
+            "fetchedAt": "2026-08-08T23:44:53Z"
+        }
     }
 }

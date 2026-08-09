@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:30Z"
+    },
+    "twitter": {
+        "danikacattv": {
+            "id": "1488934998304608261",
+            "handle": "danikacattv",
+            "displayName": "DanikaCat 🔜 EF30",
+            "description": "Hi!, I'm a Twitch affiliate and a Furry Femboy, I like to hang out with my friends and other Streamers in VR chat, check out my Twitch for new Streams!#Vtuber",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1997356064220553216/XppbedCu_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1488934998304608261/1765041770/1500x500",
+            "followersCount": 245,
+            "followingCount": 327,
+            "postsCount": 1122,
+            "accountCreatedAt": "2022-02-02T17:59:24.163Z",
+            "profileUrl": "https://x.com/DanikaCatTV",
+            "fetchedAt": "2026-08-09T00:09:09Z"
+        },
+        "catdanika": {
+            "id": "1839614566843748352",
+            "handle": "catdanika",
+            "displayName": "🔞DanikaCat AD",
+            "description": "🔞🔞🔞I'm a strawberry femboy cat :3,a VRC/variety content creator,I also stream on Joystick! SFW account can be found under @DanikaCatTV\n🔞🔞🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2036149422455947264/M4khU0yc_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1839614566843748352/1776702117/1500x500",
+            "followersCount": 308,
+            "followingCount": 355,
+            "postsCount": 1327,
+            "accountCreatedAt": "2024-09-27T10:34:47.397Z",
+            "profileUrl": "https://x.com/CatDanika",
+            "fetchedAt": "2026-08-09T00:09:10Z"
+        }
     }
 }

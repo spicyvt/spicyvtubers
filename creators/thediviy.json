@@ -69,5 +69,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:12Z"
+    },
+    "twitter": {
+        "thediviy": {
+            "id": "225228201",
+            "handle": "thediviy",
+            "displayName": "Diviy",
+            "description": "Sometimes twitch stuff\nSecret power I can yell in lower case\nDms Open! :3c \nPFP: @LuluEclipsyy_\nBanner: @TeaDooie",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2018776443467997184/jjOGWXV2_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/225228201/1768430343/1500x500",
+            "followersCount": 6511,
+            "followingCount": 987,
+            "postsCount": 12110,
+            "accountCreatedAt": "2010-12-11T01:36:51.000Z",
+            "profileUrl": "https://x.com/TheDiviy",
+            "fetchedAt": "2026-08-08T23:45:11Z"
+        }
     }
 }

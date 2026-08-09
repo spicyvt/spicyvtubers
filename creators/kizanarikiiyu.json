@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:12Z"
+    },
+    "twitter": {
+        "kizanarikiiyu": {
+            "id": "1993666744779784193",
+            "handle": "kizanarikiiyu",
+            "displayName": "Kizanari Kiiyu 😈🪄Succubus Sorceress VTuber",
+            "description": "🪄Sorceress with a side of succ\n🪄@Twitch Affiliate\n🪄Variety Streamer\n🪄Parents: @ryhluen @suryasetsuna\n🪄PFP & Header: @Hatdog_Guhitera\n🪄NSFW: @kiiyukizanari",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1993668436338016256/Wj7XqWU8_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1993666744779784193/1764162572/1500x500",
+            "followersCount": 154,
+            "followingCount": 62,
+            "postsCount": 480,
+            "accountCreatedAt": "2025-11-26T13:03:04.602Z",
+            "profileUrl": "https://x.com/KizanariKiiyu",
+            "fetchedAt": "2026-08-08T23:45:29Z"
+        },
+        "kiiyukizanari": {
+            "id": "956990677979680769",
+            "handle": "kiiyukizanari",
+            "displayName": "Kizanari Kiiyu😈🪄Succubus Sorceress LewdTuber",
+            "description": "😈The NSFW side of @kizanarikiiyu\n😈@twitch & @fansly streamer\n😈LewdTuber\n😈Parents: @ryhluen @suryasetsuna\n😈PFP: @Hatdog_Guhitera\n😈Header: @ryhluen",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1993669766364463104/4D52bIwR_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/956990677979680769/1770220748/1500x500",
+            "followersCount": 1576,
+            "followingCount": 267,
+            "postsCount": 24599,
+            "accountCreatedAt": "2018-01-26T20:42:12.469Z",
+            "profileUrl": "https://x.com/kiiyukizanari",
+            "fetchedAt": "2026-08-08T23:45:31Z"
+        }
     }
 }

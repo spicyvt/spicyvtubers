@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:24Z"
+    },
+    "twitter": {
+        "snowydaisy": {
+            "id": "1917064012891930624",
+            "handle": "snowydaisy",
+            "displayName": "SnowyDaisy | ❄️🌼 🇵🇷 🤖",
+            "description": "Robot with Snep DNA! \nTwitch Affiliate. \nVtuber | VR Dancer\nHecho en PR \nInspired by LimeBreaker and Torinyan\n\nhttps://t.co/C04BkrPQCz\n\n🔞:@SnowKittyCat69",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2028053230320852992/90aI8vBr_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1917064012891930624/1772360545/1500x500",
+            "followersCount": 460,
+            "followingCount": 576,
+            "postsCount": 7042,
+            "accountCreatedAt": "2025-04-29T03:51:03.786Z",
+            "profileUrl": "https://x.com/SnowyDaisy",
+            "fetchedAt": "2026-08-09T00:08:29Z"
+        },
+        "snowkittycat69": {
+            "id": "1113538343902511105",
+            "handle": "snowkittycat69",
+            "displayName": "Snow Covered Leopard",
+            "description": "NSFW ALT ACCOUNT OF @SnowyDaisyVT\nLewd posting to keep that other account clean!!\nAll Content posted have been filmed within Unity!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2041336184358453248/qrIWeKNC_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1113538343902511105/1755513804/1500x500",
+            "followersCount": 185,
+            "followingCount": 159,
+            "postsCount": 628,
+            "accountCreatedAt": "2019-04-03T20:26:44.507Z",
+            "profileUrl": "https://x.com/SnowKittyCat69",
+            "fetchedAt": "2026-08-09T00:08:30Z"
+        }
     }
 }

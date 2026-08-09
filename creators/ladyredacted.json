@@ -23,5 +23,21 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b0bca4b-a7fc-41b6-88dd-b4f2ed8b93f6-profile_image-70x70.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/41fea63f-fe23-4520-9be8-efcd01b7d4f3-profile_banner-480.png"
+    },
+    "twitter": {
+        "ladyredacted": {
+            "id": "1002399880889810944",
+            "handle": "ladyredacted",
+            "displayName": "🦊LadyRedacted🦊",
+            "description": "I'm a Fox Vtuber that likes to wiggle her tail and hang out with my twitch chat. I'm a little quirky and even as a vtuber I still like to be myself.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1641210184054759426/I8M3iMgt_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1002399880889810944/1678719820/1500x500",
+            "followersCount": 136,
+            "followingCount": 76,
+            "postsCount": 590,
+            "accountCreatedAt": "2018-06-01T04:02:10.073Z",
+            "profileUrl": "https://x.com/LadyRedacted",
+            "fetchedAt": "2026-08-09T00:09:56Z"
+        }
     }
 }

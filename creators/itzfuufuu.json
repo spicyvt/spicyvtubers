@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:49Z"
+    },
+    "twitter": {
+        "itzfuufuu": {
+            "id": "801213061",
+            "handle": "itzfuufuu",
+            "displayName": "ItzFuuFuu 🐈‍⬛ Stray Cat VTuber",
+            "description": "I'm just a silly boy! \n🐾 Wishlist: https://t.co/Bur5PCoiWD \n🐾 Live2D Art: Yui \n🐾 Rigger: @Totochomp \n🐾 SFW Art Tag: #ItzFuuFuu",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1921341654763470848/CmvNIK9C_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/801213061/1781570255/1500x500",
+            "followersCount": 8585,
+            "followingCount": 901,
+            "postsCount": 6570,
+            "accountCreatedAt": "2012-09-03T21:00:28.000Z",
+            "profileUrl": "https://x.com/ItzFuuFuu",
+            "fetchedAt": "2026-08-08T23:51:57Z"
+        },
+        "sussyfuufuu": {
+            "id": "2066375450050355200",
+            "handle": "sussyfuufuu",
+            "displayName": "Fluffy Fuu Fuu 🖤",
+            "description": "🐾 https://t.co/9b9xNOdOp2\n🐾 Main @itzfuufuu\n🐾 ASMR\n🐾 Femboys & Furries Rule\n🐾 #VTuber\n🐾 NSFW Art Tag #SussyFuuFuu\n🔞 NSFW Account\n🔞 No Minors",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2067431043926212608/a3-GcRTB_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2066375450050355200/1781744643/1500x500",
+            "followersCount": 27,
+            "followingCount": 17,
+            "postsCount": 22,
+            "accountCreatedAt": "2026-06-15T04:23:39.097Z",
+            "profileUrl": "https://x.com/SussyFuuFuu",
+            "fetchedAt": "2026-08-08T23:51:59Z"
+        }
     }
 }

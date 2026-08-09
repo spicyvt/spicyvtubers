@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:21:56Z"
+    },
+    "twitter": {
+        "nythaedra": {
+            "id": "1899685519656660993",
+            "handle": "nythaedra",
+            "displayName": "Nythaedra VT",
+            "description": "Vtuber\nASMR'tist\nVA \nCheck my links below!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085177770221424640/3jcASpwa_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1899685519656660993/1784940663/1500x500",
+            "followersCount": 4389,
+            "followingCount": 424,
+            "postsCount": 2198,
+            "accountCreatedAt": "2025-03-12T04:55:02.250Z",
+            "profileUrl": "https://x.com/Nythaedra",
+            "fetchedAt": "2026-08-08T23:50:58Z"
+        },
+        "nythaedralewd": {
+            "id": "1880778231881613312",
+            "handle": "nythaedralewd",
+            "displayName": "Nythaedra LEWD",
+            "description": "🔞 Voice Actress | Business Inquiries: Nythaedra@gmail.com | SFW: \n@nythaedra  | Click the link below to see more!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082154164440674304/FqRjg9ZE_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1880778231881613312/1785259212/1500x500",
+            "followersCount": 3335,
+            "followingCount": 177,
+            "postsCount": 474,
+            "accountCreatedAt": "2025-01-19T00:44:15.156Z",
+            "profileUrl": "https://x.com/NythaedraLEWD",
+            "fetchedAt": "2026-08-08T23:50:59Z"
+        }
     }
 }

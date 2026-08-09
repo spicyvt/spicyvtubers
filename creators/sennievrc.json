@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:37Z"
+    },
+    "twitter": {
+        "sennievt": {
+            "id": "1551734020681203712",
+            "handle": "sennievt",
+            "displayName": "SennieVT ➡️ TWITCHCON2026🐾",
+            "description": "Vtuber acc for when I start :3 (spicy x @sennievrc) #femboy Art: #SennieVART / #SennieVARTSpicy\n shorts / skits here 💛\nspicy 💙 site in bio :3 v (Irlxvrc)",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2064036380146036736/6s9Llhzo_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551734020681203712/1782872301/1500x500",
+            "followersCount": 2997,
+            "followingCount": 153,
+            "postsCount": 265,
+            "accountCreatedAt": "2022-07-26T01:00:08.315Z",
+            "profileUrl": "https://x.com/SennieVT",
+            "fetchedAt": "2026-08-08T23:59:33Z"
+        },
+        "sennievrc": {
+            "id": "1317530007049326594",
+            "handle": "sennievrc",
+            "displayName": "SennieVRC",
+            "description": "Femboy cyber puppy ♡ ASMR/VRC Streamer! ♡ Vtuber ♡ RADIANT / Art tag: #SennieVART / #SennieVARTSpicy Main acc : @SennieVT\nspicy 💙 site in bio :3 v (Irlxvrc)",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2049216395448025088/CQ2uecFB_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1317530007049326594/1778716324/1500x500",
+            "followersCount": 9658,
+            "followingCount": 864,
+            "postsCount": 1196,
+            "accountCreatedAt": "2020-10-17T18:16:58.874Z",
+            "profileUrl": "https://x.com/SennieVRC",
+            "fetchedAt": "2026-08-08T23:59:34Z"
+        }
     }
 }

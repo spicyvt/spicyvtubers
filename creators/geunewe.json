@@ -79,5 +79,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-07T14:39:38Z"
+    },
+    "twitter": {
+        "ewe_geun": {
+            "id": "1593199602433290245",
+            "handle": "ewe_geun",
+            "displayName": "Geun Ewe 🩵",
+            "description": "🩵Totally Normal Demon Sheep🩵 ENVA 🩵 \n Art @erianosamu_ Rig @CutiepieRinRin\n #lookatewe | https://t.co/Xs1Ta4iPQr",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1965124841633095680/jws-or9h_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1593199602433290245/1760049219/1500x500",
+            "followersCount": 968,
+            "followingCount": 3765,
+            "postsCount": 4742,
+            "accountCreatedAt": "2022-11-17T11:09:40.153Z",
+            "profileUrl": "https://x.com/ewe_geun",
+            "fetchedAt": "2026-08-09T00:21:50Z"
+        },
+        "geunlewed": {
+            "id": "1842163390380396545",
+            "handle": "geunlewed",
+            "displayName": "GeunEweVA🔞",
+            "description": "EN VA 🩵 SFW: @ewe_geun | Banner by mssclio PFP by mysxuie | #geunleweds",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1978194200035528704/F-CU1abp_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1842163390380396545/1733001234/1500x500",
+            "followersCount": 132,
+            "followingCount": 286,
+            "postsCount": 272,
+            "accountCreatedAt": "2024-10-04T11:22:41.079Z",
+            "profileUrl": "https://x.com/GeunLewed",
+            "fetchedAt": "2026-08-09T00:21:51Z"
+        }
     }
 }

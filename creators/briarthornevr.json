@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:30Z"
+    },
+    "twitter": {
+        "briarthornevr": {
+            "id": "778517270071021568",
+            "handle": "briarthornevr",
+            "displayName": "Briar, the Cait Sidhe",
+            "description": "Cait Sidhe Vtuber |\nAutistic trans woman |\nVideographer |\nMinors DNI 🔞 |\nCall me Briar, Kitty, or Mia |\nShe/It pronouns |\nCait Sidhe Radio Host",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2075047975336751104/7XV_IJJl_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/778517270071021568/1776997630/1500x500",
+            "followersCount": 771,
+            "followingCount": 1519,
+            "postsCount": 13200,
+            "accountCreatedAt": "2016-09-21T08:52:36.151Z",
+            "profileUrl": "https://x.com/BriarThorneVR",
+            "fetchedAt": "2026-08-09T00:08:55Z"
+        }
+    },
+    "bluesky": {
+        "did": "did:plc:hd76wqyedb52npe6a2ng35qk",
+        "handle": "zaynakitty.tv",
+        "displayName": "BriarThorneVR",
+        "description": "Our name is Briar, nice to meet you!~ \nWe're a shapeshifting cait sidhe (keht-shee) v-tuber who frequently dwells in VRChat, does event videography, has a podcast, hosts Cait Sidhe Radio, and makes music!~",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hd76wqyedb52npe6a2ng35qk/bafkreigfsz2lzmrvg3bcr4kgezorbu2nvfmq7iyhohnw52coscn3d3msra",
+        "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:hd76wqyedb52npe6a2ng35qk/bafkreichch6sst5wdcj5xpaisc62jpqtbvnovobd5cfiwjuukxnnlxp2cm",
+        "followersCount": 353,
+        "followingCount": 372,
+        "postsCount": 724,
+        "accountCreatedAt": "2023-09-27T19:23:33.060Z",
+        "profileUrl": "https://bsky.app/profile/zaynakitty.tv",
+        "fetchedAt": "2026-08-09T00:23:11Z"
     }
 }

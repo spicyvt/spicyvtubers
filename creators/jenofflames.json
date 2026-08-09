@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:17Z"
+    },
+    "twitter": {
+        "jenofflames": {
+            "id": "1340492665",
+            "handle": "jenofflames",
+            "displayName": "JenofFlames",
+            "description": "🔞 18+ | Sussy Redhead | Small Twitch Streamer | 32 | Vtuber | PFP: @HadesDomainVT | Art: #ArtofFlames | 🔞+ @flamesafterdrk",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1997395267285360640/fiXgfGrr_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1340492665/1765051116/1500x500",
+            "followersCount": 511,
+            "followingCount": 374,
+            "postsCount": 5943,
+            "accountCreatedAt": "2013-04-09T23:22:37.000Z",
+            "profileUrl": "https://x.com/JenofFlames",
+            "fetchedAt": "2026-08-09T00:19:41Z"
+        },
+        "flamesafterdrk": {
+            "id": "1773951993196752896",
+            "handle": "flamesafterdrk",
+            "displayName": "Flames After Dark",
+            "description": "18+ | Vtuber | Sussy Redhead | 🎨@HadesDomainVT\nNSFW Page for https://t.co/kF9CWXkvu3",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1773956131817140224/lKYuCDjU_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1773951993196752896/1711779050/1500x500",
+            "followersCount": 53,
+            "followingCount": 20,
+            "postsCount": 20,
+            "accountCreatedAt": "2024-03-30T05:54:56.590Z",
+            "profileUrl": "https://x.com/FlamesAfterDrk",
+            "fetchedAt": "2026-08-09T00:19:43Z"
+        }
     }
 }

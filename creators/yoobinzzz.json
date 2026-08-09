@@ -78,5 +78,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:54Z"
+    },
+    "twitter": {
+        "yoobinz": {
+            "id": "3928256380",
+            "handle": "yoobinz",
+            "displayName": "YOOBIN",
+            "description": "💜🖤 I make videos and stream for a living Content made in CVR, Blender and Unity.\nBusiness inquiries: yoobinzvr@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2079566586722086912/4DEya2dL_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3928256380/1713971309/1500x500",
+            "followersCount": 13116,
+            "followingCount": 982,
+            "postsCount": 6098,
+            "accountCreatedAt": "2015-10-11T13:50:57.427Z",
+            "profileUrl": "https://x.com/yoobinz",
+            "fetchedAt": "2026-08-08T23:52:48Z"
+        }
     }
 }

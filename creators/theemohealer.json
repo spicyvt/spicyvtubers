@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:05Z"
+    },
+    "twitter": {
+        "theerohealer": {
+            "id": "1516737704842563586",
+            "handle": "theerohealer",
+            "displayName": "The Ero Healer",
+            "description": "Hello loves, I'm a Ghostly LewdTuber, eager to give you an out of body experience! \nWant to take a step towards the Dark side?\nRequests Closed!\nThey/Them/Any",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2037667605524455424/2Od4ZmSd_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1516737704842563586/1745906893/1500x500",
+            "followersCount": 369,
+            "followingCount": 480,
+            "postsCount": 1120,
+            "accountCreatedAt": "2022-04-20T11:20:25.268Z",
+            "profileUrl": "https://x.com/TheEroHealer",
+            "fetchedAt": "2026-08-08T23:54:49Z"
+        },
+        "theemohealer": {
+            "id": "864572161582743552",
+            "handle": "theemohealer",
+            "displayName": "The Emo Healer",
+            "description": "Streamer, storyteller, there are many things people can call me.\nI would prefer to just be \"Kind.\"\n#AscensionAcademyRP #NeonDivide",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1973508501512265729/Ox17eP1x_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/864572161582743552/1671698619/1500x500",
+            "followersCount": 842,
+            "followingCount": 1039,
+            "postsCount": 8219,
+            "accountCreatedAt": "2017-05-16T20:04:01.068Z",
+            "profileUrl": "https://x.com/TheEmoHealer",
+            "fetchedAt": "2026-08-08T23:54:51Z"
+        }
     }
 }

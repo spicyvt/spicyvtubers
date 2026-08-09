@@ -66,5 +66,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:23Z"
+    },
+    "twitter": {
+        "sinthyasanguine": {
+            "id": "1889755544002633730",
+            "handle": "sinthyasanguine",
+            "displayName": "Sinthya Sanguine 💉 🍷",
+            "description": "𓆩⚠︎𓆪 The goth tomboy vampire of indie, at your command!  𓆩⚠︎𓆪| Art + Rig: @minawananami Design: @SquishyGhool | #illusinthya",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2067295890088374273/eZ39w6in_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1889755544002633730/1750455483/1500x500",
+            "followersCount": 23458,
+            "followingCount": 452,
+            "postsCount": 3130,
+            "accountCreatedAt": "2025-02-12T19:16:49.951Z",
+            "profileUrl": "https://x.com/SinthyaSanguine",
+            "fetchedAt": "2026-08-08T23:47:22Z"
+        },
+        "sinthyavtuber": {
+            "id": "2082904909033230339",
+            "handle": "sinthyavtuber",
+            "displayName": "Sinthya Sanguine",
+            "description": "https://t.co/FrLjmnvueL",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082905904538685440/9AR4DcVV_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2082904909033230339/1785523735/1500x500",
+            "followersCount": 1821,
+            "followingCount": 5,
+            "postsCount": 1,
+            "accountCreatedAt": "2026-07-30T19:06:38.262Z",
+            "profileUrl": "https://x.com/SinthyaVtuber",
+            "fetchedAt": "2026-08-08T23:47:24Z"
+        }
     }
 }

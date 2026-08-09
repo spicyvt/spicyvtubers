@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:47Z"
+    },
+    "twitter": {
+        "sabinenovavt": {
+            "id": "1926162733608611840",
+            "handle": "sabinenovavt",
+            "displayName": "Sabi 💜✨",
+            "description": "💜 Ex- Cyberpunk Bounty hunter turned Netrunner | 🔞@sabiafterdark | ✨3D Vtuber/Lewdtuber✨ | https://t.co/KUqYDwBjus | 💙F4NSLY⬇️",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2020995416406491137/DAsGoc39_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1926162733608611840/1778482688/1500x500",
+            "followersCount": 223,
+            "followingCount": 277,
+            "postsCount": 533,
+            "accountCreatedAt": "2025-05-24T06:26:05.903Z",
+            "profileUrl": "https://x.com/SabinenovaVT",
+            "fetchedAt": "2026-08-09T00:01:20Z"
+        },
+        "sabiafterdark": {
+            "id": "1447938651342741508",
+            "handle": "sabiafterdark",
+            "displayName": "Sabi 💜 | Cyber Lewdtuber",
+            "description": "🔞NSFW account for @sabinenovavt 💜 Ex- Cyberpunk Bounty hunter turned Netrunner | MDNI | ✨3D Lewdtuber✨\n💙F4NSLY⬇️",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2021064783446122496/yoWNVoQ2_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1447938651342741508/1778483596/1500x500",
+            "followersCount": 892,
+            "followingCount": 95,
+            "postsCount": 111,
+            "accountCreatedAt": "2021-10-12T14:54:16.965Z",
+            "profileUrl": "https://x.com/sabiafterdark",
+            "fetchedAt": "2026-08-09T00:01:22Z"
+        }
     }
 }

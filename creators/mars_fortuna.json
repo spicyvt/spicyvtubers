@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:17Z"
+    },
+    "twitter": {
+        "mars_fortuna": {
+            "id": "1416441250257928192",
+            "handle": "mars_fortuna",
+            "displayName": "Mars Fortuna 🩷💦『 Tomboy Succubus 』🔞",
+            "description": "🍷  🎨: @Cigmaxxx ⚙️: @QIJIUU799 3D: @cokelateh\n🍷  🎨 tag: ArtOfMars 🔞 tag: NutOfMars\n🍷  💙 @Twitch Partner YouTube's No. 1 Hater\n🍷  🌃 alt: @MarsAfterHours",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1999407700451684352/L3YbSyrH_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1416441250257928192/1771179568/1500x500",
+            "followersCount": 3409,
+            "followingCount": 341,
+            "postsCount": 5301,
+            "accountCreatedAt": "2021-07-17T16:54:54.443Z",
+            "profileUrl": "https://x.com/Mars_Fortuna",
+            "fetchedAt": "2026-08-08T23:45:43Z"
+        },
+        "marsafterhours": {
+            "id": "1958833332063485952",
+            "handle": "marsafterhours",
+            "displayName": "Mars but sad/angry",
+            "description": "Main: @mars_fortuna\nPlace for me to vent my sorrows",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1958833712487165952/5BQ8_blK_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1958833332063485952/1783069238/1500x500",
+            "followersCount": 231,
+            "followingCount": 1,
+            "postsCount": 25,
+            "accountCreatedAt": "2025-08-22T10:07:21.627Z",
+            "profileUrl": "https://x.com/MarsAfterHours",
+            "fetchedAt": "2026-08-08T23:45:44Z"
+        }
     }
 }

@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:17Z"
+    },
+    "twitter": {
+        "esmieinsitu": {
+            "id": "835640012368723969",
+            "handle": "esmieinsitu",
+            "displayName": "🌊Esmie, Fish wife🏺|🔞 Back on Monitoring",
+            "description": "Actual archaeologist\n #ENVtuber\n🎨#Artsmie\nModel:@ErianOsamuCh\nRig: @iSketchi\nhttps://t.co/UaszjX3b3Z",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1996325730658197504/GJwpQ22I_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/835640012368723969/1764796119/1500x500",
+            "followersCount": 2390,
+            "followingCount": 1602,
+            "postsCount": 27939,
+            "accountCreatedAt": "2017-02-25T23:57:59.198Z",
+            "profileUrl": "https://x.com/EsmieInSitu",
+            "fetchedAt": "2026-08-09T00:19:16Z"
+        }
+    },
+    "bluesky": {
+        "did": "did:plc:zfdvsazcmmedcf5feotoffhl",
+        "handle": "esmieinsitu.vtubers.social",
+        "displayName": " Esmie 🏺🌊 Fuck It We Ball Arc",
+        "description": "Archaeologist\nFeesh\n\nPFP: @zurasuta",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zfdvsazcmmedcf5feotoffhl/bafkreiaxjxer7kykjfzujcael4fl75jijurnbfdo7t4nmdqtknhk56pnqy",
+        "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:zfdvsazcmmedcf5feotoffhl/bafkreibv72djqfsehf4xeeqrmqixstbg7cq45tyid6shsj6fvbznny4m2m",
+        "followersCount": 1192,
+        "followingCount": 620,
+        "postsCount": 1335,
+        "accountCreatedAt": "2023-09-19T22:42:20.647Z",
+        "profileUrl": "https://bsky.app/profile/esmieinsitu.vtubers.social",
+        "fetchedAt": "2026-08-09T00:23:30Z"
     }
 }

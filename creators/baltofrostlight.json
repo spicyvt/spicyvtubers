@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:56Z"
+    },
+    "twitter": {
+        "baltofrostlight": {
+            "id": "1979721195034689536",
+            "handle": "baltofrostlight",
+            "displayName": "Balto 🐺❄️⛓️",
+            "description": "Canine guardian Vtuber ~ Content Creator ~ MDNI ~ Twitch Affiliate",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1983070375765311488/PbScEVXc_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1979721195034689536/1771570819/1500x500",
+            "followersCount": 178,
+            "followingCount": 137,
+            "postsCount": 548,
+            "accountCreatedAt": "2025-10-19T01:28:28.071Z",
+            "profileUrl": "https://x.com/BaltoFrostLight",
+            "fetchedAt": "2026-08-09T00:15:58Z"
+        },
+        "baltoafterdark": {
+            "id": "1872506567246884864",
+            "handle": "baltoafterdark",
+            "displayName": "Balto 🐺❄️⛓️",
+            "description": "30 ~ MDNI ~ 18+ ~ NSFW Page of @BaltoFrostLight",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2015909951890149376/tzYTTgAq_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1872506567246884864/1771570729/1500x500",
+            "followersCount": 361,
+            "followingCount": 656,
+            "postsCount": 4506,
+            "accountCreatedAt": "2024-12-27T04:55:51.841Z",
+            "profileUrl": "https://x.com/BaltoAfterDark",
+            "fetchedAt": "2026-08-09T00:16:00Z"
+        }
     }
 }

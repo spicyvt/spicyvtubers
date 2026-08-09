@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:19Z"
+    },
+    "twitter": {
+        "pixeltinavt": {
+            "id": "1421264835912765442",
+            "handle": "pixeltinavt",
+            "displayName": "PixelTina",
+            "description": "🐺 ワンワン!  ¡La canina de confianza! ¦ 🎤 Singer VTuber ¦ 💜 STREAM #TinaLive ¦ 💛 ART #PixelTinaArt ¦ 💬 FAN #pawpads.\n\nGreenDragonMCstudios",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2067316782918950912/gSV1U8Aj_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1421264835912765442/1781500536/1500x500",
+            "followersCount": 1097,
+            "followingCount": 1833,
+            "postsCount": 2846,
+            "accountCreatedAt": "2021-07-31T00:22:28.037Z",
+            "profileUrl": "https://x.com/pixeltinavt",
+            "fetchedAt": "2026-08-09T00:07:29Z"
+        },
+        "inuhimetina": {
+            "id": null,
+            "handle": "inuhimetina",
+            "displayName": "InuHime Tina",
+            "description": "Tina Okami Yoru | La Loba de la Noche\nDiosa del deseo, voz que excita, mirada que atrapa.\nNo reces... gime mi nombre. 🔞 #lewdvtuber",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1950437743412097024/JtRh09R__400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1662986813445922816/1753855570/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2023-05-29T01:00:16.905Z",
+            "profileUrl": "https://x.com/InuhimeTina",
+            "fetchedAt": "2026-08-09T00:07:30Z"
+        }
     }
 }

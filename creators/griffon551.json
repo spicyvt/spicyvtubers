@@ -23,5 +23,21 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/654dc522-6622-48db-bcfc-0fd347a86f57-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02977416-39c9-40f3-a8da-e7d827216c32-profile_banner-480.png"
+    },
+    "twitter": {
+        "griffon551": {
+            "id": "1477404211231047682",
+            "handle": "griffon551",
+            "displayName": "Griffon",
+            "description": "Hi, I’m Griffon and im a raccoon vtuber on twitch․ I enjoy hanging with friends․ If I'm not streaming, I'm usually with friends.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1658576048466939904/E-ebxetL_400x400.jpg",
+            "bannerImageUrl": null,
+            "followersCount": 76,
+            "followingCount": 99,
+            "postsCount": 318,
+            "accountCreatedAt": "2022-01-01T22:20:31.168Z",
+            "profileUrl": "https://x.com/Griffon551",
+            "fetchedAt": "2026-08-09T00:09:27Z"
+        }
     }
 }

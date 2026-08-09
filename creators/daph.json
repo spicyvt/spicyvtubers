@@ -78,5 +78,63 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:39Z"
+    },
+    "twitter": {
+        "daph_vt": {
+            "id": "1348179723189243907",
+            "handle": "daph_vt",
+            "displayName": "daph ♡",
+            "description": "cosplayer + streamer \\( ≧ ᗜ ≦🌸)/\nEnglish .✦ ݁˖ 中文\n@daphubun @pixieasiangal @daphwaifu\nsee more of me ❤︎⁠ ↓",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1793385525728219136/hMAvG5Qk_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1348179723189243907/1776191952/1500x500",
+            "followersCount": 545875,
+            "followingCount": 1349,
+            "postsCount": 3753,
+            "accountCreatedAt": "2021-01-10T08:07:54.133Z",
+            "profileUrl": "https://x.com/daph_vt",
+            "fetchedAt": "2026-08-08T23:50:24Z"
+        },
+        "daphubun": {
+            "id": "1711014401606819840",
+            "handle": "daphubun",
+            "displayName": "daph ♡",
+            "description": "22 🎀 cosplayer @daph_vt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082364628366180352/vfPPN500_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1711014401606819840/1785309392/1500x500",
+            "followersCount": 137676,
+            "followingCount": 2,
+            "postsCount": 125,
+            "accountCreatedAt": "2023-10-08T13:43:26.627Z",
+            "profileUrl": "https://x.com/daphubun",
+            "fetchedAt": "2026-08-08T23:50:25Z"
+        },
+        "waifudaphh": {
+            "id": "1681284698",
+            "handle": "waifudaphh",
+            "displayName": "dippick",
+            "description": "hello everynyan",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2048367466099990528/9lbxU2SW_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1681284698/1653600196/1500x500",
+            "followersCount": 5,
+            "followingCount": 3,
+            "postsCount": 3,
+            "accountCreatedAt": "2013-08-18T17:56:14.866Z",
+            "profileUrl": "https://x.com/waifudaphh",
+            "fetchedAt": "2026-08-08T23:50:27Z"
+        },
+        "daphwaifu": {
+            "id": "2069543554221780992",
+            "handle": "daphwaifu",
+            "displayName": "daphwaifu",
+            "description": "cosplayer + streamer + cat lover!\nmain acc: @daph_vt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2069799729538506752/_rtLFCrn_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2069543554221780992/1782313702/1500x500",
+            "followersCount": 70315,
+            "followingCount": 14,
+            "postsCount": 36,
+            "accountCreatedAt": "2026-06-23T22:24:42.319Z",
+            "profileUrl": "https://x.com/daphwaifu",
+            "fetchedAt": "2026-08-08T23:50:29Z"
+        }
     }
 }

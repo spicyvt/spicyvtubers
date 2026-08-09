@@ -23,5 +23,35 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c94603a-75c1-47c4-8fe7-e75cbf25c24e-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3e53f25-bffd-4fc3-afcc-816e515f6845-profile_banner-480.png"
+    },
+    "twitter": {
+        "nightmaresdayc1": {
+            "id": "1283653960138657792",
+            "handle": "nightmaresdayc1",
+            "displayName": "Nightmare's Daycare|2D Debut",
+            "description": "Red Panda Vtuber|Variety Streamer|Partnered with @DubbyEnergy|\nhttps://t.co/6qQRgRdDE4 NSFW : @NightmaresAfter",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1781056146121404416/usMgKTF__400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1283653960138657792/1773867133/1500x500",
+            "followersCount": 349,
+            "followingCount": 1172,
+            "postsCount": 5619,
+            "accountCreatedAt": "2020-07-16T06:45:46.591Z",
+            "profileUrl": "https://x.com/NightmaresDayc1",
+            "fetchedAt": "2026-08-09T00:12:35Z"
+        },
+        "nightmaresafter": {
+            "id": "1687923703806308352",
+            "handle": "nightmaresafter",
+            "displayName": "NightmaresAfterCare",
+            "description": "⚠️🔞#NSFW⚠️🔞 Hi I'm Nightmares ૮ ˙Ⱉ˙ ა rawr ! he/him ~ #SFW : @NightmaresDayc1 🔞18+: #nightmaresaftercare",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1781056005926756352/PLPRXVNI_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1687923703806308352/1691284329/1500x500",
+            "followersCount": 65,
+            "followingCount": 276,
+            "postsCount": 961,
+            "accountCreatedAt": "2023-08-05T20:29:24.274Z",
+            "profileUrl": "https://x.com/NightmaresAfter",
+            "fetchedAt": "2026-08-09T00:12:37Z"
+        }
     }
 }

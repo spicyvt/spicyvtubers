@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:02Z"
+    },
+    "twitter": {
+        "spitemeharder": {
+            "id": "1478028593544540163",
+            "handle": "spitemeharder",
+            "displayName": "𝖘𝖕𝖎𝖙𝖊 🔥NSFW🔥",
+            "description": "Cerberus ᴡᴀɪꜰᴜ. 🎨 #Spitelust 😈 (No minors)",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1519813539690651649/1Gn2Kl3g_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1478028593544540163/1651186015/1500x500",
+            "followersCount": 30633,
+            "followingCount": 58,
+            "postsCount": 300,
+            "accountCreatedAt": "2022-01-03T15:41:04.045Z",
+            "profileUrl": "https://x.com/spitemeharder",
+            "fetchedAt": "2026-08-08T23:43:03Z"
+        },
+        "spitevtuber": {
+            "id": "1390524953515204611",
+            "handle": "spitevtuber",
+            "displayName": "Spite 🐺 Cerberus Vtuber 🐺",
+            "description": "CERBERPUP WAIFU 🐺 | 🔞: @spitemeharder 😘 | 💙 Mama: @Namishiron Rig: @ladycheese1 | :art: #illuspite",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1939485772853161984/xdxoA7Q7_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1390524953515204611/1751244233/1500x500",
+            "followersCount": 158913,
+            "followingCount": 1684,
+            "postsCount": 27661,
+            "accountCreatedAt": "2021-05-07T04:32:54.146Z",
+            "profileUrl": "https://x.com/SpiteVtuber",
+            "fetchedAt": "2026-08-08T23:43:05Z"
+        }
     }
 }

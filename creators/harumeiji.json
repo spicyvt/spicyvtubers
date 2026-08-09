@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:26Z"
+    },
+    "twitter": {
+        "harumeiji": {
+            "id": "426416110",
+            "handle": "harumeiji",
+            "displayName": "🍒 Harumei | VA\\VTuber",
+            "description": "Spicy Succubus Alchemist vTuber | VA | ♦️ art tag #haruillust ♦️ https://t.co/t3Z45bpDTO",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1706982360514957312/zl1Ix1Ay_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/426416110/1639048550/1500x500",
+            "followersCount": 3397,
+            "followingCount": 588,
+            "postsCount": 20132,
+            "accountCreatedAt": "2011-12-02T06:30:58.000Z",
+            "profileUrl": "https://x.com/Harumeiji",
+            "fetchedAt": "2026-08-08T23:57:48Z"
+        },
+        "eroharumeiji": {
+            "id": "1159347993922945025",
+            "handle": "eroharumeiji",
+            "displayName": "🔞 EroHarumeiji | VA\\VTuber",
+            "description": "Tomboy voice actress/vtuber/editor | SFW: @harumeiji",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2073796505937313792/w7mCNSRB_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1159347993922945025/1691167487/1500x500",
+            "followersCount": 13106,
+            "followingCount": 410,
+            "postsCount": 3223,
+            "accountCreatedAt": "2019-08-08T06:17:56.178Z",
+            "profileUrl": "https://x.com/EroHarumeiji",
+            "fetchedAt": "2026-08-08T23:57:50Z"
+        }
     }
 }

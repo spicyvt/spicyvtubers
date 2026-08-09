@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:42Z"
+    },
+    "twitter": {
+        "nakivt": {
+            "id": "1342531496582778881",
+            "handle": "nakivt",
+            "displayName": "Naki 🐺⛩️💫 Wolf Vtuber",
+            "description": "❀ Naki Okami ❀ Wolf Goddess #Vtuber ❀ Mama: @da3iann , Papa: @KH_626 ❀ 🎨: #nakillust | 🔞 @NakiEclipse ❀ https://t.co/yY8NkzgrXm",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1960724731704774656/3VO4iwgg_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1342531496582778881/1772093204/1500x500",
+            "followersCount": 9546,
+            "followingCount": 668,
+            "postsCount": 21658,
+            "accountCreatedAt": "2020-12-25T18:04:05.005Z",
+            "profileUrl": "https://x.com/NakiVT",
+            "fetchedAt": "2026-08-09T00:00:38Z"
+        },
+        "nakieclipse": {
+            "id": "1779369143772278784",
+            "handle": "nakieclipse",
+            "displayName": "Naki VA 🔞 🌑 ASMR",
+            "description": "Wolf Goddess of Desire 💋 Banner: @azmadaitto | Main: @nakivt 🎨: #nakussy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2059037732022689792/cIyq7-yr_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1779369143772278784/1757520682/1500x500",
+            "followersCount": 2167,
+            "followingCount": 217,
+            "postsCount": 858,
+            "accountCreatedAt": "2024-04-14T04:41:49.378Z",
+            "profileUrl": "https://x.com/NakiEclipse",
+            "fetchedAt": "2026-08-09T00:00:40Z"
+        }
     }
 }

@@ -41,5 +41,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:58Z"
+    },
+    "twitter": {
+        "novakittyvt": {
+            "id": "1456757758687023108",
+            "handle": "novakittyvt",
+            "displayName": "Nova Kitty | Librarian VTUBER 🐈‍⬛📚",
+            "description": "hiatus from twitter!\n- live everyday on twitch",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2011514571400302592/tqYZer4X_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1456757758687023108/1782855758/1500x500",
+            "followersCount": 6287,
+            "followingCount": 419,
+            "postsCount": 21605,
+            "accountCreatedAt": "2021-11-05T22:58:18.839Z",
+            "profileUrl": "https://x.com/NovaKittyVT",
+            "fetchedAt": "2026-08-09T00:03:23Z"
+        },
+        "catgirlpawss": {
+            "id": "2039330974043975680",
+            "handle": "catgirlpawss",
+            "displayName": "Kitty 🐾",
+            "description": "catgirl with cute feet 🐾 ~ size: US 11 ~ She/Her ~ 20 :3 ~ spoil me with your wallet",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2075113841478823936/-BdUbSxO_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2039330974043975680/1783804877/1500x500",
+            "followersCount": 3610,
+            "followingCount": 94,
+            "postsCount": 384,
+            "accountCreatedAt": "2026-04-01T13:16:27.661Z",
+            "profileUrl": "https://x.com/catgirlpawss",
+            "fetchedAt": "2026-08-09T00:24:02Z"
+        }
     }
 }

@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:06Z"
+    },
+    "twitter": {
+        "rikowav": {
+            "id": "1840368173578608640",
+            "handle": "rikowav",
+            "displayName": "❔ R I K O 🔌 (HIATUS)",
+            "description": "+18 Imouto Puter Virus Ghost (っ´ཀ`)っ https://t.co/WKZlXOJzzk 🔌 fanart : #rikoarties 🔞 @SpicyRiko\nhttps://t.co/Vo8clOeGIu",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2075155311237697536/YyC7hgbr_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1840368173578608640/1785482423/1500x500",
+            "followersCount": 10346,
+            "followingCount": 492,
+            "postsCount": 3606,
+            "accountCreatedAt": "2024-09-29T12:29:15.461Z",
+            "profileUrl": "https://x.com/RikoWAV",
+            "fetchedAt": "2026-08-09T00:17:08Z"
+        },
+        "spicyriko": {
+            "id": "2033634924276617216",
+            "handle": "spicyriko",
+            "displayName": "R I K O - SPICY 💢",
+            "description": "+18 @RikoWav spicy alt ! Imouto vibes :3",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2080739481045389312/BuEwLJXt_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2033634924276617216/1780310426/1500x500",
+            "followersCount": 1934,
+            "followingCount": 21,
+            "postsCount": 290,
+            "accountCreatedAt": "2026-03-16T20:03:53.311Z",
+            "profileUrl": "https://x.com/SpicyRiko",
+            "fetchedAt": "2026-08-09T00:17:09Z"
+        }
     }
 }

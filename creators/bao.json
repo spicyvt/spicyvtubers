@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:49Z"
+    },
+    "twitter": {
+        "baovtuber": {
+            "id": "3068808974",
+            "handle": "baovtuber",
+            "displayName": "Bao The Whale 🐳",
+            "description": "AKA I want to be bread girl • VTuber • VA • VSinger • 🎨#baort • 🐳#baobblebath • 🔴https://t.co/vpkNljLXaL | Demo Reels: https://t.co/0OAIG0IZv5",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2055581846008717312/zuBayWai_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3068808974/1762027976/1500x500",
+            "followersCount": 646906,
+            "followingCount": 3,
+            "postsCount": 129886,
+            "accountCreatedAt": "2015-03-08T23:33:44.798Z",
+            "profileUrl": "https://x.com/baovtuber",
+            "fetchedAt": "2026-08-08T23:52:19Z"
+        },
+        "h0ejousama": {
+            "id": "1808375492082585600",
+            "handle": "h0ejousama",
+            "displayName": "hoejousama 🚀",
+            "description": "Uh oh step chat! • NSFW Art: #baojob • 🔞 Click the link below and wear headphones 🎧",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1868236025228845056/fHPYdb2n_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1808375492082585600/1731063160/1500x500",
+            "followersCount": 45003,
+            "followingCount": 7,
+            "postsCount": 1348,
+            "accountCreatedAt": "2024-07-03T05:41:38.346Z",
+            "profileUrl": "https://x.com/h0ejousama",
+            "fetchedAt": "2026-08-08T23:52:20Z"
+        }
     }
 }

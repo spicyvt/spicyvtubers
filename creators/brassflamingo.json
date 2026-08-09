@@ -74,5 +74,19 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:30Z"
+    },
+    "bluesky": {
+        "did": "did:plc:vqqcived76dpq6regiagxxr2",
+        "handle": "brassflamingomusic.bsky.social",
+        "displayName": "brassflamingo",
+        "description": "SynthV producer that loves Kasane Teto with all her heart.\nShe/Her 🏳️‍⚧️\nhttps://linktr.ee/brassflamingo\npfp by: https://www.instagram.com/theravenstar_",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vqqcived76dpq6regiagxxr2/bafkreig7yblblizakeww2gdinnizrkvsg7bq5lmujx6ugmfzf455tefgou",
+        "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:vqqcived76dpq6regiagxxr2/bafkreigjsngnwu726edp5ru5l4sifxjyihjtitd2ramntrgofhsxqr57em",
+        "followersCount": 35,
+        "followingCount": 107,
+        "postsCount": 16,
+        "accountCreatedAt": "2025-09-15T13:18:28.098Z",
+        "profileUrl": "https://bsky.app/profile/brassflamingomusic.bsky.social",
+        "fetchedAt": "2026-08-09T00:23:08Z"
     }
 }

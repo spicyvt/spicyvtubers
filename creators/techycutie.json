@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:12:39Z"
+    },
+    "twitter": {
+        "techycutie": {
+            "id": "606926935",
+            "handle": "techycutie",
+            "displayName": "TECHY 🌈⭐️🔜 Sonic Expo ATL - Booth#7",
+            "description": "★Call me TECHY! ★\n★ Vtuber\n★ Multifandom fanart &  Merch Artist \n★TWITCH: https://t.co/RZqaVe5bHg\n★YOUTUBE: https://t.co/HixDXgjyTy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2063103835053154304/ZLBcTNCH_400x400.png",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/606926935/1774675810/1500x500",
+            "followersCount": 32012,
+            "followingCount": 2234,
+            "postsCount": 14236,
+            "accountCreatedAt": "2012-06-13T05:39:25.000Z",
+            "profileUrl": "https://x.com/Techycutie",
+            "fetchedAt": "2026-08-08T23:50:08Z"
+        },
+        "techylewd": {
+            "id": "870187911408496640",
+            "handle": "techylewd",
+            "displayName": "TECHY-NSFW 🔞",
+            "description": "TECHY ★LEWD ART & VTUBER STUFF!\n🔞NSFW🔞ADULTS ONLY★\n\nFANART TAG #Techylewd\nhttps://t.co/MwLFV1VH3Z\nFANSLY💙 link below",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2053981075668418560/X4WNrePm_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/870187911408496640/1771379053/1500x500",
+            "followersCount": 12200,
+            "followingCount": 142,
+            "postsCount": 1189,
+            "accountCreatedAt": "2017-06-01T07:59:00.202Z",
+            "profileUrl": "https://x.com/TechyLewd",
+            "fetchedAt": "2026-08-08T23:50:09Z"
+        }
     }
 }

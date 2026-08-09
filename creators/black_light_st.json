@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:37Z"
+    },
+    "twitter": {
+        "black_light_st": {
+            "id": "31070335",
+            "handle": "black_light_st",
+            "displayName": "Black_Light_ST | 🇳🇴",
+            "description": "Dapper yapper & deep voice waifu™️, jack of all trades creator & amateur repair technician with AuDHD // Success from failure • YouTuber & Streamer • ENVtuber",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2077714453995388928/4nUvbhKF_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/31070335/1785079191/1500x500",
+            "followersCount": 2551,
+            "followingCount": 657,
+            "postsCount": 1406,
+            "accountCreatedAt": "2009-04-14T05:59:42.000Z",
+            "profileUrl": "https://x.com/black_light_st",
+            "fetchedAt": "2026-08-08T23:59:49Z"
+        },
+        "after_darklight": {
+            "id": null,
+            "handle": "after_darklight",
+            "displayName": "After Dark Light 🔞",
+            "description": "I stream a bit here and there, come say hi sometime~\n#ENvTuber #vTuber\nSFW: https://t.co/nXujyGtppk",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2023778857447550978/gOxy-M7Y_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551604430566473728/1779035413/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2022-07-25T16:25:03.783Z",
+            "profileUrl": "https://x.com/After_DarkLight",
+            "fetchedAt": "2026-08-08T23:59:51Z"
+        }
     }
 }

@@ -69,5 +69,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:05Z"
+    },
+    "twitter": {
+        "rainykingpin": {
+            "id": "1213255772588503040",
+            "handle": "rainykingpin",
+            "displayName": "Rainy 👑",
+            "description": "The One and Only Femboy Kingpin~ 👑 || Twitch: https://t.co/o2M367hEJe ||",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2045801630785024001/OW-JLX29_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1213255772588503040/1728207397/1500x500",
+            "followersCount": 12320,
+            "followingCount": 1622,
+            "postsCount": 35157,
+            "accountCreatedAt": "2020-01-04T00:28:23.361Z",
+            "profileUrl": "https://x.com/RainyKingpin",
+            "fetchedAt": "2026-08-08T23:54:19Z"
+        },
+        "rainykinkpin": {
+            "id": "1871771673386725376",
+            "handle": "rainykinkpin",
+            "displayName": "Rainy 🔞",
+            "description": "Femboy Kingpin 👑~ 27 ~ MDNI\n\nhttps://t.co/v9wibx9333\nMain Account: @RainyKingpin",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2084789934599368704/MX5HdhiV_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1871771673386725376/1756791851/1500x500",
+            "followersCount": 3356,
+            "followingCount": 632,
+            "postsCount": 1877,
+            "accountCreatedAt": "2024-12-25T04:15:32.585Z",
+            "profileUrl": "https://x.com/RainyKinkpin",
+            "fetchedAt": "2026-08-08T23:54:20Z"
+        }
     }
 }

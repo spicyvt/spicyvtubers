@@ -69,5 +69,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:14:30Z"
+    },
+    "twitter": {
+        "foxxumi_gaming": {
+            "id": "2047379279407616000",
+            "handle": "foxxumi_gaming",
+            "displayName": "Fox Umi",
+            "description": "Streamer, Vtuber, gamer, AI creator, bipolar foxgirl 🦊\ntwitch: https://t.co/hUGyCD9jnC\nmore of me: https://t.co/DGotLKvpes",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2047379491266183168/DyE53QC6_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2047379279407616000/1776968403/1500x500",
+            "followersCount": 69,
+            "followingCount": 15,
+            "postsCount": 30,
+            "accountCreatedAt": "2026-04-23T18:17:39.056Z",
+            "profileUrl": "https://x.com/Foxxumi_gaming",
+            "fetchedAt": "2026-08-09T00:09:25Z"
+        }
     }
 }

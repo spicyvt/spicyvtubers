@@ -23,5 +23,35 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/79d94e6e-cc5b-4c5f-b6dc-2a140e126dff-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64a546fa-e73e-41c6-bf5a-01f159e02948-profile_banner-480.jpeg"
+    },
+    "twitter": {
+        "slythefloof": {
+            "id": "4924719268",
+            "handle": "slythefloof",
+            "displayName": "SlyTheFloof",
+            "description": "#furry #furryfandom #twitch\n20+ | Bisexual | Single |  Canadian | Content Creator\nWebsite: https://t.co/UzPzRXfDRv",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1670939038948245505/AFzv1_45_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/4924719268/1752665586/1500x500",
+            "followersCount": 169,
+            "followingCount": 19,
+            "postsCount": 2126,
+            "accountCreatedAt": "2016-02-17T17:59:07.855Z",
+            "profileUrl": "https://x.com/SlyTheFloof",
+            "fetchedAt": "2026-08-09T00:10:49Z"
+        },
+        "slythefloofad": {
+            "id": "1393055034712133639",
+            "handle": "slythefloofad",
+            "displayName": "SlyTheFloof AD",
+            "description": "#furry #vore\n20+ | Bisexual | Single | 🔞 NSFW Account | ⛔ NO MINORS | Canadian\nWebsite: https://t.co/XerI7PlAjp",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2011254617976250368/RnG_f6no_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1393055034712133639/1768362555/1500x500",
+            "followersCount": 169,
+            "followingCount": 20,
+            "postsCount": 1754,
+            "accountCreatedAt": "2021-05-14T04:06:23.398Z",
+            "profileUrl": "https://x.com/SlyTheFloofAD",
+            "fetchedAt": "2026-08-09T00:10:51Z"
+        }
     }
 }

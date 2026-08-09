@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:15:06Z"
+    },
+    "twitter": {
+        "lichbait": {
+            "id": "1149329689",
+            "handle": "lichbait",
+            "displayName": "Lichbait",
+            "description": "Just a Cult Leader, using the power of dance to ensnare minions and take over the world at https://t.co/OMxqtcb4Vr\nhttps://t.co/WSfigEDWF2",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2054117687995912192/-JjVf_Pc_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1149329689/1726631648/1500x500",
+            "followersCount": 22458,
+            "followingCount": 1460,
+            "postsCount": 2961,
+            "accountCreatedAt": "2013-02-04T23:13:40.000Z",
+            "profileUrl": "https://x.com/Lichbait",
+            "fetchedAt": "2026-08-09T00:17:16Z"
+        },
+        "lichbaitvr": {
+            "id": "1832738848817758208",
+            "handle": "lichbaitvr",
+            "displayName": "Lichbait",
+            "description": "Member of KICK's creator program at https://t.co/wbI0A2OdnD",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1832740061697224704/ksOJN3pP_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1832738848817758208/1725794256/1500x500",
+            "followersCount": 1933,
+            "followingCount": 182,
+            "postsCount": 22,
+            "accountCreatedAt": "2024-09-08T11:13:00.625Z",
+            "profileUrl": "https://x.com/LichbaitVR",
+            "fetchedAt": "2026-08-09T00:17:18Z"
+        }
     }
 }

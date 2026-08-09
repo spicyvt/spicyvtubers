@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:53Z"
+    },
+    "twitter": {
+        "mandymaystreams": {
+            "id": "1507134839622758423",
+            "handle": "mandymaystreams",
+            "displayName": "🧡🐮Mandy May 🔜Offkai",
+            "description": "✉️: mandymaystreams@gmail.com || @Twitch Affiliate, Creator Club, Pride Guild|| @IRIAM_US Founding Streamer || https://t.co/qOBCppmSsc || 🔞 #MandyMayArt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2009145449933099011/KUMEu8QH_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1507134839622758423/1736237763/1500x500",
+            "followersCount": 2046,
+            "followingCount": 1033,
+            "postsCount": 10132,
+            "accountCreatedAt": "2022-03-24T23:18:59.490Z",
+            "profileUrl": "https://x.com/MandyMayStreams",
+            "fetchedAt": "2026-08-09T00:02:59Z"
+        },
+        "msmandymaynsfw": {
+            "id": "1808646492749766656",
+            "handle": "msmandymaynsfw",
+            "displayName": "MsMandyMay",
+            "description": "NSFW Account for @mandymaystreams\nFeeling generous? https://t.co/P1mfLbyNXb",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1854019313767993344/x5OY_ljL_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1808646492749766656/1728873187/1500x500",
+            "followersCount": 352,
+            "followingCount": 22,
+            "postsCount": 105,
+            "accountCreatedAt": "2024-07-03T23:38:39.948Z",
+            "profileUrl": "https://x.com/MsMandyMayNSFW",
+            "fetchedAt": "2026-08-09T00:03:01Z"
+        }
     }
 }

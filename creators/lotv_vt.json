@@ -78,5 +78,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-08-05T16:13:16Z"
+    },
+    "twitter": {
+        "lotv_vt": {
+            "id": "2046497730218864640",
+            "handle": "lotv_vt",
+            "displayName": "Lily Of The Valley 🍃💖",
+            "description": "Elf artist, yapper, scuffed gamer, aspiring vtuber maker | #LOTVLive #LOTVArt | lilyofthevalleyvt@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2067395906123493376/uEUTvYhW_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2046497730218864640/1781346456/1500x500",
+            "followersCount": 86,
+            "followingCount": 196,
+            "postsCount": 107,
+            "accountCreatedAt": "2026-04-21T07:54:16.120Z",
+            "profileUrl": "https://x.com/LOTV_VT",
+            "fetchedAt": "2026-08-08T23:56:17Z"
+        },
+        "lotv_asmr": {
+            "id": "2008909264543477760",
+            "handle": "lotv_asmr",
+            "displayName": "Lily 🔞",
+            "description": "Former elven priestess turned ASMRtist. | Non asmr account: @LOTV_VT | Twitch Partner | 🔞 #LOTVLive #LOTVArt #LilyLewd\nlilyofthevalleyvt@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2078489868091457536/A1hWThPC_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2008909264543477760/1769500684/1500x500",
+            "followersCount": 306,
+            "followingCount": 594,
+            "postsCount": 957,
+            "accountCreatedAt": "2026-01-07T14:32:36.786Z",
+            "profileUrl": "https://x.com/LOTV_ASMR",
+            "fetchedAt": "2026-08-08T23:56:19Z"
+        }
     }
 }

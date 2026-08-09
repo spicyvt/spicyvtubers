@@ -23,5 +23,19 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63607a75-1286-40d8-b9d6-a5294262046f-profile_image-70x70.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96c86a3e-1b5a-4831-835e-dffa393a6f0c-profile_banner-480.jpeg"
+    },
+    "bluesky": {
+        "did": "did:plc:ccegthp53cf33mqler2zvxtm",
+        "handle": "adachi.wiki",
+        "displayName": "🌸 Adachi 🏳️‍🌈 🏳️‍⚧️",
+        "description": "Brain Damblaged VTuber, Semi-Pro Otaku.\nGenre: Horror/Variety\n\nDear Mr. Ouija,\nWill I find a ghost, or my own demon?",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ccegthp53cf33mqler2zvxtm/bafkreif3q4o63vlpnzykspl5uk3yxjjreagxn76wuya77bzb2k7k3a7d5u",
+        "bannerImageUrl": null,
+        "followersCount": 112,
+        "followingCount": 109,
+        "postsCount": 555,
+        "accountCreatedAt": "2024-08-16T17:31:28.487Z",
+        "profileUrl": "https://bsky.app/profile/adachi.wiki",
+        "fetchedAt": "2026-08-09T00:22:58Z"
     }
 }
