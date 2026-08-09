@@ -65,10 +65,13 @@ const SITEMAP_PATH = __DIR__ . '/sitemap.xml';
 const OG_LOGO_PATH = __DIR__ . '/spicy_vtubers_logo.png';
 const OG_FONT = 'DejaVu-Sans-Bold';
 const OG_BG = '#0f0a12';
+// Only the first N rows of the main (A-Z) index table are baked visible; the rest start
+// hidden and are revealed by the "Load More" button, LOAD_BATCH_SIZE rows per click.
+const INDEX_INITIAL_ROWS = 50;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style105.css';
-const SCRIPT = 'script104.js';
+const STYLESHEET = 'style106.css';
+const SCRIPT = 'script106.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
@@ -309,7 +312,8 @@ function avatarImgHtml(string $slug, bool $lazy): string
 
 // Server-side equivalent of the old client buildRow() — $lazyAvatar is false for the
 // Newest table since images inside an initially-hidden ancestor never lazy-load in Chromium.
-function buildIndexRowHtml(array $creator, bool $lazyAvatar = true): string
+// $initiallyHidden bakes the row already hidden (rows past the initial "Load More" page).
+function buildIndexRowHtml(array $creator, bool $lazyAvatar = true, bool $initiallyHidden = false): string
 {
     $channel = $creator['channel'];
     $slug = $creator['channelLower'];
@@ -325,9 +329,10 @@ function buildIndexRowHtml(array $creator, bool $lazyAvatar = true): string
 
     $searchAttr = htmlspecialchars(buildSearchText($creator));
     $platformsAttr = htmlspecialchars(buildPlatformsAttr($creator));
+    $hiddenAttr = $initiallyHidden ? ' hidden' : '';
 
     return <<<HTML
-        <tr data-search="{$searchAttr}" data-platforms="{$platformsAttr}">
+        <tr data-search="{$searchAttr}" data-platforms="{$platformsAttr}"{$hiddenAttr}>
             <td data-label="Channel" class="name-cell">{$nameCell}</td>
             <td data-label="Spice">{$spiceCell}</td>
         </tr>
@@ -610,7 +615,13 @@ function generateIndexHtml(array $azCreators, array $newestCreators): string
     $header = renderSiteHeader('index');
     $footer = renderSiteFooter('index');
     $platformFilterHtml = buildPlatformFilterHtml();
-    $creatorRowsHtml = implode('', array_map(fn($creator) => buildIndexRowHtml($creator, true), $azCreators));
+    $creatorRowsHtml = '';
+    foreach ($azCreators as $i => $creator) {
+        $creatorRowsHtml .= buildIndexRowHtml($creator, true, $i >= INDEX_INITIAL_ROWS);
+    }
+    // Newest table avatars are always eager (not lazy) — see avatarImgHtml()/AVATARS_DIR
+    // usage note: images inside an initially-hidden ancestor never lazy-load in Chromium.
+    // We're using lazy load anyway
     $newestRowsHtml = implode('', array_map(fn($creator) => buildIndexRowHtml($creator, true), $newestCreators));
     $totalCount = count($azCreators);
     $resultCountHtml = resultCountIconSvg() . $totalCount;
@@ -668,6 +679,10 @@ function generateIndexHtml(array $azCreators, array $newestCreators): string
     </table>
     <p class="empty-state" id="empty-state" hidden>No creators match your search.</p>
   </section>
+  <!-- Load more -->
+  <div class="load-more-wrap" id="load-more-wrap" hidden>
+    <button type="button" class="load-more-btn" id="load-more-btn">Load More</button>
+  </div>
 
   <section class="table-section newest-section" id="newest-section" hidden>
     <table class="creator-table" id="newest-table">
