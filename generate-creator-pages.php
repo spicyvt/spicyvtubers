@@ -441,7 +441,7 @@ function renderSiteHeader(string $scope): string
   <div class="header-inner">
     <div class="header-titles">
       <a class="brand" href="/">
-        <img class="brand-mark" src="/spicyvtubers.png" alt="Spicy VTubers logo" width="40" height="40">
+        <img class="brand-mark" src="/spicyvtubers.webp" alt="Spicy VTubers logo" width="40" height="40">
         <span class="brand-name">Spicy <span class="brand-accent">VTubers</span></span>
       </a>
       <p class="tagline">Index of VTubers and their Spicy Accounts</p>
