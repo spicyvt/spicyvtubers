@@ -67,8 +67,8 @@ const OG_FONT = 'DejaVu-Sans-Bold';
 const OG_BG = '#0f0a12';
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style103.css';
-const SCRIPT = 'script101.js';
+const STYLESHEET = 'style104.css';
+const SCRIPT = 'script104.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
@@ -190,6 +190,13 @@ function externalLinkIconSvg(): string
     return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>';
 }
 
+// Mirrors script101.js's resultCountIcon constant, so the baked initial result count
+// (shown before JS runs / with JS disabled) matches what updateResultCount() renders.
+function resultCountIconSvg(): string
+{
+    return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0 2c-3.31 0-8 1.66-8 4.5V21h16v-2.5c0-2.84-4.69-4.5-8-4.5zm8.34-9.94a4 4 0 0 1 0 7.88 5.5 5.5 0 0 1 0-7.88zM18.5 14c2.9.53 4.5 1.9 4.5 3.5V21h-3v-2.5c0-1.63-.6-2.9-1.5-4.5z"/></svg>';
+}
+
 function getChannelInfo(array $creator): ?array
 {
     if (empty($creator['channel'])) {
@@ -241,6 +248,92 @@ function buildSocialPills(array $creator): string
         $html .= pillLink('x-pill', profileLink('https://bsky.app/profile/', $bsky[1]), 'Bluesky: ' . $label, 'bsky', $label);
     }
     return $html;
+}
+
+// Mirrors the old client-side creator.searchText build exactly, so baked
+// data-search values match prior search behavior (rplay path-like values are
+// excluded since they aren't a literal handle the user would type).
+function buildSearchText(array $creator): string
+{
+    $parts = [$creator['channel'] ?? ''];
+    foreach (spicePlatforms() as $platform) {
+        $value = $creator[$platform['key']] ?? null;
+        if ($value && isset($platform['rootBaseUrl']) && str_contains($value, '/')) {
+            continue;
+        }
+        if ($value) {
+            $parts[] = $value;
+        }
+    }
+    foreach (($creator['xHandles'] ?? []) as $handle) {
+        if ($handle) {
+            $parts[] = $handle;
+        }
+    }
+    $bsky = $creator['bskyHandle'] ?? null;
+    if (is_array($bsky) && !empty($bsky[0])) {
+        $parts[] = $bsky[0];
+    }
+    foreach (getOtherLinks($creator) as $link) {
+        $parts[] = $link['label'];
+    }
+    // Lowercase before dedupe, not after — e.g. channel "CapableMable" and a same-named
+    // fansly/xHandle value "capablemable" only match as duplicates once case-normalized.
+    $parts = array_map('mb_strtolower', array_filter($parts));
+    return implode(' ', array_values(array_unique($parts)));
+}
+
+// Space-separated platform keys present on this creator, for the data-platforms filter attribute.
+function buildPlatformsAttr(array $creator): string
+{
+    $keys = [];
+    foreach (spicePlatforms() as $platform) {
+        if (!empty($creator[$platform['key']])) {
+            $keys[] = $platform['key'];
+        }
+    }
+    return implode(' ', $keys);
+}
+
+// Not every creator has a generated avatarsLarge/{slug}.webp (e.g. brand new entries before
+// update.php has run) — only emit the <img> when the file actually exists, so the surrounding
+// .avatar span's data-initials fallback shows on its own instead of a guaranteed-404 request.
+function avatarImgHtml(string $slug, bool $lazy): string
+{
+    if (!is_file(AVATARS_DIR . '/' . $slug . '.webp')) {
+        return '';
+    }
+    $loadingAttr = $lazy ? ' loading="lazy"' : '';
+    return '<img class="avatar-img" src="/avatarsLarge/' . rawurlencode($slug) . '.webp" alt="" decoding="async"' . $loadingAttr . '>';
+}
+
+// Server-side equivalent of the old client buildRow() — $lazyAvatar is false for the
+// Newest table since images inside an initially-hidden ancestor never lazy-load in Chromium.
+function buildIndexRowHtml(array $creator, bool $lazyAvatar = true): string
+{
+    $channel = $creator['channel'];
+    $slug = $creator['channelLower'];
+
+    $nameCell = '<a class="name-link" href="/c/' . rawurlencode($slug) . '/">' .
+        '<span class="avatar" data-initials="' . htmlspecialchars(getInitials($channel)) . '">' .
+        avatarImgHtml($slug, $lazyAvatar) .
+        '</span>' .
+        '<span class="channel-name">' . htmlspecialchars($channel) . '</span>' .
+        '</a>';
+
+    $spiceCell = '<div class="spice-handles">' . buildSpicePills($creator) . buildSocialPills($creator) . '</div>';
+
+    $searchAttr = htmlspecialchars(buildSearchText($creator));
+    $platformsAttr = htmlspecialchars(buildPlatformsAttr($creator));
+
+    return <<<HTML
+        <tr data-search="{$searchAttr}" data-platforms="{$platformsAttr}">
+            <td data-label="Channel" class="name-cell">{$nameCell}</td>
+            <td data-label="Spice">{$spiceCell}</td>
+        </tr>
+
+HTML;
+
 }
 
 function buildSameAs(array $creator, ?array $channelInfo): array
@@ -417,7 +510,6 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $description = htmlspecialchars(buildDescription($bio, $channel));
     // Body-visible references are root-relative (portable across domains); only
     // meta/JSON-LD URLs below need to stay fully-qualified per the OG/schema.org spec.
-    $avatarUrlRelative = '/avatarsLarge/' . rawurlencode($slug) . '.webp';
     $avatarUrlAbsolute = BASE_URL . 'avatarsLarge/' . rawurlencode($slug) . '.webp';
     $ogImageUrl = $canonical . 'og-image.webp';
     // Desktop-only decorative background on the avatar/name row; omitted
@@ -461,6 +553,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $header = renderSiteHeader('creator');
     $footer = renderSiteFooter('creator');
     $initials = htmlspecialchars(getInitials($channel));
+    $avatarImg = avatarImgHtml($slug, false); // creator page has one avatar, always eager
     $bioActionsHtml = ($socialsLinkHtml !== '' || $channelLinkHtml !== '')
         ? '<div class="bio-actions">' . $socialsLinkHtml . $channelLinkHtml . '</div>'
         : '';
@@ -486,7 +579,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
       <div class="creator-profile-card">
         <div class="{$profileHeadClass}"{$profileHeadStyle}>
           <span class="avatar avatar-xl" data-initials="{$initials}">
-            <img class="avatar-img is-loaded" src="{$avatarUrlRelative}" alt="" decoding="async">
+            {$avatarImg}
           </span>
           <h1 class="channel-name">{$channelEsc}</h1>
         </div>
@@ -495,7 +588,9 @@ function renderCreatorHtml(array $creator, ?string $bio): string
       {$bioPanelHtml}
     </div>
   </section>
+  <div id="creator-json-container"></div>
 </main>
+
 
 {$footer}
 
@@ -505,7 +600,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
 HTML;
 }
 
-function generateIndexHtml(): string
+function generateIndexHtml(array $azCreators, array $newestCreators): string
 {
     $title = 'Spicy VTubers';
     $description = 'Index of VTubers and their Spicy Accounts on Fansly, OnlyFans, Rplay, Joystick.tv and Patreon';
@@ -515,6 +610,10 @@ function generateIndexHtml(): string
     $header = renderSiteHeader('index');
     $footer = renderSiteFooter('index');
     $platformFilterHtml = buildPlatformFilterHtml();
+    $creatorRowsHtml = implode('', array_map(fn($creator) => buildIndexRowHtml($creator, true), $azCreators));
+    $newestRowsHtml = implode('', array_map(fn($creator) => buildIndexRowHtml($creator, false), $newestCreators));
+    $totalCount = count($azCreators);
+    $resultCountHtml = resultCountIconSvg() . $totalCount;
 
     return <<<HTML
 <!DOCTYPE html>
@@ -543,11 +642,11 @@ function generateIndexHtml(): string
     </div>
     <div class="toolbar-row">
       <div class="platform-filter" id="platform-filter" role="group" aria-label="Filter by platform">{$platformFilterHtml}</div>
-      <p class="result-count" id="result-count" aria-live="polite">Loading creators…</p>
+      <p class="result-count" id="result-count" aria-live="polite">{$resultCountHtml}</p>
     </div>
   </section>
 
-  <section class="table-section" id="table-section" hidden>
+  <section class="table-section" id="table-section">
     <table class="creator-table" id="creator-table">
       <colgroup>
         <col class="col-channel">
@@ -564,15 +663,33 @@ function generateIndexHtml(): string
         </tr>
       </thead>
       <tbody id="creator-tbody">
-        <!-- Injected rows -->
+{$creatorRowsHtml}
       </tbody>
     </table>
     <p class="empty-state" id="empty-state" hidden>No creators match your search.</p>
   </section>
-  <!-- Load more -->
-  <div class="load-more-wrap" id="load-more-wrap" hidden>
-    <button type="button" class="load-more-btn" id="load-more-btn">Load More</button>
-  </div>
+
+  <section class="table-section newest-section" id="newest-section" hidden>
+    <table class="creator-table" id="newest-table">
+      <colgroup>
+        <col class="col-channel">
+        <col class="col-spice">
+      </colgroup>
+      <thead>
+        <tr>
+          <th>
+            <span>Channel</span>
+          </th>
+          <th class="col-spice" title="Fansly, OnlyFans, Rplay, joystick.tv, Twitter, Bluesky">
+            <span>Links</span>
+          </th>
+        </tr>
+      </thead>
+      <tbody id="newest-tbody">
+        {$newestRowsHtml}
+      </tbody>
+    </table>
+  </section>
 </main>
 
 {$footer}
@@ -884,12 +1001,23 @@ function main(array $argv): void
     $skipped = 0;
     $failed = 0;
 
+    // Normalize every valid entry up front (channelLower + filtered xHandles) so index-row
+    // baking below has consistent data even for creators skipped by the snapshot diff.
+    // Keeps the original raw $entry alongside so the snapshot diff still compares against
+    // the untouched accounts.json shape (filtering xHandles here must not affect that diff).
+    $normalized = [];
     foreach ($accounts as $entry) {
         if (!is_array($entry) || !isset($entry['channel']) || trim((string) $entry['channel']) === '') {
             continue;
         }
+        $creator = $entry;
+        $creator['channelLower'] = mb_strtolower($entry['channel']);
+        $creator['xHandles'] = array_values(array_filter($entry['xHandles'] ?? []));
+        $normalized[] = ['entry' => $entry, 'creator' => $creator];
+    }
 
-        $slug = mb_strtolower($entry['channel']);
+    foreach ($normalized as ['entry' => $entry, 'creator' => $creator]) {
+        $slug = $creator['channelLower'];
         $slugs[] = $slug;
 
         $needsRegen = $force || !isset($snapshot[$slug]['entry']) || $snapshot[$slug]['entry'] != $entry;
@@ -897,10 +1025,6 @@ function main(array $argv): void
             $skipped++;
             continue;
         }
-
-        $creator = $entry;
-        $creator['channelLower'] = $slug;
-        $creator['xHandles'] = array_values(array_filter($entry['xHandles'] ?? []));
 
         $bio = loadBio($slug);
         $outDir = OUTPUT_DIR . '/' . $slug;
@@ -930,13 +1054,16 @@ function main(array $argv): void
 
         $snapshot[$slug] = ['entry' => $entry, 'generatedAt' => gmdate('c')];
         writeJson(SNAPSHOT_PATH, $snapshot);
-        
+
         fwrite(STDOUT, "Regenerated: {$slug}\n");
         $regenerated++;
     }
 
+    $azCreators = array_column($normalized, 'creator');
+    usort($azCreators, fn($a, $b) => mb_strtolower($a['channel']) <=> mb_strtolower($b['channel']));
+    $newestCreators = array_reverse(array_slice(array_column($normalized, 'creator'), -25));
 
-    if (file_put_contents(INDEX_PATH, generateIndexHtml()) === false) {
+    if (file_put_contents(INDEX_PATH, generateIndexHtml($azCreators, $newestCreators)) === false) {
         fwrite(STDERR, "Failed to write index.html\n");
     }
 
