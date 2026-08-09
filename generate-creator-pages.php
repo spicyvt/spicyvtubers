@@ -70,8 +70,8 @@ const OG_BG = '#0f0a12';
 const INDEX_INITIAL_ROWS = 50;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style107.css';
-const SCRIPT = 'script107.js';
+const STYLESHEET = 'style108.css';
+const SCRIPT = 'script108.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
@@ -486,6 +486,18 @@ function renderSiteFooter(string $scope): string
         ? '<p class="back-to-index"><a href="/">← All Creators</a></p>'
         : '';
 
+    // Only the index page shows the stats line, baked directly from data.json at generation
+    // time (no client-side fetch/render — see build-pipeline memory for why).
+    $siteStats = '';
+    if ($scope !== 'creator') {
+        $data = readJson(__DIR__ . '/data.json') ?? [];
+        $format = fn($n) => number_format((int) ($n ?? 0));
+        $siteStats = '<p class="site-stats">' .
+            '<strong>' . $format($data['spicyLinks'] ?? 0) . '</strong> Spicy Links · ' .
+            '<strong>' . $format($data['twitterBsky'] ?? 0) . '</strong> X/Bsky · ' .
+            '<strong>' . $format($data['socials'] ?? 0) . '</strong> Socials</p>';
+    }
+
     return <<<HTML
 <footer class="site-footer" id="site-footer">
   {$backToIndex}
@@ -499,7 +511,7 @@ Streamed as a VTuber on at least one platform (SFW or NSFW)<br>
 Created or plan to create spicy audio, livestreams or IRL content on<br>
 Fansly, OnlyFans, Rplay, Joystick or Patreon
 </p>
-  <p class="site-stats" id="site-stats"></p>
+  {$siteStats}
   <p>Not affiliated with any platform<br> Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
 </footer>
 HTML;
