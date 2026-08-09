@@ -70,8 +70,8 @@ const OG_BG = '#0f0a12';
 const INDEX_INITIAL_ROWS = 50;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style106.css';
-const SCRIPT = 'script106.js';
+const STYLESHEET = 'style107.css';
+const SCRIPT = 'script107.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
