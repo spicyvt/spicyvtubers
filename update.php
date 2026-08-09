@@ -1263,6 +1263,50 @@ function computeAccountsStats(array $accounts): array
     return ['spicyLinks' => $spicyLinks, 'twitterBsky' => $twitterBsky, 'socials' => $socials];
 }
 
+function resolveAvatarFolder(array $account, string $avatarsXDir, string $avatarsBDir, string $avatarsLargeDir): ?string
+{
+    $xHandles = array_values(array_filter((array) ($account['xHandles'] ?? []), static fn ($h): bool => trim((string) $h) !== ''));
+    $firstXHandle = trim((string) ($xHandles[0] ?? ''));
+    if ($firstXHandle !== '' && is_file($avatarsXDir . '/' . strtolower($firstXHandle) . '.webp')) {
+        return 'avatarsX';
+    }
+
+    $bskyHandle = $account['bskyHandle'] ?? null;
+    $bskyName = is_array($bskyHandle) ? trim((string) ($bskyHandle[0] ?? '')) : '';
+    if ($bskyName !== '' && is_file($avatarsBDir . '/' . strtolower($bskyName) . '.webp')) {
+        return 'avatarsB';
+    }
+
+    $channel = trim((string) ($account['channel'] ?? ''));
+    if ($channel !== '' && is_file($avatarsLargeDir . '/' . strtolower($channel) . '.webp')) {
+        return 'avatarsLarge';
+    }
+
+    return null;
+}
+
+function resolveBannerFolder(array $account, string $bannersXDir, string $bannersBDir, string $bannersDir): ?string
+{
+    $xHandles = array_values(array_filter((array) ($account['xHandles'] ?? []), static fn ($h): bool => trim((string) $h) !== ''));
+    $firstXHandle = trim((string) ($xHandles[0] ?? ''));
+    if ($firstXHandle !== '' && is_file($bannersXDir . '/' . strtolower($firstXHandle) . '.webp')) {
+        return 'bannersX';
+    }
+
+    $bskyHandle = $account['bskyHandle'] ?? null;
+    $bskyName = is_array($bskyHandle) ? trim((string) ($bskyHandle[0] ?? '')) : '';
+    if ($bskyName !== '' && is_file($bannersBDir . '/' . strtolower($bskyName) . '.webp')) {
+        return 'bannersB';
+    }
+
+    $channel = trim((string) ($account['channel'] ?? ''));
+    if ($channel !== '' && is_file($bannersDir . '/' . strtolower($channel) . '.webp')) {
+        return 'banners';
+    }
+
+    return null;
+}
+
 $total = count($accounts);
 $updated = 0;
 $skippedComplete = 0;
@@ -1338,7 +1382,6 @@ foreach ($accounts as $index => &$account) {
 
     if ($saved === true) {
         $updated++;
-        $account['data'] = true;
         $changed = true;
         echo $bio !== ''
             ? "  -> Saved creator data: creators/{$creatorName}.json\n"
@@ -1565,3 +1608,39 @@ foreach (array_chunk($fanslyRequests, FANSLY_BATCH_SIZE) as $batch) {
 
 echo "========================================\n";
 echo "Done. Fansly updated: {$fanslyUpdated}, failed: {$fanslyFailed}\n";
+
+$folderFieldsUpdated = 0;
+foreach ($accounts as &$account) {
+    if (!is_array($account)) {
+        continue;
+    }
+
+    $changed = false;
+
+    if (trim((string) ($account['avatar'] ?? '')) === '') {
+        $avatarFolder = resolveAvatarFolder($account, $avatarsXDir, $avatarsBDir, $avatarsLargeDir);
+        if ($avatarFolder !== null) {
+            $account['avatar'] = $avatarFolder;
+            $changed = true;
+        }
+    }
+
+    if (trim((string) ($account['banner'] ?? '')) === '') {
+        $bannerFolder = resolveBannerFolder($account, $bannersXDir, $bannersBDir, $bannersDir);
+        if ($bannerFolder !== null) {
+            $account['banner'] = $bannerFolder;
+            $changed = true;
+        }
+    }
+
+    if ($changed) {
+        $folderFieldsUpdated++;
+    }
+}
+unset($account);
+
+if ($folderFieldsUpdated > 0) {
+    writeAccountsJson($accountsPath, $accounts);
+}
+
+echo "Avatar/banner folder fields updated on {$folderFieldsUpdated} account(s).\n";

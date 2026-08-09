@@ -58,6 +58,10 @@ const CREATORS_DIR = __DIR__ . '/creators';
 const IMAGES_DIR = __DIR__ . '/images';
 const AVATARS_DIR = __DIR__ . '/avatarsLarge';
 const BANNERS_DIR = __DIR__ . '/banners';
+const AVATARS_X_DIR = __DIR__ . '/avatarsX';
+const AVATARS_B_DIR = __DIR__ . '/avatarsB';
+const BANNERS_X_DIR = __DIR__ . '/bannersX';
+const BANNERS_B_DIR = __DIR__ . '/bannersB';
 const OUTPUT_DIR = __DIR__ . '/c';
 const INDEX_PATH = __DIR__ . '/index.html';
 const SNAPSHOT_PATH = __DIR__ . '/generated-accounts.json';
@@ -67,8 +71,8 @@ const OG_FONT = 'DejaVu-Sans-Bold';
 const OG_BG = '#0f0a12';
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style103.css';
-const SCRIPT = 'script101.js';
+const STYLESHEET = 'style201.css';
+const SCRIPT = 'script201.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
@@ -190,6 +194,22 @@ function externalLinkIconSvg(): string
     return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>';
 }
 
+function twitchIconSvg(): string
+{
+    return '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#9146FF" d="M3 2h18v12l-4 4h-4l-3 3H7v-3H3V2zm16 10V4H5v12h3v3l3-3h5l3-3z"/><path fill="#FFFFFF" d="M10 7h2v5h-2V7zm4 0h2v5h-2V7z"/></svg>';
+}
+
+function youtubeIconSvg(): string
+{
+    return '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#FF0000" d="M23 12s0-3.16-.4-4.69a3.15 3.15 0 0 0-2.21-2.22C18.86 4.7 12 4.7 12 4.7s-6.86 0-8.39.39A3.15 3.15 0 0 0 1.4 7.31C1 8.84 1 12 1 12s0 3.16.4 4.69a3.15 3.15 0 0 0 2.21 2.22c1.53.39 8.39.39 8.39.39s6.86 0 8.39-.39a3.15 3.15 0 0 0 2.21-2.22C23 15.16 23 12 23 12z"/><path fill="#fff" d="m10 15.5 6-3.5-6-3.5v7z"/></svg>';
+}
+
+function channelPlatformIconSvg(?array $channelInfo): string
+{
+    $label = $channelInfo['label'] ?? null;
+    return $label === 'YouTube' ? youtubeIconSvg() : twitchIconSvg();
+}
+
 function getChannelInfo(array $creator): ?array
 {
     if (empty($creator['channel'])) {
@@ -280,6 +300,102 @@ function buildDescription(?string $bio, string $channel): string
         $truncated = mb_substr($truncated, 0, $lastSpace);
     }
     return rtrim($truncated) . '…';
+}
+
+function avatarFolderForCreator(array $creator): string
+{
+    $folder = strtolower(trim((string) ($creator['avatar'] ?? '')));
+
+    return match ($folder) {
+        'avatarsx' => 'avatarsX',
+        'avatarsb' => 'avatarsB',
+        'avatarslarge' => 'avatarsLarge',
+        default => 'avatarsLarge',
+    };
+}
+
+function bannerFolderForCreator(array $creator): string
+{
+    $folder = strtolower(trim((string) ($creator['banner'] ?? '')));
+
+    return match ($folder) {
+        'bannersx' => 'bannersX',
+        'bannersb' => 'bannersB',
+        'banners' => 'banners',
+        default => 'banners',
+    };
+}
+
+function avatarDirForFolder(string $folder): string
+{
+    return match ($folder) {
+        'avatarsX' => AVATARS_X_DIR,
+        'avatarsB' => AVATARS_B_DIR,
+        default => AVATARS_DIR,
+    };
+}
+
+function bannerDirForFolder(string $folder): string
+{
+    return match ($folder) {
+        'bannersX' => BANNERS_X_DIR,
+        'bannersB' => BANNERS_B_DIR,
+        default => BANNERS_DIR,
+    };
+}
+
+function mediaBaseNameForFolder(array $creator, string $folder): string
+{
+    $fallback = (string) ($creator['channelLower'] ?? '');
+
+    if ($folder === 'avatarsX' || $folder === 'bannersX') {
+        $xHandles = array_values(array_filter((array) ($creator['xHandles'] ?? []), static fn ($h): bool => trim((string) $h) !== ''));
+        $firstXHandle = trim((string) ($xHandles[0] ?? ''));
+        return $firstXHandle !== '' ? mb_strtolower($firstXHandle) : $fallback;
+    }
+
+    if ($folder === 'avatarsB' || $folder === 'bannersB') {
+        $bskyHandle = $creator['bskyHandle'] ?? null;
+        $bskyName = is_array($bskyHandle) ? trim((string) ($bskyHandle[0] ?? '')) : '';
+        return $bskyName !== '' ? mb_strtolower($bskyName) : $fallback;
+    }
+
+    return $fallback;
+}
+
+function avatarPathForCreator(array $creator): string
+{
+    $avatarFolder = avatarFolderForCreator($creator);
+    $avatarBaseName = mediaBaseNameForFolder($creator, $avatarFolder);
+    return avatarDirForFolder($avatarFolder) . '/' . $avatarBaseName . '.webp';
+}
+
+function bannerPathForCreator(array $creator): string
+{
+    $bannerFolder = bannerFolderForCreator($creator);
+    $bannerBaseName = mediaBaseNameForFolder($creator, $bannerFolder);
+    return bannerDirForFolder($bannerFolder) . '/' . $bannerBaseName . '.webp';
+}
+
+function avatarUrlRelativeForCreator(array $creator): string
+{
+    $avatarFolder = avatarFolderForCreator($creator);
+    $avatarBaseName = mediaBaseNameForFolder($creator, $avatarFolder);
+    return '/' . $avatarFolder . '/' . rawurlencode($avatarBaseName) . '.webp';
+}
+
+function avatarUrlAbsoluteForCreator(array $creator): string
+{
+    $avatarFolder = avatarFolderForCreator($creator);
+    $avatarBaseName = mediaBaseNameForFolder($creator, $avatarFolder);
+    return BASE_URL . $avatarFolder . '/' . rawurlencode($avatarBaseName) . '.webp';
+}
+
+function bannerUrlRelativeForCreator(array $creator): string
+{
+    $bannerFolder = bannerFolderForCreator($creator);
+    $bannerBaseName = mediaBaseNameForFolder($creator, $bannerFolder);
+    return '/' . $bannerFolder . '/' . rawurlencode($bannerBaseName) . '.webp';
 }
 
 // ---------------------------------- Shared page components ----------------------------------
@@ -417,18 +533,20 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $description = htmlspecialchars(buildDescription($bio, $channel));
     // Body-visible references are root-relative (portable across domains); only
     // meta/JSON-LD URLs below need to stay fully-qualified per the OG/schema.org spec.
-    $avatarUrlRelative = '/avatarsLarge/' . rawurlencode($slug) . '.webp';
-    $avatarUrlAbsolute = BASE_URL . 'avatarsLarge/' . rawurlencode($slug) . '.webp';
+    $avatarUrlRelative = avatarUrlRelativeForCreator($creator);
+    $avatarUrlAbsolute = avatarUrlAbsoluteForCreator($creator);
     $ogImageUrl = $canonical . 'og-image.webp';
     // Desktop-only decorative background on the avatar/name row; omitted
     // entirely (no attribute) when the creator has no banner on disk. Passed
     // as a custom property (not the background-image property itself) so the
     // mobile media query below — a plain stylesheet rule — can still turn it
     // off; an inline background-image would always win over that.
-    $hasBanner = is_file(BANNERS_DIR . '/' . $slug . '.webp');
+    $bannerPath = bannerPathForCreator($creator);
+    $hasBanner = is_file($bannerPath);
     $profileHeadClass = 'creator-profile-head' . ($hasBanner ? ' has-banner' : '');
-    $profileHeadStyle = $hasBanner
-        ? ' style="--banner-image: url(\'/banners/' . rawurlencode($slug) . '.webp\')"'
+    $bannerUrlRelative = bannerUrlRelativeForCreator($creator);
+    $bannerImgHtml = $hasBanner
+        ? '<img class="creator-banner-img" src="' . htmlspecialchars($bannerUrlRelative) . '" alt="" decoding="async">'
         : '';
 
     $channelInfo = getChannelInfo($creator);
@@ -448,12 +566,12 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     }
     $jsonLdJson = json_encode($jsonLd, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
 
-    $bioHtml = $bio !== null ? '<div class="bio-content">' . htmlspecialchars($bio) . '</div>' : '';
+    $bioHtml = $bio !== null ? '<div class="bio-content creator-inline-bio">' . htmlspecialchars($bio) . '</div>' : '';
     $channelLinkHtml = $channelInfo
-        ? '<a class="bio-channel-link" href="' . htmlspecialchars($channelInfo['href']) . '" target="_blank" rel="noopener noreferrer">' . externalLinkIconSvg() . htmlspecialchars($channelInfo['label']) . '</a>'
+        ? '<a class="creator-quick-link creator-channel-link" href="' . htmlspecialchars($channelInfo['href']) . '" target="_blank" rel="noopener noreferrer">' . channelPlatformIconSvg($channelInfo) . '<span class="creator-quick-link-label">' . htmlspecialchars($channelInfo['label']) . '</span></a>'
         : '';
     $socialsLinkHtml = !empty($creator['socials'])
-        ? '<a class="bio-socials-link" href="' . htmlspecialchars($creator['socials']) . '" target="_blank" rel="noopener noreferrer">' . socialsIconSvg() . 'Socials</a>'
+        ? '<a class="creator-quick-link creator-socials-link" href="' . htmlspecialchars($creator['socials']) . '" target="_blank" rel="noopener noreferrer">' . socialsIconSvg() . '<span class="creator-quick-link-label">Socials</span></a>'
         : '';
     $head = renderHeadMeta($title, $description, $canonical, 'profile', $ogImageUrl, $ogImageUrl);
     $bootstrapHead = stylesheetTag();
@@ -461,13 +579,12 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $header = renderSiteHeader('creator');
     $footer = renderSiteFooter('creator');
     $initials = htmlspecialchars(getInitials($channel));
-    $bioActionsHtml = ($socialsLinkHtml !== '' || $channelLinkHtml !== '')
-        ? '<div class="bio-actions">' . $socialsLinkHtml . $channelLinkHtml . '</div>'
+    $quickLinksHtml = ($socialsLinkHtml !== '' || $channelLinkHtml !== '')
+        ? '<div class="creator-profile-actions">' . $socialsLinkHtml . $channelLinkHtml . '</div>'
         : '';
-    $bioPanelHtml = ($bioHtml !== '' || $bioActionsHtml !== '')
-        ? '<div class="creator-bio-panel">' . $bioHtml . $bioActionsHtml . '</div>'
+    $profileSideHtml = $quickLinksHtml !== ''
+        ? '<div class="creator-profile-side">' . $quickLinksHtml . '</div>'
         : '';
-
     return <<<HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -484,15 +601,19 @@ function renderCreatorHtml(array $creator, ?string $bio): string
   <section class="creator-profile">
     <div class="creator-card">
       <div class="creator-profile-card">
-        <div class="{$profileHeadClass}"{$profileHeadStyle}>
-          <span class="avatar avatar-xl" data-initials="{$initials}">
-            <img class="avatar-img is-loaded" src="{$avatarUrlRelative}" alt="" decoding="async">
-          </span>
-          <h1 class="channel-name">{$channelEsc}</h1>
+                <div class="{$profileHeadClass}">{$bannerImgHtml}</div>
+                <div class="creator-profile-identity">
+                    <div class="creator-profile-main">
+                        <span class="avatar avatar-xl" data-initials="{$initials}">
+                            <img class="avatar-img is-loaded" src="{$avatarUrlRelative}" alt="" decoding="async">
+                        </span>
+                        <h1 class="channel-name">{$channelEsc}</h1>
+                    </div>
+                    {$profileSideHtml}
         </div>
         <div class="spice-handles">{$spicePills}{$socialPills}</div>
+                {$bioHtml}
       </div>
-      {$bioPanelHtml}
     </div>
   </section>
   <div id="creator-json-container"></div>
@@ -610,15 +731,8 @@ function measureTextWidth(string $font, int $pointsize, string $text): int
 
 function findAvatarSource(array $creator): ?string
 {
-    $channel = $creator['channel'];
-    foreach (['png', 'jpeg', 'jpg'] as $ext) {
-        $path = IMAGES_DIR . "/{$channel}.{$ext}";
-        if (is_file($path)) {
-            return $path;
-        }
-    }
-    $webp = AVATARS_DIR . '/' . $creator['channelLower'] . '.webp';
-    return is_file($webp) ? $webp : null;
+    $avatarPath = avatarPathForCreator($creator);
+    return is_file($avatarPath) ? $avatarPath : null;
 }
 
 function cleanupDir(string $dir): void
@@ -690,7 +804,7 @@ function buildOgImage(array $creator, string $outPath): bool
     // gradient (mirrors the page's CSS overlay) so the avatar/name drawn on
     // top of it stay legible regardless of the banner's own colors.
     $bannerBoxH = 630 - $logoBottom;
-    $bannerPath = BANNERS_DIR . '/' . $creator['channelLower'] . '.webp';
+    $bannerPath = bannerPathForCreator($creator);
     if ($ok && is_file($bannerPath)) {
         $bannerFit = "{$tmp}/banner-fit.png";
         $ok = runCmd(sprintf(
