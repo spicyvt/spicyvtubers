@@ -611,7 +611,7 @@ function generateIndexHtml(array $azCreators, array $newestCreators): string
     $footer = renderSiteFooter('index');
     $platformFilterHtml = buildPlatformFilterHtml();
     $creatorRowsHtml = implode('', array_map(fn($creator) => buildIndexRowHtml($creator, true), $azCreators));
-    $newestRowsHtml = implode('', array_map(fn($creator) => buildIndexRowHtml($creator, false), $newestCreators));
+    $newestRowsHtml = implode('', array_map(fn($creator) => buildIndexRowHtml($creator, true), $newestCreators));
     $totalCount = count($azCreators);
     $resultCountHtml = resultCountIconSvg() . $totalCount;
 
