@@ -1,0 +1,90 @@
+{
+    "bio": "The Succufox Queen of Hell😈🦊❣️New VTuber / Variety Streamer✨(banner BG by @/scennique)",
+    "twitch": {
+        "id": "1070488812",
+        "login": "lilithgrae",
+        "displayName": "LilithGrae",
+        "createdAt": "2024-04-22T22:22:01.614985Z",
+        "updatedAt": "2026-08-09T04:31:44.289429Z",
+        "description": "The Succufox Queen of Hell😈🦊❣️New VTuber / Variety Streamer✨(banner BG by @/scennique)",
+        "primaryColorHex": "A96FFF",
+        "followers": {
+            "totalCount": 112
+        },
+        "follows": {
+            "totalCount": 117
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-07T21:04:33.950831Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c207458-31f8-402b-8260-0db58a7d5af4-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b372f20-de57-41e6-9b65-07ee7649d0fd-profile_banner-480.png",
+        "fetchedAt": "2026-08-10T21:59:33Z"
+    },
+    "twitter": {
+        "lilithgraevt": {
+            "id": "2011514023322570752",
+            "handle": "lilithgraevt",
+            "displayName": "✨LilithGraeVT✨",
+            "description": "@Twitch Affiliate❣️The Succufox Queen of Hell✨ An Amateur #PNGTuber & #VTuber 🦊",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2032900541433700352/UxzWI4Q7_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2011514023322570752/1774091103/1500x500",
+            "followersCount": 59,
+            "followingCount": 88,
+            "postsCount": 313,
+            "accountCreatedAt": "2026-01-14T19:01:42.909Z",
+            "profileUrl": "https://x.com/lilithgraevt",
+            "fetchedAt": "2026-08-10T21:59:34Z"
+        }
+    },
+    "fansly": {
+        "id": "712529507231211521",
+        "username": "lilithgrae",
+        "displayName": "Lilith Grae",
+        "version": 8,
+        "followCount": 836,
+        "statusId": 3,
+        "accountMediaLikes": 2157,
+        "postLikes": 1432,
+        "about": "🦊😈 Lilith Grae (31, bi, bratty switch, she/her) 🦊😈\n✨Waifu LewdTuber & Nonnude IRL (semi-anon)✨\n💜 www.twitch.tv/lilithgrae 💜\n\n⚠️Copyright Notice\nYou may not download, copy, redistribute, or repost any material without written permission",
+        "location": "isekai’d to your bed",
+        "streaming": {
+            "accountId": "712529507231211521",
+            "channel": {
+                "id": "818045672908419072",
+                "accountId": "712529507231211521",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xfbijn13iD6b.m3u8",
+                "chatRoomId": "825579016474869760",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1756531647000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "818045672908419073",
+                    "historyId": "943289326588948480",
+                    "channelId": "818045672908419072",
+                    "accountId": "712529507231211521",
+                    "title": "Gaming",
+                    "status": 2,
+                    "viewerCount": 12,
+                    "version": 245,
+                    "createdAt": 1756531647000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786399156000,
+                    "startedAt": 1786392060000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-10T21:59:36Z"
+    }
+}
