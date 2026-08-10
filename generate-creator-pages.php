@@ -73,8 +73,8 @@ const OG_BG = '#0f0a12';
 const ENABLE_CREATOR_OG_IMAGE_GENERATION = false;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style203.css';
-const SCRIPT = 'script203.js';
+const STYLESHEET = 'style204.css';
+const SCRIPT = 'script204.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
