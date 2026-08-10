@@ -539,7 +539,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $profileHeadClass = 'creator-profile-head' . ($hasBanner ? ' has-banner' : '');
     $bannerUrlRelative = bannerUrlRelativeForCreator($creator);
     $bannerImgHtml = $hasBanner
-        ? '<img class="creator-banner-img" src="' . htmlspecialchars($bannerUrlRelative) . '" alt="" decoding="async">'
+        ? '<img class="creator-banner-img" src="' . htmlspecialchars($bannerUrlRelative) . '" alt="" loading="lazy" decoding="async">'
         : '';
 
     $channelInfo = getChannelInfo($creator);
@@ -597,7 +597,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
                 <div class="creator-profile-identity">
                     <div class="creator-profile-main">
                         <span class="avatar avatar-xl">
-                            <img class="avatar-img is-loaded" src="{$avatarUrlRelative}" alt="" decoding="async">
+                            <img class="avatar-img is-loaded" src="{$avatarUrlRelative}" alt="" loading="lazy" decoding="async">
                         </span>
                         <h1 class="channel-name">{$channelEsc}</h1>
                     </div>
