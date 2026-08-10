@@ -73,8 +73,8 @@ const OG_BG = '#0f0a12';
 const ENABLE_CREATOR_OG_IMAGE_GENERATION = false;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style201.css';
-const SCRIPT = 'script201.js';
+const STYLESHEET = 'style202.css';
+const SCRIPT = 'script202.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
@@ -156,15 +156,6 @@ function pillLink(string $class, string $href, string $title, string $iconKey, s
     return '<a class="' . htmlspecialchars($class) . '"' . $iconAttr .
         ' href="' . htmlspecialchars($href) . '" target="_blank" rel="noopener noreferrer" title="' . htmlspecialchars($title) . '">' .
         htmlspecialchars($label) . '</a>';
-}
-
-function getInitials(string $str): string
-{
-    $parts = array_values(array_filter(preg_split('/[\s_-]+/', $str) ?: []));
-    if (count($parts) >= 2) {
-        return mb_strtoupper(mb_substr($parts[0], 0, 1) . mb_substr($parts[1], 0, 1));
-    }
-    return mb_strtoupper(mb_substr($str, 0, 1));
 }
 
 function getOtherLinks(array $creator): array
@@ -580,7 +571,6 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $bootstrapBody = scriptBootstrap('initCreatorPage');
     $header = renderSiteHeader('creator');
     $footer = renderSiteFooter('creator');
-    $initials = htmlspecialchars(getInitials($channel));
     $quickLinksHtml = ($socialsLinkHtml !== '' || $channelLinkHtml !== '')
         ? '<div class="creator-profile-actions">' . $socialsLinkHtml . $channelLinkHtml . '</div>'
         : '';
@@ -606,7 +596,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
                 <div class="{$profileHeadClass}">{$bannerImgHtml}</div>
                 <div class="creator-profile-identity">
                     <div class="creator-profile-main">
-                        <span class="avatar avatar-xl" data-initials="{$initials}">
+                        <span class="avatar avatar-xl">
                             <img class="avatar-img is-loaded" src="{$avatarUrlRelative}" alt="" decoding="async">
                         </span>
                         <h1 class="channel-name">{$channelEsc}</h1>
