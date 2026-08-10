@@ -69,6 +69,8 @@ const SITEMAP_PATH = __DIR__ . '/sitemap.xml';
 const OG_LOGO_PATH = __DIR__ . '/spicy_vtubers_logo.png';
 const OG_FONT = 'DejaVu-Sans-Bold';
 const OG_BG = '#0f0a12';
+// Keep OG image build code available, but disable generation by default.
+const ENABLE_CREATOR_OG_IMAGE_GENERATION = false;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
 const STYLESHEET = 'style201.css';
@@ -535,7 +537,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     // meta/JSON-LD URLs below need to stay fully-qualified per the OG/schema.org spec.
     $avatarUrlRelative = avatarUrlRelativeForCreator($creator);
     $avatarUrlAbsolute = avatarUrlAbsoluteForCreator($creator);
-    $ogImageUrl = $canonical . 'og-image.webp';
+    $ogImageUrl = $avatarUrlAbsolute;
     // Desktop-only decorative background on the avatar/name row; omitted
     // entirely (no attribute) when the creator has no banner on disk. Passed
     // as a custom property (not the background-image property itself) so the
@@ -1034,14 +1036,16 @@ function main(array $argv): void
             continue;
         }
 
-        $ogImagePath = "{$outDir}/og-image.webp";
-        // --force-html only redoes the HTML; leave an existing OG image alone
-        // (still build one if it's missing, e.g. a brand-new creator).
-        $skipOgImage = $forceHtml && is_file($ogImagePath);
-        if (!$skipOgImage && !buildOgImage($creator, $ogImagePath)) {
-            fwrite(STDERR, "Failed to build og-image.webp for {$slug}\n");
-            $failed++;
-            continue;
+        if (ENABLE_CREATOR_OG_IMAGE_GENERATION) {
+            $ogImagePath = "{$outDir}/og-image.webp";
+            // --force-html only redoes the HTML; leave an existing OG image alone
+            // (still build one if it's missing, e.g. a brand-new creator).
+            $skipOgImage = $forceHtml && is_file($ogImagePath);
+            if (!$skipOgImage && !buildOgImage($creator, $ogImagePath)) {
+                fwrite(STDERR, "Failed to build og-image.webp for {$slug}\n");
+                $failed++;
+                continue;
+            }
         }
 
         $snapshot[$slug] = ['entry' => $entry, 'generatedAt' => gmdate('c')];
