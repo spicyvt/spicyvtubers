@@ -70,10 +70,15 @@ declare(strict_types=1);
  * timestamp.
  *
  * Usage:
- *   php update.php            # incremental (default)
- *   php update.php --force    # re-fetch every eligible twitch/youtube/fansly
- *                             # account and re-save its images, even if
- *                             # already resolved on disk
+ *   php update.php                  # incremental (default)
+ *   php update.php --force          # re-fetch every eligible twitch/youtube/
+ *                                   # fansly/twitter/bluesky account and
+ *                                   # re-save its images, even if already
+ *                                   # resolved on disk
+ *   php update.php --force=NAME     # same as --force, but scoped to only
+ *                                   # the account whose "channel" (case-
+ *                                   # insensitive) equals NAME — every
+ *                                   # other account still runs incrementally
  *
  * Notes:
  * - No app dependencies; uses only built-in cURL/file_get_contents.
@@ -130,10 +135,26 @@ if (!is_string($clientId) || $clientId === '') {
 
 const FANSLY_API_URL = 'https://apiv3.fansly.com/api/v1/account';
 // Fansly's account endpoint accepts a comma-separated batch of usernames.
-const FANSLY_BATCH_SIZE = 1;
+const FANSLY_BATCH_SIZE = 10;
 const FANSLY_SLEEP_SECONDS = 5;
 
+// --force forces every eligible account; --force=NAME scopes forcing to
+// only the account whose lowercased "channel" equals NAME (every other
+// account is still processed incrementally as normal).
 $force = in_array('--force', $argv, true);
+$forceCreator = null;
+foreach ($argv as $arg) {
+    if (str_starts_with($arg, '--force=')) {
+        $forceCreator = strtolower(trim(substr($arg, strlen('--force='))));
+        break;
+    }
+}
+
+/** Whether $login should be force-refetched given the current $force/$forceCreator flags. */
+function isForcedFor(string $login, bool $force, ?string $forceCreator): bool
+{
+    return $force || ($forceCreator !== null && $login === $forceCreator);
+}
 
 $accountsPath = __DIR__ . '/accounts.json';
 $dataJsonPath = __DIR__ . '/data.json';
@@ -1316,6 +1337,8 @@ $failed = 0;
 
 if ($force) {
     echo "--force: re-fetching every eligible account, ignoring already-resolved data.\n";
+} elseif ($forceCreator !== null) {
+    echo "--force={$forceCreator}: re-fetching only that account, ignoring already-resolved data.\n";
 }
 
 foreach ($accounts as $index => &$account) {
@@ -1334,11 +1357,13 @@ foreach ($accounts as $index => &$account) {
     }
 
     $login = strtolower($channel);
+    $isForced = isForcedFor($login, $force, $forceCreator);
 
     // creators/{login}.json having this platform's key already set is
-    // what marks this entry resolved, not accounts.json — unless --force
-    // was passed, in which case every eligible entry is re-fetched.
-    if (!$force && creatorHasPlatformData($creatorsDir, $login, $type)) {
+    // what marks this entry resolved, not accounts.json — unless forced
+    // (via --force or --force=NAME matching this login), in which case
+    // this entry is re-fetched regardless.
+    if (!$isForced && creatorHasPlatformData($creatorsDir, $login, $type)) {
         $skippedComplete++;
         continue;
     }
@@ -1356,8 +1381,8 @@ foreach ($accounts as $index => &$account) {
         continue;
     }
 
-    saveAvatarWebp($imagesDir, $avatarsLargeDir, $login, $result['profileImageUrl'] ?? null, $force);
-    saveBannerWebp($imagesDir, $bannersDir, $login, $result['bannerImageUrl'] ?? null, $force);
+    saveAvatarWebp($imagesDir, $avatarsLargeDir, $login, $result['profileImageUrl'] ?? null, $isForced);
+    saveBannerWebp($imagesDir, $bannersDir, $login, $result['bannerImageUrl'] ?? null, $isForced);
 
     $changed = false;
 
@@ -1378,7 +1403,7 @@ foreach ($accounts as $index => &$account) {
     $creatorName = is_string($result['creatorName'] ?? null) && $result['creatorName'] !== '' ? $result['creatorName'] : $login;
     $bio = is_string($result['description'] ?? null) ? $result['description'] : '';
     $platformData = is_array($result['platformData'] ?? null) ? $result['platformData'] : [];
-    $saved = saveCreatorData($creatorsDir, $creatorName, $bio, $type, $platformData, $force);
+    $saved = saveCreatorData($creatorsDir, $creatorName, $bio, $type, $platformData, $isForced);
 
     if ($saved === true) {
         $updated++;
@@ -1428,15 +1453,16 @@ foreach ($accounts as $account) {
         continue;
     }
     $login = strtolower($channel);
+    $isForced = isForcedFor($login, $force, $forceCreator);
     foreach ((array) ($account['xHandles'] ?? []) as $xHandle) {
         $xHandle = trim((string) $xHandle);
         if ($xHandle === '') {
             continue;
         }
-        if (!$force && creatorHasPlatformSubkeyData($creatorsDir, $login, ['twitter', strtolower($xHandle)])) {
+        if (!$isForced && creatorHasPlatformSubkeyData($creatorsDir, $login, ['twitter', strtolower($xHandle)])) {
             continue;
         }
-        $twitterRequests[] = ['login' => $login, 'handle' => $xHandle];
+        $twitterRequests[] = ['login' => $login, 'handle' => $xHandle, 'force' => $isForced];
     }
 }
 
@@ -1460,11 +1486,11 @@ foreach ($twitterRequests as $i => $request) {
     }
 
     $handleLower = strtolower($request['handle']);
-    saveKeyedAvatarWebp($imagesDir, $avatarsXDir, $handleLower, $result['profileImageUrl'] ?? null, $force);
-    saveKeyedBannerWebp($imagesDir, $bannersXDir, $handleLower, $result['bannerImageUrl'] ?? null, $force);
+    saveKeyedAvatarWebp($imagesDir, $avatarsXDir, $handleLower, $result['profileImageUrl'] ?? null, $request['force']);
+    saveKeyedBannerWebp($imagesDir, $bannersXDir, $handleLower, $result['bannerImageUrl'] ?? null, $request['force']);
 
     $platformData = is_array($result['platformData'] ?? null) ? $result['platformData'] : [];
-    $saved = saveCreatorPlatformSubkeyData($creatorsDir, $request['login'], ['twitter', $handleLower], $platformData, $force);
+    $saved = saveCreatorPlatformSubkeyData($creatorsDir, $request['login'], ['twitter', $handleLower], $platformData, $request['force']);
 
     if ($saved === true) {
         $twitterUpdated++;
@@ -1492,10 +1518,11 @@ foreach ($accounts as $account) {
         continue;
     }
     $login = strtolower($channel);
-    if (!$force && creatorHasPlatformSubkeyData($creatorsDir, $login, ['bluesky'])) {
+    $isForced = isForcedFor($login, $force, $forceCreator);
+    if (!$isForced && creatorHasPlatformSubkeyData($creatorsDir, $login, ['bluesky'])) {
         continue;
     }
-    $blueskyRequests[] = ['login' => $login, 'name' => $bskyName, 'path' => $bskyPath];
+    $blueskyRequests[] = ['login' => $login, 'name' => $bskyName, 'path' => $bskyPath, 'force' => $isForced];
 }
 
 $blueskyTotal = count($blueskyRequests);
@@ -1518,11 +1545,11 @@ foreach ($blueskyRequests as $i => $request) {
     }
 
     $nameLower = strtolower($request['name']);
-    saveKeyedAvatarWebp($imagesDir, $avatarsBDir, $nameLower, $result['profileImageUrl'] ?? null, $force);
-    saveKeyedBannerWebp($imagesDir, $bannersBDir, $nameLower, $result['bannerImageUrl'] ?? null, $force);
+    saveKeyedAvatarWebp($imagesDir, $avatarsBDir, $nameLower, $result['profileImageUrl'] ?? null, $request['force']);
+    saveKeyedBannerWebp($imagesDir, $bannersBDir, $nameLower, $result['bannerImageUrl'] ?? null, $request['force']);
 
     $platformData = is_array($result['platformData'] ?? null) ? $result['platformData'] : [];
-    $saved = saveCreatorPlatformSubkeyData($creatorsDir, $request['login'], ['bluesky'], $platformData, $force);
+    $saved = saveCreatorPlatformSubkeyData($creatorsDir, $request['login'], ['bluesky'], $platformData, $request['force']);
 
     if ($saved === true) {
         $blueskyUpdated++;
@@ -1549,7 +1576,7 @@ foreach ($accounts as $account) {
         continue;
     }
     $login = strtolower($channel);
-    if (!$force && creatorHasPlatformData($creatorsDir, $login, 'fansly')) {
+    if (!isForcedFor($login, $force, $forceCreator) && creatorHasPlatformData($creatorsDir, $login, 'fansly')) {
         continue;
     }
     $fanslyRequests[] = ['login' => $login, 'username' => $fanslyUsername];
