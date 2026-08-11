@@ -5,34 +5,35 @@
         "login": "baltofrostlight",
         "displayName": "BaltoFrostLight",
         "createdAt": "2020-08-31T05:45:35.517026Z",
-        "updatedAt": "2026-08-02T22:05:04.445281Z",
+        "updatedAt": "2026-08-10T23:03:32.692655Z",
         "description": "A canine guardian Vtuber from a lost civilization. Lover of all things Destiny. Thank you for stopping by my channel!",
         "primaryColorHex": "2070D1",
         "followers": {
-            "totalCount": 250
+            "totalCount": 255
         },
         "follows": {
-            "totalCount": 50
+            "totalCount": 54
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T01:36:12.849494Z"
+            "startedAt": "2026-08-11T03:31:24.020412Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/777db822-dd17-424c-ba5a-5b8afb1431e8-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc9759ff-ea2c-47b6-9f42-021166c336c6-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/777db822-dd17-424c-ba5a-5b8afb1431e8-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc9759ff-ea2c-47b6-9f42-021166c336c6-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:58:20Z"
     },
     "fansly": {
         "id": "387556046387814400",
         "username": "BaltoFrostLight",
         "displayName": "Balto",
         "version": 8,
-        "followCount": 3074,
+        "followCount": 3087,
         "statusId": 1,
-        "accountMediaLikes": 6761,
-        "postLikes": 10132,
+        "accountMediaLikes": 6798,
+        "postLikes": 10165,
         "about": "A canine guardian Vtuber/Lewdtuber ~ 30 ~ MDNI\n\nVR Content is always free to view\n\nIRL Content available with purchase\n\nDISCLAIMER: All content is of ownership of BaltoFrostLight, all rights reserved. Redistribution and republishing any content will be met with appropriate legal action. \n\nAll parties in pictures, videos and streams are of legal age (18+) \n\nMy other links: https://linktr.ee/BaltoFrostLight",
         "location": "",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:56Z"
+        "fetchedAt": "2026-08-11T17:52:14Z"
     },
     "twitter": {
         "baltofrostlight": {
@@ -87,12 +88,12 @@
             "description": "Canine guardian Vtuber ~ Content Creator ~ MDNI ~ Twitch Affiliate",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1983070375765311488/PbScEVXc_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1979721195034689536/1771570819/1500x500",
-            "followersCount": 178,
-            "followingCount": 137,
-            "postsCount": 548,
+            "followersCount": 186,
+            "followingCount": 138,
+            "postsCount": 554,
             "accountCreatedAt": "2025-10-19T01:28:28.071Z",
             "profileUrl": "https://x.com/BaltoFrostLight",
-            "fetchedAt": "2026-08-09T00:15:58Z"
+            "fetchedAt": "2026-08-11T17:38:08Z"
         },
         "baltoafterdark": {
             "id": "1872506567246884864",
@@ -101,12 +102,12 @@
             "description": "30 ~ MDNI ~ 18+ ~ NSFW Page of @BaltoFrostLight",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2015909951890149376/tzYTTgAq_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1872506567246884864/1771570729/1500x500",
-            "followersCount": 361,
-            "followingCount": 656,
-            "postsCount": 4506,
+            "followersCount": 369,
+            "followingCount": 666,
+            "postsCount": 4529,
             "accountCreatedAt": "2024-12-27T04:55:51.841Z",
             "profileUrl": "https://x.com/BaltoAfterDark",
-            "fetchedAt": "2026-08-09T00:16:00Z"
+            "fetchedAt": "2026-08-11T17:38:06Z"
         }
     }
 }

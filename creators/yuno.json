@@ -5,34 +5,35 @@
         "login": "yuno",
         "displayName": "yuno",
         "createdAt": "2016-05-06T00:29:08.313433Z",
-        "updatedAt": "2026-08-03T09:01:30.291468Z",
+        "updatedAt": "2026-08-09T12:13:27.345408Z",
         "description": "Hallo! Yuno Rein here, I wanna mess around!",
         "primaryColorHex": "FFA2CF",
         "followers": {
-            "totalCount": 33539
+            "totalCount": 33563
         },
         "follows": {
-            "totalCount": 464
+            "totalCount": 467
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T21:27:13.239996Z"
+            "startedAt": "2026-08-08T20:33:33.879132Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/380f10f0-529f-4c94-9ed6-1b74777694b4-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c9bace5-8bd5-488a-b653-65f490ed89d3-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/380f10f0-529f-4c94-9ed6-1b74777694b4-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c9bace5-8bd5-488a-b653-65f490ed89d3-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:57:27Z"
     },
     "fansly": {
         "id": "629594389634621440",
         "username": "YunoRein",
         "displayName": "Yuno Rein",
         "version": 9,
-        "followCount": 5561,
+        "followCount": 5576,
         "statusId": 2,
-        "accountMediaLikes": 1759,
-        "postLikes": 2071,
+        "accountMediaLikes": 1773,
+        "postLikes": 2074,
         "about": "🧋Haiho my dear wanderer, welcome in!\n💖 Call me your darling & princess, I prefer pet-names!\n✦•······················•✦•······················•✦\n🌙 Bi-weekly lewd ASMR streams\n🌙 VRChat spicy content\n🌙 Vtuber giving you luv luv eyes~\n",
         "location": "Your head",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:56Z"
+        "fetchedAt": "2026-08-11T17:52:03Z"
     },
     "twitter": {
         "yunorein": {
@@ -87,12 +88,12 @@
             "description": "🌙 SPICE @yunospice\n⭐ SFW/Vtuber side of Yuno Rein - \n⭐ASMR/Art creator\n⭐https://t.co/iJnv40HjLS",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1901764608970678272/lOhC_cjP_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1618207580903411712/1761717216/1500x500",
-            "followersCount": 1674,
-            "followingCount": 745,
+            "followersCount": 1679,
+            "followingCount": 747,
             "postsCount": 458,
             "accountCreatedAt": "2023-01-25T11:22:14.976Z",
             "profileUrl": "https://x.com/YunoRein",
-            "fetchedAt": "2026-08-09T00:14:30Z"
+            "fetchedAt": "2026-08-11T17:36:38Z"
         },
         "yunospice": {
             "id": "781203420019654656",
@@ -101,12 +102,12 @@
             "description": "🌙 Illustrator - ASMRtist with a dose of spice~\n🌙 X NO AI X\n\n- https://t.co/oCr8hwEQmC\n- https://t.co/dWR2dysP7U",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2002556006522310656/yDrbdn1d_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/781203420019654656/1761717255/1500x500",
-            "followersCount": 7460,
-            "followingCount": 3909,
-            "postsCount": 1571,
+            "followersCount": 7458,
+            "followingCount": 3918,
+            "postsCount": 1572,
             "accountCreatedAt": "2016-09-28T18:46:24.213Z",
             "profileUrl": "https://x.com/YunoSpice",
-            "fetchedAt": "2026-08-09T00:14:32Z"
+            "fetchedAt": "2026-08-11T17:36:36Z"
         }
     }
 }

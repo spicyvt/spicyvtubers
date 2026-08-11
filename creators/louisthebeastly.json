@@ -5,24 +5,25 @@
         "login": "louisthebeastly",
         "displayName": "louisthebeastly",
         "createdAt": "2016-01-05T19:41:07.556095Z",
-        "updatedAt": "2026-08-03T04:06:26.416627Z",
+        "updatedAt": "2026-08-10T23:21:35.900646Z",
         "description": "Welcome to my channel! I am louisthebeastly and you are part of the beastlycrew so i hope yall enjoy it here!",
         "primaryColorHex": "8205B3",
         "followers": {
-            "totalCount": 1571
+            "totalCount": 1570
         },
         "follows": {
-            "totalCount": 2000
+            "totalCount": 1992
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T00:42:29.450605Z"
+            "startedAt": "2026-08-11T02:05:09.163556Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b4260e-ec21-43ca-8375-d8e824d70c84-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f86974c8-75a0-4712-aa81-4ba84cc8e0b9-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b4260e-ec21-43ca-8375-d8e824d70c84-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f86974c8-75a0-4712-aa81-4ba84cc8e0b9-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:48:26Z"
     },
     "fansly": {
         "id": "285742125797089280",
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:42Z"
+        "fetchedAt": "2026-08-11T17:49:44Z"
     },
     "twitter": {
         "louisthebeastly": {
@@ -78,12 +79,12 @@
             "description": "MOVED TO BLUESKY 18+ ~PNG Mama: @MamaRoseMilky mascot: @corina_vizi",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1851971421452316672/GDFi6kQg_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3260892110/1773972928/1500x500",
-            "followersCount": 861,
-            "followingCount": 5407,
-            "postsCount": 33391,
+            "followersCount": 860,
+            "followingCount": 5410,
+            "postsCount": 33402,
             "accountCreatedAt": "2015-06-30T06:53:31.634Z",
             "profileUrl": "https://x.com/louisthebeastly",
-            "fetchedAt": "2026-08-09T00:00:48Z"
+            "fetchedAt": "2026-08-11T17:22:24Z"
         }
     }
 }

@@ -5,11 +5,11 @@
         "login": "luppythepuppy",
         "displayName": "LuppyThePuppy",
         "createdAt": "2020-11-25T02:09:12.40784Z",
-        "updatedAt": "2026-08-01T16:13:24.000239Z",
+        "updatedAt": "2026-08-11T05:05:23.332229Z",
         "description": "♡♡♡♡ Streams TUE, WED, THUR, FRI, SAT at 2pm PST / 5pm EST ♡♡♡♡  Join the Discord for announcements!",
         "primaryColorHex": "8E4261",
         "followers": {
-            "totalCount": 10902
+            "totalCount": 10955
         },
         "follows": {
             "totalCount": 262
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-07-29T00:37:10.740673Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/042b9938-f89e-4e7f-a786-b8e259af37b4-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/df0f663d-3536-4a6a-a57d-db0926695509-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/042b9938-f89e-4e7f-a786-b8e259af37b4-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/df0f663d-3536-4a6a-a57d-db0926695509-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:41:29Z"
     },
     "fansly": {
         "id": "823017142227050498",
         "username": "LuppyThePuppy",
         "displayName": null,
         "version": 4,
-        "followCount": 1118,
+        "followCount": 1263,
         "statusId": 1,
-        "accountMediaLikes": 604,
-        "postLikes": 712,
+        "accountMediaLikes": 654,
+        "postLikes": 776,
         "about": "💖 The Love Puppy Parasite! ✨️\n\n🫦 Let me be Parasocial with you! 😵‍💫💦\n🐾 Free DMs\n🦠 Roleplay & Sexting Available!\n🐾 Send me requests 🤤\n🦠 Loves to listen like a good little mutt\n\n💖 IRL / 2D / 3D content! 🐕",
         "location": "",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TBydOuirbYH3.m3u8",
                 "chatRoomId": "907890930944581632",
                 "status": 2,
-                "version": 40,
+                "version": 44,
                 "createdAt": 1777934225000,
                 "updatedAt": null,
                 "stream": {
                     "id": "907814591373783042",
-                    "historyId": "939015817389961216",
+                    "historyId": "943363960311136257",
                     "channelId": "907814591373783041",
                     "accountId": "823017142227050498",
-                    "title": "Lets get sloppy @_@",
+                    "title": "Farm Dog Gets Down",
                     "status": 1,
-                    "viewerCount": 7,
-                    "version": 46,
+                    "viewerCount": 14,
+                    "version": 50,
                     "createdAt": 1777934225000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785379352000,
-                    "startedAt": 1785373176000,
+                    "lastFetchedAt": 1786418425000,
+                    "startedAt": 1786409855000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:28Z"
+        "fetchedAt": "2026-08-11T17:47:15Z"
     },
     "twitter": {
         "luppythepuppy": {
@@ -87,12 +88,12 @@
             "description": "❤️In Your Heart Forever❤️ \n https://t.co/vpZnsmauIw 👑",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2062050221337747456/aLg7_Rre_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1333662621271289856/1782935230/1500x500",
-            "followersCount": 13093,
-            "followingCount": 798,
-            "postsCount": 11346,
+            "followersCount": 13382,
+            "followingCount": 812,
+            "postsCount": 11367,
             "accountCreatedAt": "2020-12-01T06:50:02.093Z",
             "profileUrl": "https://x.com/LuppyThePuppy",
-            "fetchedAt": "2026-08-08T23:48:24Z"
+            "fetchedAt": "2026-08-11T17:09:30Z"
         }
     }
 }

@@ -5,34 +5,35 @@
         "login": "xander_digital",
         "displayName": "Xander_Digital",
         "createdAt": "2020-10-23T02:04:19.084601Z",
-        "updatedAt": "2026-08-03T06:05:03.75786Z",
+        "updatedAt": "2026-08-10T02:43:23.086241Z",
         "description": "Musical Artist & Producer that got isekai’d into the internet. A Variety Streamer!",
         "primaryColorHex": "940300",
         "followers": {
-            "totalCount": 2500
+            "totalCount": 2498
         },
         "follows": {
-            "totalCount": 1137
+            "totalCount": 1139
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-31T03:31:43.849668Z"
+            "startedAt": "2026-08-05T03:51:39.285846Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc6fd939-73d1-420d-9e5e-7377ce8ecf40-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/40c1da32-d57c-4fd3-b87c-d7b1ea92050c-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc6fd939-73d1-420d-9e5e-7377ce8ecf40-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/40c1da32-d57c-4fd3-b87c-d7b1ea92050c-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:50:16Z"
     },
     "fansly": {
         "id": "388642083465863168",
         "username": "XanderDigital",
         "displayName": "Xander Digital",
         "version": 21,
-        "followCount": 4371,
+        "followCount": 4446,
         "statusId": 1,
-        "accountMediaLikes": 3445,
-        "postLikes": 3154,
+        "accountMediaLikes": 3508,
+        "postLikes": 3183,
         "about": "⚡I post mainly VR content 🥵\n⚡Occasional IRL teases & cosplays👀\n⚡Exclusive audios🎧\n⚡Lovense-controlled streams😩\n⚡NSFW ART! 🎨\nAll My Links! ➡ https://xanderdigital.carrd.co\njoin my Discord! ➡ https://discord.gg/jax5zdyXGA\n---------------------------------------------------------------------------------------------------------\nI’m open to collabs (just DM me and we can work out the details!) \nBisexual/Possibly Pan? 😎 Most content made in Social VR & Unity\n",
         "location": "The Internet",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.sIT5OUAl8JdD.m3u8",
                 "chatRoomId": "607092228510199808",
                 "status": 2,
-                "version": 193,
+                "version": 197,
                 "createdAt": 1656524380000,
                 "updatedAt": null,
                 "stream": {
                     "id": "398584793488433153",
-                    "historyId": "940816809479651328",
+                    "historyId": "943366897775161344",
                     "channelId": "398584793488433152",
                     "accountId": "388642083465863168",
-                    "title": "GOONING TIME!⚡❗🖤 |  !MENU !SOCIALS 🖤 ",
+                    "title": "HEY HEY⚡❗🖤 |  !MENU !SOCIALS 🖤 ",
                     "status": 1,
-                    "viewerCount": 19,
-                    "version": 4083,
+                    "viewerCount": 22,
+                    "version": 4089,
                     "createdAt": 1656524380000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785812166000,
-                    "startedAt": 1785802566000,
+                    "lastFetchedAt": 1786423974000,
+                    "startedAt": 1786410555000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -85,7 +86,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:58Z"
+        "fetchedAt": "2026-08-11T17:50:17Z"
     },
     "twitter": {
         "xander_digital": {
@@ -95,12 +96,12 @@
             "description": "💼: XanderDigitalVT@outlook.com \n🎨: #ArtofXand \n💻: https://t.co/abYtSl4uXl\n🔴: @DubbyEnergy Code: DIGITALCREW = 10% OFF",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1956356187328319491/Eywrz_Ri_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1319742880773189637/1763070821/1500x500",
-            "followersCount": 2261,
-            "followingCount": 805,
-            "postsCount": 18018,
+            "followersCount": 2260,
+            "followingCount": 803,
+            "postsCount": 18021,
             "accountCreatedAt": "2020-10-23T20:50:06.443Z",
             "profileUrl": "https://x.com/xander_digital",
-            "fetchedAt": "2026-08-09T00:03:54Z"
+            "fetchedAt": "2026-08-11T17:25:39Z"
         },
         "xxxanderdigital": {
             "id": "1740738103126462464",
@@ -109,12 +110,12 @@
             "description": "⚡️SFW - @Xander_Digital 🎨 Art : #ArtofXand  🔞: #XanderAfterHours No Minors 🔞 https://t.co/hE3HkGXvzP Discord https://t.co/a8KbHr1mSo",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1988859432831217664/2_ElGebo_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1740738103126462464/1763016015/1500x500",
-            "followersCount": 1271,
-            "followingCount": 554,
-            "postsCount": 904,
+            "followersCount": 1279,
+            "followingCount": 560,
+            "postsCount": 906,
             "accountCreatedAt": "2023-12-29T14:14:46.864Z",
             "profileUrl": "https://x.com/XXXanderDigital",
-            "fetchedAt": "2026-08-09T00:03:55Z"
+            "fetchedAt": "2026-08-11T17:25:41Z"
         }
     }
 }

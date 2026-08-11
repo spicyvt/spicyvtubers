@@ -5,7 +5,7 @@
         "login": "skellyglob",
         "displayName": "Skellyglob",
         "createdAt": "2016-05-27T16:14:16.891472Z",
-        "updatedAt": "2026-08-01T00:53:45.376609Z",
+        "updatedAt": "2026-08-10T21:24:58.150601Z",
         "description": "Hi, I'm skellyglob, a slime who love horror and gacha. Business Email is skellyglob@gmail.com",
         "primaryColorHex": "00F0F0",
         "followers": {
@@ -19,10 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T23:16:49.347843Z"
+            "startedAt": "2026-08-11T02:43:00.383001Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ff31967-3120-4c6c-a364-632e29d508e3-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1723ad2-5b1a-4871-b088-2867b0bc3992-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ff31967-3120-4c6c-a364-632e29d508e3-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1723ad2-5b1a-4871-b088-2867b0bc3992-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:46:50Z"
     },
     "fansly": {
         "id": "737888587336392704",
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:26Z"
+        "fetchedAt": "2026-08-11T17:49:13Z"
     },
     "twitter": {
         "skellyglob": {
@@ -79,11 +80,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1906926146626670593/xB1B8Jux_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/759440868252278784/1782157554/1500x500",
             "followersCount": 466,
-            "followingCount": 97,
-            "postsCount": 14715,
+            "followingCount": 98,
+            "postsCount": 14733,
             "accountCreatedAt": "2016-07-30T17:29:47.537Z",
             "profileUrl": "https://x.com/skellyglob",
-            "fetchedAt": "2026-08-08T23:58:14Z"
+            "fetchedAt": "2026-08-11T17:19:40Z"
         }
     }
 }

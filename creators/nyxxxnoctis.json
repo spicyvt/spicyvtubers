@@ -5,33 +5,34 @@
         "login": "nyxxxnoctis",
         "displayName": "NyxxxNoctis",
         "createdAt": "2022-11-09T03:40:11.919337Z",
-        "updatedAt": "2026-07-29T20:26:25.766428Z",
+        "updatedAt": "2026-08-11T00:58:45.64045Z",
         "description": "Silly Creature- Gonna chew on your bones",
         "primaryColorHex": "00BC71",
         "followers": {
-            "totalCount": 479
+            "totalCount": 484
         },
         "follows": {
-            "totalCount": 119
+            "totalCount": 120
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-30T00:44:49.019653Z"
+            "startedAt": "2026-08-11T05:02:44.425624Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33d0fb94-da8c-489c-8031-c24899d532bb-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc1e52bc-17c4-43d5-b2c8-3488d3d93444-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33d0fb94-da8c-489c-8031-c24899d532bb-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc1e52bc-17c4-43d5-b2c8-3488d3d93444-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:57:14Z"
     },
     "fansly": {
         "id": "560167393423273984",
         "username": "NyxxxNoctis",
         "displayName": "Nyx Noctis",
         "version": 13,
-        "followCount": 2247,
+        "followCount": 2250,
         "statusId": 1,
-        "accountMediaLikes": 1970,
+        "accountMediaLikes": 1971,
         "postLikes": 1061,
         "about": "Hi! I'm Nyx! \n\n",
         "location": "",
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:51Z"
+        "fetchedAt": "2026-08-11T17:52:03Z"
     },
     "twitter": {
         "nyxxxnoctis": {
@@ -80,10 +81,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1671230035422740501/1760387062/1500x500",
             "followersCount": 465,
             "followingCount": 584,
-            "postsCount": 2827,
+            "postsCount": 2829,
             "accountCreatedAt": "2023-06-20T18:54:37.064Z",
             "profileUrl": "https://x.com/Nyxxxnoctis",
-            "fetchedAt": "2026-08-09T00:14:10Z"
+            "fetchedAt": "2026-08-11T17:36:15Z"
         }
     }
 }

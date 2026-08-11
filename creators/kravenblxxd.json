@@ -9,7 +9,7 @@
         "description": "anti-icon                                                            ",
         "primaryColorHex": "000000",
         "followers": {
-            "totalCount": 13306
+            "totalCount": 13301
         },
         "follows": {
             "totalCount": 683
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-08-01T03:19:42.555882Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c74bf00a-a9da-43ed-9d7f-15ad2680c01a-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f4bb373-f2c0-4dfa-9ca5-407e74894419-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c74bf00a-a9da-43ed-9d7f-15ad2680c01a-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f4bb373-f2c0-4dfa-9ca5-407e74894419-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:43:56Z"
     },
     "fansly": {
         "id": "573819486629535744",
         "username": "KRAVENBLXXD",
         "displayName": "Kraven",
         "version": 6,
-        "followCount": 1077,
+        "followCount": 1075,
         "statusId": 1,
         "accountMediaLikes": 421,
         "postLikes": 686,
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:00Z"
+        "fetchedAt": "2026-08-11T17:48:14Z"
     },
     "twitter": {
         "kravenblxxd": {
@@ -87,12 +88,12 @@
             "description": "ᴀɴᴛɪ-ɪᴄᴏɴ | ᴛᴡɪᴛᴄʜ ᴘᴀʀᴛɴᴇʀ | ᴅʙᴅ/ʜᴏʀʀᴏʀ ꜱᴛʀᴇᴀᴍᴇʀ\nᴄʀᴇᴅɪᴛꜱ ᴀɴᴅ ʟɪɴᴋꜱ:\n https://t.co/sU4zJLO2Nk",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1856399613130874880/j4G0JGlQ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1488543905331224583/1754828440/1500x500",
-            "followersCount": 37787,
-            "followingCount": 809,
+            "followersCount": 37780,
+            "followingCount": 810,
             "postsCount": 20491,
             "accountCreatedAt": "2022-02-01T16:05:06.782Z",
             "profileUrl": "https://x.com/KRAVENBLXXD",
-            "fetchedAt": "2026-08-08T23:53:28Z"
+            "fetchedAt": "2026-08-11T17:14:31Z"
         }
     }
 }

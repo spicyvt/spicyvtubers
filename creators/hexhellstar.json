@@ -5,31 +5,32 @@
         "login": "hexhellstar",
         "displayName": "HexHellstar",
         "createdAt": "2024-09-29T18:59:09.980712Z",
-        "updatedAt": "2026-08-03T00:32:19.334644Z",
+        "updatedAt": "2026-08-11T03:48:25.095722Z",
         "description": "【🦴Hikikomori Hellhound🍃】 if depression was a VTuber | business inquiries: hexhellstarcontact@gmail.com",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 505
+            "totalCount": 531
         },
         "follows": {
-            "totalCount": 42
+            "totalCount": 45
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T00:01:33.586198Z"
+            "startedAt": "2026-08-11T03:53:00.134181Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5064ce2-5e33-47fe-894b-34655cdb2e94-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d87df7ce-19e8-46f3-b161-f4b93492b3f9-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5064ce2-5e33-47fe-894b-34655cdb2e94-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d87df7ce-19e8-46f3-b161-f4b93492b3f9-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:44:30Z"
     },
     "fansly": {
         "id": "537237660255657984",
         "username": "HexPuppyMolly",
         "displayName": "Hex Puppy",
         "version": 10,
-        "followCount": 79,
+        "followCount": 83,
         "statusId": 1,
         "accountMediaLikes": 122,
         "postLikes": 276,
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:05Z"
+        "fetchedAt": "2026-08-11T17:48:25Z"
     },
     "twitter": {
         "hexhellstar": {
@@ -87,12 +88,12 @@
             "description": "🦴 hikikomori puppy vtuber 🍃\n\nart tag: #HexHellstar \n🔞: #HexinHeat \nNSFW: @RuffHypnoPup \nmanager: @editorcoletrain",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1965946388866314241/Pks30Arm_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1886842695857135620/1785100109/1500x500",
-            "followersCount": 251,
+            "followersCount": 255,
             "followingCount": 176,
-            "postsCount": 2025,
+            "postsCount": 2035,
             "accountCreatedAt": "2025-02-04T18:22:23.380Z",
             "profileUrl": "https://x.com/HexHellstar",
-            "fetchedAt": "2026-08-08T23:54:30Z"
+            "fetchedAt": "2026-08-11T17:15:37Z"
         },
         "ruffhypnopup": {
             "id": "1645932438982459397",
@@ -101,12 +102,12 @@
             "description": "🔞 Worship After Dark | #PuppyVtuber Art Tag: #HexInHeat ⛓️🗝️ owned by @Plutos_Pen | \"SFW\": @HexHellstar",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2034806567514906627/9A4RjBM1_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1645932438982459397/1778633834/1500x500",
-            "followersCount": 135,
+            "followersCount": 134,
             "followingCount": 90,
-            "postsCount": 2458,
+            "postsCount": 2469,
             "accountCreatedAt": "2023-04-11T23:31:03.712Z",
             "profileUrl": "https://x.com/RuffHypnoPup",
-            "fetchedAt": "2026-08-08T23:54:32Z"
+            "fetchedAt": "2026-08-11T17:15:39Z"
         }
     }
 }

@@ -5,7 +5,7 @@
         "login": "wolesvt",
         "displayName": "WolesVT",
         "createdAt": "2013-11-22T00:34:24.96862Z",
-        "updatedAt": "2026-08-02T19:11:56.727791Z",
+        "updatedAt": "2026-08-06T17:32:50.572823Z",
         "description": "Demon raccoon gremlin hours",
         "primaryColorHex": "EB0400",
         "followers": {
@@ -19,20 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T21:53:20.933674Z"
+            "startedAt": "2026-08-06T21:16:53.96692Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b339449-4e45-41fe-827f-4c8b09210105-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13ab9311-6ed3-4d24-96af-f4639d21c105-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b339449-4e45-41fe-827f-4c8b09210105-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13ab9311-6ed3-4d24-96af-f4639d21c105-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:50:09Z"
     },
     "fansly": {
         "id": "751306940121886722",
         "username": "WolesVT",
         "displayName": null,
         "version": 4,
-        "followCount": 1352,
+        "followCount": 1359,
         "statusId": 1,
-        "accountMediaLikes": 2037,
-        "postLikes": 1526,
+        "accountMediaLikes": 2068,
+        "postLikes": 1529,
         "about": "Helo! I'm Woles, a 25yo demon raccoon vtuber, artist, and Live2D rigger! Your 4'10\" horny egirl :3 \n\n**VIP Raccoons get a free pic request via DMs once a month! All other requests are closed until further notice!**\n",
         "location": "",
         "streaming": {
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:58Z"
+        "fetchedAt": "2026-08-11T17:50:17Z"
     },
     "twitter": {
         "wolesvt": {
@@ -50,12 +51,12 @@
             "description": "🔞 Helo! I'm Woles, a feet posting demon raccoon vtuber, artist, and rigger! ✨ | ママ: @wuwuliny | Banner: @sllushe | PFP: @ivanov_aart | NSFW art: @WolesHoles",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2010061097043120128/Zu4V8aje_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1102135455812911104/1759256399/1500x500",
-            "followersCount": 19191,
+            "followersCount": 19175,
             "followingCount": 885,
-            "postsCount": 2892,
+            "postsCount": 2897,
             "accountCreatedAt": "2019-03-03T09:15:44.133Z",
             "profileUrl": "https://x.com/WolesVT",
-            "fetchedAt": "2026-08-09T00:03:40Z"
+            "fetchedAt": "2026-08-11T17:25:24Z"
         },
         "wolesirl": {
             "id": "1912672861757620224",
@@ -64,12 +65,12 @@
             "description": "🔞MINORS DNI | egirl spicy account of @WolesVT | 25, 4'10 and horny 24/7 uwu | Like what you see? Spoil me here! https://t.co/pUeg58KhJE :3 Sexy link below~",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2055431794514702336/ggWNHvot_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1912672861757620224/1769758520/1500x500",
-            "followersCount": 7236,
+            "followersCount": 7222,
             "followingCount": 26,
-            "postsCount": 130,
+            "postsCount": 132,
             "accountCreatedAt": "2025-04-17T01:02:10.519Z",
             "profileUrl": "https://x.com/WolesIRL",
-            "fetchedAt": "2026-08-09T00:03:42Z"
+            "fetchedAt": "2026-08-11T17:25:26Z"
         }
     }
 }

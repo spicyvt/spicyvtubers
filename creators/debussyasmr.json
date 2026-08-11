@@ -5,11 +5,11 @@
         "login": "debussyasmr",
         "displayName": "DebussyASMR",
         "createdAt": "2022-11-28T23:07:02.753363Z",
-        "updatedAt": "2026-07-31T01:36:35.677882Z",
+        "updatedAt": "2026-08-09T23:52:21.81089Z",
         "description": "I uwu into microphones. Professional scuff streamer.  I can somewhat play piano to live up to the name",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 8171
+            "totalCount": 8308
         },
         "follows": {
             "totalCount": 0
@@ -19,20 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-31T05:16:21.117244Z"
+            "startedAt": "2026-08-10T02:27:46.271514Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92f1d23c-54e7-4bd3-a3dc-4aaf9bc006b1-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b2873b9-ab67-4e86-997f-9862363f4253-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92f1d23c-54e7-4bd3-a3dc-4aaf9bc006b1-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b2873b9-ab67-4e86-997f-9862363f4253-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:48:10Z"
     },
     "fansly": {
         "id": "777340297251135488",
         "username": "DebussyASMR",
         "displayName": null,
         "version": 4,
-        "followCount": 2579,
+        "followCount": 2627,
         "statusId": 3,
-        "accountMediaLikes": 5064,
-        "postLikes": 6919,
+        "accountMediaLikes": 5155,
+        "postLikes": 7020,
         "about": "I finally caved 😭 I'm Debussy, a femboy ASMRtist :3 I make weekly audios on YouTube, and stream on both Twitch and YouTube. I post sus stuff to Patreon, and I plan to post sus stuff here as well. I also plan to STREAM here on Fansly~",
         "location": "",
         "streaming": {
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:42Z"
+        "fetchedAt": "2026-08-11T17:49:39Z"
     },
     "twitter": {
         "debussyasmr": {
@@ -78,12 +79,12 @@
             "description": "Femboy ASMRtist 🎙I'm very dumb\n\nYT: https://t.co/jwcXpt5akF\nTwitch: https://t.co/g6mfTRb0uN\nArt: #DebussyArt\nBusiness: debussyasmr@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1956264348571123712/A7z6Fa01_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1676479772795322369/1759638433/1500x500",
-            "followersCount": 20102,
+            "followersCount": 20138,
             "followingCount": 2,
-            "postsCount": 2039,
+            "postsCount": 2045,
             "accountCreatedAt": "2023-07-05T06:35:26.183Z",
             "profileUrl": "https://x.com/DebussyASMR",
-            "fetchedAt": "2026-08-09T00:00:24Z"
+            "fetchedAt": "2026-08-11T17:21:59Z"
         },
         "debussynsfw": {
             "id": "1886282283209891840",
@@ -92,12 +93,12 @@
             "description": "NSFW account for @DebussyASMR\n(basketball account in disguise)",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1886282615528787968/oscy7ODB_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1886282283209891840/1738560464/1500x500",
-            "followersCount": 3420,
+            "followersCount": 3426,
             "followingCount": 3,
-            "postsCount": 321,
+            "postsCount": 322,
             "accountCreatedAt": "2025-02-03T05:15:39.104Z",
             "profileUrl": "https://x.com/DebussyNSFW",
-            "fetchedAt": "2026-08-09T00:00:26Z"
+            "fetchedAt": "2026-08-11T17:22:01Z"
         }
     }
 }

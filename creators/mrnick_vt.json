@@ -9,7 +9,7 @@
         "description": "Mr. Nick is a well-known assassin vtuber who has come out of retirement in a pursuit for vendetta. No bounty can stop his journey, as he ventures through a variety of games. From simulators, to visual novels, to story driven RPS, to his own personal fondness of genre, shooters.",
         "primaryColorHex": "1369AD",
         "followers": {
-            "totalCount": 413
+            "totalCount": 414
         },
         "follows": {
             "totalCount": 593
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2025-10-08T03:35:35.948414Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb77b00a-ebb3-40ad-9072-9c709b47ce0e-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc14b317-bb34-429e-8065-f00dabc51e5f-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb77b00a-ebb3-40ad-9072-9c709b47ce0e-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc14b317-bb34-429e-8065-f00dabc51e5f-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:53:39Z"
     },
     "fansly": {
         "id": "523682893222912000",
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:30Z"
+        "fetchedAt": "2026-08-11T17:51:16Z"
     },
     "twitter": {
         "mrnick_vt": {
@@ -78,12 +79,12 @@
             "description": "#MrNickVT | Model & Rigging: @hikarishini | Cosplay Photos #MrNickCosplays | Fanart #NickArtOnline | Minors DNI 🔞 | NSFW: @MrNick_NSFW",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1838371337380790272/D30fUGx5_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1511844864836575233/1691128662/1500x500",
-            "followersCount": 282,
-            "followingCount": 762,
-            "postsCount": 4861,
+            "followersCount": 281,
+            "followingCount": 763,
+            "postsCount": 4863,
             "accountCreatedAt": "2022-04-06T23:16:24.167Z",
             "profileUrl": "https://x.com/MrNick_VT",
-            "fetchedAt": "2026-08-09T00:08:57Z"
+            "fetchedAt": "2026-08-11T17:30:59Z"
         },
         "mrnick_nsfw": {
             "id": "1666882297738428454",
@@ -92,12 +93,12 @@
             "description": "NSFW 🔞|‼️NO MINORS ALLOWED‼️\nNSFW tag #LewdNickVT\nModel by @hikarishini\nSFW: @MrNick_VT *Don't tag for NSFW*\nQ&A/Bus/Collab: https://t.co/g0kTLil10Y.nick@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1937640449168031744/kmFp6utx_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1666882297738428454/1750804468/1500x500",
-            "followersCount": 227,
-            "followingCount": 929,
-            "postsCount": 4397,
+            "followersCount": 226,
+            "followingCount": 0,
+            "postsCount": 4477,
             "accountCreatedAt": "2023-06-08T18:58:27.794Z",
             "profileUrl": "https://x.com/MrNick_NSFW",
-            "fetchedAt": "2026-08-09T00:08:59Z"
+            "fetchedAt": "2026-08-11T17:31:01Z"
         }
     }
 }

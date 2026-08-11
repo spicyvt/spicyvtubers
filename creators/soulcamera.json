@@ -5,34 +5,35 @@
         "login": "soulcamera",
         "displayName": "SoulCamera",
         "createdAt": "2014-07-30T06:56:58.970805Z",
-        "updatedAt": "2026-08-01T22:48:53.759755Z",
+        "updatedAt": "2026-08-10T00:42:32.450215Z",
         "description": "I'm simply an android that is built to make you smile...in more ways than one~",
         "primaryColorHex": "0700C5",
         "followers": {
-            "totalCount": 8069
+            "totalCount": 8070
         },
         "follows": {
-            "totalCount": 489
+            "totalCount": 490
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T05:32:17.026312Z"
+            "startedAt": "2026-08-10T01:56:22.952646Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa01c3c3-b71d-4741-8b4a-322fd3953955-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1c929e3-dbf7-4678-8d7b-9fd0be667473-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa01c3c3-b71d-4741-8b4a-322fd3953955-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1c929e3-dbf7-4678-8d7b-9fd0be667473-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:46:55Z"
     },
     "fansly": {
         "id": "228817938151374848",
         "username": "SoulCamera",
         "displayName": null,
         "version": 4,
-        "followCount": 2959,
+        "followCount": 2960,
         "statusId": 1,
-        "accountMediaLikes": 1427,
-        "postLikes": 1571,
+        "accountMediaLikes": 1430,
+        "postLikes": 1579,
         "about": "Hi lovelies! :3 💙\n\n♥ Android Lewdtuber ♥ \n♥ NSFW Game Lover ♥\n♥ Dark Souls Expert ♥\n♥ ASMR ♥\n♥ Built for your pleasure ♥\n\nTwitch: https://twitch.tv/soulcamera\nTwitter: https://twitter.com/SoulCamcorder\nThrone: https://throne.me/soulcamera/wishlist\nDiscord: https://discord.gg/WzvhpPAASH\n\nGlad you visited and hope you are having a good day. If not then let me make it better for you~...\n",
         "location": "In your room charging",
         "streaming": {
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:32Z"
+        "fetchedAt": "2026-08-11T17:49:13Z"
     },
     "twitter": {
         "soulcamcorder": {
@@ -78,12 +79,12 @@
             "description": "▸Android VTuber (MILK Arc) 🥛⚙️She/Her 2D @MAMASOFFICE/3D @020_SARIA 🎨#soulcamart🔞#soulcum 📧soulcambot@gmail.com ⌞ⓘ https://t.co/bPeBLlTGHn ⌝",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2079725697560399872/GXqZkmIV_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2203147945/1726758531/1500x500",
-            "followersCount": 4002,
+            "followersCount": 4005,
             "followingCount": 1120,
-            "postsCount": 10916,
+            "postsCount": 10919,
             "accountCreatedAt": "2013-11-19T13:53:02.418Z",
             "profileUrl": "https://x.com/SoulCamcorder",
-            "fetchedAt": "2026-08-08T23:58:23Z"
+            "fetchedAt": "2026-08-11T17:19:49Z"
         }
     }
 }

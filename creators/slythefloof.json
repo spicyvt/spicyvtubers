@@ -5,7 +5,7 @@
         "login": "slythefloof",
         "displayName": "SlyTheFloof",
         "createdAt": "2017-01-11T18:55:40.758796Z",
-        "updatedAt": "2026-07-20T23:45:18.510186Z",
+        "updatedAt": "2026-08-09T19:12:10.743843Z",
         "description": "A Cuddly Floofy Fox • 20+ • Bisexual • Single • Loves Belly Rubs & ear rubs • I am a variety streamer that loves playing all sorts of games with my friends.",
         "primaryColorHex": "00FF14",
         "followers": {
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-07-21T03:07:50.72637Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/79d94e6e-cc5b-4c5f-b6dc-2a140e126dff-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64a546fa-e73e-41c6-bf5a-01f159e02948-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/79d94e6e-cc5b-4c5f-b6dc-2a140e126dff-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64a546fa-e73e-41c6-bf5a-01f159e02948-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:55:09Z"
     },
     "twitter": {
         "slythefloof": {
@@ -37,7 +38,7 @@
             "postsCount": 2126,
             "accountCreatedAt": "2016-02-17T17:59:07.855Z",
             "profileUrl": "https://x.com/SlyTheFloof",
-            "fetchedAt": "2026-08-09T00:10:49Z"
+            "fetchedAt": "2026-08-11T17:32:53Z"
         },
         "slythefloofad": {
             "id": "1393055034712133639",
@@ -51,7 +52,7 @@
             "postsCount": 1754,
             "accountCreatedAt": "2021-05-14T04:06:23.398Z",
             "profileUrl": "https://x.com/SlyTheFloofAD",
-            "fetchedAt": "2026-08-09T00:10:51Z"
+            "fetchedAt": "2026-08-11T17:32:55Z"
         }
     }
 }

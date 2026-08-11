@@ -5,31 +5,32 @@
         "login": "avaleavt",
         "displayName": "AvaleaVT",
         "createdAt": "2022-11-19T04:55:26.643437Z",
-        "updatedAt": "2026-07-24T13:07:42.548418Z",
+        "updatedAt": "2026-08-07T14:22:51.040598Z",
         "description": "Goddess of the Forest AKA Mommy Nature 💚 A turbulent, interactive streamer with a dose of chaos, cuddles, cozy and [REDACTED]",
         "primaryColorHex": "6B9F45",
         "followers": {
-            "totalCount": 869
+            "totalCount": 937
         },
         "follows": {
-            "totalCount": 135
+            "totalCount": 141
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-24T14:05:18.123024Z"
+            "startedAt": "2026-08-11T14:30:43.617655Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd22ad3f-1d93-419a-91fe-63715ba10d4a-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a436d702-d4fc-4ae2-a788-378ee4531145-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd22ad3f-1d93-419a-91fe-63715ba10d4a-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a436d702-d4fc-4ae2-a788-378ee4531145-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:39:59Z"
     },
     "fansly": {
         "id": "695675763558461443",
         "username": "AvaleaAudio",
         "displayName": "Avalea",
         "version": 13,
-        "followCount": 963,
+        "followCount": 978,
         "statusId": 1,
         "accountMediaLikes": 718,
         "postLikes": 675,
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:12Z"
+        "fetchedAt": "2026-08-11T17:46:42Z"
     },
     "twitter": {
         "avaleavt": {
@@ -78,12 +79,12 @@
             "description": "🍃༄  Goddess of the Forest #VTuber | 🎨#AvaleaArt \ni : @__aimihr__ b: @micimiii\n‧₊˚ ⋅🌱𓂃 ࣪ ִֶָ. @senmaku_\n🔞 @AvaleaAudio",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2072706658095046657/8-EppscT_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2051762683867799555/1781002871/1500x500",
-            "followersCount": 849,
-            "followingCount": 279,
-            "postsCount": 245,
+            "followersCount": 853,
+            "followingCount": 283,
+            "postsCount": 246,
             "accountCreatedAt": "2026-05-05T20:35:29.394Z",
             "profileUrl": "https://x.com/AvaleaVT",
-            "fetchedAt": "2026-08-08T23:45:38Z"
+            "fetchedAt": "2026-08-11T17:06:40Z"
         },
         "avaleaaudio": {
             "id": "1410758247787773954",
@@ -92,12 +93,12 @@
             "description": "🇬🇧 NSFW VA + VR 🌿 Forest Goddess 🌿\nSFW/VTuber: @AvaleaVT\n\n🔞 MDNI 🔞\n✨ COLLABS + COMMS OPEN ✨\n🎨 #AvaleaArt | 🔞 #AvaLEWDa",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2051765335083130888/0O9yP9Qk_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1410758247787773954/1756250008/1500x500",
-            "followersCount": 39387,
-            "followingCount": 1126,
+            "followersCount": 39357,
+            "followingCount": 1125,
             "postsCount": 1586,
             "accountCreatedAt": "2021-07-02T00:32:42.002Z",
             "profileUrl": "https://x.com/AvaleaAudio",
-            "fetchedAt": "2026-08-08T23:45:39Z"
+            "fetchedAt": "2026-08-11T17:06:38Z"
         }
     }
 }

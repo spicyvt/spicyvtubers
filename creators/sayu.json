@@ -5,11 +5,11 @@
         "login": "sayu",
         "displayName": "Sayu",
         "createdAt": "2013-12-04T22:15:29.277243Z",
-        "updatedAt": "2026-08-07T12:50:18.089471Z",
+        "updatedAt": "2026-08-11T03:09:33.194789Z",
         "description": "Hiya! I'm the android \"Sincro//Nisity\". Variety comedy streamer, old-school jokes, nostalgia, honesty, and bullying you to be your best self. You can call me hag, onee-san, &..granny? ❁ུ۪۪ Streams: ~10pm PT. Game grinding, horror, hard mode RPGs, gachas, IRL travel, strategy, handcams.",
         "primaryColorHex": "84EDFF",
         "followers": {
-            "totalCount": 154464
+            "totalCount": 154469
         },
         "follows": {
             "totalCount": 868
@@ -19,18 +19,18 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-05T15:08:20.073146Z"
+            "startedAt": "2026-08-09T06:36:48.706452Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/055c0589-2049-4ac4-989b-84a48cd46b43-profile_image-70x70.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/055c0589-2049-4ac4-989b-84a48cd46b43-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13da522a-8927-4460-a25d-2864d2124892-profile_banner-480.png",
-        "fetchedAt": "2026-08-07T22:35:04Z"
+        "fetchedAt": "2026-08-11T17:02:19Z"
     },
     "fansly": {
         "id": "636387749540147200",
         "username": "SayuSin",
         "displayName": "Sayu",
         "version": 5,
-        "followCount": 1721,
+        "followCount": 1724,
         "statusId": 1,
         "accountMediaLikes": 722,
         "postLikes": 1312,
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-07T22:35:51Z"
+        "fetchedAt": "2026-08-11T17:53:24Z"
     },
     "twitter": {
         "sayusyn": {
             "id": "1389305514182410246",
             "handle": "sayusyn",
-            "displayName": "Sayu Sincro//Nisity🔩➡️Twitchcon",
+            "displayName": "vitality",
             "description": "真黒🔩I'm your favorite bully~ / Android hag / Variety comedy Hybrid VTuber @BandaiNamcoUS Creator / Evil & scary / 📖https://t.co/KkqpmsY2lV #sincronize🎨#sincreate",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2070230145546485760/Sesrs_Ej_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1389305514182410246/1766355257/1500x500",
-            "followersCount": 76093,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2086429655226097664/SNvc4Mka_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1389305514182410246/1786279229/1500x500",
+            "followersCount": 76035,
             "followingCount": 939,
             "postsCount": 10485,
             "accountCreatedAt": "2021-05-03T19:47:56.128Z",
             "profileUrl": "https://x.com/sayusyn",
-            "fetchedAt": "2026-08-09T00:22:10Z"
+            "fetchedAt": "2026-08-11T17:44:25Z"
         }
     }
 }

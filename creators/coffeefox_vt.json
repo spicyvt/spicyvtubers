@@ -9,10 +9,10 @@
         "description": "I’m Coffee! A caffeine-addicted Red Fox vtuber 🦊☕️ I am a variety streamer but mainly focus on League of Legends, Pokemon, and Overwatch. Founder of the vtuber group Vristas!",
         "primaryColorHex": "FFB4B4",
         "followers": {
-            "totalCount": 573
+            "totalCount": 577
         },
         "follows": {
-            "totalCount": 258
+            "totalCount": 260
         },
         "roles": {
             "isPartner": false,
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-07-16T02:49:10.256086Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a5780e7-7335-4196-99f6-82ebc5009bfb-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f713f9da-de0f-409d-a031-35fdc2c152d4-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a5780e7-7335-4196-99f6-82ebc5009bfb-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f713f9da-de0f-409d-a031-35fdc2c152d4-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:40:31Z"
     },
     "fansly": {
         "id": "920425753986752512",
         "username": "CoffeeFox_VT",
         "displayName": "Coffee",
         "version": 4,
-        "followCount": 73,
+        "followCount": 79,
         "statusId": 1,
-        "accountMediaLikes": 198,
-        "postLikes": 262,
+        "accountMediaLikes": 215,
+        "postLikes": 282,
         "about": "she/they (w)holesome caffeine-addicted red fox lewdtuber☕️🦊🌿Shy sub-leaning switch, 25, bi\n",
         "location": "United States",
         "streaming": {
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:23Z"
+        "fetchedAt": "2026-08-11T17:46:58Z"
     },
     "twitter": {
         "coffeefox_vt": {
@@ -78,12 +79,12 @@
             "description": "caffeine-addicted red fox vtuber ☕️🦊🌿 lewdtuber | 18+ MDNI | founder of @VristasVTG | 🎨: #coffeefoxdoodle 🔞：#coffeefoxlewds | NSFW acc: @coffeefox_lewd",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2066918938626473984/qo_-9jvS_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1910694301044187138/1781539436/1500x500",
-            "followersCount": 1115,
+            "followersCount": 1122,
             "followingCount": 626,
-            "postsCount": 3527,
+            "postsCount": 3550,
             "accountCreatedAt": "2025-04-11T14:00:13.337Z",
             "profileUrl": "https://x.com/CoffeeFox_VT",
-            "fetchedAt": "2026-08-08T23:46:29Z"
+            "fetchedAt": "2026-08-11T17:07:30Z"
         },
         "coffeefox_lewd": {
             "id": "2059369326969528320",
@@ -92,12 +93,12 @@
             "description": "NSFW acc and intrusive thought posting for @coffeeFox_VT 🔞 5’5”, bi, 25, owned⛓️‍💥, certified older men lover, MDNI\nFansly: https://t.co/6SSna1b06g",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2067323752539652096/76ZXi7KW_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2059369326969528320/1786208127/1500x500",
-            "followersCount": 248,
-            "followingCount": 91,
-            "postsCount": 520,
+            "followersCount": 253,
+            "followingCount": 93,
+            "postsCount": 544,
             "accountCreatedAt": "2026-05-26T20:22:14.875Z",
             "profileUrl": "https://x.com/CoffeeFox_lewd",
-            "fetchedAt": "2026-08-08T23:46:31Z"
+            "fetchedAt": "2026-08-11T17:07:32Z"
         }
     }
 }

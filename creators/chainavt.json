@@ -5,31 +5,32 @@
         "login": "chainavt",
         "displayName": "ChainaVT",
         "createdAt": "2020-09-17T23:05:00.612448Z",
-        "updatedAt": "2026-08-03T01:30:47.085324Z",
+        "updatedAt": "2026-08-10T00:29:21.829138Z",
         "description": "Ser vato no te quita lo wuapa.",
         "primaryColorHex": "EB0400",
         "followers": {
-            "totalCount": 62513
+            "totalCount": 62511
         },
         "follows": {
-            "totalCount": 1815
+            "totalCount": 1818
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T04:26:46.388031Z"
+            "startedAt": "2026-08-10T03:40:17.773269Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de9a041c-44e7-4120-92fd-d9032e1ae8e7-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77621a95-b82c-4bd1-8cfb-40024e766670-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de9a041c-44e7-4120-92fd-d9032e1ae8e7-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77621a95-b82c-4bd1-8cfb-40024e766670-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:59:44Z"
     },
     "fansly": {
         "id": "800279676340674560",
         "username": "ChainaVT",
         "displayName": "ChainaVT",
         "version": 5,
-        "followCount": 2152,
+        "followCount": 2156,
         "statusId": 1,
         "accountMediaLikes": 709,
         "postLikes": 484,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:12Z"
+        "fetchedAt": "2026-08-11T17:52:41Z"
     },
     "twitter": {
         "chainavt": {
@@ -50,12 +51,12 @@
             "description": "|  Partner | Waifu(?) | Vtuber | \n• https://t.co/n1y7zjLEJt\n• Redes: https://t.co/QyaKy0vf1h\n• 🔞: @HornyChaina\n• Fanart: #ChainaArt",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2015493274388025344/l0XLCkDi_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1305983690988810240/1740268365/1500x500",
-            "followersCount": 46862,
-            "followingCount": 1478,
-            "postsCount": 11446,
+            "followersCount": 46866,
+            "followingCount": 1477,
+            "postsCount": 11448,
             "accountCreatedAt": "2020-09-15T21:36:00.266Z",
             "profileUrl": "https://x.com/ChainaVT",
-            "fetchedAt": "2026-08-09T00:18:19Z"
+            "fetchedAt": "2026-08-11T17:40:25Z"
         },
         "hornychaina": {
             "id": null,
@@ -69,7 +70,7 @@
             "postsCount": null,
             "accountCreatedAt": "2026-03-24T01:00:19.858Z",
             "profileUrl": "https://x.com/HornyChaina",
-            "fetchedAt": "2026-08-09T00:18:20Z"
+            "fetchedAt": "2026-08-11T17:40:27Z"
         }
     }
 }

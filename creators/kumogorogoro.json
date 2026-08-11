@@ -9,10 +9,10 @@
         "description": "I promise my bite only hurts a little. ",
         "primaryColorHex": "FB87A0",
         "followers": {
-            "totalCount": 40392
+            "totalCount": 40412
         },
         "follows": {
-            "totalCount": 1002
+            "totalCount": 1004
         },
         "roles": {
             "isPartner": true,
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-08-03T06:00:40.337056Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e24ca464-5e21-4a79-87bb-aa106df03a23-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4cc0071c-e8bd-4315-8644-a8ec7ccf0b61-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e24ca464-5e21-4a79-87bb-aa106df03a23-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4cc0071c-e8bd-4315-8644-a8ec7ccf0b61-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:58:09Z"
     },
     "twitter": {
         "kumogorogoro": {
@@ -32,12 +33,12 @@
             "description": "Your Bratty Spider Imouto, Broadcasting from Radio Mojave 🕷💜\n\nJRPGs, ASMR, & Cultured Stuff\n@JASTIdols\n\n🎨#kuddelart #kumpai",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2048984081925554177/enVOrTxo_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1369453503320522754/1760431085/1500x500",
-            "followersCount": 32572,
-            "followingCount": 2422,
-            "postsCount": 26988,
+            "followersCount": 32562,
+            "followingCount": 2424,
+            "postsCount": 27010,
             "accountCreatedAt": "2021-03-10T01:02:22.180Z",
             "profileUrl": "https://x.com/kumogorogoro",
-            "fetchedAt": "2026-08-09T00:15:44Z"
+            "fetchedAt": "2026-08-11T17:37:52Z"
         }
     }
 }

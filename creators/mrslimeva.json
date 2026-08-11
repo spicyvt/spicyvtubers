@@ -5,11 +5,11 @@
         "login": "mrslimeva",
         "displayName": "MrSlimeVa",
         "createdAt": "2025-01-30T22:37:47.793811Z",
-        "updatedAt": "2026-08-04T00:40:12.924361Z",
+        "updatedAt": "2026-08-10T20:52:32.101253Z",
         "description": "Welcome too the slime pit, im your slimy boi, who cant remember where i am, hope you'll enjoy your stay in my slimy streams. ",
         "primaryColorHex": "520B6D",
         "followers": {
-            "totalCount": 167
+            "totalCount": 169
         },
         "follows": {
             "totalCount": 52
@@ -19,17 +19,18 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T00:12:17.853429Z"
+            "startedAt": "2026-08-10T22:40:47.304241Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/517f5e77-4784-4924-812f-7880f2837978-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34c05206-d04d-41ca-9ce1-9a7825e9aef8-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/517f5e77-4784-4924-812f-7880f2837978-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34c05206-d04d-41ca-9ce1-9a7825e9aef8-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:50:36Z"
     },
     "fansly": {
         "id": "802009887696494592",
         "username": "MrSlimeva",
         "displayName": null,
         "version": 17,
-        "followCount": 29,
+        "followCount": 30,
         "statusId": 1,
         "accountMediaLikes": 2,
         "postLikes": 14,
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WBMj5gHiXyWZ.m3u8",
                 "chatRoomId": "861771234856165376",
                 "status": 2,
-                "version": 14,
+                "version": 17,
                 "createdAt": 1766947733000,
                 "updatedAt": null,
                 "stream": {
                     "id": "861733905789640706",
-                    "historyId": "940158390103973888",
+                    "historyId": "942688775555796992",
                     "channelId": "861733905789640705",
                     "accountId": "802009887696494592",
-                    "title": "Goobing. gooning and stuff",
+                    "title": "Slime goon stream",
                     "status": 1,
                     "viewerCount": 1,
-                    "version": 22,
+                    "version": 28,
                     "createdAt": 1766947733000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785654673000,
-                    "startedAt": 1785645587000,
+                    "lastFetchedAt": 1786252978000,
+                    "startedAt": 1786248878000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:03Z"
+        "fetchedAt": "2026-08-11T17:50:22Z"
     },
     "twitter": {
         "mrslimeva": {
@@ -87,12 +88,12 @@
             "description": "🟣Your sexy british slimy boi🟣\nVA and streamer\nOshi mark - 🎩🟣\n18+ ONLY🔞\n\nhttps://t.co/SQFOkq4esk\n\n🎨#mrslimevart 🔞#mrslimensfw",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2084439009611141121/BWZdAZjN_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1885744855529480192/1744996706/1500x500",
-            "followersCount": 467,
-            "followingCount": 882,
-            "postsCount": 6913,
+            "followersCount": 471,
+            "followingCount": 896,
+            "postsCount": 6957,
             "accountCreatedAt": "2025-02-01T17:39:57.123Z",
             "profileUrl": "https://x.com/mrslimeva",
-            "fetchedAt": "2026-08-09T00:04:24Z"
+            "fetchedAt": "2026-08-11T17:26:13Z"
         },
         "mrlewdslime": {
             "id": "2059115835319304192",
@@ -101,12 +102,12 @@
             "description": "Your own lewd slime boi\nNo minors!!!\nLive over on twitch and fansly\nArt tag #MrSlimensfw",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2059120670521393152/TWyTAMa3_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2059115835319304192/1779767600/1500x500",
-            "followersCount": 49,
-            "followingCount": 642,
-            "postsCount": 230,
+            "followersCount": 57,
+            "followingCount": 707,
+            "postsCount": 247,
             "accountCreatedAt": "2026-05-26T03:35:28.531Z",
             "profileUrl": "https://x.com/Mrlewdslime",
-            "fetchedAt": "2026-08-09T00:04:26Z"
+            "fetchedAt": "2026-08-11T17:26:14Z"
         }
     }
 }

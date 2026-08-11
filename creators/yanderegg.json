@@ -5,11 +5,11 @@
         "login": "yanderegg",
         "displayName": "YanderEgg",
         "createdAt": "2023-09-11T17:48:04.169482Z",
-        "updatedAt": "2026-07-21T21:09:15.548172Z",
+        "updatedAt": "2026-08-08T21:36:16.735345Z",
         "description": "Son of Cthulhu",
         "primaryColorHex": "330146",
         "followers": {
-            "totalCount": 10763
+            "totalCount": 10807
         },
         "follows": {
             "totalCount": 365
@@ -19,17 +19,18 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-22T00:17:52.115555Z"
+            "startedAt": "2026-08-08T23:22:12.171187Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/938ff093-537a-4a66-bd3e-ae88904bff95-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4cbdba0-92e3-404e-9d41-25d6e988aa0c-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/938ff093-537a-4a66-bd3e-ae88904bff95-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4cbdba0-92e3-404e-9d41-25d6e988aa0c-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:58:21Z"
     },
     "fansly": {
         "id": "578501349272989696",
         "username": "Tentacrool",
         "displayName": "Tentacrool",
         "version": 15,
-        "followCount": 357,
+        "followCount": 367,
         "statusId": 1,
         "accountMediaLikes": 88,
         "postLikes": 77,
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-06T00:40:28Z"
+        "fetchedAt": "2026-08-11T17:52:14Z"
     },
     "twitter": {
         "yandereggsmr": {
@@ -78,12 +79,12 @@
             "description": "Certified Yandere ‣ Twitch Partner ‣ 100k on YT ‣ ママ ‣ @kamochiruu | Rig ‣ @WoofNono | https://t.co/at9rggWr0I | Clips: #eggits",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2006001604416126976/vc0Dkgex_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1636165347345563648/1719142906/1500x500",
-            "followersCount": 10247,
-            "followingCount": 1890,
+            "followersCount": 10238,
+            "followingCount": 1892,
             "postsCount": 3897,
             "accountCreatedAt": "2023-03-16T00:40:03.073Z",
             "profileUrl": "https://x.com/YanderEggsmr",
-            "fetchedAt": "2026-08-09T00:16:02Z"
+            "fetchedAt": "2026-08-11T17:38:09Z"
         },
         "tentacroolvt": {
             "id": "1831983617574055936",
@@ -92,12 +93,12 @@
             "description": "See my Fansly/Patreon ~ 🔞Minors will be blocked!",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2065304442828623872/OofsJUCp_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1831983617574055936/1781241926/1500x500",
-            "followersCount": 512,
+            "followersCount": 514,
             "followingCount": 72,
             "postsCount": 37,
             "accountCreatedAt": "2024-09-06T09:12:04.993Z",
             "profileUrl": "https://x.com/TentacroolVT",
-            "fetchedAt": "2026-08-09T00:16:03Z"
+            "fetchedAt": "2026-08-11T17:38:11Z"
         }
     }
 }

@@ -5,14 +5,14 @@
         "login": "likyvt",
         "displayName": "LikyVT",
         "createdAt": "2022-06-04T03:46:25.988983Z",
-        "updatedAt": "2026-07-25T02:42:56.296282Z",
+        "updatedAt": "2026-08-10T02:41:18.398379Z",
         "description": "🀄️Femboy de Profesión y VTuber de Hobby / 💜 Afiliado / Miembro de VTubersEs💫⏰Horarios:Ecuador 8:00 pm / Argentina 10:00 pm /  Chile 10:00 pm / México 7:00 pm / Perú 8:00 pm / ",
         "primaryColorHex": "7A0000",
         "followers": {
-            "totalCount": 1126
+            "totalCount": 1123
         },
         "follows": {
-            "totalCount": 559
+            "totalCount": 560
         },
         "roles": {
             "isPartner": false,
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-07-30T23:26:39.031992Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d0908db-efad-48fb-a85e-0ba2be3ef49e-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b577eca3-ac62-410c-b257-57be1a3898bf-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d0908db-efad-48fb-a85e-0ba2be3ef49e-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b577eca3-ac62-410c-b257-57be1a3898bf-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:45:46Z"
     },
     "fansly": {
         "id": "714066479649140736",
         "username": "LikyVT",
         "displayName": "Liky",
         "version": 5,
-        "followCount": 1616,
+        "followCount": 1618,
         "statusId": 1,
-        "accountMediaLikes": 2855,
-        "postLikes": 4154,
+        "accountMediaLikes": 2856,
+        "postLikes": 4158,
         "about": "VTuber Femboy Submissive Succubo\n\nI upload content with all my heart UwU\n\nDiscord: https://discord.gg/8gEYVfB7f6",
         "location": "",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:16Z"
+        "fetchedAt": "2026-08-11T17:48:51Z"
     },
     "twitter": {
         "likyvt": {
@@ -87,12 +88,12 @@
             "description": "🀄️Femboy Bisexual de Profesión y VTuber de Hobby / Editor/Moderador de VTuberEs\n\nDiscord: https://t.co/MP5FWzRQfk\nTwitc: https://t.co/Qw9dENDyQx",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2065316531303591936/8cjbxhnk_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1390473278024822784/1758081331/1500x500",
-            "followersCount": 2313,
-            "followingCount": 2279,
-            "postsCount": 1905,
+            "followersCount": 2325,
+            "followingCount": 2283,
+            "postsCount": 1906,
             "accountCreatedAt": "2021-05-07T01:07:33.802Z",
             "profileUrl": "https://x.com/LikyVT",
-            "fetchedAt": "2026-08-08T23:56:38Z"
+            "fetchedAt": "2026-08-11T17:17:57Z"
         }
     }
 }

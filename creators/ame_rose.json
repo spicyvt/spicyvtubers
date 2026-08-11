@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-06-24T21:28:17.711064Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67674c03-af46-49d1-a0df-ca8bdabd2518-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90bb0be5-668d-4d5c-ae35-48b84b08a87a-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67674c03-af46-49d1-a0df-ca8bdabd2518-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90bb0be5-668d-4d5c-ae35-48b84b08a87a-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:42:26Z"
     },
     "fansly": {
         "id": "852095796185686016",
         "username": "ame_rose",
         "displayName": "Ame Rose",
         "version": 3,
-        "followCount": 155,
+        "followCount": 157,
         "statusId": 3,
         "accountMediaLikes": 234,
         "postLikes": 254,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:39Z"
+        "fetchedAt": "2026-08-11T17:47:37Z"
     },
     "twitter": {
         "ame_rose": {
@@ -50,12 +51,12 @@
             "description": "streamer, vtuber, fangirl, and foodie 💜🔮 • art tag #AmeRoseArt • member of @v_enchant",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2056940827746656256/glxOd6O1_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1292574608533655552/1753808098/1500x500",
-            "followersCount": 9308,
-            "followingCount": 1608,
-            "postsCount": 11719,
+            "followersCount": 9305,
+            "followingCount": 1609,
+            "postsCount": 11724,
             "accountCreatedAt": "2020-08-09T21:33:06.554Z",
             "profileUrl": "https://x.com/ame_rose",
-            "fetchedAt": "2026-08-08T23:50:41Z"
+            "fetchedAt": "2026-08-11T17:11:42Z"
         }
     }
 }

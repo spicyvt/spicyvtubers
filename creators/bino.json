@@ -5,31 +5,32 @@
         "login": "bino",
         "displayName": "bino",
         "createdAt": "2021-03-19T14:37:25.107903Z",
-        "updatedAt": "2026-08-01T12:40:21.250254Z",
+        "updatedAt": "2026-08-09T15:09:54.049885Z",
         "description": "dubious creature with dubious motives",
         "primaryColorHex": "B9FAD1",
         "followers": {
-            "totalCount": 18680
+            "totalCount": 18710
         },
         "follows": {
-            "totalCount": 633
+            "totalCount": 635
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-01T15:44:30.801512Z"
+            "startedAt": "2026-08-09T16:05:01.40709Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34824650-25ec-481d-a556-7cd3a1443716-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/29fcae34-8ff7-48af-b097-ea7216d7e16c-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34824650-25ec-481d-a556-7cd3a1443716-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/29fcae34-8ff7-48af-b097-ea7216d7e16c-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:41:20Z"
     },
     "fansly": {
         "id": "403344196204769280",
         "username": "BinoVT",
         "displayName": "Bino",
         "version": 6,
-        "followCount": 1905,
+        "followCount": 1906,
         "statusId": 3,
         "accountMediaLikes": 858,
         "postLikes": 1547,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:28Z"
+        "fetchedAt": "2026-08-11T17:47:15Z"
     },
     "twitter": {
         "binotweets": {
@@ -50,12 +51,12 @@
             "description": "Dubious creature | Artist | Twitch partner \npfp: @purrgiri\nmodel: @tanjo_v\ncomms - https://t.co/uX9YOZEJvZ\nart tags: #binoart #binonsfw\n🔞!",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2062605583102992385/KV0VQuVM_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1313941228522795011/1779134153/1500x500",
-            "followersCount": 7646,
-            "followingCount": 1757,
-            "postsCount": 12125,
+            "followersCount": 7643,
+            "followingCount": 1758,
+            "postsCount": 12136,
             "accountCreatedAt": "2020-10-07T20:36:21.004Z",
             "profileUrl": "https://x.com/Binotweets",
-            "fetchedAt": "2026-08-08T23:48:07Z"
+            "fetchedAt": "2026-08-11T17:09:12Z"
         }
     }
 }

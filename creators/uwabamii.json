@@ -5,31 +5,32 @@
         "login": "uwabamii",
         "displayName": "Uwabamii",
         "createdAt": "2017-06-25T06:25:12.262523Z",
-        "updatedAt": "2026-08-02T03:55:05.679844Z",
+        "updatedAt": "2026-08-10T02:07:57.176012Z",
         "description": "Dream manipulating Lamia || I am a variety streamer, and an absolute gremlin. [She/her] 18+ stream || 🐍 Business Inquiries: itzuwabamii@gmail.com",
         "primaryColorHex": "490100",
         "followers": {
-            "totalCount": 4905
+            "totalCount": 4914
         },
         "follows": {
-            "totalCount": 472
+            "totalCount": 471
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T05:31:53.801968Z"
+            "startedAt": "2026-08-10T06:15:14.103118Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dce2843f-d3e5-448e-a1c3-365f67d5b0a0-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/edc931c5-268b-4e88-b63a-af5d7795effe-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dce2843f-d3e5-448e-a1c3-365f67d5b0a0-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/edc931c5-268b-4e88-b63a-af5d7795effe-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:58:54Z"
     },
     "fansly": {
         "id": "460403076604370944",
         "username": "Uwabamii",
         "displayName": "Uwabamii",
         "version": 12,
-        "followCount": 584,
+        "followCount": 585,
         "statusId": 1,
         "accountMediaLikes": 390,
         "postLikes": 405,
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:01Z"
+        "fetchedAt": "2026-08-11T17:52:25Z"
     },
     "twitter": {
         "uwabamii_": {
@@ -78,12 +79,12 @@
             "description": "Dream Manipulating Lamia🔞|🎨: #UwaArt 18+: #Uwooga | P: @99migiy B: @1404_hana | Business: itzuwabamii@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1999221978499325952/9W3y0uqg_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1081196198709608448/1735968659/1500x500",
-            "followersCount": 3706,
-            "followingCount": 645,
-            "postsCount": 12594,
+            "followersCount": 3708,
+            "followingCount": 563,
+            "postsCount": 12597,
             "accountCreatedAt": "2019-01-04T14:30:36.206Z",
             "profileUrl": "https://x.com/Uwabamii_",
-            "fetchedAt": "2026-08-09T00:16:53Z"
+            "fetchedAt": "2026-08-11T17:39:04Z"
         }
     }
 }

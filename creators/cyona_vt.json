@@ -5,35 +5,35 @@
         "login": "cyona_vt",
         "displayName": "Cyona_VT",
         "createdAt": "2025-04-23T04:19:19.855314Z",
-        "updatedAt": "2026-07-31T18:48:32.917813Z",
+        "updatedAt": "2026-08-10T20:34:11.375572Z",
         "description": "Cyona, Maned Wolf VTuber  ─ ⊹ ⊱ 🐟 ⊰ ⊹ ─ Business E-mail: contact@cyona.gg",
         "primaryColorHex": "A9BBCC",
         "followers": {
-            "totalCount": 506
+            "totalCount": 519
         },
         "follows": {
-            "totalCount": 521
+            "totalCount": 529
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-20T20:29:58.164948Z"
+            "startedAt": "2026-08-10T21:51:57.558136Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee15191-a4c7-4c5b-8e24-50cf20e7535d-profile_image-70x70.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee15191-a4c7-4c5b-8e24-50cf20e7535d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dfce9402-51a6-4a90-986e-5b678258962b-profile_banner-480.png",
-        "fetchedAt": "2026-08-06T00:18:05Z"
+        "fetchedAt": "2026-08-11T17:01:55Z"
     },
     "fansly": {
         "id": "904033203147255808",
         "username": "cyonavt",
         "displayName": "Cyona",
         "version": 9,
-        "followCount": 24,
+        "followCount": 77,
         "statusId": 1,
-        "accountMediaLikes": 21,
-        "postLikes": 34,
+        "accountMediaLikes": 39,
+        "postLikes": 51,
         "about": "⊹ ࣪ ˖ Free Lewd Streams Twice a Month for Followers! ˖  ࣪⊹\n⊹ ࣪ ˖ Current Lovense Toys: Lush 3, Domi 2, Ferri ˖  ࣪⊹\n\nThe Switch Powerhouse Camgirl of 15 Years turned Maned Wolf Vtuber\n\n── .✦ All Links & Credits: https://www.cyona.gg\n── .✦ Twitch: https://www.twitch.tv/cyona_vt\n── .✦ Throne: https://www.throne.com/cyonavt\n",
         "location": "",
         "streaming": {
@@ -86,7 +86,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-06T00:18:06Z"
+        "fetchedAt": "2026-08-11T17:53:18Z"
     },
     "twitter": {
         "cyonavt": {
@@ -101,7 +101,7 @@
             "postsCount": 7,
             "accountCreatedAt": "2026-07-16T22:07:07.426Z",
             "profileUrl": "https://x.com/CyonaVT",
-            "fetchedAt": "2026-08-09T00:21:39Z"
+            "fetchedAt": "2026-08-11T17:43:52Z"
         }
     }
 }

@@ -5,11 +5,11 @@
         "login": "naya",
         "displayName": "naya",
         "createdAt": "2013-09-27T00:56:28.317491Z",
-        "updatedAt": "2026-08-04T19:31:19.191756Z",
+        "updatedAt": "2026-08-10T21:13:13.053939Z",
         "description": "let me give a fox's explanation~",
         "primaryColorHex": "FFBE05",
         "followers": {
-            "totalCount": 95809
+            "totalCount": 95845
         },
         "follows": {
             "totalCount": 355
@@ -19,21 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-07T19:14:01.889711Z"
+            "startedAt": "2026-08-10T23:01:40.706293Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34f16795-577f-4bb8-9539-2b024b8f1255-profile_image-70x70.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34f16795-577f-4bb8-9539-2b024b8f1255-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/53efdab3-290a-4021-b52a-cfe8b6c44c39-profile_banner-480.png",
-        "fetchedAt": "2026-08-07T22:34:53Z"
+        "fetchedAt": "2026-08-11T17:02:07Z"
     },
     "fansly": {
         "id": "756947074200645632",
         "username": "OnlyFomx",
         "displayName": "OnlyFomx~",
         "version": 22,
-        "followCount": 4943,
+        "followCount": 5063,
         "statusId": 3,
-        "accountMediaLikes": 2820,
-        "postLikes": 3683,
+        "accountMediaLikes": 2951,
+        "postLikes": 3838,
         "about": "🎆Your new fav Fomx! 🎆\nI like art and make VRChat lewds, in a cute but sexy way ;3\n+ Im a brat and bottom, take this info how you will <3\nI play games here! - https://twitch.tv/naya",
         "location": "",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "762206855773560833",
-                    "historyId": "927389660563398657",
+                    "historyId": "942610612100284416",
                     "channelId": "762206855773560832",
                     "accountId": "756947074200645632",
                     "title": "1st Ever Fansly Stream in a long while! Plz be gentle im a nervous bottom >.<",
                     "status": 1,
-                    "viewerCount": 32,
-                    "version": 22,
+                    "viewerCount": 35,
+                    "version": 24,
                     "createdAt": 1743218635000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1782608570000,
-                    "startedAt": 1782601285000,
+                    "lastFetchedAt": 1786237110000,
+                    "startedAt": 1786230242000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-07T22:35:15Z"
+        "fetchedAt": "2026-08-11T17:53:18Z"
     },
     "twitter": {
         "onlyfomx": {
             "id": "1551346910916665344",
             "handle": "onlyfomx",
             "displayName": "OnlyFomx~ 🔞💛",
-            "description": "The #VRChat 🔞 page for @nayaVT ! ✿ i like being gay and really lewd here~ ✿ @fansly creator ✿ @twitch Partner #VTuber ✿ 🔞 MINORS DNI",
+            "description": "The Main #VRChat 🔞 page for @nayaVT ! ✿ i like being gay and really lewd here~ ✿ @fansly creator ✿ @twitch Partner #VTuber ✿ 🔞 MINORS DNI",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2072694690105769984/-MYElURd_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551346910916665344/1783003898/1500x500",
-            "followersCount": 5999,
-            "followingCount": 87,
-            "postsCount": 726,
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551346910916665344/1786315959/1500x500",
+            "followersCount": 6212,
+            "followingCount": 91,
+            "postsCount": 735,
             "accountCreatedAt": "2022-07-24T23:21:52.673Z",
             "profileUrl": "https://x.com/OnlyFomx",
-            "fetchedAt": "2026-08-09T00:21:56Z"
+            "fetchedAt": "2026-08-11T17:44:10Z"
         }
     }
 }

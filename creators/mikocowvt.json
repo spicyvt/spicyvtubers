@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-05-17T03:21:49.010268Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8882b132-54ee-43c5-881e-196a8fcaf1e3-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33e6606b-af05-4956-96bf-e43d99cd6603-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8882b132-54ee-43c5-881e-196a8fcaf1e3-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33e6606b-af05-4956-96bf-e43d99cd6603-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:56:56Z"
     },
     "fansly": {
         "id": "862498270067306497",
         "username": "mikocowvt",
         "displayName": "Miko da Cow",
         "version": 6,
-        "followCount": 693,
+        "followCount": 692,
         "statusId": 1,
         "accountMediaLikes": 335,
         "postLikes": 91,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:51Z"
+        "fetchedAt": "2026-08-11T17:51:58Z"
     },
     "twitter": {
         "mikocowvt": {
@@ -52,10 +53,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1994497386329378816/1768437373/1500x500",
             "followersCount": 98,
             "followingCount": 243,
-            "postsCount": 95,
+            "postsCount": 97,
             "accountCreatedAt": "2025-11-28T20:03:33.166Z",
             "profileUrl": "https://x.com/mikocowvt",
-            "fetchedAt": "2026-08-09T00:13:44Z"
+            "fetchedAt": "2026-08-11T17:35:48Z"
         },
         "mikocow": {
             "id": "1742462833021906944",
@@ -64,12 +65,12 @@
             "description": "The lewd side 🔞 of @MikoCowVT\nI am a silly cow :3\nProfile art by @sdus1017sb",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2003496522114052096/k0Zku5Bc_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1742462833021906944/1766505887/1500x500",
-            "followersCount": 77,
+            "followersCount": 76,
             "followingCount": 173,
             "postsCount": 15,
             "accountCreatedAt": "2024-01-03T08:28:21.552Z",
             "profileUrl": "https://x.com/MikoCow",
-            "fetchedAt": "2026-08-09T00:13:45Z"
+            "fetchedAt": "2026-08-11T17:35:50Z"
         }
     }
 }

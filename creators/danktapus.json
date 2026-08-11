@@ -5,34 +5,35 @@
         "login": "danktapus",
         "displayName": "Danktapus",
         "createdAt": "2016-05-02T06:59:38.722001Z",
-        "updatedAt": "2026-07-31T06:35:08.724482Z",
+        "updatedAt": "2026-08-10T07:41:14.409313Z",
         "description": "I am the Danktapus Hunter, I like to draw (often streamed on other sites). I play a bunch of different games with my friends!",
         "primaryColorHex": "2F0041",
         "followers": {
-            "totalCount": 352
+            "totalCount": 356
         },
         "follows": {
-            "totalCount": 133
+            "totalCount": 134
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-01T08:18:43.994307Z"
+            "startedAt": "2026-08-10T08:55:41.471389Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2951492-3365-464e-bd58-ca511b5c51cf-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e16d593a-c291-450a-8a81-219823da98fa-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2951492-3365-464e-bd58-ca511b5c51cf-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e16d593a-c291-450a-8a81-219823da98fa-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:46:17Z"
     },
     "fansly": {
         "id": "292006729867075584",
         "username": "danktapus",
         "displayName": "Danktapus",
         "version": 11,
-        "followCount": 226,
+        "followCount": 229,
         "statusId": 1,
-        "accountMediaLikes": 3834,
-        "postLikes": 1394,
+        "accountMediaLikes": 3887,
+        "postLikes": 1429,
         "about": "Sub to me because I'm cool and sexy and I also draw",
         "location": "Somewhere between California and Texas",
         "streaming": {
@@ -109,7 +110,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:21Z"
+        "fetchedAt": "2026-08-11T17:49:02Z"
     },
     "twitter": {
         "danktapus": {
@@ -119,12 +120,12 @@
             "description": "🔞DO NOT FOLLOW IF UNDER 18\n|I draw NSFW |they/them 🇰🇭🇨🇳| 30 y/o | R6S SMOKE STAN |Lewdtuber|geeks5ever producer| thicc cosplayer| powered by @ADVANCEDgg",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1527362005941661703/i1OcCdiQ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/760459128980377601/1757729180/1500x500",
-            "followersCount": 2001,
-            "followingCount": 1290,
-            "postsCount": 124657,
+            "followersCount": 2004,
+            "followingCount": 1289,
+            "postsCount": 124817,
             "accountCreatedAt": "2016-08-02T12:55:59.919Z",
             "profileUrl": "https://x.com/Danktapus",
-            "fetchedAt": "2026-08-08T23:57:20Z"
+            "fetchedAt": "2026-08-11T17:18:41Z"
         }
     }
 }

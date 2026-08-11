@@ -5,31 +5,32 @@
         "login": "indexvoss",
         "displayName": "IndexVoss",
         "createdAt": "2026-01-15T15:45:58.722059Z",
-        "updatedAt": "2026-08-03T23:34:28.12431Z",
+        "updatedAt": "2026-08-10T22:03:51.221095Z",
         "description": "Hello there darling~ I'm your flirty foxboy vtuber! I make \"lewdsome\" content. during my Daily Archive streams, we shoot for cozy and comfortable, maybe chaotic. After Dark however, lets say I get very... Passionate ;) I'm indie, I'm older (30+), and a divorced father! I don't bite... unless asked",
         "primaryColorHex": "5AFBFB",
         "followers": {
-            "totalCount": 261
+            "totalCount": 276
         },
         "follows": {
-            "totalCount": 294
+            "totalCount": 305
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T09:39:54.042192Z"
+            "startedAt": "2026-08-09T20:51:46.76422Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/daeaa200-acb9-4685-b71c-b7f009d22c44-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d7f01c2-ae70-420a-9327-f05dbe09cc98-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/daeaa200-acb9-4685-b71c-b7f009d22c44-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d7f01c2-ae70-420a-9327-f05dbe09cc98-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:01:40Z"
     },
     "fansly": {
         "id": "935358021867937792",
         "username": "IndexVoss",
         "displayName": null,
         "version": 2,
-        "followCount": 4,
+        "followCount": 6,
         "statusId": 1,
         "accountMediaLikes": 2,
         "postLikes": 2,
@@ -93,22 +94,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:28Z"
+        "fetchedAt": "2026-08-11T17:53:13Z"
     },
     "twitter": {
         "indexvoss": {
             "id": "2024728449353650176",
             "handle": "indexvoss",
             "displayName": "Index Voss 📙🧡 | DEBUT 15 AUG!!",
-            "description": "🔞 | Your flirty furry foxboy librarian! Variety streamer, Mahjong enthusiast, and simp. People tell me they like my voice, I refuse to believe them 🤣",
+            "description": "🔞 | Your flirty furry foxboy librarian! Variety streamer. People tell me they like my voice, I refuse to believe them 🤣 https://t.co/35CcwBIVVR",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2081253048840495104/H_PHD7gN_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2024728449353650176/1771794088/1500x500",
-            "followersCount": 276,
-            "followingCount": 197,
-            "postsCount": 2234,
+            "followersCount": 278,
+            "followingCount": 160,
+            "postsCount": 2286,
             "accountCreatedAt": "2026-02-20T06:11:04.992Z",
             "profileUrl": "https://x.com/IndexVoss",
-            "fetchedAt": "2026-08-09T00:21:12Z"
+            "fetchedAt": "2026-08-11T17:43:23Z"
         }
     }
 }

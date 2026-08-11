@@ -5,34 +5,35 @@
         "login": "dencavt",
         "displayName": "DencaVT",
         "createdAt": "2015-01-29T20:25:56.545469Z",
-        "updatedAt": "2026-07-25T16:45:48.338226Z",
+        "updatedAt": "2026-08-09T17:40:12.878649Z",
         "description": "🌙Your local lunar femboy bunny :3 I play games and yap a lot!",
         "primaryColorHex": "1345AA",
         "followers": {
-            "totalCount": 1063
+            "totalCount": 1065
         },
         "follows": {
-            "totalCount": 332
+            "totalCount": 334
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-25T21:19:39.716723Z"
+            "startedAt": "2026-08-10T21:12:33.65889Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5e25dcd-74da-415f-94b2-8f8fb6a84596-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75e2c922-5678-4396-9bd3-febdc8161ef3-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5e25dcd-74da-415f-94b2-8f8fb6a84596-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75e2c922-5678-4396-9bd3-febdc8161ef3-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:47:24Z"
     },
     "fansly": {
         "id": "749129474276073472",
         "username": "DencaVT",
         "displayName": null,
         "version": 3,
-        "followCount": 305,
+        "followCount": 322,
         "statusId": 1,
-        "accountMediaLikes": 28,
-        "postLikes": 66,
+        "accountMediaLikes": 30,
+        "postLikes": 75,
         "about": "Hiya! I'm Denca a femboy lunar bunny!\n\nI'll be doing occasional streams on here and posting NSFW artwork of myself every now and then ^^\n\nWishlist https://throne.com/denca",
         "location": "",
         "streaming": {
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:32Z"
+        "fetchedAt": "2026-08-11T17:49:23Z"
     },
     "twitter": {
         "dencavt": {
@@ -78,12 +79,12 @@
             "description": "🌙Femboy Bunny Vtuber , Gamer, Video Editor\nModel:@LONOM\nhttps://t.co/yeqgIN55mm\nhttps://t.co/WW02WNAiay\n🎨: #Dencart\n📧: dencavtuber@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1976784603303047168/xCg-NvvP_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2942093157/1764630333/1500x500",
-            "followersCount": 1367,
-            "followingCount": 429,
-            "postsCount": 8512,
+            "followersCount": 1528,
+            "followingCount": 428,
+            "postsCount": 8538,
             "accountCreatedAt": "2014-12-26T13:26:30.609Z",
             "profileUrl": "https://x.com/DencaVT",
-            "fetchedAt": "2026-08-08T23:59:07Z"
+            "fetchedAt": "2026-08-11T17:20:37Z"
         }
     }
 }

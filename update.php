@@ -293,7 +293,10 @@ function convertToWebp(string $sourcePath, string $destPath, ?int $squareSize = 
         $resizeArgs = '';
     }
 
-    $cmd = trim(sprintf('convert %s %s %s', escapeshellarg($sourcePath), $resizeArgs, escapeshellarg($destPath)));
+    // -background none is required before -extent, otherwise ImageMagick
+    // flattens the image onto an opaque white canvas even when no padding
+    // is actually needed, silently destroying source transparency.
+    $cmd = trim(sprintf('convert %s -background none %s %s', escapeshellarg($sourcePath), $resizeArgs, escapeshellarg($destPath)));
     exec($cmd . ' 2>&1', $output, $exitCode);
 
     if ($exitCode !== 0) {

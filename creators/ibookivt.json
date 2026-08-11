@@ -5,11 +5,11 @@
         "login": "ibookivt",
         "displayName": "IbookiVT",
         "createdAt": "2022-02-09T07:06:32.969865Z",
-        "updatedAt": "2026-07-29T02:33:28.56846Z",
+        "updatedAt": "2026-08-10T03:45:35.184313Z",
         "description": "Soy una poltergeist muy chistosita y coqueta ☆ ～('▽^人)",
         "primaryColorHex": "1F69FF",
         "followers": {
-            "totalCount": 9880
+            "totalCount": 9882
         },
         "follows": {
             "totalCount": 138
@@ -19,20 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-29T03:46:44.454843Z"
+            "startedAt": "2026-08-07T03:51:23.444569Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/050201c4-d7d1-4d80-be0d-0a77bb68573e-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/378f8d77-c08e-4449-b62a-892d6d2b1293-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/050201c4-d7d1-4d80-be0d-0a77bb68573e-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/378f8d77-c08e-4449-b62a-892d6d2b1293-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:55:37Z"
     },
     "fansly": {
         "id": "572689712297291776",
         "username": "IbookiVT",
         "displayName": null,
         "version": 4,
-        "followCount": 9474,
+        "followCount": 9480,
         "statusId": 3,
-        "accountMediaLikes": 12995,
-        "postLikes": 17206,
+        "accountMediaLikes": 13021,
+        "postLikes": 17235,
         "about": "｡⁠♡๑ Tu poltergeist favorita | Streams +18 | Naughty Vtuber\n\n👻JOI & RP\n👻Kinkfriendly\n👻ASMR\n👻IRL COSPLAY",
         "location": "",
         "streaming": {
@@ -109,7 +110,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:40Z"
+        "fetchedAt": "2026-08-11T17:51:42Z"
     },
     "twitter": {
         "ibookivt": {
@@ -121,10 +122,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1716305398007988224/1724123525/1500x500",
             "followersCount": 8145,
             "followingCount": 76,
-            "postsCount": 2718,
+            "postsCount": 2719,
             "accountCreatedAt": "2023-10-23T04:07:55.616Z",
             "profileUrl": "https://x.com/IbookiVT",
-            "fetchedAt": "2026-08-09T00:11:34Z"
+            "fetchedAt": "2026-08-11T17:33:38Z"
         }
     }
 }

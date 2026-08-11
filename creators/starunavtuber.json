@@ -9,7 +9,7 @@
         "description": "₍ᐢ•ﻌ•ᐢ₎✧˖𝘏𝘪! 𝘐 𝘢𝘮 𝘺𝘰𝘶𝘳 𝘢𝘥𝘰𝘳𝘢𝘣𝘭𝘦 𝘚𝘱𝘢𝘤𝘦 𝘚𝘲𝘶𝘪𝘳𝘳𝘦𝘭 𝘝𝘵𝘶𝘣𝘦𝘳! -🐿*ੈ✩‧₊˚⋆˙",
         "primaryColorHex": "AB2DD3",
         "followers": {
-            "totalCount": 1330
+            "totalCount": 1331
         },
         "follows": {
             "totalCount": 284
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-08-02T21:39:50.860696Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e361406-8781-4e8b-8086-69b6064a2d92-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b72c340f-a026-448d-b34f-7c44453754dc-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e361406-8781-4e8b-8086-69b6064a2d92-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b72c340f-a026-448d-b34f-7c44453754dc-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:46:28Z"
     },
     "fansly": {
         "id": "739261902504337409",
         "username": "OnlyBeigeThings",
         "displayName": "StarunaVtuber",
         "version": 12,
-        "followCount": 64,
+        "followCount": 65,
         "statusId": 1,
         "accountMediaLikes": 104,
         "postLikes": 127,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:26Z"
+        "fetchedAt": "2026-08-11T17:49:07Z"
     },
     "twitter": {
         "starunavtuber": {
@@ -50,12 +51,12 @@
             "description": "₍ᐢ•ﻌ•ᐢ₎✧˖I am your adorable Space Squirrel Vtuber, who might steal your nuts!\nModel art/rig: @suiika___",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1995798329268338688/-WdDEcnI_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1923118819041476608/1760915672/1500x500",
-            "followersCount": 79,
+            "followersCount": 78,
             "followingCount": 8,
             "postsCount": 99,
             "accountCreatedAt": "2025-05-15T20:50:41.234Z",
             "profileUrl": "https://x.com/StarunaVtuber",
-            "fetchedAt": "2026-08-08T23:57:38Z"
+            "fetchedAt": "2026-08-11T17:18:59Z"
         }
     }
 }

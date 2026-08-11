@@ -5,11 +5,11 @@
         "login": "melodiamews",
         "displayName": "MelodiaMews",
         "createdAt": "2023-08-08T16:43:55.983219Z",
-        "updatedAt": "2026-08-03T06:53:34.028394Z",
+        "updatedAt": "2026-08-11T04:17:25.266848Z",
         "description": "Hi~! I'm Melodia the Princess Cat Vtuber here to bring magic to your life. =w= ",
         "primaryColorHex": "FFD37A",
         "followers": {
-            "totalCount": 1581
+            "totalCount": 1597
         },
         "follows": {
             "totalCount": 474
@@ -19,20 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T00:08:46.692748Z"
+            "startedAt": "2026-08-06T01:55:50.17668Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50252b3e-cb54-4357-8f73-f7fae82b4746-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/14847c00-538c-4071-9267-eca4bc96370c-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50252b3e-cb54-4357-8f73-f7fae82b4746-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/14847c00-538c-4071-9267-eca4bc96370c-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:00:08Z"
     },
     "fansly": {
         "id": "938994986253299712",
         "username": "MelodiaMews",
         "displayName": "MelodiaMews",
         "version": 5,
-        "followCount": 679,
+        "followCount": 724,
         "statusId": 1,
-        "accountMediaLikes": 67,
-        "postLikes": 210,
+        "accountMediaLikes": 110,
+        "postLikes": 342,
         "about": "𑣲⋆Brat - Bimbo - Busty 𑣲⋆₍^. .^₎⟆ 💛\n\nSwitch / H cups / 4'11 (SHORT)\n\n--------------------------------------------------\n\n👑Throne : https://throne.com/melodiamews\n📱Socials: melodiamews.carrd.co\n\n----------------------------\nDms for custom content ",
         "location": "",
         "streaming": {
@@ -48,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "940816140035174401",
-                    "historyId": "940854946650144768",
+                    "historyId": "941582793610125312",
                     "channelId": "940816140035174400",
                     "accountId": "938994986253299712",
                     "title": "First Fansly Stream - PREPARE FOR SCUFF",
                     "status": 1,
-                    "viewerCount": 20,
-                    "version": 2,
+                    "viewerCount": 7,
+                    "version": 4,
                     "createdAt": 1785802407000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785818307000,
-                    "startedAt": 1785811659000,
+                    "lastFetchedAt": 1785993110000,
+                    "startedAt": 1785985191000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:12Z"
+        "fetchedAt": "2026-08-11T17:52:46Z"
     },
     "twitter": {
         "melodiamews": {
@@ -87,12 +88,12 @@
             "description": "👑Cringe Cat Princess 🎤Vsinger 🗣️Merch : https://t.co/fDMCYhgsVL Art Mama: @walnutkei0 Rig Mama : @Neapolitanrime",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2046837898582904832/f1_iOo17_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1700094592261959680/1748925737/1500x500",
-            "followersCount": 4810,
-            "followingCount": 622,
-            "postsCount": 5082,
+            "followersCount": 4872,
+            "followingCount": 625,
+            "postsCount": 5090,
             "accountCreatedAt": "2023-09-08T10:31:59.574Z",
             "profileUrl": "https://x.com/MelodiaMews",
-            "fetchedAt": "2026-08-09T00:19:01Z"
+            "fetchedAt": "2026-08-11T17:41:06Z"
         },
         "melodianewds": {
             "id": "2082679925731893248",
@@ -101,12 +102,12 @@
             "description": "Spicy  Bimbo Kitten~ 💛👑😽 Alt account to : @Melodiamews \nFansly : https://t.co/tHjheth983",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2082681987777646592/o_o6XNJ__400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2082679925731893248/1785385080/1500x500",
-            "followersCount": 67,
+            "followersCount": 87,
             "followingCount": 3,
             "postsCount": 9,
             "accountCreatedAt": "2026-07-30T04:11:40.750Z",
             "profileUrl": "https://x.com/MelodiaNewds",
-            "fetchedAt": "2026-08-09T00:19:02Z"
+            "fetchedAt": "2026-08-11T17:41:08Z"
         }
     }
 }

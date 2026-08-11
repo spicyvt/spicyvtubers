@@ -5,11 +5,11 @@
         "login": "ephrys",
         "displayName": "ephrys",
         "createdAt": "2013-06-03T21:48:47.322731Z",
-        "updatedAt": "2026-07-31T20:58:28.595676Z",
+        "updatedAt": "2026-08-10T20:41:47.131313Z",
         "description": "🔞Your sassy, sussy librarian gorgon♥  🔞I do what I want, and you will too♥   📸Mon-Thurs 530pmEST",
         "primaryColorHex": "AE1392",
         "followers": {
-            "totalCount": 544
+            "totalCount": 548
         },
         "follows": {
             "totalCount": 272
@@ -19,20 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-31T23:24:48.373317Z"
+            "startedAt": "2026-08-11T00:02:01.117076Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ea75aa11-b39c-41ca-8cb3-9d1f4b1b0bd8-profile_image-70x70.jpeg",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8af2a5c4-2101-4920-8c89-157487780b65-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ea75aa11-b39c-41ca-8cb3-9d1f4b1b0bd8-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8af2a5c4-2101-4920-8c89-157487780b65-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:53:55Z"
     },
     "fansly": {
         "id": "538303649302978560",
         "username": "ephrys",
         "displayName": null,
         "version": 8,
-        "followCount": 3676,
+        "followCount": 3689,
         "statusId": 1,
-        "accountMediaLikes": 3391,
-        "postLikes": 3886,
+        "accountMediaLikes": 3401,
+        "postLikes": 3911,
         "about": "Your Big, Sassy, Gorgon Librarian.  Come down to the basement where the forbidden books are kept and see what secrets they hold♥\n\nIf you'd like to buy me gifts, my throne is available~\nhttps://throne.com/ephrys\nIf you order an outfit you'll get to enjoy the photoshoot a week before they get posted here~\n\nTips can go to ko-fi for daily treats~\nhttps://ko-fi.com/ephrys\n\n💞Lovense Affiliate💞\nhttps://www.lovense.com/r/u28kht",
         "location": "The Library",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.paqvXptXuKOc.m3u8",
                 "chatRoomId": "572256730046537728",
                 "status": 2,
-                "version": 41,
+                "version": 43,
                 "createdAt": 1697930938000,
                 "updatedAt": null,
                 "stream": {
                     "id": "572256488601427969",
-                    "historyId": "939334488092061697",
+                    "historyId": "942609718059220992",
                     "channelId": "572256488601427968",
                     "accountId": "538303649302978560",
-                    "title": "train45~ !menu",
+                    "title": "Train45~ !menu",
                     "status": 1,
-                    "viewerCount": 7,
-                    "version": 1976,
+                    "viewerCount": 8,
+                    "version": 1980,
                     "createdAt": 1697930939000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785460144000,
-                    "startedAt": 1785449153000,
+                    "lastFetchedAt": 1786239743000,
+                    "startedAt": 1786230029000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:30Z"
+        "fetchedAt": "2026-08-11T17:51:16Z"
     },
     "bluesky": {
         "did": "did:plc:di3vnalwqbwm45fzbxgb6s5s",
@@ -87,10 +88,10 @@
         "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:di3vnalwqbwm45fzbxgb6s5s/bafkreiguqqdvnfcutrog5frcwfsu2dfr5ibqbwv6kfjwauublbuezh63uu",
         "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:di3vnalwqbwm45fzbxgb6s5s/bafkreibanl6rqrkfbntc6bq62godqyvqd2lvveiiyrtpr3cbxo2elpwoam",
         "followersCount": 361,
-        "followingCount": 250,
-        "postsCount": 1734,
+        "followingCount": 251,
+        "postsCount": 1737,
         "accountCreatedAt": "2023-08-24T20:37:02.166Z",
         "profileUrl": "https://bsky.app/profile/ephrysvt.bsky.social",
-        "fetchedAt": "2026-08-09T00:23:18Z"
+        "fetchedAt": "2026-08-11T17:45:41Z"
     }
 }

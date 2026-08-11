@@ -5,14 +5,14 @@
         "login": "esmieinsitu",
         "displayName": "EsmieInSitu",
         "createdAt": "2015-06-08T19:18:16.962219Z",
-        "updatedAt": "2026-07-31T21:45:00.76922Z",
+        "updatedAt": "2026-08-04T02:58:30.489202Z",
         "description": "Your locally non-local Fish Wife archaeologist always on the hunt for more information and more fun games!",
         "primaryColorHex": "07342E",
         "followers": {
-            "totalCount": 1519
+            "totalCount": 1520
         },
         "follows": {
-            "totalCount": 440
+            "totalCount": 442
         },
         "roles": {
             "isPartner": false,
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-06-12T02:58:54.627056Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd54b574-4f0c-4315-82f8-2d779c6924cd-profile_image-70x70.jpeg",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6df8821-000d-4fee-980d-5ebbea1144f5-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd54b574-4f0c-4315-82f8-2d779c6924cd-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6df8821-000d-4fee-980d-5ebbea1144f5-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:00:17Z"
     },
     "fansly": {
         "id": "438379544353710080",
         "username": "Esmieology",
         "displayName": "Esmie",
         "version": 35,
-        "followCount": 1904,
+        "followCount": 1902,
         "statusId": 3,
         "accountMediaLikes": 2465,
         "postLikes": 3968,
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:17Z"
+        "fetchedAt": "2026-08-11T17:52:51Z"
     },
     "twitter": {
         "esmieinsitu": {
@@ -89,10 +90,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/835640012368723969/1764796119/1500x500",
             "followersCount": 2390,
             "followingCount": 1602,
-            "postsCount": 27939,
+            "postsCount": 27944,
             "accountCreatedAt": "2017-02-25T23:57:59.198Z",
             "profileUrl": "https://x.com/EsmieInSitu",
-            "fetchedAt": "2026-08-09T00:19:16Z"
+            "fetchedAt": "2026-08-11T17:41:22Z"
         }
     },
     "bluesky": {
@@ -103,10 +104,10 @@
         "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zfdvsazcmmedcf5feotoffhl/bafkreiaxjxer7kykjfzujcael4fl75jijurnbfdo7t4nmdqtknhk56pnqy",
         "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:zfdvsazcmmedcf5feotoffhl/bafkreibv72djqfsehf4xeeqrmqixstbg7cq45tyid6shsj6fvbznny4m2m",
         "followersCount": 1192,
-        "followingCount": 620,
-        "postsCount": 1335,
+        "followingCount": 621,
+        "postsCount": 1337,
         "accountCreatedAt": "2023-09-19T22:42:20.647Z",
         "profileUrl": "https://bsky.app/profile/esmieinsitu.vtubers.social",
-        "fetchedAt": "2026-08-09T00:23:30Z"
+        "fetchedAt": "2026-08-11T17:45:54Z"
     }
 }

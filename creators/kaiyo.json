@@ -5,34 +5,35 @@
         "login": "kaiyo",
         "displayName": "kaiyo",
         "createdAt": "2017-12-10T06:02:15.085829Z",
-        "updatedAt": "2026-08-03T02:56:09.342944Z",
+        "updatedAt": "2026-08-11T00:12:42.508794Z",
         "description": "i am kaiyo (pronounced kai-oh) i like chicken tenders | business email: k9kaiyo@gmail.com",
         "primaryColorHex": "AB2020",
         "followers": {
-            "totalCount": 80195
+            "totalCount": 80437
         },
         "follows": {
-            "totalCount": 563
+            "totalCount": 561
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T21:01:30.438363Z"
+            "startedAt": "2026-08-11T04:32:59.577315Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4537b1bf-fb8f-4e2a-bffa-3412a99b8e1d-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dce613a-4f70-4975-a1f2-210c46ccc868-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4537b1bf-fb8f-4e2a-bffa-3412a99b8e1d-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dce613a-4f70-4975-a1f2-210c46ccc868-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:45:27Z"
     },
     "fansly": {
         "id": "535720862519664640",
         "username": "k9exorcist",
         "displayName": "kaiyo",
         "version": 11,
-        "followCount": 15118,
+        "followCount": 15199,
         "statusId": 1,
-        "accountMediaLikes": 19145,
-        "postLikes": 25000,
+        "accountMediaLikes": 19257,
+        "postLikes": 25194,
         "about": "hey i'm kaiyo the puppy boy\n\ni post IRL photos and videos",
         "location": "",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:16Z"
+        "fetchedAt": "2026-08-11T17:48:46Z"
     },
     "twitter": {
         "k9exorcist": {
@@ -87,12 +88,12 @@
             "description": "25🇻🇳🇨🇳ㆍVA & vtuberㆍmain: @ohaiyokaiyoㆍart tag: #kaiyoknots ㆍlive: https://t.co/k1t8m4Pzfxㆍi reply here: https://t.co/D0DWpcIGy7",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2073394460617228288/zvBxcAXK_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1579811487593295872/1772866983/1500x500",
-            "followersCount": 82870,
-            "followingCount": 705,
+            "followersCount": 83079,
+            "followingCount": 704,
             "postsCount": 1861,
             "accountCreatedAt": "2022-10-11T12:29:57.232Z",
             "profileUrl": "https://x.com/k9exorcist",
-            "fetchedAt": "2026-08-08T23:56:07Z"
+            "fetchedAt": "2026-08-11T17:17:22Z"
         }
     }
 }

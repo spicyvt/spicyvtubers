@@ -9,7 +9,7 @@
         "description": "Incubus king/night club enjoyer/ASMRist/Vtuber",
         "primaryColorHex": "FFBF00",
         "followers": {
-            "totalCount": 40322
+            "totalCount": 40301
         },
         "follows": {
             "totalCount": 239
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-01-24T04:09:03.460316Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cfd228bb-3fb9-4933-88d6-7cb99661a80e-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8664dd7-02f8-44c5-bf27-02e520686519-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cfd228bb-3fb9-4933-88d6-7cb99661a80e-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8664dd7-02f8-44c5-bf27-02e520686519-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:45:39Z"
     },
     "fansly": {
         "id": "485269549826977793",
         "username": "ChanHyuk",
         "displayName": "ChanHyuk",
         "version": 6,
-        "followCount": 5693,
+        "followCount": 5690,
         "statusId": 3,
-        "accountMediaLikes": 7358,
-        "postLikes": 8566,
+        "accountMediaLikes": 7363,
+        "postLikes": 8565,
         "about": "Vtuber/Cosplayer/Asian/Streamer\nPatreon for NSFW audio patreon/chanhyukvt",
         "location": "United States",
         "streaming": {
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:16Z"
+        "fetchedAt": "2026-08-11T17:48:51Z"
     },
     "twitter": {
         "chanhyukvt": {
@@ -78,12 +79,12 @@
             "description": "Incubus white tiger Vtuber/Servant/himbo 🤍🐯 🔞 #HyukArt https://t.co/NuwlJYACes mama: @GT_DunE Rig: @eieruga alt/VA: @ChanhyukVA",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1902511137863675904/T0_fk5MJ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1563728193592360961/1715367722/1500x500",
-            "followersCount": 84379,
-            "followingCount": 1097,
+            "followersCount": 84318,
+            "followingCount": 1098,
             "postsCount": 9904,
             "accountCreatedAt": "2022-08-28T03:21:11.069Z",
             "profileUrl": "https://x.com/chanhyukvt",
-            "fetchedAt": "2026-08-08T23:56:25Z"
+            "fetchedAt": "2026-08-11T17:17:42Z"
         },
         "chanhyukva": {
             "id": "1986667863424573442",
@@ -92,12 +93,12 @@
             "description": "Cardio Bunny/ASMR 🤍",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1986670351552589824/Aw8cRJPm_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1986667863424573442/1764603448/1500x500",
-            "followersCount": 8280,
+            "followersCount": 8268,
             "followingCount": 5,
             "postsCount": 265,
             "accountCreatedAt": "2025-11-07T05:31:53.792Z",
             "profileUrl": "https://x.com/ChanhyukVA",
-            "fetchedAt": "2026-08-08T23:56:27Z"
+            "fetchedAt": "2026-08-11T17:17:44Z"
         }
     }
 }

@@ -5,14 +5,14 @@
         "login": "skeevley_pawson",
         "displayName": "Skeevley_Pawson",
         "createdAt": "2023-06-26T19:08:16.96715Z",
-        "updatedAt": "2026-07-30T01:25:30.183645Z",
+        "updatedAt": "2026-08-11T15:25:48.608863Z",
         "description": "I'm just a fox who loves to play games and hang out with friends.",
         "primaryColorHex": "8FFF00",
         "followers": {
             "totalCount": 491
         },
         "follows": {
-            "totalCount": 216
+            "totalCount": 215
         },
         "roles": {
             "isPartner": false,
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-07-22T00:01:03.163295Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e41781bf-664e-4250-99ee-086552941161-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fdd9a48-ed5b-467b-8594-a2a7f8120a29-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e41781bf-664e-4250-99ee-086552941161-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fdd9a48-ed5b-467b-8594-a2a7f8120a29-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:55:08Z"
     },
     "twitter": {
         "skeevley_pawson": {
@@ -34,10 +35,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1196215676446396416/1747735988/1500x500",
             "followersCount": 149,
             "followingCount": 42,
-            "postsCount": 328,
+            "postsCount": 329,
             "accountCreatedAt": "2019-11-17T23:57:05.828Z",
             "profileUrl": "https://x.com/Skeevley_Pawson",
-            "fetchedAt": "2026-08-09T00:10:47Z"
+            "fetchedAt": "2026-08-11T17:32:51Z"
         }
     }
 }

@@ -5,11 +5,11 @@
         "login": "cuppycakiee",
         "displayName": "CuppyCakiee",
         "createdAt": "2014-10-14T01:14:17.878274Z",
-        "updatedAt": "2026-08-01T15:15:36.78114Z",
+        "updatedAt": "2026-08-09T03:00:49.075142Z",
         "description": "Cuppy | Pastel Vampire Vtuber | 28 | They/She | Non-Binary | Please read the rules and info below! Stream is intended for a mature audience and is not for minors. ",
         "primaryColorHex": "FFDAF9",
         "followers": {
-            "totalCount": 5538
+            "totalCount": 5535
         },
         "follows": {
             "totalCount": 785
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-07-03T08:46:02.873557Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cd51542-7d60-4d12-8eea-a072a74dbe31-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/86774f04-e735-473f-8cd6-0a3966090574-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cd51542-7d60-4d12-8eea-a072a74dbe31-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/86774f04-e735-473f-8cd6-0a3966090574-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:41:04Z"
     },
     "fansly": {
         "id": "433623217521827840",
         "username": "CuppyCakiee",
         "displayName": null,
         "version": 2,
-        "followCount": 763,
+        "followCount": 761,
         "statusId": 1,
         "accountMediaLikes": 341,
-        "postLikes": 512,
+        "postLikes": 513,
         "about": "🦇 Puppy Brained Vampire Vtuber 🦇\n\n💜 F4F | F4A | Voice Acting | Fetish Content | Streams TBA 💜\n💙Free and paid content!💙\n💚Fetish List: https://www.f-list.net/c/cuppycakiee 💚\n💛Twitch: https://www.twitch.tv/cuppycakiee💛\n🧡Monthly Content and Collabs🧡\n❤️Requests Considerd❤️",
         "location": "",
         "streaming": {
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:28Z"
+        "fetchedAt": "2026-08-11T17:47:10Z"
     },
     "twitter": {
         "cuppycakiee": {
@@ -55,7 +56,7 @@
             "postsCount": null,
             "accountCreatedAt": "2014-01-21T01:18:16.897Z",
             "profileUrl": "https://x.com/CuppyCakiee",
-            "fetchedAt": "2026-08-08T23:47:36Z"
+            "fetchedAt": "2026-08-11T17:08:40Z"
         }
     }
 }

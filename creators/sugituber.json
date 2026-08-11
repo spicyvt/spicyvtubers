@@ -9,10 +9,10 @@
         "description": "An Icelandic/SE-Asian Kitsune-Oni VTuber from The Mountains! Air is thin and oxygen is scarce so Sugi may be a lil stupid!",
         "primaryColorHex": "FF0050",
         "followers": {
-            "totalCount": 462
+            "totalCount": 463
         },
         "follows": {
-            "totalCount": 176
+            "totalCount": 179
         },
         "roles": {
             "isPartner": false,
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-07-05T02:24:38.884425Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/708e9584-dde2-4f94-971e-8f0706315fe2-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4f5ba2a-6b85-4e45-bcca-6ccf9db5cedb-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/708e9584-dde2-4f94-971e-8f0706315fe2-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4f5ba2a-6b85-4e45-bcca-6ccf9db5cedb-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:44:35Z"
     },
     "fansly": {
         "id": "445430440833069056",
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:05Z"
+        "fetchedAt": "2026-08-11T17:48:30Z"
     },
     "twitter": {
         "sugituber": {
@@ -87,12 +88,12 @@
             "description": "🔞 25 🎨 @hexchu / ART ー @mu_to0610 / RIG ー @TCherimint",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2033717489813815296/inFiG5PU_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1499496360948776964/1736386647/1500x500",
-            "followersCount": 336,
+            "followersCount": 337,
             "followingCount": 395,
-            "postsCount": 2525,
+            "postsCount": 2528,
             "accountCreatedAt": "2022-03-03T21:26:39.822Z",
             "profileUrl": "https://x.com/sugituber",
-            "fetchedAt": "2026-08-08T23:54:39Z"
+            "fetchedAt": "2026-08-11T17:15:47Z"
         },
         "sugilewd": {
             "id": "1433899491388792833",
@@ -101,12 +102,12 @@
             "description": "🔞 24 / all for you, only for me — @sugituber",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2015611319680999424/gYHVhTL5_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1433899491388792833/1769394162/1500x500",
-            "followersCount": 6549,
-            "followingCount": 656,
-            "postsCount": 19626,
+            "followersCount": 6546,
+            "followingCount": 655,
+            "postsCount": 19633,
             "accountCreatedAt": "2021-09-03T21:07:47.267Z",
             "profileUrl": "https://x.com/sugilewd",
-            "fetchedAt": "2026-08-08T23:54:41Z"
+            "fetchedAt": "2026-08-11T17:15:49Z"
         },
         "sxxxugi": {
             "id": null,
@@ -120,7 +121,7 @@
             "postsCount": null,
             "accountCreatedAt": "2024-09-18T03:03:42.485Z",
             "profileUrl": "https://x.com/sxxxugi",
-            "fetchedAt": "2026-08-08T23:54:42Z"
+            "fetchedAt": "2026-08-11T17:15:51Z"
         }
     }
 }

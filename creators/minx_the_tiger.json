@@ -5,11 +5,11 @@
         "login": "minx_the_tiger",
         "displayName": "Minx_the_Tiger",
         "createdAt": "2022-02-01T01:41:31.94404Z",
-        "updatedAt": "2026-07-31T17:52:32.027004Z",
+        "updatedAt": "2026-08-10T23:17:00.587927Z",
         "description": "Hello, everyone! Welcome aboard my space ship of delights (with open bar!). My name is Minx, and I am a daiyoukai of the white tiger variety. Here, we do a variety of different things, and you're welcome to join in! 18+ only.",
         "primaryColorHex": "3F36E3",
         "followers": {
-            "totalCount": 1600
+            "totalCount": 1602
         },
         "follows": {
             "totalCount": 160
@@ -19,10 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-31T04:07:13.74267Z"
+            "startedAt": "2026-08-05T02:49:30.001239Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0baf881-0a14-4a95-9737-78ccb4d4ccd5-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f471bbf4-6f26-4821-87e2-d2b99ac705c0-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0baf881-0a14-4a95-9737-78ccb4d4ccd5-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f471bbf4-6f26-4821-87e2-d2b99ac705c0-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:54:47Z"
     },
     "twitter": {
         "minx_the_tiger": {
@@ -37,7 +38,7 @@
             "postsCount": 11715,
             "accountCreatedAt": "2022-02-20T04:25:07.332Z",
             "profileUrl": "https://x.com/Minx_the_Tiger",
-            "fetchedAt": "2026-08-09T00:10:21Z"
+            "fetchedAt": "2026-08-11T17:32:24Z"
         }
     }
 }

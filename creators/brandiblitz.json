@@ -5,7 +5,7 @@
         "login": "brandiblitz",
         "displayName": "BrandiBlitz",
         "createdAt": "2020-12-18T02:52:15.996857Z",
-        "updatedAt": "2026-07-28T17:18:49.882863Z",
+        "updatedAt": "2026-08-04T15:46:15.622369Z",
         "description": "Heya, Am BrandiBlitz! An Android Catgirl who's been stuck in this server for god knows how long! Nice to meet you~",
         "primaryColorHex": "530000",
         "followers": {
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-05-17T00:08:52.833922Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95102b3d-4c13-4ba1-bde7-0b42f903e191-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7010e0a4-7f0b-4c4c-9e87-75cbd00d15d4-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95102b3d-4c13-4ba1-bde7-0b42f903e191-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7010e0a4-7f0b-4c4c-9e87-75cbd00d15d4-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:53:34Z"
     },
     "fansly": {
         "id": "586261573492809728",
         "username": "BrandiBlitz",
         "displayName": "Brandi Blitz",
         "version": 5,
-        "followCount": 29,
+        "followCount": 27,
         "statusId": 3,
         "accountMediaLikes": 2,
         "postLikes": 8,
@@ -109,7 +110,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:30Z"
+        "fetchedAt": "2026-08-11T17:51:10Z"
     },
     "twitter": {
         "brandiblitzvt": {
@@ -119,12 +120,12 @@
             "description": "🐱Android Catgirl Vtuber | Fanart Tag #BlitziesArt | All-Purpose Tag #BlitziesUnite | LIVE: ▶️🟪⚽️🫨🕹️💙🦋 | @Twitch Affiliate | ↘️All Links↘️",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2024511391873339392/ZFfdG-go_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1328825286461444097/1773542949/1500x500",
-            "followersCount": 176,
-            "followingCount": 2164,
+            "followersCount": 175,
+            "followingCount": 2163,
             "postsCount": 6200,
             "accountCreatedAt": "2020-11-17T22:22:18.387Z",
             "profileUrl": "https://x.com/BrandiBlitzVT",
-            "fetchedAt": "2026-08-09T00:08:54Z"
+            "fetchedAt": "2026-08-11T17:30:56Z"
         }
     }
 }

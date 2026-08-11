@@ -5,34 +5,35 @@
         "login": "atramentum_x",
         "displayName": "atramentum_x",
         "createdAt": "2020-12-08T02:04:53.314356Z",
-        "updatedAt": "2026-08-02T23:31:59.880632Z",
+        "updatedAt": "2026-08-08T01:16:50.223994Z",
         "description": "18+ Lewdtuber Minors DNI I'm a script writer and professional sussy man in the internet.  I'm also the host of The Depths Podcast, a podcast devoted to all things lewdtubing! Prodigious creator of content, I do script readings, asmr and other fun stuff. I stream almost every day, see Twitter. ",
         "primaryColorHex": "FF00BE",
         "followers": {
-            "totalCount": 2517
+            "totalCount": 2521
         },
         "follows": {
-            "totalCount": 818
+            "totalCount": 822
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T04:08:57.273665Z"
+            "startedAt": "2026-08-08T04:06:56.567712Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c396c34-39e9-4d94-bc52-8af8f8a3bfff-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1f8bb37-4525-44f3-9040-277d6f0bbc1d-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c396c34-39e9-4d94-bc52-8af8f8a3bfff-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1f8bb37-4525-44f3-9040-277d6f0bbc1d-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:53:24Z"
     },
     "fansly": {
         "id": "399853029488078848",
         "username": "Atramentum_x",
         "displayName": "atramentum_x ",
         "version": 73,
-        "followCount": 2845,
+        "followCount": 2852,
         "statusId": 1,
-        "accountMediaLikes": 1493,
-        "postLikes": 2383,
+        "accountMediaLikes": 1499,
+        "postLikes": 2393,
         "about": "30s He/Him Straight\n\nScriptwriter and lewdtuber extraordinaire. \n\nStreaming games and sexy fun on Thursday nights, occasional VA work and lewds.\n\nAll IRL videos are PPV!  Subs are for stream VODs only <3",
         "location": "atramentum.ink",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iSpbp6cxp7Oj.m3u8",
                 "chatRoomId": "486752828178571264",
                 "status": 2,
-                "version": 105,
+                "version": 106,
                 "createdAt": 1677545268000,
                 "updatedAt": null,
                 "stream": {
                     "id": "486752789406429185",
-                    "historyId": "935065078632308736",
+                    "historyId": "941919436841971712",
                     "channelId": "486752789406429184",
                     "accountId": "399853029488078848",
-                    "title": "COED LEWD OVERCOOKED ",
+                    "title": "TRAIN 45!",
                     "status": 1,
-                    "viewerCount": 7,
-                    "version": 802,
+                    "viewerCount": 9,
+                    "version": 804,
                     "createdAt": 1677545268000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1784434726000,
-                    "startedAt": 1784431247000,
+                    "lastFetchedAt": 1786073248000,
+                    "startedAt": 1786065453000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:30Z"
+        "fetchedAt": "2026-08-11T17:51:10Z"
     },
     "twitter": {
         "atramentumx": {
@@ -87,12 +88,12 @@
             "description": "Scriptwriter and lewdtuber extraordinaire. \n\nHost of #thedepthspod and animal rescuer.\n\nAAPI🇺🇸\n\nEN/日本語 AVTUBER\n\n#inkyscripts \n#inkysuss \n\nMinors DNI 🔞",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1987600922722091009/LUg-owEE_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1510019910495256577/1727765739/1500x500",
-            "followersCount": 5931,
-            "followingCount": 1433,
-            "postsCount": 24005,
+            "followersCount": 5976,
+            "followingCount": 1431,
+            "postsCount": 24018,
             "accountCreatedAt": "2022-04-01T22:23:13.133Z",
             "profileUrl": "https://x.com/AtramentumX",
-            "fetchedAt": "2026-08-09T00:08:43Z"
+            "fetchedAt": "2026-08-11T17:30:45Z"
         }
     }
 }

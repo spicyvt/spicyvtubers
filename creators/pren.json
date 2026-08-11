@@ -5,11 +5,11 @@
         "login": "pren",
         "displayName": "Pren",
         "createdAt": "2013-08-25T03:39:41.93885Z",
-        "updatedAt": "2026-07-28T23:32:07.03277Z",
+        "updatedAt": "2026-08-07T23:56:51.471275Z",
         "description": "I'm a 🔥𝐬𝐮𝐜𝐜𝐮𝐛𝐮𝐬🔥 VTuber and a variety streamer! I love voice acting, making art, and playing games! ",
         "primaryColorHex": "FA6E3E",
         "followers": {
-            "totalCount": 36438
+            "totalCount": 36447
         },
         "follows": {
             "totalCount": 882
@@ -19,17 +19,18 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-29T04:58:22.211307Z"
+            "startedAt": "2026-08-08T00:41:37.448449Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63bd80ef-3220-4972-a863-77e232cf5caa-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e05fadc-aebe-4458-981b-1fdc72033b1a-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63bd80ef-3220-4972-a863-77e232cf5caa-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e05fadc-aebe-4458-981b-1fdc72033b1a-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:49:24Z"
     },
     "fansly": {
         "id": "363964545116418048",
         "username": "Pren",
         "displayName": "Pren",
         "version": 7,
-        "followCount": 2003,
+        "followCount": 2004,
         "statusId": 3,
         "accountMediaLikes": 1311,
         "postLikes": 2423,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:53Z"
+        "fetchedAt": "2026-08-11T17:50:01Z"
     },
     "twitter": {
         "pren_vt": {
@@ -50,12 +51,12 @@
             "description": "🔥Succubus 🔞 Twitch Partner, VTuber, & VA! | Art Tags: 🎨#PrenDoodle /🔞#prentai |🔥 💖💜💙 🔥| Main Model: Me! 🔥Low-Poly: @its_voxid 🔥L2D Chibi: @OrenjiAiko",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1593562639409778693/GFEGmyg3_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/910032996/1675151973/1500x500",
-            "followersCount": 8677,
+            "followersCount": 8671,
             "followingCount": 786,
             "postsCount": 19174,
             "accountCreatedAt": "2012-10-28T10:48:58.000Z",
             "profileUrl": "https://x.com/pren_vt",
-            "fetchedAt": "2026-08-09T00:02:27Z"
+            "fetchedAt": "2026-08-11T17:24:08Z"
         },
         "softcorepren": {
             "id": "1273088251369119744",
@@ -64,12 +65,12 @@
             "description": "🔞 31 | she/her | NSFW | 18+ ONLY \nPren and Sophie content OnlyFans/Fansly in my caard! \nNo IRL content\nNSFW Art Tag: #prentai\nYes, it's really Pren!",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1604845382173097984/EoiD-FDz_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1273088251369119744/1671459931/1500x500",
-            "followersCount": 1483,
+            "followersCount": 1487,
             "followingCount": 67,
             "postsCount": 352,
             "accountCreatedAt": "2020-06-17T03:01:25.912Z",
             "profileUrl": "https://x.com/softcorepren",
-            "fetchedAt": "2026-08-09T00:02:29Z"
+            "fetchedAt": "2026-08-11T17:24:10Z"
         }
     }
 }

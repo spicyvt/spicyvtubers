@@ -73,8 +73,8 @@ const OG_BG = '#0f0a12';
 const ENABLE_CREATOR_OG_IMAGE_GENERATION = false;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style204.css';
-const SCRIPT = 'script204.js';
+const STYLESHEET = 'style205.css';
+const SCRIPT = 'script205.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
@@ -231,10 +231,10 @@ function buildSpicePills(array $creator): string
             $href = $refVal !== null ? profileLink($platform['baseUrl'], $value, $refVal) : profileLink($platform['baseUrl'], $value);
             $text = mb_strtolower($value);
         }
-        $html .= pillLink('spice-pill', $href, $platform['label'] . ': ' . $text, $platform['key'], $text);
+        $html .= pillLink('spice-pill', $href, $platform['label'] . ': ' . $text, $platform['key'], $text) . ' ';
     }
     foreach (getOtherLinks($creator) as $link) {
-        $html .= pillLink('spice-pill other-pill', $link['url'], $link['url'], '', $link['label']);
+        $html .= pillLink('spice-pill other-pill', $link['url'], $link['url'], '', $link['label']) . ' ';
     }
     return $html;
 }
@@ -246,12 +246,12 @@ function buildSocialPills(array $creator): string
         if (!$handle) {
             continue;
         }
-        $html .= pillLink('x-pill', profileLink('https://x.com/', $handle), 'Twitter: ' . $handle, 'x', mb_strtolower($handle));
+        $html .= pillLink('x-pill', profileLink('https://x.com/', $handle), 'Twitter: ' . $handle, 'x', mb_strtolower($handle)) . ' ';
     }
     $bsky = $creator['bskyHandle'] ?? null;
     if (is_array($bsky) && !empty($bsky[1])) {
         $label = mb_strtolower($bsky[0] ?? $bsky[1]);
-        $html .= pillLink('x-pill', profileLink('https://bsky.app/profile/', $bsky[1]), 'Bluesky: ' . $label, 'bsky', $label);
+        $html .= pillLink('x-pill', profileLink('https://bsky.app/profile/', $bsky[1]), 'Bluesky: ' . $label, 'bsky', $label) . ' ';
     }
     return $html;
 }
@@ -277,22 +277,55 @@ function buildSameAs(array $creator, ?array $channelInfo): array
     return array_values(array_unique($sameAs));
 }
 
-function buildDescription(?string $bio, string $channel): string
+// Possessive form for generated copy: names ending in s/S get a bare
+// apostrophe (Chris'), everything else gets 's (bao's).
+function possessive(string $name): string
 {
-    $bio = trim((string) $bio);
-    if ($bio === '') {
-        return "{$channel}'s Fansly, OnlyFans and other spicy links, plus X/Bluesky socials — part of the Spicy VTubers index.";
+    return $name . (mb_strtolower(mb_substr($name, -1)) === 's' ? "'" : "'s");
+}
+
+// Joins $items into a natural English list: "A", "A & B", or "A, B & C".
+function naturalJoin(array $items): string
+{
+    if (count($items) <= 1) {
+        return $items[0] ?? '';
     }
-    $max = 155;
-    if (mb_strlen($bio) <= $max) {
-        return $bio;
+    $last = array_pop($items);
+    return implode(', ', $items) . ' & ' . $last;
+}
+
+// Always a fixed template naming every platform the creator actually has —
+// deliberately NOT the bio. A short/inconsistent per-creator bio made Google
+// ignore this tag and stitch its own snippet from page text instead (pill
+// labels running together, footer boilerplate bleeding in); a consistent,
+// on-topic description is far more likely to actually get used as the
+// search snippet.
+function buildDescription(array $creator): string
+{
+    $platforms = [];
+
+    $channelInfo = getChannelInfo($creator);
+    if ($channelInfo) {
+        $platforms[] = $channelInfo['label'];
     }
-    $truncated = mb_substr($bio, 0, $max);
-    $lastSpace = mb_strrpos($truncated, ' ');
-    if ($lastSpace !== false) {
-        $truncated = mb_substr($truncated, 0, $lastSpace);
+    foreach (spicePlatforms() as $platform) {
+        if (!empty($creator[$platform['key']])) {
+            $platforms[] = $platform['label'];
+        }
     }
-    return rtrim($truncated) . '…';
+    if (array_filter((array) ($creator['xHandles'] ?? []))) {
+        $platforms[] = 'X (Twitter)';
+    }
+    $bsky = $creator['bskyHandle'] ?? null;
+    if (is_array($bsky) && !empty($bsky[1])) {
+        $platforms[] = 'Bluesky';
+    }
+
+    if ($platforms === []) {
+        return $creator['channel'] . "'s profile on the Spicy VTubers index.";
+    }
+
+    return possessive($creator['channel']) . ' Spicy VTubers profile - ' . naturalJoin($platforms) . '.';
 }
 
 function avatarFolderForCreator(array $creator): string
@@ -504,12 +537,13 @@ function renderSiteFooter(string $scope): string
     <span>Index criteria</span>
     <svg class="criteria-toggle-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5z"/></svg>
   </button>
-  <p class="criteria-content" id="criteria-content" style="line-height: 1.45;" hidden>
+  <p class="criteria-content" id="criteria-content" style="line-height: 1.45;" hidden></p>
+  <template id="criteria-content-template">
 Twitch or YouTube channel and an X (Twitter) or Bluesky account<br>
 Streamed as a VTuber on at least one platform (SFW or NSFW)<br>
 Created or plan to create spicy audio, livestreams or IRL content on<br>
 Fansly, OnlyFans, Rplay, Joystick or Patreon
-</p>
+</template>
   <p class="site-stats" id="site-stats"></p>
   <p>Not affiliated with any platform<br> Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
 </footer>
@@ -522,8 +556,8 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $channelEsc = htmlspecialchars($channel);
     $slug = $creator['channelLower'];
     $canonical = BASE_URL . 'c/' . rawurlencode($slug) . '/';
-    $title = $channelEsc . ' — Spicy VTubers';
-    $description = htmlspecialchars(buildDescription($bio, $channel));
+    $title = $channelEsc . ' - Spicy VTubers';
+    $description = htmlspecialchars(buildDescription($creator));
     // Body-visible references are root-relative (portable across domains); only
     // meta/JSON-LD URLs below need to stay fully-qualified per the OG/schema.org spec.
     $avatarUrlRelative = avatarUrlRelativeForCreator($creator);

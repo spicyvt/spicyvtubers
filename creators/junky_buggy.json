@@ -5,7 +5,7 @@
         "login": "junky_buggy",
         "displayName": "junky_buggy",
         "createdAt": "2017-03-03T02:49:32.277403Z",
-        "updatedAt": "2026-07-23T23:43:38.117318Z",
+        "updatedAt": "2026-08-06T07:18:39.117894Z",
         "description": "I’m the shark your mother warned you about.A little emo, a little chaotic, and very good at making people fall for bad ideas.I stream daily around 7–9PM EST—come watch, or don’t. Just know I’ll be in your head either way.Sharp teeth, sharper tongue. ",
         "primaryColorHex": "FFC95C",
         "followers": {
@@ -19,10 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-24T23:46:56.031361Z"
+            "startedAt": "2026-08-06T07:18:36.670736Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/44d2f6fe-cd35-4b39-8881-2a5fc26610d6-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bf14098-8fef-4763-8cef-d623b1276975-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/44d2f6fe-cd35-4b39-8881-2a5fc26610d6-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bf14098-8fef-4763-8cef-d623b1276975-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:44:47Z"
     },
     "fansly": {
         "id": "855583381927239680",
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:05Z"
+        "fetchedAt": "2026-08-11T17:48:30Z"
     },
     "twitter": {
         "junky_buggy": {
@@ -50,12 +51,12 @@
             "description": "https://t.co/jzLERlEvww 🎨\nhttps://t.co/oQvHQnOz5Y 🎁🩷🩷🩷\nhttps://t.co/y3htuzYAGu 👾🩷🩷🩷\nhttps://t.co/tyMj5IhiF9 🎮🩷🩷🩷🩷",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2072609555905736705/ii25Wdn8_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1469031153831227403/1780985537/1500x500",
-            "followersCount": 5694,
-            "followingCount": 2613,
-            "postsCount": 6375,
+            "followersCount": 5687,
+            "followingCount": 2611,
+            "postsCount": 6386,
             "accountCreatedAt": "2021-12-09T19:48:32.022Z",
             "profileUrl": "https://x.com/Junky_Buggy",
-            "fetchedAt": "2026-08-08T23:55:03Z"
+            "fetchedAt": "2026-08-11T17:16:13Z"
         }
     }
 }

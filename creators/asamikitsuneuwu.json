@@ -5,31 +5,32 @@
         "login": "asamikitsuneuwu",
         "displayName": "AsamiKitsuneuwu",
         "createdAt": "2019-09-21T16:02:38.686324Z",
-        "updatedAt": "2026-08-03T21:49:24.290453Z",
+        "updatedAt": "2026-08-08T04:49:19.657636Z",
         "description": "🌸Just your local Kitsune that just want to enjoy streaming video games art and chat :3🌸 ♡ Hey, if you want to let me know your pronouns, just go to this link so I always remember! (And feel free to get the extension yourself!) https://pronouns.alejo.io/ ♡",
         "primaryColorHex": "B07BFF",
         "followers": {
-            "totalCount": 2880
+            "totalCount": 2890
         },
         "follows": {
-            "totalCount": 675
+            "totalCount": 682
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T06:23:52.535177Z"
+            "startedAt": "2026-08-08T06:59:51.683608Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/98e1d6a1-0788-4e0e-ad20-151f5024367d-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/38107ccb-dc78-4b7a-89c1-e0c3289792c5-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/98e1d6a1-0788-4e0e-ad20-151f5024367d-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/38107ccb-dc78-4b7a-89c1-e0c3289792c5-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:59:56Z"
     },
     "fansly": {
         "id": "766546885350535168",
         "username": "AsamiKitsune",
         "displayName": null,
         "version": 2,
-        "followCount": 235,
+        "followCount": 239,
         "statusId": 1,
         "accountMediaLikes": 192,
         "postLikes": 236,
@@ -40,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:12Z"
+        "fetchedAt": "2026-08-11T17:52:41Z"
     },
     "twitter": {
         "asami_kitsune": {
             "id": "973726479950508033",
             "handle": "asami_kitsune",
             "displayName": "Asami Kitsune🌸💜🦊",
-            "description": "200 year old Kitsune Shrine Maiden that is an aspiring voice actor Bisexual | ADHD | 🎨#asamikitpics | MDNI !!!",
+            "description": "200 year old Kitsune Shrine Maiden that is an aspiring voice actor | Bisexual | AUDHD | 🎨#asamikitpics |",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1912980545119637505/6IuKjwK5_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/973726479950508033/1784836441/1500x500",
-            "followersCount": 860,
-            "followingCount": 2252,
-            "postsCount": 1316,
+            "followersCount": 863,
+            "followingCount": 2257,
+            "postsCount": 1319,
             "accountCreatedAt": "2018-03-14T01:04:18.554Z",
             "profileUrl": "https://x.com/Asami_Kitsune",
-            "fetchedAt": "2026-08-09T00:18:40Z"
+            "fetchedAt": "2026-08-11T17:40:47Z"
         }
     }
 }

@@ -12,7 +12,7 @@
             "totalCount": 2083
         },
         "follows": {
-            "totalCount": 571
+            "totalCount": 574
         },
         "roles": {
             "isPartner": false,
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-07-31T18:46:36.54232Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/888c949f-6ccd-429b-addf-93e0032f07b1-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8284f0c-a925-447b-bcfb-36b2c856076b-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/888c949f-6ccd-429b-addf-93e0032f07b1-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8284f0c-a925-447b-bcfb-36b2c856076b-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:01:29Z"
     },
     "fansly": {
         "id": "641972827255218176",
         "username": "zumiiifraisette",
         "displayName": "Zumiii 🍓💖",
         "version": 9,
-        "followCount": 476,
+        "followCount": 485,
         "statusId": 3,
-        "accountMediaLikes": 223,
-        "postLikes": 658,
+        "accountMediaLikes": 230,
+        "postLikes": 667,
         "about": "( ꈍᴗꈍ)ﾉ*.✧ your favourite strawberry pillow princess 🍓💖 \n✦ Vtuber ✦ Artist ✦ Accepting Gifts >> https://throne.com/zumiiifraisette\n₊‧°𐐪♡𐑂°‧₊ Streams on Saturdays (some weekdays too)\n₊‧°𐐪♡𐑂°‧₊ 0300 (PHT) || 0400 (JST)",
         "location": "",
         "streaming": {
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:28Z"
+        "fetchedAt": "2026-08-11T17:53:08Z"
     },
     "twitter": {
         "zumiiifraisette": {
@@ -78,12 +79,12 @@
             "description": "( ꈍᴗꈍ)ﾉ*.✧ Your favourite strawberry farmer form hell~ #MINYUMS🍓 🖌️: @screibbles ⚙️: @_Niku_Yoku_ 🎨 #Fralette | 🔞 #Zumecchi",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2083190815896252416/tviABqFc_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1277118847699443714/1768717439/1500x500",
-            "followersCount": 2583,
-            "followingCount": 2342,
-            "postsCount": 22223,
+            "followersCount": 2588,
+            "followingCount": 2344,
+            "postsCount": 22249,
             "accountCreatedAt": "2020-06-28T05:57:23.870Z",
             "profileUrl": "https://x.com/ZumiiiFraisette",
-            "fetchedAt": "2026-08-09T00:20:54Z"
+            "fetchedAt": "2026-08-11T17:43:04Z"
         }
     }
 }

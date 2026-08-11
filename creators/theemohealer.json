@@ -5,11 +5,11 @@
         "login": "theemohealer",
         "displayName": "TheEmoHealer",
         "createdAt": "2013-11-18T05:49:39.416108Z",
-        "updatedAt": "2026-07-17T23:13:43.263645Z",
+        "updatedAt": "2026-08-09T02:58:28.693399Z",
         "description": "Find the Joy in the Dark. Rest here Lost Soul, lets pour a drink, and share a tale.",
         "primaryColorHex": "00E7E7",
         "followers": {
-            "totalCount": 2614
+            "totalCount": 2615
         },
         "follows": {
             "totalCount": 402
@@ -19,20 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-24T11:03:35.657309Z"
+            "startedAt": "2026-08-09T06:45:18.977087Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfb9e0f8-4caf-4142-9c98-8f3da591ec20-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b0052eb-45cb-4c9b-ad3a-31e7df9c7185-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfb9e0f8-4caf-4142-9c98-8f3da591ec20-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b0052eb-45cb-4c9b-ad3a-31e7df9c7185-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:44:39Z"
     },
     "fansly": {
         "id": "615101511701110784",
         "username": "TheEmoHealer",
         "displayName": null,
         "version": 4,
-        "followCount": 8453,
+        "followCount": 8548,
         "statusId": 3,
-        "accountMediaLikes": 3278,
-        "postLikes": 2939,
+        "accountMediaLikes": 3334,
+        "postLikes": 2971,
         "about": "Hello loves, I'm a Ghostly LewdTuber, eager to give you an out of body experience! \nWant to take a step towards the Dark side?\nRequests OPEN!\n[Genderfluid, Pansexual, Poly!]",
         "location": "Totally not Haunted House.",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Plu8ywN7MXOr.m3u8",
                 "chatRoomId": "633554406108835842",
                 "status": 2,
-                "version": 20,
+                "version": 23,
                 "createdAt": 1712340343000,
                 "updatedAt": null,
                 "stream": {
                     "id": "632693911357239299",
-                    "historyId": "941111775774928896",
+                    "historyId": "943525714597011456",
                     "channelId": "632693911357239298",
                     "accountId": "615101511701110784",
-                    "title": "I'd compare my Gock to a white monster can, but its cold! j-j",
+                    "title": "Need that Classic Feeling",
                     "status": 1,
-                    "viewerCount": 11,
-                    "version": 4928,
+                    "viewerCount": 7,
+                    "version": 4936,
                     "createdAt": 1712340344000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785881776000,
-                    "startedAt": 1785872892000,
+                    "lastFetchedAt": 1786463836000,
+                    "startedAt": 1786448420000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:05Z"
+        "fetchedAt": "2026-08-11T17:48:30Z"
     },
     "twitter": {
         "theerohealer": {
@@ -92,7 +93,7 @@
             "postsCount": 1120,
             "accountCreatedAt": "2022-04-20T11:20:25.268Z",
             "profileUrl": "https://x.com/TheEroHealer",
-            "fetchedAt": "2026-08-08T23:54:49Z"
+            "fetchedAt": "2026-08-11T17:16:00Z"
         },
         "theemohealer": {
             "id": "864572161582743552",
@@ -103,10 +104,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/864572161582743552/1671698619/1500x500",
             "followersCount": 842,
             "followingCount": 1039,
-            "postsCount": 8219,
+            "postsCount": 8225,
             "accountCreatedAt": "2017-05-16T20:04:01.068Z",
             "profileUrl": "https://x.com/TheEmoHealer",
-            "fetchedAt": "2026-08-08T23:54:51Z"
+            "fetchedAt": "2026-08-11T17:15:58Z"
         }
     }
 }

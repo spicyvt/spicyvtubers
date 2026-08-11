@@ -5,11 +5,11 @@
         "login": "foxyreine",
         "displayName": "FoxyReine",
         "createdAt": "2019-07-22T05:08:54.042775Z",
-        "updatedAt": "2026-07-26T22:56:01.388705Z",
+        "updatedAt": "2026-08-11T01:15:52.97653Z",
         "description": "Hello, world",
         "primaryColorHex": "64C6FF",
         "followers": {
-            "totalCount": 33289
+            "totalCount": 33303
         },
         "follows": {
             "totalCount": 295
@@ -19,20 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-28T02:46:58.616833Z"
+            "startedAt": "2026-08-11T02:04:14.783594Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7001874-7a07-4587-be0c-76be7b8f72a8-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd9a637b-0fdd-40a2-8a95-2f485070f9d8-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7001874-7a07-4587-be0c-76be7b8f72a8-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd9a637b-0fdd-40a2-8a95-2f485070f9d8-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:43:15Z"
     },
     "fansly": {
         "id": "675665729462214656",
         "username": "Foxly",
         "displayName": "Ein",
         "version": 5,
-        "followCount": 3984,
+        "followCount": 3995,
         "statusId": 1,
-        "accountMediaLikes": 10077,
-        "postLikes": 9172,
+        "accountMediaLikes": 10158,
+        "postLikes": 9279,
         "about": "Hey you 👋🏼\nWelcome to my Fansly! \nYou’re catching me right at the start 😉\n\nI’m Ein, and this is where I let my naughty side peek out 🔥🍑\nExpect hot solo & duo content, plus the best part… \nyou can actually chat with me 💌\n\nDon’t be shy! \nSubscribe, send me a message, and let’s get a little closer 💋\n\nBad day? I might have just the cure 😌✨\nGot fantasies? Let’s talk, I love making things feel personal ❤️‍🔥\n\n❌ No Guro/Vomit\n✅ 100% real — no bots, no managers, just me",
         "location": "",
         "streaming": {
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:49Z"
+        "fetchedAt": "2026-08-11T17:47:58Z"
     },
     "twitter": {
         "foxyreine": {
@@ -50,12 +51,12 @@
             "description": "I enjoy drawing cute ladies | @GamerSupps code REINE | 👏https://t.co/V3eb8ylmiB | 📩foxyreine@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1639027152153894913/f_BEuqiL_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1102604014296809472/1750289580/1500x500",
-            "followersCount": 488087,
+            "followersCount": 488275,
             "followingCount": 782,
-            "postsCount": 26329,
+            "postsCount": 26330,
             "accountCreatedAt": "2019-03-04T16:17:37.219Z",
             "profileUrl": "https://x.com/FoxyReine",
-            "fetchedAt": "2026-08-08T23:52:12Z"
+            "fetchedAt": "2026-08-11T17:13:12Z"
         },
         "foxlyein": {
             "id": "1529707671351222272",
@@ -64,12 +65,12 @@
             "description": "Virtual Cosplayer",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1878014275425648640/K7Pp74MF_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1529707671351222272/1757085690/1500x500",
-            "followersCount": 179213,
+            "followersCount": 179195,
             "followingCount": 118,
-            "postsCount": 4759,
+            "postsCount": 4760,
             "accountCreatedAt": "2022-05-26T06:15:46.837Z",
             "profileUrl": "https://x.com/foxlyein",
-            "fetchedAt": "2026-08-08T23:52:14Z"
+            "fetchedAt": "2026-08-11T17:13:14Z"
         }
     }
 }

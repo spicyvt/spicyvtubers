@@ -9,10 +9,10 @@
         "description": "Yo! I am Queen Victoria babes however, you can just call me Queen or Jassy!",
         "primaryColorHex": "507BD2",
         "followers": {
-            "totalCount": 1023
+            "totalCount": 1031
         },
         "follows": {
-            "totalCount": 128
+            "totalCount": 131
         },
         "roles": {
             "isPartner": false,
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-07-24T08:23:24.853367Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3621fbbd-ee0e-459e-810f-22cbf91e9484-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26dabdf7-d025-417c-9b51-26da0dd2d698-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3621fbbd-ee0e-459e-810f-22cbf91e9484-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26dabdf7-d025-417c-9b51-26da0dd2d698-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:58:46Z"
     },
     "fansly": {
         "id": "310901393080721408",
         "username": "JassyLazyMoo",
         "displayName": "JassyLazyMoo",
         "version": 15,
-        "followCount": 7253,
+        "followCount": 7402,
         "statusId": 3,
-        "accountMediaLikes": 3796,
-        "postLikes": 2342,
+        "accountMediaLikes": 3856,
+        "postLikes": 2358,
         "about": "Welcome to my kingdom my wonderful highlander~ My name is Jasmine Victoria. I am THE Queen Bitch! \n\nWhat can you expect from my streams and posts;\n\n👑Hentai Pics \n👑Daydream (Doujin) \n👑A lot of Blowjobs \n\nOne big rule, please don't call me cute I do not like that! \nI am a bisexual aromantic girlie (parasocial is not welcomed here) \nI AM A SWITCH!!! (Sub on stream, Dom in dm's \n\n\n\n",
         "location": "",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.kWU7tjT3YcAE.m3u8",
                 "chatRoomId": "455076030151929856",
                 "status": 2,
-                "version": 518,
+                "version": 523,
                 "createdAt": 1669992773000,
                 "updatedAt": null,
                 "stream": {
                     "id": "455075330378444801",
-                    "historyId": "940133858328715264",
+                    "historyId": "941944573519753216",
                     "channelId": "455075330378444800",
                     "accountId": "310901393080721408",
-                    "title": "WARNING: Queen is insatiable, you have been warned  (Domi) !goals !discord",
+                    "title": "Queen is tired might talk a little bit while playing Hollow Knight (Domi) ",
                     "status": 1,
-                    "viewerCount": 16,
-                    "version": 6130,
+                    "viewerCount": 7,
+                    "version": 6134,
                     "createdAt": 1669992774000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785655835000,
-                    "startedAt": 1785639738000,
+                    "lastFetchedAt": 1786084902000,
+                    "startedAt": 1786071446000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:01Z"
+        "fetchedAt": "2026-08-11T17:52:25Z"
     },
     "twitter": {
         "jassylazymoo": {
@@ -88,11 +89,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1835124638034034688/bIbYWHtT_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1479429806601261061/1726362783/1500x500",
             "followersCount": 750,
-            "followingCount": 337,
+            "followingCount": 339,
             "postsCount": 1641,
             "accountCreatedAt": "2022-01-07T12:28:57.543Z",
             "profileUrl": "https://x.com/JassyLazyMoo",
-            "fetchedAt": "2026-08-09T00:16:41Z"
+            "fetchedAt": "2026-08-11T17:38:52Z"
         },
         "jassylmoo": {
             "id": "1788106178834190336",
@@ -101,12 +102,12 @@
             "description": "IM THE SFW QUEEN OF DEGENERATES 18+ Streamer ALERT! for NSFW @JassyLazyMoo\n\nFor any VA work: jassylazymoo@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1788106363123404800/vZP7BhIT_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1788106178834190336/1715152785/1500x500",
-            "followersCount": 83,
+            "followersCount": 82,
             "followingCount": 54,
             "postsCount": 427,
             "accountCreatedAt": "2024-05-08T07:18:39.127Z",
             "profileUrl": "https://x.com/JassyLMoo",
-            "fetchedAt": "2026-08-09T00:16:43Z"
+            "fetchedAt": "2026-08-11T17:38:53Z"
         }
     }
 }

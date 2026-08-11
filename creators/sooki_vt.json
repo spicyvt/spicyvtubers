@@ -5,11 +5,11 @@
         "login": "sooki_vt",
         "displayName": "sooki_vt",
         "createdAt": "2026-01-19T20:34:42.210283Z",
-        "updatedAt": "2026-06-05T15:49:19.638242Z",
+        "updatedAt": "2026-08-05T17:09:48.763096Z",
         "description": null,
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 23
+            "totalCount": 24
         },
         "follows": {
             "totalCount": 1
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": null
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-70x70.png",
-        "bannerImageUrl": null
+        "profileImageUrl": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png",
+        "bannerImageUrl": null,
+        "fetchedAt": "2026-08-11T16:52:03Z"
     },
     "fansly": {
         "id": "827958858088460289",
         "username": "Sookicat",
         "displayName": "Sooki",
         "version": 7,
-        "followCount": 6500,
+        "followCount": 6764,
         "statusId": 3,
-        "accountMediaLikes": 12226,
-        "postLikes": 7018,
+        "accountMediaLikes": 12917,
+        "postLikes": 7177,
         "about": "The one and only succucat who likes to lay on your lap but also haunts you at night!  🦇🐈‍⬛️\n\nSometimes I'm a needy pain slut and sometimes I'm a mean Mommy...\n\nExpect spicy streams, audios and videos with 2d model as well as irl nudes and videos! \n\nCurrently streaming Tuesdays at 7pm EST and Fridays or Saturdays at 730pm EST, 🩷🩷🩷\n\nCheck out my other content here: https://sookivt.carrd.co/\n\nJoin my Discord!    https://discord.gg/Pa3kxYxM42 ",
         "location": "Under your bed",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vvjDutVAHRHS.m3u8",
                 "chatRoomId": "895496433392701440",
                 "status": 2,
-                "version": 44,
+                "version": 46,
                 "createdAt": 1774889692000,
                 "updatedAt": null,
                 "stream": {
                     "id": "895044897025826817",
-                    "historyId": "941159357784006657",
+                    "historyId": "941884981272129536",
                     "channelId": "895044897025826816",
                     "accountId": "827958858088460289",
-                    "title": "Yapping and Fapping",
+                    "title": "Make Mommy Cum",
                     "status": 1,
-                    "viewerCount": 60,
-                    "version": 110,
+                    "viewerCount": 72,
+                    "version": 112,
                     "createdAt": 1774889693000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785895677000,
-                    "startedAt": 1785884236000,
+                    "lastFetchedAt": 1786065888000,
+                    "startedAt": 1786057238000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:19Z"
+        "fetchedAt": "2026-08-11T17:50:49Z"
     },
     "twitter": {
         "sooki_vt": {
@@ -78,12 +79,12 @@
             "description": "Succucat vtuber just trying to take over the world, one O at a time. Mean girl voice with a heart of gold. \n\nModel credit: @XiaoJin27768943",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2085406048093978624/9NlyIUAD_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2010701264322207744/1772570216/1500x500",
-            "followersCount": 1839,
-            "followingCount": 33,
-            "postsCount": 139,
+            "followersCount": 1837,
+            "followingCount": 34,
+            "postsCount": 143,
             "accountCreatedAt": "2026-01-12T13:13:27.445Z",
             "profileUrl": "https://x.com/Sooki_VT",
-            "fetchedAt": "2026-08-09T00:06:51Z"
+            "fetchedAt": "2026-08-11T17:28:50Z"
         }
     }
 }

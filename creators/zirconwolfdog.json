@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2025-11-04T12:56:57.183647Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6093d09-2781-430f-a79c-2ac2191c6dd1-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fe1d0ec-8b31-462c-a25f-8ca0edd11212-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6093d09-2781-430f-a79c-2ac2191c6dd1-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fe1d0ec-8b31-462c-a25f-8ca0edd11212-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:51:15Z"
     },
     "fansly": {
         "id": "432429667216011264",
         "username": "Zirconwolfdog",
         "displayName": "Zircon ❄🐾",
         "version": 13,
-        "followCount": 7808,
+        "followCount": 7812,
         "statusId": 3,
-        "accountMediaLikes": 3523,
-        "postLikes": 3801,
+        "accountMediaLikes": 3528,
+        "postLikes": 3802,
         "about": "🌟 cringetuber NEET kemonomimi girlfail 🩵 squishy 🐾 furry 🌈 any pronouns ❄️ under your desk, on your floor, and stuck in your wall ~ vtuber & irl ✨ FREE STREAMS FRIDAYS 🍑 \n\nSpoil me!! https://throne.com/zirconwolfdog \nMy other socials!! https://zirconwolfdog.carrd.co ",
         "location": "Canada",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:09Z"
+        "fetchedAt": "2026-08-11T17:50:38Z"
     },
     "twitter": {
         "zirconwolfdog": {
@@ -87,12 +88,12 @@
             "description": "🔞 NEET puppygirl #cringetuber stuck in ur wall! ❄️ queer any/all 💙 streams on fansly, twitch, & joystick 🦴 vtuber & irl \n\nhttps://t.co/wuJwNp2J0u",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2064848031745445888/eDQvoSyc_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1524863990408417281/1758692475/1500x500",
-            "followersCount": 436,
-            "followingCount": 701,
-            "postsCount": 3760,
+            "followersCount": 438,
+            "followingCount": 700,
+            "postsCount": 3761,
             "accountCreatedAt": "2022-05-12T21:28:11.013Z",
             "profileUrl": "https://x.com/ZirconWolfdog",
-            "fetchedAt": "2026-08-09T00:05:30Z"
+            "fetchedAt": "2026-08-11T17:27:24Z"
         }
     }
 }

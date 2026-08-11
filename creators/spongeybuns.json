@@ -5,32 +5,32 @@
         "login": "spongeybuns",
         "displayName": "SpongeyBuns",
         "createdAt": "2015-01-09T03:01:21.334048Z",
-        "updatedAt": "2026-08-07T03:19:51.38469Z",
+        "updatedAt": "2026-08-11T02:22:39.900197Z",
         "description": "Hi I'm Spongey",
         "primaryColorHex": "FAB3FF",
         "followers": {
-            "totalCount": 15998
+            "totalCount": 16002
         },
         "follows": {
-            "totalCount": 831
+            "totalCount": 830
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-07T03:19:00.982331Z"
+            "startedAt": "2026-08-11T02:14:01.369564Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3607d5b-36a0-4178-b56d-d03bbb8898b4-profile_image-70x70.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3607d5b-36a0-4178-b56d-d03bbb8898b4-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a28c469-43af-419a-a1ef-302866e55df8-profile_banner-480.png",
-        "fetchedAt": "2026-08-07T22:34:54Z"
+        "fetchedAt": "2026-08-11T17:02:09Z"
     },
     "fansly": {
         "id": "658147070573555712",
         "username": "SpongeyBuns",
         "displayName": "Spongey",
         "version": 4,
-        "followCount": 3278,
+        "followCount": 3280,
         "statusId": 3,
         "accountMediaLikes": 988,
         "postLikes": 2104,
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-07T22:35:20Z"
+        "fetchedAt": "2026-08-11T17:53:24Z"
     },
     "twitter": {
         "spongeybuns": {
@@ -79,12 +79,12 @@
             "description": "Lil space demon | I'm not an alien! | Twitch Partner #DrawSponge #SpongeyBuns Parents : (artist) @ClickDraws (rig) @kvxart (3D) @Sn0wHunter",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2018841985789091841/tE3Bw4v1_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/702454201/1767786601/1500x500",
-            "followersCount": 10898,
-            "followingCount": 1555,
-            "postsCount": 6349,
+            "followersCount": 10896,
+            "followingCount": 1556,
+            "postsCount": 6353,
             "accountCreatedAt": "2012-07-18T05:47:59.000Z",
             "profileUrl": "https://x.com/SpongeyBuns",
-            "fetchedAt": "2026-08-09T00:21:58Z"
+            "fetchedAt": "2026-08-11T17:44:12Z"
         }
     }
 }

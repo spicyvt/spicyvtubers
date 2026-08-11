@@ -5,14 +5,14 @@
         "login": "yokobytes",
         "displayName": "YokoBytes",
         "createdAt": "2020-11-13T18:08:20.532745Z",
-        "updatedAt": "2026-07-29T02:01:29.115773Z",
+        "updatedAt": "2026-08-10T14:03:16.193162Z",
         "description": "Yoho I'm Yoko!🫧 A gyaru-inspired seal vtuber!🫧🦭I am a new ASMRtist live every weeknight at 8pm CST! 🌺 https://throne.com/yokobyteshttps://x.com/Yokobytes",
         "primaryColorHex": "A1F4F4",
         "followers": {
             "totalCount": 1242
         },
         "follows": {
-            "totalCount": 62
+            "totalCount": 63
         },
         "roles": {
             "isPartner": false,
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-07-29T04:01:42.898692Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8649a395-6983-47bd-99de-8bbac24164a2-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64adb081-3494-457d-818e-4d1ceea57e6f-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8649a395-6983-47bd-99de-8bbac24164a2-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64adb081-3494-457d-818e-4d1ceea57e6f-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:56:39Z"
     },
     "fansly": {
         "id": "846561512800657408",
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:51Z"
+        "fetchedAt": "2026-08-11T17:51:58Z"
     },
     "twitter": {
         "yokobytes": {
@@ -88,11 +89,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2064002993263910912/FsAO0bVn_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1964871404987232256/1781035968/1500x500",
             "followersCount": 513,
-            "followingCount": 345,
-            "postsCount": 585,
+            "followingCount": 346,
+            "postsCount": 578,
             "accountCreatedAt": "2025-09-08T02:01:21.902Z",
             "profileUrl": "https://x.com/Yokobytes",
-            "fetchedAt": "2026-08-09T00:13:21Z"
+            "fetchedAt": "2026-08-11T17:35:25Z"
         }
     }
 }

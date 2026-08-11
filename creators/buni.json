@@ -5,34 +5,35 @@
         "login": "buni",
         "displayName": "Buni",
         "createdAt": "2018-03-08T09:44:09.961468Z",
-        "updatedAt": "2026-08-04T01:10:03.351383Z",
+        "updatedAt": "2026-08-11T06:09:12.069602Z",
         "description": "🥕 I Like Redbull | Im That Adhd Bunni ‎‎ | ‎Australian Bun Bun 🥕",
         "primaryColorHex": "FF38DB",
         "followers": {
-            "totalCount": 80804
+            "totalCount": 80839
         },
         "follows": {
-            "totalCount": 702
+            "totalCount": 705
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T22:00:51.396587Z"
+            "startedAt": "2026-08-10T22:02:10.238714Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/74f72055-d8c1-4c0f-84c3-2ddd95e7314c-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7438a3c-4913-4c38-88a3-d27080346dc0-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/74f72055-d8c1-4c0f-84c3-2ddd95e7314c-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7438a3c-4913-4c38-88a3-d27080346dc0-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:40:27Z"
     },
     "fansly": {
         "id": "375936282171289600",
         "username": "Buni",
         "displayName": "Buni",
         "version": 17,
-        "followCount": 5390,
+        "followCount": 5460,
         "statusId": 3,
-        "accountMediaLikes": 1355,
-        "postLikes": 1596,
+        "accountMediaLikes": 1418,
+        "postLikes": 1660,
         "about": "BUNI 🤍 \nVirtual Buni\nVR CONTENT\nIRL CONTENT~\nCOSPLAYS\nSubscribe to see more!",
         "location": "Australia",
         "streaming": {
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:17Z"
+        "fetchedAt": "2026-08-11T17:46:53Z"
     },
     "twitter": {
         "bunivt": {
@@ -78,12 +79,12 @@
             "description": "✶ Your Dumb Bunny Vtuber, ADHD and Redbull Fueled Gamer ✶\n✶ Australian and yes the Timezone SUCKS ✶\n✶ Probably in a Subathon ✶  @StudioNekoyama  ✶",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1935480501462032385/3d7Jb9rd_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1800328128600162304/1750289487/1500x500",
-            "followersCount": 16507,
-            "followingCount": 215,
-            "postsCount": 528,
+            "followersCount": 16599,
+            "followingCount": 217,
+            "postsCount": 531,
             "accountCreatedAt": "2024-06-11T00:44:16.951Z",
             "profileUrl": "https://x.com/BuniVT",
-            "fetchedAt": "2026-08-08T23:46:25Z"
+            "fetchedAt": "2026-08-11T17:07:26Z"
         }
     }
 }

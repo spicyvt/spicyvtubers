@@ -5,11 +5,11 @@
         "login": "sweetwingsvr",
         "displayName": "SweetWingsVR",
         "createdAt": "2023-06-18T14:16:48.348485Z",
-        "updatedAt": "2026-07-02T00:56:18.690645Z",
+        "updatedAt": "2026-08-05T03:33:29.027269Z",
         "description": "bird",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 404
+            "totalCount": 405
         },
         "follows": {
             "totalCount": 16
@@ -19,20 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-02T02:29:34.093767Z"
+            "startedAt": "2026-08-05T04:58:56.250285Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4e52062-c8a7-41ee-be4f-081fac422cfa-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55e8d2fe-d903-491d-b6ea-cc9328d8c179-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4e52062-c8a7-41ee-be4f-081fac422cfa-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/55e8d2fe-d903-491d-b6ea-cc9328d8c179-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:40:18Z"
     },
     "fansly": {
         "id": "485226639370756098",
         "username": "SweetWings",
         "displayName": null,
         "version": 8,
-        "followCount": 6070,
+        "followCount": 6123,
         "statusId": 3,
-        "accountMediaLikes": 12171,
-        "postLikes": 9736,
+        "accountMediaLikes": 12240,
+        "postLikes": 9756,
         "about": "(*´∀`*) 🍧 The Cotton Candy Bubblegum Birb\nBanner: @MakinaKid\nPFP: @BlackSaikou\nhttps://linktr.ee/sweetwingsvr",
         "location": "Sugar Town",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SNKDT1FjmRUO.m3u8",
                 "chatRoomId": "520448767409790976",
                 "status": 2,
-                "version": 75,
+                "version": 77,
                 "createdAt": 1685578463000,
                 "updatedAt": null,
                 "stream": {
                     "id": "520446449637400579",
-                    "historyId": "941229260847198211",
+                    "historyId": "942852395270946816",
                     "channelId": "520446449637400578",
                     "accountId": "485226639370756098",
-                    "title": "Playing some big walk w/Hideyoshi_Ryu",
+                    "title": "Counter-Strike and Bird Gaming? SORRY FOR MISSING LAST NIGHT, HERE'S A EURO STREAM.",
                     "status": 1,
                     "viewerCount": 9,
-                    "version": 821,
+                    "version": 825,
                     "createdAt": 1685578463000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785905956000,
-                    "startedAt": 1785900903000,
+                    "lastFetchedAt": 1786294742000,
+                    "startedAt": 1786287888000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:17Z"
+        "fetchedAt": "2026-08-11T17:46:53Z"
     },
     "twitter": {
         "sweetwingsvr": {
@@ -87,12 +88,12 @@
             "description": "🍧Candy Birb🍧 Art Tag: #sweettweet\n|DAD| @InkCatLive2D |MOM| @pomidoree\nPFP: @peagade__\nBanner: @pomidoree",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2065292390521290752/OkhwD8-Z_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1625346957727133696/1756658152/1500x500",
-            "followersCount": 5729,
+            "followersCount": 5744,
             "followingCount": 127,
-            "postsCount": 973,
+            "postsCount": 975,
             "accountCreatedAt": "2023-02-14T04:11:42.821Z",
             "profileUrl": "https://x.com/SweetWingsVR",
-            "fetchedAt": "2026-08-08T23:46:12Z"
+            "fetchedAt": "2026-08-11T17:07:13Z"
         }
     }
 }

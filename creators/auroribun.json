@@ -5,7 +5,7 @@
         "login": "auroribun",
         "displayName": "AuroriBun",
         "createdAt": "2021-12-26T22:14:26.857656Z",
-        "updatedAt": "2026-08-03T18:43:53.747457Z",
+        "updatedAt": "2026-08-09T19:28:12.95496Z",
         "description": "✨ VARIETY STREAMER VTUBER ✨ From the skies to your screen, it's me! Aurori! Come chill with me, skywatchers! 🌌 ",
         "primaryColorHex": "BE95FD",
         "followers": {
@@ -19,17 +19,18 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-10T00:24:28.429831Z"
+            "startedAt": "2026-08-09T21:50:13.716365Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/915f9d77-7f80-4c0f-a4b4-d463ed55597c-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf4abbc4-2d35-4994-be1c-cdad6620ae46-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/915f9d77-7f80-4c0f-a4b4-d463ed55597c-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf4abbc4-2d35-4994-be1c-cdad6620ae46-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:48:05Z"
     },
     "fansly": {
         "id": "661618348827615232",
         "username": "RoriBun",
         "displayName": "Roribun",
         "version": 15,
-        "followCount": 54,
+        "followCount": 55,
         "statusId": 1,
         "accountMediaLikes": 24,
         "postLikes": 45,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:42Z"
+        "fetchedAt": "2026-08-11T17:49:34Z"
     },
     "twitter": {
         "auroribun": {
@@ -51,11 +52,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1974924204886970368/jHZEluB0_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1475590154454814727/1783478822/1500x500",
             "followersCount": 2837,
-            "followingCount": 818,
-            "postsCount": 9017,
+            "followingCount": 819,
+            "postsCount": 9020,
             "accountCreatedAt": "2021-12-27T22:11:44.338Z",
             "profileUrl": "https://x.com/AuroriBun",
-            "fetchedAt": "2026-08-09T00:00:19Z"
+            "fetchedAt": "2026-08-11T17:21:53Z"
         }
     }
 }

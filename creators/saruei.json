@@ -5,11 +5,11 @@
         "login": "saruei",
         "displayName": "Saruei",
         "createdAt": "2016-04-27T18:37:54.905214Z",
-        "updatedAt": "2026-08-02T17:54:49.646856Z",
+        "updatedAt": "2026-08-10T18:08:41.661069Z",
         "description": "The Woman Who Sold The World | Games & Degen Talks | Business email: None, contact through Discord | Throne Gifts: https://throne.com/saruei",
         "primaryColorHex": "FF1F61",
         "followers": {
-            "totalCount": 504837
+            "totalCount": 506105
         },
         "follows": {
             "totalCount": 142
@@ -19,20 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T18:41:43.514754Z"
+            "startedAt": "2026-08-09T21:37:12.428076Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/998a9f0c-f43a-4e8a-a7e4-42518a1591a8-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f8b8dc5-0f87-4b24-97de-d780de8a6c4f-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/998a9f0c-f43a-4e8a-a7e4-42518a1591a8-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f8b8dc5-0f87-4b24-97de-d780de8a6c4f-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:38:40Z"
     },
     "fansly": {
         "id": "347880989575356416",
         "username": "Saruei",
         "displayName": "Saruei",
         "version": 16,
-        "followCount": 148276,
+        "followCount": 148808,
         "statusId": 3,
-        "accountMediaLikes": 148846,
-        "postLikes": 186476,
+        "accountMediaLikes": 152213,
+        "postLikes": 187584,
         "about": "NSFW animations & Roleplays ASMR \n18+ ~ I hope you enjoy your stay ! ♡\nWebsites ✧ https://solo.to/saruei",
         "location": "Secret Location",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:02Z"
+        "fetchedAt": "2026-08-11T17:46:15Z"
     },
     "twitter": {
         "saruei": {
@@ -87,12 +88,12 @@
             "description": "🔞 #saruecchi 🎨#illustruei \n✧@GamerSupps Code: Saruei \n\nLinks✧https://t.co/E4Qdkppbvd",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2066297618506928128/rcgrVvA2_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/711136723623878656/1780797827/1500x500",
-            "followersCount": 625789,
-            "followingCount": 3953,
-            "postsCount": 11098,
+            "followersCount": 626477,
+            "followingCount": 3955,
+            "postsCount": 11100,
             "accountCreatedAt": "2016-03-19T10:26:21.997Z",
             "profileUrl": "https://x.com/saruei",
-            "fetchedAt": "2026-08-08T23:43:08Z"
+            "fetchedAt": "2026-08-11T17:04:00Z"
         },
         "saruecchi": {
             "id": null,
@@ -106,7 +107,7 @@
             "postsCount": null,
             "accountCreatedAt": "2022-01-31T02:04:22.450Z",
             "profileUrl": "https://x.com/Saruecchi",
-            "fetchedAt": "2026-08-08T23:43:09Z"
+            "fetchedAt": "2026-08-11T17:04:01Z"
         }
     }
 }

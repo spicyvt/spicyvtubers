@@ -9,7 +9,7 @@
         "description": "hey there im amity. a slowly growing Vtuber! Model made by SugarbombVR https://twitter.com/sugarbombvr Outfit and current body type setup by Zaibitez rigged for warudo by Spaceynerd",
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 194
+            "totalCount": 193
         },
         "follows": {
             "totalCount": 147
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-06-17T01:01:14.147787Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5e2b162-1f44-4ae7-8ebf-99c7279a77b1-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa2e83f0-7746-4b83-aece-dabce9bb6996-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5e2b162-1f44-4ae7-8ebf-99c7279a77b1-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa2e83f0-7746-4b83-aece-dabce9bb6996-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:52:37Z"
     },
     "fansly": {
         "id": "508090083581112320",
         "username": "AmityDeerWhore",
         "displayName": null,
         "version": 4,
-        "followCount": 3634,
+        "followCount": 3632,
         "statusId": 1,
         "accountMediaLikes": 13433,
         "postLikes": 18248,
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:24Z"
+        "fetchedAt": "2026-08-11T17:51:00Z"
     },
     "twitter": {
         "amitythedeer": {
@@ -78,12 +79,12 @@
             "description": "25, female, she/her\nA deer lewdtuber~\nhttps://t.co/8xCVYZVjwF my throne\n@amitythedeer.bsky.social on bluesky\nMinors will be blocked.",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2085920616939692032/7-UNvRxC_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/986890318183149569/1786157480/1500x500",
-            "followersCount": 1888,
+            "followersCount": 1886,
             "followingCount": 471,
-            "postsCount": 5422,
+            "postsCount": 5416,
             "accountCreatedAt": "2018-04-19T08:52:42.161Z",
             "profileUrl": "https://x.com/AmitytheDeer",
-            "fetchedAt": "2026-08-09T00:07:35Z"
+            "fetchedAt": "2026-08-11T17:29:37Z"
         }
     },
     "bluesky": {
@@ -98,6 +99,6 @@
         "postsCount": 307,
         "accountCreatedAt": "2023-09-19T09:08:21.455Z",
         "profileUrl": "https://bsky.app/profile/amitythedeer.bsky.social",
-        "fetchedAt": "2026-08-09T00:22:56Z"
+        "fetchedAt": "2026-08-11T17:45:15Z"
     }
 }

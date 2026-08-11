@@ -9,7 +9,7 @@
         "description": "V-Streamer  |  E-neko  |  Tester @ Bungie |  Rhythm game lover |  She/Her icon/model by @da3iann Follow me on twitter/tiktok @nekomeiko_  ",
         "primaryColorHex": "504B69",
         "followers": {
-            "totalCount": 6801
+            "totalCount": 6799
         },
         "follows": {
             "totalCount": 253
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2025-09-01T20:44:40.522188Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8ec8ad6-47e4-4785-88d4-4c69f1d18629-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0028a459-e377-4450-9af3-34ae323e7c42-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8ec8ad6-47e4-4785-88d4-4c69f1d18629-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0028a459-e377-4450-9af3-34ae323e7c42-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:58:26Z"
     },
     "fansly": {
         "id": "290357516640989184",
         "username": "nekomeiko",
         "displayName": "Meiko",
         "version": 7,
-        "followCount": 1439,
+        "followCount": 1437,
         "statusId": 3,
         "accountMediaLikes": 3369,
         "postLikes": 3281,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:01Z"
+        "fetchedAt": "2026-08-11T17:52:14Z"
     },
     "twitter": {
         "nekomeiko_": {
@@ -50,12 +51,12 @@
             "description": "Vtuber and Virtual Streamer 💜Race Queen💜2d model @da3iann 💜 3d model @pinpincololo 💜",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1805740797762920448/ThmlxXi8_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1252699676542935040/1633470334/1500x500",
-            "followersCount": 19022,
+            "followersCount": 19028,
             "followingCount": 499,
             "postsCount": 13921,
             "accountCreatedAt": "2020-04-21T20:44:19.333Z",
             "profileUrl": "https://x.com/nekomeiko_",
-            "fetchedAt": "2026-08-09T00:16:08Z"
+            "fetchedAt": "2026-08-11T17:38:17Z"
         }
     }
 }

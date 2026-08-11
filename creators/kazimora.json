@@ -5,34 +5,35 @@
         "login": "kazimora",
         "displayName": "Kazimora",
         "createdAt": "2020-12-29T02:28:07.256868Z",
-        "updatedAt": "2026-08-01T17:06:39.071806Z",
+        "updatedAt": "2026-08-11T04:25:17.83186Z",
         "description": "that one fox that goes \"BORK BORK\" 🦊Professional Dumbass :3",
         "primaryColorHex": "550100",
         "followers": {
-            "totalCount": 2663
+            "totalCount": 2675
         },
         "follows": {
-            "totalCount": 1649
+            "totalCount": 1651
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T22:15:07.263755Z"
+            "startedAt": "2026-08-11T06:53:20.909066Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19265e67-c385-450e-9e58-aaf02dd4c891-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b404e5d-0e99-42b0-a194-48630cd7662d-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19265e67-c385-450e-9e58-aaf02dd4c891-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b404e5d-0e99-42b0-a194-48630cd7662d-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:51:10Z"
     },
     "fansly": {
         "id": "558411914376388608",
         "username": "Kazimora",
         "displayName": "Kazimora ",
         "version": 5,
-        "followCount": 42,
+        "followCount": 41,
         "statusId": 1,
         "accountMediaLikes": 9,
-        "postLikes": 30,
+        "postLikes": 31,
         "about": " Oh-hey-o! Kazi here! I am a Kitsune-Yokai Shinigami Vtuber with NO IDEA what im doing LOL. How do you even use this site? OWO UH UH UH-…MOMMY MILKERS GO BRRRR... (help me ;w;) \n\nHorny on main foxy floofer~ \nWill Bork for you.\nObsessive :3\nHeadpat Slut",
         "location": "",
         "streaming": {
@@ -77,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:09Z"
+        "fetchedAt": "2026-08-11T17:50:33Z"
     },
     "twitter": {
         "kazi_mora": {
             "id": "1478128323251351554",
             "handle": "kazi_mora",
             "displayName": "🦊⛩ Kazimora ⛩🌸 {the Bork-Bork fawx} ;w;",
-            "description": "🦊Yōkai Shinigami | Headpat Enjoyer | Wholesomely Unseiso🔞| @okimiteam @WeAreTORA (Esports) | Model: @Nullasart | BORK BORK! 🖤 (he/him) | professional dumbass",
+            "description": "🦊Yōkai Shinigami | Headpat Enjoyer | Wholesomely Unseiso🔞| #Rabies @WeAreTORA (Esports) | Model: @Nullasart | BORK BORK! 🖤 (he/him) | professional dumbass",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1989827426940293120/hBPZjsmm_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1478128323251351554/1768843969/1500x500",
-            "followersCount": 3872,
-            "followingCount": 2707,
-            "postsCount": 11855,
+            "followersCount": 3875,
+            "followingCount": 2711,
+            "postsCount": 11871,
             "accountCreatedAt": "2022-01-03T22:17:28.241Z",
             "profileUrl": "https://x.com/Kazi_mora",
-            "fetchedAt": "2026-08-09T00:05:21Z"
+            "fetchedAt": "2026-08-11T17:27:14Z"
         }
     }
 }

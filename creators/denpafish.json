@@ -5,11 +5,11 @@
         "login": "denpafish",
         "displayName": "denpafish",
         "createdAt": "2022-03-13T00:41:11.273558Z",
-        "updatedAt": "2026-08-03T02:06:45.538507Z",
+        "updatedAt": "2026-08-10T05:08:26.528618Z",
         "description": "just denppy 🪱🫀",
         "primaryColorHex": "00F593",
         "followers": {
-            "totalCount": 12920
+            "totalCount": 13008
         },
         "follows": {
             "totalCount": 486
@@ -19,20 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T03:48:52.570971Z"
+            "startedAt": "2026-08-10T05:07:44.560412Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64494c5f-29d5-4cfd-8188-fbbe3c62fbfd-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3695487-74d7-4d18-acb5-6e3519dcf1a2-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64494c5f-29d5-4cfd-8188-fbbe3c62fbfd-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3695487-74d7-4d18-acb5-6e3519dcf1a2-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:38:44Z"
     },
     "fansly": {
         "id": "695363864023277569",
         "username": "mimiyamu",
         "displayName": null,
         "version": 6,
-        "followCount": 23619,
+        "followCount": 23712,
         "statusId": 1,
-        "accountMediaLikes": 36935,
-        "postLikes": 76581,
+        "accountMediaLikes": 37374,
+        "postLikes": 77195,
         "about": "i have big breasts and am very nervous!\nthis page is managed by only me, please be patient with DMs ! \n\nI post IRL NUDE videos, LEWD cosplay videos and pictures, and NSFW AUDIOS!\n\nI try to stream once a week at 10 PM est\n\nspoil me: https://throne.com/mimiyamu\n\nLinks here: https://linktr.ee/denpafish",
         "location": "",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.r0QNXONSXkaU.m3u8",
                 "chatRoomId": "696902569171103744",
                 "status": 2,
-                "version": 57,
+                "version": 59,
                 "createdAt": 1727648634000,
                 "updatedAt": null,
                 "stream": {
                     "id": "696901538165039107",
-                    "historyId": "940135405527769143",
+                    "historyId": "942689427937832960",
                     "channelId": "696901538165039106",
                     "accountId": "695363864023277569",
-                    "title": "[3DIO ASMR] practicing ear licks and kisses on you~ ❤️",
+                    "title": "[3DIO ASMR] ear kisses and pussy sounds maybe...?~ ❤️",
                     "status": 1,
-                    "viewerCount": 92,
-                    "version": 9305,
+                    "viewerCount": 95,
+                    "version": 9307,
                     "createdAt": 1727648634000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785644535000,
-                    "startedAt": 1785640107000,
+                    "lastFetchedAt": 1786253396000,
+                    "startedAt": 1786249033000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:02Z"
+        "fetchedAt": "2026-08-11T17:46:15Z"
     },
     "twitter": {
         "denpafish": {
@@ -87,12 +88,12 @@
             "description": "ASMR + Art + Streams\nvtuber who is just a normal human girl with an alien parasite piloting her brain\ni tweet things i think are funny \nart tag is #denpoptart",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2079326795992539139/29ZZv-Y4_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1038494151015247872/1727286511/1500x500",
-            "followersCount": 48387,
-            "followingCount": 6447,
-            "postsCount": 51776,
+            "followersCount": 48448,
+            "followingCount": 6441,
+            "postsCount": 51877,
             "accountCreatedAt": "2018-09-08T18:27:54.704Z",
             "profileUrl": "https://x.com/denpafish",
-            "fetchedAt": "2026-08-08T23:43:17Z"
+            "fetchedAt": "2026-08-11T17:04:10Z"
         },
         "mimiyamu": {
             "id": "1844372180114747392",
@@ -101,12 +102,12 @@
             "description": "i love boobs and having big boobs and im the worlds #1 fan of denpafish\nhttps://t.co/YrBepze0nu",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1930031425845166080/PuUrcyj4_400x400.jpg",
             "bannerImageUrl": null,
-            "followersCount": 16707,
+            "followersCount": 16719,
             "followingCount": 298,
-            "postsCount": 4873,
+            "postsCount": 4879,
             "accountCreatedAt": "2024-10-10T13:39:37.963Z",
             "profileUrl": "https://x.com/mimiyamu",
-            "fetchedAt": "2026-08-08T23:43:19Z"
+            "fetchedAt": "2026-08-11T17:04:12Z"
         }
     }
 }

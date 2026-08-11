@@ -5,33 +5,34 @@
         "login": "kureepy",
         "displayName": "Kureepy",
         "createdAt": "2018-02-28T06:55:57.258478Z",
-        "updatedAt": "2026-07-31T11:19:11.604878Z",
+        "updatedAt": "2026-08-08T06:59:28.187095Z",
         "description": "I'm Kureep-y but cute~! 💌Business: kureepybusiness@gmail.com",
         "primaryColorHex": "AE0003",
         "followers": {
-            "totalCount": 55997
+            "totalCount": 56089
         },
         "follows": {
-            "totalCount": 399
+            "totalCount": 401
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-01T09:30:21.790047Z"
+            "startedAt": "2026-08-08T11:23:46.425536Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cd4affb-ceba-45a6-8e8f-08f920423393-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2bebaad-539e-42cc-ac62-c07ed503b009-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cd4affb-ceba-45a6-8e8f-08f920423393-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2bebaad-539e-42cc-ac62-c07ed503b009-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:45:00Z"
     },
     "fansly": {
         "id": "451330564394332160",
         "username": "Kureamy",
         "displayName": "Kureamy",
         "version": 16,
-        "followCount": 5175,
+        "followCount": 5169,
         "statusId": 3,
-        "accountMediaLikes": 1426,
+        "accountMediaLikes": 1427,
         "postLikes": 2807,
         "about": "\n~indefinite hiatus~",
         "location": "",
@@ -85,7 +86,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:10Z"
+        "fetchedAt": "2026-08-11T17:48:35Z"
     },
     "twitter": {
         "kureepyvtuber": {
@@ -95,12 +96,12 @@
             "description": "☠️Bratty Vampire Pwincess ☠️ | 🎨#KureepyArt | \n\n🩸Banner: @YuArima2\n\n💌: kureepybusiness@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2083105443967320064/7OPUD0cY_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/994674747215495168/1785486140/1500x500",
-            "followersCount": 16486,
+            "followersCount": 16485,
             "followingCount": 653,
-            "postsCount": 3310,
+            "postsCount": 3311,
             "accountCreatedAt": "2018-05-10T20:25:14.709Z",
             "profileUrl": "https://x.com/KureepyVtuber",
-            "fetchedAt": "2026-08-08T23:55:25Z"
+            "fetchedAt": "2026-08-11T17:16:37Z"
         }
     }
 }

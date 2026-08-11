@@ -5,11 +5,11 @@
         "login": "magykrose",
         "displayName": "MagykRose",
         "createdAt": "2014-10-28T08:29:43.752Z",
-        "updatedAt": "2026-08-01T22:03:57.326151Z",
+        "updatedAt": "2026-08-11T00:16:01.137234Z",
         "description": "Hiya~! Call me Magyk; please come and chill with me ~Nya",
         "primaryColorHex": "000000",
         "followers": {
-            "totalCount": 3489
+            "totalCount": 3486
         },
         "follows": {
             "totalCount": 581
@@ -19,17 +19,18 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T00:59:14.358734Z"
+            "startedAt": "2026-08-11T03:16:35.358312Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67a21be7-368d-426d-9cdc-d3b02d66e619-profile_image-70x70.jpeg",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/130d88bd-8a5f-45c9-9343-dc830b9751f1-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67a21be7-368d-426d-9cdc-d3b02d66e619-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/130d88bd-8a5f-45c9-9343-dc830b9751f1-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:48:29Z"
     },
     "fansly": {
         "id": "288262643100164096",
         "username": "Magyk",
         "displayName": null,
         "version": 3,
-        "followCount": 307,
+        "followCount": 308,
         "statusId": 1,
         "accountMediaLikes": 727,
         "postLikes": 673,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:42Z"
+        "fetchedAt": "2026-08-11T17:49:44Z"
     },
     "twitter": {
         "magykrose": {
@@ -50,12 +51,12 @@
             "description": "Official Account 🔞\nV.L.A Commander since 2018\n#ENVtuber\n |Twitch Affiliate|Mod @KawaiiOathmeal @Lanfear_VR |Lust Queen of Misfits|\n🎨~ #NyagykArts",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2080742270715023360/Kbe_2E3x_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/870930847/1675372741/1500x500",
-            "followersCount": 2507,
-            "followingCount": 1399,
-            "postsCount": 41089,
+            "followersCount": 2514,
+            "followingCount": 1400,
+            "postsCount": 41094,
             "accountCreatedAt": "2012-10-10T01:47:06.000Z",
             "profileUrl": "https://x.com/MagykRose",
-            "fetchedAt": "2026-08-09T00:00:53Z"
+            "fetchedAt": "2026-08-11T17:22:30Z"
         }
     }
 }

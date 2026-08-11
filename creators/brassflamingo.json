@@ -7,10 +7,11 @@
         "description": "SynthV producer that loves Kasane Teto a normal amount",
         "channelUrl": "https://www.youtube.com/channel/UCjgQwx67AoGiLr4djovyczg",
         "keywords": "",
-        "profileImageUrl": "https://yt3.googleusercontent.com/4CDv_tzQ8iU065bBNba_StTm4hvLB7EFZUnKJTBl0O9g1gcdRF3Hk1z-5OmSLIj6P10D_kVH7gY=s70",
-        "bannerImageUrl": "https://yt3.googleusercontent.com/YqN0eoKjtdpOySeB7GtJF9YGhlv01SBaskEeOoi0nHuzp47obAiZNJV6LuvAA5RneQuxyVDnvvU=s480",
+        "profileImageUrl": "https://yt3.googleusercontent.com/4CDv_tzQ8iU065bBNba_StTm4hvLB7EFZUnKJTBl0O9g1gcdRF3Hk1z-5OmSLIj6P10D_kVH7gY=h300",
+        "bannerImageUrl": "https://yt3.googleusercontent.com/YqN0eoKjtdpOySeB7GtJF9YGhlv01SBaskEeOoi0nHuzp47obAiZNJV6LuvAA5RneQuxyVDnvvU=h480",
         "subscriberCountText": "12 subscribers",
-        "videoCountText": "4 videos"
+        "videoCountText": "4 videos",
+        "fetchedAt": "2026-08-11T16:53:36Z"
     },
     "fansly": {
         "id": "348713742093000704",
@@ -73,7 +74,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:30Z"
+        "fetchedAt": "2026-08-11T17:51:10Z"
     },
     "bluesky": {
         "did": "did:plc:vqqcived76dpq6regiagxxr2",
@@ -87,6 +88,6 @@
         "postsCount": 16,
         "accountCreatedAt": "2025-09-15T13:18:28.098Z",
         "profileUrl": "https://bsky.app/profile/brassflamingomusic.bsky.social",
-        "fetchedAt": "2026-08-09T00:23:08Z"
+        "fetchedAt": "2026-08-11T17:45:29Z"
     }
 }

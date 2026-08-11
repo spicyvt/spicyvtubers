@@ -5,11 +5,11 @@
         "login": "millanoire",
         "displayName": "MillaNoire",
         "createdAt": "2021-07-09T15:15:22.575193Z",
-        "updatedAt": "2026-08-02T20:42:31.239131Z",
+        "updatedAt": "2026-08-08T23:09:52.155052Z",
         "description": "Black Hole girl wants to get to know you, come hang out &lt;3",
         "primaryColorHex": "FF6A00",
         "followers": {
-            "totalCount": 34821
+            "totalCount": 34869
         },
         "follows": {
             "totalCount": 211
@@ -19,17 +19,18 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T22:53:39.332171Z"
+            "startedAt": "2026-08-09T02:02:58.845428Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b72c65f-017a-4a44-9682-d7c81427f587-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/908d2fdf-2813-4691-9297-12784d2006d6-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b72c65f-017a-4a44-9682-d7c81427f587-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/908d2fdf-2813-4691-9297-12784d2006d6-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:39:22Z"
     },
     "fansly": {
         "id": "595707298358239232",
         "username": "MillaNoire",
         "displayName": null,
         "version": 3,
-        "followCount": 4068,
+        "followCount": 4070,
         "statusId": 1,
         "accountMediaLikes": 1259,
         "postLikes": 1254,
@@ -77,7 +78,7 @@
             },
             "enabled": false
         },
-        "fetchedAt": "2026-08-05T16:12:07Z"
+        "fetchedAt": "2026-08-11T17:46:31Z"
     },
     "twitter": {
         "millanoire": {
@@ -87,12 +88,12 @@
             "description": "🧡⚫Scrimblo Bimbo, head empty, titties full ⚫🧡\nStream: https://t.co/HLE6VFnl2m\nArt tags: #millustrations #millewds\nLinks: https://t.co/yK8i8JfJcc",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1993134074261590016/UtGGVYYS_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1413525385296453641/1764035169/1500x500",
-            "followersCount": 60580,
-            "followingCount": 1383,
-            "postsCount": 10011,
+            "followersCount": 60609,
+            "followingCount": 1381,
+            "postsCount": 10024,
             "accountCreatedAt": "2021-07-09T15:48:39.405Z",
             "profileUrl": "https://x.com/MillaNoire",
-            "fetchedAt": "2026-08-08T23:44:33Z"
+            "fetchedAt": "2026-08-11T17:05:29Z"
         }
     }
 }

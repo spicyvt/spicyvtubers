@@ -5,11 +5,11 @@
         "login": "adonisthuul",
         "displayName": "AdonisThuul",
         "createdAt": "2020-12-24T04:30:21.741526Z",
-        "updatedAt": "2026-07-31T17:49:07.209988Z",
+        "updatedAt": "2026-08-11T11:48:44.347097Z",
         "description": "Eldritch Space Pirate Vtuber just plundering his way across the universe looking for fresh meat to join his crewthulu!",
         "primaryColorHex": "EB0400",
         "followers": {
-            "totalCount": 3813
+            "totalCount": 3829
         },
         "follows": {
             "totalCount": 1434
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-07-26T15:42:48.092004Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/132f4ed9-277b-489b-81b3-cffa0375d67c-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22fb2a7e-a80c-48a2-901d-8e8efbe48413-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/132f4ed9-277b-489b-81b3-cffa0375d67c-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22fb2a7e-a80c-48a2-901d-8e8efbe48413-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:43:58Z"
     },
     "fansly": {
         "id": "450475452193054721",
         "username": "AdonisThuul",
         "displayName": "Adonis Thuul",
         "version": 5,
-        "followCount": 424,
+        "followCount": 432,
         "statusId": 1,
-        "accountMediaLikes": 633,
-        "postLikes": 922,
+        "accountMediaLikes": 637,
+        "postLikes": 929,
         "about": "Tentacle Daddy. Eldritch Space Pirate Vtuber & Lewdtuber! IRL Content, Audios, Vtuber Art & Weekly Streams. 8\" 😉\n🐙: https://throne.me/adonis\n🐙: https://twitch.tv/adonisthuul\n\nAll content is under copyright. Enforced by bruqi.com.",
         "location": "Under your bed",
         "streaming": {
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:00Z"
+        "fetchedAt": "2026-08-11T17:48:14Z"
     },
     "twitter": {
         "adonisthuul": {
@@ -78,12 +79,12 @@
             "description": "Eldritch Space Pirate VTUBER (2.0 Debut 2026) | MDNI | ART: @/loriscea RIG: @Etoillach | email: adonisthuul@gmail.com | https://t.co/kZ5QupZoWb",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2062963389907763200/H-8WkTwO_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1555705881693630465/1780683488/1500x500",
-            "followersCount": 18182,
-            "followingCount": 1288,
-            "postsCount": 28527,
+            "followersCount": 18185,
+            "followingCount": 1290,
+            "postsCount": 28538,
             "accountCreatedAt": "2022-08-06T00:03:22.439Z",
             "profileUrl": "https://x.com/AdonisThuul",
-            "fetchedAt": "2026-08-08T23:53:29Z"
+            "fetchedAt": "2026-08-11T17:14:33Z"
         },
         "adonisunleashed": {
             "id": "1720614826009878528",
@@ -93,11 +94,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1995620664133242880/C91b5FTL_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1720614826009878528/1765336081/1500x500",
             "followersCount": 254,
-            "followingCount": 359,
+            "followingCount": 360,
             "postsCount": 788,
             "accountCreatedAt": "2023-11-04T01:32:25.093Z",
             "profileUrl": "https://x.com/AdonisUnleashed",
-            "fetchedAt": "2026-08-08T23:53:31Z"
+            "fetchedAt": "2026-08-11T17:14:35Z"
         }
     }
 }

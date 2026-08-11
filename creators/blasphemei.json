@@ -9,10 +9,10 @@
         "description": "♡ Hi ! Welcome to my Twitch channel! Here I’ll be streaming a variety of games! Come chat with me, I won't bite, ʜᴀʀᴅ. ♡",
         "primaryColorHex": "24172C",
         "followers": {
-            "totalCount": 676
+            "totalCount": 678
         },
         "follows": {
-            "totalCount": 110
+            "totalCount": 109
         },
         "roles": {
             "isPartner": false,
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2025-09-27T05:00:24.028079Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b55f5caa-104d-422f-a1ee-fbf8f0248149-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d2e459b-b72d-4c76-8ed4-f86760f9c541-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b55f5caa-104d-422f-a1ee-fbf8f0248149-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d2e459b-b72d-4c76-8ed4-f86760f9c541-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:52:19Z"
     },
     "fansly": {
         "id": "627115857163591680",
         "username": "Blasphemei",
         "displayName": "Mei💜",
         "version": 9,
-        "followCount": 20946,
+        "followCount": 21125,
         "statusId": 3,
-        "accountMediaLikes": 14986,
-        "postLikes": 7194,
+        "accountMediaLikes": 15349,
+        "postLikes": 7206,
         "about": "╭───────────────────────╮\n      ♡૮ • ﻌ -づ~🦴ꜱᴜᴄᴄᴜ-ᴘᴜᴘ ɪɴ ʜᴇᴀᴛ ♡\n                ʜᴀʟꜰ ʙᴀᴛ, ʜᴀʟꜰ ʙʀᴀᴛ 🦇\n    🔗【 https://blasphemei.carrd.co 】\n╰───────────────────────╯\n🎁【 https://throne.com/blasphemei 】\n💗【 https://www.lovense.com/r/wy3lt2 】\n\n\n All content is under copyright. Enforced by bruqi.com.",
         "location": "Virtual Reality",
         "streaming": {
@@ -48,34 +49,26 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "722710600739725313",
-                    "historyId": "941130473818574848",
+                    "historyId": "941876139587039232",
                     "channelId": "722710600739725312",
                     "accountId": "627115857163591680",
                     "title": "˗ˏˋ  𝗖𝗛𝗔𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 ➜ 📜 !menu ⚡ !vibes 😈 !toycontrol 🎁 !throne  🔗 !socials  🍆 !lovense  ˎˊ˗",
                     "status": 1,
-                    "viewerCount": 22,
-                    "version": 8705,
+                    "viewerCount": 28,
+                    "version": 8713,
                     "createdAt": 1733801994000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785885349000,
-                    "startedAt": 1785877350000,
+                    "lastFetchedAt": 1786061005000,
+                    "startedAt": 1786055130000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "941130329425461248",
+                                "id": "943215693157908480",
                                 "streamId": "722710600739725313",
                                 "type": 0,
-                                "flags": 10,
+                                "flags": 2,
                                 "price": 0,
-                                "metadata": "{\"8\":\"{\\\"minAmount\\\":5000}\"}"
-                            },
-                            {
-                                "id": "941130329425461249",
-                                "streamId": "722710600739725313",
-                                "type": 0,
-                                "flags": 4,
-                                "price": 0,
-                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                                "metadata": ""
                             }
                         ]
                     }
@@ -85,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:19Z"
+        "fetchedAt": "2026-08-11T17:50:54Z"
     },
     "twitter": {
         "blasphemeii": {
@@ -95,12 +88,12 @@
             "description": "╭♱- \n│🦇​𝗦𝘂𝗰𝗰𝘂-𝗽𝘂𝗽𝗽𝘆𝗯𝗮𝘁\n│🎙ʟᴇᴡᴅᴛᴜʙᴇʀ ᴀꜱᴍʀᴛɪꜱᴛ \n│🎨 #TemptMei \n│🔞@BlasphemeiVT\n╰♱-",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1993553124791853056/0o0ewfH7_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1971309529540472832/1764135079/1500x500",
-            "followersCount": 202,
+            "followersCount": 203,
             "followingCount": 43,
             "postsCount": 10,
             "accountCreatedAt": "2025-09-25T20:23:25.919Z",
             "profileUrl": "https://x.com/Blasphemeii",
-            "fetchedAt": "2026-08-09T00:07:11Z"
+            "fetchedAt": "2026-08-11T17:29:11Z"
         },
         "blasphemeivt": {
             "id": null,
@@ -108,13 +101,13 @@
             "displayName": "Mei 💜🦇 PuppiBat VTuber",
             "description": "╭───────────────────────╮\n      ♡૮ • ﻌ -づ~🦴ꜱᴜᴄᴄᴜ-ᴘᴜᴘ ɪɴ ʜᴇᴀᴛ ♡\n    🔗【 https://t.co/xk2X5kEv9F 】\n╰───────────────────────╯\n\n🎨#TemptMei",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2079288801369694208/y6qXmQLj_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1562252307144019968/1784576974/1500x500",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1562252307144019968/1786461511/1500x500",
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": "2022-08-24T01:35:59.797Z",
             "profileUrl": "https://x.com/BlasphemeiVT",
-            "fetchedAt": "2026-08-09T00:07:12Z"
+            "fetchedAt": "2026-08-11T17:29:13Z"
         }
     }
 }

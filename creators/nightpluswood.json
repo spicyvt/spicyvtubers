@@ -5,11 +5,11 @@
         "login": "nightpluswood",
         "displayName": "NightPluswood",
         "createdAt": "2020-08-14T01:30:16.154418Z",
-        "updatedAt": "2026-08-03T13:05:08.861845Z",
+        "updatedAt": "2026-08-08T16:39:23.107792Z",
         "description": "Is everybody in? Everybody in?? The Ceremony is about to begin! Here to play retro, indie, and retro indie games! I hope I get to show you something New To You!",
         "primaryColorHex": "949F75",
         "followers": {
-            "totalCount": 50
+            "totalCount": 52
         },
         "follows": {
             "totalCount": 162
@@ -19,10 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-01T10:33:50.469687Z"
+            "startedAt": "2026-08-08T16:47:00.970877Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1821f476-a003-47f4-8e95-2636ab393b1e-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50aa1820-fdbe-438a-8a7c-5ca6ba887cfe-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1821f476-a003-47f4-8e95-2636ab393b1e-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50aa1820-fdbe-438a-8a7c-5ca6ba887cfe-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:58:03Z"
     },
     "twitter": {
         "nightpluswood": {
@@ -33,11 +34,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2037177157655420928/2ooyAt5X_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1987621968385126400/1777385715/1500x500",
             "followersCount": 108,
-            "followingCount": 351,
-            "postsCount": 629,
+            "followingCount": 352,
+            "postsCount": 631,
             "accountCreatedAt": "2025-11-09T20:43:51.422Z",
             "profileUrl": "https://x.com/NightPluswood",
-            "fetchedAt": "2026-08-09T00:15:32Z"
+            "fetchedAt": "2026-08-11T17:37:40Z"
         },
         "nightmightywood": {
             "id": "1987646066729353216",
@@ -47,11 +48,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2037178661502148608/JQJz6AsQ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1987646066729353216/1777385866/1500x500",
             "followersCount": 12,
-            "followingCount": 219,
-            "postsCount": 369,
+            "followingCount": 218,
+            "postsCount": 372,
             "accountCreatedAt": "2025-11-09T22:19:27.275Z",
             "profileUrl": "https://x.com/NightMightywood",
-            "fetchedAt": "2026-08-09T00:15:34Z"
+            "fetchedAt": "2026-08-11T17:37:42Z"
         }
     }
 }

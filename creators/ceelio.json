@@ -5,24 +5,25 @@
         "login": "ceelio",
         "displayName": "ceelio",
         "createdAt": "2016-04-19T19:03:47.811438Z",
-        "updatedAt": "2026-08-01T19:26:14.606632Z",
+        "updatedAt": "2026-08-10T01:13:53.689933Z",
         "description": "Demon Sheep DJ that's stuck in the 2000s※ I do ASMR on weekdays and play games on weekends 👌🏾",
         "primaryColorHex": "320080",
         "followers": {
-            "totalCount": 12651
+            "totalCount": 12659
         },
         "follows": {
-            "totalCount": 237
+            "totalCount": 238
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T05:31:10.259641Z"
+            "startedAt": "2026-08-10T04:34:53.09933Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa3f5052-94a1-42a3-bca9-5c5a56eb1bc8-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d09b0a08-f8bc-4d7e-8a1b-082ca998fa62-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa3f5052-94a1-42a3-bca9-5c5a56eb1bc8-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d09b0a08-f8bc-4d7e-8a1b-082ca998fa62-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:57:22Z"
     },
     "twitter": {
         "ceelio_ch": {
@@ -33,11 +34,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2057350068601344000/DGGs5wLR_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1377895812529803267/1785297395/1500x500",
             "followersCount": 9376,
-            "followingCount": 714,
-            "postsCount": 20675,
+            "followingCount": 718,
+            "postsCount": 20709,
             "accountCreatedAt": "2021-04-02T08:09:12.896Z",
             "profileUrl": "https://x.com/ceelio_ch",
-            "fetchedAt": "2026-08-09T00:14:22Z"
+            "fetchedAt": "2026-08-11T17:36:27Z"
         },
         "sheepoffline": {
             "id": "1493913809693470721",
@@ -46,12 +47,12 @@
             "description": "@ceelio_ch ⬅️ main acct\ni just b saying shit\nnsfw/yap alt\n#CeeliOHNO - nsfw art",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2076875556793290752/2Hv6sHe4_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1493913809693470721/1767082912/1500x500",
-            "followersCount": 144,
+            "followersCount": 149,
             "followingCount": 277,
-            "postsCount": 3952,
+            "postsCount": 3961,
             "accountCreatedAt": "2022-02-16T11:43:13.403Z",
             "profileUrl": "https://x.com/sheepoffline",
-            "fetchedAt": "2026-08-09T00:14:24Z"
+            "fetchedAt": "2026-08-11T17:36:29Z"
         }
     }
 }

@@ -5,11 +5,11 @@
         "login": "adachi91",
         "displayName": "adachi91",
         "createdAt": "2015-03-05T16:00:41.619993Z",
-        "updatedAt": "2026-08-02T16:40:08.141321Z",
+        "updatedAt": "2026-08-08T02:47:49.329075Z",
         "description": "18+ /  Ranty/Chilly /  Safe Space /  Neurodivergent /  Cheesecake is evil /  The Best — Best — Best — of you. „Error in the Input — Segmentation fault (core dumped)” or something.",
         "primaryColorHex": "9D5097",
         "followers": {
-            "totalCount": 246
+            "totalCount": 248
         },
         "follows": {
             "totalCount": 64
@@ -19,10 +19,11 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T01:06:06.448381Z"
+            "startedAt": "2026-08-10T23:44:30.602885Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63607a75-1286-40d8-b9d6-a5294262046f-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96c86a3e-1b5a-4831-835e-dffa393a6f0c-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63607a75-1286-40d8-b9d6-a5294262046f-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/96c86a3e-1b5a-4831-835e-dffa393a6f0c-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:53:17Z"
     },
     "bluesky": {
         "did": "did:plc:ccegthp53cf33mqler2zvxtm",
@@ -33,9 +34,9 @@
         "bannerImageUrl": null,
         "followersCount": 112,
         "followingCount": 109,
-        "postsCount": 555,
+        "postsCount": 556,
         "accountCreatedAt": "2024-08-16T17:31:28.487Z",
         "profileUrl": "https://bsky.app/profile/adachi.wiki",
-        "fetchedAt": "2026-08-09T00:22:58Z"
+        "fetchedAt": "2026-08-11T17:45:17Z"
     }
 }

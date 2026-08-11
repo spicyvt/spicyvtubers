@@ -5,34 +5,35 @@
         "login": "katelise",
         "displayName": "KatElise",
         "createdAt": "2016-03-15T01:16:23.873581Z",
-        "updatedAt": "2026-08-02T21:02:19.795292Z",
+        "updatedAt": "2026-08-07T03:14:57.68595Z",
         "description": "Arabian Caracal Aura Beast Vtuber | Owner of Kauldron Agency | Head of Sponsorships/Brand @ Socks Agency/SVA ❤️ I am: Pansexual, Married, LGBTQIA+, Autistic, ADHD, disabled, and cringe ≽(•⩊ •マ  Stay Excellent! ",
         "primaryColorHex": "D0B132",
         "followers": {
-            "totalCount": 3244
+            "totalCount": 3246
         },
         "follows": {
-            "totalCount": 795
+            "totalCount": 797
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T01:52:06.488303Z"
+            "startedAt": "2026-08-07T04:39:11.444825Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/df21a270-0427-4f0c-9b32-fa4db4acfdb3-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cd241be3-547e-44d9-a8ba-2fd336f5ccf5-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/df21a270-0427-4f0c-9b32-fa4db4acfdb3-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cd241be3-547e-44d9-a8ba-2fd336f5ccf5-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:56:19Z"
     },
     "fansly": {
         "id": "217164636154232832",
         "username": "KatElise",
         "displayName": null,
         "version": 6,
-        "followCount": 1077,
+        "followCount": 1075,
         "statusId": 1,
-        "accountMediaLikes": 309,
-        "postLikes": 554,
+        "accountMediaLikes": 311,
+        "postLikes": 556,
         "about": "Hi love 💕💕 ",
         "location": "",
         "streaming": {
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:45Z"
+        "fetchedAt": "2026-08-11T17:51:53Z"
     },
     "twitter": {
         "katelisevt": {
@@ -79,11 +80,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2001214152690315269/uAz4YhZu_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3290744759/1746124015/1500x500",
             "followersCount": 2332,
-            "followingCount": 1361,
-            "postsCount": 23372,
+            "followingCount": 1364,
+            "postsCount": 23402,
             "accountCreatedAt": "2015-05-20T02:08:07.075Z",
             "profileUrl": "https://x.com/KatEliseVT",
-            "fetchedAt": "2026-08-09T00:12:44Z"
+            "fetchedAt": "2026-08-11T17:34:46Z"
         }
     }
 }

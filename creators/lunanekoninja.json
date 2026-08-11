@@ -5,11 +5,11 @@
         "login": "lunanekoninja",
         "displayName": "LunaNekoninja",
         "createdAt": "2015-01-16T22:47:11.708462Z",
-        "updatedAt": "2026-07-30T21:04:08.614717Z",
+        "updatedAt": "2026-08-10T22:41:19.810028Z",
         "description": "Hai! I'm just a nyan that likes to play video games and share the experience with others! My main addictions are chocolate milk and Final Fantasy XIV, but that doesn't mean there aren't more!",
         "primaryColorHex": "4D0D98",
         "followers": {
-            "totalCount": 3524
+            "totalCount": 3529
         },
         "follows": {
             "totalCount": 207
@@ -19,21 +19,22 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T00:34:08.406109Z"
+            "startedAt": "2026-08-10T02:50:46.400603Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cad2ee7-76de-46b2-8939-b3963beb09d5-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb950065-380f-42d5-9cf6-d5027ccf3708-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cad2ee7-76de-46b2-8939-b3963beb09d5-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb950065-380f-42d5-9cf6-d5027ccf3708-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T17:00:22Z"
     },
     "fansly": {
         "id": "783019177932759040",
         "username": "LunaNekoninja",
         "displayName": null,
         "version": 2,
-        "followCount": 2030,
+        "followCount": 2107,
         "statusId": 3,
-        "accountMediaLikes": 11942,
-        "postLikes": 2951,
-        "about": "🦉Hai! I'm just an owlcat girl who likes to party and have a good time!😸\n\n📷DAILY PHOTOS: I release tease photos for followers, but the full stuff is for subscribers ;P Every Weekday I try to post em!📷\n\n💵All photo batches can be bought for $10 so you can keep them even if your subscription ends!💵\n\n🌑Followers - Tease Photos as I post subscriber ones\n\n🌗Half Moon - Photos every day\n\n🌕Full Moon - Eventually I will have regular video content, but right now this isn't in place. If you want to simply support me at a higher tier for now, this tier currently offers no additional benefits, but I plan to in the future.\n\n💺Throne: https://throne.com/lunanekoninja\n\n\n",
+        "accountMediaLikes": 12059,
+        "postLikes": 3008,
+        "about": "🦉Hai! I'm just an owlcat girl who likes to party and have a good time!😸\n\n📷DAILY PHOTOS: I release tease photos for followers, but the full stuff is for subscribers ;P Every Weekday I try to post em!📷\n\n💵All photo batches can be bought for $10 so you can keep them even if your subscription ends!💵\n\n🌑Followers - Tease Photos as I post subscriber ones\n\n🌗Half Moon - Photos Tues - Fri + Early Access to MMDs released on Mondays.\n\n🌕Full Moon - Exclusive access to all Fansly stream Vods and strip versions of MMDs.\n\n💺Throne: https://throne.com/lunanekoninja\n\n\n",
         "location": "",
         "streaming": {
             "accountId": "783019177932759040",
@@ -48,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "892512732836806658",
-                    "historyId": "940032952065073152",
+                    "historyId": "942575472946995202",
                     "channelId": "892512732836806657",
                     "accountId": "783019177932759040",
                     "title": "🚙Girls Trip! || Drive Beyond Horizons w @Yumiikko @Kana 🫦",
                     "status": 1,
-                    "viewerCount": 22,
-                    "version": 66,
+                    "viewerCount": 9,
+                    "version": 68,
                     "createdAt": 1774285977000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785627175000,
-                    "startedAt": 1785615680000,
+                    "lastFetchedAt": 1786231500000,
+                    "startedAt": 1786221864000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:17Z"
+        "fetchedAt": "2026-08-11T17:52:51Z"
     },
     "twitter": {
         "lunanekoninja": {
@@ -87,12 +88,12 @@
             "description": "VTuber | Twitch Affiliate | Thalassaphobic Owlcat girl | Twitch: https://t.co/lhrQ1SyvTW | Youtube: https://t.co/qRuzmSr1wi…",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2033798048896233473/lV3YR2E3_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2438550067/1773730252/1500x500",
-            "followersCount": 1652,
-            "followingCount": 402,
-            "postsCount": 3041,
+            "followersCount": 1662,
+            "followingCount": 403,
+            "postsCount": 3042,
             "accountCreatedAt": "2014-04-11T13:45:52.964Z",
             "profileUrl": "https://x.com/LunaNekoninja",
-            "fetchedAt": "2026-08-09T00:19:25Z"
+            "fetchedAt": "2026-08-11T17:41:31Z"
         }
     }
 }

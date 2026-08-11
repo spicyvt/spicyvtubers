@@ -5,34 +5,35 @@
         "login": "minari_vee",
         "displayName": "Minari_Vee",
         "createdAt": "2024-10-16T21:52:54.948817Z",
-        "updatedAt": "2026-08-03T00:33:42.106579Z",
+        "updatedAt": "2026-08-10T16:35:10.967136Z",
         "description": "An お化け (obake) of sorts who frequently changes faces. But no matter the form, no matter the fantasy, she's still just someone who gives off \"tired mom just trying to relax\" vibes. Because, she is, in fact, just trying to relax.",
         "primaryColorHex": "00A3A3",
         "followers": {
-            "totalCount": 2798
+            "totalCount": 2815
         },
         "follows": {
-            "totalCount": 206
+            "totalCount": 207
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T02:27:03.683175Z"
+            "startedAt": "2026-08-10T03:34:56.24618Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e965ede-d194-4d30-a81b-183754772d62-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2246bfb5-6abd-46f5-9679-61883c25cdaa-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e965ede-d194-4d30-a81b-183754772d62-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2246bfb5-6abd-46f5-9679-61883c25cdaa-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:51:48Z"
     },
     "fansly": {
         "id": "707330232377417728",
         "username": "Minari_Vee",
         "displayName": null,
         "version": 7,
-        "followCount": 4681,
+        "followCount": 4726,
         "statusId": 3,
-        "accountMediaLikes": 5028,
-        "postLikes": 2086,
+        "accountMediaLikes": 5101,
+        "postLikes": 2115,
         "about": "5ft (152.4cm) breedable size queen, ASMRtist, obliviously asexual, exploring and learning with scuff along the way~\n\nStreams: Mon, Wed, Fri*, Sat ~19:30MDT\n(Friday's depend on if kiddos are staying the night)\n\nGifts: https://throne.com/minari_vee",
         "location": "@Minari_Vee on Twitch!",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jU7YOBxGPJlh.m3u8",
                 "chatRoomId": "848110690370600960",
                 "status": 2,
-                "version": 84,
+                "version": 87,
                 "createdAt": 1763695276000,
                 "updatedAt": null,
                 "stream": {
                     "id": "848092111503892481",
-                    "historyId": "940110260352348160",
+                    "historyId": "942660064110456832",
                     "channelId": "848092111503892480",
                     "accountId": "707330232377417728",
-                    "title": "Missed you something awful~ (Lovense: Hush 2)",
+                    "title": "[Insert Interesting Title]~ (Lovense: Hush 2)",
                     "status": 1,
-                    "viewerCount": 26,
-                    "version": 234,
+                    "viewerCount": 33,
+                    "version": 240,
                     "createdAt": 1763695276000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785640462000,
-                    "startedAt": 1785634112000,
+                    "lastFetchedAt": 1786250183000,
+                    "startedAt": 1786242033000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:14Z"
+        "fetchedAt": "2026-08-11T17:50:44Z"
     },
     "twitter": {
         "minari_vee": {
@@ -78,12 +79,12 @@
             "description": "Minari, Mina, Rin ☁ Mama-Terasu Wolf Vtuber ☁ 🔞 MDNI ☁ ASMRtist ☁ @drinkgamergirl: \"MAMATERASU\" 10% OFF ☁ Throne: https://t.co/Q3xTPrmoun",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1947544482205044736/rtE2X6bY_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1845734075664863241/1759299079/1500x500",
-            "followersCount": 385,
-            "followingCount": 1027,
+            "followersCount": 386,
+            "followingCount": 1028,
             "postsCount": 1176,
             "accountCreatedAt": "2024-10-14T07:51:46.185Z",
             "profileUrl": "https://x.com/Minari_Vee",
-            "fetchedAt": "2026-08-09T00:06:26Z"
+            "fetchedAt": "2026-08-11T17:28:25Z"
         }
     }
 }

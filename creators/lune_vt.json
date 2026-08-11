@@ -5,34 +5,35 @@
         "login": "lune_vt",
         "displayName": "lune_vt",
         "createdAt": "2019-06-05T20:47:04.484993Z",
-        "updatedAt": "2026-08-02T23:43:14.440949Z",
+        "updatedAt": "2026-08-10T01:20:19.102113Z",
         "description": "¿Ya te bañaste? ",
         "primaryColorHex": "FF38DB",
         "followers": {
-            "totalCount": 5536
+            "totalCount": 5641
         },
         "follows": {
-            "totalCount": 441
+            "totalCount": 444
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T23:33:04.064155Z"
+            "startedAt": "2026-08-10T03:27:58.725849Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd6ba766-fd79-404f-8f46-c6c10478fb37-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0fbeca5-cb30-42a0-b5b5-c350322678f8-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd6ba766-fd79-404f-8f46-c6c10478fb37-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0fbeca5-cb30-42a0-b5b5-c350322678f8-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:45:23Z"
     },
     "fansly": {
         "id": "870819772843958272",
         "username": "LuneVT",
         "displayName": "LuneVT",
         "version": 5,
-        "followCount": 4804,
+        "followCount": 4988,
         "statusId": 1,
-        "accountMediaLikes": 712,
-        "postLikes": 996,
+        "accountMediaLikes": 721,
+        "postLikes": 1036,
         "about": "🌙 Hi, I'm LuneVT, your favorite in the virtual world ✨\n\nI'm a VTuber and adult content creator. I'm a mix of sweetness, playfulness, and a mischievous touch that appears when you least expect it. I love playing with fantasy, roleplaying, and connecting closely with those who stay by my side.\n\nHere you'll find exclusive, intimate content full of personality:\n💜 Flirty and sensual vibes\n🎮 Unique VTuber moments\n🌙 A space where you can relax, feel desired, and enjoy yourself\n\nI'm not just something you look at…\nI'm an experience you feel 👀💞\n.\n.\n.\n🌙 Hola, soy LuneVT tu favorita del mundo virtual ✨\n\nSoy VTuber y creadora de contenido +18, Soy una mezcla de dulzura, picardía y un toque travieso que aparece cuando menos lo esperas. Me encanta jugar con la fantasía, el roleplay y la conexión cercana con quienes se quedan a mi lado.\n\nAquí encontrarás contenido exclusivo, íntimo y lleno de personalidad:\n💜 Vibes coquetas y sensuales\n🎮 Momentos VTuber únicos\n🌙 Un espacio donde puedes relajarte, sentirte deseado y disfrutar\n\nNo soy solo algo que miras…\nSoy una experiencia que se siente 👀💞",
         "location": "",
         "streaming": {
@@ -43,39 +44,39 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.v2cAZvuqvmQ0.m3u8",
                 "chatRoomId": "876742660591730688",
                 "status": 2,
-                "version": 54,
+                "version": 56,
                 "createdAt": 1770523119000,
                 "updatedAt": null,
                 "stream": {
                     "id": "876730162920583169",
-                    "historyId": "940903761839149056",
+                    "historyId": "942690185777278976",
                     "channelId": "876730162920583168",
                     "accountId": "870819772843958272",
-                    "title": "¡¡ESPECIAL CONEJITA!!! LISTA PARA SALTAR SOBRE TI  | TIER 5 🔥| !power !whislist !redes",
+                    "title": "VEN PAPI TE EXTRAÑO🔥| !power !whislist !redes ",
                     "status": 1,
-                    "viewerCount": 3,
-                    "version": 84,
+                    "viewerCount": 90,
+                    "version": 86,
                     "createdAt": 1770523120000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785830939000,
-                    "startedAt": 1785823298000,
+                    "lastFetchedAt": 1786257160000,
+                    "startedAt": 1786249214000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "940903606758957056",
+                                "id": "942688170183512064",
+                                "streamId": "876730162920583169",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "942688170183512065",
                                 "streamId": "876730162920583169",
                                 "type": 0,
                                 "flags": 6,
                                 "price": 0,
-                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"905562039227805696\\\"}\"}"
-                            },
-                            {
-                                "id": "940903606758957057",
-                                "streamId": "876730162920583169",
-                                "type": 0,
-                                "flags": 10,
-                                "price": 0,
-                                "metadata": "{\"8\":\"{\\\"minAmount\\\":200000}\"}"
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
                             }
                         ]
                     }
@@ -85,22 +86,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:16Z"
+        "fetchedAt": "2026-08-11T17:48:46Z"
     },
     "twitter": {
         "lunevt": {
             "id": "1551611009340772357",
             "handle": "lunevt",
             "displayName": "๋LuneVT ⚝",
-            "description": "୧ LuneVT | Vtuber de Temu \nCreadora de Contenido   ♩  #LunevtArt #LunevtArtnsfw\n@LuneVTNSFW\n\nREDES | https://t.co/1BJvy3xKLw",
+            "description": "୧ LuneVT | Vtuber de Temu \nCreadora de Contenido   ♩  #LunevtArt #LunevtArtnsfw\nREDES | https://t.co/1BJvy3xcVY",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2067301322756378624/2WJKxo5A_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551611009340772357/1781718037/1500x500",
-            "followersCount": 1942,
-            "followingCount": 257,
-            "postsCount": 1200,
+            "followersCount": 1953,
+            "followingCount": 261,
+            "postsCount": 1205,
             "accountCreatedAt": "2022-07-25T16:51:22.067Z",
             "profileUrl": "https://x.com/Lunevt",
-            "fetchedAt": "2026-08-08T23:56:00Z"
+            "fetchedAt": "2026-08-11T17:17:15Z"
         },
         "lunevtnsfw": {
             "id": "2019178271972175872",
@@ -109,12 +110,12 @@
             "description": "Cuenta Horny 🔞 de @lunevt ❤️\nhttps://t.co/KSjfOdZDny",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2066318232080777216/2W7YfxuC_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2019178271972175872/1781483658/1500x500",
-            "followersCount": 957,
+            "followersCount": 969,
             "followingCount": 8,
-            "postsCount": 65,
+            "postsCount": 66,
             "accountCreatedAt": "2026-02-04T22:36:40.602Z",
             "profileUrl": "https://x.com/LuneVTNSFW",
-            "fetchedAt": "2026-08-08T23:56:02Z"
+            "fetchedAt": "2026-08-11T17:17:17Z"
         }
     }
 }

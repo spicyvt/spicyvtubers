@@ -5,24 +5,25 @@
         "login": "curs_saiya",
         "displayName": "curs_saiya",
         "createdAt": "2026-06-03T07:18:00.282762Z",
-        "updatedAt": "2026-08-03T17:53:18.005364Z",
+        "updatedAt": "2026-08-11T16:28:18.292581Z",
         "description": "You sound like someone I know..... Your local silly goose~!",
         "primaryColorHex": "00F0F0",
         "followers": {
-            "totalCount": 483
+            "totalCount": 523
         },
         "follows": {
-            "totalCount": 28
+            "totalCount": 29
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T22:23:24.895199Z"
+            "startedAt": "2026-08-08T02:38:13.797146Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/519ee760-7ace-4c05-86b6-90a3d11d4882-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a96d9fba-a5d7-47a3-b033-a4b0594f4dcc-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/519ee760-7ace-4c05-86b6-90a3d11d4882-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a96d9fba-a5d7-47a3-b033-a4b0594f4dcc-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:48:45Z"
     },
     "fansly": {
         "id": "488514497061855232",
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:47Z"
+        "fetchedAt": "2026-08-11T17:49:50Z"
     },
     "twitter": {
         "cursed_saiya": {
@@ -87,12 +88,12 @@
             "description": "Cat/Whale-Shark |Bratty, Gremlin, Bad Memory|\nTaken💍| 🔞  \n@VCandyOfficial 🍭\nBusiness-cursedsaiya@gmail.com\n🎨 #SaiNya",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2021223611189641217/_4EOVeSf_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1832111159924695040/1771598470/1500x500",
-            "followersCount": 2919,
-            "followingCount": 254,
-            "postsCount": 2923,
+            "followersCount": 2948,
+            "followingCount": 255,
+            "postsCount": 2955,
             "accountCreatedAt": "2024-09-06T17:38:44.519Z",
             "profileUrl": "https://x.com/Cursed_Saiya",
-            "fetchedAt": "2026-08-09T00:01:26Z"
+            "fetchedAt": "2026-08-11T17:23:01Z"
         },
         "cursedsaiya": {
             "id": "1505571925480902662",
@@ -101,12 +102,12 @@
             "description": "Main: @Cursed_Saiya\nCat-Whale-Shark | Bratty, Gremlin, Laughs easily |\nTaken💍 🔞  \nHorror streamer 🎃\n@VCandyOfficial \n\n#SaiNya",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1998420457666592768/fMBlUZoH_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1505571925480902662/1781307335/1500x500",
-            "followersCount": 2335,
+            "followersCount": 2330,
             "followingCount": 162,
-            "postsCount": 2116,
+            "postsCount": 2118,
             "accountCreatedAt": "2022-03-20T15:48:31.484Z",
             "profileUrl": "https://x.com/CursedSaiya",
-            "fetchedAt": "2026-08-09T00:01:27Z"
+            "fetchedAt": "2026-08-11T17:23:03Z"
         }
     }
 }

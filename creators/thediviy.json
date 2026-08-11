@@ -5,33 +5,34 @@
         "login": "thediviy",
         "displayName": "TheDiviy",
         "createdAt": "2015-06-28T09:31:38.301615Z",
-        "updatedAt": "2026-08-03T02:55:38.818674Z",
+        "updatedAt": "2026-08-10T13:36:34.718982Z",
         "description": "",
         "primaryColorHex": "0CC8C8",
         "followers": {
-            "totalCount": 922
+            "totalCount": 921
         },
         "follows": {
-            "totalCount": 701
+            "totalCount": 702
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T05:50:04.714821Z"
+            "startedAt": "2026-08-10T16:30:42.895743Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7ab487dd-f0a9-480a-8a82-e9d19f009e80-profile_image-70x70.png",
-        "bannerImageUrl": null
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7ab487dd-f0a9-480a-8a82-e9d19f009e80-profile_image-300x300.png",
+        "bannerImageUrl": null,
+        "fetchedAt": "2026-08-11T16:39:43Z"
     },
     "fansly": {
         "id": "329247613876445184",
         "username": "TheDiviy",
         "displayName": null,
-        "version": 6,
-        "followCount": 640,
+        "version": 7,
+        "followCount": 660,
         "statusId": 1,
-        "accountMediaLikes": 497,
+        "accountMediaLikes": 501,
         "postLikes": 419,
         "about": "Cozy Cat girl!! \nLazy horny and squishy~ ;3c",
         "location": "",
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.8AGdO5e4CZAk.m3u8",
                 "chatRoomId": "841897106158395392",
                 "status": 2,
-                "version": 17,
+                "version": 20,
                 "createdAt": 1762217685000,
                 "updatedAt": null,
                 "stream": {
                     "id": "841894648728264705",
-                    "historyId": "914817841411149824",
+                    "historyId": "941615376179949568",
                     "channelId": "841894648728264704",
                     "accountId": "329247613876445184",
-                    "title": "Chilling for a bit~",
+                    "title": "imm baaack~",
                     "status": 1,
-                    "viewerCount": 18,
-                    "version": 46,
+                    "viewerCount": 8,
+                    "version": 50,
                     "createdAt": 1762217686000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1779614957000,
-                    "startedAt": 1779603929000,
+                    "lastFetchedAt": 1785996948000,
+                    "startedAt": 1785992960000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:12Z"
+        "fetchedAt": "2026-08-11T17:46:37Z"
     },
     "twitter": {
         "thediviy": {
@@ -78,12 +79,12 @@
             "description": "Sometimes twitch stuff\nSecret power I can yell in lower case\nDms Open! :3c \nPFP: @LuluEclipsyy_\nBanner: @TeaDooie",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2018776443467997184/jjOGWXV2_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/225228201/1768430343/1500x500",
-            "followersCount": 6511,
-            "followingCount": 987,
+            "followersCount": 6510,
+            "followingCount": 988,
             "postsCount": 12110,
             "accountCreatedAt": "2010-12-11T01:36:51.000Z",
             "profileUrl": "https://x.com/TheDiviy",
-            "fetchedAt": "2026-08-08T23:45:11Z"
+            "fetchedAt": "2026-08-11T17:06:09Z"
         }
     }
 }

@@ -5,24 +5,25 @@
         "login": "mordraga0",
         "displayName": "Mordraga0",
         "createdAt": "2021-11-29T18:45:29.051638Z",
-        "updatedAt": "2026-07-30T22:10:10.335146Z",
+        "updatedAt": "2026-08-09T23:02:33.111375Z",
         "description": "Eldritch deity Vtuber | Liminal kemetic witch | 🔞 | Live ritual work & horror games on twitch | https://youtube.com/@mordraga0/ | http://throne.com/mordraga0 |",
         "primaryColorHex": "FA2929",
         "followers": {
-            "totalCount": 188
+            "totalCount": 189
         },
         "follows": {
-            "totalCount": 77
+            "totalCount": 78
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-31T02:54:54.7341Z"
+            "startedAt": "2026-08-11T04:14:31.982376Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e6e8f67-732a-4c6c-966b-0427ee11398d-profile_image-70x70.jpeg",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c76692d4-1ce1-47a7-ad44-00cc028944a0-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e6e8f67-732a-4c6c-966b-0427ee11398d-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c76692d4-1ce1-47a7-ad44-00cc028944a0-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:42:51Z"
     },
     "fansly": {
         "id": "893775072588738561",
@@ -32,7 +33,7 @@
         "followCount": 82,
         "statusId": 1,
         "accountMediaLikes": 24,
-        "postLikes": 72,
+        "postLikes": 75,
         "about": "She/they | 26 | Chaos witch | Equal parts brat and brat tamer | Devotee of Astarte so expect a decent amount of smut.",
         "location": "",
         "streaming": {
@@ -48,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "899606499133775874",
-                    "historyId": "940438079653556224",
+                    "historyId": "941871023672799232",
                     "channelId": "899606499133775873",
                     "accountId": "893775072588738561",
                     "title": "Your goddess gets fucked by mithrix~",
                     "status": 1,
-                    "viewerCount": 2,
-                    "version": 42,
+                    "viewerCount": 0,
+                    "version": 44,
                     "createdAt": 1775977263000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785713385000,
-                    "startedAt": 1785712270000,
+                    "lastFetchedAt": 1786054126000,
+                    "startedAt": 1786053911000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:21:33Z"
+        "fetchedAt": "2026-08-11T17:47:48Z"
     },
     "twitter": {
         "mordraga0": {
@@ -79,11 +80,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2068061258658594817/e-HlcMLt_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1480351800825839620/1767672321/1500x500",
             "followersCount": 556,
-            "followingCount": 215,
-            "postsCount": 3932,
+            "followingCount": 217,
+            "postsCount": 3961,
             "accountCreatedAt": "2022-01-10T01:32:46.998Z",
             "profileUrl": "https://x.com/Mordraga0",
-            "fetchedAt": "2026-08-08T23:51:30Z"
+            "fetchedAt": "2026-08-11T17:12:28Z"
         }
     }
 }

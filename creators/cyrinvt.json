@@ -5,11 +5,11 @@
         "login": "cyrinvt",
         "displayName": "CyrinVT",
         "createdAt": "2019-04-18T01:12:45.099171Z",
-        "updatedAt": "2026-08-02T01:35:33.654762Z",
+        "updatedAt": "2026-08-09T01:22:08.819753Z",
         "description": "Local failgirl streamer ",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 2505
+            "totalCount": 2517
         },
         "follows": {
             "totalCount": 7
@@ -19,21 +19,22 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T01:00:57.865292Z"
+            "startedAt": "2026-08-09T03:20:42.268188Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2df008d2-24b9-4895-9473-b0ea4ff20a6e-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39f4e135-d876-40c8-8db2-2862ae25fd10-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2df008d2-24b9-4895-9473-b0ea4ff20a6e-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39f4e135-d876-40c8-8db2-2862ae25fd10-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:45:43Z"
     },
     "fansly": {
         "id": "706771879012081664",
         "username": "CyrinVT",
         "displayName": "Cyrin",
         "version": 4,
-        "followCount": 2838,
+        "followCount": 2858,
         "statusId": 1,
-        "accountMediaLikes": 2239,
-        "postLikes": 2706,
-        "about": "https://linktr.ee/CyrinVT\n\nLoser girl streamer. Going to be posting cosplay photosets and lewd audio!\nI read and reply to all messages but I am just a gorl please be patient.\n",
+        "accountMediaLikes": 2293,
+        "postLikes": 2794,
+        "about": "Loser girl Vtuber/Lewdtuber. I stream NSFW challenges and post IRL cosplays, roleplay ASMRs and other random stuff :3\n\nI read and reply to all messages but I am just a gorl so please be patient.\n\n\nhttps://linktr.ee/CyrinVT\n\n",
         "location": "",
         "streaming": {
             "accountId": "706771879012081664",
@@ -48,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "934635639272390657",
-                    "historyId": "940828126080933888",
+                    "historyId": "942278242608373760",
                     "channelId": "934635639272390656",
                     "accountId": "706771879012081664",
                     "title": "",
                     "status": 1,
-                    "viewerCount": 9,
-                    "version": 38,
+                    "viewerCount": 28,
+                    "version": 44,
                     "createdAt": 1784328861000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785814862000,
-                    "startedAt": 1785805265000,
+                    "lastFetchedAt": 1786155251000,
+                    "startedAt": 1786150999000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:16Z"
+        "fetchedAt": "2026-08-11T17:48:51Z"
     },
     "twitter": {
         "cyrinvt": {
             "id": "1253840694738894851",
             "handle": "cyrinvt",
             "displayName": "Cyrin 🔞",
-            "description": "Loser girl streamer who may possibly be on other sites\n\n📧Management: cyrinvt.management@gmail.com",
+            "description": "Loser girl streamer who may possibly be on other sites\nNSFW art tag - #CyrinLewds | SFW tag #CyrinArt\n\n📧Management: cyrinvt.management@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2081542392721629184/GHyApsrK_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1253840694738894851/1784855485/1500x500",
-            "followersCount": 15090,
+            "followersCount": 15083,
             "followingCount": 9,
-            "postsCount": 129,
+            "postsCount": 130,
             "accountCreatedAt": "2020-04-25T00:18:21.883Z",
             "profileUrl": "https://x.com/CyrinVT",
-            "fetchedAt": "2026-08-09T00:23:59Z"
+            "fetchedAt": "2026-08-11T17:17:52Z"
         }
     }
 }

@@ -9,7 +9,7 @@
         "description": "beep boop",
         "primaryColorHex": "47C5FF",
         "followers": {
-            "totalCount": 3372
+            "totalCount": 3371
         },
         "follows": {
             "totalCount": 300
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-05-06T06:30:02.436638Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc558f05-d904-4458-a2f2-a6105d84b8cd-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cab776fd-fa46-4fca-b60f-2ced90f723cf-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc558f05-d904-4458-a2f2-a6105d84b8cd-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cab776fd-fa46-4fca-b60f-2ced90f723cf-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:59:05Z"
     },
     "fansly": {
         "id": "291714409544298496",
         "username": "AnnaKavanna",
         "displayName": null,
         "version": 4,
-        "followCount": 261,
+        "followCount": 262,
         "statusId": 1,
         "accountMediaLikes": 135,
         "postLikes": 57,
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:06Z"
+        "fetchedAt": "2026-08-11T17:52:30Z"
     },
     "twitter": {
         "annakavanna": {
@@ -87,12 +88,12 @@
             "description": "A beep boop. I may even boop while I beep. It's a mood thing.\n\nThe machines will win, but it's okay we'll do it better anyways.",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1735052696170979331/naZR122Y_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/502558702/1735344624/1500x500",
-            "followersCount": 1013,
-            "followingCount": 607,
+            "followersCount": 1014,
+            "followingCount": 608,
             "postsCount": 2004,
             "accountCreatedAt": "2012-02-25T05:59:47.000Z",
             "profileUrl": "https://x.com/Annakavanna",
-            "fetchedAt": "2026-08-09T00:17:15Z"
+            "fetchedAt": "2026-08-11T17:39:26Z"
         }
     }
 }

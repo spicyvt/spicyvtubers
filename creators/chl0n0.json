@@ -5,32 +5,32 @@
         "login": "chl0n0",
         "displayName": "chl0n0",
         "createdAt": "2018-12-21T16:30:37.26566Z",
-        "updatedAt": "2026-08-07T12:21:11.566172Z",
+        "updatedAt": "2026-08-08T22:40:22.747431Z",
         "description": "She/They, 24! Just a dummy demon girl variety streamer who plays (mostly) chill games! I like to chill and yap, so hopefully you can match my vibe! Welcome to the cult! 💜",
         "primaryColorHex": "A97BDA",
         "followers": {
-            "totalCount": 741
+            "totalCount": 750
         },
         "follows": {
-            "totalCount": 167
+            "totalCount": 169
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-06T09:26:35.472881Z"
+            "startedAt": "2026-08-11T10:45:42.5857Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4082d098-2b2d-45c9-929a-9acf249971a4-profile_image-70x70.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4082d098-2b2d-45c9-929a-9acf249971a4-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/499e7f23-93b5-47f3-b0bf-fa54da8d9abb-profile_banner-480.png",
-        "fetchedAt": "2026-08-07T22:35:09Z"
+        "fetchedAt": "2026-08-11T17:02:24Z"
     },
     "fansly": {
         "id": "820573742336847872",
         "username": "Chlozers",
         "displayName": null,
         "version": 2,
-        "followCount": 59,
+        "followCount": 61,
         "statusId": 3,
         "accountMediaLikes": 197,
         "postLikes": 167,
@@ -41,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-07T22:36:06Z"
+        "fetchedAt": "2026-08-11T17:53:24Z"
     },
     "twitter": {
         "chl0n0": {
@@ -56,7 +56,7 @@
             "postsCount": 12,
             "accountCreatedAt": "2023-06-27T18:32:18.377Z",
             "profileUrl": "https://x.com/Chl0n0",
-            "fetchedAt": "2026-08-09T00:22:15Z"
+            "fetchedAt": "2026-08-11T17:44:31Z"
         }
     }
 }

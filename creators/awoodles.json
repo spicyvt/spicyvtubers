@@ -5,11 +5,11 @@
         "login": "awoodles",
         "displayName": "awoodles",
         "createdAt": "2016-04-15T07:18:04.659785Z",
-        "updatedAt": "2026-07-27T09:53:08.543605Z",
+        "updatedAt": "2026-08-07T02:13:49.804158Z",
         "description": "just a 𝙄𝙢𝙥 𝓟𝓾𝓹𝓹𝔂 playing videogames whenever she can💜",
         "primaryColorHex": "FAC6D3",
         "followers": {
-            "totalCount": 3962
+            "totalCount": 3959
         },
         "follows": {
             "totalCount": 1040
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-07-16T09:37:25.747982Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee87b32d-835c-4014-896c-0780bbe1a691-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/06352a81-382e-4ac5-96bf-3ca694471082-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee87b32d-835c-4014-896c-0780bbe1a691-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/06352a81-382e-4ac5-96bf-3ca694471082-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:39:03Z"
     },
     "fansly": {
         "id": "738245921250222081",
@@ -31,8 +32,8 @@
         "version": 7,
         "followCount": 119,
         "statusId": 1,
-        "accountMediaLikes": 602,
-        "postLikes": 326,
+        "accountMediaLikes": 618,
+        "postLikes": 347,
         "about": "boop! you found me! ♡ i'm your favorite puppy girl, \nready to fetch, cuddle, and be the bestest girl ever for my master! (o´ωo) \ngetting spoiled with gifts makes me feel all tingly in my favorite places... it's the quickest way to make this puppy's tail wag! just a little secret between us: i don't make videos unless i'm feeling extra spoiled and taken care of. come say hi, i don't bite... unless you want me to! (´｡• ᵕ •｡)\n\n--> Will Upload when they can ; u ;  | she/her🐾he/him |",
         "location": "in the dog bed <3",
         "streaming": {
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:07Z"
+        "fetchedAt": "2026-08-11T17:46:26Z"
     },
     "twitter": {
         "awooodles": {
@@ -50,12 +51,12 @@
             "description": "🐕day / imp @ night\n- GenderFluid | Pan\n- VtuberMama: @ranranpire\n- My Manager: @gremlin_jes\n- Wives: @MayaVTuberPuppy ♡ @cupcatesvt\n🔞 @clickertrainpup",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2075467828497387520/NknPZjNo_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1417288357/1784858013/1500x500",
-            "followersCount": 2464,
-            "followingCount": 2077,
-            "postsCount": 13543,
+            "followersCount": 2466,
+            "followingCount": 2076,
+            "postsCount": 13542,
             "accountCreatedAt": "2013-05-10T05:50:00.702Z",
             "profileUrl": "https://x.com/Awooodles",
-            "fetchedAt": "2026-08-08T23:43:56Z"
+            "fetchedAt": "2026-08-11T17:04:51Z"
         },
         "clickertrainpup": {
             "id": "1650655699716780036",
@@ -64,12 +65,12 @@
             "description": "Boop! you found me! ♡ i'm your favorite puppy girl, \nready to fetch, cuddle, and be the bestest girl ever for my master! ♡  ‧˚꒰🐾୭ ˚. ᵎᵎ",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2067802521490329600/wUKdEb6v_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1650655699716780036/1766659775/1500x500",
-            "followersCount": 119,
+            "followersCount": 120,
             "followingCount": 15,
-            "postsCount": 154,
+            "postsCount": 151,
             "accountCreatedAt": "2023-04-25T00:19:32.111Z",
             "profileUrl": "https://x.com/clickertrainpup",
-            "fetchedAt": "2026-08-08T23:43:58Z"
+            "fetchedAt": "2026-08-11T17:04:53Z"
         }
     }
 }

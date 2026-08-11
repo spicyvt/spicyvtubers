@@ -5,31 +5,32 @@
         "login": "ellyen",
         "displayName": "EllyEN",
         "createdAt": "2016-12-04T08:00:20.104289Z",
-        "updatedAt": "2026-08-02T02:19:11.232683Z",
+        "updatedAt": "2026-08-11T02:28:46.499398Z",
         "description": "HI I'M ELLY❗❗ THE CRIME BOSS VTUBER! QUEEN OF CRIME!❗❗ I LOVE HEISTS, FAST CARS, AND GETTING INTO TROUBLE!! ❗❗",
         "primaryColorHex": "FA2929",
         "followers": {
-            "totalCount": 130452
+            "totalCount": 130509
         },
         "follows": {
-            "totalCount": 875
+            "totalCount": 850
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T03:29:30.324714Z"
+            "startedAt": "2026-08-11T06:35:14.89649Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f2c6d6b-afff-484f-a7c3-b4dae5639e8c-profile_image-70x70.jpeg",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/06538602-d122-4f5c-9552-347f6b7a66a7-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f2c6d6b-afff-484f-a7c3-b4dae5639e8c-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/06538602-d122-4f5c-9552-347f6b7a66a7-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:43:23Z"
     },
     "fansly": {
         "id": "493902078133940224",
         "username": "EllyEN",
         "displayName": "Elly 💋",
         "version": 6,
-        "followCount": 9953,
+        "followCount": 9960,
         "statusId": 1,
         "accountMediaLikes": 1313,
         "postLikes": 1197,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:54Z"
+        "fetchedAt": "2026-08-11T17:47:58Z"
     },
     "twitter": {
         "ellyvtuber": {
@@ -50,12 +51,12 @@
             "description": "QUEEN OF CRIME 💰♦️Lady Luck ♠️ 18+‼️🖤 @GamerSupps CODE: ELLY💲 ママ @rikito99 パパ @Oykelichanx & @iinneo @mythictalent 💌 ellyen@mythictalent.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2025911704325169152/HCxQPGwA_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1374826669194813445/1757826067/1500x500",
-            "followersCount": 127987,
+            "followersCount": 127992,
             "followingCount": 1283,
-            "postsCount": 21119,
+            "postsCount": 21126,
             "accountCreatedAt": "2021-03-24T20:53:26.785Z",
             "profileUrl": "https://x.com/EllyVtuber",
-            "fetchedAt": "2026-08-08T23:52:27Z"
+            "fetchedAt": "2026-08-11T17:13:28Z"
         }
     }
 }

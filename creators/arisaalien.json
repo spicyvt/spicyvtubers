@@ -12,7 +12,7 @@
             "totalCount": 639
         },
         "follows": {
-            "totalCount": 120
+            "totalCount": 121
         },
         "roles": {
             "isPartner": false,
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2024-09-14T20:28:25.846019Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34875c39-33d4-4b64-a874-69a61d32600e-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4fad7612-ac75-4c85-ae90-cda17bad96b2-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34875c39-33d4-4b64-a874-69a61d32600e-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4fad7612-ac75-4c85-ae90-cda17bad96b2-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:51:09Z"
     },
     "fansly": {
         "id": "519006109437009920",
         "username": "ArisaAlien",
         "displayName": null,
         "version": 12,
-        "followCount": 81,
+        "followCount": 82,
         "statusId": 3,
-        "accountMediaLikes": 5,
-        "postLikes": 22,
+        "accountMediaLikes": 6,
+        "postLikes": 24,
         "about": "A shapeshifter poisonous alien vtuber who likes drawing. I stream chill art and cozy games mostly 𐔌՞ ܸ.ˬ.ܸ՞𐦯",
         "location": "The Backrooms",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:09Z"
+        "fetchedAt": "2026-08-11T17:50:33Z"
     },
     "twitter": {
         "arisaalien": {
@@ -87,12 +88,12 @@
             "description": "Live2D | Art ♡ Open DMs•EN/PT 🔞@ParadiseArisa ♡ Art tag #ArisaArt #ParadiseArisa ♡ \n\nhttps://t.co/OLQa9g0cLr\n https://t.co/kF1wvUscMI",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2084782278996037632/NaxNRkSm_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1312918160786550784/1765903026/1500x500",
-            "followersCount": 733,
-            "followingCount": 2132,
-            "postsCount": 2303,
+            "followersCount": 735,
+            "followingCount": 2135,
+            "postsCount": 2307,
             "accountCreatedAt": "2020-10-05T00:51:06.681Z",
             "profileUrl": "https://x.com/ArisaAlien",
-            "fetchedAt": "2026-08-09T00:05:18Z"
+            "fetchedAt": "2026-08-11T17:27:10Z"
         },
         "paradisearisa": {
             "id": "1792308113225232385",
@@ -102,11 +103,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2080060178666225664/wr1Lc_dK_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1792308113225232385/1785208838/1500x500",
             "followersCount": 35,
-            "followingCount": 140,
-            "postsCount": 73,
+            "followingCount": 141,
+            "postsCount": 76,
             "accountCreatedAt": "2024-05-19T21:35:38.409Z",
             "profileUrl": "https://x.com/ParadiseArisa",
-            "fetchedAt": "2026-08-09T00:05:19Z"
+            "fetchedAt": "2026-08-11T17:27:12Z"
         }
     }
 }

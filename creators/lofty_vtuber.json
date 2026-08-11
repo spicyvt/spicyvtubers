@@ -5,31 +5,32 @@
         "login": "lofty_vtuber",
         "displayName": "Lofty_Vtuber",
         "createdAt": "2022-06-18T17:36:53.522181Z",
-        "updatedAt": "2026-08-03T15:23:07.098859Z",
+        "updatedAt": "2026-08-10T15:02:54.125653Z",
         "description": "Lofty | Host of the Sketchy Skymotel 💜⭐️ | @ADVANCEDgg Partner (use code: LOFTY) | ",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 3021
+            "totalCount": 3038
         },
         "follows": {
-            "totalCount": 401
+            "totalCount": 402
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-29T18:12:42.30421Z"
+            "startedAt": "2026-08-10T18:06:58.920554Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cee4a0bd-d8f6-4cda-aa2c-62931a5ff39c-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81844e4-78f5-486e-aa37-85ac2fc289ad-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cee4a0bd-d8f6-4cda-aa2c-62931a5ff39c-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81844e4-78f5-486e-aa37-85ac2fc289ad-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:00:25Z"
     },
     "fansly": {
         "id": "882001329701003265",
         "username": "Lofty_Vtuber",
         "displayName": "Lofty_Vtuber",
         "version": 6,
-        "followCount": 194,
+        "followCount": 198,
         "statusId": 1,
         "accountMediaLikes": 45,
         "postLikes": 82,
@@ -68,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:17Z"
+        "fetchedAt": "2026-08-11T17:52:51Z"
     },
     "twitter": {
         "lofty_vtuber": {
             "id": "1532899216074362881",
             "handle": "lofty_vtuber",
-            "displayName": "Lofty 💜⭐️ Vtuber",
-            "description": "Skylady of the Sketchy Skymotel! 💜⭐️ https://t.co/e7SLOOEWs2",
+            "displayName": "Lofty Yoru 💜⭐️",
+            "description": "Owner and proprietor of the Sketchy Skymotel (under renovation) 💜⭐️ https://t.co/e7SLOOEWs2",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2021284567303454723/T-3nA7kb_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1532899216074362881/1773146548/1500x500",
-            "followersCount": 11610,
-            "followingCount": 5222,
-            "postsCount": 4108,
+            "followersCount": 11604,
+            "followingCount": 5224,
+            "postsCount": 4110,
             "accountCreatedAt": "2022-06-04T01:37:15.588Z",
             "profileUrl": "https://x.com/Lofty_Vtuber",
-            "fetchedAt": "2026-08-09T00:19:28Z"
+            "fetchedAt": "2026-08-11T17:41:34Z"
         }
     }
 }

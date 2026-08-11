@@ -5,39 +5,40 @@
         "login": "peacedubz",
         "displayName": "PeaceDubz",
         "createdAt": "2016-03-25T02:09:04.528347Z",
-        "updatedAt": "2026-08-03T06:05:25.912221Z",
+        "updatedAt": "2026-08-08T05:20:59.435743Z",
         "description": "VTuber with way too many avatars. Coffee addict. CAUTION: MAY BITE! ⚠️",
         "primaryColorHex": "1341C4",
         "followers": {
-            "totalCount": 19874
+            "totalCount": 19989
         },
         "follows": {
-            "totalCount": 135
+            "totalCount": 134
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T21:19:48.250836Z"
+            "startedAt": "2026-08-06T15:32:53.36024Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cc51d95-b644-45ce-90c0-5a37bc827c52-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39d0c6bc-e8f5-4c2c-914d-50e64412a0a1-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cc51d95-b644-45ce-90c0-5a37bc827c52-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bac74a8-1b45-460d-af45-1e18b5255366-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:51:07Z"
     },
     "twitter": {
         "peacedubz": {
             "id": "1039697344575492098",
             "handle": "peacedubz",
             "displayName": "PeaceDubz 🔞",
-            "description": "🔥 VTuber | Twitch Partner | VA | Small Wolf, Big Dubs! 🐺 \nLIVE every Weekend ➡️ https://t.co/tmW2ct0Qb3\n✉️ Business Inquiries: contact@peacedubz.com",
+            "description": "🔥 VTuber | Twitch Partner | VA | Small Wolf, Big Dubs!\nLIVE every Weekend ➡️ https://t.co/tmW2ct0Qb3\n✉️ Business Inquiries: contact@peacedubz.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1925201034009317376/K-ZsUDxh_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1039697344575492098/1786163260/1500x500",
-            "followersCount": 11801,
-            "followingCount": 224,
-            "postsCount": 13073,
+            "followersCount": 11821,
+            "followingCount": 226,
+            "postsCount": 13075,
             "accountCreatedAt": "2018-09-12T02:08:58.367Z",
             "profileUrl": "https://x.com/PeaceDubz",
-            "fetchedAt": "2026-08-09T00:05:16Z"
+            "fetchedAt": "2026-08-11T17:27:08Z"
         }
     }
 }

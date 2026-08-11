@@ -5,24 +5,25 @@
         "login": "ladybelvoirvt",
         "displayName": "LadyBelvoirVT",
         "createdAt": "2020-11-28T13:11:35.059053Z",
-        "updatedAt": "2026-07-30T21:07:48.323786Z",
+        "updatedAt": "2026-08-08T10:46:34.417711Z",
         "description": "(Viking VTuber) A history nerd with a penchant for games. Belvoir is pronounced Beaver, like the animal, blame the Normans. I'm an early medieval reenactor. NB She/They",
         "primaryColorHex": "0A3700",
         "followers": {
-            "totalCount": 1826
+            "totalCount": 1827
         },
         "follows": {
-            "totalCount": 1425
+            "totalCount": 1424
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-30T21:38:12.758178Z"
+            "startedAt": "2026-08-08T23:14:44.367035Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d7990d0-3dc4-4d7a-95b8-6b0a0b9f510f-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6116ec94-5fe8-4f9d-84c0-349a4cedaaa6-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d7990d0-3dc4-4d7a-95b8-6b0a0b9f510f-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6116ec94-5fe8-4f9d-84c0-349a4cedaaa6-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:51:12Z"
     },
     "fansly": {
         "id": "382950059655835648",
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:09Z"
+        "fetchedAt": "2026-08-11T17:50:33Z"
     },
     "twitter": {
         "ladybelvoirttv": {
@@ -79,11 +80,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1815571795161788416/mLPAlYpd_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1401608621893500930/1662750096/1500x500",
             "followersCount": 1125,
-            "followingCount": 840,
+            "followingCount": 839,
             "postsCount": 6204,
             "accountCreatedAt": "2021-06-06T18:35:21.165Z",
             "profileUrl": "https://x.com/LadyBelvoirTTV",
-            "fetchedAt": "2026-08-09T00:05:23Z"
+            "fetchedAt": "2026-08-11T17:27:18Z"
         },
         "ladybelvoir": {
             "id": "1523679173226676226",
@@ -93,11 +94,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2050163075139923968/RK3D2Ygu_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1523679173226676226/1777631941/1500x500",
             "followersCount": 4047,
-            "followingCount": 1035,
-            "postsCount": 25197,
+            "followingCount": 1034,
+            "postsCount": 25201,
             "accountCreatedAt": "2022-05-09T15:00:09.178Z",
             "profileUrl": "https://x.com/LadyBelvoir",
-            "fetchedAt": "2026-08-09T00:05:25Z"
+            "fetchedAt": "2026-08-11T17:27:16Z"
         }
     }
 }

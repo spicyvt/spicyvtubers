@@ -5,11 +5,11 @@
         "login": "zeleethhh",
         "displayName": "Zeleethhh",
         "createdAt": "2017-06-05T19:51:38.607205Z",
-        "updatedAt": "2026-07-31T15:16:14.71945Z",
+        "updatedAt": "2026-08-06T14:05:14.759021Z",
         "description": "𝓟𝓻𝓸𝓯𝓮𝓼𝓼𝓲𝓸𝓷𝓪𝓵 𝓑𝓸𝓽𝓽𝓸𝓶 𝓜𝓪𝓼𝓱𝓮𝓻 | Snack and Chaos enthusiast | Streaming triumphs & epic fails… but let’s be honest—mostly fails. | Businessmail: zeltheracoon@gmail.com |",
         "primaryColorHex": "FF38DB",
         "followers": {
-            "totalCount": 733
+            "totalCount": 731
         },
         "follows": {
             "totalCount": 603
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-07-16T20:06:46.996987Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/65105ef9-7a05-4143-9e21-ceb29e7cad61-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5c3e45fd-0979-4ea5-981e-f7e4a6c42a71-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/65105ef9-7a05-4143-9e21-ceb29e7cad61-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5c3e45fd-0979-4ea5-981e-f7e4a6c42a71-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:46:58Z"
     },
     "fansly": {
         "id": "887568237179449344",
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:32Z"
+        "fetchedAt": "2026-08-11T17:49:18Z"
     },
     "twitter": {
         "zeleethh": {
@@ -55,7 +56,7 @@
             "postsCount": 4425,
             "accountCreatedAt": "2021-08-12T23:18:39.566Z",
             "profileUrl": "https://x.com/zeleethh",
-            "fetchedAt": "2026-08-08T23:58:28Z"
+            "fetchedAt": "2026-08-11T17:19:55Z"
         }
     }
 }

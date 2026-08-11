@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-07-23T08:56:31.220463Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70294c79-c747-4bfc-998f-a49b8d10a94b-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcc756db-a67a-4c4e-bf43-4294fb24783a-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70294c79-c747-4bfc-998f-a49b8d10a94b-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcc756db-a67a-4c4e-bf43-4294fb24783a-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:47:33Z"
     },
     "fansly": {
         "id": "577789996447051776",
         "username": "Mewgen",
         "displayName": "Mewgen",
         "version": 4,
-        "followCount": 37,
+        "followCount": 36,
         "statusId": 1,
         "accountMediaLikes": 20,
         "postLikes": 7,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:37Z"
+        "fetchedAt": "2026-08-11T17:49:29Z"
     },
     "twitter": {
         "mewgenvt": {
@@ -51,11 +52,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1923487690764451840/krxuOoWO_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/815712283951120384/1713324634/1500x500",
             "followersCount": 474,
-            "followingCount": 5649,
-            "postsCount": 61880,
+            "followingCount": 5651,
+            "postsCount": 61890,
             "accountCreatedAt": "2017-01-02T00:12:18.546Z",
             "profileUrl": "https://x.com/MewgenVT",
-            "fetchedAt": "2026-08-08T23:59:22Z"
+            "fetchedAt": "2026-08-11T17:20:54Z"
         },
         "mewgenafterdark": {
             "id": "2026541425752764416",
@@ -69,7 +70,7 @@
             "postsCount": 227,
             "accountCreatedAt": "2026-02-25T06:15:09.055Z",
             "profileUrl": "https://x.com/MewgenAfterDark",
-            "fetchedAt": "2026-08-08T23:59:24Z"
+            "fetchedAt": "2026-08-11T17:20:55Z"
         }
     }
 }

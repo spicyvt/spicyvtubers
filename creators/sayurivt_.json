@@ -5,11 +5,11 @@
         "login": "sayurivt_",
         "displayName": "SayuriVT_",
         "createdAt": "2023-05-23T02:11:45.012687Z",
-        "updatedAt": "2026-08-01T21:36:44.307245Z",
+        "updatedAt": "2026-08-04T19:37:54.07371Z",
         "description": "Bienvenido, mi dulce Bomboncito este es nuestro lugar especial 🩷",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 9932
+            "totalCount": 10024
         },
         "follows": {
             "totalCount": 260
@@ -19,20 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-31T21:38:16.014027Z"
+            "startedAt": "2026-08-11T04:38:00.153485Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19a68c23-d0d6-4076-862f-b7770ef6aaf6-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9fb424a1-e98c-4c44-928c-e10677eab708-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19a68c23-d0d6-4076-862f-b7770ef6aaf6-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9fb424a1-e98c-4c44-928c-e10677eab708-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:57:04Z"
     },
     "fansly": {
         "id": "710982535739351041",
         "username": "SayuriVT",
         "displayName": "Sayuri ",
         "version": 26,
-        "followCount": 2413,
+        "followCount": 2457,
         "statusId": 3,
-        "accountMediaLikes": 966,
-        "postLikes": 1209,
+        "accountMediaLikes": 993,
+        "postLikes": 1229,
         "about": "🩷Tu princesa súcubo favorita directamente desde tus sueños🩷\n\n❤️Vtuber \n❤️ASMR\n❤️Gamer\n❤️ Hobby al Cosplay \n\n💗Mis Redes: https://linktr.ee/SayuriVT",
         "location": "",
         "streaming": {
@@ -93,7 +94,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:51Z"
+        "fetchedAt": "2026-08-11T17:52:03Z"
     },
     "twitter": {
         "sayurihanasaki": {
@@ -103,12 +104,12 @@
             "description": "🩷Tu princesa súcubo favorita directamente desde tus sueños🩷| Twitch & YouTube Partner https://t.co/q8Cb7SxvXM | Art: #sayuriart 🔞ArtSpicy: #SayuriNSFW",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2084304516170514432/bnE64EVC_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1769967521665323008/1770094267/1500x500",
-            "followersCount": 3237,
-            "followingCount": 655,
-            "postsCount": 1676,
+            "followersCount": 3343,
+            "followingCount": 660,
+            "postsCount": 1678,
             "accountCreatedAt": "2024-03-19T06:02:11.013Z",
             "profileUrl": "https://x.com/SayuriHanasaki",
-            "fetchedAt": "2026-08-09T00:13:58Z"
+            "fetchedAt": "2026-08-11T17:36:02Z"
         }
     }
 }

@@ -5,33 +5,34 @@
         "login": "mandymay",
         "displayName": "MandyMay",
         "createdAt": "2022-03-24T23:09:56.906174Z",
-        "updatedAt": "2026-07-31T21:48:40.613422Z",
+        "updatedAt": "2026-08-10T23:47:27.312022Z",
         "description": "I am Mandy, the orange cow vtuber before your eyes. I have a degree in yapping, and a minor in embarrassing stories and useless knowledge. Please feel free to stick around for how to's and what not to do's. ✉️:mandymaystreams@gmail.com ",
         "primaryColorHex": "FFA024",
         "followers": {
-            "totalCount": 2456
+            "totalCount": 2466
         },
         "follows": {
-            "totalCount": 677
+            "totalCount": 678
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T01:02:05.844433Z"
+            "startedAt": "2026-08-06T05:02:31.14494Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/faf8bc9b-f30c-4f76-8876-ac4783fc4758-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/97aff386-e78c-41be-8d6f-2ba363d55aac-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/faf8bc9b-f30c-4f76-8876-ac4783fc4758-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/97aff386-e78c-41be-8d6f-2ba363d55aac-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:49:43Z"
     },
     "fansly": {
         "id": "470754985651482624",
         "username": "MsMandyMay",
         "displayName": "Ms. Mandy May",
         "version": 7,
-        "followCount": 239,
+        "followCount": 241,
         "statusId": 2,
-        "accountMediaLikes": 78,
+        "accountMediaLikes": 79,
         "postLikes": 121,
         "about": "Goofy cow girl with jiggle physics. \n\nPFP: @WynnTensei\nHeader: @CooterzI",
         "location": "Around",
@@ -77,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:53Z"
+        "fetchedAt": "2026-08-11T17:50:06Z"
     },
     "twitter": {
         "mandymaystreams": {
             "id": "1507134839622758423",
             "handle": "mandymaystreams",
-            "displayName": "🧡🐮Mandy May 🔜Offkai",
-            "description": "✉️: mandymaystreams@gmail.com || @Twitch Affiliate, Creator Club, Pride Guild|| @IRIAM_US Founding Streamer || https://t.co/qOBCppmSsc || 🔞 #MandyMayArt",
+            "displayName": "Mandy May 🧡🐮",
+            "description": "✉️: mandymaystreams@gmail.com || @Twitch Affiliate, Creator Club, Pride Guild|| @IRIAM_US Founding Streamer || https://t.co/qOBCppmkCE || 🔞 #MandyMayArt",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2009145449933099011/KUMEu8QH_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1507134839622758423/1736237763/1500x500",
-            "followersCount": 2046,
-            "followingCount": 1033,
-            "postsCount": 10132,
+            "followersCount": 2052,
+            "followingCount": 1041,
+            "postsCount": 10144,
             "accountCreatedAt": "2022-03-24T23:18:59.490Z",
             "profileUrl": "https://x.com/MandyMayStreams",
-            "fetchedAt": "2026-08-09T00:02:59Z"
+            "fetchedAt": "2026-08-11T17:24:43Z"
         },
         "msmandymaynsfw": {
             "id": "1808646492749766656",
@@ -106,7 +107,7 @@
             "postsCount": 105,
             "accountCreatedAt": "2024-07-03T23:38:39.948Z",
             "profileUrl": "https://x.com/MsMandyMayNSFW",
-            "fetchedAt": "2026-08-09T00:03:01Z"
+            "fetchedAt": "2026-08-11T17:24:45Z"
         }
     }
 }

@@ -5,34 +5,35 @@
         "login": "saphira_nya",
         "displayName": "Saphira_Nya",
         "createdAt": "2018-07-17T15:53:27.289785Z",
-        "updatedAt": "2026-07-29T12:39:36.008711Z",
+        "updatedAt": "2026-08-09T04:01:59.931566Z",
         "description": "💗Comfy&Flirty CatGirl Vtuber💗 your friendly neko companion            ",
         "primaryColorHex": "D89EEF",
         "followers": {
-            "totalCount": 18464
+            "totalCount": 18454
         },
         "follows": {
-            "totalCount": 352
+            "totalCount": 354
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T15:40:50.428253Z"
+            "startedAt": "2026-08-07T21:22:39.887464Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/048fe69d-0ff6-4f96-ad09-f2c61923c809-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95eeb80d-16ac-4dad-a3a8-b87db97402ca-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/048fe69d-0ff6-4f96-ad09-f2c61923c809-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95eeb80d-16ac-4dad-a3a8-b87db97402ca-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:55:36Z"
     },
     "fansly": {
         "id": "321809629598199808",
         "username": "Saphiray",
         "displayName": "Saphira_Nya",
         "version": 9,
-        "followCount": 5433,
+        "followCount": 5434,
         "statusId": 1,
         "accountMediaLikes": 8748,
-        "postLikes": 12302,
+        "postLikes": 12312,
         "about": "🩵 Silly English Catgirl Vtuber 🩵 Flirty & Teasy af 🩵 Lewd af~ 🩵 \n🩵 content includes: Reallife and Virtual Content 🩵",
         "location": "Socials : https://saphira-nya.carrd.co/#",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:40Z"
+        "fetchedAt": "2026-08-11T17:51:37Z"
     },
     "twitter": {
         "whitesaphiira": {
@@ -87,12 +88,12 @@
             "description": "❤️ Cat girl Vtuber ❤️\n✨Socials  ⁞ https://t.co/g3xF93FekZ \n🔞 NSFW Content  ⁞ https://t.co/M9WPPGodVx\n🧁Gifts ⁞ https://t.co/ds0i7qwNx0",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2046644529193680896/dzSw1kfN_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2821305915/1762116611/1500x500",
-            "followersCount": 10227,
+            "followersCount": 10220,
             "followingCount": 2121,
-            "postsCount": 1438,
+            "postsCount": 1441,
             "accountCreatedAt": "2014-10-10T17:03:31.502Z",
             "profileUrl": "https://x.com/WhiteSaphiira",
-            "fetchedAt": "2026-08-09T00:11:32Z"
+            "fetchedAt": "2026-08-11T17:33:36Z"
         }
     }
 }

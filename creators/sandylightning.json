@@ -5,11 +5,11 @@
         "login": "sandylightning",
         "displayName": "SandyLightning",
         "createdAt": "2020-09-12T22:05:50.214417Z",
-        "updatedAt": "2026-08-02T22:22:16.873133Z",
+        "updatedAt": "2026-08-11T16:22:36.123311Z",
         "description": "Welcome to the Lightning Clan territory. I'm Sandy Lightning, community based chaos streamer, klepto kitsune, Lightning Clan Leader and lover of adventure. It's time for you all to join the fun! ",
         "primaryColorHex": "0013A3",
         "followers": {
-            "totalCount": 2780
+            "totalCount": 2786
         },
         "follows": {
             "totalCount": 675
@@ -19,10 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T01:14:26.895417Z"
+            "startedAt": "2026-08-08T02:10:38.714188Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d585f95-62d2-4e19-93ce-ccb117d47025-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c826ef2-1a7e-4489-ad74-4c4f2c8d79c2-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d585f95-62d2-4e19-93ce-ccb117d47025-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c826ef2-1a7e-4489-ad74-4c4f2c8d79c2-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:01:50Z"
     },
     "fansly": {
         "id": "497299145657163776",
@@ -31,8 +32,8 @@
         "version": 10,
         "followCount": 171,
         "statusId": 1,
-        "accountMediaLikes": 82,
-        "postLikes": 235,
+        "accountMediaLikes": 84,
+        "postLikes": 250,
         "about": "Dire horny kitsune getting herself satisfied. Even the Leader of the Lightning Clan has to get her stress relieved. \n\nTwitch: https://www.twitch.tv/sandylightning\n\nYoutube: https://www.youtube.com/@sandylightning\n\nThrone: https://throne.com/sandylightning",
         "location": "",
         "streaming": {
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:28Z"
+        "fetchedAt": "2026-08-11T17:53:13Z"
     },
     "twitter": {
         "sandy_lightning": {
@@ -80,10 +81,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1449794486377271303/1782624119/1500x500",
             "followersCount": 1194,
             "followingCount": 1663,
-            "postsCount": 9426,
+            "postsCount": 9436,
             "accountCreatedAt": "2021-10-17T17:48:58.156Z",
             "profileUrl": "https://x.com/sandy_lightning",
-            "fetchedAt": "2026-08-09T00:21:29Z"
+            "fetchedAt": "2026-08-11T17:43:41Z"
         }
     }
 }

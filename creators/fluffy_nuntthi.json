@@ -12,7 +12,7 @@
             "totalCount": 3498
         },
         "follows": {
-            "totalCount": 567
+            "totalCount": 566
         },
         "roles": {
             "isPartner": false,
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-08-02T00:07:54.968571Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fdfb229-9e1c-409a-96d2-38782517fce3-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b37ec9aa-8c07-48ac-9890-b7779bd50919-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fdfb229-9e1c-409a-96d2-38782517fce3-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b37ec9aa-8c07-48ac-9890-b7779bd50919-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:54:02Z"
     },
     "fansly": {
         "id": "401303892819718144",
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:30Z"
+        "fetchedAt": "2026-08-11T17:51:21Z"
     },
     "twitter": {
         "fluffy_nuntthi": {
@@ -78,12 +79,12 @@
             "description": "aboriginal~ They/Them ~ Canadian~ ♡ Art tag #NuntthiArt ♡  https://t.co/4aBp0uiToy",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1986989069633781760/SRDlS3vy_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1528301921496358913/1763584745/1500x500",
-            "followersCount": 242,
+            "followersCount": 243,
             "followingCount": 358,
             "postsCount": 1857,
             "accountCreatedAt": "2022-05-22T09:09:24.153Z",
             "profileUrl": "https://x.com/fluffy_nuntthi",
-            "fetchedAt": "2026-08-09T00:09:23Z"
+            "fetchedAt": "2026-08-11T17:31:26Z"
         }
     }
 }

@@ -5,32 +5,32 @@
         "login": "veronicajae",
         "displayName": "VeronicaJae",
         "createdAt": "2014-03-11T15:27:18.74828Z",
-        "updatedAt": "2026-08-07T19:55:43.444271Z",
+        "updatedAt": "2026-08-10T17:53:48.902055Z",
         "description": "Hey! I'm VeronicaJae, here to hopefully make your day! I'm a variety Vtuber that likes to play games, complain, and be comfy! Won't you come get cozy with me? 👉👈",
         "primaryColorHex": "BF130D",
         "followers": {
-            "totalCount": 44045
+            "totalCount": 44035
         },
         "follows": {
-            "totalCount": 233
+            "totalCount": 234
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-07T20:59:44.394825Z"
+            "startedAt": "2026-08-10T18:01:24.402618Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c79b257a-b056-4742-868f-640c8a50254a-profile_image-70x70.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c79b257a-b056-4742-868f-640c8a50254a-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95cd78d6-0b84-4b96-8843-61e2978bf261-profile_banner-480.png",
-        "fetchedAt": "2026-08-07T22:35:06Z"
+        "fetchedAt": "2026-08-11T17:02:21Z"
     },
     "fansly": {
         "id": "295535312531107840",
         "username": "VeroticaJae",
         "displayName": "VeroticaJae",
         "version": 9,
-        "followCount": 7887,
+        "followCount": 7888,
         "statusId": 1,
         "accountMediaLikes": 4551,
         "postLikes": 2087,
@@ -102,7 +102,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-07T22:35:56Z"
+        "fetchedAt": "2026-08-11T17:53:24Z"
     },
     "twitter": {
         "vrronicajae": {
@@ -112,12 +112,12 @@
             "description": "Twitch Partner | VTuber | Avatar Creator | Sponsored by @GamerSupps and @AntlionAudio",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2017361052631998465/yG1az59t_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1859194119098089472/1733813529/1500x500",
-            "followersCount": 10002,
-            "followingCount": 465,
-            "postsCount": 363,
+            "followersCount": 10005,
+            "followingCount": 467,
+            "postsCount": 367,
             "accountCreatedAt": "2024-11-20T11:16:43.649Z",
             "profileUrl": "https://x.com/VrronicaJae",
-            "fetchedAt": "2026-08-09T00:22:12Z"
+            "fetchedAt": "2026-08-11T17:44:27Z"
         }
     }
 }

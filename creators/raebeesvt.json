@@ -9,7 +9,7 @@
         "description": "Rat-dragon gacha game enthusiast ",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 595
+            "totalCount": 594
         },
         "follows": {
             "totalCount": 145
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-03-06T06:39:25.352276Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/00f8b56a-7650-490c-9139-42bbab2a24f8-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6370ab82-ec55-4400-9489-e3725aa0bc1e-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/00f8b56a-7650-490c-9139-42bbab2a24f8-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6370ab82-ec55-4400-9489-e3725aa0bc1e-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:42:03Z"
     },
     "fansly": {
         "id": "741569085791285248",
         "username": "ifaerae__",
         "displayName": "Raebees♣️💕",
         "version": 33,
-        "followCount": 24806,
+        "followCount": 24954,
         "statusId": 3,
-        "accountMediaLikes": 55189,
-        "postLikes": 25191,
+        "accountMediaLikes": 56053,
+        "postLikes": 25375,
         "about": "Heyy I'm Rae^^\nwhat I offer here\n🖤Nudes, lewds, cute outfit pics, cosplay\n🖤solo play content, video/pictures\n🖤streams every week in Tuesdays 11pm UK time\n🖤I respond to all dms<3\n\n✨started on the 1st feb 2025✨",
         "location": "rat colony",
         "streaming": {
@@ -48,19 +49,60 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "749371504373805057",
-                    "historyId": "940786171032662016",
+                    "historyId": "941863145226379264",
                     "channelId": "749371504373805056",
                     "accountId": "741569085791285248",
                     "title": "BABE WAKE UP!! RAT STREAM",
                     "status": 1,
-                    "viewerCount": 138,
-                    "version": 749,
+                    "viewerCount": 12,
+                    "version": 753,
                     "createdAt": 1740158449000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785806694000,
-                    "startedAt": 1785795262000,
+                    "lastFetchedAt": 1786060773000,
+                    "startedAt": 1786052032000,
                     "permissions": {
-                        "permissionFlags": []
+                        "permissionFlags": [
+                            {
+                                "id": "941851427284725761",
+                                "streamId": "749371504373805057",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"892170357648146432\\\"}\"}"
+                            },
+                            {
+                                "id": "941851427284725762",
+                                "streamId": "749371504373805057",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"892170357648146432\\\"}\"}"
+                            },
+                            {
+                                "id": "941851427284725763",
+                                "streamId": "749371504373805057",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"892170357648146432\\\"}\"}"
+                            },
+                            {
+                                "id": "941851427284725764",
+                                "streamId": "749371504373805057",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"892170357648146432\\\"}\"}"
+                            },
+                            {
+                                "id": "941851427284725765",
+                                "streamId": "749371504373805057",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"892170357648146432\\\"}\"}"
+                            }
+                        ]
                     }
                 },
                 "arn": null,
@@ -68,7 +110,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:39Z"
+        "fetchedAt": "2026-08-11T17:47:32Z"
     },
     "twitter": {
         "raebeesvt": {
@@ -78,12 +120,12 @@
             "description": "rat-dragon vtuber & cosplayer || gacha game enthusiast and waifu collector || model: @hoonyusi, Rig: @SpooVae",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2029876756602077184/ukbMnsv__400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1989206481015828481/1770522821/1500x500",
-            "followersCount": 2111,
-            "followingCount": 460,
+            "followersCount": 2118,
+            "followingCount": 461,
             "postsCount": 462,
             "accountCreatedAt": "2025-11-14T05:39:32.665Z",
             "profileUrl": "https://x.com/RaebeesVT",
-            "fetchedAt": "2026-08-08T23:49:44Z"
+            "fetchedAt": "2026-08-11T17:10:49Z"
         },
         "raebeesnsfw": {
             "id": "1753415327587688448",
@@ -92,12 +134,12 @@
             "description": "42 rats in a trench coat 💕 || 18+ acc for @raebeesVT || i stream on twitch and fansly || TOP 1%",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2009417163686260736/DAPkJXDH_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1753415327587688448/1773972943/1500x500",
-            "followersCount": 40199,
+            "followersCount": 40191,
             "followingCount": 126,
-            "postsCount": 12875,
+            "postsCount": 12872,
             "accountCreatedAt": "2024-02-02T13:49:36.219Z",
             "profileUrl": "https://x.com/raebeesNSFW",
-            "fetchedAt": "2026-08-08T23:49:46Z"
+            "fetchedAt": "2026-08-11T17:10:47Z"
         }
     }
 }

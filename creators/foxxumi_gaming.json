@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-05-15T18:00:46.609588Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/755f19b4-eeef-4797-8d59-bedfe18ff2af-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4faec011-abb8-4b8b-908c-d58a4b141a38-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/755f19b4-eeef-4797-8d59-bedfe18ff2af-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4faec011-abb8-4b8b-908c-d58a4b141a38-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:54:04Z"
     },
     "fansly": {
         "id": "780912187525836800",
         "username": "Foxxumi",
         "displayName": null,
         "version": 4,
-        "followCount": 1709,
-        "statusId": 1,
-        "accountMediaLikes": 3443,
-        "postLikes": 1179,
+        "followCount": 1729,
+        "statusId": 3,
+        "accountMediaLikes": 3567,
+        "postLikes": 1186,
         "about": "🦊Bipolar fox gamer girl at your service!\ni have a spoil kink, my wishlist https://www.lovense.com/wish-list/zvn2xe0\nI'm a new cute streamer / vtuber, and I'm excited to start my journey here on Fansly! 💞SI might be a bit shy at first, but let me know you better, and you'll be suprised! ✨\n🦊Sort of shapeshifter lol. I also have a futa form and I can change my body parts so they can be bigger os smaller!\nI stream almost daily (gaming & lewd streams), come play and chat! \nI do customs, ratings and private sessions 💖 DM for request! \n\nAll content published on this page, is created by me. Please do not repost, copy or leak it, it's mean and appropriate action will be taken, thank you for understanding.\n",
         "location": "Digital World",
         "streaming": {
@@ -48,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "784639495411609601",
-                    "historyId": "940430460922646528",
+                    "historyId": "942238975567867904",
                     "channelId": "784639495411609600",
                     "accountId": "780912187525836800",
                     "title": "Gaming w/Lush In🔥FAV PATTERNS $11 $21 $33 $22 $13🔥!!menu !toys !patterns",
                     "status": 1,
-                    "viewerCount": 4,
-                    "version": 1577,
+                    "viewerCount": 3,
+                    "version": 1581,
                     "createdAt": 1748566993000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785716514000,
-                    "startedAt": 1785710454000,
+                    "lastFetchedAt": 1786151461000,
+                    "startedAt": 1786141637000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:30Z"
+        "fetchedAt": "2026-08-11T17:51:21Z"
     },
     "twitter": {
         "foxxumi_gaming": {
@@ -78,12 +79,12 @@
             "description": "Streamer, Vtuber, gamer, AI creator, bipolar foxgirl 🦊\ntwitch: https://t.co/hUGyCD9jnC\nmore of me: https://t.co/DGotLKvpes",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2047379491266183168/DyE53QC6_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2047379279407616000/1776968403/1500x500",
-            "followersCount": 69,
+            "followersCount": 70,
             "followingCount": 15,
             "postsCount": 30,
             "accountCreatedAt": "2026-04-23T18:17:39.056Z",
             "profileUrl": "https://x.com/Foxxumi_gaming",
-            "fetchedAt": "2026-08-09T00:09:25Z"
+            "fetchedAt": "2026-08-11T17:31:28Z"
         }
     }
 }

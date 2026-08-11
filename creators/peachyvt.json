@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-02-19T08:46:49.079227Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81161de-fe9d-4a82-ae8b-f35055fbc33d-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a9b452cb-ce73-4db8-b8de-e3da3e26c860-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81161de-fe9d-4a82-ae8b-f35055fbc33d-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a9b452cb-ce73-4db8-b8de-e3da3e26c860-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:54:57Z"
     },
     "fansly": {
         "id": "381009636821573632",
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:35Z"
+        "fetchedAt": "2026-08-11T17:51:32Z"
     },
     "twitter": {
         "peachypiemimi": {
@@ -92,7 +93,7 @@
             "postsCount": 28,
             "accountCreatedAt": "2024-05-03T11:08:01.934Z",
             "profileUrl": "https://x.com/PeachyPieMimi",
-            "fetchedAt": "2026-08-09T00:10:31Z"
+            "fetchedAt": "2026-08-11T17:32:35Z"
         }
     }
 }

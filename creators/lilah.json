@@ -5,35 +5,35 @@
         "login": "lilah",
         "displayName": "lilah",
         "createdAt": "2023-01-31T11:01:10.382598Z",
-        "updatedAt": "2026-08-06T12:27:00.169602Z",
+        "updatedAt": "2026-08-08T17:40:37.595314Z",
         "description": "hey wait this isn't a talk show",
         "primaryColorHex": "FF77C3",
         "followers": {
-            "totalCount": 30773
+            "totalCount": 30775
         },
         "follows": {
-            "totalCount": 294
+            "totalCount": 304
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-06T15:41:11.755819Z"
+            "startedAt": "2026-08-08T18:40:03.299838Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/48c2ce9e-2898-48a4-b50d-86788a65ebdd-profile_image-70x70.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/48c2ce9e-2898-48a4-b50d-86788a65ebdd-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/51604537-97ed-4f1f-a825-2c386a79ec0f-profile_banner-480.png",
-        "fetchedAt": "2026-08-07T22:35:03Z"
+        "fetchedAt": "2026-08-11T17:02:18Z"
     },
     "fansly": {
         "id": "616476618751221760",
         "username": "latenightlilah",
         "displayName": "Lilah",
         "version": 5,
-        "followCount": 7604,
+        "followCount": 7607,
         "statusId": 3,
-        "accountMediaLikes": 1914,
-        "postLikes": 1778,
+        "accountMediaLikes": 1915,
+        "postLikes": 1779,
         "about": "Welcome to the lewd side of me :3\n\nHope you enjoy your stay... \n\nFansly streams are free and will be announced at least a week before! <3",
         "location": "",
         "streaming": {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-07T22:35:45Z"
+        "fetchedAt": "2026-08-11T17:53:24Z"
     },
     "twitter": {
         "latenightlilah": {
@@ -88,12 +88,12 @@
             "description": "Twitch & Kick Partner / Artist² / VR Enthusiast\nLove learning new things 💕\n18+ only acc!\nhttps://t.co/eAh7fZNph4",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1987066069077352448/BVsrfCVU_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1297690964446908418/1696427264/1500x500",
-            "followersCount": 3631,
-            "followingCount": 213,
-            "postsCount": 407,
+            "followersCount": 3627,
+            "followingCount": 215,
+            "postsCount": 409,
             "accountCreatedAt": "2020-08-24T00:23:49.299Z",
             "profileUrl": "https://x.com/latenightlilah",
-            "fetchedAt": "2026-08-09T00:22:09Z"
+            "fetchedAt": "2026-08-11T17:44:24Z"
         }
     }
 }

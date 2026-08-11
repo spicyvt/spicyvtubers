@@ -5,11 +5,11 @@
         "login": "duuckyvt",
         "displayName": "DuuckyVT",
         "createdAt": "2025-07-02T11:57:56.267225Z",
-        "updatedAt": "2026-08-01T18:26:47.377161Z",
+        "updatedAt": "2026-08-09T18:06:12.04541Z",
         "description": "Haiiii I’m DuuckyVT ! twitch banned me once (rude) but i rebooted. now i stream games, cursed watch parties & general chaos, no real schedule since I'm pursuing a master's degree, but i’ll scream about it on socials. if you’re weird, you’ll fit right in 🦆",
         "primaryColorHex": "E3E300",
         "followers": {
-            "totalCount": 337
+            "totalCount": 338
         },
         "follows": {
             "totalCount": 101
@@ -19,17 +19,18 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-01T20:53:43.039542Z"
+            "startedAt": "2026-08-09T20:55:46.40783Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e81e1c82-acc1-4e8f-ac4e-fdb49a06041f-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c073100-2145-4ff7-9906-60368a717411-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e81e1c82-acc1-4e8f-ac4e-fdb49a06041f-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c073100-2145-4ff7-9906-60368a717411-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:48:54Z"
     },
     "fansly": {
         "id": "830961071413014528",
         "username": "DuuckyVT",
         "displayName": null,
         "version": 3,
-        "followCount": 3,
+        "followCount": 4,
         "statusId": 1,
         "accountMediaLikes": 0,
         "postLikes": 1,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:47Z"
+        "fetchedAt": "2026-08-11T17:49:50Z"
     },
     "twitter": {
         "duuckyvt": {
@@ -51,11 +52,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2018342887323303936/nOV3pCHc_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1893982589804773376/1783137190/1500x500",
             "followersCount": 259,
-            "followingCount": 337,
-            "postsCount": 1912,
+            "followingCount": 336,
+            "postsCount": 1914,
             "accountCreatedAt": "2025-02-24T11:13:43.173Z",
             "profileUrl": "https://x.com/DuuckyVT",
-            "fetchedAt": "2026-08-09T00:01:45Z"
+            "fetchedAt": "2026-08-11T17:23:22Z"
         }
     }
 }

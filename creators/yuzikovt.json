@@ -5,34 +5,35 @@
         "login": "yuzikovt",
         "displayName": "YuzikoVT",
         "createdAt": "2016-07-24T16:21:11.690357Z",
-        "updatedAt": "2026-08-02T08:57:35.762341Z",
+        "updatedAt": "2026-08-06T23:54:09.571173Z",
         "description": "VROOM VROOM! QUE TAL? Mi nombre es Yuziko y seré tu Vtuber favorita. Me gustan los autos, decir la palabra \"wea\" y hablar con mis Viewers. Mi voz es grave, trátenme bien por ello porfavor 🥺🙏🏽",
         "primaryColorHex": "D4C3F5",
         "followers": {
             "totalCount": 5406
         },
         "follows": {
-            "totalCount": 761
+            "totalCount": 762
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-01T03:54:01.939658Z"
+            "startedAt": "2026-08-07T03:22:52.982336Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3287ffc-ce97-4785-a8e9-ac72609014a5-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed89a99f-8b48-4178-abb7-a96181377498-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3287ffc-ce97-4785-a8e9-ac72609014a5-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed89a99f-8b48-4178-abb7-a96181377498-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:43:09Z"
     },
     "fansly": {
         "id": "580719187953987584",
         "username": "Yuziko",
         "displayName": "Yuziko 🔥🏁",
         "version": 7,
-        "followCount": 455,
+        "followCount": 469,
         "statusId": 1,
-        "accountMediaLikes": 990,
-        "postLikes": 528,
+        "accountMediaLikes": 997,
+        "postLikes": 538,
         "about": "A local Racing Latina girl with some curves you will desire 💋🏁\n\n💜| Car Enthusiast\n💜| Koikatsu Artist\n💜| VR Learner\n\n\nI'm new in here. Hope to see you enjoyng my lewds ❤",
         "location": "",
         "streaming": {
@@ -48,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "829168688027410433",
-                    "historyId": "937902973793624064",
+                    "historyId": "942992142924537856",
                     "channelId": "829168688027410432",
                     "accountId": "580719187953987584",
                     "title": "🏁 Goon Pit Stop Open || Redline Your Cock & Cum For Me 🚗💦",
                     "status": 1,
-                    "viewerCount": 13,
-                    "version": 24,
+                    "viewerCount": 8,
+                    "version": 66,
                     "createdAt": 1759183580000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785479884000,
-                    "startedAt": 1785107854000,
+                    "lastFetchedAt": 1786326925000,
+                    "startedAt": 1786321206000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:49Z"
+        "fetchedAt": "2026-08-11T17:47:53Z"
     },
     "twitter": {
         "yuziko_h": {
@@ -79,11 +80,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1835188666500513792/7GCRuDhn_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1466208255366021128/1724368010/1500x500",
             "followersCount": 2438,
-            "followingCount": 762,
-            "postsCount": 8981,
+            "followingCount": 765,
+            "postsCount": 8998,
             "accountCreatedAt": "2021-12-02T00:51:10.623Z",
             "profileUrl": "https://x.com/Yuziko_H",
-            "fetchedAt": "2026-08-08T23:52:02Z"
+            "fetchedAt": "2026-08-11T17:13:03Z"
         },
         "yokomara_yuziko": {
             "id": "1282856499694448641",
@@ -92,12 +93,12 @@
             "description": "She/Her\nHola Soy Yuziko, una RaceQueen Vtuber que acelerara tu corazón 🔥🔥\n\nOshimark: 💜🏁\nArt🎨: #YuziArt 🔞:# YuziArtR18",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2039589883283451904/VNEC6uLd_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1282856499694448641/1743718619/1500x500",
-            "followersCount": 2448,
-            "followingCount": 772,
-            "postsCount": 23475,
+            "followersCount": 2452,
+            "followingCount": 773,
+            "postsCount": 23479,
             "accountCreatedAt": "2020-07-14T02:02:41.184Z",
             "profileUrl": "https://x.com/Yokomara_Yuziko",
-            "fetchedAt": "2026-08-08T23:52:04Z"
+            "fetchedAt": "2026-08-11T17:13:01Z"
         }
     }
 }

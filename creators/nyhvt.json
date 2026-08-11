@@ -5,11 +5,11 @@
         "login": "nyhvt",
         "displayName": "nyhVT",
         "createdAt": "2024-04-24T05:00:04.60908Z",
-        "updatedAt": "2026-08-03T03:11:17.783909Z",
+        "updatedAt": "2026-08-11T03:12:52.43948Z",
         "description": "i'm nyh! your wolf spirit guide ♡",
         "primaryColorHex": "C4EAE6",
         "followers": {
-            "totalCount": 36323
+            "totalCount": 36555
         },
         "follows": {
             "totalCount": 35
@@ -19,20 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T05:27:58.403211Z"
+            "startedAt": "2026-08-11T05:16:19.49055Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/35d75e05-fa6f-4278-80c8-a446972f739f-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d160adbd-c4fc-4c0f-877c-6a7885abc8be-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/35d75e05-fa6f-4278-80c8-a446972f739f-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c79c999-38d3-48cf-8256-d304a94f080b-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:45:26Z"
     },
     "fansly": {
         "id": "396797649916796928",
         "username": "nyhVT",
         "displayName": "nyh",
         "version": 7,
-        "followCount": 5240,
+        "followCount": 5248,
         "statusId": 3,
-        "accountMediaLikes": 4166,
-        "postLikes": 9181,
+        "accountMediaLikes": 4175,
+        "postLikes": 9197,
         "about": "nyhVT Twitch's VOD page!\n\n⚠️ Timezone notice: VOD dates follow Brazilian time (BRT). Streams often occur after midnight, so some uploads may show a date one day later than the actual stream.\n\n⛓ ♡ twitch: www.twitch.tv/nyhVT ♡ ⛓\n⛓ ♡ youtube: www.youtube.com/@nyhVT ♡ ⛓\n⛓ ♡ throne: www.throne.com/nyhzumi ♡ ⛓\n⛓ ♡ 🔞throne: www.throne.com/nyh34 ♡ ⛓",
         "location": "",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:16Z"
+        "fetchedAt": "2026-08-11T17:48:46Z"
     },
     "twitter": {
         "nyhasmr": {
@@ -87,12 +88,12 @@
             "description": "your wolf spirit guide ♡\ntags: #nyhart | #nyh34 \n✉️: nyhzumi@gmail.com\n@GamerSupps code → NYH",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1950658076048011264/ZXQx2qFj_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1804554681550794752/1756304489/1500x500",
-            "followersCount": 3996,
+            "followersCount": 4022,
             "followingCount": 20,
-            "postsCount": 176,
+            "postsCount": 178,
             "accountCreatedAt": "2024-06-22T16:43:29.473Z",
             "profileUrl": "https://x.com/nyhASMR",
-            "fetchedAt": "2026-08-08T23:56:05Z"
+            "fetchedAt": "2026-08-11T17:17:20Z"
         }
     }
 }

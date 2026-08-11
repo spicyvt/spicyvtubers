@@ -5,11 +5,11 @@
         "login": "overlord_jona",
         "displayName": "Overlord_Jona",
         "createdAt": "2014-04-19T22:41:29.984053Z",
-        "updatedAt": "2026-08-02T17:26:27.219154Z",
+        "updatedAt": "2026-08-11T14:59:48.61627Z",
         "description": "Your lovely fox overlord is here to bring various cheer and entertainment to all my lovely vassals! (She/Her)",
         "primaryColorHex": "FFC9F5",
         "followers": {
-            "totalCount": 808
+            "totalCount": 811
         },
         "follows": {
             "totalCount": 413
@@ -19,10 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T22:04:44.18271Z"
+            "startedAt": "2026-08-11T15:05:07.775197Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f1f77ad-496f-4797-be3a-63ae52401362-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bcd90af-9e7e-43b7-94a9-7abb7f885824-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f1f77ad-496f-4797-be3a-63ae52401362-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bcd90af-9e7e-43b7-94a9-7abb7f885824-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:47:57Z"
     },
     "fansly": {
         "id": "740486489300807680",
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:37Z"
+        "fetchedAt": "2026-08-11T17:49:34Z"
     },
     "twitter": {
         "overlord_jona": {
@@ -78,12 +79,12 @@
             "description": "🦊Disgaea - Variety\n🦊@Twitch Affiliate\n🦊Credits: https://t.co/olQKGtCUpu\n🦊Chaotic Fox Overlord\nhttps://t.co/Rcsg8Z5zB0",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2053972281089466368/B1B5qXgs_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1753541891323289600/1738859397/1500x500",
-            "followersCount": 1927,
-            "followingCount": 383,
-            "postsCount": 3818,
+            "followersCount": 1923,
+            "followingCount": 384,
+            "postsCount": 3823,
             "accountCreatedAt": "2024-02-02T22:12:31.193Z",
             "profileUrl": "https://x.com/Overlord_Jona",
-            "fetchedAt": "2026-08-09T00:00:02Z"
+            "fetchedAt": "2026-08-11T17:21:35Z"
         },
         "overlordshoard": {
             "id": "1880720750056718336",
@@ -93,11 +94,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1880805382651576320/L93Chcaw_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1880720750056718336/1737236447/1500x500",
             "followersCount": 124,
-            "followingCount": 53,
-            "postsCount": 229,
+            "followingCount": 54,
+            "postsCount": 231,
             "accountCreatedAt": "2025-01-18T20:55:52.553Z",
             "profileUrl": "https://x.com/OverlordsHoard",
-            "fetchedAt": "2026-08-09T00:00:03Z"
+            "fetchedAt": "2026-08-11T17:21:37Z"
         }
     }
 }

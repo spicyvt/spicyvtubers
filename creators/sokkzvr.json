@@ -5,11 +5,11 @@
         "login": "sokkzvr",
         "displayName": "SokkzVR",
         "createdAt": "2018-11-12T04:55:21.799393Z",
-        "updatedAt": "2026-08-02T07:14:04.769099Z",
+        "updatedAt": "2026-08-06T01:04:48.320301Z",
         "description": "Escape reality ♥️ ♫ ♬",
         "primaryColorHex": "CC3366",
         "followers": {
-            "totalCount": 49271
+            "totalCount": 49280
         },
         "follows": {
             "totalCount": 980
@@ -19,17 +19,18 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-26T13:19:16.072941Z"
+            "startedAt": "2026-08-06T04:31:09.016456Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e407013-22de-4d69-9207-491d168cbe49-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4aff49b5-43ad-4ccf-9300-e75d3b11417d-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e407013-22de-4d69-9207-491d168cbe49-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4aff49b5-43ad-4ccf-9300-e75d3b11417d-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:44:28Z"
     },
     "fansly": {
         "id": "290887023454068736",
         "username": "SokkzVR",
         "displayName": null,
         "version": 7,
-        "followCount": 17154,
+        "followCount": 17155,
         "statusId": 1,
         "accountMediaLikes": 8118,
         "postLikes": 6868,
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:05Z"
+        "fetchedAt": "2026-08-11T17:48:25Z"
     },
     "twitter": {
         "sokkzvr": {
@@ -87,12 +88,12 @@
             "description": "ㄒ卄乇    ᐯ丨尺ㄒㄩ卂ㄥ    ᗪ乇ᐯ丨ㄥ\n♀️ 🔇    \nTwitch Partner💜\nVR Streamer 🎶\nLive VFX Artist 💎\nhttps://t.co/SmxPaI6BQ1 🔞",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1797658925342576640/QUtPybmX_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1067010390586871808/1755342182/1500x500",
-            "followersCount": 31279,
+            "followersCount": 31286,
             "followingCount": 935,
-            "postsCount": 10658,
+            "postsCount": 10659,
             "accountCreatedAt": "2018-11-26T11:01:16.030Z",
             "profileUrl": "https://x.com/SokkzVr",
-            "fetchedAt": "2026-08-08T23:54:28Z"
+            "fetchedAt": "2026-08-11T17:15:36Z"
         }
     }
 }

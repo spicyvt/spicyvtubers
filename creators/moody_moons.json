@@ -5,24 +5,25 @@
         "login": "moody_moons",
         "displayName": "Moody_Moons",
         "createdAt": "2016-06-02T17:46:29.362677Z",
-        "updatedAt": "2026-08-03T07:11:14.628755Z",
+        "updatedAt": "2026-08-10T06:05:12.687555Z",
         "description": "Freelancer |  2D Digital Artist | ART Vtuber 🌙✨ Verified 5⭐️ VGen Artist🎨 OCs • retextures • YCH🇮🇹 / 🇬🇧 (Commissions Status: OPEN )",
         "primaryColorHex": "431066",
         "followers": {
-            "totalCount": 230
+            "totalCount": 247
         },
         "follows": {
-            "totalCount": 78
+            "totalCount": 86
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T10:15:32.756928Z"
+            "startedAt": "2026-08-11T08:46:12.181724Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c8c6ddc-995a-43a6-a43e-b1337a3fab41-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d50ed5f-6c27-4cb7-9b45-4ff1a0ed3280-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c8c6ddc-995a-43a6-a43e-b1337a3fab41-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d50ed5f-6c27-4cb7-9b45-4ff1a0ed3280-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:43:11Z"
     },
     "fansly": {
         "id": "920348709256978432",
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:49Z"
+        "fetchedAt": "2026-08-11T17:47:58Z"
     },
     "twitter": {
         "moody_c_moons": {
@@ -77,13 +78,13 @@
             "displayName": "Moody_Moons",
             "description": "Freelancer |  2D Digital Artist | Vtuber 🌙✨\n Verified 5⭐️ VGen Artist\n🎨 OCs • retextures • YCH\n🇮🇹 / 🇬🇧 (Commissions Status: OPEN )",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2075631587199246336/etcvkglb_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2016932481866280960/1785690956/1500x500",
-            "followersCount": 825,
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2016932481866280960/1786301530/1500x500",
+            "followersCount": 826,
             "followingCount": 175,
-            "postsCount": 1993,
+            "postsCount": 2032,
             "accountCreatedAt": "2026-01-29T17:52:38.586Z",
             "profileUrl": "https://x.com/Moody_c_Moons",
-            "fetchedAt": "2026-08-08T23:52:06Z"
+            "fetchedAt": "2026-08-11T17:13:05Z"
         }
     }
 }

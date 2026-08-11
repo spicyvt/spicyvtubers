@@ -5,11 +5,11 @@
         "login": "yumebyte",
         "displayName": "yumebyte",
         "createdAt": "2015-03-07T20:48:41.622822Z",
-        "updatedAt": "2026-07-24T01:18:23.132308Z",
+        "updatedAt": "2026-08-10T01:47:36.435632Z",
         "description": "🐉⚡ Cyber Dragon Sheep VTuberDigital menace. Certified chaotic gremlin.🎮 Variety • VRChat • Tech • Dumb ideas that somehow work💚 Powered by @ADVANCEDgg",
         "primaryColorHex": "125A13",
         "followers": {
-            "totalCount": 326
+            "totalCount": 329
         },
         "follows": {
             "totalCount": 161
@@ -19,19 +19,20 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-07T23:08:24.522847Z"
+            "startedAt": "2026-08-07T21:07:48.716622Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/00f162d7-550a-428c-873d-74b908a7de94-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd5de1-ba2c-49d8-bb32-ae14e9ddd476-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/00f162d7-550a-428c-873d-74b908a7de94-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd5de1-ba2c-49d8-bb32-ae14e9ddd476-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:51:17Z"
     },
     "fansly": {
         "id": "287545564055216128",
         "username": "Yumebyte",
         "displayName": "Yumebyte",
         "version": 8,
-        "followCount": 154,
+        "followCount": 156,
         "statusId": 1,
-        "accountMediaLikes": 89,
+        "accountMediaLikes": 90,
         "postLikes": 52,
         "about": "In your computer watching you while you do the most horny degen things ~ Digital Sheep vtuber yumebyte here! I hope you put on a good show for me I'll be watching ~ \n\n709145",
         "location": "",
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:09Z"
+        "fetchedAt": "2026-08-11T17:50:38Z"
     },
     "bluesky": {
         "did": "did:plc:luolcuhcrdwuxivsvlx3lfhl",
@@ -86,11 +87,11 @@
         "description": "🐉⚡ Cyber Dragon Sheep VTuber\nDigital menace. Certified chaotic gremlin.\n🎮 Variety • VRChat • Tech • Dumb ideas that somehow work\n💚 Powered by @ADVANCEDgg",
         "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:luolcuhcrdwuxivsvlx3lfhl/bafkreibt2oivwy5vk6zhahdsawdch74zimtnekn4cupi3t7kkvwh3rwtau",
         "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:luolcuhcrdwuxivsvlx3lfhl/bafkreibyuzkad6jp5fz7mc2rbv7hk5uoje23zoxvyssnt3lcbqy5za7mrm",
-        "followersCount": 121,
+        "followersCount": 122,
         "followingCount": 94,
-        "postsCount": 294,
+        "postsCount": 296,
         "accountCreatedAt": "2023-09-29T23:03:39.223Z",
         "profileUrl": "https://bsky.app/profile/yumebytevt.bsky.social",
-        "fetchedAt": "2026-08-09T00:22:48Z"
+        "fetchedAt": "2026-08-11T17:45:07Z"
     }
 }

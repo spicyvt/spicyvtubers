@@ -5,14 +5,14 @@
         "login": "icefire",
         "displayName": "Icefire",
         "createdAt": "2020-11-13T03:19:25.459017Z",
-        "updatedAt": "2026-07-20T13:36:04.498841Z",
+        "updatedAt": "2026-08-07T18:42:34.806555Z",
         "description": "A blue and orange cat that keeps u warm and cold :3 I dance (Try to at least O///O) For business: icefire4080@gmail.com",
         "primaryColorHex": "04B6E8",
         "followers": {
-            "totalCount": 3091
+            "totalCount": 3088
         },
         "follows": {
-            "totalCount": 572
+            "totalCount": 573
         },
         "roles": {
             "isPartner": true,
@@ -21,19 +21,20 @@
         "lastBroadcast": {
             "startedAt": "2026-07-20T16:11:22.487056Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02ce0da2-e879-4cba-b974-7b561ca07e04-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ceba076-c3b6-4ae4-870f-73b213639ce7-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02ce0da2-e879-4cba-b974-7b561ca07e04-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ceba076-c3b6-4ae4-870f-73b213639ce7-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:53:04Z"
     },
     "fansly": {
         "id": "400503568517312512",
         "username": "IcefireVR",
         "displayName": "IcefireVR",
         "version": 6,
-        "followCount": 5050,
+        "followCount": 5072,
         "statusId": 1,
-        "accountMediaLikes": 7460,
-        "postLikes": 5348,
-        "about": "🧊 Hello I'm Icefire I post every single day and stream 2 times a week :3\n🔥Here to warm u up and cool you down <3\n🧊 Can support me by buying your lovense toys using my link https://www.lovense.com/r/kn76kc\n🔥 linktr.ee/icefirevr\n\n* All Content is made in ChilloutVR\n",
+        "accountMediaLikes": 7563,
+        "postLikes": 5409,
+        "about": "🧊 Hello I'm Icefire I post every single day and stream 2 times a week :3\n🔥Here to warm u up and cool you down <3\n🧊 Can support me by buying your lovense toys using my link https://www.lovense.com/r/kn76kc\n🔥 linktr.ee/icefirevr\n",
         "location": "VR as usual :3",
         "streaming": {
             "accountId": "400503568517312512",
@@ -48,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "663645380293963777",
-                    "historyId": "924429504984653824",
+                    "historyId": "943018495749148672",
                     "channelId": "663645380293963776",
                     "accountId": "400503568517312512",
                     "title": "Play with me >.< !socials !lovense !tip",
                     "status": 1,
-                    "viewerCount": 74,
-                    "version": 4824,
+                    "viewerCount": 103,
+                    "version": 4826,
                     "createdAt": 1719719749000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1781897016000,
-                    "startedAt": 1781895529000,
+                    "lastFetchedAt": 1786332707000,
+                    "startedAt": 1786327489000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:24Z"
+        "fetchedAt": "2026-08-11T17:51:10Z"
     },
     "twitter": {
         "icefire_vr": {
@@ -87,12 +88,12 @@
             "description": "🔥Twitch Partner 🧊\n🧊Perfect Balance between Hot & Cold🔥\n🔞NSFW: @IcefireNSFW \n🎨Model: @CapriTsuki\n🖌️Art Tag: #IcefireArt",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2016011933527277568/gQlPVRuy_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1497364097708478467/1736916995/1500x500",
-            "followersCount": 3994,
-            "followingCount": 1127,
-            "postsCount": 620,
+            "followersCount": 4000,
+            "followingCount": 1131,
+            "postsCount": 622,
             "accountCreatedAt": "2022-02-26T00:15:14.142Z",
             "profileUrl": "https://x.com/Icefire_vr",
-            "fetchedAt": "2026-08-09T00:08:15Z"
+            "fetchedAt": "2026-08-11T17:30:19Z"
         }
     }
 }

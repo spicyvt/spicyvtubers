@@ -5,24 +5,25 @@
         "login": "pixeltinavt",
         "displayName": "pixeltinaVT",
         "createdAt": "2019-08-17T20:58:00.145244Z",
-        "updatedAt": "2026-08-02T02:13:09.104691Z",
+        "updatedAt": "2026-08-10T00:47:58.491926Z",
         "description": "Oh hola~!!   Bienvenido/a. Soy una DogVtuber y aqui podras encontrar un lugar en donde relajarte, platicar de tu día a día y sobre todo divertirte con mis ocurrencias y mis momentos fallidos en los videojuegos ✨",
         "primaryColorHex": "FFD37A",
         "followers": {
-            "totalCount": 909
+            "totalCount": 911
         },
         "follows": {
-            "totalCount": 263
+            "totalCount": 264
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-01T03:37:41.935807Z"
+            "startedAt": "2026-08-10T02:43:32.731032Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4255cada-2559-4966-91ff-19a45f0ec0db-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b270c597-e136-4bbd-9f69-3e7b10ea036a-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4255cada-2559-4966-91ff-19a45f0ec0db-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b270c597-e136-4bbd-9f69-3e7b10ea036a-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:52:34Z"
     },
     "fansly": {
         "id": "593913896021012480",
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:19Z"
+        "fetchedAt": "2026-08-11T17:51:00Z"
     },
     "twitter": {
         "pixeltinavt": {
@@ -92,7 +93,7 @@
             "postsCount": 2846,
             "accountCreatedAt": "2021-07-31T00:22:28.037Z",
             "profileUrl": "https://x.com/pixeltinavt",
-            "fetchedAt": "2026-08-09T00:07:29Z"
+            "fetchedAt": "2026-08-11T17:29:30Z"
         },
         "inuhimetina": {
             "id": null,
@@ -106,7 +107,7 @@
             "postsCount": null,
             "accountCreatedAt": "2023-05-29T01:00:16.905Z",
             "profileUrl": "https://x.com/InuhimeTina",
-            "fetchedAt": "2026-08-09T00:07:30Z"
+            "fetchedAt": "2026-08-11T17:29:32Z"
         }
     }
 }

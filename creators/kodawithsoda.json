@@ -5,11 +5,11 @@
         "login": "kodawithsoda",
         "displayName": "KodawithSoda",
         "createdAt": "2022-09-17T04:35:32.29833Z",
-        "updatedAt": "2026-08-01T04:01:07.11677Z",
+        "updatedAt": "2026-08-07T22:46:35.582264Z",
         "description": "local goober tanuki (he/they)",
         "primaryColorHex": "FFA3F0",
         "followers": {
-            "totalCount": 616
+            "totalCount": 646
         },
         "follows": {
             "totalCount": 316
@@ -19,10 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-01T06:00:22.740686Z"
+            "startedAt": "2026-08-08T05:28:08.829252Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cbedbeae-3e4e-4a2e-a0c9-b83fd6af568c-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7dde5680-e3ac-4218-92a4-2dea7c48428b-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cbedbeae-3e4e-4a2e-a0c9-b83fd6af568c-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7dde5680-e3ac-4218-92a4-2dea7c48428b-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:55:13Z"
     },
     "twitter": {
         "kodawithsoda": {
@@ -32,12 +33,12 @@
             "description": "Tanuki | FtM | Lvl 23 | 18+ Only | Twitch VTuber & Content Creator | Texture Artist | 💉⚧️: 9-22-24",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2049201687416774656/26ZXdfMM_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1568167778707980288/1751530134/1500x500",
-            "followersCount": 1407,
-            "followingCount": 826,
-            "postsCount": 3425,
+            "followersCount": 1457,
+            "followingCount": 827,
+            "postsCount": 3432,
             "accountCreatedAt": "2022-09-09T09:21:59.377Z",
             "profileUrl": "https://x.com/KodawithSoda",
-            "fetchedAt": "2026-08-09T00:10:53Z"
+            "fetchedAt": "2026-08-11T17:32:57Z"
         }
     }
 }

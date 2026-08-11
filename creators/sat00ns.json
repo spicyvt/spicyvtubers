@@ -5,11 +5,11 @@
         "login": "sat00ns",
         "displayName": "sat00ns",
         "createdAt": "2022-08-16T23:02:53.176287Z",
-        "updatedAt": "2026-08-04T00:22:49.654929Z",
+        "updatedAt": "2026-08-04T02:47:36.347461Z",
         "description": "medieval orc b(i)mbo lewdtuber ♥ #1 Illari fangirl and Roadhog simp",
         "primaryColorHex": "7B9460",
         "followers": {
-            "totalCount": 2247
+            "totalCount": 2244
         },
         "follows": {
             "totalCount": 32
@@ -19,17 +19,18 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-06-20T01:40:39.655485Z"
+            "startedAt": "2026-08-04T05:06:02.861574Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d469905-c787-4992-9895-76de6b1e0019-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e5d0eeb-4792-4f99-8a15-9e3e1522f90e-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d469905-c787-4992-9895-76de6b1e0019-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e5d0eeb-4792-4f99-8a15-9e3e1522f90e-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:00:52Z"
     },
     "fansly": {
         "id": "496138070710562816",
         "username": "sat00ns",
         "displayName": "noons",
         "version": 5,
-        "followCount": 447,
+        "followCount": 444,
         "statusId": 1,
         "accountMediaLikes": 11,
         "postLikes": 22,
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:22Z"
+        "fetchedAt": "2026-08-11T17:52:57Z"
     },
     "twitter": {
         "sat00ns": {
@@ -79,11 +80,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2063758759197855744/6pdGaOZU_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1078858347049336833/1778449179/1500x500",
             "followersCount": 332,
-            "followingCount": 56,
-            "postsCount": 577,
+            "followingCount": 55,
+            "postsCount": 580,
             "accountCreatedAt": "2018-12-29T03:40:48.937Z",
             "profileUrl": "https://x.com/sat00ns",
-            "fetchedAt": "2026-08-09T00:20:00Z"
+            "fetchedAt": "2026-08-11T17:42:08Z"
         }
     }
 }

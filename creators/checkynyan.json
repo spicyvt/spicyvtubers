@@ -5,34 +5,35 @@
         "login": "checkynyan",
         "displayName": "CheckyNyan",
         "createdAt": "2018-01-20T01:55:59.758787Z",
-        "updatedAt": "2026-08-03T19:51:38.37372Z",
+        "updatedAt": "2026-08-11T06:31:25.372087Z",
         "description": "Hihi!! I'm Checky! A cat-water-dragon self drawn (but not rigged) Vtuber! Let's be friends! ♡ I enjoy streaming art and a variety of games! She/They",
         "primaryColorHex": "ADC8FF",
         "followers": {
-            "totalCount": 1253
+            "totalCount": 1254
         },
         "follows": {
-            "totalCount": 656
+            "totalCount": 657
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T00:24:27.821997Z"
+            "startedAt": "2026-08-11T00:22:21.699513Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba8bfb55-4b87-4d62-b7b0-ba805d6b99ba-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0565c815-25f6-466c-a109-933eb2789b28-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba8bfb55-4b87-4d62-b7b0-ba805d6b99ba-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0565c815-25f6-466c-a109-933eb2789b28-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:49:47Z"
     },
     "fansly": {
         "id": "459927521450799104",
         "username": "CheckyNyan",
         "displayName": "CheckyNyan",
         "version": 4,
-        "followCount": 1582,
+        "followCount": 1601,
         "statusId": 1,
-        "accountMediaLikes": 1494,
-        "postLikes": 1755,
+        "accountMediaLikes": 1504,
+        "postLikes": 1763,
         "about": "Hi hi! my name is CheckyNyanChan, or Checky for short! I'm a water dragon cat Vtuber! \n**Message me for my Lovesense Link**\n\n💗I answer all DMs♥\n💗Dick/Pussy/Titty Ratings\n💗I take Requests\n💗https://checkynyaughty.carrd.co/\nhttps://throne.com/checkynyan/wishlist",
         "location": "The Temple",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.rN6R0axZZRsz.m3u8",
                 "chatRoomId": "525168961243852800",
                 "status": 2,
-                "version": 42,
+                "version": 43,
                 "createdAt": 1685314157000,
                 "updatedAt": null,
                 "stream": {
                     "id": "519337872197689345",
-                    "historyId": "940488046107717633",
+                    "historyId": "942319251723673600",
                     "channelId": "519337872197689344",
                     "accountId": "459927521450799104",
-                    "title": "TOY ON [CheckyNyan] Drawing Smut vibe with me",
+                    "title": "TOY ON [CheckyNyan] Summer loving~",
                     "status": 1,
-                    "viewerCount": 13,
-                    "version": 653,
+                    "viewerCount": 10,
+                    "version": 655,
                     "createdAt": 1685314157000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785732608000,
-                    "startedAt": 1785724183000,
+                    "lastFetchedAt": 1786170312000,
+                    "startedAt": 1786160777000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:58Z"
+        "fetchedAt": "2026-08-11T17:50:06Z"
     },
     "twitter": {
         "checkynyanchan": {
@@ -78,12 +79,12 @@
             "description": "She/They🌈\nCat-Dragon VTuber 🌊🐉🐱\nGremlin chaos💖sus💖silly little goober\n💌checkynyanarts@gmail.com\nhttps://t.co/9p5L1SaGyr",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1975262168313483264/h-6C2BgT_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3419200211/1744744975/1500x500",
-            "followersCount": 1343,
+            "followersCount": 1344,
             "followingCount": 807,
-            "postsCount": 9168,
+            "postsCount": 9175,
             "accountCreatedAt": "2015-08-13T01:35:13.592Z",
             "profileUrl": "https://x.com/CheckyNyanChan",
-            "fetchedAt": "2026-08-09T00:03:05Z"
+            "fetchedAt": "2026-08-11T17:24:49Z"
         },
         "checkynyahtsfw": {
             "id": "2046863281957289984",
@@ -94,10 +95,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2046863281957289984/1777539306/1500x500",
             "followersCount": 35,
             "followingCount": 45,
-            "postsCount": 76,
+            "postsCount": 78,
             "accountCreatedAt": "2026-04-22T08:08:02.485Z",
             "profileUrl": "https://x.com/CheckyNyahtSFW",
-            "fetchedAt": "2026-08-09T00:03:07Z"
+            "fetchedAt": "2026-08-11T17:24:51Z"
         }
     }
 }

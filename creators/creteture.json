@@ -5,31 +5,32 @@
         "login": "creteture",
         "displayName": "Creteture",
         "createdAt": "2013-11-24T14:54:37.042543Z",
-        "updatedAt": "2026-08-01T23:17:10.688704Z",
+        "updatedAt": "2026-08-10T16:24:55.233878Z",
         "description": "🌸Let's Play - (J)RPGs - Soulslike🌸@Twitch affiliate🌸Powered by @therogueenergy - @SexyGamerGear - @SpacePandaDelta",
         "primaryColorHex": "7D0700",
         "followers": {
-            "totalCount": 719
+            "totalCount": 761
         },
         "follows": {
-            "totalCount": 374
+            "totalCount": 375
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T16:41:52.139981Z"
+            "startedAt": "2026-08-10T20:53:17.851337Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bafb5050-a12e-4e58-be65-d96dcd4473a1-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e58c818-935e-4a7c-b2b4-3d5aaf99479b-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bafb5050-a12e-4e58-be65-d96dcd4473a1-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e58c818-935e-4a7c-b2b4-3d5aaf99479b-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:01:02Z"
     },
     "fansly": {
         "id": "534240089014804480",
         "username": "Creteture",
         "displayName": "Creteture",
         "version": 7,
-        "followCount": 37,
+        "followCount": 36,
         "statusId": 1,
         "accountMediaLikes": 50,
         "postLikes": 31,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:22Z"
+        "fetchedAt": "2026-08-11T17:53:02Z"
     },
     "twitter": {
         "creteturevt": {
@@ -50,12 +51,12 @@
             "description": "🌸Let's Play - (J)RPGs - Soulslike\n🌸@Twitch affiliate\n🌸Powered by @therogueenergy - @SexyGamerGear -@SpacePandaDelta\n🌸Model/Rigging - @suiika___\n💍@Taini067",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2056070850193887232/rCgJ_R9S_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/61801552/1779040466/1500x500",
-            "followersCount": 2749,
-            "followingCount": 1460,
-            "postsCount": 37915,
+            "followersCount": 2751,
+            "followingCount": 1459,
+            "postsCount": 37928,
             "accountCreatedAt": "2009-07-31T15:55:05.000Z",
             "profileUrl": "https://x.com/creteturevt",
-            "fetchedAt": "2026-08-09T00:20:17Z"
+            "fetchedAt": "2026-08-11T17:42:25Z"
         }
     }
 }

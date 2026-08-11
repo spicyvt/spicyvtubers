@@ -5,11 +5,11 @@
         "login": "aetherealari",
         "displayName": "AetherealAri",
         "createdAt": "2018-01-15T20:58:38.00807Z",
-        "updatedAt": "2026-07-30T17:26:04.187565Z",
+        "updatedAt": "2026-08-06T18:57:49.527336Z",
         "description": "A little angelic Jackalope who wants to be here for you~ ASMR, gaming here and there and just being a gremlin or a caring waifu~",
         "primaryColorHex": "47CCFF",
         "followers": {
-            "totalCount": 19958
+            "totalCount": 19955
         },
         "follows": {
             "totalCount": 169
@@ -19,20 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-30T22:21:35.821571Z"
+            "startedAt": "2026-08-06T23:04:09.593601Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72935f9b-344c-47e3-9454-31700b2e435d-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/37c60ebc-0696-449e-9994-b01137f30cfb-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72935f9b-344c-47e3-9454-31700b2e435d-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/37c60ebc-0696-449e-9994-b01137f30cfb-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:50:52Z"
     },
     "fansly": {
         "id": "919853809201586177",
         "username": "AetherealAri",
         "displayName": null,
         "version": 2,
-        "followCount": 1703,
+        "followCount": 1813,
         "statusId": 1,
-        "accountMediaLikes": 1544,
-        "postLikes": 2181,
+        "accountMediaLikes": 1613,
+        "postLikes": 2275,
         "about": "Silly Jackalope, sometimes a silly space pirate or puppy girl, just wanting to make you feel good and happy every day~ Come play with me ;)",
         "location": "",
         "streaming": {
@@ -43,24 +44,33 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oI4bZROKha1r.m3u8",
                 "chatRoomId": "930296921115873281",
                 "status": 2,
-                "version": 14,
+                "version": 15,
                 "createdAt": 1782432840000,
                 "updatedAt": null,
                 "stream": {
                     "id": "926683151231639553",
-                    "historyId": "940369859127029760",
+                    "historyId": "941921869043351552",
                     "channelId": "926683151231639552",
                     "accountId": "919853809201586177",
-                    "title": "Vr dancy time!",
+                    "title": "How long can you make me suffer?",
                     "status": 1,
-                    "viewerCount": 83,
-                    "version": 22,
+                    "viewerCount": 58,
+                    "version": 24,
                     "createdAt": 1782432840000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785721836000,
-                    "startedAt": 1785696005000,
+                    "lastFetchedAt": 1786074936000,
+                    "startedAt": 1786066033000,
                     "permissions": {
-                        "permissionFlags": []
+                        "permissionFlags": [
+                            {
+                                "id": "941565528084869120",
+                                "streamId": "926683151231639553",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
                     }
                 },
                 "arn": null,
@@ -68,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:09Z"
+        "fetchedAt": "2026-08-11T17:50:28Z"
     },
     "twitter": {
         "aetherealari": {
@@ -78,12 +88,12 @@
             "description": "Ari ENVtuber | she/her | 18+ |Partner| FanArt: #AetherArty\n/Art:@nantokutan\n/ Rig:@MintyCosmos",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1906130654229630976/xzGNbF9l_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1362501089384275969/1780945216/1500x500",
-            "followersCount": 3234,
+            "followersCount": 3231,
             "followingCount": 535,
-            "postsCount": 8412,
+            "postsCount": 8415,
             "accountCreatedAt": "2021-02-18T20:36:03.567Z",
             "profileUrl": "https://x.com/AetherealAri",
-            "fetchedAt": "2026-08-09T00:04:51Z"
+            "fetchedAt": "2026-08-11T17:26:40Z"
         }
     }
 }

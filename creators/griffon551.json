@@ -9,10 +9,10 @@
         "description": "Welcome to my channel. My name is Griffon and I'm a raccoon vtuber. I stream a variety of games and love interacting with chat. If you enjoy my content and would like to help the channel grow, please drop a follow or consider subscribing. Thanks for stopping by and have a wonderful day!",
         "primaryColorHex": "DDC9A8",
         "followers": {
-            "totalCount": 439
+            "totalCount": 438
         },
         "follows": {
-            "totalCount": 253
+            "totalCount": 254
         },
         "roles": {
             "isPartner": false,
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-06-16T03:02:08.981379Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/654dc522-6622-48db-bcfc-0fd347a86f57-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02977416-39c9-40f3-a8da-e7d827216c32-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/654dc522-6622-48db-bcfc-0fd347a86f57-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02977416-39c9-40f3-a8da-e7d827216c32-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:54:06Z"
     },
     "twitter": {
         "griffon551": {
@@ -37,7 +38,7 @@
             "postsCount": 318,
             "accountCreatedAt": "2022-01-01T22:20:31.168Z",
             "profileUrl": "https://x.com/Griffon551",
-            "fetchedAt": "2026-08-09T00:09:27Z"
+            "fetchedAt": "2026-08-11T17:31:29Z"
         }
     }
 }

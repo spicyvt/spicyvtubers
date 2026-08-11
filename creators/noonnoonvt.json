@@ -5,31 +5,32 @@
         "login": "noonnoonvt",
         "displayName": "NoonNoonVT",
         "createdAt": "2018-04-02T08:01:41.060683Z",
-        "updatedAt": "2026-07-20T18:01:10.732195Z",
+        "updatedAt": "2026-08-06T01:56:46.413025Z",
         "description": "Deep voiced wolf boy ",
         "primaryColorHex": "FF38DB",
         "followers": {
-            "totalCount": 10767
+            "totalCount": 10738
         },
         "follows": {
-            "totalCount": 32
+            "totalCount": 30
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-20T20:22:02.486141Z"
+            "startedAt": "2026-08-06T04:16:33.983444Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9710362b-4cd6-4f8f-9b97-b249eb16d310-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1675c0e9-559d-43f8-9cce-41e27b488040-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9710362b-4cd6-4f8f-9b97-b249eb16d310-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1675c0e9-559d-43f8-9cce-41e27b488040-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:43:01Z"
     },
     "fansly": {
         "id": "625138695942447104",
         "username": "NotNoonNoon",
         "displayName": "NoonNoon",
         "version": 5,
-        "followCount": 383,
+        "followCount": 389,
         "statusId": 1,
         "accountMediaLikes": 25,
         "postLikes": 85,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:49Z"
+        "fetchedAt": "2026-08-11T17:47:53Z"
     },
     "twitter": {
         "noonnoonbonk": {
@@ -50,12 +51,12 @@
             "description": "🥑Content Creator Furboy🥑\n\n🥩https://t.co/l6migkRo0k🥩\n 🍔 https://t.co/IAIXqbyKX3🍔\n🥑https://t.co/t4N2vSNRTi 🥑",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1991822212240695296/JCVl6EoA_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1876501575495249920/1763722396/1500x500",
-            "followersCount": 34107,
+            "followersCount": 34099,
             "followingCount": 3,
-            "postsCount": 440,
+            "postsCount": 444,
             "accountCreatedAt": "2025-01-07T05:30:33.217Z",
             "profileUrl": "https://x.com/NoonNoonbonk",
-            "fetchedAt": "2026-08-08T23:51:49Z"
+            "fetchedAt": "2026-08-11T17:12:48Z"
         }
     }
 }

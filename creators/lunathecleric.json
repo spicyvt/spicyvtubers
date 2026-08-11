@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-07-18T21:00:48.664327Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c763afd1-f980-4b71-aed5-f06cbbc14d04-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffba49a9-437c-48db-8b6b-844ade7a4630-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c763afd1-f980-4b71-aed5-f06cbbc14d04-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffba49a9-437c-48db-8b6b-844ade7a4630-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:54:39Z"
     },
     "fansly": {
         "id": "385123216647004160",
@@ -85,7 +86,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:35Z"
+        "fetchedAt": "2026-08-11T17:51:26Z"
     },
     "twitter": {
         "lunathecleric": {
@@ -97,10 +98,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1002285172820234242/1776102589/1500x500",
             "followersCount": 256,
             "followingCount": 162,
-            "postsCount": 8383,
+            "postsCount": 8382,
             "accountCreatedAt": "2018-05-31T20:26:21.543Z",
             "profileUrl": "https://x.com/LunaTheCleric",
-            "fetchedAt": "2026-08-09T00:10:09Z"
+            "fetchedAt": "2026-08-11T17:32:12Z"
         }
     }
 }

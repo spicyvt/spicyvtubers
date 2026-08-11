@@ -5,34 +5,35 @@
         "login": "camizolecorzette",
         "displayName": "CamizoleCorzette",
         "createdAt": "2024-03-18T13:08:37.768157Z",
-        "updatedAt": "2026-08-03T18:51:05.543876Z",
+        "updatedAt": "2026-08-08T23:06:02.525075Z",
         "description": "Sock Agency's captive hag.",
         "primaryColorHex": "F3A7BF",
         "followers": {
-            "totalCount": 14834
+            "totalCount": 15026
         },
         "follows": {
-            "totalCount": 290
+            "totalCount": 293
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T22:56:00.937807Z"
+            "startedAt": "2026-08-09T02:07:15.683696Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d586226-9584-4bea-8fab-49247817fb40-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26a1c51b-7516-4302-bd72-71dbe76b6b0b-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d586226-9584-4bea-8fab-49247817fb40-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26a1c51b-7516-4302-bd72-71dbe76b6b0b-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:48:40Z"
     },
     "fansly": {
         "id": "712566636506259457",
         "username": "Camizole",
         "displayName": "Camizole",
         "version": 7,
-        "followCount": 1202,
+        "followCount": 1208,
         "statusId": 1,
         "accountMediaLikes": 92,
-        "postLikes": 480,
+        "postLikes": 483,
         "about": "Oh gosh here we go. ",
         "location": "Locked in a cell.",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:47Z"
+        "fetchedAt": "2026-08-11T17:49:50Z"
     },
     "twitter": {
         "camizolevt": {
@@ -87,12 +88,12 @@
             "description": "@SocksAgency’s captivating hag | Not-so-secret Princess 👑 | GamerSupps: HAG\n\n🎨 #CamizART\n🔞 #CamizOHNO\n🎬#CLIPizole\n🤡#CaMEMEzole",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2076200087739371520/dxstUat1_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1769492630419767297/1784181508/1500x500",
-            "followersCount": 19665,
-            "followingCount": 1347,
-            "postsCount": 10459,
+            "followersCount": 19687,
+            "followingCount": 1353,
+            "postsCount": 10488,
             "accountCreatedAt": "2024-03-17T22:35:01.201Z",
             "profileUrl": "https://x.com/CamizoleVT",
-            "fetchedAt": "2026-08-09T00:01:17Z"
+            "fetchedAt": "2026-08-11T17:22:52Z"
         },
         "camizohno": {
             "id": "1848850821481402368",
@@ -101,12 +102,12 @@
             "description": "NSFW captive hag | 🔞 #CamizOHNO | PFP and Banner by @lewdwok",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1848851275909349376/wE4sNaKK_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1848850821481402368/1729635779/1500x500",
-            "followersCount": 3792,
+            "followersCount": 3793,
             "followingCount": 48,
             "postsCount": 154,
             "accountCreatedAt": "2024-10-22T22:16:07.723Z",
             "profileUrl": "https://x.com/camizohno",
-            "fetchedAt": "2026-08-09T00:01:18Z"
+            "fetchedAt": "2026-08-11T17:22:53Z"
         }
     }
 }

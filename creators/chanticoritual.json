@@ -5,34 +5,35 @@
         "login": "chanticoritual",
         "displayName": "ChanticoRitual",
         "createdAt": "2025-05-05T07:37:59.875403Z",
-        "updatedAt": "2026-08-01T04:36:46.48606Z",
+        "updatedAt": "2026-08-11T00:50:24.422847Z",
         "description": "I'm Chantico! A Vamp Witch VTuber. 🦇🧡 Variety Gaming + Reacts!🖤 Email: chanticoritual@gmail.com ",
         "primaryColorHex": "FE6D2B",
         "followers": {
-            "totalCount": 5276
+            "totalCount": 5286
         },
         "follows": {
-            "totalCount": 128
+            "totalCount": 127
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-01T10:19:00.031401Z"
+            "startedAt": "2026-08-07T10:19:15.726641Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a774e5bd-c0d4-4044-a57f-271c1f275031-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/968fdf49-e6b8-43fe-8ee6-ac30dbf8d127-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a774e5bd-c0d4-4044-a57f-271c1f275031-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/968fdf49-e6b8-43fe-8ee6-ac30dbf8d127-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:39:56Z"
     },
     "fansly": {
         "id": "843098605312024576",
         "username": "BatBruja",
         "displayName": "Mistress Chanti",
         "version": 10,
-        "followCount": 1218,
+        "followCount": 1227,
         "statusId": 3,
         "accountMediaLikes": 1794,
-        "postLikes": 1024,
+        "postLikes": 1027,
         "about": "Mistress Chanti will see you now. In this house of bliss, you'll find worship of a different kind.\n\nOn. Your. Knees.\nhttps://link.me/chanticoritual\n\nAll of my content is copyrighted content that I own. ",
         "location": "Summoning Circle",
         "streaming": {
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:12Z"
+        "fetchedAt": "2026-08-11T17:46:42Z"
     },
     "twitter": {
         "chanticoritual": {
@@ -50,12 +51,12 @@
             "description": "Vampire Witch VTuber 🧡YouTube + Twitch Partner 🩸#ChanticoArt #ChanticoFire | chanticoritual@gmail.com | Mama: @/toriihoney",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1962665267294797824/UcVttlaU_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1919276531811315712/1755550279/1500x500",
-            "followersCount": 2712,
+            "followersCount": 2715,
             "followingCount": 2337,
             "postsCount": 1250,
             "accountCreatedAt": "2025-05-05T06:25:26.494Z",
             "profileUrl": "https://x.com/chanticoritual",
-            "fetchedAt": "2026-08-08T23:45:33Z"
+            "fetchedAt": "2026-08-11T17:06:33Z"
         }
     }
 }

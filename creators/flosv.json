@@ -5,31 +5,32 @@
         "login": "flosv",
         "displayName": "FlosV",
         "createdAt": "2017-02-16T22:09:05.66607Z",
-        "updatedAt": "2026-07-25T16:40:25.153464Z",
+        "updatedAt": "2026-08-11T14:38:49.093878Z",
         "description": "⛧Zmora Vtuber ⛧ Artist ⛧Business Contact: flosvbusiness@gmail.com",
         "primaryColorHex": "FF0099",
         "followers": {
-            "totalCount": 5881
+            "totalCount": 5887
         },
         "follows": {
-            "totalCount": 514
+            "totalCount": 516
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-25T16:52:20.311091Z"
+            "startedAt": "2026-08-11T15:53:16.049692Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22add1b1-be59-45f7-8be3-a29996db30c9-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/529a77fb-15e3-41da-b7be-737c0aaeb520-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22add1b1-be59-45f7-8be3-a29996db30c9-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/529a77fb-15e3-41da-b7be-737c0aaeb520-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:00:41Z"
     },
     "fansly": {
         "id": "445392984477802496",
         "username": "FlosV",
         "displayName": null,
         "version": 4,
-        "followCount": 2671,
+        "followCount": 2680,
         "statusId": 3,
         "accountMediaLikes": 636,
         "postLikes": 581,
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:17Z"
+        "fetchedAt": "2026-08-11T17:52:57Z"
     },
     "twitter": {
         "_flosv": {
@@ -78,12 +79,12 @@
             "description": "Zmora Vtuber // streamer //Art Tag: #flosvlust // Live Tag: #FlosVlive\nBanner - @LissoStudio // PfP - @Zhennii",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1934938968337899520/VOS_OkYw_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/398215420/1749463854/1500x500",
-            "followersCount": 908,
-            "followingCount": 852,
-            "postsCount": 1712,
+            "followersCount": 911,
+            "followingCount": 853,
+            "postsCount": 1714,
             "accountCreatedAt": "2011-10-25T18:58:39.000Z",
             "profileUrl": "https://x.com/_FlosV",
-            "fetchedAt": "2026-08-09T00:19:47Z"
+            "fetchedAt": "2026-08-11T17:41:54Z"
         }
     }
 }

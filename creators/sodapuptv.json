@@ -5,24 +5,25 @@
         "login": "sodapuptv",
         "displayName": "SodaPupTV",
         "createdAt": "2022-09-29T00:20:40.500455Z",
-        "updatedAt": "2026-07-31T02:46:28.85103Z",
+        "updatedAt": "2026-08-07T01:27:59.275374Z",
         "description": "Just your cute lil vampire bunny who may also be a part-time streamer, why not come lay in my lap as you watch me play random games hmmm~",
         "primaryColorHex": "DE67FF",
         "followers": {
-            "totalCount": 7358
+            "totalCount": 7513
         },
         "follows": {
-            "totalCount": 76
+            "totalCount": 78
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T08:46:37.476475Z"
+            "startedAt": "2026-08-09T06:22:35.331292Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0e42a80-1ad5-43e5-abc5-1fa8184a1ec3-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0808bf71-d6cb-4a45-8e50-c231dd17f1cf-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0e42a80-1ad5-43e5-abc5-1fa8184a1ec3-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0808bf71-d6cb-4a45-8e50-c231dd17f1cf-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T17:01:07Z"
     },
     "twitter": {
         "sodapupofficial": {
@@ -32,12 +33,12 @@
             "description": "MDNI\nTWITCH PARTNER!!!\n\nReasons To Watch SodaPup\n- I'll flirt with you\n- I'll flirt with you\n- I say funny gooner things\n- I'll flirt with you\n- What Say You?~",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2047933626567028736/-I8gE-tt_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1759155429190377472/1778239694/1500x500",
-            "followersCount": 3724,
+            "followersCount": 3739,
             "followingCount": 13,
             "postsCount": 97,
             "accountCreatedAt": "2024-02-18T09:58:44.581Z",
             "profileUrl": "https://x.com/SodaPupOfficial",
-            "fetchedAt": "2026-08-09T00:20:24Z"
+            "fetchedAt": "2026-08-11T17:42:32Z"
         }
     }
 }

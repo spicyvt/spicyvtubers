@@ -5,11 +5,11 @@
         "login": "kimariroseva",
         "displayName": "kimariroseva",
         "createdAt": "2020-06-11T02:51:18.212335Z",
-        "updatedAt": "2026-07-31T02:10:42.138541Z",
+        "updatedAt": "2026-08-11T02:09:03.206352Z",
         "description": "Soft, intimate, playful ✧ 18+ writer // your favorite cheeky sub VA // Dreamweaver VTuber ✧ Streams on Tuesdays & Thursdays at 6 pm PST, with occasional weekend pop-up streams",
         "primaryColorHex": "000000",
         "followers": {
-            "totalCount": 1702
+            "totalCount": 1740
         },
         "follows": {
             "totalCount": 45
@@ -19,17 +19,18 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-31T04:35:57.439376Z"
+            "startedAt": "2026-08-07T04:50:16.105562Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a4c7769-2e32-49bd-9034-fffb0fe5c0cf-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3aa0cbf6-ff19-4b43-9e66-af6d530abf18-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a4c7769-2e32-49bd-9034-fffb0fe5c0cf-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3aa0cbf6-ff19-4b43-9e66-af6d530abf18-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:44:50Z"
     },
     "fansly": {
         "id": "831751369760202752",
         "username": "KimariRoseVA",
         "displayName": "KimariRoseVA",
         "version": 10,
-        "followCount": 46,
+        "followCount": 50,
         "statusId": 1,
         "accountMediaLikes": 2,
         "postLikes": 4,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:10Z"
+        "fetchedAt": "2026-08-11T17:48:35Z"
     },
     "twitter": {
         "kimariroseva": {
@@ -50,12 +51,12 @@
             "description": "Intimate, playful, sleepy ✧ writer & editor // cheeky sub VA // Dreamweaver VTuber ✧ https://t.co/NCenaPwoUj ✧ https://t.co/pk5z98ydkv",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2040156296641716224/Ouih5MSx_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1941691667989540864/1760483906/1500x500",
-            "followersCount": 12389,
-            "followingCount": 151,
-            "postsCount": 7157,
+            "followersCount": 12458,
+            "followingCount": 155,
+            "postsCount": 7192,
             "accountCreatedAt": "2025-07-06T02:52:37.308Z",
             "profileUrl": "https://x.com/KimariRoseVA",
-            "fetchedAt": "2026-08-08T23:55:09Z"
+            "fetchedAt": "2026-08-11T17:16:21Z"
         },
         "kimarithorne": {
             "id": "1941693250554953731",
@@ -64,12 +65,12 @@
             "description": "Every rose has its thorns. And this rose has many. Back-up/alt acct. VA/VTuber acct: @KimariRoseVA",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2044814861067276288/FH2Eu1Pb_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1941693250554953731/1776365917/1500x500",
-            "followersCount": 229,
+            "followersCount": 235,
             "followingCount": 1,
-            "postsCount": 764,
+            "postsCount": 777,
             "accountCreatedAt": "2025-07-06T02:59:16.778Z",
             "profileUrl": "https://x.com/KimariThorne",
-            "fetchedAt": "2026-08-08T23:55:11Z"
+            "fetchedAt": "2026-08-11T17:16:22Z"
         }
     }
 }

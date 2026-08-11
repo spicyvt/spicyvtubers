@@ -5,34 +5,35 @@
         "login": "moonbuvr",
         "displayName": "MoonBuVR",
         "createdAt": "2024-03-30T05:22:37.265679Z",
-        "updatedAt": "2026-08-01T22:27:52.716752Z",
+        "updatedAt": "2026-08-11T00:06:44.362996Z",
         "description": "Just a lil tiger c:",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 16219
+            "totalCount": 16643
         },
         "follows": {
-            "totalCount": 173
+            "totalCount": 172
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T22:04:08.34996Z"
+            "startedAt": "2026-08-11T02:56:13.380719Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d049255-fcac-4b19-9df7-6befd60e7cde-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b00d995d-1579-46d8-9140-963a822ff3e1-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d049255-fcac-4b19-9df7-6befd60e7cde-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b00d995d-1579-46d8-9140-963a822ff3e1-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:52:48Z"
     },
     "fansly": {
         "id": "850696671787511808",
         "username": "MoonBu",
         "displayName": null,
         "version": 4,
-        "followCount": 11462,
+        "followCount": 11626,
         "statusId": 3,
-        "accountMediaLikes": 14129,
-        "postLikes": 6174,
+        "accountMediaLikes": 14538,
+        "postLikes": 6462,
         "about": "ღ Your Favorite Ferocious Tiger ღ\n\nღ Streams every Saturday (7:30PM EST) ღ\n\nღ 3-4 posts Weekly ღ",
         "location": "",
         "streaming": {
@@ -48,21 +49,21 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "853578614946410501",
-                    "historyId": "940118162442051584",
+                    "historyId": "942656284946087936",
                     "channelId": "853578614946410500",
                     "accountId": "850696671787511808",
                     "title": "New toy maybeeee? 👉👈 ♡ Shock Collar / Gemini / Lush / Hush / Velvo",
                     "status": 1,
-                    "viewerCount": 95,
-                    "version": 198,
+                    "viewerCount": 108,
+                    "version": 202,
                     "createdAt": 1765003360000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785643902000,
-                    "startedAt": 1785635996000,
+                    "lastFetchedAt": 1786249336000,
+                    "startedAt": 1786241132000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "940152394170249216",
+                                "id": "942655815825768448",
                                 "streamId": "853578614946410501",
                                 "type": 0,
                                 "flags": 4,
@@ -70,20 +71,12 @@
                                 "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
                             },
                             {
-                                "id": "940152394170249217",
+                                "id": "942655815825768449",
                                 "streamId": "853578614946410501",
                                 "type": 0,
                                 "flags": 128,
                                 "price": 0,
                                 "metadata": "{\"128\":\"{\\\"listId\\\":\\\"866531739420336128\\\",\\\"label\\\":\\\"Big\\\"}\"}"
-                            },
-                            {
-                                "id": "940152394170249218",
-                                "streamId": "853578614946410501",
-                                "type": 0,
-                                "flags": 2,
-                                "price": 0,
-                                "metadata": ""
                             }
                         ]
                     }
@@ -93,7 +86,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:24Z"
+        "fetchedAt": "2026-08-11T17:51:05Z"
     },
     "twitter": {
         "moonbuvr": {
@@ -108,7 +101,7 @@
             "postsCount": null,
             "accountCreatedAt": "2024-03-30T05:27:05.522Z",
             "profileUrl": "https://x.com/MoonBuVR",
-            "fetchedAt": "2026-08-09T00:07:53Z"
+            "fetchedAt": "2026-08-11T17:29:56Z"
         }
     }
 }

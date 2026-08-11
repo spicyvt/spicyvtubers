@@ -5,11 +5,11 @@
         "login": "benjy",
         "displayName": "Benjy",
         "createdAt": "2018-10-15T18:31:22.188188Z",
-        "updatedAt": "2026-08-03T17:53:49.678609Z",
+        "updatedAt": "2026-08-09T20:57:03.68484Z",
         "description": "Cat creature",
         "primaryColorHex": "FBBADC",
         "followers": {
-            "totalCount": 47869
+            "totalCount": 47845
         },
         "follows": {
             "totalCount": 213
@@ -19,20 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T21:01:19.978995Z"
+            "startedAt": "2026-08-09T20:53:14.3624Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf7959d8-23ae-4269-8e5e-083e8b1ee584-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2fdfe5c-220e-48f4-bea5-e0164f1c9cc7-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf7959d8-23ae-4269-8e5e-083e8b1ee584-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2fdfe5c-220e-48f4-bea5-e0164f1c9cc7-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:01:09Z"
     },
     "fansly": {
         "id": "393218177481322496",
         "username": "BenjyVR",
         "displayName": "Benjy",
         "version": 6,
-        "followCount": 16759,
+        "followCount": 16785,
         "statusId": 1,
-        "accountMediaLikes": 14768,
-        "postLikes": 14741,
+        "accountMediaLikes": 14777,
+        "postLikes": 14746,
         "about": "❤ I'm Benjy\n❤ This is my horny corner, cum in!\n❤ I am 100% natural, no enhancements, no estrogen. I worked hard for my body.\n❤ VR / IRL Femboy content creator here to make you question your sexuality\n❤ All of my socials: https://cosoc.com/benjy\n❤ Twitch: https://www.twitch.tv/benjy\n❤ Tiers / Posts are synced with Patreon!",
         "location": "Your bed",
         "streaming": {
@@ -85,7 +86,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:22Z"
+        "fetchedAt": "2026-08-11T17:53:02Z"
     },
     "twitter": {
         "benjyvr": {
@@ -95,12 +96,12 @@
             "description": "❤ Twitch #partner ★ cat creature ★ NSFW is: @BenjyVT ★ #VTuber #ENVtuber ★ 🎨 Art tags: #Artjy #Lewdjy ★ All socials below ❤",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1707756348476133376/LFitB7Wj_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1196511992254795777/1712567598/1500x500",
-            "followersCount": 64832,
+            "followersCount": 64867,
             "followingCount": 367,
-            "postsCount": 5103,
+            "postsCount": 5104,
             "accountCreatedAt": "2019-11-18T19:34:41.939Z",
             "profileUrl": "https://x.com/BenjyVR",
-            "fetchedAt": "2026-08-09T00:20:25Z"
+            "fetchedAt": "2026-08-11T17:42:34Z"
         },
         "benjyvt": {
             "id": "1874643428455464960",
@@ -109,12 +110,12 @@
             "description": "NSFW content 🔞 no minors ★ SFW is: @BenjyVR ★ #VTuber #ENVtuber ★ 🎨 Art tags: #Artjy #Lewdjy ★ All socials below ❤",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1874653576431034368/hrufxu_h_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1874643428455464960/1735786431/1500x500",
-            "followersCount": 3759,
+            "followersCount": 3802,
             "followingCount": 5,
             "postsCount": 7,
             "accountCreatedAt": "2025-01-02T02:29:26.558Z",
             "profileUrl": "https://x.com/BenjyVT",
-            "fetchedAt": "2026-08-09T00:20:27Z"
+            "fetchedAt": "2026-08-11T17:42:35Z"
         }
     }
 }

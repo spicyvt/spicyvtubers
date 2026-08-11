@@ -12,7 +12,7 @@
             "totalCount": 1706
         },
         "follows": {
-            "totalCount": 1221
+            "totalCount": 1223
         },
         "roles": {
             "isPartner": false,
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-07-28T23:27:07.04357Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63538f65-e6a5-428a-bedb-6405772dffce-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a77103-4c85-4ba8-979e-b338c9d14b74-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63538f65-e6a5-428a-bedb-6405772dffce-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a77103-4c85-4ba8-979e-b338c9d14b74-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:53:37Z"
     },
     "fansly": {
         "id": "688873025117892608",
@@ -31,7 +32,7 @@
         "version": 3,
         "followCount": 76,
         "statusId": 3,
-        "accountMediaLikes": 154,
+        "accountMediaLikes": 156,
         "postLikes": 86,
         "about": "Part-Time V-Tuber, Full-time Catgirl\nA little catgirl thing whose pronouns are It/Its\nDisabled kitty trying to thrive, maybe give it a few dollars so it can eat better, nya?~",
         "location": "",
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:30Z"
+        "fetchedAt": "2026-08-11T17:51:16Z"
     },
     "twitter": {
         "briarthornevr": {
@@ -78,12 +79,12 @@
             "description": "Cait Sidhe Vtuber |\nAutistic trans woman |\nVideographer |\nMinors DNI 🔞 |\nCall me Briar, Kitty, or Mia |\nShe/It pronouns |\nCait Sidhe Radio Host",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2075047975336751104/7XV_IJJl_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/778517270071021568/1776997630/1500x500",
-            "followersCount": 771,
-            "followingCount": 1519,
-            "postsCount": 13200,
+            "followersCount": 772,
+            "followingCount": 1520,
+            "postsCount": 13201,
             "accountCreatedAt": "2016-09-21T08:52:36.151Z",
             "profileUrl": "https://x.com/BriarThorneVR",
-            "fetchedAt": "2026-08-09T00:08:55Z"
+            "fetchedAt": "2026-08-11T17:30:58Z"
         }
     },
     "bluesky": {
@@ -98,6 +99,6 @@
         "postsCount": 724,
         "accountCreatedAt": "2023-09-27T19:23:33.060Z",
         "profileUrl": "https://bsky.app/profile/zaynakitty.tv",
-        "fetchedAt": "2026-08-09T00:23:11Z"
+        "fetchedAt": "2026-08-11T17:45:34Z"
     }
 }

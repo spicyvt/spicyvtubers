@@ -9,10 +9,10 @@
         "description": "Cozy puppy coded girl on the internet. Wait why is there a hole in your peanut butter jar? || 💌 nyxia.inbox@gmail.com",
         "primaryColorHex": "A0000C",
         "followers": {
-            "totalCount": 6754
+            "totalCount": 6719
         },
         "follows": {
-            "totalCount": 1276
+            "totalCount": 1277
         },
         "roles": {
             "isPartner": true,
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-07-17T00:12:13.991234Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/477fe8e8-39f0-467e-af21-82ff51bad793-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8015bd38-4589-4ab2-82d4-339efdace9a5-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/477fe8e8-39f0-467e-af21-82ff51bad793-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8015bd38-4589-4ab2-82d4-339efdace9a5-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:40:48Z"
     },
     "fansly": {
         "id": "647258815393181696",
         "username": "noire_vt",
         "displayName": "Noire",
         "version": 7,
-        "followCount": 1402,
+        "followCount": 1447,
         "statusId": 3,
         "accountMediaLikes": 128,
         "postLikes": 264,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:23Z"
+        "fetchedAt": "2026-08-11T17:47:04Z"
     },
     "twitter": {
         "nyxianoire": {
@@ -50,12 +51,12 @@
             "description": "Cringe, bratty & puppy coded streamer\n@Twitch & @Kick PARTNER\n૮₍ ´ ꒳ `₎ა ₊˚⊹ 𐂯\nalt: @noire_afterdark\nhttps://t.co/rn1yLsxGSi\nhttps://t.co/jwRhpQ2bbM",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1971474437703626753/_FiYhucK_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1641855547577073669/1766931345/1500x500",
-            "followersCount": 16014,
-            "followingCount": 5886,
-            "postsCount": 7115,
+            "followersCount": 16029,
+            "followingCount": 5885,
+            "postsCount": 7127,
             "accountCreatedAt": "2023-03-31T17:31:01.336Z",
             "profileUrl": "https://x.com/NyxiaNoire",
-            "fetchedAt": "2026-08-08T23:47:05Z"
+            "fetchedAt": "2026-08-11T17:08:06Z"
         },
         "noire_afterdark": {
             "id": "723507958198484992",
@@ -65,11 +66,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2053827313419026432/j54iQopD_400x400.png",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/723507958198484992/1760729620/1500x500",
             "followersCount": 3132,
-            "followingCount": 175,
+            "followingCount": 176,
             "postsCount": 165,
             "accountCreatedAt": "2016-04-22T13:45:14.227Z",
             "profileUrl": "https://x.com/noire_afterdark",
-            "fetchedAt": "2026-08-08T23:47:07Z"
+            "fetchedAt": "2026-08-11T17:08:08Z"
         }
     }
 }

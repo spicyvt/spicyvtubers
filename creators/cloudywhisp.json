@@ -5,11 +5,11 @@
         "login": "cloudywhisp",
         "displayName": "cloudywhisp",
         "createdAt": "2025-03-06T17:59:07.306337Z",
-        "updatedAt": "2026-07-16T16:58:23.41904Z",
+        "updatedAt": "2026-08-10T18:29:38.270764Z",
         "description": "WOOSH I'M CLOUDY",
         "primaryColorHex": "7A90BB",
         "followers": {
-            "totalCount": 276
+            "totalCount": 280
         },
         "follows": {
             "totalCount": 17
@@ -19,10 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-16T21:34:17.47552Z"
+            "startedAt": "2026-08-10T19:24:02.897257Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3396f053-57d8-407c-82e8-cc7b998a3fdb-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/605e7985-1cca-4c65-941f-ed5a8a08a013-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3396f053-57d8-407c-82e8-cc7b998a3fdb-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/605e7985-1cca-4c65-941f-ed5a8a08a013-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:56:45Z"
     },
     "twitter": {
         "cloudywhisp": {
@@ -32,12 +33,12 @@
             "description": "menhera cloudfailure ☁ 💤 コミュ症の曇\ntwitch affiliate + youtube partner\n\nhttps://t.co/Hkvjo74ctp",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1894204244867080192/N18rSy6R_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1894203863491584000/1765063874/1500x500",
-            "followersCount": 324,
-            "followingCount": 51,
-            "postsCount": 964,
+            "followersCount": 327,
+            "followingCount": 50,
+            "postsCount": 965,
             "accountCreatedAt": "2025-02-25T01:52:54.935Z",
             "profileUrl": "https://x.com/cloudywhisp",
-            "fetchedAt": "2026-08-09T00:13:28Z"
+            "fetchedAt": "2026-08-11T17:35:32Z"
         }
     }
 }

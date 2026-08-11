@@ -5,24 +5,25 @@
         "login": "ttv_astolfo2",
         "displayName": "ttv_astolfo2",
         "createdAt": "2019-10-06T13:46:14.003736Z",
-        "updatedAt": "2026-07-30T03:22:06.519263Z",
+        "updatedAt": "2026-08-10T17:03:20.905673Z",
         "description": "hi im astolfo and i stream any game i have installed and also make sure to check at my wishlist at https://throne.com/ttv_astolfo",
         "primaryColorHex": "AE1392",
         "followers": {
-            "totalCount": 198
+            "totalCount": 201
         },
         "follows": {
-            "totalCount": 300
+            "totalCount": 303
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-30T03:21:24.235446Z"
+            "startedAt": "2026-08-10T00:57:46.922011Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1661ba15-6605-4b45-8220-6dbf7bfff424-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31d44ecf-965c-417c-8a5d-36de4b80d463-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1661ba15-6605-4b45-8220-6dbf7bfff424-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31d44ecf-965c-417c-8a5d-36de4b80d463-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:50:47Z"
     },
     "fansly": {
         "id": "520871989242507264",
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:03Z"
+        "fetchedAt": "2026-08-11T17:50:28Z"
     },
     "twitter": {
         "ttv_astolfo660": {
@@ -50,12 +51,12 @@
             "description": "cat girl png twitch creator content creator weird @twitch affiliated 193 followers and a cool dude use code TTV_Astolfo at @waifuwaresUK\npfp by @kuromoggyart1",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2043477609447563264/y77cpFjY_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1508528713541070856/1781219126/1500x500",
-            "followersCount": 300,
-            "followingCount": 668,
-            "postsCount": 1766,
+            "followersCount": 301,
+            "followingCount": 669,
+            "postsCount": 1776,
             "accountCreatedAt": "2022-03-28T19:37:37.953Z",
             "profileUrl": "https://x.com/TTV_Astolfo660",
-            "fetchedAt": "2026-08-09T00:04:41Z"
+            "fetchedAt": "2026-08-11T17:26:30Z"
         },
         "ttvastolfonsfw": {
             "id": "1610212328431050753",
@@ -69,7 +70,7 @@
             "postsCount": 78,
             "accountCreatedAt": "2023-01-03T09:52:02.258Z",
             "profileUrl": "https://x.com/TTVAstolfoNSFW",
-            "fetchedAt": "2026-08-09T00:04:42Z"
+            "fetchedAt": "2026-08-11T17:26:32Z"
         }
     }
 }

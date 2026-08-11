@@ -5,14 +5,14 @@
         "login": "darlingmori",
         "displayName": "darlingmori",
         "createdAt": "2021-02-11T07:10:09.096379Z",
-        "updatedAt": "2026-08-02T08:25:39.023096Z",
+        "updatedAt": "2026-08-08T15:17:59.238521Z",
         "description": "If I had to describe myself in one word, it would be bad at following directions ⚰️ Aussie Grim Reaper-Vamp Catgirl with unhinged ADHD and a \"big personality\" 🖤 Business email: darlingmorivt@gmail.com",
         "primaryColorHex": "A044DA",
         "followers": {
-            "totalCount": 19548
+            "totalCount": 19513
         },
         "follows": {
-            "totalCount": 1101
+            "totalCount": 609
         },
         "roles": {
             "isPartner": true,
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-07-30T12:53:36.776128Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/93c1229c-83c2-4e46-96a4-20898d4658b7-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb0e0911-6369-4f0f-ab90-eec4f7c014a1-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/93c1229c-83c2-4e46-96a4-20898d4658b7-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb0e0911-6369-4f0f-ab90-eec4f7c014a1-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:41:10Z"
     },
     "fansly": {
         "id": "658068001425207297",
         "username": "DarlingMoriVA",
         "displayName": "DarlingMori",
         "version": 9,
-        "followCount": 2449,
+        "followCount": 2441,
         "statusId": 3,
         "accountMediaLikes": 1966,
         "postLikes": 1772,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:28Z"
+        "fetchedAt": "2026-08-11T17:47:10Z"
     },
     "twitter": {
         "darlingmorivt": {
@@ -50,12 +51,12 @@
             "description": "26 🎂 Backrooms Catgirl Vtuber\n💀 @twitch partner \n⚰️ @gamersupps code: DARLINGMORI\n🎨 @teruki201 @ladycheese1 #morisketch\n🔞 MDNI",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2073069360177143808/jZg5UR3f_400x400.png",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1559214211833958400/1783723442/1500x500",
-            "followersCount": 18632,
-            "followingCount": 1068,
-            "postsCount": 14612,
+            "followersCount": 18612,
+            "followingCount": 1066,
+            "postsCount": 14620,
             "accountCreatedAt": "2022-08-15T16:23:39.820Z",
             "profileUrl": "https://x.com/DarlingMoriVT",
-            "fetchedAt": "2026-08-08T23:47:44Z"
+            "fetchedAt": "2026-08-11T17:08:48Z"
         },
         "darlingmori_": {
             "id": "1769055591883001856",
@@ -65,11 +66,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2077703845459963904/-V2ebvog_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1769055591883001856/1784189838/1500x500",
             "followersCount": 4562,
-            "followingCount": 77,
-            "postsCount": 310,
+            "followingCount": 1,
+            "postsCount": 316,
             "accountCreatedAt": "2024-03-16T17:38:28.128Z",
             "profileUrl": "https://x.com/DarlingMori_",
-            "fetchedAt": "2026-08-08T23:47:46Z"
+            "fetchedAt": "2026-08-11T17:08:50Z"
         }
     }
 }

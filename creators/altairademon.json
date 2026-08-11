@@ -5,11 +5,11 @@
         "login": "altairademon",
         "displayName": "AltairaDemon",
         "createdAt": "2015-07-30T19:24:25.161601Z",
-        "updatedAt": "2026-08-03T17:04:41.660736Z",
+        "updatedAt": "2026-08-10T19:15:49.948383Z",
         "description": "Hello there! My name is Altaira, a small brained Neko-Oni Vtuber, who likes to play games and talk an awful lot of gibberish. Certainly nothing evil from another dimension, that's trying to feed on your soul! ( Cough ) But yes welcome in.",
         "primaryColorHex": "FA1ED2",
         "followers": {
-            "totalCount": 2829
+            "totalCount": 2837
         },
         "follows": {
             "totalCount": 378
@@ -19,20 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T21:40:19.183539Z"
+            "startedAt": "2026-08-10T21:09:15.189997Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6b80793-070c-4996-88f1-767cdf3a5392-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d983bd9a-b132-4235-908d-11a5f4699777-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6b80793-070c-4996-88f1-767cdf3a5392-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d983bd9a-b132-4235-908d-11a5f4699777-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:40:54Z"
     },
     "fansly": {
         "id": "898565475229790208",
         "username": "Altaira-Demon",
         "displayName": null,
         "version": 4,
-        "followCount": 735,
+        "followCount": 782,
         "statusId": 3,
-        "accountMediaLikes": 117,
-        "postLikes": 151,
+        "accountMediaLikes": 141,
+        "postLikes": 165,
         "about": "Hi there my horny little devils! Welcome to my Fansly!\nMy name is Altaira, a smol brained Vtuber, who talks an awful lot of gibberish.\n\nHere I'll be hosting Adult Only Streams, every Saturday from 6pm ( UK Time )\nWhile I won't be doing NSFW content of myself, there will be more risque outfits ( One's Twitch would ban me for hehe ) Sexy art and I'll be playing NSFW games etc.\nSaucy Gifts: https://throne.com/altaira-nyx",
         "location": "",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qSI0nK1QDVln.m3u8",
                 "chatRoomId": "899521904287703040",
                 "status": 2,
-                "version": 20,
+                "version": 22,
                 "createdAt": 1775928739000,
                 "updatedAt": null,
                 "stream": {
                     "id": "899402975875719187",
-                    "historyId": "939982636711960578",
+                    "historyId": "942519679572783104",
                     "channelId": "899402975875719186",
                     "accountId": "898565475229790208",
-                    "title": "Big titted Mommy gets her holes plundered looking for booty! ",
+                    "title": "Little Neko gets destroyed by her sex-machine!",
                     "status": 1,
-                    "viewerCount": 31,
-                    "version": 36,
+                    "viewerCount": 46,
+                    "version": 38,
                     "createdAt": 1775928739000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785618904000,
-                    "startedAt": 1785603684000,
+                    "lastFetchedAt": 1786223276000,
+                    "startedAt": 1786208562000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:23Z"
+        "fetchedAt": "2026-08-11T17:47:04Z"
     },
     "twitter": {
         "altairademon": {
@@ -78,12 +79,12 @@
             "description": "Clueless Neko Demon #VTuber | Partner: @v_senpa1 💖💕  | Non-Binary | Business inquiries: altaira.business@gmail.com | https://t.co/s4NVVJ7eGu",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1970247730611073024/SN6zo2cb_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1380626296212967425/1758578640/1500x500",
-            "followersCount": 1063,
+            "followersCount": 1066,
             "followingCount": 361,
-            "postsCount": 5815,
+            "postsCount": 5822,
             "accountCreatedAt": "2021-04-09T20:59:17.921Z",
             "profileUrl": "https://x.com/AltairaDemon",
-            "fetchedAt": "2026-08-08T23:47:20Z"
+            "fetchedAt": "2026-08-11T17:08:23Z"
         }
     }
 }

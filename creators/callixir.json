@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-07-29T02:24:49.564376Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc3c33e5-095b-4e54-be21-28e5179fc5f0-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72d5d6a4-3b17-48f2-9075-d515a2568202-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc3c33e5-095b-4e54-be21-28e5179fc5f0-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72d5d6a4-3b17-48f2-9075-d515a2568202-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:53:41Z"
     },
     "fansly": {
         "id": "387707545541681152",
         "username": "Callixir",
         "displayName": "Callix",
         "version": 17,
-        "followCount": 721,
+        "followCount": 722,
         "statusId": 1,
         "accountMediaLikes": 145,
         "postLikes": 135,
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:30Z"
+        "fetchedAt": "2026-08-11T17:51:16Z"
     },
     "twitter": {
         "callixir": {
@@ -87,12 +88,12 @@
             "description": "|⛧| Silly Frankenskank|🕸️| Bootuber ♡ Tags: 𝚂𝙵𝚆 ➤ #CalliArt |⛧| 𝙽𝚂𝙵𝚆 ➤ #frankenskank 𝙸𝙲𝙾𝙽 ➤ decostar | ♡ | 𝙱𝙰𝙽𝙽𝙴𝚁 ➤ NemunekoStudio",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2005004249566953473/HSmkV_MR_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3308085152/1774506225/1500x500",
-            "followersCount": 1312,
+            "followersCount": 1314,
             "followingCount": 268,
             "postsCount": 627,
             "accountCreatedAt": "2015-08-06T20:36:49.934Z",
             "profileUrl": "https://x.com/Callixir",
-            "fetchedAt": "2026-08-09T00:09:00Z"
+            "fetchedAt": "2026-08-11T17:31:03Z"
         }
     }
 }

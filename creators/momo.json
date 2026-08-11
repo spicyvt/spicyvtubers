@@ -5,11 +5,11 @@
         "login": "momo",
         "displayName": "Momo",
         "createdAt": "2012-12-29T11:11:33.71953Z",
-        "updatedAt": "2026-08-02T02:34:51.859886Z",
+        "updatedAt": "2026-08-04T22:32:07.996007Z",
         "description": "Just a space cat here to bring good vibes and wholesome platonic lewdity.",
         "primaryColorHex": "56E8B7",
         "followers": {
-            "totalCount": 272351
+            "totalCount": 272261
         },
         "follows": {
             "totalCount": 848
@@ -19,20 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T08:00:24.666518Z"
+            "startedAt": "2026-08-07T03:26:32.754767Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7b90aef-f93a-4bb1-bbb3-e7c7cb67fc4f-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0feb55c3-8a1c-4b0d-b797-5d906a32add2-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7b90aef-f93a-4bb1-bbb3-e7c7cb67fc4f-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0feb55c3-8a1c-4b0d-b797-5d906a32add2-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:45:53Z"
     },
     "fansly": {
         "id": "460025833382223872",
         "username": "MomoNoods",
         "displayName": "Momo",
         "version": 3,
-        "followCount": 6215,
+        "followCount": 6250,
         "statusId": 3,
-        "accountMediaLikes": 1937,
-        "postLikes": 2537,
+        "accountMediaLikes": 1996,
+        "postLikes": 2602,
         "about": "Just a spaced out cat that likes to play.\nExpect photo and video updates of my fun silly little life in space.",
         "location": "",
         "streaming": {
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:21Z"
+        "fetchedAt": "2026-08-11T17:48:57Z"
     },
     "twitter": {
         "momomischief": {
@@ -50,12 +51,12 @@
             "description": "Alien VTuber\nART TAGS: #MomoArts -🔞#MomoNoods\nROGUE ENERGY CODE: MOMO  \n2D ART:@yuniiho ~ 2D RIG:@2wintails ~ 3D:@Shonzo_  \nLINKS: https://t.co/RkJdSjLKVb",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2026211969280225280/FYFtFof4_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3285354997/1771921350/1500x500",
-            "followersCount": 97540,
+            "followersCount": 97528,
             "followingCount": 1049,
             "postsCount": 6265,
             "accountCreatedAt": "2015-07-20T12:01:03.764Z",
             "profileUrl": "https://x.com/MomoMischief",
-            "fetchedAt": "2026-08-08T23:56:47Z"
+            "fetchedAt": "2026-08-11T17:18:05Z"
         },
         "momonoods": {
             "id": "1619257386413293568",
@@ -64,12 +65,12 @@
             "description": "NSFW Account for @MomoMischief\nJust a spaced out cat that likes to play.\nArt Tags: 🔞#MomoNoods & #MomoArts",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1619258155011121158/uD6A0Q5T_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1619257386413293568/1677830953/1500x500",
-            "followersCount": 5647,
+            "followersCount": 5679,
             "followingCount": 1,
             "postsCount": 53,
             "accountCreatedAt": "2023-01-28T08:54:32.941Z",
             "profileUrl": "https://x.com/MomoNoods",
-            "fetchedAt": "2026-08-08T23:56:48Z"
+            "fetchedAt": "2026-08-11T17:18:07Z"
         }
     }
 }

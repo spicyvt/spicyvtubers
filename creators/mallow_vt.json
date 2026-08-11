@@ -5,34 +5,35 @@
         "login": "mallow_vt",
         "displayName": "Mallow_VT",
         "createdAt": "2009-09-07T00:50:00.1844Z",
-        "updatedAt": "2026-08-03T17:43:12.010448Z",
+        "updatedAt": "2026-08-10T21:46:01.131832Z",
         "description": "A Marshmallow Bunny VTuber with comfy vibes! Nice to meet you! I stream a whole bunch of games, both old and new, and sometimes a bit of art on the side. I hope you'll enjoy my content! (Clips encouraged, use !clip to make a clip!)",
         "primaryColorHex": "7866FF",
         "followers": {
-            "totalCount": 2779
+            "totalCount": 2778
         },
         "follows": {
-            "totalCount": 1987
+            "totalCount": 1969
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T00:12:42.160427Z"
+            "startedAt": "2026-08-05T02:19:13.831881Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f64c57f-2f8b-4045-81c4-e8ea3c74f8bf-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb5f0828-8d71-42a0-b370-4b6e980d52ba-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f64c57f-2f8b-4045-81c4-e8ea3c74f8bf-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb5f0828-8d71-42a0-b370-4b6e980d52ba-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:45:45Z"
     },
     "fansly": {
         "id": "373336489423024128",
         "username": "mallow_vt",
         "displayName": null,
         "version": 3,
-        "followCount": 768,
+        "followCount": 767,
         "statusId": 1,
         "accountMediaLikes": 449,
-        "postLikes": 473,
+        "postLikes": 475,
         "about": "Squishy, comfy marshmallow bunny VTuber from the UK!\n\nTransgender MtF.\n",
         "location": "The Squish Palace",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:16Z"
+        "fetchedAt": "2026-08-11T17:48:51Z"
     },
     "twitter": {
         "mallow_vt": {
@@ -87,12 +88,12 @@
             "description": "🔞MDNI🔞\n\nTwitch Affiliate\n\nhttps://t.co/69AjzAAW5D\nhttps://t.co/CnCoGoAHgS\n🎨😊#MallowArts\n🎨🔞#ChubbyMallow\n\nPFP: @kiwisagas\nBanner: @gomiwaan",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2056554221361643520/s_SAP3ky_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/79346648/1779155770/1500x500",
-            "followersCount": 3277,
-            "followingCount": 4826,
-            "postsCount": 14871,
+            "followersCount": 3280,
+            "followingCount": 4829,
+            "postsCount": 14883,
             "accountCreatedAt": "2009-10-03T01:58:51.000Z",
             "profileUrl": "https://x.com/mallow_VT",
-            "fetchedAt": "2026-08-08T23:56:35Z"
+            "fetchedAt": "2026-08-11T17:17:53Z"
         },
         "mallow_vt_r18": {
             "id": "1578757194123804677",
@@ -106,7 +107,7 @@
             "postsCount": 91,
             "accountCreatedAt": "2022-10-08T14:40:35.105Z",
             "profileUrl": "https://x.com/Mallow_VT_R18",
-            "fetchedAt": "2026-08-08T23:56:37Z"
+            "fetchedAt": "2026-08-11T17:17:55Z"
         }
     }
 }

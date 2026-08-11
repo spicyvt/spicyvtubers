@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-07-21T23:39:06.639006Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70e8d850-18e9-4083-9ef2-625be1f5b578-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf6c5f0a-77cd-4a08-ba3b-46a9b75be692-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70e8d850-18e9-4083-9ef2-625be1f5b578-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf6c5f0a-77cd-4a08-ba3b-46a9b75be692-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:54:37Z"
     },
     "fansly": {
         "id": "339910456032374784",
         "username": "YukaSyrus",
         "displayName": "LufinaLulufinaVT",
         "version": 14,
-        "followCount": 830,
+        "followCount": 834,
         "statusId": 3,
         "accountMediaLikes": 91,
-        "postLikes": 138,
+        "postLikes": 140,
         "about": "Ready to stream and have adult fun while doing so.\n\nWill be posting pics of Me, my VTuber model and my Second Life avatar.\n\nOther NSFW Streams:\nhttps://joystick.tv/u/lufinalulufinavt\n\nStoat Chat (Discord Alt):\nhttps://stt.gg/yf79ZpH9\n\nThrone Wishlist:\nhttps://throne.com/lufinalulufina",
         "location": "The Mothership",
         "streaming": {
@@ -48,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "339925617631834113",
-                    "historyId": "878251577180188672",
+                    "historyId": "941956627915882496",
                     "channelId": "339925617631834112",
                     "accountId": "339910456032374784",
                     "title": "General Stream With Lovense & Really Cute Moans",
                     "status": 1,
-                    "viewerCount": 4,
-                    "version": 9691,
+                    "viewerCount": 7,
+                    "version": 9693,
                     "createdAt": 1642538943000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1770899507000,
-                    "startedAt": 1770885853000,
+                    "lastFetchedAt": 1786079748000,
+                    "startedAt": 1786074320000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:35Z"
+        "fetchedAt": "2026-08-11T17:51:26Z"
     },
     "twitter": {
         "lufinalulufina": {
@@ -92,7 +93,7 @@
             "postsCount": 146,
             "accountCreatedAt": "2025-10-04T20:52:39.909Z",
             "profileUrl": "https://x.com/LufinaLulufina",
-            "fetchedAt": "2026-08-09T00:10:08Z"
+            "fetchedAt": "2026-08-11T17:32:11Z"
         }
     }
 }

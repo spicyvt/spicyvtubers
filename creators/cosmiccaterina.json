@@ -5,34 +5,35 @@
         "login": "cosmiccaterina",
         "displayName": "CosmicCaterina",
         "createdAt": "2023-06-15T13:40:32.211793Z",
-        "updatedAt": "2026-07-31T15:39:48.854857Z",
+        "updatedAt": "2026-08-07T15:53:56.368893Z",
         "description": "Totally not sus and completely normal foxgirl being chaotic. Enjoyer of rpgs and random games",
         "primaryColorHex": "44335E",
         "followers": {
-            "totalCount": 1010
+            "totalCount": 1016
         },
         "follows": {
-            "totalCount": 156
+            "totalCount": 157
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-31T19:11:32.685796Z"
+            "startedAt": "2026-08-07T19:07:10.436021Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0fb980e-d8a9-4c14-86b0-0d8f5b5ee148-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c8e655c-463a-4360-a541-b090cbe2b05a-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0fb980e-d8a9-4c14-86b0-0d8f5b5ee148-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c8e655c-463a-4360-a541-b090cbe2b05a-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:59:08Z"
     },
     "fansly": {
         "id": "736496564184293376",
         "username": "Cosmiccaterina",
         "displayName": "CosmicCaterina",
         "version": 3,
-        "followCount": 2311,
+        "followCount": 2337,
         "statusId": 1,
-        "accountMediaLikes": 1159,
-        "postLikes": 626,
+        "accountMediaLikes": 1162,
+        "postLikes": 631,
         "about": "Your newest supernova desire!\nJust a bratty, poly, degen wanting to have a bit of fun <3\nDon't mind me, I can be a bit (very) oblivious sometimes",
         "location": "",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yiQQG77diJB0.m3u8",
                 "chatRoomId": "817426579352203264",
                 "status": 2,
-                "version": 47,
+                "version": 50,
                 "createdAt": 1756383841000,
                 "updatedAt": null,
                 "stream": {
                     "id": "817425731825983489",
-                    "historyId": "937505819795136524",
+                    "historyId": "942957456907063296",
                     "channelId": "817425731825983488",
                     "accountId": "736496564184293376",
-                    "title": "I'm not prepared for this suffering <3 Playing FFXIV",
+                    "title": "Eepy and need to be quiet <3 Playing FFXIV",
                     "status": 1,
-                    "viewerCount": 12,
-                    "version": 86,
+                    "viewerCount": 16,
+                    "version": 88,
                     "createdAt": 1756383841000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785024710000,
-                    "startedAt": 1785013165000,
+                    "lastFetchedAt": 1786321021000,
+                    "startedAt": 1786312937000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:06Z"
+        "fetchedAt": "2026-08-11T17:52:30Z"
     },
     "twitter": {
         "cosmiccaterina": {
@@ -88,11 +89,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1951081899503271936/_3qzlIzr_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1669340175628136450/1754009150/1500x500",
             "followersCount": 148,
-            "followingCount": 86,
-            "postsCount": 149,
+            "followingCount": 87,
+            "postsCount": 150,
             "accountCreatedAt": "2023-06-15T13:45:05.471Z",
             "profileUrl": "https://x.com/CosmicCaterina",
-            "fetchedAt": "2026-08-09T00:17:20Z"
+            "fetchedAt": "2026-08-11T17:39:31Z"
         }
     }
 }

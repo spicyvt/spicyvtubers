@@ -5,14 +5,14 @@
         "login": "sproutivt",
         "displayName": "Sproutivt",
         "createdAt": "2019-10-02T23:07:15.960131Z",
-        "updatedAt": "2026-07-26T14:22:13.843726Z",
+        "updatedAt": "2026-08-07T21:56:28.948765Z",
         "description": "Very confused leafy friend coming to screens near… or in front of you! Giving you the stare down, the screams, and most of all the snacks. Join the fun in the forest! ",
         "primaryColorHex": "B180A8",
         "followers": {
-            "totalCount": 470
+            "totalCount": 469
         },
         "follows": {
-            "totalCount": 70
+            "totalCount": 71
         },
         "roles": {
             "isPartner": false,
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-07-22T02:18:32.437624Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47eb6e48-879e-43a8-a10b-cac2abcca9fa-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23ef6f42-d392-49bb-a538-07f5bc861f46-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47eb6e48-879e-43a8-a10b-cac2abcca9fa-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23ef6f42-d392-49bb-a538-07f5bc861f46-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:59:11Z"
     },
     "fansly": {
         "id": "371807552805023744",
         "username": "NatMone",
         "displayName": "Natasha M.",
         "version": 5,
-        "followCount": 70,
+        "followCount": 71,
         "statusId": 1,
         "accountMediaLikes": 202,
         "postLikes": 35,
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:06Z"
+        "fetchedAt": "2026-08-11T17:52:30Z"
     },
     "twitter": {
         "sproutivt": {
@@ -87,12 +88,12 @@
             "description": "18+ Eepy ENV-Tuber, 1/2 Girlfailure, Slowly deteriorating leafy friend 🌱 🎨#SproutiArti https://t.co/Qm31T6F82m",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2076014626391629824/jqAUdnqt_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1949872663419293696/1783794504/1500x500",
-            "followersCount": 575,
-            "followingCount": 573,
-            "postsCount": 1994,
+            "followersCount": 577,
+            "followingCount": 576,
+            "postsCount": 2001,
             "accountCreatedAt": "2025-07-28T16:40:54.356Z",
             "profileUrl": "https://x.com/SproutiVT",
-            "fetchedAt": "2026-08-09T00:17:23Z"
+            "fetchedAt": "2026-08-11T17:39:36Z"
         },
         "goddessnatm": {
             "id": "1134608583507763202",
@@ -101,12 +102,12 @@
             "description": "18+ 𝕄𝕚𝕟𝕠𝕣𝕤 𝔻ℕ𝕀 •~•  Wallet wrecker, mind fucker, hot person. • Soft and B*tchy • $50 tribute•",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2041645076385034240/WNDNcxz9_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1134608583507763202/1775601104/1500x500",
-            "followersCount": 1109,
-            "followingCount": 175,
-            "postsCount": 21016,
+            "followersCount": 1112,
+            "followingCount": 176,
+            "postsCount": 21014,
             "accountCreatedAt": "2019-05-31T23:52:21.103Z",
             "profileUrl": "https://x.com/GoddessNatM",
-            "fetchedAt": "2026-08-09T00:17:25Z"
+            "fetchedAt": "2026-08-11T17:39:35Z"
         }
     }
 }

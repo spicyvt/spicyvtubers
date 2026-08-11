@@ -5,11 +5,11 @@
         "login": "ebiko",
         "displayName": "Ebiko",
         "createdAt": "2020-07-12T06:48:41.715915Z",
-        "updatedAt": "2026-08-02T02:46:57.15699Z",
+        "updatedAt": "2026-08-09T04:31:17.00031Z",
         "description": "🦐PRAWNSTAR",
         "primaryColorHex": "FF7E19",
         "followers": {
-            "totalCount": 74868
+            "totalCount": 75115
         },
         "follows": {
             "totalCount": 478
@@ -19,20 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T07:30:07.038333Z"
+            "startedAt": "2026-08-09T05:12:19.28445Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d7841d5-21af-47ab-ad72-c023966890d0-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ef6990-eabb-45ed-98a9-12fa86e327c8-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d7841d5-21af-47ab-ad72-c023966890d0-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ef6990-eabb-45ed-98a9-12fa86e327c8-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:39:37Z"
     },
     "fansly": {
         "id": "512880136425582592",
         "username": "Ebiko",
         "displayName": "Ebiko",
         "version": 6,
-        "followCount": 84231,
+        "followCount": 84503,
         "statusId": 1,
-        "accountMediaLikes": 119221,
-        "postLikes": 96699,
+        "accountMediaLikes": 120523,
+        "postLikes": 97677,
         "about": "ᴘʀᴀᴡɴꜱᴛᴀʀ | ꜱᴘᴏɪʟ ᴍᴇ ❥ https://throne.com/ebiko ♡\n⌞Streams every Friday at 8pm EST ⌝\n\n──── ୨୧ ────\n» Twitch: https://www.twitch.tv/ebiko\n» Twitter: https://x.com/EbikoVtuber\n» Youtube: https://www.youtube.com/@EbikoVT\n» Everything: https://ebiko.carrd.co\n\n\nReposting my content is strictly prohibited & illegal \nAny reposting of any sort will result in action from my legal team\nNo refunds \n\n「 Use CODE: EBIKO to get 10% off your GSUPPS ⌋\n\nCustoms are queue based <3 \n",
         "location": "Canada",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:12Z"
+        "fetchedAt": "2026-08-11T17:46:37Z"
     },
     "twitter": {
         "gwubhub": {
@@ -87,26 +88,26 @@
             "description": "The better Ebi\nᴘʀᴀᴡɴꜱᴛᴀʀ\nꜱᴘᴏɪʟ ᴍᴇ ❥ https://t.co/TCgvL19wcL ♡\n🎨#PrawnstART",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2024938031036104704/QK_kNGB3_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1513971670519894027/1771618056/1500x500",
-            "followersCount": 52596,
+            "followersCount": 52585,
             "followingCount": 39,
-            "postsCount": 461,
+            "postsCount": 462,
             "accountCreatedAt": "2022-04-12T20:06:02.264Z",
             "profileUrl": "https://x.com/Gwubhub",
-            "fetchedAt": "2026-08-08T23:45:01Z"
+            "fetchedAt": "2026-08-11T17:06:01Z"
         },
         "ebikovtuber": {
             "id": "1282205809313746944",
             "handle": "ebikovtuber",
             "displayName": "Ebiko 🧡🦐 Prawnstar",
-            "description": "🇨🇦||𝐓𝐈𝐆𝐄𝐑 𝐏𝐑𝐀𝐖𝐍 BOSSU 🚬\n🔗|https://t.co/2ejnPUeN78\n🎨|#Ebillusts | #PrawnstART 🔞@GwubHub\n\nBUSNIESS INQ: EbikoVtuber@gmail.com",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2072046506505392128/JbSfcifX_400x400.jpg",
+            "description": "🇨🇦||𝐓𝐈𝐆𝐄𝐑 𝐏𝐑𝐀𝐖𝐍 BOSSU 🚬\n🔗|https://t.co/2ejnPUefhA\n🎨|#Ebillusts | #PrawnstART 🔞@GwubHub\n\nBUSNIESS INQ: EbikoVtuber@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2087100198539464704/TX7Vte4z_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1282205809313746944/1782855886/1500x500",
-            "followersCount": 143005,
+            "followersCount": 143022,
             "followingCount": 1700,
-            "postsCount": 13617,
+            "postsCount": 13625,
             "accountCreatedAt": "2020-07-12T06:51:13.411Z",
             "profileUrl": "https://x.com/EbikoVtuber",
-            "fetchedAt": "2026-08-08T23:45:02Z"
+            "fetchedAt": "2026-08-11T17:05:59Z"
         }
     }
 }

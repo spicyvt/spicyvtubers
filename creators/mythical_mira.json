@@ -5,24 +5,25 @@
         "login": "mythical_mira",
         "displayName": "Mythical_Mira",
         "createdAt": "2018-01-20T22:09:06.88785Z",
-        "updatedAt": "2026-08-03T23:32:10.172604Z",
+        "updatedAt": "2026-08-09T09:26:00.225361Z",
         "description": " 🐙Eldritch spawn, @twitch Affiliate, model @Miko_png  #Mirart for fanart 🪸",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 2654
+            "totalCount": 2661
         },
         "follows": {
-            "totalCount": 567
+            "totalCount": 571
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T15:50:37.379476Z"
+            "startedAt": "2026-08-11T09:34:18.39104Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d88fa16-f4c7-4a93-9f24-5166e34408a1-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77ea8a86-4b4a-465e-a7dd-f20beed6bc59-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d88fa16-f4c7-4a93-9f24-5166e34408a1-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77ea8a86-4b4a-465e-a7dd-f20beed6bc59-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:55:05Z"
     },
     "fansly": {
         "id": "636495286830637056",
@@ -77,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:40Z"
+        "fetchedAt": "2026-08-11T17:51:32Z"
     },
     "twitter": {
         "mythical_mira": {
             "id": "1095862005850750976",
             "handle": "mythical_mira",
             "displayName": "🐙Mythical Mira 🪸",
-            "description": "🦑🪸\nDaughter of Cthulhu \nAsexual Octopus Vtuber\nBanished to Australia\nLive2D model ( 🎨⚙️) @Miko_png\n\n#Mirart for fanart",
+            "description": "🦑🪸\nDaughter of Cthulhu\nCrazy octopus and shy dragon vtuber\nLive2D model ( 🎨⚙️) @Miko_png\n\n#Mirart for fanart",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2068180882306023424/23dq0P2W_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1095862005850750976/1778958301/1500x500",
-            "followersCount": 990,
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1095862005850750976/1786440370/1500x500",
+            "followersCount": 991,
             "followingCount": 812,
-            "postsCount": 5157,
+            "postsCount": 5165,
             "accountCreatedAt": "2019-02-14T01:47:17.141Z",
             "profileUrl": "https://x.com/Mythical_mira",
-            "fetchedAt": "2026-08-09T00:10:43Z"
+            "fetchedAt": "2026-08-11T17:32:47Z"
         }
     }
 }

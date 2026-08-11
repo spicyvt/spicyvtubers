@@ -9,7 +9,7 @@
         "description": "*:･ﾟ✧Catgirl Vtuber  ≽^•⩊•^≼丨 Business Email: violaontwitch@gmail.com *:･ﾟ✧",
         "primaryColorHex": "C8CDF6",
         "followers": {
-            "totalCount": 7769
+            "totalCount": 7776
         },
         "follows": {
             "totalCount": 313
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-07-03T01:44:49.485065Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/46a6af53-5a6b-4653-83eb-dd484d91b1ee-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a6a646f-eb22-4a55-b688-36288e92d766-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/46a6af53-5a6b-4653-83eb-dd484d91b1ee-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a6a646f-eb22-4a55-b688-36288e92d766-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:56:36Z"
     },
     "fansly": {
         "id": "744433404396707840",
         "username": "LustfulViola",
         "displayName": "Vi",
         "version": 6,
-        "followCount": 51,
+        "followCount": 52,
         "statusId": 1,
         "accountMediaLikes": 22,
         "postLikes": 34,
@@ -40,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:51Z"
+        "fetchedAt": "2026-08-11T17:51:58Z"
     },
     "twitter": {
         "violaethereal": {
-            "id": "103594313",
+            "id": null,
             "handle": "violaethereal",
             "displayName": "Viola 🪻",
             "description": "Twitch Partner丨PFP: @kimu_arts  |Header by: @Kimu_Arts | socials: https://t.co/W4iquoYZSm Business email: violaontwitch@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2004596710740221952/Khs8mB4v_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/103594313/1725756009/1500x500",
-            "followersCount": 4268,
-            "followingCount": 946,
-            "postsCount": 25098,
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
             "accountCreatedAt": "2010-01-10T15:31:38.000Z",
             "profileUrl": "https://x.com/ViolaEthereal",
-            "fetchedAt": "2026-08-09T00:13:16Z"
+            "fetchedAt": "2026-08-11T17:35:21Z"
         },
         "lustfulviola": {
             "id": null,
@@ -69,7 +70,7 @@
             "postsCount": null,
             "accountCreatedAt": "2025-02-04T18:30:40.492Z",
             "profileUrl": "https://x.com/LustfulViola",
-            "fetchedAt": "2026-08-09T00:13:18Z"
+            "fetchedAt": "2026-08-11T17:35:22Z"
         }
     }
 }

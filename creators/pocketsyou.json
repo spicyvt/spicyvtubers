@@ -1,35 +1,36 @@
 {
-    "bio": "♡ Just a dog. I'm not very good at this streaming thing but If you're vibin', I'm vibin'. ♡",
+    "bio": "Werewoof in progress.",
     "twitch": {
         "id": "158677394",
         "login": "pocketsyou",
         "displayName": "pocketsyou",
         "createdAt": "2017-06-02T03:41:53.177648Z",
-        "updatedAt": "2026-08-02T19:34:31.115811Z",
-        "description": "♡ Just a dog. I'm not very good at this streaming thing but If you're vibin', I'm vibin'. ♡",
+        "updatedAt": "2026-08-11T01:15:19.43101Z",
+        "description": "Werewoof in progress.",
         "primaryColorHex": "53948F",
         "followers": {
-            "totalCount": 5360
+            "totalCount": 5366
         },
         "follows": {
-            "totalCount": 120
+            "totalCount": 128
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-01T22:34:29.898303Z"
+            "startedAt": "2026-08-11T03:10:12.407144Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0353801a-9e01-4c48-b9cc-be4ebea990cb-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5d6768d-a204-4d67-ab37-780e9e1f78cd-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0353801a-9e01-4c48-b9cc-be4ebea990cb-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5d6768d-a204-4d67-ab37-780e9e1f78cd-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:48:55Z"
     },
     "fansly": {
         "id": "568463744561061888",
         "username": "PocketsYou",
         "displayName": "Pocket",
         "version": 17,
-        "followCount": 1705,
+        "followCount": 1706,
         "statusId": 1,
         "accountMediaLikes": 4126,
         "postLikes": 1401,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:47Z"
+        "fetchedAt": "2026-08-11T17:49:50Z"
     },
     "twitter": {
         "pocketsyou": {
@@ -51,11 +52,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2006877715668815872/LbPuJvL6_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/502129265/1767311858/1500x500",
             "followersCount": 2001,
-            "followingCount": 1850,
-            "postsCount": 22217,
+            "followingCount": 1854,
+            "postsCount": 22224,
             "accountCreatedAt": "2012-02-24T20:55:37.000Z",
             "profileUrl": "https://x.com/PocketsYou",
-            "fetchedAt": "2026-08-09T00:01:47Z"
+            "fetchedAt": "2026-08-11T17:23:24Z"
         },
         "outofpocket___": {
             "id": "1712107590778535937",
@@ -64,12 +65,12 @@
             "description": "R-18+\nx o x o",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1716941354218274817/2ZWxkDo3_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1712107590778535937/1729657333/1500x500",
-            "followersCount": 1679,
-            "followingCount": 1989,
+            "followersCount": 1677,
+            "followingCount": 1990,
             "postsCount": 537,
             "accountCreatedAt": "2023-10-11T14:07:22.634Z",
             "profileUrl": "https://x.com/OutOfPocket___",
-            "fetchedAt": "2026-08-09T00:01:48Z"
+            "fetchedAt": "2026-08-11T17:23:26Z"
         }
     }
 }

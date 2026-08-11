@@ -9,10 +9,10 @@
         "description": "hi, i’m luna ♡´･ᴗ･`♡ your comfy chaotic gumiho vtuber! enjoy your stay with the shrine ♡ ",
         "primaryColorHex": "E6D5FF",
         "followers": {
-            "totalCount": 9198
+            "totalCount": 9195
         },
         "follows": {
-            "totalCount": 1579
+            "totalCount": 1587
         },
         "roles": {
             "isPartner": true,
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-06-11T07:47:41.764538Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/40702d83-ccf9-4f0c-a7be-0c4a0b62b86c-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f2df174-7aa4-49f5-b18b-8ea8f54988e4-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/40702d83-ccf9-4f0c-a7be-0c4a0b62b86c-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f2df174-7aa4-49f5-b18b-8ea8f54988e4-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:58:05Z"
     },
     "fansly": {
         "id": "738615008384004096",
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:56Z"
+        "fetchedAt": "2026-08-11T17:52:09Z"
     },
     "twitter": {
         "lunanyxvtuber": {
@@ -78,12 +79,12 @@
             "description": "gumiho vtuber ♡ twitch + youtube partner ♡ https://t.co/oUsYTzvGn5 ♡ #lunanyxdoodles #lewdanyx 🔞@lewdanyx",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2023580061270765569/LUABn1wA_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1965231354955923459/1762157531/1500x500",
-            "followersCount": 893,
-            "followingCount": 1128,
-            "postsCount": 1348,
+            "followersCount": 897,
+            "followingCount": 1139,
+            "postsCount": 1359,
             "accountCreatedAt": "2025-09-09T01:50:46.946Z",
             "profileUrl": "https://x.com/lunanyxvtuber",
-            "fetchedAt": "2026-08-09T00:15:36Z"
+            "fetchedAt": "2026-08-11T17:37:43Z"
         },
         "lewdanyx": {
             "id": "1846335845948968960",
@@ -97,7 +98,7 @@
             "postsCount": 11,
             "accountCreatedAt": "2024-10-15T23:42:32.348Z",
             "profileUrl": "https://x.com/lewdanyx",
-            "fetchedAt": "2026-08-09T00:15:37Z"
+            "fetchedAt": "2026-08-11T17:37:45Z"
         }
     }
 }

@@ -5,33 +5,34 @@
         "login": "snips_vt",
         "displayName": "snips_vt",
         "createdAt": "2020-08-17T18:59:22.309346Z",
-        "updatedAt": "2026-08-04T00:39:54.835223Z",
+        "updatedAt": "2026-08-10T22:14:03.053432Z",
         "description": "hi i’m snips! just a herb-loving dragoness in a human world... ",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 295
+            "totalCount": 300
         },
         "follows": {
-            "totalCount": 287
+            "totalCount": 288
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-31T23:47:28.916009Z"
+            "startedAt": "2026-08-10T22:53:47.355361Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5762361f-1dbd-4919-aa99-7dfaf8435917-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a52701c0-f34d-460b-992a-40c8086ec4d8-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5762361f-1dbd-4919-aa99-7dfaf8435917-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a52701c0-f34d-460b-992a-40c8086ec4d8-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:49:45Z"
     },
     "fansly": {
         "id": "847219291953569792",
         "username": "snipsvt",
         "displayName": "dragonmommy snips",
         "version": 5,
-        "followCount": 48,
-        "statusId": 3,
-        "accountMediaLikes": 9,
+        "followCount": 75,
+        "statusId": 1,
+        "accountMediaLikes": 11,
         "postLikes": 16,
         "about": "Dragonmommy 🐉 I love how you're obsessed with me\n\nCum and make me feel good\nGoonette and free use enjoyer\n\nStreams Saturday Nights at 10 PM MST, and after some twitch streams...\nlewd snips art, irl cosplay, voice notes, customs, and more...\n\n2$ DM Tip required\n\nhttps://throne.com/snipsvt",
         "location": "",
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ecwdDjryodfc.m3u8",
                 "chatRoomId": "898757206755782656",
                 "status": 2,
-                "version": 14,
+                "version": 18,
                 "createdAt": 1775584006000,
                 "updatedAt": null,
                 "stream": {
                     "id": "897957061524996097",
-                    "historyId": "937613979457437696",
+                    "historyId": "943260392975523840",
                     "channelId": "897957061524996096",
                     "accountId": "847219291953569792",
-                    "title": "high dragoness in your area...",
+                    "title": "high dragoness in your area... vrchat and karaoke",
                     "status": 1,
                     "viewerCount": 1,
-                    "version": 32,
+                    "version": 54,
                     "createdAt": 1775584006000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785045220000,
-                    "startedAt": 1785038952000,
+                    "lastFetchedAt": 1786385185000,
+                    "startedAt": 1786385162000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:53Z"
+        "fetchedAt": "2026-08-11T17:50:06Z"
     },
     "twitter": {
         "snips_vt": {
@@ -87,12 +88,12 @@
             "description": "snips 🍃🐉 🫖 \nherb dragoness vtuber\n@heropopit 🧡🤍💗 \ncozy chaos ✨ \nBanshees HC, NRVGC AC\nvmama: @ArtsyMiniwa customizable by @Akizone #snipsvt",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2049911566162890752/RVQJ0eM9_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1630707576341143552/1758208858/1500x500",
-            "followersCount": 560,
-            "followingCount": 806,
-            "postsCount": 9628,
+            "followersCount": 561,
+            "followingCount": 807,
+            "postsCount": 9634,
             "accountCreatedAt": "2023-02-28T23:12:46.625Z",
             "profileUrl": "https://x.com/snips_vt",
-            "fetchedAt": "2026-08-09T00:03:03Z"
+            "fetchedAt": "2026-08-11T17:24:47Z"
         }
     }
 }

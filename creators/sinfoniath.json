@@ -5,34 +5,35 @@
         "login": "sinfoniath",
         "displayName": "Sinfoniath",
         "createdAt": "2024-09-11T17:40:47.192337Z",
-        "updatedAt": "2026-08-02T17:04:13.625712Z",
+        "updatedAt": "2026-08-11T12:50:12.704248Z",
         "description": "Hello, darling~ My name is Sinfoniath, but you can call me Sin. I'm here to entice you into the world of song, excitement and desire. Once I have you, you'll never want to leave.",
         "primaryColorHex": "002F8E",
         "followers": {
-            "totalCount": 356
+            "totalCount": 359
         },
         "follows": {
-            "totalCount": 43
+            "totalCount": 44
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-30T17:39:10.598661Z"
+            "startedAt": "2026-08-11T15:03:52.230813Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/91051891-0acc-4f72-9a5e-48acad3edab1-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b257e44e-76e2-4667-a7e9-673c30959266-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/91051891-0acc-4f72-9a5e-48acad3edab1-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b257e44e-76e2-4667-a7e9-673c30959266-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:00:23Z"
     },
     "fansly": {
         "id": "771286104509784064",
         "username": "Sinfoniath",
         "displayName": null,
         "version": 3,
-        "followCount": 482,
+        "followCount": 484,
         "statusId": 1,
-        "accountMediaLikes": 165,
-        "postLikes": 182,
+        "accountMediaLikes": 168,
+        "postLikes": 188,
         "about": "Hello, darling~ It's Sin, your enchanting succubus from deep below the suface~ I'm here to guide your way into the world of desire and pleasure~ Once I have you, you'll never want to leave~",
         "location": "",
         "streaming": {
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.X6lBGAvEhi5t.m3u8",
                 "chatRoomId": "782836734986559488",
                 "status": 2,
-                "version": 147,
+                "version": 150,
                 "createdAt": 1748137115000,
                 "updatedAt": null,
                 "stream": {
                     "id": "782836456740626433",
-                    "historyId": "937082561560064001",
+                    "historyId": "942517494243934209",
                     "channelId": "782836456740626432",
                     "accountId": "771286104509784064",
-                    "title": "EDGE ME UNTIL I WIN | Futa Slug EX - (Demo Part 6)",
+                    "title": "ONE MORE TRY | Futa Slug EX - (Demo Part 7)",
                     "status": 1,
-                    "viewerCount": 13,
-                    "version": 126,
+                    "viewerCount": 14,
+                    "version": 128,
                     "createdAt": 1748137115000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1784917298000,
-                    "startedAt": 1784912252000,
+                    "lastFetchedAt": 1786212955000,
+                    "startedAt": 1786208041000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:17Z"
+        "fetchedAt": "2026-08-11T17:52:51Z"
     },
     "twitter": {
         "sinfoniath": {
@@ -78,12 +79,12 @@
             "description": "Your enchanting deep-sea siren | @Twitch Affiliate | @VDualityGroup \nPfp: @rinkaariin | Banner: @moochisukii",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2081654653360517120/nB6zlq-n_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1833938754592964608/1782913168/1500x500",
-            "followersCount": 156,
-            "followingCount": 105,
+            "followersCount": 158,
+            "followingCount": 106,
             "postsCount": 252,
             "accountCreatedAt": "2024-09-11T18:41:00.394Z",
             "profileUrl": "https://x.com/Sinfoniath",
-            "fetchedAt": "2026-08-09T00:19:26Z"
+            "fetchedAt": "2026-08-11T17:41:32Z"
         }
     }
 }

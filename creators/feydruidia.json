@@ -5,24 +5,25 @@
         "login": "feydruidia",
         "displayName": "FeyDruidia",
         "createdAt": "2020-09-19T20:05:00.554279Z",
-        "updatedAt": "2026-08-01T20:32:50.265091Z",
+        "updatedAt": "2026-08-06T16:27:58.417483Z",
         "description": "Hewo my name is Fey Druidia! I'm a fairy or puppy girl streamer. I regularly stream with my partner Knife_ears. You may see me indifferent forms but I am a shapeshifter. I also have an alt form Seishen. We both have a catgirl that picks on us both, that's Trish. 💚💙",
         "primaryColorHex": "2FC489",
         "followers": {
-            "totalCount": 957
+            "totalCount": 961
         },
         "follows": {
-            "totalCount": 1138
+            "totalCount": 1140
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T00:08:19.113851Z"
+            "startedAt": "2026-08-06T23:00:26.661533Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3ad63e8-41b4-49a0-83e7-8fef7c7c3969-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8311e99c-7492-4f29-9745-637f859cc222-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3ad63e8-41b4-49a0-83e7-8fef7c7c3969-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8311e99c-7492-4f29-9745-637f859cc222-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:55:30Z"
     },
     "fansly": {
         "id": "879190912641544192",
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:40Z"
+        "fetchedAt": "2026-08-11T17:51:37Z"
     },
     "twitter": {
         "feydruidia": {
@@ -88,11 +89,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2052841987045249027/J-oBfUHm_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1537486810309328896/1778270645/1500x500",
             "followersCount": 1607,
-            "followingCount": 1679,
-            "postsCount": 7675,
+            "followingCount": 1683,
+            "postsCount": 7680,
             "accountCreatedAt": "2022-06-16T17:27:19.799Z",
             "profileUrl": "https://x.com/FeyDruidia",
-            "fetchedAt": "2026-08-09T00:11:22Z"
+            "fetchedAt": "2026-08-11T17:33:26Z"
         }
     }
 }

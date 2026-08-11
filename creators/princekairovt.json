@@ -9,10 +9,10 @@
         "description": "Hello, my name is Prince Kairo and I am an 18+ ONLY VTuber as well as the sovereign ruler of the Kingdom of Desire! Just speak unto me what you desire and I shall see that granted, my dear~",
         "primaryColorHex": "FFD37A",
         "followers": {
-            "totalCount": 443
+            "totalCount": 444
         },
         "follows": {
-            "totalCount": 79
+            "totalCount": 80
         },
         "roles": {
             "isPartner": false,
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-07-13T04:14:46.140286Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1d4575b-477b-4e84-a5e6-e72b3f1b1e49-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19cd9e99-527c-4da0-82c0-3b588b4544ad-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1d4575b-477b-4e84-a5e6-e72b3f1b1e49-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19cd9e99-527c-4da0-82c0-3b588b4544ad-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:50:54Z"
     },
     "fansly": {
         "id": "635583529039699969",
         "username": "PrinceKairoVT",
         "displayName": "Prince Kairo",
         "version": 4,
-        "followCount": 228,
+        "followCount": 229,
         "statusId": 1,
         "accountMediaLikes": 102,
         "postLikes": 86,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:09Z"
+        "fetchedAt": "2026-08-11T17:50:28Z"
     },
     "twitter": {
         "princekairovt": {
@@ -51,11 +52,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2029822212933398528/JDYqPGka_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1610868118120718338/1729283607/1500x500",
             "followersCount": 1092,
-            "followingCount": 460,
-            "postsCount": 286,
+            "followingCount": 461,
+            "postsCount": 287,
             "accountCreatedAt": "2023-01-05T05:17:54.212Z",
             "profileUrl": "https://x.com/PrinceKairoVT",
-            "fetchedAt": "2026-08-09T00:04:53Z"
+            "fetchedAt": "2026-08-11T17:26:42Z"
         }
     }
 }

@@ -9,10 +9,10 @@
         "description": "i love overwatch and umamusume! streams are simulcasted on YT",
         "primaryColorHex": "FF8FC2",
         "followers": {
-            "totalCount": 13577
+            "totalCount": 13575
         },
         "follows": {
-            "totalCount": 591
+            "totalCount": 592
         },
         "roles": {
             "isPartner": true,
@@ -21,19 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-08-03T23:22:59.153542Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/687237ee-b5ad-476e-bf2f-3444a4dcc310-profile_image-70x70.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/687237ee-b5ad-476e-bf2f-3444a4dcc310-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72723340-b3f1-4d4a-aa9c-93f801490a5b-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-07T22:59:56Z"
+        "fetchedAt": "2026-08-11T17:02:33Z"
     },
     "fansly": {
         "id": "778419925927600128",
         "username": "sagisawaria",
         "displayName": null,
         "version": 2,
-        "followCount": 6237,
+        "followCount": 6238,
         "statusId": 1,
-        "accountMediaLikes": 11955,
-        "postLikes": 7751,
+        "accountMediaLikes": 11960,
+        "postLikes": 7753,
         "about": "Let me whisper to you in my sweet voice! Lewd things of course! 大家好我是莉雅！I make NSFW audio (ASMR, script reading, comic dubbing, etc), light NSFW cosplay/lingerie irl pics (of throne gifts tysm!), NSFW Ria art, and NSFW Ria model short videos. Thank you for your support!\n\nWishlist:\nhttps://throne.com/sagisawaria\n\nTwitch (streams):\nhttps://www.twitch.tv/sagisawaria\n\nYT (videos, music, streams):\nhttps://www.youtube.com/@SagisawaRia\n\nMain Twitter:\nhttps://x.com/sagisawaria\n\nNSFW Twitter:\nhttps://x.com/riarin0112",
         "location": "",
         "streaming": {
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-07T23:00:09Z"
+        "fetchedAt": "2026-08-11T17:53:29Z"
     },
     "twitter": {
         "riarin0112": {
@@ -79,12 +79,12 @@
             "description": "Ria’s side account mainly for NSFW and other random stuff \nmain @sagisawaria\nnsfw art tag #chimeR18",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1872053240784666624/QsuXf2Tr_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1702733497360646144/1694798609/1500x500",
-            "followersCount": 684,
+            "followersCount": 685,
             "followingCount": 11,
             "postsCount": 121,
             "accountCreatedAt": "2023-09-15T17:18:05.440Z",
             "profileUrl": "https://x.com/riarin0112",
-            "fetchedAt": "2026-08-09T00:22:26Z"
+            "fetchedAt": "2026-08-11T17:44:43Z"
         },
         "sagisawaria": {
             "id": "1288894693527498754",
@@ -94,11 +94,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2005704877263998977/6AHrlysf_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1288894693527498754/1765614187/1500x500",
             "followersCount": 5203,
-            "followingCount": 1432,
-            "postsCount": 15783,
+            "followingCount": 1436,
+            "postsCount": 15806,
             "accountCreatedAt": "2020-07-30T17:51:01.282Z",
             "profileUrl": "https://x.com/sagisawaria",
-            "fetchedAt": "2026-08-09T00:22:27Z"
+            "fetchedAt": "2026-08-11T17:44:41Z"
         }
     }
 }

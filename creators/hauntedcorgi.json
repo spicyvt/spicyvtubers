@@ -5,35 +5,36 @@
         "login": "hauntedcorgi",
         "displayName": "HauntedCorgi",
         "createdAt": "2021-08-01T17:48:43.034163Z",
-        "updatedAt": "2026-08-03T21:32:24.829294Z",
+        "updatedAt": "2026-08-07T22:26:19.724771Z",
         "description": "The official Mother of Corgis on Twitch! ",
         "primaryColorHex": "AE1392",
         "followers": {
             "totalCount": 1143
         },
         "follows": {
-            "totalCount": 598
+            "totalCount": 601
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T00:55:45.23485Z"
+            "startedAt": "2026-08-08T01:38:27.883944Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e98f02e-7241-4258-96f5-26e4fad5f9a6-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1982565-9324-4b8a-9173-e73f7f316cf0-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e98f02e-7241-4258-96f5-26e4fad5f9a6-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1982565-9324-4b8a-9173-e73f7f316cf0-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:38:53Z"
     },
     "fansly": {
         "id": "882660539967229953",
         "username": "HauntedCorgi",
         "displayName": "🐾💜Corgi~Pup💜🐾",
         "version": 13,
-        "followCount": 653,
+        "followCount": 719,
         "statusId": 1,
-        "accountMediaLikes": 281,
-        "postLikes": 291,
-        "about": "Just a playful, submissive puppy looking to have fun~♡! Don't worry, I don't bite hard. But I do enjoy being bit.\nYES! I reach out personally to all new followers to say thank you!\nPFP by Nynbug.\nBanner by Burgamisaki.\n\nhttps://throne.com/corgiafterdark\n\nhttps://bad-dragon.com/w/1abcb8d4\n\nhttps://twitch.tv/HauntedCorgi",
+        "accountMediaLikes": 307,
+        "postLikes": 326,
+        "about": "Just a playful, submissive puppy looking to have fun~♡! Don't worry, I don't bite hard. But I do enjoy being bit.\n\nPFP by Nynbug.\nBanner by Burgamisaki.\n\nhttps://throne.com/corgiafterdark\n\nhttps://bad-dragon.com/w/1abcb8d4\n\nhttps://twitch.tv/HauntedCorgi",
         "location": "Under your desk~",
         "streaming": {
             "accountId": "882660539967229953",
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NEuTBfYuMUJT.m3u8",
                 "chatRoomId": "883234653404684288",
                 "status": 2,
-                "version": 10,
+                "version": 12,
                 "createdAt": 1772073651000,
                 "updatedAt": null,
                 "stream": {
                     "id": "883233565700014082",
-                    "historyId": "937559516227055616",
+                    "historyId": "942637800581259264",
                     "channelId": "883233565700014081",
                     "accountId": "882660539967229953",
-                    "title": "Last Smut Stream Before Vacation! (Please help)",
+                    "title": "Corgi is back with a new toy! ",
                     "status": 1,
-                    "viewerCount": 7,
-                    "version": 56,
+                    "viewerCount": 9,
+                    "version": 58,
                     "createdAt": 1772073652000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785037490000,
-                    "startedAt": 1785025967000,
+                    "lastFetchedAt": 1786244433000,
+                    "startedAt": 1786236725000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:02Z"
+        "fetchedAt": "2026-08-11T17:46:21Z"
     },
     "twitter": {
         "hauntedcorgittv": {
@@ -78,12 +79,12 @@
             "description": "🔞 The official Mother of Corgis on Twitch! Member of VLust! ENCE GAMING VTUBER!! 💜: FengarSensei #envtuber #vtuber #lewd",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2081540498100027393/zxlbUGxO_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1841578573343211520/1785112903/1500x500",
-            "followersCount": 581,
-            "followingCount": 849,
-            "postsCount": 5435,
+            "followersCount": 585,
+            "followingCount": 852,
+            "postsCount": 5444,
             "accountCreatedAt": "2024-10-02T20:38:50.037Z",
             "profileUrl": "https://x.com/HauntedCorgiTTV",
-            "fetchedAt": "2026-08-08T23:43:31Z"
+            "fetchedAt": "2026-08-11T17:04:26Z"
         },
         "corgisafterdark": {
             "id": "2049895549319462912",
@@ -92,12 +93,12 @@
             "description": "🛑MDNI🛑 18+ OFFICIAL NSFW Account of @HauntedCorgiTTV! Member of VLust! Lewd submissive puppy~♡ 33 💜: FengarSensei  🎨 pfp @clownnclownn banner @burgamisaki",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2072699580542562304/1yDU8ap4_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2049895549319462912/1777568844/1500x500",
-            "followersCount": 238,
-            "followingCount": 225,
-            "postsCount": 1581,
+            "followersCount": 248,
+            "followingCount": 228,
+            "postsCount": 1610,
             "accountCreatedAt": "2026-04-30T16:56:12.997Z",
             "profileUrl": "https://x.com/CorgisAfterDark",
-            "fetchedAt": "2026-08-08T23:43:33Z"
+            "fetchedAt": "2026-08-11T17:04:27Z"
         }
     }
 }

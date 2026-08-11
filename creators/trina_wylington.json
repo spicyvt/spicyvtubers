@@ -9,7 +9,7 @@
         "description": "Virtual YouTuber Trina Wylington ON TWITCH!!! PFP by Chosmahe [VGen + Twitter (X)]",
         "primaryColorHex": "00C7AC",
         "followers": {
-            "totalCount": 702
+            "totalCount": 703
         },
         "follows": {
             "totalCount": 40
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2025-11-03T17:56:12.797036Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e9c8db1-ea42-4dd2-aa4b-5d9145bf90b5-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f271841a-9c90-4ffb-b508-dfc1d7753afd-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e9c8db1-ea42-4dd2-aa4b-5d9145bf90b5-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f271841a-9c90-4ffb-b508-dfc1d7753afd-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:55:18Z"
     },
     "fansly": {
         "id": "613833247306035201",
         "username": "Trina_Wylington",
         "displayName": "Trina Wylington",
         "version": 10,
-        "followCount": 7568,
-        "statusId": 1,
-        "accountMediaLikes": 15997,
-        "postLikes": 17594,
+        "followCount": 7599,
+        "statusId": 3,
+        "accountMediaLikes": 16181,
+        "postLikes": 17720,
         "about": "*~ The Goddess of Edging ~*\nAn Asexual queen who shows that you don’t have to be sexual to be sexy.\n *~IRL Plus Sized + Married~*",
         "location": "Centria",
         "streaming": {
@@ -48,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "613919567047041025",
-                    "historyId": "941386788415479809",
+                    "historyId": "943560744148938754",
                     "channelId": "613919567047041024",
                     "accountId": "613833247306035201",
                     "title": "The Asexual Goddess",
-                    "status": 2,
-                    "viewerCount": 15,
-                    "version": 7222,
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 7233,
                     "createdAt": 1707864191000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785946459000,
-                    "startedAt": 1785938460000,
+                    "lastFetchedAt": 1786464202000,
+                    "startedAt": 1786456771000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:40Z"
+        "fetchedAt": "2026-08-11T17:51:37Z"
     },
     "twitter": {
         "trina_wylington": {
@@ -78,12 +79,12 @@
             "description": "How To Pronounce My Last Name: Why-ling-ton \nAuDHD \nPronouns: She/Her\n 18+ Account @TrinaWylington \nPFP: @chosmahe  \nNO FOLLOW4FOLLOW!",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2006869370111197184/EgYaS5yc_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/743150141151010816/1747905407/1500x500",
-            "followersCount": 1106,
+            "followersCount": 1107,
             "followingCount": 64,
             "postsCount": 7468,
             "accountCreatedAt": "2016-06-15T18:36:15.644Z",
             "profileUrl": "https://x.com/Trina_Wylington",
-            "fetchedAt": "2026-08-09T00:11:00Z"
+            "fetchedAt": "2026-08-11T17:33:05Z"
         },
         "trinawylington": {
             "id": "1772754061755899904",
@@ -92,12 +93,12 @@
             "description": "Adult Content Creator | AuDHD | Married \nSFW Account: @Trina_Wylington\nBanner by @chosmahe\nPFP by @srtagiuuart\nNO FOLLOW4FOLLOW",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2082948329671950336/e0Rb0ycl_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1772754061755899904/1776510802/1500x500",
-            "followersCount": 1594,
+            "followersCount": 1600,
             "followingCount": 41,
-            "postsCount": 2776,
+            "postsCount": 2793,
             "accountCreatedAt": "2024-03-26T22:34:52.767Z",
             "profileUrl": "https://x.com/TrinaWylington",
-            "fetchedAt": "2026-08-09T00:11:02Z"
+            "fetchedAt": "2026-08-11T17:33:03Z"
         }
     }
 }

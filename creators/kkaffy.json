@@ -5,34 +5,35 @@
         "login": "kkaffy",
         "displayName": "kkaffy",
         "createdAt": "2022-02-15T23:31:24.118278Z",
-        "updatedAt": "2026-07-28T00:33:33.732741Z",
+        "updatedAt": "2026-08-11T14:28:33.221041Z",
         "description": "Hi! I'm Kaffy, a french VTuber (Sometimes PNGtuber) who try to speak english and not colapse from anxiety! I hope we can be friend^^",
         "primaryColorHex": "7A629E",
         "followers": {
-            "totalCount": 536
+            "totalCount": 538
         },
         "follows": {
-            "totalCount": 386
+            "totalCount": 387
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-28T03:30:47.534732Z"
+            "startedAt": "2026-08-11T14:54:06.357663Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7e391ee-b3e7-496c-8087-dcfbd88263d7-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a57fe920-2688-4b51-a56b-951507691bf2-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7e391ee-b3e7-496c-8087-dcfbd88263d7-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a57fe920-2688-4b51-a56b-951507691bf2-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:49:02Z"
     },
     "fansly": {
         "id": "728427193763377152",
         "username": "Kkaffy",
         "displayName": "Kaffy",
         "version": 3,
-        "followCount": 1028,
+        "followCount": 1094,
         "statusId": 1,
-        "accountMediaLikes": 225,
-        "postLikes": 436,
+        "accountMediaLikes": 229,
+        "postLikes": 458,
         "about": "Hellooo ^^\nI can't wait to have some fun with you!\nI'm new to this site so please teach me the ways! ^^\nYou can punish me if you need to, I like learning the HARD way~ \n\n-The Degenerate French Bat\n\nPfp by DetectiveLudwig",
         "location": "",
         "streaming": {
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:47Z"
+        "fetchedAt": "2026-08-11T17:49:55Z"
     },
     "twitter": {
         "kaffyy_kaffyy": {
@@ -78,12 +79,12 @@
             "description": "️‍🌈Hello! I'm Kaffy, a shapeshifter not good at shapeshifting ^^' \nI hope I can make you smile ! ^^\n18+ only \npfp by @ryunvt\nbanner by @Yazan_Ili_Pika",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2004285069557440512/9dWUOfHY_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1493724620666638337/1785336480/1500x500",
-            "followersCount": 452,
+            "followersCount": 456,
             "followingCount": 572,
-            "postsCount": 5217,
+            "postsCount": 5222,
             "accountCreatedAt": "2022-02-15T23:11:53.299Z",
             "profileUrl": "https://x.com/kaffyy_kaffyy",
-            "fetchedAt": "2026-08-09T00:01:57Z"
+            "fetchedAt": "2026-08-11T17:23:35Z"
         }
     }
 }

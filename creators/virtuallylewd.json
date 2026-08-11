@@ -9,10 +9,10 @@
         "description": "lmao imagine streaming as an anime character looooooool",
         "primaryColorHex": "FF0202",
         "followers": {
-            "totalCount": 16877
+            "totalCount": 16876
         },
         "follows": {
-            "totalCount": 207
+            "totalCount": 205
         },
         "roles": {
             "isPartner": true,
@@ -21,19 +21,20 @@
         "lastBroadcast": {
             "startedAt": "2026-07-25T23:18:12.438913Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d356234f-199b-45b9-b9a0-13c66fe51089-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee87e375-4929-42cf-9795-1d8e660e6487-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d356234f-199b-45b9-b9a0-13c66fe51089-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee87e375-4929-42cf-9795-1d8e660e6487-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:42:39Z"
     },
     "fansly": {
         "id": "308958641807958016",
         "username": "virtuallylewd",
         "displayName": "VirtuallyLewd",
         "version": 8,
-        "followCount": 24481,
+        "followCount": 24910,
         "statusId": 1,
-        "accountMediaLikes": 15551,
-        "postLikes": 13008,
-        "about": "I'm VL! I'm a kinky vtuber that loves to be watched~ half IRL, half virtual\n\nNSFW • STREAMS • CUSTOMS • SEXTING • ERP • AUDIOS • CALLS • RATING\n& open to requests! DM to see my menu~\n\nlinks, shop & collab info: https://virtuallylewd.link\nget me a gift: https://throne.com/virtuallylewd\n\nClicking on sub tiers will show you all perks of the tier. Clicking on \"additional plans\" will show you discounted rates for subscribing multiple months in advance!\n\nBE SURE TO ADD A TIP TO YOUR DM TO GET MY ATTENTION OK ❤️",
+        "accountMediaLikes": 15762,
+        "postLikes": 13222,
+        "about": "I'm VL! I'm a kinky vtuber that loves to be watched~ half IRL, half virtual\n\nNSFW • STREAMS • CUSTOMS • SEXTING • ERP • AUDIOS • CALLS • RATING\n& open to requests! DM to see my menu~\n\nlinks, shop & collab info: https://virtuallylewd.link\nget me a gift: https://throne.com/virtuallylewd\n\nBE SURE TO ADD A TIP TO YOUR DM TO GET MY ATTENTION OK ❤️",
         "location": "!!! LIVE every Wed/Fri/Sun 10pm EST !!! ",
         "streaming": {
             "accountId": "308958641807958016",
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.5fEMXRLvZbJp.m3u8",
                 "chatRoomId": "706327504943591424",
                 "status": 2,
-                "version": 208,
+                "version": 211,
                 "createdAt": 1729895614000,
                 "updatedAt": null,
                 "stream": {
                     "id": "706326057090822146",
-                    "historyId": "940480175563358209",
+                    "historyId": "943016922360868864",
                     "channelId": "706326057090822145",
                     "accountId": "308958641807958016",
-                    "title": "💙panty & sock store now live! https://virtuallylewd.link/💙live wed/fri/sun 10PM EST",
+                    "title": "💙let's play a porn game together~💙live wed/fri/sun 10PM EST",
                     "status": 1,
                     "viewerCount": 68,
-                    "version": 318,
+                    "version": 324,
                     "createdAt": 1729895615000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785732066000,
-                    "startedAt": 1785722307000,
+                    "lastFetchedAt": 1786335766000,
+                    "startedAt": 1786327114000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:21:07Z"
+        "fetchedAt": "2026-08-11T17:47:42Z"
     },
     "twitter": {
         "virtuallylewd": {
@@ -87,12 +88,12 @@
             "description": "I’m a silly lil’ succubus, trying to make you happy ♠️ anon cornSTAR, pan/bi, gamer, lewdtuber, vtuber, duck irl 🦆@virtuallylewder LIVE on my 💙link 3x a week",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1594200741735845888/Zj-78ERf_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1231291075110658048/1672182973/1500x500",
-            "followersCount": 87509,
+            "followersCount": 87474,
             "followingCount": 399,
             "postsCount": 541,
             "accountCreatedAt": "2020-02-22T18:54:19.693Z",
             "profileUrl": "https://x.com/virtuallylewd",
-            "fetchedAt": "2026-08-08T23:51:04Z"
+            "fetchedAt": "2026-08-11T17:12:04Z"
         },
         "virtuallylewder": {
             "id": "1301300555281645568",
@@ -101,12 +102,12 @@
             "description": "virtuallylewd, but 'er \nlike a post? Find the full length version in bio link & find me live 3x a week there! main @virtuallylewd",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2069901468996390912/47AbT1Kr_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1301300555281645568/1773895602/1500x500",
-            "followersCount": 8443,
+            "followersCount": 8453,
             "followingCount": 2,
             "postsCount": 35,
             "accountCreatedAt": "2020-09-02T23:26:56.963Z",
             "profileUrl": "https://x.com/virtuallylewder",
-            "fetchedAt": "2026-08-08T23:51:06Z"
+            "fetchedAt": "2026-08-11T17:12:06Z"
         }
     }
 }

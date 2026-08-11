@@ -9,10 +9,10 @@
         "description": "Come One, Come All, welcome to the depths where yours truly loves to make a splash! Whether I'm here to make you smile, or maybe just a bit of banter, rest assured Ill capture your heart in seaweed and assimilate you into my hivemind~",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 1270
+            "totalCount": 1269
         },
         "follows": {
-            "totalCount": 1935
+            "totalCount": 1939
         },
         "roles": {
             "isPartner": false,
@@ -21,15 +21,16 @@
         "lastBroadcast": {
             "startedAt": "2026-07-12T20:20:06.597559Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ecc71c32-acf4-40d3-8d49-87bee337513e-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/208912b0-63d7-4c27-9439-7f303384b024-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ecc71c32-acf4-40d3-8d49-87bee337513e-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/208912b0-63d7-4c27-9439-7f303384b024-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:54:32Z"
     },
     "fansly": {
         "id": "632335547292987393",
         "username": "MySealium",
         "displayName": "MySealium",
         "version": 11,
-        "followCount": 191,
+        "followCount": 190,
         "statusId": 1,
         "accountMediaLikes": 114,
         "postLikes": 126,
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:35Z"
+        "fetchedAt": "2026-08-11T17:51:26Z"
     },
     "twitter": {
         "deepdenizen_": {
@@ -79,11 +80,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1971199151070146560/pMiQZPXb_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1288479683588296704/1760037028/1500x500",
             "followersCount": 1037,
-            "followingCount": 1971,
+            "followingCount": 1970,
             "postsCount": 4924,
             "accountCreatedAt": "2020-07-29T14:21:21.151Z",
             "profileUrl": "https://x.com/DeepDenizen_",
-            "fetchedAt": "2026-08-09T00:09:57Z"
+            "fetchedAt": "2026-08-11T17:32:01Z"
         },
         "lewddenizen": {
             "id": "1772269433035055104",
@@ -92,12 +93,12 @@
             "description": "AfterShark account of @deepdenizen_ || Here to stir up your depths :3c || DM's open! || MDNI || VA requests open! || https://t.co/NBr2AN6XGD || 5$ UB Fee",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1952799746524839936/OaD9Yj8Q_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1772269433035055104/1754418716/1500x500",
-            "followersCount": 175,
-            "followingCount": 471,
+            "followersCount": 177,
+            "followingCount": 472,
             "postsCount": 565,
             "accountCreatedAt": "2024-03-25T14:29:12.726Z",
             "profileUrl": "https://x.com/LewdDenizen",
-            "fetchedAt": "2026-08-09T00:09:59Z"
+            "fetchedAt": "2026-08-11T17:32:02Z"
         }
     }
 }

@@ -5,34 +5,35 @@
         "login": "deca",
         "displayName": "Deca",
         "createdAt": "2024-04-23T21:33:21.381818Z",
-        "updatedAt": "2026-08-02T18:46:23.47815Z",
+        "updatedAt": "2026-08-07T20:09:30.797404Z",
         "description": "Welcome! My name is Deca! I am a Wolfboy VTuber from Spain that streams ASMR and games every now and then! Come join us and have a nice relaxing time! | Business Email: decacontactmail@gmail.com",
         "primaryColorHex": "FE3D3A",
         "followers": {
-            "totalCount": 6103
+            "totalCount": 6121
         },
         "follows": {
-            "totalCount": 370
+            "totalCount": 371
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T22:21:28.669954Z"
+            "startedAt": "2026-08-07T23:07:15.680703Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75d4633b-e900-4fc3-ae1e-93323a3f8ec6-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf601fbb-4cfa-4383-bf18-7fba4b016778-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75d4633b-e900-4fc3-ae1e-93323a3f8ec6-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf601fbb-4cfa-4383-bf18-7fba4b016778-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:43:40Z"
     },
     "fansly": {
         "id": "646399244835500033",
         "username": "Deca900",
         "displayName": "Deca",
         "version": 8,
-        "followCount": 5267,
+        "followCount": 5314,
         "statusId": 2,
-        "accountMediaLikes": 7635,
-        "postLikes": 4523,
+        "accountMediaLikes": 7715,
+        "postLikes": 4567,
         "about": "Femboy Vtuber and ASMRtist! I am kind of a voice actor and my voice can go very high and very low! I am a Switch and Vers~ You can ask anything from me~\nYou can DM me for customs UwU\nStreaming every Monday and Saturday at 10 PM CET Time UwU (Free to View)\nSub Streams Pretty Much Every Day!\n\nAll my Links! https://deca902.carrd.co/",
         "location": "Spain",
         "streaming": {
@@ -43,57 +44,24 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Ev1uEWFCovFk.m3u8",
                 "chatRoomId": "726101462244929536",
                 "status": 2,
-                "version": 737,
+                "version": 748,
                 "createdAt": 1734610429000,
                 "updatedAt": null,
                 "stream": {
                     "id": "726101423594414081",
-                    "historyId": "940828159891238913",
+                    "historyId": "943298991175528448",
                     "channelId": "726101423594414080",
                     "accountId": "646399244835500033",
-                    "title": "[FEMBOY VTUBER] We Chilling and Working~ | Subs Only Stream",
+                    "title": "[FEMBOY VTUBER] Fuck Up My Throat~ | !socials",
                     "status": 1,
-                    "viewerCount": 4,
-                    "version": 4928,
+                    "viewerCount": 25,
+                    "version": 4942,
                     "createdAt": 1734610429000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785813488000,
-                    "startedAt": 1785805273000,
+                    "lastFetchedAt": 1786404902000,
+                    "startedAt": 1786394365000,
                     "permissions": {
-                        "permissionFlags": [
-                            {
-                                "id": "940828020892000256",
-                                "streamId": "726101423594414081",
-                                "type": 0,
-                                "flags": 4,
-                                "price": 0,
-                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"755187365034598400\\\"}\"}"
-                            },
-                            {
-                                "id": "940828020892000257",
-                                "streamId": "726101423594414081",
-                                "type": 0,
-                                "flags": 4,
-                                "price": 0,
-                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"886011659238264832\\\"}\"}"
-                            },
-                            {
-                                "id": "940828020892000258",
-                                "streamId": "726101423594414081",
-                                "type": 0,
-                                "flags": 4,
-                                "price": 0,
-                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"807607081971507200\\\"}\"}"
-                            },
-                            {
-                                "id": "940828020892000259",
-                                "streamId": "726101423594414081",
-                                "type": 0,
-                                "flags": 1,
-                                "price": 0,
-                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":10000}\"}"
-                            }
-                        ]
+                        "permissionFlags": []
                     }
                 },
                 "arn": null,
@@ -101,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:12:54Z"
+        "fetchedAt": "2026-08-11T17:48:09Z"
     },
     "twitter": {
         "deca900": {
@@ -111,12 +79,12 @@
             "description": "🔻Time Spirit WolfBoy 🔻Twitch Partner!🔻ASMRtist🔻Bisexual 🏳️‍🌈 #DecaInArt #DecaInHeat 🔞 : @DecaNSFW 🔻All my socials: https://t.co/K6PNuIJP6b",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1998905727801307136/OHKk0yNt_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3578237122/1742303261/1500x500",
-            "followersCount": 3671,
-            "followingCount": 535,
-            "postsCount": 7621,
+            "followersCount": 3683,
+            "followingCount": 536,
+            "postsCount": 7623,
             "accountCreatedAt": "2015-09-07T15:28:51.975Z",
             "profileUrl": "https://x.com/Deca900",
-            "fetchedAt": "2026-08-08T23:52:55Z"
+            "fetchedAt": "2026-08-11T17:13:59Z"
         },
         "decansfw": {
             "id": "1761084985241436161",
@@ -125,12 +93,12 @@
             "description": "Whimper/roleplay Audios\n【PATREON】https://t.co/BE8akWUPPL \n【FANSLY】https://t.co/KVOjLzHFoP\n【SFW ACCOUNT】@Deca900\n【TWITCH】https://t.co/6GlTtkKf1Q",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1856343406705872896/Sq-Pbsiw_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1761084985241436161/1770522813/1500x500",
-            "followersCount": 15659,
+            "followersCount": 15773,
             "followingCount": 540,
-            "postsCount": 1402,
+            "postsCount": 1403,
             "accountCreatedAt": "2024-02-23T17:46:08.298Z",
             "profileUrl": "https://x.com/DecaNSFW",
-            "fetchedAt": "2026-08-08T23:52:56Z"
+            "fetchedAt": "2026-08-11T17:13:57Z"
         }
     }
 }

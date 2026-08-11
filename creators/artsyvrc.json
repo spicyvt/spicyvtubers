@@ -9,7 +9,7 @@
         "description": "awooga",
         "primaryColorHex": "241518",
         "followers": {
-            "totalCount": 103891
+            "totalCount": 103854
         },
         "follows": {
             "totalCount": 477
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-07-23T22:08:43.374201Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56339497-b6e9-4491-b383-4d94f8671dfc-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/65de9abf-51fd-4807-92d7-201717292819-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56339497-b6e9-4491-b383-4d94f8671dfc-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/65de9abf-51fd-4807-92d7-201717292819-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:44:25Z"
     },
     "fansly": {
         "id": "303018312592273408",
         "username": "ArtsyVRC",
         "displayName": "Artsy",
         "version": 10,
-        "followCount": 66109,
+        "followCount": 66123,
         "statusId": 1,
-        "accountMediaLikes": 40616,
-        "postLikes": 64357,
+        "accountMediaLikes": 40762,
+        "postLikes": 64560,
         "about": "This is my hobby, I enjoy being a slut in practice~\n\nMost content is free but you can sub for nudity posts 🤍",
         "location": "",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:05Z"
+        "fetchedAt": "2026-08-11T17:48:25Z"
     },
     "twitter": {
         "artsyvrc": {
@@ -87,12 +88,12 @@
             "description": "A mysterious femboy VTuber 💜\n\nI make characters~\n\nArt: #fanartsy #lewdsy \nSocials: https://t.co/vOKFzx0MXB",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2066325982999388160/MqWcAh_F_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/973308945094905856/1780882569/1500x500",
-            "followersCount": 130780,
-            "followingCount": 1951,
-            "postsCount": 5783,
+            "followersCount": 130809,
+            "followingCount": 1953,
+            "postsCount": 5789,
             "accountCreatedAt": "2018-03-12T21:25:10.533Z",
             "profileUrl": "https://x.com/ArtsyVRC",
-            "fetchedAt": "2026-08-08T23:54:25Z"
+            "fetchedAt": "2026-08-11T17:15:32Z"
         }
     }
 }

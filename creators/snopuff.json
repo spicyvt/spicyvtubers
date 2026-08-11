@@ -5,31 +5,32 @@
         "login": "snopuff",
         "displayName": "Snopuff",
         "createdAt": "2012-09-24T20:44:10.328552Z",
-        "updatedAt": "2026-08-02T05:43:12.203338Z",
+        "updatedAt": "2026-08-11T02:17:46.368694Z",
         "description": "Hello and welcome to my palace | 18+ STREAMER | Shapeshifting Demonic Dragon Waifu | Twitch Affiliate | Sussy seiso that will pronounce your name wrong",
         "primaryColorHex": "1345AA",
         "followers": {
             "totalCount": 4960
         },
         "follows": {
-            "totalCount": 2000
+            "totalCount": 1999
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T09:46:52.782366Z"
+            "startedAt": "2026-08-11T04:07:33.310317Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9789238c-fbe7-4a48-ba39-c811181e76e2-profile_image-70x70.jpeg",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62efe315-a5de-4392-9c96-6785608d3cb7-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9789238c-fbe7-4a48-ba39-c811181e76e2-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62efe315-a5de-4392-9c96-6785608d3cb7-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:50:21Z"
     },
     "fansly": {
         "id": "533878306223697920",
         "username": "Snopuff",
         "displayName": "Snopuff",
         "version": 3,
-        "followCount": 733,
+        "followCount": 734,
         "statusId": 1,
         "accountMediaLikes": 377,
         "postLikes": 1461,
@@ -40,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:03Z"
+        "fetchedAt": "2026-08-11T17:50:17Z"
     },
     "twitter": {
         "snopuff": {
@@ -50,12 +51,12 @@
             "description": "🔞Demonic Dragon shapeshifting waifu #EpicPartner || @Netami_VT/@SaphireDokii | #snopuffart || https://t.co/s80LTK0J9D || Business email: suzuchan271@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2008622136110575616/vABVeod-_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/117494956/1704584208/1500x500",
-            "followersCount": 17846,
-            "followingCount": 7170,
-            "postsCount": 16834,
+            "followersCount": 17849,
+            "followingCount": 7171,
+            "postsCount": 16835,
             "accountCreatedAt": "2010-02-25T18:55:22.000Z",
             "profileUrl": "https://x.com/Snopuff",
-            "fetchedAt": "2026-08-09T00:04:00Z"
+            "fetchedAt": "2026-08-11T17:25:46Z"
         }
     }
 }

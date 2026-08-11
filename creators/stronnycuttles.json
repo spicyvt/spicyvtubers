@@ -9,10 +9,10 @@
         "description": "Hello I'm Stronny Cuttles from VAllure and my Twitch is for ASMR focused content! ",
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 5797
+            "totalCount": 5821
         },
         "follows": {
-            "totalCount": 12
+            "totalCount": 13
         },
         "roles": {
             "isPartner": true,
@@ -21,18 +21,19 @@
         "lastBroadcast": {
             "startedAt": "2026-04-10T17:47:53.34225Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/836036ac-82d7-402b-8027-5ef366bdff64-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd758423-a8f0-4cd4-ab93-3a098682e5ab-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/836036ac-82d7-402b-8027-5ef366bdff64-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd758423-a8f0-4cd4-ab93-3a098682e5ab-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T16:45:08Z"
     },
     "fansly": {
         "id": "597938049397043200",
         "username": "StronnyCuttles",
         "displayName": "Stronny Cuttles",
         "version": 10,
-        "followCount": 12164,
+        "followCount": 12197,
         "statusId": 1,
-        "accountMediaLikes": 1837,
-        "postLikes": 3046,
+        "accountMediaLikes": 1846,
+        "postLikes": 3047,
         "about": "Hello Reefling, I'm sure I won't get up to too much trouble here!\nAll streams will be free to watch 💚 \n\nVoD are pay-walled due to website rules but will have deleted YT Membership Streams that are too much to leave up. \n\n~ Links ~ \nYoutube: https://www.youtube.com/@StronnyCuttles\nPatreon (Audio RP's/ASMRs): https://patreon.com/StronnyCuttles\n\nPFP/Banner: Alfyria",
         "location": "",
         "streaming": {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:10Z"
+        "fetchedAt": "2026-08-11T17:48:41Z"
     },
     "twitter": {
         "stronnycuttles": {
@@ -87,12 +88,12 @@
             "description": "The hypnotic cuttlefish!~\nRig @naari_jpg Design @SquishyGhool \nBanner @waltz_w_me \n@GamerSupps Code STRONNY",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1797451229364391936/YfqsX2La_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1741854822553501696/1716142603/1500x500",
-            "followersCount": 30340,
+            "followersCount": 30703,
             "followingCount": 809,
-            "postsCount": 1508,
+            "postsCount": 1510,
             "accountCreatedAt": "2024-01-01T16:12:21.541Z",
             "profileUrl": "https://x.com/StronnyCuttles",
-            "fetchedAt": "2026-08-08T23:55:36Z"
+            "fetchedAt": "2026-08-11T17:16:51Z"
         },
         "stronnynsfw": {
             "id": "1760722917254680576",
@@ -101,12 +102,12 @@
             "description": "Don't be shy, it's time to ink with me ;)  | Alt of @StronnyCuttles | #smuttlefish | https://t.co/NOP6Z5Qhdr | https://t.co/l0qd7I97ND",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1793590623968399360/spcggQlI_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1760722917254680576/1716460326/1500x500",
-            "followersCount": 33834,
+            "followersCount": 33838,
             "followingCount": 59,
             "postsCount": 503,
             "accountCreatedAt": "2024-02-22T17:47:35.692Z",
             "profileUrl": "https://x.com/StronnyNSFW",
-            "fetchedAt": "2026-08-08T23:55:38Z"
+            "fetchedAt": "2026-08-11T17:16:49Z"
         }
     }
 }

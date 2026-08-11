@@ -21,17 +21,18 @@
         "lastBroadcast": {
             "startedAt": "2026-07-23T00:51:32.089841Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50fc157f-db22-47de-b23f-95332aa0ad83-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e31fe09-a682-4652-aeee-31d6e8515e83-profile_banner-480.png"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50fc157f-db22-47de-b23f-95332aa0ad83-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e31fe09-a682-4652-aeee-31d6e8515e83-profile_banner-480.png",
+        "fetchedAt": "2026-08-11T17:00:35Z"
     },
     "fansly": {
         "id": "403808168129339392",
         "username": "ManamiVT",
         "displayName": "ManamiVT",
         "version": 17,
-        "followCount": 3542,
+        "followCount": 3561,
         "statusId": 1,
-        "accountMediaLikes": 1832,
+        "accountMediaLikes": 1835,
         "postLikes": 1932,
         "about": "🌟 Lewdsome VTuber\n🌟 Demi Subby (& Bratty) Bottom\n🌟 💍 @NSFWYuno\n\n💓𝗟𝗢𝗩𝗘𝗡𝗦𝗘 𝗔𝗙𝗙𝗜𝗟𝗜𝗔𝗧𝗘 | https://www.lovense.com/r/zw4zr0\n💬𝗗𝗜𝗦𝗖𝗢𝗥𝗗 | https://discord.com/invite/hnMVAfKrhT\n🎁𝗪𝗜𝗦𝗛𝗟𝗜𝗦𝗧 | https://throne.com/manamivt\n🌐𝗦𝗢𝗖𝗜𝗔𝗟𝗦 | https://manamivt.carrd.co",
         "location": "Space",
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:17Z"
+        "fetchedAt": "2026-08-11T17:52:51Z"
     },
     "bluesky": {
         "did": "did:plc:cwhffjgvcee5l254k5si5yyn",
@@ -91,6 +92,6 @@
         "postsCount": 754,
         "accountCreatedAt": "2023-08-18T22:28:09.827Z",
         "profileUrl": "https://bsky.app/profile/manamivt.bsky.social",
-        "fetchedAt": "2026-08-09T00:23:32Z"
+        "fetchedAt": "2026-08-11T17:45:56Z"
     }
 }

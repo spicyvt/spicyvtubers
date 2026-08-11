@@ -5,33 +5,34 @@
         "login": "manyducks",
         "displayName": "ManyDucks",
         "createdAt": "2020-11-12T15:41:18.877557Z",
-        "updatedAt": "2026-07-29T23:16:46.817847Z",
+        "updatedAt": "2026-08-09T04:59:41.159382Z",
         "description": "\\( •ө• )/",
         "primaryColorHex": "9A71D9",
         "followers": {
-            "totalCount": 633
+            "totalCount": 644
         },
         "follows": {
-            "totalCount": 658
+            "totalCount": 656
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-30T02:11:57.146371Z"
+            "startedAt": "2026-08-09T06:08:25.579982Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6575c2a-855f-421d-b7f1-24c0aa811cd7-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5642715e-d5e5-4b44-ad1b-012890b8294d-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6575c2a-855f-421d-b7f1-24c0aa811cd7-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5642715e-d5e5-4b44-ad1b-012890b8294d-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:59:58Z"
     },
     "fansly": {
         "id": "841424915855863808",
         "username": "ManyDucks",
         "displayName": "ManyDucks",
         "version": 6,
-        "followCount": 1248,
+        "followCount": 1298,
         "statusId": 3,
-        "accountMediaLikes": 93,
+        "accountMediaLikes": 95,
         "postLikes": 110,
         "about": "ManyDucks Vtuber\n\nApparently I'm 100% a brat..",
         "location": "",
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wDfVtKVjfdf9.m3u8",
                 "chatRoomId": "841526294008045568",
                 "status": 2,
-                "version": 28,
+                "version": 30,
                 "createdAt": 1762120304000,
                 "updatedAt": null,
                 "stream": {
                     "id": "841486200152805377",
-                    "historyId": "940889258648940544",
+                    "historyId": "943048898555961344",
                     "channelId": "841486200152805376",
                     "accountId": "841424915855863808",
-                    "title": "GAMES AND AN EDIBLE!!! !command !discord !menu",
+                    "title": "Vibing !command !discord !menu",
                     "status": 1,
-                    "viewerCount": 5,
-                    "version": 200,
+                    "viewerCount": 17,
+                    "version": 202,
                     "createdAt": 1762120304000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785828086000,
-                    "startedAt": 1785819840000,
+                    "lastFetchedAt": 1786343613000,
+                    "startedAt": 1786334738000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:15:12Z"
+        "fetchedAt": "2026-08-11T17:52:41Z"
     },
     "twitter": {
         "manyducksvt": {
@@ -87,12 +88,12 @@
             "description": "Gonna steal ur ducks (Eng/한) (she/her) | 18+ | pfp: @maelibun | 3.0 🎨 @Lynniia ⚙️ @__EyesOnFire__",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1712614329739096064/Og2KBl2t_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1563077723374792705/1767216704/1500x500",
-            "followersCount": 489,
-            "followingCount": 2180,
+            "followersCount": 490,
+            "followingCount": 2182,
             "postsCount": 1391,
             "accountCreatedAt": "2022-08-26T08:15:55.460Z",
             "profileUrl": "https://x.com/ManyDucksVT",
-            "fetchedAt": "2026-08-09T00:18:43Z"
+            "fetchedAt": "2026-08-11T17:40:50Z"
         }
     }
 }

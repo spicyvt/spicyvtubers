@@ -5,24 +5,25 @@
         "login": "darienchyba",
         "displayName": "darienchyba",
         "createdAt": "2023-10-04T06:02:24.965411Z",
-        "updatedAt": "2026-08-02T12:38:29.992775Z",
+        "updatedAt": "2026-08-10T10:14:59.428007Z",
         "description": "i am THE premier athlete of the VTubing community.",
         "primaryColorHex": "FF7A00",
         "followers": {
-            "totalCount": 703
+            "totalCount": 696
         },
         "follows": {
-            "totalCount": 495
+            "totalCount": 497
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T15:09:57.826764Z"
+            "startedAt": "2026-08-10T14:04:11.866209Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b42f1a0-853b-4289-b075-8a9db8301777-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09d41ca6-d898-4263-a371-46753ab2136e-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b42f1a0-853b-4289-b075-8a9db8301777-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09d41ca6-d898-4263-a371-46753ab2136e-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:45:59Z"
     },
     "fansly": {
         "id": "691720209769181185",
@@ -43,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.k8V46LX0cp4e.m3u8",
                 "chatRoomId": "791003459464736768",
                 "status": 2,
-                "version": 232,
+                "version": 233,
                 "createdAt": 1749889073000,
                 "updatedAt": null,
                 "stream": {
                     "id": "790184700965564418",
-                    "historyId": "940094425189605376",
+                    "historyId": "942848908856406016",
                     "channelId": "790184700965564417",
                     "accountId": "691720209769181185",
-                    "title": "FLIPWITCH #nsfw #lewdtuber | !tip",
+                    "title": "RANGERS VS HIBERNIAN #nsfw #lewdtuber | !tip",
                     "status": 1,
-                    "viewerCount": 1,
-                    "version": 720,
+                    "viewerCount": 0,
+                    "version": 724,
                     "createdAt": 1749889074000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785927014000,
-                    "startedAt": 1785630337000,
+                    "lastFetchedAt": 1786291415000,
+                    "startedAt": 1786287057000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -68,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:13:21Z"
+        "fetchedAt": "2026-08-11T17:48:57Z"
     },
     "twitter": {
         "darienchyba": {
@@ -78,12 +79,12 @@
             "description": "The premier athlete of the vtubing community.\n#ChybArmy\n@PoggersShop @GoBlacklyte @NekomartShop affiliate CODE: DARIENCHYBA",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1992389012003360768/3lzwC0WX_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1650496948166639617/1772525807/1500x500",
-            "followersCount": 490,
-            "followingCount": 2357,
-            "postsCount": 6322,
+            "followersCount": 489,
+            "followingCount": 2358,
+            "postsCount": 6333,
             "accountCreatedAt": "2023-04-24T13:48:48.499Z",
             "profileUrl": "https://x.com/DarienChyba",
-            "fetchedAt": "2026-08-08T23:56:58Z"
+            "fetchedAt": "2026-08-11T17:18:18Z"
         }
     }
 }

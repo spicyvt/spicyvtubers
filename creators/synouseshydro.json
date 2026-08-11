@@ -5,11 +5,11 @@
         "login": "synouseshydro",
         "displayName": "SynoUsesHydro",
         "createdAt": "2021-05-16T17:07:07.858878Z",
-        "updatedAt": "2026-07-30T18:48:15.019462Z",
+        "updatedAt": "2026-08-07T01:24:00.000619Z",
         "description": "Hi! I'm Syno! I'm a Vtuber, Gamer, and all around silly goofy girl. Join me as I play games of all types, have adventures with friends, and make terrible jokes!",
         "primaryColorHex": "AA58D8",
         "followers": {
-            "totalCount": 672
+            "totalCount": 671
         },
         "follows": {
             "totalCount": 73
@@ -19,20 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-30T22:48:41.091007Z"
+            "startedAt": "2026-08-07T04:45:44.384812Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc30c7f2-92d0-4509-afb2-7c0429e04aa7-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1553dba8-3697-4e04-be9b-3a7c11014aa3-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc30c7f2-92d0-4509-afb2-7c0429e04aa7-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1553dba8-3697-4e04-be9b-3a7c11014aa3-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:55:42Z"
     },
     "fansly": {
         "id": "608477572296093696",
         "username": "SynoXXX",
         "displayName": "Syno",
         "version": 7,
-        "followCount": 20265,
+        "followCount": 20361,
         "statusId": 3,
-        "accountMediaLikes": 22948,
-        "postLikes": 27086,
+        "accountMediaLikes": 23005,
+        "postLikes": 27154,
         "about": "Heya I'm Syno! I play video games and take VR photos. I'm also a lover of anime, cats, and dinosaur facts. If any of that interests you then I encourage you to stay a while. \n\n** I reserve the right to block or revoke links for people who abuse me in any form. I am not a plastic toy, I am a human being. Please act respectfully and lets treat each other with kindness! **\n\nAll my socials:\nhttps://synouseshydro.carrd.co/\n",
         "location": "",
         "streaming": {
@@ -43,26 +44,26 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.T1Acor0oVnpE.m3u8",
                 "chatRoomId": "610366405925150721",
                 "status": 2,
-                "version": 786,
+                "version": 804,
                 "createdAt": 1706904651000,
                 "updatedAt": null,
                 "stream": {
                     "id": "609894966398820353",
-                    "historyId": "940496393779298304",
+                    "historyId": "943032254072897536",
                     "channelId": "609894966398820352",
                     "accountId": "608477572296093696",
-                    "title": "Mommy is here! - Subs Sunday - !socials - !menu - $5 Wheel",
+                    "title": "GAMBA GAMBA GAMBA! - $5 Spins - $15 Big Spins - !socials - !menu",
                     "status": 1,
-                    "viewerCount": 42,
-                    "version": 3470,
+                    "viewerCount": 5,
+                    "version": 3476,
                     "createdAt": 1706904652000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785732826000,
-                    "startedAt": 1785726173000,
+                    "lastFetchedAt": 1786470531000,
+                    "startedAt": 1786330770000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "937965709856628748",
+                                "id": "943049842463096832",
                                 "streamId": "609894966398820353",
                                 "type": 0,
                                 "flags": 2,
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:40Z"
+        "fetchedAt": "2026-08-11T17:51:42Z"
     },
     "twitter": {
         "synouseshydro": {
@@ -87,12 +88,12 @@
             "description": "For all my socials:\nhttps://t.co/nk3qWLtiw1\n\nBusiness email: SynoUsesHydro@gmail.com\n\nDhydratedpucci - Vtuber Artist\nnaraaa_x - Vtuber Rigger & Artist",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2000740321244876800/C3uErcuE_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1775574472474628096/1745544532/1500x500",
-            "followersCount": 1598,
-            "followingCount": 122,
-            "postsCount": 1513,
+            "followersCount": 1615,
+            "followingCount": 123,
+            "postsCount": 1518,
             "accountCreatedAt": "2024-04-03T17:22:09.307Z",
             "profileUrl": "https://x.com/SynoUsesHydro",
-            "fetchedAt": "2026-08-09T00:11:41Z"
+            "fetchedAt": "2026-08-11T17:33:44Z"
         }
     }
 }

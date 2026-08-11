@@ -5,11 +5,11 @@
         "login": "yomithecatshark",
         "displayName": "yomithecatshark",
         "createdAt": "2016-08-06T21:42:50.645174Z",
-        "updatedAt": "2026-07-22T00:07:33.484102Z",
+        "updatedAt": "2026-08-11T01:30:35.484991Z",
         "description": "Hi!! I'm Yomi! Yomi the Cat Shark! I'm a small streamer! OwO I'm a VTuber! Nya nya nya! :3 I love to play Tetris and a lot more! I'm a furry! I'm a cat shark! Rawr! Meow! :3",
         "primaryColorHex": "6C9DFF",
         "followers": {
-            "totalCount": 306
+            "totalCount": 307
         },
         "follows": {
             "totalCount": 849
@@ -21,8 +21,9 @@
         "lastBroadcast": {
             "startedAt": "2026-07-22T03:40:30.269944Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/612595af-9b16-4719-9d08-21ac27408b10-profile_image-70x70.jpeg",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1920a890-6a91-48a6-90e4-beca701d5c6c-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/612595af-9b16-4719-9d08-21ac27408b10-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1920a890-6a91-48a6-90e4-beca701d5c6c-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:51:18Z"
     },
     "twitter": {
         "yomithecatshark": {
@@ -33,11 +34,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1899228133741445120/62A0lJYQ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1899226569060806656/1776112082/1500x500",
             "followersCount": 96,
-            "followingCount": 560,
+            "followingCount": 561,
             "postsCount": 153,
             "accountCreatedAt": "2025-03-10T22:31:24.246Z",
             "profileUrl": "https://x.com/yomithecatshark",
-            "fetchedAt": "2026-08-09T00:05:32Z"
+            "fetchedAt": "2026-08-11T17:27:26Z"
         }
     }
 }

@@ -19,20 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-03T22:59:03.45465Z"
+            "startedAt": "2026-08-11T05:19:49.774455Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f4c7d89-8572-42b5-92d5-59ebaa4790de-profile_image-70x70.png",
-        "bannerImageUrl": null
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f4c7d89-8572-42b5-92d5-59ebaa4790de-profile_image-300x300.png",
+        "bannerImageUrl": null,
+        "fetchedAt": "2026-08-11T16:52:22Z"
     },
     "fansly": {
         "id": "391045284500611072",
         "username": "SmugiVR",
         "displayName": "SmugglesTheCutie ",
         "version": 6,
-        "followCount": 6314,
+        "followCount": 6317,
         "statusId": 1,
-        "accountMediaLikes": 10511,
-        "postLikes": 7771,
+        "accountMediaLikes": 10553,
+        "postLikes": 7782,
         "about": "27y/o. Aussie. She/Her.\nIce Dragon who loves big ladies. Mommy Connoisseur. Can be found at clubs or watching movies. Streaming Wednesdays at 8pm EST. \nAll my socials https://linktr.ee/SmugiVR",
         "location": "",
         "streaming": {
@@ -48,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "735903372430811137",
-                    "historyId": "941033614269763585",
+                    "historyId": "943203552384282624",
                     "channelId": "735903372430811136",
                     "accountId": "391045284500611072",
                     "title": "Ice Dragon Gaming | Palworld",
                     "status": 1,
-                    "viewerCount": 5,
-                    "version": 9431,
+                    "viewerCount": 10,
+                    "version": 9435,
                     "createdAt": 1736947396000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785861784000,
-                    "startedAt": 1785854257000,
+                    "lastFetchedAt": 1786380455000,
+                    "startedAt": 1786371610000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -77,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-05T16:14:19Z"
+        "fetchedAt": "2026-08-11T17:51:00Z"
     },
     "twitter": {
         "smugglesdacutie": {
@@ -87,12 +88,12 @@
             "description": "🔞27y/o. Aussie. She/Her.\nIce Dragon who loves big ladies. Mommy Connoisseur. Can be found at clubs or watching movies. I stream on Wednesdays at 8pm EST. 🔞",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2000913757879603200/0U79oJXv_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/706806840/1761239271/1500x500",
-            "followersCount": 3303,
-            "followingCount": 1763,
+            "followersCount": 3304,
+            "followingCount": 1767,
             "postsCount": 3535,
             "accountCreatedAt": "2012-07-20T09:15:15.000Z",
             "profileUrl": "https://x.com/SmugglesDaCutie",
-            "fetchedAt": "2026-08-09T00:07:16Z"
+            "fetchedAt": "2026-08-11T17:29:16Z"
         }
     }
 }

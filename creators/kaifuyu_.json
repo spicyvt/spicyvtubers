@@ -5,24 +5,25 @@
         "login": "kaifuyu_",
         "displayName": "Kaifuyu_",
         "createdAt": "2021-05-17T16:02:25.886937Z",
-        "updatedAt": "2026-08-01T22:21:39.73936Z",
+        "updatedAt": "2026-08-11T10:49:29.724145Z",
         "description": "Hell was too hot so I left",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 2436
+            "totalCount": 2465
         },
         "follows": {
-            "totalCount": 628
+            "totalCount": 631
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-28T09:26:20.204345Z"
+            "startedAt": "2026-08-09T19:00:59.515855Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de9b17e9-5f64-4dbc-99a0-0261734ce35b-profile_image-70x70.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de0eef6b-3f36-4283-90fb-9d18cd2d3ca2-profile_banner-480.jpeg"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de9b17e9-5f64-4dbc-99a0-0261734ce35b-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de0eef6b-3f36-4283-90fb-9d18cd2d3ca2-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-11T16:57:21Z"
     },
     "twitter": {
         "kaifuyu_": {
@@ -33,11 +34,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1989129631027412992/-ucmEBHh_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1394323225786597376/1764181190/1500x500",
             "followersCount": 4132,
-            "followingCount": 1406,
-            "postsCount": 2781,
+            "followingCount": 1411,
+            "postsCount": 2786,
             "accountCreatedAt": "2021-05-17T16:05:44.564Z",
             "profileUrl": "https://x.com/Kaifuyu_",
-            "fetchedAt": "2026-08-09T00:14:20Z"
+            "fetchedAt": "2026-08-11T17:36:25Z"
         }
     }
 }
