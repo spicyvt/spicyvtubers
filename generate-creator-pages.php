@@ -777,7 +777,7 @@ function buildFanslyLeaderboardSection(string $slug): string
     <div class="creator-card fansly-card">
       <div class="fansly-card-inner">
         <div class="fansly-header">
-          <h2 class="fansly-title">Fansly Leaderboard Rank</h2>
+          <h2 class="fansly-title">Fansly Leaderboard History</h2>
           <div class="fansly-month-pills">{$pillsHtml}</div>
         </div>
         <div class="fansly-graphs">{$panelsHtml}</div>
