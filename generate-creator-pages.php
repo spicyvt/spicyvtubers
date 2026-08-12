@@ -737,8 +737,8 @@ function buildFanslyStatsHtml(?array $stats): string
     return <<<HTML
 <div class="fansly-stats">
           <span class="fansly-stat"><span class="fansly-stat-label">Highest Rank:</span> {$highestRank}</span>
-          <span class="fansly-stat"><span class="fansly-stat-label">Largest Increase:</span> {$largestIncrease}</span>
-          <span class="fansly-stat"><span class="fansly-stat-label">Total Increases:</span> {$totalIncreases}</span>
+          <span class="fansly-stat"><span class="fansly-stat-label">Largest Gain:</span> {$largestIncrease}</span>
+          <span class="fansly-stat"><span class="fansly-stat-label">Total Gains:</span> {$totalIncreases}</span>
         </div>
 HTML;
 }
