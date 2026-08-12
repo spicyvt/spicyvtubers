@@ -765,7 +765,7 @@ function buildFanslyLeaderboardSection(string $slug): string
     $panelsHtml = '';
     foreach ($reports as $i => $report) {
         $monthKey = htmlspecialchars((string) $report['key']);
-        $monthLabel = htmlspecialchars((string) $report['month'] . ' - ' . fanslyFinalPositionLabel($report));
+        $monthLabel = htmlspecialchars((string) $report['month'] . ' · ' . fanslyFinalPositionLabel($report));
         $activeClass = $i === 0 ? ' is-active' : '';
         $pillsHtml .= '<button type="button" class="fansly-month-btn' . $activeClass . '" data-month="' . $monthKey . '">' . $monthLabel . '</button>';
         $panelsHtml .= '<div class="fansly-graph-panel' . $activeClass . '" data-month="' . $monthKey . '">' . buildFanslyGraphSvg($report) . '</div>';
