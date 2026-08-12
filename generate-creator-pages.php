@@ -71,10 +71,13 @@ const OG_FONT = 'DejaVu-Sans-Bold';
 const OG_BG = '#0f0a12';
 // Keep OG image build code available, but disable generation by default.
 const ENABLE_CREATOR_OG_IMAGE_GENERATION = false;
+const FANSLY_DIR = __DIR__ . '/fansly';
+// Toggle the Fansly leaderboard-rank graph section on creator pages on/off.
+const ENABLE_FANSLY_LEADERBOARD_GRAPH = true;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style205.css';
-const SCRIPT = 'script205.js';
+const STYLESHEET = 'style206.css';
+const SCRIPT = 'script206.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
@@ -490,7 +493,7 @@ function renderSiteHeader(string $scope): string
   <div class="header-inner">
     <div class="header-titles">
       <a class="brand" href="/">
-        <img class="brand-mark" src="/spicyvtubers.png" alt="Spicy VTubers logo" width="40" height="40">
+        <img class="brand-mark" src="/spicyvtubers.webp" alt="Spicy VTubers logo" width="40" height="40">
         <span class="brand-name">Spicy <span class="brand-accent">VTubers</span></span>
       </a>
       <p class="tagline">Index of VTubers and their Spicy Accounts</p>
@@ -547,6 +550,242 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   <p class="site-stats" id="site-stats"></p>
   <p>Not affiliated with any platform<br> Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
 </footer>
+HTML;
+}
+
+// ---------------------------------- Fansly leaderboard graph ----------------------------------
+
+/**
+ * Reads fansly/{slug}.json (see fansly.php — a {"stats": {...}, "reports":
+ * [...]} object) and returns ['stats' => array|null, 'reports' => array],
+ * keeping only report months that actually have data points. Returns
+ * ['stats' => null, 'reports' => []] if the file is missing, unreadable,
+ * or has no non-empty months.
+ */
+function loadFanslyData(string $slug): array
+{
+    $empty = ['stats' => null, 'reports' => []];
+
+    $path = FANSLY_DIR . '/' . $slug . '.json';
+    if (!is_file($path)) {
+        return $empty;
+    }
+
+    $decoded = json_decode((string) file_get_contents($path), true);
+    if (!is_array($decoded) || !is_array($decoded['reports'] ?? null)) {
+        return $empty;
+    }
+
+    $reports = array_values(array_filter(
+        $decoded['reports'],
+        static fn ($report) => is_array($report) && !empty($report['data'])
+    ));
+
+    return [
+        'stats' => is_array($decoded['stats'] ?? null) ? $decoded['stats'] : null,
+        'reports' => $reports,
+    ];
+}
+
+/**
+ * Renders one month's rank-over-time report as an inline SVG line chart —
+ * y-axis is 1 (top) to a dynamic bottom bound: the worst/highest rank
+ * reached that month, clamped upward to the nearest of 10/50/100/250/500;
+ * x-axis is the scan-time range of that month's data points, labelled
+ * with localised month+day ticks.
+ */
+function buildFanslyGraphSvg(array $report): string
+{
+    $width = 760;
+    $height = 340;
+    $padLeft = 44;
+    $padRight = 16;
+    $padTop = 16;
+    $padBottom = 34;
+    $plotWidth = $width - $padLeft - $padRight;
+    $plotHeight = $height - $padTop - $padBottom;
+
+    $points = [];
+    foreach ($report['data'] as $point) {
+        $ts = strtotime((string) $point['scannedAt']);
+        if ($ts === false) {
+            continue;
+        }
+        $points[] = ['ts' => $ts, 'rank' => (int) $point['rank']];
+    }
+    if ($points === []) {
+        return '';
+    }
+
+    $minTs = $points[0]['ts'];
+    $maxTs = $points[count($points) - 1]['ts'];
+    $tsSpan = max($maxTs - $minTs, 1);
+
+    // Bottom bound snaps up to the nearest bucket (each bucket's tick step
+    // is bucket/5, so 1 + 5 evenly-spaced ticks always land cleanly).
+    $worstRank = max(array_column($points, 'rank'));
+    $buckets = [10 => 2, 50 => 10, 100 => 20, 250 => 50, 500 => 100];
+    $bottom = 500;
+    $step = 100;
+    foreach ($buckets as $bucket => $bucketStep) {
+        if ($worstRank <= $bucket) {
+            $bottom = $bucket;
+            $step = $bucketStep;
+            break;
+        }
+    }
+
+    $x = static fn (int $ts): float => $padLeft + ($ts - $minTs) / $tsSpan * $plotWidth;
+    $y = static fn (int $rank): float => $padTop + (max(1, min($bottom, $rank)) - 1) / ($bottom - 1) * $plotHeight;
+
+    $polylinePoints = implode(' ', array_map(
+        static fn ($p) => round($x($p['ts']), 1) . ',' . round($y($p['rank']), 1),
+        $points
+    ));
+
+    // Y-axis: gridlines + labels, 1 plus 5 evenly-spaced multiples of $step.
+    $yTicksSvg = '';
+    $yTickValues = [1];
+    for ($i = 1; $i <= 5; $i++) {
+        $yTickValues[] = $i * $step;
+    }
+    foreach ($yTickValues as $rank) {
+        $ty = round($y($rank), 1);
+        $yTicksSvg .= '<line class="fansly-grid-line" x1="' . $padLeft . '" y1="' . $ty . '" x2="' . ($width - $padRight) . '" y2="' . $ty . '"></line>';
+        $yTicksSvg .= '<text class="fansly-axis-text" x="' . ($padLeft - 8) . '" y="' . $ty . '" text-anchor="end" dominant-baseline="middle">' . $rank . '</text>';
+    }
+
+    // X-axis: evenly spaced date+day labels across the data's time span.
+    $xTicksSvg = '';
+    $tickCount = 6;
+    for ($i = 0; $i < $tickCount; $i++) {
+        $tickTs = (int) round($minTs + $i * $tsSpan / ($tickCount - 1));
+        $tx = round($x($tickTs), 1);
+        $label = htmlspecialchars(date('M j', $tickTs));
+        $xTicksSvg .= '<text class="fansly-axis-text" x="' . $tx . '" y="' . ($height - $padBottom + 18) . '" text-anchor="middle">' . $label . '</text>';
+    }
+
+    return <<<SVG
+<svg viewBox="0 0 {$width} {$height}" role="img" aria-label="Fansly leaderboard rank over time">
+{$yTicksSvg}
+{$xTicksSvg}
+<polyline class="fansly-line" points="{$polylinePoints}"></polyline>
+</svg>
+SVG;
+}
+
+/**
+ * Formats an integer with its ordinal suffix, e.g. 1 -> "1st", 26 -> "26th".
+ */
+function ordinalSuffix(int $n): string
+{
+    if ($n % 100 >= 11 && $n % 100 <= 13) {
+        return $n . 'th';
+    }
+
+    return $n . match ($n % 10) {
+        1 => 'st',
+        2 => 'nd',
+        3 => 'rd',
+        default => 'th',
+    };
+}
+
+/**
+ * The pill's "final position" suffix for one month, e.g. "26th" or ">500".
+ * Uses the last data point's rank UNLESS no scan was recorded in the
+ * month's final 8-hour window (its 8am-to-8am bucket end minus 8h — for a
+ * June report that's 2026-07-01 00:00 to 08:00, i.e. "anything on July") —
+ * a gap there means the account most likely dropped out of the top-500
+ * leaderboard (and so out of the scans) before the month ended, so the
+ * last known rank is stale and ">500" is shown instead.
+ */
+function fanslyFinalPositionLabel(array $report): string
+{
+    $data = $report['data'];
+    if ($data === []) {
+        return '>500';
+    }
+
+    $lastPoint = $data[count($data) - 1];
+    $lastTs = strtotime((string) $lastPoint['scannedAt']);
+    $bucketEnd = strtotime($report['key'] . '-01 08:00:00 +1 month');
+    $windowStart = $bucketEnd - 8 * 3600;
+
+    if ($lastTs === false || $lastTs < $windowStart) {
+        return '>500';
+    }
+
+    return ordinalSuffix((int) $lastPoint['rank']);
+}
+
+/**
+ * Renders the "below the graph" single-line stats strip (Highest Rank /
+ * Largest Increase / Total Increases), wrapping like the month pills.
+ * Returns '' if $stats is null/missing (e.g. an old fansly/{slug}.json
+ * written before stats existed).
+ */
+function buildFanslyStatsHtml(?array $stats): string
+{
+    if ($stats === null) {
+        return '';
+    }
+
+    $highestRank = htmlspecialchars(ordinalSuffix((int) ($stats['highestRank'] ?? 0)));
+    $largestIncrease = (int) ($stats['largestIncrease'] ?? 0);
+    $totalIncreases = (int) ($stats['totalIncreases'] ?? 0);
+
+    return <<<HTML
+<div class="fansly-stats">
+          <span class="fansly-stat"><span class="fansly-stat-label">Highest Rank:</span> {$highestRank}</span>
+          <span class="fansly-stat"><span class="fansly-stat-label">Largest Increase:</span> {$largestIncrease}</span>
+          <span class="fansly-stat"><span class="fansly-stat-label">Total Increases:</span> {$totalIncreases}</span>
+        </div>
+HTML;
+}
+
+/**
+ * Builds the "below the main card" Fansly leaderboard section: one pill
+ * per month (swaps the visible graph, see script's initFanslyGraphs()) and
+ * one pre-rendered SVG panel per month. Returns '' (renders nothing) when
+ * the feature is disabled or the creator has no Fansly leaderboard data.
+ */
+function buildFanslyLeaderboardSection(string $slug): string
+{
+    if (!ENABLE_FANSLY_LEADERBOARD_GRAPH) {
+        return '';
+    }
+
+    $fanslyData = loadFanslyData($slug);
+    $reports = $fanslyData['reports'];
+    if ($reports === []) {
+        return '';
+    }
+
+    $pillsHtml = '';
+    $panelsHtml = '';
+    foreach ($reports as $i => $report) {
+        $monthKey = htmlspecialchars((string) $report['key']);
+        $monthLabel = htmlspecialchars((string) $report['month'] . ' - ' . fanslyFinalPositionLabel($report));
+        $activeClass = $i === 0 ? ' is-active' : '';
+        $pillsHtml .= '<button type="button" class="fansly-month-btn' . $activeClass . '" data-month="' . $monthKey . '">' . $monthLabel . '</button>';
+        $panelsHtml .= '<div class="fansly-graph-panel' . $activeClass . '" data-month="' . $monthKey . '">' . buildFanslyGraphSvg($report) . '</div>';
+    }
+    $statsHtml = buildFanslyStatsHtml($fanslyData['stats']);
+
+    return <<<HTML
+<section class="creator-fansly">
+    <div class="creator-card fansly-card">
+      <div class="fansly-card-inner">
+        <div class="fansly-header">
+          <h2 class="fansly-title">Fansly Leaderboard Rank</h2>
+          <div class="fansly-month-pills">{$pillsHtml}</div>
+        </div>
+        <div class="fansly-graphs">{$panelsHtml}</div>
+        {$statsHtml}
+      </div>
+    </div>
+  </section>
 HTML;
 }
 
@@ -611,6 +850,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $profileSideHtml = $quickLinksHtml !== ''
         ? '<div class="creator-profile-side">' . $quickLinksHtml . '</div>'
         : '';
+    $fanslySectionHtml = buildFanslyLeaderboardSection($slug);
     return <<<HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -642,6 +882,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
       </div>
     </div>
   </section>
+  {$fanslySectionHtml}
   <div id="creator-json-container"></div>
 </main>
 
