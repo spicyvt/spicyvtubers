@@ -643,7 +643,7 @@ function buildFanslyGraphSvg(array $report): string
         $points
     ));
 
-    // Y-axis: gridlines + labels, 1 plus 5 evenly-spaced multiples of $step.
+    // Y-axis: labels only, 1 plus 5 evenly-spaced multiples of $step.
     $yTicksSvg = '';
     $yTickValues = [1];
     for ($i = 1; $i <= 5; $i++) {
@@ -651,7 +651,6 @@ function buildFanslyGraphSvg(array $report): string
     }
     foreach ($yTickValues as $rank) {
         $ty = round($y($rank), 1);
-        $yTicksSvg .= '<line class="fansly-grid-line" x1="' . $padLeft . '" y1="' . $ty . '" x2="' . ($width - $padRight) . '" y2="' . $ty . '"></line>';
         $yTicksSvg .= '<text class="fansly-axis-text" x="' . ($padLeft - 8) . '" y="' . $ty . '" text-anchor="end" dominant-baseline="middle">' . $rank . '</text>';
     }
 

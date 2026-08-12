@@ -1557,7 +1557,7 @@ a {
   margin: 0;
   font-size: 1.15rem;
   font-weight: 700;
-  color: var(--text);
+  color: rgba(243, 233, 240, 0.85);
 }
 
 .fansly-month-pills {
@@ -1603,19 +1603,14 @@ a {
   display: block;
 }
 
-.fansly-grid-line {
-  stroke: var(--border);
-  stroke-width: 1;
-}
-
 .fansly-axis-text {
-  fill: var(--text-muted);
+  fill: rgba(243, 233, 240, 0.5);
   font-size: 11px;
 }
 
 .fansly-line {
   fill: none;
-  stroke: #7cc4fb;
+  stroke: #0284c7;
   stroke-width: 2;
   stroke-linejoin: round;
   stroke-linecap: round;
