@@ -1,4 +1,4 @@
-:root {
+a:root {
   --bg: #0f0a12;
   --bg-alt: #171019;
   --surface: #1c1420;
@@ -1308,7 +1308,9 @@ a {
   width: var(--creator-avatar-size);
   height: var(--creator-avatar-size);
   background: transparent;
-  border: 3px solid var(--border);
+  /* Matches .creator-profile-card's own background so the ring blends
+     into the card instead of outlining the avatar. */
+  border: 3px solid var(--surface);
 }
 
 .creator-banner-img {
