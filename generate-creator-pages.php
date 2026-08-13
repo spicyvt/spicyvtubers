@@ -74,6 +74,9 @@ const ENABLE_CREATOR_OG_IMAGE_GENERATION = false;
 const FANSLY_DIR = __DIR__ . '/fansly';
 // Toggle the Fansly leaderboard-rank graph section on creator pages on/off.
 const ENABLE_FANSLY_LEADERBOARD_GRAPH = true;
+// Toggle the Fansly Stream History section on creator pages on/off.
+// Disabled by default — flip to true to bake it back in.
+const ENABLE_FANSLY_STREAM_HISTORY = false;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
 const STYLESHEET = 'style208.css';
@@ -809,7 +812,7 @@ function creatorHasFanslyStreamStatus(string $slug): bool
  */
 function buildFanslyStreamHistorySection(string $slug): string
 {
-    if (!creatorHasFanslyStreamStatus($slug)) {
+    if (!ENABLE_FANSLY_STREAM_HISTORY || !creatorHasFanslyStreamStatus($slug)) {
         return '';
     }
 
