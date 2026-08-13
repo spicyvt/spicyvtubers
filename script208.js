@@ -28,6 +28,14 @@
 
   const AVATAR_FOLDERS = new Set(["avatarsLarge", "avatarsX", "avatarsB"]);
 
+  // Shared across renderStats() and the extension-menu version lookup so both don't fetch it separately.
+  let dataJsonPromise = null;
+  function loadDataJson() {
+    if (!dataJsonPromise) {
+      dataJsonPromise = fetch("/data.json").then((response) => (response.ok ? response.json() : null));
+    }
+    return dataJsonPromise;
+  }
 
   function escapeHtml(str) {
     const div = document.createElement("div");
@@ -133,8 +141,7 @@
   async function renderStats() {
     let stats = {};
     try {
-      const response = await fetch("/data.json");
-      if (response.ok) stats = await response.json();
+      stats = (await loadDataJson()) || {};
     } catch (err) {
       console.error("Failed to load data.json:", err);
     }
@@ -164,8 +171,7 @@
     });
 
     const EXTENSION_VERSION_KEYS = { chrome: "chromeVersion", firefox: "firefoxVersion" };
-    fetch("/data.json")
-      .then((response) => (response.ok ? response.json() : null))
+    loadDataJson()
       .then((data) => {
         if (!data) return;
         Object.entries(EXTENSION_VERSION_KEYS).forEach(([browser, key]) => {
