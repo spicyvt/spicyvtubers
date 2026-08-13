@@ -76,8 +76,8 @@ const FANSLY_DIR = __DIR__ . '/fansly';
 const ENABLE_FANSLY_LEADERBOARD_GRAPH = true;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style207.css';
-const SCRIPT = 'script206.js';
+const STYLESHEET = 'style208.css';
+const SCRIPT = 'script208.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
@@ -788,6 +788,45 @@ function buildFanslyLeaderboardSection(string $slug): string
 HTML;
 }
 
+/**
+ * True when creators/{slug}.json has fansly.streaming.channel.stream.status
+ * set (value irrelevant) — that path only ever exists once a Fansly fetch
+ * has actually seen a channel/stream object, i.e. the creator has streamed.
+ */
+function creatorHasFanslyStreamStatus(string $slug): bool
+{
+    $data = readJson(CREATORS_DIR . '/' . $slug . '.json');
+
+    return is_array($data) && isset($data['fansly']['streaming']['channel']['stream']['status']);
+}
+
+/**
+ * Below-the-leaderboard placeholder for the Fansly stream-history card.
+ * Only baked for creators with creatorHasFanslyStreamStatus() — the actual
+ * rows are fetched/rendered client-side (see initFanslyStreamHistory() in
+ * SCRIPT) from https://cdn.spicyvtubers.com/fansly/streams/{slug}.json,
+ * written by the workers/fansly-stream-tracker Cloudflare Worker.
+ */
+function buildFanslyStreamHistorySection(string $slug): string
+{
+    if (!creatorHasFanslyStreamStatus($slug)) {
+        return '';
+    }
+
+    $slugAttr = htmlspecialchars($slug);
+
+    // Hidden by default — initFanslyStreamHistory() in SCRIPT only unhides it once it has actual rows to show.
+    return <<<HTML
+<section class="creator-fansly-streams" hidden>
+    <div class="creator-card fansly-streams-card">
+      <div class="fansly-streams-inner" id="fansly-stream-history" data-slug="{$slugAttr}">
+        <h2 class="fansly-title">Fansly Stream History</h2>
+      </div>
+    </div>
+  </section>
+HTML;
+}
+
 function renderCreatorHtml(array $creator, ?string $bio): string
 {
     $channel = $creator['channel'];
@@ -850,6 +889,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
         ? '<div class="creator-profile-side">' . $quickLinksHtml . '</div>'
         : '';
     $fanslySectionHtml = buildFanslyLeaderboardSection($slug);
+    $fanslyStreamsSectionHtml = buildFanslyStreamHistorySection($slug);
     return <<<HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -882,6 +922,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     </div>
   </section>
   {$fanslySectionHtml}
+  {$fanslyStreamsSectionHtml}
   <div id="creator-json-container"></div>
 </main>
 
