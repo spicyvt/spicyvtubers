@@ -76,7 +76,7 @@ const FANSLY_DIR = __DIR__ . '/fansly';
 const ENABLE_FANSLY_LEADERBOARD_GRAPH = true;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style206.css';
+const STYLESHEET = 'style207.css';
 const SCRIPT = 'script206.js';
 
 // ---------------------------------- Data helpers ----------------------------------
