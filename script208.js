@@ -514,6 +514,7 @@
 
   const FANSLY_STREAMS_CDN_BASE = "https://cdn.spicyvtubers.com/fansly/streams/";
   const MIN_STREAM_DURATION_MS = 15 * 60 * 1000;
+  const MAX_STREAM_DURATION_MS = 24 * 60 * 60 * 1000;
 
   function formatStreamDuration(ms) {
     if (typeof ms !== "number" || ms < 0) return "—";
@@ -545,9 +546,11 @@
       const rawStreams = await res.json();
       if (!Array.isArray(rawStreams)) throw new Error("Unexpected response shape");
 
-      // Drop noise like brief test/disconnect "streams" before deciding whether there's anything to show.
+      // Drop noise like brief test/disconnect "streams", and bogus/stuck-tracker entries that read as day(s)-long.
       const streams = rawStreams.filter(
-        (stream) => typeof stream.durationMs !== "number" || stream.durationMs >= MIN_STREAM_DURATION_MS
+        (stream) =>
+          typeof stream.durationMs !== "number" ||
+          (stream.durationMs >= MIN_STREAM_DURATION_MS && stream.durationMs <= MAX_STREAM_DURATION_MS)
       );
 
       if (streams.length === 0) {

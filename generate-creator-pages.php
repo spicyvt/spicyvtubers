@@ -76,7 +76,7 @@ const FANSLY_DIR = __DIR__ . '/fansly';
 const ENABLE_FANSLY_LEADERBOARD_GRAPH = true;
 // Toggle the Fansly Stream History section on creator pages on/off.
 // Disabled by default — flip to true to bake it back in.
-const ENABLE_FANSLY_STREAM_HISTORY = false;
+const ENABLE_FANSLY_STREAM_HISTORY = true;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
 const STYLESHEET = 'style208.css';
