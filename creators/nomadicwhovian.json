@@ -1,0 +1,107 @@
+{
+    "bio": "💙Just a Two-Hearted, Adorkable, Wholesomely 'Holesome' Time Lady exploring the Wibbly Wobbly Timey Wimey of it all... Also, I'm Continuously Clipped Out of Context💙 Business Email: NomadicDoctorWhovian@gmail.com",
+    "twitch": {
+        "id": "195390566",
+        "login": "nomadicwhovian",
+        "displayName": "NomadicWhovian",
+        "createdAt": "2018-02-08T18:19:17.464826Z",
+        "updatedAt": "2026-08-10T21:15:51.113455Z",
+        "description": "💙Just a Two-Hearted, Adorkable, Wholesomely 'Holesome' Time Lady exploring the Wibbly Wobbly Timey Wimey of it all... Also, I'm Continuously Clipped Out of Context💙 Business Email: NomadicDoctorWhovian@gmail.com",
+        "primaryColorHex": "0F1838",
+        "followers": {
+            "totalCount": 3708
+        },
+        "follows": {
+            "totalCount": 69
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-12T04:25:44.998555Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5070c4b-c3bf-4228-b894-2a5ed52c5ee8-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0cef2e25-756b-49f1-aac2-9180b7e5b0fe-profile_banner-480.png",
+        "fetchedAt": "2026-08-13T01:37:42Z"
+    },
+    "twitter": {
+        "nomadicwhovian": {
+            "id": "1553095601662877697",
+            "handle": "nomadicwhovian",
+            "displayName": "𝑾𝒉𝒐𝒗𝒊𝒆 ⏳💙",
+            "description": "💙Adorkable Time Lady #Vtuber | @Twitch Affiliate | Flirt | Continuously Clipped Out of Context | 💌: NomadicDoctorWhovian@gmail.com\n🎨#WhovieArt 🔞#WhovieLewd",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2022436565088362496/0d59Kw5b_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1553095601662877697/1780621722/1500x500",
+            "followersCount": 6858,
+            "followingCount": 815,
+            "postsCount": 32055,
+            "accountCreatedAt": "2022-07-29T19:10:35.570Z",
+            "profileUrl": "https://x.com/NomadicWhovian",
+            "fetchedAt": "2026-08-13T01:37:45Z"
+        }
+    },
+    "fansly": {
+        "id": "480954589592432640",
+        "username": "NomadicWhovian",
+        "displayName": "𝑾𝒉𝒐𝒗𝒊𝒆 ⏳💙",
+        "version": 9,
+        "followCount": 1060,
+        "statusId": 1,
+        "accountMediaLikes": 2115,
+        "postLikes": 4460,
+        "about": "💙Adorkable | Shameless Flirt | Wholesomely 'Holesome' | ENVtuber💙\n\nDommy Mommy looking to play with her Companions... and have her Companions play with her\n\nWhovie's Playpen: https://discord.gg/URDjmGD4qc\n\nWhovie Elsewhere: https://beacons.ai/nomadicwhovian",
+        "location": "Gallifrey",
+        "streaming": {
+            "accountId": "480954589592432640",
+            "channel": {
+                "id": "674726343472066560",
+                "accountId": "480954589592432640",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.LkmTne1YfgOV.m3u8",
+                "chatRoomId": "674726430814248962",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1722361656000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "674726343472066561",
+                    "historyId": null,
+                    "channelId": "674726343472066560",
+                    "accountId": "480954589592432640",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1722361656000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "674728038541307904",
+                                "streamId": "674726343472066561",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            },
+                            {
+                                "id": "674728038541307905",
+                                "streamId": "674726343472066561",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-13T01:37:46Z"
+    }
+}
