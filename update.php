@@ -135,7 +135,7 @@ if (!is_string($clientId) || $clientId === '') {
 
 const FANSLY_API_URL = 'https://apiv3.fansly.com/api/v1/account';
 // Fansly's account endpoint accepts a comma-separated batch of usernames.
-const FANSLY_BATCH_SIZE = 10;
+const FANSLY_BATCH_SIZE = 20;
 const FANSLY_SLEEP_SECONDS = 5;
 
 // --force forces every eligible account; --force=NAME scopes forcing to
@@ -1237,6 +1237,27 @@ function writeDataJson(string $path, int $creatorsCount, array $stats, ?string $
     );
 }
 
+/**
+ * Builds the public {login, username} list consumed by the Fansly stream-
+ * tracker Cloudflare Worker. Includes every account with a Fansly handle
+ * regardless of creators/{login}.json resolution state — unlike the
+ * fetch loop below, this isn't gated by creatorHasPlatformData().
+ */
+function buildFanslyUsernameList(array $accounts): array
+{
+    $list = [];
+    foreach ($accounts as $account) {
+        $fanslyUsername = trim((string) ($account['fansly'] ?? ''));
+        $channel = trim((string) ($account['channel'] ?? ''));
+        if ($fanslyUsername === '' || $channel === '') {
+            continue;
+        }
+        $list[] = ['login' => strtolower($channel), 'username' => $fanslyUsername];
+    }
+
+    return $list;
+}
+
 // Mirrors script001.js's SPICE_PLATFORMS keys.
 const SPICE_PLATFORM_KEYS = ['fansly', 'onlyfans', 'rplay', 'joystick', 'patreon'];
 
@@ -1441,6 +1462,12 @@ writeDataJson(
     computeAccountsStats($accounts),
     readExtensionVersion($chromeManifestPath),
     readExtensionVersion($firefoxManifestPath)
+);
+
+// Consumed by the Fansly stream-tracker Cloudflare Worker (workers/fansly-stream-tracker).
+file_put_contents(
+    __DIR__ . '/fansly.json',
+    json_encode(buildFanslyUsernameList($accounts), JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "\n"
 );
 
 echo "========================================\n";
