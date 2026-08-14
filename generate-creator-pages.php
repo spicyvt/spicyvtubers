@@ -79,8 +79,8 @@ const ENABLE_FANSLY_LEADERBOARD_GRAPH = true;
 const ENABLE_FANSLY_STREAM_HISTORY = true;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style208.css';
-const SCRIPT = 'script208.js';
+const STYLESHEET = 'style209.css';
+const SCRIPT = 'script209.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
