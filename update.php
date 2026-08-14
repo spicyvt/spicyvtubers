@@ -1238,12 +1238,14 @@ function writeDataJson(string $path, int $creatorsCount, array $stats, ?string $
 }
 
 /**
- * Builds the public {login, username} list consumed by the Fansly stream-
- * tracker Cloudflare Worker. Includes every account with a Fansly handle
- * regardless of creators/{login}.json resolution state — unlike the
- * fetch loop below, this isn't gated by creatorHasPlatformData().
+ * Builds the public {id, login, username} list consumed by the Fansly
+ * stream-tracker Cloudflare Worker. Includes every account with a Fansly
+ * handle regardless of creators/{login}.json resolution state — unlike
+ * the fetch loop below, this isn't gated by creatorHasPlatformData().
+ * "id" is the Fansly accountId already resolved onto
+ * creators/{login}.json's "fansly"."id" (null if not resolved yet).
  */
-function buildFanslyUsernameList(array $accounts): array
+function buildFanslyUsernameList(array $accounts, string $creatorsDir): array
 {
     $list = [];
     foreach ($accounts as $account) {
@@ -1252,7 +1254,9 @@ function buildFanslyUsernameList(array $accounts): array
         if ($fanslyUsername === '' || $channel === '') {
             continue;
         }
-        $list[] = ['login' => strtolower($channel), 'username' => $fanslyUsername];
+        $login = strtolower($channel);
+        $fanslyId = loadCreatorData($creatorsDir, $login)['fansly']['id'] ?? null;
+        $list[] = ['id' => $fanslyId, 'login' => $login, 'username' => $fanslyUsername];
     }
 
     return $list;
@@ -1464,12 +1468,6 @@ writeDataJson(
     readExtensionVersion($firefoxManifestPath)
 );
 
-// Consumed by the Fansly stream-tracker Cloudflare Worker (workers/fansly-stream-tracker).
-file_put_contents(
-    __DIR__ . '/fansly.json',
-    json_encode(buildFanslyUsernameList($accounts), JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "\n"
-);
-
 echo "========================================\n";
 echo "Done. Updated: {$updated}, skipped (complete): {$skippedComplete}, skipped (no channel): {$skippedNoChannel}, skipped (other type): {$skippedOtherType}, failed: {$failed}\n";
 
@@ -1665,6 +1663,13 @@ foreach (array_chunk($fanslyRequests, FANSLY_BATCH_SIZE) as $batch) {
 
 echo "========================================\n";
 echo "Done. Fansly updated: {$fanslyUpdated}, failed: {$fanslyFailed}\n";
+
+// Written last so ids fetched in this same run are already resolved onto
+// creators/{login}.json (consumed by workers/fansly-stream-tracker).
+file_put_contents(
+    __DIR__ . '/fansly.json',
+    json_encode(buildFanslyUsernameList($accounts, $creatorsDir), JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "\n"
+);
 
 $folderFieldsUpdated = 0;
 foreach ($accounts as &$account) {
