@@ -628,25 +628,22 @@
       const rawStreams = await res.json();
       if (!Array.isArray(rawStreams)) throw new Error("Unexpected response shape");
 
-      // Drop bogus/stuck-tracker entries that read as day(s)-long.
-      const streams = rawStreams.filter((stream) => {
-        const durationMs = computeStreamDurationMs(stream);
-        return durationMs === null || durationMs <= MAX_STREAM_DURATION_MS;
-      });
-
-      if (streams.length === 0) {
+      if (rawStreams.length === 0) {
         card?.remove();
         return;
       }
 
       // Most recent stream first.
-      const ordered = streams.slice().reverse();
+      const ordered = rawStreams.slice().reverse();
 
       const rowsHtml = ordered
         .map((stream, i) => {
+          const durationMs = computeStreamDurationMs(stream);
+          // Bogus/stuck-tracker durations still show the stream, just not a meaningless finish/duration.
+          const durationTooLong = durationMs !== null && durationMs > MAX_STREAM_DURATION_MS;
           const start = escapeHtml(formatStreamTimestamp(stream.startedAt));
-          const finish = escapeHtml(formatStreamTimestamp(stream.lastFetchedAt));
-          const duration = escapeHtml(formatStreamDuration(computeStreamDurationMs(stream)));
+          const finish = durationTooLong ? "—" : escapeHtml(formatStreamTimestamp(stream.lastFetchedAt));
+          const duration = durationTooLong ? "—" : escapeHtml(formatStreamDuration(durationMs));
           const viewers =
             typeof stream.maxViewers === "number" && stream.maxViewers > 0 ? escapeHtml(String(stream.maxViewers)) : "—";
           const hasGraph = Array.isArray(stream.viewerData) && stream.viewerData.length >= 2;
