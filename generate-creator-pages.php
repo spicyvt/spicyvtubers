@@ -79,8 +79,8 @@ const ENABLE_FANSLY_LEADERBOARD_GRAPH = true;
 const ENABLE_FANSLY_STREAM_HISTORY = true;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style209.css';
-const SCRIPT = 'script209.js';
+const STYLESHEET = 'style210.css';
+const SCRIPT = 'script210.js';
 
 // ---------------------------------- Data helpers ----------------------------------
 
@@ -747,26 +747,17 @@ HTML;
 }
 
 /**
- * Builds the "below the main card" Fansly leaderboard section: one pill
- * per month (swaps the visible graph, see script's initFanslyGraphs()) and
- * one pre-rendered SVG panel per month. Returns '' (renders nothing) when
- * the feature is disabled or the creator has no Fansly leaderboard data.
+ * Builds just the Leaderboard tab's inner content: one pill per month
+ * (swaps the visible graph, see script's initFanslyGraphs()), one
+ * pre-rendered SVG panel per month, and the stats strip. Takes an
+ * already-loaded loadFanslyData() result (caller has already checked
+ * 'reports' is non-empty).
  */
-function buildFanslyLeaderboardSection(string $slug): string
+function buildFanslyLeaderboardPanel(array $fanslyData): string
 {
-    if (!ENABLE_FANSLY_LEADERBOARD_GRAPH) {
-        return '';
-    }
-
-    $fanslyData = loadFanslyData($slug);
-    $reports = $fanslyData['reports'];
-    if ($reports === []) {
-        return '';
-    }
-
     $pillsHtml = '';
     $panelsHtml = '';
-    foreach ($reports as $i => $report) {
+    foreach ($fanslyData['reports'] as $i => $report) {
         $monthKey = htmlspecialchars((string) $report['key']);
         $monthLabel = htmlspecialchars((string) $report['month'] . ' · ' . fanslyFinalPositionLabel($report));
         $activeClass = $i === 0 ? ' is-active' : '';
@@ -776,54 +767,78 @@ function buildFanslyLeaderboardSection(string $slug): string
     $statsHtml = buildFanslyStatsHtml($fanslyData['stats']);
 
     return <<<HTML
-<section class="creator-fansly">
-    <div class="creator-card fansly-card">
-      <div class="fansly-card-inner">
-        <div class="fansly-header">
-          <h2 class="fansly-title">Fansly Leaderboard History</h2>
-          <div class="fansly-month-pills">{$pillsHtml}</div>
-        </div>
+<div class="fansly-month-pills">{$pillsHtml}</div>
         <div class="fansly-graphs">{$panelsHtml}</div>
         {$statsHtml}
-      </div>
-    </div>
-  </section>
 HTML;
 }
 
 /**
- * True when creators/{slug}.json has fansly.streaming.channel.stream.status
- * set (value irrelevant) — that path only ever exists once a Fansly fetch
- * has actually seen a channel/stream object, i.e. the creator has streamed.
+ * True when the creator has a Fansly account at all (accounts.json's
+ * "fansly" field, same one buildSpicePills() checks) — broader than
+ * requiring a stream to have ever been seen, so the Streams tab is baked
+ * in immediately rather than waiting for stale data to catch up once a
+ * creator actually starts streaming.
  */
-function creatorHasFanslyStreamStatus(string $slug): bool
+function creatorHasFansly(array $creator): bool
 {
-    $data = readJson(CREATORS_DIR . '/' . $slug . '.json');
-
-    return is_array($data) && isset($data['fansly']['streaming']['channel']['stream']['status']);
+    return !empty($creator['fansly']);
 }
 
 /**
- * Below-the-leaderboard placeholder for the Fansly stream-history card.
- * Only baked for creators with creatorHasFanslyStreamStatus() — the actual
- * rows are fetched/rendered client-side (see initFanslyStreamHistory() in
- * SCRIPT) from https://cdn.spicyvtubers.com/fansly/streams/{slug}.json,
- * written by the workers/fansly-stream-tracker Cloudflare Worker.
+ * Builds just the Streams tab's inner content: a placeholder container —
+ * the actual rows are fetched/rendered client-side (see
+ * initFanslyStreamHistory() in SCRIPT) from
+ * https://cdn.spicyvtubers.com/fansly/streams/{slug}.json, written by the
+ * workers/fansly-stream-tracker Cloudflare Worker.
  */
-function buildFanslyStreamHistorySection(string $slug): string
+function buildFanslyStreamHistoryPanel(string $slug): string
 {
-    if (!ENABLE_FANSLY_STREAM_HISTORY || !creatorHasFanslyStreamStatus($slug)) {
+    $slugAttr = htmlspecialchars($slug);
+
+    return '<div id="fansly-stream-history" data-slug="' . $slugAttr . '"></div>';
+}
+
+/**
+ * Builds the combined Fansly tabbed card (Fansly icon + "Streams"/
+ * "Leaderboard" pill tabs, Streams first, more tabs can be appended to
+ * $tabs later) — only tabs with actual content are included. Returns ''
+ * (renders nothing) if the creator qualifies for neither tab.
+ */
+function buildFanslyTabsSection(array $creator): string
+{
+    $slug = $creator['channelLower'];
+    $tabs = [];
+
+    if (ENABLE_FANSLY_STREAM_HISTORY && creatorHasFansly($creator)) {
+        $tabs[] = ['key' => 'streams', 'label' => 'Streams', 'html' => buildFanslyStreamHistoryPanel($slug)];
+    }
+
+    if (ENABLE_FANSLY_LEADERBOARD_GRAPH) {
+        $fanslyData = loadFanslyData($slug);
+        if ($fanslyData['reports'] !== []) {
+            $tabs[] = ['key' => 'leaderboard', 'label' => 'Leaderboard', 'html' => buildFanslyLeaderboardPanel($fanslyData)];
+        }
+    }
+
+    if ($tabs === []) {
         return '';
     }
 
-    $slugAttr = htmlspecialchars($slug);
+    $pillsHtml = '';
+    $panelsHtml = '';
+    foreach ($tabs as $i => $tab) {
+        $activeClass = $i === 0 ? ' is-active' : '';
+        $pillsHtml .= '<button type="button" class="fansly-tab-btn' . $activeClass . '" data-tab="' . $tab['key'] . '"><img src="/fansly.svg" alt="" aria-hidden="true">' . htmlspecialchars($tab['label']) . '</button>';
+        $panelsHtml .= '<div class="fansly-tab-panel' . $activeClass . '" data-tab="' . $tab['key'] . '">' . $tab['html'] . '</div>';
+    }
 
-    // Hidden by default — initFanslyStreamHistory() in SCRIPT only unhides it once it has actual rows to show.
     return <<<HTML
-<section class="creator-fansly-streams" hidden>
-    <div class="creator-card fansly-streams-card">
-      <div class="fansly-streams-inner" id="fansly-stream-history" data-slug="{$slugAttr}">
-        <h2 class="fansly-title">Fansly Stream History</h2>
+<section class="creator-fansly-tabs">
+    <div class="creator-card fansly-tabs-card">
+      <div class="fansly-tabs-inner">
+        <div class="fansly-main-tabs">{$pillsHtml}</div>
+        <div class="fansly-tab-panels">{$panelsHtml}</div>
       </div>
     </div>
   </section>
@@ -891,8 +906,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $profileSideHtml = $quickLinksHtml !== ''
         ? '<div class="creator-profile-side">' . $quickLinksHtml . '</div>'
         : '';
-    $fanslySectionHtml = buildFanslyLeaderboardSection($slug);
-    $fanslyStreamsSectionHtml = buildFanslyStreamHistorySection($slug);
+    $fanslyTabsSectionHtml = buildFanslyTabsSection($creator);
     return <<<HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -924,8 +938,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
       </div>
     </div>
   </section>
-  {$fanslySectionHtml}
-  {$fanslyStreamsSectionHtml}
+  {$fanslyTabsSectionHtml}
   <div id="creator-json-container"></div>
 </main>
 
