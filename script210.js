@@ -660,6 +660,15 @@
       // Most recent stream first.
       const ordered = rawStreams.slice().reverse();
 
+      // Seed the graph at 0 viewers from the stream's actual start, not just from the first poll reading.
+      for (const stream of ordered) {
+        if (!Array.isArray(stream.viewerData) || stream.viewerData.length === 0) continue;
+        const startedAtSec = typeof stream.startedAt === "number" ? Math.round(stream.startedAt / 1000) : null;
+        if (startedAtSec !== null && startedAtSec < stream.viewerData[0][0]) {
+          stream.viewerData = [[startedAtSec, 0], ...stream.viewerData];
+        }
+      }
+
       const rowsHtml = ordered
         .map((stream, i) => {
           const durationMs = computeStreamDurationMs(stream);
@@ -689,12 +698,6 @@
         if (!row) return;
         toggleStreamGraphRow(tbody, row, ordered[Number(row.dataset.idx)]);
       });
-
-      // Most recent stream (first row) starts expanded, if it has a graph to show.
-      const firstRow = tbody.children[0];
-      if (firstRow && firstRow.classList.contains("is-expandable")) {
-        toggleStreamGraphRow(tbody, firstRow, ordered[0]);
-      }
     } catch (err) {
       // Couldn't obtain stream history (network/CORS/404) — same fallback as a legitimately-empty response.
       showNoStreamDataMessage(container);
