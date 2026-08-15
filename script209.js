@@ -520,6 +520,7 @@
 
   const FANSLY_STREAMS_CDN_BASE = "https://cdn.spicyvtubers.com/fansly/streams/";
   const MAX_STREAM_DURATION_MS = 24 * 60 * 60 * 1000;
+  const RECENT_FETCH_WINDOW_MS = 60 * 60 * 1000;
 
   function formatStreamDuration(ms) {
     if (typeof ms !== "number" || ms < 0) return "—";
@@ -641,8 +642,10 @@
           const durationMs = computeStreamDurationMs(stream);
           // Bogus/stuck-tracker durations still show the stream, just not a meaningless finish/duration.
           const durationTooLong = durationMs !== null && durationMs > MAX_STREAM_DURATION_MS;
+          // A lastFetchedAt within the last hour likely means the stream is still live, not actually finished.
+          const recentlyFetched = typeof stream.lastFetchedAt === "number" && Date.now() - stream.lastFetchedAt < RECENT_FETCH_WINDOW_MS;
           const start = escapeHtml(formatStreamTimestamp(stream.startedAt));
-          const finish = durationTooLong ? "—" : escapeHtml(formatStreamTimestamp(stream.lastFetchedAt));
+          const finish = durationTooLong || recentlyFetched ? "—" : escapeHtml(formatStreamTimestamp(stream.lastFetchedAt));
           const duration = durationTooLong ? "—" : escapeHtml(formatStreamDuration(durationMs));
           const viewers =
             typeof stream.maxViewers === "number" && stream.maxViewers > 0 ? escapeHtml(String(stream.maxViewers)) : "—";
