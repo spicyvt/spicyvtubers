@@ -657,7 +657,7 @@
 
       container.insertAdjacentHTML(
         "beforeend",
-        `<table class="fansly-streams-table"><thead><tr><th>Start</th><th>Finish</th><th>Duration</th><th>Viewers</th></tr></thead><tbody>${rowsHtml}</tbody></table>`
+        `<table class="fansly-streams-table"><thead><tr><th>Start</th><th>Finish</th><th>Duration</th><th>Max Viewers</th></tr></thead><tbody>${rowsHtml}</tbody></table>`
       );
 
       const tbody = container.querySelector(".fansly-streams-table tbody");
