@@ -508,14 +508,15 @@
             "fansly": "taigatorayami",
             "channel": "TaigaTorayami",
             "xHandles": [
-                "taigatorayami"
+                "taigatorayami",
+                "taigarotica"
             ],
             "socials": "https://linktr.ee/Taigs",
             "data": true,
             "avatar": "avatarsx",
             "banner": "bannersx"
         },
-        "generatedAt": "2026-08-15T02:53:56+00:00"
+        "generatedAt": "2026-08-15T03:56:27+00:00"
     },
     "hauntedcorgi": {
         "entry": {
@@ -1657,14 +1658,15 @@
             "channel": "MaraVespidae",
             "xHandles": [
                 "maravespidae",
-                "maravnsfw"
+                "maravnsfw",
+                "maravespidaevt"
             ],
             "socials": "https://maravespidae.carrd.co/",
             "data": true,
             "avatar": "avatarsx",
             "banner": "bannersx"
         },
-        "generatedAt": "2026-08-15T02:53:57+00:00"
+        "generatedAt": "2026-08-15T03:56:27+00:00"
     },
     "babypinkvt": {
         "entry": {
@@ -14792,5 +14794,18 @@
             "banner": "bannersb"
         },
         "generatedAt": "2026-08-15T02:54:00+00:00"
+    },
+    "niikokonut": {
+        "entry": {
+            "fansly": "niikokonut",
+            "channel": "Niikokonut",
+            "xHandles": [
+                "niikokonut"
+            ],
+            "socials": "https://niikoko.carrd.co/",
+            "avatar": "avatarsx",
+            "banner": "bannersx"
+        },
+        "generatedAt": "2026-08-15T03:56:27+00:00"
     }
 }
