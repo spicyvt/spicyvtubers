@@ -81,8 +81,8 @@ const ENABLE_FANSLY_LEADERBOARD_GRAPH = true;
 const ENABLE_FANSLY_STREAM_HISTORY = true;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style211.css';
-const SCRIPT = 'script211.js';
+const STYLESHEET = 'style212.css';
+const SCRIPT = 'script212.js';
 // Pages reference the "min"-prefixed copies; generateMinifiedAssets() (run
 // once at the start of main()) builds these from STYLESHEET/SCRIPT above.
 const MIN_STYLESHEET = 'min' . STYLESHEET;
@@ -1168,15 +1168,20 @@ function generateIndexHtml(): string
 <main class="page">
 
   <section class="toolbar">
-    <div class="search-wrap">
-      <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
-        <path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/>
-      </svg>
-      <input type="search" id="search-input" placeholder="Search by Channel, Spicy Links, or Socials…" aria-label="Search creators" spellcheck="false">
-      <button type="button" id="search-clear-btn" class="search-clear-btn" aria-label="Clear search" hidden>
-        <svg viewBox="0 0 24 24" aria-hidden="true">
-          <path d="M18.3 5.71 12 12.01 5.7 5.71 4.29 7.12l6.3 6.3-6.3 6.29 1.41 1.41 6.3-6.29 6.3 6.29 1.41-1.41-6.29-6.29 6.29-6.3z"/>
+    <div class="search-row">
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/>
         </svg>
+        <input type="search" id="search-input" placeholder="Search creators…" aria-label="Search creators" spellcheck="false">
+        <button type="button" id="search-clear-btn" class="search-clear-btn" aria-label="Clear search" hidden>
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M18.3 5.71 12 12.01 5.7 5.71 4.29 7.12l6.3 6.3-6.3 6.29 1.41 1.41 6.3-6.29 6.3 6.29 1.41-1.41-6.29-6.29 6.29-6.3z"/>
+          </svg>
+        </button>
+      </div>
+      <button type="button" id="live-filter-btn" class="live-filter-btn" aria-pressed="false" aria-label="Filter to creators currently live on Fansly" hidden>
+        <span class="live-dot" aria-hidden="true"></span><span>Live</span>
       </button>
     </div>
     <div class="toolbar-row">
