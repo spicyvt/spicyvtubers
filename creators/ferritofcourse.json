@@ -1,0 +1,107 @@
+{
+    "bio": "Uhhhhh hewwo? Your favorite milky cowccubus who can't stop dancing! Emotes are by madikaname on twitter - avatar original is by Tinny on gumroad.",
+    "twitch": {
+        "id": "188251645",
+        "login": "ferritofcourse",
+        "displayName": "Ferritofcourse",
+        "createdAt": "2018-01-01T02:16:43.885642Z",
+        "updatedAt": "2026-06-16T19:06:22.117731Z",
+        "description": "Uhhhhh hewwo? Your favorite milky cowccubus who can't stop dancing! Emotes are by madikaname on twitter - avatar original is by Tinny on gumroad.",
+        "primaryColorHex": "FFB5C1",
+        "followers": {
+            "totalCount": 2352
+        },
+        "follows": {
+            "totalCount": 109
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-16T23:20:05.121948Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdb38ce6-0e26-48f0-bfc2-2395c32acc3b-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5e06536-eb01-4ea6-94ec-8359bb96ca21-profile_banner-480.png",
+        "fetchedAt": "2026-08-16T22:08:46Z"
+    },
+    "twitter": {
+        "ferritofcourse": {
+            "id": null,
+            "handle": "ferritofcourse",
+            "displayName": "Ferrit 🔞",
+            "description": "Your favorite Bimbo Cowccubus!\nI absolutely LOVE DANCING!\n♥ IRL and VR content ♥\nhttps://t.co/m6RE6CTixV",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1557871439327514625/-Y3ERzCk_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1453928440118218758/1730273342/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": "2021-10-29T03:35:42.271Z",
+            "profileUrl": "https://x.com/ferritofcourse",
+            "fetchedAt": "2026-08-16T22:08:48Z"
+        }
+    },
+    "fansly": {
+        "id": "395341317376319488",
+        "username": "Ferritofcourse",
+        "displayName": "Ferrit",
+        "version": 8,
+        "followCount": 20605,
+        "statusId": 1,
+        "accountMediaLikes": 15692,
+        "postLikes": 14703,
+        "about": "Your favorite local milky Cowccubus making your balls emptier than my pretty little head!\nhttps://throne.com/ferrit\nhttps://linktr.ee/ferrit\n💗 Custom Content 💗\n💗 Private Services 💗\n💗 DM TO INQUIRE ABOUT ANYTHING ABOVE 💗\n💗 Live Streams 💗\n💗 Full Length RP Content 💗\n💗 Weekly Clips and Photos! IRL and VR 💗\n\n\n\nCurrent av is by https://tinny.gumroad.com/",
+        "location": "Not California",
+        "streaming": {
+            "accountId": "395341317376319488",
+            "channel": {
+                "id": "493147193914433537",
+                "accountId": "395341317376319488",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AsH802Ze6EnP.m3u8",
+                "chatRoomId": "493150807512854529",
+                "status": 2,
+                "version": 137,
+                "createdAt": 1679069813000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "493147193914433538",
+                    "historyId": "945479997735325696",
+                    "channelId": "493147193914433537",
+                    "accountId": "395341317376319488",
+                    "title": "Yappin and wigglin! !menu !gamba !discord",
+                    "status": 2,
+                    "viewerCount": 80,
+                    "version": 1479,
+                    "createdAt": 1679069813000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786918104000,
+                    "startedAt": 1786914357000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "837612287052242944",
+                                "streamId": "493147193914433538",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "837612287052242945",
+                                "streamId": "493147193914433538",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-16T22:08:49Z"
+    }
+}
