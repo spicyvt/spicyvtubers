@@ -343,13 +343,18 @@ a {
 .search-row {
   display: flex;
   align-items: center;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 0.6rem;
 }
 
+/* flex: 1 1 (not just min/max-width) so the box actually shrinks below
+   its old fixed min-width on narrow rows instead of wrapping the Live
+   button onto its own line — .live-filter-btn stays flex: 0 0 auto
+   (its default) so it always keeps its full size on the same row. */
 .search-wrap {
   position: relative;
-  min-width: 240px;
+  flex: 1 1 90px;
+  min-width: 90px;
   max-width: 420px;
 }
 

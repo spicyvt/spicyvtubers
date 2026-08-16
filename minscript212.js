@@ -293,6 +293,8 @@
     let sortMode = "az"; 
     let platformFilter = "all";
     let liveFilterActive = false;
+    let lastLiveFetchAt = 0;
+    const LIVE_REFETCH_INTERVAL_MS = 60 * 1000;
     let filteredRows = [];
     const INITIAL_ROWS = 50;
     const LOAD_BATCH_SIZE = 200;
@@ -340,7 +342,23 @@
     });
 
     
-    liveFilterBtn.addEventListener("click", () => {
+    
+    
+    function applyLiveStatus(liveLogins) {
+      jsonOrderCreators.forEach((creator) => {
+        const wasLive = creator.isLive;
+        creator.isLive = liveLogins.has(creator.channelLower);
+        if (creator.isLive !== wasLive) rowCache.delete(creator);
+      });
+      liveFilterBtn.hidden = !jsonOrderCreators.some((creator) => creator.isLive);
+    }
+
+    
+    liveFilterBtn.addEventListener("click", async () => {
+      if (Date.now() - lastLiveFetchAt >= LIVE_REFETCH_INTERVAL_MS) {
+        lastLiveFetchAt = Date.now();
+        applyLiveStatus(await loadLiveLogins());
+      }
       liveFilterActive = !liveFilterActive;
       liveFilterBtn.classList.toggle("is-active", liveFilterActive);
       liveFilterBtn.setAttribute("aria-pressed", String(liveFilterActive));
@@ -483,6 +501,7 @@
       try {
         const [response, logins] = await Promise.all([fetch("/accounts.json"), loadLiveLogins()]);
         liveLogins = logins;
+        lastLiveFetchAt = Date.now();
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
         jsonOrderCreators = data
@@ -496,7 +515,6 @@
 
         jsonOrderCreators.forEach((creator) => {
           creator.channelLower = creator.channel.toLowerCase();
-          creator.isLive = liveLogins.has(creator.channelLower);
           creator.searchText = [
             creator.channel,
             ...SPICE_PLATFORMS.map((platform) => {
@@ -513,7 +531,7 @@
             .toLowerCase();
         });
 
-        liveFilterBtn.hidden = !jsonOrderCreators.some((creator) => creator.isLive);
+        applyLiveStatus(liveLogins);
       } catch (err) {
         console.error("Failed to load accounts.json:", err);
         resultCount.textContent = "Couldn't load creator data.";
