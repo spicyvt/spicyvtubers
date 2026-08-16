@@ -64,6 +64,8 @@ const BANNERS_X_DIR = __DIR__ . '/bannersX';
 const BANNERS_B_DIR = __DIR__ . '/bannersB';
 const OUTPUT_DIR = __DIR__ . '/c';
 const INDEX_PATH = __DIR__ . '/index.html';
+const INSIGHTS_DIR = __DIR__ . '/insights';
+const INSIGHTS_PATH = INSIGHTS_DIR . '/index.html';
 const SNAPSHOT_PATH = __DIR__ . '/generated-accounts.json';
 const SITEMAP_PATH = __DIR__ . '/sitemap.xml';
 const OG_LOGO_PATH = __DIR__ . '/spicy_vtubers_logo.png';
@@ -79,8 +81,12 @@ const ENABLE_FANSLY_LEADERBOARD_GRAPH = true;
 const ENABLE_FANSLY_STREAM_HISTORY = true;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style210.css';
-const SCRIPT = 'script210.js';
+const STYLESHEET = 'style211.css';
+const SCRIPT = 'script211.js';
+// Pages reference the "min"-prefixed copies; generateMinifiedAssets() (run
+// once at the start of main()) builds these from STYLESHEET/SCRIPT above.
+const MIN_STYLESHEET = 'min' . STYLESHEET;
+const MIN_SCRIPT = 'min' . SCRIPT;
 
 // ---------------------------------- Data helpers ----------------------------------
 
@@ -133,6 +139,187 @@ function writeJson(string $path, $data): bool
         return false;
     }
     return file_put_contents($path, $json) !== false;
+}
+
+// Init-stage step (called once at the top of main()): rebuilds MIN_STYLESHEET/
+// MIN_SCRIPT from STYLESHEET/SCRIPT by stripping comments, so every generated
+// page's asset tags (see stylesheetTag()/scriptBootstrap()) resolve to real files.
+function generateMinifiedAssets(): void
+{
+    $cssPath = __DIR__ . '/' . STYLESHEET;
+    $jsPath = __DIR__ . '/' . SCRIPT;
+
+    $css = file_get_contents($cssPath);
+    if ($css === false) {
+        fwrite(STDERR, "Failed to read " . STYLESHEET . " for minification\n");
+        exit(1);
+    }
+    if (file_put_contents(__DIR__ . '/' . MIN_STYLESHEET, stripCssComments($css)) === false) {
+        fwrite(STDERR, "Failed to write " . MIN_STYLESHEET . "\n");
+        exit(1);
+    }
+
+    $js = file_get_contents($jsPath);
+    if ($js === false) {
+        fwrite(STDERR, "Failed to read " . SCRIPT . " for minification\n");
+        exit(1);
+    }
+    if (file_put_contents(__DIR__ . '/' . MIN_SCRIPT, stripJsComments($js)) === false) {
+        fwrite(STDERR, "Failed to write " . MIN_SCRIPT . "\n");
+        exit(1);
+    }
+}
+
+// Strips /* ... */ comments from CSS, respecting single/double-quoted strings
+// (e.g. content: "/* not a comment */") so their contents are never touched.
+function stripCssComments(string $css): string
+{
+    $out = '';
+    $len = strlen($css);
+    $inString = null; // null, or the quote char currently open
+    for ($i = 0; $i < $len; $i++) {
+        $ch = $css[$i];
+
+        if ($inString !== null) {
+            $out .= $ch;
+            if ($ch === '\\' && $i + 1 < $len) {
+                $out .= $css[++$i];
+            } elseif ($ch === $inString) {
+                $inString = null;
+            }
+            continue;
+        }
+
+        if (($ch === '"' || $ch === "'")) {
+            $inString = $ch;
+            $out .= $ch;
+            continue;
+        }
+
+        if ($ch === '/' && $i + 1 < $len && $css[$i + 1] === '*') {
+            $end = strpos($css, '*/', $i + 2);
+            $i = ($end === false) ? $len : $end + 1;
+            continue;
+        }
+
+        $out .= $ch;
+    }
+    return $out;
+}
+
+// Strips // line comments and /* */ block comments from JS, respecting
+// single/double-quoted strings and template literals (including nested
+// ${...} expressions inside a template) so their contents are never touched.
+// NOTE: does not attempt real regex-literal detection (no /pattern/ regex
+// literals exist in SCRIPT as of writing) — only relevant if one is added.
+function stripJsComments(string $js): string
+{
+    $out = '';
+    $len = strlen($js);
+    // Stack of open contexts: 'code' | 'sq' | 'dq' | 'tpl' | int (brace depth
+    // of a ${...} expression inside a template literal, tracked via a
+    // parallel stack entry so we know when to drop back into 'tpl').
+    $stack = ['code'];
+    $i = 0;
+    while ($i < $len) {
+        $ch = $js[$i];
+        $mode = end($stack);
+
+        if ($mode === 'sq' || $mode === 'dq') {
+            $out .= $ch;
+            if ($ch === '\\' && $i + 1 < $len) {
+                $out .= $js[$i + 1];
+                $i += 2;
+                continue;
+            }
+            if (($mode === 'sq' && $ch === "'") || ($mode === 'dq' && $ch === '"')) {
+                array_pop($stack);
+            }
+            $i++;
+            continue;
+        }
+
+        if ($mode === 'tpl') {
+            if ($ch === '\\' && $i + 1 < $len) {
+                $out .= $ch . $js[$i + 1];
+                $i += 2;
+                continue;
+            }
+            if ($ch === '`') {
+                array_pop($stack);
+                $out .= $ch;
+                $i++;
+                continue;
+            }
+            if ($ch === '$' && $i + 1 < $len && $js[$i + 1] === '{') {
+                $stack[] = 0; // brace depth for this ${...} expression
+                $out .= '${';
+                $i += 2;
+                continue;
+            }
+            $out .= $ch;
+            $i++;
+            continue;
+        }
+
+        if (is_int($mode)) {
+            // Inside a ${...} template expression — behaves like code, but
+            // track brace depth so a matching `}` drops back into 'tpl'.
+            if ($ch === '{') {
+                $stack[count($stack) - 1] = $mode + 1;
+                $out .= $ch;
+                $i++;
+                continue;
+            }
+            if ($ch === '}') {
+                if ($mode === 0) {
+                    array_pop($stack);
+                    $out .= $ch;
+                    $i++;
+                    continue;
+                }
+                $stack[count($stack) - 1] = $mode - 1;
+                $out .= $ch;
+                $i++;
+                continue;
+            }
+            // fall through to shared "code-like" handling below
+        }
+
+        // 'code' mode (or inside a ${...} expression, handled above for braces)
+        if ($ch === "'" ) {
+            $stack[] = 'sq';
+            $out .= $ch;
+            $i++;
+            continue;
+        }
+        if ($ch === '"') {
+            $stack[] = 'dq';
+            $out .= $ch;
+            $i++;
+            continue;
+        }
+        if ($ch === '`') {
+            $stack[] = 'tpl';
+            $out .= $ch;
+            $i++;
+            continue;
+        }
+        if ($ch === '/' && $i + 1 < $len && $js[$i + 1] === '/') {
+            $end = strpos($js, "\n", $i + 2);
+            $i = ($end === false) ? $len : $end; // keep the newline itself
+            continue;
+        }
+        if ($ch === '/' && $i + 1 < $len && $js[$i + 1] === '*') {
+            $end = strpos($js, '*/', $i + 2);
+            $i = ($end === false) ? $len : $end + 2;
+            continue;
+        }
+
+        $out .= $ch;
+        $i++;
+    }
+    return $out;
 }
 
 function loadBio(string $slug): ?string
@@ -467,18 +654,18 @@ function renderHeadMeta(string $title, string $description, string $canonical, s
 HTML;
 }
 
-// Plain <link>/<script> tags using the STYLESHEET/SCRIPT constants above —
-// no runtime manifest/fetch indirection needed since this generator already
-// rewrites every page whenever those filenames change.
+// Plain <link>/<script> tags using the MIN_STYLESHEET/MIN_SCRIPT constants
+// above — no runtime manifest/fetch indirection needed since this generator
+// already rewrites every page whenever those filenames change.
 function stylesheetTag(): string
 {
-    $stylesheet = STYLESHEET;
+    $stylesheet = MIN_STYLESHEET;
     return "<link rel=\"stylesheet\" href=\"/{$stylesheet}\">";
 }
 
 function scriptBootstrap(string $initFn): string
 {
-    $script = SCRIPT;
+    $script = MIN_SCRIPT;
     return <<<HTML
 <script src="/{$script}"></script>
 <script>window.{$initFn}();</script>
@@ -487,9 +674,13 @@ HTML;
 
 function renderSiteHeader(string $scope): string
 {
-    $headerActionsExtra = $scope === 'creator'
+    $headerActionsExtra = in_array($scope, ['creator', 'insights'], true)
         ? '<a class="header-index-btn" href="/" title="Back to full index"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h7v7H4V4zm9 0h7v7h-7V4zM4 13h7v7H4v-7zm9 0h7v7h-7v-7z"/></svg><span>Index</span></a>'
         : '<button type="button" class="sort-toggle-btn" id="sort-toggle" aria-pressed="false" title="Toggle between A-Z order and the newest creators added"><svg class="sort-toggle-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M6 12h12M10 18h4"/></svg><span>Newest</span></button>';
+
+    $insightsLink = $scope === 'insights'
+        ? ''
+        : '<a class="header-index-btn" href="/insights/" title="Weekly Fansly stream insights"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V10h4v10H4zm6 0V4h4v16h-4zm6 0v-7h4v7h-4z"/></svg><span>Insights</span></a>';
 
     return <<<HTML
 <header class="site-header">
@@ -522,6 +713,7 @@ function renderSiteHeader(string $scope): string
       </div>
 
       <div class="header-actions" id="header-actions">
+        {$insightsLink}
         {$headerActionsExtra}
       </div>
     </div>
@@ -532,7 +724,7 @@ HTML;
 
 function renderSiteFooter(string $scope): string
 {
-    $backToIndex = $scope === 'creator'
+    $backToIndex = in_array($scope, ['creator', 'insights'], true)
         ? '<p class="back-to-index"><a href="/">← All Creators</a></p>'
         : '';
 
@@ -1029,6 +1221,50 @@ function generateIndexHtml(): string
 HTML;
 }
 
+function generateInsightsHtml(): string
+{
+    $title = 'Weekly Fansly Insights - Spicy VTubers';
+    $description = 'Weekly aggregated Fansly stream activity across indexed VTubers: when they usually stream, how many are active at a given time, and how viewer activity shifts through the week.';
+    $canonical = BASE_URL . 'insights/';
+    $head = renderHeadMeta($title, $description, $canonical, 'website', BASE_URL . 'og-image.png', BASE_URL . 'og-spicy.png');
+    $bootstrapHead = stylesheetTag();
+    $bootstrapBody = scriptBootstrap('initInsights');
+    $header = renderSiteHeader('insights');
+    $footer = renderSiteFooter('insights');
+
+    return <<<HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+{$head}
+{$bootstrapHead}
+</head>
+<body>
+
+{$header}
+
+<main class="page insights-page">
+  <div class="insights-layout">
+    <section class="insights-info-card">
+      <h1 class="insights-title">Weekly Fansly Insights</h1>
+      <p class="insights-intro">Aggregated stream activity across every indexed VTuber's Fansly account.</p>
+      <div id="insights-summary" data-loading>Loading weekly insights…</div>
+      <div id="insights-tabs" class="insights-main-tabs"></div>
+    </section>
+    <section class="insights-graph-card">
+      <div id="insights-root" data-loading>Loading weekly insights…</div>
+    </section>
+  </div>
+</main>
+
+{$footer}
+
+{$bootstrapBody}
+</body>
+</html>
+HTML;
+}
+
 // ---------------------------------- OG image (ImageMagick) ----------------------------------
 
 function runCmd(string $cmd): bool
@@ -1266,6 +1502,10 @@ function writeSitemap(array $slugs): void
     $home->addChild('loc', BASE_URL);
     $home->addChild('lastmod', $today);
 
+    $insights = $xml->addChild('url');
+    $insights->addChild('loc', BASE_URL . 'insights/');
+    $insights->addChild('lastmod', $today);
+
     foreach ($slugs as $slug) {
         $u = $xml->addChild('url');
         $u->addChild('loc', BASE_URL . 'c/' . rawurlencode($slug) . '/');
@@ -1287,6 +1527,8 @@ function main(array $argv): void
         echo "Cleared all contents of " . OUTPUT_DIR . " (c/ folder itself kept).\n";
         return;
     }
+
+    generateMinifiedAssets();
 
     $limit = null;
     foreach ($argv as $arg) {
@@ -1378,6 +1620,12 @@ function main(array $argv): void
 
     if (file_put_contents(INDEX_PATH, generateIndexHtml()) === false) {
         fwrite(STDERR, "Failed to write index.html\n");
+    }
+
+    if (!is_dir(INSIGHTS_DIR) && !mkdir(INSIGHTS_DIR, 0775, true) && !is_dir(INSIGHTS_DIR)) {
+        fwrite(STDERR, "Failed to create output directory: " . INSIGHTS_DIR . "\n");
+    } elseif (file_put_contents(INSIGHTS_PATH, generateInsightsHtml()) === false) {
+        fwrite(STDERR, "Failed to write insights/index.html\n");
     }
 
     writeSitemap($slugs);
