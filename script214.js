@@ -35,7 +35,8 @@
   // live, ignoring entries whose startedAt is more than 24h old (stale/never-updated file).
   async function loadLiveLogins() {
     try {
-      const res = await fetch(LIVE_JSON_URL);
+      // Add an url param to avoid caching issues (fansly/live.json is updated every minute).
+      const res = await fetch(`${LIVE_JSON_URL}?t=${Date.now()}`);
       if (!res.ok) return new Set();
       const data = await res.json();
       if (!Array.isArray(data)) return new Set();

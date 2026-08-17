@@ -35,7 +35,8 @@
   
   async function loadLiveLogins() {
     try {
-      const res = await fetch(LIVE_JSON_URL);
+      
+      const res = await fetch(`${LIVE_JSON_URL}?t=${Date.now()}`);
       if (!res.ok) return new Set();
       const data = await res.json();
       if (!Array.isArray(data)) return new Set();
