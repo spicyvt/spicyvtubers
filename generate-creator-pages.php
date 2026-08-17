@@ -81,8 +81,8 @@ const ENABLE_FANSLY_LEADERBOARD_GRAPH = true;
 const ENABLE_FANSLY_STREAM_HISTORY = true;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style213.css';
-const SCRIPT = 'script213.js';
+const STYLESHEET = 'style214.css';
+const SCRIPT = 'script214.js';
 // Pages reference the "min"-prefixed copies; generateMinifiedAssets() (run
 // once at the start of main()) builds these from STYLESHEET/SCRIPT above.
 const MIN_STYLESHEET = 'min' . STYLESHEET;
