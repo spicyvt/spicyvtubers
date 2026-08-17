@@ -1,0 +1,90 @@
+{
+    "bio": "MDNI 28, she/they, keeper of many cats.  Your berry own derby girl!  I like video games (especially survival craft), animals, art, and hitting people while there are wheels on my feet.   Tell me what you wanna see me play :3",
+    "twitch": {
+        "id": "1312854342",
+        "login": "strawberryskates",
+        "displayName": "StrawberrySkates",
+        "createdAt": "2025-05-19T20:15:19.819988Z",
+        "updatedAt": "2026-08-17T02:53:09.08595Z",
+        "description": "MDNI 28, she/they, keeper of many cats.  Your berry own derby girl!  I like video games (especially survival craft), animals, art, and hitting people while there are wheels on my feet.   Tell me what you wanna see me play :3 ",
+        "primaryColorHex": "4EE669",
+        "followers": {
+            "totalCount": 234
+        },
+        "follows": {
+            "totalCount": 149
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-17T03:15:26.477416Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d59cb4f-d94f-41ac-9806-20c5231fb807-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f69e4439-fe97-46ff-b4b1-d192457c880a-profile_banner-480.png",
+        "fetchedAt": "2026-08-17T21:45:28Z"
+    },
+    "twitter": {
+        "strawyberrysk8s": {
+            "id": "1918423034483908608",
+            "handle": "strawyberrysk8s",
+            "displayName": "🍓Strawberry Skates🍓",
+            "description": "MDNI\nshe/they, 28\n\nI post nudes and also stream SFW and NSFW things.  I do crafts.  I like yappin' and being horny.  It's weird around here, expect chaos :3",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1997566590884216832/lh3Wyjoi_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1918423034483908608/1757624011/1500x500",
+            "followersCount": 267,
+            "followingCount": 157,
+            "postsCount": 1225,
+            "accountCreatedAt": "2025-05-02T21:51:20.860Z",
+            "profileUrl": "https://x.com/StrawyberrySk8s",
+            "fetchedAt": "2026-08-17T21:45:30Z"
+        }
+    },
+    "fansly": {
+        "id": "539203601063485440",
+        "username": "StrawberrySkates",
+        "displayName": null,
+        "version": 4,
+        "followCount": 146,
+        "statusId": 1,
+        "accountMediaLikes": 1124,
+        "postLikes": 627,
+        "about": "Your 🍓 berry 🍓 own plus sized roller derby girl.\nSpicy games, spicy art, cute feet, and socks all from me to you.\nhttps://strawberryskates.carrd.co",
+        "location": "",
+        "streaming": {
+            "accountId": "539203601063485440",
+            "channel": {
+                "id": "809223310830219264",
+                "accountId": "539203601063485440",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.aNj2RZoJ7DIH.m3u8",
+                "chatRoomId": "809224171165868032",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1754428231000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "809223310830219265",
+                    "historyId": "851026755652186112",
+                    "channelId": "809223310830219264",
+                    "accountId": "539203601063485440",
+                    "title": "Cloud Meadow <3 ",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 8,
+                    "createdAt": 1754428232000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1764399845000,
+                    "startedAt": 1764394949000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-17T21:45:32Z"
+    }
+}
