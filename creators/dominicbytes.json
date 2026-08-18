@@ -54,5 +54,30 @@
         "accountCreatedAt": "2024-12-31T20:07:34.144Z",
         "profileUrl": "https://bsky.app/profile/dominiquebytes.bsky.social",
         "fetchedAt": "2026-08-11T17:45:59Z"
+    },
+    "rplay": {
+        "id": "685a2bb8b810a3af3094bd3a",
+        "channelIntro": "",
+        "creatorTags": [
+            "english",
+            "vtuber",
+            "streamer",
+            "for-men",
+            "for-women",
+            "all-age",
+            "adult",
+            "all",
+            "_685a2bb8b810a3af3094bd3a_",
+            "kyc"
+        ],
+        "nickname": "DominiqueBytes",
+        "signupDate": "2025-06-24T04:38:16.000Z",
+        "verified": true,
+        "channelLanguage": "en",
+        "isLivestreamer": true,
+        "customUrl": null,
+        "channelImage": null,
+        "streamStartTime": "2026-08-15T01:53:32.000Z",
+        "fetchedAt": "2026-08-18T18:21:30Z"
     }
 }

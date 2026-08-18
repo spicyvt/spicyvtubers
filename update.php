@@ -100,6 +100,16 @@ declare(strict_types=1);
  * preserved) to bannersX/{handle}.webp and bannersB/{name}.webp. The
  * small 70x70 avatar variant was removed everywhere (twitch/youtube
  * included) since nothing on the site displays it anymore.
+ *
+ * RPlay (added 2026-08-18): every entry with a non-empty "rplay" handle
+ * whose creators/{login}.json doesn't already have an "rplay" key set is
+ * queried against https://api.rplay.live/account/getuser, one account per
+ * request (no batching, unlike Fansly) — using the userOid param when
+ * "rplay" is "creatorhome/{id}", or the customUrl param otherwise. On
+ * success, creators/{login}.json's "rplay" field is set to id,
+ * channelIntro, creatorTags, nickname, signupDate, verified,
+ * channelLanguage, isLivestreamer, customUrl, channelImage, and
+ * streamStartTime, plus our own "fetchedAt" timestamp.
  */
 
 // Platform types this script knows how to fetch; add 'kick' here once its
@@ -137,6 +147,10 @@ const FANSLY_API_URL = 'https://apiv3.fansly.com/api/v1/account';
 // Fansly's account endpoint accepts a comma-separated batch of usernames.
 const FANSLY_BATCH_SIZE = 20;
 const FANSLY_SLEEP_SECONDS = 5;
+
+const RPLAY_API_URL = 'https://api.rplay.live/account/getuser';
+// RPlay's getuser endpoint takes one account at a time, unlike Fansly's batch endpoint.
+const RPLAY_SLEEP_SECONDS = 1;
 
 // --force forces every eligible account; --force=NAME scopes forcing to
 // only the account whose lowercased "channel" equals NAME (every other
@@ -613,6 +627,10 @@ function curlGet(string $url, array $headers = []): ?string
         CURLOPT_FOLLOWLOCATION => true,
         CURLOPT_TIMEOUT => 30,
         CURLOPT_CONNECTTIMEOUT => 10,
+        // '' = accept/auto-decode any encoding curl supports (gzip/deflate/br) —
+        // RPlay's getuser endpoint sends gzip-encoded bodies unconditionally,
+        // regardless of what Accept-Encoding (if any) the request sent.
+        CURLOPT_ENCODING => '',
         CURLOPT_HTTPHEADER => array_merge([
             'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36',
             'Accept-Language: en-US,en;q=0.9',
@@ -1006,6 +1024,84 @@ function saveFanslyCreatorData(string $creatorsDir, string $creatorName, array $
 }
 
 /**
+ * Fetches an RPlay account via https://api.rplay.live/account/getuser.
+ * accounts.json's "rplay" value is either "creatorhome/{userOid}" (queried
+ * via the userOid param) or a bare customUrl (queried via the customUrl
+ * param). Returns the decoded response array, or null on failure.
+ */
+function fetchRplayAccount(string $rplayValue): ?array
+{
+    if (str_starts_with($rplayValue, 'creatorhome/')) {
+        $userOid = substr($rplayValue, strlen('creatorhome/'));
+        $url = RPLAY_API_URL . '?userOid=' . rawurlencode($userOid);
+    } else {
+        $url = RPLAY_API_URL . '?customUrl=' . rawurlencode($rplayValue);
+    }    
+
+    $response = curlGet($url, ['Accept: application/json']);
+    if ($response === null) {
+        return null;
+    }
+
+    $decoded = json_decode($response, true);
+    
+
+    return is_array($decoded) ? $decoded : null;
+}
+
+/**
+ * Shapes a raw RPlay account object into the subset of fields we keep,
+ * plus our own "fetchedAt" timestamp; everything else (posts, subscription
+ * tiers, sns links, etc.) is discarded.
+ */
+function shapeRplayAccountData(array $account): array
+{
+    return [
+        'id' => $account['_id'] ?? null,
+        'channelIntro' => $account['channelIntro'] ?? null,
+        'creatorTags' => $account['creatorTags'] ?? null,
+        'nickname' => $account['nickname'] ?? null,
+        'signupDate' => $account['signupdate'] ?? null,
+        'verified' => $account['verified'] ?? null,
+        'channelLanguage' => $account['channelLanguage'] ?? null,
+        'isLivestreamer' => $account['isLivestreamer'] ?? null,
+        'customUrl' => $account['customUrl'] ?? null,
+        'channelImage' => $account['channelImage'] ?? null,
+        'streamStartTime' => $account['streamStartTime'] ?? null,
+        'fetchedAt' => gmdate('Y-m-d\TH:i:s\Z'),
+    ];
+}
+
+/**
+ * Merges $rplayData into creators/{creatorName}.json's "rplay" field
+ * (only ever called when that key isn't already set, unless $force) while
+ * every other field on disk is preserved. Returns true on success, or
+ * null on failure.
+ */
+function saveRplayCreatorData(string $creatorsDir, string $creatorName, array $rplayData, bool $force = false): ?bool
+{
+    if ($creatorName === '') {
+        return null;
+    }
+
+    $creatorFile = $creatorsDir . '/' . $creatorName . '.json';
+    $creatorData = loadCreatorData($creatorsDir, $creatorName);
+
+    if (!$force && !empty($creatorData['rplay'])) {
+        return true;
+    }
+
+    $creatorData['rplay'] = $rplayData;
+
+    $written = file_put_contents(
+        $creatorFile,
+        json_encode($creatorData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . "\n"
+    );
+
+    return $written === false ? null : true;
+}
+
+/**
  * Dispatches to the fetcher for $type. Every fetcher returns null on
  * failure, or an array shaped like:
  *   creatorName          string  canonical handle; names creators/{name}.json
@@ -1257,6 +1353,36 @@ function buildFanslyUsernameList(array $accounts, string $creatorsDir): array
         $login = strtolower($channel);
         $fanslyId = loadCreatorData($creatorsDir, $login)['fansly']['id'] ?? null;
         $list[] = ['id' => $fanslyId, 'login' => $login, 'username' => $fanslyUsername];
+    }
+
+    return $list;
+}
+
+/**
+ * Builds the public {login, id, customUrl, startedAt} list for every
+ * account with an "rplay" handle, regardless of creators/{login}.json
+ * resolution state. "id"/"customUrl"/"startedAt" come from
+ * creators/{login}.json's "rplay" key (null if not resolved yet), not
+ * from accounts.json directly. "startedAt" is rplay's "streamStartTime",
+ * renamed here for internal consistency with the Fansly stream tracker.
+ */
+function buildRplayUsernameList(array $accounts, string $creatorsDir): array
+{
+    $list = [];
+    foreach ($accounts as $account) {
+        $rplayValue = trim((string) ($account['rplay'] ?? ''));
+        $channel = trim((string) ($account['channel'] ?? ''));
+        if ($rplayValue === '' || $channel === '') {
+            continue;
+        }
+        $login = strtolower($channel);
+        $rplayData = loadCreatorData($creatorsDir, $login)['rplay'] ?? [];
+        $list[] = [
+            'login' => $login,
+            'id' => $rplayData['id'] ?? null,
+            'customUrl' => $rplayData['customUrl'] ?? null,
+            'startedAt' => $rplayData['streamStartTime'] ?? null,
+        ];
     }
 
     return $list;
@@ -1664,11 +1790,72 @@ foreach (array_chunk($fanslyRequests, FANSLY_BATCH_SIZE) as $batch) {
 echo "========================================\n";
 echo "Done. Fansly updated: {$fanslyUpdated}, failed: {$fanslyFailed}\n";
 
+// Like fansly, creators/{login}.json already having an "rplay" key marks
+// this entry resolved and skips it. Unlike fansly's batched endpoint,
+// RPlay's getuser endpoint is queried one account at a time.
+$rplayRequests = [];
+foreach ($accounts as $account) {
+    $rplayValue = trim((string) ($account['rplay'] ?? ''));
+    $channel = trim((string) ($account['channel'] ?? ''));
+    if ($rplayValue === '' || $channel === '') {
+        continue;
+    }
+    $login = strtolower($channel);
+    $isForced = isForcedFor($login, $force, $forceCreator);
+    if (!$isForced && creatorHasPlatformData($creatorsDir, $login, 'rplay')) {
+        continue;
+    }
+    $rplayRequests[] = ['login' => $login, 'value' => $rplayValue, 'force' => $isForced];
+}
+
+$rplayUpdated = 0;
+$rplayFailed = 0;
+$rplayTotal = count($rplayRequests);
+
+echo "========================================\n";
+echo "Fetching RPlay data for {$rplayTotal} accounts...\n";
+
+foreach ($rplayRequests as $request) {
+    echo "Fetching RPlay: {$request['login']} ({$request['value']})\n";
+
+    $rplayAccount = fetchRplayAccount($request['value']);
+
+    if ($rplayAccount === null) {
+        echo "  -> RPlay request failed, skipping.\n";
+        $rplayFailed++;
+        sleep(RPLAY_SLEEP_SECONDS);
+        continue;
+    }
+
+    $rplayData = shapeRplayAccountData($rplayAccount);
+    $saved = saveRplayCreatorData($creatorsDir, $request['login'], $rplayData, $request['force']);
+
+    if ($saved === true) {
+        $rplayUpdated++;
+        echo "  -> Saved RPlay data: creators/{$request['login']}.json\n";
+    } else {
+        $rplayFailed++;
+        echo "  -> Failed to save RPlay data for {$request['login']}.\n";
+    }
+
+    sleep(RPLAY_SLEEP_SECONDS);
+}
+
+echo "========================================\n";
+echo "Done. RPlay updated: {$rplayUpdated}, failed: {$rplayFailed}\n";
+
 // Written last so ids fetched in this same run are already resolved onto
 // creators/{login}.json (consumed by workers/fansly-stream-tracker).
 file_put_contents(
     __DIR__ . '/fansly.json',
     json_encode(buildFanslyUsernameList($accounts, $creatorsDir), JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "\n"
+);
+
+// Same idea as fansly.json above, written last so ids fetched in this same
+// run are already resolved.
+file_put_contents(
+    __DIR__ . '/rplay.json',
+    json_encode(buildRplayUsernameList($accounts, $creatorsDir), JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "\n"
 );
 
 $folderFieldsUpdated = 0;
