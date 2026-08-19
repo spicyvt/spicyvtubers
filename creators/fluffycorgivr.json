@@ -5,35 +5,35 @@
         "login": "fluffycorgivr",
         "displayName": "fluffycorgivr",
         "createdAt": "2016-08-21T13:34:42.117597Z",
-        "updatedAt": "2026-08-01T23:55:23.325707Z",
+        "updatedAt": "2026-08-14T21:08:40.332261Z",
         "description": "Just a silly dog ♥",
         "primaryColorHex": "FF2B80",
         "followers": {
-            "totalCount": 2010
+            "totalCount": 2032
         },
         "follows": {
-            "totalCount": 87
+            "totalCount": 86
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-06T02:29:24.913895Z"
+            "startedAt": "2026-08-14T22:43:02.911086Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d17c489e-b152-423d-88a1-539c7beaa13b-profile_image-300x300.png",
         "bannerImageUrl": null,
-        "fetchedAt": "2026-08-11T16:43:42Z"
+        "fetchedAt": "2026-08-19T15:40:32Z"
     },
     "fansly": {
         "id": "505226305994760192",
         "username": "FluffyCorgi",
         "displayName": "FluffyCorgiVR",
         "version": 14,
-        "followCount": 20462,
+        "followCount": 20677,
         "statusId": 2,
-        "accountMediaLikes": 71051,
-        "postLikes": 54107,
+        "accountMediaLikes": 71683,
+        "postLikes": 54587,
         "about": "I'm FluffyCorgi!\nSilly gal among many other things <3\nWelcome to my playspace <3\nVR x Lewdtuber ♥\nlinktr.ee/fluffycorgivr",
         "location": "In a doggy bed <3",
         "streaming": {
@@ -44,24 +44,33 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.woJkiuryBoYv.m3u8",
                 "chatRoomId": "561760763778183168",
                 "status": 2,
-                "version": 170,
+                "version": 178,
                 "createdAt": 1695408247000,
                 "updatedAt": null,
                 "stream": {
                     "id": "561675553711595521",
-                    "historyId": "942289087321104386",
+                    "historyId": "946265606338928640",
                     "channelId": "561675553711595520",
                     "accountId": "505226305994760192",
-                    "title": "Sex Machine Stream!(Pi-Shock on ⚡)",
+                    "title": "Private Stream DNI ♥",
                     "status": 1,
-                    "viewerCount": 174,
-                    "version": 872,
+                    "viewerCount": 3,
+                    "version": 886,
                     "createdAt": 1695408247000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786168059000,
-                    "startedAt": 1786153585000,
+                    "lastFetchedAt": 1787105895000,
+                    "startedAt": 1787101661000,
                     "permissions": {
-                        "permissionFlags": []
+                        "permissionFlags": [
+                            {
+                                "id": "946266303025397760",
+                                "streamId": "561675553711595521",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"923766543861436416\\\",\\\"label\\\":\\\"PRIVATE STREAM\\\"}\"}"
+                            }
+                        ]
                     }
                 },
                 "arn": null,
@@ -69,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:48:09Z"
+        "fetchedAt": "2026-08-19T16:45:31Z"
     },
     "twitter": {
         "fluffycorgivr": {
@@ -79,12 +88,12 @@
             "description": "https://t.co/RdEafsXkHa\n+18 content\n No minors!\nFurry Account : @FloofyCorgiVR ♥",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2027486344969392128/DjDOIlJO_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1642271226151284736/1732697330/1500x500",
-            "followersCount": 16371,
-            "followingCount": 367,
-            "postsCount": 1079,
+            "followersCount": 16646,
+            "followingCount": 369,
+            "postsCount": 1089,
             "accountCreatedAt": "2023-04-01T21:02:40.536Z",
             "profileUrl": "https://x.com/FluffyCorgiVR",
-            "fetchedAt": "2026-08-11T17:14:04Z"
+            "fetchedAt": "2026-08-19T16:11:29Z"
         },
         "floofycorgivr": {
             "id": null,
@@ -98,7 +107,7 @@
             "postsCount": null,
             "accountCreatedAt": "2026-05-18T18:41:43.315Z",
             "profileUrl": "https://x.com/FloofyCorgiVR",
-            "fetchedAt": "2026-08-11T17:14:06Z"
+            "fetchedAt": "2026-08-19T16:11:30Z"
         }
     }
 }

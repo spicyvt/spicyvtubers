@@ -5,11 +5,11 @@
         "login": "thediviy",
         "displayName": "TheDiviy",
         "createdAt": "2015-06-28T09:31:38.301615Z",
-        "updatedAt": "2026-08-10T13:36:34.718982Z",
+        "updatedAt": "2026-08-17T01:33:39.011798Z",
         "description": "",
         "primaryColorHex": "0CC8C8",
         "followers": {
-            "totalCount": 921
+            "totalCount": 922
         },
         "follows": {
             "totalCount": 702
@@ -19,18 +19,18 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T16:30:42.895743Z"
+            "startedAt": "2026-08-17T02:02:38.220393Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7ab487dd-f0a9-480a-8a82-e9d19f009e80-profile_image-300x300.png",
         "bannerImageUrl": null,
-        "fetchedAt": "2026-08-11T16:39:43Z"
+        "fetchedAt": "2026-08-19T15:36:19Z"
     },
     "fansly": {
         "id": "329247613876445184",
         "username": "TheDiviy",
         "displayName": null,
         "version": 7,
-        "followCount": 660,
+        "followCount": 666,
         "statusId": 1,
         "accountMediaLikes": 501,
         "postLikes": 419,
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:46:37Z"
+        "fetchedAt": "2026-08-19T16:44:47Z"
     },
     "twitter": {
         "thediviy": {
@@ -79,12 +79,12 @@
             "description": "Sometimes twitch stuff\nSecret power I can yell in lower case\nDms Open! :3c \nPFP: @LuluEclipsyy_\nBanner: @TeaDooie",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2018776443467997184/jjOGWXV2_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/225228201/1768430343/1500x500",
-            "followersCount": 6510,
-            "followingCount": 988,
+            "followersCount": 6516,
+            "followingCount": 995,
             "postsCount": 12110,
             "accountCreatedAt": "2010-12-11T01:36:51.000Z",
             "profileUrl": "https://x.com/TheDiviy",
-            "fetchedAt": "2026-08-11T17:06:09Z"
+            "fetchedAt": "2026-08-19T16:03:34Z"
         }
     }
 }

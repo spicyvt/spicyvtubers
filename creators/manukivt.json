@@ -5,35 +5,35 @@
         "login": "manukivt",
         "displayName": "ManukiVT",
         "createdAt": "2019-08-17T20:01:05.949758Z",
-        "updatedAt": "2026-08-11T13:59:21.827892Z",
+        "updatedAt": "2026-08-19T09:20:49.573187Z",
         "description": "Hellow ^^ A pinch of tiredness, two teaspoons full of stupidity and a bit weird humour. This recipe should describe me perfectly!  :3 ",
         "primaryColorHex": "6600FF",
         "followers": {
-            "totalCount": 4601
+            "totalCount": 4630
         },
         "follows": {
-            "totalCount": 95
+            "totalCount": 96
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T14:02:15.463318Z"
+            "startedAt": "2026-08-19T14:31:20.796746Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b41644c8-3592-4e9d-be06-b7bcb859a1d2-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb62b377-e8fd-46bf-84aa-6576598254d6-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:40:29Z"
+        "fetchedAt": "2026-08-19T15:37:08Z"
     },
     "fansly": {
         "id": "764879834131210240",
         "username": "Manuki",
         "displayName": null,
         "version": 2,
-        "followCount": 300,
+        "followCount": 317,
         "statusId": 1,
-        "accountMediaLikes": 762,
-        "postLikes": 656,
+        "accountMediaLikes": 773,
+        "postLikes": 664,
         "about": "https://linktr.ee/ManukiVT\n^ Go look at that.^\n\n𓄋 ~Your Demon Queen Welcomes You~ 𓄋\n\n⛧It seem's you have stumbled across something you shouldn't have.. ⛧\n⛧If you already landed here, why don't you make yourself comfortable and  enjoy the sight ⛧\n\n☆ Racoons!\n☆ VRChat Pictures & Videos\n☆ Art\n☆ Me. (A Boob-Obsessed Girl) \n\n\nhttps://discord.gg/AUGc43rcFw\n⛧ ^ Livestream Notifications! ^ ⛧\n\n⛧Want to support me? ^^ ⛧ \nhttps://throne.com/manuki\nhttps://streamelements.com/manukivt/tip",
         "location": "~Demon-Queen's Realm~",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SgyBYaMP8v8F.m3u8",
                 "chatRoomId": "828757760173690880",
                 "status": 2,
-                "version": 9,
+                "version": 12,
                 "createdAt": 1759085549000,
                 "updatedAt": null,
                 "stream": {
                     "id": "828757515981303809",
-                    "historyId": "918994144691503104",
+                    "historyId": "945086293228924928",
                     "channelId": "828757515981303808",
                     "accountId": "764879834131210240",
-                    "title": "♡ ~Another Day Another Goon~ ♡",
+                    "title": "♡ ~A Lewd Raccoon Is Awaiting Your Attention!~ ♡",
                     "status": 1,
-                    "viewerCount": 13,
-                    "version": 12,
+                    "viewerCount": 21,
+                    "version": 40,
                     "createdAt": 1759085549000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1780606879000,
-                    "startedAt": 1780599638000,
+                    "lastFetchedAt": 1786827636000,
+                    "startedAt": 1786820491000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:46:53Z"
+        "fetchedAt": "2026-08-19T16:44:52Z"
     },
     "twitter": {
         "manukivt": {
@@ -79,12 +79,12 @@
             "description": "Your favorite Racoon 𓆩𓆪Demon 𓆩𓆪 Queen VTuber! 🦝𓆩ꨄ︎𓆪🖌️#ManukiArt  ᛝ 🔞#NukiLewd  | Mediakit: https://t.co/w4yqPqOA4e",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2021596540914319360/BPJDWuL3_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1688201425208127488/1770821151/1500x500",
-            "followersCount": 277,
+            "followersCount": 278,
             "followingCount": 6,
-            "postsCount": 139,
+            "postsCount": 140,
             "accountCreatedAt": "2023-08-06T14:52:44.771Z",
             "profileUrl": "https://x.com/ManukiVT",
-            "fetchedAt": "2026-08-11T17:07:28Z"
+            "fetchedAt": "2026-08-19T16:04:53Z"
         }
     }
 }

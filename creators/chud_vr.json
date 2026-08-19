@@ -5,35 +5,35 @@
         "login": "chud_vr",
         "displayName": "Chud_VR",
         "createdAt": "2022-06-28T20:15:41.443598Z",
-        "updatedAt": "2026-08-11T12:03:40.713229Z",
+        "updatedAt": "2026-08-15T00:27:07.817827Z",
         "description": "meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow ",
         "primaryColorHex": "E6BDDF",
         "followers": {
-            "totalCount": 18771
+            "totalCount": 18828
         },
         "follows": {
-            "totalCount": 259
+            "totalCount": 260
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-08T00:03:35.360851Z"
+            "startedAt": "2026-08-14T22:46:54.263434Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4cea16d8-45df-4486-9a56-55c757b29714-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7da6af71-edae-493e-a78f-a58f6453476e-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:43:30Z"
+        "fetchedAt": "2026-08-19T15:40:19Z"
     },
     "fansly": {
         "id": "648790045888622593",
         "username": "Chuddie",
         "displayName": null,
         "version": 4,
-        "followCount": 10047,
+        "followCount": 10086,
         "statusId": 1,
-        "accountMediaLikes": 12081,
-        "postLikes": 5952,
+        "accountMediaLikes": 12103,
+        "postLikes": 5964,
         "about": "SUB only stream every Friday 7PM EST\n\nMute ^^\nmeow~\nhttps://linktr.ee/chudvr\nChilloutVR",
         "location": "Underground",
         "streaming": {
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:48:03Z"
+        "fetchedAt": "2026-08-19T16:45:31Z"
     },
     "twitter": {
         "chud_vr": {
@@ -79,12 +79,12 @@
             "description": "Mute\nhuh?\nI stream and create avatars ^^\nhttps://t.co/gh2nS0bzy8",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1928492043535343616/_rxjB5IV_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1546996611213139968/1768364042/1500x500",
-            "followersCount": 5550,
+            "followersCount": 5559,
             "followingCount": 159,
             "postsCount": 163,
             "accountCreatedAt": "2022-07-12T23:15:31.275Z",
             "profileUrl": "https://x.com/Chud_VR",
-            "fetchedAt": "2026-08-11T17:13:43Z"
+            "fetchedAt": "2026-08-19T16:11:08Z"
         }
     }
 }

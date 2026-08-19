@@ -5,7 +5,7 @@
         "login": "yokobytes",
         "displayName": "YokoBytes",
         "createdAt": "2020-11-13T18:08:20.532745Z",
-        "updatedAt": "2026-08-10T14:03:16.193162Z",
+        "updatedAt": "2026-08-18T15:50:54.703981Z",
         "description": "Yoho I'm Yoko!🫧 A gyaru-inspired seal vtuber!🫧🦭I am a new ASMRtist live every weeknight at 8pm CST! 🌺 https://throne.com/yokobyteshttps://x.com/Yokobytes",
         "primaryColorHex": "A1F4F4",
         "followers": {
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8649a395-6983-47bd-99de-8bbac24164a2-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64adb081-3494-457d-818e-4d1ceea57e6f-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:56:39Z"
+        "fetchedAt": "2026-08-19T15:53:41Z"
     },
     "fansly": {
         "id": "846561512800657408",
         "username": "YokoBytes",
         "displayName": "YokoBytes",
         "version": 7,
-        "followCount": 53,
+        "followCount": 54,
         "statusId": 1,
         "accountMediaLikes": 5,
-        "postLikes": 7,
+        "postLikes": 9,
         "about": "Hopefully this page will be the home of erotic ASMR, NSFW game streams, and more! ",
         "location": "",
         "streaming": {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:58Z"
+        "fetchedAt": "2026-08-19T16:47:32Z"
     },
     "twitter": {
         "yokobytes": {
@@ -88,12 +88,12 @@
             "description": "🌺 Gyaru ASMR sealtuber\n🦭 @Twitch Affiliate\n💙 Art Tag: #yokovarts \n🪸 PFP by @Rubyyart\n 🫧Powered by @ADVANCEDgg",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2064002993263910912/FsAO0bVn_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1964871404987232256/1781035968/1500x500",
-            "followersCount": 513,
-            "followingCount": 346,
-            "postsCount": 578,
+            "followersCount": 518,
+            "followingCount": 350,
+            "postsCount": 606,
             "accountCreatedAt": "2025-09-08T02:01:21.902Z",
             "profileUrl": "https://x.com/Yokobytes",
-            "fetchedAt": "2026-08-11T17:35:25Z"
+            "fetchedAt": "2026-08-19T16:32:53Z"
         }
     },
     "rplay": {
@@ -117,6 +117,6 @@
         "customUrl": null,
         "channelImage": null,
         "streamStartTime": null,
-        "fetchedAt": "2026-08-18T18:20:44Z"
+        "fetchedAt": "2026-08-19T16:49:40Z"
     }
 }

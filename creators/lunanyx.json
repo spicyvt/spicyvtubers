@@ -9,10 +9,10 @@
         "description": "hi, i’m luna ♡´･ᴗ･`♡ your comfy chaotic gumiho vtuber! enjoy your stay with the shrine ♡ ",
         "primaryColorHex": "E6D5FF",
         "followers": {
-            "totalCount": 9195
+            "totalCount": 9189
         },
         "follows": {
-            "totalCount": 1587
+            "totalCount": 1583
         },
         "roles": {
             "isPartner": true,
@@ -23,14 +23,14 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/40702d83-ccf9-4f0c-a7be-0c4a0b62b86c-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f2df174-7aa4-49f5-b18b-8ea8f54988e4-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:58:05Z"
+        "fetchedAt": "2026-08-19T15:55:07Z"
     },
     "fansly": {
         "id": "738615008384004096",
         "username": "LunaNyxVT",
         "displayName": "Luna Nyx",
         "version": 4,
-        "followCount": 513,
+        "followCount": 511,
         "statusId": 3,
         "accountMediaLikes": 34,
         "postLikes": 49,
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:52:09Z"
+        "fetchedAt": "2026-08-19T16:47:37Z"
     },
     "twitter": {
         "lunanyxvtuber": {
-            "id": "1965231354955923459",
+            "id": "1915166114369462275",
             "handle": "lunanyxvtuber",
             "displayName": "Luna Nyx 💜 루나 닉스",
-            "description": "gumiho vtuber ♡ twitch + youtube partner ♡ https://t.co/oUsYTzvGn5 ♡ #lunanyxdoodles #lewdanyx 🔞@lewdanyx",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2023580061270765569/LUABn1wA_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1965231354955923459/1762157531/1500x500",
-            "followersCount": 897,
-            "followingCount": 1139,
-            "postsCount": 1359,
-            "accountCreatedAt": "2025-09-09T01:50:46.946Z",
+            "description": "gumiho vtuber ♡ twitch + youtube partner ♡ https://t.co/52oTpf1gGZ ♡ #lunanyxdoodles #lewdanyx 🔞\n@lewdanyx",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2068041313224888320/mB0Ww2Ni_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1915166114369462275/1781894446/1500x500",
+            "followersCount": 22,
+            "followingCount": 0,
+            "postsCount": 3,
+            "accountCreatedAt": "2025-04-23T22:09:25.078Z",
             "profileUrl": "https://x.com/lunanyxvtuber",
-            "fetchedAt": "2026-08-11T17:37:43Z"
+            "fetchedAt": "2026-08-19T16:35:12Z"
         },
         "lewdanyx": {
             "id": "1846335845948968960",
@@ -98,7 +98,7 @@
             "postsCount": 11,
             "accountCreatedAt": "2024-10-15T23:42:32.348Z",
             "profileUrl": "https://x.com/lewdanyx",
-            "fetchedAt": "2026-08-11T17:37:45Z"
+            "fetchedAt": "2026-08-19T16:35:14Z"
         }
     }
 }

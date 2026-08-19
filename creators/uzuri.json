@@ -5,35 +5,35 @@
         "login": "uzuri",
         "displayName": "Uzuri",
         "createdAt": "2014-02-20T05:39:33.161012Z",
-        "updatedAt": "2026-08-11T07:12:23.130912Z",
+        "updatedAt": "2026-08-19T04:11:13.468431Z",
         "description": "Moon Rabbit Vtuber ☾ Call me Uzu ☾ Cozy Vibes",
         "primaryColorHex": "B280FF",
         "followers": {
-            "totalCount": 24130
+            "totalCount": 24135
         },
         "follows": {
-            "totalCount": 972
+            "totalCount": 974
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T06:01:00.059907Z"
+            "startedAt": "2026-08-19T04:35:47.502862Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0ecaae8-785c-4872-835c-d5b962ce5001-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1d99966-c459-413d-bcee-f94ff7905c9c-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:51:00Z"
+        "fetchedAt": "2026-08-19T15:47:57Z"
     },
     "fansly": {
         "id": "429197666128244736",
         "username": "UzuLewds",
         "displayName": "Uzuri",
         "version": 8,
-        "followCount": 9776,
+        "followCount": 9888,
         "statusId": 1,
-        "accountMediaLikes": 13605,
-        "postLikes": 18498,
+        "accountMediaLikes": 13656,
+        "postLikes": 18595,
         "about": "Vtuber Bunny now doing hentai \nVtuber Content , IRL IN PHOTOS ONLY\nWHAT HAPPENS ON FANSLY STAYS ON FANSLY PLEASE AND THANK YOU!\n18+ \nThrone| https://throne.com/uzulewds\nSFW Throne: https://throne.com/uzurimia",
         "location": "THE MOON",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "441244624124653569",
-                    "historyId": "941640758627160064",
+                    "historyId": "945633127743631360",
                     "channelId": "441244624124653568",
                     "accountId": "429197666128244736",
                     "title": "3D BUNNY FUN",
                     "status": 1,
-                    "viewerCount": 63,
-                    "version": 3385,
+                    "viewerCount": 81,
+                    "version": 3387,
                     "createdAt": 1666695276000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786005755000,
-                    "startedAt": 1785999011000,
+                    "lastFetchedAt": 1786959341000,
+                    "startedAt": 1786950866000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:33Z"
+        "fetchedAt": "2026-08-19T16:46:48Z"
     },
     "twitter": {
         "uzurimia": {
@@ -88,12 +88,12 @@
             "description": "☽🌙🐰Moon Bunny/Neet/Otaku/Artist \n☽mama @_spatsula \n☽ General: #uzurimia \n☽ art: #UzuArts ☽ NSFW:#UzuLewds \n@gamersupps Code: UZU \n✉: Uzurimia@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2084297111495933952/neMDnO5h_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1116441560894312448/1769212116/1500x500",
-            "followersCount": 16318,
-            "followingCount": 1293,
-            "postsCount": 9532,
+            "followersCount": 16326,
+            "followingCount": 1294,
+            "postsCount": 9571,
             "accountCreatedAt": "2019-04-11T20:43:05.381Z",
             "profileUrl": "https://x.com/UzuriMia",
-            "fetchedAt": "2026-08-11T17:26:57Z"
+            "fetchedAt": "2026-08-19T16:24:12Z"
         },
         "uzulewds": {
             "id": "1001510262942392320",
@@ -102,12 +102,12 @@
             "description": "LewdTuber Bunny girl\nThe NSFW account for @UzuriMia \n🔞NSfW MINORS DNI \nfanart:#uzulewds",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1860842309484494848/objv5P3H_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1001510262942392320/1657533586/1500x500",
-            "followersCount": 1870,
+            "followersCount": 1882,
             "followingCount": 88,
-            "postsCount": 139,
+            "postsCount": 141,
             "accountCreatedAt": "2018-05-29T17:07:08.640Z",
             "profileUrl": "https://x.com/UzuLewds",
-            "fetchedAt": "2026-08-11T17:26:59Z"
+            "fetchedAt": "2026-08-19T16:24:13Z"
         }
     }
 }

@@ -5,35 +5,35 @@
         "login": "coqui",
         "displayName": "COQUI",
         "createdAt": "2021-01-09T00:09:21.483869Z",
-        "updatedAt": "2026-08-10T03:00:11.758124Z",
+        "updatedAt": "2026-08-19T02:42:41.029693Z",
         "description": "a piece of crap frog girl trying to take over the south side 🚫 sponsors, if your game has gen-ai in it, please shove my offer up your shithole since that's where it goes. 🚫",
         "primaryColorHex": "59368A",
         "followers": {
             "totalCount": 45000
         },
         "follows": {
-            "totalCount": 619
+            "totalCount": 621
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T09:05:20.099067Z"
+            "startedAt": "2026-08-19T09:19:59.320618Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d5e29fc-a14a-4d5b-861a-fff84990768f-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4827324-e616-40fd-8fe5-53e2b127606b-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T17:00:55Z"
+        "fetchedAt": "2026-08-19T15:57:56Z"
     },
     "fansly": {
         "id": "721019170665275392",
         "username": "kerogaki",
         "displayName": "kerogaki 🐸💢",
         "version": 19,
-        "followCount": 19414,
+        "followCount": 19688,
         "statusId": 3,
-        "accountMediaLikes": 14458,
-        "postLikes": 28806,
+        "accountMediaLikes": 14558,
+        "postLikes": 28946,
         "about": "im just a dumbass delinquent frog who loves to be brat broken by her masters! ♥ \ni'm kerogaki the digital pet! ♪\n꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶꒷꒦︶\n\nthe live performance aspects of content making are my passion so i put my heart into that. my own pre-made content feels inauthentc to me so don't expect too much of that. \n\nno tip menu. i like to keep things simple so we can focus on fun. ♥\n\nDMs open but i cant keep up with them. please do not expect or preasure for a reply. i am but one frog.\n\nhttp://jointhrone.com/kerogaki",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.FkVf1coy6vIU.m3u8",
                 "chatRoomId": "776634784947384320",
                 "status": 2,
-                "version": 101,
+                "version": 102,
                 "createdAt": 1746658447000,
                 "updatedAt": null,
                 "stream": {
                     "id": "776634474602438660",
-                    "historyId": "942630136199528448",
+                    "historyId": "944871359987597312",
                     "channelId": "776634474602438659",
                     "accountId": "721019170665275392",
-                    "title": "it's clussy week!",
+                    "title": "show me the ropes ehehe",
                     "status": 1,
-                    "viewerCount": 328,
-                    "version": 4996,
+                    "viewerCount": 377,
+                    "version": 4998,
                     "createdAt": 1746658448000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786244618000,
-                    "startedAt": 1786234897000,
+                    "lastFetchedAt": 1786786814000,
+                    "startedAt": 1786769247000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:52:57Z"
+        "fetchedAt": "2026-08-19T16:47:59Z"
     },
     "bluesky": {
         "did": "did:plc:6xrewlf5lchlefkmy7pmt3ts",
@@ -87,11 +87,11 @@
         "description": "18+fanart → #keroge\nMAIN → https://bsky.app/profile/coqui.3am.moe\noshimark → 🐸💢",
         "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6xrewlf5lchlefkmy7pmt3ts/bafkreigoqym2ox7nbq4jgx5lvnx7w4y3p7xxmjzqylj3i5pg5aztsxcvjq",
         "bannerImageUrl": null,
-        "followersCount": 2028,
+        "followersCount": 2043,
         "followingCount": 7,
-        "postsCount": 1238,
+        "postsCount": 1242,
         "accountCreatedAt": "2024-10-17T12:28:51.314Z",
         "profileUrl": "https://bsky.app/profile/kerogaki.bsky.social",
-        "fetchedAt": "2026-08-11T17:45:58Z"
+        "fetchedAt": "2026-08-19T16:44:20Z"
     }
 }

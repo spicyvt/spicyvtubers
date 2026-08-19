@@ -5,32 +5,32 @@
         "login": "glubbable",
         "displayName": "Glubbable",
         "createdAt": "2012-09-26T17:38:31.388168Z",
-        "updatedAt": "2026-08-09T12:40:09.644077Z",
+        "updatedAt": "2026-08-16T13:00:59.478195Z",
         "description": "I am Glubby, a Ginger Fox VTuber from Britain!",
         "primaryColorHex": "EE5E27",
         "followers": {
-            "totalCount": 65653
+            "totalCount": 65839
         },
         "follows": {
-            "totalCount": 634
+            "totalCount": 635
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-09T18:45:40.588562Z"
+            "startedAt": "2026-08-19T12:58:59.790063Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b87e83de-ad71-4460-9f5d-30469f2aeb79-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6050572-df66-411c-9491-9609b44db1bf-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:44:24Z"
+        "fetchedAt": "2026-08-19T15:41:18Z"
     },
     "fansly": {
         "id": "328249847524110336",
         "username": "Glubbable",
         "displayName": null,
         "version": 3,
-        "followCount": 61,
+        "followCount": 66,
         "statusId": 3,
         "accountMediaLikes": 0,
         "postLikes": 0,
@@ -41,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:48:25Z"
+        "fetchedAt": "2026-08-19T16:45:41Z"
     },
     "twitter": {
         "aglubbable": {
@@ -51,12 +51,12 @@
             "description": "• • @Twitch & @GamerSupps Partner 🎬🥤 • •\n• • @VRChat Pizza Fox 🗨🦊 • •\n• • Sus Acc @glubbable1 📦 • • \n• •  https://t.co/cTs6W0VnDZ • • 🦋☁",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2052575486488801283/tID_ghxg_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1518007304586682373/1776509793/1500x500",
-            "followersCount": 72513,
-            "followingCount": 589,
-            "postsCount": 6024,
+            "followersCount": 72821,
+            "followingCount": 591,
+            "postsCount": 6076,
             "accountCreatedAt": "2022-04-23T23:23:34.518Z",
             "profileUrl": "https://x.com/AGlubbable",
-            "fetchedAt": "2026-08-11T17:15:29Z"
+            "fetchedAt": "2026-08-19T16:12:54Z"
         },
         "glubbable1": {
             "id": "1332017799896715264",
@@ -65,12 +65,12 @@
             "description": "🦊 Sussy Fox 💓 VRChat Twitch Streamer 🏳️‍⚧️ She / Her 📦 \"Seiso\" Acc @AGlubbable",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2024205311167307776/zaU43thf_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1332017799896715264/1771443129/1500x500",
-            "followersCount": 54145,
+            "followersCount": 54425,
             "followingCount": 439,
-            "postsCount": 9724,
+            "postsCount": 9726,
             "accountCreatedAt": "2020-11-26T17:48:05.991Z",
             "profileUrl": "https://x.com/Glubbable1",
-            "fetchedAt": "2026-08-11T17:15:31Z"
+            "fetchedAt": "2026-08-19T16:12:56Z"
         }
     }
 }

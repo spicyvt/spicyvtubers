@@ -5,35 +5,35 @@
         "login": "hideyoshi_ryu",
         "displayName": "Hideyoshi_Ryu",
         "createdAt": "2023-09-03T00:23:53.300974Z",
-        "updatedAt": "2026-08-11T03:04:46.76589Z",
+        "updatedAt": "2026-08-19T04:55:41.935102Z",
         "description": "Im just a nerdy girl that likes games",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 626
+            "totalCount": 578
         },
         "follows": {
-            "totalCount": 70
+            "totalCount": 72
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T03:22:30.811663Z"
+            "startedAt": "2026-08-19T05:05:23.842878Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d30c0bb-077d-4fc6-a5f1-a7acfe36b6b1-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1635240f-d188-4f19-b7b0-a6937bbb1514-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:51:53Z"
+        "fetchedAt": "2026-08-19T15:48:54Z"
     },
     "fansly": {
         "id": "877828394757152768",
         "username": "Hideyoshi_Ryu",
         "displayName": null,
         "version": 2,
-        "followCount": 763,
+        "followCount": 900,
         "statusId": 1,
-        "accountMediaLikes": 661,
-        "postLikes": 165,
+        "accountMediaLikes": 741,
+        "postLikes": 206,
         "about": "Your Favorite Cotton Candy Cagon  is here ~Nya\n\nhttps://throne.com/hideyoshi_ryu\ncome join my discord https://discord.gg/adGt4CnUv2",
         "location": "Your Moms House",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "889347467995258881",
-                    "historyId": "942681822569975808",
+                    "historyId": "946266619368198144",
                     "channelId": "889347467995258880",
                     "accountId": "877828394757152768",
                     "title": "Cotton Candy Cutie ",
                     "status": 1,
-                    "viewerCount": 6,
-                    "version": 46,
+                    "viewerCount": 2,
+                    "version": 52,
                     "createdAt": 1773531319000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786252507000,
-                    "startedAt": 1786247220000,
+                    "lastFetchedAt": 1787115749000,
+                    "startedAt": 1787101902000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:49Z"
+        "fetchedAt": "2026-08-19T16:46:53Z"
     },
     "twitter": {
         "hideyoshi_ryu": {
@@ -79,12 +79,12 @@
             "description": "Your Favorite Cotton Candy Kitten is here! hi! I’m Hideyoshi a Pastel Candy Chaos VTuber who loves gaming, mischief, and slightly bullying my mods UwU.",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2077955006687334400/TtDmHxh-_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1968791613511020544/1782538792/1500x500",
-            "followersCount": 226,
-            "followingCount": 135,
-            "postsCount": 579,
+            "followersCount": 241,
+            "followingCount": 136,
+            "postsCount": 589,
             "accountCreatedAt": "2025-09-18T21:38:55.535Z",
             "profileUrl": "https://x.com/Hideyoshi_Ryu",
-            "fetchedAt": "2026-08-11T17:28:31Z"
+            "fetchedAt": "2026-08-19T16:25:43Z"
         }
     }
 }

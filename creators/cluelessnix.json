@@ -5,11 +5,11 @@
         "login": "cluelessnix",
         "displayName": "CluelessNix",
         "createdAt": "2016-08-05T18:43:08.482443Z",
-        "updatedAt": "2026-08-01T21:10:30.744116Z",
+        "updatedAt": "2026-08-18T19:39:50.363357Z",
         "description": "Please don’t tap the glass. It scares the Vtuber also don’t feed him. He bites.",
         "primaryColorHex": "FFD37A",
         "followers": {
-            "totalCount": 1939
+            "totalCount": 1936
         },
         "follows": {
             "totalCount": 596
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/32da4e0e-a814-48c0-9a90-5fe45a1d639d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8396c37-28c9-4f5b-b7c9-4990b9f11279-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:50:14Z"
+        "fetchedAt": "2026-08-19T15:47:13Z"
     },
     "fansly": {
         "id": "338485991247458305",
         "username": "CluelessNix",
         "displayName": null,
         "version": 3,
-        "followCount": 3288,
+        "followCount": 3303,
         "statusId": 1,
-        "accountMediaLikes": 1949,
-        "postLikes": 2027,
+        "accountMediaLikes": 1960,
+        "postLikes": 2037,
         "about": "Just a horny Femboy that like that attention. 👀\nI stream on twitch and on here soon! Follow for free streams and teaser and pay for exclusive content and more! \n\nI’m still figuring this out tho. ",
         "location": "",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "455112787580952577",
-                    "historyId": "934515150700945408",
+                    "historyId": "946427278676467712",
                     "channelId": "455112787580952576",
                     "accountId": "338485991247458305",
                     "title": "Lets get naughty~",
                     "status": 1,
-                    "viewerCount": 6,
-                    "version": 2727,
+                    "viewerCount": 10,
+                    "version": 2731,
                     "createdAt": 1670001704000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1784306940000,
-                    "startedAt": 1784300134000,
+                    "lastFetchedAt": 1787148773000,
+                    "startedAt": 1787140207000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:17Z"
+        "fetchedAt": "2026-08-19T16:46:37Z"
     },
     "twitter": {
         "cluelessnix": {
@@ -79,12 +79,12 @@
             "description": "Please don’t tap the glass. It scares the Vtuber also don’t feed him. He bites. Biz Email: cluelessnixvtbiz@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1944440048348246017/ay9QgcrP_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/936071872701259778/1720003794/1500x500",
-            "followersCount": 2459,
-            "followingCount": 4053,
-            "postsCount": 46037,
+            "followersCount": 2458,
+            "followingCount": 4052,
+            "postsCount": 46052,
             "accountCreatedAt": "2017-11-30T03:18:20.636Z",
             "profileUrl": "https://x.com/CluelessNix",
-            "fetchedAt": "2026-08-11T17:25:37Z"
+            "fetchedAt": "2026-08-19T16:22:55Z"
         },
         "cluelessnixr18": {
             "id": "1461149618729857027",
@@ -93,12 +93,12 @@
             "description": "Minors DNI, you must be 18+ to view this account! Just another horny femboy. SFW: @CluelessNix (Age 26 🎨@kaizer33226 DMs Open! Collabs Open!",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2076745619796832256/rEVlOG5a_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1461149618729857027/1708662457/1500x500",
-            "followersCount": 4380,
-            "followingCount": 3344,
-            "postsCount": 13858,
+            "followersCount": 4421,
+            "followingCount": 3374,
+            "postsCount": 13965,
             "accountCreatedAt": "2021-11-18T01:50:01.045Z",
             "profileUrl": "https://x.com/CluelessNixR18",
-            "fetchedAt": "2026-08-11T17:25:35Z"
+            "fetchedAt": "2026-08-19T16:22:53Z"
         }
     }
 }

@@ -5,32 +5,32 @@
         "login": "spwitevt",
         "displayName": "SpwiteVT",
         "createdAt": "2015-01-05T21:55:48.002344Z",
-        "updatedAt": "2026-08-11T04:09:49.177147Z",
+        "updatedAt": "2026-08-13T06:11:08.256682Z",
         "description": "Your favorite disorganized demonic cult leader! ✨⛓ || business email: deviousspwite@gmail.com",
         "primaryColorHex": "27346F",
         "followers": {
-            "totalCount": 16815
+            "totalCount": 16872
         },
         "follows": {
-            "totalCount": 569
+            "totalCount": 571
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T09:11:46.010441Z"
+            "startedAt": "2026-08-13T08:10:57.653022Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26fc2d5a-5f9c-4c48-ae80-2891cbe62047-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/71a90416-be93-4c64-9270-2718bb63c1ba-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:57:59Z"
+        "fetchedAt": "2026-08-19T15:55:01Z"
     },
     "fansly": {
         "id": "438748815164448768",
         "username": "darklordwaifu",
         "displayName": "Spwite ✨⛓️ VTuber",
         "version": 10,
-        "followCount": 2051,
+        "followCount": 2052,
         "statusId": 1,
         "accountMediaLikes": 1180,
         "postLikes": 803,
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:52:09Z"
+        "fetchedAt": "2026-08-19T16:47:37Z"
     },
     "twitter": {
         "spwitevt": {
@@ -88,12 +88,12 @@
             "description": "✦ your favorite demonic cult leader Vtuber! ✦ @Twitch @YouTube Partner ✦ fanart: #SpwiteRKGK ✦ H: @doshi00_ ✦ @GamerSupps @ViteRamen (code: SPWITE) ✦",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1802832804834934784/IVM7qj8r_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1065580004946272257/1729141901/1500x500",
-            "followersCount": 2972,
-            "followingCount": 319,
-            "postsCount": 14998,
+            "followersCount": 2973,
+            "followingCount": 320,
+            "postsCount": 14999,
             "accountCreatedAt": "2018-11-22T12:17:25.475Z",
             "profileUrl": "https://x.com/SpwiteVT",
-            "fetchedAt": "2026-08-11T17:37:31Z"
+            "fetchedAt": "2026-08-19T16:34:59Z"
         },
         "darklordwaifu": {
             "id": null,
@@ -107,7 +107,7 @@
             "postsCount": null,
             "accountCreatedAt": "2020-07-01T23:42:36.280Z",
             "profileUrl": "https://x.com/darklordwaifu",
-            "fetchedAt": "2026-08-11T17:37:32Z"
+            "fetchedAt": "2026-08-19T16:35:00Z"
         }
     }
 }

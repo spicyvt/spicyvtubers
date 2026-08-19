@@ -9,7 +9,7 @@
         "description": "https://linktr.ee/TadakoNyanko",
         "primaryColorHex": "F500FF",
         "followers": {
-            "totalCount": 1345
+            "totalCount": 1346
         },
         "follows": {
             "totalCount": 24
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dbb989f9-ef7b-4ad1-bc0b-58a5c29061d2-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9d6acf6-e1fc-4d5b-9df4-9a043a757b39-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:51:47Z"
+        "fetchedAt": "2026-08-19T15:48:48Z"
     },
     "fansly": {
         "id": "347550937545449472",
         "username": "NyankoTadako",
         "displayName": "Tadako Nyanko",
         "version": 9,
-        "followCount": 13122,
+        "followCount": 13771,
         "statusId": 1,
-        "accountMediaLikes": 2035,
-        "postLikes": 3153,
+        "accountMediaLikes": 2045,
+        "postLikes": 3156,
         "about": "Fansly Top 0.23% \nWill you be my Master?\n♡ Links | http://linktr.ee/TadakoNyanko\n♡ Wishlist | https://throne.com/tadakonyanko\n♡ Twitch | https://www.twitch.tv/tadakonyanko",
         "location": "Japan",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "566907081077039105",
-                    "historyId": "943571737189044224",
+                    "historyId": "946489132991918080",
                     "channelId": "566907081077039104",
                     "accountId": "347550937545449472",
                     "title": "$16 ULTRA HIGH random time ~ best way to make me squirt tip $100",
                     "status": 1,
-                    "viewerCount": 11,
-                    "version": 467,
+                    "viewerCount": 6,
+                    "version": 571,
                     "createdAt": 1696655541000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786467633000,
-                    "startedAt": 1786459392000,
+                    "lastFetchedAt": 1787156660000,
+                    "startedAt": 1787154954000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:44Z"
+        "fetchedAt": "2026-08-19T16:46:53Z"
     },
     "twitter": {
         "nyankotadako": {
@@ -88,12 +88,12 @@
             "description": "👅Indie LewdVtuber\n💦Follow for 😳🥵\n😈Top 0.23 Nyansly😈\n(Oshi Mark! 💜👾🎀)\n💢I do 99% of my model\nFan Arts #TadakoNyarts",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2012001090523303936/mCXBZPri_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1490873405498957831/1768533464/1500x500",
-            "followersCount": 4475,
-            "followingCount": 1843,
-            "postsCount": 7240,
+            "followersCount": 4469,
+            "followingCount": 1850,
+            "postsCount": 7285,
             "accountCreatedAt": "2022-02-08T02:22:24.686Z",
             "profileUrl": "https://x.com/NyankoTadako",
-            "fetchedAt": "2026-08-11T17:28:23Z"
+            "fetchedAt": "2026-08-19T16:25:35Z"
         }
     }
 }

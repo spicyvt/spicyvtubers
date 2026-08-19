@@ -5,34 +5,34 @@
         "login": "majoradragoon",
         "displayName": "MajoraDragoon",
         "createdAt": "2020-05-06T03:30:59.426447Z",
-        "updatedAt": "2026-08-11T03:41:08.814741Z",
+        "updatedAt": "2026-08-18T04:54:35.414256Z",
         "description": "Oi, I'm Majora! I'm a chaotic, goober dragon with sufficient brain rot. I stream a variety of games so come have a laugh and chat with me awhile! My stream schedule is usually Mon/Wed/Weekends at 10pm (+/-1h) CST",
         "primaryColorHex": "4010D7",
         "followers": {
-            "totalCount": 2189
+            "totalCount": 2199
         },
         "follows": {
-            "totalCount": 282
+            "totalCount": 279
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T05:59:37.911379Z"
+            "startedAt": "2026-08-18T08:00:12.889699Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1d9866b-eb78-4b83-8594-58a5ed4b7b5f-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09f7b817-4384-4966-9906-24dd757b4a0c-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:58:55Z"
+        "fetchedAt": "2026-08-19T15:55:58Z"
     },
     "fansly": {
         "id": "592654624972873728",
         "username": "MajoraDragoon",
         "displayName": "MajoraDragoon",
         "version": 17,
-        "followCount": 491,
+        "followCount": 497,
         "statusId": 3,
-        "accountMediaLikes": 19,
+        "accountMediaLikes": 20,
         "postLikes": 11,
         "about": "Goon with the Lewd Dragoon ♡\n\nLive every Saturday at 11:30 PM CST",
         "location": "",
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.aTKmOa3sMQ4l.m3u8",
                 "chatRoomId": "843075852626321408",
                 "status": 2,
-                "version": 142,
+                "version": 145,
                 "createdAt": 1762499210000,
                 "updatedAt": null,
                 "stream": {
                     "id": "843075449734057986",
-                    "historyId": "940173770050510848",
+                    "historyId": "945606920545259520",
                     "channelId": "843075449734057985",
                     "accountId": "592654624972873728",
-                    "title": "LOVENSE┃Gaming and Gooning♡",
+                    "title": "LOVENSE┃Streaming until 500!!♡",
                     "status": 1,
-                    "viewerCount": 10,
-                    "version": 74,
+                    "viewerCount": 5,
+                    "version": 76,
                     "createdAt": 1762499211000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785656522000,
-                    "startedAt": 1785649254000,
+                    "lastFetchedAt": 1786955419000,
+                    "startedAt": 1786944618000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:52:25Z"
+        "fetchedAt": "2026-08-19T16:47:43Z"
     },
     "twitter": {
         "majoradragoon": {
             "id": "1664682685308993538",
             "handle": "majoradragoon",
-            "displayName": "Majora🖤🐉 Viking Water Dragon",
+            "displayName": "Majora🖤🐉 San Japan",
             "description": "Goober Dragon with a sprinkle of brain rot✨| Aspiring VA🎙️\n\n🎨: #MajoraArt 🔞: #SpicyMajora\n\nママ: @LillyKuVT パパ: @LadyCheese1 \npfp: @Aris_Ignis",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2002677362203193344/5gmYGMHQ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1664682685308993538/1772311921/1500x500",
-            "followersCount": 472,
-            "followingCount": 460,
-            "postsCount": 673,
+            "followersCount": 473,
+            "followingCount": 462,
+            "postsCount": 674,
             "accountCreatedAt": "2023-06-02T17:17:55.460Z",
             "profileUrl": "https://x.com/MajoraDragoon",
-            "fetchedAt": "2026-08-11T17:39:05Z"
+            "fetchedAt": "2026-08-19T16:36:36Z"
         },
         "darkmodemajora": {
             "id": "1898924076187435009",
@@ -94,11 +94,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1999523757107331078/jcEdrsI2_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1898924076187435009/1765558514/1500x500",
             "followersCount": 81,
-            "followingCount": 63,
-            "postsCount": 57,
+            "followingCount": 64,
+            "postsCount": 59,
             "accountCreatedAt": "2025-03-10T02:29:42.728Z",
             "profileUrl": "https://x.com/darkmodemajora",
-            "fetchedAt": "2026-08-11T17:39:07Z"
+            "fetchedAt": "2026-08-19T16:36:38Z"
         }
     }
 }

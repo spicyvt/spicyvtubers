@@ -5,25 +5,25 @@
         "login": "cyphi",
         "displayName": "Cyphi",
         "createdAt": "2018-07-10T07:51:01.170254Z",
-        "updatedAt": "2026-08-07T10:53:17.431432Z",
+        "updatedAt": "2026-08-19T04:29:23.549201Z",
         "description": "cat that plays games (mainly horror & simulation)",
         "primaryColorHex": "452D70",
         "followers": {
-            "totalCount": 5438
+            "totalCount": 5486
         },
         "follows": {
-            "totalCount": 191
+            "totalCount": 192
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-07T10:52:54.548956Z"
+            "startedAt": "2026-08-19T04:28:03.719276Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aeba1fa9-e373-4a3a-82f5-dd6aedb725d8-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba1c15dd-1a08-4941-8551-b576301c1f84-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:57:07Z"
+        "fetchedAt": "2026-08-19T15:54:10Z"
     },
     "twitter": {
         "cyphinya": {
@@ -33,12 +33,12 @@
             "description": "Horror & Retro VTuber (💜🥀)\n⚜Twitch Partner ⚜ @DubbyEnergy: CYPHI For 10% OFF\n🎨 #labcatart | 🔞 #cyphiholic | 📼 #clipphi\n⚜  ⚜\nママ: @swallkoi | パパ: @yoonaboona",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1995847238593998848/r8gKW6TU_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1203100591557357568/1767539780/1500x500",
-            "followersCount": 1122,
-            "followingCount": 526,
-            "postsCount": 2289,
+            "followersCount": 1128,
+            "followingCount": 525,
+            "postsCount": 2297,
             "accountCreatedAt": "2019-12-06T23:55:23.374Z",
             "profileUrl": "https://x.com/Cyphinya",
-            "fetchedAt": "2026-08-11T17:36:06Z"
+            "fetchedAt": "2026-08-19T16:33:34Z"
         }
     },
     "rplay": {
@@ -62,6 +62,6 @@
         "customUrl": "cyphi",
         "channelImage": "https://pb2.rplay.live/pics/aebed7495bfc496759a41c1062970516",
         "streamStartTime": "2026-02-14T22:02:24.000Z",
-        "fetchedAt": "2026-08-18T18:20:58Z"
+        "fetchedAt": "2026-08-19T16:49:57Z"
     }
 }

@@ -9,19 +9,19 @@
         "keywords": "",
         "profileImageUrl": "https://yt3.googleusercontent.com/WYY11BfC62vVejOdVgpA6Rd3pBaXHkWDgUlE9G-ppVzJ4Nuvcvstttj-QFKi7q6Jm9uLO8CPWbs=h300",
         "bannerImageUrl": "https://yt3.googleusercontent.com/ca71Pa3UFPR9ZiETkk7d2MB9T7tXq31K1W8nafIT4ikauHbHlDaz2qK5txsS1lB2sMM41hLfrQ=h480",
-        "subscriberCountText": "15.4K subscribers",
+        "subscriberCountText": "15.5K subscribers",
         "videoCountText": "120 videos",
-        "fetchedAt": "2026-08-11T16:56:12Z"
+        "fetchedAt": "2026-08-19T15:53:12Z"
     },
     "fansly": {
         "id": "544473857784819712",
         "username": "remukira",
         "displayName": "Remukia",
         "version": 18,
-        "followCount": 43874,
+        "followCount": 44211,
         "statusId": 1,
-        "accountMediaLikes": 34953,
-        "postLikes": 16615,
+        "accountMediaLikes": 35254,
+        "postLikes": 16753,
         "about": "Remukira レム Cosplay | Vtuber\n🐶 momochan ~ “remu” is here\nThis place will be filled with love♥️\nYou will see what makes your heart beat\n\n✨Pls follow me\nwe will become more intimate💋\n\n♥ Updates almost daily\n♥ Exclusive photos&videos\n♥ Cosplay content\n♥️ Masturbate content\n♥ Private messages\n\n💗 Thank for your support 💦",
         "location": "Thailand",
         "streaming": {
@@ -37,26 +37,34 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "724963302660120577",
-                    "historyId": "941386650729066496",
+                    "historyId": "946479257922580480",
                     "channelId": "724963302660120576",
                     "accountId": "544473857784819712",
                     "title": "REMUKIRA Lewd live",
                     "status": 1,
-                    "viewerCount": 91,
-                    "version": 7473,
+                    "viewerCount": 54,
+                    "version": 7481,
                     "createdAt": 1734339080000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785943778000,
-                    "startedAt": 1785938427000,
+                    "lastFetchedAt": 1787153677000,
+                    "startedAt": 1787152599000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "941382174857248768",
+                                "id": "943941128955117568",
                                 "streamId": "724963302660120577",
                                 "type": 0,
-                                "flags": 2,
+                                "flags": 4,
                                 "price": 0,
-                                "metadata": ""
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "943941128955117569",
+                                "streamId": "724963302660120577",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":3000}\"}"
                             }
                         ]
                     }
@@ -66,7 +74,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:53Z"
+        "fetchedAt": "2026-08-19T16:47:26Z"
     },
     "twitter": {
         "remukiramamy": {
@@ -76,12 +84,12 @@
             "description": "🐾 Panda & Pandy\nTwo fluffy troublemakers. 🐶🤍\nDaily life • Training • Adventures\n#remupups",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2054727104542212096/-ZyrL3Bu_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2054376498342322176/1784103276/1500x500",
-            "followersCount": 3812,
+            "followersCount": 3834,
             "followingCount": 20,
             "postsCount": 95,
             "accountCreatedAt": "2026-05-13T01:42:42.506Z",
             "profileUrl": "https://x.com/Remukiramamy",
-            "fetchedAt": "2026-08-11T17:34:34Z"
+            "fetchedAt": "2026-08-19T16:32:03Z"
         },
         "remukiradiary": {
             "id": "1638451405668356096",
@@ -90,12 +98,12 @@
             "description": "Vtuber: @Remukiramamy \n\nHi, call me Remu Looking for a 5’1” 🍑 42-inch cutie? That’s me ,I adore everyone who supports me 🤍🩵",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2052938600761917440/O0SJypKa_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1638451405668356096/1783423578/1500x500",
-            "followersCount": 111117,
-            "followingCount": 204,
-            "postsCount": 3284,
+            "followersCount": 111068,
+            "followingCount": 205,
+            "postsCount": 3305,
             "accountCreatedAt": "2023-03-22T08:04:02.298Z",
             "profileUrl": "https://x.com/Remukiradiary",
-            "fetchedAt": "2026-08-11T17:34:30Z"
+            "fetchedAt": "2026-08-19T16:31:59Z"
         },
         "remukirav": {
             "id": "1453296454639001608",
@@ -104,12 +112,12 @@
             "description": "Cosplayer: VtuberTH ☆ เจ้านายน้อยของพวกทาสหมา แง่ม! 🐶🍑Hashtags: #Remumo mama: @monoland27 papa: @Alchiaki_n",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1483365605256626176/YOTthwXl_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1453296454639001608/1677304885/1500x500",
-            "followersCount": 35185,
-            "followingCount": 209,
-            "postsCount": 3576,
+            "followersCount": 35127,
+            "followingCount": 208,
+            "postsCount": 3580,
             "accountCreatedAt": "2021-10-27T09:44:26.081Z",
             "profileUrl": "https://x.com/RemukiraV",
-            "fetchedAt": "2026-08-11T17:34:32Z"
+            "fetchedAt": "2026-08-19T16:32:01Z"
         }
     }
 }

@@ -5,11 +5,11 @@
         "login": "zaelvr",
         "displayName": "ZaelVR",
         "createdAt": "2020-03-03T12:26:54.383305Z",
-        "updatedAt": "2026-08-07T17:14:13.449899Z",
+        "updatedAt": "2026-08-14T11:43:50.323649Z",
         "description": "Welcome, welcome! I'm Zael. I am a mute streamer who mainly streams VRChat~",
         "primaryColorHex": "FF6BE4",
         "followers": {
-            "totalCount": 686
+            "totalCount": 685
         },
         "follows": {
             "totalCount": 147
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ace6f1a1-75c9-43df-ad00-501105cf6e12-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6eff46d7-d060-4f65-bf0b-c3ff1ccdb187-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:43:08Z"
+        "fetchedAt": "2026-08-19T15:39:56Z"
     },
     "fansly": {
         "id": "426520449585782784",
         "username": "ZaelVR",
         "displayName": "Zael. ~",
         "version": 6,
-        "followCount": 2616,
+        "followCount": 2617,
         "statusId": 3,
-        "accountMediaLikes": 1530,
-        "postLikes": 1729,
+        "accountMediaLikes": 1553,
+        "postLikes": 1733,
         "about": "One day I might know where to go with this.\n\nBut until then, enjoy your stay, hot stuff. <3\n\n\n\n\nEverything of course taken in CVR! ~",
         "location": "Your wildest dreams",
         "streaming": {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:47:53Z"
+        "fetchedAt": "2026-08-19T16:45:25Z"
     },
     "twitter": {
         "zaelvr": {
@@ -88,12 +88,12 @@
             "description": "Small muted Imp.  💜\nMINORS DNI 🔞\n\nThrone - https://t.co/MhUneU3HsN",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1700298655394066432/bd8Dk2qp_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1311073686213070849/1774708528/1500x500",
-            "followersCount": 9587,
-            "followingCount": 1734,
-            "postsCount": 1515,
+            "followersCount": 9634,
+            "followingCount": 1740,
+            "postsCount": 1518,
             "accountCreatedAt": "2020-09-29T22:41:55.224Z",
             "profileUrl": "https://x.com/ZaelVR",
-            "fetchedAt": "2026-08-11T17:12:59Z"
+            "fetchedAt": "2026-08-19T16:10:25Z"
         }
     }
 }

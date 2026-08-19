@@ -5,11 +5,11 @@
         "login": "briarthornevr",
         "displayName": "BriarThorneVR",
         "createdAt": "2014-07-16T00:39:19.107873Z",
-        "updatedAt": "2026-07-28T20:55:48.598846Z",
+        "updatedAt": "2026-08-17T11:04:33.404853Z",
         "description": "Briar is an autistic, transgender, v-tuber catgirl! I love anime, nerdcore, and gaming. Bring chill vibes or perish! Please be nice to me!~ https://thrn.co/u/zaynakitty",
         "primaryColorHex": "60418D",
         "followers": {
-            "totalCount": 1706
+            "totalCount": 1707
         },
         "follows": {
             "totalCount": 1223
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-28T23:27:07.04357Z"
+            "startedAt": "2026-08-17T11:39:14.388553Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/63538f65-e6a5-428a-bedb-6405772dffce-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a77103-4c85-4ba8-979e-b338c9d14b74-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:53:37Z"
+        "fetchedAt": "2026-08-19T15:50:40Z"
     },
     "fansly": {
         "id": "688873025117892608",
         "username": "ZaynaKitty",
         "displayName": null,
         "version": 3,
-        "followCount": 76,
-        "statusId": 3,
+        "followCount": 79,
+        "statusId": 1,
         "accountMediaLikes": 156,
-        "postLikes": 86,
+        "postLikes": 87,
         "about": "Part-Time V-Tuber, Full-time Catgirl\nA little catgirl thing whose pronouns are It/Its\nDisabled kitty trying to thrive, maybe give it a few dollars so it can eat better, nya?~",
         "location": "",
         "streaming": {
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:16Z"
+        "fetchedAt": "2026-08-19T16:47:04Z"
     },
     "twitter": {
         "briarthornevr": {
@@ -81,10 +81,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/778517270071021568/1776997630/1500x500",
             "followersCount": 772,
             "followingCount": 1520,
-            "postsCount": 13201,
+            "postsCount": 13208,
             "accountCreatedAt": "2016-09-21T08:52:36.151Z",
             "profileUrl": "https://x.com/BriarThorneVR",
-            "fetchedAt": "2026-08-11T17:30:58Z"
+            "fetchedAt": "2026-08-19T16:28:15Z"
         }
     },
     "bluesky": {
@@ -94,11 +94,11 @@
         "description": "Our name is Briar, nice to meet you!~ \nWe're a shapeshifting cait sidhe (keht-shee) v-tuber who frequently dwells in VRChat, does event videography, has a podcast, hosts Cait Sidhe Radio, and makes music!~",
         "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hd76wqyedb52npe6a2ng35qk/bafkreigfsz2lzmrvg3bcr4kgezorbu2nvfmq7iyhohnw52coscn3d3msra",
         "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:hd76wqyedb52npe6a2ng35qk/bafkreichch6sst5wdcj5xpaisc62jpqtbvnovobd5cfiwjuukxnnlxp2cm",
-        "followersCount": 353,
+        "followersCount": 355,
         "followingCount": 372,
-        "postsCount": 724,
+        "postsCount": 726,
         "accountCreatedAt": "2023-09-27T19:23:33.060Z",
         "profileUrl": "https://bsky.app/profile/zaynakitty.tv",
-        "fetchedAt": "2026-08-11T17:45:34Z"
+        "fetchedAt": "2026-08-19T16:43:55Z"
     }
 }

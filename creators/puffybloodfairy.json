@@ -5,32 +5,32 @@
         "login": "puffybloodfairy",
         "displayName": "Puffybloodfairy",
         "createdAt": "2016-10-27T23:53:32.715564Z",
-        "updatedAt": "2026-08-11T01:16:52.735684Z",
+        "updatedAt": "2026-08-16T19:05:12.62998Z",
         "description": "Vtuber I'm a variety streamer. I play mostly rpgs of some sort. I go by Puffy. Please be respectful on my channel. Any business inquiries email me at puffybloodfairy@gmail.com ",
         "primaryColorHex": "4C0100",
         "followers": {
-            "totalCount": 1828
+            "totalCount": 1824
         },
         "follows": {
-            "totalCount": 708
+            "totalCount": 709
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-09T21:45:59.664142Z"
+            "startedAt": "2026-08-16T21:45:31.320868Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5af3e07-7697-4a21-a0c4-da233ae74a4b-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec02ffde-707d-4cf9-ba6c-0292ee0b6ffc-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:51:01Z"
+        "fetchedAt": "2026-08-19T15:47:58Z"
     },
     "fansly": {
         "id": "448782969235054592",
         "username": "Puffybloodfairy",
         "displayName": "Puffybloodfairy",
         "version": 3,
-        "followCount": 193,
+        "followCount": 194,
         "statusId": 1,
         "accountMediaLikes": 65,
         "postLikes": 164,
@@ -44,24 +44,33 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.LdNDDQErU5dQ.m3u8",
                 "chatRoomId": "484964514270294016",
                 "status": 2,
-                "version": 11,
+                "version": 12,
                 "createdAt": 1677118885000,
                 "updatedAt": null,
                 "stream": {
                     "id": "484964410960388097",
-                    "historyId": "941877132307492865",
+                    "historyId": "944068215036719104",
                     "channelId": "484964410960388096",
                     "accountId": "448782969235054592",
-                    "title": "Rivals while vibrating",
+                    "title": "Trying new games",
                     "status": 1,
                     "viewerCount": 1,
-                    "version": 7508,
+                    "version": 7516,
                     "createdAt": 1677118886000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786066831000,
-                    "startedAt": 1786055367000,
+                    "lastFetchedAt": 1786582771000,
+                    "startedAt": 1786577762000,
                     "permissions": {
-                        "permissionFlags": []
+                        "permissionFlags": [
+                            {
+                                "id": "944065888271736832",
+                                "streamId": "484964410960388097",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
                     }
                 },
                 "arn": null,
@@ -69,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:33Z"
+        "fetchedAt": "2026-08-19T16:46:48Z"
     },
     "twitter": {
         "puffybloodfairy": {
@@ -79,12 +88,12 @@
             "description": "-18+ NSFW   MDNI\n-Spicy Himbo Shapeshifter\nTwitch/Fansly\n🎨: #bloodfairyart",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1983512554409213953/S7BPGJK7_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1295721567431929872/1758051803/1500x500",
-            "followersCount": 1519,
-            "followingCount": 1196,
-            "postsCount": 11207,
+            "followersCount": 1522,
+            "followingCount": 1198,
+            "postsCount": 11219,
             "accountCreatedAt": "2020-08-18T13:58:02.702Z",
             "profileUrl": "https://x.com/puffybloodfairy",
-            "fetchedAt": "2026-08-11T17:27:01Z"
+            "fetchedAt": "2026-08-19T16:24:15Z"
         }
     }
 }

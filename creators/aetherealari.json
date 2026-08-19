@@ -5,11 +5,11 @@
         "login": "aetherealari",
         "displayName": "AetherealAri",
         "createdAt": "2018-01-15T20:58:38.00807Z",
-        "updatedAt": "2026-08-06T18:57:49.527336Z",
+        "updatedAt": "2026-08-17T20:42:59.650279Z",
         "description": "A little angelic Jackalope who wants to be here for you~ ASMR, gaming here and there and just being a gremlin or a caring waifu~",
         "primaryColorHex": "47CCFF",
         "followers": {
-            "totalCount": 19955
+            "totalCount": 19943
         },
         "follows": {
             "totalCount": 169
@@ -19,21 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-06T23:04:09.593601Z"
+            "startedAt": "2026-08-17T22:13:41.203971Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/72935f9b-344c-47e3-9454-31700b2e435d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/37c60ebc-0696-449e-9994-b01137f30cfb-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:50:52Z"
+        "fetchedAt": "2026-08-19T15:47:51Z"
     },
     "fansly": {
         "id": "919853809201586177",
         "username": "AetherealAri",
         "displayName": null,
         "version": 2,
-        "followCount": 1813,
+        "followCount": 1919,
         "statusId": 1,
-        "accountMediaLikes": 1613,
-        "postLikes": 2275,
+        "accountMediaLikes": 1669,
+        "postLikes": 2350,
         "about": "Silly Jackalope, sometimes a silly space pirate or puppy girl, just wanting to make you feel good and happy every day~ Come play with me ;)",
         "location": "",
         "streaming": {
@@ -44,33 +44,24 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oI4bZROKha1r.m3u8",
                 "chatRoomId": "930296921115873281",
                 "status": 2,
-                "version": 15,
+                "version": 16,
                 "createdAt": 1782432840000,
                 "updatedAt": null,
                 "stream": {
                     "id": "926683151231639553",
-                    "historyId": "941921869043351552",
+                    "historyId": "945902688413949954",
                     "channelId": "926683151231639552",
                     "accountId": "919853809201586177",
-                    "title": "How long can you make me suffer?",
+                    "title": "Back from my trip! Let's goon!",
                     "status": 1,
-                    "viewerCount": 58,
-                    "version": 24,
+                    "viewerCount": 98,
+                    "version": 26,
                     "createdAt": 1782432840000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786074936000,
-                    "startedAt": 1786066033000,
+                    "lastFetchedAt": 1787026886000,
+                    "startedAt": 1787015134000,
                     "permissions": {
-                        "permissionFlags": [
-                            {
-                                "id": "941565528084869120",
-                                "streamId": "926683151231639553",
-                                "type": 0,
-                                "flags": 2,
-                                "price": 0,
-                                "metadata": ""
-                            }
-                        ]
+                        "permissionFlags": []
                     }
                 },
                 "arn": null,
@@ -78,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:28Z"
+        "fetchedAt": "2026-08-19T16:46:42Z"
     },
     "twitter": {
         "aetherealari": {
@@ -88,12 +79,12 @@
             "description": "Ari ENVtuber | she/her | 18+ |Partner| FanArt: #AetherArty\n/Art:@nantokutan\n/ Rig:@MintyCosmos",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1906130654229630976/xzGNbF9l_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1362501089384275969/1780945216/1500x500",
-            "followersCount": 3231,
+            "followersCount": 3245,
             "followingCount": 535,
-            "postsCount": 8415,
+            "postsCount": 8426,
             "accountCreatedAt": "2021-02-18T20:36:03.567Z",
             "profileUrl": "https://x.com/AetherealAri",
-            "fetchedAt": "2026-08-11T17:26:40Z"
+            "fetchedAt": "2026-08-19T16:23:59Z"
         }
     },
     "rplay": {
@@ -119,6 +110,6 @@
         "customUrl": "aetherealari",
         "channelImage": "https://pb2.rplay.live/pics/f1468496f1728ad450b3d3538b3bcb2e",
         "streamStartTime": null,
-        "fetchedAt": "2026-08-18T18:20:26Z"
+        "fetchedAt": "2026-08-19T16:49:15Z"
     }
 }

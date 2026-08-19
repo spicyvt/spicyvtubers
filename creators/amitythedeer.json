@@ -5,11 +5,11 @@
         "login": "amitythedeer",
         "displayName": "amitythedeer",
         "createdAt": "2014-12-21T07:25:33.070868Z",
-        "updatedAt": "2026-07-24T01:37:11.695213Z",
+        "updatedAt": "2026-08-12T02:03:38.867222Z",
         "description": "hey there im amity. a slowly growing Vtuber! Model made by SugarbombVR https://twitter.com/sugarbombvr Outfit and current body type setup by Zaibitez rigged for warudo by Spaceynerd",
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 193
+            "totalCount": 194
         },
         "follows": {
             "totalCount": 147
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5e2b162-1f44-4ae7-8ebf-99c7279a77b1-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa2e83f0-7746-4b83-aece-dabce9bb6996-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:52:37Z"
+        "fetchedAt": "2026-08-19T15:49:37Z"
     },
     "fansly": {
         "id": "508090083581112320",
         "username": "AmityDeerWhore",
         "displayName": null,
         "version": 4,
-        "followCount": 3632,
+        "followCount": 3644,
         "statusId": 1,
-        "accountMediaLikes": 13433,
-        "postLikes": 18248,
+        "accountMediaLikes": 13435,
+        "postLikes": 18253,
         "about": "🦌 Artificer Witch deer\n🎥 Whenever I'm feeling like it.\n💜 Hope you enjoy & see you around~ \n\nOther links 👉 https://linktr.ee/amitythedeer\n",
         "location": "VR",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NRruznyIiDBd.m3u8",
                 "chatRoomId": "553191016031596544",
                 "status": 2,
-                "version": 92,
+                "version": 96,
                 "createdAt": 1686572469000,
                 "updatedAt": null,
                 "stream": {
                     "id": "524615614866665473",
-                    "historyId": "931831101696000000",
+                    "historyId": "944503541530112001",
                     "channelId": "524615614866665472",
                     "accountId": "508090083581112320",
-                    "title": "Sex bot online~",
+                    "title": "Sex bot online~ Collab with @XanderDigital",
                     "status": 1,
-                    "viewerCount": 17,
-                    "version": 8277,
+                    "viewerCount": 8,
+                    "version": 8283,
                     "createdAt": 1686572469000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1783661587000,
-                    "startedAt": 1783660207000,
+                    "lastFetchedAt": 1786692713000,
+                    "startedAt": 1786681552000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:00Z"
+        "fetchedAt": "2026-08-19T16:46:59Z"
     },
     "twitter": {
         "amitythedeer": {
@@ -79,12 +79,12 @@
             "description": "25, female, she/her\nA deer lewdtuber~\nhttps://t.co/8xCVYZVjwF my throne\n@amitythedeer.bsky.social on bluesky\nMinors will be blocked.",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2085920616939692032/7-UNvRxC_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/986890318183149569/1786157480/1500x500",
-            "followersCount": 1886,
-            "followingCount": 471,
-            "postsCount": 5416,
+            "followersCount": 1890,
+            "followingCount": 475,
+            "postsCount": 5469,
             "accountCreatedAt": "2018-04-19T08:52:42.161Z",
             "profileUrl": "https://x.com/AmitytheDeer",
-            "fetchedAt": "2026-08-11T17:29:37Z"
+            "fetchedAt": "2026-08-19T16:26:51Z"
         }
     },
     "bluesky": {
@@ -94,11 +94,11 @@
         "description": "24, female, she/her\nA deer lewdtuber~\ncollabs open\nMinors will be blocked.\nLink to my fansly ^^ https://fansly.com/AmityDeerWhore/posts\nAll my socials linktr.ee/amitythedeer",
         "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:txhy5b4tzku67pm3rctzlgf7/bafkreibzfs57kemsicvz3cp5ststm7akdlausoknc4pwstcwopm4pcgs6a",
         "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:txhy5b4tzku67pm3rctzlgf7/bafkreide7b2vlxzkugakook3twzsufmwyapczjnv5nbxbdy6afoayvl4aa",
-        "followersCount": 689,
+        "followersCount": 688,
         "followingCount": 276,
-        "postsCount": 307,
+        "postsCount": 310,
         "accountCreatedAt": "2023-09-19T09:08:21.455Z",
         "profileUrl": "https://bsky.app/profile/amitythedeer.bsky.social",
-        "fetchedAt": "2026-08-11T17:45:15Z"
+        "fetchedAt": "2026-08-19T16:43:38Z"
     }
 }

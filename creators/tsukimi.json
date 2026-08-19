@@ -5,35 +5,35 @@
         "login": "tsukimi",
         "displayName": "Tsukimi",
         "createdAt": "2025-10-03T06:00:13.346149Z",
-        "updatedAt": "2026-08-11T04:26:31.903777Z",
+        "updatedAt": "2026-08-19T14:16:42.876721Z",
         "description": "welcome to orbit! ☄️ I'm Tsuki┊✉ Tsukimiorbit@gmail.com",
         "primaryColorHex": "94B5FC",
         "followers": {
-            "totalCount": 10535
+            "totalCount": 10861
         },
         "follows": {
-            "totalCount": 384
+            "totalCount": 381
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-06T06:52:35.602359Z"
+            "startedAt": "2026-08-19T11:34:28.228643Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1acadb75-c3c7-4eba-b109-c6b4e8c17ef3-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34dbb3e8-e1c3-4bc4-8810-a10eccd79d82-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:56:42Z"
+        "fetchedAt": "2026-08-19T15:53:44Z"
     },
     "fansly": {
         "id": "871295879934398465",
         "username": "tsukimittv",
         "displayName": "Tsukimi",
         "version": 6,
-        "followCount": 1788,
+        "followCount": 1849,
         "statusId": 3,
-        "accountMediaLikes": 275,
-        "postLikes": 280,
+        "accountMediaLikes": 276,
+        "postLikes": 285,
         "about": "vtuber ✮ streamer\n✮ content creator ✮\n-♡´──────── 💙 ────────♡´-\nSpoil me, nya? \nhttps://ko-fi.com/tsukimittv\nhttps://throne.com/tsukimittv\n\nJoin the Orbit for updates!\nhttps://discord.gg/tsukimi\n\nOther places to catch me at?\nhttps://linktr.ee/tsukimittv\n-♡´──────── 💙 ────────♡´-\n\nDo NOT redistribute content found on this page.\n© Tsukimittv 2026. Enforced by bruqi",
         "location": "twitch.tv/tsukimi",
         "streaming": {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:58Z"
+        "fetchedAt": "2026-08-19T16:47:32Z"
     },
     "twitter": {
         "tsukimittv": {
@@ -88,12 +88,12 @@
             "description": "neurospicy l 👽 space gremlin #vtuber | @Twitch / @KICK Partner l https://t.co/Qex9bxgmIK l 🎨 #tsukimiorbit ♡",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2081458148138012673/8fzrdb7u_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2010771341360979968/1779097974/1500x500",
-            "followersCount": 293,
+            "followersCount": 299,
             "followingCount": 0,
-            "postsCount": 157,
+            "postsCount": 170,
             "accountCreatedAt": "2026-01-12T17:50:34.153Z",
             "profileUrl": "https://x.com/tsukimittv",
-            "fetchedAt": "2026-08-11T17:35:29Z"
+            "fetchedAt": "2026-08-19T16:32:57Z"
         }
     },
     "rplay": {
@@ -116,7 +116,7 @@
         "isLivestreamer": true,
         "customUrl": "tsukimi",
         "channelImage": "https://pb2.rplay.live/pics/aa62b4e171aec45c492a9833fa9e4fb0",
-        "streamStartTime": "2026-08-13T06:18:54.851Z",
-        "fetchedAt": "2026-08-18T18:20:46Z"
+        "streamStartTime": "2026-08-19T05:32:54.511Z",
+        "fetchedAt": "2026-08-19T16:49:43Z"
     }
 }

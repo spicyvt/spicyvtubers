@@ -5,35 +5,35 @@
         "login": "toxzicmelody",
         "displayName": "toxzicmelody",
         "createdAt": "2020-04-10T00:45:14.548382Z",
-        "updatedAt": "2026-08-07T16:06:17.331617Z",
+        "updatedAt": "2026-08-17T22:23:27.679695Z",
         "description": "I'M BEING CRUCIFIED",
         "primaryColorHex": "D1FFCC",
         "followers": {
-            "totalCount": 725
+            "totalCount": 746
         },
         "follows": {
-            "totalCount": 550
+            "totalCount": 552
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T16:39:10.145455Z"
+            "startedAt": "2026-08-14T17:27:02.303172Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02368d19-7b30-4425-aa72-89e74779409b-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7098b0-3a47-46fd-8ff2-097a73d0af3f-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:52:06Z"
+        "fetchedAt": "2026-08-19T15:49:08Z"
     },
     "fansly": {
         "id": "872419188860272640",
         "username": "ToxzicMelody",
         "displayName": null,
         "version": 18,
-        "followCount": 1025,
+        "followCount": 1470,
         "statusId": 1,
-        "accountMediaLikes": 419,
-        "postLikes": 320,
+        "accountMediaLikes": 485,
+        "postLikes": 394,
         "about": "🍈I'm not very smart!\n🍈I hope you enjoy my content~ \n🍈MWAH!\n\nContent made in CVR and Unity!\n\nlinktr.ee/toxzicmelody",
         "location": "under your desk~",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.cKaKIDveLX0u.m3u8",
                 "chatRoomId": "934111855155105792",
                 "status": 2,
-                "version": 12,
+                "version": 15,
                 "createdAt": 1784203943000,
                 "updatedAt": null,
                 "stream": {
                     "id": "934111697877094401",
-                    "historyId": "943601122348646400",
+                    "historyId": "945787652974587904",
                     "channelId": "934111697877094400",
                     "accountId": "872419188860272640",
-                    "title": "i need to be quiet again, come bully? :3",
-                    "status": 2,
-                    "viewerCount": 56,
-                    "version": 9,
+                    "title": "make me squirm and shake :3 ( +bell collar )",
+                    "status": 1,
+                    "viewerCount": 78,
+                    "version": 14,
                     "createdAt": 1784203943000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786470644000,
-                    "startedAt": 1786466398000,
+                    "lastFetchedAt": 1786997505000,
+                    "startedAt": 1786987708000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:54Z"
+        "fetchedAt": "2026-08-19T16:46:53Z"
     },
     "twitter": {
         "toxzicmel_vr": {
@@ -88,12 +88,12 @@
             "description": "🔞\n18+\nShe/Her\nPupkitty Girl\nEditor, Prod, Musician, GD, Photo Editor, allat\n\nSuggestive made in Unity!\nI am 19! \n\nAvatar: \nFIYA by @zelfinez\nPFP: @araravilano",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2037219716658561025/IrL0yJNT_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1951530271574204419/1754116216/1500x500",
-            "followersCount": 1620,
+            "followersCount": 1629,
             "followingCount": 767,
-            "postsCount": 4637,
+            "postsCount": 4589,
             "accountCreatedAt": "2025-08-02T06:27:44.835Z",
             "profileUrl": "https://x.com/ToxzicMel_VR",
-            "fetchedAt": "2026-08-11T17:28:55Z"
+            "fetchedAt": "2026-08-19T16:26:07Z"
         }
     }
 }

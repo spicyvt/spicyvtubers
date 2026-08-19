@@ -5,35 +5,35 @@
         "login": "murdercrumpet",
         "displayName": "MurderCrumpet",
         "createdAt": "2018-11-22T03:28:37.647364Z",
-        "updatedAt": "2026-08-10T20:51:47.930875Z",
+        "updatedAt": "2026-08-18T20:37:59.563529Z",
         "description": "I'm Crumpet! Snort when I laugh, love sugar, and I talk too fast! Peek in for a neat time! Contact: MurderCrumpet@mythictalent.com ",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 121546
+            "totalCount": 121630
         },
         "follows": {
-            "totalCount": 339
+            "totalCount": 341
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T02:14:03.360963Z"
+            "startedAt": "2026-08-19T02:01:40.914664Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc444111-c887-4842-8dbc-4e2ac8088eba-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1c8e2c1-2a59-471f-823e-4b197ecb182e-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:46:01Z"
+        "fetchedAt": "2026-08-19T15:43:00Z"
     },
     "fansly": {
         "id": "365768984844316672",
         "username": "MurderCrumpet",
         "displayName": null,
         "version": 8,
-        "followCount": 7824,
+        "followCount": 7887,
         "statusId": 3,
-        "accountMediaLikes": 1900,
-        "postLikes": 2159,
+        "accountMediaLikes": 1915,
+        "postLikes": 2198,
         "about": "I'm Crumpet! I do the kind of content you'd expect from an anime girl streamer here!",
         "location": "Hopefully your main monitor!",
         "streaming": {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:48:57Z"
+        "fetchedAt": "2026-08-19T16:45:58Z"
     },
     "twitter": {
         "murdercrumpet": {
@@ -88,12 +88,12 @@
             "description": "I'm Crumpet!\nhttps://t.co/0yrTOhBdry\nVtuber sorta and VR freak\nUse #crumpart so I can see your creations!",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1750399628766314496/ukO5NGiD_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1135478604949667840/1727985749/1500x500",
-            "followersCount": 33196,
+            "followersCount": 33393,
             "followingCount": 303,
-            "postsCount": 2456,
+            "postsCount": 2459,
             "accountCreatedAt": "2019-06-03T09:29:30.382Z",
             "profileUrl": "https://x.com/MurderCrumpet",
-            "fetchedAt": "2026-08-11T17:18:20Z"
+            "fetchedAt": "2026-08-19T16:15:45Z"
         }
     }
 }

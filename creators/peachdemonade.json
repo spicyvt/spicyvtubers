@@ -5,7 +5,7 @@
         "login": "peachdemonade",
         "displayName": "peachdemonade",
         "createdAt": "2021-05-21T07:23:56.855823Z",
-        "updatedAt": "2026-08-08T03:01:50.156406Z",
+        "updatedAt": "2026-08-13T03:13:06.569568Z",
         "description": "Your favourite bratty demon sent to take over humanity is now playing games",
         "primaryColorHex": "75C9C8",
         "followers": {
@@ -23,7 +23,7 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66580d80-1aeb-421e-aacf-8758842b9890-profile_image-300x300.png",
         "bannerImageUrl": null,
-        "fetchedAt": "2026-08-11T16:52:54Z"
+        "fetchedAt": "2026-08-19T15:49:56Z"
     },
     "fansly": {
         "id": "881015063022956544",
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:05Z"
+        "fetchedAt": "2026-08-19T16:47:04Z"
     },
     "twitter": {
         "kelliaafterdark": {
@@ -79,12 +79,12 @@
             "description": "18+ · MINORS DNI\n\ndemon vtuber · adult",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2068567185891471360/BaFvn7bk_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2017780630893813761/1782019219/1500x500",
-            "followersCount": 25,
+            "followersCount": 27,
             "followingCount": 31,
-            "postsCount": 260,
+            "postsCount": 264,
             "accountCreatedAt": "2026-02-01T02:03:02.330Z",
             "profileUrl": "https://x.com/kelliaafterdark",
-            "fetchedAt": "2026-08-11T17:30:08Z"
+            "fetchedAt": "2026-08-19T16:27:21Z"
         },
         "peachdemonade": {
             "id": "1985210055537623040",
@@ -93,12 +93,12 @@
             "description": "your favourite bratty demon\n\n #LizMetaCustomizableVtuber",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2047720956219580416/lSXzI4PX_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1985210055537623040/1767066905/1500x500",
-            "followersCount": 197,
+            "followersCount": 189,
             "followingCount": 199,
-            "postsCount": 726,
+            "postsCount": 735,
             "accountCreatedAt": "2025-11-03T04:59:05.697Z",
             "profileUrl": "https://x.com/peachdemonade",
-            "fetchedAt": "2026-08-11T17:30:06Z"
+            "fetchedAt": "2026-08-19T16:27:20Z"
         }
     }
 }

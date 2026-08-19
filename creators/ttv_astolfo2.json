@@ -5,25 +5,25 @@
         "login": "ttv_astolfo2",
         "displayName": "ttv_astolfo2",
         "createdAt": "2019-10-06T13:46:14.003736Z",
-        "updatedAt": "2026-08-10T17:03:20.905673Z",
+        "updatedAt": "2026-08-18T21:13:12.701255Z",
         "description": "hi im astolfo and i stream any game i have installed and also make sure to check at my wishlist at https://throne.com/ttv_astolfo",
         "primaryColorHex": "AE1392",
         "followers": {
-            "totalCount": 201
+            "totalCount": 200
         },
         "follows": {
-            "totalCount": 303
+            "totalCount": 305
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T00:57:46.922011Z"
+            "startedAt": "2026-08-19T03:19:35.94035Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1661ba15-6605-4b45-8220-6dbf7bfff424-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31d44ecf-965c-417c-8a5d-36de4b80d463-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:50:47Z"
+        "fetchedAt": "2026-08-19T15:47:47Z"
     },
     "fansly": {
         "id": "520871989242507264",
@@ -32,8 +32,8 @@
         "version": 3,
         "followCount": 5,
         "statusId": 1,
-        "accountMediaLikes": 0,
-        "postLikes": 0,
+        "accountMediaLikes": 8,
+        "postLikes": 8,
         "about": "I’m a very sussy cat doing sussy things more content soon so make sure to follow",
         "location": "",
         "streaming": {
@@ -41,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:28Z"
+        "fetchedAt": "2026-08-19T16:46:42Z"
     },
     "twitter": {
         "ttv_astolfo660": {
@@ -51,12 +51,12 @@
             "description": "cat girl png twitch creator content creator weird @twitch affiliated 193 followers and a cool dude use code TTV_Astolfo at @waifuwaresUK\npfp by @kuromoggyart1",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2043477609447563264/y77cpFjY_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1508528713541070856/1781219126/1500x500",
-            "followersCount": 301,
-            "followingCount": 669,
-            "postsCount": 1776,
+            "followersCount": 300,
+            "followingCount": 671,
+            "postsCount": 1783,
             "accountCreatedAt": "2022-03-28T19:37:37.953Z",
             "profileUrl": "https://x.com/TTV_Astolfo660",
-            "fetchedAt": "2026-08-11T17:26:30Z"
+            "fetchedAt": "2026-08-19T16:23:48Z"
         },
         "ttvastolfonsfw": {
             "id": "1610212328431050753",
@@ -65,12 +65,12 @@
             "description": "a very sussy cat main is @TTV_Astolfo660 any art please use #ttvastolfoNSFWart MINORS DNI",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1986670596579586048/nJrIQRyq_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1610212328431050753/1762223227/1500x500",
-            "followersCount": 26,
-            "followingCount": 205,
-            "postsCount": 78,
+            "followersCount": 28,
+            "followingCount": 206,
+            "postsCount": 80,
             "accountCreatedAt": "2023-01-03T09:52:02.258Z",
             "profileUrl": "https://x.com/TTVAstolfoNSFW",
-            "fetchedAt": "2026-08-11T17:26:32Z"
+            "fetchedAt": "2026-08-19T16:23:50Z"
         }
     }
 }

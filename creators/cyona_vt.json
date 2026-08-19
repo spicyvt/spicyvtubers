@@ -5,35 +5,35 @@
         "login": "cyona_vt",
         "displayName": "Cyona_VT",
         "createdAt": "2025-04-23T04:19:19.855314Z",
-        "updatedAt": "2026-08-10T20:34:11.375572Z",
+        "updatedAt": "2026-08-17T20:00:54.213836Z",
         "description": "Cyona, Maned Wolf VTuber  ─ ⊹ ⊱ 🐟 ⊰ ⊹ ─ Business E-mail: contact@cyona.gg",
         "primaryColorHex": "A9BBCC",
         "followers": {
-            "totalCount": 519
+            "totalCount": 524
         },
         "follows": {
-            "totalCount": 529
+            "totalCount": 533
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T21:51:57.558136Z"
+            "startedAt": "2026-08-17T21:28:41.705245Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee15191-a4c7-4c5b-8e24-50cf20e7535d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dfce9402-51a6-4a90-986e-5b678258962b-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T17:01:55Z"
+        "fetchedAt": "2026-08-19T15:58:56Z"
     },
     "fansly": {
         "id": "904033203147255808",
         "username": "cyonavt",
         "displayName": "Cyona",
         "version": 9,
-        "followCount": 77,
+        "followCount": 133,
         "statusId": 1,
-        "accountMediaLikes": 39,
-        "postLikes": 51,
+        "accountMediaLikes": 60,
+        "postLikes": 71,
         "about": "⊹ ࣪ ˖ Free Lewd Streams Twice a Month for Followers! ˖  ࣪⊹\n⊹ ࣪ ˖ Current Lovense Toys: Lush 3, Domi 2, Ferri ˖  ࣪⊹\n\nThe Switch Powerhouse Camgirl of 15 Years turned Maned Wolf Vtuber\n\n── .✦ All Links & Credits: https://www.cyona.gg\n── .✦ Twitch: https://www.twitch.tv/cyona_vt\n── .✦ Throne: https://www.throne.com/cyonavt\n",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Z9zgO0wqkddP.m3u8",
                 "chatRoomId": "939245349636173824",
                 "status": 2,
-                "version": 2,
+                "version": 3,
                 "createdAt": 1785427877000,
                 "updatedAt": null,
                 "stream": {
                     "id": "939245249765588993",
-                    "historyId": null,
+                    "historyId": "944844176816631808",
                     "channelId": "939245249765588992",
                     "accountId": "904033203147255808",
-                    "title": "",
+                    "title": "First Stream on Fansly!",
                     "status": 1,
-                    "viewerCount": 0,
-                    "version": 0,
+                    "viewerCount": 2,
+                    "version": 2,
                     "createdAt": 1785427878000,
                     "updatedAt": null,
-                    "lastFetchedAt": null,
-                    "startedAt": null,
+                    "lastFetchedAt": 1786774309000,
+                    "startedAt": 1786762766000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -86,7 +86,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:53:18Z"
+        "fetchedAt": "2026-08-19T16:48:10Z"
     },
     "twitter": {
         "cyonavt": {
@@ -97,11 +97,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2077877805539266560/goUfar6i_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2077877409873850368/1785506482/1500x500",
             "followersCount": 131,
-            "followingCount": 44,
-            "postsCount": 7,
+            "followingCount": 45,
+            "postsCount": 10,
             "accountCreatedAt": "2026-07-16T22:07:07.426Z",
             "profileUrl": "https://x.com/CyonaVT",
-            "fetchedAt": "2026-08-11T17:43:52Z"
+            "fetchedAt": "2026-08-19T16:41:33Z"
         }
     }
 }

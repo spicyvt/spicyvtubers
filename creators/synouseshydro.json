@@ -5,35 +5,35 @@
         "login": "synouseshydro",
         "displayName": "SynoUsesHydro",
         "createdAt": "2021-05-16T17:07:07.858878Z",
-        "updatedAt": "2026-08-07T01:24:00.000619Z",
+        "updatedAt": "2026-08-18T18:13:32.027499Z",
         "description": "Hi! I'm Syno! I'm a Vtuber, Gamer, and all around silly goofy girl. Join me as I play games of all types, have adventures with friends, and make terrible jokes!",
         "primaryColorHex": "AA58D8",
         "followers": {
-            "totalCount": 671
+            "totalCount": 675
         },
         "follows": {
-            "totalCount": 73
+            "totalCount": 74
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-07T04:45:44.384812Z"
+            "startedAt": "2026-08-18T22:04:06.760115Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc30c7f2-92d0-4509-afb2-7c0429e04aa7-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1553dba8-3697-4e04-be9b-3a7c11014aa3-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:55:42Z"
+        "fetchedAt": "2026-08-19T15:52:43Z"
     },
     "fansly": {
         "id": "608477572296093696",
         "username": "SynoXXX",
         "displayName": "Syno",
         "version": 7,
-        "followCount": 20361,
+        "followCount": 20462,
         "statusId": 3,
-        "accountMediaLikes": 23005,
-        "postLikes": 27154,
+        "accountMediaLikes": 23074,
+        "postLikes": 27233,
         "about": "Heya I'm Syno! I play video games and take VR photos. I'm also a lover of anime, cats, and dinosaur facts. If any of that interests you then I encourage you to stay a while. \n\n** I reserve the right to block or revoke links for people who abuse me in any form. I am not a plastic toy, I am a human being. Please act respectfully and lets treat each other with kindness! **\n\nAll my socials:\nhttps://synouseshydro.carrd.co/\n",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.T1Acor0oVnpE.m3u8",
                 "chatRoomId": "610366405925150721",
                 "status": 2,
-                "version": 804,
+                "version": 807,
                 "createdAt": 1706904651000,
                 "updatedAt": null,
                 "stream": {
                     "id": "609894966398820353",
-                    "historyId": "943032254072897536",
+                    "historyId": "946305201353019395",
                     "channelId": "609894966398820352",
                     "accountId": "608477572296093696",
-                    "title": "GAMBA GAMBA GAMBA! - $5 Spins - $15 Big Spins - !socials - !menu",
+                    "title": "Dinos & Chill- $5 Spins - $10 Big Spins - !socials - !menu",
                     "status": 1,
-                    "viewerCount": 5,
-                    "version": 3476,
+                    "viewerCount": 17,
+                    "version": 3484,
                     "createdAt": 1706904652000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786470531000,
-                    "startedAt": 1786330770000,
+                    "lastFetchedAt": 1787116002000,
+                    "startedAt": 1787111101000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:42Z"
+        "fetchedAt": "2026-08-19T16:47:21Z"
     },
     "twitter": {
         "synouseshydro": {
@@ -88,12 +88,12 @@
             "description": "For all my socials:\nhttps://t.co/nk3qWLtiw1\n\nBusiness email: SynoUsesHydro@gmail.com\n\nDhydratedpucci - Vtuber Artist\nnaraaa_x - Vtuber Rigger & Artist",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2000740321244876800/C3uErcuE_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1775574472474628096/1745544532/1500x500",
-            "followersCount": 1615,
+            "followersCount": 1619,
             "followingCount": 123,
-            "postsCount": 1518,
+            "postsCount": 1528,
             "accountCreatedAt": "2024-04-03T17:22:09.307Z",
             "profileUrl": "https://x.com/SynoUsesHydro",
-            "fetchedAt": "2026-08-11T17:33:44Z"
+            "fetchedAt": "2026-08-19T16:31:12Z"
         }
     }
 }

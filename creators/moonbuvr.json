@@ -5,35 +5,35 @@
         "login": "moonbuvr",
         "displayName": "MoonBuVR",
         "createdAt": "2024-03-30T05:22:37.265679Z",
-        "updatedAt": "2026-08-11T00:06:44.362996Z",
+        "updatedAt": "2026-08-18T22:01:54.578082Z",
         "description": "Just a lil tiger c:",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 16643
+            "totalCount": 17034
         },
         "follows": {
-            "totalCount": 172
+            "totalCount": 173
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T02:56:13.380719Z"
+            "startedAt": "2026-08-19T03:03:34.940112Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d049255-fcac-4b19-9df7-6befd60e7cde-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b00d995d-1579-46d8-9140-963a822ff3e1-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:52:48Z"
+        "fetchedAt": "2026-08-19T15:49:50Z"
     },
     "fansly": {
         "id": "850696671787511808",
         "username": "MoonBu",
         "displayName": null,
         "version": 4,
-        "followCount": 11626,
+        "followCount": 11756,
         "statusId": 3,
-        "accountMediaLikes": 14538,
-        "postLikes": 6462,
+        "accountMediaLikes": 15064,
+        "postLikes": 6734,
         "about": "ღ Your Favorite Ferocious Tiger ღ\n\nღ Streams every Saturday (7:30PM EST) ღ\n\nღ 3-4 posts Weekly ღ",
         "location": "",
         "streaming": {
@@ -86,7 +86,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:05Z"
+        "fetchedAt": "2026-08-19T16:47:04Z"
     },
     "twitter": {
         "moonbuvr": {
@@ -101,7 +101,7 @@
             "postsCount": null,
             "accountCreatedAt": "2024-03-30T05:27:05.522Z",
             "profileUrl": "https://x.com/MoonBuVR",
-            "fetchedAt": "2026-08-11T17:29:56Z"
+            "fetchedAt": "2026-08-19T16:27:09Z"
         }
     }
 }

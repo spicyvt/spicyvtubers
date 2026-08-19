@@ -23,25 +23,53 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9901a096-44a0-47b9-aff5-3dc42a9c4e6c-profile_image-300x300.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7671e6ed-c43e-43db-b4f8-c7687728baf7-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:59:42Z"
+        "fetchedAt": "2026-08-19T15:56:45Z"
     },
     "fansly": {
         "id": "923650964819300352",
         "username": "MissMiradessa",
         "displayName": "Aria",
         "version": 32,
-        "followCount": 36,
+        "followCount": 55,
         "statusId": 1,
-        "accountMediaLikes": 6,
-        "postLikes": 10,
+        "accountMediaLikes": 9,
+        "postLikes": 19,
         "about": "Let me welcome you to the dark.~ \n\n🌸 18+ Adult Content\n🌸 Fansly Exclusive Content\n🌸 IRL/2D/Audio/Livestream Content\n🌸 Custom Photos \n🌸Submissive/Brat (But can occasionally switch)\n🌸Chubby\n🌸Sweet as sin\n",
         "location": "",
         "streaming": {
             "accountId": "923650964819300352",
-            "channel": null,
+            "channel": {
+                "id": "944797566220906496",
+                "accountId": "923650964819300352",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.rYKYHcCGQZFC.m3u8",
+                "chatRoomId": "944798603812036609",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1786751653000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "944797566220906497",
+                    "historyId": "944805323154145280",
+                    "channelId": "944797566220906496",
+                    "accountId": "923650964819300352",
+                    "title": "🌸Valorant: Strip Version🌸",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2,
+                    "createdAt": 1786751653000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786754231000,
+                    "startedAt": 1786753502000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:52:41Z"
+        "fetchedAt": "2026-08-19T16:47:48Z"
     },
     "twitter": {
         "missmiradessa": {

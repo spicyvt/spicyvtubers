@@ -5,32 +5,32 @@
         "login": "cana",
         "displayName": "Cana",
         "createdAt": "2023-06-03T00:15:20.725444Z",
-        "updatedAt": "2026-08-11T16:37:53.755121Z",
+        "updatedAt": "2026-08-18T22:21:32.008856Z",
         "description": "Silly succky succubus ♡",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 29029
+            "totalCount": 29177
         },
         "follows": {
-            "totalCount": 1439
+            "totalCount": 1442
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T15:41:23.523891Z"
+            "startedAt": "2026-08-17T20:22:52.614333Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cf522aa-027c-46ce-aa0f-1c56dd0096ea-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b2ae235-e9c5-42fc-a7f6-96ccc3586008-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:38:48Z"
+        "fetchedAt": "2026-08-19T15:35:23Z"
     },
     "fansly": {
         "id": "516101044002893825",
         "username": "CanariaVTuber",
         "displayName": "Cana",
-        "version": 25,
-        "followCount": 7384,
+        "version": 26,
+        "followCount": 7395,
         "statusId": 1,
         "accountMediaLikes": 2265,
         "postLikes": 991,
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:46:21Z"
+        "fetchedAt": "2026-08-19T16:44:36Z"
     },
     "twitter": {
         "canariavtuber": {
@@ -79,12 +79,12 @@
             "description": "♡ @Twitch Partner \n♡ Butterfly Succubus VTuber \n♡ママ ‣ @ijacray82 | Live 2D ‣ @suiika___ \n♡ Links : https://t.co/g5tY6c7fMZ \n🎨#CanariaDraw | 🔞#CanariSus",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1959755250048368640/w2whiHVS_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1541758542746640384/1771274448/1500x500",
-            "followersCount": 60042,
-            "followingCount": 1653,
-            "postsCount": 17882,
+            "followersCount": 60166,
+            "followingCount": 1660,
+            "postsCount": 17933,
             "accountCreatedAt": "2022-06-28T12:21:12.519Z",
             "profileUrl": "https://x.com/CanariaVTuber",
-            "fetchedAt": "2026-08-11T17:04:19Z"
+            "fetchedAt": "2026-08-19T16:01:41Z"
         },
         "susnaria": {
             "id": "919346549557268480",
@@ -93,12 +93,12 @@
             "description": "NSFW account of @CanariaVTuber \nMinors stay away \nSocials : https://t.co/oB8VHkSuNj",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1969755469737500672/weyjuvRL_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/919346549557268480/1758461276/1500x500",
-            "followersCount": 36099,
-            "followingCount": 807,
-            "postsCount": 17292,
+            "followersCount": 36052,
+            "followingCount": 806,
+            "postsCount": 17294,
             "accountCreatedAt": "2017-10-14T23:37:52.867Z",
             "profileUrl": "https://x.com/Susnaria",
-            "fetchedAt": "2026-08-11T17:04:20Z"
+            "fetchedAt": "2026-08-19T16:01:43Z"
         }
     }
 }

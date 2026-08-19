@@ -5,25 +5,25 @@
         "login": "viola",
         "displayName": "Viola",
         "createdAt": "2020-01-25T10:49:49.367277Z",
-        "updatedAt": "2026-07-26T21:34:17.082022Z",
+        "updatedAt": "2026-08-14T21:41:28.149204Z",
         "description": "*:･ﾟ✧Catgirl Vtuber  ≽^•⩊•^≼丨 Business Email: violaontwitch@gmail.com *:･ﾟ✧",
         "primaryColorHex": "C8CDF6",
         "followers": {
-            "totalCount": 7776
+            "totalCount": 7797
         },
         "follows": {
-            "totalCount": 313
+            "totalCount": 314
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-03T01:44:49.485065Z"
+            "startedAt": "2026-08-13T02:15:19.665754Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/46a6af53-5a6b-4653-83eb-dd484d91b1ee-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a6a646f-eb22-4a55-b688-36288e92d766-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:56:36Z"
+        "fetchedAt": "2026-08-19T15:53:38Z"
     },
     "fansly": {
         "id": "744433404396707840",
@@ -41,14 +41,14 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:58Z"
+        "fetchedAt": "2026-08-19T16:47:26Z"
     },
     "twitter": {
         "violaethereal": {
             "id": null,
             "handle": "violaethereal",
-            "displayName": "Viola 🪻",
-            "description": "Twitch Partner丨PFP: @kimu_arts  |Header by: @Kimu_Arts | socials: https://t.co/W4iquoYZSm Business email: violaontwitch@gmail.com",
+            "displayName": "Viola",
+            "description": "Twitch Partner丨PFP: @kimu_arts |Header by: @Kimu_Arts |",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2004596710740221952/Khs8mB4v_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/103594313/1725756009/1500x500",
             "followersCount": null,
@@ -56,7 +56,7 @@
             "postsCount": null,
             "accountCreatedAt": "2010-01-10T15:31:38.000Z",
             "profileUrl": "https://x.com/ViolaEthereal",
-            "fetchedAt": "2026-08-11T17:35:21Z"
+            "fetchedAt": "2026-08-19T16:32:48Z"
         },
         "lustfulviola": {
             "id": null,
@@ -70,7 +70,7 @@
             "postsCount": null,
             "accountCreatedAt": "2025-02-04T18:30:40.492Z",
             "profileUrl": "https://x.com/LustfulViola",
-            "fetchedAt": "2026-08-11T17:35:22Z"
+            "fetchedAt": "2026-08-19T16:32:50Z"
         }
     },
     "rplay": {
@@ -93,6 +93,6 @@
         "customUrl": null,
         "channelImage": null,
         "streamStartTime": null,
-        "fetchedAt": "2026-08-18T18:20:42Z"
+        "fetchedAt": "2026-08-19T16:49:37Z"
     }
 }

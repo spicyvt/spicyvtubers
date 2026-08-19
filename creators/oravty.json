@@ -5,11 +5,11 @@
         "login": "oravty",
         "displayName": "Oravty",
         "createdAt": "2015-07-18T06:04:36.181777Z",
-        "updatedAt": "2026-08-10T11:45:34.987441Z",
+        "updatedAt": "2026-08-17T19:08:04.499979Z",
         "description": "eCat",
         "primaryColorHex": "00C7AC",
         "followers": {
-            "totalCount": 3603
+            "totalCount": 3605
         },
         "follows": {
             "totalCount": 403
@@ -19,11 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T17:21:43.274587Z"
+            "startedAt": "2026-08-17T22:33:07.699804Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fb487b8-0a47-4baf-bed4-cc2a204d1869-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ef21c5f-16fa-43a9-b934-d89f2a2f0afe-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T17:02:14Z"
+        "fetchedAt": "2026-08-19T15:59:15Z"
     },
     "fansly": {
         "id": "773114409064083456",
@@ -41,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:53:24Z"
+        "fetchedAt": "2026-08-19T16:48:15Z"
     },
     "twitter": {
         "oravty": {
@@ -51,12 +51,12 @@
             "description": "eCat 🔞\nhttps://t.co/DQ61uUG0YB",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1930824472929476608/MM-9bOT1_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/4809933208/1643747067/1500x500",
-            "followersCount": 2905,
-            "followingCount": 1670,
-            "postsCount": 1437,
+            "followersCount": 2893,
+            "followingCount": 1672,
+            "postsCount": 1436,
             "accountCreatedAt": "2016-01-15T02:25:26.548Z",
             "profileUrl": "https://x.com/Oravty",
-            "fetchedAt": "2026-08-11T17:44:20Z"
+            "fetchedAt": "2026-08-19T16:42:01Z"
         }
     }
 }

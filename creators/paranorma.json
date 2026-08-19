@@ -5,11 +5,11 @@
         "login": "paranorma",
         "displayName": "ParaNorma",
         "createdAt": "2018-09-18T01:30:26.972983Z",
-        "updatedAt": "2026-08-05T20:54:14.436237Z",
+        "updatedAt": "2026-08-17T20:53:07.585031Z",
         "description": "spoopy girl in a spoopy world",
         "primaryColorHex": "0FFF00",
         "followers": {
-            "totalCount": 21226
+            "totalCount": 21210
         },
         "follows": {
             "totalCount": 173
@@ -19,18 +19,18 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-05T22:55:44.662524Z"
+            "startedAt": "2026-08-17T23:39:59.297028Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c28fb82a-04c3-4cc5-8e83-ee24bc83a29d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7bf8fc-355d-4136-a912-446a6fdaf888-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:44:58Z"
+        "fetchedAt": "2026-08-19T15:41:53Z"
     },
     "fansly": {
         "id": "644077438170570752",
         "username": "secretsubject",
         "displayName": null,
         "version": 3,
-        "followCount": 722,
+        "followCount": 723,
         "statusId": 1,
         "accountMediaLikes": 41,
         "postLikes": 59,
@@ -41,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:48:35Z"
+        "fetchedAt": "2026-08-19T16:45:47Z"
     },
     "twitter": {
         "paranormavt": {
@@ -51,12 +51,12 @@
             "description": "Singer of songs, player of retro games, runawayer of ghosts. 😱😳  \nArt: @FangW_CMS | L2D: @iinneo | Art Tag #ghostiegallery \n\nhttps://t.co/Luf4ZFCUFh",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1984825960513114112/_C2s4qSI_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1589577982913323008/1762054301/1500x500",
-            "followersCount": 14750,
-            "followingCount": 932,
-            "postsCount": 6136,
+            "followersCount": 14723,
+            "followingCount": 931,
+            "postsCount": 6145,
             "accountCreatedAt": "2022-11-07T11:18:25.930Z",
             "profileUrl": "https://x.com/ParaNormaVT",
-            "fetchedAt": "2026-08-11T17:16:35Z"
+            "fetchedAt": "2026-08-19T16:13:58Z"
         },
         "secretsubject_": {
             "id": "1403886697708879872",
@@ -65,12 +65,12 @@
             "description": "🔞She/Her🏳️‍🌈 Chaotic ASMR Domme, NSFW VA and hypnokinky switch! \nThat voice inside your head.\n🎨: @FangW_CMS\n⚙️: @bogiewogi\n3d: @vt_Luma\nSFW: @ParaNormaVT",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2030830046672535552/be6bfXKu_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1403886697708879872/1716268561/1500x500",
-            "followersCount": 43247,
+            "followersCount": 43430,
             "followingCount": 602,
-            "postsCount": 14456,
+            "postsCount": 14499,
             "accountCreatedAt": "2021-06-13T01:31:10.284Z",
             "profileUrl": "https://x.com/SecretSubject_",
-            "fetchedAt": "2026-08-11T17:16:33Z"
+            "fetchedAt": "2026-08-19T16:13:56Z"
         }
     }
 }

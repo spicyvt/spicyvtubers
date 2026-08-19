@@ -5,35 +5,35 @@
         "login": "buffpup",
         "displayName": "Buffpup",
         "createdAt": "2011-05-23T01:27:01.246512Z",
-        "updatedAt": "2026-08-10T18:58:37.773855Z",
+        "updatedAt": "2026-08-19T14:11:17.68833Z",
         "description": " I am a werewolf VTuber who laughs at herself way too much!!",
         "primaryColorHex": "FF772E",
         "followers": {
-            "totalCount": 332777
+            "totalCount": 332939
         },
         "follows": {
-            "totalCount": 408
+            "totalCount": 409
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T18:58:17.885912Z"
+            "startedAt": "2026-08-17T19:12:29.546207Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/08c950cb-ca10-4b0d-b22e-78ae1b66bc52-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e7ea8e7-3457-493b-84c7-bb8baabdc2aa-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:42:22Z"
+        "fetchedAt": "2026-08-19T15:39:06Z"
     },
     "fansly": {
         "id": "720480858510729216",
         "username": "Buffpup",
         "displayName": null,
         "version": 5,
-        "followCount": 59284,
+        "followCount": 59390,
         "statusId": 1,
-        "accountMediaLikes": 48458,
-        "postLikes": 47689,
+        "accountMediaLikes": 48811,
+        "postLikes": 47916,
         "about": "✨ WELCOME TO MY FANSLY, EVERY PUP! ✨\nThis is my page for NSFW Art, Comics, WIPs, Speed Paints, Streams, and all things lewd!\n\nHere's what you need to know about me:\n🦴 VTuber + Streamer\n🦴 Monster Girl\n🦴  Smut Artist\n🦴  Whatever else I wanna do!!\n\nI DO check my messages here, so you can DM me to chat and hang out, but I like to keep things pretty low key so be respectful and chill!\nThanks for being here! 🐾",
         "location": "MourningWood",
         "streaming": {
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:47:37Z"
+        "fetchedAt": "2026-08-19T16:45:14Z"
     },
     "twitter": {
         "buffpup_": {
@@ -79,12 +79,12 @@
             "description": "Werewolf VTuber 🦴 | Barking @VCHIBAN | 🎨#Buffpup 🔞#Ruffpup | Chugging @GamerSupps code: PUP | 📧 buffpup@vchiban.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2079970021506174976/wjnigBK5_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/462371646/1765135535/1500x500",
-            "followersCount": 257921,
+            "followersCount": 258251,
             "followingCount": 815,
-            "postsCount": 44525,
+            "postsCount": 44581,
             "accountCreatedAt": "2012-01-12T21:58:03.000Z",
             "profileUrl": "https://x.com/Buffpup_",
-            "fetchedAt": "2026-08-11T17:11:33Z"
+            "fetchedAt": "2026-08-19T16:08:58Z"
         },
         "ruffpup_": {
             "id": "1822068753858809856",
@@ -93,12 +93,12 @@
             "description": "Official NSFW account of @Buffpup_ 🔞#Ruffpup",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1927561842097844224/jIUBmm_v_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1822068753858809856/1747449439/1500x500",
-            "followersCount": 38958,
+            "followersCount": 39095,
             "followingCount": 4,
             "postsCount": 248,
             "accountCreatedAt": "2024-08-10T00:34:04.045Z",
             "profileUrl": "https://x.com/Ruffpup_",
-            "fetchedAt": "2026-08-11T17:11:35Z"
+            "fetchedAt": "2026-08-19T16:08:59Z"
         }
     }
 }

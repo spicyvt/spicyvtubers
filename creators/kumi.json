@@ -5,35 +5,35 @@
         "login": "kumi",
         "displayName": "kumi",
         "createdAt": "2016-12-18T14:37:51.977666Z",
-        "updatedAt": "2026-08-11T05:45:55.368387Z",
+        "updatedAt": "2026-08-18T21:30:02.625343Z",
         "description": "I'M KUMI! I'm a Harpy VTuber! Weekly Schedule in Discord! | BUSINESS: kumivt.business@gmail.com",
         "primaryColorHex": "87C77E",
         "followers": {
-            "totalCount": 137254
+            "totalCount": 138581
         },
         "follows": {
-            "totalCount": 483
+            "totalCount": 487
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-08T20:21:42.083015Z"
+            "startedAt": "2026-08-19T03:38:22.249797Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62727b18-e686-4c6a-8b99-234668ac32bc-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/12d02cb9-6af7-4eeb-a889-189c3f61346b-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:59:40Z"
+        "fetchedAt": "2026-08-19T15:56:43Z"
     },
     "fansly": {
         "id": "727295653553643521",
         "username": "remuki",
         "displayName": "remu 🍒",
         "version": 17,
-        "followCount": 6344,
+        "followCount": 6369,
         "statusId": 3,
-        "accountMediaLikes": 10137,
-        "postLikes": 16496,
+        "accountMediaLikes": 10169,
+        "postLikes": 16652,
         "about": "✧ 𝙖 𝙥𝙪𝙥𝙥𝙮'𝙨 𝙛𝙪𝙣 𝙥𝙡𝙖𝙘𝙚 🐶 ✧ \nhello! I am remu, I post NSFW art, occasional irl and love hearing your dirty thoughts 🖤\n",
         "location": "",
         "streaming": {
@@ -41,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:52:36Z"
+        "fetchedAt": "2026-08-19T16:47:48Z"
     },
     "twitter": {
         "kumivt": {
@@ -51,12 +51,12 @@
             "description": "🪴 INDIE HARPY VTUBER ⇀ Partnered @Twitch 🌲 art; #kumiilust | @GamerSupps code: KUMI 🌿 credits + socials https://t.co/kge8brBfEt",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1984624321810100224/5yZgDGCZ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/707617381674315777/1763586702/1500x500",
-            "followersCount": 68736,
-            "followingCount": 867,
-            "postsCount": 9271,
+            "followersCount": 69137,
+            "followingCount": 877,
+            "postsCount": 9302,
             "accountCreatedAt": "2016-03-09T17:21:45.511Z",
             "profileUrl": "https://x.com/KumiVT",
-            "fetchedAt": "2026-08-11T17:40:21Z"
+            "fetchedAt": "2026-08-19T16:37:54Z"
         },
         "remuki_": {
             "id": "1856714809107996672",
@@ -65,12 +65,12 @@
             "description": "🔞🖤 just a girl that really loves her puppy oc",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2082343507067387904/xRk5WUDc_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1856714809107996672/1781762278/1500x500",
-            "followersCount": 44107,
-            "followingCount": 100,
-            "postsCount": 743,
+            "followersCount": 44137,
+            "followingCount": 102,
+            "postsCount": 722,
             "accountCreatedAt": "2024-11-13T15:05:07.133Z",
             "profileUrl": "https://x.com/remuki_",
-            "fetchedAt": "2026-08-11T17:40:23Z"
+            "fetchedAt": "2026-08-19T16:37:56Z"
         }
     }
 }

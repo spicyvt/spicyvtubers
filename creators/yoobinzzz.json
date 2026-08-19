@@ -9,10 +9,10 @@
         "description": "Meow?",
         "primaryColorHex": "906DC5",
         "followers": {
-            "totalCount": 2262
+            "totalCount": 2260
         },
         "follows": {
-            "totalCount": 374
+            "totalCount": 375
         },
         "roles": {
             "isPartner": false,
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce62f898-fd4f-48b3-8821-bbbbfce26b8e-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d51c10cd-6ffd-474f-bb55-feb2ef9e9cd3-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:43:34Z"
+        "fetchedAt": "2026-08-19T15:40:24Z"
     },
     "fansly": {
         "id": "665581578734284801",
         "username": "Yoobinz",
         "displayName": "Yoobin",
         "version": 11,
-        "followCount": 34718,
+        "followCount": 34929,
         "statusId": 3,
-        "accountMediaLikes": 26720,
-        "postLikes": 21932,
+        "accountMediaLikes": 26879,
+        "postLikes": 21968,
         "about": "> 𝘐 𝘮𝘦𝘰𝘸 𝘸𝘩𝘦𝘯 𝘐 𝘤𝘶𝘮 💜🐈‍⬛\n\nWelcome to my cat lair ♡\n​🇴​​🇸​​🇭​​🇮​ ​🇲​​🇦​​🇷​​🇰​💜🐈‍⬛\n\n- I can cum endlessly, no breaks needed!\n- I will worship your dick, always.\n- Touch me everywhere please.\n\n* ALL STREAMS ARE FREE TO WATCH *\n\nAll content is under copyright. Any and all infrigement will prosecuted. \n\nI also reserve the right to block/ban anyone at my own discretion. If you are banned/blocked here, you will be blocked on any of my other platforms!\n\nSee more of me:\nhttps://allmylinks.com/yoo-binz\n\nEnforced by bruqi.com.",
         "location": "",
         "streaming": {
@@ -44,26 +44,26 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.B9McXwzkE14G.m3u8",
                 "chatRoomId": "706168953054961664",
                 "status": 2,
-                "version": 342,
+                "version": 345,
                 "createdAt": 1729857846000,
                 "updatedAt": null,
                 "stream": {
                     "id": "706167644197232641",
-                    "historyId": "941868146455748608",
+                    "historyId": "946225406841724928",
                     "channelId": "706167644197232640",
                     "accountId": "665581578734284801",
-                    "title": "Paws at you :3 PiShock on! - !throne !discord",
+                    "title": "Paws at you - !tipmenu",
                     "status": 1,
-                    "viewerCount": 152,
-                    "version": 8461,
+                    "viewerCount": 209,
+                    "version": 8471,
                     "createdAt": 1729857846000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786060449000,
-                    "startedAt": 1786053225000,
+                    "lastFetchedAt": 1787097409000,
+                    "startedAt": 1787092077000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "941845556366426114",
+                                "id": "946201490333130753",
                                 "streamId": "706167644197232641",
                                 "type": 0,
                                 "flags": 2,
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:48:03Z"
+        "fetchedAt": "2026-08-19T16:45:31Z"
     },
     "twitter": {
         "yoobinz": {
@@ -88,12 +88,12 @@
             "description": "💜🖤 I make videos and stream for a living Content made in CVR, Blender and Unity.\nBusiness inquiries: yoobinzvr@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2079566586722086912/4DEya2dL_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3928256380/1713971309/1500x500",
-            "followersCount": 13135,
-            "followingCount": 983,
-            "postsCount": 6103,
+            "followersCount": 13167,
+            "followingCount": 997,
+            "postsCount": 6113,
             "accountCreatedAt": "2015-10-11T13:50:57.427Z",
             "profileUrl": "https://x.com/yoobinz",
-            "fetchedAt": "2026-08-11T17:13:50Z"
+            "fetchedAt": "2026-08-19T16:11:15Z"
         }
     }
 }

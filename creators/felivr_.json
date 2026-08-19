@@ -30,10 +30,10 @@
         "username": "FeliVR",
         "displayName": "Feli ",
         "version": 13,
-        "followCount": 27733,
+        "followCount": 28838,
         "statusId": 3,
-        "accountMediaLikes": 21583,
-        "postLikes": 22897,
+        "accountMediaLikes": 21633,
+        "postLikes": 22908,
         "about": "🩵 | Your lil brat~\n🔞 | Free weekly livestreams! Live every Saturday at 6pm EST\n🔥 | Exclusive videos and pics!\n💋 | Feel free to DM for customs~\nhttps://linktr.ee/FeliVR\n\nOpen for collabs <3",
         "location": "http://discord.gg/TpWHzbrmYp",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.5xppS6rk9mhv.m3u8",
                 "chatRoomId": "434814175840051200",
                 "status": 2,
-                "version": 407,
+                "version": 431,
                 "createdAt": 1665162125000,
                 "updatedAt": null,
                 "stream": {
                     "id": "434814122756943873",
-                    "historyId": "943517709306449921",
+                    "historyId": "946433172709597184",
                     "channelId": "434814122756943872",
                     "accountId": "355021381370392576",
-                    "title": "Got some new outfits to show you bby~ ♡ Live on Kick and Twitch ♡ ",
+                    "title": "No holding back today~ Destroy me ♡",
                     "status": 1,
-                    "viewerCount": 111,
-                    "version": 830,
+                    "viewerCount": 115,
+                    "version": 842,
                     "createdAt": 1665162125000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786468090000,
-                    "startedAt": 1786446511000,
+                    "lastFetchedAt": 1787157124000,
+                    "startedAt": 1787141612000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:48:09Z"
+        "fetchedAt": "2026-08-19T16:45:31Z"
     },
     "twitter": {
         "felivrc": {
@@ -90,24 +90,24 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1306844193638232064/1772387565/1500x500",
             "followersCount": 2521,
             "followingCount": 34,
-            "postsCount": 263,
+            "postsCount": 264,
             "accountCreatedAt": "2020-09-18T06:35:21.642Z",
             "profileUrl": "https://x.com/FeliVRC",
-            "fetchedAt": "2026-08-11T17:14:03Z"
+            "fetchedAt": "2026-08-19T16:11:27Z"
         },
         "felivr_": {
             "id": "1322663144494407680",
             "handle": "felivr_",
             "displayName": "Feli",
-            "description": "Your scuffed fox girl~\n♡ https://t.co/BU69HLha7D ♡ \n♡ https://t.co/XTFGNG9BL7 ♡\n SFW: @FeliVRC",
+            "description": "Your scuffed fox girl~\nTwitch partner 💜\n♡ https://t.co/BU69HLgCi5 ♡ \n♡ https://t.co/XTFGNG93Vz ♡\n SFW: @FeliVRC",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2003075574101630976/jLaqRouR_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1322663144494407680/1735923756/1500x500",
-            "followersCount": 9115,
+            "followersCount": 9138,
             "followingCount": 200,
-            "postsCount": 2295,
+            "postsCount": 2297,
             "accountCreatedAt": "2020-10-31T22:14:20.474Z",
             "profileUrl": "https://x.com/FeliVR_",
-            "fetchedAt": "2026-08-11T17:14:01Z"
+            "fetchedAt": "2026-08-19T16:11:25Z"
         }
     }
 }

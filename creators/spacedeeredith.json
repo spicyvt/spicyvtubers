@@ -5,11 +5,11 @@
         "login": "spacedeeredith",
         "displayName": "SpaceDeerEdith",
         "createdAt": "2019-06-25T16:37:49.362525Z",
-        "updatedAt": "2026-08-10T23:11:30.710406Z",
+        "updatedAt": "2026-08-17T22:48:09.643434Z",
         "description": "I'm just a deer with lots of mom energy! I'm a variety streamer who also plays a lot of board games. I try to keep everything positive and cozy!",
         "primaryColorHex": "524078",
         "followers": {
-            "totalCount": 152
+            "totalCount": 151
         },
         "follows": {
             "totalCount": 36
@@ -19,11 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T02:19:41.93064Z"
+            "startedAt": "2026-08-18T01:52:12.009791Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/04ec644e-8257-4e95-b4e4-9b14afb419e0-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ab50fddf-8986-4fe3-b965-5a3443206bb8-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:55:11Z"
+        "fetchedAt": "2026-08-19T15:52:10Z"
     },
     "fansly": {
         "id": "733900454366294016",
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:32Z"
+        "fetchedAt": "2026-08-19T16:47:15Z"
     },
     "bluesky": {
         "did": "did:plc:ivv6gggijgcobsvs2bnhukj6",
@@ -83,6 +83,6 @@
         "postsCount": 0,
         "accountCreatedAt": "2026-03-27T20:03:51.345Z",
         "profileUrl": "https://bsky.app/profile/spacedeeredith.bsky.social",
-        "fetchedAt": "2026-08-11T17:45:49Z"
+        "fetchedAt": "2026-08-19T16:44:11Z"
     }
 }

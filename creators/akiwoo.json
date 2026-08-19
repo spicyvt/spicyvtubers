@@ -5,36 +5,36 @@
         "login": "akiwoo",
         "displayName": "akiwoo",
         "createdAt": "2012-01-05T10:17:13.994385Z",
-        "updatedAt": "2026-08-09T16:34:35.29574Z",
+        "updatedAt": "2026-08-19T06:55:43.63359Z",
         "description": "Welcome to the 𝓯𝓻𝓮𝓪𝓴𝔂𝔀𝓸𝓸 twitch channel. This is a comedy stream thinly disguised as gooner bait.",
         "primaryColorHex": "EB8BCC",
         "followers": {
-            "totalCount": 17919
+            "totalCount": 17943
         },
         "follows": {
-            "totalCount": 541
+            "totalCount": 543
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-08T14:08:21.440694Z"
+            "startedAt": "2026-08-19T07:59:04.110916Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/05702155-6c97-4c64-85c5-a560af976ea9-profile_image-300x300.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bef5ab64-5895-46da-bcac-5611d1704303-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:51:51Z"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c419f3b0-5784-4123-b96c-ae7a2dbf69d6-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aec8075d-2f59-4635-a413-137e4c199613-profile_banner-480.png",
+        "fetchedAt": "2026-08-19T15:48:52Z"
     },
     "fansly": {
         "id": "510338091639119872",
         "username": "akiwoo",
         "displayName": null,
         "version": 3,
-        "followCount": 2165,
+        "followCount": 2577,
         "statusId": 1,
-        "accountMediaLikes": 694,
-        "postLikes": 741,
-        "about": "🩷 𝓯𝓻𝓮𝓪𝓴𝔂𝔀𝓸𝓸 🩷\n❤️ thicc cute cowgirl switch ready to please you ❤️\n🌟 free weekly streams Mondays @ 5am CST/12pm CEST🌟\n➡️ find more of me here: https://linktr.ee/akiwoolive ⬅️",
+        "accountMediaLikes": 831,
+        "postLikes": 872,
+        "about": "🩷 𝓯𝓻𝓮𝓪𝓴𝔂𝔀𝓸𝓸 🩷\n❤️ thicc cute cowgirl switch ready to please you ❤️\n🌟 free weekly streams Mondays @ 5am CST/12pm CEST🌟\n➡️ https://linktr.ee/akiwoolive ⬅️",
         "location": "",
         "streaming": {
             "accountId": "510338091639119872",
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.eUDP330Q5SfG.m3u8",
                 "chatRoomId": "927518463453327360",
                 "status": 2,
-                "version": 8,
+                "version": 9,
                 "createdAt": 1777099242000,
                 "updatedAt": null,
                 "stream": {
                     "id": "904312419248001025",
-                    "historyId": "943139586391949312",
+                    "historyId": "945677329420537856",
                     "channelId": "904312419248001024",
                     "accountId": "510338091639119872",
-                    "title": "🩷 cow desperate for your cum 🩷 !tipmenu",
+                    "title": "🩷 cow woman bounces on you 🩷 !tipmenu",
                     "status": 1,
-                    "viewerCount": 104,
-                    "version": 14,
+                    "viewerCount": 98,
+                    "version": 16,
                     "createdAt": 1777099242000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786369074000,
-                    "startedAt": 1786356360000,
+                    "lastFetchedAt": 1786976958000,
+                    "startedAt": 1786961405000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:49Z"
+        "fetchedAt": "2026-08-19T16:46:53Z"
     },
     "twitter": {
         "akiwoolive": {
@@ -86,14 +86,14 @@
             "handle": "akiwoolive",
             "displayName": "akiwoo 🐮 cowtuber",
             "description": "🐄 vtuber that's a cow, addicted to vrchat and wow (insane combo) 🏳️‍⚧️ live 6 days a week across the purple, green and blue streaming websites ❤️",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2086490643698749442/s2sm_E_t_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/170665940/1675730442/1500x500",
-            "followersCount": 6351,
-            "followingCount": 546,
-            "postsCount": 707,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2089813212837351424/5jrcO4-0_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/170665940/1787085643/1500x500",
+            "followersCount": 6354,
+            "followingCount": 547,
+            "postsCount": 714,
             "accountCreatedAt": "2010-07-25T12:29:20.000Z",
             "profileUrl": "https://x.com/AkiwooLive",
-            "fetchedAt": "2026-08-11T17:28:29Z"
+            "fetchedAt": "2026-08-19T16:25:41Z"
         }
     }
 }

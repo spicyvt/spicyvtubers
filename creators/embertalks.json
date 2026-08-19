@@ -5,11 +5,11 @@
         "login": "embertalks",
         "displayName": "EmberTalks",
         "createdAt": "2021-04-06T04:18:39.162461Z",
-        "updatedAt": "2026-08-07T23:29:47.645083Z",
+        "updatedAt": "2026-08-14T22:13:34.969236Z",
         "description": "I am weredragon kaiju vtuber, voice actress, and ASMRtist :3 ( https://www.youtube.com/@EmberTalks/ ). ",
         "primaryColorHex": "A20C0A",
         "followers": {
-            "totalCount": 9553
+            "totalCount": 9578
         },
         "follows": {
             "totalCount": 383
@@ -19,21 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-08T02:36:09.553511Z"
+            "startedAt": "2026-08-15T01:08:03.802302Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/79f0d62d-c676-435b-a90f-b956bd4004dc-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/80bb790c-dae4-4af4-b114-46be122cdddf-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:52:25Z"
+        "fetchedAt": "2026-08-19T15:49:26Z"
     },
     "fansly": {
         "id": "675876513547038720",
         "username": "EmberTalks",
         "displayName": "EmberTalks",
         "version": 30,
-        "followCount": 7361,
+        "followCount": 7364,
         "statusId": 1,
-        "accountMediaLikes": 5987,
-        "postLikes": 5457,
+        "accountMediaLikes": 6009,
+        "postLikes": 5472,
         "about": "EmberTalks | NSFW Voice Actress, ASMRtist + Kinky Lewdtuber\n🔥Your Sultry, Stinky Femdom WereDragon Tomboy🔥 \nYou can also support me on Patreon! https://www.patreon.com/c/EmberTalks \nAll my Socials! https://embertalks.carrd.co/ \n\nI post VODs, audios, videos, and IRL pics/vids here!\nI personally read and reply to all messages, sometimes I get busy to please be patient <3 \nFor DMs, I take Sundays and Mondays off. So if you send a DM then, please expect a response on Tuesday <3 \n\nAll of my content is owned and copyrighted by me. \nhttps://embertalks.carrd.co/ \n",
         "location": "getting off to your squirms, food, lmao",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.nUHiTl0vXJ0R.m3u8",
                 "chatRoomId": "729990803845296128",
                 "status": 2,
-                "version": 87,
+                "version": 90,
                 "createdAt": 1735537715000,
                 "updatedAt": null,
                 "stream": {
                     "id": "729990742528765961",
-                    "historyId": "941562120070254592",
+                    "historyId": "944821592012107776",
                     "channelId": "729990742528765960",
                     "accountId": "675876513547038720",
-                    "title": "🔥VORNY N CHILL ASMR WITH EMBER :3 🔥!tipmenu for redeems",
+                    "title": "🔥VORNY GAMING W/ EMBER (Among Cults) :3 🔥!tipmenu for redeems",
                     "status": 1,
-                    "viewerCount": 32,
-                    "version": 8673,
+                    "viewerCount": 26,
+                    "version": 8675,
                     "createdAt": 1735537715000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785987293000,
-                    "startedAt": 1785980262000,
+                    "lastFetchedAt": 1786770155000,
+                    "startedAt": 1786757381000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:00Z"
+        "fetchedAt": "2026-08-19T16:46:59Z"
     },
     "twitter": {
         "embertalksvt": {
@@ -79,12 +79,12 @@
             "description": "🏳️‍⚧️ WereDragon Tomboy VTuber\nASMRtist, Voice Actress, Furry\n🔥 https://t.co/vfsAVp9Zde",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2026136273081991168/ui0BKphJ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1986196161552932864/1771958999/1500x500",
-            "followersCount": 7922,
-            "followingCount": 413,
-            "postsCount": 1126,
+            "followersCount": 8095,
+            "followingCount": 415,
+            "postsCount": 1157,
             "accountCreatedAt": "2025-11-05T22:17:35.758Z",
             "profileUrl": "https://x.com/EmberTalksVT",
-            "fetchedAt": "2026-08-11T17:29:21Z"
+            "fetchedAt": "2026-08-19T16:26:34Z"
         }
     }
 }

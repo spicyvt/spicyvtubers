@@ -5,35 +5,35 @@
         "login": "shiabun",
         "displayName": "ShiaBun",
         "createdAt": "2014-02-12T06:59:23.86259Z",
-        "updatedAt": "2026-08-10T03:07:05.001115Z",
+        "updatedAt": "2026-08-17T03:57:38.548567Z",
         "description": "Dumpy BUNtuber :)",
         "primaryColorHex": "FA1ED2",
         "followers": {
-            "totalCount": 70227
+            "totalCount": 70520
         },
         "follows": {
-            "totalCount": 493
+            "totalCount": 492
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T03:57:21.381103Z"
+            "startedAt": "2026-08-17T04:25:35.245928Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e671301f-4fd1-425a-94e3-c1db488f4838-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7df703-b340-442e-a8c8-165e26f8bd09-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:59:03Z"
+        "fetchedAt": "2026-08-19T15:56:06Z"
     },
     "fansly": {
         "id": "564881820202573824",
         "username": "ShiaBun",
         "displayName": "ShiaBun",
         "version": 8,
-        "followCount": 6904,
+        "followCount": 6919,
         "statusId": 1,
-        "accountMediaLikes": 4520,
-        "postLikes": 6526,
+        "accountMediaLikes": 4526,
+        "postLikes": 6567,
         "about": "Vtuber ;3\n\n🐰NSFW Games/Streams\n🐰NSFW Art/Animations \n🐰VTuber\n🐰BTS & More",
         "location": "Stardust City",
         "streaming": {
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:52:30Z"
+        "fetchedAt": "2026-08-19T16:47:43Z"
     },
     "twitter": {
         "shiabun": {
@@ -79,12 +79,12 @@
             "description": "♡ BUNTuber 🐰 ♡ Game Dev ♡ Singing Guy ♡ 🎨 #ShiaBun 🔞#ShiaBussy ♡ 📧 shiabun@vchiban.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1944114882745393152/3MTBYM70_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/893179246247649281/1759341147/1500x500",
-            "followersCount": 37091,
+            "followersCount": 37146,
             "followingCount": 514,
-            "postsCount": 11079,
+            "postsCount": 11107,
             "accountCreatedAt": "2017-08-03T18:38:21.601Z",
             "profileUrl": "https://x.com/ShiaBun",
-            "fetchedAt": "2026-08-11T17:39:22Z"
+            "fetchedAt": "2026-08-19T16:36:54Z"
         },
         "shiabussy": {
             "id": "1551224842271313921",
@@ -93,12 +93,12 @@
             "description": "🔞For all posts #ShiaBussy 🔞\nNSFW account for @ShiaBun",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1635031276850753541/BHezRKo9_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551224842271313921/1658676014/1500x500",
-            "followersCount": 5842,
+            "followersCount": 5854,
             "followingCount": 4,
             "postsCount": 114,
             "accountCreatedAt": "2022-07-24T15:16:47.801Z",
             "profileUrl": "https://x.com/ShiaBussy",
-            "fetchedAt": "2026-08-11T17:39:24Z"
+            "fetchedAt": "2026-08-19T16:36:56Z"
         }
     }
 }

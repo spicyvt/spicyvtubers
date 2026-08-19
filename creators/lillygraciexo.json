@@ -5,11 +5,11 @@
         "login": "lillygraciexo",
         "displayName": "LillyGraciexo",
         "createdAt": "2022-07-27T19:55:34.938448Z",
-        "updatedAt": "2026-08-04T18:20:53.169139Z",
+        "updatedAt": "2026-08-11T19:24:09.337436Z",
         "description": "hey i'm Lilly and i stream twice a week (usually Tuesday and Thursday) on Twitch~  click 'all my links' to find me when i'm offline",
         "primaryColorHex": "FF38DB",
         "followers": {
-            "totalCount": 9485
+            "totalCount": 9525
         },
         "follows": {
             "totalCount": 54
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T21:00:01.555144Z"
+            "startedAt": "2026-08-11T21:01:53.850354Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a784f2ce-abd1-4bc2-9535-65d9ae0b661e-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2da58c1-8c33-4f1b-9454-839a3091df00-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:42:18Z"
+        "fetchedAt": "2026-08-19T15:39:01Z"
     },
     "fansly": {
         "id": "895344381723168768",
         "username": "LillyGVtuber",
         "displayName": "Lilly ❤︎",
         "version": 8,
-        "followCount": 2326,
+        "followCount": 2380,
         "statusId": 1,
-        "accountMediaLikes": 1770,
-        "postLikes": 1789,
+        "accountMediaLikes": 1812,
+        "postLikes": 1830,
         "about": "cutest brat~\nVtuber ~ IRL ~ 3DVR Model",
         "location": "",
         "streaming": {
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:47:37Z"
+        "fetchedAt": "2026-08-19T16:45:14Z"
     },
     "twitter": {
         "lillypounces": {
@@ -79,12 +79,12 @@
             "description": "🐰 cute bunny Vtuber pounces on you 🐰\n૮₍˶ᵔ ᵕ ᵔ˶₎ა can i keep you?",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2054131022350929921/v4mvUpV6_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1579555666838097921/1778577975/1500x500",
-            "followersCount": 12748,
-            "followingCount": 38,
-            "postsCount": 244,
+            "followersCount": 12837,
+            "followingCount": 40,
+            "postsCount": 249,
             "accountCreatedAt": "2022-10-10T19:33:58.872Z",
             "profileUrl": "https://x.com/lillypounces",
-            "fetchedAt": "2026-08-11T17:11:24Z"
+            "fetchedAt": "2026-08-19T16:08:48Z"
         },
         "lillygraciexo": {
             "id": "1511592188337131523",
@@ -93,12 +93,12 @@
             "description": "cutest Vtuber~💞 streaming every Tuesday and Thursday~ wallet emptying on @LillyGracieox",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2020545280681066496/RNZknWnN_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1511592188337131523/1770459919/1500x500",
-            "followersCount": 30779,
-            "followingCount": 1310,
-            "postsCount": 14257,
+            "followersCount": 30707,
+            "followingCount": 1311,
+            "postsCount": 14261,
             "accountCreatedAt": "2022-04-06T06:30:57.260Z",
             "profileUrl": "https://x.com/LillyGraciexo",
-            "fetchedAt": "2026-08-11T17:11:22Z"
+            "fetchedAt": "2026-08-19T16:08:46Z"
         },
         "lillygvtuber": {
             "id": "1549469022873329664",
@@ -107,12 +107,12 @@
             "description": "Cute normal Vtuber brat🧋streaming Tues & Thurs 8pm UK time on Twitch Shiny Pokémon Collector",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1597529813090172928/a2KDahqS_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1549469022873329664/1669715774/1500x500",
-            "followersCount": 39663,
+            "followersCount": 39661,
             "followingCount": 795,
-            "postsCount": 377,
+            "postsCount": 382,
             "accountCreatedAt": "2022-07-19T19:00:00.005Z",
             "profileUrl": "https://x.com/LillyGVtuber",
-            "fetchedAt": "2026-08-11T17:11:21Z"
+            "fetchedAt": "2026-08-19T16:08:44Z"
         }
     }
 }

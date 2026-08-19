@@ -5,11 +5,11 @@
         "login": "kareeda",
         "displayName": "Kareeda",
         "createdAt": "2010-01-09T23:19:45.431291Z",
-        "updatedAt": "2026-08-11T04:02:31.269605Z",
+        "updatedAt": "2026-08-14T03:01:03.8102Z",
         "description": "I'm a 38 year old Content Creator that focuses primarily on VRChat, Vtubing Software, Blender, Unity and more! I game some times too!",
         "primaryColorHex": "00A1A1",
         "followers": {
-            "totalCount": 10853
+            "totalCount": 10845
         },
         "follows": {
             "totalCount": 212
@@ -19,21 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T05:29:48.782499Z"
+            "startedAt": "2026-08-14T04:46:30.732494Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dee0ed2d-e575-439a-9e46-ac9621894053-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/311f8016-b6f5-4d8d-a618-a0637f473bc1-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:44:42Z"
+        "fetchedAt": "2026-08-19T15:41:37Z"
     },
     "fansly": {
         "id": "480582884147605504",
         "username": "Kareeda",
         "displayName": null,
         "version": 3,
-        "followCount": 5636,
+        "followCount": 5741,
         "statusId": 1,
-        "accountMediaLikes": 2948,
-        "postLikes": 1499,
+        "accountMediaLikes": 3075,
+        "postLikes": 1548,
         "about": "Just a Service Bunny making NSFW things for NSFW people.\n\nService Top / Pleasure Dom\nHe / Him\nFuta Bunny Girl Content\nI just keep going... and going.. and going~\n\nStreaming NSFW Unity, Blender work and posting some spicy content sometimes! Stay Tuned~",
         "location": "United States",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Z9ZptAwxsVhJ.m3u8",
                 "chatRoomId": "892737662161543168",
                 "status": 2,
-                "version": 246,
+                "version": 251,
                 "createdAt": 1773037429000,
                 "updatedAt": null,
                 "stream": {
                     "id": "887275943159144449",
-                    "historyId": "943109872449253376",
+                    "historyId": "945997801559441409",
                     "channelId": "887275943159144448",
                     "accountId": "480582884147605504",
-                    "title": "Long work stream tonight! Models, Porn Editing, Lots to do! Toys Active~",
+                    "title": "VR Stream with RavenVR! Gonna be a fun night, toys active~",
                     "status": 1,
-                    "viewerCount": 9,
-                    "version": 208,
+                    "viewerCount": 18,
+                    "version": 214,
                     "createdAt": 1773037429000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786361770000,
-                    "startedAt": 1786349275000,
+                    "lastFetchedAt": 1787043933000,
+                    "startedAt": 1787037811000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:48:30Z"
+        "fetchedAt": "2026-08-19T16:45:41Z"
     },
     "twitter": {
         "thekareeda": {
@@ -88,12 +88,12 @@
             "description": "Twitch Partner: Technical Artist & Avatar/Map Creator for VRChat/Warudo/Vtubers\n\nBusiness Email: Kareeda@gmail.com\nhttps://t.co/iVVarkNZMD",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1858042522469023744/F-QwmL7U_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1599305551/1689675573/1500x500",
-            "followersCount": 2843,
-            "followingCount": 694,
-            "postsCount": 4859,
+            "followersCount": 2846,
+            "followingCount": 695,
+            "postsCount": 4862,
             "accountCreatedAt": "2013-07-16T21:10:41.946Z",
             "profileUrl": "https://x.com/TheKareeda",
-            "fetchedAt": "2026-08-11T17:16:04Z"
+            "fetchedAt": "2026-08-19T16:13:28Z"
         },
         "karbunni": {
             "id": "2029543217386135552",
@@ -102,12 +102,12 @@
             "description": "🔞NSFW Alt of @TheKareeda\nTechnical Artist for Unity\nThis account is where I'll be posting NSFW Features, Content, and more.",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2041004346968887296/2dqfa8eu_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2029543217386135552/1774005194/1500x500",
-            "followersCount": 855,
-            "followingCount": 205,
-            "postsCount": 251,
+            "followersCount": 994,
+            "followingCount": 206,
+            "postsCount": 263,
             "accountCreatedAt": "2026-03-05T13:03:35.080Z",
             "profileUrl": "https://x.com/KarBunni",
-            "fetchedAt": "2026-08-11T17:16:06Z"
+            "fetchedAt": "2026-08-19T16:13:30Z"
         }
     }
 }

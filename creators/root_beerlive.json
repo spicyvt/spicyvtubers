@@ -9,7 +9,7 @@
         "description": "just want to be more social i guess? https://linktr.ee/therootbeer",
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 695
+            "totalCount": 698
         },
         "follows": {
             "totalCount": 105
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2169cdd-5d03-461e-890d-62be4d177442-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/feda47d5-f343-47a3-b12b-dbbc2347cfb4-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:55:32Z"
+        "fetchedAt": "2026-08-19T15:52:31Z"
     },
     "fansly": {
         "id": "357069396855762944",
         "username": "therootbeer",
         "displayName": "ROOTYY",
         "version": 9,
-        "followCount": 4743,
+        "followCount": 4761,
         "statusId": 1,
-        "accountMediaLikes": 11682,
-        "postLikes": 8996,
+        "accountMediaLikes": 11828,
+        "postLikes": 9072,
         "about": "just the root of the beer, part time lewd eheh. I think I am an online femboy :)\n\nhttps://allmylinks.com/therootbeer\nor\nhttps://rootyy.link",
         "location": "",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "668363260071784451",
-                    "historyId": "943383129157038080",
+                    "historyId": "946293240510828544",
                     "channelId": "668363260071784450",
                     "accountId": "357069396855762944",
                     "title": "Lewd behavior only | !tipmenu !Links !sr",
                     "status": 1,
-                    "viewerCount": 33,
-                    "version": 6965,
+                    "viewerCount": 19,
+                    "version": 6971,
                     "createdAt": 1720844579000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786418658000,
-                    "startedAt": 1786414425000,
+                    "lastFetchedAt": 1787112510000,
+                    "startedAt": 1787108249000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:37Z"
+        "fetchedAt": "2026-08-19T16:47:21Z"
     },
     "twitter": {
         "rootbeeroff": {
@@ -79,12 +79,12 @@
             "description": "Just a goofy person :3 (femboy, he/him)",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1818249945104719872/EKwEhKjQ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1113535356807393280/1714876269/1500x500",
-            "followersCount": 8527,
+            "followersCount": 8524,
             "followingCount": 194,
-            "postsCount": 1907,
+            "postsCount": 1913,
             "accountCreatedAt": "2019-04-03T20:14:52.328Z",
             "profileUrl": "https://x.com/ROOTBEEROFF",
-            "fetchedAt": "2026-08-11T17:33:27Z"
+            "fetchedAt": "2026-08-19T16:30:54Z"
         }
     }
 }

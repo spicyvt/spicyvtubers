@@ -5,35 +5,35 @@
         "login": "manyducks",
         "displayName": "ManyDucks",
         "createdAt": "2020-11-12T15:41:18.877557Z",
-        "updatedAt": "2026-08-09T04:59:41.159382Z",
+        "updatedAt": "2026-08-18T20:51:00.49373Z",
         "description": "\\( •ө• )/",
         "primaryColorHex": "9A71D9",
         "followers": {
-            "totalCount": 644
+            "totalCount": 656
         },
         "follows": {
-            "totalCount": 656
+            "totalCount": 661
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-09T06:08:25.579982Z"
+            "startedAt": "2026-08-19T03:03:36.558598Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6575c2a-855f-421d-b7f1-24c0aa811cd7-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5642715e-d5e5-4b44-ad1b-012890b8294d-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:59:58Z"
+        "fetchedAt": "2026-08-19T15:57:00Z"
     },
     "fansly": {
         "id": "841424915855863808",
         "username": "ManyDucks",
         "displayName": "ManyDucks",
         "version": 6,
-        "followCount": 1298,
+        "followCount": 1358,
         "statusId": 3,
-        "accountMediaLikes": 95,
-        "postLikes": 110,
+        "accountMediaLikes": 98,
+        "postLikes": 112,
         "about": "ManyDucks Vtuber\n\nApparently I'm 100% a brat..",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wDfVtKVjfdf9.m3u8",
                 "chatRoomId": "841526294008045568",
                 "status": 2,
-                "version": 30,
+                "version": 32,
                 "createdAt": 1762120304000,
                 "updatedAt": null,
                 "stream": {
                     "id": "841486200152805377",
-                    "historyId": "943048898555961344",
+                    "historyId": "945796911808389120",
                     "channelId": "841486200152805376",
                     "accountId": "841424915855863808",
-                    "title": "Vibing !command !discord !menu",
+                    "title": "Lets chill !command !discord !menu",
                     "status": 1,
-                    "viewerCount": 17,
-                    "version": 202,
+                    "viewerCount": 18,
+                    "version": 206,
                     "createdAt": 1762120304000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786343613000,
-                    "startedAt": 1786334738000,
+                    "lastFetchedAt": 1786994799000,
+                    "startedAt": 1786989915000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:52:41Z"
+        "fetchedAt": "2026-08-19T16:47:54Z"
     },
     "twitter": {
         "manyducksvt": {
@@ -88,12 +88,12 @@
             "description": "Gonna steal ur ducks (Eng/한) (she/her) | 18+ | pfp: @maelibun | 3.0 🎨 @Lynniia ⚙️ @__EyesOnFire__",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1712614329739096064/Og2KBl2t_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1563077723374792705/1767216704/1500x500",
-            "followersCount": 490,
-            "followingCount": 2182,
+            "followersCount": 498,
+            "followingCount": 2184,
             "postsCount": 1391,
             "accountCreatedAt": "2022-08-26T08:15:55.460Z",
             "profileUrl": "https://x.com/ManyDucksVT",
-            "fetchedAt": "2026-08-11T17:40:50Z"
+            "fetchedAt": "2026-08-19T16:38:26Z"
         }
     }
 }

@@ -9,10 +9,10 @@
         "description": "Deep voiced wolf boy ",
         "primaryColorHex": "FF38DB",
         "followers": {
-            "totalCount": 10738
+            "totalCount": 10758
         },
         "follows": {
-            "totalCount": 30
+            "totalCount": 29
         },
         "roles": {
             "isPartner": false,
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9710362b-4cd6-4f8f-9b97-b249eb16d310-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1675c0e9-559d-43f8-9cce-41e27b488040-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:43:01Z"
+        "fetchedAt": "2026-08-19T15:39:48Z"
     },
     "fansly": {
         "id": "625138695942447104",
         "username": "NotNoonNoon",
         "displayName": "NoonNoon",
         "version": 5,
-        "followCount": 389,
+        "followCount": 414,
         "statusId": 1,
-        "accountMediaLikes": 25,
-        "postLikes": 85,
+        "accountMediaLikes": 30,
+        "postLikes": 91,
         "about": "Human NoonNoon\n\n🦴https://twitch.tv/noonnoonvt🦴\n\n🥩https://patreon.com/NoonNoon ",
         "location": "",
         "streaming": {
@@ -41,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:47:53Z"
+        "fetchedAt": "2026-08-19T16:45:25Z"
     },
     "twitter": {
         "noonnoonbonk": {
@@ -51,12 +51,12 @@
             "description": "🥑Content Creator Furboy🥑\n\n🥩https://t.co/l6migkRo0k🥩\n 🍔 https://t.co/IAIXqbyKX3🍔\n🥑https://t.co/t4N2vSNRTi 🥑",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1991822212240695296/JCVl6EoA_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1876501575495249920/1763722396/1500x500",
-            "followersCount": 34099,
+            "followersCount": 34376,
             "followingCount": 3,
-            "postsCount": 444,
+            "postsCount": 451,
             "accountCreatedAt": "2025-01-07T05:30:33.217Z",
             "profileUrl": "https://x.com/NoonNoonbonk",
-            "fetchedAt": "2026-08-11T17:12:48Z"
+            "fetchedAt": "2026-08-19T16:10:13Z"
         }
     }
 }

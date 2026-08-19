@@ -5,35 +5,35 @@
         "login": "scarletvr_",
         "displayName": "ScarletVR_",
         "createdAt": "2023-09-22T05:14:28.679283Z",
-        "updatedAt": "2026-08-09T20:52:29.442781Z",
+        "updatedAt": "2026-08-17T04:12:16.739563Z",
         "description": "Vrchat (+18) ~ I love Zelda ",
         "primaryColorHex": "EB0400",
         "followers": {
-            "totalCount": 471
+            "totalCount": 484
         },
         "follows": {
-            "totalCount": 121
+            "totalCount": 123
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-06T23:07:30.561709Z"
+            "startedAt": "2026-08-18T19:12:42.507986Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae071afa-4dcb-4daa-aa2e-4cf126b96105-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4951f47-d4d9-439d-b5b0-f09eadb7bfe9-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:51:54Z"
+        "fetchedAt": "2026-08-19T15:48:55Z"
     },
     "fansly": {
         "id": "637823306245877760",
         "username": "ScarletVr",
         "displayName": "ScarletVr",
         "version": 4,
-        "followCount": 5079,
+        "followCount": 5109,
         "statusId": 1,
-        "accountMediaLikes": 7493,
-        "postLikes": 6307,
+        "accountMediaLikes": 7670,
+        "postLikes": 6461,
         "about": "🔞 HI welcome to the cult of scarlet🔞\n\n🇲🇽 Mexicana\n📩DM me for Collabs or Custom Conten📩\n🍒Discord server: https://discord.gg/VXnyMxjUX9\n🔥A big fan of rock music from the 80s and 90s\n\n",
         "location": "vr",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xSRb5tXjk3yW.m3u8",
                 "chatRoomId": "838642343266508801",
                 "status": 2,
-                "version": 7,
+                "version": 8,
                 "createdAt": 1761442138000,
                 "updatedAt": null,
                 "stream": {
                     "id": "838641765031370753",
-                    "historyId": "941585468758175744",
+                    "historyId": "944501224894382080",
                     "channelId": "838641765031370752",
                     "accountId": "637823306245877760",
-                    "title": "Its my birthday🖤Esp/Eng",
+                    "title": "im back🖤Esp/Eng",
                     "status": 1,
-                    "viewerCount": 58,
-                    "version": 368,
+                    "viewerCount": 46,
+                    "version": 370,
                     "createdAt": 1761442138000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785988130000,
-                    "startedAt": 1785985829000,
+                    "lastFetchedAt": 1786683108000,
+                    "startedAt": 1786681000000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:49Z"
+        "fetchedAt": "2026-08-19T16:46:53Z"
     },
     "twitter": {
         "scarletgnrvr": {
@@ -84,7 +84,7 @@
             "postsCount": null,
             "accountCreatedAt": "2015-07-11T05:50:06.631Z",
             "profileUrl": "https://x.com/scarletgnrvr",
-            "fetchedAt": "2026-08-11T17:28:32Z"
+            "fetchedAt": "2026-08-19T16:25:44Z"
         }
     }
 }

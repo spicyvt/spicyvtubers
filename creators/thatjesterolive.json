@@ -5,35 +5,35 @@
         "login": "thatjesterolive",
         "displayName": "ThatJesterOlive",
         "createdAt": "2020-01-26T17:47:49.080113Z",
-        "updatedAt": "2026-08-10T22:58:17.843338Z",
+        "updatedAt": "2026-08-18T15:46:07.24444Z",
         "description": "Slowly Returning~ ",
         "primaryColorHex": "880000",
         "followers": {
-            "totalCount": 230
+            "totalCount": 231
         },
         "follows": {
-            "totalCount": 255
+            "totalCount": 258
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T00:33:18.804767Z"
+            "startedAt": "2026-08-16T00:14:01.517636Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/99f360d9-8c4b-48ea-9855-0fab66d433d5-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/44b9a1b3-2d7b-46cf-a77e-92c6652e30aa-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:51:13Z"
+        "fetchedAt": "2026-08-19T15:48:11Z"
     },
     "fansly": {
         "id": "445067227218063360",
         "username": "ThatJesterOlive",
         "displayName": "♥♣ThatJesterOlive♠️♦",
         "version": 16,
-        "followCount": 1159,
+        "followCount": 1180,
         "statusId": 1,
-        "accountMediaLikes": 583,
-        "postLikes": 748,
+        "accountMediaLikes": 589,
+        "postLikes": 757,
         "about": "TransFem Gamble Jester / Streams Inconsistent, working on a schedule :3",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.dlgw7qA9p019.m3u8",
                 "chatRoomId": "751104758797840384",
                 "status": 2,
-                "version": 82,
+                "version": 85,
                 "createdAt": 1740571674000,
                 "updatedAt": null,
                 "stream": {
                     "id": "751104694272663553",
-                    "historyId": "942659968048316418",
+                    "historyId": "944483431427891201",
                     "channelId": "751104694272663552",
                     "accountId": "445067227218063360",
-                    "title": "trying a solo vr stream~ moots welcome to join~",
+                    "title": "Lewd Balatro w/Starya",
                     "status": 1,
-                    "viewerCount": 11,
-                    "version": 9657,
+                    "viewerCount": 8,
+                    "version": 9661,
                     "createdAt": 1740571674000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786251312000,
-                    "startedAt": 1786242010000,
+                    "lastFetchedAt": 1786684531000,
+                    "startedAt": 1786676757000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:33Z"
+        "fetchedAt": "2026-08-19T16:46:48Z"
     },
     "twitter": {
         "thatjesterolive": {
@@ -79,12 +79,12 @@
             "description": "♣️ Transfem Gamble~Core Jester\n♦️ Schedule Inconsistent, Streams Almost Daily\n♠️ Collabs Open!\n♥️ PFP by @SpaceyNerdArt",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2056023813247172608/APpP3rT1_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1945454556655001600/1776303814/1500x500",
-            "followersCount": 90,
-            "followingCount": 62,
-            "postsCount": 202,
+            "followersCount": 92,
+            "followingCount": 63,
+            "postsCount": 205,
             "accountCreatedAt": "2025-07-16T12:05:05.111Z",
             "profileUrl": "https://x.com/ThatJesterOlive",
-            "fetchedAt": "2026-08-11T17:27:22Z"
+            "fetchedAt": "2026-08-19T16:24:36Z"
         },
         "thatneedyjester": {
             "id": "1568333739544961024",
@@ -93,12 +93,12 @@
             "description": "♣️ Transfem Gamble~Core Jester Puppy \n♦️ MDNI \n♠️ DMs Open! / Collabs on Pause\n♥️ PFP By @Midnight_Rian",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2056015202907291648/9piXE0iZ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1568333739544961024/1776303868/1500x500",
-            "followersCount": 644,
-            "followingCount": 560,
-            "postsCount": 2148,
+            "followersCount": 655,
+            "followingCount": 565,
+            "postsCount": 2183,
             "accountCreatedAt": "2022-09-09T20:21:40.358Z",
             "profileUrl": "https://x.com/ThatNeedyJester",
-            "fetchedAt": "2026-08-11T17:27:20Z"
+            "fetchedAt": "2026-08-19T16:24:34Z"
         }
     }
 }

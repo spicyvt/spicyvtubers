@@ -5,11 +5,11 @@
         "login": "hunnybunnyvt",
         "displayName": "HunnyBunnyVT",
         "createdAt": "2018-06-21T01:11:24.262707Z",
-        "updatedAt": "2026-08-10T23:17:34.923148Z",
+        "updatedAt": "2026-08-16T01:57:52.409743Z",
         "description": "a little bunbun here to spread good vibes and happy times",
         "primaryColorHex": "FFCBF5",
         "followers": {
-            "totalCount": 838
+            "totalCount": 848
         },
         "follows": {
             "totalCount": 104
@@ -19,18 +19,18 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T04:33:04.026551Z"
+            "startedAt": "2026-08-16T04:34:00.105343Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/deb72062-34bb-4fb6-859f-17f75a7a6d1f-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c9716e0-ad98-4ce4-9b54-5a89529e3de7-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:40:46Z"
+        "fetchedAt": "2026-08-19T15:37:23Z"
     },
     "fansly": {
         "id": "825606456647626753",
         "username": "HunnyBunnyVT",
         "displayName": null,
         "version": 7,
-        "followCount": 219,
+        "followCount": 224,
         "statusId": 1,
         "accountMediaLikes": 21,
         "postLikes": 14,
@@ -44,33 +44,24 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ivzFq9vmmOKN.m3u8",
                 "chatRoomId": "835691387633557504",
                 "status": 2,
-                "version": 22,
+                "version": 26,
                 "createdAt": 1760738443000,
                 "updatedAt": null,
                 "stream": {
                     "id": "835690254533931009",
-                    "historyId": "936826620117790720",
+                    "historyId": "944799102179225600",
                     "channelId": "835690254533931008",
                     "accountId": "825606456647626753",
-                    "title": "A private stream just for you (;",
+                    "title": "i just want to moan for you",
                     "status": 1,
-                    "viewerCount": 2,
-                    "version": 34,
+                    "viewerCount": 8,
+                    "version": 36,
                     "createdAt": 1760738443000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1784859054000,
-                    "startedAt": 1784851231000,
+                    "lastFetchedAt": 1786759279000,
+                    "startedAt": 1786752019000,
                     "permissions": {
-                        "permissionFlags": [
-                            {
-                                "id": "936824423254609920",
-                                "streamId": "835690254533931009",
-                                "type": 0,
-                                "flags": 4,
-                                "price": 0,
-                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"856371955345928192\\\"}\"}"
-                            }
-                        ]
+                        "permissionFlags": []
                     }
                 },
                 "arn": null,
@@ -78,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:46:58Z"
+        "fetchedAt": "2026-08-19T16:44:58Z"
     },
     "twitter": {
         "hunnybunnyvt": {
@@ -88,12 +79,12 @@
             "description": "🥕💕 a little bunbun here to spread good vibes\n🥕💕VTUBER started on 4/27/2025\n🥕💕https://t.co/4nHZJCBO9k",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2076084987296989184/bn0qotTq_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1881914135258292224/1757568915/1500x500",
-            "followersCount": 331,
+            "followersCount": 332,
             "followingCount": 18,
-            "postsCount": 666,
+            "postsCount": 674,
             "accountCreatedAt": "2025-01-22T03:58:04.111Z",
             "profileUrl": "https://x.com/HunnyBunnyVT",
-            "fetchedAt": "2026-08-11T17:08:00Z"
+            "fetchedAt": "2026-08-19T16:05:26Z"
         }
     }
 }

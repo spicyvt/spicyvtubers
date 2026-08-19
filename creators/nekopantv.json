@@ -5,11 +5,11 @@
         "login": "nekopantv",
         "displayName": "NekopanTV",
         "createdAt": "2020-06-22T07:58:01.500151Z",
-        "updatedAt": "2025-12-01T05:52:18.694525Z",
+        "updatedAt": "2026-08-13T08:41:15.609386Z",
         "description": "Bread Cat 🍞 Millennial Vtuber",
         "primaryColorHex": "AB7253",
         "followers": {
-            "totalCount": 17286
+            "totalCount": 17276
         },
         "follows": {
             "totalCount": 1792
@@ -23,14 +23,14 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/14f46e7c-9700-4a10-95f3-1eb5c8b7b64a-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d43471ed-b2e0-460b-85b8-923fb042dea6-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:47:29Z"
+        "fetchedAt": "2026-08-19T15:44:29Z"
     },
     "fansly": {
         "id": "713945209246855168",
         "username": "NekopanVT",
         "displayName": "Bread",
         "version": 11,
-        "followCount": 5526,
+        "followCount": 5525,
         "statusId": 1,
         "accountMediaLikes": 5890,
         "postLikes": 11973,
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:49:23Z"
+        "fetchedAt": "2026-08-19T16:46:09Z"
     },
     "twitter": {
         "bread_vt": {
-            "id": null,
+            "id": "1251728833419476994",
             "handle": "bread_vt",
             "displayName": "𝐍𝐞𝐤𝐨 𝑩𝒓𝒆𝒂𝒅 🐱🥐",
             "description": "ねこ | she/they | 🇵🇭🇦🇺 | unhinged breadcat vtuber and local lovergirl | MDNI🔞 | ママ: @saga404 パパ: @mika__tama | twitch partner | https://t.co/zQZwRvDCQE",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1993452259385241600/U54O9SEN_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1251728833419476994/1764111031/1500x500",
-            "followersCount": null,
-            "followingCount": null,
-            "postsCount": null,
+            "followersCount": 61995,
+            "followingCount": 4155,
+            "postsCount": 110100,
             "accountCreatedAt": "2020-04-19T04:26:35.220Z",
             "profileUrl": "https://x.com/bread_vt",
-            "fetchedAt": "2026-08-11T17:20:46Z"
+            "fetchedAt": "2026-08-19T16:18:10Z"
         }
     }
 }

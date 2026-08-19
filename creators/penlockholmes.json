@@ -5,35 +5,35 @@
         "login": "penlockholmes",
         "displayName": "PenlockHolmes",
         "createdAt": "2020-07-20T14:36:25.445445Z",
-        "updatedAt": "2026-08-10T03:33:27.397495Z",
+        "updatedAt": "2026-08-17T08:25:04.439141Z",
         "description": "Gaming Penguin Detective VTuber/VStreamer. Enjoy playing games either solo or in co-op. Always just swimming the gaming world with penguins. Check out YT Penlock Holmes, Instagram and Facebook page or Twitter. ",
         "primaryColorHex": "1F69FF",
         "followers": {
-            "totalCount": 3668
+            "totalCount": 3672
         },
         "follows": {
-            "totalCount": 637
+            "totalCount": 636
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T07:35:52.695816Z"
+            "startedAt": "2026-08-17T09:53:19.896591Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/250a819f-f8e2-4998-a493-1a878dbd2b5e-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed6fe3ee-af99-4b57-bb48-c5b804817cd4-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:54:59Z"
+        "fetchedAt": "2026-08-19T15:51:58Z"
     },
     "fansly": {
         "id": "727253066113359872",
         "username": "PenlockHolmes",
         "displayName": "Penlock Holmes",
         "version": 12,
-        "followCount": 5932,
+        "followCount": 5977,
         "statusId": 1,
-        "accountMediaLikes": 1534,
-        "postLikes": 1338,
+        "accountMediaLikes": 1558,
+        "postLikes": 1375,
         "about": "Hai~~ Penni Here! \nPenguin Fairy Detective is getting Naughty Here!\nSpoil the brat - https://throne.com/penlockholmes\nN/SFW ASMR-ist RP\n18+ | Lewd\n",
         "location": "In your basement",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.lVrK7rbXqRd9.m3u8",
                 "chatRoomId": "821267579694764032",
                 "status": 2,
-                "version": 149,
+                "version": 151,
                 "createdAt": 1757299153000,
                 "updatedAt": null,
                 "stream": {
                     "id": "821264829074399233",
-                    "historyId": "941562962265513984",
+                    "historyId": "945864298029146112",
                     "channelId": "821264829074399232",
                     "accountId": "727253066113359872",
-                    "title": "Play with me while i work | Toy is activated  !menu !goals ",
+                    "title": "Help me relax after a long day | Toy is activated  !menu !goals ",
                     "status": 1,
-                    "viewerCount": 19,
-                    "version": 356,
+                    "viewerCount": 17,
+                    "version": 362,
                     "createdAt": 1757299153000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785989545000,
-                    "startedAt": 1785980463000,
+                    "lastFetchedAt": 1787017427000,
+                    "startedAt": 1787005981000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:32Z"
+        "fetchedAt": "2026-08-19T16:47:15Z"
     },
     "twitter": {
         "penlock_penguin": {
@@ -88,12 +88,12 @@
             "description": "Penguin Fairy Detective|❤️:@Akira_Artemia |Lewdtuber 🔞| YT Partner | #Penlart| Starforge Affiliate @ADVANCEDgg |ASMR |Creator |📧: penguinstudioteam@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2050244804026499072/JJZ3KvbM_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1297050185445638145/1695571007/1500x500",
-            "followersCount": 3308,
-            "followingCount": 2917,
-            "postsCount": 21649,
+            "followersCount": 3313,
+            "followingCount": 2919,
+            "postsCount": 21678,
             "accountCreatedAt": "2020-08-22T05:57:34.456Z",
             "profileUrl": "https://x.com/Penlock_Penguin",
-            "fetchedAt": "2026-08-11T17:32:37Z"
+            "fetchedAt": "2026-08-19T16:29:59Z"
         }
     }
 }

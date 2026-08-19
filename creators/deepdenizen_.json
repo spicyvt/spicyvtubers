@@ -5,14 +5,14 @@
         "login": "deepdenizen_",
         "displayName": "Deepdenizen_",
         "createdAt": "2020-05-11T17:30:41.533014Z",
-        "updatedAt": "2026-07-19T22:47:22.485464Z",
+        "updatedAt": "2026-08-15T19:44:12.568694Z",
         "description": "Come One, Come All, welcome to the depths where yours truly loves to make a splash! Whether I'm here to make you smile, or maybe just a bit of banter, rest assured Ill capture your heart in seaweed and assimilate you into my hivemind~",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 1269
+            "totalCount": 1268
         },
         "follows": {
-            "totalCount": 1939
+            "totalCount": 1946
         },
         "roles": {
             "isPartner": false,
@@ -23,14 +23,14 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ecc71c32-acf4-40d3-8d49-87bee337513e-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/208912b0-63d7-4c27-9439-7f303384b024-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:54:32Z"
+        "fetchedAt": "2026-08-19T15:51:31Z"
     },
     "fansly": {
         "id": "632335547292987393",
         "username": "MySealium",
         "displayName": "MySealium",
         "version": 11,
-        "followCount": 190,
+        "followCount": 188,
         "statusId": 1,
         "accountMediaLikes": 114,
         "postLikes": 126,
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:26Z"
+        "fetchedAt": "2026-08-19T16:47:10Z"
     },
     "twitter": {
         "deepdenizen_": {
@@ -80,11 +80,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1971199151070146560/pMiQZPXb_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1288479683588296704/1760037028/1500x500",
             "followersCount": 1037,
-            "followingCount": 1970,
-            "postsCount": 4924,
+            "followingCount": 1975,
+            "postsCount": 4958,
             "accountCreatedAt": "2020-07-29T14:21:21.151Z",
             "profileUrl": "https://x.com/DeepDenizen_",
-            "fetchedAt": "2026-08-11T17:32:01Z"
+            "fetchedAt": "2026-08-19T16:29:21Z"
         },
         "lewddenizen": {
             "id": "1772269433035055104",
@@ -94,11 +94,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1952799746524839936/OaD9Yj8Q_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1772269433035055104/1754418716/1500x500",
             "followersCount": 177,
-            "followingCount": 472,
-            "postsCount": 565,
+            "followingCount": 470,
+            "postsCount": 566,
             "accountCreatedAt": "2024-03-25T14:29:12.726Z",
             "profileUrl": "https://x.com/LewdDenizen",
-            "fetchedAt": "2026-08-11T17:32:02Z"
+            "fetchedAt": "2026-08-19T16:29:23Z"
         }
     }
 }

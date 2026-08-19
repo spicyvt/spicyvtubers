@@ -5,35 +5,35 @@
         "login": "blandship",
         "displayName": "BlandShip",
         "createdAt": "2016-02-03T00:19:42.315989Z",
-        "updatedAt": "2026-08-11T04:47:29.570633Z",
+        "updatedAt": "2026-08-18T06:01:04.449212Z",
         "description": "This is an account with Gaijin Verification, Uffas!! soy BlandShip un NekoEnder y me encantan los gameplays de casi todo tipo de juegos, en especial tanquesito",
         "primaryColorHex": "7822CD",
         "followers": {
-            "totalCount": 55088
+            "totalCount": 55069
         },
         "follows": {
-            "totalCount": 488
+            "totalCount": 489
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T04:51:52.549197Z"
+            "startedAt": "2026-08-18T06:00:36.199097Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0ad3c72-e211-4f40-90b8-9afb99c751f3-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31a3a551-032d-4d25-b21e-e4cbd8bd9ef8-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T17:02:43Z"
+        "fetchedAt": "2026-08-19T15:59:42Z"
     },
     "fansly": {
         "id": "536902723749031936",
         "username": "BlandShip",
         "displayName": null,
-        "version": 4,
-        "followCount": 7424,
+        "version": 5,
+        "followCount": 7664,
         "statusId": 1,
-        "accountMediaLikes": 2916,
-        "postLikes": 2807,
+        "accountMediaLikes": 2970,
+        "postLikes": 2866,
         "about": "Uffas! Hi there, I'm BlandShip, your real-life anime nekogirl waifu 💜 Welcome to my Fansly account! Let's see, about me... I'm a neko ender Vtuber who loves to get lewd in front of the camera for you guys >//< I'll be posting a lot of naughty content, so be sure to follow me to check it all out ;) It's free!",
         "location": "",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "805684739980664833",
-                    "historyId": "942704984116449280",
+                    "historyId": "945607651541151744",
                     "channelId": "805684739980664832",
                     "accountId": "536902723749031936",
                     "title": "[EN/ESP] Come and get rid of the horny stuff with meVente a quitar lo Horny conmigo!Tipmenu !twitter",
                     "status": 1,
                     "viewerCount": 73,
-                    "version": 222,
+                    "version": 226,
                     "createdAt": 1753584571000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786266380000,
-                    "startedAt": 1786252742000,
+                    "lastFetchedAt": 1786956079000,
+                    "startedAt": 1786944792000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:53:29Z"
+        "fetchedAt": "2026-08-19T16:48:15Z"
     },
     "twitter": {
         "blandship": {
@@ -88,12 +88,12 @@
             "description": "✨Twitch Partner ✨\nArt: #BlandArt 🎨 | NSFW:  #Bland_horny\n\nContacto: blandship24@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1903959773189390336/GBrXn11K_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1046170665131421697/1690626473/1500x500",
-            "followersCount": 30023,
-            "followingCount": 387,
-            "postsCount": 3563,
+            "followersCount": 30031,
+            "followingCount": 390,
+            "postsCount": 3572,
             "accountCreatedAt": "2018-09-29T22:51:38.311Z",
             "profileUrl": "https://x.com/BlandShip",
-            "fetchedAt": "2026-08-11T17:44:56Z"
+            "fetchedAt": "2026-08-19T16:42:37Z"
         },
         "blandshipnsfw": {
             "id": "2010473937722077184",
@@ -102,12 +102,12 @@
             "description": "Cuenta Horny 💜🔞 de BlandShip para aumentarles la calentura",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2010474260502876160/7wzdO8k4_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2010473937722077184/1768179383/1500x500",
-            "followersCount": 1805,
+            "followersCount": 1819,
             "followingCount": 11,
-            "postsCount": 76,
+            "postsCount": 78,
             "accountCreatedAt": "2026-01-11T22:08:49.585Z",
             "profileUrl": "https://x.com/BlandShipNSFW",
-            "fetchedAt": "2026-08-11T17:44:58Z"
+            "fetchedAt": "2026-08-19T16:42:39Z"
         }
     }
 }

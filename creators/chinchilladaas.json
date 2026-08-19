@@ -5,7 +5,7 @@
         "login": "chinchilladaas",
         "displayName": "chinchilladaas",
         "createdAt": "2016-05-05T11:14:50.426991Z",
-        "updatedAt": "2026-08-09T15:59:42.16126Z",
+        "updatedAt": "2026-08-16T18:39:46.350033Z",
         "description": "tattoo artist, cheese enthusiast and gamer (deragotory)  ",
         "primaryColorHex": "FFA3EE",
         "followers": {
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-04T00:30:05.80965Z"
+            "startedAt": "2026-08-14T22:08:29.627263Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7630025-5cba-4a5e-bae7-d503a6224094-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e8f647a-6b4b-4cc6-a0cf-0a7d17eed18e-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:49:18Z"
+        "fetchedAt": "2026-08-19T15:46:19Z"
     },
     "fansly": {
         "id": "769834920859152385",
         "username": "chinchilladas",
         "displayName": null,
         "version": 3,
-        "followCount": 1173,
+        "followCount": 1188,
         "statusId": 2,
-        "accountMediaLikes": 3416,
-        "postLikes": 2847,
+        "accountMediaLikes": 3417,
+        "postLikes": 2851,
         "about": "Cheese Enthusiast and gamer (derogatory) ",
         "location": "Texas",
         "streaming": {
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:01Z"
+        "fetchedAt": "2026-08-19T16:46:31Z"
     },
     "twitter": {
         "chinchilladas": {
             "id": "805826492299145220",
             "handle": "chinchilladas",
-            "displayName": "Booker🔜MOVING ARC📦",
-            "description": "Cheese enthusiast. Tattooer. Streamer (derogatory) 🐀🥔",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2061535159015374848/54ymt1l0_400x400.jpg",
+            "displayName": "Booker",
+            "description": "Cheese enthusiast. Horror fan. Retired Tattooer. Streamer (derogatory) 🐀🥔",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2088062940574306304/BDFL03pW_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/805826492299145220/1761554230/1500x500",
-            "followersCount": 9549,
-            "followingCount": 1453,
-            "postsCount": 75426,
+            "followersCount": 9600,
+            "followingCount": 1451,
+            "postsCount": 75477,
             "accountCreatedAt": "2016-12-05T17:29:42.155Z",
             "profileUrl": "https://x.com/chinchilladas",
-            "fetchedAt": "2026-08-11T17:23:57Z"
+            "fetchedAt": "2026-08-19T16:21:18Z"
         },
         "bookersbagel": {
             "id": "2073821457528795136",
@@ -65,12 +65,12 @@
             "description": "‼️NSFW‼️18+ MDNI I get naked here. main acct: @chinchilladas $chinchilladas",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2073822416195768320/V8RxH5-C_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2073821457528795136/1783272824/1500x500",
-            "followersCount": 310,
+            "followersCount": 306,
             "followingCount": 1,
             "postsCount": 12,
             "accountCreatedAt": "2026-07-05T17:30:45.238Z",
             "profileUrl": "https://x.com/BookersBagel",
-            "fetchedAt": "2026-08-11T17:23:59Z"
+            "fetchedAt": "2026-08-19T16:21:20Z"
         }
     }
 }

@@ -5,11 +5,11 @@
         "login": "minnah_mia",
         "displayName": "Minnah_Mia",
         "createdAt": "2021-04-07T17:11:15.158764Z",
-        "updatedAt": "2026-08-11T15:57:17.802238Z",
+        "updatedAt": "2026-08-18T18:23:08.485905Z",
         "description": "𐔌՞. .՞𐦯 Szia! Minnah Mia vagyok 🤡💖 Játszom, rajzolok és VTuber modelleket is készítek. Ha szeretnél csatlakozni egy fantasztikus közösséghez, itt aztán megéri! Csatlakozz, és ismerd meg Gubikát, a Shiba Inu kiskutyámat is! 🐶A röhögés garantál 100%🍿Semmiről való pofázás 150% ᨐฅ",
         "primaryColorHex": "5E5E5E",
         "followers": {
-            "totalCount": 3644
+            "totalCount": 3669
         },
         "follows": {
             "totalCount": 79
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T16:01:14.821058Z"
+            "startedAt": "2026-08-18T20:01:17.096122Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56e882d1-46f3-458a-a144-42c7fcd49624-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3153ca4-f47f-44c5-80f5-86bb89c44e88-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T17:02:27Z"
+        "fetchedAt": "2026-08-19T15:59:26Z"
     },
     "fansly": {
         "id": "488349233636712448",
         "username": "Minnah",
         "displayName": "Minnah_Mia",
         "version": 8,
-        "followCount": 764,
+        "followCount": 769,
         "statusId": 1,
         "accountMediaLikes": 404,
-        "postLikes": 354,
+        "postLikes": 355,
         "about": "Hi\n\nI am Minnah skunk and shark VTuber welcome \n\n-  https://throne.com/minnahmia\n\n- The Donation is non-refundable (except if I make decision for that) -",
         "location": "",
         "streaming": {
@@ -44,31 +44,47 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.f1u61PpKfwri.m3u8",
                 "chatRoomId": "669280353445224449",
                 "status": 2,
-                "version": 49,
+                "version": 54,
                 "createdAt": 1721063149000,
                 "updatedAt": null,
                 "stream": {
                     "id": "669280011584286721",
-                    "historyId": "942564537582776320",
+                    "historyId": "945101222178738176",
                     "channelId": "669280011584286720",
                     "accountId": "488349233636712448",
-                    "title": "HORNY STREAM ",
+                    "title": "VIP STREAM",
                     "status": 1,
-                    "viewerCount": 12,
-                    "version": 8232,
+                    "viewerCount": 5,
+                    "version": 8236,
                     "createdAt": 1721063150000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786226575000,
-                    "startedAt": 1786219257000,
+                    "lastFetchedAt": 1786828065000,
+                    "startedAt": 1786824050000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "935304461352443904",
+                                "id": "945101734605254656",
                                 "streamId": "669280011584286721",
                                 "type": 0,
-                                "flags": 2,
+                                "flags": 4,
                                 "price": 0,
-                                "metadata": ""
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"666261059857817601\\\"}\"}"
+                            },
+                            {
+                                "id": "945101734605254657",
+                                "streamId": "669280011584286721",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"664901789287456768\\\"}\"}"
+                            },
+                            {
+                                "id": "945101734605254658",
+                                "streamId": "669280011584286721",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"664905895599157249\\\"}\"}"
                             }
                         ]
                     }
@@ -78,7 +94,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:53:29Z"
+        "fetchedAt": "2026-08-19T16:48:15Z"
     },
     "twitter": {
         "minnah666": {
@@ -88,12 +104,12 @@
             "description": "🦨 ┊ SKUNKS ┊🦨\n\n♡ https://t.co/rvdJok9h2P\n 🍿 #minnahart",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2025853302491996160/5pO2_vbC_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1488087457459490819/1768775815/1500x500",
-            "followersCount": 189,
+            "followersCount": 191,
             "followingCount": 240,
             "postsCount": 1044,
             "accountCreatedAt": "2022-01-31T09:51:22.771Z",
             "profileUrl": "https://x.com/Minnah666",
-            "fetchedAt": "2026-08-11T17:44:36Z"
+            "fetchedAt": "2026-08-19T16:42:17Z"
         }
     }
 }

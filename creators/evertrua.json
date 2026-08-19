@@ -5,32 +5,32 @@
         "login": "evertrua",
         "displayName": "EverTrua",
         "createdAt": "2021-09-19T13:28:56.549477Z",
-        "updatedAt": "2026-08-10T01:41:40.089065Z",
+        "updatedAt": "2026-08-16T17:37:33.893476Z",
         "description": "Whalecome in beautiful soul! I'm a Stardust Orca VTuber! 18+ STREAMER Comfy & Chaotic | LEWD | LOUD MOUTH | BLUNT | EST Timezone | Tells Whale Jokes |Humble Partner | Twitch Creator Club | Cameo Partner | Streamily Partner | Blerp Partner",
         "primaryColorHex": "1F69FF",
         "followers": {
-            "totalCount": 12147
+            "totalCount": 12156
         },
         "follows": {
-            "totalCount": 1644
+            "totalCount": 1645
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T01:42:23.827189Z"
+            "startedAt": "2026-08-16T17:38:03.421504Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/404b22b5-6889-4cda-b3b1-c041b0fbb36a-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/85b01787-f00c-47df-88d5-52f36edd5142-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-11T16:42:28Z"
+        "fetchedAt": "2026-08-19T15:39:12Z"
     },
     "fansly": {
         "id": "464193899208908800",
         "username": "EverTrua",
         "displayName": "Trua",
         "version": 8,
-        "followCount": 4272,
+        "followCount": 4283,
         "statusId": 1,
         "accountMediaLikes": 1188,
         "postLikes": 2030,
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:47:37Z"
+        "fetchedAt": "2026-08-19T16:45:14Z"
     },
     "twitter": {
         "evertrua_ttv": {
             "id": "1439574809143398402",
             "handle": "evertrua_ttv",
-            "displayName": "✩ Trua | Stardust Orca Indie VTuber 🌟",
+            "displayName": "Trua | Stardust Orca Indie VTuber",
             "description": "18+ VTuber • Author of Paper Stars • Trua’s Starlight Studios • Creator Club • Humble • Cameo • Streamily • Mama: @Wolfay2D • 🫍🌟🌈 • https://t.co/KSkNZtxCso",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2086645631758503936/lEPnw-u6_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1439574809143398402/1779574104/1500x500",
-            "followersCount": 66742,
-            "followingCount": 2985,
-            "postsCount": 62888,
+            "followersCount": 66855,
+            "followingCount": 2819,
+            "postsCount": 63163,
             "accountCreatedAt": "2021-09-19T12:59:23.739Z",
             "profileUrl": "https://x.com/EverTrua_TTV",
-            "fetchedAt": "2026-08-11T17:11:43Z"
+            "fetchedAt": "2026-08-19T16:09:08Z"
         }
     }
 }

@@ -5,32 +5,32 @@
         "login": "sensay_live",
         "displayName": "SenSay_Live",
         "createdAt": "2023-09-19T23:01:43.312217Z",
-        "updatedAt": "2026-08-11T05:28:17.192925Z",
+        "updatedAt": "2026-08-19T00:08:20.247836Z",
         "description": "I'm your resident Onee-Sen, Sen Say. Elf physicist.  Welcome to my classroom.",
         "primaryColorHex": "00F593",
         "followers": {
-            "totalCount": 678
+            "totalCount": 682
         },
         "follows": {
-            "totalCount": 202
+            "totalCount": 205
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T09:45:09.364315Z"
+            "startedAt": "2026-08-19T06:23:46.048198Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1428c03-799c-4f3b-964d-01b8e2e9aec9-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/902e5e89-3809-4901-9086-626a038ef392-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:57:44Z"
+        "fetchedAt": "2026-08-19T15:54:46Z"
     },
     "fansly": {
         "id": "604465536004272128",
         "username": "SenSayLive",
         "displayName": "Sen Say",
         "version": 4,
-        "followCount": 8818,
+        "followCount": 8806,
         "statusId": 1,
         "accountMediaLikes": 28948,
         "postLikes": 13769,
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:52:09Z"
+        "fetchedAt": "2026-08-19T16:47:37Z"
     },
     "twitter": {
         "sensaylive": {
@@ -89,11 +89,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1991005931367510016/OlS34kXY_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1704284942258380800/1715365871/1500x500",
             "followersCount": 345,
-            "followingCount": 175,
+            "followingCount": 176,
             "postsCount": 3594,
             "accountCreatedAt": "2023-09-20T00:02:58.501Z",
             "profileUrl": "https://x.com/SenSayLive",
-            "fetchedAt": "2026-08-11T17:37:06Z"
+            "fetchedAt": "2026-08-19T16:34:33Z"
         },
         "sensayafterdark": {
             "id": "1754689298505338880",
@@ -102,12 +102,12 @@
             "description": "🔞 Only 🔞\nAstrophysicist, dancer, content creator! NSFW, mostly! \nPansexual elf-thing!  Non-\"lewd\": @sensaylive",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1988951032806969344/edam1WH7_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1754689298505338880/1763038072/1500x500",
-            "followersCount": 1432,
+            "followersCount": 1438,
             "followingCount": 235,
-            "postsCount": 1254,
+            "postsCount": 1258,
             "accountCreatedAt": "2024-02-06T02:11:50.963Z",
             "profileUrl": "https://x.com/SenSayAfterDark",
-            "fetchedAt": "2026-08-11T17:37:04Z"
+            "fetchedAt": "2026-08-19T16:34:31Z"
         }
     }
 }

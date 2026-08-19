@@ -5,32 +5,32 @@
         "login": "starunavtuber",
         "displayName": "starunavtuber",
         "createdAt": "2025-05-04T21:28:30.448678Z",
-        "updatedAt": "2026-07-21T18:47:28.396633Z",
+        "updatedAt": "2026-08-18T18:59:34.218762Z",
         "description": "₍ᐢ•ﻌ•ᐢ₎✧˖𝘏𝘪! 𝘐 𝘢𝘮 𝘺𝘰𝘶𝘳 𝘢𝘥𝘰𝘳𝘢𝘣𝘭𝘦 𝘚𝘱𝘢𝘤𝘦 𝘚𝘲𝘶𝘪𝘳𝘳𝘦𝘭 𝘝𝘵𝘶𝘣𝘦𝘳! -🐿*ੈ✩‧₊˚⋆˙",
         "primaryColorHex": "AB2DD3",
         "followers": {
-            "totalCount": 1331
+            "totalCount": 1359
         },
         "follows": {
-            "totalCount": 284
+            "totalCount": 292
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T21:39:50.860696Z"
+            "startedAt": "2026-08-18T01:08:13.450662Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e361406-8781-4e8b-8086-69b6064a2d92-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b72c340f-a026-448d-b34f-7c44453754dc-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:46:28Z"
+        "fetchedAt": "2026-08-19T15:43:29Z"
     },
     "fansly": {
         "id": "739261902504337409",
         "username": "OnlyBeigeThings",
         "displayName": "StarunaVtuber",
         "version": 12,
-        "followCount": 65,
+        "followCount": 63,
         "statusId": 1,
         "accountMediaLikes": 104,
         "postLikes": 127,
@@ -41,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:49:07Z"
+        "fetchedAt": "2026-08-19T16:46:03Z"
     },
     "twitter": {
         "starunavtuber": {
@@ -56,7 +56,7 @@
             "postsCount": 99,
             "accountCreatedAt": "2025-05-15T20:50:41.234Z",
             "profileUrl": "https://x.com/StarunaVtuber",
-            "fetchedAt": "2026-08-11T17:18:59Z"
+            "fetchedAt": "2026-08-19T16:16:24Z"
         }
     }
 }

@@ -9,10 +9,10 @@
         "description": "♡ Hi ! Welcome to my Twitch channel! Here I’ll be streaming a variety of games! Come chat with me, I won't bite, ʜᴀʀᴅ. ♡",
         "primaryColorHex": "24172C",
         "followers": {
-            "totalCount": 678
+            "totalCount": 682
         },
         "follows": {
-            "totalCount": 109
+            "totalCount": 110
         },
         "roles": {
             "isPartner": false,
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b55f5caa-104d-422f-a1ee-fbf8f0248149-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d2e459b-b72d-4c76-8ed4-f86760f9c541-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:52:19Z"
+        "fetchedAt": "2026-08-19T15:49:20Z"
     },
     "fansly": {
         "id": "627115857163591680",
         "username": "Blasphemei",
         "displayName": "Mei💜",
         "version": 9,
-        "followCount": 21125,
+        "followCount": 21344,
         "statusId": 3,
-        "accountMediaLikes": 15349,
-        "postLikes": 7206,
+        "accountMediaLikes": 15532,
+        "postLikes": 7210,
         "about": "╭───────────────────────╮\n      ♡૮ • ﻌ -づ~🦴ꜱᴜᴄᴄᴜ-ᴘᴜᴘ ɪɴ ʜᴇᴀᴛ ♡\n                ʜᴀʟꜰ ʙᴀᴛ, ʜᴀʟꜰ ʙʀᴀᴛ 🦇\n    🔗【 https://blasphemei.carrd.co 】\n╰───────────────────────╯\n🎁【 https://throne.com/blasphemei 】\n💗【 https://www.lovense.com/r/wy3lt2 】\n\n\n All content is under copyright. Enforced by bruqi.com.",
         "location": "Virtual Reality",
         "streaming": {
@@ -49,21 +49,21 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "722710600739725313",
-                    "historyId": "941876139587039232",
+                    "historyId": "945858842439209208",
                     "channelId": "722710600739725312",
                     "accountId": "627115857163591680",
                     "title": "˗ˏˋ  𝗖𝗛𝗔𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 ➜ 📜 !menu ⚡ !vibes 😈 !toycontrol 🎁 !throne  🔗 !socials  🍆 !lovense  ˎˊ˗",
                     "status": 1,
-                    "viewerCount": 28,
-                    "version": 8713,
+                    "viewerCount": 23,
+                    "version": 8727,
                     "createdAt": 1733801994000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786061005000,
-                    "startedAt": 1786055130000,
+                    "lastFetchedAt": 1787008903000,
+                    "startedAt": 1787004681000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "943215693157908480",
+                                "id": "945897095825485824",
                                 "streamId": "722710600739725313",
                                 "type": 0,
                                 "flags": 2,
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:50:54Z"
+        "fetchedAt": "2026-08-19T16:46:59Z"
     },
     "twitter": {
         "blasphemeii": {
@@ -88,12 +88,12 @@
             "description": "╭♱- \n│🦇​𝗦𝘂𝗰𝗰𝘂-𝗽𝘂𝗽𝗽𝘆𝗯𝗮𝘁\n│🎙ʟᴇᴡᴅᴛᴜʙᴇʀ ᴀꜱᴍʀᴛɪꜱᴛ \n│🎨 #TemptMei \n│🔞@BlasphemeiVT\n╰♱-",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1993553124791853056/0o0ewfH7_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1971309529540472832/1764135079/1500x500",
-            "followersCount": 203,
+            "followersCount": 205,
             "followingCount": 43,
-            "postsCount": 10,
+            "postsCount": 9,
             "accountCreatedAt": "2025-09-25T20:23:25.919Z",
             "profileUrl": "https://x.com/Blasphemeii",
-            "fetchedAt": "2026-08-11T17:29:11Z"
+            "fetchedAt": "2026-08-19T16:26:23Z"
         },
         "blasphemeivt": {
             "id": null,
@@ -107,7 +107,7 @@
             "postsCount": null,
             "accountCreatedAt": "2022-08-24T01:35:59.797Z",
             "profileUrl": "https://x.com/BlasphemeiVT",
-            "fetchedAt": "2026-08-11T17:29:13Z"
+            "fetchedAt": "2026-08-19T16:26:25Z"
         }
     }
 }

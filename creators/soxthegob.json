@@ -5,11 +5,11 @@
         "login": "soxthegob",
         "displayName": "SoxtheGob",
         "createdAt": "2023-01-01T08:01:26.238218Z",
-        "updatedAt": "2026-08-11T09:01:30.383775Z",
+        "updatedAt": "2026-08-18T06:14:53.743251Z",
         "description": "My name is Sox, and I'm a goblin! I only started playing videogames around 2022, so I'm still learning and looking forward to trying amazing things. I aim to be the sweetest, most wholesome, lewdest goblin you know.",
         "primaryColorHex": "417A18",
         "followers": {
-            "totalCount": 2511
+            "totalCount": 2517
         },
         "follows": {
             "totalCount": 219
@@ -19,18 +19,18 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T09:01:59.187831Z"
+            "startedAt": "2026-08-18T08:04:03.927825Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a39e600b-cb64-4546-bd3d-19638617166c-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7ad1a73-499f-4f28-bec4-ec69b7e35a1b-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T17:02:12Z"
+        "fetchedAt": "2026-08-19T15:59:13Z"
     },
     "fansly": {
         "id": "593816202913001473",
         "username": "SoxtheGob",
         "displayName": "Sox the Gob",
         "version": 5,
-        "followCount": 1218,
+        "followCount": 1219,
         "statusId": 3,
         "accountMediaLikes": 298,
         "postLikes": 230,
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:53:24Z"
+        "fetchedAt": "2026-08-19T16:48:15Z"
     },
     "twitter": {
         "soxthegob": {
@@ -79,12 +79,12 @@
             "description": "Lewd Goblin Vtuber and Live2D Rigger. Check me out on Twitch https://t.co/8KQNLyMCMa or commission me at https://t.co/WTLsqii6nx",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1761736001721118720/_dJFgjS5_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1628316776311451648/1740041255/1500x500",
-            "followersCount": 432,
-            "followingCount": 158,
-            "postsCount": 877,
+            "followersCount": 433,
+            "followingCount": 159,
+            "postsCount": 914,
             "accountCreatedAt": "2023-02-22T08:52:58.672Z",
             "profileUrl": "https://x.com/soxthegob",
-            "fetchedAt": "2026-08-11T17:44:18Z"
+            "fetchedAt": "2026-08-19T16:41:59Z"
         }
     }
 }

@@ -5,11 +5,11 @@
         "login": "usagi_shion",
         "displayName": "Usagi_Shion",
         "createdAt": "2017-06-21T03:10:25.512576Z",
-        "updatedAt": "2026-08-10T18:59:04.326812Z",
+        "updatedAt": "2026-08-13T03:59:00.404807Z",
         "description": "Oh hi~ Welcome to my Twitch channel. I'm but a silly bunny who hopes to grow big enough to bring happiness to a lot of people. Let's build a Legion~!",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 895
+            "totalCount": 898
         },
         "follows": {
             "totalCount": 25
@@ -19,18 +19,18 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T20:39:01.842621Z"
+            "startedAt": "2026-08-13T04:11:05.965102Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60bca776-29c6-4eb3-8077-bae6e01d6dbc-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a438da0-c606-4906-96d9-f898423c4fdf-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:45:36Z"
+        "fetchedAt": "2026-08-19T15:42:32Z"
     },
     "fansly": {
         "id": "408712389622505472",
         "username": "ShionVT",
         "displayName": "UsagiShion (NSFW)",
         "version": 7,
-        "followCount": 99,
+        "followCount": 100,
         "statusId": 1,
         "accountMediaLikes": 17,
         "postLikes": 14,
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:48:46Z"
+        "fetchedAt": "2026-08-19T16:45:53Z"
     },
     "twitter": {
         "bunny_shion": {
@@ -81,10 +81,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1787702684902170624/1772668513/1500x500",
             "followersCount": 117,
             "followingCount": 29,
-            "postsCount": 911,
+            "postsCount": 912,
             "accountCreatedAt": "2024-05-07T04:35:14.461Z",
             "profileUrl": "https://x.com/Bunny_Shion",
-            "fetchedAt": "2026-08-11T17:17:39Z"
+            "fetchedAt": "2026-08-19T16:15:03Z"
         },
         "shion_nsfw": {
             "id": "2857120254",
@@ -94,11 +94,11 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2022809461270740992/XrZaGRvP_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2857120254/1771110333/1500x500",
             "followersCount": 317,
-            "followingCount": 81,
-            "postsCount": 3980,
+            "followingCount": 82,
+            "postsCount": 3981,
             "accountCreatedAt": "2014-10-15T21:51:38.770Z",
             "profileUrl": "https://x.com/shion_NSFW",
-            "fetchedAt": "2026-08-11T17:17:37Z"
+            "fetchedAt": "2026-08-19T16:15:01Z"
         }
     }
 }

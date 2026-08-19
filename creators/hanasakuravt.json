@@ -5,11 +5,11 @@
         "login": "hanasakuravt",
         "displayName": "HanaSakuraVT",
         "createdAt": "2022-06-26T11:54:32.110514Z",
-        "updatedAt": "2026-08-11T12:15:48.539793Z",
+        "updatedAt": "2026-08-19T12:45:37.732899Z",
         "description": "🌸 Welcome to My Spooky-Cute Office! 🌸Hey there! I’m Hana Sakura your office lady VTuber. I play games with cute art and spooky scares! 🎮✨👻 Cute Horror: Eerie chills with charming art!🎀 Adorable Adventures: Heartwarming games that make you smile!📅 Themed Months: New fun every month",
         "primaryColorHex": "FFACBC",
         "followers": {
-            "totalCount": 1019
+            "totalCount": 1020
         },
         "follows": {
             "totalCount": 166
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T14:13:41.232047Z"
+            "startedAt": "2026-08-19T14:09:12.884088Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13dece7b-656f-48ea-b445-082d334ce0a6-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6291df7-14dd-44f2-bab5-2ee334411fae-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:55:59Z"
+        "fetchedAt": "2026-08-19T15:52:59Z"
     },
     "fansly": {
         "id": "384460565340233728",
         "username": "Hanasakura",
         "displayName": "Hana🌸",
         "version": 5,
-        "followCount": 301,
+        "followCount": 326,
         "statusId": 1,
-        "accountMediaLikes": 276,
-        "postLikes": 481,
+        "accountMediaLikes": 314,
+        "postLikes": 531,
         "about": "Hey, I am using Fansly.",
         "location": "",
         "streaming": {
@@ -49,19 +49,28 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "832295237744336897",
-                    "historyId": "942124443482726400",
+                    "historyId": "944313965482106881",
                     "channelId": "832295237744336896",
                     "accountId": "384460565340233728",
                     "title": "You can't make me cum",
                     "status": 1,
-                    "viewerCount": 11,
-                    "version": 114,
+                    "viewerCount": 13,
+                    "version": 118,
                     "createdAt": 1759929008000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786121343000,
-                    "startedAt": 1786114331000,
+                    "lastFetchedAt": 1786641005000,
+                    "startedAt": 1786636353000,
                     "permissions": {
-                        "permissionFlags": []
+                        "permissionFlags": [
+                            {
+                                "id": "944298379855278080",
+                                "streamId": "832295237744336897",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
                     }
                 },
                 "arn": null,
@@ -69,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:47Z"
+        "fetchedAt": "2026-08-19T16:47:26Z"
     },
     "twitter": {
         "hanasakuvt": {
@@ -79,12 +88,12 @@
             "description": "🔞I'll be your favorite vtuber🔞|\nanything you'll see here doesn't reflect irl. |Workaholic lady 🐰 twitch: https://t.co/QBiIDw56Jq",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2086122350207234048/rPuuqO6n_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1527603111044345857/1728845238/1500x500",
-            "followersCount": 6529,
+            "followersCount": 6514,
             "followingCount": 194,
-            "postsCount": 18225,
+            "postsCount": 18271,
             "accountCreatedAt": "2022-05-20T10:52:30.015Z",
             "profileUrl": "https://x.com/hanasakuvt",
-            "fetchedAt": "2026-08-11T17:34:15Z"
+            "fetchedAt": "2026-08-19T16:31:44Z"
         }
     }
 }

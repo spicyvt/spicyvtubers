@@ -5,35 +5,35 @@
         "login": "kodeshinju",
         "displayName": "KodeShinju",
         "createdAt": "2015-12-23T18:54:40.127298Z",
-        "updatedAt": "2026-08-11T03:17:40.698928Z",
+        "updatedAt": "2026-08-18T02:19:37.862446Z",
         "description": "reality travelling kitsune ripped across the fabric of time and space | twitch pride guild member ♡ - 時空を裂いて現実を旅する狐 | Twitchプライドギルドメンバー ♡ ",
         "primaryColorHex": "530000",
         "followers": {
-            "totalCount": 4979
+            "totalCount": 4997
         },
         "follows": {
-            "totalCount": 420
+            "totalCount": 423
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T06:48:59.394884Z"
+            "startedAt": "2026-08-18T07:01:19.231564Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/950b8232-d70b-4a3e-b276-02c5b550b906-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/340db966-034f-4f78-b70e-e1e8e5b3da6f-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:46:51Z"
+        "fetchedAt": "2026-08-19T15:43:54Z"
     },
     "fansly": {
         "id": "587128562847326209",
         "username": "kitsuthots",
         "displayName": "kode",
         "version": 4,
-        "followCount": 1119,
+        "followCount": 1135,
         "statusId": 1,
-        "accountMediaLikes": 1758,
-        "postLikes": 829,
+        "accountMediaLikes": 1779,
+        "postLikes": 837,
         "about": "puppy-coded & bratty kitsune femboy~\n\n✨ free streams every thurs + sat @ 9pm et\n🎙️ nsfw va and voiced content\n📷 IRL & VR photosets\n📧 dms open for custom requests~\n\ncan't get enough? check out my socials > https://kodeshinju.rip",
         "location": "your dad's bedroom",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7mYljnlAF5qN.m3u8",
                 "chatRoomId": "712174468415365122",
                 "status": 2,
-                "version": 91,
+                "version": 93,
                 "createdAt": 1731289976000,
                 "updatedAt": null,
                 "stream": {
                     "id": "712174432004616193",
-                    "historyId": "942651310669307904",
+                    "historyId": "945179145661341697",
                     "channelId": "712174432004616192",
                     "accountId": "587128562847326209",
-                    "title": "hanging out in vr~ #yaoi",
+                    "title": "support me (under the desk) #yaoi ",
                     "status": 1,
-                    "viewerCount": 11,
-                    "version": 2425,
+                    "viewerCount": 7,
+                    "version": 2429,
                     "createdAt": 1731289976000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786246418000,
-                    "startedAt": 1786239946000,
+                    "lastFetchedAt": 1786850097000,
+                    "startedAt": 1786842628000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:49:13Z"
+        "fetchedAt": "2026-08-19T16:46:04Z"
     },
     "twitter": {
         "kodeshinju": {
@@ -79,12 +79,12 @@
             "description": "reality-travelling kitsune | your kitsu boyfriend | twitch pride guild \n\n 現実旅するキツネちゃん🦊 | 君のキツネ彼氏♡| 🔞 @kitsuthots | https://t.co/cm44uaD2jG",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2003027772310999040/sVUSSeSp_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/4842646503/1748100990/1500x500",
-            "followersCount": 1514,
-            "followingCount": 421,
-            "postsCount": 1773,
+            "followersCount": 1525,
+            "followingCount": 431,
+            "postsCount": 1797,
             "accountCreatedAt": "2016-01-24T17:42:13.923Z",
             "profileUrl": "https://x.com/KodeShinju",
-            "fetchedAt": "2026-08-11T17:19:44Z"
+            "fetchedAt": "2026-08-19T16:17:07Z"
         },
         "kitsuthots": {
             "id": "1728585749539291136",
@@ -93,12 +93,12 @@
             "description": "26 || femboy (male) || nsfw audio creator || mdni | #kitsuthots || gay || open for audio collabs || vtuber acc: @KodeShinju",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1987114788195868672/JQrPX5k__400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1728585749539291136/1711501519/1500x500",
-            "followersCount": 10579,
-            "followingCount": 120,
-            "postsCount": 481,
+            "followersCount": 10747,
+            "followingCount": 123,
+            "postsCount": 486,
             "accountCreatedAt": "2023-11-26T01:25:43.482Z",
             "profileUrl": "https://x.com/kitsuthots",
-            "fetchedAt": "2026-08-11T17:19:42Z"
+            "fetchedAt": "2026-08-19T16:17:05Z"
         }
     }
 }

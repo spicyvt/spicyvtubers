@@ -5,35 +5,35 @@
         "login": "wynninkwell",
         "displayName": "WynnInkwell",
         "createdAt": "2025-07-07T05:28:33.938529Z",
-        "updatedAt": "2026-08-08T00:31:30.820672Z",
+        "updatedAt": "2026-08-15T01:30:54.141476Z",
         "description": "Wynn Inkwell, your Primordial Ink Idol! ~ 🧿✨ Stay posted.",
         "primaryColorHex": "001849",
         "followers": {
-            "totalCount": 877
+            "totalCount": 899
         },
         "follows": {
-            "totalCount": 218
+            "totalCount": 207
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-08T02:48:10.837698Z"
+            "startedAt": "2026-08-15T04:12:38.373861Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1946632-e472-4c9b-8c6a-9e5f05e4adf2-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fec75df5-47a7-414a-8f87-751231d73705-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:54:48Z"
+        "fetchedAt": "2026-08-19T15:51:48Z"
     },
     "fansly": {
         "id": "879627290051358720",
         "username": "WynnFreakwell",
         "displayName": null,
         "version": 3,
-        "followCount": 467,
+        "followCount": 509,
         "statusId": 1,
-        "accountMediaLikes": 134,
-        "postLikes": 146,
+        "accountMediaLikes": 150,
+        "postLikes": 156,
         "about": "Hey, I am using Fansly.",
         "location": "",
         "streaming": {
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:51:26Z"
+        "fetchedAt": "2026-08-19T16:47:15Z"
     },
     "twitter": {
         "wynninkwell": {
@@ -79,12 +79,12 @@
             "description": "Wynn Inkwell : The Primordial Ink™️ 📓 ✩₊˚.⋆ | 🔞 goontuber | https://t.co/plWv26rs5y | @E0N_official | 🇵🇭 | pfp: @matcha_latte42 | banner: @RIP_U0x0U",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2042225459912491008/bl5Fv6-x_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1529518243303546885/1783928918/1500x500",
-            "followersCount": 662,
-            "followingCount": 1316,
-            "postsCount": 4719,
+            "followersCount": 680,
+            "followingCount": 1327,
+            "postsCount": 4795,
             "accountCreatedAt": "2022-05-25T17:42:32.525Z",
             "profileUrl": "https://x.com/wynninkwell",
-            "fetchedAt": "2026-08-11T17:32:26Z"
+            "fetchedAt": "2026-08-19T16:29:48Z"
         }
     }
 }

@@ -5,36 +5,36 @@
         "login": "shinichikaivt",
         "displayName": "ShinichiKaiVT",
         "createdAt": "2019-01-22T22:00:46.793207Z",
-        "updatedAt": "2026-08-09T22:49:10.63981Z",
+        "updatedAt": "2026-08-15T20:07:20.275746Z",
         "description": "Have you ever woken up in another world? Well, I have. Hi, I'm Kai, a demon lord isekai'd to the human realm. In order to survive and learn this realm I have become a variety streamer in hopes of finding a way home.",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 3420
+            "totalCount": 3415
         },
         "follows": {
-            "totalCount": 452
+            "totalCount": 453
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-08T20:44:50.574397Z"
+            "startedAt": "2026-08-15T20:47:53.657245Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/634a2b20-b844-43f7-973d-e14ebdb2fdab-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e34b2ab5-43fd-40b2-960c-607e491a82df-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:43:48Z"
+        "fetchedAt": "2026-08-19T15:40:38Z"
     },
     "fansly": {
         "id": "616405840127074304",
         "username": "ShinichiKaiVT",
         "displayName": "ShinichiKaiVT",
         "version": 5,
-        "followCount": 893,
+        "followCount": 894,
         "statusId": 1,
         "accountMediaLikes": 408,
-        "postLikes": 717,
-        "about": "I'm a your sussy demonlord who has been isekai'd into the human realm. Maybe you can help me find my way home or maybe you can take me home instead~",
+        "postLikes": 735,
+        "about": "I'm a your sussy demonlord who has been isekai'd into the human realm. Maybe you can help me find my way home or maybe you can take me home instead~\n",
         "location": "",
         "streaming": {
             "accountId": "616405840127074304",
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.y63LTEUgX3Um.m3u8",
                 "chatRoomId": "756801906197671936",
                 "status": 2,
-                "version": 21,
+                "version": 22,
                 "createdAt": 1741929901000,
                 "updatedAt": null,
                 "stream": {
                     "id": "756801513560481793",
-                    "historyId": "924851405431255040",
+                    "historyId": "945191049502937088",
                     "channelId": "756801513560481792",
                     "accountId": "616405840127074304",
-                    "title": "Down bad for Jason",
+                    "title": "Naughty by Daylight~",
                     "status": 1,
-                    "viewerCount": 11,
-                    "version": 4870,
+                    "viewerCount": 15,
+                    "version": 4872,
                     "createdAt": 1741929901000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1782001612000,
-                    "startedAt": 1781996118000,
+                    "lastFetchedAt": 1786851025000,
+                    "startedAt": 1786845467000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:48:09Z"
+        "fetchedAt": "2026-08-19T16:45:31Z"
     },
     "twitter": {
         "shinichikaivt": {
@@ -79,12 +79,12 @@
             "description": "To be reborn once more~🔞| 🎨 #DemonKaiArt | NSFW🎨 #DemonKaiSussy | 🎤🎶#DemonKaiSing | 2.0 ママ: @sae_illust | 2.0 Rig @Ervihei | NSFW @ShinichiKaiNSFW",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2085156612025847808/7rcoDVsL_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1573423465188712452/1748198625/1500x500",
-            "followersCount": 2807,
+            "followersCount": 2814,
             "followingCount": 403,
-            "postsCount": 4295,
+            "postsCount": 4299,
             "accountCreatedAt": "2022-09-23T21:29:20.553Z",
             "profileUrl": "https://x.com/ShinichiKaiVT",
-            "fetchedAt": "2026-08-11T17:14:16Z"
+            "fetchedAt": "2026-08-19T16:11:41Z"
         },
         "shinichikainsfw": {
             "id": "1901363303621730304",
@@ -93,12 +93,12 @@
             "description": "To be reborn once more~🔞| Main: @ShinichiKaiVT |  Fansly: https://t.co/AnRAjElSjj | NSFW🎨 #DemonKaiSussy",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1958450239930798080/vKoCVcwf_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1901363303621730304/1742156141/1500x500",
-            "followersCount": 1018,
+            "followersCount": 1021,
             "followingCount": 10,
-            "postsCount": 94,
+            "postsCount": 96,
             "accountCreatedAt": "2025-03-16T20:02:04.669Z",
             "profileUrl": "https://x.com/ShinichiKaiNSFW",
-            "fetchedAt": "2026-08-11T17:14:18Z"
+            "fetchedAt": "2026-08-19T16:11:43Z"
         }
     }
 }

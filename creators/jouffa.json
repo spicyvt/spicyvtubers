@@ -5,35 +5,35 @@
         "login": "jouffa",
         "displayName": "jouffa",
         "createdAt": "2020-05-04T09:52:31.332071Z",
-        "updatedAt": "2026-08-11T01:11:41.226308Z",
+        "updatedAt": "2026-08-18T17:37:53.52675Z",
         "description": ":3",
         "primaryColorHex": "F0196B",
         "followers": {
-            "totalCount": 51854
+            "totalCount": 51887
         },
         "follows": {
-            "totalCount": 154
+            "totalCount": 156
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T01:11:21.074274Z"
+            "startedAt": "2026-08-18T23:00:37.214024Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef3f5c17-c4de-4a48-a16b-d921402de104-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/afb1f70e-c41e-4cf7-a30d-ea96b2736d25-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:41:35Z"
+        "fetchedAt": "2026-08-19T15:38:14Z"
     },
     "fansly": {
         "id": "819828607315632128",
         "username": "jouffas",
         "displayName": "Jouffa",
         "version": 5,
-        "followCount": 11231,
+        "followCount": 11421,
         "statusId": 3,
-        "accountMediaLikes": 17866,
-        "postLikes": 9613,
+        "accountMediaLikes": 18231,
+        "postLikes": 9925,
         "about": "hey~ 💕\n\nPosts every Tues/Fri\nStreams Fridays 7PM CST ",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hD89rzGHHYBa.m3u8",
                 "chatRoomId": "858554139070701568",
                 "status": 2,
-                "version": 95,
+                "version": 98,
                 "createdAt": 1762500131000,
                 "updatedAt": null,
                 "stream": {
                     "id": "843079313224908802",
-                    "historyId": "942260334335369216",
+                    "historyId": "944806143983644672",
                     "channelId": "843079313224908801",
                     "accountId": "819828607315632128",
-                    "title": "💗 I've been a bad cat... 💗 Make me your good girl~ ♡ (Collar + Lush + Gemini Active)",
+                    "title": "💗 I'm needy... 💗 My body is for you~ ♡ (Collar + Gemini + Lush Active)",
                     "status": 1,
-                    "viewerCount": 339,
-                    "version": 184,
+                    "viewerCount": 50,
+                    "version": 188,
                     "createdAt": 1762500132000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786159886000,
-                    "startedAt": 1786146730000,
+                    "lastFetchedAt": 1786766728000,
+                    "startedAt": 1786753698000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:47:21Z"
+        "fetchedAt": "2026-08-19T16:45:09Z"
     },
     "twitter": {
         "jouffas": {
@@ -79,12 +79,12 @@
             "description": "hii \n- Live MOST days 3PM CST\n- Inquiries: contactjouffa@gmail.com\n@GamerSupps Code \"JOUF\" 10% OFF\nclick the funny link NOW :3",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1921757496177307649/f_3xaSiK_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1298672136173826050/1757616136/1500x500",
-            "followersCount": 21861,
+            "followersCount": 21932,
             "followingCount": 220,
-            "postsCount": 347,
+            "postsCount": 350,
             "accountCreatedAt": "2020-08-26T17:22:44.468Z",
             "profileUrl": "https://x.com/jouffas",
-            "fetchedAt": "2026-08-11T17:09:42Z"
+            "fetchedAt": "2026-08-19T16:07:02Z"
         }
     }
 }

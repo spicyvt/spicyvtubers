@@ -23,14 +23,14 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6640dd0-d3dc-4437-bcd3-b45bced9e7b5-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e5cfca6-a2c7-442d-9cc6-c27e8fe468fc-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:40:24Z"
+        "fetchedAt": "2026-08-19T15:37:04Z"
     },
     "fansly": {
         "id": "572299908611055616",
         "username": "SkyaNoire",
         "displayName": "Skya Noire",
         "version": 8,
-        "followCount": 424,
+        "followCount": 425,
         "statusId": 1,
         "accountMediaLikes": 48,
         "postLikes": 91,
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:46:53Z"
+        "fetchedAt": "2026-08-19T16:44:52Z"
     },
     "twitter": {
         "skyanoire": {
@@ -90,10 +90,10 @@
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1658935379905445888/1738135306/1500x500",
             "followersCount": 2907,
             "followingCount": 686,
-            "postsCount": 7464,
+            "postsCount": 7501,
             "accountCreatedAt": "2023-05-17T20:40:27.068Z",
             "profileUrl": "https://x.com/SkyaNoire",
-            "fetchedAt": "2026-08-11T17:07:21Z"
+            "fetchedAt": "2026-08-19T16:04:46Z"
         }
     }
 }

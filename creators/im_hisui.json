@@ -5,35 +5,35 @@
         "login": "im_hisui",
         "displayName": "im_hisui",
         "createdAt": "2020-12-22T07:47:42.043655Z",
-        "updatedAt": "2026-08-09T03:25:03.257273Z",
+        "updatedAt": "2026-08-17T19:16:53.776936Z",
         "description": "your favorite scuffed streamer ;)",
         "primaryColorHex": "FF94E5",
         "followers": {
-            "totalCount": 3411
+            "totalCount": 3410
         },
         "follows": {
-            "totalCount": 489
+            "totalCount": 490
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-09T05:24:23.824177Z"
+            "startedAt": "2026-08-15T04:09:25.376925Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad393f47-02d4-466d-9fd4-9a11693dcadb-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22251a0f-fae8-4609-93f9-7f1a948310d2-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T17:00:56Z"
+        "fetchedAt": "2026-08-19T15:57:57Z"
     },
     "fansly": {
         "id": "515023034772369408",
         "username": "im_hisui",
         "displayName": "Hisui",
         "version": 4,
-        "followCount": 2482,
+        "followCount": 2517,
         "statusId": 3,
-        "accountMediaLikes": 1188,
-        "postLikes": 547,
+        "accountMediaLikes": 1243,
+        "postLikes": 589,
         "about": "Hisui's Spicy site for NSFW content.\n\nStreams every Wednesday & Saturday at 9 pm EST ˚ʚ♡ɞ˚\n\nI post weekly!",
         "location": "",
         "streaming": {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:53:02Z"
+        "fetchedAt": "2026-08-19T16:47:59Z"
     },
     "twitter": {
         "im_hisuii": {
@@ -88,12 +88,12 @@
             "description": "ღ: @ttmk_0z ღ: @totochomp| @PoggersShop affiliate | Youtube Partner | shinigami vtuber 🎨: #artsui 🔞: #lewdsui 📸: #clipsui 🔗:https://t.co/4yaaXQ4bRi",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1917251918977474561/eYhCCJHG_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/965255513406664704/1685301222/1500x500",
-            "followersCount": 751,
-            "followingCount": 821,
-            "postsCount": 2097,
+            "followersCount": 750,
+            "followingCount": 822,
+            "postsCount": 2098,
             "accountCreatedAt": "2018-02-18T16:03:42.745Z",
             "profileUrl": "https://x.com/im_hisuii",
-            "fetchedAt": "2026-08-11T17:42:13Z"
+            "fetchedAt": "2026-08-19T16:39:52Z"
         },
         "hisuiva": {
             "id": "1673201494856990721",
@@ -107,7 +107,7 @@
             "postsCount": 114,
             "accountCreatedAt": "2023-06-26T05:28:32.515Z",
             "profileUrl": "https://x.com/HisuiVA",
-            "fetchedAt": "2026-08-11T17:42:14Z"
+            "fetchedAt": "2026-08-19T16:39:54Z"
         }
     }
 }

@@ -5,32 +5,32 @@
         "login": "omenkae",
         "displayName": "OmenKae",
         "createdAt": "2022-01-06T06:51:17.211857Z",
-        "updatedAt": "2026-08-10T06:54:56.36617Z",
+        "updatedAt": "2026-08-18T21:33:52.986324Z",
         "description": "",
         "primaryColorHex": "565656",
         "followers": {
-            "totalCount": 6826
+            "totalCount": 6832
         },
         "follows": {
-            "totalCount": 1127
+            "totalCount": 1134
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T08:05:29.410231Z"
+            "startedAt": "2026-08-18T06:34:49.017642Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a8fa271-2ee3-455f-8a38-40291fe03118-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/966cf8b6-c6b3-4064-9af4-dde333ae4151-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:43:59Z"
+        "fetchedAt": "2026-08-19T15:40:51Z"
     },
     "fansly": {
         "id": "537886383985926144",
         "username": "OmenKae",
         "displayName": "OmenKae",
         "version": 7,
-        "followCount": 114,
+        "followCount": 115,
         "statusId": 3,
         "accountMediaLikes": 14,
         "postLikes": 55,
@@ -41,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:48:14Z"
+        "fetchedAt": "2026-08-19T16:45:36Z"
     },
     "twitter": {
         "theomenkae": {
@@ -51,12 +51,12 @@
             "description": "The Upcoming Orca-___ VTuber, DEBUT 2026!!! // 🎨 #Kaedrawn 🔞 #OmeNSFW  Business 📧: TheOmenKae@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2082570627471355904/PotRM3OS_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/981912540484718592/1785358548/1500x500",
-            "followersCount": 12541,
-            "followingCount": 1618,
-            "postsCount": 17458,
+            "followersCount": 12552,
+            "followingCount": 1624,
+            "postsCount": 17478,
             "accountCreatedAt": "2018-04-05T15:12:47.485Z",
             "profileUrl": "https://x.com/TheOmenKae",
-            "fetchedAt": "2026-08-11T17:14:37Z"
+            "fetchedAt": "2026-08-19T16:12:02Z"
         }
     }
 }

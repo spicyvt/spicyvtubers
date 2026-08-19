@@ -5,11 +5,11 @@
         "login": "caramelkaiteki",
         "displayName": "caramelkaiteki",
         "createdAt": "2021-07-10T23:18:07.228289Z",
-        "updatedAt": "2026-06-16T20:04:20.624187Z",
+        "updatedAt": "2026-08-12T18:27:49.848587Z",
         "description": "こんにちは! Welcome to my sleepover party, enjoy your stay!~ ",
         "primaryColorHex": "99867D",
         "followers": {
-            "totalCount": 1543
+            "totalCount": 1539
         },
         "follows": {
             "totalCount": 265
@@ -23,14 +23,14 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8aeb119-9777-4d20-9648-b52d1cea0d19-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9307c113-8d53-484e-91d0-b02f89834bf2-profile_banner-480.png",
-        "fetchedAt": "2026-08-11T16:47:45Z"
+        "fetchedAt": "2026-08-19T15:44:46Z"
     },
     "fansly": {
         "id": "472900865523458048",
         "username": "CaramelKaiteki",
         "displayName": null,
         "version": 4,
-        "followCount": 863,
+        "followCount": 861,
         "statusId": 1,
         "accountMediaLikes": 191,
         "postLikes": 655,
@@ -41,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-11T17:49:29Z"
+        "fetchedAt": "2026-08-19T16:46:15Z"
     },
     "twitter": {
         "caramelkaiteki": {
@@ -51,12 +51,12 @@
             "description": "Indie Game Dev | Vtuber 🍮 🏳️‍⚧️ \n\nhttps://t.co/IKwZuOrxHq\n\nRig: @mikoscrub \nArt: @skyfishu \n\n🎨#Kaitekillust 🔞#Caramussy",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2080341867787378688/wPxNWe5q_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1413886688640868353/1769358875/1500x500",
-            "followersCount": 12525,
-            "followingCount": 2841,
-            "postsCount": 65541,
+            "followersCount": 12554,
+            "followingCount": 2839,
+            "postsCount": 65648,
             "accountCreatedAt": "2021-07-10T15:43:55.411Z",
             "profileUrl": "https://x.com/CaramelKaiteki",
-            "fetchedAt": "2026-08-11T17:21:15Z"
+            "fetchedAt": "2026-08-19T16:18:39Z"
         }
     }
 }
