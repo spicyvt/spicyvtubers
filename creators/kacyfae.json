@@ -1,0 +1,58 @@
+{
+    "bio": "Hiya! I'm Kacy! Your favorite magical fairy vtuber who loves to be silly, game and react! 🩷🦋✨",
+    "twitch": {
+        "id": "527509376",
+        "login": "kacyfae",
+        "displayName": "kacyfae",
+        "createdAt": "2020-05-08T11:45:05.445562Z",
+        "updatedAt": "2026-08-19T00:22:40.614549Z",
+        "description": "Hiya! I'm Kacy! Your favorite magical fairy vtuber who loves to be silly, game and react! 🩷🦋✨ ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 1179
+        },
+        "follows": {
+            "totalCount": 265
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-19T01:32:24.021266Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0f56584-320e-4426-a597-fad393c26dbd-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a7dc276-57b7-4b76-9eab-c618d541ce0d-profile_banner-480.png",
+        "fetchedAt": "2026-08-19T22:38:39Z"
+    },
+    "twitter": {
+        "kacyfaevt": {
+            "id": "1809300782392750080",
+            "handle": "kacyfaevt",
+            "displayName": "Kacy 🦋🩷✨Magical Fairy VTuber",
+            "description": "🩷 YouTube Partner | ✨ Twitch Affiliate! \n\nMagical Fairy VTuber 🦋\n\n🎨: #kacyfaeart 🔞: @spicykacyfae \n2.5 model: me!\n\nvgen: https://t.co/iMOVbec0mD",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2078590836913102850/8GrzsVh4_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1809300782392750080/1771806369/1500x500",
+            "followersCount": 2357,
+            "followingCount": 1819,
+            "postsCount": 5590,
+            "accountCreatedAt": "2024-07-05T18:58:27.377Z",
+            "profileUrl": "https://x.com/kacyfaevt",
+            "fetchedAt": "2026-08-19T22:38:41Z"
+        },
+        "spicykacyfae": {
+            "id": "2055370691478687746",
+            "handle": "spicykacyfae",
+            "displayName": "🩷🦋✨ KacyFae | NSFW 🔞",
+            "description": "NSFW Account for @kacyfaevt \nMagical Fairy VTuber \n\nPatreon now open!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2084156567268573184/CfXW0d3X_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2055370691478687746/1778874218/1500x500",
+            "followersCount": 204,
+            "followingCount": 5,
+            "postsCount": 43,
+            "accountCreatedAt": "2026-05-15T19:34:13.566Z",
+            "profileUrl": "https://x.com/SpicyKacyFae",
+            "fetchedAt": "2026-08-19T22:38:43Z"
+        }
+    }
+}
