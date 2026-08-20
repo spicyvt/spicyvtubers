@@ -1,0 +1,135 @@
+{
+    "bio": "hello . I'am a polar bear nun vtuber ~ Let's have somes fun Together !",
+    "twitch": {
+        "id": "211787566",
+        "login": "nallyvtuber01",
+        "displayName": "nallyvtuber01",
+        "createdAt": "2018-04-05T16:48:02.502631Z",
+        "updatedAt": "2026-08-16T21:40:10.340003Z",
+        "description": "hello . I'am a polar bear nun vtuber ~ Let's have somes fun Together ! ",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 16176
+        },
+        "follows": {
+            "totalCount": 800
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-16T21:43:50.960242Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/16291322-dee3-4af2-a414-f2ad4d0b752b-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c092f258-0178-4025-9122-070ba34227b0-profile_banner-480.png",
+        "fetchedAt": "2026-08-20T04:11:04Z"
+    },
+    "twitter": {
+        "cosdestiny": {
+            "id": "1260107292",
+            "handle": "cosdestiny",
+            "displayName": "◤Destiny(運命) ◢ ◤ LEWD◢ Nally.Vtube ◤",
+            "description": "VTB -Twitch Affiliates -🔞  \n🔺VTUBER - GUNTUBER\n🔺Nobinary\nsfw /@nallyxdestsfw\nNSFW Alt/ @Lewdnallyvtube\nhttps://t.co/YxYUrx0xXW",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1873720568605806592/Em5tF6xS_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1260107292/1717839699/1500x500",
+            "followersCount": 457241,
+            "followingCount": 4497,
+            "postsCount": 14462,
+            "accountCreatedAt": "2013-03-11T18:31:52.000Z",
+            "profileUrl": "https://x.com/CosDestiny",
+            "fetchedAt": "2026-08-20T04:11:09Z"
+        },
+        "nallyxdestsfw": {
+            "id": "1959061402066321408",
+            "handle": "nallyxdestsfw",
+            "displayName": "Nallyxdestiny",
+            "description": "sfw acc alt of @cosdestiny",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1959062732851855360/Sj2_drEo_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1959061402066321408/1755911962/1500x500",
+            "followersCount": 54698,
+            "followingCount": 37,
+            "postsCount": 60,
+            "accountCreatedAt": "2025-08-23T01:14:03.349Z",
+            "profileUrl": "https://x.com/nallyxdestsfw",
+            "fetchedAt": "2026-08-20T04:11:11Z"
+        },
+        "lewdnallyvtube": {
+            "id": "1370844570611765252",
+            "handle": "lewdnallyvtube",
+            "displayName": "Destiny(運命) / Darkvibe 🔞",
+            "description": "NSFW ACC \n@CosDestiny \nTwitch Affiliates 💜 \nMy lewdy NSFW",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1788799190371295232/JcavdbHs_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1370844570611765252/1715317937/1500x500",
+            "followersCount": 42327,
+            "followingCount": 149,
+            "postsCount": 181,
+            "accountCreatedAt": "2021-03-13T21:10:00.170Z",
+            "profileUrl": "https://x.com/Lewdnallyvtube",
+            "fetchedAt": "2026-08-20T04:11:12Z"
+        }
+    },
+    "fansly": {
+        "id": "285393914024701952",
+        "username": "Destinycrossplay",
+        "displayName": "NALLY X DESTINY",
+        "version": 12,
+        "followCount": 7657,
+        "statusId": 1,
+        "accountMediaLikes": 18417,
+        "postLikes": 11625,
+        "about": "Hi all I'm Destiny I started in July 2012 i'm crossplayer male to female i'm Real trap i hope you enjoy my art!!\n",
+        "location": "France",
+        "streaming": {
+            "accountId": "285393914024701952",
+            "channel": {
+                "id": "717708462225633300",
+                "accountId": "285393914024701952",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.lGjknBrEZHwo.m3u8",
+                "chatRoomId": "717709589025402881",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1732609391000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "717708462225633301",
+                    "historyId": "945450326192840704",
+                    "channelId": "717708462225633300",
+                    "accountId": "285393914024701952",
+                    "title": "bear streaming",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 1410,
+                    "createdAt": 1732609392000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786907568000,
+                    "startedAt": 1786907283000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "935374993955516417",
+                                "streamId": "717708462225633301",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "935374993955516418",
+                                "streamId": "717708462225633301",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-20T04:11:17Z"
+    }
+}
