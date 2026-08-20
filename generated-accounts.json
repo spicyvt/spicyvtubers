@@ -11290,14 +11290,15 @@
             "rplay": "ch4i",
             "channel": "CH4I",
             "xHandles": [
-                "ch4ichan"
+                "ch4ichan",
+                "size4foot"
             ],
             "socials": "https://ch4i.ca/",
             "data": true,
             "avatar": "avatarsx",
             "banner": "bannersx"
         },
-        "generatedAt": "2026-08-18T21:35:10+00:00"
+        "generatedAt": "2026-08-20T04:57:43+00:00"
     },
     "bunnietides": {
         "entry": {
@@ -14986,5 +14987,45 @@
             "banner": "bannersx"
         },
         "generatedAt": "2026-08-20T04:11:29+00:00"
+    },
+    "elisathebat": {
+        "entry": {
+            "fansly": "elisathebat",
+            "channel": "elisathebat",
+            "xHandles": [
+                "elisathebat"
+            ],
+            "socials": "https://linktr.ee/elisathebat",
+            "avatar": "avatarsx",
+            "banner": "bannersx"
+        },
+        "generatedAt": "2026-08-20T04:57:43+00:00"
+    },
+    "maraevantree": {
+        "entry": {
+            "fansly": "maraevantree",
+            "channel": "MaraEvantree",
+            "xHandles": [
+                "maraevantree"
+            ],
+            "socials": "https://beacons.ai/maraevantree",
+            "avatar": "avatarsx",
+            "banner": "bannersx"
+        },
+        "generatedAt": "2026-08-20T04:57:43+00:00"
+    },
+    "lulubluwu": {
+        "entry": {
+            "patreon": "lululewd",
+            "channel": "lulubluwu",
+            "xHandles": [
+                "lulubluwu",
+                ""
+            ],
+            "socials": "https://linktr.ee/lulubluwu",
+            "avatar": "avatarsx",
+            "banner": "bannersx"
+        },
+        "generatedAt": "2026-08-20T04:57:43+00:00"
     }
 }

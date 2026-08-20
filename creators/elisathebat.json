@@ -1,0 +1,90 @@
+{
+    "bio": "Spicy mean vtuber with very poor memory",
+    "twitch": {
+        "id": "1377479964",
+        "login": "elisathebat",
+        "displayName": "elisathebat",
+        "createdAt": "2025-10-09T15:56:40.468189Z",
+        "updatedAt": "2026-05-07T18:08:39.076739Z",
+        "description": "Spicy mean vtuber with very poor memory",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 236
+        },
+        "follows": {
+            "totalCount": 9
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-01-11T22:46:37.653081Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/12692efb-0234-478e-b321-903db7aeb19c-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0022918a-c0d4-4f12-aae3-cff3a24a8e61-profile_banner-480.png",
+        "fetchedAt": "2026-08-20T04:57:22Z"
+    },
+    "twitter": {
+        "elisathebat": {
+            "id": "1969811323308691456",
+            "handle": "elisathebat",
+            "displayName": "elisa the bat 💜🦇ENvtuber fd2d ~ lewdtuber",
+            "description": "R🔞 | 💜 vtuber and concert lover 💜 | your favorite hypnotic asmr mommy 🔮  rig: @malinalliy1",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1976246743114158080/Q-nTMEdi_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1969811323308691456/1762625551/1500x500",
+            "followersCount": 1223,
+            "followingCount": 148,
+            "postsCount": 1009,
+            "accountCreatedAt": "2025-09-21T17:10:05.785Z",
+            "profileUrl": "https://x.com/elisathebat",
+            "fetchedAt": "2026-08-20T04:57:29Z"
+        }
+    },
+    "fansly": {
+        "id": "817761473592840192",
+        "username": "elisathebat",
+        "displayName": null,
+        "version": 3,
+        "followCount": 1549,
+        "statusId": 3,
+        "accountMediaLikes": 603,
+        "postLikes": 353,
+        "about": "Turn off your brain and become my drone\n\n🦇Custom clips\n🦇DMs open\n🦇 3 Tiers for 3 types of good boys\n\n─────────── ⋆⋅☆⋅⋆ ────────────\nLooking for more?\n🔗 https://linktr.ee/elisathebat\n\n🔗Discord 🔗 https://discord.gg/86V8S3j7sN\n🔗Lovense wishlist🔗 https://www.lovense.com/wish-list/mktl\n🔗Twitter🔗 https://x.com/elisathebat",
+        "location": "your mind",
+        "streaming": {
+            "accountId": "817761473592840192",
+            "channel": {
+                "id": "899133628762570752",
+                "accountId": "817761473592840192",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.o4gie04Eh1EP.m3u8",
+                "chatRoomId": "899133829757808640",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1775864522000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "899133628762570753",
+                    "historyId": "946342931948654592",
+                    "channelId": "899133628762570752",
+                    "accountId": "817761473592840192",
+                    "title": "make me moan make me scream",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 2046,
+                    "createdAt": 1775864522000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1787127697000,
+                    "startedAt": 1787120097000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-20T04:57:34Z"
+    }
+}
