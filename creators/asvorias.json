@@ -1,0 +1,99 @@
+{
+    "bio": "Hi! I'm Asvorias, hopefully your new favorite vtuber! Thanks for coming on this journey with me :)",
+    "twitch": {
+        "id": "122892889",
+        "login": "asvorias",
+        "displayName": "Asvorias",
+        "createdAt": "2016-04-28T01:23:57.431654Z",
+        "updatedAt": "2026-08-01T05:02:54.341825Z",
+        "description": "Hi! I'm Asvorias, hopefully your new favorite vtuber! Thanks for coming on this journey with me :)",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 332
+        },
+        "follows": {
+            "totalCount": 138
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-01T05:35:08.836164Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/86a14fc2-bbfa-4221-b12f-43d9514db224-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d336b55e-75ca-4873-a1e5-69a40be559d6-profile_banner-480.png",
+        "fetchedAt": "2026-08-21T19:12:28Z"
+    },
+    "twitter": {
+        "asvorias": {
+            "id": "1915057251749916672",
+            "handle": "asvorias",
+            "displayName": "Asvorias",
+            "description": "🔞 ONLY Lewdtuber | Twitch Affiliate | MTG and variety streamer | DMs open",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1945858834859216896/aKz9SbtJ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1915057251749916672/1752763887/1500x500",
+            "followersCount": 101,
+            "followingCount": 204,
+            "postsCount": 126,
+            "accountCreatedAt": "2025-04-23T14:56:51.950Z",
+            "profileUrl": "https://x.com/asvorias",
+            "fetchedAt": "2026-08-21T19:12:30Z"
+        }
+    },
+    "fansly": {
+        "id": "612864346174795777",
+        "username": "Asvorias",
+        "displayName": null,
+        "version": 3,
+        "followCount": 598,
+        "statusId": 1,
+        "accountMediaLikes": 679,
+        "postLikes": 385,
+        "about": "❗❗ FREE + PAID CONTENT! (Just follow~) ❗❗\n\nYou found my super secret account 👀\n\nhttps://www.twitch.tv/asvorias",
+        "location": "",
+        "streaming": {
+            "accountId": "612864346174795777",
+            "channel": {
+                "id": "625286739480551424",
+                "accountId": "612864346174795777",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.uyvkygKr0rf0.m3u8",
+                "chatRoomId": "625286779909447680",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1710574335000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "625286739480551425",
+                    "historyId": "716610001774325762",
+                    "channelId": "625286739480551424",
+                    "accountId": "612864346174795777",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 1616,
+                    "createdAt": 1710574336000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1732350019000,
+                    "startedAt": 1732347498000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "716609647225610240",
+                                "streamId": "625286739480551425",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-21T19:12:31Z"
+    }
+}
