@@ -69,6 +69,9 @@ const INSIGHTS_PATH = INSIGHTS_DIR . '/index.html';
 const SNAPSHOT_PATH = __DIR__ . '/generated-accounts.json';
 const SITEMAP_PATH = __DIR__ . '/sitemap.xml';
 const OG_LOGO_PATH = __DIR__ . '/spicy_vtubers_logo.png';
+// Site logo shown in place of a real avatar for copyright-protected (simple.json) creators.
+const SITE_AVATAR_PATH = __DIR__ . '/spicyvtubers.webp';
+const SITE_AVATAR_URL_PATH = '/spicyvtubers.webp';
 const OG_FONT = 'DejaVu-Sans-Bold';
 const OG_BG = '#0f0a12';
 // Keep OG image build code available, but disable generation by default.
@@ -82,8 +85,8 @@ const ENABLE_FANSLY_STREAM_HISTORY = true;
 const ENABLE_RPLAY_STREAM_HISTORY = true;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style215.css';
-const SCRIPT = 'script215.js';
+const STYLESHEET = 'style216.css';
+const SCRIPT = 'script216.js';
 // Pages reference the "min"-prefixed copies; generateMinifiedAssets() (run
 // once at the start of main()) builds these from STYLESHEET/SCRIPT above.
 const MIN_STYLESHEET = 'min' . STYLESHEET;
@@ -522,6 +525,14 @@ function buildDescription(array $creator): string
     return possessive($creator['channel']) . ' Spicy VTubers profile - ' . naturalJoin($platforms) . '.';
 }
 
+// Copyright-claim protection: update.php sets avatar/banner to the literal
+// string "simple" for creators listed in simple.json — never download/serve
+// their real media, show the site logo (avatar) / no banner instead.
+function isSimpleMedia(?string $value): bool
+{
+    return strtolower(trim((string) $value)) === 'simple';
+}
+
 function avatarFolderForCreator(array $creator): string
 {
     $folder = strtolower(trim((string) ($creator['avatar'] ?? '')));
@@ -585,13 +596,21 @@ function mediaBaseNameForFolder(array $creator, string $folder): string
 
 function avatarPathForCreator(array $creator): string
 {
+    if (isSimpleMedia($creator['avatar'] ?? null)) {
+        return SITE_AVATAR_PATH;
+    }
     $avatarFolder = avatarFolderForCreator($creator);
     $avatarBaseName = mediaBaseNameForFolder($creator, $avatarFolder);
     return avatarDirForFolder($avatarFolder) . '/' . $avatarBaseName . '.webp';
 }
 
+// Returns '' (never a real file) when banner is "simple" so is_file() checks
+// naturally gate the banner off entirely — no separate flag needed.
 function bannerPathForCreator(array $creator): string
 {
+    if (isSimpleMedia($creator['banner'] ?? null)) {
+        return '';
+    }
     $bannerFolder = bannerFolderForCreator($creator);
     $bannerBaseName = mediaBaseNameForFolder($creator, $bannerFolder);
     return bannerDirForFolder($bannerFolder) . '/' . $bannerBaseName . '.webp';
@@ -599,6 +618,9 @@ function bannerPathForCreator(array $creator): string
 
 function avatarUrlRelativeForCreator(array $creator): string
 {
+    if (isSimpleMedia($creator['avatar'] ?? null)) {
+        return SITE_AVATAR_URL_PATH;
+    }
     $avatarFolder = avatarFolderForCreator($creator);
     $avatarBaseName = mediaBaseNameForFolder($creator, $avatarFolder);
     return '/' . $avatarFolder . '/' . rawurlencode($avatarBaseName) . '.webp';
@@ -606,6 +628,9 @@ function avatarUrlRelativeForCreator(array $creator): string
 
 function avatarUrlAbsoluteForCreator(array $creator): string
 {
+    if (isSimpleMedia($creator['avatar'] ?? null)) {
+        return BASE_URL . ltrim(SITE_AVATAR_URL_PATH, '/');
+    }
     $avatarFolder = avatarFolderForCreator($creator);
     $avatarBaseName = mediaBaseNameForFolder($creator, $avatarFolder);
     return BASE_URL . $avatarFolder . '/' . rawurlencode($avatarBaseName) . '.webp';
@@ -1063,9 +1088,16 @@ function renderCreatorHtml(array $creator, ?string $bio): string
     $description = htmlspecialchars(buildDescription($creator));
     // Body-visible references are root-relative (portable across domains); only
     // meta/JSON-LD URLs below need to stay fully-qualified per the OG/schema.org spec.
+    // Copyright-protected (simple.json) creators show no avatar image at all
+    // on the page itself (just the empty circular container) — the site logo
+    // is only used as the OG/Twitter/JSON-LD share image, not shown in-page.
+    $hasAvatar = !isSimpleMedia($creator['avatar'] ?? null);
     $avatarUrlRelative = avatarUrlRelativeForCreator($creator);
     $avatarUrlAbsolute = avatarUrlAbsoluteForCreator($creator);
     $ogImageUrl = $avatarUrlAbsolute;
+    $avatarImgHtml = $hasAvatar
+        ? '<img class="avatar-img is-loaded" src="' . htmlspecialchars($avatarUrlRelative) . '" alt="" decoding="async">'
+        : '';
     // Desktop-only decorative background on the avatar/name row; omitted
     // entirely (no attribute) when the creator has no banner on disk. Passed
     // as a custom property (not the background-image property itself) so the
@@ -1134,9 +1166,7 @@ function renderCreatorHtml(array $creator, ?string $bio): string
                 <div class="{$profileHeadClass}">{$bannerImgHtml}</div>
                 <div class="creator-profile-identity">
                     <div class="creator-profile-main">
-                        <span class="avatar avatar-xl">
-                            <img class="avatar-img is-loaded" src="{$avatarUrlRelative}" alt="" decoding="async">
-                        </span>
+                        <span class="avatar avatar-xl">{$avatarImgHtml}</span>
                         <h1 class="channel-name">{$channelEsc}</h1>
                     </div>
                     {$profileSideHtml}

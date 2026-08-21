@@ -170,6 +170,40 @@ function isForcedFor(string $login, bool $force, ?string $forceCreator): bool
     return $force || ($forceCreator !== null && $login === $forceCreator);
 }
 
+/**
+ * Loads simple.json (a flat array of creator "channel" names that must never
+ * have avatars/banners downloaded, for copyright-claim protection) into a
+ * lowercased-name lookup set. Missing/malformed file just yields no protected
+ * creators rather than failing the whole run.
+ */
+function loadSimpleChannels(string $path): array
+{
+    if (!is_file($path)) {
+        return [];
+    }
+
+    $decoded = json_decode((string) file_get_contents($path), true);
+    if (!is_array($decoded)) {
+        return [];
+    }
+
+    $set = [];
+    foreach ($decoded as $name) {
+        $name = strtolower(trim((string) $name));
+        if ($name !== '') {
+            $set[$name] = true;
+        }
+    }
+
+    return $set;
+}
+
+/** Whether $login (already lowercased) is copyright-protected per simple.json. */
+function isSimpleProtected(string $login, array $simpleChannels): bool
+{
+    return isset($simpleChannels[$login]);
+}
+
 $accountsPath = __DIR__ . '/accounts.json';
 $dataJsonPath = __DIR__ . '/data.json';
 $imagesDir = __DIR__ . '/images';
@@ -206,6 +240,9 @@ if (!is_array($accounts)) {
     fwrite(STDERR, "Failed to parse accounts.json\n");
     exit(1);
 }
+
+$simpleJsonPath = __DIR__ . '/simple.json';
+$simpleChannels = loadSimpleChannels($simpleJsonPath);
 
 function fetchTwitchUserBasic(string $login, string $clientId): ?array
 {
@@ -1482,6 +1519,83 @@ function resolveBannerFolder(array $account, string $bannersXDir, string $banner
     return null;
 }
 
+/**
+ * For every account whose "channel" is copyright-protected per simple.json:
+ * deletes any avatar/banner .webp files already on disk (across twitch/
+ * youtube + every xHandle + bskyHandle) and forces accounts.json's
+ * avatar/banner fields to the literal string "simple" so generate-
+ * creator-pages.php/script215.js render the site logo / no banner instead.
+ * Returns the number of accounts whose avatar/banner fields were changed.
+ */
+function enforceSimpleMediaProtection(
+    array &$accounts,
+    array $simpleChannels,
+    string $avatarsLargeDir,
+    string $bannersDir,
+    string $avatarsXDir,
+    string $bannersXDir,
+    string $avatarsBDir,
+    string $bannersBDir
+): int {
+    $accountsChanged = 0;
+
+    foreach ($accounts as &$account) {
+        if (!is_array($account)) {
+            continue;
+        }
+
+        $channel = trim((string) ($account['channel'] ?? ''));
+        if ($channel === '' || !isSimpleProtected(strtolower($channel), $simpleChannels)) {
+            continue;
+        }
+
+        $login = strtolower($channel);
+        $mediaFiles = [
+            $avatarsLargeDir . '/' . $login . '.webp',
+            $bannersDir . '/' . $login . '.webp',
+        ];
+
+        foreach ((array) ($account['xHandles'] ?? []) as $xHandle) {
+            $xHandle = strtolower(trim((string) $xHandle));
+            if ($xHandle === '') {
+                continue;
+            }
+            $mediaFiles[] = $avatarsXDir . '/' . $xHandle . '.webp';
+            $mediaFiles[] = $bannersXDir . '/' . $xHandle . '.webp';
+        }
+
+        $bskyHandle = $account['bskyHandle'] ?? null;
+        $bskyName = strtolower(trim((string) (is_array($bskyHandle) ? ($bskyHandle[0] ?? '') : '')));
+        if ($bskyName !== '') {
+            $mediaFiles[] = $avatarsBDir . '/' . $bskyName . '.webp';
+            $mediaFiles[] = $bannersBDir . '/' . $bskyName . '.webp';
+        }
+
+        foreach ($mediaFiles as $mediaFile) {
+            if (is_file($mediaFile)) {
+                unlink($mediaFile);
+                echo "  -> Deleted protected media (simple.json): {$mediaFile}\n";
+            }
+        }
+
+        $changed = false;
+        if (($account['avatar'] ?? '') !== 'simple') {
+            $account['avatar'] = 'simple';
+            $changed = true;
+        }
+        if (($account['banner'] ?? '') !== 'simple') {
+            $account['banner'] = 'simple';
+            $changed = true;
+        }
+        if ($changed) {
+            $accountsChanged++;
+        }
+    }
+    unset($account);
+
+    return $accountsChanged;
+}
+
 $total = count($accounts);
 $updated = 0;
 $skippedComplete = 0;
@@ -1535,8 +1649,12 @@ foreach ($accounts as $index => &$account) {
         continue;
     }
 
-    saveAvatarWebp($imagesDir, $avatarsLargeDir, $login, $result['profileImageUrl'] ?? null, $isForced);
-    saveBannerWebp($imagesDir, $bannersDir, $login, $result['bannerImageUrl'] ?? null, $isForced);
+    if (isSimpleProtected($login, $simpleChannels)) {
+        echo "  -> Skipping avatar/banner download for {$login} (protected in simple.json).\n";
+    } else {
+        saveAvatarWebp($imagesDir, $avatarsLargeDir, $login, $result['profileImageUrl'] ?? null, $isForced);
+        saveBannerWebp($imagesDir, $bannersDir, $login, $result['bannerImageUrl'] ?? null, $isForced);
+    }
 
     $changed = false;
 
@@ -1640,8 +1758,12 @@ foreach ($twitterRequests as $i => $request) {
     }
 
     $handleLower = strtolower($request['handle']);
-    saveKeyedAvatarWebp($imagesDir, $avatarsXDir, $handleLower, $result['profileImageUrl'] ?? null, $request['force']);
-    saveKeyedBannerWebp($imagesDir, $bannersXDir, $handleLower, $result['bannerImageUrl'] ?? null, $request['force']);
+    if (isSimpleProtected($request['login'], $simpleChannels)) {
+        echo "  -> Skipping avatar/banner download for {$handleLower} (protected in simple.json).\n";
+    } else {
+        saveKeyedAvatarWebp($imagesDir, $avatarsXDir, $handleLower, $result['profileImageUrl'] ?? null, $request['force']);
+        saveKeyedBannerWebp($imagesDir, $bannersXDir, $handleLower, $result['bannerImageUrl'] ?? null, $request['force']);
+    }
 
     $platformData = is_array($result['platformData'] ?? null) ? $result['platformData'] : [];
     $saved = saveCreatorPlatformSubkeyData($creatorsDir, $request['login'], ['twitter', $handleLower], $platformData, $request['force']);
@@ -1699,8 +1821,12 @@ foreach ($blueskyRequests as $i => $request) {
     }
 
     $nameLower = strtolower($request['name']);
-    saveKeyedAvatarWebp($imagesDir, $avatarsBDir, $nameLower, $result['profileImageUrl'] ?? null, $request['force']);
-    saveKeyedBannerWebp($imagesDir, $bannersBDir, $nameLower, $result['bannerImageUrl'] ?? null, $request['force']);
+    if (isSimpleProtected($request['login'], $simpleChannels)) {
+        echo "  -> Skipping avatar/banner download for {$nameLower} (protected in simple.json).\n";
+    } else {
+        saveKeyedAvatarWebp($imagesDir, $avatarsBDir, $nameLower, $result['profileImageUrl'] ?? null, $request['force']);
+        saveKeyedBannerWebp($imagesDir, $bannersBDir, $nameLower, $result['bannerImageUrl'] ?? null, $request['force']);
+    }
 
     $platformData = is_array($result['platformData'] ?? null) ? $result['platformData'] : [];
     $saved = saveCreatorPlatformSubkeyData($creatorsDir, $request['login'], ['bluesky'], $platformData, $request['force']);
@@ -1893,3 +2019,20 @@ if ($folderFieldsUpdated > 0) {
 }
 
 echo "Avatar/banner folder fields updated on {$folderFieldsUpdated} account(s).\n";
+
+echo "========================================\n";
+echo "Enforcing simple.json copyright protection...\n";
+$simpleAccountsChanged = enforceSimpleMediaProtection(
+    $accounts,
+    $simpleChannels,
+    $avatarsLargeDir,
+    $bannersDir,
+    $avatarsXDir,
+    $bannersXDir,
+    $avatarsBDir,
+    $bannersBDir
+);
+if ($simpleAccountsChanged > 0) {
+    writeAccountsJson($accountsPath, $accounts);
+}
+echo "Done. avatar/banner set to \"simple\" on {$simpleAccountsChanged} account(s).\n";
