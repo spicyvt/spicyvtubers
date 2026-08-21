@@ -1366,8 +1366,14 @@ a {
   --creator-avatar-size: clamp(88px, 11vw, 148px);
 }
 
+/* .creator-page's align-items: center shrinks flex children to their
+   content width by default; .creator-profile used to coincidentally fill
+   the available width via its own wide content (banner img, long bio,
+   nowrap title) but a creator with no banner and a short bio can shrink
+   back down to fit-content without this being explicit. */
 .creator-profile {
   display: flex;
+  width: 100%;
   padding: 0.5rem 0 2rem;
 }
 
@@ -1387,8 +1393,12 @@ a {
 }
 
 /* Outer shell joining the profile-card and bio panel into a single card
-   (one border/radius/shadow) instead of two separately-boxed cards. */
+   (one border/radius/shadow) instead of two separately-boxed cards.
+   .creator-profile is display:flex (row), so without an explicit width its
+   only child shrinks to fit-content along the row axis instead of filling
+   it — width: 100% forces it to match .creator-profile's own full width. */
 .creator-card {
+  width: 100%;
   border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
@@ -1462,6 +1472,15 @@ a {
   gap: 0.55rem;
   min-width: 0;
   width: min(58ch, 62%);
+}
+
+/* The default margin-top above is tuned to align the buttons against the
+   banner-overlapping avatar; with no banner the identity row isn't pulled
+   up (see .creator-profile-head.has-banner + .creator-profile-identity
+   above), so that offset would push them too low — pin them to the top
+   of the row (top right) instead. */
+.creator-profile-head:not(.has-banner) + .creator-profile-identity .creator-profile-side {
+  margin-top: 0;
 }
 
 .creator-profile .channel-name {
@@ -1598,9 +1617,8 @@ a {
 /* ---------------------------------- Stream-history tabbed card (Streams + Leaderboard) ---------------------------------- */
 
 /* .creator-page's align-items: center shrinks flex children to their
-   content width by default (unlike .creator-profile, whose own
-   display:flex + wide content coincidentally fills the available width) —
-   force it to match the profile card above explicitly. */
+   content width by default (unlike .creator-profile, which now sets its
+   own explicit width: 100%) — force it to match the profile card above. */
 .creator-stream-tabs {
   width: 100%;
   padding: 0 0 2rem;

@@ -108,8 +108,24 @@
     return { href: profileLink(platform.baseUrl, creator.channel), label: platform.label };
   }
 
+  function isSimpleMedia(value) {
+    return String(value || "").toLowerCase() === "simple";
+  }
+
   function getAvatarFolder(creator) {
     return AVATAR_FOLDERS.has(creator.avatar) ? creator.avatar : "avatarsLarge";
+  }
+
+  // Copyright-claim protection: update.php sets avatar to the literal string
+  // "simple" for creators listed in simple.json — render no avatar image at
+  // all for them (null), just the empty circular container.
+  function getAvatarSrc(creator) {
+    if (isSimpleMedia(creator.avatar)) {
+      return null;
+    }
+    const avatarFolder = getAvatarFolder(creator);
+    const avatarBaseName = getAvatarBaseName(creator, avatarFolder);
+    return `${avatarFolder}/${encodeURIComponent(avatarBaseName)}.webp`;
   }
 
   function getAvatarBaseName(creator, folder) {
@@ -132,13 +148,13 @@
     const channelTd = document.createElement("td");
     channelTd.dataset.label = "Channel";
     channelTd.className = "name-cell";
-    const avatarFolder = getAvatarFolder(creator);
-    const avatarBaseName = getAvatarBaseName(creator, avatarFolder);
+    const avatarSrc = getAvatarSrc(creator);
+    const avatarImgHtml = avatarSrc
+      ? `<img class="avatar-img" src="${avatarSrc}" alt="" decoding="async" loading="lazy">`
+      : "";
     channelTd.innerHTML = creator.channel
       ? `<a class="name-link" href="${BASE_URL}c/${encodeURIComponent(creator.channelLower)}/">` +
-        `<span class="avatar">` +
-        `<img class="avatar-img" src="${avatarFolder}/${encodeURIComponent(avatarBaseName)}.webp" alt="" decoding="async" loading="lazy">` +
-        `</span>` +
+        `<span class="avatar">${avatarImgHtml}</span>` +
         `<span class="channel-name">${escapeHtml(creator.channel)}</span>` +
         `</a>`
       : "";

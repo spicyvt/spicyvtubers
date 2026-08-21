@@ -83,6 +83,9 @@ const ENABLE_FANSLY_LEADERBOARD_GRAPH = true;
 const ENABLE_FANSLY_STREAM_HISTORY = true;
 // Toggle the RPlay Stream History tab on creator pages on/off.
 const ENABLE_RPLAY_STREAM_HISTORY = true;
+// Site-wide toggle: set to false to hide every creator's banner (both the
+// creator page and the OG image), regardless of what's on disk.
+const ENABLE_CREATOR_BANNERS = false;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
 const STYLESHEET = 'style216.css';
@@ -604,11 +607,12 @@ function avatarPathForCreator(array $creator): string
     return avatarDirForFolder($avatarFolder) . '/' . $avatarBaseName . '.webp';
 }
 
-// Returns '' (never a real file) when banner is "simple" so is_file() checks
-// naturally gate the banner off entirely — no separate flag needed.
+// Returns '' (never a real file) when banners are disabled site-wide
+// (ENABLE_CREATOR_BANNERS) or this creator's banner is "simple" — so
+// is_file() checks naturally gate the banner off entirely for both cases.
 function bannerPathForCreator(array $creator): string
 {
-    if (isSimpleMedia($creator['banner'] ?? null)) {
+    if (!ENABLE_CREATOR_BANNERS || isSimpleMedia($creator['banner'] ?? null)) {
         return '';
     }
     $bannerFolder = bannerFolderForCreator($creator);

@@ -1214,8 +1214,10 @@ a {
   --creator-avatar-size: clamp(88px, 11vw, 148px);
 }
 
+
 .creator-profile {
   display: flex;
+  width: 100%;
   padding: 0.5rem 0 2rem;
 }
 
@@ -1235,6 +1237,7 @@ a {
 
 
 .creator-card {
+  width: 100%;
   border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
@@ -1306,6 +1309,11 @@ a {
   gap: 0.55rem;
   min-width: 0;
   width: min(58ch, 62%);
+}
+
+
+.creator-profile-head:not(.has-banner) + .creator-profile-identity .creator-profile-side {
+  margin-top: 0;
 }
 
 .creator-profile .channel-name {
