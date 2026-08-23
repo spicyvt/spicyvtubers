@@ -1,0 +1,99 @@
+{
+    "bio": "PeePeePooPoo wipe that doodoo from ur bottyhole 𝑪𝒓𝒂𝒔𝒉𝒆𝒅 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒔𝒕𝒂𝒓𝒔 𝒕𝒐 𝒉𝒆𝒂𝒍 𝒚𝒐𝒖𝒓 𝒔𝒄𝒂𝒓𝒔  | 𝑪𝒆𝒍𝒆𝒔𝒕𝒊𝒂𝒍 𝑲𝒊𝒕𝒔𝒖𝒏𝒆 |   ~P.S. please send icing glazed choco cake donuties.... , .. -...-.. ---- -.--.-. .- .........-",
+    "twitch": {
+        "id": "492838398",
+        "login": "staqui",
+        "displayName": "staqui",
+        "createdAt": "2020-02-16T11:37:05.966902Z",
+        "updatedAt": "2026-08-20T08:17:31.226565Z",
+        "description": "PeePeePooPoo wipe that doodoo from ur bottyhole 𝑪𝒓𝒂𝒔𝒉𝒆𝒅 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒔𝒕𝒂𝒓𝒔 𝒕𝒐 𝒉𝒆𝒂𝒍 𝒚𝒐𝒖𝒓 𝒔𝒄𝒂𝒓𝒔  | 𝑪𝒆𝒍𝒆𝒔𝒕𝒊𝒂𝒍 𝑲𝒊𝒕𝒔𝒖𝒏𝒆 |   ~P.S. please send icing glazed choco cake donuties.... , .. -...-.. ---- -.--.-. .- .........-",
+        "primaryColorHex": "57FFFF",
+        "followers": {
+            "totalCount": 8255
+        },
+        "follows": {
+            "totalCount": 1896
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-17T02:27:56.998269Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/359309b8-cd73-46cd-8900-0929c2403e66-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1fc0c0e-6a9e-4942-a943-ab92547a34b2-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-23T14:10:13Z"
+    },
+    "twitter": {
+        "staquinova": {
+            "id": "1254876557715234816",
+            "handle": "staquinova",
+            "displayName": "STAQUI💫🦊 🔜 ANIME SD",
+            "description": "✨Crashed from the stars to heal your scars✨ \n@gamersupps code: SHART\nShortStaq or QuiQui pfp: @Isari_art @Twitch PRTNR 6/9",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1835477938772606976/yW8aMKN7_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1254876557715234816/1735159393/1500x500",
+            "followersCount": 4746,
+            "followingCount": 1410,
+            "postsCount": 20860,
+            "accountCreatedAt": "2020-04-27T20:54:31.542Z",
+            "profileUrl": "https://x.com/StaquiNova",
+            "fetchedAt": "2026-08-23T14:10:21Z"
+        }
+    },
+    "fansly": {
+        "id": "937996123484729344",
+        "username": "Staqui",
+        "displayName": null,
+        "version": 3,
+        "followCount": 233,
+        "statusId": 3,
+        "accountMediaLikes": 126,
+        "postLikes": 169,
+        "about": "Vixen of the Void here to suck out your soul 💕 \nI’m new 🥹🫶💕\n\n✨ DMs avail (~10pm PST, please be patient)\n✨ Vtuber, IRL, 2D, lewds, streaming 💕\n✨ Customs avail. \n",
+        "location": "In your mattress ",
+        "streaming": {
+            "accountId": "937996123484729344",
+            "channel": {
+                "id": "945108013629329408",
+                "accountId": "937996123484729344",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.3YOFFYWSQSfg.m3u8",
+                "chatRoomId": "945110488314818560",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1786825669000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "945108013629329409",
+                    "historyId": "945108909981458432",
+                    "channelId": "945108013629329408",
+                    "accountId": "937996123484729344",
+                    "title": "FIRST STREAM",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 4,
+                    "createdAt": 1786825670000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786826128000,
+                    "startedAt": 1786825883000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "945109332972806144",
+                                "streamId": "945108013629329409",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-23T14:10:31Z"
+    }
+}

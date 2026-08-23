@@ -1,0 +1,44 @@
+{
+    "bio": "Streams 4-7 days a week! Keep it sfw or get banned :3 Games, Hot Tubs, Horsies, Cosplay, and more!",
+    "twitch": {
+        "id": "842880610",
+        "login": "lilylouofficial",
+        "displayName": "LilyLouOfficial",
+        "createdAt": "2022-11-02T05:35:46.121949Z",
+        "updatedAt": "2026-08-20T06:42:24.065618Z",
+        "description": "Streams 4-7 days a week! Keep it sfw or get banned :3 Games, Hot Tubs, Horsies, Cosplay, and more!",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 23494
+        },
+        "follows": {
+            "totalCount": 286
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-20T06:42:12.961051Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/807d8408-1ba1-405c-8d6a-380fddb9f591-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7923647e-14db-4f1d-9ba2-81146da8c503-profile_banner-480.png",
+        "fetchedAt": "2026-08-23T14:10:18Z"
+    },
+    "twitter": {
+        "lilyloutv": {
+            "id": "1915693194970619907",
+            "handle": "lilyloutv",
+            "displayName": "LilyLouTV",
+            "description": "Twitch Partner | Sometimes VTuber | Cosplayer\n\n✈️ Next 👉 Colossal Con, Blizzcon, Anthro SoCal",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2054389812594151424/PUsm39yk_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1915693194970619907/1778814060/1500x500",
+            "followersCount": 70979,
+            "followingCount": 205,
+            "postsCount": 349,
+            "accountCreatedAt": "2025-04-25T09:04:58.567Z",
+            "profileUrl": "https://x.com/LilyLouTV",
+            "fetchedAt": "2026-08-23T14:10:30Z"
+        }
+    }
+}
