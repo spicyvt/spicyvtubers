@@ -1,0 +1,44 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "1338844748",
+        "login": "praline_woof",
+        "displayName": "praline_woof",
+        "createdAt": "2025-07-21T09:48:17.975713Z",
+        "updatedAt": "2026-08-20T18:54:23.909214Z",
+        "description": null,
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 2094
+        },
+        "follows": {
+            "totalCount": 17
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-23T17:01:52.361195Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b68019f-fd2b-4dd8-a097-4d0b71995055-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66c5fdb6-8c72-4c3a-b00c-4aae162f3693-profile_banner-480.png",
+        "fetchedAt": "2026-08-23T18:29:40Z"
+    },
+    "twitter": {
+        "pralinewoof": {
+            "id": "1938599487045603328",
+            "handle": "pralinewoof",
+            "displayName": "18+ Praline Woof 🧁🩷 (Petit Secret Agency)",
+            "description": "Viens rêver avec moi 🩷\nGénération 1 Murmure @PetitSecretVT\nModel: @sayuris_art Rig: @KaiserBrenner",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1961700213350891520/lS2OfgQC_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1938599487045603328/1756540766/1500x500",
+            "followersCount": 1011,
+            "followingCount": 11,
+            "postsCount": 911,
+            "accountCreatedAt": "2025-06-27T14:05:50.823Z",
+            "profileUrl": "https://x.com/PralineWoof",
+            "fetchedAt": "2026-08-23T18:29:42Z"
+        }
+    }
+}
