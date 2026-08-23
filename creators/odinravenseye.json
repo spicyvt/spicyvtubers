@@ -1,0 +1,99 @@
+{
+    "bio": "MythosHQ's Allmommy Goddess and seeker of knowledge 🐦‍⬛👑",
+    "twitch": {
+        "id": "1376843751",
+        "login": "odinravenseye",
+        "displayName": "OdinRavenseye",
+        "createdAt": "2025-10-07T22:21:22.701804Z",
+        "updatedAt": "2026-08-22T13:15:59.014166Z",
+        "description": "MythosHQ's Allmommy Goddess and seeker of knowledge 🐦‍⬛👑 ",
+        "primaryColorHex": "BCDBFF",
+        "followers": {
+            "totalCount": 3114
+        },
+        "follows": {
+            "totalCount": 118
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-23T11:55:26.843996Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b21f75e-3ec1-430b-9bd7-ed07d76be110-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31845678-e3ae-482c-9580-690c568e7170-profile_banner-480.png",
+        "fetchedAt": "2026-08-23T15:53:38Z"
+    },
+    "twitter": {
+        "odinravenseye": {
+            "id": "1975694304933822464",
+            "handle": "odinravenseye",
+            "displayName": "Odin Ravenseye 🐦‍⬛👑 【MYTHOS】",
+            "description": "@MythosHQ’s AllMommy girlfailure + goddess of magick\n@ManoriUmare & @MerrowBrush || @Gamersupps Code: ALLMOMMY || 🎨 #RuneGallery 🔞#RuneNoodz",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2075362328652947456/Bssck0Mw_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1975694304933822464/1783639894/1500x500",
+            "followersCount": 4272,
+            "followingCount": 212,
+            "postsCount": 911,
+            "accountCreatedAt": "2025-10-07T22:46:55.288Z",
+            "profileUrl": "https://x.com/OdinRavenseye",
+            "fetchedAt": "2026-08-23T15:53:40Z"
+        }
+    },
+    "fansly": {
+        "id": "883943656220798976",
+        "username": "odinravenseye",
+        "displayName": "odin",
+        "version": 3,
+        "followCount": 1189,
+        "statusId": 1,
+        "accountMediaLikes": 683,
+        "postLikes": 1147,
+        "about": "Mᴀᴋᴇ ᴍʏ ᴅᴀʏ ᴀɴᴅ ᴘʟᴀʏ ᴅʀᴇss-ᴜᴘ ᴡɪᴛʜ ᴍᴇ: https://throne.com/odinravenseye\n𓆩ꨄ︎𓆪\nNSFW Vtuber\nYour favorite sexy IRL shortstack with the attitude to match.\nLingerie + pinup sets, and all the spicy stuff I can’t drop anywhere else~\n𓆩ꨄ︎𓆪\nVtuber model + IRL photos & videos\nCome get flustered, loser 😘",
+        "location": "",
+        "streaming": {
+            "accountId": "883943656220798976",
+            "channel": {
+                "id": "931966871207419904",
+                "accountId": "883943656220798976",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HaNj2NGRYJZ7.m3u8",
+                "chatRoomId": "931974621815660544",
+                "status": 2,
+                "version": 12,
+                "createdAt": 1783692577000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "931966871207419905",
+                    "historyId": "945765993647468545",
+                    "channelId": "931966871207419904",
+                    "accountId": "883943656220798976",
+                    "title": "Playing MTG Arena 👉👈 ♡ tips go to lush ♡",
+                    "status": 1,
+                    "viewerCount": 20,
+                    "version": 12,
+                    "createdAt": 1783692577000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786987241000,
+                    "startedAt": 1786982544000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "945422191661441026",
+                                "streamId": "931966871207419905",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-23T15:53:41Z"
+    }
+}
