@@ -1,0 +1,90 @@
+{
+    "bio": "Femboy que disfruta de hacerte relajar con ayuda de sus 2 voces UwU",
+    "twitch": {
+        "id": "1223747338",
+        "login": "kokonyn",
+        "displayName": "Kokonyn",
+        "createdAt": "2024-12-29T05:08:20.441326Z",
+        "updatedAt": "2026-08-24T05:36:14.420113Z",
+        "description": "Femboy que disfruta de hacerte relajar con ayuda de sus 2 voces UwU",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 6999
+        },
+        "follows": {
+            "totalCount": 145
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-24T09:10:57.3332Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3afb6d0c-ab55-4715-8e83-ba23003de5a4-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e1ffc2a-a0ab-4934-b7b9-924c2935bb5a-profile_banner-480.png",
+        "fetchedAt": "2026-08-24T15:08:06Z"
+    },
+    "twitter": {
+        "linakokoni": {
+            "id": "1745511032292818945",
+            "handle": "linakokoni",
+            "displayName": "Kokonyn",
+            "description": "Femboy creador de contenido ASMR VRCHAT con ayuda de sus 2 voces UwU💜.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2001088314527358979/Rg6rwvwA_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1745511032292818945/1765931587/1500x500",
+            "followersCount": 1212,
+            "followingCount": 121,
+            "postsCount": 551,
+            "accountCreatedAt": "2024-01-11T18:21:16.773Z",
+            "profileUrl": "https://x.com/Linakokoni",
+            "fetchedAt": "2026-08-24T15:08:10Z"
+        }
+    },
+    "fansly": {
+        "id": "873096510504448000",
+        "username": "Kokonyn",
+        "displayName": null,
+        "version": 3,
+        "followCount": 1371,
+        "statusId": 1,
+        "accountMediaLikes": 1264,
+        "postLikes": 925,
+        "about": "Contenido +18 de un Femboy sumiso y adorable que sabe jugar para ti 🥰.",
+        "location": "Colombia",
+        "streaming": {
+            "accountId": "873096510504448000",
+            "channel": {
+                "id": "876994475996495872",
+                "accountId": "873096510504448000",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7wKxHlh1BObZ.m3u8",
+                "chatRoomId": "879308920848408576",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1770586136000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "876994475996495873",
+                    "historyId": "945292233802805248",
+                    "channelId": "876994475996495872",
+                    "accountId": "873096510504448000",
+                    "title": "Prueba directo | Noche de koshinadas 😝",
+                    "status": 1,
+                    "viewerCount": 32,
+                    "version": 72,
+                    "createdAt": 1770586137000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786874064000,
+                    "startedAt": 1786869591000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-24T15:08:13Z"
+    }
+}

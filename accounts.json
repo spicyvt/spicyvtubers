@@ -1236,7 +1236,7 @@
   {
     "fansly": "alchamee",
     "channel": "Alchamee",
-    "xHandles": ["alchameettv"],
+    "xHandles": ["alchameettv", "alchameead"],
     "data": true,
     "avatar": "avatarsx",
     "banner": "bannersx"
@@ -9586,10 +9586,12 @@
     "banner": "bannersx"
   },
   {
-    "fansly": "",
-    "channel": "",
-    "xHandles": ["", ""],
-    "socials": ""
+    "fansly": "kokonyn",
+    "channel": "Kokonyn",
+    "xHandles": ["linakokoni"],
+    "socials": "https://linktr.ee/kokonyn",
+    "avatar": "avatarsx",
+    "banner": "bannersx"
   },
   {
     "fansly": "",
