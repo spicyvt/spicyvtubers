@@ -1,0 +1,90 @@
+{
+    "bio": "ghostie vtuber variety streamer and asmrtist | business inquiries only pls heyitsbansh@gmail.com",
+    "twitch": {
+        "id": "1226248444",
+        "login": "heyitsbansh",
+        "displayName": "heyitsbansh",
+        "createdAt": "2025-01-03T03:39:00.524338Z",
+        "updatedAt": "2026-08-24T02:05:10.494684Z",
+        "description": "ghostie vtuber variety streamer and asmrtist | business inquiries only pls heyitsbansh@gmail.com ",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 5936
+        },
+        "follows": {
+            "totalCount": 179
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-24T02:05:41.539791Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/289f6854-9b34-42eb-85a6-70d5d0467f2a-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a5e073ec-231a-4ec4-a07e-fec4cb8c1e5f-profile_banner-480.png",
+        "fetchedAt": "2026-08-24T04:57:42Z"
+    },
+    "twitter": {
+        "heyitsbansh": {
+            "id": "1293355255929995264",
+            "handle": "heyitsbansh",
+            "displayName": "Banshee 👻🖤",
+            "description": "VA | Ghostie Vtuber | ASMRtist | Terminally Sleepy | MDNI\nhttps://t.co/50hUS5ypON",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2024611038822342656/MYw7LF5y_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1293355255929995264/1772404712/1500x500",
+            "followersCount": 576,
+            "followingCount": 79,
+            "postsCount": 119,
+            "accountCreatedAt": "2020-08-12T01:35:32.933Z",
+            "profileUrl": "https://x.com/heyitsbansh",
+            "fetchedAt": "2026-08-24T04:57:45Z"
+        }
+    },
+    "fansly": {
+        "id": "651685593192869888",
+        "username": "BansheeAudio",
+        "displayName": "Banshee",
+        "version": 5,
+        "followCount": 894,
+        "statusId": 3,
+        "accountMediaLikes": 1470,
+        "postLikes": 1325,
+        "about": "SFW/NSFW Voice actress | She/Her | ASMRtist | Vtuber | Lewdtuber | Monstergirl | Seductress | Sleepygirl\n\nMy life goal is to get you the best sleepies. Even if you have to be lewd beforehand.💦\n\nCome here, cutie.🖤\nLet my voice give your spine tingles while I trail little spirals through your mind.😵\n\nSubscription benefits per tier include:\n\nLittle Demons - early access to YT videos ad free + past/future spicy audios + dm's open with guaranteed response\n\nSweet Spirits - everything the demons get + Fansly stream VODs/highlights + spicy art and virtual outfit photos\n\nPrecious Ghouls - everything the demons/spirits get + personal audio note every month (1-2 mins but longer if i've missed a month)\n\n\nhttps://linktr.ee/bansheeaudio",
+        "location": "",
+        "streaming": {
+            "accountId": "651685593192869888",
+            "channel": {
+                "id": "893608040866000897",
+                "accountId": "651685593192869888",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oY5l96GULl3U.m3u8",
+                "chatRoomId": "904126363978440704",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1774547119000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "893608040866000898",
+                    "historyId": "911872422968324096",
+                    "channelId": "893608040866000897",
+                    "accountId": "651685593192869888",
+                    "title": "🖤spicy asmr🖤 ",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 4,
+                    "createdAt": 1774547119000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778907638000,
+                    "startedAt": 1778901687000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-24T04:57:46Z"
+    }
+}
