@@ -1,0 +1,107 @@
+{
+    "bio": "amateur internet dog",
+    "twitch": {
+        "id": "56017507",
+        "login": "elcyami",
+        "displayName": "elcyami",
+        "createdAt": "2014-02-02T14:26:55.622769Z",
+        "updatedAt": "2026-08-25T17:09:47.264983Z",
+        "description": "amateur internet dog ",
+        "primaryColorHex": "FF0075",
+        "followers": {
+            "totalCount": 5425
+        },
+        "follows": {
+            "totalCount": 74
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-25T19:57:46.745759Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/54e0b6fd-8264-4db2-9d9f-1ed3292bf309-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82c994af-0e68-4be5-a756-740096a8c093-profile_banner-480.png",
+        "fetchedAt": "2026-08-26T21:01:55Z"
+    },
+    "twitter": {
+        "elcyowo": {
+            "id": "1272161390502072320",
+            "handle": "elcyowo",
+            "displayName": "elcy🐾",
+            "description": "💙elcy•ami💜 vbuppy\nhttps://t.co/BVBl2W1DpU",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1978508608531726337/e-FxDpdq_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1272161390502072320/1784831585/1500x500",
+            "followersCount": 45719,
+            "followingCount": 636,
+            "postsCount": 544,
+            "accountCreatedAt": "2020-06-14T13:38:12.321Z",
+            "profileUrl": "https://x.com/elcyowo",
+            "fetchedAt": "2026-08-26T21:01:57Z"
+        }
+    },
+    "fansly": {
+        "id": "490330723929038848",
+        "username": "elcyami",
+        "displayName": "elcyami",
+        "version": 15,
+        "followCount": 13358,
+        "statusId": 2,
+        "accountMediaLikes": 7802,
+        "postLikes": 10567,
+        "about": "💜i like being silly and making stuff thats hot\n💙dumb bratty switch thing that wags and barks\n💜part-time boyfu~ \n",
+        "location": "",
+        "streaming": {
+            "accountId": "490330723929038848",
+            "channel": {
+                "id": "867963267111215104",
+                "accountId": "490330723929038848",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.rKlMM8wWEf0x.m3u8",
+                "chatRoomId": "903729434245230593",
+                "status": 2,
+                "version": 26,
+                "createdAt": 1768432928000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "867963267111215105",
+                    "historyId": "945173187488919552",
+                    "channelId": "867963267111215104",
+                    "accountId": "490330723929038848",
+                    "title": "NEW BUPPY UPDATES n wagging my big fluffly tail in ur face",
+                    "status": 1,
+                    "viewerCount": 86,
+                    "version": 38,
+                    "createdAt": 1768432929000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786844058000,
+                    "startedAt": 1786841208000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "927041590344577024",
+                                "streamId": "867963267111215105",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "927041590344577025",
+                                "streamId": "867963267111215105",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-26T21:01:58Z"
+    }
+}

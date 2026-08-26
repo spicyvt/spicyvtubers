@@ -1,0 +1,90 @@
+{
+    "bio": "🔞 🩵🩷🤍🩷🩵 | She/Her | Canadian 🇨🇦 Puppygirl VTuber | 🎨: 赛客撸祥人 | ⚙️: Sugar sugar 锦鲤 | PFP: Jinx ED",
+    "twitch": {
+        "id": "1403794639",
+        "login": "sarinatwilight",
+        "displayName": "SarinaTwilight",
+        "createdAt": "2025-12-09T17:21:28.725942Z",
+        "updatedAt": "2026-08-20T00:02:33.989041Z",
+        "description": "🔞 🩵🩷🤍🩷🩵 | She/Her | Canadian 🇨🇦 Puppygirl VTuber | 🎨: 赛客撸祥人 | ⚙️: Sugar sugar 锦鲤 | PFP: Jinx ED",
+        "primaryColorHex": "F8B4EB",
+        "followers": {
+            "totalCount": 195
+        },
+        "follows": {
+            "totalCount": 16
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-17T14:42:09.273169Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b71c27b-b1e8-4482-9cba-04d762430d1a-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b513d2b5-ad4b-4ec0-b2eb-273e6d7a1815-profile_banner-480.png",
+        "fetchedAt": "2026-08-26T21:12:13Z"
+    },
+    "twitter": {
+        "sarinatwilight": {
+            "id": "2006142090603053056",
+            "handle": "sarinatwilight",
+            "displayName": "Sarina Twilight 🌑🐶 | VtuberEN",
+            "description": "🔞 🩵🩷🤍🩷🩵 |\nShe/Her | Canadian 🇨🇦 VTuber Streamer | Regular Streams Happen on Twitch! |\n🎨: 赛客撸祥人 |\n⚙️: Sugar sugar 锦鲤 |\nPFP: Jinx ED",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2009595880156848129/dJuOd0jL_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2006142090603053056/1767266924/1500x500",
+            "followersCount": 143,
+            "followingCount": 81,
+            "postsCount": 1237,
+            "accountCreatedAt": "2025-12-30T23:15:29.212Z",
+            "profileUrl": "https://x.com/SarinaTwilight",
+            "fetchedAt": "2026-08-26T21:12:22Z"
+        }
+    },
+    "fansly": {
+        "id": "879756161602056192",
+        "username": "SarinaTwilight",
+        "displayName": "Sarina Twilight",
+        "version": 6,
+        "followCount": 380,
+        "statusId": 1,
+        "accountMediaLikes": 133,
+        "postLikes": 278,
+        "about": "⋇⊶⊰❣⊱⊷⋇ Hiya, names Sarina! I'm your small town local Puppygirl ⋇⊶⊰❣⊱⊷⋇\nLink to all other socials! \nhttps://linktr.ee/SarinaTwilight\n: ̗̀➛ Vtuber only, I don't do IRL\n: ̗̀➛ Fetish/Kink Friendly \n: ̗̀➛ Free videos about my best moments and memes\n: ̗̀➛ Free Livestreams of me gaming\n",
+        "location": "Basement",
+        "streaming": {
+            "accountId": "879756161602056192",
+            "channel": {
+                "id": "879765687323611136",
+                "accountId": "879756161602056192",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.J5yliDs0z17C.m3u8",
+                "chatRoomId": "879765980006326272",
+                "status": 2,
+                "version": 114,
+                "createdAt": 1771246845000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "879765687323611137",
+                    "historyId": "945698968011034624",
+                    "channelId": "879765687323611136",
+                    "accountId": "879756161602056192",
+                    "title": "Sleep Deprived! | Standard Stream | Mario Kart 8",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 472,
+                    "createdAt": 1771246845000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786977733000,
+                    "startedAt": 1786966564000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-26T21:12:27Z"
+    }
+}
