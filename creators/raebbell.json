@@ -1,0 +1,99 @@
+{
+    "bio": "⸜(｡˃ ᵕ ˂ )⸝♡. she/her,  I am a 𝓰𝓪𝓻𝓭𝓮𝓷 𝓯𝓪𝓲𝓻𝔂 ˚˖𓍢ִ໋❀ in charge of this little garden by day and a bratty ⋆♱ 𝓯𝓪𝓮-𝓰𝓻𝓮𝓶𝓵𝓲𝓷  ♱⋆ at night.",
+    "twitch": {
+        "id": "1230162519",
+        "login": "raebbell",
+        "displayName": "raebbell",
+        "createdAt": "2025-01-10T17:15:54.887028Z",
+        "updatedAt": "2026-08-27T06:11:58.148837Z",
+        "description": "⸜(｡˃ ᵕ ˂ )⸝♡. she/her,  I am a 𝓰𝓪𝓻𝓭𝓮𝓷 𝓯𝓪𝓲𝓻𝔂 ˚˖𓍢ִ໋❀ in charge of this little garden by day and a bratty ⋆♱ 𝓯𝓪𝓮-𝓰𝓻𝓮𝓶𝓵𝓲𝓷  ♱⋆ at night.",
+        "primaryColorHex": "018A6F",
+        "followers": {
+            "totalCount": 74
+        },
+        "follows": {
+            "totalCount": 247
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-26T18:50:16.349981Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4d63978-6caa-4817-95f8-2fd98aa4eeda-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/725ed485-d718-4537-9114-0af83342809b-profile_banner-480.png",
+        "fetchedAt": "2026-08-27T13:28:58Z"
+    },
+    "twitter": {
+        "_raebbell": {
+            "id": "1678819951321202688",
+            "handle": "_raebbell",
+            "displayName": "Raebbell",
+            "description": "AI is not Art -- DMs open ♥\nhttps://t.co/BmTPmjdN8g  Affiliate {🍆🥒} https://t.co/otiwZh8Ywu 🫰LGBTQIA+ Safe 🏳️‍🌈",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1950835810627915776/ExE73P9P_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1678819951321202688/1784571553/1500x500",
+            "followersCount": 109,
+            "followingCount": 632,
+            "postsCount": 1134,
+            "accountCreatedAt": "2023-07-11T17:34:13.942Z",
+            "profileUrl": "https://x.com/_raebbell",
+            "fetchedAt": "2026-08-27T13:29:00Z"
+        }
+    },
+    "fansly": {
+        "id": "732890537392091136",
+        "username": "raebbell",
+        "displayName": "Raebbell",
+        "version": 9,
+        "followCount": 39,
+        "statusId": 1,
+        "accountMediaLikes": 94,
+        "postLikes": 124,
+        "about": "Find me on other socials: paths.to/raebbell_ 💅\nPls don't send me pics unless I ask you to ✨",
+        "location": "",
+        "streaming": {
+            "accountId": "732890537392091136",
+            "channel": {
+                "id": "886349688951816193",
+                "accountId": "732890537392091136",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.PtsUJJv1inQ5.m3u8",
+                "chatRoomId": "886350092351582208",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1772816593000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "886349688951816194",
+                    "historyId": "886349866266009600",
+                    "channelId": "886349688951816193",
+                    "accountId": "732890537392091136",
+                    "title": "TESTING TESTING",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 4,
+                    "createdAt": 1772816593000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1772817765000,
+                    "startedAt": 1772816635000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "886349928891174912",
+                                "streamId": "886349688951816194",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-27T13:29:01Z"
+    }
+}
