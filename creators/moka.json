@@ -1,0 +1,99 @@
+{
+    "bio": "☆ lotta yapping, and a lil too much cweam in my coffee",
+    "twitch": {
+        "id": "588976913",
+        "login": "moka",
+        "displayName": "Moka",
+        "createdAt": "2020-09-27T05:03:42.324026Z",
+        "updatedAt": "2026-08-28T02:34:43.769303Z",
+        "description": "☆ lotta yapping, and a lil too much cweam in my coffee",
+        "primaryColorHex": "EF7194",
+        "followers": {
+            "totalCount": 34622
+        },
+        "follows": {
+            "totalCount": 700
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-29T04:48:57.775837Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/839be066-d4e0-4bcf-99eb-e255bb7ac140-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d0169f-f9c0-4532-ae34-5689bbab0be8-profile_banner-480.jpeg",
+        "fetchedAt": "2026-08-29T06:00:08Z"
+    },
+    "twitter": {
+        "cweamymilky": {
+            "id": "1951819303604690944",
+            "handle": "cweamymilky",
+            "displayName": "Moka Cweamy❤️‍🩹⛓️‍💥",
+            "description": "⊹ ࣪ ° . 🌑 🦇 ⚘️ 🪻 . ° ⊹ ࣪ \n🟣 Twitch Partner ASMR Yapper;\n Sleep softly, dream deeply… I’ll take care of the rest \n( ・×・) //",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2090713131291181056/aSPGkE-b_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1951819303604690944/1761608884/1500x500",
+            "followersCount": 656,
+            "followingCount": 147,
+            "postsCount": 565,
+            "accountCreatedAt": "2025-08-03T01:36:14.177Z",
+            "profileUrl": "https://x.com/CweamyMilky",
+            "fetchedAt": "2026-08-29T06:00:09Z"
+        }
+    },
+    "fansly": {
+        "id": "437923933484756992",
+        "username": "MilfyMoka",
+        "displayName": "Cweamy",
+        "version": 19,
+        "followCount": 2147,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "a red-headed cream demon , here to make your loneliness a little less lonely. ",
+        "location": "",
+        "streaming": {
+            "accountId": "437923933484756992",
+            "channel": {
+                "id": "438605067759656960",
+                "accountId": "437923933484756992",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vlxnN6e4Qja0.m3u8",
+                "chatRoomId": "441928126214189056",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1666065957000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "438605067759656961",
+                    "historyId": "930392794860638208",
+                    "channelId": "438605067759656960",
+                    "accountId": "437923933484756992",
+                    "title": "A Sultry, Cweamy Goodbye Before My Trip!",
+                    "status": 1,
+                    "viewerCount": 149,
+                    "version": 881,
+                    "createdAt": 1666065957000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783320493000,
+                    "startedAt": 1783317288000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "930284432563122176",
+                                "streamId": "438605067759656961",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-08-29T06:00:11Z"
+    }
+}
