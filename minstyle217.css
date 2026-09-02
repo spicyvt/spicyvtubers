@@ -1189,18 +1189,6 @@ a {
     gap: 0.15rem;
   }
 
-  
-  .sort-toggle-btn,
-  .header-index-btn {
-    padding: 0.18rem 0.2rem;
-  }
-
-  .sort-toggle-btn svg,
-  .header-index-btn svg {
-    width: 10px;
-    height: 10px;
-  }
-
   .page {
     padding: 1rem 1rem 2rem;
   }
