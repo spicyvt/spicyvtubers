@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fansly Leaderboard - Spicy VTubers</title>
+<meta name="description" content="Live Fansly leaderboard rank tracker for indexed VTubers, with rank-over-time graphs for any account.">
+<link rel="canonical" href="https://spicyvtubers.com/leaderboard/">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Spicy VTubers">
+<meta property="og:title" content="Fansly Leaderboard - Spicy VTubers">
+<meta property="og:description" content="Live Fansly leaderboard rank tracker for indexed VTubers, with rank-over-time graphs for any account.">
+<meta property="og:url" content="https://spicyvtubers.com/leaderboard/">
+<meta property="og:image" content="https://spicyvtubers.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@Spicy_VTubers">
+<meta name="twitter:title" content="Fansly Leaderboard - Spicy VTubers">
+<meta name="twitter:description" content="Live Fansly leaderboard rank tracker for indexed VTubers, with rank-over-time graphs for any account.">
+<meta name="twitter:image" content="https://spicyvtubers.com/og-spicy.png">
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/minstyle217.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="header-titles">
+      <a class="brand" href="/">
+        <img class="brand-mark" src="/spicyvtubers.webp" alt="Spicy VTubers logo" width="40" height="40">
+        <span class="brand-name">Spicy <span class="brand-accent">VTubers</span></span>
+      </a>
+      <p class="tagline">Index of VTubers and their Spicy Accounts</p>
+    </div>
+
+    <div class="header-controls" id="header-controls">
+      <div class="get-extension-wrap" id="get-extension-wrap">
+        <button type="button" class="get-extension-btn" id="get-extension-btn" aria-haspopup="true" aria-expanded="false">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 11H19V7c0-1.1-.9-2-2-2h-4V3.5C13 2.12 11.88 1 10.5 1S8 2.12 8 3.5V5H4c-1.1 0-1.99.9-1.99 2v3.8H3.5c1.49 0 2.7 1.21 2.7 2.7s-1.21 2.7-2.7 2.7H2V20c0 1.1.9 2 2 2h3.8v-1.5c0-1.49 1.21-2.7 2.7-2.7s2.7 1.21 2.7 2.7V22H17c1.1 0 2-.9 2-2v-4h1.5c1.38 0 2.5-1.12 2.5-2.5S21.88 11 20.5 11z"/></svg>
+          <span>Extension</span>
+          <svg class="get-extension-chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5z"/></svg>
+        </button>
+        <div class="get-extension-menu" id="get-extension-menu" hidden>
+          <a class="get-extension-option" id="get-extension-chrome" data-browser="chrome" href="#" aria-disabled="true">
+            <span>Chrome</span>
+            <span class="get-extension-version"></span>
+          </a>        
+          <a class="get-extension-option" id="get-extension-firefox" data-browser="firefox" href="#" aria-disabled="true">
+            <span>Firefox</span>
+            <span class="get-extension-version"></span>
+          </a>        
+        </div>
+      </div>
+
+      <div class="header-actions" id="header-actions">
+        
+        <a class="header-index-btn" href="/insights/" title="Weekly Fansly stream insights"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V10h4v10H4zm6 0V4h4v16h-4zm6 0v-7h4v7h-4z"/></svg><span>Insights</span></a>
+        <a class="header-index-btn" href="/" title="Back to full index"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h7v7H4V4zm9 0h7v7h-7V4zM4 13h7v7H4v-7zm9 0h7v7h-7v-7z"/></svg><span>Index</span></a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="page leaderboard-page">
+  <section class="leaderboard-card">
+    <h1 class="leaderboard-title">Fansly Leaderboard</h1>
+    <p class="leaderboard-intro">Live top-500 Fansly rank tracker. Click any name below to graph its rank over time.</p>
+    <div id="leaderboard-graph" class="leaderboard-graph" data-loading>Loading leaderboard…</div>
+    <div class="leaderboard-selected-row">
+      <div id="leaderboard-selected" class="leaderboard-selected"></div>
+      <div class="leaderboard-actions">
+        <button type="button" class="leaderboard-clear-btn" id="leaderboard-clear-btn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg><span>Clear</span></button>
+      </div>
+    </div>
+  </section>
+  <section class="leaderboard-card">
+    <h2 class="leaderboard-list-title">All Ranked Accounts</h2>
+    <div id="leaderboard-grid" class="leaderboard-grid" data-loading>Loading leaderboard…</div>
+  </section>
+</main>
+
+<footer class="site-footer" id="site-footer">
+  <p class="back-to-index"><a href="/">← All Creators</a></p>
+  <button type="button" class="criteria-toggle-btn" id="criteria-toggle-btn" aria-expanded="false" aria-controls="criteria-content">
+    <span>Index criteria</span>
+    <svg class="criteria-toggle-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5z"/></svg>
+  </button>
+  <p class="criteria-content" id="criteria-content" style="line-height: 1.45;" hidden></p>
+  <template id="criteria-content-template">
+Twitch or YouTube channel and an X (Twitter) or Bluesky account<br>
+Streamed as a VTuber on at least one platform (SFW or NSFW)<br>
+Created or plan to create spicy audio, livestreams or IRL content on<br>
+Fansly, OnlyFans, Rplay, Joystick or Patreon
+</template>
+  <p class="site-stats" id="site-stats"></p>
+  <p>Not affiliated with any platform<br> Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
+</footer>
+
+<script src="/minscript217.js"></script>
+<script>window.initLeaderboard();</script>
+</body>
+</html>
