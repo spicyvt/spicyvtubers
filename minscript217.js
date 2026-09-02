@@ -1042,7 +1042,6 @@
         const isSelected = leaderboardSelected.has(entry.accountId);
         const style = isSelected ? ` style="--chip-color:${leaderboardColorFor(entry.accountId)}"` : "";
         const parts = leaderboardEntryParts(entry);
-        const usernameHtml = parts.username ? `<span class="leaderboard-entry-username">${escapeHtml(parts.username)}</span>` : "";
         return (
           `<button type="button" class="leaderboard-entry${isSelected ? " is-selected" : ""}" data-account-id="${escapeHtml(
             String(entry.accountId)
@@ -1050,14 +1049,12 @@
           `<span class="leaderboard-entry-dot"></span>` +
           `<span class="leaderboard-entry-rank">${entry.rank}.</span>` +
           `<span class="leaderboard-entry-name">${escapeHtml(parts.name)}</span>` +
-          usernameHtml +
           `</button>`
         );
       })
       .join("");
   }
 
-  
   
   function renderLeaderboardSelectedChips(selectedRoot) {
     selectedRoot.innerHTML = Array.from(leaderboardSelected.entries())
