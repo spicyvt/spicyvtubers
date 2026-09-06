@@ -1,0 +1,83 @@
+{
+    "bio": "tail wagger. mute yapper. 🐾",
+    "twitch": {
+        "id": "1046920439",
+        "login": "wufski",
+        "displayName": "Wufski",
+        "createdAt": "2024-03-02T18:48:26.823495Z",
+        "updatedAt": "2026-09-01T20:15:48.198275Z",
+        "description": "tail wagger. mute yapper. 🐾",
+        "primaryColorHex": "292D48",
+        "followers": {
+            "totalCount": 2709
+        },
+        "follows": {
+            "totalCount": 114
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-03T17:36:11.075687Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62ed2a20-541f-4a80-a493-2fad28741a84-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39170b2-6c40-48b6-a359-8f62f3b63d34-profile_banner-480.png",
+        "fetchedAt": "2026-09-06T02:29:05Z"
+    },
+    "fansly": {
+        "id": "903760492982456320",
+        "username": "Wufski",
+        "displayName": null,
+        "version": 2,
+        "followCount": 839,
+        "statusId": 3,
+        "accountMediaLikes": 494,
+        "postLikes": 259,
+        "about": "Your puppy girl! 🐶🐾\nOnly DMs for now, still getting inspiration, learning, and preparing!",
+        "location": "",
+        "streaming": {
+            "accountId": "903760492982456320",
+            "channel": {
+                "id": "934814497514737664",
+                "accountId": "903760492982456320",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WcGjrc0bvgsM.m3u8",
+                "chatRoomId": "934814741023436800",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1784371504000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "934814497514737665",
+                    "historyId": "950842940333244416",
+                    "channelId": "934814497514737664",
+                    "accountId": "903760492982456320",
+                    "title": "It's My First Stream! | Please read rules! | !emotes",
+                    "status": 1,
+                    "viewerCount": 38,
+                    "version": 4,
+                    "createdAt": 1784371504000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1788201790000,
+                    "startedAt": 1788192982000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "950714807068143616",
+                                "streamId": "934814497514737665",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-06T02:29:15Z"
+    }
+}

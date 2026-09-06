@@ -1,0 +1,83 @@
+{
+    "bio": "Hello! I'm Vunni your nerdy ghost girl bunny waifu. Still learning how to be a good streamer hope you'll enjoy my attempts.",
+    "twitch": {
+        "id": "752956189",
+        "login": "vunnibunni",
+        "displayName": "VunniBunni",
+        "createdAt": "2021-12-15T05:55:55.845777Z",
+        "updatedAt": "2026-08-31T17:14:24.470819Z",
+        "description": "Hello! I'm Vunni your nerdy ghost girl bunny waifu. Still learning how to be a good streamer hope you'll enjoy my attempts. ",
+        "primaryColorHex": "9FFFD9",
+        "followers": {
+            "totalCount": 519
+        },
+        "follows": {
+            "totalCount": 511
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-31T01:12:36.787762Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7207bb2-2e46-48b9-8b9b-adbfdc31db81-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b703a3c0-a0b9-45cd-9de2-32e352e96731-profile_banner-480.png",
+        "fetchedAt": "2026-09-06T02:29:03Z"
+    },
+    "fansly": {
+        "id": "416878264116588544",
+        "username": "CummiBunni",
+        "displayName": "CumBunni",
+        "version": 11,
+        "followCount": 302,
+        "statusId": 1,
+        "accountMediaLikes": 944,
+        "postLikes": 1028,
+        "about": "Just a sleepy baddie on this site~\n\nIf you found this account. Uhhhhhh no you didn't \n\n🐇Koikatsu Artist\n🐇VR Photographer\n🐇Cumslut\n\n⚠️All of my content is for my Fansly profile only.⚠️\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. Any unauthorized distribution of my content & live streams will result in a ban from ALL platforms.",
+        "location": "",
+        "streaming": {
+            "accountId": "416878264116588544",
+            "channel": {
+                "id": "885055878951092226",
+                "accountId": "416878264116588544",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xWhqOm7G8sFd.m3u8",
+                "chatRoomId": "885056349514264576",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1772508125000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "885055878951092227",
+                    "historyId": "885104626129461248",
+                    "channelId": "885055878951092226",
+                    "accountId": "416878264116588544",
+                    "title": "TESTING TESTING 1-2 1-2",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 6,
+                    "createdAt": 1772508125000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1772527471000,
+                    "startedAt": 1772519747000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "885056603605200897",
+                                "streamId": "885055878951092227",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-06T02:29:15Z"
+    }
+}
