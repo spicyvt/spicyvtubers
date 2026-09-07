@@ -79,5 +79,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-09-06T02:29:15Z"
+    },
+    "twitter": {
+        "wufski": {
+            "id": null,
+            "handle": "wufski",
+            "displayName": "Wufski",
+            "description": "Puppy wiggles and good music! 🐶🐾\nI stream on Twitch!\nhttps://t.co/TVbFWLWoPT 🩵",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2083318481760509952/rha6V2ys_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1764005408572592128/1778201790/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/wufski",
+            "fetchedAt": "2026-09-07T10:23:19Z"
+        }
     }
 }
