@@ -1163,14 +1163,15 @@
             "fansly": "nekoa_vt",
             "channel": "Nekoa_VT",
             "xHandles": [
-                "nekoa_vt"
+                "nekoa_vt",
+                "needynekoa"
             ],
             "socials": "https://link.me/nekoa",
             "data": true,
             "avatar": "avatarsx",
             "banner": "bannersx"
         },
-        "generatedAt": "2026-09-06T02:46:24+00:00"
+        "generatedAt": "2026-09-08T15:33:45+00:00"
     },
     "manoriumare": {
         "entry": {
@@ -15578,5 +15579,19 @@
             "banner": "banners"
         },
         "generatedAt": "2026-09-07T09:37:42+00:00"
+    },
+    "failsam": {
+        "entry": {
+            "fansly": "onlygrems",
+            "channel": "failsam",
+            "xHandles": [
+                "failsamvt",
+                "onlygrems"
+            ],
+            "socials": "https://failsam.carrd.co/",
+            "avatar": "avatarsx",
+            "banner": "bannersx"
+        },
+        "generatedAt": "2026-09-08T15:33:45+00:00"
     }
 }

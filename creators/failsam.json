@@ -1,0 +1,113 @@
+{
+    "bio": "I'm failsam, the vtuber gremlin queen! I'm a variety streamer & ASMRtist. I have a 2D, 3D, and bio model so you can't escape me in any dimension, might as well join in the chaos 🤷‍♀️😈 Regular schedule: Mo/Tu/We 7PM",
+    "twitch": {
+        "id": "161479458",
+        "login": "failsam",
+        "displayName": "failsam",
+        "createdAt": "2017-06-25T01:38:06.783932Z",
+        "updatedAt": "2026-09-07T22:57:34.672978Z",
+        "description": "I'm failsam, the vtuber gremlin queen! I'm a variety streamer & ASMRtist. I have a 2D, 3D, and bio model so you can't escape me in any dimension, might as well join in the chaos 🤷‍♀️😈 Regular schedule: Mo/Tu/We 7PM",
+        "primaryColorHex": "15B1EF",
+        "followers": {
+            "totalCount": 3222
+        },
+        "follows": {
+            "totalCount": 406
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-08T02:58:11.795712Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce4d2d65-805a-442d-b678-5a7a943d4536-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c9f0fa-ccbc-4eec-a05f-88d74c440678-profile_banner-480.png",
+        "fetchedAt": "2026-09-08T15:33:29Z"
+    },
+    "twitter": {
+        "failsamvt": {
+            "id": null,
+            "handle": "failsamvt",
+            "displayName": "failsam 🔪🔥",
+            "description": "gremlin vtuber | half human/half demon, all chaos | YouTube partner | 🎨 #gremlinGraffiti | 🔞 @onlygrems | @bunlynnvt @Ganamisaki2\n🔗https://t.co/iAkjF8n0Yc",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1847283660774350848/13lqMiku_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/403051908/1632881205/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/failsamvt",
+            "fetchedAt": "2026-09-08T15:33:33Z"
+        },
+        "onlygrems": {
+            "id": null,
+            "handle": "onlygrems",
+            "displayName": "failsam 🔪 NSFW 🔞 onlygrems",
+            "description": "vtuber &amp; biomodel (IRL) content | gremlin | half human/half demon, all horny chaos | 🎨 #onlygrems | sfw @failsamvt | OF https://t.co/D61CDI2oYI",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1756891871379415041/s3A0_MFe_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1756891312211505152/1717268573/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/onlyGrems",
+            "fetchedAt": "2026-09-08T15:33:35Z"
+        }
+    },
+    "fansly": {
+        "id": "509286196870914048",
+        "username": "onlyGrems",
+        "displayName": null,
+        "version": 5,
+        "followCount": 1268,
+        "statusId": 1,
+        "accountMediaLikes": 4057,
+        "postLikes": 2548,
+        "about": "failsam | vtuber & biomodel (IRL) content | gremlin | half human/half demon, all horny chaos\n\nsoft dom 😈 occasional playful sub 🐶\nkink friendly (the legal ones!)\n\nIf you buy me art or Throne gifts I will send you content of me appreciating it 😩💦\n(no butt gifts sorry)\n\nLike and comment on my posts to get me all hot and bothered knowing you're enjoying them 🥵\n\nCheck the ✨free✨ tag on my profile for free content!\n\n🔪 Throne | https://throne.me/failsam/wishlist\n🔪 Daki | https://cuddlyoctopus.com/product/failsam/\n🔪 Lovense | https://www.lovense.com/r/u3e88c\n\nSOCIALS\n🔪 Twitch | https://www.twitch.tv/failsam\n🔪 Discord | https://discord.gg/feCPCgQHnq\n🔪 YouTube | https://youtube.com/@failsamvt?sub_confirmation=1",
+        "location": "",
+        "streaming": {
+            "accountId": "509286196870914048",
+            "channel": {
+                "id": "512470621519622144",
+                "accountId": "509286196870914048",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.34daRocF31mF.m3u8",
+                "chatRoomId": "517220472098660352",
+                "status": 2,
+                "version": 34,
+                "createdAt": 1683676877000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "512470621519622145",
+                    "historyId": "953455168500809728",
+                    "channelId": "512470621519622144",
+                    "accountId": "509286196870914048",
+                    "title": "Elf shimbo at your service!",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 9204,
+                    "createdAt": 1683676877000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1788821295000,
+                    "startedAt": 1788815786000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "924130866471395328",
+                                "streamId": "512470621519622145",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-08T15:33:36Z"
+    }
+}
