@@ -1,0 +1,113 @@
+{
+    "bio": "Nekomata Vtuber ⛩️ Comfy, cozy & unhinged auf Twitch. Immer Montag & Donnerstag live! ⛩️",
+    "twitch": {
+        "id": "118879620",
+        "login": "lucyluvt",
+        "displayName": "LucyLuVT",
+        "createdAt": "2016-03-16T14:37:42.790129Z",
+        "updatedAt": "2026-09-06T14:59:04.083986Z",
+        "description": "Nekomata Vtuber ⛩️ Comfy, cozy & unhinged auf Twitch. Immer Montag & Donnerstag live! ⛩️",
+        "primaryColorHex": "A85656",
+        "followers": {
+            "totalCount": 1884
+        },
+        "follows": {
+            "totalCount": 719
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-06T21:54:12.625082Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fad2af11-6a28-4ac0-8dec-e6879980d781-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee24aa45-c1c1-4431-9e2a-d94549a9bb9e-profile_banner-480.jpeg",
+        "fetchedAt": "2026-09-08T16:38:45Z"
+    },
+    "twitter": {
+        "lucyluvt": {
+            "id": null,
+            "handle": "lucyluvt",
+            "displayName": "Lucy Lu ⛩️🌙 | Nekomata Vtuber",
+            "description": "Vtuber + Artist | https://t.co/MZqRq9Zz49 | https://t.co/kMlJQufKdT\n🎨+⚙️: @suiika___ #lucyluvtart",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2076711772061409280/MYNn0fgu_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/759655397745721344/1778787909/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lucyluvt",
+            "fetchedAt": "2026-09-08T16:38:49Z"
+        },
+        "lucyluafterdark": {
+            "id": null,
+            "handle": "lucyluafterdark",
+            "displayName": "Lucy Lu - NSFW🥀⛓️🖤",
+            "description": "🖤 18+  #NSFW | GER/ENG | Lewd IRL content sometimes~ \n- mainly sub \n- findom\n- cnc\nPublicly available. Privately claimed. 🖤\nhttps://t.co/sqO0YFxkTd",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2081084521978421248/PDoJ7aqq_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1898064839513174017/1787077160/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lucyluafterdark",
+            "fetchedAt": "2026-09-08T16:38:51Z"
+        }
+    },
+    "fansly": {
+        "id": "789679522118119424",
+        "username": "LucyLuVT",
+        "displayName": "Lucy Lu",
+        "version": 4,
+        "followCount": 384,
+        "statusId": 3,
+        "accountMediaLikes": 397,
+        "postLikes": 323,
+        "about": "Welcome to the Shrine!\nYour local german Nekomata Mommy is here!\nPublicly available. Privately claimed.\n──── ୨୧ ────\ncute, needy, bratty ♡\nspoil me here:\nhttps://throne.com/lucyluvt\nfind me here:\nhttps://lucyluvt.carrd.co\nhttps://discord.gg/tcWjfa4tx9\n──── ୨୧ ────\nwhat I do on here:\n- IRL x VR Play / 2D\n- Tip Menu\n- Audio / JOI / RP\n- Kinks: mainly sub - but obviously a switch, findom - money makes me wet, praising or degrading - everything to make you feel good, cnc,",
+        "location": "Under your desk",
+        "streaming": {
+            "accountId": "789679522118119424",
+            "channel": {
+                "id": "894326886430158848",
+                "accountId": "789679522118119424",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.pY1VqPK7xxRG.m3u8",
+                "chatRoomId": "894326963978657792",
+                "status": 2,
+                "version": 22,
+                "createdAt": 1774718505000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "894326886430158849",
+                    "historyId": "948329271074512896",
+                    "channelId": "894326886430158848",
+                    "accountId": "789679522118119424",
+                    "title": "[GER] chill & cum💦 !menu !throne !twitter !lurk !satisfyer",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 16,
+                    "createdAt": 1774718505000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1787600438000,
+                    "startedAt": 1787593677000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "941101613358018560",
+                                "streamId": "894326886430158849",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-08T16:38:52Z"
+    }
+}
