@@ -1,0 +1,90 @@
+{
+    "bio": "A Dryad who has always lived in a small forest has finally stepped out into the big wide world to explore everything life has to offer.",
+    "twitch": {
+        "id": "31211493",
+        "login": "celinewhitetail",
+        "displayName": "CelineWhitetail",
+        "createdAt": "2012-06-10T14:25:04.16287Z",
+        "updatedAt": "2026-09-07T13:20:30.156827Z",
+        "description": "A Dryad who has always lived in a small forest has finally stepped out into the big wide world to explore everything life has to offer.",
+        "primaryColorHex": "C59EFF",
+        "followers": {
+            "totalCount": 3073
+        },
+        "follows": {
+            "totalCount": 289
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-09T13:51:08.929933Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31057765-1e13-4a8e-90c2-b7476628d895-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9cdcce9a-0084-4dc8-921a-43d10cb8910f-profile_banner-480.png",
+        "fetchedAt": "2026-09-09T23:09:46Z"
+    },
+    "twitter": {
+        "celinewhitetail": {
+            "id": null,
+            "handle": "celinewhitetail",
+            "displayName": "Celine Whitetail 🍁VA || Audio Editor 🦌",
+            "description": "I listen to girls moan into a microphone for a living \n🔞: https://t.co/Ahf0x68eCw \n🎼: https://t.co/k6SWFRDkh3 \n🔗: https://t.co/049YdqbTCE",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1950689314838355968/f9AsiXYM_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/228242365/1753915550/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/CelineWhitetail",
+            "fetchedAt": "2026-09-09T23:09:56Z"
+        }
+    },
+    "fansly": {
+        "id": "619875361961816064",
+        "username": "CelineWhitetail",
+        "displayName": "Celine Whitetail",
+        "version": 5,
+        "followCount": 771,
+        "statusId": 1,
+        "accountMediaLikes": 957,
+        "postLikes": 419,
+        "about": "https://celinewhitetail.carrd.co/\n\nI'm a Dryad Vtuber and I post weekly original NSFW audio roleplay ASMRs, exclusive audio content either through individual purchase or subscription, full length original erotic short stories and I stream NSFW games twice+ a week. \n\nGuaranteed Stream Days are Monday 3pm-6pm EST and Friday 6pm-9pm EST!\n\nDM me for Voice Acting requests or audio commissions!\nLinktree: https://linktr.ee/celinewhitetail\n\nTwitch: https://www.twitch.tv/CelineWhitetail\nTwitter: https://twitter.com/CelineWhitetail\nYoutube: https://www.youtube.com/channel/UCTTTksrMczPYCLroe4BcVJQ\nPatreon: https://www.patreon.com/CelineWhitetail\nFansly: https://fansly.com/CelineWhitetail/posts\nASMR Youtube Channel: https://www.youtube.com/watch?v=FVKT5oqhQDE\nVGen Commissions: https://vgen.co/CelineWhitetail\nFiverr Commissions: http://www.fiverr.com/s/DBmW1yX\nTwitch VoD Youtube Channel: https://www.youtube.com/channel/UCFJMV8ypJwN3-DPGviirmUA\nMerch Store: https://celinewhitetail-shop.fourthwall.com/\nTellonym: https://tellonym.me/user.9355245\nTik-Tok: https://www.tiktok.com/@celinewhitetail\nBluesky: https://bsky.app/profile/celinewhitetail.bsky.social\nThrone: https://throne.com/celinewhitetail\nCarrd: https://celinewhitetail.carrd.co/\nKo-Fi: https://ko-fi.com/celinewhitetail\nStreamElements Tipping: https://streamelements.com/celinewhitetail/tip",
+        "location": "The Garden",
+        "streaming": {
+            "accountId": "619875361961816064",
+            "channel": {
+                "id": "665366289086160896",
+                "accountId": "619875361961816064",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Mp7fBQ8UATfk.m3u8",
+                "chatRoomId": "665366762195263488",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1720130045000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "665366289086160897",
+                    "historyId": "912486965796945923",
+                    "channelId": "665366289086160896",
+                    "accountId": "619875361961816064",
+                    "title": "Recording ASMR and Chilling With Chat",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 6467,
+                    "createdAt": 1720130045000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1779061640000,
+                    "startedAt": 1779048205000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-09T23:09:57Z"
+    }
+}
