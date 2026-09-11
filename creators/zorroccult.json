@@ -1,0 +1,104 @@
+{
+    "bio": "(18+) Im Zorro, Kitsune VTuber and variety streamer ! ⛩️ | ENG/SPA",
+    "twitch": {
+        "id": "131909630",
+        "login": "zorroccult",
+        "displayName": "Zorroccult",
+        "createdAt": "2016-08-11T09:35:17.812653Z",
+        "updatedAt": "2026-09-11T08:53:33.230407Z",
+        "description": "(18+) Im Zorro, Kitsune VTuber and variety streamer ! ⛩️ | ENG/SPA ",
+        "primaryColorHex": "A1100D",
+        "followers": {
+            "totalCount": 1693
+        },
+        "follows": {
+            "totalCount": 149
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-10T06:06:57.532927Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/15934e59-07c7-4638-a07d-9d768665ae52-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae72e88e-e3f8-4a3c-8710-a619996aa487-profile_banner-480.jpeg",
+        "fetchedAt": "2026-09-11T17:26:26Z"
+    },
+    "twitter": {
+        "zorroccultvt": {
+            "id": null,
+            "handle": "zorroccultvt",
+            "displayName": "Zorro ⛩️🌙",
+            "description": "(18+) Kitsune VTuber ⛩️ ENG/SPA 🇵🇷⛩️ LGBTQIA+ ⛩️ Art tag: #ZorroccultArt ⛩️ NSFW tag: #ZorroDarkArts",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2093446390999347200/RO_R6tWO_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1122540558818381825/1787951489/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ZorroccultVT",
+            "fetchedAt": "2026-09-11T17:26:31Z"
+        },
+        "zorroafterhrs": {
+            "id": null,
+            "handle": "zorroafterhrs",
+            "displayName": "Zorro ⛩️🌙🔞",
+            "description": "🇵🇷 MINORS DNI ⛩️ Hornier half of @ZorroccultVT 🔞NSFW CONTENT | NSFW tag: #ZorroDarkArts | Lovense Partner | CHECK OUT THE BLUE PAGE ✨",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2094310820674953216/5NgYXYOG_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1760150251648819200/1781019445/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/zorroafterhrs",
+            "fetchedAt": "2026-09-11T17:26:33Z"
+        }
+    },
+    "fansly": {
+        "id": "644646473908101120",
+        "username": "Zorroccult",
+        "displayName": "Zorro ",
+        "version": 65,
+        "followCount": 294,
+        "statusId": 1,
+        "accountMediaLikes": 217,
+        "postLikes": 227,
+        "about": "Call me Zorro. I’m a Kitsune just showin you what I got, if you like what you see consider becoming my pup 🤍\n\n\nWhat you’ll find here -\n\n✧ IRL NSFW Content (nudes) \n✧ NSFW Audios\n✧ NSFW Art \n✧ A Bear\n\n✧ If you enjoy what you see, consider leaving a tip. It’s not mandatory, but it would be greatly appreciated. \n\nGet a solace pro with my link~ \nhttps://www.lovense.com/r/4e8lfg",
+        "location": "Inside you ",
+        "streaming": {
+            "accountId": "644646473908101120",
+            "channel": {
+                "id": "805839075993993216",
+                "accountId": "644646473908101120",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.XIHnYJoj4tYV.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1753621367000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "805839075993993217",
+                    "historyId": "805840129410211840",
+                    "channelId": "805839075993993216",
+                    "accountId": "644646473908101120",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 2,
+                    "createdAt": 1753621367000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1753621703000,
+                    "startedAt": 1753621618000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-11T17:26:35Z"
+    }
+}
