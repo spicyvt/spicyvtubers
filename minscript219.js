@@ -902,20 +902,17 @@
   
   function buildStreamWeekdayRowHtml(streams) {
     const dayStats = computeWeekdayStreamStats(streams);
-    const maxAvg = Math.max(1, ...dayStats.map((d) => d.avgViewers ?? 0));
     const maxPeak = Math.max(1, ...dayStats.map((d) => d.peak));
     const cellsHtml = dayStats
       .map((stats, dow) => {
         const avgText = stats.avgViewers !== null ? String(stats.avgViewers) : "—";
         const peakText = stats.peak > 0 ? String(stats.peak) : "—";
-        const avgScore = stats.avgViewers !== null ? stats.avgViewers / maxAvg : 0;
-        const peakScore = stats.peak > 0 ? stats.peak / maxPeak : 0;
-        const intensity = ((avgScore + peakScore) / 2).toFixed(3);
-        const title = `${WEEKDAY_LABELS[dow]}: avg ${avgText}, peak ${peakText}`;
+        const intensity = stats.peak > 0 ? (stats.peak / maxPeak).toFixed(3) : 0;
+        const title = `${WEEKDAY_LABELS[dow]}: peak ${peakText}, avg ${avgText}`;
         return `<div class="stream-weekday-cell" style="--intensity:${intensity}" title="${escapeHtml(title)}">
           <span class="stream-weekday-day">${WEEKDAY_LABELS[dow]}</span>
-          <span class="stream-weekday-avg">${avgText}</span>
           <span class="stream-weekday-peak">${peakText}</span>
+          <span class="stream-weekday-avg">${avgText}</span>
         </div>`;
       })
       .join("");

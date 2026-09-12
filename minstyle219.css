@@ -1640,13 +1640,13 @@ a {
   text-transform: uppercase;
 }
 
-.stream-weekday-avg {
+.stream-weekday-peak {
   font-size: 0.8rem;
   font-weight: 600;
   color: var(--text);
 }
 
-.stream-weekday-peak {
+.stream-weekday-avg {
   font-size: 0.68rem;
   color: var(--text-muted);
 }
