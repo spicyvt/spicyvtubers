@@ -1,0 +1,99 @@
+{
+    "bio": "nerdy girlfailure puppy ♡",
+    "twitch": {
+        "id": "976202892",
+        "login": "pawsbyte",
+        "displayName": "PawsByte",
+        "createdAt": "2023-10-25T17:49:17.013944Z",
+        "updatedAt": "2026-09-11T03:05:43.397262Z",
+        "description": "nerdy girlfailure puppy ♡ ",
+        "primaryColorHex": "FFE0F0",
+        "followers": {
+            "totalCount": 897
+        },
+        "follows": {
+            "totalCount": 59
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-12T03:38:12.196726Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0202a029-be84-40a0-8c89-b5c7e988f2e4-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/01e4e30d-8281-4017-af7f-6ae5aeb848a0-profile_banner-480.png",
+        "fetchedAt": "2026-09-12T13:41:44Z"
+    },
+    "twitter": {
+        "pawsbyte": {
+            "id": null,
+            "handle": "pawsbyte",
+            "displayName": "Paws 🦴🩷",
+            "description": "18+ | ur nerdy girlfailure puppy | \nShiba VTuber ♡ Horror TCG &amp; Audio Roleplay ♡\nLinkies: https://t.co/BNRkb59VYp",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2093194075742638080/DXfJkyzH_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1990675101122244611/1787891343/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/pawsbyte",
+            "fetchedAt": "2026-09-12T13:41:59Z"
+        }
+    },
+    "fansly": {
+        "id": "845494071450419200",
+        "username": "pawsVA",
+        "displayName": "Paws",
+        "version": 23,
+        "followCount": 1986,
+        "statusId": 3,
+        "accountMediaLikes": 833,
+        "postLikes": 944,
+        "about": "            ʟᴏꜱᴇʀ ɢɪʀʟꜰᴀɪʟᴜʀᴇ ᴘᴜᴘᴘʏ    \n      ᴘᴇᴛ ᴘʟᴀʏ • ᴏᴠᴇʀꜱᴛɪᴍ • ᴏʀᴀʟ ꜰɪxᴀᴛɪᴏɴ\n            ꜱᴛʀᴇᴀᴍꜱ ꜱᴜɴᴅᴀʏ 9ᴘᴍ ᴇꜱᴛ\n               ꜰᴜʟʟ ɪᴍᴍᴇʀꜱɪᴏɴ ɴᴏ ɪʀʟ\n           https://throne.com/PawsByte\n                             \n───────── « ⋅ʚ♡ɞ⋅ » ─────────\n\nALL content on my page may NOT be copied, saved, or redistributed in any way, shape, or form without my permission!\n",
+        "location": "",
+        "streaming": {
+            "accountId": "845494071450419200",
+            "channel": {
+                "id": "862501137226407936",
+                "accountId": "845494071450419200",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zlnuyqMpwvP6.m3u8",
+                "chatRoomId": "864025778814218240",
+                "status": 2,
+                "version": 56,
+                "createdAt": 1767130655000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "862501137226407937",
+                    "historyId": "953519464983322624",
+                    "channelId": "862501137226407936",
+                    "accountId": "845494071450419200",
+                    "title": "♡ *paws at you* !discord !tipmenu ",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 50,
+                    "createdAt": 1767130656000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1788838106000,
+                    "startedAt": 1788831116000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937910513130561536",
+                                "streamId": "862501137226407937",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-12T13:42:15Z"
+    }
+}
