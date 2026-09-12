@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/minstyle218.css">
+<link rel="stylesheet" href="/minstyle219.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"CottontailVA","url":"https://spicyvtubers.com/c/cottontailva/","image":"https://spicyvtubers.com/avatarsX/cottontailva.webp","sameAs":["https://twitch.com/CottontailVA","https://x.com/cottontailva","https://x.com/cottontailvava","https://cottontailva.carrd.co/"]}</script>
 </head>
 <body>
@@ -92,11 +92,11 @@
       <div class="stream-tabs-inner">
         <div class="stream-main-tabs"><button type="button" class="stream-tab-btn is-active" data-tab="fansly-streams"><img src="/fansly.svg" alt="" aria-hidden="true">Streams</button><button type="button" class="stream-tab-btn" data-tab="leaderboard"><img src="/fansly.svg" alt="" aria-hidden="true">Leaderboard</button></div>
         <div class="stream-tab-panels"><div class="stream-tab-panel is-active" data-tab="fansly-streams"><div class="stream-history-panel" data-slug="cottontailva" data-platform="fansly"></div></div><div class="stream-tab-panel" data-tab="leaderboard"><div class="fansly-month-pills"><button type="button" class="fansly-month-btn is-active" data-month="2026-06">Jun &#039;26 · 2nd</button></div>
-        <div class="fansly-graphs"><div class="fansly-graph-panel is-active" data-month="2026-06"><svg viewBox="0 0 760 340" role="img" aria-label="Fansly leaderboard rank over time">
-<text class="fansly-axis-text" x="36" y="16" text-anchor="end" dominant-baseline="middle">1</text><text class="fansly-axis-text" x="36" y="48.2" text-anchor="end" dominant-baseline="middle">2</text><text class="fansly-axis-text" x="36" y="112.7" text-anchor="end" dominant-baseline="middle">4</text><text class="fansly-axis-text" x="36" y="177.1" text-anchor="end" dominant-baseline="middle">6</text><text class="fansly-axis-text" x="36" y="241.6" text-anchor="end" dominant-baseline="middle">8</text><text class="fansly-axis-text" x="36" y="306" text-anchor="end" dominant-baseline="middle">10</text>
-<text class="fansly-axis-text" x="44" y="324" text-anchor="middle">Jun 2</text><text class="fansly-axis-text" x="184" y="324" text-anchor="middle">Jun 8</text><text class="fansly-axis-text" x="324" y="324" text-anchor="middle">Jun 13</text><text class="fansly-axis-text" x="464" y="324" text-anchor="middle">Jun 19</text><text class="fansly-axis-text" x="604" y="324" text-anchor="middle">Jun 25</text><text class="fansly-axis-text" x="744" y="324" text-anchor="middle">Jul 1</text>
-<polyline class="fansly-line" points="44,177.1 44.1,177.1 44.4,209.3 45.1,209.3 45.4,177.1 58.7,177.1 59,209.3 59.2,177.1 63.5,177.1 63.7,144.9 95.9,144.9 96.2,112.7 97.9,112.7 98.2,144.9 98.4,144.9 98.7,112.7 160.4,112.7 160.6,80.4 162.6,80.4 162.9,112.7 168.9,112.7 169.2,80.4 509.6,80.4 509.9,48.2 744,48.2"></polyline>
-</svg></div></div>
+        <div class="chart-wrap">
+          <canvas class="fansly-graph-canvas" data-active-month="2026-06"></canvas>
+        </div>
+        <button type="button" class="chart-reset-btn fansly-graph-reset">Reset zoom</button>
+        <script type="application/json" class="fansly-graph-data">{"2026-06":[{"x":1780386740000,"y":6},{"x":1780387201000,"y":6},{"x":1780388101000,"y":7},{"x":1780390802000,"y":7},{"x":1780391701000,"y":6},{"x":1780439401000,"y":6},{"x":1780440301000,"y":7},{"x":1780441201000,"y":6},{"x":1780456501000,"y":6},{"x":1780457401000,"y":5},{"x":1780572601000,"y":5},{"x":1780573501000,"y":4},{"x":1780579801000,"y":4},{"x":1780580702000,"y":5},{"x":1780581602000,"y":5},{"x":1780582501000,"y":4},{"x":1780803302000,"y":4},{"x":1780804201000,"y":3},{"x":1780811401000,"y":3},{"x":1780812301000,"y":4},{"x":1780833901000,"y":4},{"x":1780834801000,"y":3},{"x":1782053402000,"y":3},{"x":1782054302000,"y":2},{"x":1782892201000,"y":2}]}</script>
         <div class="fansly-stats">
           <span class="fansly-stat"><span class="fansly-stat-label">Highest Rank:</span> 2nd</span>
           <span class="fansly-stat"><span class="fansly-stat-label">Largest Gain:</span> 1</span>
@@ -126,7 +126,9 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   <p>Not affiliated with any platform<br> Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
 </footer>
 
-<script src="/minscript218.js"></script>
+<script src="/vendor/hammer.min.js"></script>
+<script src="/vendor/chart.umd.min.js"></script>
+<script src="/vendor/chartjs-plugin-zoom.min.js"></script><script src="/minscript219.js"></script>
 <script>window.initCreatorPage();</script>
 </body>
 </html>

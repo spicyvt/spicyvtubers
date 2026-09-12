@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/minstyle218.css">
+<link rel="stylesheet" href="/minstyle219.css">
 </head>
 <body>
 
@@ -74,6 +74,7 @@
     <h1 class="leaderboard-title">Fansly Leaderboard</h1>
     <p class="leaderboard-intro">Live top-500 Fansly rank tracker. Click any name below to graph its rank over time.</p>
     <div id="leaderboard-graph" class="leaderboard-graph" data-loading>Loading leaderboard…</div>
+    <button type="button" class="chart-reset-btn leaderboard-graph-reset" id="leaderboard-reset-zoom-btn">Reset zoom</button>
     <div class="leaderboard-selected-row">
       <div id="leaderboard-selected" class="leaderboard-selected"></div>
       <div class="leaderboard-actions">
@@ -108,7 +109,9 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   <p>Not affiliated with any platform<br> Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
 </footer>
 
-<script src="/minscript218.js"></script>
+<script src="/vendor/hammer.min.js"></script>
+<script src="/vendor/chart.umd.min.js"></script>
+<script src="/vendor/chartjs-plugin-zoom.min.js"></script><script src="/minscript219.js"></script>
 <script>window.initLeaderboard();</script>
 </body>
 </html>
