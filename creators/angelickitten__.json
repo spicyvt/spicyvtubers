@@ -1,0 +1,90 @@
+{
+    "bio": "My name is Angelic, I run a tea room with yummy treats. It’s definitely not a trap and I won’t lock you in a basement forever 🖤",
+    "twitch": {
+        "id": "667471785",
+        "login": "angelickitten__",
+        "displayName": "angelickitten__",
+        "createdAt": "2021-03-27T08:39:39.572944Z",
+        "updatedAt": "2026-09-11T21:44:27.166141Z",
+        "description": "My name is Angelic, I run a tea room with yummy treats. It’s definitely not a trap and I won’t lock you in a basement forever 🖤",
+        "primaryColorHex": "BFAAE0",
+        "followers": {
+            "totalCount": 3812
+        },
+        "follows": {
+            "totalCount": 599
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-11T07:07:12.708009Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf7b0c43-e96e-45fe-ab36-a3821ec23ca4-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/795b1cb7-a5e7-444a-bdd8-d09c6aecb27a-profile_banner-480.png",
+        "fetchedAt": "2026-09-12T10:53:56Z"
+    },
+    "twitter": {
+        "angelickitten__": {
+            "id": null,
+            "handle": "angelickitten__",
+            "displayName": "AngelicKitten 🫖🥃",
+            "description": "Just a cat girl who loves lolita fashion, tea and video games 🖤 Powered by @ADVANCEDgg",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1925932026533650432/L4-A8Oe__400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1122643755218038784/1698876891/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/AngelicKitten__",
+            "fetchedAt": "2026-09-12T10:53:59Z"
+        }
+    },
+    "fansly": {
+        "id": "657413990854438912",
+        "username": "angelickittenvt",
+        "displayName": null,
+        "version": 4,
+        "followCount": 68,
+        "statusId": 3,
+        "accountMediaLikes": 20,
+        "postLikes": 96,
+        "about": " Here to dump lewd pics + NSFW things I do on the side... content including both virtual and IRL\n\nMessage me for requests\n\nSpoil me:\nhttps://throne.com/angelickitten",
+        "location": "",
+        "streaming": {
+            "accountId": "657413990854438912",
+            "channel": {
+                "id": "913272607002877952",
+                "accountId": "657413990854438912",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.IQHLWoaEBG4g.m3u8",
+                "chatRoomId": "913402148018995200",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1779235517000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "913272607002877953",
+                    "historyId": "932266232743223297",
+                    "channelId": "913272607002877952",
+                    "accountId": "657413990854438912",
+                    "title": "dbd",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 86,
+                    "createdAt": 1779235517000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783768215000,
+                    "startedAt": 1783763950000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-12T10:54:00Z"
+    }
+}

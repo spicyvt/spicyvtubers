@@ -1,0 +1,107 @@
+{
+    "bio": "that one sussy unhinged bread cat 🍞💦",
+    "twitch": {
+        "id": "546554709",
+        "login": "nyekopan",
+        "displayName": "nyekopan",
+        "createdAt": "2020-06-22T07:58:01.500151Z",
+        "updatedAt": "2026-09-12T05:28:16.714902Z",
+        "description": "that one sussy unhinged bread cat 🍞💦 ",
+        "primaryColorHex": "AB7253",
+        "followers": {
+            "totalCount": 17349
+        },
+        "follows": {
+            "totalCount": 1798
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-12T05:29:03.439907Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/42ecf129-7127-404a-97fd-0500f270b633-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d43471ed-b2e0-460b-85b8-923fb042dea6-profile_banner-480.png",
+        "fetchedAt": "2026-09-12T10:35:47Z"
+    },
+    "twitter": {
+        "bread_vt": {
+            "id": null,
+            "handle": "bread_vt",
+            "displayName": "𝐍𝐞𝐤𝐨 𝑩𝒓𝒆𝒂𝒅 🍞💦 𝐧𝐲𝐞𝐤𝐨𝐩𝐚𝐧",
+            "description": "ねこ | she/they | 🇵🇭🇦🇺 | unhinged breadcat vtuber and local lovergirl | MDNI🔞 | ママ: @saga404 パパ: @mika__tama | twitch partner | https://t.co/NIuqf1JGfs",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2098549817823879168/WBS2r1_O_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1251728833419476994/1764111031/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/bread_vt",
+            "fetchedAt": "2026-09-12T10:35:48Z"
+        }
+    },
+    "fansly": {
+        "id": "713945209246855168",
+        "username": "NekopanVT",
+        "displayName": "Bread",
+        "version": 11,
+        "followCount": 5626,
+        "statusId": 1,
+        "accountMediaLikes": 5891,
+        "postLikes": 12208,
+        "about": "DarkiPan hours ✝️💀 \nwhere the bread cat comes out to play~\nsaving up ✌️DM for customs/requests!\nWishlist @ throne.com/nekopan",
+        "location": "",
+        "streaming": {
+            "accountId": "713945209246855168",
+            "channel": {
+                "id": "790579601226080256",
+                "accountId": "713945209246855168",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.6k5QHulf6MFb.m3u8",
+                "chatRoomId": "843498057482907648",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1749983225000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "790579601226080257",
+                    "historyId": null,
+                    "channelId": "790579601226080256",
+                    "accountId": "713945209246855168",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1749983225000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "949575941711998976",
+                                "streamId": "790579601226080257",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "949575941711998977",
+                                "streamId": "790579601226080257",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-12T10:35:50Z"
+    }
+}

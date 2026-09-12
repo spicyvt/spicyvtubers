@@ -1,0 +1,113 @@
+{
+    "bio": "Welcome to my twitch channel! Check out my links for more ♡ https://linktr.ee/FeliVR ♡",
+    "twitch": {
+        "id": "634466407",
+        "login": "felivr",
+        "displayName": "FeliVR",
+        "createdAt": "2021-01-10T16:51:54.978679Z",
+        "updatedAt": "2026-09-07T17:40:03.64934Z",
+        "description": "Welcome to my twitch channel! Check out my links for more ♡ https://linktr.ee/FeliVR ♡ ",
+        "primaryColorHex": "0099F0",
+        "followers": {
+            "totalCount": 2205
+        },
+        "follows": {
+            "totalCount": 34
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-07T17:39:57.541347Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60af8ff7-c0d4-44c2-a469-2caad7636a18-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f54fec-dae5-416e-864e-45eb0bd6fdcf-profile_banner-480.png",
+        "fetchedAt": "2026-09-12T10:33:40Z"
+    },
+    "twitter": {
+        "felivr_": {
+            "id": null,
+            "handle": "felivr_",
+            "displayName": "Feli",
+            "description": "Your scuffed fox girl~\nTwitch partner 💜\n♡ https://t.co/BU69HLgCi5 ♡ \n♡ https://t.co/XTFGNG93Vz ♡\n SFW: @FeliVRC",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2003075574101630976/jLaqRouR_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1322663144494407680/1735923756/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/felivr_",
+            "fetchedAt": "2026-09-12T10:33:43Z"
+        },
+        "felivrc": {
+            "id": null,
+            "handle": "felivrc",
+            "displayName": "Feli",
+            "description": "Just a super duper wholesome fox! Nothing to see here :3\nhttps://t.co/hwkcvBLavX",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2070851788450807808/Kl6kgpnY_400x400.png",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1306844193638232064/1772387565/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/felivrc",
+            "fetchedAt": "2026-09-12T10:33:44Z"
+        }
+    },
+    "fansly": {
+        "id": "355021381370392576",
+        "username": "FeliVR",
+        "displayName": "Feli ",
+        "version": 13,
+        "followCount": 31090,
+        "statusId": 3,
+        "accountMediaLikes": 22005,
+        "postLikes": 23008,
+        "about": "🩵 Your lil brat~\n🔞 Free weekly livestreams! \n🔥 Exclusive videos and pics!\n💋 Feel free to DM for customs~\nhttps://linktr.ee/FeliVR",
+        "location": "http://discord.gg/TpWHzbrmYp",
+        "streaming": {
+            "accountId": "355021381370392576",
+            "channel": {
+                "id": "434814122756943872",
+                "accountId": "355021381370392576",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.5xppS6rk9mhv.m3u8",
+                "chatRoomId": "434814175840051200",
+                "status": 2,
+                "version": 478,
+                "createdAt": 1665162125000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "434814122756943873",
+                    "historyId": "953405632591970304",
+                    "channelId": "434814122756943872",
+                    "accountId": "355021381370392576",
+                    "title": "Play with me~ Shock collar at 500 ♡ Live on Twitch ♡ Tip to tease me~ ♡ ",
+                    "status": 1,
+                    "viewerCount": 120,
+                    "version": 874,
+                    "createdAt": 1665162125000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1788805330000,
+                    "startedAt": 1788803976000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "938095677206982656",
+                                "streamId": "434814122756943873",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-12T10:33:47Z"
+    }
+}
