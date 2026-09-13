@@ -1163,7 +1163,6 @@
               label: (item) => `${item.parsed.y} viewers`,
             },
           },
-          zoom: CHART_ZOOM_PAN_PLUGIN,
         },
       },
     });
