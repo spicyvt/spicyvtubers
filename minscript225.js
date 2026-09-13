@@ -1342,8 +1342,8 @@
   
   
   const INSIGHTS_METRICS = [
-    { key: "streamStarts", label: "Stream Starts", format: (v) => `~${v.toFixed(1)} start${v.toFixed(1) === "1.0" ? "" : "s"}`, aggregate: "sum" },
-    { key: "avgConcurrentStreams", label: "Concurrent Streams", format: (v) => `~${v.toFixed(1)} live`, aggregate: "avg" },
+    { key: "streamStarts", label: "Stream Starts", format: (v) => `~${Math.round(v)} start${Math.round(v) === 1 ? "" : "s"}`, aggregate: "sum" },
+    { key: "avgConcurrentStreams", label: "Concurrent Streams", format: (v) => `~${Math.round(v)} live`, aggregate: "avg" },
     { key: "avgViewers", label: "Avg Viewers", format: (v) => `${Math.round(v)} viewers`, aggregate: "avg" },
   ];
 
