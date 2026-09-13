@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/minstyle222.css">
+<link rel="stylesheet" href="/minstyle223.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"NasuAisuru","url":"https://spicyvtubers.com/c/nasuaisuru/","image":"https://spicyvtubers.com/avatarsX/nasuaisuru.webp","sameAs":["https://twitch.com/NasuAisuru","https://x.com/nasuaisuru","https://nasuaisuru.carrd.co/"]}</script>
 </head>
 <body>
@@ -64,22 +64,27 @@
 
       <div class="header-actions" id="header-actions">
         <a class="header-index-btn" href="/insights/" title="Weekly Fansly stream insights"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V10h4v10H4zm6 0V4h4v16h-4zm6 0v-7h4v7h-4z"/></svg><span>Insights</span></a>
-        <a class="header-index-btn" href="/" title="Back to full index"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h7v7H4V4zm9 0h7v7h-7V4zM4 13h7v7H4v-7zm9 0h7v7h-7v-7z"/></svg><span>Index</span></a>
+        <div class="header-search-wrap" id="header-search-wrap">
+  <button type="button" class="header-index-btn header-search-btn" id="header-search-btn" aria-haspopup="true" aria-expanded="false" title="Search creators">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/></svg>
+    <span>Search</span>
+  </button>
+  <div class="page-search-panel" id="page-search-panel" hidden>
+    <div class="page-search-input-wrap">
+      <svg class="page-search-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/>
+      </svg>
+      <input type="search" id="page-search-input" class="page-search-input" placeholder="Search creators…" aria-label="Search creators" autocomplete="off" spellcheck="false">
+    </div>
+    <div class="page-search-results" id="page-search-results" hidden></div>
+  </div>
+</div>
       </div>
     </div>
   </div>
 </header>
 
 <main class="page creator-page">
-  <div class="page-search-wrap" id="page-search-wrap">
-  <div class="page-search-input-wrap">
-    <svg class="page-search-icon" viewBox="0 0 24 24" aria-hidden="true">
-      <path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/>
-    </svg>
-    <input type="search" id="page-search-input" class="page-search-input" placeholder="Search creators…" aria-label="Search creators" autocomplete="off" spellcheck="false">
-  </div>
-  <div class="page-search-results" id="page-search-results" hidden></div>
-</div>
   <section class="creator-profile">
     <div class="creator-card">
       <div class="creator-profile-card">
@@ -125,7 +130,7 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   <p>Not affiliated with any platform<br> Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
 </footer>
 
-<script src="/vendor/chart.umd.min.js"></script><script src="/minscript222.js"></script>
+<script src="/vendor/chart.umd.min.js"></script><script src="/minscript223.js"></script>
 <script>window.initCreatorPage();</script>
 </body>
 </html>
