@@ -1345,7 +1345,6 @@
     { key: "streamStarts", label: "Stream Starts", format: (v) => `~${v.toFixed(1)} start${v.toFixed(1) === "1.0" ? "" : "s"}`, aggregate: "sum" },
     { key: "avgConcurrentStreams", label: "Concurrent Streams", format: (v) => `~${v.toFixed(1)} live`, aggregate: "avg" },
     { key: "avgViewers", label: "Avg Viewers", format: (v) => `${Math.round(v)} viewers`, aggregate: "avg" },
-    { key: "totalViewers", label: "Total Viewers", format: (v) => `~${Math.round(v).toLocaleString()} viewers`, aggregate: "sum" },
   ];
 
   async function initInsightsPage() {
@@ -1364,7 +1363,7 @@
         showInsightsEmptyMessage(summaryRoot, tabsRoot, graphRoot);
         return;
       }
-      renderInsights(summaryRoot, tabsRoot, graphRoot, buckets, data.totalViewersAllTime);
+      renderInsights(summaryRoot, tabsRoot, graphRoot, buckets);
     } catch (err) {
       
       showInsightsEmptyMessage(summaryRoot, tabsRoot, graphRoot);
@@ -1403,7 +1402,6 @@
         streamStarts: bucket.streamStarts,
         avgConcurrentStreams: bucket.avgConcurrentStreams,
         avgViewers: bucket.avgViewers,
-        totalViewers: typeof bucket.totalViewers === "number" ? bucket.totalViewers : 0,
       });
     }
     return localMap;
@@ -1534,14 +1532,9 @@
     });
   }
 
-  function renderInsights(summaryRoot, tabsRoot, graphRoot, utcBuckets, totalViewersAllTime) {
+  function renderInsights(summaryRoot, tabsRoot, graphRoot, utcBuckets) {
     const localMap = convertBucketsToLocalTime(utcBuckets);
     const localBuckets = Array.from(localMap.values());
-
-    const totalViewersHtml =
-      typeof totalViewersAllTime === "number" && totalViewersAllTime > 0
-        ? `<span class="insights-stat"><span class="insights-stat-label">Total Viewers Tracked:</span> ${totalViewersAllTime.toLocaleString()}</span>`
-        : "";
 
     const busiestHtml = INSIGHTS_METRICS.map((m) => {
       const busiest = localBuckets.reduce((best, b) => (!best || b[m.key] > best[m.key] ? b : best), null);
@@ -1554,7 +1547,7 @@
       .join("");
 
     summaryRoot.innerHTML =
-      `<div class="insights-summary">${totalViewersHtml}${busiestHtml}</div>` +
+      `<div class="insights-summary">${busiestHtml}</div>` +
       '<p class="insights-tz-note">Times shown in your local timezone.</p>';
 
     tabsRoot.innerHTML = INSIGHTS_METRICS.map(
