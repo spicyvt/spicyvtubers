@@ -1,0 +1,1866 @@
+(() => {
+  "use strict";
+
+  const BASE_URL = "/";
+
+  const EXTENSION_URLS = {
+    chrome: "https://chromewebstore.google.com/detail/spicy-vtubers/oohhdkpmeaeejcaojpccilpfebdbeeib", 
+    firefox: "https://addons.mozilla.org/en-US/firefox/addon/spicyvtubers/",
+  };
+
+  const siteStats = document.getElementById("site-stats");
+
+  const CHANNEL_PLATFORMS = {
+    twitch: { baseUrl: "https://twitch.com/", label: "Twitch" },
+    youtube: { baseUrl: "https://youtube.com/@", label: "YouTube" },
+  };
+
+  const externalLinkIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>`;
+  const resultCountIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0 2c-3.31 0-8 1.66-8 4.5V21h16v-2.5c0-2.84-4.69-4.5-8-4.5zm8.34-9.94a4 4 0 0 1 0 7.88 5.5 5.5 0 0 1 0-7.88zM18.5 14c2.9.53 4.5 1.9 4.5 3.5V21h-3v-2.5c0-1.63-.6-2.9-1.5-4.5z"/></svg>`;
+
+  const SPICE_PLATFORMS = [
+    { key: "fansly", label: "Fansly", baseUrl: "https://fansly.com/", refKey: "fanslyRef" },
+    { key: "onlyfans", label: "OnlyFans", baseUrl: "https://onlyfans.com/" },
+    { key: "rplay", label: "Rplay", baseUrl: "https://rplay.live/c/", rootBaseUrl: "https://rplay.live/" },
+    { key: "joystick", label: "joystick.tv", baseUrl: "https://joystick.tv/u/" },
+    { key: "patreon", label: "Patreon", baseUrl: "https://www.patreon.com/" },
+  ];
+
+  const AVATAR_FOLDERS = new Set(["avatarsLarge", "avatarsX", "avatarsB"]);
+
+  
+  
+  
+  
+  const LIVE_STATUS_PLATFORMS = [
+    { key: "fansly", jsonUrl: "https://cdn.spicyvtubers.com/fansly/live.json" },
+    { key: "rplay", jsonUrl: "https://cdn.spicyvtubers.com/rplay/live.json" },
+  ];
+  const LIVE_STALE_MS = 24 * 60 * 60 * 1000;
+
+  
+  
+  
+  async function loadLiveLogins(jsonUrl) {
+    try {
+      
+      const res = await fetch(`${jsonUrl}?t=${Date.now()}`);
+      if (!res.ok) return new Set();
+      const data = await res.json();
+      if (!Array.isArray(data)) return new Set();
+      const now = Date.now();
+      return new Set(
+        data
+          .filter((entry) => entry && typeof entry.login === "string" && now - entry.startedAt <= LIVE_STALE_MS)
+          .map((entry) => entry.login.toLowerCase())
+      );
+    } catch (err) {
+      console.error(`Failed to load ${jsonUrl}:`, err);
+      return new Set();
+    }
+  }
+
+  
+  async function loadAllLiveLogins() {
+    const entries = await Promise.all(
+      LIVE_STATUS_PLATFORMS.map(async (platform) => [platform.key, await loadLiveLogins(platform.jsonUrl)])
+    );
+    return Object.fromEntries(entries);
+  }
+
+  
+  let dataJsonPromise = null;
+  function loadDataJson() {
+    if (!dataJsonPromise) {
+      dataJsonPromise = fetch("/data.json").then((response) => (response.ok ? response.json() : null));
+    }
+    return dataJsonPromise;
+  }
+
+  
+  
+  
+  let accountsJsonPromise = null;
+  function loadAccountsJson() {
+    if (!accountsJsonPromise) {
+      accountsJsonPromise = fetch("/accounts.json")
+        .then((response) => (response.ok ? response.json() : Promise.reject(new Error(`HTTP ${response.status}`))))
+        .then((data) =>
+          data
+            .filter((c) => c && typeof c.channel === "string" && c.channel.trim() !== "")
+            .map((c) => ({ ...c, channelLower: c.channel.toLowerCase() }))
+            .sort((a, b) => a.channelLower.localeCompare(b.channelLower))
+        )
+        .catch((err) => {
+          console.error("Failed to load accounts.json:", err);
+          return [];
+        });
+    }
+    return accountsJsonPromise;
+  }
+
+  const PAGE_SEARCH_MAX_RESULTS = 8;
+
+  function buildPageSearchResultHtml(creator) {
+    const avatarSrc = getAvatarSrc(creator);
+    const avatarImgHtml = avatarSrc
+      ? `<img src="/${avatarSrc}" alt="" loading="lazy">`
+      : "";
+    const href = `/c/${encodeURIComponent(creator.channelLower)}/`;
+    return (
+      `<a class="page-search-result" href="${href}">` +
+      `<span class="page-search-result-avatar">${avatarImgHtml}</span>` +
+      `<span class="page-search-result-name">${escapeHtml(creator.channel)}</span>` +
+      `</a>`
+    );
+  }
+
+  
+  
+  
+  
+  function initPageSearch() {
+    const headerWrap = document.getElementById("header-search-wrap");
+    const toggleBtn = document.getElementById("header-search-btn");
+    const panel = document.getElementById("page-search-panel");
+    const input = document.getElementById("page-search-input");
+    const results = document.getElementById("page-search-results");
+    if (!headerWrap || !toggleBtn || !panel || !input || !results) return;
+
+    let creators = null;
+
+    function showResults() {
+      results.hidden = false;
+    }
+
+    function hideResults() {
+      results.hidden = true;
+    }
+
+    function openPanel() {
+      panel.hidden = false;
+      toggleBtn.setAttribute("aria-expanded", "true");
+      input.focus();
+    }
+
+    function closePanel() {
+      panel.hidden = true;
+      toggleBtn.setAttribute("aria-expanded", "false");
+    }
+
+    function renderResults(query) {
+      const matches = creators.filter((c) => c.channelLower.includes(query)).slice(0, PAGE_SEARCH_MAX_RESULTS);
+      results.innerHTML = matches.length
+        ? matches.map(buildPageSearchResultHtml).join("")
+        : '<p class="page-search-empty">No creators found.</p>';
+      showResults();
+    }
+
+    toggleBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      if (panel.hidden) openPanel();
+      else closePanel();
+    });
+
+    input.addEventListener("input", async () => {
+      const query = input.value.trim().toLowerCase();
+      if (!query) {
+        hideResults();
+        return;
+      }
+      if (!creators) creators = await loadAccountsJson();
+      
+      if (input.value.trim().toLowerCase() !== query) return;
+      renderResults(query);
+    });
+
+    
+    
+    document.addEventListener("click", (e) => {
+      if (!panel.hidden && !headerWrap.contains(e.target)) closePanel();
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && !panel.hidden) {
+        closePanel();
+        toggleBtn.focus();
+      }
+    });
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement("div");
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  
+  
+  
+  
+
+  const CHART_LINE_COLOR = "#0284c7";
+  const CHART_AXIS_TEXT_COLOR = "rgba(243, 233, 240, 0.5)";
+  const CHART_GRID_COLOR = "rgba(243, 233, 240, 0.08)";
+
+  
+  const RANK_AXIS_BUCKETS = [
+    [10, 2],
+    [50, 10],
+    [100, 20],
+    [250, 50],
+    [500, 100],
+  ];
+
+  
+  function computeRankAxisBounds(worstRank) {
+    for (const [bucket, step] of RANK_AXIS_BUCKETS) {
+      if (worstRank <= bucket) return { bottom: bucket, step };
+    }
+    return { bottom: 500, step: 100 };
+  }
+
+  function formatEpochDate(ms) {
+    return new Date(ms).toLocaleDateString(undefined, { month: "short", day: "numeric" });
+  }
+
+  function formatEpochTime(ms) {
+    return new Date(ms).toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" });
+  }
+
+  let chartDefaultsApplied = false;
+  function ensureChartDefaults() {
+    if (chartDefaultsApplied || typeof Chart === "undefined") return;
+    chartDefaultsApplied = true;
+    Chart.defaults.color = CHART_AXIS_TEXT_COLOR;
+    Chart.defaults.font.family = getComputedStyle(document.body).fontFamily;
+  }
+
+  
+  
+  
+  function rankAxisTicksFn(step) {
+    return (axis) => {
+      const values = [1];
+      for (let i = 1; i <= 5; i++) values.push(i * step);
+      axis.ticks = values.map((value) => ({ value }));
+    };
+  }
+
+  
+  
+  
+  function rankChartOptions(bottom, step) {
+    return {
+      responsive: true,
+      maintainAspectRatio: false,
+      animation: false,
+      interaction: { mode: "nearest", intersect: false },
+      
+      elements: { point: { radius: 0, hoverRadius: 4, hitRadius: 8 }, line: { tension: 0, borderWidth: 2, borderJoinStyle: "round" } },
+      scales: {
+        x: {
+          type: "linear",
+          bounds: "data",
+          grid: { color: CHART_GRID_COLOR },
+          ticks: { color: CHART_AXIS_TEXT_COLOR, callback: (v) => formatEpochDate(v) },
+        },
+        y: {
+          reverse: true,
+          min: 1,
+          max: bottom,
+          afterBuildTicks: rankAxisTicksFn(step),
+          ticks: { color: CHART_AXIS_TEXT_COLOR },
+          grid: { color: CHART_GRID_COLOR },
+        },
+      },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: "rgba(15, 10, 18, 0.92)",
+          borderColor: "rgba(243, 233, 240, 0.15)",
+          borderWidth: 1,
+          padding: 8,
+          callbacks: {
+            title: (items) => `${formatEpochDate(items[0].parsed.x)} ${formatEpochTime(items[0].parsed.x)}`,
+            label: (item) => `${item.dataset.label ? item.dataset.label + ": " : ""}Rank ${item.parsed.y}`,
+          },
+        },
+      },
+    };
+  }
+
+  function createRankLineChart(canvas, datasets, bottom, step) {
+    ensureChartDefaults();
+    return new Chart(canvas, { type: "line", data: { datasets }, options: rankChartOptions(bottom, step) });
+  }
+
+  function profileLink(baseUrl, handle, ...pathSegments) {
+    const segments = [handle, ...pathSegments].filter(Boolean).map(encodeURIComponent);
+    return `${baseUrl}${segments.join("/")}`;
+  }
+
+  function pillLink(className, href, title, iconKey, label) {
+    const iconAttr = iconKey ? ` data-icon="${iconKey}"` : "";
+    return `<a class="${className}"${iconAttr} href="${href}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(title)}">${escapeHtml(label)}</a>`;
+  }
+
+  function getOtherLinks(creator) {
+    if (!Array.isArray(creator.other)) return [];
+    return creator.other.flatMap((entry) =>
+      Object.entries(entry || {})
+        .filter(([, url]) => url)
+        .map(([label, url]) => ({ label, url }))
+    );
+  }
+
+  function getChannelInfo(creator) {
+    if (!creator.channel) return null;
+    const platform = CHANNEL_PLATFORMS[creator.type] || CHANNEL_PLATFORMS.twitch;
+    return { href: profileLink(platform.baseUrl, creator.channel), label: platform.label };
+  }
+
+  function isSimpleMedia(value) {
+    return String(value || "").toLowerCase() === "simple";
+  }
+
+  function getAvatarFolder(creator) {
+    return AVATAR_FOLDERS.has(creator.avatar) ? creator.avatar : "avatarsLarge";
+  }
+
+  
+  
+  
+  function getAvatarSrc(creator) {
+    if (isSimpleMedia(creator.avatar)) {
+      return null;
+    }
+    const avatarFolder = getAvatarFolder(creator);
+    const avatarBaseName = getAvatarBaseName(creator, avatarFolder);
+    return `${avatarFolder}/${encodeURIComponent(avatarBaseName)}.webp`;
+  }
+
+  function getAvatarBaseName(creator, folder) {
+    if (folder === "avatarsX") {
+      const firstXHandle = Array.isArray(creator.xHandles) ? creator.xHandles.find(Boolean) : "";
+      if (firstXHandle) return firstXHandle.toLowerCase();
+    }
+
+    if (folder === "avatarsB") {
+      const bskyName = Array.isArray(creator.bskyHandle) ? creator.bskyHandle[0] : "";
+      if (bskyName) return String(bskyName).toLowerCase();
+    }
+
+    return creator.channelLower;
+  }
+
+  function buildRow(creator) {
+    const tr = document.createElement("tr");
+
+    const channelTd = document.createElement("td");
+    channelTd.dataset.label = "Channel";
+    channelTd.className = "name-cell";
+    const avatarSrc = getAvatarSrc(creator);
+    const avatarImgHtml = avatarSrc
+      ? `<img class="avatar-img" src="${avatarSrc}" alt="" decoding="async" loading="lazy">`
+      : "";
+    channelTd.innerHTML = creator.channel
+      ? `<a class="name-link" href="${BASE_URL}c/${encodeURIComponent(creator.channelLower)}/">` +
+        `<span class="avatar">${avatarImgHtml}</span>` +
+        `<span class="channel-name">${escapeHtml(creator.channel)}</span>` +
+        `</a>`
+      : "";
+
+    const spiceTd = document.createElement("td");
+    spiceTd.dataset.label = "Spice";
+    const spicePills = SPICE_PLATFORMS.filter((platform) => creator[platform.key])
+      .map((platform) => {
+        const value = creator[platform.key];
+        const ref = platform.refKey ? creator[platform.refKey] || "spicy" : undefined;
+        const isPath = platform.rootBaseUrl && value.includes("/");
+        const href = isPath
+          ? profileLink(platform.rootBaseUrl, ...value.split("/"))
+          : profileLink(platform.baseUrl, value, ref);
+        const text = isPath ? creator.channelLower : value.toLowerCase();
+        const isLive = creator.liveStatus && creator.liveStatus[platform.key];
+        const pillClass = isLive ? `spice-pill is-live-${platform.key}` : "spice-pill";
+        return pillLink(pillClass, href, `${platform.label}: ${text}`, platform.key, text);
+      })
+      .join(" ");
+    const otherPills = getOtherLinks(creator)
+      .map(({ label, url }) => pillLink("spice-pill other-pill", escapeHtml(url), url, "", label))
+      .join(" ");
+    const xPills = creator.xHandles
+      .map((handle) => pillLink("x-pill", profileLink("https://x.com/", handle), `Twitter: ${handle}`, "x", handle.toLowerCase()))
+      .join(" ");
+    const [bskyName, bskyLink] = Array.isArray(creator.bskyHandle) ? creator.bskyHandle : [];
+    const bskyLabel = (bskyName || bskyLink || "").toLowerCase();
+    const bskyPill = bskyLink
+      ? pillLink("x-pill", profileLink("https://bsky.app/profile/", bskyLink), `Bluesky: ${bskyLabel}`, "bsky", bskyLabel)
+      : "";
+    
+    
+    
+    
+    spiceTd.innerHTML = `<div class="spice-handles">${[spicePills, otherPills, xPills, bskyPill].filter(Boolean).join(" ")}</div>`;
+
+    tr.append(channelTd, spiceTd);
+    return tr;
+  }
+
+  async function renderStats() {
+    let stats = {};
+    try {
+      stats = (await loadDataJson()) || {};
+    } catch (err) {
+      console.error("Failed to load data.json:", err);
+    }
+    const format = (n) => (n || 0).toLocaleString();
+    siteStats.innerHTML =
+      `<strong>${format(stats.spicyLinks)}</strong> Spicy Links · ` +
+      `<strong>${format(stats.twitterBsky)}</strong> X/Bsky · ` +
+      `<strong>${format(stats.socials)}</strong> Socials`;
+  }
+
+  (() => {
+    const wrap = document.getElementById("get-extension-wrap");
+    const toggleBtn = document.getElementById("get-extension-btn");
+    const menu = document.getElementById("get-extension-menu");
+    if (!wrap || !toggleBtn || !menu) return;
+
+    Object.entries(EXTENSION_URLS).forEach(([browser, url]) => {
+      const option = document.getElementById(`get-extension-${browser}`);
+      if (!option) return;
+      if (url) {
+        option.href = url;
+        option.removeAttribute("aria-disabled");
+      } else {
+        option.href = "#";
+        option.setAttribute("aria-disabled", "true");
+      }
+    });
+
+    const EXTENSION_VERSION_KEYS = { chrome: "chromeVersion", firefox: "firefoxVersion" };
+    loadDataJson()
+      .then((data) => {
+        if (!data) return;
+        Object.entries(EXTENSION_VERSION_KEYS).forEach(([browser, key]) => {
+          const option = document.getElementById(`get-extension-${browser}`);
+          const versionEl = option && option.querySelector(".get-extension-version");
+          if (versionEl && data[key]) versionEl.textContent = data[key];
+        });
+      })
+      .catch((err) => console.error("Failed to load data.json:", err));
+
+    function closeMenu() {
+      menu.hidden = true;
+      toggleBtn.setAttribute("aria-expanded", "false");
+    }
+
+    function openMenu() {
+      menu.hidden = false;
+      toggleBtn.setAttribute("aria-expanded", "true");
+    }
+
+    toggleBtn.addEventListener("click", (event) => {
+      event.stopPropagation();
+      if (menu.hidden) {
+        openMenu();
+      } else {
+        closeMenu();
+      }
+    });
+
+    menu.addEventListener("click", (event) => {
+      const option = event.target.closest(".get-extension-option");
+      if (option && option.getAttribute("aria-disabled") === "true") {
+        event.preventDefault();
+      }
+    });
+
+    document.addEventListener("click", (event) => {
+      if (!menu.hidden && !wrap.contains(event.target)) {
+        closeMenu();
+      }
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && !menu.hidden) {
+        closeMenu();
+        toggleBtn.focus();
+      }
+    });
+  })();
+
+  
+  (() => {
+    const wrap = document.getElementById("fansly-nav-wrap");
+    const toggleBtn = document.getElementById("fansly-nav-btn");
+    const menu = document.getElementById("fansly-nav-menu");
+    if (!wrap || !toggleBtn || !menu) return;
+
+    function closeMenu() {
+      menu.hidden = true;
+      toggleBtn.setAttribute("aria-expanded", "false");
+    }
+
+    function openMenu() {
+      menu.hidden = false;
+      toggleBtn.setAttribute("aria-expanded", "true");
+    }
+
+    toggleBtn.addEventListener("click", (event) => {
+      event.stopPropagation();
+      if (menu.hidden) {
+        openMenu();
+      } else {
+        closeMenu();
+      }
+    });
+
+    document.addEventListener("click", (event) => {
+      if (!menu.hidden && !wrap.contains(event.target)) {
+        closeMenu();
+      }
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && !menu.hidden) {
+        closeMenu();
+        toggleBtn.focus();
+      }
+    });
+  })();
+
+  
+  (() => {
+    const criteriaToggleBtn = document.getElementById("criteria-toggle-btn");
+    const criteriaContent = document.getElementById("criteria-content");
+    if (!criteriaToggleBtn || !criteriaContent) return;
+
+    criteriaToggleBtn.addEventListener("click", () => {
+      const isHidden = criteriaContent.hidden;
+      if (isHidden && !criteriaContent.dataset.loaded) {
+        
+        
+        const template = document.getElementById("criteria-content-template");
+        if (template) {
+          criteriaContent.appendChild(template.content.cloneNode(true));
+          criteriaContent.dataset.loaded = "true";
+        }
+      }
+      criteriaContent.hidden = !isHidden;
+      criteriaToggleBtn.classList.toggle("expanded", isHidden);
+      criteriaToggleBtn.setAttribute("aria-expanded", String(isHidden));
+    });
+  })();
+
+  
+  function initIndex() {
+    const tableSection = document.getElementById("table-section");
+    const siteFooter = document.getElementById("site-footer");
+    const thead = document.getElementById("creator-thead");
+    const tbody = document.getElementById("creator-tbody");
+    const searchInput = document.getElementById("search-input");
+    const searchClearBtn = document.getElementById("search-clear-btn");
+    const resultCount = document.getElementById("result-count");
+    const emptyState = document.getElementById("empty-state");
+    const platformFilterEl = document.getElementById("platform-filter");
+    const sortToggleBtn = document.getElementById("sort-toggle");
+    const loadMoreWrap = document.getElementById("load-more-wrap");
+    const loadMoreBtn = document.getElementById("load-more-btn");
+    const liveFilterBtn = document.getElementById("live-filter-btn");
+    if (!tableSection || !thead || !tbody || !searchInput || !platformFilterEl || !sortToggleBtn || !loadMoreWrap || !loadMoreBtn || !liveFilterBtn) return;
+
+    let creators = [];
+    let azOrderCreators = [];
+    let jsonOrderCreators = [];
+    let newestOrderCreators = [];
+    let sortMode = "az"; 
+    let platformFilter = "all";
+    let liveFilterActive = false;
+    let lastLiveFetchAt = 0;
+    const LIVE_REFETCH_INTERVAL_MS = 60 * 1000;
+    let filteredRows = [];
+    const INITIAL_ROWS = 50;
+    const LOAD_BATCH_SIZE = 200;
+    const rowCache = new WeakMap();
+
+    function getOrBuildRow(creator) {
+      let tr = rowCache.get(creator);
+      if (!tr) {
+        tr = buildRow(creator);
+        rowCache.set(creator, tr);
+      }
+      return tr;
+    }
+
+    
+    
+    let profileRow = null;
+    function getProfileRow() {
+      if (!profileRow) {
+        profileRow = document.createElement("tr");
+        profileRow.className = "profile-row";
+        const td = document.createElement("td");
+        td.className = "profile-cell";
+        td.colSpan = 2;
+        td.innerHTML = `<a class="view-profile-link">View Profile</a>`;
+        profileRow.appendChild(td);
+      }
+      return profileRow;
+    }
+
+    
+    
+    
+    platformFilterEl.addEventListener("click", (e) => {
+      const btn = e.target.closest(".platform-filter-btn");
+      if (!btn || btn.classList.contains("is-active")) return;
+
+      platformFilter = btn.dataset.platform;
+      platformFilterEl.querySelectorAll(".platform-filter-btn").forEach((b) => {
+        const isActive = b === btn;
+        b.classList.toggle("is-active", isActive);
+        b.setAttribute("aria-pressed", String(isActive));
+      });
+      update();
+    });
+
+    
+    
+    
+    
+    function applyLiveStatus(liveLoginsByPlatform) {
+      jsonOrderCreators.forEach((creator) => {
+        const prevLiveStatus = creator.liveStatus;
+        const liveStatus = {};
+        let anyLive = false;
+        LIVE_STATUS_PLATFORMS.forEach((platform) => {
+          const isLive = liveLoginsByPlatform[platform.key].has(creator.channelLower);
+          liveStatus[platform.key] = isLive;
+          if (isLive) anyLive = true;
+        });
+        const changed =
+          !prevLiveStatus || LIVE_STATUS_PLATFORMS.some((platform) => Boolean(prevLiveStatus[platform.key]) !== liveStatus[platform.key]);
+        creator.liveStatus = liveStatus;
+        creator.isLive = anyLive;
+        if (changed) rowCache.delete(creator);
+      });
+      liveFilterBtn.hidden = !jsonOrderCreators.some((creator) => creator.isLive);
+    }
+
+    
+    liveFilterBtn.addEventListener("click", async () => {
+      if (Date.now() - lastLiveFetchAt >= LIVE_REFETCH_INTERVAL_MS) {
+        lastLiveFetchAt = Date.now();
+        applyLiveStatus(await loadAllLiveLogins());
+      }
+      liveFilterActive = !liveFilterActive;
+      liveFilterBtn.classList.toggle("is-active", liveFilterActive);
+      liveFilterBtn.setAttribute("aria-pressed", String(liveFilterActive));
+      update();
+    });
+
+    
+    function renderInitialRows(data) {
+      if (data.length === 0) {
+        tbody.innerHTML = "";
+        emptyState.hidden = false;
+        thead.hidden = false;
+        return;
+      }
+      emptyState.hidden = true;
+
+      
+      
+      
+      const isSolo = data.length === 1;
+      const nextRows = data.slice(0, INITIAL_ROWS).map((creator) => getOrBuildRow(creator));
+      const profileRowEl = getProfileRow();
+      const nextRowSet = new Set(nextRows);
+      if (isSolo) nextRowSet.add(profileRowEl);
+
+      tbody.querySelectorAll(".is-profile-open").forEach((tr) => tr.classList.remove("is-profile-open"));
+
+      Array.from(tbody.children).forEach((tr) => {
+        if (!nextRowSet.has(tr)) tr.remove();
+      });
+
+      nextRows.forEach((tr) => tbody.appendChild(tr));
+
+      thead.hidden = isSolo;
+      if (isSolo) {
+        const soloRow = nextRows[0];
+        soloRow.classList.add("is-profile-open");
+        profileRowEl.querySelector(".view-profile-link").href = soloRow.querySelector(".name-link").href;
+        tbody.appendChild(profileRowEl);
+      }
+    }
+
+    function renderMoreRows(data) {
+      const currentCount = tbody.children.length;
+      const nextRows = data.slice(currentCount, currentCount + LOAD_BATCH_SIZE).map((creator) => getOrBuildRow(creator));
+      nextRows.forEach((tr) => tbody.appendChild(tr));
+    }
+
+    function updateResultCount(count, total) {
+      const suffix = count === total ? "" : `<span class="result-count-total"> of ${total}</span>`;
+      resultCount.innerHTML = `${resultCountIcon}${count}${suffix}`;
+    }
+
+    function getFiltered() {
+      const query = searchInput.value.trim().toLowerCase();
+      return creators.filter((creator) => {
+        if (platformFilter !== "all" && !creator[platformFilter]) return false;
+        if (liveFilterActive && !creator.isLive) return false;
+        if (query && !creator.searchText.includes(query)) return false;
+        return true;
+      });
+    }
+
+    function updateSearchClearBtn() {
+      searchClearBtn.hidden = searchInput.value.trim() === "";
+    }
+
+    function update() {
+
+      window.scrollTo({ top: 0, behavior: "smooth" }); 
+      updateSearchClearBtn();
+      filteredRows = getFiltered();
+      renderInitialRows(filteredRows);    
+      updateResultCount(filteredRows.length, creators.length);
+      loadMoreWrap.hidden = filteredRows.length <= INITIAL_ROWS;
+    }
+
+    function debounce(fn, delay) {
+      let timer;
+      return (...args) => {
+        clearTimeout(timer);
+        timer = setTimeout(() => fn(...args), delay);
+      };
+    }
+
+    const debouncedUpdate = debounce(update, 200);
+    searchInput.addEventListener("input", () => {
+      updateSearchClearBtn();
+      debouncedUpdate();
+    });
+
+    searchClearBtn.addEventListener("click", () => {
+      searchInput.value = "";
+      update();
+      searchInput.focus();
+    });
+
+    sortToggleBtn.addEventListener("click", () => {
+      sortMode = sortMode === "az" ? "newest" : "az";
+      creators = sortMode === "az" ? azOrderCreators : newestOrderCreators;
+      sortToggleBtn.classList.toggle("is-active", sortMode === "newest");
+      sortToggleBtn.setAttribute("aria-pressed", String(sortMode === "newest"));
+      update();
+    });
+
+    tbody.addEventListener(
+      "load",
+      (e) => {
+        if (e.target.classList?.contains("avatar-img")) e.target.classList.add("is-loaded");
+      },
+      true
+    );
+    tbody.addEventListener(
+      "error",
+      (e) => {
+        if (e.target.classList?.contains("avatar-img")) e.target.remove();
+      },
+      true
+    );
+
+    
+    
+    
+    tbody.addEventListener("click", (e) => {
+      if (e.target.closest("a")) return;
+      const tr = e.target.closest("tr");
+      const link = tr?.querySelector(".name-link, .view-profile-link");
+      if (link) window.location.href = link.href;
+    });
+
+    loadMoreBtn.addEventListener("click", () => {
+      renderMoreRows(filteredRows);
+      if (tbody.children.length >= filteredRows.length) {
+        loadMoreWrap.hidden = true;
+      }
+    });
+
+    async function init() {
+      let liveLoginsByPlatform = {};
+      try {
+        const [response, liveData] = await Promise.all([fetch("/accounts.json"), loadAllLiveLogins()]);
+        liveLoginsByPlatform = liveData;
+        lastLiveFetchAt = Date.now();
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+        jsonOrderCreators = data
+          .filter((c) => c && typeof c.channel === "string" && c.channel.trim() !== "")
+          .map((c) => ({ ...c, xHandles: (c.xHandles || []).filter(Boolean) }));
+        azOrderCreators = [...jsonOrderCreators].sort((a, b) =>
+          a.channel.toLowerCase().localeCompare(b.channel.toLowerCase())
+        );
+        newestOrderCreators = [...jsonOrderCreators].reverse();
+        creators = azOrderCreators;
+
+        jsonOrderCreators.forEach((creator) => {
+          creator.channelLower = creator.channel.toLowerCase();
+          creator.searchText = [
+            creator.channel,
+            ...SPICE_PLATFORMS.map((platform) => {
+              const value = creator[platform.key];
+              if (value && platform.rootBaseUrl && value.includes("/")) return undefined;
+              return value;
+            }),
+            ...creator.xHandles,
+            Array.isArray(creator.bskyHandle) ? creator.bskyHandle[0] : undefined,
+            ...getOtherLinks(creator).map((link) => link.label),
+          ]
+            .filter(Boolean)
+            .join(" ")
+            .toLowerCase();
+        });
+
+        applyLiveStatus(liveLoginsByPlatform);
+      } catch (err) {
+        console.error("Failed to load accounts.json:", err);
+        resultCount.textContent = "Couldn't load creator data.";
+        emptyState.hidden = false;
+        emptyState.textContent =
+          "Couldn't load accounts.json (if opening this file directly, serve it via a local web server).";
+        return;
+      }
+      update();
+      tableSection.hidden = false;
+      if (siteFooter) siteFooter.hidden = false;
+    }
+
+    init();
+    renderStats();
+  }
+
+  
+  function initCreatorPage() {
+    renderStats();
+    initPageSearch();
+    initStreamTabs();
+    initFanslyGraphs();
+    initStreamHistory();
+  }
+
+  
+  
+  function initStreamTabs() {
+    const tabsWrap = document.querySelector(".stream-main-tabs");
+    if (!tabsWrap) return;
+
+    tabsWrap.addEventListener("click", (e) => {
+      const btn = e.target.closest(".stream-tab-btn");
+      if (!btn || btn.classList.contains("is-active")) return;
+
+      const tab = btn.dataset.tab;
+      tabsWrap.querySelectorAll(".stream-tab-btn").forEach((b) => {
+        b.classList.toggle("is-active", b === btn);
+      });
+      document.querySelectorAll(".stream-tab-panel").forEach((panel) => {
+        panel.classList.toggle("is-active", panel.dataset.tab === tab);
+      });
+    });
+  }
+
+  
+  
+  
+  function initFanslyGraphs() {
+    const pillsWrap = document.querySelector(".fansly-month-pills");
+    const canvas = document.querySelector(".fansly-graph-canvas");
+    const dataScript = document.querySelector(".fansly-graph-data");
+    if (!pillsWrap || !canvas || !dataScript) return;
+
+    const reportsByMonth = JSON.parse(dataScript.textContent);
+    let chart = null;
+
+    const applyMonth = (month) => {
+      const points = reportsByMonth[month] || [];
+      const worstRank = points.reduce((w, p) => Math.max(w, p.y), 1);
+      const { bottom, step } = computeRankAxisBounds(worstRank);
+      if (!chart) {
+        chart = createRankLineChart(canvas, [{ data: points, borderColor: CHART_LINE_COLOR, backgroundColor: CHART_LINE_COLOR }], bottom, step);
+        return;
+      }
+      chart.data.datasets[0].data = points;
+      chart.options.scales.y.max = bottom;
+      chart.options.scales.y.afterBuildTicks = rankAxisTicksFn(step);
+      chart.update();
+    };
+
+    applyMonth(canvas.dataset.activeMonth);
+
+    pillsWrap.addEventListener("click", (e) => {
+      const btn = e.target.closest(".fansly-month-btn");
+      if (!btn || btn.classList.contains("is-active")) return;
+
+      const month = btn.dataset.month;
+      pillsWrap.querySelectorAll(".fansly-month-btn").forEach((b) => {
+        b.classList.toggle("is-active", b === btn);
+      });
+      applyMonth(month);
+    });
+  }
+
+  
+  
+  
+  
+  const STREAM_HISTORY_PLATFORMS = {
+    fansly: { cdnBase: "https://cdn.spicyvtubers.com/fansly/streams/" },
+    rplay: { cdnBase: "https://cdn.spicyvtubers.com/rplay/streams/" },
+  };
+  const MAX_STREAM_DURATION_MS = 24 * 60 * 60 * 1000;
+  const RECENT_FETCH_WINDOW_MS = 60 * 60 * 1000;
+  const THREE_MONTHS_MS = 90 * 24 * 60 * 60 * 1000;
+  const MIN_STREAMS_FOR_OVERVIEW_GRAPH = 3;
+  const WEEKDAY_LABELS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  
+  const ENABLE_STREAM_OVERVIEW_GRAPH = true;
+
+  function formatStreamDuration(ms) {
+    if (typeof ms !== "number" || ms < 0) return "—";
+    const totalMinutes = Math.round(ms / 60000);
+    const hours = Math.floor(totalMinutes / 60);
+    const minutes = totalMinutes % 60;
+    return hours > 0 ? `${hours}h ${minutes}m` : `${minutes}m`;
+  }
+
+  function formatStreamTimestamp(ms) {
+    if (typeof ms !== "number") return "—";
+    return new Date(ms).toLocaleString(undefined, {
+      weekday: "short",
+      day: "numeric",
+      month: "short",
+      year: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
+    });
+  }
+
+  function formatStreamMonthHeader(ms) {
+    if (typeof ms !== "number") return "Unknown";
+    return new Date(ms).toLocaleDateString(undefined, { month: "long", year: "numeric" });
+  }
+
+  
+  function streamMonthKey(ms) {
+    if (typeof ms !== "number") return "unknown";
+    const d = new Date(ms);
+    return `${d.getFullYear()}-${d.getMonth()}`;
+  }
+
+  
+  function computeStreamDurationMs(stream) {
+    return typeof stream.startedAt === "number" && typeof stream.lastFetchedAt === "number"
+      ? stream.lastFetchedAt - stream.startedAt
+      : null;
+  }
+
+  
+  function getValidStreamDurationHours(stream) {
+    const durationMs = computeStreamDurationMs(stream);
+    if (durationMs === null || durationMs > MAX_STREAM_DURATION_MS) return null;
+    return durationMs / 3600000;
+  }
+
+  
+  
+  
+  
+  
+  
+  function computeStreamStats(streams) {
+    let totalHours = 0;
+    let avgWeightHours = 0;
+    let weightedViewerHours = 0;
+    let peak = 0;
+    for (const stream of streams) {
+      const hours = getValidStreamDurationHours(stream);
+      if (hours !== null) {
+        totalHours += hours;
+        if (typeof stream.avgViewers === "number" && stream.avgViewers > 0) {
+          avgWeightHours += hours;
+          weightedViewerHours += stream.avgViewers * hours;
+        }
+      }
+      if (typeof stream.maxViewers === "number" && stream.maxViewers > peak) peak = stream.maxViewers;
+    }
+    return {
+      streamCount: streams.length,
+      totalHours,
+      avgViewers: avgWeightHours > 0 ? Math.round(weightedViewerHours / avgWeightHours) : null,
+      peak,
+    };
+  }
+
+  function buildStreamSummaryPeriodHtml(title, streams) {
+    const titleHtml = `<h4 class="stream-summary-period-title">${escapeHtml(title)}</h4>`;
+    if (streams.length === 0) {
+      return `<div class="stream-summary-period">${titleHtml}<p class="stream-empty-message">No streams yet.</p></div>`;
+    }
+    const stats = computeStreamStats(streams);
+    const hours = stats.totalHours > 0 ? `${stats.totalHours.toFixed(1)}h` : "—";
+    const avg = stats.avgViewers !== null ? String(stats.avgViewers) : "—";
+    const peak = stats.peak > 0 ? String(stats.peak) : "—";
+    return `<div class="stream-summary-period">${titleHtml}<div class="fansly-stats">
+      <span class="fansly-stat"><span class="fansly-stat-label">Hours Streamed:</span> ${hours}</span>
+      <span class="fansly-stat"><span class="fansly-stat-label">Peak Viewers:</span> ${peak}</span>
+      <span class="fansly-stat"><span class="fansly-stat-label">Avg Viewers:</span> ${avg}</span>
+    </div>${buildStreamWeekdayRowHtml(streams)}</div>`;
+  }
+
+  function buildStreamSummaryHtml(streams) {
+    const cutoff = Date.now() - THREE_MONTHS_MS;
+    const lastThreeMonths = streams.filter((s) => typeof s.startedAt === "number" && s.startedAt >= cutoff);
+    
+    
+    
+    if (lastThreeMonths.length === streams.length) {
+      return `<div class="stream-summary">${buildStreamSummaryPeriodHtml("Last 3 Months", streams)}</div>`;
+    }
+    return `<div class="stream-summary">${buildStreamSummaryPeriodHtml("Last 3 Months", lastThreeMonths)}${buildStreamSummaryPeriodHtml("All Time", streams)}</div>`;
+  }
+
+  
+  
+  function computeWeekdayStreamStats(streams) {
+    const buckets = Array.from({ length: 7 }, () => []);
+    for (const stream of streams) {
+      if (typeof stream.startedAt !== "number") continue;
+      buckets[new Date(stream.startedAt).getDay()].push(stream);
+    }
+    return buckets.map(computeStreamStats);
+  }
+
+  
+  
+  function buildStreamWeekdayRowHtml(streams) {
+    const dayStats = computeWeekdayStreamStats(streams);
+    const maxPeak = Math.max(1, ...dayStats.map((d) => d.peak));
+    const cellsHtml = dayStats
+      .map((stats, dow) => {
+        const avgText = stats.avgViewers !== null ? String(stats.avgViewers) : "—";
+        const peakText = stats.peak > 0 ? String(stats.peak) : "—";
+        const intensity = stats.peak > 0 ? (stats.peak / maxPeak).toFixed(3) : 0;
+        const title = `${WEEKDAY_LABELS[dow]}: peak ${peakText}, avg ${avgText}`;
+        return `<div class="stream-weekday-cell" style="--intensity:${intensity}" title="${escapeHtml(title)}">
+          <span class="stream-weekday-day">${WEEKDAY_LABELS[dow]}</span>
+          <span class="stream-weekday-peak">${peakText}</span>
+          <span class="stream-weekday-avg">${avgText}</span>
+        </div>`;
+      })
+      .join("");
+    return `<div class="stream-weekday-row">${cellsHtml}</div>`;
+  }
+
+  
+  
+  
+  
+  
+  
+  
+  function renderStreamOverviewGraph(container, streams) {
+    const hasPeak = (s) => typeof s.maxViewers === "number" && s.maxViewers > 0;
+    const chronological = streams
+      .filter((s) => typeof s.startedAt === "number" && hasPeak(s))
+      .slice()
+      .sort((a, b) => a.startedAt - b.startedAt);
+    if (chronological.length < MIN_STREAMS_FOR_OVERVIEW_GRAPH) return;
+
+    ensureChartDefaults();
+    const wrap = document.createElement("div");
+    wrap.className = "chart-wrap";
+    const canvas = document.createElement("canvas");
+    wrap.appendChild(canvas);
+    container.appendChild(wrap);
+
+    const labels = chronological.map((s) => formatEpochDate(s.startedAt));
+    const peakValues = chronological.map((s) => s.maxViewers);
+    const avgValues = chronological.map((s) => (typeof s.avgViewers === "number" && s.avgViewers > 0 ? s.avgViewers : 0));
+    const peakRemainderValues = peakValues.map((peak, i) => Math.max(0, peak - avgValues[i]));
+
+    const chart = new Chart(canvas, {
+      type: "bar",
+      data: {
+        labels,
+        datasets: [
+          { label: "Avg Viewers", data: avgValues, backgroundColor: CHART_LINE_COLOR, stack: "viewers" },
+          { label: "Peak Viewers", data: peakRemainderValues, backgroundColor: "#045a8a", stack: "viewers" },
+        ],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: false,
+        interaction: { mode: "index", intersect: false },
+        scales: {
+          x: {
+            stacked: true,
+            grid: { display: false },
+            ticks: { color: CHART_AXIS_TEXT_COLOR, autoSkip: true, maxRotation: 0 },
+          },
+          y: {
+            stacked: true,
+            min: 0,
+            ticks: { color: CHART_AXIS_TEXT_COLOR, precision: 0 },
+            grid: { color: CHART_GRID_COLOR },
+          },
+        },
+        plugins: {
+          legend: { display: true, labels: { color: CHART_AXIS_TEXT_COLOR, boxWidth: 12, usePointStyle: true } },
+          tooltip: {
+            backgroundColor: "rgba(15, 10, 18, 0.92)",
+            borderColor: "rgba(243, 233, 240, 0.15)",
+            borderWidth: 1,
+            padding: 8,
+            callbacks: {
+              title: (items) => items[0].label,
+              label: (item) =>
+                item.dataset.label === "Avg Viewers"
+                  ? `Avg: ${item.raw} viewers`
+                  : `Peak: ${peakValues[item.dataIndex]} viewers`,
+            },
+          },
+        },
+      },
+    });
+  }
+
+  
+  
+  
+  
+  function renderViewerGraph(container, viewerData) {
+    ensureChartDefaults();
+    const points = viewerData.map(([ts, count]) => ({ x: ts * 1000, y: count }));
+    const maxCount = viewerData.reduce((m, [, count]) => Math.max(m, count), 1);
+    const wrap = document.createElement("div");
+    wrap.className = "chart-wrap chart-wrap--viewer";
+    const canvas = document.createElement("canvas");
+    wrap.appendChild(canvas);
+    container.appendChild(wrap);
+
+    return new Chart(canvas, {
+      type: "line",
+      data: {
+        datasets: [{ data: points, borderColor: CHART_LINE_COLOR, backgroundColor: CHART_LINE_COLOR }],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: false,
+        interaction: { mode: "nearest", intersect: false },
+        elements: { point: { radius: 0, hoverRadius: 4, hitRadius: 8 }, line: { tension: 0, borderWidth: 2, borderJoinStyle: "round" } },
+        scales: {
+          x: {
+            type: "linear",
+            bounds: "data",
+            grid: { color: CHART_GRID_COLOR },
+            ticks: { color: CHART_AXIS_TEXT_COLOR, callback: (v) => formatEpochTime(v) },
+          },
+          y: {
+            min: 0,
+            suggestedMax: maxCount,
+            ticks: { color: CHART_AXIS_TEXT_COLOR, precision: 0 },
+            grid: { color: CHART_GRID_COLOR },
+          },
+        },
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            backgroundColor: "rgba(15, 10, 18, 0.92)",
+            borderColor: "rgba(243, 233, 240, 0.15)",
+            borderWidth: 1,
+            padding: 8,
+            callbacks: {
+              title: (items) => formatEpochTime(items[0].parsed.x),
+              label: (item) => `${item.parsed.y} viewers`,
+            },
+          },
+        },
+      },
+    });
+  }
+
+  
+  
+  
+  function toggleStreamGraphRow(tbody, row, stream) {
+    const existing = row.nextElementSibling;
+    if (existing && existing.classList.contains("stream-graph-row")) {
+      existing._chart?.destroy();
+      existing.remove();
+      row.classList.remove("is-open");
+      return;
+    }
+
+    tbody.querySelectorAll(".stream-graph-row").forEach((el) => {
+      el._chart?.destroy();
+      el.remove();
+    });
+    tbody.querySelectorAll(".stream-row.is-open").forEach((el) => el.classList.remove("is-open"));
+
+    row.classList.add("is-open");
+    const graphRow = document.createElement("tr");
+    graphRow.className = "stream-graph-row";
+    const td = document.createElement("td");
+    td.colSpan = 5;
+    graphRow.appendChild(td);
+    row.after(graphRow);
+    graphRow._chart = renderViewerGraph(td, stream.viewerData);
+  }
+
+  function showNoStreamDataMessage(container) {
+    container.innerHTML = '<p class="stream-empty-message">No stream data yet.</p>';
+  }
+
+  
+  
+  
+  async function loadStreamHistory(container) {
+    const slug = container.dataset.slug;
+    const platformConfig = STREAM_HISTORY_PLATFORMS[container.dataset.platform];
+    if (!platformConfig) return;
+
+    try {
+      const res = await fetch(`${platformConfig.cdnBase}${encodeURIComponent(slug)}.json`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const rawStreams = await res.json();
+      if (!Array.isArray(rawStreams)) throw new Error("Unexpected response shape");
+
+      if (rawStreams.length === 0) {
+        showNoStreamDataMessage(container);
+        return;
+      }
+
+      
+      const ordered = rawStreams.slice().reverse();
+
+      container.insertAdjacentHTML("beforeend", buildStreamSummaryHtml(ordered));
+      if (ENABLE_STREAM_OVERVIEW_GRAPH) renderStreamOverviewGraph(container, ordered);
+
+      
+      for (const stream of ordered) {
+        if (!Array.isArray(stream.viewerData) || stream.viewerData.length === 0) continue;
+        const startedAtSec = typeof stream.startedAt === "number" ? Math.round(stream.startedAt / 1000) : null;
+        if (startedAtSec !== null && startedAtSec < stream.viewerData[0][0]) {
+          stream.viewerData = [[startedAtSec, 0], ...stream.viewerData];
+        }
+      }
+
+      let lastMonthKey = null;
+      const rowsHtml = ordered
+        .map((stream, i) => {
+          const durationMs = computeStreamDurationMs(stream);
+          
+          const durationTooLong = durationMs !== null && durationMs > MAX_STREAM_DURATION_MS;
+          
+          const recentlyFetched = typeof stream.lastFetchedAt === "number" && Date.now() - stream.lastFetchedAt < RECENT_FETCH_WINDOW_MS;
+          const start = escapeHtml(formatStreamTimestamp(stream.startedAt));
+          const finish = durationTooLong || recentlyFetched ? "—" : escapeHtml(formatStreamTimestamp(stream.lastFetchedAt));
+          const duration = durationTooLong ? "—" : escapeHtml(formatStreamDuration(durationMs));
+          const peak =
+            typeof stream.maxViewers === "number" && stream.maxViewers > 0 ? escapeHtml(String(stream.maxViewers)) : "—";
+          const avg =
+            typeof stream.avgViewers === "number" && stream.avgViewers > 0 ? escapeHtml(String(stream.avgViewers)) : "—";
+          const hasGraph = Array.isArray(stream.viewerData) && stream.viewerData.length >= 2;
+          const rowClass = hasGraph ? "stream-row is-expandable" : "stream-row";
+
+          const monthKey = streamMonthKey(stream.startedAt);
+          const headerHtml =
+            monthKey !== lastMonthKey
+              ? `<tr class="stream-month-header"><td colspan="5">${escapeHtml(formatStreamMonthHeader(stream.startedAt))}</td></tr>`
+              : "";
+          lastMonthKey = monthKey;
+
+          return `${headerHtml}<tr class="${rowClass}" data-idx="${i}"><td>${start}</td><td>${finish}</td><td>${duration}</td><td>${peak}</td><td>${avg}</td></tr>`;
+        })
+        .join("");
+
+      container.insertAdjacentHTML(
+        "beforeend",
+        `<table class="streams-table"><thead><tr><th>Start</th><th>Finish</th><th>Duration</th><th>Peak</th><th>Avg</th></tr></thead><tbody>${rowsHtml}</tbody></table>`
+      );
+
+      const tbody = container.querySelector(".streams-table tbody");
+      tbody.addEventListener("click", (e) => {
+        const row = e.target.closest(".stream-row.is-expandable");
+        if (!row) return;
+        toggleStreamGraphRow(tbody, row, ordered[Number(row.dataset.idx)]);
+      });
+    } catch (err) {
+      
+      showNoStreamDataMessage(container);
+    }
+  }
+
+  
+  
+  function initStreamHistory() {
+    document.querySelectorAll(".stream-history-panel").forEach((container) => loadStreamHistory(container));
+  }
+
+  
+  
+  
+
+  const WEEKLY_STATS_URL = "https://cdn.spicyvtubers.com/fansly/weekly-stats.json";
+  const DAY_LABELS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  const INSIGHTS_METRICS = [
+    { key: "streamStarts", label: "Stream Starts", format: (v) => `${v} start${v === 1 ? "" : "s"}`, aggregate: "sum" },
+    { key: "avgConcurrentStreams", label: "Concurrent Streams", format: (v) => `~${v.toFixed(1)} live`, aggregate: "avg" },
+    { key: "avgViewers", label: "Avg Viewers", format: (v) => `${Math.round(v)} viewers`, aggregate: "avg" },
+    { key: "totalViewers", label: "Total Viewers", format: (v) => `${Math.round(v).toLocaleString()} viewers`, aggregate: "sum" },
+  ];
+
+  async function initInsightsPage() {
+    initPageSearch();
+    const summaryRoot = document.getElementById("insights-summary");
+    const tabsRoot = document.getElementById("insights-tabs");
+    const graphRoot = document.getElementById("insights-root");
+    if (!summaryRoot || !tabsRoot || !graphRoot) return;
+
+    try {
+      const res = await fetch(WEEKLY_STATS_URL, { cache: "no-store" });
+      if (!res.ok) throw new Error("bad status");
+      const data = await res.json();
+      const buckets = Array.isArray(data && data.buckets) ? data.buckets : [];
+      if (buckets.length === 0) {
+        showInsightsEmptyMessage(summaryRoot, tabsRoot, graphRoot);
+        return;
+      }
+      renderInsights(summaryRoot, tabsRoot, graphRoot, buckets, data.totalViewersAllTime);
+    } catch (err) {
+      
+      showInsightsEmptyMessage(summaryRoot, tabsRoot, graphRoot);
+    }
+  }
+
+  function showInsightsEmptyMessage(summaryRoot, tabsRoot, graphRoot) {
+    summaryRoot.innerHTML = "";
+    tabsRoot.innerHTML = "";
+    graphRoot.innerHTML = '<p class="insights-empty-message">No insights data yet — check back soon.</p>';
+  }
+
+  function formatHourLabel(hour) {
+    const period = hour < 12 ? "AM" : "PM";
+    const h = hour % 12 === 0 ? 12 : hour % 12;
+    return `${h} ${period}`;
+  }
+
+  const INSIGHTS_HOUR_LABELS = Array.from({ length: 24 }, (_, h) => formatHourLabel(h));
+
+  
+  
+  function convertBucketsToLocalTime(utcBuckets) {
+    const localMap = new Map();
+    const now = new Date();
+    const refSunday = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() - now.getUTCDay(), 0, 0, 0, 0));
+
+    for (const bucket of utcBuckets) {
+      const ts = refSunday.getTime() + (bucket.dow * 24 + bucket.hour) * 60 * 60 * 1000;
+      const localDate = new Date(ts);
+      const localDow = localDate.getDay();
+      const localHour = localDate.getHours();
+      localMap.set(`${localDow}:${localHour}`, {
+        dow: localDow,
+        hour: localHour,
+        streamStarts: bucket.streamStarts,
+        avgConcurrentStreams: bucket.avgConcurrentStreams,
+        avgViewers: bucket.avgViewers,
+        totalViewers: typeof bucket.totalViewers === "number" ? bucket.totalViewers : 0,
+      });
+    }
+    return localMap;
+  }
+
+  
+  
+  
+  function computeInsightsDayTotals(localMap, metric) {
+    const perDay = [];
+    for (let dow = 0; dow < 7; dow++) {
+      let sum = 0;
+      for (let hour = 0; hour < 24; hour++) {
+        const bucket = localMap.get(`${dow}:${hour}`);
+        sum += bucket ? bucket[metric.key] : 0;
+      }
+      perDay.push(metric.aggregate === "sum" ? sum : sum / 24);
+    }
+    return perDay;
+  }
+
+  
+  
+  
+  
+  
+  const INSIGHTS_CELL_BG = [28, 20, 32]; 
+  const INSIGHTS_CELL_FG = [38, 152, 245]; 
+  function insightsCellColor(intensity) {
+    const mixed = INSIGHTS_CELL_BG.map((b, i) => Math.round(b + (INSIGHTS_CELL_FG[i] - b) * intensity));
+    return `rgb(${mixed[0]}, ${mixed[1]}, ${mixed[2]})`;
+  }
+
+  function buildInsightsMatrixDataset(localMap, metric, maxValue) {
+    const data = [];
+    for (let dow = 0; dow < 7; dow++) {
+      for (let hour = 0; hour < 24; hour++) {
+        const bucket = localMap.get(`${dow}:${hour}`);
+        const value = bucket ? bucket[metric.key] : 0;
+        data.push({ x: INSIGHTS_HOUR_LABELS[hour], y: DAY_LABELS[dow], v: value, formatted: metric.format(value) });
+      }
+    }
+    return {
+      label: metric.label,
+      data,
+      backgroundColor: (ctx) => {
+        const point = ctx.dataset.data[ctx.dataIndex];
+        return insightsCellColor(maxValue > 0 ? Math.min(1, point.v / maxValue) : 0);
+      },
+      borderWidth: 0,
+      borderRadius: 0,
+      width: ({ chart }) => Math.ceil((chart.chartArea || {}).width / 24),
+      height: ({ chart }) => Math.ceil((chart.chartArea || {}).height / 7),
+    };
+  }
+
+  function createInsightsHeatmapChart(canvas) {
+    ensureChartDefaults();
+    return new Chart(canvas, {
+      type: "matrix",
+      data: { datasets: [] },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: false,
+        scales: {
+          x: {
+            type: "category",
+            labels: INSIGHTS_HOUR_LABELS,
+            offset: true,
+            position: "top",
+            ticks: { color: CHART_AXIS_TEXT_COLOR, autoSkip: true, maxRotation: 0, font: { size: 9 } },
+            grid: { display: false },
+          },
+          y: {
+            type: "category",
+            
+            
+            labels: DAY_LABELS.slice().reverse(),
+            offset: true,
+            ticks: { color: CHART_AXIS_TEXT_COLOR },
+            grid: { display: false },
+          },
+        },
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            backgroundColor: "rgba(15, 10, 18, 0.92)",
+            borderColor: "rgba(243, 233, 240, 0.15)",
+            borderWidth: 1,
+            padding: 8,
+            callbacks: {
+              title: (items) => `${items[0].raw.y} ${items[0].raw.x}`,
+              label: (item) => item.raw.formatted,
+            },
+          },
+        },
+      },
+    });
+  }
+
+  function createInsightsBarChart(canvas) {
+    ensureChartDefaults();
+    return new Chart(canvas, {
+      type: "bar",
+      data: { labels: DAY_LABELS, datasets: [] },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: false,
+        scales: {
+          x: { grid: { display: false }, ticks: { color: CHART_AXIS_TEXT_COLOR } },
+          y: { min: 0, ticks: { color: CHART_AXIS_TEXT_COLOR, precision: 0 }, grid: { color: CHART_GRID_COLOR } },
+        },
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            backgroundColor: "rgba(15, 10, 18, 0.92)",
+            borderColor: "rgba(243, 233, 240, 0.15)",
+            borderWidth: 1,
+            padding: 8,
+            callbacks: {
+              label: (item) => item.chart.$insightsMetric.format(item.raw),
+            },
+          },
+        },
+      },
+    });
+  }
+
+  function renderInsights(summaryRoot, tabsRoot, graphRoot, utcBuckets, totalViewersAllTime) {
+    const localMap = convertBucketsToLocalTime(utcBuckets);
+    const localBuckets = Array.from(localMap.values());
+
+    const totalViewersHtml =
+      typeof totalViewersAllTime === "number" && totalViewersAllTime > 0
+        ? `<span class="insights-stat"><span class="insights-stat-label">Total Viewers Tracked:</span> ${totalViewersAllTime.toLocaleString()}</span>`
+        : "";
+
+    const busiestHtml = INSIGHTS_METRICS.map((m) => {
+      const busiest = localBuckets.reduce((best, b) => (!best || b[m.key] > best[m.key] ? b : best), null);
+      if (!busiest || busiest[m.key] <= 0) return "";
+      return `<span class="insights-stat"><span class="insights-stat-label">Busiest for ${escapeHtml(
+        m.label
+      )}:</span> ${DAY_LABELS[busiest.dow]} ${formatHourLabel(busiest.hour)}</span>`;
+    })
+      .filter(Boolean)
+      .join("");
+
+    summaryRoot.innerHTML =
+      `<div class="insights-summary">${totalViewersHtml}${busiestHtml}</div>` +
+      '<p class="insights-tz-note">Times shown in your local timezone.</p>';
+
+    tabsRoot.innerHTML = INSIGHTS_METRICS.map(
+      (m, i) => `<button type="button" class="insights-tab-btn${i === 0 ? " is-active" : ""}" data-tab="${m.key}">${escapeHtml(m.label)}</button>`
+    ).join("");
+
+    graphRoot.innerHTML =
+      '<div class="chart-wrap insights-heatmap-wrap"><canvas></canvas></div>' +
+      '<div class="chart-wrap insights-bar-wrap"><canvas></canvas></div>';
+    const heatmapChart = createInsightsHeatmapChart(graphRoot.querySelector(".insights-heatmap-wrap canvas"));
+    const barChart = createInsightsBarChart(graphRoot.querySelector(".insights-bar-wrap canvas"));
+
+    const applyMetric = (metric) => {
+      const maxValue = localBuckets.reduce((max, b) => Math.max(max, b[metric.key]), 0);
+      heatmapChart.data.datasets = [buildInsightsMatrixDataset(localMap, metric, maxValue)];
+      heatmapChart.update();
+
+      barChart.$insightsMetric = metric;
+      barChart.data.datasets = [{ label: metric.label, data: computeInsightsDayTotals(localMap, metric), backgroundColor: CHART_LINE_COLOR }];
+      barChart.update();
+    };
+
+    applyMetric(INSIGHTS_METRICS[0]);
+
+    tabsRoot.addEventListener("click", (e) => {
+      const btn = e.target.closest(".insights-tab-btn");
+      if (!btn || btn.classList.contains("is-active")) return;
+      tabsRoot.querySelectorAll(".insights-tab-btn").forEach((b) => b.classList.toggle("is-active", b === btn));
+      applyMetric(INSIGHTS_METRICS.find((m) => m.key === btn.dataset.tab));
+    });
+  }
+
+  
+
+  const LEADERBOARD_LIVE_URL = "https://cdn.spicyvtubers.com/fansly/leaderboard/live.json";
+  const LEADERBOARD_ACCOUNT_BASE = "https://cdn.spicyvtubers.com/fansly/leaderboard/";
+  const LEADERBOARD_FANSLY_JSON_URL = "/fansly.json";
+  const LEADERBOARD_MAX_SELECTED = 10;
+  const LEADERBOARD_INITIAL_TOP_COUNT = 1;
+  const LEADERBOARD_COLORS = [
+    "#0284c7",
+    "#ef4444",
+    "#22c55e",
+    "#eab308",
+    "#a855f7",
+    "#f97316",
+    "#14b8a6",
+    "#ec4899",
+    "#3b82f6",
+    "#84cc16",
+  ];
+
+  let leaderboardEntries = [];
+  let leaderboardIndexedIds = new Set(); 
+  let leaderboardFilterMode = "indexed"; 
+  const leaderboardHistoryCache = new Map(); 
+  const leaderboardSelected = new Map(); 
+  let leaderboardChart = null; 
+
+  async function loadLeaderboardIndexedIds() {
+    try {
+      const res = await fetch(`${LEADERBOARD_FANSLY_JSON_URL}?t=${Date.now()}`);
+      if (!res.ok) throw new Error("bad status");
+      const list = await res.json();
+      if (!Array.isArray(list)) return new Set();
+      return new Set(list.filter((e) => e && e.id != null).map((e) => String(e.id)));
+    } catch (err) {
+      return new Set();
+    }
+  }
+
+  function leaderboardEntryIsIndexed(entry) {
+    return leaderboardIndexedIds.has(String(entry.accountId));
+  }
+
+  async function initLeaderboardPage() {
+    initPageSearch();
+    const graphRoot = document.getElementById("leaderboard-graph");
+    const gridRoot = document.getElementById("leaderboard-grid");
+    const selectedRoot = document.getElementById("leaderboard-selected");
+    const clearBtn = document.getElementById("leaderboard-clear-btn");
+    const filterAllBtn = document.getElementById("leaderboard-filter-all");
+    const filterIndexedBtn = document.getElementById("leaderboard-filter-indexed");
+    if (!graphRoot || !gridRoot || !selectedRoot || !clearBtn) return;
+
+    try {
+      const [res, indexedIds] = await Promise.all([
+        fetch(`${LEADERBOARD_LIVE_URL}?t=${Date.now()}`, { cache: "no-store" }),
+        loadLeaderboardIndexedIds(),
+      ]);
+      leaderboardIndexedIds = indexedIds;
+      if (!res.ok) throw new Error("bad status");
+      const data = await res.json();
+      if (!Array.isArray(data) || data.length === 0) {
+        showLeaderboardEmptyMessage(graphRoot, gridRoot);
+        return;
+      }
+      leaderboardEntries = data.filter((e) => e && e.accountId != null);
+    } catch (err) {
+      showLeaderboardEmptyMessage(graphRoot, gridRoot);
+      return;
+    }
+
+    renderLeaderboardGrid(gridRoot);
+    renderLeaderboardGraph(graphRoot);
+    gridRoot.addEventListener("click", (e) => {
+      const btn = e.target.closest(".leaderboard-entry");
+      if (!btn) return;
+      toggleLeaderboardAccount(btn.dataset.accountId, graphRoot, gridRoot, selectedRoot);
+    });
+    selectedRoot.addEventListener("click", (e) => {
+      const btn = e.target.closest(".leaderboard-selected-remove");
+      if (!btn) return;
+      removeLeaderboardAccount(btn.dataset.accountId, graphRoot, gridRoot, selectedRoot);
+    });
+    clearBtn.addEventListener("click", () => clearLeaderboardSelection(graphRoot, gridRoot, selectedRoot));
+    if (filterAllBtn && filterIndexedBtn) {
+      filterAllBtn.addEventListener("click", () => setLeaderboardFilterMode("all", filterAllBtn, filterIndexedBtn, gridRoot));
+      filterIndexedBtn.addEventListener("click", () =>
+        setLeaderboardFilterMode("indexed", filterAllBtn, filterIndexedBtn, gridRoot)
+      );
+    }
+
+    await selectTopRankedLeaderboardEntries(graphRoot, gridRoot, selectedRoot);
+  }
+
+  function setLeaderboardFilterMode(mode, filterAllBtn, filterIndexedBtn, gridRoot) {
+    if (leaderboardFilterMode === mode) return;
+    leaderboardFilterMode = mode;
+    filterAllBtn.classList.toggle("is-active", mode === "all");
+    filterIndexedBtn.classList.toggle("is-active", mode === "indexed");
+    renderLeaderboardGrid(gridRoot);
+  }
+
+  function showLeaderboardEmptyMessage(graphRoot, gridRoot) {
+    destroyLeaderboardChart();
+    graphRoot.innerHTML = '<p class="leaderboard-empty-message">No leaderboard data yet — check back soon.</p>';
+    gridRoot.innerHTML = "";
+  }
+
+  
+  
+  function leaderboardEntryParts(entry) {
+    if (!entry.displayName && !entry.username) return { name: "Unknown", username: "" };
+    if (!entry.displayName) return { name: entry.username, username: "" };
+    return { name: entry.displayName, username: entry.username ? `@${entry.username}` : "" };
+  }
+
+  function leaderboardColorFor(accountId) {
+    const order = Array.from(leaderboardSelected.keys());
+    const idx = order.indexOf(accountId);
+    return idx === -1 ? LEADERBOARD_COLORS[0] : LEADERBOARD_COLORS[idx % LEADERBOARD_COLORS.length];
+  }
+
+  function renderLeaderboardGrid(gridRoot) {
+    const entries =
+      leaderboardFilterMode === "indexed" ? leaderboardEntries.filter(leaderboardEntryIsIndexed) : leaderboardEntries;
+    gridRoot.innerHTML = entries
+      .map((entry) => {
+        const isSelected = leaderboardSelected.has(entry.accountId);
+        const isIndexed = leaderboardEntryIsIndexed(entry);
+        const style = isSelected ? ` style="--chip-color:${leaderboardColorFor(entry.accountId)}"` : "";
+        const parts = leaderboardEntryParts(entry);
+        const classes = ["leaderboard-entry", isSelected && "is-selected", isIndexed && "is-indexed"]
+          .filter(Boolean)
+          .join(" ");
+        return (
+          `<button type="button" class="${classes}" data-account-id="${escapeHtml(
+            String(entry.accountId)
+          )}"${style}>` +
+          `<span class="leaderboard-entry-dot"></span>` +
+          `<span class="leaderboard-entry-rank">${entry.rank}.</span>` +
+          `<span class="leaderboard-entry-name">${escapeHtml(parts.name)}</span>` +
+          `</button>`
+        );
+      })
+      .join("");
+  }
+
+  
+  function renderLeaderboardSelectedChips(selectedRoot) {
+    selectedRoot.innerHTML = Array.from(leaderboardSelected.entries())
+      .sort((a, b) => a[1].rank - b[1].rank)
+      .map(([accountId, entry]) => {
+        const color = leaderboardColorFor(accountId);
+        const parts = leaderboardEntryParts(entry);
+        const label = `${entry.rank}. ${parts.name}`;
+        return (
+          `<span class="leaderboard-selected-chip" style="--chip-color:${color}">` +
+          `<span class="leaderboard-selected-swatch"></span>` +
+          `<span>${escapeHtml(label)}</span>` +
+          `<button type="button" class="leaderboard-selected-remove" data-account-id="${escapeHtml(
+            String(accountId)
+          )}" aria-label="Remove ${escapeHtml(label)}">×</button>` +
+          `</span>`
+        );
+      })
+      .join("");
+  }
+
+  async function ensureLeaderboardHistory(accountId) {
+    if (leaderboardHistoryCache.has(accountId)) return leaderboardHistoryCache.get(accountId);
+    try {
+      const res = await fetch(`${LEADERBOARD_ACCOUNT_BASE}${encodeURIComponent(accountId)}.json?t=${Date.now()}`, { cache: "no-store" });
+      if (!res.ok) throw new Error("bad status");
+      const data = await res.json();
+      const points = Array.isArray(data) ? data : [];
+      leaderboardHistoryCache.set(accountId, points);
+      return points;
+    } catch (err) {
+      leaderboardHistoryCache.set(accountId, []);
+      return [];
+    }
+  }
+
+  
+  
+  async function addLeaderboardAccounts(entries, graphRoot, gridRoot, selectedRoot) {
+    const capacity = LEADERBOARD_MAX_SELECTED - leaderboardSelected.size;
+    if (capacity <= 0) return;
+    const toAdd = entries.filter((e) => !leaderboardSelected.has(e.accountId)).slice(0, capacity);
+    if (toAdd.length === 0) return;
+
+    await Promise.all(toAdd.map((e) => ensureLeaderboardHistory(e.accountId)));
+    for (const entry of toAdd) {
+      leaderboardSelected.set(entry.accountId, entry);
+    }
+
+    renderLeaderboardGrid(gridRoot);
+    renderLeaderboardSelectedChips(selectedRoot);
+    renderLeaderboardGraph(graphRoot);
+  }
+
+  function removeLeaderboardAccount(accountId, graphRoot, gridRoot, selectedRoot) {
+    if (!leaderboardSelected.has(accountId)) return;
+    leaderboardSelected.delete(accountId);
+    renderLeaderboardGrid(gridRoot);
+    renderLeaderboardSelectedChips(selectedRoot);
+    renderLeaderboardGraph(graphRoot);
+  }
+
+  async function toggleLeaderboardAccount(accountId, graphRoot, gridRoot, selectedRoot) {
+    if (leaderboardSelected.has(accountId)) {
+      removeLeaderboardAccount(accountId, graphRoot, gridRoot, selectedRoot);
+      return;
+    }
+    const entry = leaderboardEntries.find((e) => String(e.accountId) === String(accountId));
+    if (!entry) return;
+    await addLeaderboardAccounts([entry], graphRoot, gridRoot, selectedRoot);
+  }
+
+  
+  
+  
+  async function selectTopRankedLeaderboardEntries(graphRoot, gridRoot, selectedRoot) {
+    const sorted = leaderboardEntries.slice().sort((a, b) => a.rank - b.rank);
+    const indexed = sorted.filter(leaderboardEntryIsIndexed);
+    const rest = sorted.filter((e) => !leaderboardEntryIsIndexed(e));
+    const topEntries = indexed.concat(rest).slice(0, LEADERBOARD_INITIAL_TOP_COUNT);
+    await addLeaderboardAccounts(topEntries, graphRoot, gridRoot, selectedRoot);
+  }
+
+  function clearLeaderboardSelection(graphRoot, gridRoot, selectedRoot) {
+    leaderboardSelected.clear();
+    renderLeaderboardGrid(gridRoot);
+    renderLeaderboardSelectedChips(selectedRoot);
+    renderLeaderboardGraph(graphRoot);
+  }
+
+  function renderLeaderboardGraph(graphRoot) {
+    const series = Array.from(leaderboardSelected.entries())
+      .sort((a, b) => a[1].rank - b[1].rank)
+      .map(([accountId, entry]) => {
+        const rawPoints = leaderboardHistoryCache.get(accountId) || [];
+        const points = rawPoints.map(([ts, rank]) => ({ x: ts, y: rank })).sort((a, b) => a.x - b.x);
+        return { accountId, entry, color: leaderboardColorFor(accountId), points };
+      });
+
+    if (series.length === 0) {
+      destroyLeaderboardChart();
+      graphRoot.innerHTML = '<p class="leaderboard-empty-message">Select accounts below to graph their rank over time.</p>';
+      return;
+    }
+
+    const seriesWithPoints = series.filter((s) => s.points.length > 0);
+    if (seriesWithPoints.length === 0) {
+      destroyLeaderboardChart();
+      graphRoot.innerHTML = '<p class="leaderboard-empty-message">No history data yet for the selected accounts.</p>';
+      return;
+    }
+
+    let canvas = graphRoot.querySelector(".leaderboard-graph-canvas");
+    if (!canvas) {
+      graphRoot.innerHTML = '<canvas class="leaderboard-graph-canvas"></canvas>';
+      canvas = graphRoot.querySelector(".leaderboard-graph-canvas");
+    }
+
+    const worstRank = seriesWithPoints.reduce((w, s) => s.points.reduce((ww, p) => Math.max(ww, p.y), w), 1);
+    const { bottom, step } = computeRankAxisBounds(worstRank);
+    const datasets = seriesWithPoints.map((s) => ({
+      label: leaderboardEntryParts(s.entry).name,
+      data: s.points,
+      borderColor: s.color,
+      backgroundColor: s.color,
+    }));
+
+    if (!leaderboardChart) {
+      leaderboardChart = createRankLineChart(canvas, datasets, bottom, step);
+      return;
+    }
+    leaderboardChart.data.datasets = datasets;
+    leaderboardChart.options.scales.y.max = bottom;
+    leaderboardChart.options.scales.y.afterBuildTicks = rankAxisTicksFn(step);
+    leaderboardChart.update();
+  }
+
+  function destroyLeaderboardChart() {
+    if (leaderboardChart) {
+      leaderboardChart.destroy();
+      leaderboardChart = null;
+    }
+  }
+
+  
+  window.initIndex = initIndex;
+  window.initCreatorPage = initCreatorPage;
+  window.initInsights = initInsightsPage;
+  window.initLeaderboard = initLeaderboardPage;
+})();

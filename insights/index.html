@@ -28,7 +28,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/minstyle223.css">
+<link rel="stylesheet" href="/minstyle224.css">
 </head>
 <body>
 
@@ -62,7 +62,16 @@
       </div>
 
       <div class="header-actions" id="header-actions">
-        
+        <div class="fansly-nav-wrap" id="fansly-nav-wrap">
+  <button type="button" class="header-index-btn fansly-nav-btn" id="fansly-nav-btn" aria-haspopup="true" aria-expanded="false">
+    <img src="/fansly.svg" alt="" aria-hidden="true">
+    <span>Fansly</span>
+    <svg class="fansly-nav-chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5z"/></svg>
+  </button>
+  <div class="fansly-nav-menu" id="fansly-nav-menu" hidden>
+    <a class="fansly-nav-option is-active" href="/insights/" aria-current="page">Insights</a><a class="fansly-nav-option" href="/leaderboard/">Leaderboard</a>
+  </div>
+</div>
         <div class="header-search-wrap" id="header-search-wrap">
   <button type="button" class="header-index-btn header-search-btn" id="header-search-btn" aria-haspopup="true" aria-expanded="false" title="Search creators">
     <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/></svg>
@@ -114,7 +123,8 @@ Fansly, OnlyFans, Rplay, Joystick or Patreon
   <p>Not affiliated with any platform<br> Contact: <a href="https://x.com/spicy_vtubers">@Spicy_VTubers</a></p>
 </footer>
 
-<script src="/minscript223.js"></script>
+<script src="/vendor/chart.umd.min.js"></script>
+<script src="/vendor/chartjs-chart-matrix.min.js"></script><script src="/minscript224.js"></script>
 <script>window.initInsights();</script>
 </body>
 </html>
