@@ -886,6 +886,12 @@
   function buildStreamSummaryHtml(streams) {
     const cutoff = Date.now() - THREE_MONTHS_MS;
     const lastThreeMonths = streams.filter((s) => typeof s.startedAt === "number" && s.startedAt >= cutoff);
+    
+    
+    
+    if (lastThreeMonths.length === streams.length) {
+      return `<div class="stream-summary">${buildStreamSummaryPeriodHtml("Last 3 Months", streams)}</div>`;
+    }
     return `<div class="stream-summary">${buildStreamSummaryPeriodHtml("Last 3 Months", lastThreeMonths)}${buildStreamSummaryPeriodHtml("All Time", streams)}</div>`;
   }
 
