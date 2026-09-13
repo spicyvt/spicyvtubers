@@ -314,14 +314,15 @@
             "fansly": "lil_serpentina",
             "channel": "Lil_Serpentina",
             "xHandles": [
-                "lil_serpentina"
+                "lil_serpentina",
+                "sexy_serpentina"
             ],
             "socials": "https://lilserpentina.carrd.co/",
             "data": true,
             "avatar": "avatarsx",
             "banner": "bannersx"
         },
-        "generatedAt": "2026-09-13T00:24:36+00:00"
+        "generatedAt": "2026-09-13T11:54:06+00:00"
     },
     "trashctrl_": {
         "entry": {
@@ -16062,5 +16063,19 @@
             "banner": "bannersx"
         },
         "generatedAt": "2026-09-13T10:49:20+00:00"
+    },
+    "reiyasumire": {
+        "entry": {
+            "patreon": "reiyasusmire",
+            "channel": "reiyasumire",
+            "type": "youtube",
+            "xHandles": [
+                "reiyasumire",
+                "sussymire"
+            ],
+            "avatar": "avatarsx",
+            "banner": "bannersx"
+        },
+        "generatedAt": "2026-09-13T11:54:06+00:00"
     }
 }
