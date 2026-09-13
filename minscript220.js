@@ -155,7 +155,8 @@
       maintainAspectRatio: false,
       animation: false,
       interaction: { mode: "nearest", intersect: false },
-      elements: { point: { radius: 0, hoverRadius: 4, hitRadius: 8 }, line: { tension: 0, borderWidth: 2 } },
+      
+      elements: { point: { radius: 0, hoverRadius: 4, hitRadius: 8 }, line: { tension: 0, borderWidth: 2, borderJoinStyle: "round" } },
       scales: {
         x: {
           type: "linear",
@@ -968,7 +969,7 @@
         maintainAspectRatio: false,
         animation: false,
         interaction: { mode: "nearest", intersect: false },
-        elements: { line: { tension: 0, borderWidth: 2 } },
+        elements: { line: { tension: 0, borderWidth: 2, borderJoinStyle: "round" } },
         scales: {
           x: {
             type: "linear",
@@ -1026,7 +1027,7 @@
         maintainAspectRatio: false,
         animation: false,
         interaction: { mode: "nearest", intersect: false },
-        elements: { point: { radius: 0, hoverRadius: 4, hitRadius: 8 }, line: { tension: 0, borderWidth: 2 } },
+        elements: { point: { radius: 0, hoverRadius: 4, hitRadius: 8 }, line: { tension: 0, borderWidth: 2, borderJoinStyle: "round" } },
         scales: {
           x: {
             type: "linear",
