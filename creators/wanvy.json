@@ -1,0 +1,99 @@
+{
+    "bio": "I'm that 1v, wany, wavy, wanavy, one bee",
+    "twitch": {
+        "id": "1071853804",
+        "login": "wanvy",
+        "displayName": "wanvy",
+        "createdAt": "2024-04-25T21:26:45.85865Z",
+        "updatedAt": "2026-09-14T07:33:03.204643Z",
+        "description": "I'm that 1v, wany, wavy, wanavy, one bee",
+        "primaryColorHex": "00F0BB",
+        "followers": {
+            "totalCount": 4809
+        },
+        "follows": {
+            "totalCount": 315
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-09T09:22:39.06681Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22520118-f777-468d-b7bb-532d605b0cfa-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90aef6ff-7a10-44c6-8d74-86687e12c8a6-profile_banner-480.png",
+        "fetchedAt": "2026-09-14T21:59:46Z"
+    },
+    "twitter": {
+        "wanvyvr": {
+            "id": null,
+            "handle": "wanvyvr",
+            "displayName": "wanvy",
+            "description": "latina yapper  |  i strem on https://t.co/xhddeSTccc 💜 | icon by @/rebthgin",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2077547758790045696/pqt636pI_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1791207097515859968/1784169414/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Wanvyvr",
+            "fetchedAt": "2026-09-14T21:59:49Z"
+        }
+    },
+    "fansly": {
+        "id": "649506556940918785",
+        "username": "Wanvy",
+        "displayName": null,
+        "version": 7,
+        "followCount": 4362,
+        "statusId": 3,
+        "accountMediaLikes": 1310,
+        "postLikes": 1264,
+        "about": "spoiled brat ~\n\nfocused on live shows for now:\nfree streams on saturdays around 9 PM EST\npop up streams when I feel like to and sub only streams ocasionally! 🖤\n\nhttps://wanvy.carrd.co/\n",
+        "location": "",
+        "streaming": {
+            "accountId": "649506556940918785",
+            "channel": {
+                "id": "846005457775513601",
+                "accountId": "649506556940918785",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.aFzcVBwU2VEb.m3u8",
+                "chatRoomId": "846005473453826048",
+                "status": 2,
+                "version": 67,
+                "createdAt": 1763197779000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "846005457775513602",
+                    "historyId": "955393036349624320",
+                    "channelId": "846005457775513601",
+                    "accountId": "649506556940918785",
+                    "title": "sucking your dick as a treat~   !tipmenu",
+                    "status": 1,
+                    "viewerCount": 153,
+                    "version": 116,
+                    "createdAt": 1763197779000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1789284741000,
+                    "startedAt": 1789277810000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "955386077172998144",
+                                "streamId": "846005457775513602",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-14T21:59:51Z"
+    }
+}
