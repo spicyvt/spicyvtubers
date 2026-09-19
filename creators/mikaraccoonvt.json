@@ -1,0 +1,44 @@
+{
+    "bio": "Ur favorite garbage cat",
+    "twitch": {
+        "id": "178280224",
+        "login": "mikaraccoonvt",
+        "displayName": "MikaRaccoonVT",
+        "createdAt": "2017-10-19T02:17:31.153371Z",
+        "updatedAt": "2026-08-30T15:31:45.364638Z",
+        "description": "Ur favorite garbage cat",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 117
+        },
+        "follows": {
+            "totalCount": 72
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-01T04:11:42.063487Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ccbb400f-e108-4f37-94d8-2025ae78af05-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2bcc112c-0048-4c06-aac4-f866652469ee-profile_banner-480.png",
+        "fetchedAt": "2026-09-19T15:16:32Z"
+    },
+    "twitter": {
+        "mikaraccoon_vt": {
+            "id": null,
+            "handle": "mikaraccoon_vt",
+            "displayName": "Mika Raccoon",
+            "description": "🚧Under Construction🚧\n⚠️🦝⚠️\nArt Tag #Mikacreate",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2046379081177210880/zqy-UQEa_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2044498284484427776/1777592062/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/MikaRaccoon_VT",
+            "fetchedAt": "2026-09-19T15:16:34Z"
+        }
+    }
+}
