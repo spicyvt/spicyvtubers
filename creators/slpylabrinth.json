@@ -1,0 +1,104 @@
+{
+    "bio": "💤Labrinth The Demon Of Despair | 🎮 Nekomata LewdTuber | 💖 Making Jokes And Being Dumb | 📆 Join My Chaotic Gaming |",
+    "twitch": {
+        "id": "871545609",
+        "login": "slpylabrinth",
+        "displayName": "slpylabrinth",
+        "createdAt": "2023-01-16T19:24:00.631905Z",
+        "updatedAt": "2026-09-16T18:40:42.649544Z",
+        "description": "💤Labrinth The Demon Of Despair | 🎮 Nekomata LewdTuber | 💖 Making Jokes And Being Dumb | 📆 Join My Chaotic Gaming |",
+        "primaryColorHex": "87FFFF",
+        "followers": {
+            "totalCount": 245
+        },
+        "follows": {
+            "totalCount": 815
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-11T21:33:45.399932Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d68b2b-6a75-4236-ae6f-ddfbdb3602d8-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/205e1c1a-0aa0-46ff-890f-f8e6caedb1a0-profile_banner-480.png",
+        "fetchedAt": "2026-09-21T00:31:33Z"
+    },
+    "twitter": {
+        "slpylabrinth": {
+            "id": null,
+            "handle": "slpylabrinth",
+            "displayName": "Labrinth |❄️Neko LewdTuber❄️| ❀Café LYCT |",
+            "description": "23 | Nekomata Lewdtuber | Single And Chilling | I Play Horror, VR, And Other Games | Oshi Mark: ❄️🐈‍⬛ | NSFW: @nonexistentlab |",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2038241340493017089/ujn-asEZ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2018108848641286145/1788110595/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/slpylabrinth",
+            "fetchedAt": "2026-09-21T00:31:50Z"
+        },
+        "nonexistentlab": {
+            "id": null,
+            "handle": "nonexistentlab",
+            "displayName": "Labrinth (Maker Of Milfs, Breeder Of Clowns)",
+            "description": "My Vent And NSFW Page | Will Gladly Get Collab Art | 23 years old | SFW: @SlpyLabrinth",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1933191826472599552/OdV8yC6__400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1924103424125353984/1757480730/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nonexistentlab",
+            "fetchedAt": "2026-09-21T00:31:51Z"
+        }
+    },
+    "fansly": {
+        "id": "803420605192871936",
+        "username": "Lewbrinth",
+        "displayName": "Labrinth",
+        "version": 7,
+        "followCount": 25,
+        "statusId": 1,
+        "accountMediaLikes": 1,
+        "postLikes": 11,
+        "about": "I'm the demon your mom warned you about~\nHi I'm Labrinth, I'm A Lewdtuber\nhttps://slpylabrinthsocials.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "803420605192871936",
+            "channel": {
+                "id": "917905957747445760",
+                "accountId": "803420605192871936",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7fJV0GMiH26p.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 2,
+                "createdAt": 1780340194000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "917905957747445761",
+                    "historyId": null,
+                    "channelId": "917905957747445760",
+                    "accountId": "803420605192871936",
+                    "title": "Ever Stream Please Be Nice",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1780340194000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-21T00:31:55Z"
+    }
+}

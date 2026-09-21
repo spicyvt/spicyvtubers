@@ -1,0 +1,104 @@
+{
+    "bio": "Oh hi~ Welcome to my Twitch channel. I'm but a silly bunny who hopes to grow big enough to bring happiness to a lot of people. Let's build a Legion~!",
+    "twitch": {
+        "id": "160946334",
+        "login": "cinnabun_shion",
+        "displayName": "cinnabun_shion",
+        "createdAt": "2017-06-21T03:10:25.512576Z",
+        "updatedAt": "2026-09-17T17:19:57.666255Z",
+        "description": "Oh hi~ Welcome to my Twitch channel. I'm but a silly bunny who hopes to grow big enough to bring happiness to a lot of people. Let's build a Legion~!",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 914
+        },
+        "follows": {
+            "totalCount": 27
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-17T20:17:38.856554Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60bca776-29c6-4eb3-8077-bae6e01d6dbc-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a438da0-c606-4906-96d9-f898423c4fdf-profile_banner-480.png",
+        "fetchedAt": "2026-09-21T00:31:28Z"
+    },
+    "twitter": {
+        "shion_nsfw": {
+            "id": null,
+            "handle": "shion_nsfw",
+            "displayName": "Futa-bun🔞",
+            "description": "R18 content Account for @Cinnabun_shion\nFutanari Bunny / VStreamer, i post and make lewd stuff\n🔞\nhttps://t.co/nr60kB4Sss\nhttps://t.co/ovkeifLqJY",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2022809461270740992/XrZaGRvP_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2857120254/1771110333/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/shion_nsfw",
+            "fetchedAt": "2026-09-21T00:31:38Z"
+        },
+        "cinnabun_shion": {
+            "id": null,
+            "handle": "cinnabun_shion",
+            "displayName": "🥕Cinnabun Shion🐇",
+            "description": "Mexican bunny, described as endearing 🔞 DNI\nCute Futanari bunny🥕(🇲🇽/🇬🇧/🤏🇯🇵)\nhttps://t.co/91XQYvBJjo\nhttps://t.co/dxuqL4jyMt\nhttps://t.co/RshKT2yLoj",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2029344941801889792/zZtDLfB0_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1787702684902170624/1772668513/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/cinnabun_shion",
+            "fetchedAt": "2026-09-21T00:31:40Z"
+        }
+    },
+    "fansly": {
+        "id": "408712389622505472",
+        "username": "ShionVT",
+        "displayName": "Cinnabun Shion",
+        "version": 9,
+        "followCount": 104,
+        "statusId": 1,
+        "accountMediaLikes": 18,
+        "postLikes": 14,
+        "about": "Hello! i'm Shion, Welcome to my Fansly Account! <3\n\nI'll be uploading uncensored content from Twitter over here~!\nSub to see the premium content!\n** Don't Miss out on Live Streams! **",
+        "location": "Foreing Burrow",
+        "streaming": {
+            "accountId": "408712389622505472",
+            "channel": {
+                "id": "791063420949504000",
+                "accountId": "408712389622505472",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TPQb2pN88pTk.m3u8",
+                "chatRoomId": "791063851255738368",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1750098576000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "791063420949504001",
+                    "historyId": "924055316390227969",
+                    "channelId": "791063420949504000",
+                    "accountId": "408712389622505472",
+                    "title": "Strip Karaoke! Drop by to say hi!",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 18,
+                    "createdAt": 1750098577000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781812566000,
+                    "startedAt": 1781806315000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-21T00:31:55Z"
+    }
+}
