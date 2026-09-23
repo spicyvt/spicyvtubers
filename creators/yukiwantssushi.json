@@ -1,0 +1,99 @@
+{
+    "bio": "Hoffnungsloses VTuber Fox Girl versucht Japanisch zu lernen und die Höschen ihrer Senpai zu klauen⛩️🍣👙",
+    "twitch": {
+        "id": "1038760175",
+        "login": "yukiwantssushi",
+        "displayName": "YukiWantsSushi",
+        "createdAt": "2024-02-18T16:27:11.093959Z",
+        "updatedAt": "2026-09-22T15:37:59.411586Z",
+        "description": "Hoffnungsloses VTuber Fox Girl versucht Japanisch zu lernen und die Höschen ihrer Senpai zu klauen⛩️🍣👙",
+        "primaryColorHex": "9142FF",
+        "followers": {
+            "totalCount": 797
+        },
+        "follows": {
+            "totalCount": 164
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-22T20:22:22.887794Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/808d2a93-df55-462e-945d-22ceae8e887c-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/86a2cd7e-48d0-4aa9-944e-31b25404d327-profile_banner-480.png",
+        "fetchedAt": "2026-09-23T08:28:59Z"
+    },
+    "twitter": {
+        "yukiwantssushi": {
+            "id": null,
+            "handle": "yukiwantssushi",
+            "displayName": "Yuki ⛩️🍣 GerVTuber",
+            "description": "Hoffnungsloses VTuber Fox Girl versucht Japanisch zu lernen und die Höschen ihrer Senpai zu klauen\n⛩️🍣🏳️‍🌈\n#vtuber #gervtuber #yukiwantssushi",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2046667374238052352/SVw-VglF_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1760318557408141313/1735219335/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/yukiwantssushi",
+            "fetchedAt": "2026-09-23T08:29:03Z"
+        }
+    },
+    "fansly": {
+        "id": "663471429265666048",
+        "username": "YukiWantsSushi",
+        "displayName": null,
+        "version": 2,
+        "followCount": 213,
+        "statusId": 1,
+        "accountMediaLikes": 240,
+        "postLikes": 277,
+        "about": "Hoffnungsloses VTuber Fox Girl versucht Japanisch zu lernen und die Höschen ihrer Senpai zu klauen\n⛩️🍣👙",
+        "location": "Japan",
+        "streaming": {
+            "accountId": "663471429265666048",
+            "channel": {
+                "id": "788566251701018626",
+                "accountId": "663471429265666048",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.S137Um3IfCNt.m3u8",
+                "chatRoomId": "788566280968876033",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1749503205000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "788566251701018627",
+                    "historyId": "877592863611822080",
+                    "channelId": "788566251701018626",
+                    "accountId": "663471429265666048",
+                    "title": "Sport in Latex",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 16,
+                    "createdAt": 1749503205000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1770736670000,
+                    "startedAt": 1770728803000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "847863090841153540",
+                                "streamId": "788566251701018627",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-23T08:29:04Z"
+    }
+}
