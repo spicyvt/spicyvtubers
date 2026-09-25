@@ -1,0 +1,90 @@
+{
+    "bio": "Australia's Number One Gooner 🔮♊️ Dreambound Succubus 💌 geminivt.ttv@gmail.com",
+    "twitch": {
+        "id": "671615222",
+        "login": "geminivt",
+        "displayName": "GeminiVT",
+        "createdAt": "2021-04-05T12:05:07.996152Z",
+        "updatedAt": "2026-09-25T07:31:54.138423Z",
+        "description": "Australia's Number One Gooner 🔮♊️ Dreambound Succubus 💌 geminivt.ttv@gmail.com",
+        "primaryColorHex": "8742C0",
+        "followers": {
+            "totalCount": 5128
+        },
+        "follows": {
+            "totalCount": 401
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-25T07:42:12.196319Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d045610-aae0-4806-8833-a2eead042b0b-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/48003066-43a9-46ba-9ca8-7a89d736ffa5-profile_banner-480.png",
+        "fetchedAt": "2026-09-25T11:05:52Z"
+    },
+    "twitter": {
+        "geminiivt": {
+            "id": null,
+            "handle": "geminiivt",
+            "displayName": "Gemini 𑣲 ➤ PAX AUS",
+            "description": "🔞Dreambound Succubus VTuber | oshi mark 🔮♊️\nPartner on @Twitch | Art Tag: #geminart \nhttps://t.co/CszTM05tYX (LIVE 7PM AEST)\nall my links ⤵",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2102929341550321664/cUt9cJzd_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1812501263977951233/1789393936/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/GeminiiVT",
+            "fetchedAt": "2026-09-25T11:05:54Z"
+        }
+    },
+    "fansly": {
+        "id": "948272756858843136",
+        "username": "GeminiVT",
+        "displayName": null,
+        "version": 7,
+        "followCount": 584,
+        "statusId": 1,
+        "accountMediaLikes": 223,
+        "postLikes": 156,
+        "about": "dreambound succubus !\nsus asf streamer and full time gooner ꨄ︎\n21/yo australian 🫶\nACTIVE DM HOURS:\n10am-4pm AEST (mostly weekdays, please be patient 🤍)\n\n⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹\n\nAll content on my Fansly and associated pages is my copyrighted property. You agree not to copy, screenshot, record, save, repost, share, leak, or redistribute any of my content or private messages without my written permission.\n\nAny unauthorised sharing or distribution of my content may result in legal action.",
+        "location": "Australia",
+        "streaming": {
+            "accountId": "948272756858843136",
+            "channel": {
+                "id": "948321042818953216",
+                "accountId": "948272756858843136",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.szgiqH59SCvT.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1787591715000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "948321042818953217",
+                    "historyId": null,
+                    "channelId": "948321042818953216",
+                    "accountId": "948272756858843136",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1787591715000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-25T11:05:55Z"
+    }
+}
