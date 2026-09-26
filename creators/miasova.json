@@ -1,0 +1,99 @@
+{
+    "bio": "Snowy Owl Villainess trying to avoid doom. Trying to reform OvO | LoL | ASMR | Variety | I'm trying to be nice but I come out mean :^(",
+    "twitch": {
+        "id": "722647409",
+        "login": "miasova",
+        "displayName": "MiaSova",
+        "createdAt": "2021-08-30T19:05:25.918637Z",
+        "updatedAt": "2026-09-26T01:43:45.134309Z",
+        "description": "Snowy Owl Villainess trying to avoid doom. Trying to reform OvO | LoL | ASMR | Variety | I'm trying to be nice but I come out mean :^(",
+        "primaryColorHex": "78BCF7",
+        "followers": {
+            "totalCount": 25414
+        },
+        "follows": {
+            "totalCount": 429
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-26T03:42:56.493306Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5aaacb8b-359b-4233-8596-7b98600ac2be-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2a3e1c2-9154-4fc7-aa2b-a3f6561c1c78-profile_banner-480.png",
+        "fetchedAt": "2026-09-26T20:57:07Z"
+    },
+    "twitter": {
+        "mia_sova": {
+            "id": null,
+            "handle": "mia_sova",
+            "displayName": "Mia Sova 🦉❄️ Villainess",
+            "description": "@virpronet 🦉❄️villainess avoiding doom tags: #sovALIVE 🎨: #MiasGallery 🔞 #MiasHooters Mama: @clivenzu | https://t.co/09dMnA3tno miasovavtube@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2046789358066524160/OtLzEDRE_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1432423356733607937/1678247851/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mia_sova",
+            "fetchedAt": "2026-09-26T20:57:09Z"
+        }
+    },
+    "fansly": {
+        "id": "567238616309309440",
+        "username": "MiaSova",
+        "displayName": "Mia Sova",
+        "version": 4,
+        "followCount": 2646,
+        "statusId": 3,
+        "accountMediaLikes": 2126,
+        "postLikes": 4678,
+        "about": "Snowy Owl Villainess\nASMR | VA | Cosplay\n\nI’m mean to undeserving bad guests. Prove to me you are a good guest and you might be rewarded. \n\nHere you will find Stream VODs or join Disgusting Dogs for  monthly IRL ASMR session, monthly audio, lewd art, and the opportunity to DM me.\n\nLive content is Nothing Explicit but maybe a little Suggestive \n\nI only answer subs. Tips make me notice you~\n\nPlease don’t redistribute paid and exclusive content. Clipping and highlighting VODs of Twitch streams is ok but please share it with me. Clipping of Fansly Streams is prohibited",
+        "location": "Mia Manor",
+        "streaming": {
+            "accountId": "567238616309309440",
+            "channel": {
+                "id": "700532020400369665",
+                "accountId": "567238616309309440",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.03j0DbIX4PsI.m3u8",
+                "chatRoomId": "700532145596145664",
+                "status": 2,
+                "version": 23,
+                "createdAt": 1728514208000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "700532020400369666",
+                    "historyId": "960323236963307520",
+                    "channelId": "700532020400369665",
+                    "accountId": "567238616309309440",
+                    "title": "comfy asmr and h anime with disgusting dogs later",
+                    "status": 2,
+                    "viewerCount": 25,
+                    "version": 425,
+                    "createdAt": 1728514209000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1790456219000,
+                    "startedAt": 1790453261000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "960321975069188096",
+                                "streamId": "700532020400369666",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"742247463804481536\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-26T20:57:10Z"
+    }
+}
