@@ -1,0 +1,99 @@
+{
+    "bio": "Sleepy cat girl needs head pats. Live around 4pm pst.",
+    "twitch": {
+        "id": "1507399988",
+        "login": "squeakykat_",
+        "displayName": "SqueakyKat_",
+        "createdAt": "2026-06-02T21:05:02.773476Z",
+        "updatedAt": "2026-09-26T21:12:10.340997Z",
+        "description": "Sleepy cat girl needs head pats. Live around 4pm pst.",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 9210
+        },
+        "follows": {
+            "totalCount": 72
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-26T21:11:18.328978Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4631b5f-53cf-4f7f-a7eb-63ea4f4100ec-profile_image-300x300.png",
+        "bannerImageUrl": null,
+        "fetchedAt": "2026-09-26T22:58:16Z"
+    },
+    "twitter": {
+        "squeakykatvt": {
+            "id": null,
+            "handle": "squeakykatvt",
+            "displayName": "SqueakyKatVT",
+            "description": "SqueakyKat_ on twitch!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2091976986302504960/iKg4HJmF_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2091976149761204224/1787601778/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/SqueakyKatVT",
+            "fetchedAt": "2026-09-26T22:58:19Z"
+        }
+    },
+    "fansly": {
+        "id": "933888505182957568",
+        "username": "SqueakyKat_",
+        "displayName": "SqueakyKat_",
+        "version": 4,
+        "followCount": 888,
+        "statusId": 1,
+        "accountMediaLikes": 202,
+        "postLikes": 253,
+        "about": "Live streams here on Saturdays\n\nWatch me do ASMR on twitch! https://www.twitch.tv/squeakykat_\n\nAll my links https://linktr.ee/SqueakyKat_\n\n-Dick ratings\n-Custom audio\n-Sexting \n-Live streams",
+        "location": "",
+        "streaming": {
+            "accountId": "933888505182957568",
+            "channel": {
+                "id": "946320931851091968",
+                "accountId": "933888505182957568",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.uzp9aDtowfvG.m3u8",
+                "chatRoomId": "946320959101480960",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1787114851000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "946320931851091969",
+                    "historyId": "957863513039073280",
+                    "channelId": "946320931851091968",
+                    "accountId": "933888505182957568",
+                    "title": "Slutty Saturday",
+                    "status": 1,
+                    "viewerCount": 44,
+                    "version": 12,
+                    "createdAt": 1787114852000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1789875464000,
+                    "startedAt": 1789866817000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "956366341017706496",
+                                "streamId": "946320931851091969",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-26T22:58:21Z"
+    }
+}
