@@ -1,0 +1,90 @@
+{
+    "bio": "꒰ঌ ૮ ྀིᴗ͈ . ᴗ͈ ྀིა ໒꒱",
+    "twitch": {
+        "id": "1447374817",
+        "login": "onlineangel",
+        "displayName": "onlineangel",
+        "createdAt": "2026-02-20T16:18:12.948071Z",
+        "updatedAt": "2026-09-17T00:42:52.27819Z",
+        "description": "꒰ঌ ૮ ྀིᴗ͈ . ᴗ͈ ྀིა ໒꒱",
+        "primaryColorHex": "FAE7ED",
+        "followers": {
+            "totalCount": 3168
+        },
+        "follows": {
+            "totalCount": 24
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-17T00:43:33.616976Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/411d7de4-5b9a-4e01-a55c-26233175bc08-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9bbba37-0103-449a-b7a5-10d4d81d3b4c-profile_banner-480.png",
+        "fetchedAt": "2026-09-26T23:05:55Z"
+    },
+    "twitter": {
+        "onlineangelvt": {
+            "id": null,
+            "handle": "onlineangelvt",
+            "displayName": "𝒂𝒏𝒈𝒆𝒍",
+            "description": "@twitch partner &amp; @fansly degenerate ꒰ঌ ૮ ྀིᴗ͈ . ᴗ͈ ྀིა ໒꒱",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2070889549794799616/8TyxZb2K_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1843422476459708416/1782758177/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/onlineangelvt",
+            "fetchedAt": "2026-09-26T23:05:57Z"
+        }
+    },
+    "fansly": {
+        "id": "952210810552213504",
+        "username": "onlineangelvt",
+        "displayName": "𝒂𝒏𝒈𝒆𝒍",
+        "version": 4,
+        "followCount": 300,
+        "statusId": 1,
+        "accountMediaLikes": 216,
+        "postLikes": 565,
+        "about": "i can't be an angel all the time~\n\nlinktr.ee/onlineangelvt\n\n໒꒱ sexting (with/without voice notes)\n໒꒱ girlfriend experience (a dynamic of your choice: dom leaning, sub leaning, loving, vanilla, etc...)\n໒꒱ custom audios \n໒꒱ cock rating \n໒꒱ jerk off instructions \n໒꒱ VERY KINK FRIENDLY",
+        "location": "heaven",
+        "streaming": {
+            "accountId": "952210810552213504",
+            "channel": {
+                "id": "956768688197869568",
+                "accountId": "952210810552213504",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.e6iQwoSZXP4y.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1789605791000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "956768688197869569",
+                    "historyId": null,
+                    "channelId": "956768688197869568",
+                    "accountId": "952210810552213504",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1789605791000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-09-26T23:05:59Z"
+    }
+}
