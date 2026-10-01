@@ -1,0 +1,113 @@
+{
+    "bio": "I make audios on YouTube and... other sites. Will write more soon!",
+    "twitch": {
+        "id": "1082302442",
+        "login": "loveablelexi",
+        "displayName": "loveablelexi",
+        "createdAt": "2024-05-10T03:13:17.046417Z",
+        "updatedAt": "2026-09-28T01:54:32.501135Z",
+        "description": "I make audios on YouTube and... other sites. Will write more soon!",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 845
+        },
+        "follows": {
+            "totalCount": 8
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-28T03:50:30.182985Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d6114bd-dacc-470b-8f86-bf70b2b48764-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13f3dba0-e8fa-4e96-ae4d-3ac3c9395071-profile_banner-480.png",
+        "fetchedAt": "2026-10-01T22:10:59Z"
+    },
+    "twitter": {
+        "loveablelexivt": {
+            "id": null,
+            "handle": "loveablelexivt",
+            "displayName": "Loveable Lexi",
+            "description": "Vtuber and voice actress! This is my brand new SFW account! NSFW main: @lewdlexiaudios",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2013767255545536512/cezoireP_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2013766395746541570/1769654402/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/LoveableLexiVT",
+            "fetchedAt": "2026-10-01T22:11:02Z"
+        },
+        "lewdlexiaudios": {
+            "id": null,
+            "handle": "lewdlexiaudios",
+            "displayName": "Lewd Lexi",
+            "description": "Maker of erotic #nsfw audios and roleplay fantasies. 18+\nJoin my Patreon for access for 320+ exclusive audios and a lot more! SFW account: @LoveableLexiVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1990688104290934784/O_UlIb_7_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1410044309290717186/1770117550/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lewdlexiaudios",
+            "fetchedAt": "2026-10-01T22:11:05Z"
+        }
+    },
+    "fansly": {
+        "id": "639381438428356608",
+        "username": "lewdlexi",
+        "displayName": "Lewd Lexi",
+        "version": 4,
+        "followCount": 18386,
+        "statusId": 3,
+        "accountMediaLikes": 10105,
+        "postLikes": 6146,
+        "about": "You might know me from my lewd audios! I stream naughty stuff every Wednesday evening PDT, come join me! =)",
+        "location": "",
+        "streaming": {
+            "accountId": "639381438428356608",
+            "channel": {
+                "id": "727746108582801408",
+                "accountId": "639381438428356608",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.znJhfNuJV9zU.m3u8",
+                "chatRoomId": "727746232155381760",
+                "status": 2,
+                "version": 22,
+                "createdAt": 1735002553000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "727746108582801409",
+                    "historyId": "961855525434183680",
+                    "channelId": "727746108582801408",
+                    "accountId": "639381438428356608",
+                    "title": "Fresh Women~",
+                    "status": 1,
+                    "viewerCount": 33,
+                    "version": 5993,
+                    "createdAt": 1735002553000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1790843231000,
+                    "startedAt": 1790818587000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "906395858277257217",
+                                "streamId": "727746108582801409",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-01T22:11:06Z"
+    }
+}
