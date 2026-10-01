@@ -63,5 +63,68 @@
         "channelImage": null,
         "streamStartTime": "2026-08-15T20:13:04.411Z",
         "fetchedAt": "2026-08-19T16:49:59Z"
+    },
+    "fansly": {
+        "id": "856444633704579072",
+        "username": "laylina",
+        "displayName": "Laylin",
+        "version": 4,
+        "followCount": 1323,
+        "statusId": 1,
+        "accountMediaLikes": 120,
+        "postLikes": 370,
+        "about": "uwu\nhttps://linktr.ee/laylinASMR\n\nNaughty throne :3\nhttps://throne.com/laylin_",
+        "location": "",
+        "streaming": {
+            "accountId": "856444633704579072",
+            "channel": {
+                "id": "907099048610123776",
+                "accountId": "856444633704579072",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7VywLClctWDX.m3u8",
+                "chatRoomId": "907099344031727616",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1777763626000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "907099048610123777",
+                    "historyId": "940821793365585927",
+                    "channelId": "907099048610123776",
+                    "accountId": "856444633704579072",
+                    "title": "Step bro I'm stuck .. can you help me? :3",
+                    "status": 1,
+                    "viewerCount": 28,
+                    "version": 16,
+                    "createdAt": 1777763626000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785807641000,
+                    "startedAt": 1785803755000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940790963100463104",
+                                "streamId": "907099048610123777",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "940790963100463105",
+                                "streamId": "907099048610123777",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":2000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-01T00:25:55Z"
     }
 }
