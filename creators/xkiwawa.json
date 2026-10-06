@@ -1,0 +1,113 @@
+{
+    "bio": "certified ankle biter 🦴 live every weekday!",
+    "twitch": {
+        "id": "1520668134",
+        "login": "xkiwawa",
+        "displayName": "xKiwaWa",
+        "createdAt": "2026-07-16T15:24:10.245766Z",
+        "updatedAt": "2026-10-02T23:13:26.462049Z",
+        "description": "certified ankle biter 🦴 live every weekday!",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 1258
+        },
+        "follows": {
+            "totalCount": 29
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-02T23:31:49.196729Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/11525412-141d-4ccd-9904-5074251de486-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/711fbda4-2919-404a-a7f6-9b1fc550336b-profile_banner-480.png",
+        "fetchedAt": "2026-10-06T11:21:18Z"
+    },
+    "twitter": {
+        "lewdkiwa": {
+            "id": null,
+            "handle": "lewdkiwa",
+            "displayName": "lewd kiwa 🔞",
+            "description": "slutty lil’ puppy 💢🐾🎀\nnsfw asmr + more!!\nyou can find my content here ⤵︎\nhttps://t.co/wRUWpxjU31\n\ni: @aid_127 b: @che3ken",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2089147433225687040/Xg2PIbNr_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2089146442967404544/1786926819/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lewdkiwa",
+            "fetchedAt": "2026-10-06T11:21:23Z"
+        }
+    },
+    "fansly": {
+        "id": "950179117192474624",
+        "username": "KiwaWaa",
+        "displayName": null,
+        "version": 3,
+        "followCount": 475,
+        "statusId": 1,
+        "accountMediaLikes": 102,
+        "postLikes": 95,
+        "about": "slutty lil’ puppy 💢🐾🎀\nnsfw asmr + more!!\n\nAll My Links: https://linktr.ee/kiwawa\nWanna Spoil me?: https://throne.com/2dpupy",
+        "location": "",
+        "streaming": {
+            "accountId": "950179117192474624",
+            "channel": {
+                "id": "956289253128552448",
+                "accountId": "950179117192474624",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.empKck3Mz1PD.m3u8",
+                "chatRoomId": "956289266437070848",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1789491484000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "956289253128552449",
+                    "historyId": "956444965603405824",
+                    "channelId": "956289253128552448",
+                    "accountId": "950179117192474624",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 29,
+                    "version": 2,
+                    "createdAt": 1789491485000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1789530802000,
+                    "startedAt": 1789528609000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-06T11:21:24Z"
+    },
+    "rplay": {
+        "id": "6a7e7118203be0342643a653",
+        "channelIntro": "bau bau~ bratty puppy asmr!",
+        "creatorTags": [
+            "english",
+            "streamer",
+            "vtuber",
+            "kyc",
+            "for-men",
+            "adult",
+            "audio",
+            "_6a7e7118203be0342643a653_"
+        ],
+        "nickname": "KiwaWa",
+        "signupDate": "2026-08-14T01:36:24.000Z",
+        "verified": true,
+        "channelLanguage": "en",
+        "isLivestreamer": true,
+        "customUrl": "kiwawa",
+        "channelImage": "https://pb3.rplay.live/pics/cc60720e1214dda1826b59b520adfe8d",
+        "streamStartTime": "2026-09-27T19:57:48.000Z",
+        "fetchedAt": "2026-10-06T11:21:30Z"
+    }
+}
