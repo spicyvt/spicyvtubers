@@ -1,0 +1,104 @@
+{
+    "bio": "Useless Fox Vtuber 🦊 Come vibe with me 🦊 ✉️ BUSINESS EMAIL: foxxyravelle@gmail.com ✉️",
+    "twitch": {
+        "id": "491607961",
+        "login": "foxxyravelle",
+        "displayName": "FoxxyRavelle",
+        "createdAt": "2020-02-10T10:45:10.996167Z",
+        "updatedAt": "2026-10-05T20:49:43.914844Z",
+        "description": "Useless Fox Vtuber 🦊 Come vibe with me 🦊 ✉️ BUSINESS EMAIL: foxxyravelle@gmail.com ✉️",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 3608
+        },
+        "follows": {
+            "totalCount": 1408
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-05T20:52:44.922249Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cef7dfab-e236-4dee-8d43-01a71b812184-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/473be58f-e31c-42a0-b27c-dcdf4f75e5e4-profile_banner-480.jpeg",
+        "fetchedAt": "2026-10-06T10:54:01Z"
+    },
+    "twitter": {
+        "foxxyravelle": {
+            "id": null,
+            "handle": "foxxyravelle",
+            "displayName": "Foxxy Ravelle | 🦊🔥 Vtuber |『 𝐑𝐀𝐁𝐈𝐄𝐒 』",
+            "description": "ENG/GER Fox Girl Vtuber 🦊🔥 Art: #Foxxy34 | 2.0 Model by @GammiLily &amp; @viicccii1\nPreviously FoxxyLillyVT || 🔥 Account: @FoxxyAfterDark_",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2069408648070049792/7a_5ICk7_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2061362940184297473/1780303361/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/FoxxyRavelle",
+            "fetchedAt": "2026-10-06T10:54:02Z"
+        },
+        "foxxyafterdark_": {
+            "id": null,
+            "handle": "foxxyafterdark_",
+            "displayName": "Foxxy Ravelle | After Dark~",
+            "description": "🦊 Sussy Alt of @foxxyravelle\n🦊 https://t.co/bRUAN0Woo9\n🦊 Breedable Fox",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2074307017557053440/Tz2t3hCA_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1648576378189561856/1783388307/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/FoxxyAfterDark_",
+            "fetchedAt": "2026-10-06T11:02:22Z"
+        }
+    },
+    "fansly": {
+        "id": "577288750313254913",
+        "username": "FoxxyRavelle",
+        "displayName": "Foxxy",
+        "version": 7,
+        "followCount": 449,
+        "statusId": 1,
+        "accountMediaLikes": 161,
+        "postLikes": 189,
+        "about": "🦊 Your silly and lewd foxgirl 🦊\n\n~ This is what you can expect ~\n♡ Spicy Art\n♡ Spicy 3D / VR Photo Sets\n♡ Spicy Gaming Streams / VR Streams\n\nDms are open~\n\n🔗 https://linktr.ee/foxxyravelle",
+        "location": "Being your underdesk support",
+        "streaming": {
+            "accountId": "577288750313254913",
+            "channel": {
+                "id": "944854005144629248",
+                "accountId": "577288750313254913",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.3IcqZxS0IGTM.m3u8",
+                "chatRoomId": "944854049788813412",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1786765109000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "944854005144629249",
+                    "historyId": "957803731708047360",
+                    "channelId": "944854005144629248",
+                    "accountId": "577288750313254913",
+                    "title": "Kitty Maid at your service~ VR with FULL BODY ",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 8,
+                    "createdAt": 1786765109000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1789860041000,
+                    "startedAt": 1789852564000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-06T10:54:04Z"
+    }
+}
