@@ -1,0 +1,104 @@
+{
+    "bio": "My name is Alexa♡ And I stream since I spend all my time on the pc watching vídeos or playing games.",
+    "twitch": {
+        "id": "45321852",
+        "login": "alexavr",
+        "displayName": "AlexaVR",
+        "createdAt": "2013-06-28T16:46:28.482728Z",
+        "updatedAt": "2026-10-22T22:09:46.465408Z",
+        "description": "My name is Alexa♡ And I stream since I spend all my time on the pc watching vídeos or playing games.",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 16729
+        },
+        "follows": {
+            "totalCount": 1231
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-22T22:09:31.740828Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6035a2f6-7df3-4912-97bb-40f5c8ecb376-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7ae48a96-ea31-4180-8b01-b3b58949c54d-profile_banner-480.jpeg",
+        "fetchedAt": "2026-10-24T22:25:44Z"
+    },
+    "twitter": {
+        "_alexavr_": {
+            "id": null,
+            "handle": "_alexavr_",
+            "displayName": "Alexa🐐",
+            "description": "🇵🇹 Just a cute Goat that likes to stream and post cute pictures💙\nhttps://t.co/zGvdxL5eqr | Discord https://t.co/qWZfFX9pLy | 🎨 Art #AlexaVR",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1764697561409978368/7MpOQ8j-_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1725173620383649792/1700149816/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/_AlexaVR_",
+            "fetchedAt": "2026-10-24T22:25:45Z"
+        },
+        "alexavr_nsfw": {
+            "id": null,
+            "handle": "alexavr_nsfw",
+            "displayName": "Alexa🔞💙",
+            "description": "🇵🇹\nSFW - @_AlexaVR_ 🎨 Art #AlexaVR\nNo Minors 🔞 https://t.co/GDYMFFqJKC\nDiscord https://t.co/UGCFXnBW0O 💙",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1701788031554834434/7elyNgXQ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1563992199838269440/1697826322/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/AlexaVR_NSFW",
+            "fetchedAt": "2026-10-24T22:25:47Z"
+        }
+    },
+    "fansly": {
+        "id": "394461055247462400",
+        "username": "AlexaVR",
+        "displayName": "AlexaVR 💙",
+        "version": 22,
+        "followCount": 22794,
+        "statusId": 3,
+        "accountMediaLikes": 68508,
+        "postLikes": 40508,
+        "about": "Timezone - GMT Europe\n\nTwitch: https://www.twitch.tv/alexavr\nThrone: https://throne.com/alexavr\nLovense: https://www.lovense.com/r/uynrgy\nAllmylinks: http://linktr.ee/_AlexaVR_",
+        "location": "",
+        "streaming": {
+            "accountId": "394461055247462400",
+            "channel": {
+                "id": "556826728081666048",
+                "accountId": "394461055247462400",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iHr57HuUUTIi.m3u8",
+                "chatRoomId": "556827084148715520",
+                "status": 2,
+                "version": 54,
+                "createdAt": 1694252197000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "556826728081666049",
+                    "historyId": "970134151233564672",
+                    "channelId": "556826728081666048",
+                    "accountId": "394461055247462400",
+                    "title": "Lets have fun 🎃 !menu",
+                    "status": 1,
+                    "viewerCount": 204,
+                    "version": 7963,
+                    "createdAt": 1694252197000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792813541000,
+                    "startedAt": 1792792365000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T22:25:48Z"
+    }
+}
