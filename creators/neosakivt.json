@@ -1,0 +1,99 @@
+{
+    "bio": "Hello there! My name is Neo and I am a streamer who loves to draw and game! Feel free to check out any of my socials and give me a follow!",
+    "twitch": {
+        "id": "131179301",
+        "login": "neosakivt",
+        "displayName": "NeoSakiVT",
+        "createdAt": "2016-08-02T22:09:51.739806Z",
+        "updatedAt": "2026-09-26T13:55:54.017174Z",
+        "description": "Hello there! My name is Neo and I am a streamer who loves to draw and game! Feel free to check out any of my socials and give me a follow!",
+        "primaryColorHex": "FF8DCD",
+        "followers": {
+            "totalCount": 702
+        },
+        "follows": {
+            "totalCount": 186
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-26T16:21:28.560295Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67d9516a-0f1d-4dfe-b425-a1c6e247b966-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/74cfbd7f-51ea-464e-8129-88f3e5bad343-profile_banner-480.png",
+        "fetchedAt": "2026-10-24T15:54:31Z"
+    },
+    "twitter": {
+        "neosakivt": {
+            "id": null,
+            "handle": "neosakivt",
+            "displayName": "NeoSaki",
+            "description": "🌸🖤🐾 Wolf Vtuber | Artist | She/Her  🌸🖤🐾\n\n🔞 @NeoSaki_nsfw\n🩷🎨#art4Saki\n🖤 Artist: @k1ttch3n | Rigger: Me",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1950418813767315456/hLzDGsyV_400x400.png",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/932490540154834945/1744009204/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/NeoSakiVT",
+            "fetchedAt": "2026-10-24T15:54:38Z"
+        }
+    },
+    "fansly": {
+        "id": "577281816369569792",
+        "username": "NeoSaki",
+        "displayName": "NeoSaki",
+        "version": 7,
+        "followCount": 17,
+        "statusId": 1,
+        "accountMediaLikes": 36,
+        "postLikes": 26,
+        "about": "🌸🖤🐾 Wolf Vtuber | Artist | She/Her  🌸🖤🐾\n\nWelcome to my Fansly, where I will probably post spicy art, hentai gameplays, and video reactions. ",
+        "location": "",
+        "streaming": {
+            "accountId": "577281816369569792",
+            "channel": {
+                "id": "909529872165007362",
+                "accountId": "577281816369569792",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oYHq8QgPAwWq.m3u8",
+                "chatRoomId": "909530068705890304",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1778343179000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "909529872165007363",
+                    "historyId": null,
+                    "channelId": "909529872165007362",
+                    "accountId": "577281816369569792",
+                    "title": "Just Testing",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1778343180000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "909530344032575488",
+                                "streamId": "909529872165007363",
+                                "type": 0,
+                                "flags": 134,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\",\"128\":\"{\\\"listId\\\":\\\"909530329306390530\\\",\\\"label\\\":\\\"Freebies\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T15:54:43Z"
+    }
+}

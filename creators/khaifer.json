@@ -1,0 +1,99 @@
+{
+    "bio": "Researcher by day. Reaper by Night. Plays games on his off time together with his research associate Kuma the Hamster.",
+    "twitch": {
+        "id": "40763491",
+        "login": "khaifer",
+        "displayName": "Khaifer",
+        "createdAt": "2013-02-26T15:10:38.991561Z",
+        "updatedAt": "2026-10-23T14:08:21.351171Z",
+        "description": "Researcher by day. Reaper by Night. Plays games on his off time together with his research associate Kuma the Hamster.",
+        "primaryColorHex": "2E4819",
+        "followers": {
+            "totalCount": 3182
+        },
+        "follows": {
+            "totalCount": 840
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-23T15:35:47.535036Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/74a5fee0-286e-4ab8-8a63-977f093805a4-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8ac14de-ce55-4816-ac16-16f30b5880ad-profile_banner-480.jpeg",
+        "fetchedAt": "2026-10-24T15:54:29Z"
+    },
+    "twitter": {
+        "imkhaifer": {
+            "id": null,
+            "handle": "imkhaifer",
+            "displayName": "Khaifer🐹🧪🌭",
+            "description": "Researcher by day. Reaper by Night. 18+ MDNI\n\nChibi Art:@iamcharmi_   Chibi Rig:  @KairosRoku\nArt/Rig: @eieruga    \nLogo @HimekoDesign_",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2076728489106149376/7wiZ3eAf_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1729359048611594241/1766293067/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ImKhaifer",
+            "fetchedAt": "2026-10-24T15:54:36Z"
+        }
+    },
+    "fansly": {
+        "id": "624340957604618245",
+        "username": "Khaifer",
+        "displayName": null,
+        "version": 5,
+        "followCount": 1340,
+        "statusId": 3,
+        "accountMediaLikes": 2954,
+        "postLikes": 5423,
+        "about": "Researcher by day. Reaper by Night. 🔞",
+        "location": "",
+        "streaming": {
+            "accountId": "624340957604618245",
+            "channel": {
+                "id": "646256631545339904",
+                "accountId": "624340957604618245",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NwKNwADZ2jKY.m3u8",
+                "chatRoomId": "646256676206292992",
+                "status": 2,
+                "version": 45,
+                "createdAt": 1715573947000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "646256631545339905",
+                    "historyId": "965331444979228672",
+                    "channelId": "646256631545339904",
+                    "accountId": "624340957604618245",
+                    "title": "Time to Finish this Union to the Max",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 523,
+                    "createdAt": 1715573948000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1791662169000,
+                    "startedAt": 1791647311000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "747943202069164032",
+                                "streamId": "646256631545339905",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T15:54:43Z"
+    }
+}

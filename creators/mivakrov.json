@@ -1,0 +1,99 @@
+{
+    "bio": "I’m Miva Krov - a KrovTech experiment with memory stored in blood (㇏(•̀⩊•́)ノ)",
+    "twitch": {
+        "id": "1283446640",
+        "login": "mivakrov",
+        "displayName": "MivaKrov",
+        "createdAt": "2025-03-18T21:43:31.516103Z",
+        "updatedAt": "2026-10-23T13:04:19.603713Z",
+        "description": "I’m Miva Krov - a KrovTech experiment with memory stored in blood (㇏(•̀⩊•́)ノ)",
+        "primaryColorHex": "980000",
+        "followers": {
+            "totalCount": 2154
+        },
+        "follows": {
+            "totalCount": 61
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-23T13:04:36.468205Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2379ac8f-d18c-47dc-9489-aac131998497-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/21affb9a-6ccc-46fd-bb0d-203a0ad419c9-profile_banner-480.png",
+        "fetchedAt": "2026-10-24T15:54:34Z"
+    },
+    "twitter": {
+        "mivakrov": {
+            "id": null,
+            "handle": "mivakrov",
+            "displayName": "Miva Krov 🧬🩸",
+            "description": "Vampire from somewhere very cold~🧬🩸\nママ: @duckmastah\nパパ: @PrincessKyuuna",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2080325361024618496/noGfPjsG_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1902085250575908864/1773934902/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/MivaKrov",
+            "fetchedAt": "2026-10-24T15:54:41Z"
+        }
+    },
+    "fansly": {
+        "id": "834737840142184448",
+        "username": "MivaKrov",
+        "displayName": "Miva Krov",
+        "version": 4,
+        "followCount": 640,
+        "statusId": 3,
+        "accountMediaLikes": 369,
+        "postLikes": 339,
+        "about": "🩸 The Eternal Vampire VTuber 🩸\n\nHere you’ll find dark erotic content, sinful whispers, and exclusive vampire rituals meant only for those brave enough to kneel.\n\n🔞 Streams, Pics, Gaming, & more... 🔞\n\n🔗 https://linktr.ee/mivakrov\n🚫 Reposting any of my content is strictly forbidden.",
+        "location": "",
+        "streaming": {
+            "accountId": "834737840142184448",
+            "channel": {
+                "id": "883765393125027840",
+                "accountId": "834737840142184448",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HkcWeQmONUrq.m3u8",
+                "chatRoomId": "883769174277517312",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1772200449000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "883765393125027841",
+                    "historyId": "960473023054356482",
+                    "channelId": "883765393125027840",
+                    "accountId": "834737840142184448",
+                    "title": "Dancing in VR~ | #VTuber",
+                    "status": 1,
+                    "viewerCount": 57,
+                    "version": 148,
+                    "createdAt": 1772200449000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1790492779000,
+                    "startedAt": 1790488973000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "950315600763187202",
+                                "streamId": "883765393125027841",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T15:54:43Z"
+    }
+}

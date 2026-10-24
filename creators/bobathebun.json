@@ -1,0 +1,113 @@
+{
+    "bio": "he/him vtuber and Professional Dumbass",
+    "twitch": {
+        "id": "787066701",
+        "login": "bobathebun",
+        "displayName": "BobaTheBun",
+        "createdAt": "2022-04-11T06:22:29.048461Z",
+        "updatedAt": "2026-10-15T01:18:48.164413Z",
+        "description": "he/him vtuber and Professional Dumbass ",
+        "primaryColorHex": "EB9D9A",
+        "followers": {
+            "totalCount": 251
+        },
+        "follows": {
+            "totalCount": 911
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-15T02:46:44.279352Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2f37922-9dc5-4a88-9698-e9c59e569882-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/513ecf85-36b8-4f51-954c-a1c03a9717b2-profile_banner-480.png",
+        "fetchedAt": "2026-10-24T15:54:32Z"
+    },
+    "twitter": {
+        "boba_bunvt": {
+            "id": null,
+            "handle": "boba_bunvt",
+            "displayName": "Boba the Bun 🌸",
+            "description": "🔞+18 only 🌸@SmartiesVT🌸\n🌸Bunny Boy/shapeshifter for a reason with the stamina to prove it🌸🔞\n https://t.co/vR9cbypvu4",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1985034371208740864/FCLYLS1o_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1513397490917285888/1659236770/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Boba_BunVT",
+            "fetchedAt": "2026-10-24T15:54:40Z"
+        }
+    },
+    "fansly": {
+        "id": "516826895505956864",
+        "username": "BobaTheBun",
+        "displayName": "BobaTheBun",
+        "version": 3,
+        "followCount": 5,
+        "statusId": 3,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "Hello, I am Boba The Bunny Boy",
+        "location": "",
+        "streaming": {
+            "accountId": "516826895505956864",
+            "channel": {
+                "id": "876669184354832384",
+                "accountId": "516826895505956864",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AI9T8T7JxdYC.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1770508581000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "876669184354832385",
+                    "historyId": null,
+                    "channelId": "876669184354832384",
+                    "accountId": "516826895505956864",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1770508581000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "876671703617388546",
+                                "streamId": "876669184354832385",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T15:54:43Z"
+    },
+    "rplay": {
+        "id": "69938f1080189ed44c5c03ea",
+        "channelIntro": "",
+        "creatorTags": [],
+        "nickname": "BobaTheBun",
+        "signupDate": "2026-02-16T21:41:35.000Z",
+        "verified": true,
+        "channelLanguage": "en",
+        "isLivestreamer": null,
+        "customUrl": null,
+        "channelImage": null,
+        "streamStartTime": null,
+        "fetchedAt": "2026-10-24T15:54:48Z"
+    }
+}
