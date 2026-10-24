@@ -1,0 +1,99 @@
+{
+    "bio": "That lazy femboy. Noobie 3D designer and VRoid user.ES Hablo mas español pero escribo mejor ingles.EN I speak better in Spanish but I write better in English. Pronombres: Yo uso \"el\" pero tu puedes usar cualquiera. No me molesta uwu.",
+    "twitch": {
+        "id": "152476408",
+        "login": "nonafurry",
+        "displayName": "NonaFurry",
+        "createdAt": "2017-04-05T20:35:41.059419Z",
+        "updatedAt": "2026-09-27T16:51:22.455572Z",
+        "description": "That lazy femboy. Noobie 3D designer and VRoid user.ES Hablo mas español pero escribo mejor ingles.EN I speak better in Spanish but I write better in English. Pronombres: Yo uso \"el\" pero tu puedes usar cualquiera. No me molesta uwu. ",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 812
+        },
+        "follows": {
+            "totalCount": 718
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-27T18:52:59.468624Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ae67871-a79e-4592-bfcd-0f535eb2039f-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/380f3434-a6cb-4c22-bd71-d76f563f690a-profile_banner-480.png",
+        "fetchedAt": "2026-10-24T16:14:01Z"
+    },
+    "twitter": {
+        "nonafurry": {
+            "id": null,
+            "handle": "nonafurry",
+            "displayName": "Nona but NSFW | 🍇🔞",
+            "description": "Femboy VTuber con voz de husbando LVL: 30\n\nAKA P.O.S\n\nMenores no interactuar o block(?\n\nhttps://t.co/HfCPj8ypVm\n\npfp by @/Noxxlss",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1789283137463230464/trCIhzbX_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/914643797111447552/1732680680/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/NonaFurry",
+            "fetchedAt": "2026-10-24T16:14:08Z"
+        }
+    },
+    "fansly": {
+        "id": "442081270118227968",
+        "username": "NonaFurry",
+        "displayName": "NonaFurry",
+        "version": 9,
+        "followCount": 175,
+        "statusId": 1,
+        "accountMediaLikes": 170,
+        "postLikes": 77,
+        "about": "Howa soy un mono chino 3D furry y femboy con voz de fuck boy. Pensaba vender nopor pero lo termino publicando gratis en twitter asi que bienvenido seas en mi twitter xD",
+        "location": "Mordor",
+        "streaming": {
+            "accountId": "442081270118227968",
+            "channel": {
+                "id": "479687023834181632",
+                "accountId": "442081270118227968",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.efmAOrl4ZyaL.m3u8",
+                "chatRoomId": "479688327935569920",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1675860658000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "479687023834181633",
+                    "historyId": null,
+                    "channelId": "479687023834181632",
+                    "accountId": "442081270118227968",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1675860659000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "479687089844133888",
+                                "streamId": "479687023834181633",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T16:14:11Z"
+    }
+}

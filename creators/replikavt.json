@@ -1,0 +1,90 @@
+{
+    "bio": "Mi nombre es Repl1ka, me gustan los juegos de ritmo y de peleas. Padezco de Trastorno de Identidad Disociativo (fuera de personaje)",
+    "twitch": {
+        "id": "563255030",
+        "login": "replikavt",
+        "displayName": "ReplikaVT",
+        "createdAt": "2020-08-05T19:34:35.244139Z",
+        "updatedAt": "2026-10-22T03:51:34.917876Z",
+        "description": "Mi nombre es Repl1ka, me gustan los juegos de ritmo y de peleas. Padezco de Trastorno de Identidad Disociativo (fuera de personaje)",
+        "primaryColorHex": "6303FC",
+        "followers": {
+            "totalCount": 1859
+        },
+        "follows": {
+            "totalCount": 346
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-22T05:03:38.509455Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/561b1eda-bf38-4050-8919-42352b43fe87-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c61226af-9fe3-474f-9016-666e1d35084c-profile_banner-480.jpeg",
+        "fetchedAt": "2026-10-24T16:13:58Z"
+    },
+    "twitter": {
+        "larepl1ka": {
+            "id": null,
+            "handle": "larepl1ka",
+            "displayName": "Réplika ♠️♥️🟢🌙⚾",
+            "description": "ME BOTO. 👍\nstreamer emo cyberpunk ♠️ | Padezco de TID| Streams chill de OW| Experta en juegos de pelea, si a huevo | Editora\nTwitch: ReplikaVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2092818337663258624/GJYLIHXK_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1284963464029581314/1773680480/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/LaRepl1ka",
+            "fetchedAt": "2026-10-24T16:14:05Z"
+        }
+    },
+    "fansly": {
+        "id": "824309509647249408",
+        "username": "Repl1ka",
+        "displayName": "Replika",
+        "version": 4,
+        "followCount": 98,
+        "statusId": 1,
+        "accountMediaLikes": 59,
+        "postLikes": 100,
+        "about": "Vtuber con fetiches para fetichistas de vtubers\n Femboy intentando feminizarse con ayuda de sus suscriptores. Ayúdame a ser la muñeca de tus sueños 💜\n\nVtuber with fetishes for Vtuber fetishists\nFemboy trying to feminize himself with the help of his subscribers. Help me be the doll of your dreams 💜",
+        "location": "México",
+        "streaming": {
+            "accountId": "824309509647249408",
+            "channel": {
+                "id": "838533964741226496",
+                "accountId": "824309509647249408",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.dSllc3HRwEXR.m3u8",
+                "chatRoomId": "838534591735156737",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1761416436000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "838533964741226497",
+                    "historyId": "838534334326513664",
+                    "channelId": "838533964741226496",
+                    "accountId": "824309509647249408",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2,
+                    "createdAt": 1761416436000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1761416533000,
+                    "startedAt": 1761416524000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T16:14:11Z"
+    }
+}

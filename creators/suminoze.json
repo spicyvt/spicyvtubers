@@ -1,0 +1,90 @@
+{
+    "bio": "VTuber / Streamer / Cosplayer / Artista / Gamer ~| VGen: https://vgen.co/suminoze ♥ Business/Collabs/Contact: StreamerSumi@gmail.com",
+    "twitch": {
+        "id": "101850425",
+        "login": "suminoze",
+        "displayName": "Suminoze",
+        "createdAt": "2015-09-10T01:25:01.850859Z",
+        "updatedAt": "2026-10-24T05:51:22.948251Z",
+        "description": "VTuber / Streamer / Cosplayer / Artista / Gamer ~| VGen: https://vgen.co/suminoze ♥ Business/Collabs/Contact: StreamerSumi@gmail.com",
+        "primaryColorHex": "DE75A0",
+        "followers": {
+            "totalCount": 7120
+        },
+        "follows": {
+            "totalCount": 73
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-24T06:15:17.856232Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8851d5bc-08bb-45c5-bcd6-131d0f844974-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/571f7f05-3214-4ae2-84dd-341af23d86d5-profile_banner-480.jpeg",
+        "fetchedAt": "2026-10-24T16:14:03Z"
+    },
+    "twitter": {
+        "suminoze": {
+            "id": null,
+            "handle": "suminoze",
+            "displayName": "Sumi | VTuber Artist Cosplayer 🇻🇪",
+            "description": "• VTuber, Artist, Gamer, Cosplayer 🎨 • Single • INFP AuDHD • ENG/ES • VGen COMMS Open \n• L2D @Geckobon - @nafygw 3D @nefuu_ • LiNKS: https://t.co/QsVT0vZdJw",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1795526441066512384/grA6JYYF_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/789613182549630977/1714518202/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Suminoze",
+            "fetchedAt": "2026-10-24T16:14:10Z"
+        }
+    },
+    "fansly": {
+        "id": "488146329806057472",
+        "username": "Suminoze",
+        "displayName": null,
+        "version": 4,
+        "followCount": 3226,
+        "statusId": 1,
+        "accountMediaLikes": 2788,
+        "postLikes": 2022,
+        "about": "Cosplayer and streamer~ I love dressing up in cute, sexy costumes ♥ 4'11'' 79lbs (150cm 36kg) • Demisexual ♥ Virgin ♥ INFP ♥️ Birthday October 21 ♥️\nMost of my sets start off from sweet and cute to lewd/teasing. I don't make porn/xxx\n♥What to expect when subbed♥ \n• Cosplay/non-cosplay lingerie pics(Phone selfies/iPhone)\n• Implied (or censored) nudes. Always leaving some to the imagination\n• Cosplay/lingerie streams with toy support (lovense lush 3 and satisfyer remote)\n\n(Please check the sub level rewards for more)\n\n~ ♥ ~\nPequeña cosplayer/streamer erótica~ Me encanta vestir con disfraces lindos y sexys. Mido 1.50 y peso 36kg ♥ Soy virgen, demisexual y cumplo el 21 de octubre ♥\nLa mayoría de mis sets comienzan lindos hasta volverse provocadores ~\n♥Qué esperar con su suscripción♥\n• Fotografías de cosplay/lencería (selfies con teléfono/iPhone)\n• Desnudos implícitos (censurados) Siempre dejando algo a la imaginación.\n• Transmisiones de cosplay/lencería, con nalgadas y control de juguetes (lush 3, satisfyer)\n\n(Mirar recompensas de cada nivel para más detalles)\n",
+        "location": "In your wet dreams~ / En tus sueños humedos ~",
+        "streaming": {
+            "accountId": "488146329806057472",
+            "channel": {
+                "id": "550249245198790656",
+                "accountId": "488146329806057472",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.DNxURzGNXbrm.m3u8",
+                "chatRoomId": "550250151428497408",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1692684003000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "550249245198790657",
+                    "historyId": "921273354705453057",
+                    "channelId": "550249245198790656",
+                    "accountId": "488146329806057472",
+                    "title": "Me vine | I came :3",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 990,
+                    "createdAt": 1692684003000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781146807000,
+                    "startedAt": 1781143044000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T16:14:11Z"
+    }
+}
