@@ -1,0 +1,99 @@
+{
+    "bio": "local chaotic femboy kitzune vtuber her to spred chaos and joy reddy for THE HELL RIDE WIF OUT A PADDEL",
+    "twitch": {
+        "id": "167462192",
+        "login": "absolsama",
+        "displayName": "AbsolSama",
+        "createdAt": "2017-07-30T14:50:07.224423Z",
+        "updatedAt": "2026-10-18T07:10:13.767582Z",
+        "description": "local chaotic femboy kitzune vtuber her to spred chaos and joy reddy for THE HELL RIDE WIF OUT A PADDEL",
+        "primaryColorHex": "56065C",
+        "followers": {
+            "totalCount": 354
+        },
+        "follows": {
+            "totalCount": 1063
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-17T21:24:16.839897Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/42cde33a-d783-44b4-b2e7-217c43e9a63f-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aaa43564-e46d-48e4-b9f6-e03cbcc83574-profile_banner-480.png",
+        "fetchedAt": "2026-10-24T13:31:29Z"
+    },
+    "twitter": {
+        "absolsama": {
+            "id": null,
+            "handle": "absolsama",
+            "displayName": "abby femboy fox",
+            "description": "its ya fox boy absol i stream, im  25 and nearly 90% of the time horny MINORS GET BLOCKT https://t.co/pbJzMtVxOT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2106412421950713856/eCmY1iu8_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1192921712473628673/1659682507/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/absolsama",
+            "fetchedAt": "2026-10-24T13:31:31Z"
+        }
+    },
+    "fansly": {
+        "id": "356608258271621120",
+        "username": "absolsama",
+        "displayName": "abby",
+        "version": 5,
+        "followCount": 257,
+        "statusId": 1,
+        "accountMediaLikes": 25,
+        "postLikes": 79,
+        "about": "Happy and honry kitsune vtuber",
+        "location": "switzerland",
+        "streaming": {
+            "accountId": "356608258271621120",
+            "channel": {
+                "id": "820693081060818944",
+                "accountId": "356608258271621120",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7d8HruysW2gH.m3u8",
+                "chatRoomId": "820693144570970112",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1757162838000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "820693081060818945",
+                    "historyId": "820711640398852096",
+                    "channelId": "820693081060818944",
+                    "accountId": "356608258271621120",
+                    "title": "test ",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 6,
+                    "createdAt": 1757162838000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1757168474000,
+                    "startedAt": 1757167263000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "820695228691275776",
+                                "streamId": "820693081060818945",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T13:31:32Z"
+    }
+}
