@@ -23,7 +23,7 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e62891bd-5e68-48db-adc1-92c372bba026-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b80e557a-046d-4fd6-9665-7ef128cf3c7b-profile_banner-480.jpeg",
-        "fetchedAt": "2026-10-24T22:36:28Z"
+        "fetchedAt": "2026-10-24T23:07:34Z"
     },
     "twitter": {
         "bstormvr_": {
@@ -37,8 +37,63 @@
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/Bstormvr_",
-            "fetchedAt": "2026-10-24T22:36:30Z"
+            "profileUrl": "https://x.com/bstormvr_",
+            "fetchedAt": "2026-10-24T23:07:36Z"
         }
+    },
+    "fansly": {
+        "id": "930614439927894016",
+        "username": "Not_bstormvr",
+        "displayName": null,
+        "version": 3,
+        "followCount": 336,
+        "statusId": 3,
+        "accountMediaLikes": 510,
+        "postLikes": 184,
+        "about": "Not brii💜🖤\nGoth succbs💜🖤\nVr Texture Creator & Pole Dancer 💜🖤\nPrivate vr dances coming soon (21+) \nWeekend pop up streams\nLovense owner🖤",
+        "location": "",
+        "streaming": {
+            "accountId": "930614439927894016",
+            "channel": {
+                "id": "933564595560275968",
+                "accountId": "930614439927894016",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7QfsQ6qGNBHq.m3u8",
+                "chatRoomId": "933564673033269249",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1784073504000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "933564595560275969",
+                    "historyId": "952917928230014976",
+                    "channelId": "933564595560275968",
+                    "accountId": "930614439927894016",
+                    "title": "(18+) VR after dark💜 (Lovense setup next stream)",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 22,
+                    "createdAt": 1784073504000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1788692817000,
+                    "startedAt": 1788687698000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "933564891548102658",
+                                "streamId": "933564595560275969",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T23:07:37Z"
     }
 }
