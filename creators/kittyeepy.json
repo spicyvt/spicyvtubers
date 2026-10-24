@@ -1,0 +1,90 @@
+{
+    "bio": "Just a sleepy kitty :3",
+    "twitch": {
+        "id": "494273648",
+        "login": "kittyeepy",
+        "displayName": "KittyEepy",
+        "createdAt": "2020-02-22T04:45:45.589211Z",
+        "updatedAt": "2026-10-19T22:54:13.095885Z",
+        "description": "Just a sleepy kitty :3",
+        "primaryColorHex": "5984DA",
+        "followers": {
+            "totalCount": 14
+        },
+        "follows": {
+            "totalCount": 15
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd2c5d6c-86f9-47de-8ae9-27820038121f-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2fe0fd4e-41a7-46b2-b2df-a7b973850261-profile_banner-480.png",
+        "fetchedAt": "2026-10-24T13:25:29Z"
+    },
+    "twitter": {
+        "stupidkittyvr": {
+            "id": null,
+            "handle": "stupidkittyvr",
+            "displayName": "Kitty 🔞",
+            "description": "♡︎ LewdTuber ♡︎ 🔞 18+ MDNI 🔞 ♡︎ Switch/Sub ♡︎ She/They ♡︎\n♡︎ PFP: @TiaraTdrki ♡︎ Banner: @PinkPodayArt ♡︎\n♡︎ 𝑭𝒂𝒏𝒔𝒍𝒚 𝒍𝒊𝒏𝒌𝒆𝒅 𝒃𝒆𝒍𝒐𝒘 ♡︎",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2077173220428705793/iXarvgAN_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1692748058075729920/1792047363/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/StupidKittyVR",
+            "fetchedAt": "2026-10-24T13:25:31Z"
+        }
+    },
+    "fansly": {
+        "id": "440779916946976768",
+        "username": "WetKittyVR",
+        "displayName": "Kitty",
+        "version": 6,
+        "followCount": 6266,
+        "statusId": 3,
+        "accountMediaLikes": 9173,
+        "postLikes": 5800,
+        "about": "♡︎ A dumb kitty who loves getting attention! ♡︎\n\nHihi!! I'm Kitty an NSFW VR Creator! \n♡︎ Shy ♡︎ Pansexual ♡︎ She/They ♡︎ Switch/Sub ♡︎\n♡︎ Face-Tracking ♡︎ Full-Body Tracking ♡︎ \n\n𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗜 𝗢𝗳𝗳𝗲𝗿:\n♡︎ NSFW solo videos, bi-weekly! \n♡︎ Weekly Streams! (Once a week, sometimes more!)\n♡︎ Custom Content! (Check out my menu :3!) \n\n\nOther Links: https://guns.lol/wetkitty",
+        "location": "In your head",
+        "streaming": {
+            "accountId": "440779916946976768",
+            "channel": {
+                "id": "753475989681483776",
+                "accountId": "440779916946976768",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AP4ciRG8TUEH.m3u8",
+                "chatRoomId": "753476856627339266",
+                "status": 2,
+                "version": 58,
+                "createdAt": 1741137034000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "753475989681483777",
+                    "historyId": "970240685359767554",
+                    "channelId": "753475989681483776",
+                    "accountId": "440779916946976768",
+                    "title": "Little Witch :3! <3 !socials !tipmenu",
+                    "status": 1,
+                    "viewerCount": 55,
+                    "version": 8838,
+                    "createdAt": 1741137035000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792825234000,
+                    "startedAt": 1792817765000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T13:25:32Z"
+    }
+}
