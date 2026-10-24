@@ -1,0 +1,121 @@
+{
+    "bio": "Watch me play vr and cri. :3 Welcome back to the stream!",
+    "twitch": {
+        "id": "253778299",
+        "login": "loom_vr",
+        "displayName": "Loom_vr",
+        "createdAt": "2018-08-31T20:34:19.915375Z",
+        "updatedAt": "2026-10-23T01:23:42.514621Z",
+        "description": "Watch me play vr and cri. :3 Welcome back to the stream!",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 592
+        },
+        "follows": {
+            "totalCount": 246
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-17T04:06:22.423122Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/834532e8-939d-4417-a97d-d70f2aa02504-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/91df7fa8-d06d-4339-8f68-35699392beb2-profile_banner-480.png",
+        "fetchedAt": "2026-10-24T14:28:33Z"
+    },
+    "twitter": {
+        "loom_vr": {
+            "id": null,
+            "handle": "loom_vr",
+            "displayName": "Loom",
+            "description": "18 + ♡ ✦Twitch Streamer ♡ ✦ Content Creator ♡ ✦ Avi Promoter ♡ ✦ Meme Provider ,  ❥  https://t.co/0evKnMXqbh",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2007232095488233472/V25m1lHU_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1988344358035484672/1767396410/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Loom_vr",
+            "fetchedAt": "2026-10-24T14:28:43Z"
+        },
+        "loomnsfw": {
+            "id": null,
+            "handle": "loomnsfw",
+            "displayName": "Loom",
+            "description": "🖤 18+ ♡ snuggly lewd kitty ♡ 25 ♡💌 open!🐾🖤 Menace with a filthy mind ~\n🖤 Buy my throne daddy~? https://t.co/5lS8JuV7XK\n🖤 https://t.co/nfzklCFDQA",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2088101253662543872/GwfNhZ-3_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/961381839943352320/1751237309/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/LoomNSFW",
+            "fetchedAt": "2026-10-24T14:28:44Z"
+        }
+    },
+    "fansly": {
+        "id": "703714042778234886",
+        "username": "Loom_vr",
+        "displayName": "Loom",
+        "version": 6,
+        "followCount": 28393,
+        "statusId": 1,
+        "accountMediaLikes": 9810,
+        "postLikes": 4898,
+        "about": "😈 If you're here, then you know I’m a big tease..\nCVR Content \nhttps://www.lovense.com/wish-list/0jwx\n\nLinks ----> linktr.ee/Loom_vr\n25 ♡ Thicc irl ♡ Always Horny & Free Use Slut... ♡\nhttps://throne.com/loom_vr",
+        "location": "vr ",
+        "streaming": {
+            "accountId": "703714042778234886",
+            "channel": {
+                "id": "781271784430247938",
+                "accountId": "703714042778234886",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.God3i5gNkGWQ.m3u8",
+                "chatRoomId": "781271978119012352",
+                "status": 2,
+                "version": 338,
+                "createdAt": 1747764068000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "781271784430247939",
+                    "historyId": "969446991794819072",
+                    "channelId": "781271784430247938",
+                    "accountId": "703714042778234886",
+                    "title": "~✦ Needy priv strem ♡ !tipmenu !discord !socials !throne",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 2972,
+                    "createdAt": 1747764068000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792640521000,
+                    "startedAt": 1792628534000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "968032134444888064",
+                                "streamId": "781271784430247939",
+                                "type": 0,
+                                "flags": 130,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"937974836943138816\\\",\\\"label\\\":\\\"Private Stream T4\\\"}\"}"
+                            },
+                            {
+                                "id": "968032134444888065",
+                                "streamId": "781271784430247939",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"955757598978625537\\\",\\\"label\\\":\\\"Bot\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T14:28:49Z"
+    }
+}

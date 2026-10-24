@@ -1,0 +1,99 @@
+{
+    "bio": "cuban gremlin vtuber 🖤 asmr menace | kissies, lickies & nommies included",
+    "twitch": {
+        "id": "48337179",
+        "login": "meayagremlina",
+        "displayName": "MeayaGremlina",
+        "createdAt": "2013-08-30T18:23:25.106754Z",
+        "updatedAt": "2026-09-18T20:17:29.695111Z",
+        "description": "cuban gremlin vtuber 🖤 asmr menace | kissies, lickies & nommies included",
+        "primaryColorHex": "3C0100",
+        "followers": {
+            "totalCount": 7664
+        },
+        "follows": {
+            "totalCount": 68
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-10-10T10:05:32.729162Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8a85619-1a5e-43aa-929f-305de61e1bdf-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/99e1ce72-615e-48c3-b27a-371e60dcf302-profile_banner-480.png",
+        "fetchedAt": "2026-10-24T14:28:30Z"
+    },
+    "twitter": {
+        "meayagremlina34": {
+            "id": null,
+            "handle": "meayagremlina34",
+            "displayName": "MeayaGremlina",
+            "description": "Chaotic Cuban Gremlin 🇨🇺 #VTuber | #Lewdtuber 🔞 Verified Menace. Certified Pet. { 2D 🎨 @shaacwan }💌 meayagremlina@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1874015920420528128/MRwDEbMJ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1339689653524426756/1735635239/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/meayagremlina34",
+            "fetchedAt": "2026-10-24T14:28:39Z"
+        }
+    },
+    "fansly": {
+        "id": "332440522402570240",
+        "username": "MeayaGremlina",
+        "displayName": "Meaya Gremlina",
+        "version": 48,
+        "followCount": 35137,
+        "statusId": 3,
+        "accountMediaLikes": 38774,
+        "postLikes": 33875,
+        "about": "💻 Cuban Gremlin | Scary. Caffeinated. Definitely 6'9.\n🎮 Streams: Days that end in \"y\" (around 9pm est…ish)\n📸 IRL lewds (sometimes nude-ish)\n🌐 https://meayagremlina.carrd.co",
+        "location": "onlygremlins.com",
+        "streaming": {
+            "accountId": "332440522402570240",
+            "channel": {
+                "id": "378858949975224320",
+                "accountId": "332440522402570240",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.H2ARhQHeft6s.m3u8",
+                "chatRoomId": "379135462578593792",
+                "status": 2,
+                "version": 199,
+                "createdAt": 1651821372000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "378858949975224321",
+                    "historyId": "970255293642469376",
+                    "channelId": "378858949975224320",
+                    "accountId": "332440522402570240",
+                    "title": "i stole your dino nuggies 🦖 !tip !socials",
+                    "status": 1,
+                    "viewerCount": 58,
+                    "version": 3817,
+                    "createdAt": 1651821372000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792824093000,
+                    "startedAt": 1792821248000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "961420616420827136",
+                                "streamId": "378858949975224321",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T14:28:49Z"
+    }
+}

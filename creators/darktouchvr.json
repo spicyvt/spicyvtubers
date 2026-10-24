@@ -1,0 +1,99 @@
+{
+    "bio": "Mute Mute Mute",
+    "twitch": {
+        "id": "795830847",
+        "login": "darktouchvr",
+        "displayName": "darktouchvr",
+        "createdAt": "2022-05-18T22:35:09.258723Z",
+        "updatedAt": "2023-08-29T11:14:30.117827Z",
+        "description": "Mute Mute Mute",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 194
+        },
+        "follows": {
+            "totalCount": 11
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2023-02-26T22:28:42.062436Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/714524e7-88de-4a06-aebe-9fb5e53e8988-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ea6d74d3-e044-4ae4-821a-f8594c8271aa-profile_banner-480.png",
+        "fetchedAt": "2026-10-24T14:28:32Z"
+    },
+    "twitter": {
+        "darktouchvr": {
+            "id": null,
+            "handle": "darktouchvr",
+            "displayName": "DarkTouch",
+            "description": "|| She/Her || NSFW +18 profile ||\nAll my NSFW Content is created in ChilloutVR\nI am not interested in RP\n\nYou can find a lot of more stuff on my fansly~",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1807921178385829888/Ub3YlMMx_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1518953094876389377/1655393766/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/DarkTouchVR",
+            "fetchedAt": "2026-10-24T14:28:41Z"
+        }
+    },
+    "fansly": {
+        "id": "368367284571353088",
+        "username": "DarkTouchVR",
+        "displayName": "DarkTouchVR",
+        "version": 9,
+        "followCount": 33509,
+        "statusId": 3,
+        "accountMediaLikes": 74280,
+        "postLikes": 78197,
+        "about": "Finally started with Fansly! \n",
+        "location": "Your dreams",
+        "streaming": {
+            "accountId": "368367284571353088",
+            "channel": {
+                "id": "453743320401719296",
+                "accountId": "368367284571353088",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hGVhSUFzFrOz.m3u8",
+                "chatRoomId": "453743539860283392",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1669675197000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "453743320401719297",
+                    "historyId": "965818167924387840",
+                    "channelId": "453743320401719296",
+                    "accountId": "368367284571353088",
+                    "title": "Dark Dark Dark Dark Dark Dark Dark Dark Dark Dark Dark Dark Dark Dark Dark Dark Dark Dark Dark Dark ",
+                    "status": 1,
+                    "viewerCount": 41,
+                    "version": 6744,
+                    "createdAt": 1669675198000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1791769689000,
+                    "startedAt": 1791763355000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "776206484257124353",
+                                "streamId": "453743320401719297",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-24T14:28:49Z"
+    }
+}
