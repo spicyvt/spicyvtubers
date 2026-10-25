@@ -1,0 +1,113 @@
+{
+    "bio": "If you’ve come to get glorped you have arrived at the right place",
+    "twitch": {
+        "id": "29713714",
+        "login": "slimeboyseaker",
+        "displayName": "SlimeboySeaker",
+        "createdAt": "2012-04-11T21:32:11.364304Z",
+        "updatedAt": "2026-10-24T22:59:54.265762Z",
+        "description": "If you’ve come to get glorped you have arrived at the right place ",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 354
+        },
+        "follows": {
+            "totalCount": 219
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-25T02:13:13.735384Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ebe4fab6-fb6e-4959-9248-fb94f91e9fab-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b21969cb-c020-4ced-9415-c026b06a5c45-profile_banner-480.png",
+        "fetchedAt": "2026-10-25T15:53:47Z"
+    },
+    "twitter": {
+        "slimeboyseak": {
+            "id": null,
+            "handle": "slimeboyseak",
+            "displayName": "Slimeboy Seaker",
+            "description": "An escaped Wizard’s experiment, Slime boy VTuber!\n\nThrone: https://t.co/bdZQlYlhvO\n\nModel by @CyberLeyzi\n\nPFP by @HinakoKanna\n\n18+ @nighttimeslime",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2017028274405163008/S9bQOIIq_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1920846223721873408/1749845929/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/SlimeboySeak",
+            "fetchedAt": "2026-10-25T15:53:49Z"
+        },
+        "nighttimeslime": {
+            "id": null,
+            "handle": "nighttimeslime",
+            "displayName": "Night Time Slime",
+            "description": "The Slimeboys secret night time activites MDNI 18+ only  go to my main account for stream shit @SlimeboySeak\n\nSo I did this: https://t.co/wG5pSpnrkO",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2088992881897881600/f0eTsogc_400x400.jpg",
+            "bannerImageUrl": null,
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nighttimeslime",
+            "fetchedAt": "2026-10-25T15:53:50Z"
+        }
+    },
+    "fansly": {
+        "id": "933406119890530304",
+        "username": "slimeboyseaker",
+        "displayName": "SlimeboySeaker",
+        "version": 12,
+        "followCount": 49,
+        "statusId": 1,
+        "accountMediaLikes": 108,
+        "postLikes": 52,
+        "about": "Slimeboy Vtuber\n\nTop/Dom\n\nIf you come into my dms and try to top me, you're gonna be leave very upset\n\nDM me for customs ^~^\n\nCustoms Options:\n\nPics\nVideo\nASMR",
+        "location": "",
+        "streaming": {
+            "accountId": "933406119890530304",
+            "channel": {
+                "id": "959177617007714304",
+                "accountId": "933406119890530304",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7zELdIZa2D0T.m3u8",
+                "chatRoomId": "959179483405905920",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1790180124000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "959177617007714305",
+                    "historyId": "968263133292404740",
+                    "channelId": "959177617007714304",
+                    "accountId": "933406119890530304",
+                    "title": "Slimeboy tries to finish a game while chat gets more and more needy?",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 48,
+                    "createdAt": 1790180124000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792346294000,
+                    "startedAt": 1792346280000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "959179092245114880",
+                                "streamId": "959177617007714305",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-25T15:53:52Z"
+    }
+}
