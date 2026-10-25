@@ -1,0 +1,113 @@
+{
+    "bio": "Meow",
+    "twitch": {
+        "id": "54247176",
+        "login": "fantasymango",
+        "displayName": "fantasymango",
+        "createdAt": "2014-01-01T20:43:39.590855Z",
+        "updatedAt": "2026-10-13T22:05:17.198486Z",
+        "description": "Meow ",
+        "primaryColorHex": "FFA880",
+        "followers": {
+            "totalCount": 504
+        },
+        "follows": {
+            "totalCount": 167
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-13T23:03:10.000127Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba23a4f9-ba08-4285-8898-482ab5829dfe-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2323cc4a-7e4b-4170-974b-39907e717ebb-profile_banner-480.png",
+        "fetchedAt": "2026-10-25T13:01:55Z"
+    },
+    "twitter": {
+        "fantasymangu": {
+            "id": null,
+            "handle": "fantasymangu",
+            "displayName": "mango 🥭🫰🏼",
+            "description": "He/Him🥭 |🔞| Sick nasty overall tbh 😎 | 🧡🩵\n\nAvatar Affiliate for @HoloExe &amp; @CastellVR\nhttps://t.co/NWP6hD3bZB\nNSFW: @mangoNSFW",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2113727839711494144/S-2FAz0e_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1379653824416149507/1792786963/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/FantasyMangu",
+            "fetchedAt": "2026-10-25T13:01:59Z"
+        },
+        "mangonsfw": {
+            "id": null,
+            "handle": "mangonsfw",
+            "displayName": "MangoNSFW🥭",
+            "description": "NSFW ACCOUNT 🔞😌✌️18+ only || He/Him\nSFW: @fantasymangu Find me here: https://t.co/UEm4ibuZxi\n\n@HoloExe &amp; @CastellVR Avatars Affiliate",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2031877572485894144/5Lr9iJzp_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1779219119457570816/1773272324/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mangoNSFW",
+            "fetchedAt": "2026-10-25T13:02:01Z"
+        }
+    },
+    "fansly": {
+        "id": "362453506969317376",
+        "username": "fantasymango",
+        "displayName": null,
+        "version": 6,
+        "followCount": 22264,
+        "statusId": 3,
+        "accountMediaLikes": 26363,
+        "postLikes": 11162,
+        "about": "🎥 I stream every Monday, Wednesday, Thursday, Friday (Around 11 AM PST)\n\n📸I also make Amateur style videos/clips \n\n📩 I do respond to DMs, but please be patient with me. Subs/tips get DM priority\n🍆I do dick ratings for $15 (Written response)\n\n🧡 Pansexual - I don't care what you're packing as long as I get to taste~\n💙 Yummy Voiced Switch\n\n⚠️ https://x.com/mangoNSFW ⚠️",
+        "location": "Your Mum's ",
+        "streaming": {
+            "accountId": "362453506969317376",
+            "channel": {
+                "id": "673341575425695744",
+                "accountId": "362453506969317376",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BG86wlPN4stO.m3u8",
+                "chatRoomId": "673341606761340930",
+                "status": 2,
+                "version": 286,
+                "createdAt": 1722031501000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "673341575425695745",
+                    "historyId": "969723567845429248",
+                    "channelId": "673341575425695744",
+                    "accountId": "362453506969317376",
+                    "title": "Dark magic attack !links",
+                    "status": 1,
+                    "viewerCount": 91,
+                    "version": 5410,
+                    "createdAt": 1722031502000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792705668000,
+                    "startedAt": 1792694475000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "953452062866169856",
+                                "streamId": "673341575425695745",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-25T13:02:02Z"
+    }
+}
