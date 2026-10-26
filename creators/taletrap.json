@@ -1,0 +1,90 @@
+{
+    "bio": "Italian purple cat doing silly purple things~Business E-Mail: Taletrap@proton.me",
+    "twitch": {
+        "id": "453919971",
+        "login": "taletrap",
+        "displayName": "Taletrap",
+        "createdAt": "2019-08-11T09:10:58.656233Z",
+        "updatedAt": "2026-10-23T15:17:35.996377Z",
+        "description": "Italian purple cat doing silly purple things~Business E-Mail: Taletrap@proton.me",
+        "primaryColorHex": "880962",
+        "followers": {
+            "totalCount": 12550
+        },
+        "follows": {
+            "totalCount": 167
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-23T18:25:08.961778Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8ba2343-d2df-42f5-ad5f-dfec9995d2df-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4a1160a-1567-4cff-bc5d-81c0bbaf70f5-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T02:08:03Z"
+    },
+    "twitter": {
+        "taletrap_": {
+            "id": null,
+            "handle": "taletrap_",
+            "displayName": "Tale",
+            "description": "Hi I&#x27;m Tale.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2022775229576032257/1IRzXIZk_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1163888139934535680/1771102332/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Taletrap_",
+            "fetchedAt": "2026-10-26T02:08:06Z"
+        }
+    },
+    "fansly": {
+        "id": "682695583474921476",
+        "username": "YourTale",
+        "displayName": "Your Tale",
+        "version": 8,
+        "followCount": 11539,
+        "statusId": 1,
+        "accountMediaLikes": 45817,
+        "postLikes": 38658,
+        "about": "Your one and only Tale and her little secrets to share with you💕\n\n💞 LINKS: https://linktr.ee/Taletrap 💞\n💞 BUY Toys 50%OFF: https://www.lovense.com/r/oc2f10 💞\n💞DISCORD: https://discord.gg/96wAqCJvut 💞\n\nAll 3D models and character designs on this page are 100% synthetic, fictional creations. Every character including animated and illustrated works is designed with a mature profile and is strictly depicted as an adult (18+).",
+        "location": "Italy ",
+        "streaming": {
+            "accountId": "682695583474921476",
+            "channel": {
+                "id": "739128790390681600",
+                "accountId": "682695583474921476",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.eGQLJkdhiZQb.m3u8",
+                "chatRoomId": "739128864550170625",
+                "status": 2,
+                "version": 102,
+                "createdAt": 1737716396000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "739128790390681601",
+                    "historyId": "970498778328997889",
+                    "channelId": "739128790390681600",
+                    "accountId": "682695583474921476",
+                    "title": "Last Ghostly Stream👻 ~ Maybe Special Guest💕 $100 for MAX mode !menu !discord !socials",
+                    "status": 1,
+                    "viewerCount": 121,
+                    "version": 3680,
+                    "createdAt": 1737716396000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792888962000,
+                    "startedAt": 1792879299000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-26T02:08:11Z"
+    }
+}
