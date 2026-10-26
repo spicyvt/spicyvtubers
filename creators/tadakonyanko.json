@@ -5,11 +5,11 @@
         "login": "tadakonyanko",
         "displayName": "TadakoNyanko",
         "createdAt": "2022-02-08T19:36:37.315851Z",
-        "updatedAt": "2026-06-19T03:24:25.266399Z",
+        "updatedAt": "2026-10-03T01:57:06.38504Z",
         "description": "https://linktr.ee/TadakoNyanko",
         "primaryColorHex": "F500FF",
         "followers": {
-            "totalCount": 1346
+            "totalCount": 1353
         },
         "follows": {
             "totalCount": 24
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dbb989f9-ef7b-4ad1-bc0b-58a5c29061d2-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9d6acf6-e1fc-4d5b-9df4-9a043a757b39-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:48:48Z"
+        "fetchedAt": "2026-10-26T13:50:14Z"
     },
     "fansly": {
         "id": "347550937545449472",
         "username": "NyankoTadako",
         "displayName": "Tadako Nyanko",
         "version": 9,
-        "followCount": 13771,
+        "followCount": 15753,
         "statusId": 1,
-        "accountMediaLikes": 2045,
-        "postLikes": 3156,
+        "accountMediaLikes": 2178,
+        "postLikes": 3218,
         "about": "Fansly Top 0.23% \nWill you be my Master?\n♡ Links | http://linktr.ee/TadakoNyanko\n♡ Wishlist | https://throne.com/tadakonyanko\n♡ Twitch | https://www.twitch.tv/tadakonyanko",
         "location": "Japan",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2u0eaGCnQQc2.m3u8",
                 "chatRoomId": "566907326599016448",
                 "status": 2,
-                "version": 32,
+                "version": 33,
                 "createdAt": 1696655540000,
                 "updatedAt": null,
                 "stream": {
                     "id": "566907081077039105",
-                    "historyId": "946489132991918080",
+                    "historyId": "971114729445539840",
                     "channelId": "566907081077039104",
                     "accountId": "347550937545449472",
                     "title": "$16 ULTRA HIGH random time ~ best way to make me squirt tip $100",
-                    "status": 1,
-                    "viewerCount": 6,
-                    "version": 571,
+                    "status": 2,
+                    "viewerCount": 9,
+                    "version": 872,
                     "createdAt": 1696655541000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1787156660000,
-                    "startedAt": 1787154954000,
+                    "lastFetchedAt": 1793026821000,
+                    "startedAt": 1793026153000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:53Z"
+        "fetchedAt": "2026-10-26T15:00:43Z"
     },
     "twitter": {
         "nyankotadako": {
-            "id": "1490873405498957831",
+            "id": null,
             "handle": "nyankotadako",
-            "displayName": "TadakoNyanko",
-            "description": "👅Indie LewdVtuber\n💦Follow for 😳🥵\n😈Top 0.23 Nyansly😈\n(Oshi Mark! 💜👾🎀)\n💢I do 99% of my model\nFan Arts #TadakoNyarts",
+            "displayName": "Tadako Nyanko VT +18",
+            "description": "👅Indie LewdVtuber\n💦Follow for 😳🥵\n😈Top 0.23 Nyansly😈\n💢I do 99% of my model\n@TadakoNyanko Main",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2012001090523303936/mCXBZPri_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1490873405498957831/1768533464/1500x500",
-            "followersCount": 4469,
-            "followingCount": 1850,
-            "postsCount": 7285,
-            "accountCreatedAt": "2022-02-08T02:22:24.686Z",
-            "profileUrl": "https://x.com/NyankoTadako",
-            "fetchedAt": "2026-08-19T16:25:35Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nyankotadako",
+            "fetchedAt": "2026-10-26T14:32:28Z"
         }
     }
 }

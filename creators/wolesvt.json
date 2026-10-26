@@ -5,72 +5,72 @@
         "login": "wolesvt",
         "displayName": "WolesVT",
         "createdAt": "2013-11-22T00:34:24.96862Z",
-        "updatedAt": "2026-08-06T17:32:50.572823Z",
+        "updatedAt": "2026-10-20T17:15:23.077829Z",
         "description": "Demon raccoon gremlin hours",
         "primaryColorHex": "EB0400",
         "followers": {
-            "totalCount": 989
+            "totalCount": 1021
         },
         "follows": {
-            "totalCount": 374
+            "totalCount": 376
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-06T21:16:53.96692Z"
+            "startedAt": "2026-10-20T20:50:58.784628Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b339449-4e45-41fe-827f-4c8b09210105-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13ab9311-6ed3-4d24-96af-f4639d21c105-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:47:09Z"
+        "fetchedAt": "2026-10-26T13:48:36Z"
     },
     "fansly": {
         "id": "751306940121886722",
         "username": "WolesVT",
         "displayName": null,
         "version": 4,
-        "followCount": 1377,
+        "followCount": 1553,
         "statusId": 1,
-        "accountMediaLikes": 2076,
-        "postLikes": 1533,
-        "about": "Helo! I'm Woles, a 25yo demon raccoon vtuber, artist, and Live2D rigger! Your 4'10\" horny egirl :3 \n\n**VIP Raccoons get a free pic request via DMs once a month! All other requests are closed until further notice!**\n",
+        "accountMediaLikes": 2351,
+        "postLikes": 1682,
+        "about": "Helo! I'm Woles, a 25yo demon raccoon vtuber, artist, and Live2D rigger! Your 4'10\" horny egirl :3\n",
         "location": "",
         "streaming": {
             "accountId": "751306940121886722",
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:37Z"
+        "fetchedAt": "2026-10-26T15:00:26Z"
     },
     "twitter": {
         "wolesvt": {
-            "id": "1102135455812911104",
+            "id": null,
             "handle": "wolesvt",
             "displayName": "Woles 😈🦝",
-            "description": "🔞 Helo! I'm Woles, a feet posting demon raccoon vtuber, artist, and rigger! ✨ | ママ: @wuwuliny | Banner: @sllushe | PFP: @ivanov_aart | NSFW art: @WolesHoles",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2010061097043120128/Zu4V8aje_400x400.jpg",
+            "description": "🔞 Helo! I&#x27;m Woles, a feet posting demon raccoon vtuber, artist, and rigger! ✨ | ママ: @wuwuliny | Banner: @sllushe | PFP: @YokoYume5 | NSFW art: @WolesHoles",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2107581532298764288/di8XFPWM_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1102135455812911104/1759256399/1500x500",
-            "followersCount": 19334,
-            "followingCount": 889,
-            "postsCount": 2910,
-            "accountCreatedAt": "2019-03-03T09:15:44.133Z",
-            "profileUrl": "https://x.com/WolesVT",
-            "fetchedAt": "2026-08-19T16:22:43Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/wolesvt",
+            "fetchedAt": "2026-10-26T14:29:18Z"
         },
         "wolesirl": {
-            "id": "1912672861757620224",
+            "id": null,
             "handle": "wolesirl",
             "displayName": "Woles NSFW 🦝💦",
-            "description": "🔞MINORS DNI | egirl spicy account of @WolesVT | 25, 4'10 and horny 24/7 uwu | Like what you see? Spoil me here! https://t.co/pUeg58KhJE :3 Sexy link below~",
+            "description": "🔞MINORS DNI | egirl spicy account of @WolesVT | 25, 4&#x27;10 and horny 24/7 uwu | Like what you see? Spoil me here! https://t.co/pUeg58KhJE :3 Sexy link below~",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2055431794514702336/ggWNHvot_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1912672861757620224/1769758520/1500x500",
-            "followersCount": 7211,
-            "followingCount": 26,
-            "postsCount": 132,
-            "accountCreatedAt": "2025-04-17T01:02:10.519Z",
-            "profileUrl": "https://x.com/WolesIRL",
-            "fetchedAt": "2026-08-19T16:22:44Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/wolesirl",
+            "fetchedAt": "2026-10-26T14:29:21Z"
         }
     }
 }

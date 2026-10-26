@@ -5,58 +5,95 @@
         "login": "avisn0w",
         "displayName": "AviSn0w",
         "createdAt": "2024-01-10T10:21:55.256304Z",
-        "updatedAt": "2026-08-18T22:02:45.060078Z",
+        "updatedAt": "2026-10-24T03:07:16.464395Z",
         "description": "Hey there cuties~ Looking to share my passions and a variety of games with my viewers. I hope you all enjoy the streams and have fun!",
         "primaryColorHex": "341C5C",
         "followers": {
-            "totalCount": 3569
+            "totalCount": 3833
         },
         "follows": {
-            "totalCount": 139
+            "totalCount": 160
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T01:01:07.006466Z"
+            "startedAt": "2026-10-24T04:57:19.608038Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/420b9f65-7380-4235-ae59-88eebeefafe5-profile_image-300x300.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6daac07c-d94d-4426-9931-5404e8b6b03f-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:46:36Z"
+        "fetchedAt": "2026-10-26T13:48:02Z"
     },
     "fansly": {
         "id": "721702255572558324",
         "username": "avisnow",
         "displayName": "Avi Snow",
         "version": 4,
-        "followCount": 165,
+        "followCount": 353,
         "statusId": 1,
-        "accountMediaLikes": 29,
-        "postLikes": 49,
+        "accountMediaLikes": 51,
+        "postLikes": 69,
         "about": "Hey everyone deciding to try this site out for more lewd content. I am exploring and learning this space so expect some hiccups and changes as we navigate this space. \n\nExpect monthly posts for content!\n\nHere are the rest of my links~\nhttps://avisnow.carrd.co/",
         "location": "",
         "streaming": {
             "accountId": "721702255572558324",
-            "channel": null,
+            "channel": {
+                "id": "955741956590288896",
+                "accountId": "721702255572558324",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.gB9do2JoynlK.m3u8",
+                "chatRoomId": "955744405136887808",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1789360999000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "955741956590288897",
+                    "historyId": "970241164508688384",
+                    "channelId": "955741956590288896",
+                    "accountId": "721702255572558324",
+                    "title": " Wolfie and I play Minecraft together toys incluided  (vrchat broke my hand)",
+                    "status": 1,
+                    "viewerCount": 23,
+                    "version": 30,
+                    "createdAt": 1789360999000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792824793000,
+                    "startedAt": 1792817879000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "959857369129435136",
+                                "streamId": "955741956590288897",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:31Z"
+        "fetchedAt": "2026-10-26T15:00:20Z"
     },
     "twitter": {
         "avisn0w": {
-            "id": "1765773498147049472",
+            "id": null,
             "handle": "avisn0w",
             "displayName": "Avi Snow ❄️🐆 Leopard Vtuber",
             "description": "Snow Leopard Mom | She/Her | YouTube Partner and Twitch Affiliate \nhttps://t.co/j1ymxcsTSz \nPowered by @ADVANCEDgg code Snowble\n\nBusiness: avisn0w.business@gmai",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2075227241022357504/z2d4poGB_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1765773498147049472/1783607705/1500x500",
-            "followersCount": 5440,
-            "followingCount": 604,
-            "postsCount": 2389,
-            "accountCreatedAt": "2024-03-07T16:16:53.268Z",
-            "profileUrl": "https://x.com/AviSn0w",
-            "fetchedAt": "2026-08-19T16:21:52Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/avisn0w",
+            "fetchedAt": "2026-10-26T14:28:26Z"
         }
     }
 }

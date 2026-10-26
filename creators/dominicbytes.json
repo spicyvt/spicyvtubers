@@ -5,55 +5,55 @@
         "login": "dominicbytes",
         "displayName": "DominicBytes",
         "createdAt": "2022-01-19T19:25:18.911884Z",
-        "updatedAt": "2026-08-18T02:46:41.406806Z",
+        "updatedAt": "2026-10-24T00:30:46.608027Z",
         "description": "Greetings! I am Dominic Bytes, the synth walker. I hail from the distant future. Where brains occupy robot bodies, time travel is a trip to the corner store, and the neon glow of our attire is powered by the light of our souls. Join me on a 1.21 gigawatt powered journey of chill vibes!",
         "primaryColorHex": "4B098A",
         "followers": {
-            "totalCount": 617
+            "totalCount": 633
         },
         "follows": {
-            "totalCount": 774
+            "totalCount": 808
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T04:13:35.555311Z"
+            "startedAt": "2026-10-24T01:55:32.303407Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22955af9-fb97-4d4d-b50d-d627dc07579d-profile_image-300x300.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/394dcef6-d935-47c0-bb12-d4ffa242ff14-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:58:18Z"
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1913153-8741-4937-91a8-ed05ba103ab8-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T13:59:48Z"
     },
     "twitter": {
         "dominicbytes": {
-            "id": "1818385924377460736",
+            "id": null,
             "handle": "dominicbytes",
             "displayName": "Dominic Bytes - Cyber Synthwave VTuber!",
             "description": "The Synth Walker. EN VTuber from a distant future. Join me on a 1.21 gigawatt powered journey of chill vibes! | 18+ Minors DNI",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1978714426829045760/aspyBZO8_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1818385924377460736/1766700932/1500x500",
-            "followersCount": 494,
-            "followingCount": 1043,
-            "postsCount": 4009,
-            "accountCreatedAt": "2024-07-30T20:39:30.310Z",
-            "profileUrl": "https://x.com/DominicBytes",
-            "fetchedAt": "2026-08-19T16:40:26Z"
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1818385924377460736/1788400354/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/dominicbytes",
+            "fetchedAt": "2026-10-26T14:48:08Z"
         }
     },
     "bluesky": {
         "did": "did:plc:h7lxd74oadxy6ccnwxqdg7dv",
         "handle": "dominiquebytes.bsky.social",
         "displayName": "Dominique Bytes - Cyber Bimbo Slut",
-        "description": "NSFW. I am 18+ and you need to be, too. TW: Heavy kinks. The streams are real, the posts are fantasy. DM's open.\n\nhttps://fansly.com/DominiqueBytes/\nhttps://dominicbytes.carrd.co/\n\nSFW: @dominicbytes.vtubers.social",
+        "description": "NSFW. I am 18+ and you need to be, too. TW: Heavy kinks. The streams are real, the posts are fantasy. DM's open.\n\nSFW: @dominicbytes.vtubers.social",
         "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:h7lxd74oadxy6ccnwxqdg7dv/bafkreigbpwpxsiez4xi7jz4oymfl4v362ul4vjtvxrz3clo3ttalnga5gm",
         "bannerImageUrl": null,
-        "followersCount": 718,
-        "followingCount": 750,
-        "postsCount": 656,
+        "followersCount": 743,
+        "followingCount": 772,
+        "postsCount": 685,
         "accountCreatedAt": "2024-12-31T20:07:34.144Z",
         "profileUrl": "https://bsky.app/profile/dominiquebytes.bsky.social",
-        "fetchedAt": "2026-08-19T16:44:22Z"
+        "fetchedAt": "2026-10-26T14:58:03Z"
     },
     "rplay": {
         "id": "685a2bb8b810a3af3094bd3a",
@@ -76,8 +76,8 @@
         "channelLanguage": "en",
         "isLivestreamer": true,
         "customUrl": null,
-        "channelImage": null,
-        "streamStartTime": "2026-08-15T01:53:32.000Z",
-        "fetchedAt": "2026-08-19T16:50:38Z"
+        "channelImage": "https://pb3.rplay.live/pics/a87b4e18461d08aaa98163cda843bb8a",
+        "streamStartTime": "2026-10-24T00:33:50.000Z",
+        "fetchedAt": "2026-10-26T15:04:38Z"
     }
 }

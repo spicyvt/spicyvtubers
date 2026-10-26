@@ -5,40 +5,40 @@
         "login": "opaluva",
         "displayName": "OpaluVA",
         "createdAt": "2021-03-31T01:46:14.439729Z",
-        "updatedAt": "2026-08-26T18:26:52.199416Z",
+        "updatedAt": "2026-10-19T00:08:53.57096Z",
         "description": "voice actress casino demon who sometimes play games and streams?? wow!!! ",
         "primaryColorHex": "00F0F0",
         "followers": {
-            "totalCount": 3619
+            "totalCount": 3660
         },
         "follows": {
-            "totalCount": 165
+            "totalCount": 167
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-13T06:03:45.670892Z"
+            "startedAt": "2026-10-19T05:10:52.417311Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/274bbcfc-e536-4c7b-b240-3caa6a34acb6-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/33e565d3-948c-4a14-b77c-98d1b2c48373-profile_banner-480.png",
-        "fetchedAt": "2026-08-26T20:39:37Z"
+        "fetchedAt": "2026-10-26T14:02:23Z"
     },
     "twitter": {
         "opaluva": {
-            "id": "1336155329101434883",
+            "id": null,
             "handle": "opaluva",
             "displayName": "OpaluVA 🎰💙🔞",
             "description": "🔞 18+ only! i post SFW and 18+ here!\nNSFW/SFW voice actress + vtuber! 🎰💙\ncomms closed (open for mutuals)!\ncomm info + sites: https://t.co/6h3Azt8uCV",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2081902071855382528/4wb3Teai_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1336155329101434883/1758238631/1500x500",
-            "followersCount": 250436,
-            "followingCount": 1296,
-            "postsCount": 22689,
-            "accountCreatedAt": "2020-12-08T03:47:16.674Z",
-            "profileUrl": "https://x.com/OpaluVA",
-            "fetchedAt": "2026-08-26T20:39:39Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/opaluva",
+            "fetchedAt": "2026-10-26T14:52:36Z"
         }
     },
     "fansly": {
@@ -46,10 +46,10 @@
         "username": "opalu",
         "displayName": null,
         "version": 6,
-        "followCount": 1238,
+        "followCount": 1260,
         "statusId": 1,
         "accountMediaLikes": 188,
-        "postLikes": 424,
+        "postLikes": 426,
         "about": "hello! i'm opalu, i create audios for your ears (and hopefully other parts if i'm doing my job right) to enjoy! i hope you feel warm listening to them. 💙",
         "location": "",
         "streaming": {
@@ -57,6 +57,6 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-26T20:39:41Z"
+        "fetchedAt": "2026-10-26T15:02:17Z"
     }
 }

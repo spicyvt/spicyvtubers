@@ -5,32 +5,32 @@
         "login": "gildedsiren",
         "displayName": "GildedSiren",
         "createdAt": "2021-04-08T00:59:51.206798Z",
-        "updatedAt": "2026-08-18T23:21:17.864213Z",
+        "updatedAt": "2026-10-23T16:37:42.548976Z",
         "description": "50% Real, 50% Monster, 0% Seiso | They/Them/Fae/Faer | 18+",
         "primaryColorHex": "004A6E",
         "followers": {
-            "totalCount": 876
+            "totalCount": 891
         },
         "follows": {
-            "totalCount": 721
+            "totalCount": 740
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T02:04:37.89819Z"
+            "startedAt": "2026-10-24T01:42:57.654339Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b170c3e8-9bbe-4f17-bc8e-8a3c9db85931-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/db3d805b-b52d-4a04-9a84-9335ad3e2b63-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:59:40Z"
+        "fetchedAt": "2026-10-26T14:01:10Z"
     },
     "fansly": {
         "id": "285553743854837760",
         "username": "GildedSiren",
         "displayName": null,
         "version": 3,
-        "followCount": 104,
+        "followCount": 103,
         "statusId": 1,
         "accountMediaLikes": 77,
         "postLikes": 165,
@@ -41,20 +41,20 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:48:15Z"
+        "fetchedAt": "2026-10-26T15:02:06Z"
     },
     "bluesky": {
         "did": "did:plc:ic7clv7zerf5ajhhhak7zul4",
         "handle": "gildedsiren.bsky.social",
         "displayName": "🏳️‍⚧️Siren🧂 | (VTuber + VA)",
         "description": "🔞| FUCK AI | Sovereign of Salt | They/Fae | Chronically Bubble Brained | 🎨 #VSirenArt\n\nTwitch.tv/GildedSiren\n\nCommissions - 🟢OPEN🟢: https://vgen.co/GildedSiren",
-        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ic7clv7zerf5ajhhhak7zul4/bafkreifms6v6blsgunyvtplllyx3cax4wqf543dpfwl6f5fxw3ybbt67sm",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ic7clv7zerf5ajhhhak7zul4/bafkreic4ggarlcbqawzozkqi6sulooqcnp6hjvgnfjd7tjcdvk2ww57nmm",
         "bannerImageUrl": null,
-        "followersCount": 1590,
-        "followingCount": 1202,
-        "postsCount": 4531,
+        "followersCount": 1650,
+        "followingCount": 1243,
+        "postsCount": 4840,
         "accountCreatedAt": "2023-10-29T23:31:53.753Z",
         "profileUrl": "https://bsky.app/profile/GildedSiren.bsky.social",
-        "fetchedAt": "2026-08-19T16:44:26Z"
+        "fetchedAt": "2026-10-26T14:58:07Z"
     }
 }

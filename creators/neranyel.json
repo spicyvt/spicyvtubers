@@ -5,35 +5,35 @@
         "login": "neranyel",
         "displayName": "Neranyel",
         "createdAt": "2019-12-03T03:42:32.596448Z",
-        "updatedAt": "2026-08-17T05:13:45.334856Z",
+        "updatedAt": "2026-10-25T23:59:56.667028Z",
         "description": "Brujita de la época victoriana, especializada en la magia de las boobas.",
         "primaryColorHex": "FA2929",
         "followers": {
-            "totalCount": 4860
+            "totalCount": 4901
         },
         "follows": {
-            "totalCount": 283
+            "totalCount": 298
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T07:37:19.221679Z"
+            "startedAt": "2026-10-26T01:17:37.322708Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e3a778e-4fd9-4e8a-906a-8094ef1d63fd-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/59ed1945-b817-424c-bf62-9a886058cfdb-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:57:13Z"
+        "fetchedAt": "2026-10-26T13:58:42Z"
     },
     "fansly": {
         "id": "408681488591101952",
         "username": "Neranyel",
         "displayName": "Neranyel🪄",
         "version": 10,
-        "followCount": 1379,
+        "followCount": 1817,
         "statusId": 3,
-        "accountMediaLikes": 1998,
-        "postLikes": 452,
+        "accountMediaLikes": 2419,
+        "postLikes": 531,
         "about": "~Victorian witch🪄Want to see my magic tricks?❤️‍🔥~\nFREE Saturday streams, ERP, custom ASMR & videos for my Boobapostles🫦\n🔮Socials: beacons.ai/neranyel\n\n✨ ─── 𓂀 ─── ✨\n\n~Bruja victoriana🪄¿Quieres ver mis trucos de magia?❤️‍🔥~\nStreams GRATIS los sábados, ERP, ASMR y videos personalizados para mis Boobapóstoles 🫦\n🔮Redes: beacons.ai/neranyel",
         "location": "Argentina",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.6LRSc1LgjKI0.m3u8",
                 "chatRoomId": "745653845694099456",
                 "status": 2,
-                "version": 12,
+                "version": 13,
                 "createdAt": 1739272024000,
                 "updatedAt": null,
                 "stream": {
                     "id": "745653569453039617",
-                    "historyId": "946252041771053056",
+                    "historyId": "970594810576527360",
                     "channelId": "745653569453039616",
                     "accountId": "408681488591101952",
-                    "title": "ESP/ENG | Redhead with two BIG reasons to stay | VRChat ERP",
+                    "title": "ESP/ENG | Witch with two BIG reasons to stay |",
                     "status": 1,
-                    "viewerCount": 14,
-                    "version": 1470,
+                    "viewerCount": 15,
+                    "version": 1516,
                     "createdAt": 1739272024000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1787103788000,
-                    "startedAt": 1787098427000,
+                    "lastFetchedAt": 1792908092000,
+                    "startedAt": 1792902195000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,7 +78,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:54Z"
+        "fetchedAt": "2026-10-26T15:01:43Z"
     },
     "twitter": {
         "neranyelvt": {
@@ -91,9 +91,9 @@
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
-            "accountCreatedAt": "2021-09-11T00:18:20.018Z",
-            "profileUrl": "https://x.com/NeranyelVT",
-            "fetchedAt": "2026-08-19T16:38:49Z"
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/neranyelvt",
+            "fetchedAt": "2026-10-26T14:46:26Z"
         },
         "neranyelnsfw": {
             "id": null,
@@ -105,9 +105,9 @@
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
-            "accountCreatedAt": "2025-08-19T21:37:45.731Z",
-            "profileUrl": "https://x.com/NeranyelNSFW",
-            "fetchedAt": "2026-08-19T16:38:51Z"
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/neranyelnsfw",
+            "fetchedAt": "2026-10-26T14:46:28Z"
         }
     }
 }

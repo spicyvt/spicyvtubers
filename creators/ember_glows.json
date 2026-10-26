@@ -5,35 +5,35 @@
         "login": "ember_glows",
         "displayName": "ember_glows",
         "createdAt": "2024-03-17T23:30:16.623247Z",
-        "updatedAt": "2026-08-11T19:40:47.270562Z",
+        "updatedAt": "2026-10-20T04:21:00.709235Z",
         "description": "Nail tech possessed by a self-love demon. 40s/queer/AuDHD/total dork. 🔞MDNI",
         "primaryColorHex": "FF3880",
         "followers": {
-            "totalCount": 507
+            "totalCount": 512
         },
         "follows": {
-            "totalCount": 628
+            "totalCount": 626
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T22:56:57.871872Z"
+            "startedAt": "2026-10-20T07:38:28.861438Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/545fc2c0-5b32-4c31-a931-3ff1e4a6e67f-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e13b3bed-baa5-4c7f-bfc4-3ed2bd2c8deb-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:50:55Z"
+        "fetchedAt": "2026-10-26T13:52:21Z"
     },
     "fansly": {
         "id": "618350220844998656",
         "username": "ember_glows",
         "displayName": "Ember",
         "version": 11,
-        "followCount": 925,
+        "followCount": 933,
         "statusId": 3,
-        "accountMediaLikes": 2233,
-        "postLikes": 4824,
+        "accountMediaLikes": 2281,
+        "postLikes": 4907,
         "about": "🩷 Nail tech possessed by a self-love demon. 🩷\nI'm a sub leaning switch that loves to be used. Your bbw, big titty goth girlfriend with a nerdy side. Long nails, chill vibes, and a love for thigh high socks.\nStreams, audios, customs, and more. 😘\n\nPlease read my rules and boundaries! https://tinyurl.com/emberrules\nFind all my links here: https://ember-glows.carrd.co/",
         "location": "West Coast, USA",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "685579488846684161",
-                    "historyId": "941144308872929280",
+                    "historyId": "957815781054246912",
                     "channelId": "685579488846684160",
                     "accountId": "618350220844998656",
                     "title": "Playing PEAK with toy integration!",
                     "status": 1,
                     "viewerCount": 4,
-                    "version": 1958,
+                    "version": 1960,
                     "createdAt": 1724949248000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785889405000,
-                    "startedAt": 1785880648000,
+                    "lastFetchedAt": 1789862911000,
+                    "startedAt": 1789855437000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,7 +69,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:10Z"
+        "fetchedAt": "2026-10-26T15:00:59Z"
     },
     "bluesky": {
         "did": "did:plc:gsa7arm3l4c7f2iv2ksfxo4j",
@@ -78,11 +78,11 @@
         "description": "🔞AGE IN BIO OR BLOCKED🔞\nartist possessed by a self-love demon. \nLewdtuber/Twitch Affiliate.\n40s/AuDHD. Horny on main.\n🩷 adult content creator on fansly 🩷\npfp by @bunee.bsky.social\nhttps://ember-glows.carrd.com",
         "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gsa7arm3l4c7f2iv2ksfxo4j/bafkreie6smuyyg26uvoawt7lnb5h4nv6wl5tzayhgkzpe2ipircdn63bmi",
         "bannerImageUrl": null,
-        "followersCount": 1924,
-        "followingCount": 780,
-        "postsCount": 3128,
+        "followersCount": 1958,
+        "followingCount": 787,
+        "postsCount": 3224,
         "accountCreatedAt": "2024-03-25T06:33:43.106Z",
         "profileUrl": "https://bsky.app/profile/emberglows.bsky.social",
-        "fetchedAt": "2026-08-19T16:44:00Z"
+        "fetchedAt": "2026-10-26T14:57:39Z"
     }
 }

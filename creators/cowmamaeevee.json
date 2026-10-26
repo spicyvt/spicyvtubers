@@ -1,0 +1,90 @@
+{
+    "bio": "~Heyo my name is Eeevee and i am a newish streamer who plays a wide varity of games.~",
+    "twitch": {
+        "id": "111422387",
+        "login": "cowmamaeevee",
+        "displayName": "CowMamaEevee",
+        "createdAt": "2016-01-02T21:32:12.094734Z",
+        "updatedAt": "2026-08-23T23:25:01.535425Z",
+        "description": "~Heyo my name is Eeevee and i am a newish streamer who plays a wide varity of games.~",
+        "primaryColorHex": "FFFFFF",
+        "followers": {
+            "totalCount": 51
+        },
+        "follows": {
+            "totalCount": 20
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-08-07T03:50:50.599403Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c29b89ca-5820-4791-862b-09736f00f4e1-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bdb9cb9-5822-46fd-a8cb-af9b732d41df-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T15:45:42Z"
+    },
+    "twitter": {
+        "cowmamaeevee": {
+            "id": null,
+            "handle": "cowmamaeevee",
+            "displayName": "MooMama~eevee",
+            "description": "🔞22/ she/they // 🏳️‍⚧️ // Cvr // Minors DNI // \n\n~your local dommy/subby moommy here for all your lewd needs~\n\nhttps://t.co/QoLTBQArlE\nDiscord Below~",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085245760266706944/ijJejHDT_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1452735190170808332/1779209608/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/CowMamaEevee",
+            "fetchedAt": "2026-10-26T15:45:51Z"
+        }
+    },
+    "fansly": {
+        "id": "484272515770757120",
+        "username": "MooMamamaeevee",
+        "displayName": "MooMama~eevee",
+        "version": 6,
+        "followCount": 3476,
+        "statusId": 1,
+        "accountMediaLikes": 7597,
+        "postLikes": 8853,
+        "about": "~Hello im Eevee your local trans vr moo mama uwu~\n\nI do a wide variety of things and am open to suggestions!\n\ni hope you guys enjoy!!!\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "484272515770757120",
+            "channel": {
+                "id": "686957641167024128",
+                "accountId": "484272515770757120",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.gIVm9NVfkRJI.m3u8",
+                "chatRoomId": "686957690240380928",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1725277824000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "686957641167024129",
+                    "historyId": "922331091358982144",
+                    "channelId": "686957641167024128",
+                    "accountId": "484272515770757120",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 2354,
+                    "createdAt": 1725277824000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781398780000,
+                    "startedAt": 1781395228000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-26T15:46:02Z"
+    }
+}

@@ -9,7 +9,7 @@
         "description": "girlfail vtuber | hag who pretends to be young still | no i'm not homeless you're homeless!",
         "primaryColorHex": "140A09",
         "followers": {
-            "totalCount": 14
+            "totalCount": 16
         },
         "follows": {
             "totalCount": 28
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c07b5c06-5f86-4fa9-9054-cb848edcd5b7-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb6fa771-e35b-458a-b4e1-462ff969185c-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:47:06Z"
+        "fetchedAt": "2026-10-26T13:48:33Z"
     },
     "fansly": {
         "id": "708390522103803910",
         "username": "redmallard",
         "displayName": "Red",
         "version": 6,
-        "followCount": 248,
+        "followCount": 303,
         "statusId": 1,
-        "accountMediaLikes": 415,
-        "postLikes": 261,
+        "accountMediaLikes": 475,
+        "postLikes": 334,
         "about": "Hi I'm Red, aka Red Mallard aka your favorite virtual girl!\n\n🍒 Subscription includes NSFW videos, pics, and stream access\n🍒 DMs $1 for non-subscriber barnacles, free for subscribers\n🍒 Sexy requests and chat available in DMs :)\n\nOther links (including Throne for gifts!): \nhttps://redmallard.moe\n\nVR/Fantasy only! I do not do RL content (face, body, voice). Please do not ask! ",
         "location": "Michigan, USA",
         "streaming": {
@@ -86,22 +86,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:37Z"
+        "fetchedAt": "2026-10-26T15:00:26Z"
     },
     "twitter": {
         "redmallard_nsfw": {
-            "id": "1976735208",
+            "id": null,
             "handle": "redmallard_nsfw",
             "displayName": "Red Mallard 🍒🦆【ENVtuber】【NSFW】",
             "description": "girlfail vtuber | https://t.co/c5HWxpLOpP\n | SPICY ACCOUNT for @RedMallard_VR | 18+ | MDNI | Fanart Hashes: #RedMallardArt #RedMallardArtLewd",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2056088984296505345/Oi934uSH_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1976735208/1779044751/1500x500",
-            "followersCount": 525,
-            "followingCount": 98,
-            "postsCount": 1904,
-            "accountCreatedAt": "2013-10-20T23:38:43.800Z",
-            "profileUrl": "https://x.com/RedMallard_NSFW",
-            "fetchedAt": "2026-08-19T16:22:39Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/redmallard_nsfw",
+            "fetchedAt": "2026-10-26T14:29:15Z"
         }
     }
 }

@@ -5,35 +5,35 @@
         "login": "lofty_vtuber",
         "displayName": "Lofty_Vtuber",
         "createdAt": "2022-06-18T17:36:53.522181Z",
-        "updatedAt": "2026-08-19T14:57:08.219322Z",
+        "updatedAt": "2026-10-01T14:20:07.950919Z",
         "description": "Lofty | Host of the Sketchy Skymotel 💜⭐️ | @ADVANCEDgg Partner (use code: LOFTY) | ",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 3052
+            "totalCount": 3095
         },
         "follows": {
-            "totalCount": 404
+            "totalCount": 411
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T14:57:21.187986Z"
+            "startedAt": "2026-10-01T17:59:36.33197Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cee4a0bd-d8f6-4cda-aa2c-62931a5ff39c-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81844e4-78f5-486e-aa37-85ac2fc289ad-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:57:26Z"
+        "fetchedAt": "2026-10-26T13:58:55Z"
     },
     "fansly": {
         "id": "882001329701003265",
         "username": "Lofty_Vtuber",
         "displayName": "Lofty_Vtuber",
         "version": 7,
-        "followCount": 207,
+        "followCount": 234,
         "statusId": 1,
-        "accountMediaLikes": 46,
-        "postLikes": 82,
+        "accountMediaLikes": 48,
+        "postLikes": 84,
         "about": "Cosmic Skyslut 💜⭐️ \n「 ✦ Streams every other Friday at 11am EST ✦ 」\n\n𓆩⟡𓆪 Lewds, Audios, NSFW Streaming Content\n\nAll content is under copyright.\nhttps://loftyyoru.carrd.co/",
         "location": "in your walls",
         "streaming": {
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:59Z"
+        "fetchedAt": "2026-10-26T15:01:43Z"
     },
     "twitter": {
         "lofty_vtuber": {
-            "id": "1532899216074362881",
+            "id": null,
             "handle": "lofty_vtuber",
-            "displayName": "Lofty Yoru 💜⭐️",
-            "description": "Owner and proprietor of the Sketchy Skymotel (under renovation) 💜⭐️ https://t.co/e7SLOOEWs2",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2087611872396578816/TCrCJkbk_400x400.jpg",
+            "displayName": "Lofty Yoru 💜⭐️ Living in Japan Arc",
+            "description": "Owner and proprietor of the Sketchy Skymotel (under renovation) 💜⭐️ https://t.co/ocRL56bhjw",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2105306785493946368/zlGziJfe_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1532899216074362881/1773146548/1500x500",
-            "followersCount": 11617,
-            "followingCount": 5228,
-            "postsCount": 4149,
-            "accountCreatedAt": "2022-06-04T01:37:15.588Z",
-            "profileUrl": "https://x.com/Lofty_Vtuber",
-            "fetchedAt": "2026-08-19T16:39:12Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lofty_vtuber",
+            "fetchedAt": "2026-10-26T14:46:49Z"
         }
     }
 }

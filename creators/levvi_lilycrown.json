@@ -1,0 +1,99 @@
+{
+    "bio": "Hello iam Levvi_Lilycrown, I've been playing games all my life, my favorites being the souls series. I am also a huge nerd when it comes to D&D, ill never forget the time my players beat their first dragon.......with a living vegetable. (true story)",
+    "twitch": {
+        "id": "818624102",
+        "login": "levvi_lilycrown",
+        "displayName": "Levvi_Lilycrown",
+        "createdAt": "2022-08-18T21:35:46.046365Z",
+        "updatedAt": "2026-09-08T23:13:50.575962Z",
+        "description": "Hello iam Levvi_Lilycrown, I've been playing games all my life, my favorites being the souls series. I am also a huge nerd when it comes to D&D, ill never forget the time my players beat their first dragon.......with a living vegetable. (true story)",
+        "primaryColorHex": "8AD28F",
+        "followers": {
+            "totalCount": 1721
+        },
+        "follows": {
+            "totalCount": 135
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-10-24T01:21:22.360665Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1c014b5-e072-4e78-8eb1-3cea991aae79-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/03a01ce0-670f-4042-8802-5afb24d2056c-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T15:45:48Z"
+    },
+    "twitter": {
+        "levvi_lilycrown": {
+            "id": null,
+            "handle": "levvi_lilycrown",
+            "displayName": "🔞Levvi | 🐂The Fembull Vtuber 🎲 | TTRPG-GM |🎲",
+            "description": "💚-Vtuber Femboy-💚\nTTRPG-DM\nhttps://t.co/z9MmOWSkTe\n-https://t.co/ZJesebNwyW\n---",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1939653605641846784/WRPFvCuV_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1562530044727070723/1751284432/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Levvi_lilycrown",
+            "fetchedAt": "2026-10-26T15:46:00Z"
+        }
+    },
+    "fansly": {
+        "id": "487058013094420480",
+        "username": "Levvi",
+        "displayName": "Levvi_Lilycrown",
+        "version": 4,
+        "followCount": 16842,
+        "statusId": 1,
+        "accountMediaLikes": 24155,
+        "postLikes": 17661,
+        "about": "🌸Hi hi, iam Levvi Lilycrown🌸\n\n🕛Streams - Wednesday - 5pm EST (sometimes random days too)\n💙Bisexual Femboy who loves Milk!\n🔞IRL & VR Content Creator!\nI'am your local Milk-Maid Minotaur!🥛\n\n- Carrd Link - https://lilycrownvt.carrd.co/\n- Merch - https://waifuprison.com/collections/levvi\n- Twitch - https://www.twitch.tv/levvi_lilycrown\n- Nsfw Twitter - https://x.com/Levvi_Lilycrown\n- Throne - https://throne.com/levvi_lilycrown\n- Discord - https://discord.gg/7egUJSBfjV\n- Business Email - levvililycrown@gmail.com",
+        "location": "On the bed, waiting for you~??",
+        "streaming": {
+            "accountId": "487058013094420480",
+            "channel": {
+                "id": "569315962872934401",
+                "accountId": "487058013094420480",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iXF6rra3MJFz.m3u8",
+                "chatRoomId": "572249119007973376",
+                "status": 2,
+                "version": 204,
+                "createdAt": 1697229862000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "569315962872934402",
+                    "historyId": "969440304065171456",
+                    "channelId": "569315962872934401",
+                    "accountId": "487058013094420480",
+                    "title": "❤️SHEEP BOI STREAM!!❤️",
+                    "status": 1,
+                    "viewerCount": 79,
+                    "version": 5411,
+                    "createdAt": 1697229863000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792637968000,
+                    "startedAt": 1792626939000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "965083047806386176",
+                                "streamId": "569315962872934402",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-26T15:46:02Z"
+    }
+}

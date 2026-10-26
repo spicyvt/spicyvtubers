@@ -5,35 +5,35 @@
         "login": "darienchyba",
         "displayName": "darienchyba",
         "createdAt": "2023-10-04T06:02:24.965411Z",
-        "updatedAt": "2026-08-19T10:06:10.754091Z",
+        "updatedAt": "2026-10-25T00:09:36.642271Z",
         "description": "i am THE premier athlete of the VTubing community.",
         "primaryColorHex": "FF7A00",
         "followers": {
-            "totalCount": 692
+            "totalCount": 684
         },
         "follows": {
-            "totalCount": 497
+            "totalCount": 499
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T14:40:55.071927Z"
+            "startedAt": "2026-10-26T12:42:25.637035Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b42f1a0-853b-4289-b075-8a9db8301777-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09d41ca6-d898-4263-a371-46753ab2136e-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:42:58Z"
+        "fetchedAt": "2026-10-26T13:44:25Z"
     },
     "fansly": {
         "id": "691720209769181185",
         "username": "DChyba",
         "displayName": "DarienChyba",
         "version": 6,
-        "followCount": 43,
+        "followCount": 51,
         "statusId": 1,
         "accountMediaLikes": 58,
-        "postLikes": 247,
+        "postLikes": 248,
         "about": "Hi. I am the premier athlete of the VTubing community. I'm just hanging out, playing The Sims 4 with Wicked Whims and Nutaku games.\n\nThis account also displays NSFW art.\n\nFemale models coming soon.\nVPapa: Shinra Izuku (Twitter: @Izuku_Shinra/VGen ShinraIzuku)\nBanner : Kiwi (https://vgen.co/Kyisakiwi)\n\n#ChybaLewd\n\nLove doing lesbian play. Futa/strap-ons are okay.",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.k8V46LX0cp4e.m3u8",
                 "chatRoomId": "791003459464736768",
                 "status": 2,
-                "version": 235,
+                "version": 257,
                 "createdAt": 1749889073000,
                 "updatedAt": null,
                 "stream": {
                     "id": "790184700965564418",
-                    "historyId": "945168233726496768",
+                    "historyId": "970756266102108161",
                     "channelId": "790184700965564417",
                     "accountId": "691720209769181185",
-                    "title": "NASHVILLE VS MIAMI #nsfw #lewdtuber | !tip",
+                    "title": "NFL PARIS GAME WATCHALONG #nsfw #lewdtuber | !tip",
                     "status": 1,
-                    "viewerCount": 0,
-                    "version": 728,
+                    "viewerCount": 1,
+                    "version": 792,
                     "createdAt": 1749889074000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786848478000,
-                    "startedAt": 1786840027000,
+                    "lastFetchedAt": 1792946051000,
+                    "startedAt": 1792940689000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:58Z"
+        "fetchedAt": "2026-10-26T14:59:48Z"
     },
     "twitter": {
         "darienchyba": {
-            "id": "1650496948166639617",
+            "id": null,
             "handle": "darienchyba",
             "displayName": "Darien Chyba | Sports VTuber",
             "description": "The premier athlete of the vtubing community.\n#ChybArmy\n@PoggersShop @GoBlacklyte @NekomartShop affiliate CODE: DARIENCHYBA",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1992389012003360768/3lzwC0WX_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1650496948166639617/1772525807/1500x500",
-            "followersCount": 489,
-            "followingCount": 2370,
-            "postsCount": 6358,
-            "accountCreatedAt": "2023-04-24T13:48:48.499Z",
-            "profileUrl": "https://x.com/DarienChyba",
-            "fetchedAt": "2026-08-19T16:15:43Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/darienchyba",
+            "fetchedAt": "2026-10-26T14:21:54Z"
         }
     }
 }

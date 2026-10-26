@@ -5,11 +5,11 @@
         "login": "itsrenrie",
         "displayName": "ItsRenRie",
         "createdAt": "2020-02-27T17:08:18.161578Z",
-        "updatedAt": "2026-08-15T19:23:07.656537Z",
+        "updatedAt": "2026-10-25T18:59:36.197129Z",
         "description": "✨ Eldritch Shapeshifting Vtuber ✨Meowdy, mortals~ I'm a lil cosmic menace who loves making art, solving puzzles, and playing Metroidvania-styles games! ",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 1383
+            "totalCount": 1386
         },
         "follows": {
             "totalCount": 408
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-26T20:14:22.061289Z"
+            "startedAt": "2026-09-06T20:19:04.096988Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/560509da-dfb5-4c5a-a8f0-901d042b268e-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aad98406-623a-4f7d-86a9-0563da0c2a6d-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:36:37Z"
+        "fetchedAt": "2026-10-26T13:38:06Z"
     },
     "fansly": {
         "id": "518834516920381440",
         "username": "RenRie",
         "displayName": null,
         "version": 4,
-        "followCount": 3799,
+        "followCount": 3917,
         "statusId": 1,
-        "accountMediaLikes": 3781,
-        "postLikes": 3194,
+        "accountMediaLikes": 3789,
+        "postLikes": 3197,
         "about": "Your lil eldritch shapeshifter, here for some fun and chaos <3",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.f5xWvt4SB6KP.m3u8",
                 "chatRoomId": "623629276574392320",
                 "status": 2,
-                "version": 5,
+                "version": 6,
                 "createdAt": 1710178909000,
                 "updatedAt": null,
                 "stream": {
                     "id": "623628199099637761",
-                    "historyId": "931497420116742144",
+                    "historyId": "970421908724006912",
                     "channelId": "623628199099637760",
                     "accountId": "518834516920381440",
-                    "title": "Late Night Comm Work",
+                    "title": "Late Night Art",
                     "status": 1,
-                    "viewerCount": 10,
-                    "version": 8023,
+                    "viewerCount": 17,
+                    "version": 8029,
                     "createdAt": 1710178909000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1783588542000,
-                    "startedAt": 1783580651000,
+                    "lastFetchedAt": 1792868644000,
+                    "startedAt": 1792860972000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:44:47Z"
+        "fetchedAt": "2026-10-26T14:58:36Z"
     },
     "twitter": {
         "itsrenrie": {
-            "id": "1238787478066102279",
+            "id": null,
             "handle": "itsrenrie",
             "displayName": "RenRie 💫🌙 🔞C0MMS CL0SED",
             "description": "MINORS DNI | Eldritch Vtuber | Any | 26 |\n\nTwitch Affiliate | https://t.co/IJrRukwV55\nhttps://t.co/fjereoU3zm\nart tag: #ItsRenArt nsfw: #SusRenArt\n💜💙",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2049191840344424448/PHzyhcEI_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1238787478066102279/1777400854/1500x500",
-            "followersCount": 14700,
-            "followingCount": 1494,
-            "postsCount": 33228,
-            "accountCreatedAt": "2020-03-14T11:22:15.779Z",
-            "profileUrl": "https://x.com/ItsRenRie",
-            "fetchedAt": "2026-08-19T16:04:05Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/itsrenrie",
+            "fetchedAt": "2026-10-26T14:09:31Z"
         }
     }
 }

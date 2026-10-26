@@ -5,35 +5,35 @@
         "login": "buffpup",
         "displayName": "Buffpup",
         "createdAt": "2011-05-23T01:27:01.246512Z",
-        "updatedAt": "2026-08-19T14:11:17.68833Z",
+        "updatedAt": "2026-10-26T02:21:57.375783Z",
         "description": " I am a werewolf VTuber who laughs at herself way too much!!",
         "primaryColorHex": "FF772E",
         "followers": {
-            "totalCount": 332939
+            "totalCount": 336919
         },
         "follows": {
-            "totalCount": 409
+            "totalCount": 413
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T19:12:29.546207Z"
+            "startedAt": "2026-10-23T15:56:54.532489Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/08c950cb-ca10-4b0d-b22e-78ae1b66bc52-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e7ea8e7-3457-493b-84c7-bb8baabdc2aa-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:39:06Z"
+        "fetchedAt": "2026-10-26T13:40:37Z"
     },
     "fansly": {
         "id": "720480858510729216",
         "username": "Buffpup",
         "displayName": null,
         "version": 5,
-        "followCount": 59390,
+        "followCount": 62631,
         "statusId": 1,
-        "accountMediaLikes": 48811,
-        "postLikes": 47916,
+        "accountMediaLikes": 53864,
+        "postLikes": 52485,
         "about": "✨ WELCOME TO MY FANSLY, EVERY PUP! ✨\nThis is my page for NSFW Art, Comics, WIPs, Speed Paints, Streams, and all things lewd!\n\nHere's what you need to know about me:\n🦴 VTuber + Streamer\n🦴 Monster Girl\n🦴  Smut Artist\n🦴  Whatever else I wanna do!!\n\nI DO check my messages here, so you can DM me to chat and hang out, but I like to keep things pretty low key so be respectful and chill!\nThanks for being here! 🐾",
         "location": "MourningWood",
         "streaming": {
@@ -69,36 +69,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:14Z"
+        "fetchedAt": "2026-10-26T14:59:04Z"
     },
     "twitter": {
         "buffpup_": {
-            "id": "462371646",
+            "id": null,
             "handle": "buffpup_",
             "displayName": "Buffpup 🦴VchiBan✨",
             "description": "Werewolf VTuber 🦴 | Barking @VCHIBAN | 🎨#Buffpup 🔞#Ruffpup | Chugging @GamerSupps code: PUP | 📧 buffpup@vchiban.com",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2079970021506174976/wjnigBK5_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/462371646/1765135535/1500x500",
-            "followersCount": 258251,
-            "followingCount": 815,
-            "postsCount": 44581,
-            "accountCreatedAt": "2012-01-12T21:58:03.000Z",
-            "profileUrl": "https://x.com/Buffpup_",
-            "fetchedAt": "2026-08-19T16:08:58Z"
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2106096864596475904/w04J7_1A_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/462371646/1788789745/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/buffpup_",
+            "fetchedAt": "2026-10-26T14:14:47Z"
         },
         "ruffpup_": {
-            "id": "1822068753858809856",
+            "id": null,
             "handle": "ruffpup_",
             "displayName": "Buffpup NSFW 🦴🔞",
             "description": "Official NSFW account of @Buffpup_ 🔞#Ruffpup",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1927561842097844224/jIUBmm_v_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1822068753858809856/1747449439/1500x500",
-            "followersCount": 39095,
-            "followingCount": 4,
-            "postsCount": 248,
-            "accountCreatedAt": "2024-08-10T00:34:04.045Z",
-            "profileUrl": "https://x.com/Ruffpup_",
-            "fetchedAt": "2026-08-19T16:08:59Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ruffpup_",
+            "fetchedAt": "2026-10-26T14:14:49Z"
         }
     }
 }

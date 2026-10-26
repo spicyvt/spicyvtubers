@@ -5,35 +5,35 @@
         "login": "leyley",
         "displayName": "LeyLey",
         "createdAt": "2012-01-26T04:16:55.77825Z",
-        "updatedAt": "2026-08-16T09:13:12.733776Z",
+        "updatedAt": "2026-10-22T02:23:56.897744Z",
         "description": "My name is Ley. I play video games.",
         "primaryColorHex": "D22950",
         "followers": {
-            "totalCount": 50905
+            "totalCount": 50943
         },
         "follows": {
-            "totalCount": 353
+            "totalCount": 359
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-16T09:47:09.118549Z"
+            "startedAt": "2026-10-22T08:54:14.549598Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92b25026-97ad-4867-ab4b-0c028eb8618d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/247c9fd8-1257-4c49-8f49-a7438ad396ad-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:41:32Z"
+        "fetchedAt": "2026-10-26T13:43:05Z"
     },
     "fansly": {
         "id": "538589080313667584",
         "username": "LeyCantPlay",
         "displayName": "LeyLey 🐐",
         "version": 50,
-        "followCount": 13017,
+        "followCount": 13618,
         "statusId": 3,
-        "accountMediaLikes": 12543,
-        "postLikes": 7810,
+        "accountMediaLikes": 12908,
+        "postLikes": 8076,
         "about": "I am a Vtuber who loves video games and sunflowers! I enjoy taking pics!\nThrone: https://throne.com/leyley\n\nVR content in ChilloutVR",
         "location": "Petting Zoo",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.DRsG913hvJTU.m3u8",
                 "chatRoomId": "645457166651633664",
                 "status": 2,
-                "version": 69,
+                "version": 73,
                 "createdAt": 1692101166000,
                 "updatedAt": null,
                 "stream": {
                     "id": "547804651878100993",
-                    "historyId": "937260910441934848",
+                    "historyId": "967721248098365440",
                     "channelId": "547804651878100992",
                     "accountId": "538589080313667584",
-                    "title": "VR Fun Times! 🐐💕🐈",
+                    "title": "Hellraiser Fun Times 🐐💕🐈",
                     "status": 1,
-                    "viewerCount": 74,
-                    "version": 5835,
+                    "viewerCount": 54,
+                    "version": 5839,
                     "createdAt": 1692101167000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1784966857000,
-                    "startedAt": 1784954774000,
+                    "lastFetchedAt": 1792227047000,
+                    "startedAt": 1792217084000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,36 +69,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:41Z"
+        "fetchedAt": "2026-10-26T14:59:31Z"
     },
     "twitter": {
         "leynnieley": {
-            "id": "2534586324",
+            "id": null,
             "handle": "leynnieley",
             "displayName": "Ley Ley | Vtuber Goat Demon🔥🐐😈",
-            "description": "I'm a goat demon from hell, I got a little lost but people are very nice in the mortal realm. | https://t.co/IFzTt7uBEq | #ENVtuber",
+            "description": "I&#x27;m a goat demon from hell, I got a little lost but people are very nice in the mortal realm. | https://t.co/IFzTt7uBEq | #ENVtuber",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1778237748383510528/VOObufxw_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2534586324/1751417468/1500x500",
-            "followersCount": 10283,
-            "followingCount": 2456,
-            "postsCount": 11239,
-            "accountCreatedAt": "2014-05-30T08:48:24.435Z",
-            "profileUrl": "https://x.com/LeynnieLey",
-            "fetchedAt": "2026-08-19T16:13:19Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/leynnieley",
+            "fetchedAt": "2026-10-26T14:19:28Z"
         },
         "leycanplay": {
-            "id": "1754786677103427584",
+            "id": null,
             "handle": "leycanplay",
             "displayName": "OnlyGoats",
             "description": "Spicy Account of @LeynnieLey",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1767432657531555840/ArxNXPtG_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1754786677103427584/1715426106/1500x500",
-            "followersCount": 761,
-            "followingCount": 22,
-            "postsCount": 313,
-            "accountCreatedAt": "2024-02-06T08:39:17.709Z",
-            "profileUrl": "https://x.com/LeyCanPlay",
-            "fetchedAt": "2026-08-19T16:13:21Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/leycanplay",
+            "fetchedAt": "2026-10-26T14:19:30Z"
         }
     }
 }

@@ -5,11 +5,11 @@
         "login": "ibookivt",
         "displayName": "IbookiVT",
         "createdAt": "2022-02-09T07:06:32.969865Z",
-        "updatedAt": "2026-08-19T01:53:06.079964Z",
+        "updatedAt": "2026-10-15T01:20:09.771825Z",
         "description": "Soy una poltergeist muy chistosita y coqueta ☆ ～('▽^人)",
         "primaryColorHex": "1F69FF",
         "followers": {
-            "totalCount": 9874
+            "totalCount": 9850
         },
         "follows": {
             "totalCount": 138
@@ -19,22 +19,22 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T05:50:26.344757Z"
+            "startedAt": "2026-10-15T03:39:42.493855Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/050201c4-d7d1-4d80-be0d-0a77bb68573e-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/378f8d77-c08e-4449-b62a-892d6d2b1293-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:52:38Z"
+        "fetchedAt": "2026-10-26T13:54:04Z"
     },
     "fansly": {
         "id": "572689712297291776",
         "username": "IbookiVT",
         "displayName": null,
         "version": 4,
-        "followCount": 9521,
+        "followCount": 9924,
         "statusId": 3,
-        "accountMediaLikes": 13110,
-        "postLikes": 17368,
-        "about": "｡⁠♡๑ Tu poltergeist favorita | Streams +18 | Naughty Vtuber\n\n👻JOI & RP\n👻Kinkfriendly\n👻ASMR\n👻IRL COSPLAY",
+        "accountMediaLikes": 13749,
+        "postLikes": 17881,
+        "about": "｡⁠♡๑ Tu poltergeist favorita | Streams +18 | Naughty Vtuber\n\n👻RP\n👻Kinkfriendly\n👻ASMR\n👻3D ERP\n👻IRL COSPLAY",
         "location": "",
         "streaming": {
             "accountId": "572689712297291776",
@@ -44,50 +44,26 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oDeLwjcOJAsV.m3u8",
                 "chatRoomId": "605209882760589312",
                 "status": 2,
-                "version": 59,
+                "version": 67,
                 "createdAt": 1705785334000,
                 "updatedAt": null,
                 "stream": {
                     "id": "605200213350555649",
-                    "historyId": "939757240754118656",
+                    "historyId": "970201912844509185",
                     "channelId": "605200213350555648",
                     "accountId": "572689712297291776",
-                    "title": "REGRESE",
+                    "title": "TE VOY A SEDUCIR",
                     "status": 1,
-                    "viewerCount": 71,
-                    "version": 1619,
+                    "viewerCount": 122,
+                    "version": 1635,
                     "createdAt": 1705785335000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785556455000,
-                    "startedAt": 1785549946000,
+                    "lastFetchedAt": 1792812542000,
+                    "startedAt": 1792808521000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "939752032556838912",
-                                "streamId": "605200213350555649",
-                                "type": 0,
-                                "flags": 4,
-                                "price": 0,
-                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"576257828142981120\\\"}\"}"
-                            },
-                            {
-                                "id": "939752032556838913",
-                                "streamId": "605200213350555649",
-                                "type": 0,
-                                "flags": 4,
-                                "price": 0,
-                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"576258492143251456\\\"}\"}"
-                            },
-                            {
-                                "id": "939752032556838914",
-                                "streamId": "605200213350555649",
-                                "type": 0,
-                                "flags": 4,
-                                "price": 0,
-                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"576258940166217728\\\"}\"}"
-                            },
-                            {
-                                "id": "939752032556838915",
+                                "id": "970202008181026817",
                                 "streamId": "605200213350555649",
                                 "type": 0,
                                 "flags": 4,
@@ -95,7 +71,39 @@
                                 "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"576253758304952322\\\"}\"}"
                             },
                             {
-                                "id": "939752032556838916",
+                                "id": "970202008181026818",
+                                "streamId": "605200213350555649",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"576257828142981120\\\"}\"}"
+                            },
+                            {
+                                "id": "970202008181026819",
+                                "streamId": "605200213350555649",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"576258492143251456\\\"}\"}"
+                            },
+                            {
+                                "id": "970202008181026820",
+                                "streamId": "605200213350555649",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"576258940166217728\\\"}\"}"
+                            },
+                            {
+                                "id": "970202008181026821",
+                                "streamId": "605200213350555649",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"965051452957405184\\\"}\"}"
+                            },
+                            {
+                                "id": "970202008181026822",
                                 "streamId": "605200213350555649",
                                 "type": 0,
                                 "flags": 2,
@@ -110,22 +118,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:21Z"
+        "fetchedAt": "2026-10-26T15:01:10Z"
     },
     "twitter": {
         "ibookivt": {
-            "id": "1716305398007988224",
+            "id": null,
             "handle": "ibookivt",
             "displayName": "Ibooki 👻⛓ ♡",
-            "description": "｡⁠♡๑ Tu poltergeist favorita ๑♡⁠｡ |ママ: @kamimi_art Live2D: @DarknessKumiho|  Senpai: @NymphaaeaVT 💕| 🔞: #lewdboo 🎨: #bookidraw | https://t.co/GZ2mUEYkB4",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2039969796989882368/6Ud29EJN_400x400.jpg",
+            "description": "｡⁠♡๑ Tu poltergeist favorita ๑♡⁠｡ |ママ: @kamimi_art Live2D: @DarknessKumiho|  Senpai: @NymphaaeaVT 💕| 🔞: #lewdboo 🎨: #bookidraw | https://t.co/GZ2mUEXMLw",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2102490249448321024/gplogqIx_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1716305398007988224/1724123525/1500x500",
-            "followersCount": 8193,
-            "followingCount": 76,
-            "postsCount": 2730,
-            "accountCreatedAt": "2023-10-23T04:07:55.616Z",
-            "profileUrl": "https://x.com/IbookiVT",
-            "fetchedAt": "2026-08-19T16:31:05Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ibookivt",
+            "fetchedAt": "2026-10-26T14:38:28Z"
         }
     }
 }

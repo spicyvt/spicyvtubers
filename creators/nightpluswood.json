@@ -5,54 +5,54 @@
         "login": "nightpluswood",
         "displayName": "NightPluswood",
         "createdAt": "2020-08-14T01:30:16.154418Z",
-        "updatedAt": "2026-08-19T14:21:35.055434Z",
+        "updatedAt": "2026-10-24T13:24:04.993572Z",
         "description": "Is everybody in? Everybody in?? The Ceremony is about to begin! Here to play retro, indie, and retro indie games! I hope I get to show you something New To You!",
         "primaryColorHex": "949F75",
         "followers": {
-            "totalCount": 57
+            "totalCount": 59
         },
         "follows": {
-            "totalCount": 166
+            "totalCount": 180
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-15T09:05:57.804007Z"
+            "startedAt": "2026-10-24T17:10:07.633838Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1821f476-a003-47f4-8e95-2636ab393b1e-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/50aa1820-fdbe-438a-8a7c-5ca6ba887cfe-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:55:06Z"
+        "fetchedAt": "2026-10-26T13:56:34Z"
     },
     "twitter": {
         "nightpluswood": {
-            "id": "1987621968385126400",
+            "id": null,
             "handle": "nightpluswood",
             "displayName": "NightPluswood ➕🪵",
-            "description": "Is everybody in? The ceremony is about to begin!\nThe very real talking tree!\nhttps://t.co/yLm1Qz2E3B\nArt tag #Pluswoodcuts",
+            "description": "Is everybody in? The ceremony is about to begin!\nRetro and Indie, something new to you I hope!\nhttps://t.co/yLm1Qz26e3\nArt tag #Pluswoodcuts",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2037177157655420928/2ooyAt5X_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1987621968385126400/1777385715/1500x500",
-            "followersCount": 107,
-            "followingCount": 352,
-            "postsCount": 638,
-            "accountCreatedAt": "2025-11-09T20:43:51.422Z",
-            "profileUrl": "https://x.com/NightPluswood",
-            "fetchedAt": "2026-08-19T16:35:08Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nightpluswood",
+            "fetchedAt": "2026-10-26T14:42:40Z"
         },
         "nightmightywood": {
-            "id": "1987646066729353216",
+            "id": null,
             "handle": "nightmightywood",
             "displayName": "NightMightywood ➕🪵",
             "description": "Shall I get in, everybody? Remove the comma. \nhttps://t.co/Tg9nDygcHo\n🔞Minors DNI, your time still has not come.",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2037178661502148608/JQJz6AsQ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1987646066729353216/1777385866/1500x500",
-            "followersCount": 13,
-            "followingCount": 219,
-            "postsCount": 374,
-            "accountCreatedAt": "2025-11-09T22:19:27.275Z",
-            "profileUrl": "https://x.com/NightMightywood",
-            "fetchedAt": "2026-08-19T16:35:10Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nightmightywood",
+            "fetchedAt": "2026-10-26T14:42:42Z"
         }
     },
     "rplay": {
@@ -75,7 +75,7 @@
         "isLivestreamer": true,
         "customUrl": "nightpluswood",
         "channelImage": "https://pb2.rplay.live/pics/8e1a92f5dbabbedb2284564db596ec2b",
-        "streamStartTime": "2026-08-16T14:00:33.000Z",
-        "fetchedAt": "2026-08-19T16:50:31Z"
+        "streamStartTime": "2026-10-25T14:00:42.000Z",
+        "fetchedAt": "2026-10-26T15:04:31Z"
     }
 }

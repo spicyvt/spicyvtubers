@@ -5,11 +5,11 @@
         "login": "meuww",
         "displayName": "meuww",
         "createdAt": "2016-07-09T11:24:11.735492Z",
-        "updatedAt": "2026-10-23T19:06:07.490188Z",
+        "updatedAt": "2026-10-25T21:22:08.797968Z",
         "description": "Clown, terribly British, always tired, might step on you.",
         "primaryColorHex": "FF732F",
         "followers": {
-            "totalCount": 11456
+            "totalCount": 11455
         },
         "follows": {
             "totalCount": 1640
@@ -23,7 +23,7 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/14f96872-444a-4e54-a4b7-0ab869713044-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3365daf1-40de-4e2d-9061-5d510fc6fa0c-profile_banner-480.png",
-        "fetchedAt": "2026-10-24T13:40:43Z"
+        "fetchedAt": "2026-10-26T14:04:10Z"
     },
     "twitter": {
         "meuwtwo": {
@@ -37,8 +37,8 @@
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/MeuwTwo",
-            "fetchedAt": "2026-10-24T13:40:45Z"
+            "profileUrl": "https://x.com/meuwtwo",
+            "fetchedAt": "2026-10-26T14:55:31Z"
         },
         "gigglesloot": {
             "id": null,
@@ -51,8 +51,8 @@
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/Gigglesloot",
-            "fetchedAt": "2026-10-24T13:40:47Z"
+            "profileUrl": "https://x.com/gigglesloot",
+            "fetchedAt": "2026-10-26T14:55:33Z"
         }
     },
     "fansly": {
@@ -60,10 +60,10 @@
         "username": "Giggleslut",
         "displayName": "⛧MeuwTwo⛧",
         "version": 13,
-        "followCount": 4489,
+        "followCount": 4517,
         "statusId": 3,
-        "accountMediaLikes": 19302,
-        "postLikes": 14763,
+        "accountMediaLikes": 19333,
+        "postLikes": 14778,
         "about": "✨Hi I'm Giggleslut, virtual and IRL goth GF\n\n✨Switch (mostly submissive roles)\n\n✨IRL Costume/IRL lingerie/Vtuber/art\n\n✨Lewds\n✨throne.me/u/meuww\n\n\n⚠️Content is strictly for personal use only. Legal action will be taken against those who steal, reupload or share content. Images are NOT for you to download or share etc. ⚠️ ",
         "location": "",
         "streaming": {
@@ -74,22 +74,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.UTaG9FckTp36.m3u8",
                 "chatRoomId": "503349586518089728",
                 "status": 2,
-                "version": 38,
+                "version": 40,
                 "createdAt": 1680623340000,
                 "updatedAt": null,
                 "stream": {
                     "id": "499663160945418241",
-                    "historyId": "955641490665656321",
+                    "historyId": "970892724490219521",
                     "channelId": "499663160945418240",
                     "accountId": "417118512155205632",
-                    "title": "Soft, British, Whispery moans - Quiet Deadlock gaming - Tip for moans <3",
+                    "title": "Soft, sexy ghost kitty will make you feel better! ",
                     "status": 1,
-                    "viewerCount": 18,
-                    "version": 9857,
+                    "viewerCount": 29,
+                    "version": 9859,
                     "createdAt": 1680623341000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1789343588000,
-                    "startedAt": 1789337046000,
+                    "lastFetchedAt": 1792979071000,
+                    "startedAt": 1792973223000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -108,6 +108,6 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-10-24T13:40:48Z"
+        "fetchedAt": "2026-10-26T15:02:28Z"
     }
 }

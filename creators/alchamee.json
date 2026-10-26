@@ -5,72 +5,72 @@
         "login": "alchamee",
         "displayName": "Alchamee",
         "createdAt": "2018-11-27T22:15:16.502746Z",
-        "updatedAt": "2026-08-18T15:36:45.834432Z",
+        "updatedAt": "2026-10-22T01:24:57.330931Z",
         "description": "Hi! I'm Alchamee (like Alchemy) or most just call me Alch! I stream a lot of Variety but FFXIV is my main love. I call myself a lo-fi vibe streamer cuz we keep it chill. Stop by and say hi sometime!",
         "primaryColorHex": "B9C5A2",
         "followers": {
-            "totalCount": 6422
+            "totalCount": 6425
         },
         "follows": {
-            "totalCount": 760
+            "totalCount": 769
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T04:08:28.758369Z"
+            "startedAt": "2026-10-22T03:06:24.803849Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7d51a2d-e1de-402f-9ce5-98156f73f823-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d75c1ff7-5a19-4419-8980-8751d74f36ee-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:37:46Z"
+        "fetchedAt": "2026-10-26T13:39:18Z"
     },
     "fansly": {
         "id": "569421500185063424",
         "username": "Alchamee",
         "displayName": "Alchamee",
-        "version": 6,
-        "followCount": 80,
+        "version": 7,
+        "followCount": 124,
         "statusId": 2,
-        "accountMediaLikes": 272,
-        "postLikes": 142,
-        "about": "Your local plus-sized bratty switch not at your service.\nASMR NSFW voice recordings, lingerie and nude photos and if you're lucky a video to spend the night with.\nFun and flirty with a side of sassy. ",
+        "accountMediaLikes": 502,
+        "postLikes": 279,
+        "about": "Your local plus-sized pansexual bratty switch not at your service.\nASMR NSFW voice recordings, lingerie and nude photos and if you're lucky a video to spend the night with.\nFun and flirty with a side of sassy. ",
         "location": "",
         "streaming": {
             "accountId": "569421500185063424",
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:03Z"
+        "fetchedAt": "2026-10-26T14:58:53Z"
     },
     "twitter": {
         "alchameettv": {
-            "id": "77514817",
+            "id": null,
             "handle": "alchameettv",
             "displayName": "Alchamee || NEW MODEL OUT 💚💛",
-            "description": "Twitch Partner\nSolarpunk Architect Vtuber&Cam🌱✏️\nVariety/FFXIV Content Creator\nTwitch Women's/Pride Guild\nPartnered w/ @ADVANCEDgg\n📧alchameettv@gmail.com",
+            "description": "Twitch Partner\nSolarpunk Architect Vtuber&amp;Cam🌱✏️\nVariety/FFXIV Content Creator\nTwitch Women&#x27;s/Pride Guild\nPartnered w/ @ADVANCEDgg\n📧alchameettv@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2074933356559548416/gO2Yh6yx_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/77514817/1760240835/1500x500",
-            "followersCount": 2803,
-            "followingCount": 923,
-            "postsCount": 27389,
-            "accountCreatedAt": "2009-09-26T16:38:23.000Z",
-            "profileUrl": "https://x.com/AlchameeTTV",
-            "fetchedAt": "2026-08-19T16:06:09Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/alchameettv",
+            "fetchedAt": "2026-10-26T14:11:53Z"
         },
         "alchameead": {
-            "id": "1733890184737906688",
+            "id": null,
             "handle": "alchameead",
             "displayName": "Alchamee After Dark",
             "description": "Where all your weirdest dreams come true\nThe NSFW 🔞 account for @alchameettv",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2091583291899932672/xlIA8vFm_400x400.jpg",
             "bannerImageUrl": null,
-            "followersCount": 35,
-            "followingCount": 46,
-            "postsCount": 501,
-            "accountCreatedAt": "2023-12-10T16:43:51.553Z",
-            "profileUrl": "https://x.com/AlchameeAD",
-            "fetchedAt": "2026-08-24T15:08:08Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/alchameead",
+            "fetchedAt": "2026-10-26T14:11:55Z"
         }
     }
 }

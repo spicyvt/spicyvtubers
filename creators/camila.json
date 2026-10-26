@@ -5,35 +5,35 @@
         "login": "camila",
         "displayName": "camila",
         "createdAt": "2019-10-28T03:25:40.186116Z",
-        "updatedAt": "2026-08-07T21:34:45.034712Z",
+        "updatedAt": "2026-10-26T03:38:35.494094Z",
         "description": "🎪✨ welcome to the circus, where the fun never ends! im camila, your silly clown. sit back, relax, and enjoy the show . . 🎈🎉",
         "primaryColorHex": "958EFF",
         "followers": {
-            "totalCount": 333933
+            "totalCount": 339012
         },
         "follows": {
-            "totalCount": 687
+            "totalCount": 686
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-07T23:48:35.516352Z"
+            "startedAt": "2026-10-17T01:42:03.898848Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0fce1cd-63c4-47e9-aabe-47276cbb8524-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a89055f-2c0b-41f3-bc89-4b6ea1a9fd33-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:42:21Z"
+        "fetchedAt": "2026-10-26T13:43:51Z"
     },
     "fansly": {
         "id": "430244702348910592",
         "username": "cumila",
         "displayName": "camila",
         "version": 11,
-        "followCount": 43158,
+        "followCount": 46738,
         "statusId": 1,
-        "accountMediaLikes": 16642,
-        "postLikes": 29981,
+        "accountMediaLikes": 23243,
+        "postLikes": 39004,
         "about": "🎪⭐ 𝒘𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒊𝒎𝒑𝒊𝒓𝒆 ⭐🎪\nit seems you have found my secret carnival ~\n\ni am the imp called camila, and i will be your guide . . . 🎀\n",
         "location": "",
         "streaming": {
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:53Z"
+        "fetchedAt": "2026-10-26T14:59:37Z"
     },
     "twitter": {
         "cumilq": {
-            "id": "1273045425268813825",
+            "id": null,
             "handle": "cumilq",
             "displayName": "camila 🃏 🍥",
             "description": "pink creature of some sort \nママ: @rollsheeeep \nパパ: @otsukue",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2069629985132843008/jDtlpQ9P_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1273045425268813825/1746598072/1500x500",
-            "followersCount": 211092,
-            "followingCount": 100,
-            "postsCount": 8634,
-            "accountCreatedAt": "2020-06-17T00:11:01.440Z",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2102815542231085056/GfshKQzN_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1273045425268813825/1789235019/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/cumilq",
-            "fetchedAt": "2026-08-19T16:14:41Z"
+            "fetchedAt": "2026-10-26T14:20:53Z"
         }
     }
 }

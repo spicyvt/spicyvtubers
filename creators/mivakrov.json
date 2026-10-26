@@ -5,11 +5,11 @@
         "login": "mivakrov",
         "displayName": "MivaKrov",
         "createdAt": "2025-03-18T21:43:31.516103Z",
-        "updatedAt": "2026-10-23T13:04:19.603713Z",
+        "updatedAt": "2026-10-25T07:51:32.816803Z",
         "description": "I’m Miva Krov - a KrovTech experiment with memory stored in blood (㇏(•̀⩊•́)ノ)",
         "primaryColorHex": "980000",
         "followers": {
-            "totalCount": 2154
+            "totalCount": 2175
         },
         "follows": {
             "totalCount": 61
@@ -19,11 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-10-23T13:04:36.468205Z"
+            "startedAt": "2026-10-25T07:52:28.430839Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2379ac8f-d18c-47dc-9489-aac131998497-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/21affb9a-6ccc-46fd-bb0d-203a0ad419c9-profile_banner-480.png",
-        "fetchedAt": "2026-10-24T15:54:34Z"
+        "fetchedAt": "2026-10-26T14:04:26Z"
     },
     "twitter": {
         "mivakrov": {
@@ -37,8 +37,8 @@
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/MivaKrov",
-            "fetchedAt": "2026-10-24T15:54:41Z"
+            "profileUrl": "https://x.com/mivakrov",
+            "fetchedAt": "2026-10-26T14:55:54Z"
         }
     },
     "fansly": {
@@ -46,7 +46,7 @@
         "username": "MivaKrov",
         "displayName": "Miva Krov",
         "version": 4,
-        "followCount": 640,
+        "followCount": 649,
         "statusId": 3,
         "accountMediaLikes": 369,
         "postLikes": 339,
@@ -94,6 +94,6 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-10-24T15:54:43Z"
+        "fetchedAt": "2026-10-26T15:02:33Z"
     }
 }

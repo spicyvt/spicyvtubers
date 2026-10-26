@@ -5,35 +5,35 @@
         "login": "flynsievr",
         "displayName": "FlynsieVR",
         "createdAt": "2022-06-06T07:01:33.797846Z",
-        "updatedAt": "2026-08-11T18:48:46.748009Z",
+        "updatedAt": "2026-10-10T16:03:55.325391Z",
         "description": "Im batman.",
         "primaryColorHex": "FFD100",
         "followers": {
-            "totalCount": 4731
+            "totalCount": 4901
         },
         "follows": {
-            "totalCount": 104
+            "totalCount": 108
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T21:51:36.944728Z"
+            "startedAt": "2026-10-10T21:02:24.644814Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a42433a9-e6a0-4993-afe7-c8c070870345-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d78a7716-9dfc-4bb3-8179-e141f3b9e15f-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:40:27Z"
+        "fetchedAt": "2026-10-26T13:41:59Z"
     },
     "fansly": {
         "id": "379471273106878464",
         "username": "Flynsie",
         "displayName": "Flynsie",
         "version": 5,
-        "followCount": 6740,
+        "followCount": 7501,
         "statusId": 3,
-        "accountMediaLikes": 7361,
-        "postLikes": 4733,
+        "accountMediaLikes": 8459,
+        "postLikes": 5374,
         "about": "a good kitty.\nReplies to all Subscribers~\nCustom pictures and videos!",
         "location": "Erdtree",
         "streaming": {
@@ -44,39 +44,39 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TN1et8CwMzjy.m3u8",
                 "chatRoomId": "900418458762629120",
                 "status": 2,
-                "version": 12,
+                "version": 15,
                 "createdAt": 1775040639000,
                 "updatedAt": null,
                 "stream": {
                     "id": "895678013482496001",
-                    "historyId": "943701783362953216",
+                    "historyId": "965421214623346688",
                     "channelId": "895678013482496000",
                     "accountId": "379471273106878464",
-                    "title": "rawr..",
+                    "title": "kitty is back~",
                     "status": 1,
-                    "viewerCount": 46,
-                    "version": 90,
+                    "viewerCount": 42,
+                    "version": 102,
                     "createdAt": 1775040639000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786495696000,
-                    "startedAt": 1786490398000,
+                    "lastFetchedAt": 1791673636000,
+                    "startedAt": 1791668714000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "943701692145217536",
+                                "id": "965421172361547776",
                                 "streamId": "895678013482496001",
                                 "type": 0,
-                                "flags": 10,
-                                "price": 0,
-                                "metadata": "{\"8\":\"{\\\"minAmount\\\":10000}\"}"
-                            },
-                            {
-                                "id": "943701692145217537",
-                                "streamId": "895678013482496001",
-                                "type": 0,
-                                "flags": 4,
+                                "flags": 6,
                                 "price": 0,
                                 "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "965421172361547777",
+                                "streamId": "895678013482496001",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":10000}\"}"
                             }
                         ]
                     }
@@ -86,7 +86,7 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:31Z"
+        "fetchedAt": "2026-10-26T14:59:20Z"
     },
     "twitter": {
         "flynsievr": {
@@ -99,9 +99,9 @@
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
-            "accountCreatedAt": "2021-10-12T21:03:45.779Z",
-            "profileUrl": "https://x.com/FlynsieVR",
-            "fetchedAt": "2026-08-19T16:11:18Z"
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/flynsievr",
+            "fetchedAt": "2026-10-26T14:17:22Z"
         }
     }
 }

@@ -5,35 +5,35 @@
         "login": "frozenhelix",
         "displayName": "FroZenHelix",
         "createdAt": "2014-08-21T00:35:08.770314Z",
-        "updatedAt": "2026-08-15T22:06:13.076529Z",
+        "updatedAt": "2026-10-23T20:54:50.548945Z",
         "description": "I have noooo idea what to say here none lol~",
         "primaryColorHex": "4760FF",
         "followers": {
-            "totalCount": 2116
+            "totalCount": 2180
         },
         "follows": {
-            "totalCount": 254
+            "totalCount": 245
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-16T00:21:52.722471Z"
+            "startedAt": "2026-10-24T07:10:28.057504Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a58826eb-bc60-492a-93e2-18ae8357a71d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb808412-1ade-45de-9b10-df47e4ed567e-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:40:39Z"
+        "fetchedAt": "2026-10-26T13:42:13Z"
     },
     "fansly": {
         "id": "300425580522778624",
         "username": "FroZenHelix",
         "displayName": "FroZenHelix",
         "version": 5,
-        "followCount": 6986,
+        "followCount": 7073,
         "statusId": 1,
-        "accountMediaLikes": 14621,
-        "postLikes": 8742,
+        "accountMediaLikes": 14711,
+        "postLikes": 8812,
         "about": "Oh yea I'm that kinda elf.\nIma boyfu (boy)\n\nTwitter if u wanna see more of me not as spicy but still spicy~ ",
         "location": "Some Where Cold",
         "streaming": {
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:31Z"
+        "fetchedAt": "2026-10-26T14:59:20Z"
     },
     "twitter": {
         "frohelix": {
-            "id": "1293025322682785792",
+            "id": null,
             "handle": "frohelix",
             "displayName": "FroZenHelix",
             "description": "🔞\nam FroZenHelix thick elf.\nI am Boyfu(BOY)\nI love taking pictures trying to love making videos",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2024118348833841152/wTzC-wI__400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1293025322682785792/1699543219/1500x500",
-            "followersCount": 42521,
-            "followingCount": 1132,
-            "postsCount": 38297,
-            "accountCreatedAt": "2020-08-11T03:24:32.286Z",
-            "profileUrl": "https://x.com/FroHelix",
-            "fetchedAt": "2026-08-19T16:11:44Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/frohelix",
+            "fetchedAt": "2026-10-26T14:17:49Z"
         }
     }
 }

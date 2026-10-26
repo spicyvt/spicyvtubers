@@ -5,35 +5,35 @@
         "login": "pegasuswitchvt",
         "displayName": "PegasusWitchVT",
         "createdAt": "2020-07-17T01:21:17.816888Z",
-        "updatedAt": "2026-08-19T02:51:20.574832Z",
+        "updatedAt": "2026-10-24T05:00:34.140348Z",
         "description": "Welcome to the Cloud Herd! My name is Selene, I'm a comfy cozy Pegasus mommy vtuber. I specialize with collabs, pokemon, tcg and asmr content. Come join me for some chaos and questionable fun! For Business inquiries: PegasusWitchSelene@gmail.com",
         "primaryColorHex": "F385DF",
         "followers": {
-            "totalCount": 8981
+            "totalCount": 9007
         },
         "follows": {
-            "totalCount": 1946
+            "totalCount": 1953
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T06:41:26.443688Z"
+            "startedAt": "2026-10-24T09:11:33.067343Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/405873ed-1b45-45b7-ac18-f91bbe3c440d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f276b931-0e0c-42a8-a359-0ffd143993cd-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:38:05Z"
+        "fetchedAt": "2026-10-26T13:39:39Z"
     },
     "fansly": {
         "id": "463694179269095424",
         "username": "PegasusWitchVT",
         "displayName": "Selene",
         "version": 10,
-        "followCount": 3877,
+        "followCount": 4175,
         "statusId": 3,
-        "accountMediaLikes": 1511,
-        "postLikes": 2059,
+        "accountMediaLikes": 1723,
+        "postLikes": 2188,
         "about": "Hey Baby~\nI'm Selene, your bratty pegasus mommy~ 🦄\nShe/Her | Pansexual \nI'm into collars, degradation, praise and creampies~\nContent posted on Sunday, Wednesday, Friday!\nWant to spoil me? https://throne.com/pegasuswitchvt \n🌈 LGBTQIA+ & kink friendly space\n\n⚠ All content on this page is protected by copyright law. Reproduction, copying, or distribution of any material, including live streams, is strictly prohibited without my express written consent. Unauthorized sharing or redistribution will result in immediate removal and a permanent ban from all affiliated platforms, with potential legal action. ⚠",
         "location": "On my Hands and Knees",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.gc3E6hbj3Ei2.m3u8",
                 "chatRoomId": "638573139583840256",
                 "status": 2,
-                "version": 35,
+                "version": 39,
                 "createdAt": 1709971730000,
                 "updatedAt": null,
                 "stream": {
                     "id": "622759230159462401",
-                    "historyId": "935784402980454400",
+                    "historyId": "968392352211169280",
                     "channelId": "622759230159462400",
                     "accountId": "463694179269095424",
-                    "title": "Last stream before Offkai~",
+                    "title": "Mommy missed you so much~ Come give her some love",
                     "status": 1,
-                    "viewerCount": 27,
-                    "version": 5679,
+                    "viewerCount": 32,
+                    "version": 5689,
                     "createdAt": 1709971731000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1784606952000,
-                    "startedAt": 1784602747000,
+                    "lastFetchedAt": 1792381744000,
+                    "startedAt": 1792377088000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:03Z"
+        "fetchedAt": "2026-10-26T14:58:53Z"
     },
     "twitter": {
         "pegasuswitchvt": {
-            "id": "1313192100989730817",
+            "id": null,
             "handle": "pegasuswitchvt",
             "displayName": "Selene | Pegasus Vtuber",
             "description": "🔞Pegasus Mommy \nBookkeeper w/ @SocksAgency\nSocial manager w/ @TeaTomesStudio\n@twitch Partner \n@gamersupps Code: Pegasussy \nma: @da3iann Pa: @KH_626",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1954762913723322369/KUXRt_Br_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1313192100989730817/1711615835/1500x500",
-            "followersCount": 11078,
-            "followingCount": 5503,
-            "postsCount": 13815,
-            "accountCreatedAt": "2020-10-05T18:59:36.965Z",
-            "profileUrl": "https://x.com/PegasusWitchVT",
-            "fetchedAt": "2026-08-19T16:06:49Z"
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2112706468935831552/L7qnODxB_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1313192100989730817/1792716648/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/pegasuswitchvt",
+            "fetchedAt": "2026-10-26T14:12:40Z"
         }
     }
 }

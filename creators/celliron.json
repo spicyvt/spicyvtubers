@@ -5,35 +5,35 @@
         "login": "celliron",
         "displayName": "Celliron",
         "createdAt": "2014-11-24T06:59:39.497683Z",
-        "updatedAt": "2026-07-29T17:31:41.316333Z",
+        "updatedAt": "2026-10-14T22:22:21.033724Z",
         "description": "✧𝒀𝑶𝑼 𝑺𝑼𝑴𝑴𝑶𝑵𝑬𝑫 𝑴𝑬.ᐣ ✧  I'm a comfy chaos streamer who creates other vtubers. ",
         "primaryColorHex": "0E0E10",
         "followers": {
-            "totalCount": 3693
+            "totalCount": 3694
         },
         "follows": {
-            "totalCount": 466
+            "totalCount": 464
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-29T18:48:56.958931Z"
+            "startedAt": "2026-10-02T18:10:53.133649Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f46b36c-4369-4672-ac45-d68eba974588-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cabbd850-11f3-4e53-8ab0-a7c7db1753c1-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:45:13Z"
+        "fetchedAt": "2026-10-26T13:46:41Z"
     },
     "fansly": {
         "id": "322583082735509504",
         "username": "celliron",
         "displayName": null,
         "version": 3,
-        "followCount": 5172,
+        "followCount": 5245,
         "statusId": 1,
-        "accountMediaLikes": 6346,
-        "postLikes": 15754,
+        "accountMediaLikes": 6398,
+        "postLikes": 15894,
         "about": "Hi Hi cutie~\nThis is where I'll be posting lewdness.\n\n:*☆Horny Time Streams Fridays 8pm CST ☆*\n\nhttps://www.twitch.tv/celliron\nhttps://throne.com/celliron\n\nCum talk to me. DMs open for Subs <3",
         "location": "",
         "streaming": {
@@ -44,33 +44,24 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9VURoUde0ZG9.m3u8",
                 "chatRoomId": "360643652004884480",
                 "status": 2,
-                "version": 15,
+                "version": 18,
                 "createdAt": 1647478135000,
                 "updatedAt": null,
                 "stream": {
                     "id": "360642094345236481",
-                    "historyId": "944813513354788865",
+                    "historyId": "967265753201930240",
                     "channelId": "360642094345236480",
                     "accountId": "322583082735509504",
-                    "title": "Cumfy and Chill  - Buzz Buddies Assemble!",
+                    "title": "Cum and Chill  - WEBCAM and L2D - Buzz Buddies Assemble!",
                     "status": 1,
-                    "viewerCount": 10,
-                    "version": 3076,
+                    "viewerCount": 12,
+                    "version": 3094,
                     "createdAt": 1647478136000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786758911000,
-                    "startedAt": 1786755455000,
+                    "lastFetchedAt": 1792114349000,
+                    "startedAt": 1792108486000,
                     "permissions": {
-                        "permissionFlags": [
-                            {
-                                "id": "908930274086100993",
-                                "streamId": "360642094345236481",
-                                "type": 0,
-                                "flags": 2,
-                                "price": 0,
-                                "metadata": ""
-                            }
-                        ]
+                        "permissionFlags": []
                     }
                 },
                 "arn": null,
@@ -78,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:20Z"
+        "fetchedAt": "2026-10-26T15:00:04Z"
     },
     "twitter": {
         "celliron": {
-            "id": "2847529623",
+            "id": null,
             "handle": "celliron",
             "displayName": "Celli✨",
             "description": "✧𝒀𝑶𝑼 𝑺𝑼𝑴𝑴𝑶𝑵𝑬𝑫 𝑴𝑬.ᐣ ✧\n#vtuber #ENvtuber #lewdtuber\nhttps://t.co/wOSHf6rlsj\nComms:  🟢",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1969423316323561472/OkHestP3_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2847529623/1758382084/1500x500",
-            "followersCount": 2033,
-            "followingCount": 865,
-            "postsCount": 8246,
-            "accountCreatedAt": "2014-10-28T00:59:12.937Z",
-            "profileUrl": "https://x.com/Celliron",
-            "fetchedAt": "2026-08-19T16:19:25Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/celliron",
+            "fetchedAt": "2026-10-26T14:25:52Z"
         }
     }
 }

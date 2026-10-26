@@ -5,35 +5,35 @@
         "login": "nalithea",
         "displayName": "Nalithea",
         "createdAt": "2022-05-06T23:05:48.329092Z",
-        "updatedAt": "2026-08-01T09:40:34.813108Z",
+        "updatedAt": "2026-10-20T16:20:51.47375Z",
         "description": "",
         "primaryColorHex": "FFA3EE",
         "followers": {
-            "totalCount": 15904
+            "totalCount": 15812
         },
         "follows": {
-            "totalCount": 214
+            "totalCount": 217
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-01T10:59:47.126685Z"
+            "startedAt": "2026-10-20T17:57:02.744352Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b7daa2e-b080-4973-a368-5e9580296dd1-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b08db32b-fcf8-4436-8bf1-eac81b3e1587-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:41:04Z"
+        "fetchedAt": "2026-10-26T13:42:37Z"
     },
     "fansly": {
         "id": "452151209327861760",
         "username": "Nalithea",
         "displayName": "Nalithea",
-        "version": 4,
-        "followCount": 9119,
+        "version": 5,
+        "followCount": 9574,
         "statusId": 2,
-        "accountMediaLikes": 9288,
-        "postLikes": 5977,
+        "accountMediaLikes": 9639,
+        "postLikes": 6149,
         "about": "Hey, I'm Nalithea💖\nMy streams are FREE for all FOLLOWERS😍\nPlease enjoy yourself by using my content😘\n💕Here are all my socials -> https://nalithea.com <- 💕\n\nAbout me:\n⬆️Solo-leveling on Fansly⬆️\n✨Slavic girl from Eastern Europe✨\n💃Retired actress & rhythmic gymnast🤸\n👁️Knowing a lot about the human eye & optics👓\n🎮Passionate for fast-paced & dynamic video games 🎮\n\n",
         "location": "In ur mind",
         "streaming": {
@@ -86,22 +86,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:36Z"
+        "fetchedAt": "2026-10-26T14:59:26Z"
     },
     "twitter": {
         "nalitheavt": {
-            "id": "1510060790618935296",
+            "id": null,
             "handle": "nalitheavt",
             "displayName": "Nalithea Vtuber",
             "description": "💖Community funded adult entertainment Vtuber💖\n🥵My spicy stuff is here➡️https://t.co/Rtf7nrBq2S 🥵\n💋Honoring my supporters here➡️@SugarTheNali 💋",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2053856005176332288/ax-vW9YT_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1510060790618935296/1778512280/1500x500",
-            "followersCount": 2880,
-            "followingCount": 498,
-            "postsCount": 6718,
-            "accountCreatedAt": "2022-04-02T01:05:51.213Z",
-            "profileUrl": "https://x.com/NalitheaVT",
-            "fetchedAt": "2026-08-19T16:12:28Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nalitheavt",
+            "fetchedAt": "2026-10-26T14:18:33Z"
         }
     }
 }

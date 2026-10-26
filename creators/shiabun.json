@@ -5,35 +5,35 @@
         "login": "shiabun",
         "displayName": "ShiaBun",
         "createdAt": "2014-02-12T06:59:23.86259Z",
-        "updatedAt": "2026-08-17T03:57:38.548567Z",
+        "updatedAt": "2026-10-26T02:52:19.702897Z",
         "description": "Dumpy BUNtuber :)",
         "primaryColorHex": "FA1ED2",
         "followers": {
-            "totalCount": 70520
+            "totalCount": 72582
         },
         "follows": {
-            "totalCount": 492
+            "totalCount": 496
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T04:25:35.245928Z"
+            "startedAt": "2026-10-26T03:43:01.855019Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e671301f-4fd1-425a-94e3-c1db488f4838-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d7df703-b340-442e-a8c8-165e26f8bd09-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:56:06Z"
+        "fetchedAt": "2026-10-26T13:57:35Z"
     },
     "fansly": {
         "id": "564881820202573824",
         "username": "ShiaBun",
         "displayName": "ShiaBun",
         "version": 8,
-        "followCount": 6919,
+        "followCount": 7247,
         "statusId": 1,
-        "accountMediaLikes": 4526,
-        "postLikes": 6567,
+        "accountMediaLikes": 4747,
+        "postLikes": 6908,
         "about": "Vtuber ;3\n\n🐰NSFW Games/Streams\n🐰NSFW Art/Animations \n🐰VTuber\n🐰BTS & More",
         "location": "Stardust City",
         "streaming": {
@@ -69,36 +69,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:43Z"
+        "fetchedAt": "2026-10-26T15:01:32Z"
     },
     "twitter": {
         "shiabun": {
-            "id": "893179246247649281",
+            "id": null,
             "handle": "shiabun",
             "displayName": "Shia 🐰| VchiBan✨",
             "description": "♡ BUNTuber 🐰 ♡ Game Dev ♡ Singing Guy ♡ 🎨 #ShiaBun 🔞#ShiaBussy ♡ 📧 shiabun@vchiban.com",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1944114882745393152/3MTBYM70_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/893179246247649281/1759341147/1500x500",
-            "followersCount": 37146,
-            "followingCount": 514,
-            "postsCount": 11107,
-            "accountCreatedAt": "2017-08-03T18:38:21.601Z",
-            "profileUrl": "https://x.com/ShiaBun",
-            "fetchedAt": "2026-08-19T16:36:54Z"
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2099211599265599488/lcG127S8_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/893179246247649281/1789326032/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/shiabun",
+            "fetchedAt": "2026-10-26T14:44:32Z"
         },
         "shiabussy": {
-            "id": "1551224842271313921",
+            "id": null,
             "handle": "shiabussy",
             "displayName": "Shia 🔞",
             "description": "🔞For all posts #ShiaBussy 🔞\nNSFW account for @ShiaBun",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1635031276850753541/BHezRKo9_400x400.jpg",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2104981709523456001/EbFA099R_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551224842271313921/1658676014/1500x500",
-            "followersCount": 5854,
-            "followingCount": 4,
-            "postsCount": 114,
-            "accountCreatedAt": "2022-07-24T15:16:47.801Z",
-            "profileUrl": "https://x.com/ShiaBussy",
-            "fetchedAt": "2026-08-19T16:36:56Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/shiabussy",
+            "fetchedAt": "2026-10-26T14:44:34Z"
         }
     }
 }

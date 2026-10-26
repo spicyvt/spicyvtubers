@@ -5,35 +5,35 @@
         "login": "oravty",
         "displayName": "Oravty",
         "createdAt": "2015-07-18T06:04:36.181777Z",
-        "updatedAt": "2026-08-17T19:08:04.499979Z",
+        "updatedAt": "2026-10-18T18:58:51.097433Z",
         "description": "eCat",
         "primaryColorHex": "00C7AC",
         "followers": {
-            "totalCount": 3605
+            "totalCount": 3611
         },
         "follows": {
-            "totalCount": 403
+            "totalCount": 417
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T22:33:07.699804Z"
+            "startedAt": "2026-10-19T02:56:40.246637Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fb487b8-0a47-4baf-bed4-cc2a204d1869-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ef21c5f-16fa-43a9-b934-d89f2a2f0afe-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:59:15Z"
+        "fetchedAt": "2026-10-26T14:00:44Z"
     },
     "fansly": {
         "id": "773114409064083456",
         "username": "Oravty",
         "displayName": "Ora",
         "version": 10,
-        "followCount": 107,
+        "followCount": 108,
         "statusId": 3,
-        "accountMediaLikes": 186,
-        "postLikes": 166,
+        "accountMediaLikes": 189,
+        "postLikes": 168,
         "about": "eCat\nWelcome to my page, I won't post very frequently unless I want to\n\nExpect mostly Irl and maybe some art bonuses",
         "location": "",
         "streaming": {
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:48:15Z"
+        "fetchedAt": "2026-10-26T15:02:00Z"
     },
     "twitter": {
         "oravty": {
-            "id": "4809933208",
+            "id": null,
             "handle": "oravty",
             "displayName": "Ora",
             "description": "eCat 🔞\nhttps://t.co/DQ61uUG0YB",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1930824472929476608/MM-9bOT1_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/4809933208/1643747067/1500x500",
-            "followersCount": 2893,
-            "followingCount": 1672,
-            "postsCount": 1436,
-            "accountCreatedAt": "2016-01-15T02:25:26.548Z",
-            "profileUrl": "https://x.com/Oravty",
-            "fetchedAt": "2026-08-19T16:42:01Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/oravty",
+            "fetchedAt": "2026-10-26T14:49:47Z"
         }
     }
 }

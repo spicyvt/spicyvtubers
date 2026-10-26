@@ -5,32 +5,32 @@
         "login": "rawrumii",
         "displayName": "rawrumii",
         "createdAt": "2025-09-10T06:16:33.091855Z",
-        "updatedAt": "2026-08-17T00:06:14.277514Z",
+        "updatedAt": "2026-10-20T21:44:02.516629Z",
         "description": " Bratty Gremlin Ruler of your heart! ❤️‍🩹🗝️ ",
         "primaryColorHex": "F6965E",
         "followers": {
-            "totalCount": 1754
+            "totalCount": 1869
         },
         "follows": {
-            "totalCount": 103
+            "totalCount": 108
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T02:13:43.739207Z"
+            "startedAt": "2026-10-20T02:32:18.565998Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e44024a-cf40-4e9f-ae36-7567b64b747a-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b7b3c74-4706-4d64-b057-18f844c9cc9b-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:41:40Z"
+        "fetchedAt": "2026-10-26T13:43:13Z"
     },
     "fansly": {
         "id": "915752730344050688",
         "username": "rawrumii",
         "displayName": "Rawrumii",
         "version": 4,
-        "followCount": 13,
+        "followCount": 20,
         "statusId": 1,
         "accountMediaLikes": 0,
         "postLikes": 0,
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:41Z"
+        "fetchedAt": "2026-10-26T14:59:31Z"
     },
     "twitter": {
         "rawrumii": {
-            "id": "1943142681397596160",
+            "id": null,
             "handle": "rawrumii",
             "displayName": "Rawrumii ❤️‍🩹🗝️",
             "description": "Bratty Ruler of Your Heart!~ Grem Vtuber ❤️‍🩹🗝️ | ASMRist/VA 🔞| ママ:@Sara_hana99 パパ:＠Cypurrpunk | Part of @E0N_Official",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2088110473572974592/phH0rZBV_400x400.jpg",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2093719957280264192/Ez-Z2ZgC_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1943142681397596160/1782323388/1500x500",
-            "followersCount": 3002,
-            "followingCount": 240,
-            "postsCount": 4137,
-            "accountCreatedAt": "2025-07-10T02:58:38.237Z",
-            "profileUrl": "https://x.com/Rawrumii",
-            "fetchedAt": "2026-08-19T16:13:35Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/rawrumii",
+            "fetchedAt": "2026-10-26T14:19:45Z"
         }
     }
 }

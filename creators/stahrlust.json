@@ -5,11 +5,11 @@
         "login": "stahrlust",
         "displayName": "Stahrlust",
         "createdAt": "2022-08-05T15:14:55.948708Z",
-        "updatedAt": "2026-08-15T18:20:28.768069Z",
+        "updatedAt": "2026-10-24T18:53:21.76425Z",
         "description": "Welcome in, sweetie ♡ You can call me Stahr or Scarlet. From now on, let mommy make you feel comfortable and safe. You are not alone anymore, you are at home, little puppy. ♥ Kick: https://kick.com/stahrlust",
         "primaryColorHex": "640C0A",
         "followers": {
-            "totalCount": 24058
+            "totalCount": 24305
         },
         "follows": {
             "totalCount": 77
@@ -19,21 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-16T20:48:34.2094Z"
+            "startedAt": "2026-10-25T20:49:46.581992Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/74abcfa3-50d8-4936-a84e-7912311bdbad-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/044688e3-8f63-4383-947b-b6685917c2fc-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:47:37Z"
+        "fetchedAt": "2026-10-26T13:49:04Z"
     },
     "fansly": {
         "id": "497536081286144000",
         "username": "Stahrlust",
         "displayName": null,
         "version": 4,
-        "followCount": 6993,
+        "followCount": 7241,
         "statusId": 3,
-        "accountMediaLikes": 1647,
-        "postLikes": 1127,
+        "accountMediaLikes": 1706,
+        "postLikes": 1162,
         "about": "Welcome in, sweetie ♡ You can call me Stahr or Scarlet. From now on, let mommy make you feel comfortable and safe. You are not alone anymore, you are at home, little puppy. ♥\n\n{pfp theMeowYin/EeYooAat}",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.OOvxgOLLueVU.m3u8",
                 "chatRoomId": "500117079756648448",
                 "status": 2,
-                "version": 93,
+                "version": 94,
                 "createdAt": 1680705699000,
                 "updatedAt": null,
                 "stream": {
                     "id": "500008596218585089",
-                    "historyId": "944755437415190528",
+                    "historyId": "970119825659543553",
                     "channelId": "500008596218585088",
                     "accountId": "497536081286144000",
-                    "title": "NSFW LIVE ☆ ASMR ☆ +18 ☆",
+                    "title": "NSFW LIVE ☆ ASMR ☆ +18 ☆ Spooky!",
                     "status": 1,
-                    "viewerCount": 57,
-                    "version": 9118,
+                    "viewerCount": 55,
+                    "version": 9134,
                     "createdAt": 1680705699000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786748629000,
-                    "startedAt": 1786741609000,
+                    "lastFetchedAt": 1792796411000,
+                    "startedAt": 1792788950000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:42Z"
+        "fetchedAt": "2026-10-26T15:00:31Z"
     },
     "twitter": {
         "stahrlust": {
-            "id": "1494775654495272962",
+            "id": null,
             "handle": "stahrlust",
             "displayName": "Stahrlust 💋❤️",
             "description": "🔞 Minors DNI 🔞\n\n☆ Kick Partner\n☆ Twitch Partner\n☆ Asmr Artist\n☆ Lewdtuber\n☆ #Stahrart #Stahrule\n☆ stahrlust@outlook.es\n\n{pfp theMeowYin/EeYooAat}",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2056515296731553793/fFDJYQdg_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1494775654495272962/1779146430/1500x500",
-            "followersCount": 4340,
-            "followingCount": 273,
-            "postsCount": 1665,
-            "accountCreatedAt": "2022-02-18T20:47:55.121Z",
-            "profileUrl": "https://x.com/Stahrlust",
-            "fetchedAt": "2026-08-19T16:23:34Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/stahrlust",
+            "fetchedAt": "2026-10-26T14:30:13Z"
         }
     },
     "rplay": {
@@ -101,7 +101,6 @@
             "for-men",
             "va",
             "japanese",
-            "korean",
             "_67c34beed360d389b4e02fc7_",
             "kyc"
         ],
@@ -112,7 +111,7 @@
         "isLivestreamer": true,
         "customUrl": "stahrlust",
         "channelImage": "https://pb2.rplay.live/pics/b71ce7479e2c082224349e502c53e439",
-        "streamStartTime": "2026-08-14T21:06:59.000Z",
-        "fetchedAt": "2026-08-19T16:49:14Z"
+        "streamStartTime": "2026-10-23T20:56:00.000Z",
+        "fetchedAt": "2026-10-26T15:03:26Z"
     }
 }

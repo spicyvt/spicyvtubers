@@ -5,35 +5,35 @@
         "login": "meiiivgamer",
         "displayName": "MeiiiVGamer",
         "createdAt": "2020-10-27T03:41:00.074781Z",
-        "updatedAt": "2026-08-17T18:06:24.331356Z",
+        "updatedAt": "2026-10-24T18:29:53.903878Z",
         "description": "Hola Chibii hermoso! Bienvenido a mi canal soy Meiii VGamer una stremer con una voz chillona pero que te hará amarme tanto que querrás estar siempre aquí! Ponte cómodo que el momento del mankeo extremo va a comenzar! Juguemos Valorant o Minecraft o Fall Guys,ETC. Pero divirtámonos! ",
         "primaryColorHex": "FF38DB",
         "followers": {
-            "totalCount": 12991
+            "totalCount": 12995
         },
         "follows": {
-            "totalCount": 75
+            "totalCount": 74
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T20:22:13.066809Z"
+            "startedAt": "2026-10-25T19:02:54.266638Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75bb64cf-83b7-4ac3-ba7d-9824c3cb1845-profile_image-300x300.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a9edba2-73f0-4499-909e-3f6deb23b98b-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:53:13Z"
+        "fetchedAt": "2026-10-26T13:54:40Z"
     },
     "fansly": {
         "id": "475783594053214208",
         "username": "MeiiiVGamer",
         "displayName": "MeiiiVGamer",
-        "version": 10,
-        "followCount": 4740,
+        "version": 11,
+        "followCount": 4834,
         "statusId": 1,
-        "accountMediaLikes": 6257,
-        "postLikes": 4863,
+        "accountMediaLikes": 7004,
+        "postLikes": 5570,
         "about": "Your new waifu | Vtuber | Locutora | Amante de los shooters | Creadora independiente💜| Diseñadora Gráfica 🖱️ | Mistress | Sugar Baby",
         "location": "MEXICO",
         "streaming": {
@@ -42,9 +42,9 @@
                 "id": "509209172139581441",
                 "accountId": "475783594053214208",
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Byjba5nKhXXK.m3u8",
-                "chatRoomId": null,
+                "chatRoomId": "955273066076717058",
                 "status": 2,
-                "version": 1,
+                "version": 3,
                 "createdAt": 1682899287000,
                 "updatedAt": null,
                 "stream": {
@@ -52,7 +52,7 @@
                     "historyId": null,
                     "channelId": "509209172139581441",
                     "accountId": "475783594053214208",
-                    "title": "",
+                    "title": "Mi primera transmisión 🙈🥵",
                     "status": 1,
                     "viewerCount": 0,
                     "version": 0,
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:26Z"
+        "fetchedAt": "2026-10-26T15:01:15Z"
     },
     "twitter": {
         "meiiivgamer": {
-            "id": "1513178621166473225",
+            "id": null,
             "handle": "meiiivgamer",
             "displayName": "MeiiiVGamer 🇲🇽🪬",
-            "description": "🔞 ExVtuber | Locutora | Twitch Afiliada | CC para @valorant | Goddess | 13 años siendo FIN DOM | Diseñadora Gráfica 🖱️contacto: Meiiivgamerbusiness@gmail.com",
+            "description": "🔞 | Locutora | Twitch Afiliada | Gamer Girl | Goddess 13 años siendo FINDOM | Diseñadora Gráfica 🖱️contacto: Meiiivgamerbusiness@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2014164914978340864/I4WBVgn5_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1513178621166473225/1778986212/1500x500",
-            "followersCount": 18448,
-            "followingCount": 777,
-            "postsCount": 3201,
-            "accountCreatedAt": "2022-04-10T15:34:57.140Z",
-            "profileUrl": "https://x.com/MeiiiVgamer",
-            "fetchedAt": "2026-08-19T16:32:05Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/meiiivgamer",
+            "fetchedAt": "2026-10-26T14:39:29Z"
         }
     }
 }

@@ -5,11 +5,11 @@
         "login": "hyangshine",
         "displayName": "hyangshine",
         "createdAt": "2020-09-01T21:38:03.138161Z",
-        "updatedAt": "2026-08-02T02:49:39.28672Z",
+        "updatedAt": "2026-10-22T15:53:33.643088Z",
         "description": "zhi/zhir or they/them",
         "primaryColorHex": "6518D8",
         "followers": {
-            "totalCount": 200
+            "totalCount": 204
         },
         "follows": {
             "totalCount": 20
@@ -19,22 +19,22 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T04:04:42.202387Z"
+            "startedAt": "2026-09-22T02:06:20.320267Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/88efd405-78d0-4850-8f15-2c18a2bac907-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f111e2f-555d-4dcb-8293-fb5de62a62a3-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:41:35Z"
+        "fetchedAt": "2026-10-26T13:43:08Z"
     },
     "fansly": {
         "id": "545261787616911360",
         "username": "hyangshineVR",
-        "displayName": "rae",
-        "version": 5,
-        "followCount": 2525,
+        "displayName": "raediance",
+        "version": 6,
+        "followCount": 2815,
         "statusId": 1,
-        "accountMediaLikes": 5215,
-        "postLikes": 3313,
-        "about": "☾ Moonstruck Sovereign ☽\n ☆ Rae | blasian | 26 | they/them | pansexual | switch ☆\n\n♡ Daily Posts ~ Pics/Vids/Gifs | Weekly Audios + Streams \n♡ Subs get VOD Access + Free Control Links on Stream \n\n☀︎ Keep up with my other socials ☀︎ \n୨୧ https://linktr.ee/hyangshine ୨୧\n\n❀ All transactions are final and non-refundable. \n❀ Discounts: All Verified LumiNyx Members get a 50% discount to Subs",
+        "accountMediaLikes": 5852,
+        "postLikes": 3779,
+        "about": "☾ Moonstruck Sovereign ☽\n ☆ Rae | blasian | 26 | they/them | pansexual | switch ☆\n\n♡ Daily Posts ~ Pics/Vids/Audios | Weekly Streams \n♡ Subs get DM + VOD Access + Free Control Links on Stream \n\n☀︎ Keep up with my other socials ☀︎ \n୨୧ https://linktr.ee/hyangshine ୨୧\n\n❀ All transactions are final and non-refundable. \n❀ Discounts: All Verified LumiNyx Members get a 50% discount to Subs",
         "location": "in my room",
         "streaming": {
             "accountId": "545261787616911360",
@@ -44,24 +44,41 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TNS0xEYOd4n2.m3u8",
                 "chatRoomId": "619372396532473856",
                 "status": 2,
-                "version": 260,
+                "version": 339,
                 "createdAt": 1709164183000,
                 "updatedAt": null,
                 "stream": {
                     "id": "619372132660424705",
-                    "historyId": "942233506308706305",
+                    "historyId": "970936417876201472",
                     "channelId": "619372132660424704",
                     "accountId": "545261787616911360",
-                    "title": "[ENG] On Break | Thank you for 2.5k <3 !rules !goals",
+                    "title": "[ENG] BP Grinding | Next VR Stream 10/28 | Last Week of !talktober ",
                     "status": 1,
-                    "viewerCount": 8,
-                    "version": 8235,
+                    "viewerCount": 10,
+                    "version": 8319,
                     "createdAt": 1709164184000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786407129000,
-                    "startedAt": 1786140333000,
+                    "lastFetchedAt": 1792992923000,
+                    "startedAt": 1792983641000,
                     "permissions": {
-                        "permissionFlags": []
+                        "permissionFlags": [
+                            {
+                                "id": "962244320771985408",
+                                "streamId": "619372132660424705",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "962244320771985409",
+                                "streamId": "619372132660424705",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"952665159023747072\\\",\\\"label\\\":\\\"Mods\\\"}\"}"
+                            }
+                        ]
                     }
                 },
                 "arn": null,
@@ -69,22 +86,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:41Z"
+        "fetchedAt": "2026-10-26T14:59:31Z"
     },
     "twitter": {
         "hyangshinevr": {
-            "id": "1738979249464217601",
+            "id": null,
             "handle": "hyangshinevr",
             "displayName": "rae",
             "description": "☾ Moonstruck Sovereign ☽\n☆ blasian | 26 | they/them ☆\n☀︎ 18+ VR Content Creator ☀︎",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1967689280043515904/Ht0Ucet4_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1738979249464217601/1757968743/1500x500",
-            "followersCount": 768,
-            "followingCount": 17,
-            "postsCount": 212,
-            "accountCreatedAt": "2023-12-24T17:45:52.783Z",
-            "profileUrl": "https://x.com/hyangshineVR",
-            "fetchedAt": "2026-08-19T16:13:26Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/hyangshinevr",
+            "fetchedAt": "2026-10-26T14:19:36Z"
         }
     }
 }

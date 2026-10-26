@@ -5,35 +5,35 @@
         "login": "skout",
         "displayName": "Skout",
         "createdAt": "2016-11-06T00:53:35.615928Z",
-        "updatedAt": "2026-08-19T08:29:14.112586Z",
+        "updatedAt": "2026-10-26T13:00:30.555908Z",
         "description": "A Cyber-Succubus from the deepest circle of the internet's hellscape. Check out my DMCA-free Tunes for your stream! || She/Her || Nintendo and Pew-Pew Addict || Business Inquiries Email: skoutvt@proton.me",
         "primaryColorHex": "EE6BFF",
         "followers": {
-            "totalCount": 12678
+            "totalCount": 13383
         },
         "follows": {
-            "totalCount": 1323
+            "totalCount": 1380
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T13:28:51.839796Z"
+            "startedAt": "2026-10-26T06:09:23.041997Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/99c09102-2a34-47dc-ac7a-775cf5eb0efd-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f2436b7-9592-4870-b829-e4714738c3d5-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:48:51Z"
+        "fetchedAt": "2026-10-26T13:50:17Z"
     },
     "fansly": {
         "id": "727690813219287041",
         "username": "Skout",
         "displayName": null,
         "version": 3,
-        "followCount": 2364,
+        "followCount": 2507,
         "statusId": 1,
-        "accountMediaLikes": 179,
-        "postLikes": 260,
+        "accountMediaLikes": 193,
+        "postLikes": 283,
         "about": "A Cyber-Succubus from the deepest circle of the internet's hellscape. Music Producer and Moan Maker xD...I game a lot here",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7ahLugwMXODY.m3u8",
                 "chatRoomId": "736023888307167232",
                 "status": 2,
-                "version": 93,
+                "version": 97,
                 "createdAt": 1736975829000,
                 "updatedAt": null,
                 "stream": {
                     "id": "736022630817083393",
-                    "historyId": "942377989633499136",
+                    "historyId": "962648406897991680",
                     "channelId": "736022630817083392",
                     "accountId": "727690813219287041",
-                    "title": "BLINDFOLDED TIL CHAT STOPS PUNISHING ME",
+                    "title": "[$1 Vibes] VIBRATOR RANDOMIZER",
                     "status": 1,
-                    "viewerCount": 23,
-                    "version": 4812,
+                    "viewerCount": 31,
+                    "version": 4818,
                     "createdAt": 1736975830000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786183106000,
-                    "startedAt": 1786174781000,
+                    "lastFetchedAt": 1791811859000,
+                    "startedAt": 1791007625000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:53Z"
+        "fetchedAt": "2026-10-26T15:00:43Z"
     },
     "twitter": {
         "skoutvt": {
-            "id": "1282103271310712832",
+            "id": null,
             "handle": "skoutvt",
-            "displayName": "Skout 😈⚡️HAG-DAY SATURDAY",
+            "displayName": "Skout 😈⚡️",
             "description": "Cyber-Succubus Vtuber and Music Producer😈 | @Twitch Partner | Model by @WayyVT | Rig by @Rabbitto88 | 🎨#SkoutArt\nBusiness Inquiries: skoutvt@proton.me",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1894849356877996032/uFIDdsNO_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1282103271310712832/1666903497/1500x500",
-            "followersCount": 1628,
-            "followingCount": 507,
-            "postsCount": 957,
-            "accountCreatedAt": "2020-07-12T00:03:47.600Z",
-            "profileUrl": "https://x.com/SkoutVT",
-            "fetchedAt": "2026-08-19T16:25:39Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/skoutvt",
+            "fetchedAt": "2026-10-26T14:32:32Z"
         }
     }
 }

@@ -5,35 +5,35 @@
         "login": "flosv",
         "displayName": "FlosV",
         "createdAt": "2017-02-16T22:09:05.66607Z",
-        "updatedAt": "2026-08-11T14:38:49.093878Z",
+        "updatedAt": "2026-10-22T12:08:42.506451Z",
         "description": "⛧Zmora Vtuber ⛧ Artist ⛧Business Contact: flosvbusiness@gmail.com",
         "primaryColorHex": "FF0099",
         "followers": {
-            "totalCount": 5889
+            "totalCount": 6079
         },
         "follows": {
-            "totalCount": 522
+            "totalCount": 535
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T14:09:51.963187Z"
+            "startedAt": "2026-10-24T19:34:58.695463Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22add1b1-be59-45f7-8be3-a29996db30c9-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/529a77fb-15e3-41da-b7be-737c0aaeb520-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:57:42Z"
+        "fetchedAt": "2026-10-26T13:59:11Z"
     },
     "fansly": {
         "id": "445392984477802496",
         "username": "FlosV",
         "displayName": null,
         "version": 4,
-        "followCount": 2696,
+        "followCount": 3059,
         "statusId": 3,
-        "accountMediaLikes": 637,
-        "postLikes": 581,
+        "accountMediaLikes": 659,
+        "postLikes": 605,
         "about": "🔮Zmora\n🌸SFW and NSFW media~\n✨Wholesome and Horny~\n💦Switching~ \n\n\n☄️ linktr.ee/flosv ☄️\n\nWhat happens on BLUE stays on BLUE - meaning, please keep whatever happens on my NSFW socials away from my discord, streams and so on. People who do not comply with this request will be banned. \n\nPlease remember that I indulge in a LOT of RP and you should not take everything at face value.\n\nYou may NOT reproduce, copy, or redistribute content posted here without my consent.\nAny UNAUTHORIZED action (redistribution, copy, reproduce or any of this sort) will be PROSECUTED LEAGALY. ",
         "location": "inside your walls ",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.I5Ua4tHxUnlu.m3u8",
                 "chatRoomId": "531582074126086144",
                 "status": 2,
-                "version": 13,
+                "version": 17,
                 "createdAt": 1688233177000,
                 "updatedAt": null,
                 "stream": {
                     "id": "531581129828872193",
-                    "historyId": "934166607431749632",
+                    "historyId": "968595622028406784",
                     "channelId": "531581129828872192",
                     "accountId": "445392984477802496",
-                    "title": "SO HORNY // RP With You // !menu !throne",
+                    "title": "Comfy MMO with your kitty~ // RP With You // !menu !throne",
                     "status": 1,
-                    "viewerCount": 85,
-                    "version": 7814,
+                    "viewerCount": 16,
+                    "version": 7830,
                     "createdAt": 1688233178000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1784227318000,
-                    "startedAt": 1784217035000,
+                    "lastFetchedAt": 1792430753000,
+                    "startedAt": 1792425551000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:59Z"
+        "fetchedAt": "2026-10-26T15:01:49Z"
     },
     "twitter": {
         "_flosv": {
-            "id": "398215420",
+            "id": null,
             "handle": "_flosv",
             "displayName": "𝔽𝕝𝕠𝕤𝕍 ✨",
             "description": "Zmora Vtuber // streamer //Art Tag: #flosvlust // Live Tag: #FlosVlive\nBanner - @LissoIllust // PfP - @Zhennii",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1934938968337899520/VOS_OkYw_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/398215420/1749463854/1500x500",
-            "followersCount": 912,
-            "followingCount": 857,
-            "postsCount": 1732,
-            "accountCreatedAt": "2011-10-25T18:58:39.000Z",
-            "profileUrl": "https://x.com/_FlosV",
-            "fetchedAt": "2026-08-19T16:39:32Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/_flosv",
+            "fetchedAt": "2026-10-26T14:47:09Z"
         }
     }
 }

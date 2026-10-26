@@ -5,35 +5,35 @@
         "login": "saddie_odearg",
         "displayName": "Saddie_ODearg",
         "createdAt": "2018-03-19T22:10:45.953658Z",
-        "updatedAt": "2026-08-17T18:36:15.169975Z",
+        "updatedAt": "2026-10-25T19:05:25.781044Z",
         "description": "VTuber/VStreamer & ASMRtist. The Witch gremlin GF you didn't ask for but that's a you problem~. My cat Luna loves to make an appearance. 🌙💙",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 990
+            "totalCount": 1160
         },
         "follows": {
-            "totalCount": 71
+            "totalCount": 77
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T20:53:24.945233Z"
+            "startedAt": "2026-10-25T21:30:42.102102Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a41e305f-49c3-4dfc-b58e-7229873a14b5-profile_image-300x300.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/35d40847-f654-4f03-955d-632f692945fa-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90987a10-334e-4fbc-ac3f-904c1ee71acd-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:54:22Z"
+        "fetchedAt": "2026-10-26T13:55:48Z"
     },
     "fansly": {
         "id": "846959301351206912",
         "username": "SaddieODearg",
         "displayName": null,
         "version": 5,
-        "followCount": 1030,
+        "followCount": 1652,
         "statusId": 2,
-        "accountMediaLikes": 350,
-        "postLikes": 260,
+        "accountMediaLikes": 538,
+        "postLikes": 351,
         "about": "Eldritch Goddess Vtuber, ASMRtist and artist. Mixing Vtubing with IRL occassionally.\n\nFree audios every week, subscribed members get the latest audio before release~\n\nBratty Switch to Mommy dom ♥\n\nTwitch: Saddie ODearg\nYoutube: Saddie O'Dearg\n\nSpoil me: https://throne.com/wevrynvt\nAll links: https://saddieodearg.carrd.co/\n\nMenu~\n\n🍆 Cock Rating - $3\n\n📸 Nude pic - $5\n\n🎤 5 min Custom ASMR - $10\n\n💕 Cock worship video - $15\n\n🎙️ 10 min Custom ASMR - $25\n\n📞 1 hour voice call* - $50\n\n*DM me first for availability.",
         "location": "Canada",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.OpzDXpOVCZLq.m3u8",
                 "chatRoomId": "909303578999406593",
                 "status": 2,
-                "version": 19,
+                "version": 20,
                 "createdAt": 1778288799000,
                 "updatedAt": null,
                 "stream": {
                     "id": "909301784328032257",
-                    "historyId": "946213349014663171",
+                    "historyId": "966497396068478977",
                     "channelId": "909301784328032256",
                     "accountId": "846959301351206912",
-                    "title": "Yapping time cuties~ !tips",
+                    "title": "Lets have some fun~ !tips",
                     "status": 1,
-                    "viewerCount": 16,
-                    "version": 46,
+                    "viewerCount": 11,
+                    "version": 60,
                     "createdAt": 1778288799000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1787092675000,
-                    "startedAt": 1787089202000,
+                    "lastFetchedAt": 1791929199000,
+                    "startedAt": 1791925295000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:32Z"
+        "fetchedAt": "2026-10-26T15:01:21Z"
     },
     "twitter": {
         "saddievt": {
-            "id": "1417919884810362881",
+            "id": null,
             "handle": "saddievt",
-            "displayName": "Saddie O'Dearg 🌙🇨🇦 |🔞| ASMR VTuber",
+            "displayName": "Saddie O&#x27;Dearg 🌙🇨🇦 |🔞| ASMR VTuber",
             "description": "Ancient | She/They | 🔞 Goddess/Witch Vtuber | Treat me well please 💙 |#saddillust | buisness: https://t.co/VinQ8A52Pm",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2061498185575485440/VSgw0fhY_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1417919884810362881/1779397074/1500x500",
-            "followersCount": 1020,
-            "followingCount": 15,
-            "postsCount": 361,
-            "accountCreatedAt": "2021-07-21T18:54:39.692Z",
-            "profileUrl": "https://x.com/SaddieVT",
-            "fetchedAt": "2026-08-19T16:33:51Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/saddievt",
+            "fetchedAt": "2026-10-26T14:41:20Z"
         }
     }
 }

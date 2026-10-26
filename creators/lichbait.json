@@ -5,35 +5,35 @@
         "login": "lichbait",
         "displayName": "Lichbait",
         "createdAt": "2012-12-26T19:57:42.723578Z",
-        "updatedAt": "2026-08-13T19:07:58.983677Z",
+        "updatedAt": "2026-10-22T21:20:03.568782Z",
         "description": "A Curator of the Dark Music and an Architect of Vibes",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 13176
+            "totalCount": 14534
         },
         "follows": {
-            "totalCount": 403
+            "totalCount": 402
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-13T21:25:46.463091Z"
+            "startedAt": "2026-10-22T23:05:35.231051Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/977d0083-90ca-4787-a784-d1c836aaded2-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82b1ccfb-40bb-4949-b066-ac93fd1a7a2a-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:56:09Z"
+        "fetchedAt": "2026-10-26T13:57:38Z"
     },
     "fansly": {
         "id": "391148913555415040",
         "username": "Lichbait",
         "displayName": "Lichbait",
         "version": 9,
-        "followCount": 10845,
+        "followCount": 11925,
         "statusId": 3,
-        "accountMediaLikes": 15671,
-        "postLikes": 19121,
+        "accountMediaLikes": 16029,
+        "postLikes": 19408,
         "about": "Socials:\n - Discord.gg/TheLichCult\n - Twitch.tv/Lichbait\n - KICK.com/Lichbait\n",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.p0E6vosGj1bf.m3u8",
                 "chatRoomId": "473764501829726208",
                 "status": 2,
-                "version": 4,
+                "version": 5,
                 "createdAt": 1674448510000,
                 "updatedAt": null,
                 "stream": {
                     "id": "473764046240227329",
-                    "historyId": "942566137726525440",
+                    "historyId": "965411457229402112",
                     "channelId": "473764046240227328",
                     "accountId": "391148913555415040",
-                    "title": "",
+                    "title": "just a wittle bday stweam",
                     "status": 1,
-                    "viewerCount": 316,
-                    "version": 4144,
+                    "viewerCount": 383,
+                    "version": 4152,
                     "createdAt": 1674448511000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786225459000,
-                    "startedAt": 1786219639000,
+                    "lastFetchedAt": 1791674038000,
+                    "startedAt": 1791666387000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:48Z"
+        "fetchedAt": "2026-10-26T15:01:32Z"
     },
     "twitter": {
         "lichbait": {
-            "id": "1149329689",
+            "id": null,
             "handle": "lichbait",
             "displayName": "Lichbait",
             "description": "Just a Cult Leader, using the power of dance to ensnare minions and take over the world at https://t.co/OMxqtcb4Vr\nhttps://t.co/WSfigEDWF2",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2054117687995912192/-JjVf_Pc_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1149329689/1726631648/1500x500",
-            "followersCount": 22621,
-            "followingCount": 1468,
-            "postsCount": 2984,
-            "accountCreatedAt": "2013-02-04T23:13:40.000Z",
-            "profileUrl": "https://x.com/Lichbait",
-            "fetchedAt": "2026-08-19T16:36:59Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lichbait",
+            "fetchedAt": "2026-10-26T14:44:38Z"
         },
         "lichbaitvr": {
-            "id": "1832738848817758208",
+            "id": null,
             "handle": "lichbaitvr",
             "displayName": "Lichbait",
-            "description": "Member of KICK's creator program at https://t.co/wbI0A2OdnD",
+            "description": "Member of KICK&#x27;s creator program at https://t.co/wbI0A2OdnD",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1832740061697224704/ksOJN3pP_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1832738848817758208/1725794256/1500x500",
-            "followersCount": 1933,
-            "followingCount": 182,
-            "postsCount": 22,
-            "accountCreatedAt": "2024-09-08T11:13:00.625Z",
-            "profileUrl": "https://x.com/LichbaitVR",
-            "fetchedAt": "2026-08-19T16:37:01Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lichbaitvr",
+            "fetchedAt": "2026-10-26T14:44:39Z"
         }
     }
 }

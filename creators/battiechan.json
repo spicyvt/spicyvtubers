@@ -5,35 +5,35 @@
         "login": "battiechan",
         "displayName": "BattieChan",
         "createdAt": "2018-06-20T17:15:55.730876Z",
-        "updatedAt": "2026-08-19T00:18:46.200256Z",
+        "updatedAt": "2026-10-23T22:33:06.357529Z",
         "description": "Your bat librarian guide to all things spooky, cozy, indie horror, and beyond! 💜🦇",
         "primaryColorHex": "4F2978",
         "followers": {
-            "totalCount": 6777
+            "totalCount": 6860
         },
         "follows": {
-            "totalCount": 1392
+            "totalCount": 1409
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T03:31:41.567207Z"
+            "startedAt": "2026-10-24T00:30:37.971436Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1a7915f-af1c-480b-8e0d-e38c613e331e-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e9923b5-150a-4f24-9d2d-799d73df767f-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:38:37Z"
+        "fetchedAt": "2026-10-26T13:40:08Z"
     },
     "fansly": {
         "id": "373957605376143360",
         "username": "battiechan",
         "displayName": "Battie-chan",
         "version": 3,
-        "followCount": 11186,
+        "followCount": 12360,
         "statusId": 2,
-        "accountMediaLikes": 8509,
-        "postLikes": 5827,
+        "accountMediaLikes": 9168,
+        "postLikes": 5987,
         "about": "🦇Hello Everybattie🦇\nIt’s me, your lewdsome bat girl 💜\nFollow ➡️ Horny Posting 😈│Battie NSFW Art 🎨\nSubscribe ➡️ IRL Nudes 📸│NSFW RP Audios │NSFW Streams 💦\nPfp: @sugara_777",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iRFIkfEgdHZw.m3u8",
                 "chatRoomId": "432851795740471296",
                 "status": 2,
-                "version": 87,
+                "version": 107,
                 "createdAt": 1664694233000,
                 "updatedAt": null,
                 "stream": {
                     "id": "432851643948609537",
-                    "historyId": "944814182438559744",
+                    "historyId": "960041011483009024",
                     "channelId": "432851643948609536",
                     "accountId": "373957605376143360",
-                    "title": "Back on the Track! Money in the Spank Bank Tourney 🏎️💨",
+                    "title": "Come Watch Me Get Stuffed!│Stuff It! Give-Away!",
                     "status": 1,
-                    "viewerCount": 26,
-                    "version": 9543,
+                    "viewerCount": 30,
+                    "version": 9553,
                     "createdAt": 1664694234000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786763225000,
-                    "startedAt": 1786755614000,
+                    "lastFetchedAt": 1790395384000,
+                    "startedAt": 1790385973000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:09Z"
+        "fetchedAt": "2026-10-26T14:58:58Z"
     },
     "twitter": {
         "battiechan_": {
-            "id": "1583495099178172416",
+            "id": null,
             "handle": "battiechan_",
-            "displayName": "Battie🦇💜",
-            "description": "Your bat librarian guide to all thing spooky, cozy, spicy, and beyond 💜🦇│ @ADVANCEDgg Ambassador│ VTuber│Voice Actor│🎨 Pfp: @ksenyvee Bg: @MenzieMoon",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1795273617917222912/yW6NRA5S_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1583495099178172416/1716860163/1500x500",
-            "followersCount": 18058,
-            "followingCount": 1860,
-            "postsCount": 12310,
-            "accountCreatedAt": "2022-10-21T16:27:33.504Z",
+            "displayName": "Battie🦇💜 Clown School Dropout 🤡",
+            "description": "Clown School Dropout 🤡 Your guide to the spooky, spicy, and always silly! 💜🦇│ @ADVANCEDgg Ambassador│ VTuber│Voice Actor│🎨 Model: @aesteryiix Bg: @dawizurd",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2112180955364429825/W8VkGWel_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1583495099178172416/1792418439/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/battiechan_",
-            "fetchedAt": "2026-08-19T16:07:55Z"
+            "fetchedAt": "2026-10-26T14:13:47Z"
         }
     }
 }

@@ -5,11 +5,11 @@
         "login": "loveablelexi",
         "displayName": "loveablelexi",
         "createdAt": "2024-05-10T03:13:17.046417Z",
-        "updatedAt": "2026-09-28T01:54:32.501135Z",
+        "updatedAt": "2026-10-26T01:57:54.202446Z",
         "description": "I make audios on YouTube and... other sites. Will write more soon!",
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 845
+            "totalCount": 856
         },
         "follows": {
             "totalCount": 8
@@ -19,11 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-09-28T03:50:30.182985Z"
+            "startedAt": "2026-10-26T03:55:04.924945Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d6114bd-dacc-470b-8f86-bf70b2b48764-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13f3dba0-e8fa-4e96-ae4d-3ac3c9395071-profile_banner-480.png",
-        "fetchedAt": "2026-10-01T22:10:59Z"
+        "fetchedAt": "2026-10-26T14:03:53Z"
     },
     "twitter": {
         "loveablelexivt": {
@@ -37,8 +37,8 @@
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/LoveableLexiVT",
-            "fetchedAt": "2026-10-01T22:11:02Z"
+            "profileUrl": "https://x.com/loveablelexivt",
+            "fetchedAt": "2026-10-26T14:55:07Z"
         },
         "lewdlexiaudios": {
             "id": null,
@@ -52,7 +52,7 @@
             "postsCount": null,
             "accountCreatedAt": null,
             "profileUrl": "https://x.com/lewdlexiaudios",
-            "fetchedAt": "2026-10-01T22:11:05Z"
+            "fetchedAt": "2026-10-26T14:55:08Z"
         }
     },
     "fansly": {
@@ -60,10 +60,10 @@
         "username": "lewdlexi",
         "displayName": "Lewd Lexi",
         "version": 4,
-        "followCount": 18386,
+        "followCount": 18875,
         "statusId": 3,
-        "accountMediaLikes": 10105,
-        "postLikes": 6146,
+        "accountMediaLikes": 10400,
+        "postLikes": 6456,
         "about": "You might know me from my lewd audios! I stream naughty stuff every Wednesday evening PDT, come join me! =)",
         "location": "",
         "streaming": {
@@ -74,26 +74,26 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.znJhfNuJV9zU.m3u8",
                 "chatRoomId": "727746232155381760",
                 "status": 2,
-                "version": 22,
+                "version": 25,
                 "createdAt": 1735002553000,
                 "updatedAt": null,
                 "stream": {
                     "id": "727746108582801409",
-                    "historyId": "961855525434183680",
+                    "historyId": "969485365184311298",
                     "channelId": "727746108582801408",
                     "accountId": "639381438428356608",
-                    "title": "Fresh Women~",
+                    "title": "Fresh Women!",
                     "status": 1,
-                    "viewerCount": 33,
-                    "version": 5993,
+                    "viewerCount": 30,
+                    "version": 6003,
                     "createdAt": 1735002553000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1790843231000,
-                    "startedAt": 1790818587000,
+                    "lastFetchedAt": 1792659365000,
+                    "startedAt": 1792637683000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "906395858277257217",
+                                "id": "964398755488997377",
                                 "streamId": "727746108582801409",
                                 "type": 0,
                                 "flags": 2,
@@ -108,6 +108,6 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-10-01T22:11:06Z"
+        "fetchedAt": "2026-10-26T15:02:28Z"
     }
 }

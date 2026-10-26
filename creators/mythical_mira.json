@@ -5,32 +5,32 @@
         "login": "mythical_mira",
         "displayName": "Mythical_Mira",
         "createdAt": "2018-01-20T22:09:06.88785Z",
-        "updatedAt": "2026-08-18T07:24:02.910448Z",
+        "updatedAt": "2026-10-25T23:09:17.957783Z",
         "description": " 🐙Eldritch spawn, @twitch Affiliate, model @Miko_png  #Mirart for fanart 🪸",
         "primaryColorHex": "5C16C5",
         "followers": {
-            "totalCount": 2674
+            "totalCount": 2703
         },
         "follows": {
-            "totalCount": 572
+            "totalCount": 587
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T11:23:32.879561Z"
+            "startedAt": "2026-10-26T03:09:29.882455Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d88fa16-f4c7-4a93-9f24-5166e34408a1-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77ea8a86-4b4a-465e-a7dd-f20beed6bc59-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:52:04Z"
+        "fetchedAt": "2026-10-26T13:53:30Z"
     },
     "fansly": {
         "id": "636495286830637056",
         "username": "Mythical_Mira",
         "displayName": "Mythical Mira ",
         "version": 16,
-        "followCount": 1551,
+        "followCount": 1545,
         "statusId": 1,
         "accountMediaLikes": 2471,
         "postLikes": 1341,
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:15Z"
+        "fetchedAt": "2026-10-26T15:01:04Z"
     },
     "twitter": {
         "mythical_mira": {
-            "id": "1095862005850750976",
+            "id": null,
             "handle": "mythical_mira",
-            "displayName": "🐙Mythical Mira 🪸",
-            "description": "🦑🪸\nDaughter of Cthulhu\nCrazy octopus and shy dragon vtuber\nLive2D model ( 🎨⚙️) @Miko_png\n\n#Mirart for fanart",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2068180882306023424/23dq0P2W_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1095862005850750976/1786440370/1500x500",
-            "followersCount": 990,
-            "followingCount": 811,
-            "postsCount": 5174,
-            "accountCreatedAt": "2019-02-14T01:47:17.141Z",
-            "profileUrl": "https://x.com/Mythical_mira",
-            "fetchedAt": "2026-08-19T16:30:11Z"
+            "displayName": "🐙Mythical Mira 🐉",
+            "description": "Daughter of Cthulhu \nCrazy octopus or Shy dragon Vtuber\nThe choice is yours \n\nLive2D model ( 🎨⚙️) @Miko_png\n\n#Mirart for fanart",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2111822719599902720/O0vqhSvL_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1095862005850750976/1788941114/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mythical_mira",
+            "fetchedAt": "2026-10-26T14:37:30Z"
         }
     }
 }

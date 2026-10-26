@@ -5,11 +5,11 @@
         "login": "kesuwuception",
         "displayName": "Kesuwuception",
         "createdAt": "2022-11-02T18:44:34.97187Z",
-        "updatedAt": "2026-08-15T16:33:22.266106Z",
+        "updatedAt": "2026-10-06T16:56:21.497261Z",
         "description": "✨It is bubblegum time ✨ Silly Chaotic Streamer who streams when she has the time to do so. Let's have a fantastic Time together!",
         "primaryColorHex": "F781DC",
         "followers": {
-            "totalCount": 2577
+            "totalCount": 2588
         },
         "follows": {
             "totalCount": 108
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-15T18:33:21.101624Z"
+            "startedAt": "2026-10-06T20:08:51.410989Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7265840f-df6f-4cda-95eb-7d2021689783-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bcf7496-fab4-4760-8879-8ae34ad1a2df-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:41:03Z"
+        "fetchedAt": "2026-10-26T13:42:36Z"
     },
     "fansly": {
         "id": "489201471938637824",
         "username": "Kesuwuception",
         "displayName": null,
         "version": 3,
-        "followCount": 942,
+        "followCount": 972,
         "statusId": 3,
-        "accountMediaLikes": 433,
-        "postLikes": 407,
+        "accountMediaLikes": 464,
+        "postLikes": 408,
         "about": "Fulltime Transgirl, Part-Time Vtuber.\nWill occasionally upload pics and do sus livestreams.\n\nReady to obsess over me~?\n\nImpressum: https://impressum4u.de/kesuwuception/",
         "location": "Germany",
         "streaming": {
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:36Z"
+        "fetchedAt": "2026-10-26T14:59:26Z"
     },
     "twitter": {
         "kesuwuception": {
-            "id": "1572617234589040642",
+            "id": null,
             "handle": "kesuwuception",
-            "displayName": "Kes 🍬 🫧 Your Bubblegum Princess 🩷",
-            "description": "Bubblegum Demon Vtuber. 🔞MDNI @Twitch Affiliate | Model Mama: @Kinnimin | Model Papa @Qijiuu799 IMPRESSUM: https://t.co/pAT8cw4Rwh",
+            "displayName": "Kes 🍬 🫧 Your BubblegumPrincess 🩷",
+            "description": "Bubblegum Demon Vtuber. 🔞MDNI @Twitch Affiliate | Model Mama: @Kinnimin | Model Papa @Qijiuu799 IMPRESSUM: https://t.co/pAT8cw4jGJ",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1982005858641817600/eEhMLA6A_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1572617234589040642/1757654232/1500x500",
-            "followersCount": 28291,
-            "followingCount": 1507,
-            "postsCount": 29615,
-            "accountCreatedAt": "2022-09-21T16:02:31.695Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/kesuwuception",
-            "fetchedAt": "2026-08-19T16:12:26Z"
+            "fetchedAt": "2026-10-26T14:18:32Z"
         }
     }
 }

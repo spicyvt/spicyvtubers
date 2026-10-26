@@ -5,32 +5,32 @@
         "login": "vtubersunhee",
         "displayName": "VTuberSunhee",
         "createdAt": "2016-05-24T19:11:04.254508Z",
-        "updatedAt": "2026-07-17T02:01:21.67804Z",
+        "updatedAt": "2026-10-23T19:52:32.973298Z",
         "description": "Local Delusional Anime Club President Today and Future Supreme Ruler of the World Tomorrow!",
         "primaryColorHex": "FFBF00",
         "followers": {
-            "totalCount": 34755
+            "totalCount": 34651
         },
         "follows": {
-            "totalCount": 303
+            "totalCount": 306
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-31T22:30:23.983381Z"
+            "startedAt": "2026-10-23T21:49:29.836449Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9168f0e1-b550-4e04-8564-eb79539bbdee-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/45288605-ebbb-4bd4-893f-a91560856f07-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:59:06Z"
+        "fetchedAt": "2026-10-26T14:00:35Z"
     },
     "fansly": {
         "id": "756046906324430848",
         "username": "AnimeClubAfterHours",
         "displayName": "VTuber Sunhee",
         "version": 7,
-        "followCount": 337,
+        "followCount": 346,
         "statusId": 1,
         "accountMediaLikes": 165,
         "postLikes": 634,
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:48:10Z"
+        "fetchedAt": "2026-10-26T15:02:00Z"
     },
     "twitter": {
         "vtubersunhee": {
-            "id": "1215680924769087488",
+            "id": null,
             "handle": "vtubersunhee",
             "displayName": "〚 VTuber 〛Sunhee 👑🌍",
             "description": "ꜱᴜɴʜᴇᴇ | ᴀɴɪᴍᴇ ᴄʟᴜʙ ᴘʀᴇꜱɪᴅᴇɴᴛ | @Twitch ᴘᴀʀᴛɴᴇʀ | @TheRogueEnergy ᴘᴀʀᴛɴᴇʀ | ᴍᴏᴅᴇʟ • @e2n8n | ʟɪᴠᴇ 2ᴅ • @RedShavel | 📨 vtubersunhee@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2076176043204116480/qXF9t95L_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1215680924769087488/1767730950/1500x500",
-            "followersCount": 28099,
-            "followingCount": 2182,
-            "postsCount": 15126,
-            "accountCreatedAt": "2020-01-10T17:05:05.663Z",
-            "profileUrl": "https://x.com/VTuberSunhee",
-            "fetchedAt": "2026-08-19T16:41:48Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/vtubersunhee",
+            "fetchedAt": "2026-10-26T14:49:29Z"
         }
     }
 }

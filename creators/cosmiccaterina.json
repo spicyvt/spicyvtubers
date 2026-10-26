@@ -5,35 +5,35 @@
         "login": "cosmiccaterina",
         "displayName": "CosmicCaterina",
         "createdAt": "2023-06-15T13:40:32.211793Z",
-        "updatedAt": "2026-08-18T13:09:39.29818Z",
+        "updatedAt": "2026-10-23T12:59:10.296615Z",
         "description": "Totally not sus and completely normal foxgirl being chaotic. Enjoyer of rpgs and random games",
         "primaryColorHex": "44335E",
         "followers": {
-            "totalCount": 1018
+            "totalCount": 1120
         },
         "follows": {
-            "totalCount": 158
+            "totalCount": 157
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T15:39:15.938341Z"
+            "startedAt": "2026-10-23T17:16:47.116511Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0fb980e-d8a9-4c14-86b0-0d8f5b5ee148-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c8e655c-463a-4360-a541-b090cbe2b05a-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:56:11Z"
+        "fetchedAt": "2026-10-26T13:57:40Z"
     },
     "fansly": {
         "id": "736496564184293376",
         "username": "Cosmiccaterina",
         "displayName": "CosmicCaterina",
         "version": 3,
-        "followCount": 2359,
+        "followCount": 2767,
         "statusId": 1,
-        "accountMediaLikes": 1194,
-        "postLikes": 650,
+        "accountMediaLikes": 1540,
+        "postLikes": 713,
         "about": "Your newest supernova desire!\nJust a bratty, poly, degen wanting to have a bit of fun <3\nDon't mind me, I can be a bit (very) oblivious sometimes",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yiQQG77diJB0.m3u8",
                 "chatRoomId": "817426579352203264",
                 "status": 2,
-                "version": 52,
+                "version": 56,
                 "createdAt": 1756383841000,
                 "updatedAt": null,
                 "stream": {
                     "id": "817425731825983489",
-                    "historyId": "945163334989135873",
+                    "historyId": "967932012809711616",
                     "channelId": "817425731825983488",
                     "accountId": "736496564184293376",
-                    "title": "Eepy and need to be quiet <3 Playing Pokemon Naughty version",
+                    "title": "Nothing spookier than being edged <3 Playing Pokemon: Naughty version",
                     "status": 1,
-                    "viewerCount": 15,
-                    "version": 90,
+                    "viewerCount": 22,
+                    "version": 96,
                     "createdAt": 1756383841000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786849280000,
-                    "startedAt": 1786838859000,
+                    "lastFetchedAt": 1792278032000,
+                    "startedAt": 1792267335000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:48Z"
+        "fetchedAt": "2026-10-26T15:01:32Z"
     },
     "twitter": {
         "cosmiccaterina": {
-            "id": "1669340175628136450",
+            "id": null,
             "handle": "cosmiccaterina",
             "displayName": "Caterina 🦊🌌 Supernova Fox",
             "description": "Just a little supernova foxgirl\nTwitch Affiliate | she/her | https://t.co/rShC5MmqQ4\npfp: @FebriiHan | banner: @RennataVelnatta",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1951081899503271936/_3qzlIzr_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1669340175628136450/1754009150/1500x500",
-            "followersCount": 149,
-            "followingCount": 87,
-            "postsCount": 152,
-            "accountCreatedAt": "2023-06-15T13:45:05.471Z",
-            "profileUrl": "https://x.com/CosmicCaterina",
-            "fetchedAt": "2026-08-19T16:37:03Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/cosmiccaterina",
+            "fetchedAt": "2026-10-26T14:44:41Z"
         }
     }
 }

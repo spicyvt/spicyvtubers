@@ -5,37 +5,37 @@
         "login": "pixeltinavt",
         "displayName": "pixeltinaVT",
         "createdAt": "2019-08-17T20:58:00.145244Z",
-        "updatedAt": "2026-08-15T00:59:50.052052Z",
+        "updatedAt": "2026-10-25T03:01:38.978753Z",
         "description": "Oh hola~!!   Bienvenido/a. Soy una DogVtuber y aqui podras encontrar un lugar en donde relajarte, platicar de tu día a día y sobre todo divertirte con mis ocurrencias y mis momentos fallidos en los videojuegos ✨",
         "primaryColorHex": "FFD37A",
         "followers": {
-            "totalCount": 913
+            "totalCount": 929
         },
         "follows": {
-            "totalCount": 265
+            "totalCount": 272
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-15T02:16:46.922851Z"
+            "startedAt": "2026-10-25T04:43:07.650777Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4255cada-2559-4966-91ff-19a45f0ec0db-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b270c597-e136-4bbd-9f69-3e7b10ea036a-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:49:34Z"
+        "fetchedAt": "2026-10-26T13:50:59Z"
     },
     "fansly": {
         "id": "593913896021012480",
         "username": "tinainuhime",
         "displayName": "Tina Inuhime",
         "version": 5,
-        "followCount": 61,
+        "followCount": 77,
         "statusId": 1,
-        "accountMediaLikes": 12,
-        "postLikes": 39,
-        "about": "Tina Okami Yoru | La Loba de la Noche\nDiosa del deseo, voz que excita, mirada que atrapa.\nNo reces... gime mi nombre.\n🐾 Aquí se adora con la piel y se confiesa con el cuerpo.",
-        "location": "",
+        "accountMediaLikes": 27,
+        "postLikes": 56,
+        "about": "Tina Okami Yoru | La Loba de la Noche\nDiosa del deseo, voz que excita, mirada que atrapa.\nNo reces... gime mi nombre.\n🐾 Aquí se adora con la piel y se confiesa con el cuerpo.\n\nSocial Media: guns.lol/pixeltinavt",
+        "location": "tu cama bb",
         "streaming": {
             "accountId": "593913896021012480",
             "channel": {
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:59Z"
+        "fetchedAt": "2026-10-26T15:00:48Z"
     },
     "twitter": {
         "pixeltinavt": {
-            "id": "1421264835912765442",
+            "id": null,
             "handle": "pixeltinavt",
-            "displayName": "PixelTina",
+            "displayName": "PixelTinavt",
             "description": "🐺 ワンワン!  ¡La canina de confianza! ¦ 🎤 Singer VTuber ¦ 💜 STREAM #TinaLive ¦ 💛 ART #PixelTinaArt ¦ 💬 FAN #pawpads.\n\nGreenDragonMCstudios",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2067316782918950912/gSV1U8Aj_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1421264835912765442/1781500536/1500x500",
-            "followersCount": 1096,
-            "followingCount": 1843,
-            "postsCount": 2856,
-            "accountCreatedAt": "2021-07-31T00:22:28.037Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/pixeltinavt",
-            "fetchedAt": "2026-08-19T16:26:44Z"
+            "fetchedAt": "2026-10-26T14:33:54Z"
         },
         "inuhimetina": {
             "id": null,
             "handle": "inuhimetina",
             "displayName": "InuHime Tina",
-            "description": "Tina Okami Yoru | La Loba de la Noche\nDiosa del deseo, voz que excita, mirada que atrapa.\nNo reces... gime mi nombre. 🔞 #lewdvtuber",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1950437743412097024/JtRh09R__400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1662986813445922816/1753855570/1500x500",
+            "description": "Tina Okami Yoru | La Loba de la Noche\nDiosa del deseo, voz que excita, mirada que atrapa.\nNo reces... gime mi nombre. 🔞 #lewdvtuber\n\nRedes:https://t.co/WVPyTFUzmu",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2090633080713199616/MMZHTRwL_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1662986813445922816/1787280744/1500x500",
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
-            "accountCreatedAt": "2023-05-29T01:00:16.905Z",
-            "profileUrl": "https://x.com/InuhimeTina",
-            "fetchedAt": "2026-08-19T16:26:45Z"
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/inuhimetina",
+            "fetchedAt": "2026-10-26T14:33:56Z"
         }
     }
 }

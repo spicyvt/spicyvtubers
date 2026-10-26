@@ -5,35 +5,35 @@
         "login": "kitsunamii",
         "displayName": "Kitsunamii",
         "createdAt": "2020-03-24T21:27:01.188371Z",
-        "updatedAt": "2026-08-18T02:52:29.294871Z",
+        "updatedAt": "2026-10-21T19:34:05.228531Z",
         "description": "You can call me Nami!",
         "primaryColorHex": "84D5FF",
         "followers": {
-            "totalCount": 7826
+            "totalCount": 7953
         },
         "follows": {
-            "totalCount": 518
+            "totalCount": 542
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T06:08:58.690045Z"
+            "startedAt": "2026-10-21T19:33:41.566744Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0cc848b-cadb-4cb6-a0ea-d1600ceb349a-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/61c55d96-1f72-4d2b-bf27-1de714475780-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:38:04Z"
+        "fetchedAt": "2026-10-26T13:39:37Z"
     },
     "fansly": {
         "id": "462060613204455424",
         "username": "Kitsunamii",
         "displayName": "Kitsunamii",
         "version": 5,
-        "followCount": 21841,
+        "followCount": 21992,
         "statusId": 2,
-        "accountMediaLikes": 37088,
-        "postLikes": 29437,
+        "accountMediaLikes": 37954,
+        "postLikes": 29785,
         "about": "💗💗Hii~ my name is Nami and I'm a comfy Vtuber on Twitch.💗💗\n🥺I'm really new to doing things like this so please be patient with me!! 🥺\n\nI'm a little slow at DM's because I answer them and run my account all by myself but i try to keep up! 🥰🔞\n\nBy subbing to my Fansly you can find all kinds of cute things.\n｡ﾟ•┈୨♡୧┈• ｡ﾟ\n\n♡ My lewd thoughts\n♡ Lewd pics\n♡ Lingerie and cute outfits\n♡ Gifs and videos\n♡ Face tracking videos\n♡ Feet content\n♡ ASMR\n♡ Roleplay\n♡ Implied nudes\n♡ Nudes\n\n｡ﾟ•┈୨♡୧┈• ｡ﾟ\n\nI can do custom content for my high tiers or for a flat rate fee found in my Discord, or you can DM me. \n\nhttps://discord.gg/kitsunaughty\n \n•┈••✦ ❤ ✦••┈•\n My NSFW Wishlist https://throne.me/kitsunamii/wishlist\n",
         "location": "Under your bed",
         "streaming": {
@@ -41,7 +41,7 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:03Z"
+        "fetchedAt": "2026-10-26T14:58:53Z"
     },
     "twitter": {
         "satonanamin": {
@@ -59,18 +59,18 @@
             "fetchedAt": "2026-08-19T16:06:45Z"
         },
         "namikitsunami": {
-            "id": "1407665154754555904",
+            "id": null,
             "handle": "namikitsunami",
             "displayName": "💗 Nami 💗",
             "description": "💗Comfy Fox Vtuber! 💗  🎨 #Kitsunart 📸:CVR",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2085243476246188032/kVFTjAad_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1407665154754555904/1770785982/1500x500",
-            "followersCount": 22964,
-            "followingCount": 1529,
-            "postsCount": 3409,
-            "accountCreatedAt": "2021-06-23T11:41:49.386Z",
-            "profileUrl": "https://x.com/NamiKitsunami",
-            "fetchedAt": "2026-08-19T16:06:47Z"
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1407665154754555904/1791536052/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/namikitsunami",
+            "fetchedAt": "2026-10-26T14:12:38Z"
         },
         "namiii": {
             "id": null,
@@ -83,8 +83,8 @@
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/Namiii",
-            "fetchedAt": "2026-09-21T00:31:36Z"
+            "profileUrl": "https://x.com/namiii",
+            "fetchedAt": "2026-10-26T14:12:36Z"
         }
     }
 }

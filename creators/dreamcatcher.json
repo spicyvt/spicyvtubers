@@ -5,35 +5,35 @@
         "login": "dreamcatcher",
         "displayName": "Dreamcatcher",
         "createdAt": "2019-04-04T04:24:36.267533Z",
-        "updatedAt": "2026-08-17T23:08:06.378877Z",
+        "updatedAt": "2026-10-24T21:55:53.540432Z",
         "description": "Goddess Dream of the House of Baja Blast || 18+ ASMR & Gaming || business inquiries: dreamvtuber@gmail.com",
         "primaryColorHex": "0EEBC2",
         "followers": {
-            "totalCount": 81625
+            "totalCount": 81414
         },
         "follows": {
-            "totalCount": 55
+            "totalCount": 59
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T02:35:27.098877Z"
+            "startedAt": "2026-10-25T02:10:36.07313Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/15955d76-c342-47fc-98b7-749a5782aad9-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7dd10ce2-8b09-4420-b7b8-dddaf0f48bb9-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:39:04Z"
+        "fetchedAt": "2026-10-26T13:40:35Z"
     },
     "fansly": {
         "id": "412899806545977344",
         "username": "DreamVtuber",
         "displayName": "Dream",
         "version": 7,
-        "followCount": 14622,
+        "followCount": 14948,
         "statusId": 3,
-        "accountMediaLikes": 6013,
-        "postLikes": 11191,
+        "accountMediaLikes": 6176,
+        "postLikes": 11354,
         "about": "🦇 Big tiddy goth milf🎃\n🥵 Lewd ASMR\n🎧Live streams every Friday night!\n\nLemme moan in your ear and make you feel good ;)\n\n**SUBS GET ACCESS TO ALL STREAMS & VODS!!**\n\n🎁Spoil me with something from my wishlist: https://throne.com/dreamcatcher",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.J6PlRMdsBagn.m3u8",
                 "chatRoomId": "413580216410054656",
                 "status": 2,
-                "version": 5,
+                "version": 7,
                 "createdAt": 1660099493000,
                 "updatedAt": null,
                 "stream": {
                     "id": "413579904286732289",
-                    "historyId": "944821027559464960",
+                    "historyId": "970189026772402176",
                     "channelId": "413579904286732288",
                     "accountId": "412899806545977344",
-                    "title": "Spoil me ;) !!! Intense horny ASMR time!",
+                    "title": "Spoil me ;) !!! Intense horny ASMR time! Countdown @ GOAL",
                     "status": 1,
-                    "viewerCount": 181,
-                    "version": 6830,
+                    "viewerCount": 196,
+                    "version": 6846,
                     "createdAt": 1660099493000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786762310000,
-                    "startedAt": 1786757246000,
+                    "lastFetchedAt": 1792808849000,
+                    "startedAt": 1792805449000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:14Z"
+        "fetchedAt": "2026-10-26T14:59:04Z"
     },
     "twitter": {
         "_dreamcatchers": {
-            "id": "798415966774366208",
+            "id": null,
             "handle": "_dreamcatchers",
             "displayName": "Dreamcatcher 🌮💚",
-            "description": "@Twitch Partner • ASMR & Gaming ✨Model 🎨 by @rikito99, rigging by @karamomokitchen 💌 dreamvtuber@gmail.com • https://t.co/P5XgFGsiW0",
+            "description": "@Twitch Partner • ASMR &amp; Gaming ✨Model 🎨 by @rikito99, rigging by @karamomokitchen 💌 dreamvtuber@gmail.com • https://t.co/P5XgFGsiW0",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1710442710014763008/Fg50DCPl_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/798415966774366208/1641276007/1500x500",
-            "followersCount": 14524,
-            "followingCount": 281,
-            "postsCount": 6172,
-            "accountCreatedAt": "2016-11-15T06:42:55.128Z",
-            "profileUrl": "https://x.com/_Dreamcatchers",
-            "fetchedAt": "2026-08-19T16:08:56Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/_dreamcatchers",
+            "fetchedAt": "2026-10-26T14:14:45Z"
         }
     }
 }

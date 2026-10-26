@@ -5,11 +5,11 @@
         "login": "root_vt",
         "displayName": "ROOT_vt",
         "createdAt": "2017-04-22T13:25:26.835552Z",
-        "updatedAt": "2026-08-18T07:54:36.818053Z",
+        "updatedAt": "2026-10-26T08:09:52.816599Z",
         "description": "18+!!! Hi. I legally own the title of degen. I do not have a particular set of skills. I'm basically not very skilled in anything. Often described as a cosmic horror that suffers from hyperfixation.",
         "primaryColorHex": "CEFFDA",
         "followers": {
-            "totalCount": 2764
+            "totalCount": 2895
         },
         "follows": {
             "totalCount": 684
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-15T19:46:04.185114Z"
+            "startedAt": "2026-10-24T14:31:29.780599Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c31d25c-0b6c-4695-aaa9-ff0949c22aca-profile_image-300x300.jpeg",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/341b7792-6346-4b89-82d8-066028ba49fa-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/324d3f72-4bcc-4360-b9ce-8486fafeef1c-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:42:16Z"
+        "fetchedAt": "2026-10-26T13:43:47Z"
     },
     "fansly": {
         "id": "502965807257493504",
         "username": "Root_vt",
         "displayName": "Root",
         "version": 5,
-        "followCount": 7226,
+        "followCount": 8478,
         "statusId": 1,
-        "accountMediaLikes": 1623,
-        "postLikes": 3048,
+        "accountMediaLikes": 1881,
+        "postLikes": 3174,
         "about": "Hi mid VTUBER here. I legally own the title of degenerate. I do not have a particular set of skills. I'm basically not very skilled in anything. Often described as a cosmic horror that suffers from hyperfixation.\nI want to post more risky content that other platforms won't let me hehe.\n\nAll the content I create on here is owned by me.\n\nFor any requests please DM me",
         "location": "Netherlands",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ezyNb19J94R0.m3u8",
                 "chatRoomId": "690684670278377472",
                 "status": 2,
-                "version": 6,
+                "version": 18,
                 "createdAt": 1726166230000,
                 "updatedAt": null,
                 "stream": {
                     "id": "690683882894274561",
-                    "historyId": "946112577404956674",
+                    "historyId": "970685098900865024",
                     "channelId": "690683882894274560",
                     "accountId": "502965807257493504",
-                    "title": "",
+                    "title": "WHAT am i doing? !toys",
                     "status": 1,
-                    "viewerCount": 9,
-                    "version": 7793,
+                    "viewerCount": 21,
+                    "version": 7831,
                     "createdAt": 1726166230000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1787079633000,
-                    "startedAt": 1787065176000,
+                    "lastFetchedAt": 1792936130000,
+                    "startedAt": 1792923722000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -94,22 +94,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:47Z"
+        "fetchedAt": "2026-10-26T14:59:37Z"
     },
     "twitter": {
         "root_vt": {
-            "id": "1417214235189338119",
+            "id": null,
             "handle": "root_vt",
             "displayName": "Root 📜🌿",
             "description": "Just a slow degenerate on the internet.\nママ: @Matsushima_QwQ | パパ: @datenshi_zakku\nPfp: @mekahonics\nhttps://t.co/ea3R6kYceQ\n🎨/ #Rool34",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1916814058415706112/Wj-ooW4N_400x400.jpg",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2111014024242454529/Un1GuGjP_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1417214235189338119/1746470776/1500x500",
-            "followersCount": 697,
-            "followingCount": 6884,
-            "postsCount": 2311,
-            "accountCreatedAt": "2021-07-19T20:07:58.272Z",
-            "profileUrl": "https://x.com/ROOT_vt",
-            "fetchedAt": "2026-08-19T16:14:33Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/root_vt",
+            "fetchedAt": "2026-10-26T14:20:45Z"
         }
     }
 }

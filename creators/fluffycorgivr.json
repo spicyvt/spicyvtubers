@@ -5,35 +5,35 @@
         "login": "fluffycorgivr",
         "displayName": "fluffycorgivr",
         "createdAt": "2016-08-21T13:34:42.117597Z",
-        "updatedAt": "2026-08-14T21:08:40.332261Z",
+        "updatedAt": "2026-10-23T05:01:41.895404Z",
         "description": "Just a silly dog ♥",
         "primaryColorHex": "FF2B80",
         "followers": {
-            "totalCount": 2032
+            "totalCount": 2513
         },
         "follows": {
-            "totalCount": 86
+            "totalCount": 88
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-14T22:43:02.911086Z"
+            "startedAt": "2026-10-23T07:23:27.675538Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d17c489e-b152-423d-88a1-539c7beaa13b-profile_image-300x300.png",
-        "bannerImageUrl": null,
-        "fetchedAt": "2026-08-19T15:40:32Z"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9fe06c97-f0e9-4164-bba7-b0e92ab6c9d4-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/df8b9cf2-4317-47ef-bd54-127200ed06ec-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T13:42:05Z"
     },
     "fansly": {
         "id": "505226305994760192",
         "username": "FluffyCorgi",
-        "displayName": "FluffyCorgiVR",
-        "version": 14,
-        "followCount": 20677,
+        "displayName": "FluffyCorgi",
+        "version": 15,
+        "followCount": 23251,
         "statusId": 2,
-        "accountMediaLikes": 71683,
-        "postLikes": 54587,
+        "accountMediaLikes": 77741,
+        "postLikes": 58888,
         "about": "I'm FluffyCorgi!\nSilly gal among many other things <3\nWelcome to my playspace <3\nVR x Lewdtuber ♥\nlinktr.ee/fluffycorgivr",
         "location": "In a doggy bed <3",
         "streaming": {
@@ -44,33 +44,24 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.woJkiuryBoYv.m3u8",
                 "chatRoomId": "561760763778183168",
                 "status": 2,
-                "version": 178,
+                "version": 218,
                 "createdAt": 1695408247000,
                 "updatedAt": null,
                 "stream": {
                     "id": "561675553711595521",
-                    "historyId": "946265606338928640",
+                    "historyId": "970194076236267520",
                     "channelId": "561675553711595520",
                     "accountId": "505226305994760192",
-                    "title": "Private Stream DNI ♥",
+                    "title": "Stuff me ♥ (Sex Machine Night♥)",
                     "status": 1,
-                    "viewerCount": 3,
-                    "version": 886,
+                    "viewerCount": 253,
+                    "version": 952,
                     "createdAt": 1695408247000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1787105895000,
-                    "startedAt": 1787101661000,
+                    "lastFetchedAt": 1792820969000,
+                    "startedAt": 1792806653000,
                     "permissions": {
-                        "permissionFlags": [
-                            {
-                                "id": "946266303025397760",
-                                "streamId": "561675553711595521",
-                                "type": 0,
-                                "flags": 128,
-                                "price": 0,
-                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"923766543861436416\\\",\\\"label\\\":\\\"PRIVATE STREAM\\\"}\"}"
-                            }
-                        ]
+                        "permissionFlags": []
                     }
                 },
                 "arn": null,
@@ -78,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:31Z"
+        "fetchedAt": "2026-10-26T14:59:20Z"
     },
     "twitter": {
         "fluffycorgivr": {
-            "id": "1642271226151284736",
+            "id": null,
             "handle": "fluffycorgivr",
             "displayName": "FluffyCorgiVR",
-            "description": "https://t.co/RdEafsXkHa\n+18 content\n No minors!\nFurry Account : @FloofyCorgiVR ♥",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2027486344969392128/DjDOIlJO_400x400.jpg",
+            "description": "https://t.co/RdEafsWMRC\n+18 content\n No minors!\nFurry Account : @FloofyCorgiVR ♥\nSFW ACCOUNTS : @fluffycorgivt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2091340398534778880/llkN6kmN_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1642271226151284736/1732697330/1500x500",
-            "followersCount": 16646,
-            "followingCount": 369,
-            "postsCount": 1089,
-            "accountCreatedAt": "2023-04-01T21:02:40.536Z",
-            "profileUrl": "https://x.com/FluffyCorgiVR",
-            "fetchedAt": "2026-08-19T16:11:29Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/fluffycorgivr",
+            "fetchedAt": "2026-10-26T14:17:34Z"
         },
         "floofycorgivr": {
             "id": null,
@@ -105,9 +96,9 @@
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
-            "accountCreatedAt": "2026-05-18T18:41:43.315Z",
-            "profileUrl": "https://x.com/FloofyCorgiVR",
-            "fetchedAt": "2026-08-19T16:11:30Z"
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/floofycorgivr",
+            "fetchedAt": "2026-10-26T14:17:35Z"
         }
     }
 }

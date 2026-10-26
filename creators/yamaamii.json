@@ -5,36 +5,36 @@
         "login": "yamaamii",
         "displayName": "yamaamii",
         "createdAt": "2025-07-14T21:40:36.17384Z",
-        "updatedAt": "2026-08-16T04:43:27.433933Z",
+        "updatedAt": "2026-10-24T00:52:58.946415Z",
         "description": "Hi, I'm Yama a punk cloud leopard I love all types of games mainly horror games and just chatting! ",
         "primaryColorHex": "BC854F",
         "followers": {
-            "totalCount": 1362
+            "totalCount": 2269
         },
         "follows": {
-            "totalCount": 148
+            "totalCount": 182
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-13T01:02:39.742492Z"
+            "startedAt": "2026-10-24T04:11:16.978082Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e65b6545-d502-44bb-90b3-babeb88ebea6-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09dbb3ec-bf5f-486d-8919-4c7037c10db3-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:40:41Z"
+        "fetchedAt": "2026-10-26T13:42:14Z"
     },
     "fansly": {
         "id": "899947064836767744",
         "username": "YamaAmii",
         "displayName": null,
         "version": 2,
-        "followCount": 63,
-        "statusId": 3,
-        "accountMediaLikes": 0,
-        "postLikes": 0,
-        "about": "mmm~ Hihi \n\nI'm Yama your favorite bratty leopard \nShe/They Pansexual \n\nStreams on Sunday, Wednesday! \n\n",
+        "followCount": 364,
+        "statusId": 1,
+        "accountMediaLikes": 4,
+        "postLikes": 16,
+        "about": "mmm~ Hihi \n\nI'm Yama your favorite bratty leopard \nShe/They Pansexual \n\n\n\n",
         "location": "On my knees",
         "streaming": {
             "accountId": "899947064836767744",
@@ -44,26 +44,26 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JRwkiMTdmSzH.m3u8",
                 "chatRoomId": "925952099546583040",
                 "status": 2,
-                "version": 5,
+                "version": 8,
                 "createdAt": 1782258484000,
                 "updatedAt": null,
                 "stream": {
                     "id": "925951851772276737",
-                    "historyId": "928246000483586048",
+                    "historyId": "949523226449420288",
                     "channelId": "925951851772276736",
                     "accountId": "899947064836767744",
-                    "title": "Test",
+                    "title": "Yapping ",
                     "status": 1,
-                    "viewerCount": 0,
-                    "version": 6,
+                    "viewerCount": 25,
+                    "version": 14,
                     "createdAt": 1782258485000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1782805874000,
-                    "startedAt": 1782805452000,
+                    "lastFetchedAt": 1792883558000,
+                    "startedAt": 1787878338000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "928247454116102144",
+                                "id": "949431556345192448",
                                 "streamId": "925951851772276737",
                                 "type": 0,
                                 "flags": 2,
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:31Z"
+        "fetchedAt": "2026-10-26T14:59:20Z"
     },
     "twitter": {
         "yamaamii_": {
-            "id": "1923453783495016449",
+            "id": null,
             "handle": "yamaamii_",
-            "displayName": "Yama Amii⛓️🐾 Debut Aug 21st",
-            "description": "⋆🐾° Punk Cloud Leopard °🐾⋆ ~ Minors DNI🔞\n Tags #Yammieart Live2D & Rigger @RouxBunz⛓ \nPFP: Sacchanartuwu⛓ Banner: Dokimasyy",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2087812724650827776/JhwkobEs_400x400.jpg",
+            "displayName": "Yama Amii⛓️🐾",
+            "description": "⋆🐾° Punk Cloud Leopard °🐾⋆ ~ Minors DNI🔞\n Tags #Yammieart Live2D &amp; Rigger @RouxBunz⛓ \nPFP: Sacchanartuwu⛓ Banner: Dokimasyy\n#yamiart",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2112774273668616193/tCWuYMrR_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1923453783495016449/1784961451/1500x500",
-            "followersCount": 1390,
-            "followingCount": 442,
-            "postsCount": 3086,
-            "accountCreatedAt": "2025-05-16T19:01:39.947Z",
-            "profileUrl": "https://x.com/YamaAmii_",
-            "fetchedAt": "2026-08-19T16:11:46Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/yamaamii_",
+            "fetchedAt": "2026-10-26T14:17:51Z"
         }
     }
 }

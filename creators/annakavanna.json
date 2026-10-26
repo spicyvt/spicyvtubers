@@ -5,11 +5,11 @@
         "login": "annakavanna",
         "displayName": "AnnaKavanna",
         "createdAt": "2017-09-18T16:20:34.764906Z",
-        "updatedAt": "2026-05-06T04:13:41.039649Z",
+        "updatedAt": "2026-10-14T00:19:11.618331Z",
         "description": "beep boop",
         "primaryColorHex": "47C5FF",
         "followers": {
-            "totalCount": 3369
+            "totalCount": 3365
         },
         "follows": {
             "totalCount": 300
@@ -19,11 +19,11 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-05-06T06:30:02.436638Z"
+            "startedAt": "2026-10-14T02:11:05.248665Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc558f05-d904-4458-a2f2-a6105d84b8cd-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cab776fd-fa46-4fca-b60f-2ced90f723cf-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:56:08Z"
+        "fetchedAt": "2026-10-26T13:57:37Z"
     },
     "fansly": {
         "id": "291714409544298496",
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:48Z"
+        "fetchedAt": "2026-10-26T15:01:32Z"
     },
     "twitter": {
         "annakavanna": {
-            "id": "502558702",
+            "id": null,
             "handle": "annakavanna",
             "displayName": "Anna",
-            "description": "A beep boop. I may even boop while I beep. It's a mood thing.\n\nThe machines will win, but it's okay we'll do it better anyways.",
+            "description": "A beep boop. I may even boop while I beep. It&#x27;s a mood thing.\n\nThe machines will win, but it&#x27;s okay we&#x27;ll do it better anyways.",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1735052696170979331/naZR122Y_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/502558702/1735344624/1500x500",
-            "followersCount": 1015,
-            "followingCount": 608,
-            "postsCount": 2006,
-            "accountCreatedAt": "2012-02-25T05:59:47.000Z",
-            "profileUrl": "https://x.com/Annakavanna",
-            "fetchedAt": "2026-08-19T16:36:57Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/annakavanna",
+            "fetchedAt": "2026-10-26T14:44:36Z"
         }
     }
 }

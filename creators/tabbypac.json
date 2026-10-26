@@ -5,35 +5,35 @@
         "login": "tabbypac",
         "displayName": "TabbyPac",
         "createdAt": "2016-09-03T21:43:28.684306Z",
-        "updatedAt": "2026-08-15T21:09:08.433945Z",
+        "updatedAt": "2026-10-19T21:06:41.145543Z",
         "description": "Stupid orange cat",
         "primaryColorHex": "FF8C00",
         "followers": {
-            "totalCount": 41124
+            "totalCount": 43391
         },
         "follows": {
-            "totalCount": 212
+            "totalCount": 213
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-16T00:05:16.362582Z"
+            "startedAt": "2026-10-19T22:53:09.153008Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/31aa80b8-45f8-4db8-804a-0bf3a8ba1eb2-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/710a53fa-9265-45bf-8bbd-130cc59e75c6-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:40:16Z"
+        "fetchedAt": "2026-10-26T13:41:49Z"
     },
     "fansly": {
         "id": "740520094685208576",
         "username": "TabbyPac",
         "displayName": null,
         "version": 9,
-        "followCount": 25524,
+        "followCount": 28437,
         "statusId": 1,
-        "accountMediaLikes": 25207,
-        "postLikes": 11482,
+        "accountMediaLikes": 35263,
+        "postLikes": 14513,
         "about": "Bratty femboy cat both in 2d and 3d ^-^\n\nFREE STREAMS FOR FOLLOWERS ✅\n\n- DMs OPEN 💌\n- Spicy Messages 🔥\n- Customs requests ❔\n- Ratings 🍆\n- Don’t be shy I love making custom content\n\nSometimes I get too excited so instead of moaning I start purring :33\n\nSend me gifts 🎁 \nhttps://throne.com/pac/wishlist",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.nP4UODRKvcFL.m3u8",
                 "chatRoomId": "810120813565988864",
                 "status": 2,
-                "version": 11,
+                "version": 12,
                 "createdAt": 1754610096000,
                 "updatedAt": null,
                 "stream": {
                     "id": "809986105184116737",
-                    "historyId": "912190046390472704",
+                    "historyId": "959280565251502080",
                     "channelId": "809986105184116736",
                     "accountId": "740520094685208576",
-                    "title": "Stream After Party",
+                    "title": "After Party Stream ",
                     "status": 1,
-                    "viewerCount": 100,
-                    "version": 66,
+                    "viewerCount": 112,
+                    "version": 72,
                     "createdAt": 1754610096000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1778984792000,
-                    "startedAt": 1778977414000,
+                    "lastFetchedAt": 1790210000000,
+                    "startedAt": 1790204669000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:31Z"
+        "fetchedAt": "2026-10-26T14:59:15Z"
     },
     "twitter": {
         "tabbypac": {
-            "id": "3302406122",
+            "id": null,
             "handle": "tabbypac",
             "displayName": "TabbyPac",
-            "description": "Your favorite cat #Vtuber | @Twitch & @YouTube Partner | Alt @TabbyPacNSFW | #TabbyPacArt",
+            "description": "Your favorite cat #Vtuber | @Twitch &amp; @YouTube Partner | Alt @TabbyPacNSFW | #TabbyPacArt",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1922376552198688768/pLPjjqz3_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3302406122/1739744697/1500x500",
-            "followersCount": 34726,
-            "followingCount": 320,
-            "postsCount": 3615,
-            "accountCreatedAt": "2015-07-31T12:21:19.940Z",
-            "profileUrl": "https://x.com/TabbyPac",
-            "fetchedAt": "2026-08-19T16:11:02Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/tabbypac",
+            "fetchedAt": "2026-10-26T14:17:05Z"
         },
         "tabbypacnsfw": {
-            "id": "1767877749304115200",
+            "id": null,
             "handle": "tabbypacnsfw",
             "displayName": "TabbySnac",
-            "description": "https://t.co/lSnqsUZtfT | #1 Fansly Femboy~ #TabbyPacNSFW 🔞 lewd posting from the goodest boy @TabbyPac",
+            "description": "https://t.co/nVrNxbAqKU | #1 Fansly Femboy~ #TabbyPacNSFW 🔞 lewd posting from the goodest boy @TabbyPac",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2034045156220174336/IreIyI1c_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1767877749304115200/1748725380/1500x500",
-            "followersCount": 25995,
-            "followingCount": 1,
-            "postsCount": 363,
-            "accountCreatedAt": "2024-03-13T11:38:04.162Z",
-            "profileUrl": "https://x.com/TabbyPacNSFW",
-            "fetchedAt": "2026-08-19T16:11:03Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/tabbypacnsfw",
+            "fetchedAt": "2026-10-26T14:17:07Z"
         }
     }
 }

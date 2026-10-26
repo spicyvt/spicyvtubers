@@ -5,35 +5,35 @@
         "login": "ava_lamp",
         "displayName": "Ava_Lamp",
         "createdAt": "2020-12-24T15:37:23.946701Z",
-        "updatedAt": "2026-08-15T18:25:34.99512Z",
+        "updatedAt": "2026-10-21T18:22:42.948819Z",
         "description": "Hello I am Ava. I am a lava lamp that gained sentience after a crazy party where a bunch of magical beings mixed some random things inside my lamp. I am a vtuber. ",
         "primaryColorHex": "F983E4",
         "followers": {
-            "totalCount": 26721
+            "totalCount": 26732
         },
         "follows": {
-            "totalCount": 464
+            "totalCount": 465
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-15T21:09:33.702448Z"
+            "startedAt": "2026-10-21T20:43:58.388474Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d6ed831-ec99-4c86-8bec-0e4fcd6053dd-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b30e6c61-15b1-4adc-9406-7241cd4935c9-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:35:43Z"
+        "fetchedAt": "2026-10-26T13:37:12Z"
     },
     "fansly": {
         "id": "492111983089295360",
         "username": "AvaLamp",
         "displayName": "Ava Lamp",
         "version": 8,
-        "followCount": 7360,
+        "followCount": 7874,
         "statusId": 3,
-        "accountMediaLikes": 8135,
-        "postLikes": 16359,
+        "accountMediaLikes": 9338,
+        "postLikes": 18593,
         "about": "I am a chaotically cozy gloopy gal that wants to make a gloopy mess out of you! \n\nMerch and Gifts\n❤️ Buy me presents on Throne: https://throne.com/avalamp\n❤️ Merch:  https://uwumarket.us/collections/ava-lamp \n\nSocials\n❤️ Twitter: https://twitter.com/ava_lamp\n❤️ Twitch: https://www.twitch.tv/ava_lamp\n❤️ Discord Server: https://discord.com/invite/UBM9qXTyuR\n❤️ YouTube: https://www.youtube.com/c/AvaLamp\n❤️ ASMR: https://www.youtube.com/@AvaLampASMR",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.mWW5kzAL05CC.m3u8",
                 "chatRoomId": "664658545274265600",
                 "status": 2,
-                "version": 61,
+                "version": 89,
                 "createdAt": 1719961289000,
                 "updatedAt": null,
                 "stream": {
                     "id": "664658476840005635",
-                    "historyId": "945152307882905600",
+                    "historyId": "970514768433520640",
                     "channelId": "664658476840005634",
                     "accountId": "492111983089295360",
-                    "title": "Clear Chair Fun",
+                    "title": "Kinks and Cantrips Lewd DnD",
                     "status": 1,
-                    "viewerCount": 34,
-                    "version": 7647,
+                    "viewerCount": 30,
+                    "version": 7673,
                     "createdAt": 1719961290000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786846208000,
-                    "startedAt": 1786836230000,
+                    "lastFetchedAt": 1792895064000,
+                    "startedAt": 1792883112000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:44:41Z"
+        "fetchedAt": "2026-10-26T14:58:31Z"
     },
     "twitter": {
         "ava_lamp": {
-            "id": "1341928350307274753",
+            "id": null,
             "handle": "ava_lamp",
-            "displayName": "Ava Lamp 💖 Vtuber 💖",
-            "description": "Chaotically Cozy Gyaru Gal💖 Twitch/YouTube Partner 💖\n  Business Email: AvaLampVT@gmail.com\nhttps://t.co/rrrXwYyFYV",
+            "displayName": "Ava Lamp 💖",
+            "description": "Chaotically Cozy Gyaru Gal💖 VFeet 💖Twitch/YouTube Partner 💖\n Business Email: AvaLampVT@gmail.com\nhttps://t.co/rrrXwYy89n",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2050413459003654145/0yuTXgkK_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1341928350307274753/1777691659/1500x500",
-            "followersCount": 30986,
-            "followingCount": 1497,
-            "postsCount": 28770,
-            "accountCreatedAt": "2020-12-24T02:07:15.824Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/ava_lamp",
-            "fetchedAt": "2026-08-19T16:02:25Z"
+            "fetchedAt": "2026-10-26T14:07:35Z"
         },
         "goddesssoleana": {
             "id": null,
@@ -97,8 +97,8 @@
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/GoddessSoleana",
-            "fetchedAt": "2026-09-11T19:32:59Z"
+            "profileUrl": "https://x.com/goddesssoleana",
+            "fetchedAt": "2026-10-26T14:07:37Z"
         }
     },
     "rplay": {
@@ -124,6 +124,6 @@
         "customUrl": null,
         "channelImage": "https://pb2.rplay.live/pics/88a4555d82309f21fd94d446d8e34bbb",
         "streamStartTime": null,
-        "fetchedAt": "2026-08-19T16:48:33Z"
+        "fetchedAt": "2026-10-26T15:02:50Z"
     }
 }

@@ -9,10 +9,10 @@
         "description": "Am a Kitsu, A fluffy fox that does cute things~ Am a mute Vtuber~           ",
         "primaryColorHex": "00F0F0",
         "followers": {
-            "totalCount": 124
+            "totalCount": 123
         },
         "follows": {
-            "totalCount": 11
+            "totalCount": 12
         },
         "roles": {
             "isPartner": false,
@@ -23,40 +23,68 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b04d937-debc-4c30-954d-7fdef8d39810-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9f84579-de3f-42b1-8a91-deecbc6f8008-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:40:57Z"
+        "fetchedAt": "2026-10-26T13:42:30Z"
     },
     "fansly": {
         "id": "473782831093391360",
         "username": "KitsuMitsuki",
         "displayName": "❄️KitsuVR🌸",
         "version": 21,
-        "followCount": 8252,
+        "followCount": 8444,
         "statusId": 3,
-        "accountMediaLikes": 17980,
-        "postLikes": 14103,
-        "about": "💙I do cute and lewd things~💙\nWill be doing pictures and videos and maybe some drawings too~\nFeel free to join and get lots of cuddles and support me ~\n~Shy & Mute~\n~Pet my fluffy tail~\n\n\n$1 Per Pic\n$20 For 5-10 minute video\n\n50% Off custom content for subs~",
+        "accountMediaLikes": 19430,
+        "postLikes": 15466,
+        "about": "Hai haii!! :3 💙🐾\n✧⋄⋆⋅⋆⋄💙⋄⋆⋅⋆⋄✧\nI do cute AND lewd things~ >//< 💙\nGonna be postin’ lotsa pictures, videos~\nFeel free to join meee and get allll the cuddles!!\nSupport your cute foxxie and I’ll always be here for youuu~ >.< 🐾💕\n~Shy & Mute~\n~Pet my fluffy tail~ >:3\n✧⋄⋆⋅⋆⋄💙⋄⋆⋅⋆⋄✧\n\n✨$1.00 → 1 Picture\n✨$20.00 → 5 - 10 minute video\n✨$30.00 → Control Link (15 -30 min) 💙\n✨ $150.00 → 1:1 ERP session (60 min) 💕\n\n50% Off custom content for subs~",
         "location": "~Plap~",
         "streaming": {
             "accountId": "473782831093391360",
-            "channel": null,
+            "channel": {
+                "id": "949195515218649088",
+                "accountId": "473782831093391360",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.15eeestrioxb.m3u8",
+                "chatRoomId": "949196232687894528",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1787800206000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "949195515218649089",
+                    "historyId": "949264703496941568",
+                    "channelId": "949195515218649088",
+                    "accountId": "473782831093391360",
+                    "title": "Test :3",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 4,
+                    "createdAt": 1787800206000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1787816761000,
+                    "startedAt": 1787816701000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:36Z"
+        "fetchedAt": "2026-10-26T14:59:26Z"
     },
     "twitter": {
         "kitsu_mitsuki": {
             "id": null,
             "handle": "kitsu_mitsuki",
-            "displayName": "❄️KitsuVR🌸",
+            "displayName": "❄️KitsuVR🌸🔞",
             "description": "🔞Am a fluffy fox that does cute and lewd things~\n🔞📸: CVR\n(SFW) https://t.co/r9DyUIQzVR\n🎁https://t.co/TDToQ1Op63\n🔞https://t.co/lXwBdwHdCX\n🤍🦊💙",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2081379438835757056/yg3izKcb_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1231073300199043073/1747508528/1500x500",
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
-            "accountCreatedAt": "2020-02-22T04:59:14.208Z",
-            "profileUrl": "https://x.com/Kitsu_Mitsuki",
-            "fetchedAt": "2026-08-19T16:12:14Z"
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kitsu_mitsuki",
+            "fetchedAt": "2026-10-26T14:18:19Z"
         }
     }
 }

@@ -12,7 +12,7 @@
             "totalCount": 639
         },
         "follows": {
-            "totalCount": 122
+            "totalCount": 123
         },
         "roles": {
             "isPartner": false,
@@ -23,14 +23,14 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34875c39-33d4-4b64-a874-69a61d32600e-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4fad7612-ac75-4c85-ae90-cda17bad96b2-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:48:06Z"
+        "fetchedAt": "2026-10-26T13:49:34Z"
     },
     "fansly": {
         "id": "519006109437009920",
         "username": "ArisaAlien",
         "displayName": null,
         "version": 12,
-        "followCount": 83,
+        "followCount": 92,
         "statusId": 3,
         "accountMediaLikes": 6,
         "postLikes": 24,
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:48Z"
+        "fetchedAt": "2026-10-26T15:00:37Z"
     },
     "twitter": {
         "arisaalien": {
-            "id": "1312918160786550784",
+            "id": null,
             "handle": "arisaalien",
             "displayName": "🌸 Arisa Alien",
             "description": "Live2D | Art ♡ Open DMs•EN/PT 🔞@ParadiseArisa ♡ Art tag #ArisaArt #ParadiseArisa ♡ \n\nhttps://t.co/OLQa9g0cLr\n https://t.co/kF1wvUscMI",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2084782278996037632/NaxNRkSm_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1312918160786550784/1765903026/1500x500",
-            "followersCount": 737,
-            "followingCount": 2129,
-            "postsCount": 2342,
-            "accountCreatedAt": "2020-10-05T00:51:06.681Z",
-            "profileUrl": "https://x.com/ArisaAlien",
-            "fetchedAt": "2026-08-19T16:24:24Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/arisaalien",
+            "fetchedAt": "2026-10-26T14:31:07Z"
         },
         "paradisearisa": {
-            "id": "1792308113225232385",
+            "id": null,
             "handle": "paradisearisa",
             "displayName": "☾⭒Paradise Arisa 🔞",
             "description": "⚠️🔞NO MINORS !  art may be sexually explicit.\nA shapeshifting alien mommy who loves drawing and cozy games 𐔌՞ ܸ.ˬ.ܸ՞𐦯♡\nSFW personal account @ArisaAlien\nPT-BR/EN",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2080060178666225664/wr1Lc_dK_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1792308113225232385/1785208838/1500x500",
-            "followersCount": 38,
-            "followingCount": 142,
-            "postsCount": 77,
-            "accountCreatedAt": "2024-05-19T21:35:38.409Z",
-            "profileUrl": "https://x.com/ParadiseArisa",
-            "fetchedAt": "2026-08-19T16:24:26Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/paradisearisa",
+            "fetchedAt": "2026-10-26T14:31:10Z"
         }
     }
 }

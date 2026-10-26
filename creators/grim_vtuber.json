@@ -5,35 +5,35 @@
         "login": "grim_vtuber",
         "displayName": "Grim_Vtuber",
         "createdAt": "2020-10-27T15:42:26.83184Z",
-        "updatedAt": "2026-08-13T23:19:34.867149Z",
+        "updatedAt": "2026-10-22T22:32:21.846969Z",
         "description": "Hey there, sinful souls~ 😈 I’m Grim, your incubus rockstar, variety streamer, and proud lewdtuber🎸🔥 Whether you're here for the sultry vibes, killer tunes, or a wild ride of laughs and chaos, I’m here to make your day a whole lot steamier. 😉",
         "primaryColorHex": "750000",
         "followers": {
-            "totalCount": 612
+            "totalCount": 630
         },
         "follows": {
-            "totalCount": 1999
+            "totalCount": 1998
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-14T02:19:42.768939Z"
+            "startedAt": "2026-09-16T02:53:12.4186Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/037fe070-cbec-4b18-bc89-f610cffc6377-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81ae88e-afc9-4e29-acd8-070539a83dac-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:42:10Z"
+        "fetchedAt": "2026-10-26T13:43:41Z"
     },
     "fansly": {
         "id": "675583399783575555",
         "username": "GrimVT",
         "displayName": "GrimVT ",
         "version": 3,
-        "followCount": 125,
+        "followCount": 131,
         "statusId": 3,
-        "accountMediaLikes": 156,
-        "postLikes": 412,
+        "accountMediaLikes": 158,
+        "postLikes": 426,
         "about": "Hey there! I’m Grim, your incubus rockstar and variety streamer over on twitch. Let’s rock out together and create some unforgettable moments ✨Streams, Art and VA stuff coming soon✨ Open for collabs ❤️\n\nPfp: kokohinari",
         "location": "your bed",
         "streaming": {
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:47Z"
+        "fetchedAt": "2026-10-26T14:59:37Z"
     },
     "twitter": {
         "grim_vt": {
-            "id": "1687263554292903937",
+            "id": null,
             "handle": "grim_vt",
             "displayName": "GrimVT",
-            "description": "👑 King of the Night | 🎸 Incubus Rockstar\n🔞 Lewdtuber | SFW/NSFW Voice Actor\n🎨 pfp: @DaemonIMP | He/Him | 🖤 Demi & Taken 💚🐢|\n#GrimSfw • #NsfwGrim",
+            "description": "👑 King of the Night | 🎸 Incubus Rockstar\n🔞 Lewdtuber | SFW/NSFW Voice Actor\n🎨 pfp: @DaemonIMP | He/Him | 🖤 Demi &amp; Taken 💚🐢|\n#GrimSfw • #NsfwGrim",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2080286566493155328/gVhe2QRs_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1687263554292903937/1753942206/1500x500",
-            "followersCount": 1473,
-            "followingCount": 5432,
-            "postsCount": 22522,
-            "accountCreatedAt": "2023-08-04T00:46:20.947Z",
-            "profileUrl": "https://x.com/Grim_VT",
-            "fetchedAt": "2026-08-19T16:14:23Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/grim_vt",
+            "fetchedAt": "2026-10-26T14:20:35Z"
         }
     }
 }

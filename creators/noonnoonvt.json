@@ -5,35 +5,35 @@
         "login": "noonnoonvt",
         "displayName": "NoonNoonVT",
         "createdAt": "2018-04-02T08:01:41.060683Z",
-        "updatedAt": "2026-08-06T01:56:46.413025Z",
+        "updatedAt": "2026-10-09T03:47:14.005175Z",
         "description": "Deep voiced wolf boy ",
         "primaryColorHex": "FF38DB",
         "followers": {
-            "totalCount": 10758
+            "totalCount": 10927
         },
         "follows": {
-            "totalCount": 29
+            "totalCount": 25
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-06T04:16:33.983444Z"
+            "startedAt": "2026-10-09T05:32:42.932009Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9710362b-4cd6-4f8f-9b97-b249eb16d310-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1675c0e9-559d-43f8-9cce-41e27b488040-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:39:48Z"
+        "fetchedAt": "2026-10-26T13:41:20Z"
     },
     "fansly": {
         "id": "625138695942447104",
         "username": "NotNoonNoon",
         "displayName": "NoonNoon",
         "version": 5,
-        "followCount": 414,
+        "followCount": 640,
         "statusId": 1,
-        "accountMediaLikes": 30,
-        "postLikes": 91,
+        "accountMediaLikes": 62,
+        "postLikes": 133,
         "about": "Human NoonNoon\n\n🦴https://twitch.tv/noonnoonvt🦴\n\n🥩https://patreon.com/NoonNoon ",
         "location": "",
         "streaming": {
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:25Z"
+        "fetchedAt": "2026-10-26T14:59:15Z"
     },
     "twitter": {
         "noonnoonbonk": {
-            "id": "1876501575495249920",
+            "id": null,
             "handle": "noonnoonbonk",
             "displayName": "NoonNoon",
             "description": "🥑Content Creator Furboy🥑\n\n🥩https://t.co/l6migkRo0k🥩\n 🍔 https://t.co/IAIXqbyKX3🍔\n🥑https://t.co/t4N2vSNRTi 🥑",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1991822212240695296/JCVl6EoA_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1876501575495249920/1763722396/1500x500",
-            "followersCount": 34376,
-            "followingCount": 3,
-            "postsCount": 451,
-            "accountCreatedAt": "2025-01-07T05:30:33.217Z",
-            "profileUrl": "https://x.com/NoonNoonbonk",
-            "fetchedAt": "2026-08-19T16:10:13Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/noonnoonbonk",
+            "fetchedAt": "2026-10-26T14:16:08Z"
         }
     }
 }

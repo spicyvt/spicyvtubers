@@ -29,11 +29,11 @@
         "id": "805376456967331840",
         "username": "SQUIRTDMIMI",
         "displayName": null,
-        "version": 8,
-        "followCount": 1084,
+        "version": 9,
+        "followCount": 1166,
         "statusId": 1,
-        "accountMediaLikes": 35,
-        "postLikes": 0,
+        "accountMediaLikes": 77,
+        "postLikes": 57,
         "about": "sleepy cursed gal who loves squirtin', yappin’, asmrin', playin’ + THAT D! 🔞 model: @moshiedraws",
         "location": "https://linktr.ee/squirtdmimi",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BZstPz4D6YHN.m3u8",
                 "chatRoomId": "871084625731002372",
                 "status": 2,
-                "version": 27,
+                "version": 32,
                 "createdAt": 1769176829000,
                 "updatedAt": null,
                 "stream": {
                     "id": "871083411651973122",
-                    "historyId": "943376643752226817",
+                    "historyId": "948001474321858561",
                     "channelId": "871083411651973121",
                     "accountId": "805376456967331840",
-                    "title": "[Netflix + Chill: The Office] Don't be shy colleague...come ere~💋",
+                    "title": "[Art] Drawing Anime Waifus in Office Attire ✏",
                     "status": 1,
-                    "viewerCount": 7,
-                    "version": 262,
+                    "viewerCount": 5,
+                    "version": 266,
                     "createdAt": 1769176829000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786419026000,
-                    "startedAt": 1786412879000,
+                    "lastFetchedAt": 1787539841000,
+                    "startedAt": 1787515524000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:21Z"
+        "fetchedAt": "2026-10-26T15:01:04Z"
     },
     "twitter": {
         "squirtdmimi": {
-            "id": "1172251882754052100",
+            "id": null,
             "handle": "squirtdmimi",
-            "displayName": "SQUIRT D. MIMI 💕💤 REBRANDING IN PROCESS",
-            "description": "sleepy cursed gal who loves squirtin', yappin’, asmrin', playin’ + THAT D! 🔞 model: @moshiedraws",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2084964528832339968/e31tuI-Z_400x400.jpg",
+            "displayName": "SPOOK D. SCREAMI 💕💤 (on hiatus!)",
+            "description": "hawny bri’ish sleepy cursed gal who loves&#x27;, yappin’, asmrin&#x27;, playin’, varietyin’ + THAT D! 🔞 model: @moshiedraws | REBRANDING IN PROCESS",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2097284252639596544/7JYakahU_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1172251882754052100/1783528868/1500x500",
-            "followersCount": 6985,
-            "followingCount": 2069,
-            "postsCount": 8270,
-            "accountCreatedAt": "2019-09-12T20:53:35.637Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/squirtdmimi",
-            "fetchedAt": "2026-08-19T16:30:43Z"
+            "fetchedAt": "2026-10-26T14:38:04Z"
         }
     },
     "youtube": {
@@ -105,13 +105,13 @@
         "keywords": "",
         "profileImageUrl": "https://yt3.googleusercontent.com/4IQBEbLrhUnHwll1GHt8pFmmWoC4dweyWN8i4XvVhfI13xZomneMqVI2XpMspoAC52rQcqlgLQ=h300",
         "bannerImageUrl": "https://yt3.googleusercontent.com/Rh-bvj84oT5eGN2kaE_KaaH67vvNrtVJjHQDLdqV5N9JXO082d2g8GDyD8TsuFwvII029dnLXw=h480",
-        "subscriberCountText": "1.95K subscribers",
-        "videoCountText": "151 videos",
-        "fetchedAt": "2026-08-19T15:52:25Z"
+        "subscriberCountText": "1.96K subscribers",
+        "videoCountText": "156 videos",
+        "fetchedAt": "2026-10-26T13:53:52Z"
     },
     "rplay": {
         "id": "69f5d024ce3c189d817412e3",
-        "channelIntro": "sleepy cursed gal who loves squirtin', yappin’, asmrin', playin’ + THAT D! 🔞 model: @moshiedraws",
+        "channelIntro": "sleepy cursed gal who loves squirtin', yappin’, asmrin', playin’ + THAT D! 🔞\nSFW & NSFW Audios & ASMR Livestreams~!",
         "creatorTags": [
             "english",
             "streamer",
@@ -128,7 +128,7 @@
         "isLivestreamer": true,
         "customUrl": null,
         "channelImage": "https://pb3.rplay.live/pics/1ab5aaf5218e827e868e48026a14f547",
-        "streamStartTime": "2026-08-18T21:30:58.515Z",
-        "fetchedAt": "2026-08-19T16:49:32Z"
+        "streamStartTime": "2026-08-20T20:06:46.070Z",
+        "fetchedAt": "2026-10-26T15:03:41Z"
     }
 }

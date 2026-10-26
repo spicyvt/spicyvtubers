@@ -5,35 +5,35 @@
         "login": "ashunera",
         "displayName": "Ashunera",
         "createdAt": "2017-12-28T00:52:38.209584Z",
-        "updatedAt": "2026-08-19T03:31:56.528542Z",
+        "updatedAt": "2026-10-25T11:09:24.469467Z",
         "description": "I sometimes stream stuff ",
         "primaryColorHex": "B11B1B",
         "followers": {
-            "totalCount": 32638
+            "totalCount": 32579
         },
         "follows": {
-            "totalCount": 194
+            "totalCount": 196
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-15T03:33:16.926492Z"
+            "startedAt": "2026-10-25T17:37:54.980134Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b77c29c2-a27a-4052-a0c1-1b06f335f4ff-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf1d0a16-2f64-4ac3-a662-866291389626-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:40:36Z"
+        "fetchedAt": "2026-10-26T13:42:10Z"
     },
     "fansly": {
         "id": "326400566097883136",
         "username": "Ashunera",
         "displayName": null,
         "version": 4,
-        "followCount": 19043,
+        "followCount": 19768,
         "statusId": 3,
-        "accountMediaLikes": 22218,
-        "postLikes": 29076,
+        "accountMediaLikes": 22608,
+        "postLikes": 29429,
         "about": "I like cock.",
         "location": "Virtual Reality",
         "streaming": {
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:31Z"
+        "fetchedAt": "2026-10-26T14:59:20Z"
     },
     "twitter": {
         "ashuneragames": {
-            "id": "931390184045891585",
+            "id": null,
             "handle": "ashuneragames",
             "displayName": "Ashunera アシュネラ VTuber",
             "description": "ENG/GER VTuber! Highly professional game reviewer ~  #Ashunera #MunyART #ENVtuber \nVtuber Mommy: @Ryuriia",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1591106038979338240/I33-SLwK_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/931390184045891585/1563218910/1500x500",
-            "followersCount": 28346,
-            "followingCount": 634,
-            "postsCount": 13911,
-            "accountCreatedAt": "2017-11-17T05:14:59.039Z",
-            "profileUrl": "https://x.com/AshuneraGames",
-            "fetchedAt": "2026-08-19T16:11:37Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ashuneragames",
+            "fetchedAt": "2026-10-26T14:17:42Z"
         },
         "lewdnera": {
-            "id": "1492109051257368578",
+            "id": null,
             "handle": "lewdnera",
             "displayName": "Lewdnera 🔞",
             "description": "Lewd Eldritch Horror ~",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1721134253579157504/4-gduXxO_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1492109051257368578/1715614329/1500x500",
-            "followersCount": 22231,
-            "followingCount": 641,
-            "postsCount": 8151,
-            "accountCreatedAt": "2022-02-11T12:11:41.445Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/lewdnera",
-            "fetchedAt": "2026-08-19T16:11:39Z"
+            "fetchedAt": "2026-10-26T14:17:44Z"
         }
     }
 }

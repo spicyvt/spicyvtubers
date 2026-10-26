@@ -5,35 +5,35 @@
         "login": "padunk",
         "displayName": "Padunk",
         "createdAt": "2013-05-23T18:14:21.258611Z",
-        "updatedAt": "2026-08-18T22:57:47.761174Z",
+        "updatedAt": "2026-10-24T20:52:33.259288Z",
         "description": "ʕ •ᴥ•ʔ I'm Padu!  ♥ Full-time Illustrator. Purveyor of Thickness. Chronic Giggler. ♥  Business Email:  elitebamboo@gmail.com",
         "primaryColorHex": "800000",
         "followers": {
-            "totalCount": 1204
+            "totalCount": 1389
         },
         "follows": {
-            "totalCount": 444
+            "totalCount": 458
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T04:38:53.254157Z"
+            "startedAt": "2026-10-24T03:37:58.275276Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c27c9ee6-305a-4c26-9696-ae5385907a7f-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb3b35fb-66c4-4ba7-8ff3-97835c426bd4-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:52:02Z"
+        "fetchedAt": "2026-10-26T13:53:28Z"
     },
     "fansly": {
         "id": "593632835701579778",
         "username": "Padunk",
         "displayName": "Padunk",
         "version": 6,
-        "followCount": 1560,
+        "followCount": 1589,
         "statusId": 1,
-        "accountMediaLikes": 941,
-        "postLikes": 1458,
+        "accountMediaLikes": 1066,
+        "postLikes": 1534,
         "about": "❤ Spicy Artist ~ Posting Art & VR Content \n❤ Join Padunk's Art Discord >> https://discord.com/invite/BP42RUvVpN\n❤ Lovense Affiliate ~ https://www.lovense.com/r/frz2n7\n❤ Socials: https://linktr.ee/ipadunk",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.w9CjiJ5sGaaN.m3u8",
                 "chatRoomId": "759518213468860416",
                 "status": 2,
-                "version": 59,
+                "version": 66,
                 "createdAt": 1742577163000,
                 "updatedAt": null,
                 "stream": {
                     "id": "759516326023667713",
-                    "historyId": "943320251116834819",
+                    "historyId": "970512440884215808",
                     "channelId": "759516326023667712",
                     "accountId": "593632835701579778",
-                    "title": "No Socks RPG 🧦 ~ $1 Random Time Buzzes ~ Throne gifts get 10 minute links!",
+                    "title": "🌶️(NSFW) Spicy Art Stream🌶️$1 Random Time Buzzes ~ Throne gifts get 10 minute links!",
                     "status": 1,
-                    "viewerCount": 7,
-                    "version": 7841,
+                    "viewerCount": 4,
+                    "version": 7855,
                     "createdAt": 1742577163000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786408512000,
-                    "startedAt": 1786399433000,
+                    "lastFetchedAt": 1792893585000,
+                    "startedAt": 1792882557000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:15Z"
+        "fetchedAt": "2026-10-26T15:01:04Z"
     },
     "twitter": {
         "ipadunk": {
-            "id": "3324518736",
+            "id": null,
             "handle": "ipadunk",
-            "displayName": "❤️Padunk💕🔜Megaplex",
+            "displayName": "❤️Padunk💕",
             "description": "🔞  Artist, Spicy Vtuber, Thicc Enthusiast 🇨🇴\n✨💪🏼 Occasional Workout Posts, Thirsting Doodles and VR Nonsense✨Powered by @ADVANCEDgg\n💍: @swiftarcade",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2041358749751750656/YZEaBGYG_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3324518736/1726872209/1500x500",
-            "followersCount": 9635,
-            "followingCount": 644,
-            "postsCount": 44437,
-            "accountCreatedAt": "2015-08-22T16:26:59.709Z",
-            "profileUrl": "https://x.com/iPadunk",
-            "fetchedAt": "2026-08-19T16:30:09Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ipadunk",
+            "fetchedAt": "2026-10-26T14:37:29Z"
         }
     }
 }

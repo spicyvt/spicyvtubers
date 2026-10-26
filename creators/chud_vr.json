@@ -5,35 +5,35 @@
         "login": "chud_vr",
         "displayName": "Chud_VR",
         "createdAt": "2022-06-28T20:15:41.443598Z",
-        "updatedAt": "2026-08-15T00:27:07.817827Z",
+        "updatedAt": "2026-10-23T22:45:25.70346Z",
         "description": "meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow ",
         "primaryColorHex": "E6BDDF",
         "followers": {
-            "totalCount": 18828
+            "totalCount": 19063
         },
         "follows": {
-            "totalCount": 260
+            "totalCount": 258
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-14T22:46:54.263434Z"
+            "startedAt": "2026-10-23T23:21:33.029691Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4cea16d8-45df-4486-9a56-55c757b29714-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7da6af71-edae-493e-a78f-a58f6453476e-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:40:19Z"
+        "fetchedAt": "2026-10-26T13:41:52Z"
     },
     "fansly": {
         "id": "648790045888622593",
         "username": "Chuddie",
         "displayName": null,
         "version": 4,
-        "followCount": 10086,
-        "statusId": 1,
-        "accountMediaLikes": 12103,
-        "postLikes": 5964,
+        "followCount": 10731,
+        "statusId": 2,
+        "accountMediaLikes": 13040,
+        "postLikes": 6200,
         "about": "SUB only stream every Friday 7PM EST\n\nMute ^^\nmeow~\nhttps://linktr.ee/chudvr\nChilloutVR",
         "location": "Underground",
         "streaming": {
@@ -44,24 +44,41 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Bt0JIguoZHOx.m3u8",
                 "chatRoomId": "650055719038496768",
                 "status": 2,
-                "version": 127,
+                "version": 146,
                 "createdAt": 1716232110000,
                 "updatedAt": null,
                 "stream": {
                     "id": "649017165369843713",
-                    "historyId": "943352954730082304",
+                    "historyId": "970182670552145921",
                     "channelId": "649017165369843712",
                     "accountId": "648790045888622593",
-                    "title": "MONDAY STREAM (T1 sub or higher for vod!)",
+                    "title": "FRIDAY MADNESS",
                     "status": 1,
-                    "viewerCount": 360,
-                    "version": 5271,
+                    "viewerCount": 55,
+                    "version": 5323,
                     "createdAt": 1716232110000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786413664000,
-                    "startedAt": 1786407231000,
+                    "lastFetchedAt": 1792810198000,
+                    "startedAt": 1792803933000,
                     "permissions": {
-                        "permissionFlags": []
+                        "permissionFlags": [
+                            {
+                                "id": "970182606710661120",
+                                "streamId": "649017165369843713",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "970182606710661121",
+                                "streamId": "649017165369843713",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            }
+                        ]
                     }
                 },
                 "arn": null,
@@ -69,22 +86,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:31Z"
+        "fetchedAt": "2026-10-26T14:59:20Z"
     },
     "twitter": {
         "chud_vr": {
-            "id": "1546996611213139968",
+            "id": null,
             "handle": "chud_vr",
             "displayName": "Chuddie",
             "description": "Mute\nhuh?\nI stream and create avatars ^^\nhttps://t.co/gh2nS0bzy8",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1928492043535343616/_rxjB5IV_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1546996611213139968/1768364042/1500x500",
-            "followersCount": 5559,
-            "followingCount": 159,
-            "postsCount": 163,
-            "accountCreatedAt": "2022-07-12T23:15:31.275Z",
-            "profileUrl": "https://x.com/Chud_VR",
-            "fetchedAt": "2026-08-19T16:11:08Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/chud_vr",
+            "fetchedAt": "2026-10-26T14:17:12Z"
         }
     }
 }

@@ -5,35 +5,35 @@
         "login": "zeromaster",
         "displayName": "zeromaster",
         "createdAt": "2011-05-06T17:32:48.138661Z",
-        "updatedAt": "2026-08-18T23:57:10.589582Z",
+        "updatedAt": "2026-10-24T23:34:38.560927Z",
         "description": "A Canadian Neko Newhalf VTuber, Gamer & Big fan of Megaman, Monster Hunter, Pokemon, etc.",
         "primaryColorHex": "8205B3",
         "followers": {
-            "totalCount": 1691
+            "totalCount": 1690
         },
         "follows": {
-            "totalCount": 1998
+            "totalCount": 1997
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T01:28:36.019578Z"
+            "startedAt": "2026-10-25T02:34:51.363085Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56d9f1e2-cc30-40a7-aef8-b53897dc8679-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c042795f-e967-400a-ab71-b336099ce694-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:58:13Z"
+        "fetchedAt": "2026-10-26T13:59:43Z"
     },
     "fansly": {
         "id": "285934687505887232",
         "username": "zeromaster",
         "displayName": null,
         "version": 4,
-        "followCount": 1505,
+        "followCount": 1528,
         "statusId": 1,
-        "accountMediaLikes": 2029,
-        "postLikes": 898,
+        "accountMediaLikes": 2072,
+        "postLikes": 925,
         "about": "Zero is a Lewdsome Neko Futanari Succubus. They are here to make all your desires come true, including the ones you didn't know you wanted.\nBy day, Zero is a Hero For Hire & a Nurse. At night she's a Streamer and an E-Girl, using her succubus magic to steal the souls of his victims for her demon master.\nZero is a big nerd who enjoy retro games, indie games, movies, anime, Kamen Rider, Super Sentai, Power Rangers & Dungeons & Dragons.",
         "location": "Canada",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.m16Av2i6WVBg.m3u8",
                 "chatRoomId": "454562153131679744",
                 "status": 2,
-                "version": 23,
+                "version": 28,
                 "createdAt": 1669869962000,
                 "updatedAt": null,
                 "stream": {
                     "id": "454560222334169089",
-                    "historyId": "945520052860370944",
+                    "historyId": "958205711530082305",
                     "channelId": "454560222334169088",
                     "accountId": "285934687505887232",
-                    "title": "🔴 LIVE 🔴 Buzz Me While I Make P0rn! #Lewdtuber #esex ",
+                    "title": "🔴 LIVE 🔴Makin Outfits! Buzz Me While I Work! Still Need Help! #Lewdtuber #esex ",
                     "status": 1,
-                    "viewerCount": 7,
-                    "version": 3232,
+                    "viewerCount": 8,
+                    "version": 3238,
                     "createdAt": 1669869962000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786930840000,
-                    "startedAt": 1786923907000,
+                    "lastFetchedAt": 1789955063000,
+                    "startedAt": 1789948404000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:48:05Z"
+        "fetchedAt": "2026-10-26T15:01:55Z"
     },
     "twitter": {
         "zeromaster": {
-            "id": "17669287",
+            "id": null,
             "handle": "zeromaster",
-            "displayName": "🔞Zeromaster【LTN 】LIVE2D 2.0 DEBUT SEPT 2026",
+            "displayName": "🔞Zeromaster【LTN 】LIVE2D 2.0 DEBUT TBD",
             "description": "🔞 NSFW NO MINORS | 37 PolyPan | ☿️ | Neko Newhalf/Femboy/Dragon #VTuber | Editor | #ZeroStreams | #PowerPlays | Art: #ZeromasterArt PFP: @CrimsonKitsuVT",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2008069952780038144/5n3bMFXa_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/17669287/1785780503/1500x500",
-            "followersCount": 3071,
-            "followingCount": 7499,
-            "postsCount": 54704,
-            "accountCreatedAt": "2008-11-27T04:12:54.000Z",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/17669287/1792682270/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/zeromaster",
-            "fetchedAt": "2026-08-19T16:40:19Z"
+            "fetchedAt": "2026-10-26T14:47:58Z"
         }
     }
 }

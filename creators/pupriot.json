@@ -5,14 +5,14 @@
         "login": "pupriot",
         "displayName": "PupRiot",
         "createdAt": "2019-09-08T02:25:22.544215Z",
-        "updatedAt": "2026-08-09T00:14:15.044949Z",
+        "updatedAt": "2026-10-22T21:47:00.899854Z",
         "description": "Hi I'm Riot!~ I'm an upcoming doggy VTuber and artist! Woof woof!~ ",
         "primaryColorHex": "FF1E1A",
         "followers": {
-            "totalCount": 452
+            "totalCount": 446
         },
         "follows": {
-            "totalCount": 139
+            "totalCount": 137
         },
         "roles": {
             "isPartner": false,
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6aa03eac-4e02-48de-991d-90b712a8d1c5-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67e314e4-7d86-4d68-8cba-2c3ac8376050-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:45:38Z"
+        "fetchedAt": "2026-10-26T13:47:04Z"
     },
     "fansly": {
         "id": "466059057371820032",
         "username": "PupRiotVT",
         "displayName": "PupRiot",
         "version": 9,
-        "followCount": 2930,
+        "followCount": 2927,
         "statusId": 1,
-        "accountMediaLikes": 1981,
-        "postLikes": 2550,
+        "accountMediaLikes": 1987,
+        "postLikes": 2555,
         "about": "Hi I'm Riot !~  💕✨💕  pfp: @LemonsAreReal\nHentai artist | 25 | they/them | wishlist: https://throne.com/pupriotvt\n( STREAMS EVERY THURSDAY )",
         "location": "ur mom's house",
         "streaming": {
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:20Z"
+        "fetchedAt": "2026-10-26T15:00:09Z"
     },
     "twitter": {
         "pupriot": {
-            "id": "1188292619622899712",
+            "id": null,
             "handle": "pupriot",
             "displayName": "PupRiot 🔞",
             "description": "Riot | 🔞 i post butt stuff (re-debut coming soon) pfp: @LemonsAreReal",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2077765483915300864/iTZ4TgXl_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1188292619622899712/1784212870/1500x500",
-            "followersCount": 15573,
-            "followingCount": 919,
-            "postsCount": 18677,
-            "accountCreatedAt": "2019-10-27T03:14:09.125Z",
-            "profileUrl": "https://x.com/PupRiot",
-            "fetchedAt": "2026-08-19T16:20:05Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/pupriot",
+            "fetchedAt": "2026-10-26T14:26:35Z"
         }
     }
 }

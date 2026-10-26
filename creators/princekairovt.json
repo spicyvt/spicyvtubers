@@ -5,58 +5,86 @@
         "login": "princekairovt",
         "displayName": "PrinceKairoVT",
         "createdAt": "2023-01-04T00:36:28.410367Z",
-        "updatedAt": "2026-08-19T03:07:48.365645Z",
+        "updatedAt": "2026-10-22T04:27:22.530895Z",
         "description": "Hello, my name is Prince Kairo and I am an 18+ ONLY VTuber as well as the sovereign ruler of the Kingdom of Desire! Just speak unto me what you desire and I shall see that granted, my dear~Powered by @ADVANCEDgg",
         "primaryColorHex": "FFD37A",
         "followers": {
-            "totalCount": 522
+            "totalCount": 724
         },
         "follows": {
-            "totalCount": 81
+            "totalCount": 95
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T07:43:03.367812Z"
+            "startedAt": "2026-10-22T06:09:10.476797Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1d4575b-477b-4e84-a5e6-e72b3f1b1e49-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19cd9e99-527c-4da0-82c0-3b588b4544ad-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:47:53Z"
+        "fetchedAt": "2026-10-26T13:49:20Z"
     },
     "fansly": {
         "id": "635583529039699969",
         "username": "PrinceKairoVT",
         "displayName": "Prince Kairo",
         "version": 5,
-        "followCount": 236,
+        "followCount": 386,
         "statusId": 1,
-        "accountMediaLikes": 102,
-        "postLikes": 95,
-        "about": "The official Fansly account of Prince Kairo, ASMRtist and Amateur Voice actor! I'll be doing NSFW streams with my Lovense toys~",
+        "accountMediaLikes": 482,
+        "postLikes": 343,
+        "about": "The official Fansly account of Prince Kairo, ASMRtist and Amateur Voice actor! I'll be doing NSFW streams with my Lovense toys~\nID Verified Discord: https://discord.gg/GGPhbkMdG",
         "location": "",
         "streaming": {
             "accountId": "635583529039699969",
-            "channel": null,
+            "channel": {
+                "id": "959352501792952320",
+                "accountId": "635583529039699969",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.LAKL0KL41XMJ.m3u8",
+                "chatRoomId": "959352806211338240",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1790221820000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "959352501792952321",
+                    "historyId": "970974324259299328",
+                    "channelId": "959352501792952320",
+                    "accountId": "635583529039699969",
+                    "title": "LET'S CUM! LET'S CUM! LET'S CUM! LET'S CUM! LET'S CUM!!!!!!",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 18,
+                    "createdAt": 1790221820000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792997531000,
+                    "startedAt": 1792992678000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:42Z"
+        "fetchedAt": "2026-10-26T15:00:31Z"
     },
     "twitter": {
         "princekairovt": {
-            "id": "1610868118120718338",
+            "id": null,
             "handle": "princekairovt",
             "displayName": "Prince Kairo",
-            "description": "The Prince of Desire, Pre-Debut VTuber💜\nASMR Content Creator/VA🎙️\nMinors DNI🔞\nPowered by @ADVANCEDgg\n\nArt: #ArtOfDesire",
+            "description": "The Prince of Desire, Pre-Debut VTuber💜\nASMR Content Creator/VA🎙️\nMinors DNI🔞\nPowered by @ADVANCEDgg\nSocials: https://t.co/NC4uZmhfR0\nArt: #ArtOfDesire",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2029822212933398528/JDYqPGka_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1610868118120718338/1729283607/1500x500",
-            "followersCount": 1102,
-            "followingCount": 465,
-            "postsCount": 298,
-            "accountCreatedAt": "2023-01-05T05:17:54.212Z",
-            "profileUrl": "https://x.com/PrinceKairoVT",
-            "fetchedAt": "2026-08-19T16:24:01Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/princekairovt",
+            "fetchedAt": "2026-10-26T14:30:42Z"
         }
     }
 }

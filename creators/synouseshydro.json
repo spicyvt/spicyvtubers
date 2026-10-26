@@ -5,35 +5,35 @@
         "login": "synouseshydro",
         "displayName": "SynoUsesHydro",
         "createdAt": "2021-05-16T17:07:07.858878Z",
-        "updatedAt": "2026-08-18T18:13:32.027499Z",
+        "updatedAt": "2026-10-13T02:58:13.713153Z",
         "description": "Hi! I'm Syno! I'm a Vtuber, Gamer, and all around silly goofy girl. Join me as I play games of all types, have adventures with friends, and make terrible jokes!",
         "primaryColorHex": "AA58D8",
         "followers": {
-            "totalCount": 675
+            "totalCount": 715
         },
         "follows": {
-            "totalCount": 74
+            "totalCount": 75
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T22:04:06.760115Z"
+            "startedAt": "2026-10-13T04:06:44.183884Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc30c7f2-92d0-4509-afb2-7c0429e04aa7-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1553dba8-3697-4e04-be9b-3a7c11014aa3-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:52:43Z"
+        "fetchedAt": "2026-10-26T13:54:09Z"
     },
     "fansly": {
         "id": "608477572296093696",
         "username": "SynoXXX",
         "displayName": "Syno",
         "version": 7,
-        "followCount": 20462,
+        "followCount": 23139,
         "statusId": 3,
-        "accountMediaLikes": 23074,
-        "postLikes": 27233,
+        "accountMediaLikes": 23933,
+        "postLikes": 28323,
         "about": "Heya I'm Syno! I play video games and take VR photos. I'm also a lover of anime, cats, and dinosaur facts. If any of that interests you then I encourage you to stay a while. \n\n** I reserve the right to block or revoke links for people who abuse me in any form. I am not a plastic toy, I am a human being. Please act respectfully and lets treat each other with kindness! **\n\nAll my socials:\nhttps://synouseshydro.carrd.co/\n",
         "location": "",
         "streaming": {
@@ -44,26 +44,26 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.T1Acor0oVnpE.m3u8",
                 "chatRoomId": "610366405925150721",
                 "status": 2,
-                "version": 807,
+                "version": 905,
                 "createdAt": 1706904651000,
                 "updatedAt": null,
                 "stream": {
                     "id": "609894966398820353",
-                    "historyId": "946305201353019395",
+                    "historyId": "969849089267085313",
                     "channelId": "609894966398820352",
                     "accountId": "608477572296093696",
-                    "title": "Dinos & Chill- $5 Spins - $10 Big Spins - !socials - !menu",
+                    "title": "Free Use Night - $5 For Small  - !socials - !menu",
                     "status": 1,
-                    "viewerCount": 17,
-                    "version": 3484,
+                    "viewerCount": 43,
+                    "version": 3564,
                     "createdAt": 1706904652000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1787116002000,
-                    "startedAt": 1787111101000,
+                    "lastFetchedAt": 1792734517000,
+                    "startedAt": 1792724401000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "943049842463096832",
+                                "id": "963336063437250560",
                                 "streamId": "609894966398820353",
                                 "type": 0,
                                 "flags": 2,
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:21Z"
+        "fetchedAt": "2026-10-26T15:01:10Z"
     },
     "twitter": {
         "synouseshydro": {
-            "id": "1775574472474628096",
+            "id": null,
             "handle": "synouseshydro",
             "displayName": "SynoVT 🐱🫐☕️",
-            "description": "For all my socials:\nhttps://t.co/nk3qWLtiw1\n\nBusiness email: SynoUsesHydro@gmail.com\n\nDhydratedpucci - Vtuber Artist\nnaraaa_x - Vtuber Rigger & Artist",
+            "description": "For all my socials:\nhttps://t.co/nk3qWLtiw1\n\nBusiness email: SynoUsesHydro@gmail.com\n\nDhydratedpucci - Vtuber Artist\nnaraaa_x - Vtuber Rigger &amp; Artist",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2000740321244876800/C3uErcuE_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1775574472474628096/1745544532/1500x500",
-            "followersCount": 1619,
-            "followingCount": 123,
-            "postsCount": 1528,
-            "accountCreatedAt": "2024-04-03T17:22:09.307Z",
-            "profileUrl": "https://x.com/SynoUsesHydro",
-            "fetchedAt": "2026-08-19T16:31:12Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/synouseshydro",
+            "fetchedAt": "2026-10-26T14:38:35Z"
         }
     }
 }

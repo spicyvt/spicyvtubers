@@ -5,36 +5,36 @@
         "login": "manyducks",
         "displayName": "ManyDucks",
         "createdAt": "2020-11-12T15:41:18.877557Z",
-        "updatedAt": "2026-08-18T20:51:00.49373Z",
+        "updatedAt": "2026-10-25T01:51:07.391175Z",
         "description": "\\( •ө• )/",
         "primaryColorHex": "9A71D9",
         "followers": {
-            "totalCount": 656
+            "totalCount": 728
         },
         "follows": {
-            "totalCount": 661
+            "totalCount": 672
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T03:03:36.558598Z"
+            "startedAt": "2026-10-25T02:37:00.576511Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6575c2a-855f-421d-b7f1-24c0aa811cd7-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5642715e-d5e5-4b44-ad1b-012890b8294d-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:57:00Z"
+        "fetchedAt": "2026-10-26T13:58:29Z"
     },
     "fansly": {
         "id": "841424915855863808",
         "username": "ManyDucks",
         "displayName": "ManyDucks",
         "version": 6,
-        "followCount": 1358,
+        "followCount": 1785,
         "statusId": 3,
-        "accountMediaLikes": 98,
-        "postLikes": 112,
-        "about": "ManyDucks Vtuber\n\nApparently I'm 100% a brat..",
+        "accountMediaLikes": 139,
+        "postLikes": 172,
+        "about": "\\( •ө• )/\nJust a bratty switch that likes to goon and play games~\nI usually stream 3 times a week around 3pm EST or 12AM EST ₊‧°𐐪♡𐑂°‧₊ \n\nDiscord for stream schedule/live notifs/and Discord only menu ˚.⋆꒰১ ໒꒱⋆.˚\nhttps://discord.gg/Hw5aFty7e2 \n\nIf you want to spoil me :3\nhttps://www.lovense.com/wish-list/fw2lhjz\nhttps://throne.com/manyducks\n",
         "location": "",
         "streaming": {
             "accountId": "841424915855863808",
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wDfVtKVjfdf9.m3u8",
                 "chatRoomId": "841526294008045568",
                 "status": 2,
-                "version": 32,
+                "version": 33,
                 "createdAt": 1762120304000,
                 "updatedAt": null,
                 "stream": {
                     "id": "841486200152805377",
-                    "historyId": "945796911808389120",
+                    "historyId": "968960053560225792",
                     "channelId": "841486200152805376",
                     "accountId": "841424915855863808",
-                    "title": "Lets chill !command !discord !menu",
+                    "title": "Halloo !command !discord !menu",
                     "status": 1,
-                    "viewerCount": 18,
-                    "version": 206,
+                    "viewerCount": 6,
+                    "version": 238,
                     "createdAt": 1762120304000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786994799000,
-                    "startedAt": 1786989915000,
+                    "lastFetchedAt": 1792515980000,
+                    "startedAt": 1792512439000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:54Z"
+        "fetchedAt": "2026-10-26T15:01:43Z"
     },
     "twitter": {
         "manyducksvt": {
-            "id": "1563077723374792705",
+            "id": null,
             "handle": "manyducksvt",
             "displayName": "ManyDucks | Quack 🐤",
             "description": "Gonna steal ur ducks (Eng/한) (she/her) | 18+ | pfp: @maelibun | 3.0 🎨 @Lynniia ⚙️ @__EyesOnFire__",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1712614329739096064/Og2KBl2t_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1563077723374792705/1767216704/1500x500",
-            "followersCount": 498,
-            "followingCount": 2184,
-            "postsCount": 1391,
-            "accountCreatedAt": "2022-08-26T08:15:55.460Z",
-            "profileUrl": "https://x.com/ManyDucksVT",
-            "fetchedAt": "2026-08-19T16:38:26Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/manyducksvt",
+            "fetchedAt": "2026-10-26T14:46:01Z"
         }
     }
 }

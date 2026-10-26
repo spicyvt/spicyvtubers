@@ -5,7 +5,7 @@
         "login": "sproutivt",
         "displayName": "Sproutivt",
         "createdAt": "2019-10-02T23:07:15.960131Z",
-        "updatedAt": "2026-08-07T21:56:28.948765Z",
+        "updatedAt": "2026-10-15T00:31:58.217077Z",
         "description": "Very confused leafy friend coming to screens near… or in front of you! Giving you the stare down, the screams, and most of all the snacks. Join the fun in the forest! ",
         "primaryColorHex": "B180A8",
         "followers": {
@@ -23,14 +23,14 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47eb6e48-879e-43a8-a10b-cac2abcca9fa-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23ef6f42-d392-49bb-a538-07f5bc861f46-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:56:14Z"
+        "fetchedAt": "2026-10-26T13:57:43Z"
     },
     "fansly": {
         "id": "371807552805023744",
         "username": "NatMone",
         "displayName": "Natasha M.",
         "version": 5,
-        "followCount": 71,
+        "followCount": 73,
         "statusId": 1,
         "accountMediaLikes": 202,
         "postLikes": 35,
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:48Z"
+        "fetchedAt": "2026-10-26T15:01:32Z"
     },
     "twitter": {
         "sproutivt": {
-            "id": "1949872663419293696",
+            "id": null,
             "handle": "sproutivt",
             "displayName": "Sprouti 🚧 UNDER CONSTRUCTION 🚧",
             "description": "18+ Eepy ENV-Tuber, 1/2 Girlfailure, Slowly deteriorating leafy friend 🌱 🎨#SproutiArti https://t.co/Qm31T6F82m",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2076014626391629824/jqAUdnqt_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1949872663419293696/1783794504/1500x500",
-            "followersCount": 576,
-            "followingCount": 584,
-            "postsCount": 2038,
-            "accountCreatedAt": "2025-07-28T16:40:54.356Z",
-            "profileUrl": "https://x.com/SproutiVT",
-            "fetchedAt": "2026-08-19T16:37:08Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sproutivt",
+            "fetchedAt": "2026-10-26T14:44:46Z"
         },
         "goddessnatm": {
-            "id": "1134608583507763202",
+            "id": null,
             "handle": "goddessnatm",
             "displayName": "🖤 Nat The Brat🖤",
-            "description": "18+ 𝕄𝕚𝕟𝕠𝕣𝕤 𝔻ℕ𝕀 •~•  Wallet wrecker, mind fucker, hot person. • Soft and B*tchy • $50 tribute•",
+            "description": "18+ 𝕄𝕚𝕟𝕠𝕣𝕤 𝔻ℕ𝕀 Bratty Domme/Bratty Sub either way I take your money • Soft and B*tchy • $50 tribute•",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2041645076385034240/WNDNcxz9_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1134608583507763202/1775601104/1500x500",
-            "followersCount": 1111,
-            "followingCount": 176,
-            "postsCount": 21011,
-            "accountCreatedAt": "2019-05-31T23:52:21.103Z",
-            "profileUrl": "https://x.com/GoddessNatM",
-            "fetchedAt": "2026-08-19T16:37:06Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/goddessnatm",
+            "fetchedAt": "2026-10-26T14:44:45Z"
         }
     }
 }

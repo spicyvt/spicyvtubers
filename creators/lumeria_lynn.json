@@ -5,32 +5,32 @@
         "login": "lumeria_lynn",
         "displayName": "lumeria_lynn",
         "createdAt": "2024-06-27T15:32:25.323893Z",
-        "updatedAt": "2026-08-19T04:33:59.697932Z",
+        "updatedAt": "2026-10-25T12:23:25.679177Z",
         "description": "Hi! I'm Lumeria Lynn, but you can call me Lynn if it's easier. I'm a bit new to this, but it's nice to meet you!",
         "primaryColorHex": "1F69FF",
         "followers": {
-            "totalCount": 1741
+            "totalCount": 1821
         },
         "follows": {
-            "totalCount": 286
+            "totalCount": 295
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T05:00:15.021424Z"
+            "startedAt": "2026-10-25T12:47:09.055394Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae81308f-f067-4894-9916-bcccb26e88ca-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6cb6a07b-4485-4150-9f85-ae04c12994ab-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:58:23Z"
+        "fetchedAt": "2026-10-26T13:59:52Z"
     },
     "fansly": {
         "id": "702971104867659776",
         "username": "Lumeria_Lynn",
         "displayName": "Lumeria Lynn",
         "version": 4,
-        "followCount": 573,
+        "followCount": 576,
         "statusId": 1,
         "accountMediaLikes": 48,
         "postLikes": 135,
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:48:05Z"
+        "fetchedAt": "2026-10-26T15:01:55Z"
     },
     "twitter": {
         "lumeria_lynn": {
-            "id": "1806350190988984320",
+            "id": null,
             "handle": "lumeria_lynn",
             "displayName": "Lumeria Lynn 🧬✨",
-            "description": "Hi! I'm Lume, Mad Scientist & Princess of femboys :3\n\nEnglish Vtuber ♦ Genetically Modified Anime Girl ♦ 18+\n\n#lumeriaillust\n\npfp: vgen@chayote",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1962696531590426624/_on6LqhH_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1806350190988984320/1755247279/1500x500",
-            "followersCount": 228,
-            "followingCount": 187,
-            "postsCount": 671,
-            "accountCreatedAt": "2024-06-27T15:33:54.335Z",
-            "profileUrl": "https://x.com/Lumeria_Lynn",
-            "fetchedAt": "2026-08-19T16:40:32Z"
+            "description": "Hi! I&#x27;m Lume, Mad Scientist &amp; Princess of femboys :3\n\nEnglish Vtuber ♦ Genetically Modified Anime Girl ♦ 18+\n\n#lumeriaillust\n\npfp: @MaidenAkai\nbanner: twt_vv202",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2114214444494680065/CRICfgQe_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1806350190988984320/1792902138/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lumeria_lynn",
+            "fetchedAt": "2026-10-26T14:48:14Z"
         }
     }
 }

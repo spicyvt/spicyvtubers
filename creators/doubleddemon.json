@@ -5,35 +5,35 @@
         "login": "doubleddemon",
         "displayName": "DoubleDDemon",
         "createdAt": "2023-08-08T23:43:14.208415Z",
-        "updatedAt": "2026-08-19T05:36:18.248365Z",
+        "updatedAt": "2026-10-24T02:05:54.396963Z",
         "description": "Hey, sinner. I’m Demon—with the double D’s 😈 Variety streamer & chaos conjurer. I go live everyday, diving into wild games with wilder people. Expect mischief, madness, & maybe a little temptation. 18+ only. Come play… if you can handle the heat 🔥",
         "primaryColorHex": "EB0400",
         "followers": {
-            "totalCount": 840
+            "totalCount": 873
         },
         "follows": {
-            "totalCount": 373
+            "totalCount": 391
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T09:29:34.803363Z"
+            "startedAt": "2026-10-24T03:37:09.46112Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f18609b-18bd-498e-bd64-06d6b0acf831-profile_image-300x300.jpeg",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dddbdbf3-0e69-4c9f-ada6-73e44e0e6dc8-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8725e3ba-adbb-4019-9a16-26b3473df135-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:59:37Z"
+        "fetchedAt": "2026-10-26T14:01:08Z"
     },
     "fansly": {
         "id": "824747143150460928",
         "username": "DoubleDDemon",
         "displayName": null,
         "version": 2,
-        "followCount": 80,
+        "followCount": 84,
         "statusId": 1,
-        "accountMediaLikes": 27,
-        "postLikes": 21,
+        "accountMediaLikes": 57,
+        "postLikes": 43,
         "about": "Hi, I’m Demon — your spicy VTuber voice actress, here to bring your fantasies to life. 🔥 I don’t just talk the talk… I become the voice in your head. Subscribe… if you dare. 😈",
         "location": "",
         "streaming": {
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:48:15Z"
+        "fetchedAt": "2026-10-26T15:02:06Z"
     },
     "twitter": {
         "_doubleddemon_": {
-            "id": "1729243665351245824",
+            "id": null,
             "handle": "_doubleddemon_",
             "displayName": "DoubleDDemon🦶😈",
-            "description": "👹 NSFW demon VTuber playing with your fantasies & spreading lewds. 18+ only. Mamas: @Kyadethh & @meialoue | Minors DNI 💀",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2079981815004282880/YnRQXO5u_400x400.jpg",
+            "description": "👹 NSFW demon VTuber playing with your fantasies &amp; spreading lewds. 18+ only. Mamas: @Kyadethh &amp; @meialoue | Minors DNI 💀",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2112513290366849025/AjgPQWCD_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1729243665351245824/1760014360/1500x500",
-            "followersCount": 335,
-            "followingCount": 823,
-            "postsCount": 1274,
-            "accountCreatedAt": "2023-11-27T21:00:08.198Z",
-            "profileUrl": "https://x.com/_DoubleDDemon_",
-            "fetchedAt": "2026-08-19T16:42:33Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/_doubleddemon_",
+            "fetchedAt": "2026-10-26T14:50:26Z"
         }
     }
 }

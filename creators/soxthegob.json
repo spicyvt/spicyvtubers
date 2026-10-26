@@ -5,35 +5,35 @@
         "login": "soxthegob",
         "displayName": "SoxtheGob",
         "createdAt": "2023-01-01T08:01:26.238218Z",
-        "updatedAt": "2026-08-18T06:14:53.743251Z",
+        "updatedAt": "2026-10-26T07:40:12.577241Z",
         "description": "My name is Sox, and I'm a goblin! I only started playing videogames around 2022, so I'm still learning and looking forward to trying amazing things. I aim to be the sweetest, most wholesome, lewdest goblin you know.",
         "primaryColorHex": "417A18",
         "followers": {
-            "totalCount": 2517
+            "totalCount": 2651
         },
         "follows": {
-            "totalCount": 219
+            "totalCount": 222
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T08:04:03.927825Z"
+            "startedAt": "2026-10-26T10:20:31.815688Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a39e600b-cb64-4546-bd3d-19638617166c-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7ad1a73-499f-4f28-bec4-ec69b7e35a1b-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:59:13Z"
+        "fetchedAt": "2026-10-26T14:00:43Z"
     },
     "fansly": {
         "id": "593816202913001473",
         "username": "SoxtheGob",
         "displayName": "Sox the Gob",
         "version": 5,
-        "followCount": 1219,
+        "followCount": 1479,
         "statusId": 3,
-        "accountMediaLikes": 298,
-        "postLikes": 230,
+        "accountMediaLikes": 540,
+        "postLikes": 322,
         "about": "🍄goblin Vtuber and Live2D rigger who wants to play lewd videogames with you",
         "location": "Tavern basement",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "622032406165073921",
-                    "historyId": "855783132819910656",
+                    "historyId": "966983926084038656",
                     "channelId": "622032406165073920",
                     "accountId": "593816202913001473",
                     "title": "",
                     "status": 1,
-                    "viewerCount": 32,
-                    "version": 5872,
+                    "viewerCount": 24,
+                    "version": 5876,
                     "createdAt": 1709798443000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1765544074000,
-                    "startedAt": 1765528958000,
+                    "lastFetchedAt": 1792057819000,
+                    "startedAt": 1792041293000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:48:15Z"
+        "fetchedAt": "2026-10-26T15:02:00Z"
     },
     "twitter": {
         "soxthegob": {
-            "id": "1628316776311451648",
+            "id": null,
             "handle": "soxthegob",
-            "displayName": "Sox the Goblin 🍄 Vtuber & Live2D Rigger",
+            "displayName": "Sox the Goblin 🍄 Vtuber &amp; Live2D Rigger",
             "description": "Lewd Goblin Vtuber and Live2D Rigger. Check me out on Twitch https://t.co/8KQNLyMCMa or commission me at https://t.co/WTLsqii6nx",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1761736001721118720/_dJFgjS5_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1628316776311451648/1740041255/1500x500",
-            "followersCount": 433,
-            "followingCount": 159,
-            "postsCount": 914,
-            "accountCreatedAt": "2023-02-22T08:52:58.672Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/soxthegob",
-            "fetchedAt": "2026-08-19T16:41:59Z"
+            "fetchedAt": "2026-10-26T14:49:44Z"
         }
     }
 }

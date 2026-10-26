@@ -5,35 +5,35 @@
         "login": "sinder",
         "displayName": "Sinder",
         "createdAt": "2020-12-07T00:11:23.364369Z",
-        "updatedAt": "2026-08-16T17:54:22.938299Z",
+        "updatedAt": "2026-10-25T18:47:07.525224Z",
         "description": "Hellhound VTuber 🔥 | Descend into VTuber Hell with me~",
         "primaryColorHex": "801C1B",
         "followers": {
-            "totalCount": 295919
+            "totalCount": 298174
         },
         "follows": {
-            "totalCount": 283
+            "totalCount": 287
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-16T17:54:27.359543Z"
+            "startedAt": "2026-10-25T18:47:12.295873Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4aa52abf-2dfa-4bd4-b7c6-6b941f810487-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4b24cf22-88b7-4666-9f04-0816abb6752c-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:40:13Z"
+        "fetchedAt": "2026-10-26T13:41:46Z"
     },
     "fansly": {
         "id": "717101518569873409",
         "username": "Sinder",
         "displayName": "Sinder 🔥",
         "version": 6,
-        "followCount": 79081,
+        "followCount": 86562,
         "statusId": 3,
-        "accountMediaLikes": 104417,
-        "postLikes": 102242,
+        "accountMediaLikes": 130798,
+        "postLikes": 119350,
         "about": "🔥 The HOTTEST, wholesomely horny hellhound vtuber~ 🔥\n\n🔞 NSFW Art, Audios, Gaming, & more... 🔞\n\n🔗 sinder.carrd.co\nReposting any of my content is prohibited and will result in legal action.",
         "location": "",
         "streaming": {
@@ -44,26 +44,26 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Lpw5HlcJu5q6.m3u8",
                 "chatRoomId": "727468737631887360",
                 "status": 2,
-                "version": 101,
+                "version": 114,
                 "createdAt": 1734199442000,
                 "updatedAt": null,
                 "stream": {
                     "id": "724377616991133697",
-                    "historyId": "945151427100033024",
+                    "historyId": "970497191615418368",
                     "channelId": "724377616991133696",
                     "accountId": "717101518569873409",
-                    "title": "Sharing some new goodies + Train 45! 🧡",
+                    "title": "SPOOKY SEXY GAMING! 🎃",
                     "status": 1,
-                    "viewerCount": 149,
-                    "version": 8115,
+                    "viewerCount": 282,
+                    "version": 8137,
                     "createdAt": 1734199442000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786836343000,
-                    "startedAt": 1786836020000,
+                    "lastFetchedAt": 1792887422000,
+                    "startedAt": 1792878921000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "863021434039967744",
+                                "id": "965446707179438080",
                                 "streamId": "724377616991133697",
                                 "type": 0,
                                 "flags": 4,
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:31Z"
+        "fetchedAt": "2026-10-26T14:59:15Z"
     },
     "twitter": {
         "sindervtuber": {
-            "id": "1335740087028617216",
+            "id": null,
             "handle": "sindervtuber",
             "displayName": "Sinder 🔥",
             "description": "Hellhound Wolf VTuber 🐺\n | 🎨 #SinderDoodle | 🔞 #Sinderotica | \n\n@GamerSupps\nCode SINDER for 10% off!\n\n🔴 https://t.co/0ECideiVlP",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1978540648161513472/snge2n_W_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1335740087028617216/1655580172/1500x500",
-            "followersCount": 301162,
-            "followingCount": 533,
-            "postsCount": 14609,
-            "accountCreatedAt": "2020-12-07T00:17:18.532Z",
-            "profileUrl": "https://x.com/SinderVTuber",
-            "fetchedAt": "2026-08-19T16:10:55Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sindervtuber",
+            "fetchedAt": "2026-10-26T14:16:54Z"
         },
         "sinderotica": {
-            "id": "1804237747567390720",
+            "id": null,
             "handle": "sinderotica",
             "displayName": "Sinder NSFW 🔥🔞",
             "description": "Official NSFW account of @SinderVTuber 🔥\n🔞 #Sinderotica\n\n💙 https://t.co/k99qaNZfaJ",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1805595336670429184/TvcDD9hM_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1804237747567390720/1771515413/1500x500",
-            "followersCount": 73426,
-            "followingCount": 21,
-            "postsCount": 481,
-            "accountCreatedAt": "2024-06-21T19:41:21.606Z",
-            "profileUrl": "https://x.com/Sinderotica",
-            "fetchedAt": "2026-08-19T16:10:56Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sinderotica",
+            "fetchedAt": "2026-10-26T14:16:56Z"
         }
     }
 }

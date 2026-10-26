@@ -5,40 +5,40 @@
         "login": "skeevley_pawson",
         "displayName": "Skeevley_Pawson",
         "createdAt": "2023-06-26T19:08:16.96715Z",
-        "updatedAt": "2026-08-11T23:32:56.789958Z",
+        "updatedAt": "2026-10-23T16:33:55.097206Z",
         "description": "I'm just a fox who loves to play games and hang out with friends.",
         "primaryColorHex": "8FFF00",
         "followers": {
-            "totalCount": 493
+            "totalCount": 496
         },
         "follows": {
-            "totalCount": 215
+            "totalCount": 217
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-12T03:09:39.015613Z"
+            "startedAt": "2026-10-23T20:51:11.732167Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e41781bf-664e-4250-99ee-086552941161-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fdd9a48-ed5b-467b-8594-a2a7f8120a29-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:52:07Z"
+        "fetchedAt": "2026-10-26T13:53:33Z"
     },
     "twitter": {
         "skeevley_pawson": {
-            "id": "1196215676446396416",
+            "id": null,
             "handle": "skeevley_pawson",
             "displayName": "🔞 Skeevley Pawson",
             "description": "Lime Fox on the Internet. Streamer, Singer/Songwriter, Asset Texturer",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1924770226832392192/E9R1yieu_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1196215676446396416/1747735988/1500x500",
-            "followersCount": 149,
-            "followingCount": 42,
-            "postsCount": 333,
-            "accountCreatedAt": "2019-11-17T23:57:05.828Z",
-            "profileUrl": "https://x.com/Skeevley_Pawson",
-            "fetchedAt": "2026-08-19T16:30:14Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/skeevley_pawson",
+            "fetchedAt": "2026-10-26T14:37:34Z"
         }
     }
 }

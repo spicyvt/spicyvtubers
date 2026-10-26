@@ -5,40 +5,40 @@
         "login": "danyavt",
         "displayName": "DanyaVT",
         "createdAt": "2021-11-02T16:15:46.847001Z",
-        "updatedAt": "2026-08-19T15:05:55.237932Z",
+        "updatedAt": "2026-10-24T11:56:00.799397Z",
         "description": "The Wispup carnival beckons... British Variety Vtuber!",
         "primaryColorHex": "1345AA",
         "followers": {
-            "totalCount": 1214
+            "totalCount": 1286
         },
         "follows": {
-            "totalCount": 208
+            "totalCount": 222
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-16T21:18:18.978264Z"
+            "startedAt": "2026-10-24T14:23:39.996915Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/66b8a0ce-29ca-42c7-9c80-4b3423d99eb3-profile_image-300x300.jpeg",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/98542512-1d3a-4ee7-b61c-628502e901d9-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d34caad3-3e35-4689-b79b-027b26e9d503-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:48:03Z"
+        "fetchedAt": "2026-10-26T13:49:31Z"
     },
     "twitter": {
         "danya__vt": {
-            "id": "1791529437520949249",
+            "id": null,
             "handle": "danya__vt",
-            "displayName": "Danya 🍂🩵🔜 VEXPO【 ??? 】",
-            "description": "Ringleader Vtuber\n\n3.0  - Q 3 2027\n\nthey/them\n\nママ:  @bearuruma  \n\nパパ : @NoKamiKry\n\nLogo: @wolisakamata\n\nFans :  #wispups\n\nBusiness email:  Danyavtuber@gmail.com",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2060852891074662403/g1N0vFVV_400x400.jpg",
+            "displayName": "Danya 🍂🩵",
+            "description": "Ringleader Vtuber\n\nthey/them\n\npfp : Tiny witch\n\nママ:  @bearuruma  \n\nパパ : @NoKamiKry\n\nFans :  #wispups",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2110813751830040576/p_qG8CWm_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1791529437520949249/1776802639/1500x500",
-            "followersCount": 699,
-            "followingCount": 419,
-            "postsCount": 6083,
-            "accountCreatedAt": "2024-05-17T18:01:37.082Z",
-            "profileUrl": "https://x.com/Danya__VT",
-            "fetchedAt": "2026-08-19T16:24:20Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/danya__vt",
+            "fetchedAt": "2026-10-26T14:31:03Z"
         }
     },
     "rplay": {
@@ -63,6 +63,6 @@
         "customUrl": null,
         "channelImage": "https://pb2.rplay.live/pics/5dfbfa6152f5d2b4bc79c6c44ace1676",
         "streamStartTime": null,
-        "fetchedAt": "2026-08-19T16:49:18Z"
+        "fetchedAt": "2026-10-26T15:03:30Z"
     }
 }

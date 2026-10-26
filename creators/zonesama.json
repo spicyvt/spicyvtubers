@@ -5,35 +5,35 @@
         "login": "zonesama",
         "displayName": "ZONEsama",
         "createdAt": "2011-11-17T10:33:12.786744Z",
-        "updatedAt": "2026-08-15T12:51:40.352266Z",
+        "updatedAt": "2026-10-26T08:46:26.732261Z",
         "description": "I make all those Flash cartoon 'parodies'. Yes, THOSE ones.",
         "primaryColorHex": "1F69FF",
         "followers": {
-            "totalCount": 113781
+            "totalCount": 114194
         },
         "follows": {
-            "totalCount": 405
+            "totalCount": 427
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-15T19:17:16.089661Z"
+            "startedAt": "2026-10-24T19:22:56.963563Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/zonesama-profile_image-153bc397f8a53924-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/zonesama-profile_banner-eb9a234884e60edd-480.png",
-        "fetchedAt": "2026-08-19T15:47:01Z"
+        "fetchedAt": "2026-10-26T13:48:28Z"
     },
     "fansly": {
         "id": "288686330064416768",
         "username": "Z0NE",
         "displayName": "ZONE",
         "version": 8,
-        "followCount": 9591,
+        "followCount": 9816,
         "statusId": 1,
-        "accountMediaLikes": 6235,
-        "postLikes": 4165,
+        "accountMediaLikes": 6380,
+        "postLikes": 4318,
         "about": "🤖 DESIGNATION : ZONE-tron\n📄 IDENTIFIER : \"That handlebars robot\"\n📡 SEEKING : INPUT\n⚙️ FEATURES : Titanium love handles, High RPM ambulatory wheels with premium soft rubber tires, Primary & rear exhaust ports (compatible with synthetic & human appendages), Soft heated interior, Generous internal fluid capacity, Optional emotion chip.\n\n📑 ADDITIONAL DATA :\n🌐 zone-archive.com\n🌐 patreon.com/zone\n🌐 throne.com/zone\n🌐 twitch.tv/zonesama",
         "location": "Internet",
         "streaming": {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:37Z"
+        "fetchedAt": "2026-10-26T15:00:26Z"
     },
     "twitter": {
         "z0ne": {
-            "id": "21626577",
+            "id": null,
             "handle": "z0ne",
             "displayName": "ZONE",
-            "description": "I make all those Flash cartoon 'parodies'. Yes, THOSE ones. Merch: https://t.co/lDYtdXARQ5 Send stuff to: PO Box 4418, Burbank, CA 91503, United States",
+            "description": "I make all those Flash cartoon &#x27;parodies&#x27;. Yes, THOSE ones.\nMerch: https://t.co/lDYtdXARQ5\n\nSend stuff to:\nPO Box 4418,\nBurbank,\nCA 91503,\nUnited States.",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1583296896579289094/kayN_cvI_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/21626577/1543264308/1500x500",
-            "followersCount": 348056,
-            "followingCount": 4769,
-            "postsCount": 19072,
-            "accountCreatedAt": "2009-02-23T03:15:19.000Z",
-            "profileUrl": "https://x.com/Z0NE",
-            "fetchedAt": "2026-08-19T16:22:33Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/z0ne",
+            "fetchedAt": "2026-10-26T14:29:09Z"
         }
     }
 }

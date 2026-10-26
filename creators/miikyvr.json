@@ -5,35 +5,35 @@
         "login": "miikyvr",
         "displayName": "miikyvr",
         "createdAt": "2021-04-09T00:03:05.440183Z",
-        "updatedAt": "2026-08-19T03:37:00.535127Z",
+        "updatedAt": "2026-10-24T23:33:44.279415Z",
         "description": "",
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 9224
+            "totalCount": 9798
         },
         "follows": {
-            "totalCount": 42
+            "totalCount": 41
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T05:15:31.826917Z"
+            "startedAt": "2026-10-26T05:17:19.122782Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/044d8329-7b64-4e84-bcef-1b78cbf4c8ee-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c907f997-ae43-4d59-8096-234a3ef2d044-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:55:45Z"
+        "fetchedAt": "2026-10-26T13:57:13Z"
     },
     "fansly": {
         "id": "568875036333580288",
         "username": "iMiky",
         "displayName": null,
         "version": 8,
-        "followCount": 3062,
+        "followCount": 3610,
         "statusId": 3,
-        "accountMediaLikes": 3633,
-        "postLikes": 2114,
+        "accountMediaLikes": 4003,
+        "postLikes": 2342,
         "about": "📢(ENG/ESP)\n\n🍑Latina rikulona🍑\nNaughty content creator, NO mute🔊\nAlso very active on other platforms, come find me bebe https://linktr.ee/mikyvr\n",
         "location": "",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "772624663925764097",
-                    "historyId": "944832076660613120",
+                    "historyId": "970559548773396480",
                     "channelId": "772624663925764096",
                     "accountId": "568875036333580288",
                     "title": "(ENG/ESP) 🍑Latina girl making you lose control 😏",
                     "status": 1,
-                    "viewerCount": 58,
-                    "version": 3595,
+                    "viewerCount": 71,
+                    "version": 3623,
                     "createdAt": 1745702434000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786766349000,
-                    "startedAt": 1786759881000,
+                    "lastFetchedAt": 1792900560000,
+                    "startedAt": 1792893788000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:43Z"
+        "fetchedAt": "2026-10-26T15:01:32Z"
     },
     "twitter": {
         "mikyvr_": {
-            "id": "1793743459330793474",
+            "id": null,
             "handle": "mikyvr_",
             "displayName": "Miky",
             "description": "(ENG/ESP)\n🍑Latina rikulona🍑\n 👇Redes/Social👇",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2085487706872643584/J0VLf4y2_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1793743459330793474/1786054116/1500x500",
-            "followersCount": 2440,
-            "followingCount": 26,
-            "postsCount": 163,
-            "accountCreatedAt": "2024-05-23T20:39:18.018Z",
-            "profileUrl": "https://x.com/Mikyvr_",
-            "fetchedAt": "2026-08-19T16:36:15Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mikyvr_",
+            "fetchedAt": "2026-10-26T14:43:51Z"
         }
     }
 }

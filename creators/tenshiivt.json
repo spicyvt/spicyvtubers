@@ -5,35 +5,35 @@
         "login": "tenshiivt",
         "displayName": "Tenshiivt",
         "createdAt": "2018-01-15T22:26:16.759593Z",
-        "updatedAt": "2026-08-17T06:31:01.129035Z",
+        "updatedAt": "2026-10-26T03:28:39.21799Z",
         "description": "I'm a futuristic cyberpunk bunny boy vtuber!",
         "primaryColorHex": "6600FF",
         "followers": {
-            "totalCount": 1855
+            "totalCount": 1854
         },
         "follows": {
-            "totalCount": 360
+            "totalCount": 367
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-07T07:19:19.493988Z"
+            "startedAt": "2026-10-25T08:48:21.036515Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9eb813ef-f123-45be-8041-11d8a5f61209-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2bccda3-1e66-431c-8d19-617deaa1ac6b-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:42:27Z"
+        "fetchedAt": "2026-10-26T13:43:58Z"
     },
     "fansly": {
         "id": "507795879785148447",
         "username": "TenshiVT",
         "displayName": null,
         "version": 7,
-        "followCount": 111,
+        "followCount": 125,
         "statusId": 1,
-        "accountMediaLikes": 33,
-        "postLikes": 55,
+        "accountMediaLikes": 35,
+        "postLikes": 62,
         "about": "Bara Bunny's blue app account",
         "location": "",
         "streaming": {
@@ -69,36 +69,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:53Z"
+        "fetchedAt": "2026-10-26T14:59:42Z"
     },
     "twitter": {
         "tenshivt": {
-            "id": "1587160184236912641",
+            "id": null,
             "handle": "tenshivt",
             "displayName": "TenshiVT",
             "description": "Tech-wearin Bara Bunny Boy Vtuber! Gay|🔞I have the fattest ass in vtubing https://t.co/kcmjykwwlZ",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1986148904992415744/AqZDdwmU_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1587160184236912641/1715467503/1500x500",
-            "followersCount": 4548,
-            "followingCount": 742,
-            "postsCount": 16718,
-            "accountCreatedAt": "2022-10-31T19:11:07.419Z",
-            "profileUrl": "https://x.com/TenshiVT",
-            "fetchedAt": "2026-08-19T16:14:51Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/tenshivt",
+            "fetchedAt": "2026-10-26T14:21:04Z"
         },
         "tenshinsfwvt": {
-            "id": "1778219818187202560",
+            "id": null,
             "handle": "tenshinsfwvt",
             "displayName": "TenshiVA COMMS OPEN",
             "description": "spicy account for the bara bunny dm for voice comms @TenshiVT",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1778220275735449601/rsPW5JUa_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1778219818187202560/1775419051/1500x500",
-            "followersCount": 4181,
-            "followingCount": 509,
-            "postsCount": 2533,
-            "accountCreatedAt": "2024-04-11T00:33:47.838Z",
-            "profileUrl": "https://x.com/TenshiNSFWVT",
-            "fetchedAt": "2026-08-19T16:14:53Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/tenshinsfwvt",
+            "fetchedAt": "2026-10-26T14:21:06Z"
         }
     }
 }

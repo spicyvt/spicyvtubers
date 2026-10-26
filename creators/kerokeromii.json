@@ -5,40 +5,40 @@
         "login": "kerokeromii",
         "displayName": "KeroKeromii",
         "createdAt": "2022-03-27T04:01:26.438222Z",
-        "updatedAt": "2026-08-19T02:58:56.384256Z",
+        "updatedAt": "2026-10-24T03:00:16.75966Z",
         "description": "Dumb frog that loves (you)🐸🐸🐸",
         "primaryColorHex": "B3D55B",
         "followers": {
-            "totalCount": 3603
+            "totalCount": 3807
         },
         "follows": {
-            "totalCount": 343
+            "totalCount": 349
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T08:21:59.844964Z"
+            "startedAt": "2026-10-24T10:13:20.280654Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6376256-71f1-4f35-ad09-38aaf4a490ef-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/750fbbd1-3d02-4486-bac6-0f252e2182f7-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:54:08Z"
+        "fetchedAt": "2026-10-26T13:55:34Z"
     },
     "twitter": {
         "kerokeromii_": {
-            "id": "1507924968549470208",
+            "id": null,
             "handle": "kerokeromii_",
             "displayName": "Keromii Kero 🐸💦",
             "description": "A lil froggy who has a dream (´｡• ᵕ •｡`) | Twitch + YT partner\n🎨 Art tag: #froggyillust 🔞: #erokero \n📧 keromiikero@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1925753633443831808/OiK90hqO_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1507924968549470208/1720659916/1500x500",
-            "followersCount": 1240,
-            "followingCount": 975,
-            "postsCount": 2648,
-            "accountCreatedAt": "2022-03-27T03:41:35.870Z",
-            "profileUrl": "https://x.com/KeroKeromii_",
-            "fetchedAt": "2026-08-19T16:33:32Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kerokeromii_",
+            "fetchedAt": "2026-10-26T14:40:57Z"
         }
     },
     "rplay": {
@@ -61,7 +61,7 @@
         "isLivestreamer": true,
         "customUrl": "keromii",
         "channelImage": "https://pb2.rplay.live/pics/11f3d0c6294b79a932c5f85467e469f3",
-        "streamStartTime": "2026-08-12T05:19:53.000Z",
-        "fetchedAt": "2026-08-19T16:49:56Z"
+        "streamStartTime": "2026-10-21T08:31:55.000Z",
+        "fetchedAt": "2026-10-26T15:04:01Z"
     }
 }

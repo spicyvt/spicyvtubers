@@ -5,40 +5,40 @@
         "login": "kodawithsoda",
         "displayName": "KodawithSoda",
         "createdAt": "2022-09-17T04:35:32.29833Z",
-        "updatedAt": "2026-08-19T02:32:23.357901Z",
+        "updatedAt": "2026-10-23T15:36:05.990117Z",
         "description": "local goober tanuki (he/they)",
         "primaryColorHex": "FFA3F0",
         "followers": {
-            "totalCount": 683
+            "totalCount": 1242
         },
         "follows": {
-            "totalCount": 318
+            "totalCount": 321
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T22:39:01.452052Z"
+            "startedAt": "2026-10-23T22:15:37.874514Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cbedbeae-3e4e-4a2e-a0c9-b83fd6af568c-profile_image-300x300.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7dde5680-e3ac-4218-92a4-2dea7c48428b-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:52:12Z"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95463460-8a56-4d21-a6c1-39c5e3723a50-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/148e9b31-e69e-4f60-9a21-a8cc6b170d16-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T13:53:39Z"
     },
     "twitter": {
         "kodawithsoda": {
-            "id": "1568167778707980288",
+            "id": null,
             "handle": "kodawithsoda",
             "displayName": "KodawithSoda 🏳️‍⚧️",
-            "description": "Tanuki | FtM | Lvl 23 | 18+ Only | Twitch VTuber & Content Creator | Texture Artist | 💉⚧️: 9-22-24",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2049201687416774656/26ZXdfMM_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1568167778707980288/1751530134/1500x500",
-            "followersCount": 1553,
-            "followingCount": 834,
-            "postsCount": 3460,
-            "accountCreatedAt": "2022-09-09T09:21:59.377Z",
-            "profileUrl": "https://x.com/KodawithSoda",
-            "fetchedAt": "2026-08-19T16:30:20Z"
+            "description": "Tanuki | FtM | Lvl 24 | 18+ Only | Twitch VTuber &amp; Content Creator | Texture Artist | 💉⚧️: 9-22-24",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2103612205795033088/4zPd-9lI_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1568167778707980288/1790375189/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kodawithsoda",
+            "fetchedAt": "2026-10-26T14:37:39Z"
         }
     }
 }

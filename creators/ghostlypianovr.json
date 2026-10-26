@@ -5,35 +5,35 @@
         "login": "ghostlypianovr",
         "displayName": "GhostlyPianoVR",
         "createdAt": "2026-04-10T09:13:32.022382Z",
-        "updatedAt": "2026-08-02T00:02:31.679719Z",
+        "updatedAt": "2026-10-26T11:40:42.38817Z",
         "description": "Cute Bunny boy here to vibe, ASMR, play piano and explore the world of VR--I play chill games, and like to be lazy! ",
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 102
+            "totalCount": 127
         },
         "follows": {
-            "totalCount": 18
+            "totalCount": 22
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-16T01:36:11.602409Z"
+            "startedAt": "2026-10-25T04:07:51.95692Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e53eb05-37db-4c25-8177-b88089193928-profile_image-300x300.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25ed2ec7-8170-4afe-af5a-306d7843c1d1-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:55:46Z"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dad3b2a2-0f59-4828-8f6b-690283795672-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c8ec4bf-d66a-4a48-aa73-c734c352339d-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T13:57:15Z"
     },
     "fansly": {
         "id": "629916147877163008",
         "username": "GhostlyPiano",
-        "displayName": "GhostlyPiano | うさぎ",
-        "version": 24,
-        "followCount": 2842,
-        "statusId": 3,
-        "accountMediaLikes": 9902,
-        "postLikes": 5236,
+        "displayName": "GhostlyPiano VR |うさぎ",
+        "version": 27,
+        "followCount": 3035,
+        "statusId": 1,
+        "accountMediaLikes": 10496,
+        "postLikes": 5382,
         "about": "The one and only \nASMR piano Bunny!\nhttps://allmylinks.com/ghostlypiano\nhttps://throne.com/ghostlypianovr\n18+ Only <3",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xOZM3JQa7vRu.m3u8",
                 "chatRoomId": "670631853845131265",
                 "status": 2,
-                "version": 150,
+                "version": 221,
                 "createdAt": 1721385422000,
                 "updatedAt": null,
                 "stream": {
                     "id": "670631723813314562",
-                    "historyId": "946286289160781824",
+                    "historyId": "970196355987292160",
                     "channelId": "670631723813314561",
                     "accountId": "629916147877163008",
-                    "title": " | VR lewd Bunny | Vibing :3 xxx",
+                    "title": "| VR lewd Bunny | weekend bunns",
                     "status": 1,
-                    "viewerCount": 14,
-                    "version": 896,
+                    "viewerCount": 16,
+                    "version": 982,
                     "createdAt": 1721385423000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1787114226000,
-                    "startedAt": 1787106592000,
+                    "lastFetchedAt": 1792882019000,
+                    "startedAt": 1792807196000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,36 +69,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:43Z"
+        "fetchedAt": "2026-10-26T15:01:32Z"
     },
     "twitter": {
         "ghostlypiano": {
             "id": null,
             "handle": "ghostlypiano",
-            "displayName": "GhostlyPiano | うさぎ🔞",
+            "displayName": "GhostlyPiano VR | うさぎ🔞",
             "description": "local bunny brat 🐰 \n\nhttps://t.co/HBKw8atyJx",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2044134743235801090/RF3cTqXG_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1773512032953974784/1768501727/1500x500",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2108995078337282048/wj4kPYgN_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1773512032953974784/1791658491/1500x500",
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
-            "accountCreatedAt": "2024-03-29T00:46:49.936Z",
-            "profileUrl": "https://x.com/GhostlyPiano",
-            "fetchedAt": "2026-08-19T16:36:17Z"
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ghostlypiano",
+            "fetchedAt": "2026-10-26T14:43:53Z"
         },
         "ghostlypianist": {
-            "id": "740535430051831808",
+            "id": null,
             "handle": "ghostlypianist",
             "displayName": "GhostlyPianoVR",
-            "description": "Piano Bunny, post interests n' stuff\nhttps://t.co/5JQOdFT4AO",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2060426157447667712/XvhrsBd4_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/740535430051831808/1760509471/1500x500",
-            "followersCount": 169,
-            "followingCount": 96,
-            "postsCount": 52,
-            "accountCreatedAt": "2016-06-08T13:26:19.828Z",
-            "profileUrl": "https://x.com/GhostlyPianist",
-            "fetchedAt": "2026-08-19T16:36:19Z"
+            "description": "Piano Bunny, post interests n&#x27; stuff\nhttps://t.co/5JQOdFSwLg",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2109393344568680448/0bLcpeq7_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/740535430051831808/1791753481/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ghostlypianist",
+            "fetchedAt": "2026-10-26T14:43:55Z"
         }
     }
 }

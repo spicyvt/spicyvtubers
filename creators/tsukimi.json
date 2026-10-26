@@ -5,37 +5,37 @@
         "login": "tsukimi",
         "displayName": "Tsukimi",
         "createdAt": "2025-10-03T06:00:13.346149Z",
-        "updatedAt": "2026-08-19T14:16:42.876721Z",
+        "updatedAt": "2026-10-24T14:37:57.716581Z",
         "description": "welcome to orbit! ☄️ I'm Tsuki┊✉ Tsukimiorbit@gmail.com",
         "primaryColorHex": "94B5FC",
         "followers": {
-            "totalCount": 10861
+            "totalCount": 12825
         },
         "follows": {
-            "totalCount": 381
+            "totalCount": 406
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T11:34:28.228643Z"
+            "startedAt": "2026-10-23T10:08:31.613345Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1acadb75-c3c7-4eba-b109-c6b4e8c17ef3-profile_image-300x300.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0fb6bf7-21e7-44a8-897f-5e872e0d7f48-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34dbb3e8-e1c3-4bc4-8810-a10eccd79d82-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:53:44Z"
+        "fetchedAt": "2026-10-26T13:55:09Z"
     },
     "fansly": {
         "id": "871295879934398465",
-        "username": "tsukimittv",
+        "username": "Tsukimi",
         "displayName": "Tsukimi",
-        "version": 6,
-        "followCount": 1849,
+        "version": 10,
+        "followCount": 2295,
         "statusId": 3,
-        "accountMediaLikes": 276,
-        "postLikes": 285,
-        "about": "vtuber ✮ streamer\n✮ content creator ✮\n-♡´──────── 💙 ────────♡´-\nSpoil me, nya? \nhttps://ko-fi.com/tsukimittv\nhttps://throne.com/tsukimittv\n\nJoin the Orbit for updates!\nhttps://discord.gg/tsukimi\n\nOther places to catch me at?\nhttps://linktr.ee/tsukimittv\n-♡´──────── 💙 ────────♡´-\n\nDo NOT redistribute content found on this page.\n© Tsukimittv 2026. Enforced by bruqi",
-        "location": "twitch.tv/tsukimi",
+        "accountMediaLikes": 383,
+        "postLikes": 348,
+        "about": "꧁ 𓆩༺✧༻𓆪𓆩༺✧༻𓆪𓆩༺✧༻𓆪 ꧂\nGreetings, earthlings! I'm Tsuki 🌙 \nfallen star glitch-born human/alien ♡\nI comfort lost souls adrift. \n\n-♡´──────── 💙 ────────♡´-\nSpoil me, nya? \nhttps://ko-fi.com/tsukimittv\nhttps://throne.com/tsukimittv\n🔗 Lovense Link: lovense.com/p/tsukimi\n\nJoin the Orbit for updates!\nhttps://discord.gg/tsukimi\n\nOther places to catch me at?\nhttps://linktr.ee/tsukimisfw\n-♡´──────── 💙 ────────♡´-\nSOLO Female/No Collabs 💋 💌All DM's are ME\n\nDo NOT redistribute content found on this page.",
+        "location": "business inquiries: tsukimiorbit@gmail.com",
         "streaming": {
             "accountId": "871295879934398465",
             "channel": {
@@ -44,33 +44,24 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.VnFL37f4kI4b.m3u8",
                 "chatRoomId": "881687765526257664",
                 "status": 2,
-                "version": 25,
+                "version": 36,
                 "createdAt": 1771705088000,
                 "updatedAt": null,
                 "stream": {
                     "id": "881687697205243905",
-                    "historyId": "943091874774671360",
+                    "historyId": "965199845734227969",
                     "channelId": "881687697205243904",
                     "accountId": "871295879934398465",
-                    "title": "Nebula Secret Cave",
+                    "title": "Checking Your Vitals: Nurse Tsuki's Dose of Affection 💉",
                     "status": 1,
-                    "viewerCount": 1,
-                    "version": 74,
+                    "viewerCount": 81,
+                    "version": 82,
                     "createdAt": 1771705088000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786350951000,
-                    "startedAt": 1786344984000,
+                    "lastFetchedAt": 1791653122000,
+                    "startedAt": 1791615935000,
                     "permissions": {
-                        "permissionFlags": [
-                            {
-                                "id": "943085188236201984",
-                                "streamId": "881687697205243905",
-                                "type": 0,
-                                "flags": 6,
-                                "price": 0,
-                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"879196161288716288\\\"}\"}"
-                            }
-                        ]
+                        "permissionFlags": []
                     }
                 },
                 "arn": null,
@@ -78,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:32Z"
+        "fetchedAt": "2026-10-26T15:01:15Z"
     },
     "twitter": {
         "tsukimittv": {
-            "id": "2010771341360979968",
+            "id": null,
             "handle": "tsukimittv",
             "displayName": "Tsuki 🪫👽",
-            "description": "neurospicy l 👽 space gremlin #vtuber | @Twitch / @KICK Partner l https://t.co/Qex9bxgmIK l 🎨 #tsukimiorbit ♡",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2081458148138012673/8fzrdb7u_400x400.jpg",
+            "description": "neurospicy l 👽 space gremlin #vtuber | @Twitch / @KICK Partner l https://t.co/AFWwVmRO9i l 🎨 #tsukimiorbit ♡ 🔞MDNI",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2111187821994344448/gTFzwSAe_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2010771341360979968/1779097974/1500x500",
-            "followersCount": 299,
-            "followingCount": 0,
-            "postsCount": 170,
-            "accountCreatedAt": "2026-01-12T17:50:34.153Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/tsukimittv",
-            "fetchedAt": "2026-08-19T16:32:57Z"
+            "fetchedAt": "2026-10-26T14:40:21Z"
         }
     },
     "rplay": {
@@ -115,8 +106,8 @@
         "channelLanguage": "en",
         "isLivestreamer": true,
         "customUrl": "tsukimi",
-        "channelImage": "https://pb2.rplay.live/pics/aa62b4e171aec45c492a9833fa9e4fb0",
-        "streamStartTime": "2026-08-19T05:32:54.511Z",
-        "fetchedAt": "2026-08-19T16:49:43Z"
+        "channelImage": "https://pb3.rplay.live/pics/7021a396ec95f69f635e8980afc880b0",
+        "streamStartTime": "2026-10-22T06:36:58.195Z",
+        "fetchedAt": "2026-10-26T15:03:50Z"
     }
 }

@@ -5,35 +5,35 @@
         "login": "chainavt",
         "displayName": "ChainaVT",
         "createdAt": "2020-09-17T23:05:00.612448Z",
-        "updatedAt": "2026-08-19T03:22:31.133345Z",
+        "updatedAt": "2026-10-25T23:58:19.164663Z",
         "description": "Ser vato no te quita lo wuapa.",
         "primaryColorHex": "EB0400",
         "followers": {
-            "totalCount": 62505
+            "totalCount": 62766
         },
         "follows": {
-            "totalCount": 1820
+            "totalCount": 1752
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T03:24:10.969062Z"
+            "startedAt": "2026-10-25T23:55:21.823778Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/de9a041c-44e7-4120-92fd-d9032e1ae8e7-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77621a95-b82c-4bd1-8cfb-40024e766670-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:56:46Z"
+        "fetchedAt": "2026-10-26T13:58:16Z"
     },
     "fansly": {
         "id": "800279676340674560",
         "username": "ChainaVT",
         "displayName": "ChainaVT",
         "version": 5,
-        "followCount": 2178,
+        "followCount": 2266,
         "statusId": 1,
-        "accountMediaLikes": 721,
-        "postLikes": 484,
+        "accountMediaLikes": 760,
+        "postLikes": 515,
         "about": "🌸✨ Welcome to the naughtiest corner of ChainaVT! ✨🌸\nNo filters here, just me... just like you've never seen me before.💖\nExclusive content, behind-the-scenes footage, private sessions, and tons of fan service just for my most loyal Chaichais 💋",
         "location": "",
         "streaming": {
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:54Z"
+        "fetchedAt": "2026-10-26T15:01:38Z"
     },
     "twitter": {
         "chainavt": {
-            "id": "1305983690988810240",
+            "id": null,
             "handle": "chainavt",
             "displayName": "ChainaVT",
             "description": "|  Partner | Waifu(?) | Vtuber | \n• https://t.co/n1y7zjLEJt\n• Redes: https://t.co/QyaKy0vf1h\n• 🔞: @HornyChaina\n• Fanart: #ChainaArt",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2015493274388025344/l0XLCkDi_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1305983690988810240/1740268365/1500x500",
-            "followersCount": 46873,
-            "followingCount": 1474,
-            "postsCount": 11456,
-            "accountCreatedAt": "2020-09-15T21:36:00.266Z",
-            "profileUrl": "https://x.com/ChainaVT",
-            "fetchedAt": "2026-08-19T16:37:59Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/chainavt",
+            "fetchedAt": "2026-10-26T14:45:39Z"
         },
         "hornychaina": {
             "id": null,
@@ -68,9 +68,9 @@
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
-            "accountCreatedAt": "2026-03-24T01:00:19.858Z",
-            "profileUrl": "https://x.com/HornyChaina",
-            "fetchedAt": "2026-08-19T16:38:00Z"
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/hornychaina",
+            "fetchedAt": "2026-10-26T14:45:41Z"
         }
     }
 }

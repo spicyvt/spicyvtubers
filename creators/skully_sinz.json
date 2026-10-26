@@ -5,11 +5,11 @@
         "login": "skully_sinz",
         "displayName": "Skully_Sinz",
         "createdAt": "2020-10-24T01:12:25.407224Z",
-        "updatedAt": "2026-08-03T21:41:05.357651Z",
+        "updatedAt": "2026-10-03T21:27:22.147417Z",
         "description": "Just an orc who is trying to find her way in this world.  Come by for a laugh while I struggle. Giving \"Hanging out in your friends basement vibes\" -- I'll bring the Soda",
         "primaryColorHex": "EB0400",
         "followers": {
-            "totalCount": 814
+            "totalCount": 821
         },
         "follows": {
             "totalCount": 127
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T00:57:21.217804Z"
+            "startedAt": "2026-10-04T00:57:51.869516Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b008b41-743b-46b5-8b80-e7a9a70f622c-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/708cab53-8092-4900-9429-c043f0090057-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:58:00Z"
+        "fetchedAt": "2026-10-26T13:59:30Z"
     },
     "fansly": {
         "id": "516123894441058304",
         "username": "SkullySinz",
         "displayName": "SkullySinz",
         "version": 4,
-        "followCount": 378,
+        "followCount": 390,
         "statusId": 3,
-        "accountMediaLikes": 905,
-        "postLikes": 920,
+        "accountMediaLikes": 926,
+        "postLikes": 964,
         "about": "Your friendly Orcubus",
         "location": "Swiggity Swooty I'm coming for that Booty",
         "streaming": {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:48:05Z"
+        "fetchedAt": "2026-10-26T15:01:49Z"
     },
     "twitter": {
         "skullysinz": {
-            "id": "1326161549124308992",
+            "id": null,
             "handle": "skullysinz",
             "displayName": "Skully (Gooch Smoocher) Sinz",
-            "description": "Orcubus || She/Her || 🔞 || Emotional Support Hedonist || 🚫RP ||\nAffiliate for: @otonajp @DeviousDrawings & @WaifuWaresUK  ::Links in carrd::\nPFP: @Bolovitz",
+            "description": "Orcubus || She/Her || 🔞 || Emotional Support Hedonist || 🚫RP ||\nAffiliate for: @otonajp @DeviousDrawings &amp; @WaifuWaresUK  ::Links in carrd::\nPFP: @Bolovitz",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2042908098382155776/sGQudGCd_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1326161549124308992/1763558920/1500x500",
-            "followersCount": 7445,
-            "followingCount": 1572,
-            "postsCount": 13249,
-            "accountCreatedAt": "2020-11-10T13:55:36.369Z",
-            "profileUrl": "https://x.com/SkullySinz",
-            "fetchedAt": "2026-08-19T16:39:59Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/skullysinz",
+            "fetchedAt": "2026-10-26T14:47:37Z"
         }
     }
 }

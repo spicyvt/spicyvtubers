@@ -1,15 +1,15 @@
 {
-    "bio": "Hello I'm Stronny Cuttles from VAllure and my Twitch is for ASMR focused content!",
+    "bio": "Hello I'm Stronny Cuttles your cuttlefish hypnotist!",
     "twitch": {
         "id": "1011870741",
         "login": "stronnycuttles",
         "displayName": "StronnyCuttles",
         "createdAt": "2023-12-31T20:11:18.529912Z",
-        "updatedAt": "2026-06-14T23:56:22.902229Z",
-        "description": "Hello I'm Stronny Cuttles from VAllure and my Twitch is for ASMR focused content! ",
+        "updatedAt": "2026-10-16T13:05:38.850178Z",
+        "description": "Hello I'm Stronny Cuttles your cuttlefish hypnotist! ",
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 5831
+            "totalCount": 6183
         },
         "follows": {
             "totalCount": 13
@@ -19,21 +19,21 @@
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-04-10T17:47:53.34225Z"
+            "startedAt": "2026-10-16T13:58:25.538725Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/836036ac-82d7-402b-8027-5ef366bdff64-profile_image-300x300.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d0d9e3-1e67-49c6-94bd-0b3b701bbf86-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd758423-a8f0-4cd4-ab93-3a098682e5ab-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:42:03Z"
+        "fetchedAt": "2026-10-26T13:43:35Z"
     },
     "fansly": {
         "id": "597938049397043200",
         "username": "StronnyCuttles",
         "displayName": "Stronny Cuttles",
         "version": 10,
-        "followCount": 12234,
+        "followCount": 13219,
         "statusId": 1,
-        "accountMediaLikes": 1850,
-        "postLikes": 3051,
+        "accountMediaLikes": 2377,
+        "postLikes": 3371,
         "about": "Hello Reefling, I'm sure I won't get up to too much trouble here!\nAll streams will be free to watch 💚 \n\nVoD are pay-walled due to website rules but will have deleted YT Membership Streams that are too much to leave up. \n\n~ Links ~ \nYoutube: https://www.youtube.com/@StronnyCuttles\nPatreon (Audio RP's/ASMRs): https://patreon.com/StronnyCuttles\n\nPFP/Banner: Alfyria",
         "location": "",
         "streaming": {
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:47Z"
+        "fetchedAt": "2026-10-26T14:59:37Z"
     },
     "twitter": {
         "stronnycuttles": {
-            "id": "1741854822553501696",
+            "id": null,
             "handle": "stronnycuttles",
             "displayName": "Stronny Cuttles 🦑🛐",
             "description": "The hypnotic cuttlefish!~\nRig @naari_jpg Design @SquishyGhool \nBanner @waltz_w_me \n@GamerSupps Code STRONNY",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1797451229364391936/YfqsX2La_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1741854822553501696/1716142603/1500x500",
-            "followersCount": 30731,
-            "followingCount": 811,
-            "postsCount": 1514,
-            "accountCreatedAt": "2024-01-01T16:12:21.541Z",
-            "profileUrl": "https://x.com/StronnyCuttles",
-            "fetchedAt": "2026-08-19T16:14:14Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/stronnycuttles",
+            "fetchedAt": "2026-10-26T14:20:25Z"
         },
         "stronnynsfw": {
-            "id": "1760722917254680576",
+            "id": null,
             "handle": "stronnynsfw",
             "displayName": "🔞 Stronny Cuttles 🔞",
-            "description": "Don't be shy, it's time to ink with me ;)  | Alt of @StronnyCuttles | #smuttlefish | https://t.co/NOP6Z5Qhdr | https://t.co/l0qd7I97ND",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1793590623968399360/spcggQlI_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1760722917254680576/1716460326/1500x500",
-            "followersCount": 33849,
-            "followingCount": 59,
-            "postsCount": 503,
-            "accountCreatedAt": "2024-02-22T17:47:35.692Z",
-            "profileUrl": "https://x.com/StronnyNSFW",
-            "fetchedAt": "2026-08-19T16:14:12Z"
+            "description": "Don&#x27;t be shy, it&#x27;s time to ink with me ;)  | Alt of @StronnyCuttles | #smuttlefish | https://t.co/NOP6Z5Qhdr | https://t.co/l0qd7I97ND",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2093619618401423360/c_P_XFsH_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1760722917254680576/1787992791/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/stronnynsfw",
+            "fetchedAt": "2026-10-26T14:20:23Z"
         }
     }
 }

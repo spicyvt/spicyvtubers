@@ -5,45 +5,45 @@
         "login": "mu_chanterelle",
         "displayName": "Mu_Chanterelle",
         "createdAt": "2023-02-21T02:04:01.209898Z",
-        "updatedAt": "2026-08-18T01:30:46.238616Z",
+        "updatedAt": "2026-10-25T23:13:01.437558Z",
         "description": "Welcome to the grove.  I'm Mu, an ASMR and variety streaming Druid VTuber 🍵",
         "primaryColorHex": "BAAAD1",
         "followers": {
-            "totalCount": 7191
+            "totalCount": 7771
         },
         "follows": {
-            "totalCount": 142
+            "totalCount": 148
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T01:30:27.952666Z"
+            "startedAt": "2026-10-26T00:49:46.925858Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cfa467c8-47b5-4c7d-9eae-1bba4ae6129d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/28bd64c5-4b4f-4d21-9366-db85adf6eeb3-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:55:13Z"
+        "fetchedAt": "2026-10-26T13:56:41Z"
     },
     "twitter": {
         "mu_chanterelle": {
-            "id": "1438156015695011840",
+            "id": null,
             "handle": "mu_chanterelle",
             "displayName": "Mu Chanterelle",
             "description": "༄  Welcome to my grove~ Would you like some tea? 🍄🍵 ♡\n🔞 Steamy ASMR and Cozy Vtubing ⊹ Mama: @dear_hare\n ༄ Art: #Mooseum ⊹ Spicy Art: #Mulewd",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1807283120002977793/SDBTbFTA_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1438156015695011840/1731956559/1500x500",
-            "followersCount": 7069,
-            "followingCount": 409,
-            "postsCount": 666,
-            "accountCreatedAt": "2021-09-15T15:05:24.455Z",
-            "profileUrl": "https://x.com/Mu_Chanterelle",
-            "fetchedAt": "2026-08-19T16:35:22Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mu_chanterelle",
+            "fetchedAt": "2026-10-26T14:42:55Z"
         }
     },
     "rplay": {
         "id": "65b924cfd7f2dfa8cf907f73",
-        "channelIntro": "༄  Welcome to my grove~ Would you like some tea? 🍵 ♡\nI strongly recommend you do not pay for my audios here, and instead subscribe to my patreon (better value), my NSFW audios are added here for back up.",
+        "channelIntro": "༄  Welcome to my grove~ Would you like some tea? 🍵 ♡\n\nI recommend you do not pay for my audios here, and instead subscribe to my Patreon.\n\nNSFW audios are added here for back up.",
         "creatorTags": [
             "english",
             "vtuber",
@@ -66,6 +66,6 @@
         "customUrl": "muchanterelle",
         "channelImage": "https://pb2.rplay.live/pics/5c249a87bf54a9ebbccb9b4e13106411",
         "streamStartTime": null,
-        "fetchedAt": "2026-08-19T16:50:36Z"
+        "fetchedAt": "2026-10-26T15:04:36Z"
     }
 }

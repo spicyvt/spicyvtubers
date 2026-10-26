@@ -5,11 +5,11 @@
         "login": "crunchyypickle",
         "displayName": "CrunchyyPickle",
         "createdAt": "2015-03-20T05:54:18.895024Z",
-        "updatedAt": "2026-08-19T01:06:14.361744Z",
+        "updatedAt": "2026-10-25T17:12:37.440544Z",
         "description": "🌸🍁 Don't mind me, I'm just your average Canadian Schmuck! By trade, I'm a Mixologist! But I'm also a single parent to a Pickle Jr! Here there's streams of sometimes scary games, sometimes making drinks, either way it's a fun time! 🍁🌸~Remember to stay safe, and be kind~",
         "primaryColorHex": "18A91B",
         "followers": {
-            "totalCount": 2238
+            "totalCount": 2303
         },
         "follows": {
             "totalCount": 578
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T05:55:44.800976Z"
+            "startedAt": "2026-10-25T05:35:03.499207Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e75ce7c0-403f-4e70-af5e-4cd749ac5659-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/crunchyypickle-profile_banner-5f0420259b407a74-480.jpeg",
-        "fetchedAt": "2026-08-19T15:46:11Z"
+        "fetchedAt": "2026-10-26T13:47:36Z"
     },
     "fansly": {
         "id": "614361877564108800",
         "username": "CrunchyyPickle",
         "displayName": null,
         "version": 13,
-        "followCount": 873,
+        "followCount": 892,
         "statusId": 1,
-        "accountMediaLikes": 350,
-        "postLikes": 739,
+        "accountMediaLikes": 385,
+        "postLikes": 790,
         "about": "Howdy howdy~💖\nIt's me, Pickle! A Vtuber/Lewdtuber! Hope you're having a good day!~\n\n🩵~And I hope I can make it better~🩵\n\n✨ BI-WEEKLY FANSLY STREAMS ✨\n🔞Games & Sexual Content! LOVENSE ALWAYS ON!\n\nFind me here:\nhttps://linktr.ee/crunchyypickle\n\nGet a Lovense toy of your own and join me with Vibe with Me during my streams!\nUse my affiliate link here!\nhttps://www.lovense.com/r/6bvc4y",
         "location": "Canada",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "675932484860391425",
-                    "historyId": "944826870921191424",
+                    "historyId": "970182075233619968",
                     "channelId": "675932484860391424",
                     "accountId": "614361877564108800",
                     "title": "Causin' trouble without a shirt on!~",
                     "status": 1,
-                    "viewerCount": 6,
-                    "version": 1953,
+                    "viewerCount": 4,
+                    "version": 1961,
                     "createdAt": 1722649223000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786770959000,
-                    "startedAt": 1786758640000,
+                    "lastFetchedAt": 1792812721000,
+                    "startedAt": 1792803791000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:26Z"
+        "fetchedAt": "2026-10-26T15:00:15Z"
     },
     "twitter": {
         "crunchypicklevt": {
-            "id": "1730340661918867456",
+            "id": null,
             "handle": "crunchypicklevt",
             "displayName": "~CrunchyyPickle 🥒🩵~",
-            "description": "🔞🍔Your Fast Food Workin' Vtuber!🍔🔞 ✿Professional Bartender, spreading positivity with every drink!✿ ART BY: @SmittenEve Stay safe, and be kind ♥ 🇨🇦",
+            "description": "🔞🍔Your Fast Food Workin&#x27; Vtuber!🍔🔞 ✿Professional Bartender, spreading positivity with every drink!✿ ART BY: @SmittenEve Stay safe, and be kind ♥ 🇨🇦",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2011243256827265024/w27Uc9RT_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1730340661918867456/1701381206/1500x500",
-            "followersCount": 1782,
-            "followingCount": 1281,
-            "postsCount": 7872,
-            "accountCreatedAt": "2023-11-30T21:39:08.164Z",
-            "profileUrl": "https://x.com/CrunchyPickleVT",
-            "fetchedAt": "2026-08-19T16:21:05Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/crunchypicklevt",
+            "fetchedAt": "2026-10-26T14:27:37Z"
         }
     }
 }

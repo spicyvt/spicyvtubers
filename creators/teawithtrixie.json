@@ -5,40 +5,40 @@
         "login": "teawithtrixie",
         "displayName": "teawithtrixie",
         "createdAt": "2018-12-17T23:36:52.18828Z",
-        "updatedAt": "2026-08-18T01:41:26.237436Z",
+        "updatedAt": "2026-10-23T22:37:35.275854Z",
         "description": null,
         "primaryColorHex": "FFAA00",
         "followers": {
-            "totalCount": 442
+            "totalCount": 441
         },
         "follows": {
-            "totalCount": 321
+            "totalCount": 325
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T03:55:13.767853Z"
+            "startedAt": "2026-10-23T04:49:50.461845Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a98de85f-335f-4e00-9956-8dc17356c5a9-profile_image-300x300.png",
         "bannerImageUrl": null,
-        "fetchedAt": "2026-08-19T15:50:54Z"
+        "fetchedAt": "2026-10-26T13:52:19Z"
     },
     "twitter": {
         "trixie_nova": {
-            "id": "1322816321789267974",
+            "id": null,
             "handle": "trixie_nova",
             "displayName": "Trixie Nova 🔞🧵🦗 Little Dolly, Little Weaver",
             "description": "DJ operating the Sexy Scratch Booth\n#Vtuber, Audio Stimulation #Lewdtuber\nDirector of @LT_Waifest\nIntersex, She/They/He\n32yo\nhttps://t.co/nZgSKrgP88",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2019494053155373056/d8jJlWhh_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1322816321789267974/1722420060/1500x500",
-            "followersCount": 574,
-            "followingCount": 508,
-            "postsCount": 2767,
-            "accountCreatedAt": "2020-11-01T08:22:58.555Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/trixie_nova",
-            "fetchedAt": "2026-08-19T16:28:35Z"
+            "fetchedAt": "2026-10-26T14:35:53Z"
         }
     }
 }

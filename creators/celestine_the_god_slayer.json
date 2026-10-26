@@ -5,36 +5,36 @@
         "login": "celestine_the_god_slayer",
         "displayName": "celestine_the_god_slayer",
         "createdAt": "2022-11-07T03:02:37.769453Z",
-        "updatedAt": "2026-08-17T21:08:56.51462Z",
+        "updatedAt": "2026-10-25T18:29:43.944288Z",
         "description": "MINORS ARE NOT WELCOME HERE! A cute rope kitty streamer. Fueled by pizza and anything with caffeine. Oh and i'm Trans. So yeah my voice sounds male but i'm trying my best and working on feminizing my voice. I am a Deep Rock Galactic Content Creator! ",
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 536
+            "totalCount": 553
         },
         "follows": {
-            "totalCount": 303
+            "totalCount": 300
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T23:00:11.953375Z"
+            "startedAt": "2026-10-25T22:13:03.05716Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/586dd7ea-f819-41f8-b7b2-d2893c831284-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa3786b6-b99e-4f85-a045-be888f996079-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:50:04Z"
+        "fetchedAt": "2026-10-26T13:51:28Z"
     },
     "fansly": {
         "id": "658988183077265408",
         "username": "CelestineTGS",
         "displayName": "CelestineTGS",
         "version": 6,
-        "followCount": 32,
+        "followCount": 78,
         "statusId": 1,
-        "accountMediaLikes": 34,
-        "postLikes": 26,
-        "about": "A neko android that loves lewd things, mainly BDSM. I am the Bondage Princess!",
+        "accountMediaLikes": 56,
+        "postLikes": 50,
+        "about": "A neko android that loves lewd things, mainly BDSM. I am the Bondage Princess!\n\n@Alyssanddusty is my mistress",
         "location": "",
         "streaming": {
             "accountId": "658988183077265408",
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "706661704527781889",
-                    "historyId": "939766599794040832",
+                    "historyId": "967917907705085952",
                     "channelId": "706661704527781888",
                     "accountId": "658988183077265408",
                     "title": "",
                     "status": 1,
-                    "viewerCount": 3,
-                    "version": 973,
+                    "viewerCount": 4,
+                    "version": 979,
                     "createdAt": 1729975639000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785552207000,
-                    "startedAt": 1785552177000,
+                    "lastFetchedAt": 1792268267000,
+                    "startedAt": 1792263972000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:04Z"
+        "fetchedAt": "2026-10-26T15:00:54Z"
     },
     "twitter": {
         "celestineslayer": {
-            "id": "1888782784715763712",
+            "id": null,
             "handle": "celestineslayer",
-            "displayName": "CelestineTheGodSlayer 🏳️‍⚧️ (1.0 Debut TBA)| 💖🪢",
+            "displayName": "CelestineTheGodSlayer 🏳️‍⚧️ 1.0 Debut 12/29 💖🪢",
             "description": "BDSM VTuber (She/Her)\n\nOfficial DRG/Survivor CC\n\nI WILL BE THE NEXT PROJEKTMELODY\n\nWifey: @HellcatRoxie",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2027260628633870336/LIYhSY7N_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1888782784715763712/1772172002/1500x500",
-            "followersCount": 278,
-            "followingCount": 226,
-            "postsCount": 4563,
-            "accountCreatedAt": "2025-02-10T02:51:31.366Z",
-            "profileUrl": "https://x.com/CelestineSlayer",
-            "fetchedAt": "2026-08-19T16:27:32Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/celestineslayer",
+            "fetchedAt": "2026-10-26T14:34:47Z"
         }
     }
 }

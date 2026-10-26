@@ -5,14 +5,14 @@
         "login": "aylamoonie",
         "displayName": "AylaMoonie",
         "createdAt": "2018-09-11T23:05:08.512935Z",
-        "updatedAt": "2026-04-15T02:47:21.267089Z",
+        "updatedAt": "2026-08-28T01:58:37.958694Z",
         "description": "I'm insane and I make art and vtubers and do IRL randomness and love science!",
         "primaryColorHex": "00C7AC",
         "followers": {
-            "totalCount": 631
+            "totalCount": 627
         },
         "follows": {
-            "totalCount": 1165
+            "totalCount": 1172
         },
         "roles": {
             "isPartner": false,
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7a760f2-c2c9-4969-826a-c36e0f04958c-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f108122e-1a2a-4b5a-b621-dc6edc437c21-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:55:34Z"
+        "fetchedAt": "2026-10-26T13:57:02Z"
     },
     "fansly": {
         "id": "568553508601602048",
         "username": "aylamoonie",
         "displayName": "AylaMoonie",
         "version": 14,
-        "followCount": 678,
+        "followCount": 676,
         "statusId": 3,
-        "accountMediaLikes": 972,
-        "postLikes": 605,
+        "accountMediaLikes": 1001,
+        "postLikes": 610,
         "about": "Vtuber Lewdtuber Artist who is Kinky and Chaotic\nPan - All Gender- Two Spirit - Indigenous - Bratty Switch\nFollow for Art & Sub for IRL NSFW \nSpoil me: https://throne.com/aylamoonie",
         "location": "United States",
         "streaming": {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:37Z"
+        "fetchedAt": "2026-10-26T15:01:27Z"
     },
     "twitter": {
         "bluespaceelf": {
-            "id": "1648432010434576392",
+            "id": null,
             "handle": "bluespaceelf",
             "displayName": "Ayla Moonie 🌙☔️ WAIFU WEATHER",
-            "description": "Ancient Alien Indigenous to Earth\n🌙Weather Girl🌙 Live2D Rig&Art 🌙Kinky AF 🌙 \nMDNI 🌙 38 🌙 2S/Pan/Poly/AuDHD\n🎨#mooniedood L2D: #moonierigs  🔞#moonielood",
+            "description": "Ancient Alien Indigenous to Earth\n🌙Weather Girl🌙 Live2D Rig&amp;Art 🌙Kinky AF 🌙 \nMDNI 🌙 38 🌙 2S/Pan/Poly/AuDHD\n🎨#mooniedood L2D: #moonierigs  🔞#moonielood",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2031700063857123328/CGQtND0n_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1648432010434576392/1773206695/1500x500",
-            "followersCount": 2916,
-            "followingCount": 972,
-            "postsCount": 22231,
-            "accountCreatedAt": "2023-04-18T21:03:32.060Z",
-            "profileUrl": "https://x.com/BlueSpaceElf",
-            "fetchedAt": "2026-08-19T16:35:55Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/bluespaceelf",
+            "fetchedAt": "2026-10-26T14:43:30Z"
         }
     }
 }

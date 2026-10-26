@@ -5,25 +5,25 @@
         "login": "fluffy_nuntthi",
         "displayName": "Fluffy_Nuntthi",
         "createdAt": "2016-03-12T06:40:36.556342Z",
-        "updatedAt": "2026-08-15T05:42:56.961307Z",
+        "updatedAt": "2026-10-26T04:53:25.97739Z",
         "description": "Hello and welcome to my channel. I am Fluffy. I'm a variety streamer. I play what I want when I want.  I also have a few different health issues that may cause me to not stream or to start late. Join  the discord to find out when I'm streaming next time or to make suggestions on games.",
         "primaryColorHex": "26005A",
         "followers": {
-            "totalCount": 3498
+            "totalCount": 3491
         },
         "follows": {
-            "totalCount": 568
+            "totalCount": 575
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-02T00:07:54.968571Z"
+            "startedAt": "2026-10-06T06:36:00.692165Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fdfb229-9e1c-409a-96d2-38782517fce3-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b37ec9aa-8c07-48ac-9890-b7779bd50919-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:51:03Z"
+        "fetchedAt": "2026-10-26T13:52:29Z"
     },
     "fansly": {
         "id": "401303892819718144",
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:10Z"
+        "fetchedAt": "2026-10-26T15:00:59Z"
     },
     "twitter": {
         "fluffy_nuntthi": {
-            "id": "1528301921496358913",
+            "id": null,
             "handle": "fluffy_nuntthi",
             "displayName": "✩ Fluffy ✩ ♡ vGen open ♡",
-            "description": "aboriginal~ They/Them ~ Canadian~ ♡ Art tag #NuntthiArt ♡  https://t.co/4aBp0uiToy",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1986989069633781760/SRDlS3vy_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1528301921496358913/1763584745/1500x500",
-            "followersCount": 244,
-            "followingCount": 361,
-            "postsCount": 1866,
-            "accountCreatedAt": "2022-05-22T09:09:24.153Z",
+            "description": "aboriginal~ They/Them ~ Canadian~ ♡ Art tag #NuntthiArt ♡  https://t.co/4aBp0ujre6",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2110448896795435008/8zcL7Gqn_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1528301921496358913/1792005202/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/fluffy_nuntthi",
-            "fetchedAt": "2026-08-19T16:28:45Z"
+            "fetchedAt": "2026-10-26T14:36:03Z"
         }
     }
 }

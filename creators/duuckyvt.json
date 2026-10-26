@@ -5,32 +5,32 @@
         "login": "duuckyvt",
         "displayName": "DuuckyVT",
         "createdAt": "2025-07-02T11:57:56.267225Z",
-        "updatedAt": "2026-08-17T17:52:13.915818Z",
+        "updatedAt": "2026-10-20T20:43:48.225849Z",
         "description": "Haiiii I’m DuuckyVT ! twitch banned me once (rude) but i rebooted. now i stream games, cursed watch parties & general chaos, no real schedule since I'm pursuing a master's degree, but i’ll scream about it on socials. if you’re weird, you’ll fit right in 🦆",
         "primaryColorHex": "E3E300",
         "followers": {
-            "totalCount": 344
+            "totalCount": 377
         },
         "follows": {
-            "totalCount": 102
+            "totalCount": 119
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T19:49:50.270557Z"
+            "startedAt": "2026-10-23T23:44:08.000371Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e81e1c82-acc1-4e8f-ac4e-fdb49a06041f-profile_image-300x300.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c073100-2145-4ff7-9906-60368a717411-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:45:56Z"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6061be43-1a79-417a-80fd-0be28562abf2-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4aea6c9-1893-46b7-8808-8e75e6b964ac-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T13:47:22Z"
     },
     "fansly": {
         "id": "830961071413014528",
         "username": "DuuckyVT",
         "displayName": null,
         "version": 3,
-        "followCount": 4,
+        "followCount": 5,
         "statusId": 1,
         "accountMediaLikes": 0,
         "postLikes": 1,
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:26Z"
+        "fetchedAt": "2026-10-26T15:00:15Z"
     },
     "twitter": {
         "duuckyvt": {
-            "id": "1893982589804773376",
+            "id": null,
             "handle": "duuckyvt",
             "displayName": "Duucky🦆l Duuck Vtuber 🥖",
             "description": "VTuber that occasionally streams on Twitch and youtube:3 If you like chaos you’re at the right place my little duckling 💛🖤",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2018342887323303936/nOV3pCHc_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1893982589804773376/1783137190/1500x500",
-            "followersCount": 261,
-            "followingCount": 344,
-            "postsCount": 1957,
-            "accountCreatedAt": "2025-02-24T11:13:43.173Z",
-            "profileUrl": "https://x.com/DuuckyVT",
-            "fetchedAt": "2026-08-19T16:20:44Z"
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2099497954843271168/TyZPuY2N_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1893982589804773376/1789207447/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/duuckyvt",
+            "fetchedAt": "2026-10-26T14:27:13Z"
         }
     }
 }

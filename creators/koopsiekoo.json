@@ -5,32 +5,32 @@
         "login": "koopsiekoo",
         "displayName": "KoopsieKoo",
         "createdAt": "2010-09-18T18:58:43.744602Z",
-        "updatedAt": "2026-08-18T22:14:52.561509Z",
+        "updatedAt": "2026-10-23T22:59:21.772627Z",
         "description": "glitch vampire 👾🩸⌇ variety vtuber/streamer ⌇ 📧 koopsiekoops@gmail.com ⌇ gremlin 24/7",
         "primaryColorHex": "7B24FF",
         "followers": {
-            "totalCount": 1183
+            "totalCount": 1304
         },
         "follows": {
-            "totalCount": 223
+            "totalCount": 206
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T02:47:27.135237Z"
+            "startedAt": "2026-10-24T02:34:45.029133Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4eec699-4e5a-4d7b-8cb4-b5f171bcc575-profile_image-300x300.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/80845247-2608-4e07-bf47-affe23089c2a-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:45:07Z"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47d336ae-b4ce-4c80-beb5-3f3666f5e128-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5dbe934f-0b3f-44af-a3e0-cf06f6f88dcc-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T13:46:36Z"
     },
     "fansly": {
         "id": "744819350988398592",
         "username": "KoopsieKoo",
         "displayName": null,
         "version": 4,
-        "followCount": 23,
+        "followCount": 25,
         "statusId": 1,
         "accountMediaLikes": 2,
         "postLikes": 1,
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:15Z"
+        "fetchedAt": "2026-10-26T15:00:04Z"
     },
     "twitter": {
         "koopsiekoo": {
-            "id": "862793882874109957",
+            "id": null,
             "handle": "koopsiekoo",
             "displayName": "Koops👾🩸【ღ𝑽𝑪𝒉𝒖𝒖】",
-            "description": "glitch vampire vtuber ⌇ the glitch of @vchuuwu 💋\n\n⚙️@shadowphox_x \n🏷️ #KoopsieArt #KoopsKlips \n🔗 https://t.co/oBJ1czSFRT\n📧 koopsiekoops@gmail.com",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2084144377220272128/QO8km641_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/862793882874109957/1785875258/1500x500",
-            "followersCount": 780,
-            "followingCount": 678,
-            "postsCount": 6155,
-            "accountCreatedAt": "2017-05-11T22:17:46.436Z",
-            "profileUrl": "https://x.com/KoopsieKoo",
-            "fetchedAt": "2026-08-19T16:19:18Z"
+            "description": "glitch vampire ⌇ the glitch of @vchuuwu 💋\n\n⚙️┇@shadowphox_x \n🏷️┇#KoopsArt #KoopsClips #KoopsGoneWild\n🔗┇https://t.co/vSESrGtkX6\n📧┇koopsiekoops@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2108784222894743553/uRFNLHbj_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/862793882874109957/1791608313/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/koopsiekoo",
+            "fetchedAt": "2026-10-26T14:25:44Z"
         }
     }
 }

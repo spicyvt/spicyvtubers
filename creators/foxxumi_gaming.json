@@ -9,7 +9,7 @@
         "description": "I’m FoxxUmi, a cute, slightly sly and chaotic streamer who loves story-driven games, vivid worlds, and cozy chats. Expect RPGs, shooters, live reactions, big emotions, and plenty of yelling at bosses. Come in, get comfy, and let’s experience it all together.",
         "primaryColorHex": "FF49DE",
         "followers": {
-            "totalCount": 9
+            "totalCount": 12
         },
         "follows": {
             "totalCount": 0
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/755f19b4-eeef-4797-8d59-bedfe18ff2af-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4faec011-abb8-4b8b-908c-d58a4b141a38-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:51:05Z"
+        "fetchedAt": "2026-10-26T13:52:30Z"
     },
     "fansly": {
         "id": "780912187525836800",
         "username": "Foxxumi",
         "displayName": null,
         "version": 4,
-        "followCount": 1767,
+        "followCount": 2611,
         "statusId": 1,
-        "accountMediaLikes": 3736,
-        "postLikes": 1225,
+        "accountMediaLikes": 4400,
+        "postLikes": 1323,
         "about": "🦊Bipolar fox gamer girl at your service!\ni have a spoil kink, my wishlist https://www.lovense.com/wish-list/zvn2xe0\nI'm a new cute streamer / vtuber, and I'm excited to start my journey here on Fansly! 💞SI might be a bit shy at first, but let me know you better, and you'll be suprised! ✨\n🦊Sort of shapeshifter lol. I also have a futa form and I can change my body parts so they can be bigger os smaller!\nI stream almost daily (gaming & lewd streams), come play and chat! \nI do customs, ratings and private sessions 💖 DM for request! \n\nAll content published on this page, is created by me. Please do not repost, copy or leak it, it's mean and appropriate action will be taken, thank you for understanding.\n",
         "location": "Digital World",
         "streaming": {
@@ -44,24 +44,33 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vgscdW05WTEw.m3u8",
                 "chatRoomId": "784642999228313600",
                 "status": 2,
-                "version": 78,
+                "version": 87,
                 "createdAt": 1748566993000,
                 "updatedAt": null,
                 "stream": {
                     "id": "784639495411609601",
-                    "historyId": "944903375722401792",
+                    "historyId": "970398872461385728",
                     "channelId": "784639495411609600",
                     "accountId": "780912187525836800",
-                    "title": "Gaming w/Lush In🔥FAV PATTERNS $11 $21 $33 $22 $13🔥!!menu !toys !patterns",
+                    "title": "GAMING W/LUSH IN💖 !!menu !toys !patterns",
                     "status": 1,
-                    "viewerCount": 6,
-                    "version": 1587,
+                    "viewerCount": 2,
+                    "version": 1707,
                     "createdAt": 1748566993000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786794742000,
-                    "startedAt": 1786776880000,
+                    "lastFetchedAt": 1792875295000,
+                    "startedAt": 1792855480000,
                     "permissions": {
-                        "permissionFlags": []
+                        "permissionFlags": [
+                            {
+                                "id": "966988047474257920",
+                                "streamId": "784639495411609601",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
                     }
                 },
                 "arn": null,
@@ -69,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:10Z"
+        "fetchedAt": "2026-10-26T15:00:59Z"
     },
     "twitter": {
         "foxxumi_gaming": {
-            "id": "2047379279407616000",
+            "id": null,
             "handle": "foxxumi_gaming",
             "displayName": "Fox Umi",
             "description": "Streamer, Vtuber, gamer, AI creator, bipolar foxgirl 🦊\ntwitch: https://t.co/hUGyCD9jnC\nmore of me: https://t.co/DGotLKvpes",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2047379491266183168/DyE53QC6_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2047379279407616000/1776968403/1500x500",
-            "followersCount": 68,
-            "followingCount": 15,
-            "postsCount": 30,
-            "accountCreatedAt": "2026-04-23T18:17:39.056Z",
-            "profileUrl": "https://x.com/Foxxumi_gaming",
-            "fetchedAt": "2026-08-19T16:28:47Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/foxxumi_gaming",
+            "fetchedAt": "2026-10-26T14:36:05Z"
         }
     }
 }

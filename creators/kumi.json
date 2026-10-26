@@ -5,72 +5,72 @@
         "login": "kumi",
         "displayName": "kumi",
         "createdAt": "2016-12-18T14:37:51.977666Z",
-        "updatedAt": "2026-08-18T21:30:02.625343Z",
+        "updatedAt": "2026-10-25T22:00:06.010222Z",
         "description": "I'M KUMI! I'm a Harpy VTuber! Weekly Schedule in Discord! | BUSINESS: kumivt.business@gmail.com",
         "primaryColorHex": "87C77E",
         "followers": {
-            "totalCount": 138581
+            "totalCount": 150309
         },
         "follows": {
-            "totalCount": 487
+            "totalCount": 498
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T03:38:22.249797Z"
+            "startedAt": "2026-10-25T23:52:05.679757Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62727b18-e686-4c6a-8b99-234668ac32bc-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/12d02cb9-6af7-4eeb-a889-189c3f61346b-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:56:43Z"
+        "fetchedAt": "2026-10-26T13:58:13Z"
     },
     "fansly": {
         "id": "727295653553643521",
         "username": "remuki",
         "displayName": "remu 🍒",
         "version": 17,
-        "followCount": 6369,
+        "followCount": 6690,
         "statusId": 3,
-        "accountMediaLikes": 10169,
-        "postLikes": 16652,
-        "about": "✧ 𝙖 𝙥𝙪𝙥𝙥𝙮'𝙨 𝙛𝙪𝙣 𝙥𝙡𝙖𝙘𝙚 🐶 ✧ \nhello! I am remu, I post NSFW art, occasional irl and love hearing your dirty thoughts 🖤\n",
+        "accountMediaLikes": 10318,
+        "postLikes": 17139,
+        "about": "\n",
         "location": "",
         "streaming": {
             "accountId": "727295653553643521",
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:48Z"
+        "fetchedAt": "2026-10-26T15:01:38Z"
     },
     "twitter": {
         "kumivt": {
-            "id": "707617381674315777",
+            "id": null,
             "handle": "kumivt",
             "displayName": "Kumi 🪶🪑",
-            "description": "🪴 INDIE HARPY VTUBER ⇀ Partnered @Twitch 🌲 art; #kumiilust | @GamerSupps code: KUMI 🌿 credits + socials https://t.co/kge8brBfEt",
+            "description": "LOUD HARPY VTUBER 🍃 \n◦ art #kumiilust  \n◦ @GamerSupps code: KUMI\n◦ credits + socials https://t.co/kge8brAHOV",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1984624321810100224/5yZgDGCZ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/707617381674315777/1763586702/1500x500",
-            "followersCount": 69137,
-            "followingCount": 877,
-            "postsCount": 9302,
-            "accountCreatedAt": "2016-03-09T17:21:45.511Z",
-            "profileUrl": "https://x.com/KumiVT",
-            "fetchedAt": "2026-08-19T16:37:54Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kumivt",
+            "fetchedAt": "2026-10-26T14:45:34Z"
         },
         "remuki_": {
-            "id": "1856714809107996672",
+            "id": null,
             "handle": "remuki_",
             "displayName": "remu 🐶",
             "description": "🔞🖤 just a girl that really loves her puppy oc",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2082343507067387904/xRk5WUDc_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1856714809107996672/1781762278/1500x500",
-            "followersCount": 44137,
-            "followingCount": 102,
-            "postsCount": 722,
-            "accountCreatedAt": "2024-11-13T15:05:07.133Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/remuki_",
-            "fetchedAt": "2026-08-19T16:37:56Z"
+            "fetchedAt": "2026-10-26T14:45:36Z"
         }
     }
 }

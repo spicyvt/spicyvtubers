@@ -5,43 +5,71 @@
         "login": "kittimp",
         "displayName": "kittimp",
         "createdAt": "2021-12-26T13:23:13.28523Z",
-        "updatedAt": "2026-09-07T00:31:36.641761Z",
+        "updatedAt": "2026-10-25T04:59:37.218276Z",
         "description": "KITTY !! The devil’s cat, spoiled kitty of the underworld. Chaotic and semi-lewd ^^",
         "primaryColorHex": "FFCBF5",
         "followers": {
-            "totalCount": 67
+            "totalCount": 86
         },
         "follows": {
-            "totalCount": 58
+            "totalCount": 60
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-09-06T08:59:51.762428Z"
+            "startedAt": "2026-10-25T06:16:55.789655Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/694994f3-f5e9-451f-ad91-4d8201892599-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b0bf529-3c2a-456d-b7b6-3a5a99e7ed39-profile_banner-480.png",
-        "fetchedAt": "2026-09-07T09:36:46Z"
+        "fetchedAt": "2026-10-26T14:02:53Z"
     },
     "fansly": {
         "id": "942272185907552256",
         "username": "kittimp",
-        "displayName": null,
-        "version": 2,
-        "followCount": 47,
+        "displayName": "kitti",
+        "version": 5,
+        "followCount": 80,
         "statusId": 1,
         "accountMediaLikes": 0,
-        "postLikes": 2,
-        "about": "shhhh",
+        "postLikes": 18,
+        "about": "free streams , paid dms <3\n\nasmr content creator",
         "location": "",
         "streaming": {
             "accountId": "942272185907552256",
-            "channel": null,
+            "channel": {
+                "id": "953474528187523072",
+                "accountId": "942272185907552256",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.czMydRx4VITA.m3u8",
+                "chatRoomId": "953474703098396672",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1788820402000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "953474528187523073",
+                    "historyId": "954968315669803009",
+                    "channelId": "953474528187523072",
+                    "accountId": "942272185907552256",
+                    "title": "ASMR Rambling",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 6,
+                    "createdAt": 1788820402000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1789178833000,
+                    "startedAt": 1789176548000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
             "enabled": true
         },
-        "fetchedAt": "2026-09-07T09:36:57Z"
+        "fetchedAt": "2026-10-26T15:02:17Z"
     },
     "twitter": {
         "kittimp_vt": {
@@ -56,21 +84,21 @@
             "postsCount": null,
             "accountCreatedAt": null,
             "profileUrl": "https://x.com/kittimp_vt",
-            "fetchedAt": "2026-09-07T10:23:22Z"
+            "fetchedAt": "2026-10-26T14:53:20Z"
         },
         "kittimpalt": {
             "id": null,
             "handle": "kittimpalt",
             "displayName": "kitty",
             "description": "@kittimp_VT NSFW ALT",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2096061143949398016/4tx2jicZ_400x400.jpg",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2101446978261716992/MBNLmKcn_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2007281138293960704/1788574906/1500x500",
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
             "profileUrl": "https://x.com/kittimpalt",
-            "fetchedAt": "2026-09-07T10:23:24Z"
+            "fetchedAt": "2026-10-26T14:53:22Z"
         }
     }
 }

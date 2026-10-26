@@ -5,35 +5,35 @@
         "login": "lauraanarchy",
         "displayName": "LauraAnarchy",
         "createdAt": "2024-11-09T02:12:09.699783Z",
-        "updatedAt": "2026-08-19T03:24:08.149763Z",
+        "updatedAt": "2026-10-23T02:52:54.312457Z",
         "description": "Hi, I'm Laura a vampire Vtuber.  I will bite with consent  nom nom  I hope to see you in chat. (This is the future home of a goddess)",
         "primaryColorHex": "980000",
         "followers": {
-            "totalCount": 366
+            "totalCount": 407
         },
         "follows": {
-            "totalCount": 269
+            "totalCount": 290
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T04:35:26.558519Z"
+            "startedAt": "2026-10-23T03:47:27.445137Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/03c98073-484f-4e7e-abae-a6b229d30b04-profile_image-300x300.jpeg",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7da413f-651c-422e-a757-a083108db907-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:45:26Z"
+        "fetchedAt": "2026-10-26T13:46:53Z"
     },
     "fansly": {
         "id": "737412427510984705",
         "username": "MistressAnarchy",
-        "displayName": "LauraAnarchy",
-        "version": 6,
-        "followCount": 165,
+        "displayName": "Laura Anarchy",
+        "version": 9,
+        "followCount": 197,
         "statusId": 1,
-        "accountMediaLikes": 30,
-        "postLikes": 88,
+        "accountMediaLikes": 46,
+        "postLikes": 113,
         "about": "Hey, I'm just a trans girl vampire vtuber who loves streaming and I come here to stream lewd games and show you cute lewds and nudes of me\n\n",
         "location": "",
         "streaming": {
@@ -44,33 +44,24 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.TVOp3lcJsrFR.m3u8",
                 "chatRoomId": "739295809446621184",
                 "status": 2,
-                "version": 16,
+                "version": 21,
                 "createdAt": 1737756162000,
                 "updatedAt": null,
                 "stream": {
                     "id": "739295582329253889",
-                    "historyId": "940450415609135104",
+                    "historyId": "970168028081709057",
                     "channelId": "739295582329253888",
                     "accountId": "737412427510984705",
-                    "title": "I miss getting noise complaints",
+                    "title": "How badly can you distract a vampire before she gives up",
                     "status": 1,
-                    "viewerCount": 2,
-                    "version": 1054,
+                    "viewerCount": 6,
+                    "version": 1078,
                     "createdAt": 1737756162000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785720253000,
-                    "startedAt": 1785715211000,
+                    "lastFetchedAt": 1792806556000,
+                    "startedAt": 1792800442000,
                     "permissions": {
-                        "permissionFlags": [
-                            {
-                                "id": "877113092016721920",
-                                "streamId": "739295582329253889",
-                                "type": 0,
-                                "flags": 2,
-                                "price": 0,
-                                "metadata": ""
-                            }
-                        ]
+                        "permissionFlags": []
                     }
                 },
                 "arn": null,
@@ -78,36 +69,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:20Z"
+        "fetchedAt": "2026-10-26T15:00:09Z"
     },
     "twitter": {
         "laura_anarchy": {
-            "id": "1721960243691696128",
+            "id": null,
             "handle": "laura_anarchy",
             "displayName": "Miss Anarchy🏳️‍⚧️",
             "description": "(she/ they) \nyour favorite  vampire princess and spicy VA\npriv :@MissAnarchyNsfw\nbanner made by @kiyodraws_\n#missanarchyart",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1964804437567737856/CN_hTSIJ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1721960243691696128/1756594944/1500x500",
-            "followersCount": 187,
-            "followingCount": 616,
-            "postsCount": 1217,
-            "accountCreatedAt": "2023-11-07T18:38:31.513Z",
-            "profileUrl": "https://x.com/Laura_Anarchy",
-            "fetchedAt": "2026-08-19T16:19:44Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/laura_anarchy",
+            "fetchedAt": "2026-10-26T14:26:12Z"
         },
         "missanarchynsfw": {
-            "id": "1859390545606402048",
+            "id": null,
             "handle": "missanarchynsfw",
             "displayName": "Miss Anarchy",
             "description": "NSFW MDNI\nshe/her🏳️‍⚧️\npromoting my onlyfans and 18+ game streams\nGaming Twit: \n@Laura_Anarchy\nhttps://t.co/PRGDwzM2lJ",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1964804678698344448/Keg6Nuik_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1859390545606402048/1732148431/1500x500",
-            "followersCount": 32,
-            "followingCount": 96,
-            "postsCount": 158,
-            "accountCreatedAt": "2024-11-21T00:17:22.822Z",
-            "profileUrl": "https://x.com/MissAnarchyNsfw",
-            "fetchedAt": "2026-08-19T16:19:45Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/missanarchynsfw",
+            "fetchedAt": "2026-10-26T14:26:14Z"
         }
     }
 }

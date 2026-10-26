@@ -5,32 +5,32 @@
         "login": "babypinkvt",
         "displayName": "BabyPinkVT",
         "createdAt": "2020-06-12T23:48:03.82214Z",
-        "updatedAt": "2026-08-16T22:30:26.578157Z",
+        "updatedAt": "2026-10-10T19:18:02.389829Z",
         "description": "Slavic, sleep deprived mommy (˶ˊᵕˋ˵)💤  here to entertain and make you eepy",
         "primaryColorHex": "F17BAA",
         "followers": {
-            "totalCount": 15244
+            "totalCount": 15750
         },
         "follows": {
-            "totalCount": 917
+            "totalCount": 937
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-16T23:51:54.056062Z"
+            "startedAt": "2026-10-10T21:49:30.083334Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a221dc5e-7595-4bba-9ab5-a356521ae8cf-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9021a678-bb06-414a-8ae7-c913a6e735a5-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:37:19Z"
+        "fetchedAt": "2026-10-26T13:38:49Z"
     },
     "fansly": {
         "id": "557590485711990787",
         "username": "babypinkasmr",
         "displayName": "BabyPink",
         "version": 4,
-        "followCount": 420,
+        "followCount": 451,
         "statusId": 1,
         "accountMediaLikes": 0,
         "postLikes": 0,
@@ -41,41 +41,41 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:44:58Z"
+        "fetchedAt": "2026-10-26T14:58:47Z"
     },
     "twitter": {
         "babypinkvtuber": {
-            "id": "1728918055869202433",
+            "id": null,
             "handle": "babypinkvtuber",
             "displayName": "BabyPinkVT 🌙🖥️",
-            "description": "⋆˚Soft spoken Replicant from Cyberspace ˚⋆\n✦ Twitch, Kick & YT Partner ✦  ASMR & Variety ✦ ENG/PL 🇵🇱\n\n▶︎ https://t.co/PeG0U4Uy8m\n\n👉 VA acc @babypinkasmr 🔞",
+            "description": "⋆˚Soft spoken Replicant from Cyberspace ˚⋆\n✦ Twitch, Kick &amp; YT Partner ✦  ASMR &amp; Variety ✦ ENG/PL 🇵🇱\n\n▶︎ https://t.co/PeG0U4Uy8m\n\n👉 VA acc @babypinkasmr 🔞",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2070510676288675840/Ncii6ncf_400x400.png",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1728918055869202433/1765580193/1500x500",
-            "followersCount": 6185,
-            "followingCount": 1832,
-            "postsCount": 1546,
-            "accountCreatedAt": "2023-11-26T23:26:57.529Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/babypinkvtuber",
-            "fetchedAt": "2026-08-19T16:05:19Z"
+            "fetchedAt": "2026-10-26T14:10:57Z"
         },
         "babypinkasmr": {
-            "id": "1250929674424811524",
+            "id": null,
             "handle": "babypinkasmr",
             "displayName": "BabyPinkVA🌙🎙️",
             "description": "✦  VA/ASMRtist\n✦  https://t.co/ba9kbCEJgQ\n✦  https://t.co/6HunokOiL2\n\n👉 @babypinkvtuber\n\n📧 bbpinkmailbox@gmail.com\n #touchofbbpink 🎨  #tasteofbbpink 🔞",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2023790864708104196/wtqwjiI__400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1250929674424811524/1740786659/1500x500",
-            "followersCount": 29363,
-            "followingCount": 3954,
-            "postsCount": 6109,
-            "accountCreatedAt": "2020-04-16T23:31:06.050Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/babypinkasmr",
-            "fetchedAt": "2026-08-19T16:05:18Z"
+            "fetchedAt": "2026-10-26T14:10:55Z"
         }
     },
     "rplay": {
         "id": "68350be436a0f4eab41eb586",
-        "channelIntro": "~Voice that simply tickles you Pink~ ♡\n(N)SFA VA · Variety Vtuber · Slavic Mommy",
+        "channelIntro": "~Voice that simply tickles you Pink~ ♡\n(N)SFA VA · Variety Vtuber · Slavic Mommy\n\nWhispering into the mic for your pleasure since 2020~",
         "creatorTags": [
             "english",
             "streamer",
@@ -97,7 +97,7 @@
         "isLivestreamer": true,
         "customUrl": "babypink",
         "channelImage": "https://pb2.rplay.live/pics/3e8d2530f82273cbe52bf4c9efc661e6",
-        "streamStartTime": "2026-08-16T20:59:37.000Z",
-        "fetchedAt": "2026-08-19T16:48:41Z"
+        "streamStartTime": "2026-10-10T19:34:25.000Z",
+        "fetchedAt": "2026-10-26T15:02:58Z"
     }
 }

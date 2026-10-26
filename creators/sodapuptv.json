@@ -5,40 +5,40 @@
         "login": "sodapuptv",
         "displayName": "SodaPupTV",
         "createdAt": "2022-09-29T00:20:40.500455Z",
-        "updatedAt": "2026-08-18T02:10:00.936701Z",
+        "updatedAt": "2026-10-26T01:57:15.327006Z",
         "description": "Just your cute lil vampire bunny who may also be a part-time streamer, why not come lay in my lap as you watch me play random games hmmm~",
         "primaryColorHex": "DE67FF",
         "followers": {
-            "totalCount": 7580
+            "totalCount": 8327
         },
         "follows": {
-            "totalCount": 79
+            "totalCount": 95
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T04:37:53.867769Z"
+            "startedAt": "2026-10-26T05:38:38.645916Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0e42a80-1ad5-43e5-abc5-1fa8184a1ec3-profile_image-300x300.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0808bf71-d6cb-4a45-8e50-c231dd17f1cf-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:58:08Z"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b68a4b3d-b42c-4ae3-af29-e3b323f5fd4d-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6d7aabc-503a-4bee-91ec-4b000b4a47c0-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T13:59:38Z"
     },
     "twitter": {
         "sodapupofficial": {
-            "id": "1759155429190377472",
+            "id": null,
             "handle": "sodapupofficial",
             "displayName": "Soda Pup",
-            "description": "MDNI\nTWITCH PARTNER!!!\n\nReasons To Watch SodaPup\n- I'll flirt with you\n- I'll flirt with you\n- I say funny gooner things\n- I'll flirt with you\n- What Say You?~",
+            "description": "MDNI\nTWITCH PARTNER!!!\n\nReasons To Watch SodaPup\n- I&#x27;ll flirt with you\n- I&#x27;ll flirt with you\n- I say funny gooner things\n- I&#x27;ll flirt with you\n- What Say You?~",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2088304725229711360/xR1sud8B_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1759155429190377472/1778239694/1500x500",
-            "followersCount": 3774,
-            "followingCount": 14,
-            "postsCount": 98,
-            "accountCreatedAt": "2024-02-18T09:58:44.581Z",
-            "profileUrl": "https://x.com/SodaPupOfficial",
-            "fetchedAt": "2026-08-19T16:40:12Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sodapupofficial",
+            "fetchedAt": "2026-10-26T14:47:51Z"
         }
     }
 }

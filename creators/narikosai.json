@@ -5,25 +5,25 @@
         "login": "narikosai",
         "displayName": "NarikoSai",
         "createdAt": "2022-03-16T01:10:08.979811Z",
-        "updatedAt": "2026-08-26T05:37:15.324721Z",
+        "updatedAt": "2026-10-25T01:47:43.621801Z",
         "description": "I am Nariko Sai a Thunder Bird Vtuber! I am loud, Chaotic, and full of ENERGY!",
         "primaryColorHex": "003BFF",
         "followers": {
-            "totalCount": 6791
+            "totalCount": 6812
         },
         "follows": {
-            "totalCount": 752
+            "totalCount": 755
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-26T05:35:20.132215Z"
+            "startedAt": "2026-10-24T19:14:31.042663Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/489ac131-4333-41ab-8878-5855a7377f61-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bdbbae5-33ee-4349-bbdf-cf19617a3969-profile_banner-480.png",
-        "fetchedAt": "2026-09-03T13:04:03Z"
+        "fetchedAt": "2026-10-26T14:02:42Z"
     },
     "twitter": {
         "narikosai": {
@@ -37,22 +37,22 @@
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/NarikoSai",
-            "fetchedAt": "2026-09-03T13:04:05Z"
+            "profileUrl": "https://x.com/narikosai",
+            "fetchedAt": "2026-10-26T14:53:01Z"
         },
         "mityvt": {
             "id": null,
             "handle": "mityvt",
             "displayName": "Calamity ✦",
-            "description": "🔞 Ur very own Lewd Succubus~ || Lewd VA / Lewd Streamer & more~ || Switch || lewdness is Linked in bio || art tag: #Marrymemity",
+            "description": "🔞 Ur very own Lewd Succubus~ || Lewd VA /Blue Site Streamer &amp; more~ || Switch || lewdness is Linked in bio || art tag: #Marrymemity",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1943495023196016640/QpfatKus_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1943494439189590018/1752954913/1500x500",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1943494439189590018/1792745194/1500x500",
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/MityVT",
-            "fetchedAt": "2026-09-03T13:04:07Z"
+            "profileUrl": "https://x.com/mityvt",
+            "fetchedAt": "2026-10-26T14:53:03Z"
         }
     },
     "fansly": {
@@ -60,17 +60,54 @@
         "username": "MityVT",
         "displayName": "Calamity ✦",
         "version": 11,
-        "followCount": 690,
+        "followCount": 737,
         "statusId": 3,
-        "accountMediaLikes": 260,
-        "postLikes": 767,
-        "about": " Ur very own Lewd Succubus~ \n\n💜 Switch\n💕Bratty\n✨Obsessed with you\n\nI respond to messages ( be patient / Tips get priority )\n\nCustom picture Requests: Open\n\nLewd IRLs (no nudes ) for now!~\n\nSome SFW Scripts + Lewd model pictures!~\n\nAll content is copyrighted :3 ",
+        "accountMediaLikes": 431,
+        "postLikes": 1189,
+        "about": " Ur very own Lewd Succubus~ \n\n💜 Switch\n💕Bratty\n✨Obsessed with you\n\nDms open!~ I respond to messages ( be patient / Tips get priority )\n\nCustom picture Requests: Open\n\nLewd IRLs (no nudes ) for now!~\n\nSome SFW Scripts + Lewd model pictures!~\n\nAll content is copyrighted :3 ",
         "location": "",
         "streaming": {
             "accountId": "502703085978656768",
-            "channel": null,
+            "channel": {
+                "id": "954167364100833280",
+                "accountId": "502703085978656768",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.h42OKzhgyumb.m3u8",
+                "chatRoomId": "954168079447760896",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1788985587000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "954167364100833281",
+                    "historyId": "954178183547072512",
+                    "channelId": "954167364100833280",
+                    "accountId": "502703085978656768",
+                    "title": "First EVER Fansly stream // Playing Vlovers",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 4,
+                    "createdAt": 1788985587000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1788996646000,
+                    "startedAt": 1788988166000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "954178482382852096",
+                                "streamId": "954167364100833281",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
             "enabled": true
         },
-        "fetchedAt": "2026-09-03T13:04:08Z"
+        "fetchedAt": "2026-10-26T15:02:17Z"
     }
 }

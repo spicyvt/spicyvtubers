@@ -5,35 +5,35 @@
         "login": "snowydaisyvt",
         "displayName": "SnowyDaisyVT",
         "createdAt": "2019-12-03T03:23:51.303283Z",
-        "updatedAt": "2026-08-19T01:30:07.380349Z",
+        "updatedAt": "2026-10-25T21:43:43.226324Z",
         "description": "Hi!! You can call me Snowy or You can call me Daisy! Come on over and say hi! I play a lot of VRC and Balatro! https://throne.com/snowydaisy",
         "primaryColorHex": "00DEF5",
         "followers": {
-            "totalCount": 675
+            "totalCount": 737
         },
         "follows": {
-            "totalCount": 288
+            "totalCount": 309
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T06:46:02.90004Z"
+            "startedAt": "2026-10-26T00:14:48.568171Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1bc50989-0751-4d6a-8349-017d6bf55103-profile_image-300x300.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/138a4dcd-8f2f-46a8-b549-004d6ec441a6-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09dda112-75be-4767-9763-a77bf0522bce-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:50:14Z"
+        "fetchedAt": "2026-10-26T13:51:37Z"
     },
     "fansly": {
         "id": "728666792804753409",
         "username": "SnowyDaisy",
         "displayName": "SnowyDaisy",
         "version": 3,
-        "followCount": 426,
+        "followCount": 452,
         "statusId": 1,
-        "accountMediaLikes": 187,
-        "postLikes": 181,
+        "accountMediaLikes": 203,
+        "postLikes": 198,
         "about": "Hey, I am Daisy, and I am new to Fansly so please be gentle\nhttps://linktr.ee/snowydaisyvr",
         "location": "Virtual Reality",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "775106662670282753",
-                    "historyId": "942293732030431232",
+                    "historyId": "949902743093395456",
                     "channelId": "775106662670282752",
                     "accountId": "728666792804753409",
                     "title": "if we reach the main goal I WILL Turn off the Voice changer!!",
                     "status": 1,
-                    "viewerCount": 9,
-                    "version": 806,
+                    "viewerCount": 10,
+                    "version": 808,
                     "createdAt": 1746294189000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786165624000,
-                    "startedAt": 1786154692000,
+                    "lastFetchedAt": 1787975630000,
+                    "startedAt": 1787968822000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:04Z"
+        "fetchedAt": "2026-10-26T15:00:54Z"
     },
     "twitter": {
         "snowydaisy": {
-            "id": "1917064012891930624",
+            "id": null,
             "handle": "snowydaisy",
             "displayName": "SnowyDaisy | ❄️🌼 🇵🇷 🤖",
-            "description": "Robot with Snep DNA! \nTwitch Affiliate. \nVtuber | VR Dancer\nHecho en PR \nInspired by LimeBreaker and Torinyan\n\nhttps://t.co/C04BkrPQCz\n\n🔞:@SnowKittyCat69",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2028053230320852992/90aI8vBr_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1917064012891930624/1772360545/1500x500",
-            "followersCount": 477,
-            "followingCount": 588,
-            "postsCount": 7182,
-            "accountCreatedAt": "2025-04-29T03:51:03.786Z",
-            "profileUrl": "https://x.com/SnowyDaisy",
-            "fetchedAt": "2026-08-19T16:27:49Z"
+            "description": "RobotSnep\nTwitch Affiliate. \nVtuber | VR Dancer\nHecho en PR \nInspired by LimeBreaker and Torinyan\n\nhttps://t.co/C04BkrPQCz\n\n🔞:@SnowKittyCat69",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2106977546482888704/_wskXcFr_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1917064012891930624/1791177568/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/snowydaisy",
+            "fetchedAt": "2026-10-26T14:35:03Z"
         },
         "snowkittycat69": {
-            "id": "1113538343902511105",
+            "id": null,
             "handle": "snowkittycat69",
             "displayName": "Snow Covered Leopard",
             "description": "NSFW ALT ACCOUNT OF @SnowyDaisyVT\nLewd posting to keep that other account clean!!\nAll Content posted have been filmed within Unity!",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2041336184358453248/qrIWeKNC_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1113538343902511105/1755513804/1500x500",
-            "followersCount": 191,
-            "followingCount": 162,
-            "postsCount": 641,
-            "accountCreatedAt": "2019-04-03T20:26:44.507Z",
-            "profileUrl": "https://x.com/SnowKittyCat69",
-            "fetchedAt": "2026-08-19T16:27:50Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/snowkittycat69",
+            "fetchedAt": "2026-10-26T14:35:05Z"
         }
     }
 }

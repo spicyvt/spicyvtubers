@@ -5,35 +5,35 @@
         "login": "spwitevt",
         "displayName": "SpwiteVT",
         "createdAt": "2015-01-05T21:55:48.002344Z",
-        "updatedAt": "2026-08-13T06:11:08.256682Z",
+        "updatedAt": "2026-10-20T17:12:28.973226Z",
         "description": "Your favorite disorganized demonic cult leader! ✨⛓ || business email: deviousspwite@gmail.com",
         "primaryColorHex": "27346F",
         "followers": {
-            "totalCount": 16872
+            "totalCount": 16972
         },
         "follows": {
-            "totalCount": 571
+            "totalCount": 568
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-13T08:10:57.653022Z"
+            "startedAt": "2026-10-21T05:56:44.045171Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26fc2d5a-5f9c-4c48-ae80-2891cbe62047-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/71a90416-be93-4c64-9270-2718bb63c1ba-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:55:01Z"
+        "fetchedAt": "2026-10-26T13:56:29Z"
     },
     "fansly": {
         "id": "438748815164448768",
         "username": "darklordwaifu",
         "displayName": "Spwite ✨⛓️ VTuber",
         "version": 10,
-        "followCount": 2052,
+        "followCount": 2082,
         "statusId": 1,
-        "accountMediaLikes": 1180,
-        "postLikes": 803,
+        "accountMediaLikes": 1182,
+        "postLikes": 805,
         "about": "Famous  Cult Leader who likes to be lewd sometimes~ ✨\nIRL Pics & NSFW Streams\n🔗 https://linktr.ee/SpwiteVT",
         "location": "California",
         "streaming": {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:37Z"
+        "fetchedAt": "2026-10-26T15:01:21Z"
     },
     "twitter": {
         "spwitevt": {
-            "id": "1065580004946272257",
+            "id": null,
             "handle": "spwitevt",
             "displayName": "Spwite ✨⛓️",
             "description": "✦ your favorite demonic cult leader Vtuber! ✦ @Twitch @YouTube Partner ✦ fanart: #SpwiteRKGK ✦ H: @doshi00_ ✦ @GamerSupps @ViteRamen (code: SPWITE) ✦",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1802832804834934784/IVM7qj8r_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1065580004946272257/1729141901/1500x500",
-            "followersCount": 2973,
-            "followingCount": 320,
-            "postsCount": 14999,
-            "accountCreatedAt": "2018-11-22T12:17:25.475Z",
-            "profileUrl": "https://x.com/SpwiteVT",
-            "fetchedAt": "2026-08-19T16:34:59Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/spwitevt",
+            "fetchedAt": "2026-10-26T14:42:31Z"
         },
         "darklordwaifu": {
             "id": null,
@@ -105,9 +105,9 @@
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
-            "accountCreatedAt": "2020-07-01T23:42:36.280Z",
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/darklordwaifu",
-            "fetchedAt": "2026-08-19T16:35:00Z"
+            "fetchedAt": "2026-10-26T14:42:32Z"
         }
     }
 }

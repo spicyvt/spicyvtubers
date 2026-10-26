@@ -5,32 +5,32 @@
         "login": "ruurochu",
         "displayName": "Ruurochu",
         "createdAt": "2024-02-24T11:35:32.820285Z",
-        "updatedAt": "2026-08-15T14:36:25.360361Z",
+        "updatedAt": "2026-10-24T18:24:19.905399Z",
         "description": "Ruu (Non-Binary • They/He) ☆ 20+ ☆ EN/GER ☆ Variety Streamer 🎮 🎨🎤 [Disabled]",
         "primaryColorHex": "00A3A3",
         "followers": {
-            "totalCount": 880
+            "totalCount": 896
         },
         "follows": {
-            "totalCount": 85
+            "totalCount": 83
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-15T14:39:00.027806Z"
+            "startedAt": "2026-10-18T13:58:14.534431Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f606574-0e26-4c06-81d7-a7fdf8be15c1-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/727b55c3-704f-4c9d-8192-fa5c25d211d8-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:45:49Z"
+        "fetchedAt": "2026-10-26T13:47:15Z"
     },
     "fansly": {
         "id": "899717862984282112",
         "username": "Ruurochu",
         "displayName": null,
         "version": 2,
-        "followCount": 13,
+        "followCount": 15,
         "statusId": 1,
         "accountMediaLikes": 0,
         "postLikes": 0,
@@ -41,36 +41,36 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:26Z"
+        "fetchedAt": "2026-10-26T15:00:15Z"
     },
     "twitter": {
         "ruurochu": {
-            "id": "1713123089016324096",
+            "id": null,
             "handle": "ruurochu",
             "displayName": "Ruu",
             "description": "✦ NB (They/He) 🏳️‍🌈 🇩🇪 ✦ Disabled\n✦ Variety Content Creator 🎮 🎨\n✦ #SynchillART | 🔞 #SinchillART @iShibaruu\n✦ Ruurochu@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2055347914822602754/ij2QCMAy_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1713123089016324096/1756309756/1500x500",
-            "followersCount": 1862,
-            "followingCount": 222,
-            "postsCount": 3951,
-            "accountCreatedAt": "2023-10-14T09:22:32.388Z",
-            "profileUrl": "https://x.com/Ruurochu",
-            "fetchedAt": "2026-08-19T16:20:27Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ruurochu",
+            "fetchedAt": "2026-10-26T14:26:55Z"
         },
         "ishibaruu": {
-            "id": "901170124366991361",
+            "id": null,
             "handle": "ishibaruu",
             "displayName": "Ruu 🔞",
             "description": "✦ @Ruurochu\n✦ 18+ | NB (They/He) | Kinkfluencer | Erotic Artist\n✦ NSFW Fanart Tag: #SinchillART\nRuurochu@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1916116533320790016/IM4P-Nkh_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/901170124366991361/1745672704/1500x500",
-            "followersCount": 691,
-            "followingCount": 151,
-            "postsCount": 266,
-            "accountCreatedAt": "2017-08-25T19:51:15.351Z",
-            "profileUrl": "https://x.com/iShibaruu",
-            "fetchedAt": "2026-08-19T16:20:29Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ishibaruu",
+            "fetchedAt": "2026-10-26T14:26:58Z"
         }
     }
 }

@@ -5,32 +5,32 @@
         "login": "uesugisen",
         "displayName": "UesugiSen",
         "createdAt": "2013-08-18T19:50:56.113517Z",
-        "updatedAt": "2026-08-14T03:52:37.14705Z",
+        "updatedAt": "2026-10-24T12:15:10.915982Z",
         "description": " Sleepy sheep(?)",
         "primaryColorHex": "1F69FF",
         "followers": {
-            "totalCount": 1214
+            "totalCount": 1234
         },
         "follows": {
-            "totalCount": 348
+            "totalCount": 366
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-12T06:57:39.150884Z"
+            "startedAt": "2026-10-24T06:59:54.227069Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70f0b4cd-ada1-4568-9f95-a83cca36300d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/def8cb28-a74c-4bb1-8277-cf653d5b763e-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:52:53Z"
+        "fetchedAt": "2026-10-26T13:54:20Z"
     },
     "fansly": {
         "id": "356473762033446912",
         "username": "UesugiSen",
         "displayName": "UesugiSen",
         "version": 7,
-        "followCount": 101,
+        "followCount": 103,
         "statusId": 1,
         "accountMediaLikes": 10,
         "postLikes": 32,
@@ -86,22 +86,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:21Z"
+        "fetchedAt": "2026-10-26T15:01:10Z"
     },
     "twitter": {
         "uesugisen": {
-            "id": "988886328",
+            "id": null,
             "handle": "uesugisen",
             "displayName": "Uesugi Sen",
-            "description": "Here to play games and doing voice acting.\nWolf in sheep's clothing. Wolf.\nBanner: @Mazivora",
+            "description": "Here to play games and doing voice acting.\nWolf in sheep&#x27;s clothing. Wolf.\nBanner: @Mazivora",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1576266769102086145/Sp2OKLU0_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/988886328/1761809755/1500x500",
-            "followersCount": 321,
-            "followingCount": 961,
-            "postsCount": 2594,
-            "accountCreatedAt": "2012-12-04T14:35:56.000Z",
-            "profileUrl": "https://x.com/UesugiSen",
-            "fetchedAt": "2026-08-19T16:31:30Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/uesugisen",
+            "fetchedAt": "2026-10-26T14:38:53Z"
         }
     }
 }

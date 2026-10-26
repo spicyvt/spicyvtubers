@@ -30,10 +30,10 @@
         "username": "Blasphemei",
         "displayName": "Mei💜",
         "version": 9,
-        "followCount": 21344,
+        "followCount": 19179,
         "statusId": 3,
-        "accountMediaLikes": 15532,
-        "postLikes": 7210,
+        "accountMediaLikes": 18474,
+        "postLikes": 7343,
         "about": "╭───────────────────────╮\n      ♡૮ • ﻌ -づ~🦴ꜱᴜᴄᴄᴜ-ᴘᴜᴘ ɪɴ ʜᴇᴀᴛ ♡\n                ʜᴀʟꜰ ʙᴀᴛ, ʜᴀʟꜰ ʙʀᴀᴛ 🦇\n    🔗【 https://blasphemei.carrd.co 】\n╰───────────────────────╯\n🎁【 https://throne.com/blasphemei 】\n💗【 https://www.lovense.com/r/wy3lt2 】\n\n\n All content is under copyright. Enforced by bruqi.com.",
         "location": "Virtual Reality",
         "streaming": {
@@ -44,31 +44,47 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.i2k75CNziJw8.m3u8",
                 "chatRoomId": "722710897885192192",
                 "status": 2,
-                "version": 92,
+                "version": 94,
                 "createdAt": 1733801994000,
                 "updatedAt": null,
                 "stream": {
                     "id": "722710600739725313",
-                    "historyId": "945858842439209208",
+                    "historyId": "969766425243693056",
                     "channelId": "722710600739725312",
                     "accountId": "627115857163591680",
-                    "title": "˗ˏˋ  𝗖𝗛𝗔𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 ➜ 📜 !menu ⚡ !vibes 😈 !toycontrol 🎁 !throne  🔗 !socials  🍆 !lovense  ˎˊ˗",
+                    "title": "˗ˏˋ  𝗖𝗛𝗔𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 ➜ 📜 !menu⚡!vibes 😈 !toycontrol 🎁 !throne 🍆 !lovense  ˎˊ˗",
                     "status": 1,
-                    "viewerCount": 23,
-                    "version": 8727,
+                    "viewerCount": 24,
+                    "version": 8809,
                     "createdAt": 1733801994000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1787008903000,
-                    "startedAt": 1787004681000,
+                    "lastFetchedAt": 1792720699000,
+                    "startedAt": 1792704693000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "945897095825485824",
+                                "id": "969766351839195136",
                                 "streamId": "722710600739725313",
                                 "type": 0,
-                                "flags": 2,
+                                "flags": 3,
                                 "price": 0,
-                                "metadata": ""
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":1500}\"}"
+                            },
+                            {
+                                "id": "969766351839195137",
+                                "streamId": "722710600739725313",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "969766351839195138",
+                                "streamId": "722710600739725313",
+                                "type": 0,
+                                "flags": 10,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":10000}\"}"
                             }
                         ]
                     }
@@ -78,22 +94,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:59Z"
+        "fetchedAt": "2026-10-26T15:00:48Z"
     },
     "twitter": {
         "blasphemeii": {
-            "id": "1971309529540472832",
+            "id": null,
             "handle": "blasphemeii",
             "displayName": "𝔪𝔢𝔦 𝔪𝔢𝔦",
             "description": "╭♱- \n│🦇​𝗦𝘂𝗰𝗰𝘂-𝗽𝘂𝗽𝗽𝘆𝗯𝗮𝘁\n│🎙ʟᴇᴡᴅᴛᴜʙᴇʀ ᴀꜱᴍʀᴛɪꜱᴛ \n│🎨 #TemptMei \n│🔞@BlasphemeiVT\n╰♱-",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1993553124791853056/0o0ewfH7_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1971309529540472832/1764135079/1500x500",
-            "followersCount": 205,
-            "followingCount": 43,
-            "postsCount": 9,
-            "accountCreatedAt": "2025-09-25T20:23:25.919Z",
-            "profileUrl": "https://x.com/Blasphemeii",
-            "fetchedAt": "2026-08-19T16:26:23Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/blasphemeii",
+            "fetchedAt": "2026-10-26T14:33:27Z"
         },
         "blasphemeivt": {
             "id": null,
@@ -105,9 +121,9 @@
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
-            "accountCreatedAt": "2022-08-24T01:35:59.797Z",
-            "profileUrl": "https://x.com/BlasphemeiVT",
-            "fetchedAt": "2026-08-19T16:26:25Z"
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/blasphemeivt",
+            "fetchedAt": "2026-10-26T14:33:28Z"
         }
     }
 }

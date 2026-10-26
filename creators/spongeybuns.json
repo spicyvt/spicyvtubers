@@ -5,35 +5,35 @@
         "login": "spongeybuns",
         "displayName": "SpongeyBuns",
         "createdAt": "2015-01-09T03:01:21.334048Z",
-        "updatedAt": "2026-08-19T01:54:27.778133Z",
+        "updatedAt": "2026-10-22T01:10:39.518967Z",
         "description": "Hi I'm Spongey",
         "primaryColorHex": "FAB3FF",
         "followers": {
-            "totalCount": 16011
+            "totalCount": 16286
         },
         "follows": {
-            "totalCount": 833
+            "totalCount": 839
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T01:07:47.326539Z"
+            "startedAt": "2026-10-22T03:09:47.226619Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3607d5b-36a0-4178-b56d-d03bbb8898b4-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a28c469-43af-419a-a1ef-302866e55df8-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:59:10Z"
+        "fetchedAt": "2026-10-26T14:00:39Z"
     },
     "fansly": {
         "id": "658147070573555712",
         "username": "SpongeyBuns",
         "displayName": "Spongey",
         "version": 4,
-        "followCount": 3277,
+        "followCount": 3588,
         "statusId": 3,
-        "accountMediaLikes": 988,
-        "postLikes": 2105,
+        "accountMediaLikes": 1202,
+        "postLikes": 2508,
         "about": "Hiiii~ I'm Spongey! A Space Demon Vtuber.\n\nWe get a lil lewd here sometimes. Anything I can't do on twitch I'll do it here! \nThrone! Give me Gifts~ https://throne.com/spongeybuns\nLewd but not Nude~\n\n3D Model made by Sn0wHunter",
         "location": "Space",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zdJpNzomot7b.m3u8",
                 "chatRoomId": "668978791707586560",
                 "status": 2,
-                "version": 3,
+                "version": 9,
                 "createdAt": 1720989623000,
                 "updatedAt": null,
                 "stream": {
                     "id": "668971620349521922",
-                    "historyId": "936566013200187393",
+                    "historyId": "962209627880050688",
                     "channelId": "668971620349521921",
                     "accountId": "658147070573555712",
-                    "title": "Omg you can have titles now :3 I'm sweaty",
+                    "title": "Birthday Princess Celebration~ Come spoil the Birthday girl! ",
                     "status": 1,
-                    "viewerCount": 85,
-                    "version": 7992,
+                    "viewerCount": 199,
+                    "version": 8002,
                     "createdAt": 1720989623000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1784789293000,
-                    "startedAt": 1784789098000,
+                    "lastFetchedAt": 1790911186000,
+                    "startedAt": 1790903012000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:48:10Z"
+        "fetchedAt": "2026-10-26T15:02:00Z"
     },
     "twitter": {
         "spongeybuns": {
-            "id": "702454201",
+            "id": null,
             "handle": "spongeybuns",
-            "displayName": "Spongey 😈✨",
-            "description": "Lil space demon | I'm not an alien! | Twitch Partner #DrawSponge #SpongeyBuns Parents : (artist) @ClickDraws (rig) @kvxart (3D) @Sn0wHunter",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2018841985789091841/tE3Bw4v1_400x400.jpg",
+            "displayName": "Spongey 😈✨Debut October 12th!",
+            "description": "Lil space demon | I&#x27;m not an alien! | Twitch Partner #DrawSponge #SpongeyBuns Parents : (artist) @ClickDraws (rig) @kvxart (3D) @Sn0wHunter",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2114382327405330432/h04N6Hb7_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/702454201/1767786601/1500x500",
-            "followersCount": 10901,
-            "followingCount": 1560,
-            "postsCount": 6358,
-            "accountCreatedAt": "2012-07-18T05:47:59.000Z",
-            "profileUrl": "https://x.com/SpongeyBuns",
-            "fetchedAt": "2026-08-19T16:41:53Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/spongeybuns",
+            "fetchedAt": "2026-10-26T14:49:39Z"
         }
     }
 }

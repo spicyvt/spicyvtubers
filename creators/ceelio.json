@@ -5,25 +5,25 @@
         "login": "ceelio",
         "displayName": "ceelio",
         "createdAt": "2016-04-19T19:03:47.811438Z",
-        "updatedAt": "2026-08-18T09:03:24.96559Z",
+        "updatedAt": "2026-10-23T21:44:59.186887Z",
         "description": "Demon Sheep DJ that's stuck in the 2000s※ I do ASMR on weekdays and play games on weekends 👌🏾",
         "primaryColorHex": "320080",
         "followers": {
-            "totalCount": 12671
+            "totalCount": 13066
         },
         "follows": {
-            "totalCount": 238
+            "totalCount": 244
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T23:35:28.368582Z"
+            "startedAt": "2026-10-24T01:24:53.695736Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa3f5052-94a1-42a3-bca9-5c5a56eb1bc8-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d09b0a08-f8bc-4d7e-8a1b-082ca998fa62-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:54:25Z"
+        "fetchedAt": "2026-10-26T13:55:52Z"
     },
     "twitter": {
         "ceelio_ch": {
@@ -58,7 +58,7 @@
             "id": null,
             "handle": "ceemendemon",
             "displayName": "🔞💢💤",
-            "description": "@ceelio_ch ⬅️ main acct\ni just b saying shit\nnsfw/yap alt\n#CeeliOHNO - nsfw art",
+            "description": "@ceelioradio ⬅️ main acct\ni just b saying shit\nnsfw/yap alt\n#CeeliOHNO - nsfw art",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2076875556793290752/2Hv6sHe4_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1493913809693470721/1788989936/1500x500",
             "followersCount": null,
@@ -66,7 +66,7 @@
             "postsCount": null,
             "accountCreatedAt": null,
             "profileUrl": "https://x.com/ceemendemon",
-            "fetchedAt": "2026-09-11T17:26:28Z"
+            "fetchedAt": "2026-10-26T14:41:25Z"
         },
         "ceelioradio": {
             "id": null,
@@ -80,7 +80,7 @@
             "postsCount": null,
             "accountCreatedAt": null,
             "profileUrl": "https://x.com/ceelioradio",
-            "fetchedAt": "2026-09-21T00:31:46Z"
+            "fetchedAt": "2026-10-26T14:41:23Z"
         }
     },
     "rplay": {
@@ -107,8 +107,8 @@
         "channelLanguage": "en",
         "isLivestreamer": true,
         "customUrl": "ceelio",
-        "channelImage": "https://pb2.rplay.live/pics/2ba2de84f1a6af775bf7b58224790f5d",
-        "streamStartTime": "2026-08-18T20:09:20.000Z",
-        "fetchedAt": "2026-08-19T16:50:04Z"
+        "channelImage": "https://pb3.rplay.live/pics/d9e15672d916e0bdfa3221aef3f974f2",
+        "streamStartTime": "2026-10-21T18:02:15.000Z",
+        "fetchedAt": "2026-10-26T15:04:09Z"
     }
 }

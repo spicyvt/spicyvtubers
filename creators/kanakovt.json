@@ -1,40 +1,40 @@
 {
-    "bio": "hihi I'm Kana! I'm an energetic princess kitten that enjoys yapping while doing ASMR, RP, or Shooters! Give me lots of pats and maybe RNG will be by your side!",
+    "bio": "hihi I'm Kana! I'm a princess kitten that enjoys yapping while doing ASMR, RP, or FPS! Give me lots of pats and maybe RNG will be by your side!",
     "twitch": {
         "id": "107921718",
         "login": "kanakovt",
         "displayName": "KanakoVT",
         "createdAt": "2015-11-25T00:08:30.053888Z",
-        "updatedAt": "2026-08-19T12:42:02.413944Z",
-        "description": "hihi I'm Kana! I'm an energetic princess kitten that enjoys yapping while doing ASMR, RP, or Shooters! Give me lots of pats and maybe RNG will be by your side!",
+        "updatedAt": "2026-10-24T01:00:08.93753Z",
+        "description": "hihi I'm Kana! I'm a princess kitten that enjoys yapping while doing ASMR, RP, or FPS! Give me lots of pats and maybe RNG will be by your side!",
         "primaryColorHex": "FFB8D3",
         "followers": {
-            "totalCount": 7423
+            "totalCount": 7480
         },
         "follows": {
-            "totalCount": 411
+            "totalCount": 412
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T15:06:16.647192Z"
+            "startedAt": "2026-10-26T10:48:28.421468Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5952e4c7-643b-4a31-8526-437e758d35ad-profile_image-300x300.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/242f453f-260e-482a-aba1-92caa4503f12-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ac6a2f7-5418-4979-ba47-91f73608ba1f-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:40:35Z"
+        "fetchedAt": "2026-10-26T13:42:08Z"
     },
     "fansly": {
         "id": "377641590199431168",
         "username": "Kana",
         "displayName": "Kana",
         "version": 25,
-        "followCount": 56697,
-        "statusId": 1,
-        "accountMediaLikes": 31765,
-        "postLikes": 17398,
-        "about": "💌 Bratty princess of a kittygirl 💌 Perfect for praise 💌\nkanakovt\nsocials -> kanavt.com",
+        "followCount": 59638,
+        "statusId": 2,
+        "accountMediaLikes": 32653,
+        "postLikes": 17786,
+        "about": "💌 Bratty princess of a catgirl 💌 Perfect for praise 💌\nkanakovt\nsocials -> kanavt.com",
         "location": "Sitting on your lap while you pamper me",
         "streaming": {
             "accountId": "377641590199431168",
@@ -44,24 +44,33 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JjehPI5ddX47.m3u8",
                 "chatRoomId": "391405547397591040",
                 "status": 2,
-                "version": 396,
+                "version": 471,
                 "createdAt": 1654757699000,
                 "updatedAt": null,
                 "stream": {
                     "id": "391174797804969985",
-                    "historyId": "946457835426824193",
+                    "historyId": "971054092115795968",
                     "channelId": "391174797804969984",
                     "accountId": "377641590199431168",
-                    "title": "💌 Pamper Me I'm Sad // 아깽이",
-                    "status": 1,
-                    "viewerCount": 32,
-                    "version": 1972,
+                    "title": "💌🎀 Cyberpunk RP // 아깽이",
+                    "status": 2,
+                    "viewerCount": 34,
+                    "version": 2107,
                     "createdAt": 1654757699000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1787151978000,
-                    "startedAt": 1787147492000,
+                    "lastFetchedAt": 1793026760000,
+                    "startedAt": 1793011696000,
                     "permissions": {
-                        "permissionFlags": []
+                        "permissionFlags": [
+                            {
+                                "id": "970365301726134272",
+                                "streamId": "391174797804969985",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
                     }
                 },
                 "arn": null,
@@ -69,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:31Z"
+        "fetchedAt": "2026-10-26T14:59:20Z"
     },
     "twitter": {
         "kanakovt": {
-            "id": "1301643739987763200",
+            "id": null,
             "handle": "kanakovt",
-            "displayName": "Kana 💌",
-            "description": "✧༺ Bratty Kittygirl Princess ༻✧  Top 200 Blue Twitch",
+            "displayName": "Kana 💌🎀🔜 Tsumicon",
+            "description": "✧༺ Bratty Kitten Princess ༻✧  Top 200 Blue Twitch",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2086244679662653440/Kr84Y42I_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1301643739987763200/1786711934/1500x500",
-            "followersCount": 10469,
-            "followingCount": 285,
-            "postsCount": 846,
-            "accountCreatedAt": "2020-09-03T22:10:34.949Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/kanakovt",
-            "fetchedAt": "2026-08-19T16:11:34Z"
+            "fetchedAt": "2026-10-26T14:17:39Z"
         },
         "kanakovtuber": {
-            "id": "1815959540254531584",
+            "id": null,
             "handle": "kanakovtuber",
             "displayName": "Kanako",
             "description": "✧༺ Domesticated Catgirl ༻✧ NSFW Account of @kanakovt",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2011833590514958336/IsQlKRBz_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1815959540254531584/1768493481/1500x500",
-            "followersCount": 648,
-            "followingCount": 52,
-            "postsCount": 43,
-            "accountCreatedAt": "2024-07-24T03:58:39.425Z",
-            "profileUrl": "https://x.com/KanakoVTuber",
-            "fetchedAt": "2026-08-19T16:11:36Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kanakovtuber",
+            "fetchedAt": "2026-10-26T14:17:40Z"
         }
     }
 }

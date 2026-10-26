@@ -5,35 +5,35 @@
         "login": "undyne_arashi",
         "displayName": "Undyne_Arashi",
         "createdAt": "2022-01-04T20:10:37.558795Z",
-        "updatedAt": "2026-08-17T01:13:29.918102Z",
+        "updatedAt": "2026-10-24T18:20:19.924217Z",
         "description": "What's up Flotsam! Let's dive in (ง︡'-'︠)ง ᕙ(`▿´)ᕗ",
         "primaryColorHex": "92D8EC",
         "followers": {
-            "totalCount": 3707
+            "totalCount": 3752
         },
         "follows": {
-            "totalCount": 611
+            "totalCount": 623
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T04:09:57.994546Z"
+            "startedAt": "2026-10-24T22:02:13.051573Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/48f2210e-6c0f-41cb-96a9-a846954bfef8-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d379223-f9ad-48c8-af68-22fb40dfe5a7-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:53:22Z"
+        "fetchedAt": "2026-10-26T13:54:49Z"
     },
     "fansly": {
         "id": "458141556939956224",
         "username": "UndyneAra",
         "displayName": "Undyne Ara",
         "version": 9,
-        "followCount": 6210,
+        "followCount": 6443,
         "statusId": 1,
-        "accountMediaLikes": 5124,
-        "postLikes": 3883,
+        "accountMediaLikes": 5292,
+        "postLikes": 3976,
         "about": "💜 Siren ☠️ VSinger 🎶 Sussy Switch \n\n: 𓏲🐋 ๋࣭  ࣪ ˖✩࿐࿔ 🌊\n\nWant to see my try something on? Throne Gifts/ outfit buyers will receive photos of outfits in private DM!\n\n: 𓏲🐋 ๋࣭  ࣪ ˖✩࿐࿔ 🌊\n\nSocial: http://undyne-arashi.carrd.co\nThrone: https://throne.com/undyne_arashi",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ChPZhSviyf3d.m3u8",
                 "chatRoomId": "666040443275845632",
                 "status": 2,
-                "version": 63,
+                "version": 73,
                 "createdAt": 1720290684000,
                 "updatedAt": null,
                 "stream": {
                     "id": "666040057932554243",
-                    "historyId": "944815087565160448",
+                    "historyId": "970174076683309056",
                     "channelId": "666040057932554242",
                     "accountId": "458141556939956224",
-                    "title": "Shady Lewd Kart - Spank Bank Stream",
+                    "title": "HuniePop my Pussy~",
                     "status": 1,
-                    "viewerCount": 28,
-                    "version": 9929,
+                    "viewerCount": 16,
+                    "version": 9943,
                     "createdAt": 1720290684000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786764612000,
-                    "startedAt": 1786755830000,
+                    "lastFetchedAt": 1792808397000,
+                    "startedAt": 1792801884000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:26Z"
+        "fetchedAt": "2026-10-26T15:01:15Z"
     },
     "twitter": {
         "undyne_arashi": {
-            "id": "1453183446503862274",
+            "id": null,
             "handle": "undyne_arashi",
             "displayName": "Undyne Arashi | Siren Goober 💜",
             "description": "🧜‍♀️ Siren ☠️ VSinger 🎶 https://t.co/fHZMS7U1CU 🎨#undynealive #UndyneArrrt 2D rig: @/MochiHuechi_CH 2D art: @/Morphisia 3D: @_Pudizuu Lvl 30 🔞",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2048124677944758272/mxx0bWHJ_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1453183446503862274/1777145951/1500x500",
-            "followersCount": 4266,
-            "followingCount": 1986,
-            "postsCount": 23229,
-            "accountCreatedAt": "2021-10-27T02:15:27.401Z",
-            "profileUrl": "https://x.com/Undyne_Arashi",
-            "fetchedAt": "2026-08-19T16:32:19Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/undyne_arashi",
+            "fetchedAt": "2026-10-26T14:39:44Z"
         },
         "undynearaara": {
-            "id": "1747110408479997952",
+            "id": null,
             "handle": "undynearaara",
             "displayName": "UndyneAraAra",
             "description": "Sussy Feesh Containment (kind of). NSFW Alt for @Undyne_Arashi~ Sea Smut 💜 ENM ⚓ 🔞 | ❤️ = 🪆🪡",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2084313982286893056/mj0GUlQA_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1747110408479997952/1785774166/1500x500",
-            "followersCount": 539,
-            "followingCount": 138,
-            "postsCount": 942,
-            "accountCreatedAt": "2024-01-16T04:16:05.453Z",
-            "profileUrl": "https://x.com/UndyneAraAra",
-            "fetchedAt": "2026-08-19T16:32:21Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/undynearaara",
+            "fetchedAt": "2026-10-26T14:39:46Z"
         }
     }
 }

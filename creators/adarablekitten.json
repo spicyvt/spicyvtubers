@@ -23,7 +23,7 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c42dd7-f95a-42be-8b95-2d7056276b4a-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bad9f4c-d45a-4946-8286-f5b4d33dac7d-profile_banner-480.png",
-        "fetchedAt": "2026-10-24T15:56:21Z"
+        "fetchedAt": "2026-10-26T14:04:28Z"
     },
     "twitter": {
         "adarablekitten": {
@@ -37,8 +37,8 @@
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/AdarableKitten",
-            "fetchedAt": "2026-10-24T15:56:24Z"
+            "profileUrl": "https://x.com/adarablekitten",
+            "fetchedAt": "2026-10-26T14:55:56Z"
         },
         "adarablepanther": {
             "id": null,
@@ -51,8 +51,8 @@
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/AdarablePanther",
-            "fetchedAt": "2026-10-24T15:56:25Z"
+            "profileUrl": "https://x.com/adarablepanther",
+            "fetchedAt": "2026-10-26T14:55:58Z"
         }
     },
     "fansly": {
@@ -60,7 +60,7 @@
         "username": "AdarableKitten",
         "displayName": null,
         "version": 3,
-        "followCount": 94,
+        "followCount": 96,
         "statusId": 3,
         "accountMediaLikes": 48,
         "postLikes": 113,
@@ -116,6 +116,6 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-10-24T15:56:27Z"
+        "fetchedAt": "2026-10-26T15:02:33Z"
     }
 }

@@ -5,46 +5,46 @@
         "login": "devoralatoria",
         "displayName": "devoralatoria",
         "createdAt": "2023-07-30T02:56:06.959827Z",
-        "updatedAt": "2026-08-15T21:29:22.444313Z",
+        "updatedAt": "2026-10-25T22:05:45.630844Z",
         "description": "Plant-based Eldritch Horror, who loves playing very cozy and comfy games like Minecraft! I do play a VARIETY of games so expect to see many on here!",
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 2371
+            "totalCount": 2576
         },
         "follows": {
-            "totalCount": 619
+            "totalCount": 671
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-14T01:50:47.910712Z"
+            "startedAt": "2026-10-26T01:31:40.234393Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7492178-eaaf-423c-a6aa-cf8fc21d44c7-profile_image-300x300.png",
         "bannerImageUrl": null,
-        "fetchedAt": "2026-08-19T15:59:54Z"
+        "fetchedAt": "2026-10-26T14:01:24Z"
     },
     "bluesky": {
         "did": "did:plc:w6tv3kdlcqhw6hwonrbrzx36",
         "handle": "devoralatoria.bsky.social",
         "displayName": "Devora Latoria",
-        "description": "https://www.twitch.tv/devoralatoria\n\nI stream irregularly but try to keep things comfy and fun, love to chat and get to know everyone to come talk to me!\nTrans She/They 🏳️‍⚧️",
+        "description": "https://www.twitch.tv/devoralatoria\n\nI stream irregularly but try to keep things comfy and fun, love to chat and get to know everyone to come talk to me! \nTrans She/They 🏳️‍⚧️\nMINORS DNI 🔞",
         "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6tv3kdlcqhw6hwonrbrzx36/bafkreif3w3epsmxqfucrzokpht7rln5ta2cs7t27zyw7rab3xuocujf3je",
         "bannerImageUrl": "https://cdn.bsky.app/img/banner/plain/did:plc:w6tv3kdlcqhw6hwonrbrzx36/bafkreie6wbrvw5nujoe2nwew5z7mekw37zip2tjaksulgvglnrs7eu5xfy",
-        "followersCount": 977,
-        "followingCount": 698,
-        "postsCount": 1205,
+        "followersCount": 1069,
+        "followingCount": 768,
+        "postsCount": 1315,
         "accountCreatedAt": "2023-09-05T19:40:34.493Z",
         "profileUrl": "https://bsky.app/profile/devoralatoria.bsky.social",
-        "fetchedAt": "2026-08-19T16:44:29Z"
+        "fetchedAt": "2026-10-26T14:58:10Z"
     },
     "fansly": {
         "id": "302321233729433600",
         "username": "DevoraLatoria",
         "displayName": "DevoraLatoria",
         "version": 7,
-        "followCount": 101,
+        "followCount": 103,
         "statusId": 1,
         "accountMediaLikes": 49,
         "postLikes": 46,
@@ -55,6 +55,6 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:48:21Z"
+        "fetchedAt": "2026-10-26T15:02:06Z"
     }
 }

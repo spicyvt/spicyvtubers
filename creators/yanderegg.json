@@ -5,36 +5,36 @@
         "login": "yanderegg",
         "displayName": "YanderEgg",
         "createdAt": "2023-09-11T17:48:04.169482Z",
-        "updatedAt": "2026-08-16T23:02:22.182822Z",
+        "updatedAt": "2026-10-19T17:45:10.312664Z",
         "description": "Son of Cthulhu",
         "primaryColorHex": "330146",
         "followers": {
-            "totalCount": 10908
+            "totalCount": 11136
         },
         "follows": {
-            "totalCount": 366
+            "totalCount": 371
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T01:29:45.671465Z"
+            "startedAt": "2026-10-17T23:01:12.70142Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/938ff093-537a-4a66-bd3e-ae88904bff95-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4cbdba0-92e3-404e-9d41-25d6e988aa0c-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:55:24Z"
+        "fetchedAt": "2026-10-26T13:56:52Z"
     },
     "fansly": {
         "id": "578501349272989696",
-        "username": "Tentacrool",
-        "displayName": "Tentacrool",
-        "version": 15,
-        "followCount": 373,
+        "username": "Eggsmr",
+        "displayName": "Eggo",
+        "version": 18,
+        "followCount": 636,
         "statusId": 1,
-        "accountMediaLikes": 88,
-        "postLikes": 79,
-        "about": "Hello Darling! Enjoy my Spice ;) - https://www.patreon.com/tentacrool\n\nLive Fridays and Sundays\n\nhttps://throne.com/tentacrool",
+        "accountMediaLikes": 245,
+        "postLikes": 148,
+        "about": "Hello Darling! Enjoy my Spice ;) - https://www.patreon.com/eggsmrnsfw\n\nLive Fridays and Sundays\n\nhttps://throne.com/tentacrool",
         "location": "",
         "streaming": {
             "accountId": "578501349272989696",
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.laPx2XBAFiWy.m3u8",
                 "chatRoomId": "858925415673114627",
                 "status": 2,
-                "version": 41,
+                "version": 48,
                 "createdAt": 1766278071000,
                 "updatedAt": null,
                 "stream": {
                     "id": "858925138287030273",
-                    "historyId": "935711475102658560",
+                    "historyId": "969456612219572225",
                     "channelId": "858925138287030272",
                     "accountId": "578501349272989696",
-                    "title": "Bratty Britsh Femboy ~ Try to break me while I work hehe !tips",
+                    "title": "Bratty Britsh Femboy ~Barking for my master... ~ SUB PLEASE PLEEEESE !tips",
                     "status": 1,
-                    "viewerCount": 33,
-                    "version": 72,
+                    "viewerCount": 23,
+                    "version": 92,
                     "createdAt": 1766278071000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1784591468000,
-                    "startedAt": 1784585360000,
+                    "lastFetchedAt": 1792638064000,
+                    "startedAt": 1792630828000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:37Z"
+        "fetchedAt": "2026-10-26T15:01:27Z"
     },
     "twitter": {
         "yandereggsmr": {
-            "id": "1636165347345563648",
+            "id": null,
             "handle": "yandereggsmr",
             "displayName": "YanderEgg 🔪🐙",
-            "description": "Certified Yandere ‣ Twitch Partner ‣ 100k on YT ‣ ママ ‣ @kamochiruu | Rig ‣ @WoofNono | https://t.co/at9rggWr0I | Clips: #eggits",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2006001604416126976/vc0Dkgex_400x400.jpg",
+            "description": "Certified Yandere ‣ Twitch Partner ‣ 100k on YT ‣ ママ ‣ @kamochiruu | Rig ‣ @WoofNono | https://t.co/at9rggWr0I | Find it here ↓",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2101803112826597376/Z9cvj1Cm_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1636165347345563648/1719142906/1500x500",
-            "followersCount": 10256,
-            "followingCount": 1894,
-            "postsCount": 3908,
-            "accountCreatedAt": "2023-03-16T00:40:03.073Z",
-            "profileUrl": "https://x.com/YanderEggsmr",
-            "fetchedAt": "2026-08-19T16:35:38Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/yandereggsmr",
+            "fetchedAt": "2026-10-26T14:43:12Z"
         },
         "tentacroolvt": {
             "id": "1831983617574055936",
@@ -112,7 +112,7 @@
             "postsCount": null,
             "accountCreatedAt": null,
             "profileUrl": "https://x.com/yandernude",
-            "fetchedAt": "2026-10-18T14:37:28Z"
+            "fetchedAt": "2026-10-26T14:43:13Z"
         }
     }
 }

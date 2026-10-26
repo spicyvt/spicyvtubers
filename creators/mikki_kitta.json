@@ -5,14 +5,14 @@
         "login": "mikki_kitta",
         "displayName": "mikki_kitta",
         "createdAt": "2022-03-20T00:40:49.652458Z",
-        "updatedAt": "2026-08-12T18:24:19.321061Z",
+        "updatedAt": "2026-10-25T04:51:09.031243Z",
         "description": "Hi There~ I'm Mikki Kitta || She/He/They/Any || DogGirl Vtuber || LGBTQ+ Friendly ||English (Working on learning Spanish and Korean) || Not entirely family friendly, but not completely 18+ on here either, I fall somewhere in between",
         "primaryColorHex": "C8A2C8",
         "followers": {
-            "totalCount": 444
+            "totalCount": 445
         },
         "follows": {
-            "totalCount": 476
+            "totalCount": 489
         },
         "roles": {
             "isPartner": false,
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a01430e-1767-4ee4-82b1-37c2b8152519-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b99856a-bd9a-4999-8440-06f748ca745d-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:47:34Z"
+        "fetchedAt": "2026-10-26T13:49:00Z"
     },
     "fansly": {
         "id": "429369769246859264",
         "username": "Mikki_Kitta",
         "displayName": "Ms Mikki",
         "version": 12,
-        "followCount": 1016,
+        "followCount": 1044,
         "statusId": 3,
-        "accountMediaLikes": 367,
-        "postLikes": 521,
+        "accountMediaLikes": 391,
+        "postLikes": 532,
         "about": "Hewwo! I'm Mikki, your lewd Shrine Priestess waifu! ⛩️\n✨ 25+ y/o streamer bringing the spicy vibes to Fansly.\n\nWhat you’ll find here: \n🔥 Exclusive spicy photos & videos \n💬 Chat & DM access \n🎡 LIVE GAMES: Every stream features my Prize Wheel!\n🎁 Throne Rewards: Clothing gifts = 4-pic photoshoot | Toys = 30s video!\n\nDM for private custom requests!\n~~~\nCatch me on: https://twitch.tv/mikki_kitta\nGifts here: https://throne.com/mikki_kitta",
         "location": "At The Shrine",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.8sQixsHiiFjK.m3u8",
                 "chatRoomId": "492201802293325825",
                 "status": 2,
-                "version": 8,
+                "version": 9,
                 "createdAt": 1672530255000,
                 "updatedAt": null,
                 "stream": {
                     "id": "465718298986688512",
-                    "historyId": "902457688221310976",
+                    "historyId": "965868456278769664",
                     "channelId": "465718298982494208",
                     "accountId": "429369769246859264",
-                    "title": "Another Stream",
+                    "title": "BIRTHDAY STREAM",
                     "status": 1,
                     "viewerCount": 5,
-                    "version": 2524,
+                    "version": 2562,
                     "createdAt": 1672530255000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1776661757000,
-                    "startedAt": 1776657039000,
+                    "lastFetchedAt": 1791775408000,
+                    "startedAt": 1791775344000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:42Z"
+        "fetchedAt": "2026-10-26T15:00:31Z"
     },
     "twitter": {
         "mikki_kitta": {
-            "id": "1503513701386801157",
+            "id": null,
             "handle": "mikki_kitta",
-            "displayName": "Mikki Kitta|| Sporadic Streaming Arc",
-            "description": "Akita Priestess| lvl.28 she/her✨💦| 💍: @ReizaSai @lelaniueki @littlefoxxy3 @bunbunparadice | MINORS DNI —ママ: @Cyniquillart | PFP: @chaakkun",
+            "displayName": "Mikki Kitta 💋",
+            "description": "Akita Priestess| lvl.29 she/her✨💦| 💍: @ReizaSai @lelaniueki @littlefoxxy3 @bunbunparadice | MINORS DNI —ママ: @Cyniquillart | PFP: @chaakkun",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2061467183260065792/INfSZnoF_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1503513701386801157/1780327062/1500x500",
-            "followersCount": 5400,
-            "followingCount": 1230,
-            "postsCount": 20521,
-            "accountCreatedAt": "2022-03-14T23:29:59.894Z",
-            "profileUrl": "https://x.com/Mikki_Kitta",
-            "fetchedAt": "2026-08-19T16:23:28Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mikki_kitta",
+            "fetchedAt": "2026-10-26T14:30:06Z"
         }
     }
 }

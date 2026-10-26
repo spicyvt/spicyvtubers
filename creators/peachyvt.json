@@ -5,11 +5,11 @@
         "login": "peachyvt",
         "displayName": "PeachyVT",
         "createdAt": "2024-05-01T04:17:45.557143Z",
-        "updatedAt": "2026-04-19T02:32:44.329958Z",
+        "updatedAt": "2026-09-01T05:44:23.572707Z",
         "description": "Feelin' just peachy  ❤️🍑❤️🥧❤️",
         "primaryColorHex": "FF8280",
         "followers": {
-            "totalCount": 197
+            "totalCount": 200
         },
         "follows": {
             "totalCount": 40
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a81161de-fe9d-4a82-ae8b-f35055fbc33d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a9b452cb-ce73-4db8-b8de-e3da3e26c860-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:51:56Z"
+        "fetchedAt": "2026-10-26T13:53:22Z"
     },
     "fansly": {
         "id": "381009636821573632",
         "username": "PeachyVT",
         "displayName": "PeachyVT",
         "version": 12,
-        "followCount": 440,
+        "followCount": 449,
         "statusId": 1,
-        "accountMediaLikes": 67,
-        "postLikes": 69,
+        "accountMediaLikes": 74,
+        "postLikes": 70,
         "about": "Hoi! I’m Peachy!\n\nFind all my links here: https://linktr.ee/peachyvt",
         "location": "United States",
         "streaming": {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:15Z"
+        "fetchedAt": "2026-10-26T15:01:04Z"
     },
     "twitter": {
         "peachypiemimi": {
-            "id": "1786351934594564097",
+            "id": null,
             "handle": "peachypiemimi",
             "displayName": "Peachy",
-            "description": "Vtuber - Weirdo - Dingus | ½ sarcasm, ½ snark, ↉ Mountain Dew Baha Blast, ⅐ virtual hair dye, ¹⁰⁰∕₆₉ failed math. I promise I'm a good person ❤️🍑❤️🥧❤️🍑❤️",
+            "description": "Vtuber - Weirdo - Dingus | ½ sarcasm, ½ snark, ↉ Mountain Dew Baha Blast, ⅐ virtual hair dye, ¹⁰⁰∕₆₉ failed math. I promise I&#x27;m a good person ❤️🍑❤️🥧❤️🍑❤️",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1792860012177498112/ZYDxwVsY_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1786351934594564097/1714736100/1500x500",
-            "followersCount": 122,
-            "followingCount": 64,
-            "postsCount": 28,
-            "accountCreatedAt": "2024-05-03T11:08:01.934Z",
-            "profileUrl": "https://x.com/PeachyPieMimi",
-            "fetchedAt": "2026-08-19T16:29:57Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/peachypiemimi",
+            "fetchedAt": "2026-10-26T14:37:18Z"
         }
     }
 }

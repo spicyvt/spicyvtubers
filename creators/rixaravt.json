@@ -5,25 +5,25 @@
         "login": "rixaravt",
         "displayName": "RixaraVT",
         "createdAt": "2017-05-13T23:11:23.486548Z",
-        "updatedAt": "2026-08-18T22:04:14.236386Z",
+        "updatedAt": "2026-10-25T21:35:51.798658Z",
         "description": "🟢 SYSTEM STATUS: RIXARA.EXE (RUNNING BARELY). Feral cybernetic mechanic & arcade gremlin lurking the Dumpster Dome. I build high-tech trash out of scrap metal, blast jungle breakbeats, and break physics engines with my massive wrench. Welcome to the sandbox, pull some wires. 🔧 Pit Crew Chief",
         "primaryColorHex": "307FB4",
         "followers": {
-            "totalCount": 9174
+            "totalCount": 9340
         },
         "follows": {
-            "totalCount": 213
+            "totalCount": 223
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T01:53:56.984426Z"
+            "startedAt": "2026-10-26T01:08:12.514097Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8674a376-fdc9-4ad4-9fb3-864116461cc9-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ab8fee9-23f4-4b19-b00b-6c41eb5bd799-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:36:45Z"
+        "fetchedAt": "2026-10-26T13:38:14Z"
     },
     "fansly": {
         "id": "460894853480329216",
@@ -32,7 +32,7 @@
         "version": 5,
         "followCount": 422,
         "statusId": 1,
-        "accountMediaLikes": 1928,
+        "accountMediaLikes": 1929,
         "postLikes": 1752,
         "about": "I'm YoruVexa, a tomboy wolf-girl merc for hire in charge of the Okami Brigade! So let's get out there and cause some chaos",
         "location": "",
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:44:52Z"
+        "fetchedAt": "2026-10-26T14:58:42Z"
     },
     "twitter": {
         "rixaravt": {
-            "id": "885454826167029760",
+            "id": null,
             "handle": "rixaravt",
             "displayName": "Rixara 🔧 Cyber Gremlin",
-            "description": "Chief Engineer at the Dumpster Dome. Part-time mechanic! New Twitter account: https://t.co/R60ws5GSkh\n#RixaraArt",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2078504753940586496/Jytl9QvH_400x400.jpg",
+            "description": "Chief Engineer at the Dumpster Dome. Part-time mechanic, full-time screen hazard. Yelling at video games until something smokes. Zero polish allowed.\n#RixaraArt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2091158098492715008/4h6fVBKf_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/885454826167029760/1783003238/1500x500",
-            "followersCount": 24646,
-            "followingCount": 259,
-            "postsCount": 36757,
-            "accountCreatedAt": "2017-07-13T11:04:16.332Z",
-            "profileUrl": "https://x.com/RixaraVT",
-            "fetchedAt": "2026-08-19T16:04:20Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/rixaravt",
+            "fetchedAt": "2026-10-26T14:09:45Z"
         }
     }
 }

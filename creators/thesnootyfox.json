@@ -5,35 +5,35 @@
         "login": "thesnootyfox",
         "displayName": "TheSnootyFox",
         "createdAt": "2018-01-05T22:10:37.001583Z",
-        "updatedAt": "2026-08-16T23:03:53.867431Z",
+        "updatedAt": "2026-10-25T21:06:53.161729Z",
         "description": "Check out my details below! Business inquiries can be directed to mckenziealexsl@gmail.com.",
         "primaryColorHex": "FF38DB",
         "followers": {
-            "totalCount": 19531
+            "totalCount": 20337
         },
         "follows": {
-            "totalCount": 23
+            "totalCount": 25
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T01:21:32.902187Z"
+            "startedAt": "2026-10-26T01:04:58.762815Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9298b3d-3916-4e2d-9946-d0f0c55dff74-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3988e868-faa3-4dd7-949c-4cdc8fbf3330-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:54:42Z"
+        "fetchedAt": "2026-10-26T13:56:10Z"
     },
     "fansly": {
         "id": "668722083252936704",
         "username": "McKenzieAlex",
         "displayName": "McKenzie Alex",
         "version": 4,
-        "followCount": 2534,
+        "followCount": 2680,
         "statusId": 1,
-        "accountMediaLikes": 4057,
-        "postLikes": 5109,
+        "accountMediaLikes": 4344,
+        "postLikes": 5328,
         "about": "Femdom/Findom 2DFD Audio ASMR Creator - Listen & Submit, Obey & Pay",
         "location": "",
         "streaming": {
@@ -94,22 +94,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:32Z"
+        "fetchedAt": "2026-10-26T15:01:21Z"
     },
     "twitter": {
         "thesnootyfoxttv": {
-            "id": "1847367960194912256",
+            "id": null,
             "handle": "thesnootyfoxttv",
             "displayName": "💞 TheSnootyFox 💞 VTuber ASMR GamerGirlFailure 💞",
-            "description": "ASMR Vtuber Mommy!  Audio Content Creator & Variety Streamer.\nModel 🎨& Rig- YoshinoArt\nPFP Moonettecheng, Banner MiYokoart",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2078461776199397376/drNS5AJd_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1847367960194912256/1784378878/1500x500",
-            "followersCount": 1397,
-            "followingCount": 207,
-            "postsCount": 872,
-            "accountCreatedAt": "2024-10-18T20:03:51.875Z",
-            "profileUrl": "https://x.com/TheSnootyFoxTTV",
-            "fetchedAt": "2026-08-19T16:34:28Z"
+            "description": "ASMR Vtuber Mommy!  Audio Content Creator &amp; Variety Streamer.\nModel 🎨&amp; Rig- YoshinoArt\nPFP LemonzestZy, Banner Moonettecheng",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2102409345984020480/vSAiyUh5_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1847367960194912256/1790099464/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/thesnootyfoxttv",
+            "fetchedAt": "2026-10-26T14:42:00Z"
         },
         "thesnootyfoxxx": {
             "id": null,
@@ -121,9 +121,9 @@
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
-            "accountCreatedAt": "2022-08-04T05:00:43.146Z",
-            "profileUrl": "https://x.com/TheSnootyFoxXx",
-            "fetchedAt": "2026-08-19T16:34:26Z"
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/thesnootyfoxxx",
+            "fetchedAt": "2026-10-26T14:41:58Z"
         }
     },
     "rplay": {
@@ -147,6 +147,6 @@
         "customUrl": null,
         "channelImage": "https://pb2.rplay.live/pics/f4b930dfd646b766424df06a80575ad7",
         "streamStartTime": null,
-        "fetchedAt": "2026-08-19T16:50:16Z"
+        "fetchedAt": "2026-10-26T15:04:18Z"
     }
 }

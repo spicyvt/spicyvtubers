@@ -5,35 +5,35 @@
         "login": "artsyvrc",
         "displayName": "ArtsyVRC",
         "createdAt": "2018-01-02T18:49:34.960495Z",
-        "updatedAt": "2026-07-23T21:51:53.277633Z",
+        "updatedAt": "2026-10-07T23:45:02.935182Z",
         "description": "awooga",
         "primaryColorHex": "241518",
         "followers": {
-            "totalCount": 103809
+            "totalCount": 103525
         },
         "follows": {
-            "totalCount": 477
+            "totalCount": 478
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-23T22:08:43.374201Z"
+            "startedAt": "2026-10-08T01:21:19.485051Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56339497-b6e9-4491-b383-4d94f8671dfc-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/65de9abf-51fd-4807-92d7-201717292819-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:41:19Z"
+        "fetchedAt": "2026-10-26T13:42:52Z"
     },
     "fansly": {
         "id": "303018312592273408",
         "username": "ArtsyVRC",
         "displayName": "Artsy",
         "version": 10,
-        "followCount": 66126,
+        "followCount": 66851,
         "statusId": 1,
-        "accountMediaLikes": 40877,
-        "postLikes": 64703,
+        "accountMediaLikes": 41381,
+        "postLikes": 65145,
         "about": "This is my hobby, I enjoy being a slut in practice~\n\nMost content is free but you can sub for nudity posts 🤍",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WSJGhTEqlca7.m3u8",
                 "chatRoomId": "438120470336774144",
                 "status": 2,
-                "version": 22,
+                "version": 24,
                 "createdAt": 1665950404000,
                 "updatedAt": null,
                 "stream": {
                     "id": "438120405421535234",
-                    "historyId": "938971328218685440",
+                    "historyId": "970876049577504768",
                     "channelId": "438120405421535233",
                     "accountId": "303018312592273408",
-                    "title": "Alien Booba~ ",
+                    "title": "MODEL REVEAL",
                     "status": 1,
-                    "viewerCount": 355,
-                    "version": 5359,
+                    "viewerCount": 629,
+                    "version": 5363,
                     "createdAt": 1665950405000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785374741000,
-                    "startedAt": 1785362569000,
+                    "lastFetchedAt": 1792975603000,
+                    "startedAt": 1792969248000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:41Z"
+        "fetchedAt": "2026-10-26T14:59:31Z"
     },
     "twitter": {
         "artsyvrc": {
-            "id": "973308945094905856",
+            "id": null,
             "handle": "artsyvrc",
             "displayName": "ArtsyVRC",
-            "description": "A mysterious femboy VTuber 💜\n\nI make characters~\n\nArt: #fanartsy #lewdsy \nSocials: https://t.co/vOKFzx0MXB",
+            "description": "A mysterious femboy VTuber 💜\n\nI REALLY like making characters!\n\nArt: #fanartsy #lewdsy \nSocials: https://t.co/vOKFzx0f83",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2066325982999388160/MqWcAh_F_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/973308945094905856/1780882569/1500x500",
-            "followersCount": 130754,
-            "followingCount": 1953,
-            "postsCount": 5795,
-            "accountCreatedAt": "2018-03-12T21:25:10.533Z",
-            "profileUrl": "https://x.com/ArtsyVRC",
-            "fetchedAt": "2026-08-19T16:12:58Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/artsyvrc",
+            "fetchedAt": "2026-10-26T14:19:05Z"
         }
     }
 }

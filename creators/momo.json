@@ -5,35 +5,35 @@
         "login": "momo",
         "displayName": "Momo",
         "createdAt": "2012-12-29T11:11:33.71953Z",
-        "updatedAt": "2026-08-17T00:24:01.099503Z",
+        "updatedAt": "2026-10-23T22:06:21.193826Z",
         "description": "Just a space cat here to bring good vibes and wholesome platonic lewdity.",
         "primaryColorHex": "56E8B7",
         "followers": {
-            "totalCount": 272125
+            "totalCount": 271105
         },
         "follows": {
-            "totalCount": 849
+            "totalCount": 853
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T07:23:31.97957Z"
+            "startedAt": "2026-10-24T03:33:48.054279Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7b90aef-f93a-4bb1-bbb3-e7c7cb67fc4f-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0feb55c3-8a1c-4b0d-b797-5d906a32add2-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:42:52Z"
+        "fetchedAt": "2026-10-26T13:44:19Z"
     },
     "fansly": {
         "id": "460025833382223872",
         "username": "MomoNoods",
         "displayName": "Momo",
         "version": 3,
-        "followCount": 6269,
+        "followCount": 6882,
         "statusId": 3,
-        "accountMediaLikes": 2003,
-        "postLikes": 2612,
+        "accountMediaLikes": 3324,
+        "postLikes": 3754,
         "about": "Just a spaced out cat that likes to play.\nExpect photo and video updates of my fun silly little life in space.",
         "location": "",
         "streaming": {
@@ -41,36 +41,36 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:58Z"
+        "fetchedAt": "2026-10-26T14:59:42Z"
     },
     "twitter": {
         "momomischief": {
-            "id": "3285354997",
+            "id": null,
             "handle": "momomischief",
             "displayName": "Momo 👽",
             "description": "Alien VTuber\nART TAGS: #MomoArts -🔞#MomoNoods\nROGUE ENERGY CODE: MOMO  \n2D ART:@yuniiho ~ 2D RIG:@2wintails ~ 3D:@Shonzo_  \nLINKS: https://t.co/RkJdSjLKVb",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2026211969280225280/FYFtFof4_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3285354997/1771921350/1500x500",
-            "followersCount": 97485,
-            "followingCount": 1050,
-            "postsCount": 6272,
-            "accountCreatedAt": "2015-07-20T12:01:03.764Z",
-            "profileUrl": "https://x.com/MomoMischief",
-            "fetchedAt": "2026-08-19T16:15:30Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/momomischief",
+            "fetchedAt": "2026-10-26T14:21:41Z"
         },
         "momonoods": {
-            "id": "1619257386413293568",
+            "id": null,
             "handle": "momonoods",
             "displayName": "Momo",
-            "description": "NSFW Account for @MomoMischief\nJust a spaced out cat that likes to play.\nArt Tags: 🔞#MomoNoods & #MomoArts",
+            "description": "NSFW Account for @MomoMischief\nJust a spaced out cat that likes to play.\nArt Tags: 🔞#MomoNoods &amp; #MomoArts",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1619258155011121158/uD6A0Q5T_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1619257386413293568/1677830953/1500x500",
-            "followersCount": 5696,
-            "followingCount": 1,
-            "postsCount": 53,
-            "accountCreatedAt": "2023-01-28T08:54:32.941Z",
-            "profileUrl": "https://x.com/MomoNoods",
-            "fetchedAt": "2026-08-19T16:15:32Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/momonoods",
+            "fetchedAt": "2026-10-26T14:21:42Z"
         }
     }
 }

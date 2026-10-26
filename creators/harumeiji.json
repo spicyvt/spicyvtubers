@@ -5,11 +5,11 @@
         "login": "harumeiji",
         "displayName": "harumeiji",
         "createdAt": "2020-05-12T00:28:55.272995Z",
-        "updatedAt": "2026-08-01T21:11:58.594555Z",
+        "updatedAt": "2026-10-16T02:17:38.073065Z",
         "description": "just some demon who plays a variety of video games",
         "primaryColorHex": "000000",
         "followers": {
-            "totalCount": 2641
+            "totalCount": 2632
         },
         "follows": {
             "totalCount": 44
@@ -23,17 +23,17 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56d05b57-de0a-4d56-8387-f07b75154890-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2eae1697-ac9b-418a-b3b1-bb37a9d39441-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:43:38Z"
+        "fetchedAt": "2026-10-26T13:45:02Z"
     },
     "fansly": {
         "id": "300349650299269120",
         "username": "harumeiji",
         "displayName": null,
         "version": 4,
-        "followCount": 277,
+        "followCount": 315,
         "statusId": 1,
-        "accountMediaLikes": 87,
-        "postLikes": 185,
+        "accountMediaLikes": 100,
+        "postLikes": 209,
         "about": "ASMRtist and silly lil lewd voice actress vtuber ",
         "location": "in your pants",
         "streaming": {
@@ -41,36 +41,36 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:03Z"
+        "fetchedAt": "2026-10-26T14:59:53Z"
     },
     "twitter": {
         "harumeiji": {
-            "id": "426416110",
+            "id": null,
             "handle": "harumeiji",
             "displayName": "🍒 Harumei | VA\\VTuber",
             "description": "Spicy Succubus Alchemist vTuber | VA | ♦️ art tag #haruillust ♦️ https://t.co/t3Z45bpDTO",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1706982360514957312/zl1Ix1Ay_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/426416110/1639048550/1500x500",
-            "followersCount": 3394,
-            "followingCount": 589,
-            "postsCount": 20144,
-            "accountCreatedAt": "2011-12-02T06:30:58.000Z",
-            "profileUrl": "https://x.com/Harumeiji",
-            "fetchedAt": "2026-08-19T16:16:37Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/harumeiji",
+            "fetchedAt": "2026-10-26T14:22:48Z"
         },
         "eroharumeiji": {
-            "id": "1159347993922945025",
+            "id": null,
             "handle": "eroharumeiji",
             "displayName": "🔞 EroHarumeiji | VA\\VTuber",
             "description": "Tomboy voice actress/vtuber/editor | SFW: @harumeiji",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2073796505937313792/w7mCNSRB_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1159347993922945025/1691167487/1500x500",
-            "followersCount": 13083,
-            "followingCount": 410,
-            "postsCount": 3223,
-            "accountCreatedAt": "2019-08-08T06:17:56.178Z",
-            "profileUrl": "https://x.com/EroHarumeiji",
-            "fetchedAt": "2026-08-19T16:16:35Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/eroharumeiji",
+            "fetchedAt": "2026-10-26T14:22:46Z"
         }
     }
 }

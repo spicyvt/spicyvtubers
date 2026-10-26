@@ -5,35 +5,35 @@
         "login": "hhoneycombb",
         "displayName": "hhoneycombb",
         "createdAt": "2021-02-16T22:40:24.462558Z",
-        "updatedAt": "2026-08-17T02:21:21.333779Z",
+        "updatedAt": "2026-10-26T01:10:50.656363Z",
         "description": "Hiii, I'm Honey! I play Overwatch 2, Valorant, Minecraft, and Stardew! ",
         "primaryColorHex": "FFD37A",
         "followers": {
-            "totalCount": 575
+            "totalCount": 573
         },
         "follows": {
-            "totalCount": 433
+            "totalCount": 437
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-16T23:23:25.979967Z"
+            "startedAt": "2026-10-23T21:46:16.630421Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b89b68c4-523a-400a-8f7a-3be05a439247-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1bc39b7b-705c-4ac3-8b80-0339f3368d7d-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:55:32Z"
+        "fetchedAt": "2026-10-26T13:57:00Z"
     },
     "fansly": {
         "id": "790677009146585088",
         "username": "hhoneycombb",
         "displayName": null,
         "version": 2,
-        "followCount": 126,
+        "followCount": 141,
         "statusId": 1,
-        "accountMediaLikes": 140,
-        "postLikes": 116,
+        "accountMediaLikes": 176,
+        "postLikes": 125,
         "about": "I'm just a bee ;3",
         "location": "",
         "streaming": {
@@ -69,36 +69,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:37Z"
+        "fetchedAt": "2026-10-26T15:01:27Z"
     },
     "twitter": {
         "hhoney_combb": {
-            "id": "1251727922341257218",
+            "id": null,
             "handle": "hhoney_combb",
             "displayName": "hhoneycombb 【Vtuber】",
             "description": "Just a little bee offering you some sweet treats ☆☆ Twitch Streamer/Content Creator ☆☆ Art Tag; #CombbColors Oshi Marks; 💛🐝 https://t.co/gj0grvlhWJ",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1995024904379400192/JIihPcCO_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1251727922341257218/1719893703/1500x500",
-            "followersCount": 377,
-            "followingCount": 488,
-            "postsCount": 2298,
-            "accountCreatedAt": "2020-04-19T04:22:58.341Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/hhoney_combb",
-            "fetchedAt": "2026-08-19T16:35:52Z"
+            "fetchedAt": "2026-10-26T14:43:26Z"
         },
         "drippinhhoney": {
-            "id": "1901261259225309184",
+            "id": null,
             "handle": "drippinhhoney",
             "displayName": "Honey",
             "description": "Honey’s silly acc! 🔞🐝 MINORS DNI |",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1991030106148528128/pu9oWkVl_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1901261259225309184/1742131270/1500x500",
-            "followersCount": 104,
-            "followingCount": 163,
-            "postsCount": 1894,
-            "accountCreatedAt": "2025-03-16T13:16:43.641Z",
-            "profileUrl": "https://x.com/DrippinHhoney",
-            "fetchedAt": "2026-08-19T16:35:54Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/drippinhhoney",
+            "fetchedAt": "2026-10-26T14:43:28Z"
         }
     }
 }

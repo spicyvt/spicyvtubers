@@ -5,35 +5,35 @@
         "login": "crescere_",
         "displayName": "Crescere_",
         "createdAt": "2014-04-24T00:12:57.720462Z",
-        "updatedAt": "2026-08-12T19:51:48.283547Z",
+        "updatedAt": "2026-10-20T01:15:42.178381Z",
         "description": "Hey, I'm Cres. The glitchiest b***h on Twitch. I watched the matrix one time and decided to make it my entire personality. Follow the white rabbit (me). 🟆 Streams Mon - Fri @ 7pm EST 🟆 Business inquiries & collab requests: crescxre@gmail.com",
         "primaryColorHex": "00F0F0",
         "followers": {
-            "totalCount": 1904
+            "totalCount": 1953
         },
         "follows": {
-            "totalCount": 260
+            "totalCount": 268
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-11T23:57:11.786706Z"
+            "startedAt": "2026-10-20T06:50:51.354586Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/434f7302-10d6-4f39-bffd-563bf82982ea-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52ddb3d3-6dc6-4122-ac0c-4769328e609b-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:57:03Z"
+        "fetchedAt": "2026-10-26T13:58:32Z"
     },
     "fansly": {
         "id": "854312386893471745",
         "username": "Crescere_",
         "displayName": null,
         "version": 4,
-        "followCount": 272,
+        "followCount": 311,
         "statusId": 1,
-        "accountMediaLikes": 253,
-        "postLikes": 313,
+        "accountMediaLikes": 267,
+        "postLikes": 343,
         "about": "𝖙𝖗𝖆𝖓𝖘 𝖌𝖔𝖔𝖓𝖊𝖗\nSpoil me ✦ https://throne.com/crescere ✦\nStreams every Wednesday at 8pm EST\n\n─── ✦ ───\n↪ Twitch: https://twitch.tv/_crescere\n↪ Youtube: https://youtube.com/@crescere\n↪ Twitter: https://x.com/crescxre\n↪ Everything: https://linktr.ee/crescxre",
         "location": "Goon Cave",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.sGsW9q6W7hpR.m3u8",
                 "chatRoomId": "885736439751389184",
                 "status": 2,
-                "version": 5,
+                "version": 7,
                 "createdAt": 1772669885000,
                 "updatedAt": null,
                 "stream": {
                     "id": "885734351109644289",
-                    "historyId": "944074262082240512",
+                    "historyId": "951686220985954312",
                     "channelId": "885734351109644288",
                     "accountId": "854312386893471745",
-                    "title": "Dark Souls 3 Lovense Challenge Run",
+                    "title": "[Shock Collar] Washing Dragon Cocks",
                     "status": 1,
-                    "viewerCount": 5,
-                    "version": 48,
+                    "viewerCount": 4,
+                    "version": 54,
                     "createdAt": 1772669885000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786590404000,
-                    "startedAt": 1786579204000,
+                    "lastFetchedAt": 1790812526000,
+                    "startedAt": 1788394036000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:54Z"
+        "fetchedAt": "2026-10-26T15:01:43Z"
     },
     "twitter": {
         "crescxre": {
-            "id": "1832694345579036673",
+            "id": null,
             "handle": "crescxre",
             "displayName": "Crescere ✦",
             "description": "The glitchiest b*tch on Twitch. I watched the matrix one time and made it my entire personality | Art Tag: #CreSFW\nNSFW Account: @CresAfterDark",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2082910256917843968/3pGIbXp9_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1832694345579036673/1785439489/1500x500",
-            "followersCount": 673,
-            "followingCount": 331,
-            "postsCount": 721,
-            "accountCreatedAt": "2024-09-08T08:16:09.697Z",
-            "profileUrl": "https://x.com/Crescxre",
-            "fetchedAt": "2026-08-19T16:38:31Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/crescxre",
+            "fetchedAt": "2026-10-26T14:46:08Z"
         },
         "cresafterdark": {
-            "id": "2080490989253447680",
+            "id": null,
             "handle": "cresafterdark",
             "displayName": "Crescere",
             "description": "NSFW Account\n@crescxre",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2080492034633441280/00d-cNzq_400x400.jpg",
             "bannerImageUrl": null,
-            "followersCount": 57,
-            "followingCount": 3,
-            "postsCount": 3,
-            "accountCreatedAt": "2026-07-24T03:12:07.236Z",
-            "profileUrl": "https://x.com/CresAfterDark",
-            "fetchedAt": "2026-08-19T16:38:33Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/cresafterdark",
+            "fetchedAt": "2026-10-26T14:46:10Z"
         }
     }
 }

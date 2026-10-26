@@ -1,36 +1,36 @@
 {
-    "bio": "Heya, Am BrandiBlitz! An Android Catgirl who's been stuck in this server for god knows how long! Nice to meet you~",
+    "bio": "Heya, Am BrandiBlitz! An Android Catgirl who's been stuck in this server for god knows how long! Nice to meet you~ㅤ || All characters are IP of BrandiBlitz™ Copyright 2026. Unauthorized AI use or reproduction may constitute infringement. ||",
     "twitch": {
         "id": "622370776",
         "login": "brandiblitz",
         "displayName": "BrandiBlitz",
         "createdAt": "2020-12-18T02:52:15.996857Z",
-        "updatedAt": "2026-08-15T21:31:22.589365Z",
-        "description": "Heya, Am BrandiBlitz! An Android Catgirl who's been stuck in this server for god knows how long! Nice to meet you~",
+        "updatedAt": "2026-10-24T20:20:37.876428Z",
+        "description": "Heya, Am BrandiBlitz! An Android Catgirl who's been stuck in this server for god knows how long! Nice to meet you~ㅤ || All characters are IP of BrandiBlitz™ Copyright 2026. Unauthorized AI use or reproduction may constitute infringement. ||",
         "primaryColorHex": "530000",
         "followers": {
-            "totalCount": 112
+            "totalCount": 119
         },
         "follows": {
-            "totalCount": 828
+            "totalCount": 848
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-05-17T00:08:52.833922Z"
+            "startedAt": "2026-10-23T22:32:54.828658Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/95102b3d-4c13-4ba1-bde7-0b42f903e191-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7010e0a4-7f0b-4c4c-9e87-75cbd00d15d4-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:50:36Z"
+        "fetchedAt": "2026-10-26T13:52:00Z"
     },
     "fansly": {
         "id": "586261573492809728",
         "username": "BrandiBlitz",
         "displayName": "Brandi Blitz",
         "version": 5,
-        "followCount": 27,
+        "followCount": 28,
         "statusId": 3,
         "accountMediaLikes": 2,
         "postLikes": 8,
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.FXDftOaPa3H7.m3u8",
                 "chatRoomId": "824179416849465344",
                 "status": 2,
-                "version": 141,
+                "version": 150,
                 "createdAt": 1757993899000,
                 "updatedAt": null,
                 "stream": {
                     "id": "824178805705822209",
-                    "historyId": "912173842615513088",
+                    "historyId": "970082029565669377",
                     "channelId": "824178805705822208",
                     "accountId": "586261573492809728",
-                    "title": "Art Practice #2 Part 6🖌️ | Art Stream!🎨",
+                    "title": "Can't STOP Playing This Soul Shattering Game! | Midnight Club 3🛞, etc.",
                     "status": 1,
                     "viewerCount": 0,
-                    "version": 274,
+                    "version": 294,
                     "createdAt": 1757993900000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1778976537000,
-                    "startedAt": 1778973551000,
+                    "lastFetchedAt": 1792794777000,
+                    "startedAt": 1792779939000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -110,22 +110,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:04Z"
+        "fetchedAt": "2026-10-26T15:00:54Z"
     },
     "twitter": {
         "brandiblitzvt": {
-            "id": "1328825286461444097",
+            "id": null,
             "handle": "brandiblitzvt",
-            "displayName": "BrandiBlitz ™⚡️HIATUS",
+            "displayName": "BrandiBlitz ™⚡️",
             "description": "🐱Android Catgirl Vtuber | Fanart Tag #BlitziesArt | All-Purpose Tag #BlitziesUnite | LIVE: ▶️🟪⚽️🫨🕹️💙🦋 | @Twitch Affiliate | ↘️All Links↘️",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2024511391873339392/ZFfdG-go_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1328825286461444097/1773542949/1500x500",
-            "followersCount": 179,
-            "followingCount": 2164,
-            "postsCount": 6204,
-            "accountCreatedAt": "2020-11-17T22:22:18.387Z",
-            "profileUrl": "https://x.com/BrandiBlitzVT",
-            "fetchedAt": "2026-08-19T16:28:13Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/brandiblitzvt",
+            "fetchedAt": "2026-10-26T14:35:30Z"
         }
     }
 }

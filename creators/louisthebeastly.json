@@ -5,32 +5,32 @@
         "login": "louisthebeastly",
         "displayName": "louisthebeastly",
         "createdAt": "2016-01-05T19:41:07.556095Z",
-        "updatedAt": "2026-08-19T01:10:50.747082Z",
+        "updatedAt": "2026-10-26T03:19:48.138399Z",
         "description": "Welcome to my channel! I am louisthebeastly and you are part of the beastlycrew so i hope yall enjoy it here!",
         "primaryColorHex": "8205B3",
         "followers": {
-            "totalCount": 1570
+            "totalCount": 1587
         },
         "follows": {
-            "totalCount": 1993
+            "totalCount": 1935
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T03:19:29.413502Z"
+            "startedAt": "2026-10-26T03:18:18.226536Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b4260e-ec21-43ca-8375-d8e824d70c84-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f86974c8-75a0-4712-aa81-4ba84cc8e0b9-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:45:28Z"
+        "fetchedAt": "2026-10-26T13:46:55Z"
     },
     "fansly": {
         "id": "285742125797089280",
         "username": "beastlylewds",
         "displayName": null,
         "version": 3,
-        "followCount": 491,
+        "followCount": 492,
         "statusId": 1,
         "accountMediaLikes": 939,
         "postLikes": 5666,
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:20Z"
+        "fetchedAt": "2026-10-26T15:00:09Z"
     },
     "twitter": {
         "louisthebeastly": {
-            "id": "3260892110",
+            "id": null,
             "handle": "louisthebeastly",
             "displayName": "louisthebeastly.vtubers.social",
-            "description": "MOVED TO BLUESKY 18+ ~PNG Mama: @MamaRoseMilky mascot: @corina_vizi",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1851971421452316672/GDFi6kQg_400x400.jpg",
+            "description": "on bluesky too 18+ ~PNG Mama: @MamaRoseMilky mascot: @corina_vizi",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2094243254979993600/xBaWaOFA_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/3260892110/1773972928/1500x500",
-            "followersCount": 866,
-            "followingCount": 5456,
-            "postsCount": 33589,
-            "accountCreatedAt": "2015-06-30T06:53:31.634Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/louisthebeastly",
-            "fetchedAt": "2026-08-19T16:19:47Z"
+            "fetchedAt": "2026-10-26T14:26:16Z"
         }
     }
 }

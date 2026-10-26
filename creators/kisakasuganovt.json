@@ -5,35 +5,35 @@
         "login": "kisakasuganovt",
         "displayName": "KisaKasuganoVT",
         "createdAt": "2022-02-13T04:57:52.598866Z",
-        "updatedAt": "2026-08-14T20:24:36.500072Z",
+        "updatedAt": "2026-10-22T22:11:42.695309Z",
         "description": "Hey there. Just a Vtuber playing games for your entertainment. Business Email: kisakasuganovt@gmail.com",
         "primaryColorHex": "A01916",
         "followers": {
-            "totalCount": 552
+            "totalCount": 583
         },
         "follows": {
-            "totalCount": 75
+            "totalCount": 77
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-14T22:54:26.443675Z"
+            "startedAt": "2026-10-23T00:06:43.755306Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f4879a-ce13-4af8-8a06-f01dd012ad24-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a960622-3b65-46a7-ade3-ca04a6bfd657-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:47:27Z"
+        "fetchedAt": "2026-10-26T13:48:54Z"
     },
     "fansly": {
         "id": "433330444847558656",
         "username": "KasuganoKisa",
         "displayName": "KisaKasuganoVT",
         "version": 5,
-        "followCount": 702,
+        "followCount": 795,
         "statusId": 3,
-        "accountMediaLikes": 463,
-        "postLikes": 641,
+        "accountMediaLikes": 585,
+        "postLikes": 794,
         "about": "Your virtual tomboy",
         "location": "",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "785452327266955265",
-                    "historyId": "945524301979725825",
+                    "historyId": "970543865264095233",
                     "channelId": "785452327266955264",
                     "accountId": "433330444847558656",
                     "title": "Tomboy shows you abs and more ",
                     "status": 1,
-                    "viewerCount": 14,
-                    "version": 158,
+                    "viewerCount": 17,
+                    "version": 180,
                     "createdAt": 1748760788000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786933323000,
-                    "startedAt": 1786924920000,
+                    "lastFetchedAt": 1792897308000,
+                    "startedAt": 1792890049000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,36 +69,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:42Z"
+        "fetchedAt": "2026-10-26T15:00:26Z"
     },
     "twitter": {
         "kasuganokisa": {
-            "id": "1400461962882928644",
+            "id": null,
             "handle": "kasuganokisa",
             "displayName": "Kisa Kasugano Vtuber",
             "description": "Your tan tomboy Vtuber. Banner made by @pote0508 🔞\n \n📧 kisakasuganovt@gmail.com\nArt: #KisaKart\nNSFW: @KisaKlewd\n\nPowered by @ADVANCEDgg",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1400462398251618305/ldiH0-73_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1400461962882928644/1654198573/1500x500",
-            "followersCount": 5253,
-            "followingCount": 299,
-            "postsCount": 5548,
-            "accountCreatedAt": "2021-06-03T14:39:04.687Z",
-            "profileUrl": "https://x.com/KasuganoKisa",
-            "fetchedAt": "2026-08-19T16:23:13Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kasuganokisa",
+            "fetchedAt": "2026-10-26T14:29:51Z"
         },
         "kisaklewd": {
-            "id": "1699585265373675520",
+            "id": null,
             "handle": "kisaklewd",
             "displayName": "Kisa Kasugano",
             "description": "@KasuganoKisa (follow, Like, RT on the main account.  #KisaKlewd | Spicy stuff: https://t.co/JshyExYeCE",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1859874128620060673/lBkvXgC1_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1699585265373675520/1694117861/1500x500",
-            "followersCount": 2127,
-            "followingCount": 238,
-            "postsCount": 1194,
-            "accountCreatedAt": "2023-09-07T00:48:13.561Z",
-            "profileUrl": "https://x.com/KisaKlewd",
-            "fetchedAt": "2026-08-19T16:23:15Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kisaklewd",
+            "fetchedAt": "2026-10-26T14:29:53Z"
         }
     }
 }

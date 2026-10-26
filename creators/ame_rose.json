@@ -5,11 +5,11 @@
         "login": "ame_rose",
         "displayName": "ame_rose",
         "createdAt": "2021-02-23T00:08:37.921696Z",
-        "updatedAt": "2026-08-13T05:43:11.558851Z",
+        "updatedAt": "2026-08-22T19:23:07.365147Z",
         "description": "Welcome! I'm Amethyst, mostly known as Ame, and I'm the shapeshifting crystal witch vtuber! come join my crystal coven, my gems~ 💜",
         "primaryColorHex": "430759",
         "followers": {
-            "totalCount": 2084
+            "totalCount": 2070
         },
         "follows": {
             "totalCount": 333
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-06-24T21:28:17.711064Z"
+            "startedAt": "2026-08-22T19:56:05.078323Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67674c03-af46-49d1-a0df-ca8bdabd2518-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90bb0be5-668d-4d5c-ae35-48b84b08a87a-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:39:10Z"
+        "fetchedAt": "2026-10-26T13:40:42Z"
     },
     "fansly": {
         "id": "852095796185686016",
         "username": "ame_rose",
         "displayName": "Ame Rose",
         "version": 3,
-        "followCount": 157,
+        "followCount": 164,
         "statusId": 3,
-        "accountMediaLikes": 234,
-        "postLikes": 254,
+        "accountMediaLikes": 240,
+        "postLikes": 271,
         "about": "Hiya! I'm Ame Rose the shapeshifting crystal witch vtuber, Here you can find all of my NSFW content and streams~",
         "location": "",
         "streaming": {
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:14Z"
+        "fetchedAt": "2026-10-26T14:59:04Z"
     },
     "twitter": {
         "ame_rose": {
-            "id": "1292574608533655552",
+            "id": null,
             "handle": "ame_rose",
             "displayName": "ame rose💜🔮",
             "description": "streamer, vtuber, fangirl, and foodie 💜🔮 • art tag #AmeRoseArt • member of @v_enchant",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2056940827746656256/glxOd6O1_400x400.jpg",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2105823467140526081/xL9iO32Q_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1292574608533655552/1753808098/1500x500",
-            "followersCount": 9285,
-            "followingCount": 1604,
-            "postsCount": 11723,
-            "accountCreatedAt": "2020-08-09T21:33:06.554Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/ame_rose",
-            "fetchedAt": "2026-08-19T16:09:06Z"
+            "fetchedAt": "2026-10-26T14:14:58Z"
         }
     }
 }

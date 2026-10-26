@@ -5,25 +5,25 @@
         "login": "miasova",
         "displayName": "MiaSova",
         "createdAt": "2021-08-30T19:05:25.918637Z",
-        "updatedAt": "2026-09-26T01:43:45.134309Z",
+        "updatedAt": "2026-10-20T23:23:19.591268Z",
         "description": "Snowy Owl Villainess trying to avoid doom. Trying to reform OvO | LoL | ASMR | Variety | I'm trying to be nice but I come out mean :^(",
         "primaryColorHex": "78BCF7",
         "followers": {
-            "totalCount": 25414
+            "totalCount": 25845
         },
         "follows": {
-            "totalCount": 429
+            "totalCount": 431
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-09-26T03:42:56.493306Z"
+            "startedAt": "2026-10-21T02:03:17.389745Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5aaacb8b-359b-4233-8596-7b98600ac2be-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2a3e1c2-9154-4fc7-aa2b-a3f6561c1c78-profile_banner-480.png",
-        "fetchedAt": "2026-09-26T20:57:07Z"
+        "fetchedAt": "2026-10-26T14:03:46Z"
     },
     "twitter": {
         "mia_sova": {
@@ -38,7 +38,7 @@
             "postsCount": null,
             "accountCreatedAt": null,
             "profileUrl": "https://x.com/mia_sova",
-            "fetchedAt": "2026-09-26T20:57:09Z"
+            "fetchedAt": "2026-10-26T14:54:55Z"
         }
     },
     "fansly": {
@@ -46,10 +46,10 @@
         "username": "MiaSova",
         "displayName": "Mia Sova",
         "version": 4,
-        "followCount": 2646,
+        "followCount": 2671,
         "statusId": 3,
-        "accountMediaLikes": 2126,
-        "postLikes": 4678,
+        "accountMediaLikes": 2180,
+        "postLikes": 4772,
         "about": "Snowy Owl Villainess\nASMR | VA | Cosplay\n\nI’m mean to undeserving bad guests. Prove to me you are a good guest and you might be rewarded. \n\nHere you will find Stream VODs or join Disgusting Dogs for  monthly IRL ASMR session, monthly audio, lewd art, and the opportunity to DM me.\n\nLive content is Nothing Explicit but maybe a little Suggestive \n\nI only answer subs. Tips make me notice you~\n\nPlease don’t redistribute paid and exclusive content. Clipping and highlighting VODs of Twitch streams is ok but please share it with me. Clipping of Fansly Streams is prohibited",
         "location": "Mia Manor",
         "streaming": {
@@ -69,12 +69,12 @@
                     "channelId": "700532020400369665",
                     "accountId": "567238616309309440",
                     "title": "comfy asmr and h anime with disgusting dogs later",
-                    "status": 2,
-                    "viewerCount": 25,
-                    "version": 425,
+                    "status": 1,
+                    "viewerCount": 29,
+                    "version": 426,
                     "createdAt": 1728514209000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1790456219000,
+                    "lastFetchedAt": 1790459041000,
                     "startedAt": 1790453261000,
                     "permissions": {
                         "permissionFlags": [
@@ -94,6 +94,6 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-09-26T20:57:10Z"
+        "fetchedAt": "2026-10-26T15:02:22Z"
     }
 }

@@ -5,35 +5,35 @@
         "login": "ayumints",
         "displayName": "Ayumints",
         "createdAt": "2015-04-21T01:33:31.874236Z",
-        "updatedAt": "2026-08-17T18:17:41.19427Z",
+        "updatedAt": "2026-09-02T18:28:39.901364Z",
         "description": "Hey! I'm Ayumin! I just stream whatever I feel like playing! :3",
         "primaryColorHex": "FF38DB",
         "followers": {
-            "totalCount": 3425
+            "totalCount": 3404
         },
         "follows": {
-            "totalCount": 454
+            "totalCount": 456
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T20:28:03.860723Z"
+            "startedAt": "2026-09-02T20:14:11.694692Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c54e80a-113b-4ad5-8469-97d98eab2a2a-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/decb03c7-9abb-4176-b094-3bc051d43924-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:42:05Z"
+        "fetchedAt": "2026-10-26T13:43:36Z"
     },
     "fansly": {
         "id": "465203498900795401",
         "username": "Poffertjes",
         "displayName": null,
         "version": 3,
-        "followCount": 547,
+        "followCount": 639,
         "statusId": 3,
-        "accountMediaLikes": 1347,
-        "postLikes": 847,
+        "accountMediaLikes": 2269,
+        "postLikes": 1075,
         "about": "I'm a danger to your sexuality! /ᐠ˵- ⩊ -˵マ\n\n🎀 please read me 🎀\ntrans girl ✧ yes I come with extra parts\n𝙔𝙀𝙎 I also show everything! 😋 But only if you send me a message funny enough to make me laugh and blush~ <33\n\n183cm :3\n\nusually a good girl… \nsometimes a needy little pet ♡ ⸜(｡˃ ᵕ ˂ )⸝♡ \n\nhttps://throne.com/poffertjes\n",
         "location": "at home :3",
         "streaming": {
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:47Z"
+        "fetchedAt": "2026-10-26T14:59:37Z"
     },
     "twitter": {
         "ayumintsvtuber": {
-            "id": "83150862",
+            "id": null,
             "handle": "ayumintsvtuber",
             "displayName": "💕 Ayumints 🌟",
             "description": "🇨🇭/🇰🇷 “@BakanukiMika’s cat~” dumb cat vtuber💕 Art: @pommette__ Rigging: @Katloumi Banner: @zumzumtm Art: #ayuillust",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1934516539157340160/Ih24van9_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/83150862/1634564443/1500x500",
-            "followersCount": 2244,
-            "followingCount": 1219,
-            "postsCount": 7874,
-            "accountCreatedAt": "2009-10-17T15:08:04.000Z",
-            "profileUrl": "https://x.com/AyumintsVtuber",
-            "fetchedAt": "2026-08-19T16:14:16Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ayumintsvtuber",
+            "fetchedAt": "2026-10-26T14:20:27Z"
         }
     }
 }

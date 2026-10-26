@@ -9,10 +9,10 @@
         "description": "☆ Allo! My name is Saky! ☆",
         "primaryColorHex": "6E0996",
         "followers": {
-            "totalCount": 107
+            "totalCount": 106
         },
         "follows": {
-            "totalCount": 241
+            "totalCount": 240
         },
         "roles": {
             "isPartner": false,
@@ -23,7 +23,7 @@
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0eafa79e-5c15-44da-aa22-e869cfd62ff4-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f98c6f8d-44c0-4afa-8c71-0552bef903af-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:45:16Z"
+        "fetchedAt": "2026-10-26T13:46:44Z"
     },
     "fansly": {
         "id": "462204385787654144",
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:20Z"
+        "fetchedAt": "2026-10-26T15:00:09Z"
     },
     "twitter": {
         "sakywolf_": {
-            "id": "1289383240084729856",
+            "id": null,
             "handle": "sakywolf_",
             "displayName": "Saky 😈🐺|🔞",
             "description": "♡  Succubus-Iberian wolf ♡\n♡ LEWDTUBER ♡\n\n♡ Artist ♡ Cosplayer ♡ Vtuber ♡\n\n♡Nsfw: @spicysakywolf\n\n♡ 18+ | EN/🇵🇹 ♡",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2004634160162340864/NYsp2qYH_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1289383240084729856/1765580237/1500x500",
-            "followersCount": 110,
-            "followingCount": 722,
-            "postsCount": 3390,
-            "accountCreatedAt": "2020-08-01T02:11:48.562Z",
-            "profileUrl": "https://x.com/SakyWolf_",
-            "fetchedAt": "2026-08-19T16:19:29Z"
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2111888055690788865/GtB03IlF_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1289383240084729856/1790876958/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sakywolf_",
+            "fetchedAt": "2026-10-26T14:25:56Z"
         }
     }
 }

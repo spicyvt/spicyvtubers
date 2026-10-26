@@ -5,37 +5,37 @@
         "login": "sivibird",
         "displayName": "sivibird",
         "createdAt": "2022-07-21T16:10:22.27278Z",
-        "updatedAt": "2026-08-18T03:08:58.535067Z",
+        "updatedAt": "2026-10-24T03:29:15.586211Z",
         "description": "am horny. am bird.",
         "primaryColorHex": "830000",
         "followers": {
-            "totalCount": 2605
+            "totalCount": 2700
         },
         "follows": {
-            "totalCount": 194
+            "totalCount": 195
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T06:00:34.352041Z"
+            "startedAt": "2026-10-24T05:31:00.682642Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cadbd68-07ca-4bfc-a808-fe5d81469ca5-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75286944-09ed-40a1-9cfe-7330e6f18653-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:43:08Z"
+        "fetchedAt": "2026-10-26T13:44:34Z"
     },
     "fansly": {
         "id": "485222432609677313",
         "username": "sivibird",
         "displayName": "Sivi",
         "version": 10,
-        "followCount": 30843,
+        "followCount": 34331,
         "statusId": 3,
-        "accountMediaLikes": 44574,
-        "postLikes": 54608,
-        "about": "Hi I'm Sivi, your favorite bratty girl failure who also happens to be a bird! I just like playing games while getting off and teasing chat :3c\n\nI stream here every Saturday night at around 11pm EST\nI’m most active on twitter and mainly stream on twitch\nLinks here: https://sivibird.carrd.co/\n\nYou have permission to jack off to me now 🖤",
-        "location": "Your walls",
+        "accountMediaLikes": 49243,
+        "postLikes": 59387,
+        "about": "Hi I'm Sivi, your bratty girl failure who also happens to be a bird! I just like playing games while getting off and teasing chat :3c\n\nI stream here every Saturday night at around 11pm EST\nI’m most active on twitter and mainly stream on twitch\nLinks here: https://sivibird.carrd.co/\n\nYou have permission to jack off to me now 🖤",
+        "location": "giving birth in the Batcave",
         "streaming": {
             "accountId": "485222432609677313",
             "channel": {
@@ -44,26 +44,26 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.igobKaAn9krE.m3u8",
                 "chatRoomId": "499654260108046336",
                 "status": 2,
-                "version": 44,
+                "version": 66,
                 "createdAt": 1680621203000,
                 "updatedAt": null,
                 "stream": {
                     "id": "499654197029904385",
-                    "historyId": "945222458938519552",
+                    "historyId": "970587431533309955",
                     "channelId": "499654197029904384",
                     "accountId": "485222432609677313",
-                    "title": "breedmebreedmebreedmebreedmebreedme",
+                    "title": "VR STREAM ˢᵒʳʳʸ ᶦⁿ ᵃᵈᵛᵃⁿᶜᵉ ᶠᵒʳ ᵗʰᵉ ˢᶜᵘᶠᶠ",
                     "status": 1,
-                    "viewerCount": 124,
-                    "version": 3135,
+                    "viewerCount": 193,
+                    "version": 3165,
                     "createdAt": 1680621204000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786863807000,
-                    "startedAt": 1786852955000,
+                    "lastFetchedAt": 1792914494000,
+                    "startedAt": 1792900436000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "940138429654507520",
+                                "id": "957899153336188928",
                                 "streamId": "499654197029904385",
                                 "type": 0,
                                 "flags": 2,
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:58Z"
+        "fetchedAt": "2026-10-26T14:59:48Z"
     },
     "twitter": {
         "sivibird": {
-            "id": "1541238244356067328",
+            "id": null,
             "handle": "sivibird",
             "displayName": "Sivi | Sparrow Vtuber",
             "description": "“Professional” Psychopomp | Brat | 🔞 | #ENVtuber #lewdtuber | ママ: @chimeracries @luneinriver | https://t.co/k7kzejVYrc | https://t.co/PwmTL9gTXp | sfw: @sivibrat",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2053574373555281920/lZC8l5Kn_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1541238244356067328/1774653793/1500x500",
-            "followersCount": 8544,
-            "followingCount": 2525,
-            "postsCount": 18134,
-            "accountCreatedAt": "2022-06-27T01:53:47.736Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/sivibird",
-            "fetchedAt": "2026-08-19T16:15:57Z"
+            "fetchedAt": "2026-10-26T14:22:07Z"
         }
     }
 }

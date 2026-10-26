@@ -5,35 +5,35 @@
         "login": "saintsakura",
         "displayName": "saintsakura",
         "createdAt": "2018-04-20T22:31:06.125879Z",
-        "updatedAt": "2026-08-17T04:45:47.332835Z",
+        "updatedAt": "2026-10-26T06:06:38.360636Z",
         "description": "I'm Sakura, the comfy, cozy, and cursed, catgirl  ❤ for business inquiries reach out to saintsakuraofficial@gmail.com",
         "primaryColorHex": "F7A3E9",
         "followers": {
-            "totalCount": 64195
+            "totalCount": 65717
         },
         "follows": {
-            "totalCount": 553
+            "totalCount": 567
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T05:03:32.373701Z"
+            "startedAt": "2026-10-19T01:14:18.167096Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a0f2114-12d8-4c5d-b887-140a30db6d94-profile_image-300x300.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ede983ea-b6d7-4fc0-b70e-14ed5b785e1a-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e78aca67-52cd-4b7f-b90c-5c5706033253-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:52:49Z"
+        "fetchedAt": "2026-10-26T13:54:16Z"
     },
     "fansly": {
         "id": "406202473171132416",
         "username": "saintsakura",
         "displayName": "saintsakura",
         "version": 7,
-        "followCount": 22431,
+        "followCount": 22795,
         "statusId": 1,
-        "accountMediaLikes": 17119,
-        "postLikes": 11192,
+        "accountMediaLikes": 17261,
+        "postLikes": 11233,
         "about": "✿ hi hiiii I'm sakura ✿\n\nWatch me on Twitch as well most days :3c starting at 9-10pm EST\nhttps://www.twitch.tv/saintsakura\n\n♡ I stream Fridays at 10pm EST  ♡ \n\n♡ sub for exclusive lewd pictures ♡  \n♡   MUST BE SUBBED TO DM  ♡   I'll gladly chat and talk to you if you're subbed :3\nhttps://throne.com/saintsuskura lewd throne here! ",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Um9BHthaNktQ.m3u8",
                 "chatRoomId": "648936398182686720",
                 "status": 2,
-                "version": 22,
+                "version": 24,
                 "createdAt": 1716212535000,
                 "updatedAt": null,
                 "stream": {
                     "id": "648935061873242113",
-                    "historyId": "944829778798604288",
+                    "historyId": "951722588944474121",
                     "channelId": "648935061873242112",
                     "accountId": "406202473171132416",
-                    "title": "Hello ~ it's been a while",
+                    "title": "meowmeowmeow",
                     "status": 1,
-                    "viewerCount": 368,
-                    "version": 8926,
+                    "viewerCount": 324,
+                    "version": 8928,
                     "createdAt": 1716212536000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786766909000,
-                    "startedAt": 1786759333000,
+                    "lastFetchedAt": 1788409415000,
+                    "startedAt": 1788402707000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:21Z"
+        "fetchedAt": "2026-10-26T15:01:10Z"
     },
     "twitter": {
         "saintsakura_": {
-            "id": "1462939630811103233",
+            "id": null,
             "handle": "saintsakura_",
             "displayName": "saintsakura 🌸🤍",
             "description": "VTUBER ♡ Live2d catgirl being assembled ˗ˋˏ ♡ ˎˊ˗ \nArt tag: #saintsakurart \nhttps://t.co/y91qQd2eNz\n📫: saintsakuraofficial@gmail.com\nyes! I have one ⤵⤵⤵",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1996659294750887941/v3e1DgLd_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1462939630811103233/1752133192/1500x500",
-            "followersCount": 13530,
-            "followingCount": 1244,
-            "postsCount": 3123,
-            "accountCreatedAt": "2021-11-23T00:22:48.048Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/saintsakura_",
-            "fetchedAt": "2026-08-19T16:31:20Z"
+            "fetchedAt": "2026-10-26T14:38:45Z"
         }
     }
 }

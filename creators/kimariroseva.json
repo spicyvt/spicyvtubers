@@ -5,11 +5,11 @@
         "login": "kimariroseva",
         "displayName": "kimariroseva",
         "createdAt": "2020-06-11T02:51:18.212335Z",
-        "updatedAt": "2026-08-19T00:57:23.040962Z",
+        "updatedAt": "2026-10-22T09:54:18.998172Z",
         "description": "Soft, intimate, playful ✧ 18+ writer // your favorite cheeky sub VA // Dreamweaver VTuber ✧ Streams on Tuesdays & Thursdays at 6 pm PST, with occasional weekend pop-up streams",
         "primaryColorHex": "000000",
         "followers": {
-            "totalCount": 1822
+            "totalCount": 1935
         },
         "follows": {
             "totalCount": 47
@@ -19,21 +19,21 @@
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T04:15:20.024085Z"
+            "startedAt": "2026-10-23T05:06:25.520281Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a4c7769-2e32-49bd-9034-fffb0fe5c0cf-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3aa0cbf6-ff19-4b43-9e66-af6d530abf18-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:41:45Z"
+        "fetchedAt": "2026-10-26T13:43:19Z"
     },
     "fansly": {
         "id": "831751369760202752",
         "username": "KimariRoseVA",
         "displayName": "KimariRoseVA",
         "version": 10,
-        "followCount": 71,
+        "followCount": 132,
         "statusId": 1,
-        "accountMediaLikes": 3,
-        "postLikes": 14,
+        "accountMediaLikes": 134,
+        "postLikes": 179,
         "about": "Intimate, playful, sleepy ✧ writer & editor // cheeky sub VA // Dreamweaver VTuber ",
         "location": "Your dreams... or nightmares",
         "streaming": {
@@ -41,36 +41,36 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:47Z"
+        "fetchedAt": "2026-10-26T14:59:31Z"
     },
     "twitter": {
         "kimariroseva": {
-            "id": "1941691667989540864",
+            "id": null,
             "handle": "kimariroseva",
             "displayName": "KimariRoseVA 🌙🥀",
-            "description": "Intimate, playful, sleepy ✧ writer & editor // cheeky sub VA // Dreamweaver VTuber ✧ https://t.co/NCenaPwoUj ✧ https://t.co/pk5z98ydkv",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2040156296641716224/Ouih5MSx_400x400.jpg",
+            "description": "Intimate, playful, sleepy ✧ writer &amp; editor // cheeky sub VA // Dreamweaver VTuber ✧ https://t.co/ANsI4Npnez ✧ https://t.co/pk5z98xFuX",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2106697361934401536/h889z_Sx_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1941691667989540864/1760483906/1500x500",
-            "followersCount": 13134,
-            "followingCount": 171,
-            "postsCount": 7484,
-            "accountCreatedAt": "2025-07-06T02:52:37.308Z",
-            "profileUrl": "https://x.com/KimariRoseVA",
-            "fetchedAt": "2026-08-19T16:13:44Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kimariroseva",
+            "fetchedAt": "2026-10-26T14:19:54Z"
         },
         "kimarithorne": {
-            "id": "1941693250554953731",
+            "id": null,
             "handle": "kimarithorne",
             "displayName": "KimariThorne",
             "description": "Every rose has its thorns. And this rose has many. Back-up/alt acct. VA/VTuber acct: @KimariRoseVA",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2044814861067276288/FH2Eu1Pb_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1941693250554953731/1776365917/1500x500",
-            "followersCount": 249,
-            "followingCount": 1,
-            "postsCount": 832,
-            "accountCreatedAt": "2025-07-06T02:59:16.778Z",
-            "profileUrl": "https://x.com/KimariThorne",
-            "fetchedAt": "2026-08-19T16:13:46Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kimarithorne",
+            "fetchedAt": "2026-10-26T14:19:55Z"
         }
     }
 }

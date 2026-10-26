@@ -5,35 +5,35 @@
         "login": "icefire",
         "displayName": "Icefire",
         "createdAt": "2020-11-13T03:19:25.459017Z",
-        "updatedAt": "2026-08-17T04:42:14.38834Z",
+        "updatedAt": "2026-10-19T13:48:03.562245Z",
         "description": "A blue and orange cat that keeps u warm and cold :3 I dance (Try to at least O///O) For business: icefire4080@gmail.com",
         "primaryColorHex": "04B6E8",
         "followers": {
-            "totalCount": 3086
+            "totalCount": 3251
         },
         "follows": {
-            "totalCount": 574
+            "totalCount": 576
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-20T16:11:22.487056Z"
+            "startedAt": "2026-10-19T16:09:01.546005Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/02ce0da2-e879-4cba-b974-7b561ca07e04-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ceba076-c3b6-4ae4-870f-73b213639ce7-profile_banner-480.jpeg",
-        "fetchedAt": "2026-08-19T15:50:06Z"
+        "fetchedAt": "2026-10-26T13:51:29Z"
     },
     "fansly": {
         "id": "400503568517312512",
         "username": "IcefireVR",
         "displayName": "IcefireVR",
-        "version": 6,
-        "followCount": 5092,
+        "version": 7,
+        "followCount": 5417,
         "statusId": 1,
-        "accountMediaLikes": 7723,
-        "postLikes": 5620,
+        "accountMediaLikes": 8241,
+        "postLikes": 6006,
         "about": "🧊 Hello I'm Icefire I post every single day and stream 2 times a week :3\n🔥Here to warm u up and cool you down <3\n🧊 Can support me by buying your lovense toys using my link https://www.lovense.com/r/kn76kc\n🔥 linktr.ee/icefirevr\n",
         "location": "VR as usual :3",
         "streaming": {
@@ -44,31 +44,31 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.44fEWRMW19m6.m3u8",
                 "chatRoomId": "663735262022475776",
                 "status": 2,
-                "version": 8,
+                "version": 16,
                 "createdAt": 1719719748000,
                 "updatedAt": null,
                 "stream": {
                     "id": "663645380293963777",
-                    "historyId": "946300344617426949",
+                    "historyId": "968013624826163200",
                     "channelId": "663645380293963776",
                     "accountId": "400503568517312512",
-                    "title": "Mihara Cosplay :3 !socials !lovense !tip",
+                    "title": "Priv Stream !socials !lovense !tip ",
                     "status": 1,
-                    "viewerCount": 49,
-                    "version": 4828,
+                    "viewerCount": 3,
+                    "version": 4868,
                     "createdAt": 1719719749000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1787113962000,
-                    "startedAt": 1787109943000,
+                    "lastFetchedAt": 1792289326000,
+                    "startedAt": 1792286793000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "724433806991302656",
+                                "id": "964066800788586497",
                                 "streamId": "663645380293963777",
                                 "type": 0,
-                                "flags": 2,
+                                "flags": 130,
                                 "price": 0,
-                                "metadata": ""
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"949169282393071617\\\",\\\"label\\\":\\\"Priv Stream\\\"}\"}"
                             }
                         ]
                     }
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:04Z"
+        "fetchedAt": "2026-10-26T15:00:54Z"
     },
     "twitter": {
         "icefire_vr": {
-            "id": "1497364097708478467",
+            "id": null,
             "handle": "icefire_vr",
             "displayName": "Icefire",
-            "description": "🔥Twitch Partner 🧊\n🧊Perfect Balance between Hot & Cold🔥\n🔞NSFW: @IcefireNSFW \n🎨Model: @CapriTsuki\n🖌️Art Tag: #IcefireArt",
+            "description": "🔥Twitch Partner 🧊\n🧊Perfect Balance between Hot &amp; Cold🔥\n🔞NSFW: @IcefireNSFW \n🎨Model: @CapriTsuki\n🖌️Art Tag: #IcefireArt",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2016011933527277568/gQlPVRuy_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1497364097708478467/1736916995/1500x500",
-            "followersCount": 4019,
-            "followingCount": 1136,
-            "postsCount": 626,
-            "accountCreatedAt": "2022-02-26T00:15:14.142Z",
-            "profileUrl": "https://x.com/Icefire_vr",
-            "fetchedAt": "2026-08-19T16:27:34Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/icefire_vr",
+            "fetchedAt": "2026-10-26T14:34:49Z"
         }
     }
 }

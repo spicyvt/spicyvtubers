@@ -5,35 +5,35 @@
         "login": "aurievermillionvt",
         "displayName": "aurievermillionvt",
         "createdAt": "2024-02-21T01:54:32.127635Z",
-        "updatedAt": "2026-08-14T03:59:11.655787Z",
+        "updatedAt": "2026-10-25T13:23:35.235217Z",
         "description": "Aspiring VtuberFull time idiot. I stream almost everyday at 10pm GMT+8",
         "primaryColorHex": "EB0400",
         "followers": {
-            "totalCount": 706
+            "totalCount": 735
         },
         "follows": {
-            "totalCount": 216
+            "totalCount": 222
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T13:59:57.989835Z"
+            "startedAt": "2026-10-26T12:00:34.997562Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/23f0ec81-aba1-46e2-93a6-2735f82418d6-profile_image-300x300.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b382b1d-19c4-4871-8578-67526d3a8279-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:43:44Z"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/98c0fc78-572a-4bf6-8334-e02d001416d0-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2fff483d-a6a3-46bc-8eee-5f8f7a917152-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T13:45:08Z"
     },
     "fansly": {
         "id": "879815126612467712",
         "username": "AurieVermillionVT",
         "displayName": "Aurie Vermillion",
         "version": 8,
-        "followCount": 230,
+        "followCount": 285,
         "statusId": 1,
-        "accountMediaLikes": 138,
-        "postLikes": 278,
+        "accountMediaLikes": 161,
+        "postLikes": 348,
         "about": "Your favorite cat teacher is finally here!",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.lAqJirYvMcBg.m3u8",
                 "chatRoomId": "918743349689589760",
                 "status": 2,
-                "version": 9,
+                "version": 11,
                 "createdAt": 1780539830000,
                 "updatedAt": null,
                 "stream": {
                     "id": "918743293481730049",
-                    "historyId": "938977381891198976",
+                    "historyId": "952953853437833216",
                     "channelId": "918743293481730048",
                     "accountId": "879815126612467712",
-                    "title": "Horny ZZZ and Yapping!!",
+                    "title": "VRC Slutting around!",
                     "status": 1,
-                    "viewerCount": 18,
-                    "version": 18,
+                    "viewerCount": 0,
+                    "version": 26,
                     "createdAt": 1780539830000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1785372254000,
-                    "startedAt": 1785364013000,
+                    "lastFetchedAt": 1788696320000,
+                    "startedAt": 1788696263000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:03Z"
+        "fetchedAt": "2026-10-26T14:59:53Z"
     },
     "twitter": {
         "arvermillion_vt": {
-            "id": "973560142116503553",
+            "id": null,
             "handle": "arvermillion_vt",
             "displayName": "Aurie VT 🐱 | ❤️🧡💜💙💛|",
-            "description": "-MDNI 🔞\n-Any/All\nBLM❤️🖤💚\nArt Mama: @jaehizah\nart: #ARtmillion\nlewd: #NaughtyAurie\n\nhttps://t.co/mWe6RApchd",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2031217276670849026/OfEH-XPA_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/973560142116503553/1775625594/1500x500",
-            "followersCount": 2608,
-            "followingCount": 2290,
-            "postsCount": 18079,
-            "accountCreatedAt": "2018-03-13T14:03:20.531Z",
-            "profileUrl": "https://x.com/ARVermillion_VT",
-            "fetchedAt": "2026-08-19T16:16:49Z"
+            "description": "-MDNI 🔞\n-Any/All\nBLM❤️🖤💚\nArt &amp; Model Mama: @suiika___\nart: #ARtmillion\nlewd: #NaughtyAurie\n\nhttps://t.co/mWe6RAoErF",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2111964815711473664/aC0dQe4g_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/973560142116503553/1792366626/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/arvermillion_vt",
+            "fetchedAt": "2026-10-26T14:23:01Z"
         }
     }
 }

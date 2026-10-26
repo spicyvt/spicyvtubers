@@ -5,35 +5,35 @@
         "login": "dogman_vr",
         "displayName": "Dogman_VR",
         "createdAt": "2018-02-28T02:17:28.314262Z",
-        "updatedAt": "2026-08-14T15:39:38.33458Z",
+        "updatedAt": "2026-10-19T16:03:32.336089Z",
         "description": "25 year old left turn enthusiast from the USA. VRChat streamer with a mix of random things.",
         "primaryColorHex": "FF0400",
         "followers": {
-            "totalCount": 1697
+            "totalCount": 1732
         },
         "follows": {
-            "totalCount": 284
+            "totalCount": 285
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-14T18:28:20.506225Z"
+            "startedAt": "2026-10-19T19:02:40.825018Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/60e9c1c3-b36e-4737-a4a0-16e1091ccf50-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd2ed582-0179-4867-acb7-f8b9b4062c7e-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:52:40Z"
+        "fetchedAt": "2026-10-26T13:54:06Z"
     },
     "fansly": {
         "id": "555912895817326592",
         "username": "Dogman_VR",
         "displayName": null,
         "version": 3,
-        "followCount": 1853,
+        "followCount": 1883,
         "statusId": 1,
-        "accountMediaLikes": 6397,
-        "postLikes": 6749,
+        "accountMediaLikes": 6719,
+        "postLikes": 6945,
         "about": "Dogman_Vr's Fansly account. Preggo content (and maybe some other things). ",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.lzqrIuib0OsR.m3u8",
                 "chatRoomId": "682305144330661890",
                 "status": 2,
-                "version": 213,
+                "version": 238,
                 "createdAt": 1724168502000,
                 "updatedAt": null,
                 "stream": {
                     "id": "682304807779704834",
-                    "historyId": "944757373354921985",
+                    "historyId": "969411329506947072",
                     "channelId": "682304807779704833",
                     "accountId": "555912895817326592",
-                    "title": "Drinking soda and rubbing my belly tonight !socials !tipmenu",
+                    "title": "Still not feeling the best but stream must go on !socials !tipmenu",
                     "status": 1,
-                    "viewerCount": 12,
-                    "version": 6028,
+                    "viewerCount": 5,
+                    "version": 6050,
                     "createdAt": 1724168503000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786747652000,
-                    "startedAt": 1786742070000,
+                    "lastFetchedAt": 1792626061000,
+                    "startedAt": 1792620031000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,36 +69,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:21Z"
+        "fetchedAt": "2026-10-26T15:01:10Z"
     },
     "twitter": {
         "dogman_vr": {
-            "id": "2199870888",
+            "id": null,
             "handle": "dogman_vr",
             "displayName": "Dogman 🇺🇸",
             "description": "26 year old from the US. Pepega. Professional man child. Twitch affiliate. Left turn enthusiast. Belly lover. Fantastalicious booty owner. Pfp by @zinnytf",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2047706422532620288/B8zlxbti_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2199870888/1760463732/1500x500",
-            "followersCount": 5515,
-            "followingCount": 828,
-            "postsCount": 9819,
-            "accountCreatedAt": "2013-11-17T17:14:21.632Z",
-            "profileUrl": "https://x.com/Dogman_VR",
-            "fetchedAt": "2026-08-19T16:31:07Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/dogman_vr",
+            "fetchedAt": "2026-10-26T14:38:30Z"
         },
         "dogmannsfw": {
-            "id": "1696982019559792640",
+            "id": null,
             "handle": "dogmannsfw",
             "displayName": "DogmanNSFW🔞",
             "description": "NSFW account for @Dogman_VR. Pfp by @sugarbombvr.",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1771986979095195648/0zaP3svt_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1696982019559792640/1757882135/1500x500",
-            "followersCount": 2470,
-            "followingCount": 269,
-            "postsCount": 2089,
-            "accountCreatedAt": "2023-08-30T20:23:56.469Z",
-            "profileUrl": "https://x.com/DogmanNSFW",
-            "fetchedAt": "2026-08-19T16:31:08Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/dogmannsfw",
+            "fetchedAt": "2026-10-26T14:38:31Z"
         }
     }
 }

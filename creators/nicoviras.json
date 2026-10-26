@@ -5,35 +5,35 @@
         "login": "nicoviras",
         "displayName": "nicoviras",
         "createdAt": "2023-03-28T23:54:04.961943Z",
-        "updatedAt": "2026-08-18T17:28:32.319691Z",
+        "updatedAt": "2026-10-26T01:27:41.495928Z",
         "description": "📡 Brat who streams every Thursday - Sunday @8pm ET 📺⚡🔞",
         "primaryColorHex": "794EB2",
         "followers": {
-            "totalCount": 5141
+            "totalCount": 5741
         },
         "follows": {
-            "totalCount": 330
+            "totalCount": 346
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-17T01:41:38.345341Z"
+            "startedAt": "2026-10-26T03:00:09.025376Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fe953f3-02ca-430d-8504-b0771dfe248c-profile_image-300x300.jpeg",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2659a959-7a58-4fdc-8a05-8fa66aec86b8-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:48:01Z"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb12f16a-8702-441f-b7f9-890e3df4e600-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84e7ed3b-db27-4c97-9158-796854fba5c6-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T13:49:30Z"
     },
     "fansly": {
         "id": "796085931747586048",
         "username": "nicoviras",
         "displayName": "Nico",
         "version": 4,
-        "followCount": 1759,
+        "followCount": 1934,
         "statusId": 1,
-        "accountMediaLikes": 535,
-        "postLikes": 455,
+        "accountMediaLikes": 637,
+        "postLikes": 513,
         "about": "Bratty SCP who likes to be bullied 🖤💦\n\n💾 content:\n🔹18+ art & animations \n🔹NSFW Gaming Streams\n\n\nLIVE ON TWITCH FRI, SAT, SUN @ 8PM ET\n",
         "location": "",
         "streaming": {
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:48Z"
+        "fetchedAt": "2026-10-26T15:00:37Z"
     },
     "twitter": {
         "nicoviras": {
-            "id": "1889044936906989568",
+            "id": null,
             "handle": "nicoviras",
-            "displayName": "Nico 📺⚡- 2.0 Model Arc",
-            "description": "SCP brat 💀💢\n\n@Twitch Partner | 🎨TAGS : #nicovirART NSFW: #nicoatnight \n\n1/3 of @broshisvt\n\n🔗 https://t.co/GE8pZrDiLf",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1971663440725872640/zF2GU7TG_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1889044936906989568/1774667026/1500x500",
-            "followersCount": 1377,
-            "followingCount": 703,
-            "postsCount": 3509,
-            "accountCreatedAt": "2025-02-10T20:13:15.277Z",
-            "profileUrl": "https://x.com/NicoViras",
-            "fetchedAt": "2026-08-19T16:24:19Z"
+            "displayName": "Nico 📺⚡",
+            "description": "SCP Girlfailure Brat💀💢 \n\n@Twitch Partner | 1/3 of @broshisvt |🎨TAGS : #nicovirART NSFW: #nicoatnight \n\n🔗https://t.co/H2Dzi3iNwa",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2113654227608170496/CdSajALu_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1889044936906989568/1792769413/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nicoviras",
+            "fetchedAt": "2026-10-26T14:31:01Z"
         }
     }
 }

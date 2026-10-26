@@ -5,35 +5,35 @@
         "login": "kanashi_noir",
         "displayName": "kanashi_noir",
         "createdAt": "2018-11-27T02:48:24.238322Z",
-        "updatedAt": "2026-08-19T07:58:31.814592Z",
+        "updatedAt": "2026-10-26T05:30:03.873998Z",
         "description": "Just a chill streamer who likes to have fun and hang out, I play all kinds of games... Even ones I’m not good at (basically most games), come and hang out!!!!",
         "primaryColorHex": "56042E",
         "followers": {
-            "totalCount": 7784
+            "totalCount": 8200
         },
         "follows": {
-            "totalCount": 461
+            "totalCount": 463
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T07:51:01.11387Z"
+            "startedAt": "2026-10-26T07:34:14.721951Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a494dd7b-d2c7-48ba-b311-74320158820d-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d667f16-b16a-4a19-8c1c-17f248b63460-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:44:45Z"
+        "fetchedAt": "2026-10-26T13:46:13Z"
     },
     "fansly": {
         "id": "331715274665373696",
         "username": "Kanashi_noir",
         "displayName": null,
         "version": 4,
-        "followCount": 2552,
+        "followCount": 2685,
         "statusId": 1,
-        "accountMediaLikes": 3655,
-        "postLikes": 2851,
+        "accountMediaLikes": 3851,
+        "postLikes": 2923,
         "about": "(content made in CVR) Welcome to my fansly, where i let loose my spicier side i cant show on stream for you all to enjoy. So sit back relax and grab some \"hot coffee\" <3<3<3 And don't be afraid to ask for extra cream for your coffee.  If anyone would like photoshoots, videos, sessions plz DM for pricing\n\n",
         "location": "your bedroom",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "541124043407892481",
-                    "historyId": "748829143390498816",
+                    "historyId": "952894795758452737",
                     "channelId": "541124043407892480",
                     "accountId": "331715274665373696",
                     "title": "",
                     "status": 1,
-                    "viewerCount": 26,
-                    "version": 1241,
+                    "viewerCount": 11,
+                    "version": 1243,
                     "createdAt": 1690508386000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1740037608000,
-                    "startedAt": 1740029140000,
+                    "lastFetchedAt": 1788682975000,
+                    "startedAt": 1788682183000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:15Z"
+        "fetchedAt": "2026-10-26T15:00:04Z"
     },
     "twitter": {
         "kanashi_noir": {
-            "id": "1228390899346006016",
+            "id": null,
             "handle": "kanashi_noir",
-            "displayName": "Kanashi_Noir 🔞",
-            "description": "Comfy VRC Twitch streamer that's always looking to spread love kindness and comfy vibes be sure to check out my linktree to catch all my content",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2089433939647574016/VD7QmNE4_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1228390899346006016/1786734706/1500x500",
-            "followersCount": 4206,
-            "followingCount": 995,
-            "postsCount": 2697,
-            "accountCreatedAt": "2020-02-14T18:50:01.311Z",
-            "profileUrl": "https://x.com/Kanashi_noir",
-            "fetchedAt": "2026-08-19T16:18:37Z"
+            "displayName": "Kanashi_noir 🔞",
+            "description": "Comfy VRC Twitch streamer that&#x27;s always looking to spread love kindness and comfy vibes be sure to check out my linktree to catch all my content",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2110395824064630784/rMbiiFpD_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1228390899346006016/1791992548/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kanashi_noir",
+            "fetchedAt": "2026-10-26T14:25:01Z"
         }
     }
 }

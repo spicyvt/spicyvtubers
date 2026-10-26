@@ -5,35 +5,35 @@
         "login": "naya",
         "displayName": "naya",
         "createdAt": "2013-09-27T00:56:28.317491Z",
-        "updatedAt": "2026-08-17T19:27:19.686239Z",
+        "updatedAt": "2026-10-22T16:39:01.414798Z",
         "description": "let me give a fox's explanation~",
         "primaryColorHex": "FFBE05",
         "followers": {
-            "totalCount": 95931
+            "totalCount": 96067
         },
         "follows": {
-            "totalCount": 359
+            "totalCount": 364
         },
         "roles": {
             "isPartner": true,
             "isAffiliate": false
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-19T01:09:28.49753Z"
+            "startedAt": "2026-10-23T01:29:22.755085Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34f16795-577f-4bb8-9539-2b024b8f1255-profile_image-300x300.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/53efdab3-290a-4021-b52a-cfe8b6c44c39-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:59:08Z"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/73682fa8-b3d7-4377-b2ac-025bb521ab65-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22b2cb96-43df-4763-afbd-0f6af53ebf24-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T14:00:38Z"
     },
     "fansly": {
         "id": "756947074200645632",
         "username": "OnlyFomx",
         "displayName": "OnlyFomx~",
         "version": 22,
-        "followCount": 5315,
+        "followCount": 6230,
         "statusId": 3,
-        "accountMediaLikes": 3252,
-        "postLikes": 3996,
+        "accountMediaLikes": 4651,
+        "postLikes": 4862,
         "about": "🎆Your new fav Fomx! 🎆\nI like art and make VRChat lewds, in a cute but sexy way ;3\n+ Im a brat and bottom, take this info how you will <3\nI play games here! - https://twitch.tv/naya",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vb2RmPH4X3I1.m3u8",
                 "chatRoomId": "762206974451396608",
                 "status": 2,
-                "version": 13,
+                "version": 19,
                 "createdAt": 1743218635000,
                 "updatedAt": null,
                 "stream": {
                     "id": "762206855773560833",
-                    "historyId": "945146328336330752",
+                    "historyId": "970518560604446720",
                     "channelId": "762206855773560832",
                     "accountId": "756947074200645632",
-                    "title": "this fox is in need of YOUR pleasure! but Plz be gentle im a nervous bottom >.<",
+                    "title": "NEW TRACKING FOR FUNNY BLU STRIM~! || this fox is in HEAT and needs to be pleasured~ <3",
                     "status": 1,
-                    "viewerCount": 57,
-                    "version": 26,
+                    "viewerCount": 40,
+                    "version": 32,
                     "createdAt": 1743218635000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786841208000,
-                    "startedAt": 1786834804000,
+                    "lastFetchedAt": 1792891413000,
+                    "startedAt": 1792884016000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:48:10Z"
+        "fetchedAt": "2026-10-26T15:02:00Z"
     },
     "twitter": {
         "onlyfomx": {
-            "id": "1551346910916665344",
+            "id": null,
             "handle": "onlyfomx",
-            "displayName": "OnlyFomx~ 🔞💛",
-            "description": "The Main #VRChat 🔞 page for @nayaVT ! ✿ i like being gay and really lewd here~ ✿ @fansly creator ✿ @twitch Partner #VTuber ✿ 🔞 MINORS DNI",
+            "displayName": "OnlyFomx~ || 🧈🦊 Butter Fox VTuber",
+            "description": "The Only Fomx of Butter~! ✿ i like being gay and really lewd here~ ✿ @fansly creator ✿ @twitch Partner #VTuber ✿ 🔞 MINORS DNI",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2072694690105769984/-MYElURd_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551346910916665344/1786315959/1500x500",
-            "followersCount": 6621,
-            "followingCount": 92,
-            "postsCount": 764,
-            "accountCreatedAt": "2022-07-24T23:21:52.673Z",
-            "profileUrl": "https://x.com/OnlyFomx",
-            "fetchedAt": "2026-08-19T16:41:51Z"
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551346910916665344/1789002299/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/onlyfomx",
+            "fetchedAt": "2026-10-26T14:49:35Z"
         },
         "nayavt": {
             "id": null,
@@ -97,8 +97,8 @@
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
-            "profileUrl": "https://x.com/nayaVT",
-            "fetchedAt": "2026-10-25T16:59:45Z"
+            "profileUrl": "https://x.com/nayavt",
+            "fetchedAt": "2026-10-26T14:49:37Z"
         }
     }
 }

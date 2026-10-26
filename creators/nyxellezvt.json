@@ -1,62 +1,90 @@
 {
-    "bio": "✩‧₊˚ Sin & Silks WRATH ✩‧₊˚ Since you're here, we're friends now....you have no choice ദ്ദി◝ ⩊ ◜.ᐟ",
+    "bio": "✩‧₊˚ Wrath ✩‧₊˚ Since you're here, we're friends now....you have no choice ദ്ദി◝ ⩊ ◜.ᐟ",
     "twitch": {
         "id": "272078342",
         "login": "nyxellezvt",
         "displayName": "NyxellezVT",
         "createdAt": "2018-11-03T19:10:33.98893Z",
-        "updatedAt": "2026-08-18T18:36:59.901453Z",
-        "description": "✩‧₊˚ Sin & Silks WRATH ✩‧₊˚ Since you're here, we're friends now....you have no choice ദ്ദി◝ ⩊ ◜.ᐟ",
-        "primaryColorHex": "530100",
+        "updatedAt": "2026-10-25T21:19:14.843661Z",
+        "description": "✩‧₊˚ Wrath ✩‧₊˚ Since you're here, we're friends now....you have no choice ദ്ദി◝ ⩊ ◜.ᐟ",
+        "primaryColorHex": "FF38DB",
         "followers": {
-            "totalCount": 955
+            "totalCount": 962
         },
         "follows": {
-            "totalCount": 326
+            "totalCount": 327
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T21:22:49.011318Z"
+            "startedAt": "2026-09-03T02:27:54.833457Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6f920a7-da45-47bf-9886-b6c46ecf5bdb-profile_image-300x300.png",
-        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ab5767c-6d72-4992-ae94-1d38edb8a634-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:49:58Z"
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd57a4c2-6660-4865-aa3d-16bbf2e0d622-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e1ae0c9-1c7b-493f-9bcb-50632a680889-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T13:51:21Z"
     },
     "fansly": {
         "id": "915764319113728001",
         "username": "NyxellezatNight",
         "displayName": "NyxatNight",
         "version": 6,
-        "followCount": 47,
+        "followCount": 57,
         "statusId": 3,
-        "accountMediaLikes": 15,
-        "postLikes": 79,
+        "accountMediaLikes": 17,
+        "postLikes": 105,
         "about": "★VRMODEL by Asphyxiya \n★Tips get Priority - $20 for DM response \n✩ Your favorite Switch 🫦 Pansexual \n✩ NSFW VA, ASMR, NSFW ART AND AUDIOS AND MORE ! ",
         "location": "",
         "streaming": {
             "accountId": "915764319113728001",
-            "channel": null,
+            "channel": {
+                "id": "952040391505358848",
+                "accountId": "915764319113728001",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.dYnebHDlW4VU.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1788478477000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "952040391505358849",
+                    "historyId": null,
+                    "channelId": "952040391505358848",
+                    "accountId": "915764319113728001",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1788478477000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:04Z"
+        "fetchedAt": "2026-10-26T15:00:54Z"
     },
     "twitter": {
         "nyxellezvt": {
-            "id": "1656057050076463109",
+            "id": null,
             "handle": "nyxellezvt",
-            "displayName": "✩ Sin & Silks WRATH ✩ Nyxellez ✩",
-            "description": "✩‧₊˚Gym Rat, Tomboy & Crashout ✩‧₊˚\n✩ Sin & Silks WRATH ✩ \n🚨MDNI🚨\nhttps://t.co/VSvqP7RDkT",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2088741042296135680/OOuk1DKt_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1656057050076463109/1785903779/1500x500",
-            "followersCount": 320,
-            "followingCount": 140,
-            "postsCount": 549,
-            "accountCreatedAt": "2023-05-09T22:02:35.808Z",
-            "profileUrl": "https://x.com/NyxellezVT",
-            "fetchedAt": "2026-08-19T16:27:23Z"
+            "displayName": "✩ Nyxellez ✩",
+            "description": "🚨MDNI🚨\n✩ Gym Rat, Tomboy &amp; Crashout \n✩ Owner and Vtuber of Vkaibutsu",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2110819753774153728/pcduUtFZ_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1656057050076463109/1792964020/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nyxellezvt",
+            "fetchedAt": "2026-10-26T14:34:37Z"
         }
     }
 }

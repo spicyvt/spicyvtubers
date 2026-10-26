@@ -5,25 +5,25 @@
         "login": "caramelkaiteki",
         "displayName": "caramelkaiteki",
         "createdAt": "2021-07-10T23:18:07.228289Z",
-        "updatedAt": "2026-08-12T18:27:49.848587Z",
+        "updatedAt": "2026-10-25T01:08:44.958741Z",
         "description": "こんにちは! Welcome to my sleepover party, enjoy your stay!~ ",
         "primaryColorHex": "99867D",
         "followers": {
-            "totalCount": 1539
+            "totalCount": 1526
         },
         "follows": {
-            "totalCount": 265
+            "totalCount": 264
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2025-12-31T23:33:23.863039Z"
+            "startedAt": "2026-10-24T02:50:48.96365Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8aeb119-9777-4d20-9648-b52d1cea0d19-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9307c113-8d53-484e-91d0-b02f89834bf2-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:44:46Z"
+        "fetchedAt": "2026-10-26T13:46:14Z"
     },
     "fansly": {
         "id": "472900865523458048",
@@ -32,7 +32,7 @@
         "version": 4,
         "followCount": 861,
         "statusId": 1,
-        "accountMediaLikes": 191,
+        "accountMediaLikes": 187,
         "postLikes": 655,
         "about": "Sussy catgirl with 2 braincells, here to spread some cute n sexy pics\n\nArt will mainly be made with Koikatsu, though in the future might also be made with Blender once I get better :3",
         "location": "Neko Paradise",
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:15Z"
+        "fetchedAt": "2026-10-26T15:00:04Z"
     },
     "twitter": {
         "caramelkaiteki": {
-            "id": "1413886688640868353",
+            "id": null,
             "handle": "caramelkaiteki",
             "displayName": "Caramel Kaiteki🍮 | Edgerunner",
-            "description": "Indie Game Dev | Vtuber 🍮 🏳️‍⚧️ \n\nhttps://t.co/IKwZuOrxHq\n\nRig: @mikoscrub \nArt: @skyfishu \n\n🎨#Kaitekillust 🔞#Caramussy",
+            "description": "Indie Game Dev | Vtuber 🍮 🏳️‍⚧️ \nShe/Her\n\nhttps://t.co/IKwZuOrxHq\n\nRig: @mikoscrub \nArt: @skyfishu \n\n🎨#Kaitekillust 🔞#Caramussy",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2080341867787378688/wPxNWe5q_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1413886688640868353/1769358875/1500x500",
-            "followersCount": 12554,
-            "followingCount": 2839,
-            "postsCount": 65648,
-            "accountCreatedAt": "2021-07-10T15:43:55.411Z",
-            "profileUrl": "https://x.com/CaramelKaiteki",
-            "fetchedAt": "2026-08-19T16:18:39Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/caramelkaiteki",
+            "fetchedAt": "2026-10-26T14:25:04Z"
         }
     }
 }

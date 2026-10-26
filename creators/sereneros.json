@@ -5,54 +5,54 @@
         "login": "sereneros",
         "displayName": "SerenEros",
         "createdAt": "2021-01-03T20:39:13.017663Z",
-        "updatedAt": "2026-08-09T17:11:45.963305Z",
+        "updatedAt": "2026-10-16T19:08:17.597241Z",
         "description": "ASMR RP VA & Vtuber ❤️‍🔥⛓️🦇 18+ only, please! ",
         "primaryColorHex": "251242",
         "followers": {
-            "totalCount": 2580
+            "totalCount": 2633
         },
         "follows": {
-            "totalCount": 79
+            "totalCount": 85
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-09T21:12:21.866559Z"
+            "startedAt": "2026-10-09T21:05:36.327771Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/798f7991-e043-4ce8-8de8-1872a3444567-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/db4a6fa6-7998-4f14-943d-1505939de78d-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:58:29Z"
+        "fetchedAt": "2026-10-26T13:59:59Z"
     },
     "twitter": {
         "seren_eros": {
-            "id": "1336212859458637825",
+            "id": null,
             "handle": "seren_eros",
             "displayName": "EROS ❤️‍🔥⛓️ VA",
             "description": "Tough Love ASMR RP VA | Devil Domme VTuber | 🔞: https://t.co/meEBh4Tg89 | ❤️‍🔥⛓️🎮: https://t.co/3fmuM2K6e8 | 🦇Sfw: @Seren_Thorne",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1956114652363980804/R2EXrMyY_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1336212859458637825/1755188294/1500x500",
-            "followersCount": 16668,
-            "followingCount": 41,
-            "postsCount": 9364,
-            "accountCreatedAt": "2020-12-08T07:35:55.719Z",
-            "profileUrl": "https://x.com/Seren_Eros",
-            "fetchedAt": "2026-08-19T16:40:41Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/seren_eros",
+            "fetchedAt": "2026-10-26T14:48:23Z"
         },
         "seren_thorne": {
-            "id": "1411965780216979456",
+            "id": null,
             "handle": "seren_thorne",
             "displayName": "Seren Thorne 🦇 VA",
             "description": "ASMR RP VA | Dhampir Lore Keeper 🦇 | 🔞: @Seren_Eros | Pfp: @Nogatsu1 | Logo: @Enso_exe | 🎨: #Serenillust",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2045563497124069376/EakP5Zlz_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1411965780216979456/1776533005/1500x500",
-            "followersCount": 3253,
-            "followingCount": 499,
-            "postsCount": 3025,
-            "accountCreatedAt": "2021-07-05T08:30:58.067Z",
-            "profileUrl": "https://x.com/Seren_Thorne",
-            "fetchedAt": "2026-08-19T16:40:43Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/seren_thorne",
+            "fetchedAt": "2026-10-26T14:48:25Z"
         }
     },
     "rplay": {
@@ -67,6 +67,6 @@
         "customUrl": null,
         "channelImage": "https://pb3.rplay.live/pics/3a1ccb1f0abcd971e3aea5a8bee5aee3",
         "streamStartTime": null,
-        "fetchedAt": "2026-08-20T18:21:05Z"
+        "fetchedAt": "2026-10-26T15:04:39Z"
     }
 }

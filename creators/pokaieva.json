@@ -5,35 +5,35 @@
         "login": "pokaieva",
         "displayName": "PokaieVA",
         "createdAt": "2025-04-17T21:21:25.293108Z",
-        "updatedAt": "2026-08-17T23:52:42.057255Z",
+        "updatedAt": "2026-10-25T01:02:33.684082Z",
         "description": "Hi I'm Pokaie! I'm an 18+ chaotic femboy Vtuber that does variety content.",
         "primaryColorHex": "12EBC4",
         "followers": {
-            "totalCount": 169
+            "totalCount": 191
         },
         "follows": {
-            "totalCount": 147
+            "totalCount": 106
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T01:49:41.484834Z"
+            "startedAt": "2026-10-25T01:47:02.070952Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/54834150-1414-44c8-a25e-f7b2ed88993f-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b50aa3aa-a7aa-40de-ba43-ccc0613b7518-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:45:40Z"
+        "fetchedAt": "2026-10-26T13:47:06Z"
     },
     "fansly": {
         "id": "832699801463177216",
         "username": "Pokaie",
         "displayName": null,
-        "version": 2,
-        "followCount": 263,
+        "version": 3,
+        "followCount": 349,
         "statusId": 1,
-        "accountMediaLikes": 183,
-        "postLikes": 139,
+        "accountMediaLikes": 300,
+        "postLikes": 171,
         "about": "Furry Femboy Vtuber and NSFW VA | DM me for customs cutie😘",
         "location": "",
         "streaming": {
@@ -49,17 +49,17 @@
                 "updatedAt": null,
                 "stream": {
                     "id": "923780686907723777",
-                    "historyId": "945091444207538176",
+                    "historyId": "957720868983697408",
                     "channelId": "923780686907723776",
                     "accountId": "832699801463177216",
                     "title": "Been awhile, let's have fun cutie",
                     "status": 1,
-                    "viewerCount": 4,
-                    "version": 14,
+                    "viewerCount": 7,
+                    "version": 16,
                     "createdAt": 1781740839000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786824830000,
-                    "startedAt": 1786821719000,
+                    "lastFetchedAt": 1789836524000,
+                    "startedAt": 1789832808000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,36 +69,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:20Z"
+        "fetchedAt": "2026-10-26T15:00:09Z"
     },
     "twitter": {
         "pokaie1": {
-            "id": "1395790427354058754",
+            "id": null,
             "handle": "pokaie1",
             "displayName": "PokaieVA✨ | COMMS OPEN",
-            "description": "Femboy, SFW/NSFW VA, Content Creator, Vtuber | Pfp by @celestiaisstars | Art tag: #PokaieArt | NSFW: @PokaieLust |🍉 | Comms Open",
+            "description": "Femboy, SFW/NSFW VA, Content Creator, Vtuber | Pfp by @cnsrbox | Art tag: #PokaieArt | NSFW: @PokaieLust |🍉 | Comms Open",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2070927790510125056/G4z5l7Y0_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1395790427354058754/1782582649/1500x500",
-            "followersCount": 435,
-            "followingCount": 784,
-            "postsCount": 10403,
-            "accountCreatedAt": "2021-05-21T17:16:14.956Z",
-            "profileUrl": "https://x.com/Pokaie1",
-            "fetchedAt": "2026-08-19T16:20:09Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/pokaie1",
+            "fetchedAt": "2026-10-26T14:26:39Z"
         },
         "pokaielust": {
-            "id": "1972487468617527296",
+            "id": null,
             "handle": "pokaielust",
             "displayName": "PokaieVA🔞 | COMMS OPEN",
-            "description": "Furry Femboy Vtuber and SFW/NSFW VA | 🔞 NO MINORS ALLOWED | Main acc: @Pokaie1 | pfp by @celestiaisstars",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1978690295358513152/yNCOUHC9_400x400.jpg",
+            "description": "Furry Femboy Vtuber and SFW/NSFW VA | 🔞 NO MINORS ALLOWED | Main acc: @Pokaie1 | pfp by @cnsrbox",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2091215008730664960/Ab3WVL9x_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1972487468617527296/1759355688/1500x500",
-            "followersCount": 6518,
-            "followingCount": 325,
-            "postsCount": 1172,
-            "accountCreatedAt": "2025-09-29T02:24:02.547Z",
-            "profileUrl": "https://x.com/PokaieLust",
-            "fetchedAt": "2026-08-19T16:20:07Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/pokaielust",
+            "fetchedAt": "2026-10-26T14:26:37Z"
         }
     }
 }

@@ -5,35 +5,35 @@
         "login": "pocketsyou",
         "displayName": "pocketsyou",
         "createdAt": "2017-06-02T03:41:53.177648Z",
-        "updatedAt": "2026-08-15T22:54:33.69446Z",
+        "updatedAt": "2026-10-25T00:36:59.573535Z",
         "description": "Werewoof in progress.",
         "primaryColorHex": "53948F",
         "followers": {
-            "totalCount": 5363
+            "totalCount": 5338
         },
         "follows": {
-            "totalCount": 133
+            "totalCount": 142
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-16T00:33:52.475781Z"
+            "startedAt": "2026-10-24T03:37:41.446332Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0353801a-9e01-4c48-b9cc-be4ebea990cb-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5d6768d-a204-4d67-ab37-780e9e1f78cd-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:45:58Z"
+        "fetchedAt": "2026-10-26T13:47:24Z"
     },
     "fansly": {
         "id": "568463744561061888",
         "username": "PocketsYou",
         "displayName": "Pocket",
         "version": 17,
-        "followCount": 1704,
+        "followCount": 1741,
         "statusId": 1,
-        "accountMediaLikes": 4139,
-        "postLikes": 1404,
+        "accountMediaLikes": 4228,
+        "postLikes": 1456,
         "about": "she/her\nDM's open tip+sub!~",
         "location": "USA",
         "streaming": {
@@ -41,36 +41,36 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:26Z"
+        "fetchedAt": "2026-10-26T15:00:15Z"
     },
     "twitter": {
         "pocketsyou": {
-            "id": "502129265",
+            "id": null,
             "handle": "pocketsyou",
             "displayName": "Pocket",
-            "description": "Baby- I'm a dog, I'm a mutt~\n(she/her)\nHopelessly gay.\n🌹🇵🇸",
+            "description": "Baby- I&#x27;m a dog, I&#x27;m a mutt~\n(she/her)\nHopelessly gay.\n🌹🇵🇸",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2006877715668815872/LbPuJvL6_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/502129265/1767311858/1500x500",
-            "followersCount": 2007,
-            "followingCount": 1863,
-            "postsCount": 22235,
-            "accountCreatedAt": "2012-02-24T20:55:37.000Z",
-            "profileUrl": "https://x.com/PocketsYou",
-            "fetchedAt": "2026-08-19T16:20:45Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/pocketsyou",
+            "fetchedAt": "2026-10-26T14:27:15Z"
         },
         "outofpocket___": {
-            "id": "1712107590778535937",
+            "id": null,
             "handle": "outofpocket___",
             "displayName": "Pocket",
             "description": "R-18+\nx o x o",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1716941354218274817/2ZWxkDo3_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1712107590778535937/1729657333/1500x500",
-            "followersCount": 1674,
-            "followingCount": 1989,
-            "postsCount": 542,
-            "accountCreatedAt": "2023-10-11T14:07:22.634Z",
-            "profileUrl": "https://x.com/OutOfPocket___",
-            "fetchedAt": "2026-08-19T16:20:47Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/outofpocket___",
+            "fetchedAt": "2026-10-26T14:27:17Z"
         }
     }
 }

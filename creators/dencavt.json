@@ -5,35 +5,35 @@
         "login": "dencavt",
         "displayName": "DencaVT",
         "createdAt": "2015-01-29T20:25:56.545469Z",
-        "updatedAt": "2026-08-09T17:40:12.878649Z",
+        "updatedAt": "2026-10-25T17:51:53.491354Z",
         "description": "🌙Your local lunar femboy bunny :3 I play games and yap a lot!",
         "primaryColorHex": "1345AA",
         "followers": {
-            "totalCount": 1068
+            "totalCount": 1074
         },
         "follows": {
-            "totalCount": 335
+            "totalCount": 339
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-10T21:12:33.65889Z"
+            "startedAt": "2026-10-25T22:28:25.808155Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5e25dcd-74da-415f-94b2-8f8fb6a84596-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/75e2c922-5678-4396-9bd3-febdc8161ef3-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:44:24Z"
+        "fetchedAt": "2026-10-26T13:45:50Z"
     },
     "fansly": {
         "id": "749129474276073472",
         "username": "DencaVT",
         "displayName": null,
         "version": 3,
-        "followCount": 348,
+        "followCount": 451,
         "statusId": 1,
-        "accountMediaLikes": 40,
-        "postLikes": 97,
+        "accountMediaLikes": 146,
+        "postLikes": 141,
         "about": "Hiya! I'm Denca a femboy lunar bunny!\n\nI'll be doing occasional streams on here and posting NSFW artwork of myself every now and then ^^\n\nWishlist https://throne.com/denca",
         "location": "",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JhwjtZl2cNAS.m3u8",
                 "chatRoomId": "912065628163022848",
                 "status": 2,
-                "version": 11,
+                "version": 15,
                 "createdAt": 1774222296000,
                 "updatedAt": null,
                 "stream": {
                     "id": "892245634210361346",
-                    "historyId": "934161548530704384",
+                    "historyId": "959874076757733376",
                     "channelId": "892245634210361345",
                     "accountId": "749129474276073472",
-                    "title": "[Femboy] Smashing & Yapping",
+                    "title": "[Femboy] First stream with lovense toys! Come vibe with me :3",
                     "status": 1,
-                    "viewerCount": 5,
-                    "version": 8,
+                    "viewerCount": 6,
+                    "version": 50,
                     "createdAt": 1774222296000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1784224486000,
-                    "startedAt": 1784215829000,
+                    "lastFetchedAt": 1790353511000,
+                    "startedAt": 1790346173000,
                     "permissions": {
                         "permissionFlags": []
                     }
@@ -69,22 +69,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:09Z"
+        "fetchedAt": "2026-10-26T14:59:58Z"
     },
     "twitter": {
         "dencavt": {
-            "id": "2942093157",
+            "id": null,
             "handle": "dencavt",
             "displayName": "Denca🌙🐇Bunboi VTuber 【 Vremlins 】",
             "description": "🌙Femboy Bunny Vtuber , Gamer, Video Editor\nModel:@LONOM\nhttps://t.co/yeqgIN55mm\nhttps://t.co/WW02WNAiay\n🎨: #Dencart\n📧: dencavtuber@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1976784603303047168/xCg-NvvP_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2942093157/1764630333/1500x500",
-            "followersCount": 1525,
-            "followingCount": 431,
-            "postsCount": 8556,
-            "accountCreatedAt": "2014-12-26T13:26:30.609Z",
-            "profileUrl": "https://x.com/DencaVT",
-            "fetchedAt": "2026-08-19T16:18:00Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/dencavt",
+            "fetchedAt": "2026-10-26T14:24:21Z"
         }
     }
 }

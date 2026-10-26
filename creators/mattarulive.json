@@ -5,32 +5,32 @@
         "login": "mattarulive",
         "displayName": "MattaruLive",
         "createdAt": "2013-05-29T23:19:04.418737Z",
-        "updatedAt": "2026-08-06T16:34:21.620745Z",
+        "updatedAt": "2026-10-22T18:41:10.715982Z",
         "description": "Hi everyone I'm Mattaru! A Vtubing Alpha Male....sometimes XD I know I'm a SMOL boy but I try to be a big man!!",
         "primaryColorHex": "238AE2",
         "followers": {
-            "totalCount": 5218
+            "totalCount": 5215
         },
         "follows": {
-            "totalCount": 410
+            "totalCount": 416
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-06T20:15:55.336394Z"
+            "startedAt": "2026-10-13T22:08:59.392302Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b10f5deb-efeb-4bb7-afa7-46a36a0df0fd-profile_image-300x300.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a66414-9658-4cc7-bd7f-c07626c79075-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/43434cfc-12d4-4a37-aa08-12be9a7243f0-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:39:50Z"
+        "fetchedAt": "2026-10-26T13:41:21Z"
     },
     "fansly": {
         "id": "396873576289935360",
         "username": "MattaruLewd",
         "displayName": "Mattaru",
         "version": 3,
-        "followCount": 94,
+        "followCount": 98,
         "statusId": 1,
         "accountMediaLikes": 2,
         "postLikes": 50,
@@ -41,22 +41,22 @@
             "channel": null,
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:25Z"
+        "fetchedAt": "2026-10-26T14:59:15Z"
     },
     "twitter": {
         "mattarulive": {
-            "id": "1491108014245433346",
+            "id": null,
             "handle": "mattarulive",
             "displayName": "🤗 Mattaru ~🔞{Vtuber}🔞~ 🤗 AUDIO COMMS OPEN",
             "description": "Vtuber Twink Twitch streamer, Check me out on Twitch today, *NO MINORS*\n\nhttps://t.co/0aPaMYogzx\n\nWishlist: https://t.co/Cl1mEE5BLB",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1715379838435954688/jM0gVX5s_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1491108014245433346/1666527509/1500x500",
-            "followersCount": 1804,
-            "followingCount": 1407,
-            "postsCount": 7518,
-            "accountCreatedAt": "2022-02-08T17:54:02.844Z",
-            "profileUrl": "https://x.com/MattaruLive",
-            "fetchedAt": "2026-08-19T16:10:14Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mattarulive",
+            "fetchedAt": "2026-10-26T14:16:11Z"
         }
     }
 }

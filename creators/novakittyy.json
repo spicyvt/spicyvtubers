@@ -5,46 +5,46 @@
         "login": "novakittyy",
         "displayName": "NovaKittyy",
         "createdAt": "2021-02-02T19:06:32.364125Z",
-        "updatedAt": "2026-09-11T23:13:05.981844Z",
+        "updatedAt": "2026-10-10T19:18:52.149019Z",
         "description": "Your Librarian Catgirl Mage! | She/Her | Business Email: novakitty.business@gmail.com",
         "primaryColorHex": "6A0200",
         "followers": {
-            "totalCount": 1122
+            "totalCount": 1190
         },
         "follows": {
-            "totalCount": 297
+            "totalCount": 311
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-09-12T03:27:51.00613Z"
+            "startedAt": "2026-10-02T02:16:17.493776Z"
         },
-        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b8511f9-ca02-4351-a375-f1760fb9c5bd-profile_image-300x300.png",
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3449de6-b627-4630-9b55-c1f0b295c3af-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4f2a798-41a5-49f3-8987-45165b1bac2d-profile_banner-480.png",
-        "fetchedAt": "2026-09-12T12:59:42Z"
+        "fetchedAt": "2026-10-26T13:48:22Z"
     },
     "twitter": {
         "novakittyvt": {
             "id": null,
             "handle": "novakittyvt",
-            "displayName": "Nova Kitty | Librarian VTUBER 🐈‍⬛📚",
-            "description": "hiatus from twitter!\n- live everyday on twitch",
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/2011514571400302592/tqYZer4X_400x400.jpg",
-            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1456757758687023108/1782855758/1500x500",
+            "displayName": "Nova Kitty 🐈‍⬛📚",
+            "description": "hiatus from twitter!\n- live everyday on twitch\n\n@catgirlpawss\n@lewdestkittenn",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2104632406967762944/MZAPsQou_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1456757758687023108/1790618443/1500x500",
             "followersCount": null,
             "followingCount": null,
             "postsCount": null,
             "accountCreatedAt": null,
             "profileUrl": "https://x.com/novakittyvt",
-            "fetchedAt": "2026-09-12T12:59:46Z"
+            "fetchedAt": "2026-10-26T14:28:58Z"
         },
         "catgirlpawss": {
             "id": null,
             "handle": "catgirlpawss",
             "displayName": "Kitty 🐾",
-            "description": "catgirl with cute feet 🐾 ~ She/Her ~ 20 :3",
+            "description": "catgirl with cute feet 🐾 bratty findom ~ She/Her ~ 20 :3",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2075113841478823936/-BdUbSxO_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2039330974043975680/1786754470/1500x500",
             "followersCount": null,
@@ -52,7 +52,7 @@
             "postsCount": null,
             "accountCreatedAt": null,
             "profileUrl": "https://x.com/catgirlpawss",
-            "fetchedAt": "2026-09-12T12:59:47Z"
+            "fetchedAt": "2026-10-26T14:29:00Z"
         }
     },
     "fansly": {
@@ -60,17 +60,54 @@
         "username": "NovaKittyVT",
         "displayName": "Kitty",
         "version": 20,
-        "followCount": 362,
+        "followCount": 386,
         "statusId": 3,
-        "accountMediaLikes": 249,
-        "postLikes": 634,
+        "accountMediaLikes": 294,
+        "postLikes": 687,
         "about": "Updating Things <3",
         "location": "",
         "streaming": {
             "accountId": "761677150158860288",
-            "channel": null,
+            "channel": {
+                "id": "957825582106701824",
+                "accountId": "761677150158860288",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.GBDz810WeJnY.m3u8",
+                "chatRoomId": "957827559905583104",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1789857774000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "957825582106701825",
+                    "historyId": "957825927096582144",
+                    "channelId": "957825582106701824",
+                    "accountId": "761677150158860288",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2,
+                    "createdAt": 1789857774000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1789857866000,
+                    "startedAt": 1789857856000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "957826310770536448",
+                                "streamId": "957825582106701825",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
             "enabled": true
         },
-        "fetchedAt": "2026-09-12T12:59:52Z"
+        "fetchedAt": "2026-10-26T15:00:20Z"
     }
 }

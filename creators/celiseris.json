@@ -5,35 +5,35 @@
         "login": "celiseris",
         "displayName": "CelisEris",
         "createdAt": "2024-02-08T23:15:50.921301Z",
-        "updatedAt": "2026-08-18T16:41:24.694647Z",
+        "updatedAt": "2026-10-25T01:52:59.62909Z",
         "description": "I'm not a Dommy Mommy. I'm a Witchy Switch!",
         "primaryColorHex": "FD6225",
         "followers": {
-            "totalCount": 1854
+            "totalCount": 2399
         },
         "follows": {
-            "totalCount": 397
+            "totalCount": 430
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-18T21:31:43.418612Z"
+            "startedAt": "2026-10-25T05:26:26.188676Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64ec860d-52ce-4098-9a09-50d98b41ec7f-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5174e6b-0c94-4944-afb3-28282d6b5774-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:42:00Z"
+        "fetchedAt": "2026-10-26T13:43:32Z"
     },
     "fansly": {
         "id": "853476083314483200",
         "username": "CelisEris",
         "displayName": "CelisEris",
         "version": 9,
-        "followCount": 327,
+        "followCount": 530,
         "statusId": 3,
-        "accountMediaLikes": 133,
-        "postLikes": 72,
+        "accountMediaLikes": 374,
+        "postLikes": 167,
         "about": "🦴Wolfgirl (puppygirl) that WILL bite you\n\n🧡 https://celiseris.carrd.co 🧡\n🔥I respond to all DMs🔥\n🔵FANSLY: Free to watch streams Friday @ 10pm EST\n🟣TWITCH: Mon/Tue/Fri: 12pm EST\n\nIf you wanna see me in something or see something in me you can get it for me here: https://throne.com/celiseris",
         "location": "",
         "streaming": {
@@ -44,24 +44,33 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BWmYvkhQyxjv.m3u8",
                 "chatRoomId": "904709942626234368",
                 "status": 2,
-                "version": 2,
+                "version": 7,
                 "createdAt": 1777193896000,
                 "updatedAt": null,
                 "stream": {
                     "id": "904709426626183169",
-                    "historyId": null,
+                    "historyId": "970528703052259328",
                     "channelId": "904709426626183168",
                     "accountId": "853476083314483200",
-                    "title": "",
+                    "title": "\"Locked\" in for WarDogs",
                     "status": 1,
-                    "viewerCount": 0,
-                    "version": 0,
+                    "viewerCount": 14,
+                    "version": 56,
                     "createdAt": 1777193896000,
                     "updatedAt": null,
-                    "lastFetchedAt": null,
-                    "startedAt": null,
+                    "lastFetchedAt": 1792886458000,
+                    "startedAt": 1792886434000,
                     "permissions": {
-                        "permissionFlags": []
+                        "permissionFlags": [
+                            {
+                                "id": "970635600417804288",
+                                "streamId": "904709426626183169",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
                     }
                 },
                 "arn": null,
@@ -69,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:47Z"
+        "fetchedAt": "2026-10-26T14:59:37Z"
     },
     "twitter": {
         "celiseris": {
-            "id": "2001486479156219906",
+            "id": null,
             "handle": "celiseris",
             "displayName": "CelisEris 🔥💥 (WolfGirl Vtuber)",
-            "description": "Vampire WolfGirl Vtuber. 🔥💥 |18+|She/Her🏳️‍⚧️|      https://t.co/kiEtR99mhQ \nModel Art @lunashdegrace \nRigging @coffebred\nArt tag: #CelisArt",
+            "description": "Independent Vampire WolfGirl Vtuber. 🔥💥 |18+|She/Her https://t.co/kiEtR99mhQ \n\nI WILL bully you",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2088034379243175936/bTbH7pT4_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2001486479156219906/1786661104/1500x500",
-            "followersCount": 1243,
-            "followingCount": 541,
-            "postsCount": 1718,
-            "accountCreatedAt": "2025-12-18T02:55:47.960Z",
-            "profileUrl": "https://x.com/CelisEris",
-            "fetchedAt": "2026-08-19T16:14:09Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/celiseris",
+            "fetchedAt": "2026-10-26T14:20:20Z"
         }
     }
 }

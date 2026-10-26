@@ -5,25 +5,25 @@
         "login": "trirealm",
         "displayName": "TriRealm",
         "createdAt": "2017-10-20T17:01:14.85624Z",
-        "updatedAt": "2026-07-29T07:33:14.200267Z",
+        "updatedAt": "2026-10-24T19:56:00.383576Z",
         "description": "🔞18+ only! 🔴 She/Her/Hers 🔴 - Owl Girl VTuber - British - 27 Years Dumb 🔞",
         "primaryColorHex": null,
         "followers": {
-            "totalCount": 723
+            "totalCount": 726
         },
         "follows": {
-            "totalCount": 291
+            "totalCount": 296
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-07-29T15:42:50.167107Z"
+            "startedAt": "2026-10-24T23:53:30.324826Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/01090f63-f045-43d6-8e4a-76b054ea4183-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/203b568a-635d-41a3-a1b8-815037c345be-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:46:01Z"
+        "fetchedAt": "2026-10-26T13:47:27Z"
     },
     "fansly": {
         "id": "694351563774238720",
@@ -78,22 +78,22 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:46:26Z"
+        "fetchedAt": "2026-10-26T15:00:15Z"
     },
     "twitter": {
         "trirealm": {
-            "id": "1024351014298763264",
+            "id": null,
             "handle": "trirealm",
             "displayName": "TriRealm | 🏳️‍⚧️ | Owl Girl VTuber",
-            "description": "🔞No Under 18's! 🔴 She/Her/Hers 🔴 - Twitch Streamer - British - Dipshit - Fabulous - 26 Years Dumb 🔞\n\nBusiness Email: trirealm.business@gmail.com",
+            "description": "🔞No Under 18&#x27;s! 🔴 She/Her/Hers 🔴 - Twitch Streamer - British - Dipshit - Fabulous - 26 Years Dumb 🔞\n\nBusiness Email: trirealm.business@gmail.com",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1917131806685507584/XrxHbhbb_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1024351014298763264/1771927676/1500x500",
-            "followersCount": 437,
-            "followingCount": 694,
-            "postsCount": 5612,
-            "accountCreatedAt": "2018-07-31T17:48:08.133Z",
-            "profileUrl": "https://x.com/TriRealm",
-            "fetchedAt": "2026-08-19T16:20:51Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/trirealm",
+            "fetchedAt": "2026-10-26T14:27:21Z"
         }
     }
 }

@@ -5,35 +5,35 @@
         "login": "theemohealer",
         "displayName": "TheEmoHealer",
         "createdAt": "2013-11-18T05:49:39.416108Z",
-        "updatedAt": "2026-08-14T02:27:45.219146Z",
+        "updatedAt": "2026-10-25T02:43:48.26826Z",
         "description": "Find the Joy in the Dark. Rest here Lost Soul, lets pour a drink, and share a tale.",
         "primaryColorHex": "00E7E7",
         "followers": {
-            "totalCount": 2616
+            "totalCount": 2659
         },
         "follows": {
-            "totalCount": 403
+            "totalCount": 409
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-14T04:58:46.801174Z"
+            "startedAt": "2026-10-25T07:05:37.041219Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfb9e0f8-4caf-4142-9c98-8f3da591ec20-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b0052eb-45cb-4c9b-ad3a-31e7df9c7185-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:41:34Z"
+        "fetchedAt": "2026-10-26T13:43:06Z"
     },
     "fansly": {
         "id": "615101511701110784",
         "username": "TheEmoHealer",
         "displayName": null,
         "version": 4,
-        "followCount": 8742,
-        "statusId": 3,
-        "accountMediaLikes": 3350,
-        "postLikes": 3046,
+        "followCount": 9486,
+        "statusId": 1,
+        "accountMediaLikes": 3754,
+        "postLikes": 3285,
         "about": "Hello loves, I'm a Ghostly LewdTuber, eager to give you an out of body experience! \nWant to take a step towards the Dark side?\nRequests OPEN!\n[Genderfluid, Pansexual, Poly!]",
         "location": "Totally not Haunted House.",
         "streaming": {
@@ -44,22 +44,22 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Plu8ywN7MXOr.m3u8",
                 "chatRoomId": "633554406108835842",
                 "status": 2,
-                "version": 25,
+                "version": 65,
                 "createdAt": 1712340343000,
                 "updatedAt": null,
                 "stream": {
                     "id": "632693911357239299",
-                    "historyId": "946430536778276864",
+                    "historyId": "970486033558822912",
                     "channelId": "632693911357239298",
                     "accountId": "615101511701110784",
-                    "title": "Cozy Grind! Cozy Goons! ",
+                    "title": "How about some Dungeon play?",
                     "status": 1,
-                    "viewerCount": 17,
-                    "version": 4946,
+                    "viewerCount": 9,
+                    "version": 5028,
                     "createdAt": 1712340344000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1787150707000,
-                    "startedAt": 1787140983000,
+                    "lastFetchedAt": 1792890101000,
+                    "startedAt": 1792876261000,
                     "permissions": {
                         "permissionFlags": [
                             {
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:45:41Z"
+        "fetchedAt": "2026-10-26T14:59:31Z"
     },
     "twitter": {
         "theerohealer": {
-            "id": "1516737704842563586",
+            "id": null,
             "handle": "theerohealer",
             "displayName": "The Ero Healer",
-            "description": "Hello loves, I'm a Ghostly LewdTuber, eager to give you an out of body experience! \nWant to take a step towards the Dark side?\nRequests Closed!\nThey/Them/Any",
+            "description": "Hello loves, I&#x27;m a Ghostly LewdTuber, eager to give you an out of body experience! \nWant to take a step towards the Dark side?\nRequests Open!\nThey/Them/Any",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/2037667605524455424/2Od4ZmSd_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1516737704842563586/1745906893/1500x500",
-            "followersCount": 372,
-            "followingCount": 484,
-            "postsCount": 1127,
-            "accountCreatedAt": "2022-04-20T11:20:25.268Z",
-            "profileUrl": "https://x.com/TheEroHealer",
-            "fetchedAt": "2026-08-19T16:13:24Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/theerohealer",
+            "fetchedAt": "2026-10-26T14:19:34Z"
         },
         "theemohealer": {
-            "id": "864572161582743552",
+            "id": null,
             "handle": "theemohealer",
             "displayName": "The Emo Healer",
-            "description": "Streamer, storyteller, there are many things people can call me.\nI would prefer to just be \"Kind.\"\n#AscensionAcademyRP #NeonDivide",
+            "description": "Streamer, storyteller, there are many things people can call me.\nI would prefer to just be &quot;Kind.&quot;\n#AscensionAcademyRP #NeonDivide",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1973508501512265729/Ox17eP1x_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/864572161582743552/1671698619/1500x500",
-            "followersCount": 842,
-            "followingCount": 1040,
-            "postsCount": 8252,
-            "accountCreatedAt": "2017-05-16T20:04:01.068Z",
-            "profileUrl": "https://x.com/TheEmoHealer",
-            "fetchedAt": "2026-08-19T16:13:23Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/theemohealer",
+            "fetchedAt": "2026-10-26T14:19:32Z"
         }
     }
 }

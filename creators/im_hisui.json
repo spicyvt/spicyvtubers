@@ -1,39 +1,39 @@
 {
-    "bio": "your favorite scuffed streamer ;)",
+    "bio": "your favorite scuffed streamer ;) LIVE WEEKLY THURS-SUN @ 12 PM EST",
     "twitch": {
         "id": "624566470",
         "login": "im_hisui",
         "displayName": "im_hisui",
         "createdAt": "2020-12-22T07:47:42.043655Z",
-        "updatedAt": "2026-08-17T19:16:53.776936Z",
-        "description": "your favorite scuffed streamer ;)",
+        "updatedAt": "2026-10-19T16:01:50.569245Z",
+        "description": "your favorite scuffed streamer ;) LIVE WEEKLY THURS-SUN @ 12 PM EST",
         "primaryColorHex": "FF94E5",
         "followers": {
-            "totalCount": 3410
+            "totalCount": 3513
         },
         "follows": {
-            "totalCount": 490
+            "totalCount": 495
         },
         "roles": {
             "isPartner": false,
             "isAffiliate": true
         },
         "lastBroadcast": {
-            "startedAt": "2026-08-15T04:09:25.376925Z"
+            "startedAt": "2026-10-18T21:45:15.147986Z"
         },
         "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad393f47-02d4-466d-9fd4-9a11693dcadb-profile_image-300x300.png",
         "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22251a0f-fae8-4609-93f9-7f1a948310d2-profile_banner-480.png",
-        "fetchedAt": "2026-08-19T15:57:57Z"
+        "fetchedAt": "2026-10-26T13:59:27Z"
     },
     "fansly": {
         "id": "515023034772369408",
         "username": "im_hisui",
         "displayName": "Hisui",
         "version": 4,
-        "followCount": 2517,
+        "followCount": 3246,
         "statusId": 3,
-        "accountMediaLikes": 1243,
-        "postLikes": 589,
+        "accountMediaLikes": 1589,
+        "postLikes": 797,
         "about": "Hisui's Spicy site for NSFW content.\n\nStreams every Wednesday & Saturday at 9 pm EST ˚ʚ♡ɞ˚\n\nI post weekly!",
         "location": "",
         "streaming": {
@@ -44,31 +44,31 @@
                 "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oxaGGufGaEcR.m3u8",
                 "chatRoomId": "803155111328100352",
                 "status": 2,
-                "version": 50,
+                "version": 76,
                 "createdAt": 1752965413000,
                 "updatedAt": null,
                 "stream": {
                     "id": "803087805851910145",
-                    "historyId": "943006540007219200",
+                    "historyId": "970947605657837569",
                     "channelId": "803087805851910144",
                     "accountId": "515023034772369408",
-                    "title": "RARE SUNDAY STREAM Lets have some fun ~ !tipmenu  🖤SHOCK COLLAR + LUSH + GEMINI + MORE ",
+                    "title": "private streamm no peek!! ~ !tipmenu  🖤 ",
                     "status": 1,
-                    "viewerCount": 64,
-                    "version": 54,
+                    "viewerCount": 1,
+                    "version": 92,
                     "createdAt": 1752965413000,
                     "updatedAt": null,
-                    "lastFetchedAt": 1786334738000,
-                    "startedAt": 1786324639000,
+                    "lastFetchedAt": 1792995165000,
+                    "startedAt": 1792986308000,
                     "permissions": {
                         "permissionFlags": [
                             {
-                                "id": "861481059064246273",
+                                "id": "970943555688230912",
                                 "streamId": "803087805851910145",
                                 "type": 0,
-                                "flags": 2,
+                                "flags": 128,
                                 "price": 0,
-                                "metadata": ""
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"965861934379311104\\\",\\\"label\\\":\\\"priv stream\\\"}\"}"
                             }
                         ]
                     }
@@ -78,36 +78,36 @@
             },
             "enabled": true
         },
-        "fetchedAt": "2026-08-19T16:47:59Z"
+        "fetchedAt": "2026-10-26T15:01:49Z"
     },
     "twitter": {
         "im_hisuii": {
-            "id": "965255513406664704",
+            "id": null,
             "handle": "im_hisuii",
             "displayName": "Hisui 🐰💗",
             "description": "ღ: @ttmk_0z ღ: @totochomp| @PoggersShop affiliate | Youtube Partner | shinigami vtuber 🎨: #artsui 🔞: #lewdsui 📸: #clipsui 🔗:https://t.co/4yaaXQ4bRi",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1917251918977474561/eYhCCJHG_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/965255513406664704/1685301222/1500x500",
-            "followersCount": 750,
-            "followingCount": 822,
-            "postsCount": 2098,
-            "accountCreatedAt": "2018-02-18T16:03:42.745Z",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
             "profileUrl": "https://x.com/im_hisuii",
-            "fetchedAt": "2026-08-19T16:39:52Z"
+            "fetchedAt": "2026-10-26T14:47:30Z"
         },
         "hisuiva": {
-            "id": "1673201494856990721",
+            "id": null,
             "handle": "hisuiva",
             "displayName": "hisui🔞🐰",
             "description": "my alter ego🐰| NSFW art tag #lewdsui 🔞| 🥵 Audios ⇢ https://t.co/xn7sDsgzB8 | 📧 im.hisuii@gmail.com | Main acc: @im_hisuii",
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1815547681155993600/FJH4gN7R_400x400.jpg",
             "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1673201494856990721/1687757619/1500x500",
-            "followersCount": 184,
-            "followingCount": 33,
-            "postsCount": 114,
-            "accountCreatedAt": "2023-06-26T05:28:32.515Z",
-            "profileUrl": "https://x.com/HisuiVA",
-            "fetchedAt": "2026-08-19T16:39:54Z"
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/hisuiva",
+            "fetchedAt": "2026-10-26T14:47:32Z"
         }
     }
 }
