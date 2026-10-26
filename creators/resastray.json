@@ -1,0 +1,121 @@
+{
+    "bio": "*:･ﾟ✧*:･ﾟ Hahaha.. what? *:･ﾟ✧*:･",
+    "twitch": {
+        "id": "544974254",
+        "login": "aresvtt",
+        "displayName": "ARESvtt",
+        "createdAt": "2020-06-17T23:46:58.807897Z",
+        "updatedAt": "2026-10-21T20:27:17.041893Z",
+        "description": "*:･ﾟ✧*:･ﾟ Hahaha.. what? *:･ﾟ✧*:･",
+        "primaryColorHex": "D5AAEC",
+        "followers": {
+            "totalCount": 671
+        },
+        "follows": {
+            "totalCount": 178
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-21T22:06:03.243138Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/802e5c48-df5e-49b0-9fb9-a26ae1a0def1-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/78f7052d-7c3c-435c-854f-0f8b52c8c018-profile_banner-480.jpeg",
+        "fetchedAt": "2026-10-26T01:31:48Z"
+    },
+    "twitter": {
+        "resastray": {
+            "id": null,
+            "handle": "resastray",
+            "displayName": "Resa🐾🍖",
+            "description": "𐂯 ꪻ᥅ꪖᦓꫝ ᦔꪮᧁ ୭ 🔞 ୭ 🐾Lewdtuber • 🍖VA • ❤️‍🔥Artist ୭ B: @cheeeeefwhale ୭ https://t.co/9lOYKowpjo",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2099529818664566784/vzU2hmMD_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1580384223382228993/1789330685/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/resastray",
+            "fetchedAt": "2026-10-26T01:31:50Z"
+        },
+        "aresvtt": {
+            "id": null,
+            "handle": "aresvtt",
+            "displayName": "ARES 🐾🫟🪦",
+            "description": "VTuber + Artist + Singer with a masters in BL | He/They Ω Rig パパ: @DevilishNu | PFP: @baariezz B: @dormirVT | ✦ https://t.co/XiVBpX4egQ",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1816409740853051392/gRuY6Z7c_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1520969032458932224/1727042910/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/aresvtt",
+            "fetchedAt": "2026-10-26T01:31:51Z"
+        }
+    },
+    "fansly": {
+        "id": "507075553874944000",
+        "username": "ResaStray",
+        "displayName": "Resa🐾🍖",
+        "version": 8,
+        "followCount": 10127,
+        "statusId": 1,
+        "accountMediaLikes": 11245,
+        "postLikes": 5060,
+        "about": "𐂯 Trash boy ૮֊˕֊ა੭  \n\n𐂯 Stream Fridays @10pm EDT\n\n𐂯 Buy me treats? - https://throne.com/resastray",
+        "location": "https://resastray.carrd.co/",
+        "streaming": {
+            "accountId": "507075553874944000",
+            "channel": {
+                "id": "515303074781212672",
+                "accountId": "507075553874944000",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zQ7df2qJfRAo.m3u8",
+                "chatRoomId": "515303684905639941",
+                "status": 2,
+                "version": 155,
+                "createdAt": 1684352186000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "515303074781212673",
+                    "historyId": "970196690466263040",
+                    "channelId": "515303074781212672",
+                    "accountId": "507075553874944000",
+                    "title": "IM BACK BITCHES",
+                    "status": 1,
+                    "viewerCount": 48,
+                    "version": 434,
+                    "createdAt": 1684352187000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792815051000,
+                    "startedAt": 1792807276000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "895196435442581504",
+                                "streamId": "515303074781212673",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "895196435442581505",
+                                "streamId": "515303074781212673",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-26T01:31:53Z"
+    }
+}

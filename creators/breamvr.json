@@ -1,0 +1,104 @@
+{
+    "bio": "Your friendly neighborhood fish girl.",
+    "twitch": {
+        "id": "207232718",
+        "login": "breamvr",
+        "displayName": "BreamVR",
+        "createdAt": "2018-03-21T08:44:03.958567Z",
+        "updatedAt": "2026-10-23T03:26:54.984951Z",
+        "description": "Your friendly neighborhood fish girl.",
+        "primaryColorHex": "008FFF",
+        "followers": {
+            "totalCount": 3106
+        },
+        "follows": {
+            "totalCount": 305
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-25T23:22:56.029839Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/49bf7f59-5ec4-4c02-85e0-6184fd8baa48-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/db0ee5f6-48d1-48c7-b33a-7038de3a9325-profile_banner-480.png",
+        "fetchedAt": "2026-10-26T01:30:21Z"
+    },
+    "twitter": {
+        "breamvr": {
+            "id": null,
+            "handle": "breamvr",
+            "displayName": "Bream 💎 | Siren Vtuber 🔞",
+            "description": "MDNI 🔞|| She/Her 💙|| https://t.co/Zwtv1bTBHy || https://t.co/7NRMTIFCVm || BACKUP ACC",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1729929736871170048/5T3kH4Ah_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1051340024426450945/1701282375/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/BreamVR",
+            "fetchedAt": "2026-10-26T01:30:25Z"
+        },
+        "thatlewdfish": {
+            "id": null,
+            "handle": "thatlewdfish",
+            "displayName": "Bream 💎🔱 | Siren VTuber 🔞",
+            "description": "MDNI 🔞|| She/Her 💙|| https://t.co/dgKpEujifS || https://t.co/ODjFXtGk9V || https://t.co/oVVKfq9z6n || https://t.co/nVKaN2jExy || NSFW content ➡ CHILLOUTVR",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1551306934564839424/XndXDfgY_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1219985918699933697/1583349041/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ThatLewdFish",
+            "fetchedAt": "2026-10-26T01:30:27Z"
+        }
+    },
+    "fansly": {
+        "id": "330039139183370240",
+        "username": "BreamVR",
+        "displayName": null,
+        "version": 5,
+        "followCount": 15822,
+        "statusId": 3,
+        "accountMediaLikes": 15159,
+        "postLikes": 7900,
+        "about": "Message me for requests/custom content! 💙\n\nAll Content made in ChilloutVR\n\nTwitter: https://twitter.com/thatlewdfish\nSocial Links: https://linktr.ee/BreamVR\nLovense Wishlist: https://www.lovense.com/wish-list/x5ki\n\nHi! My name is Bream, and I’m a 29 year old avatar maker, animator, artist, and 3D modeler. I occasionally stream on Twitch.\n\nI hope you all enjoy, and I thank you for taking the time to check me out!",
+        "location": "",
+        "streaming": {
+            "accountId": "330039139183370240",
+            "channel": {
+                "id": "416901301209669633",
+                "accountId": "330039139183370240",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Srr5oiGTmDud.m3u8",
+                "chatRoomId": "416901417937149952",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1660891375000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "416901301209669634",
+                    "historyId": "480988816958562305",
+                    "channelId": "416901301209669633",
+                    "accountId": "330039139183370240",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 42,
+                    "version": 438,
+                    "createdAt": 1660891376000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1676182455000,
+                    "startedAt": 1676171030000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-26T01:30:28Z"
+    }
+}

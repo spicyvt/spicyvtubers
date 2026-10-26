@@ -9978,11 +9978,11 @@
     "banner": "bannersx"
   },
   {
-    "slug": "aresvtt",
+    "slug": "resastray",
     "fansly": "resastray",
-    "channel": "ARESvtt",
+    "channel": "resastray",
     "twitch": "aresvtt",
-    "xHandles": ["aresvtt", "resastray"],
+    "xHandles": ["resastray", "aresvtt"],
     "socials": "https://resastray.carrd.co/",
     "avatar": "avatarsx",
     "banner": "bannersx"
@@ -11457,6 +11457,34 @@
     "socials": "https://linktr.ee/wholesomeplus",
     "avatar": "avatarsx",
     "banner": "bannersx"
+  },
+  {
+    "slug": "meru_vr",
+    "fansly": "meru_vr",
+    "channel": "Meru VR",
+    "twitch": "thecouriersystem",
+    "xHandles": ["meru_vr"],
+    "socials": "https://beacons.ai/meruthesuccubus",
+    "avatar": "avatarsx",
+    "banner": "bannersx"
+  },
+  {
+    "slug": "breamvr",
+    "fansly": "breamvr",
+    "channel": "Bream VR",
+    "twitch": "breamvr",
+    "xHandles": ["breamvr", "thatlewdfish"],
+    "socials": "https://linktr.ee/BreamVR",
+    "avatar": "avatarsx",
+    "banner": "bannersx"
+  },
+  {
+    "slug": "",
+    "fansly": "",
+    "channel": "",
+    "twitch": "",
+    "xHandles": ["", ""],
+    "socials": ""
   },
   {
     "slug": "",
