@@ -1,0 +1,99 @@
+{
+    "bio": "❥ holi me dicen Kari una streamer Uruguaya, te invito a jugar conmigo y a charlar, gracias por acompañarme en esta aventura. ❤ ^^",
+    "twitch": {
+        "id": "464904599",
+        "login": "kariius",
+        "displayName": "kariius",
+        "createdAt": "2019-09-30T20:46:27.654907Z",
+        "updatedAt": "2026-10-22T20:49:44.943448Z",
+        "description": "❥ holi me dicen Kari una streamer Uruguaya, te invito a jugar conmigo y a charlar, gracias por acompañarme en esta aventura. ❤ ^^",
+        "primaryColorHex": "FF00D0",
+        "followers": {
+            "totalCount": 30175
+        },
+        "follows": {
+            "totalCount": 378
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-23T01:43:23.58941Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a57f576-282f-461a-8b0e-0e0cc2a641ad-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bd1f118-95f7-48fd-8b59-f751fdcc18b7-profile_banner-480.png",
+        "fetchedAt": "2026-10-28T23:53:37Z"
+    },
+    "twitter": {
+        "karuiis": {
+            "id": null,
+            "handle": "karuiis",
+            "displayName": "🌷kariius (@karuiis) / X🌷kariius",
+            "description": "soy kariius una vtuber Partner de asmr nsfw muy dulce y agresiva UwU\ncuenta +18 @kari_ius\ncuenta de mi tienda 3d @kariius3D\nstreams en kick and twitch!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2057258932855316480/9XqorwLx_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1560244301698932736/1777178579/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/karuiis",
+            "fetchedAt": "2026-10-28T23:53:52Z"
+        }
+    },
+    "fansly": {
+        "id": "458610057664278530",
+        "username": "karus",
+        "displayName": "kαɾι🌷",
+        "version": 35,
+        "followCount": 14311,
+        "statusId": 3,
+        "accountMediaLikes": 50920,
+        "postLikes": 12540,
+        "about": "Vtuber y streamer \nSubscríbete para acceder a todo mi contenido~\n          ❥ Fotos NSF y NSFW\n          ❥ Videos NSF y NSFW\n          ❥Ven y únete a mi y disfrutemos jugando juntos\n          ❥ https://linktr.ee/kariius\n",
+        "location": "Uruguay ",
+        "streaming": {
+            "accountId": "458610057664278530",
+            "channel": {
+                "id": "540792700002115584",
+                "accountId": "458610057664278530",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.IO4k0Kn0nQmP.m3u8",
+                "chatRoomId": "542742678136168449",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1690429387000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "540792700002115585",
+                    "historyId": "968051433653944320",
+                    "channelId": "540792700002115584",
+                    "accountId": "458610057664278530",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 27,
+                    "version": 2042,
+                    "createdAt": 1690429387000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792299424000,
+                    "startedAt": 1792295807000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "934362803324596224",
+                                "streamId": "540792700002115585",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-28T23:53:56Z"
+    }
+}

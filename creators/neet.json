@@ -1,0 +1,99 @@
+{
+    "bio": "Mute VRChat streamer, i'm a raccoon succubus hybrid (Raccubus) i mostly vibe and jam on stream to music while talking to chat having a great time and also like to make cinematic camera content in VRChat!",
+    "twitch": {
+        "id": "24703194",
+        "login": "neet",
+        "displayName": "Neet",
+        "createdAt": "2011-09-10T17:04:38.842122Z",
+        "updatedAt": "2026-10-28T16:43:04.883659Z",
+        "description": "Mute VRChat streamer, i'm a raccoon succubus hybrid (Raccubus) i mostly vibe and jam on stream to music while talking to chat having a great time and also like to make cinematic camera content in VRChat!",
+        "primaryColorHex": "6A0000",
+        "followers": {
+            "totalCount": 21930
+        },
+        "follows": {
+            "totalCount": 354
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-28T20:00:23.3998Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/10d7623b-99ab-44d8-a24c-1a6dbac11106-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/99ff60fd-9374-4bdd-ad48-53a9a2d7102c-profile_banner-480.png",
+        "fetchedAt": "2026-10-28T23:53:33Z"
+    },
+    "twitter": {
+        "neetvr": {
+            "id": null,
+            "handle": "neetvr",
+            "displayName": "Neet 🦝🗡️ (@NeetVR) / XNeet 🦝🗡️",
+            "description": "VRC Mute\nLike taking pictures.\n\nLinktree to my socials and the creators of avatars i use.\nhttps://t.co/x9SAbSjJbE",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2067660059274846208/w22ltBbY_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/52705755/1767916846/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Neetvr",
+            "fetchedAt": "2026-10-28T23:53:49Z"
+        }
+    },
+    "fansly": {
+        "id": "580948765511262208",
+        "username": "NeetVR",
+        "displayName": null,
+        "version": 4,
+        "followCount": 14177,
+        "statusId": 3,
+        "accountMediaLikes": 49510,
+        "postLikes": 29985,
+        "about": "Expect weekly videos short and longer ones and picture sets.\nChilloutVR btw.\n\nhttps://www.lovense.com/r/ay0upd <-- my lovense affiliate link <3\n\nYou can find the avatars i'm using in my linktree below!\nhttps://linktr.ee/neetvr",
+        "location": "Sweden",
+        "streaming": {
+            "accountId": "580948765511262208",
+            "channel": {
+                "id": "627218912550858753",
+                "accountId": "580948765511262208",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.CUpDnuBaX3Je.m3u8",
+                "chatRoomId": "636094445200089088",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1711035001000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "627218912550858754",
+                    "historyId": "796114823032090624",
+                    "channelId": "627218912550858753",
+                    "accountId": "580948765511262208",
+                    "title": "Make me womp womp all over you <3",
+                    "status": 1,
+                    "viewerCount": 130,
+                    "version": 3618,
+                    "createdAt": 1711035002000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1751310964000,
+                    "startedAt": 1751302924000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "627218947015454720",
+                                "streamId": "627218912550858754",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": false
+        },
+        "fetchedAt": "2026-10-28T23:53:56Z"
+    }
+}

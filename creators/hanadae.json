@@ -1,0 +1,90 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "858586400",
+        "login": "hanadae",
+        "displayName": "hanadae",
+        "createdAt": "2022-12-20T00:04:05.432214Z",
+        "updatedAt": "2026-07-27T15:06:49.864135Z",
+        "description": null,
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 56
+        },
+        "follows": {
+            "totalCount": 20
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-16T21:47:59.78145Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/46910933-5fac-4296-81b5-33b32380c1b2-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b931c91b-88f5-4cf9-b903-7fccc47ab145-profile_banner-480.jpeg",
+        "fetchedAt": "2026-10-28T23:53:38Z"
+    },
+    "twitter": {
+        "hanadae_": {
+            "id": null,
+            "handle": "hanadae_",
+            "displayName": "Hanadae (@hanadae_) / XHanadae",
+            "description": "18+  nsfw https://t.co/Pip0pJUIHD\nhttps://t.co/zUVrHhtw3c\nI&#x27;m 29 I make silly videos and take silly pictures in vr with friends\n\nchilloutvr content",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2071210897544990720/7PURyLE2_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1601225515033141248/1721804910/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/hanadae_",
+            "fetchedAt": "2026-10-28T23:53:54Z"
+        }
+    },
+    "fansly": {
+        "id": "457669438116732928",
+        "username": "Hanadae",
+        "displayName": "Hanadae",
+        "version": 12,
+        "followCount": 13993,
+        "statusId": 1,
+        "accountMediaLikes": 19516,
+        "postLikes": 14758,
+        "about": "❤️Hiya, I'm Hanadae❤️\n\n❤️mute vr player ❤️\n\nhttps://linktr.ee/Hanadae\n\n ❤️I make Vr erp content and love to show alot of the spicy things me and my friends get into❤️\n\n❤️Joined fansly mostly for fun and to meet other lewd vr ppl, I really have been enjoying my time here fansly is a very welcoming community ❤️\n\n❤️if you would like to support me ❤️ (Thank you to all that do)\n\n~Subscription for sub only content ❤️ (most of my content will be free tho)\n\n~Tip me ❤️ (working on things tippers can redeem like custom content etc.)\n\n~Check out my Throne ❤️ https://throne.com/hanadae\n\n*Please make sure if you are supporting me its with extra money and not the money you need to live comfortably. I want you all to take care of yourself first I just enjoy your company ❤️ ❤️ ❤️\n\n❤️Maybe you can join me for some fun one day~",
+        "location": "The bedroom <3",
+        "streaming": {
+            "accountId": "457669438116732928",
+            "channel": {
+                "id": "532694822822092800",
+                "accountId": "457669438116732928",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ChfpVNsPL8Tz.m3u8",
+                "chatRoomId": "532695936288169984",
+                "status": 2,
+                "version": 40,
+                "createdAt": 1688498702000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "532694822822092801",
+                    "historyId": "971482473613516801",
+                    "channelId": "532694822822092800",
+                    "accountId": "457669438116732928",
+                    "title": "🔒Locktober Mute :3🔒",
+                    "status": 1,
+                    "viewerCount": 93,
+                    "version": 1417,
+                    "createdAt": 1688498703000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793127344000,
+                    "startedAt": 1793113831000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-28T23:53:56Z"
+    }
+}
