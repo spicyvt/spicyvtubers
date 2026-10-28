@@ -1,0 +1,99 @@
+{
+    "bio": "UUUUUH",
+    "twitch": {
+        "id": "814391217",
+        "login": "hatethemute",
+        "displayName": "HateTheMute",
+        "createdAt": "2022-08-02T05:33:44.858231Z",
+        "updatedAt": "2026-08-14T11:14:54.108965Z",
+        "description": "UUUUUH",
+        "primaryColorHex": "14B9FF",
+        "followers": {
+            "totalCount": 518
+        },
+        "follows": {
+            "totalCount": 61
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T18:17:33.661672Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/76e26a4b-f023-4df7-9367-97bba116a882-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5b4dd9a-b560-4fa2-a84a-fe1a555d7b1e-profile_banner-480.png",
+        "fetchedAt": "2026-10-28T01:21:22Z"
+    },
+    "twitter": {
+        "hatethemute": {
+            "id": null,
+            "handle": "hatethemute",
+            "displayName": "Hate",
+            "description": "https://t.co/1r4rMdFVQx | My really cool mute @KashoooNuts",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2059651562276859905/zc6QPJ5P_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1498062326754385921/1792891436/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/HateTheMute",
+            "fetchedAt": "2026-10-28T01:21:32Z"
+        }
+    },
+    "fansly": {
+        "id": "415107389558104064",
+        "username": "HateTheMute",
+        "displayName": "Hate",
+        "version": 13,
+        "followCount": 15639,
+        "statusId": 3,
+        "accountMediaLikes": 15477,
+        "postLikes": 10298,
+        "about": "💕Meow~\n💕Stream every Tuesday at 10 AM CST!\n💕Big Supporters & Owners get to see content early & bonus content!\n\nSocials: https://guns.lol/hatethemute\n",
+        "location": "Silent Hill",
+        "streaming": {
+            "accountId": "415107389558104064",
+            "channel": {
+                "id": "832569998563090432",
+                "accountId": "415107389558104064",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jb0CfASwBGtH.m3u8",
+                "chatRoomId": "835222327552647168",
+                "status": 2,
+                "version": 200,
+                "createdAt": 1759994516000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "832569998563090433",
+                    "historyId": "971479999037059072",
+                    "channelId": "832569998563090432",
+                    "accountId": "415107389558104064",
+                    "title": "SHOCK ME I DARE YOU",
+                    "status": 1,
+                    "viewerCount": 184,
+                    "version": 248,
+                    "createdAt": 1759994516000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793125793000,
+                    "startedAt": 1793113241000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "971534339974111232",
+                                "streamId": "832569998563090433",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-28T01:21:36Z"
+    }
+}

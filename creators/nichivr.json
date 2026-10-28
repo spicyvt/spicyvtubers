@@ -1,0 +1,99 @@
+{
+    "bio": "Thicc gyaru wolfgirl",
+    "twitch": {
+        "id": "36578624",
+        "login": "nichivr",
+        "displayName": "nichiVR",
+        "createdAt": "2012-10-01T12:33:08.874991Z",
+        "updatedAt": "2026-10-27T15:44:15.129778Z",
+        "description": "Thicc gyaru wolfgirl ",
+        "primaryColorHex": "FA1ED2",
+        "followers": {
+            "totalCount": 51012
+        },
+        "follows": {
+            "totalCount": 313
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-27T20:20:59.539787Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/11eef94a-53a9-4845-b23b-e617d4270ed9-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf10e385-823a-4b09-9871-c4c491d12ac9-profile_banner-480.png",
+        "fetchedAt": "2026-10-28T01:21:20Z"
+    },
+    "twitter": {
+        "nichi_vr": {
+            "id": null,
+            "handle": "nichi_vr",
+            "displayName": "nichiVR",
+            "description": "Gyaru Wolfgirl gelato lover 🍦\n\n🎮 Twitch Partner: https://t.co/Q5REZkbu0M\n🩵 Fansly: https://t.co/RgoEDT4SzJ\n👉 All links: https://t.co/5p4xv2ZXX8",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1681609896175759361/PQBoiNWn_400x400.png",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1305443196168810496/1680956761/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Nichi_VR",
+            "fetchedAt": "2026-10-28T01:21:30Z"
+        }
+    },
+    "fansly": {
+        "id": "357732902479343616",
+        "username": "nichiVR",
+        "displayName": null,
+        "version": 5,
+        "followCount": 17298,
+        "statusId": 3,
+        "accountMediaLikes": 22435,
+        "postLikes": 9554,
+        "about": "💜 Thick Gyaru Wolfgirl \n🔞 Nudes and spicy action \n🎨 NSFW illustrations\n💖 I reply to all DMs \n💋 Custom photos and videos \n\n📹 Streams on Friday\n",
+        "location": "",
+        "streaming": {
+            "accountId": "357732902479343616",
+            "channel": {
+                "id": "454542175208742912",
+                "accountId": "357732902479343616",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4Pf2Lfbc1xFI.m3u8",
+                "chatRoomId": "454542239083798528",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1669865659000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "454542175208742913",
+                    "historyId": "970085320462721025",
+                    "channelId": "454542175208742912",
+                    "accountId": "357732902479343616",
+                    "title": "BOUNCING ON YOU 💜 ",
+                    "status": 1,
+                    "viewerCount": 36,
+                    "version": 120,
+                    "createdAt": 1669865660000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792788518000,
+                    "startedAt": 1792780723000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "937107791661789184",
+                                "streamId": "454542175208742913",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-28T01:21:36Z"
+    }
+}
