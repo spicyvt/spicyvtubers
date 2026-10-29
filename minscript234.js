@@ -19,10 +19,7 @@
 
   const siteStats = document.getElementById("site-stats");
 
-  const CHANNEL_PLATFORMS = {
-    twitch: { baseUrl: "https://twitch.com/", label: "Twitch" },
-    youtube: { baseUrl: "https://youtube.com/@", label: "YouTube" },
-  };
+  const CHANNEL_PLATFORM_KEYS = ["twitch", "youtube"];
 
   const externalLinkIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>`;
   const resultCountIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0 2c-3.31 0-8 1.66-8 4.5V21h16v-2.5c0-2.84-4.69-4.5-8-4.5zm8.34-9.94a4 4 0 0 1 0 7.88 5.5 5.5 0 0 1 0-7.88zM18.5 14c2.9.53 4.5 1.9 4.5 3.5V21h-3v-2.5c0-1.63-.6-2.9-1.5-4.5z"/></svg>`;
@@ -35,7 +32,8 @@
     { key: "patreon", label: "Patreon", baseUrl: "https://www.patreon.com/" },
   ];
 
-  const AVATAR_FOLDERS = new Set(["avatarsLarge", "avatarsX", "avatarsB"]);
+  
+  const AVATAR_FOLDERS = { avatarslarge: "avatarsLarge", avatarsx: "avatarsX", avatarsb: "avatarsB" };
 
   
   
@@ -88,6 +86,23 @@
 
   
   
+  function normalizeAccount(c) {
+    if (!c || typeof c.slug !== "string" || c.slug.trim() === "") return null;
+    const slug = c.slug.trim().toLowerCase();
+    const channel = typeof c.channel === "string" && c.channel.trim() !== "" ? c.channel.trim() : slug;
+    return { ...c, channel, channelLower: slug };
+  }
+
+  
+  function accountNameSearchText(c) {
+    return [c.channel, c.channelLower, ...CHANNEL_PLATFORM_KEYS.map((key) => c[key])]
+      .filter(Boolean)
+      .join(" ")
+      .toLowerCase();
+  }
+
+  
+  
   
   let accountsJsonPromise = null;
   function loadAccountsJson() {
@@ -96,9 +111,10 @@
         .then((response) => (response.ok ? response.json() : Promise.reject(new Error(`HTTP ${response.status}`))))
         .then((data) =>
           data
-            .filter((c) => c && typeof c.channel === "string" && c.channel.trim() !== "")
-            .map((c) => ({ ...c, channelLower: c.channel.toLowerCase() }))
-            .sort((a, b) => a.channelLower.localeCompare(b.channelLower))
+            .map(normalizeAccount)
+            .filter(Boolean)
+            .map((c) => ({ ...c, nameSearchText: accountNameSearchText(c) }))
+            .sort((a, b) => a.channel.toLowerCase().localeCompare(b.channel.toLowerCase()))
         )
         .catch((err) => {
           console.error("Failed to load accounts.json:", err);
@@ -161,7 +177,7 @@
     headerDropdownClosers.push(closePanel);
 
     function renderResults(query) {
-      const matches = creators.filter((c) => c.channelLower.includes(query)).slice(0, PAGE_SEARCH_MAX_RESULTS);
+      const matches = creators.filter((c) => c.nameSearchText.includes(query)).slice(0, PAGE_SEARCH_MAX_RESULTS);
       results.innerHTML = matches.length
         ? matches.map(buildPageSearchResultHtml).join("")
         : '<p class="page-search-empty">No creators found.</p>';
@@ -326,18 +342,12 @@
     );
   }
 
-  function getChannelInfo(creator) {
-    if (!creator.channel) return null;
-    const platform = CHANNEL_PLATFORMS[creator.type] || CHANNEL_PLATFORMS.twitch;
-    return { href: profileLink(platform.baseUrl, creator.channel), label: platform.label };
-  }
-
   function isSimpleMedia(value) {
     return String(value || "").toLowerCase() === "simple";
   }
 
   function getAvatarFolder(creator) {
-    return AVATAR_FOLDERS.has(creator.avatar) ? creator.avatar : "avatarsLarge";
+    return AVATAR_FOLDERS[String(creator.avatar || "").trim().toLowerCase()] || "avatarsLarge";
   }
 
   
@@ -820,7 +830,8 @@
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
         jsonOrderCreators = data
-          .filter((c) => c && typeof c.channel === "string" && c.channel.trim() !== "")
+          .map(normalizeAccount)
+          .filter(Boolean)
           .map((c) => ({ ...c, xHandles: (c.xHandles || []).filter(Boolean) }));
         azOrderCreators = [...jsonOrderCreators].sort((a, b) =>
           a.channel.toLowerCase().localeCompare(b.channel.toLowerCase())
@@ -829,9 +840,8 @@
         creators = azOrderCreators;
 
         jsonOrderCreators.forEach((creator) => {
-          creator.channelLower = creator.channel.toLowerCase();
           creator.searchText = [
-            creator.channel,
+            accountNameSearchText(creator),
             ...SPICE_PLATFORMS.map((platform) => {
               const value = creator[platform.key];
               if (value && platform.rootBaseUrl && value.includes("/")) return undefined;
@@ -2079,14 +2089,17 @@
     const resultCount = document.getElementById("topcreators-result-count");
     if (!resultCount) return;
 
-    const [accounts, data] = await Promise.all([loadAccountsJson(), loadTopCreatorsData()]);
+    const [accounts, data, fanslyLiveLogins] = await Promise.all([
+      loadAccountsJson(),
+      loadTopCreatorsData(),
+      loadLiveLogins(LIVE_STATUS_PLATFORMS.find((p) => p.key === "fansly").jsonUrl),
+    ]);
     if (!data || accounts.length === 0) {
       resultCount.textContent = "Top creators data is unavailable right now.";
       return;
     }
 
     const dataByLogin = new Map(data.filter((e) => e && typeof e.login === "string").map((e) => [e.login.toLowerCase(), e]));
-    const now = Date.now();
     const creators = accounts
       .filter((c) => typeof c.fansly === "string" && c.fansly.trim() !== "")
       .map((c) => {
@@ -2097,8 +2110,8 @@
           followers: typeof entry?.followers === "number" ? entry.followers : null,
           likes: typeof entry?.likes === "number" ? entry.likes : null,
           lastStartedAt,
-          isLive: entry?.isLive === true && lastStartedAt !== null && now - lastStartedAt <= LIVE_STALE_MS,
-          searchText: `${c.channel} ${c.fansly}`.toLowerCase(),
+          isLive: fanslyLiveLogins.has(c.channelLower),
+          searchText: `${c.nameSearchText} ${c.fansly}`.toLowerCase(),
         };
       });
 
@@ -2154,7 +2167,7 @@
           streams: e.streams,
           hours: e.hours,
           isLive: liveLogins.fansly?.has(c.channelLower) === true,
-          searchText: `${c.channel} ${c.fansly}`.toLowerCase(),
+          searchText: `${c.nameSearchText} ${c.fansly}`.toLowerCase(),
         };
       });
 

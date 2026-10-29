@@ -96,8 +96,8 @@ const ENABLE_RPLAY_STREAM_HISTORY = true;
 const ENABLE_CREATOR_BANNERS = false;
 // Single source of truth for the current stylesheet/script filenames —
 // bump these and re-run --force to bake the new filenames into every page.
-const STYLESHEET = 'style233.css';
-const SCRIPT = 'script233.js';
+const STYLESHEET = 'style234.css';
+const SCRIPT = 'script234.js';
 // Pages reference the "min"-prefixed copies; generateMinifiedAssets() (run
 // once at the start of main()) builds these from STYLESHEET/SCRIPT above.
 const MIN_STYLESHEET = 'min' . STYLESHEET;

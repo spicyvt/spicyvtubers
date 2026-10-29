@@ -1,8 +1,8 @@
 (() => {
   "use strict";
 
-  
-  
+  // Header dropdowns (page search, get-extension, Fansly nav) each register their own
+  // close function here so opening one can close any others that are left open.
   const headerDropdownClosers = [];
   function closeOtherHeaderDropdowns(exceptCloser) {
     headerDropdownClosers.forEach((closer) => {
@@ -19,10 +19,7 @@
 
   const siteStats = document.getElementById("site-stats");
 
-  const CHANNEL_PLATFORMS = {
-    twitch: { baseUrl: "https://twitch.com/", label: "Twitch" },
-    youtube: { baseUrl: "https://youtube.com/@", label: "YouTube" },
-  };
+  const CHANNEL_PLATFORM_KEYS = ["twitch", "youtube"];
 
   const externalLinkIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>`;
   const resultCountIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0 2c-3.31 0-8 1.66-8 4.5V21h16v-2.5c0-2.84-4.69-4.5-8-4.5zm8.34-9.94a4 4 0 0 1 0 7.88 5.5 5.5 0 0 1 0-7.88zM18.5 14c2.9.53 4.5 1.9 4.5 3.5V21h-3v-2.5c0-1.63-.6-2.9-1.5-4.5z"/></svg>`;
@@ -35,24 +32,25 @@
     { key: "patreon", label: "Patreon", baseUrl: "https://www.patreon.com/" },
   ];
 
-  const AVATAR_FOLDERS = new Set(["avatarsLarge", "avatarsX", "avatarsB"]);
+  // accounts.json stores these lowercased; same mapping as avatarFolderForCreator() in generate-creator-pages.php.
+  const AVATAR_FOLDERS = { avatarslarge: "avatarsLarge", avatarsx: "avatarsX", avatarsb: "avatarsB" };
 
-  
-  
-  
-  
+  // Platforms whose live/offline status is tracked server-side and exposed as
+  // a {login, startedAt, ...} feed at https://cdn.spicyvtubers.com/{key}/live.json
+  // by that platform's own stream-tracker Worker. Each entry's "key" matches
+  // both the accounts.json/SPICE_PLATFORMS field and the pill's is-live-{key} class.
   const LIVE_STATUS_PLATFORMS = [
     { key: "fansly", jsonUrl: "https://cdn.spicyvtubers.com/fansly/live.json" },
     { key: "rplay", jsonUrl: "https://cdn.spicyvtubers.com/rplay/live.json" },
   ];
   const LIVE_STALE_MS = 24 * 60 * 60 * 1000;
 
-  
-  
-  
+  // Fetches one platform's live.json and returns the set of lowercased channel
+  // logins currently live, ignoring entries whose startedAt is more than 24h
+  // old (stale/never-updated file).
   async function loadLiveLogins(jsonUrl) {
     try {
-      
+      // Add an url param to avoid caching issues (live.json is updated every minute).
       const res = await fetch(`${jsonUrl}?t=${Date.now()}`);
       if (!res.ok) return new Set();
       const data = await res.json();
@@ -69,7 +67,7 @@
     }
   }
 
-  
+  // Fetches every LIVE_STATUS_PLATFORMS feed in parallel, returns { [platformKey]: Set<login> }.
   async function loadAllLiveLogins() {
     const entries = await Promise.all(
       LIVE_STATUS_PLATFORMS.map(async (platform) => [platform.key, await loadLiveLogins(platform.jsonUrl)])
@@ -77,7 +75,7 @@
     return Object.fromEntries(entries);
   }
 
-  
+  // Shared across renderStats() and the extension-menu version lookup so both don't fetch it separately.
   let dataJsonPromise = null;
   function loadDataJson() {
     if (!dataJsonPromise) {
@@ -86,9 +84,26 @@
     return dataJsonPromise;
   }
 
-  
-  
-  
+  // accounts.json "slug" is the identity (URLs, avatars, live/stream joins) and is
+  // exposed as channelLower; "channel" is only the display name.
+  function normalizeAccount(c) {
+    if (!c || typeof c.slug !== "string" || c.slug.trim() === "") return null;
+    const slug = c.slug.trim().toLowerCase();
+    const channel = typeof c.channel === "string" && c.channel.trim() !== "" ? c.channel.trim() : slug;
+    return { ...c, channel, channelLower: slug };
+  }
+
+  // Display name, slug and Twitch/YouTube handles, lowercased, for name lookups.
+  function accountNameSearchText(c) {
+    return [c.channel, c.channelLower, ...CHANNEL_PLATFORM_KEYS.map((key) => c[key])]
+      .filter(Boolean)
+      .join(" ")
+      .toLowerCase();
+  }
+
+  // Minimal cached accounts.json pass for the header search widget only -
+  // display name + slug + avatar, NOT the richer search-index initIndex()
+  // builds (platform filters, live status, searchText, etc. aren't needed here).
   let accountsJsonPromise = null;
   function loadAccountsJson() {
     if (!accountsJsonPromise) {
@@ -96,9 +111,10 @@
         .then((response) => (response.ok ? response.json() : Promise.reject(new Error(`HTTP ${response.status}`))))
         .then((data) =>
           data
-            .filter((c) => c && typeof c.channel === "string" && c.channel.trim() !== "")
-            .map((c) => ({ ...c, channelLower: c.channel.toLowerCase() }))
-            .sort((a, b) => a.channelLower.localeCompare(b.channelLower))
+            .map(normalizeAccount)
+            .filter(Boolean)
+            .map((c) => ({ ...c, nameSearchText: accountNameSearchText(c) }))
+            .sort((a, b) => a.channel.toLowerCase().localeCompare(b.channel.toLowerCase()))
         )
         .catch((err) => {
           console.error("Failed to load accounts.json:", err);
@@ -124,10 +140,10 @@
     );
   }
 
-  
-  
-  
-  
+  // Compact creator-lookup search for pages without the index's own full
+  // search toolbar (creator/insights/leaderboard - see buildHeaderSearchHtml()
+  // in generate-creator-pages.php). A header button toggles open a dropdown
+  // panel holding the input + result list. No-ops if the markup isn't on the page.
   function initPageSearch() {
     const headerWrap = document.getElementById("header-search-wrap");
     const toggleBtn = document.getElementById("header-search-btn");
@@ -161,7 +177,7 @@
     headerDropdownClosers.push(closePanel);
 
     function renderResults(query) {
-      const matches = creators.filter((c) => c.channelLower.includes(query)).slice(0, PAGE_SEARCH_MAX_RESULTS);
+      const matches = creators.filter((c) => c.nameSearchText.includes(query)).slice(0, PAGE_SEARCH_MAX_RESULTS);
       results.innerHTML = matches.length
         ? matches.map(buildPageSearchResultHtml).join("")
         : '<p class="page-search-empty">No creators found.</p>';
@@ -181,13 +197,13 @@
         return;
       }
       if (!creators) creators = await loadAccountsJson();
-      
+      // The query can change while the (first) fetch above was in flight.
       if (input.value.trim().toLowerCase() !== query) return;
       renderResults(query);
     });
 
-    
-    
+    // Outside click / Escape close the whole panel (button-driven visibility,
+    // not focus/blur on the input - a click on a result must survive it).
     document.addEventListener("click", (e) => {
       if (!panel.hidden && !headerWrap.contains(e.target)) closePanel();
     });
@@ -206,16 +222,16 @@
     return div.innerHTML;
   }
 
-  
-  
-  
-  
+  // ---------------------------------- Chart.js shared helpers ---------------------------------- //
+  // Used by the Fansly rank graph, the stream viewer-count graph, and the
+  // leaderboard comparison graph (Chart.js + chartjs-plugin-zoom, vendored
+  // in /vendor/, only loaded on pages that actually render a chart).
 
   const CHART_LINE_COLOR = "#0284c7";
   const CHART_AXIS_TEXT_COLOR = "rgba(243, 233, 240, 0.5)";
   const CHART_GRID_COLOR = "rgba(243, 233, 240, 0.08)";
 
-  
+  // Each bucket's tick step is bucket/5, so 1 + 5 evenly-spaced ticks always land cleanly.
   const RANK_AXIS_BUCKETS = [
     [10, 2],
     [50, 10],
@@ -224,7 +240,7 @@
     [500, 100],
   ];
 
-  
+  // Snaps a series' worst rank up to the nearest bucket for the y-axis (1 at top, `bottom` at the bottom).
   function computeRankAxisBounds(worstRank) {
     for (const [bucket, step] of RANK_AXIS_BUCKETS) {
       if (worstRank <= bucket) return { bottom: bucket, step };
@@ -248,9 +264,9 @@
     Chart.defaults.font.family = getComputedStyle(document.body).fontFamily;
   }
 
-  
-  
-  
+  // Builds the exact [1, step, 2*step, ..., bottom] integer tick set as a
+  // Chart.js afterBuildTicks callback — avoids Chart.js's auto tick
+  // algorithm inserting fractional rank values.
   function rankAxisTicksFn(step) {
     return (axis) => {
       const values = [1];
@@ -259,16 +275,16 @@
     };
   }
 
-  
-  
-  
+  // Shared options builder for the two rank-over-time chart types (Fansly
+  // per-creator graph + leaderboard comparison graph) — reversed y-axis
+  // (rank 1 at top), linear epoch-ms x-axis (no date-adapter dependency).
   function rankChartOptions(bottom, step) {
     return {
       responsive: true,
       maintainAspectRatio: false,
       animation: false,
       interaction: { mode: "nearest", intersect: false },
-      
+      // round joins avoid spiky "fur" artifacts from miter joins on noisy zigzagging rank data.
       elements: { point: { radius: 0, hoverRadius: 4, hitRadius: 8 }, line: { tension: 0, borderWidth: 2, borderJoinStyle: "round" } },
       scales: {
         x: {
@@ -326,23 +342,17 @@
     );
   }
 
-  function getChannelInfo(creator) {
-    if (!creator.channel) return null;
-    const platform = CHANNEL_PLATFORMS[creator.type] || CHANNEL_PLATFORMS.twitch;
-    return { href: profileLink(platform.baseUrl, creator.channel), label: platform.label };
-  }
-
   function isSimpleMedia(value) {
     return String(value || "").toLowerCase() === "simple";
   }
 
   function getAvatarFolder(creator) {
-    return AVATAR_FOLDERS.has(creator.avatar) ? creator.avatar : "avatarsLarge";
+    return AVATAR_FOLDERS[String(creator.avatar || "").trim().toLowerCase()] || "avatarsLarge";
   }
 
-  
-  
-  
+  // Copyright-claim protection: update.php sets avatar to the literal string
+  // "simple" for creators listed in simple.json — render no avatar image at
+  // all for them (null), just the empty circular container.
   function getAvatarSrc(creator) {
     if (isSimpleMedia(creator.avatar)) {
       return null;
@@ -410,10 +420,10 @@
     const bskyPill = bskyLink
       ? pillLink("x-pill", profileLink("https://bsky.app/profile/", bskyLink), `Bluesky: ${bskyLabel}`, "bsky", bskyLabel)
       : "";
-    
-    
-    
-    
+    // A plain space (not a visible separator) between pill groups keeps
+    // extracted/read text from running labels together; whitespace-only
+    // text nodes between flex-item <a> tags aren't rendered as a visible
+    // gap in this display:flex container, so this is invisible on-screen.
     spiceTd.innerHTML = `<div class="spice-handles">${[spicePills, otherPills, xPills, bskyPill].filter(Boolean).join(" ")}</div>`;
 
     tr.append(channelTd, spiceTd);
@@ -507,7 +517,7 @@
     });
   })();
 
-  
+  // ---- Fansly nav dropdown (header) — Insights/Leaderboard links ----
   (() => {
     const wrap = document.getElementById("fansly-nav-wrap");
     const toggleBtn = document.getElementById("fansly-nav-btn");
@@ -550,7 +560,7 @@
     });
   })();
 
-  
+  // ---- Index criteria toggle (footer, shared markup on both page types) ----
   (() => {
     const criteriaToggleBtn = document.getElementById("criteria-toggle-btn");
     const criteriaContent = document.getElementById("criteria-content");
@@ -559,8 +569,8 @@
     criteriaToggleBtn.addEventListener("click", () => {
       const isHidden = criteriaContent.hidden;
       if (isHidden && !criteriaContent.dataset.loaded) {
-        
-        
+        // Criteria text lives in a <template> (not a real text node) until
+        // now, so it's never present for crawlers/snippet builders to scrape.
         const template = document.getElementById("criteria-content-template");
         if (template) {
           criteriaContent.appendChild(template.content.cloneNode(true));
@@ -573,7 +583,7 @@
     });
   })();
 
-  
+  // ---- Index page: search/sort/filter/table — only ever set up on index.html ----
   function initIndex() {
     const tableSection = document.getElementById("table-section");
     const siteFooter = document.getElementById("site-footer");
@@ -594,7 +604,7 @@
     let azOrderCreators = [];
     let jsonOrderCreators = [];
     let newestOrderCreators = [];
-    let sortMode = "az"; 
+    let sortMode = "az"; // "az" | "newest"
     let platformFilter = "all";
     let liveFilterActive = false;
     let lastLiveFetchAt = 0;
@@ -613,8 +623,8 @@
       return tr;
     }
 
-    
-    
+    // Single reusable "View Profile" row shown below the sole row instead of
+    // the header when exactly one result is showing (solo mode).
     let profileRow = null;
     function getProfileRow() {
       if (!profileRow) {
@@ -629,9 +639,9 @@
       return profileRow;
     }
 
-    
-    
-    
+    // Filter buttons are baked into index.html at generation time (see
+    // buildPlatformFilterHtml() in generate-creator-pages.php) since the
+    // platform list never changes at runtime.
     platformFilterEl.addEventListener("click", (e) => {
       const btn = e.target.closest(".platform-filter-btn");
       if (!btn || btn.classList.contains("is-active")) return;
@@ -645,10 +655,10 @@
       update();
     });
 
-    
-    
-    
-    
+    // Clears each creator's per-platform live flags and reapplies them from a
+    // fresh { platformKey: Set<login> } snapshot, invalidating the cached row
+    // of anyone whose live status actually changed on any platform so their
+    // pill(s) re-render (rebuilt on the next getOrBuildRow() call, inside update()).
     function applyLiveStatus(liveLoginsByPlatform) {
       jsonOrderCreators.forEach((creator) => {
         const prevLiveStatus = creator.liveStatus;
@@ -668,7 +678,7 @@
       liveFilterBtn.hidden = !jsonOrderCreators.some((creator) => creator.isLive);
     }
 
-    
+    // Retains whatever platform/search filters are already set - purely an additional AND condition.
     liveFilterBtn.addEventListener("click", async () => {
       if (Date.now() - lastLiveFetchAt >= LIVE_REFETCH_INTERVAL_MS) {
         lastLiveFetchAt = Date.now();
@@ -680,7 +690,7 @@
       update();
     });
 
-    
+    //Cap to 50 rows initially to avoid long load times on mobile devices
     function renderInitialRows(data) {
       if (data.length === 0) {
         tbody.innerHTML = "";
@@ -690,9 +700,9 @@
       }
       emptyState.hidden = true;
 
-      
-      
-      
+      // Solo mode (exactly one result): hide the header, same as a search
+      // narrowed down to a single creator used to do, and append a "View
+      // Profile" row below it instead of the header row.
       const isSolo = data.length === 1;
       const nextRows = data.slice(0, INITIAL_ROWS).map((creator) => getOrBuildRow(creator));
       const profileRowEl = getProfileRow();
@@ -743,7 +753,7 @@
 
     function update() {
 
-      window.scrollTo({ top: 0, behavior: "smooth" }); 
+      window.scrollTo({ top: 0, behavior: "smooth" }); // scroll to top when updating the list
       updateSearchClearBtn();
       filteredRows = getFiltered();
       renderInitialRows(filteredRows);    
@@ -794,9 +804,9 @@
       true
     );
 
-    
-    
-    
+    // Clicking anywhere in a row (that isn't itself a link) navigates to that creator's page —
+    // the row's only real <a> is the small avatar/name-link, so without this most of the row
+    // (which still shows a pointer cursor) would do nothing when clicked.
     tbody.addEventListener("click", (e) => {
       if (e.target.closest("a")) return;
       const tr = e.target.closest("tr");
@@ -820,7 +830,8 @@
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
         jsonOrderCreators = data
-          .filter((c) => c && typeof c.channel === "string" && c.channel.trim() !== "")
+          .map(normalizeAccount)
+          .filter(Boolean)
           .map((c) => ({ ...c, xHandles: (c.xHandles || []).filter(Boolean) }));
         azOrderCreators = [...jsonOrderCreators].sort((a, b) =>
           a.channel.toLowerCase().localeCompare(b.channel.toLowerCase())
@@ -829,9 +840,8 @@
         creators = azOrderCreators;
 
         jsonOrderCreators.forEach((creator) => {
-          creator.channelLower = creator.channel.toLowerCase();
           creator.searchText = [
-            creator.channel,
+            accountNameSearchText(creator),
             ...SPICE_PLATFORMS.map((platform) => {
               const value = creator[platform.key];
               if (value && platform.rootBaseUrl && value.includes("/")) return undefined;
@@ -864,7 +874,7 @@
     renderStats();
   }
 
-  
+  // Initialize creator pages — stats for now; future interactive creator-page bits go here.
   function initCreatorPage() {
     renderStats();
     initPageSearch();
@@ -874,9 +884,9 @@
     applyCreatorPageLiveStatus();
   }
 
-  
-  
-  
+  // Marks this creator's own spice pill(s) live (red dot, same as the index
+  // list) by checking their channelLower (document.body's data-slug, set by
+  // renderCreatorHtml() in the PHP generator) against each LIVE_STATUS_PLATFORMS feed.
   async function applyCreatorPageLiveStatus() {
     const slug = document.body.dataset.slug;
     if (!slug) return;
@@ -889,8 +899,8 @@
   }
 
 
-  
-  
+  // Top-level stream-history card tabs (Fansly Streams/RPlay Streams/
+  // Leaderboard/future tabs): clicking a pill swaps which pre-rendered panel is shown.
   function initStreamTabs() {
     const tabsWrap = document.querySelector(".stream-main-tabs");
     if (!tabsWrap) return;
@@ -909,9 +919,9 @@
     });
   }
 
-  
-  
-  
+  // Fansly leaderboard sub-tabs (nested inside the Leaderboard tab panel):
+  // clicking a month pill updates the single Chart.js instance's data/
+  // y-axis bounds in place (was: swap which pre-rendered SVG panel showed).
   function initFanslyGraphs() {
     const pillsWrap = document.querySelector(".fansly-month-pills");
     const canvas = document.querySelector(".fansly-graph-canvas");
@@ -949,10 +959,10 @@
     });
   }
 
-  
-  
-  
-  
+  // Stream-history CDN base path per platform, keyed the same as data-platform
+  // on each .stream-history-panel (see buildStreamHistoryPanel() in the PHP
+  // generator) — both platforms' streams/{slug}.json feeds share an identical
+  // shape, so one set of generic functions below handles either.
   const STREAM_HISTORY_PLATFORMS = {
     fansly: { cdnBase: "https://cdn.spicyvtubers.com/fansly/streams/" },
     rplay: { cdnBase: "https://cdn.spicyvtubers.com/rplay/streams/" },
@@ -962,7 +972,7 @@
   const THREE_MONTHS_MS = 90 * 24 * 60 * 60 * 1000;
   const MIN_STREAMS_FOR_OVERVIEW_GRAPH = 3;
   const WEEKDAY_LABELS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-  
+  // Code-level toggle (no client-side UI control) - flip to false to disable.
   const ENABLE_STREAM_OVERVIEW_GRAPH = true;
 
   function formatStreamDuration(ms) {
@@ -990,33 +1000,33 @@
     return new Date(ms).toLocaleDateString(undefined, { month: "long", year: "numeric" });
   }
 
-  
+  // Groups consecutive same-month streams together ("unknown" for a missing/invalid startedAt).
   function streamMonthKey(ms) {
     if (typeof ms !== "number") return "unknown";
     const d = new Date(ms);
     return `${d.getFullYear()}-${d.getMonth()}`;
   }
 
-  
+  // The new fansly-tracker/rplay-tracker Workers' feed has no durationMs field, unlike the old one.
   function computeStreamDurationMs(stream) {
     return typeof stream.startedAt === "number" && typeof stream.lastFetchedAt === "number"
       ? stream.lastFetchedAt - stream.startedAt
       : null;
   }
 
-  
+  // Excludes streams with an unknown or bogus/stuck-tracker duration (see MAX_STREAM_DURATION_MS).
   function getValidStreamDurationHours(stream) {
     const durationMs = computeStreamDurationMs(stream);
     if (durationMs === null || durationMs > MAX_STREAM_DURATION_MS) return null;
     return durationMs / 3600000;
   }
 
-  
-  
-  
-  
-  
-  
+  // Hours streamed = every valid-duration stream (regardless of viewer data).
+  // Avg viewers = duration-weighted average, but only over streams that
+  // actually have a real avgViewers value — otherwise a stream with no
+  // recorded viewer data would count as "0 viewers" for its hours and drag
+  // the average down incorrectly. Peak = max seen across every stream (no
+  // duration/average needed for that).
   function computeStreamStats(streams) {
     let totalHours = 0;
     let avgWeightHours = 0;
@@ -1041,7 +1051,7 @@
     };
   }
 
-  
+  // `period` ids the card for the graph toggle; only selectable cards render their title as a button.
   function buildStreamSummaryPeriodHtml(title, streams, period, isActive, isSelectable) {
     const titleInner = isSelectable
       ? `<button type="button" class="stream-summary-toggle">${escapeHtml(title)}</button>`
@@ -1067,11 +1077,11 @@
     return streams.filter((s) => typeof s.startedAt === "number" && s.startedAt >= cutoff);
   }
 
-  
+  // The period cards double as the overview graph's range toggle. `activePeriod` is "recent" or "all".
   function buildStreamSummaryHtml(streams, lastThreeMonths, activePeriod) {
-    
-    
-    
+    // Same underlying stream set (every stream falls within the last 3
+    // months) - "Last 3 Months" and "All Time" would be identical, so just
+    // show one card instead of two.
     if (lastThreeMonths.length === streams.length) {
       return `<div class="stream-summary">${buildStreamSummaryPeriodHtml("Last 3 Months", streams, "recent", false, false)}</div>`;
     }
@@ -1079,8 +1089,8 @@
     return `<div class="stream-summary">${buildStreamSummaryPeriodHtml("Last 3 Months", lastThreeMonths, "recent", activePeriod === "recent", selectable)}${buildStreamSummaryPeriodHtml("All Time", streams, "all", activePeriod === "all", selectable)}</div>`;
   }
 
-  
-  
+  // Groups streams by day-of-week (0=Sun..6=Sat) and computes the same
+  // duration-weighted avg/peak stats as computeStreamStats(), per day.
   function computeWeekdayStreamStats(streams) {
     const buckets = Array.from({ length: 7 }, () => []);
     for (const stream of streams) {
@@ -1090,8 +1100,8 @@
     return buckets.map(computeStreamStats);
   }
 
-  
-  
+  // Compact 7-cell row (Sun..Sat) showing each day's peak/avg viewers,
+  // background intensity based on peak viewers ("how successful that day is").
   function buildStreamWeekdayRowHtml(streams) {
     const dayStats = computeWeekdayStreamStats(streams);
     const maxPeak = Math.max(1, ...dayStats.map((d) => d.peak));
@@ -1111,15 +1121,15 @@
     return `<div class="stream-weekday-row">${cellsHtml}</div>`;
   }
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  // One bar per stream, chronological — only rendered when there are enough
+  // streams (MIN_STREAMS_FOR_OVERVIEW_GRAPH) for an over-time comparison to
+  // be meaningful. Streams with no recorded peak are excluded entirely.
+  // Each bar is stacked: the avg-viewers segment first (bottom), then a
+  // second "peak remainder" segment (peak - avg) on top in a different
+  // color, so the bar's total height is the peak and the avg portion is
+  // visually distinguishable inside it.
+  // Returns { setStreams(list) } to swap the plotted range in place, or null if there
+  // aren't enough streams overall. Bar clicks call onBarClick(stream).
   function renderStreamOverviewGraph(container, streams, initialStreams, onBarClick) {
     const hasPeak = (s) => typeof s.maxViewers === "number" && s.maxViewers > 0;
     const toChronological = (list) =>
@@ -1138,7 +1148,7 @@
     const labels = [];
     const avgValues = [];
     const peakRemainderValues = [];
-    
+    // Mutates the arrays Chart.js already holds so the chart can be updated in place.
     const loadSeries = (list) => {
       chronological = toChronological(list);
       peakValues = chronological.map((s) => s.maxViewers);
@@ -1213,10 +1223,10 @@
     };
   }
 
-  
-  
-  
-  
+  // Chart.js line chart of viewer count over time for one stream's
+  // viewerData ([timestampSeconds, viewerCount] pairs) — appended into
+  // the given container, returns the Chart instance so the caller can
+  // destroy() it when the row collapses.
   function renderViewerGraph(container, viewerData) {
     ensureChartDefaults();
     const points = viewerData.map(([ts, count]) => ({ x: ts * 1000, y: count }));
@@ -1269,9 +1279,9 @@
     });
   }
 
-  
-  
-  
+  // Expands/collapses the viewer-count graph row directly under a clicked
+  // stream row — only one graph open at a time. Destroys the previous
+  // Chart instance (stashed on the row element) before removing it.
   function toggleStreamGraphRow(tbody, row, stream) {
     const existing = row.nextElementSibling;
     if (existing && existing.classList.contains("stream-graph-row")) {
@@ -1301,9 +1311,9 @@
     container.innerHTML = '<p class="stream-empty-message">No stream data yet.</p>';
   }
 
-  
-  
-  
+  // One platform's Streams tab panel: populated client-side, fetched from the
+  // R2-backed CDN feed written by that platform's stream-tracker Worker.
+  // Identical logic for every platform in STREAM_HISTORY_PLATFORMS.
   async function loadStreamHistory(container) {
     const slug = container.dataset.slug;
     const platformConfig = STREAM_HISTORY_PLATFORMS[container.dataset.platform];
@@ -1320,15 +1330,15 @@
         return;
       }
 
-      
+      // Most recent stream first.
       const ordered = rawStreams.slice().reverse();
 
-      
+      // Graph defaults to the last 3 months; the summary period cards toggle it to all time.
       const lastThreeMonths = filterLastThreeMonths(ordered);
       let activePeriod = lastThreeMonths.length > 0 ? "recent" : "all";
       container.insertAdjacentHTML("beforeend", buildStreamSummaryHtml(ordered, lastThreeMonths, activePeriod));
 
-      
+      // Opens the clicked bar's stream row (closing any other open one first, via toggleStreamGraphRow).
       const openStreamRow = (stream) => {
         const row = container.querySelector(`.stream-row.is-expandable[data-idx="${ordered.indexOf(stream)}"]`);
         if (!row) return;
@@ -1354,7 +1364,7 @@
         overview?.setStreams(activePeriod === "recent" ? lastThreeMonths : ordered);
       });
 
-      
+      // Seed the graph at 0 viewers from the stream's actual start, not just from the first poll reading.
       for (const stream of ordered) {
         if (!Array.isArray(stream.viewerData) || stream.viewerData.length === 0) continue;
         const startedAtSec = typeof stream.startedAt === "number" ? Math.round(stream.startedAt / 1000) : null;
@@ -1367,9 +1377,9 @@
       const rowsHtml = ordered
         .map((stream, i) => {
           const durationMs = computeStreamDurationMs(stream);
-          
+          // Bogus/stuck-tracker durations still show the stream, just not a meaningless finish/duration.
           const durationTooLong = durationMs !== null && durationMs > MAX_STREAM_DURATION_MS;
-          
+          // A lastFetchedAt within the last hour likely means the stream is still live, not actually finished.
           const recentlyFetched = typeof stream.lastFetchedAt === "number" && Date.now() - stream.lastFetchedAt < RECENT_FETCH_WINDOW_MS;
           const start = escapeHtml(formatStreamTimestamp(stream.startedAt));
           const finish = durationTooLong || recentlyFetched ? "—" : escapeHtml(formatStreamTimestamp(stream.lastFetchedAt));
@@ -1404,25 +1414,25 @@
         toggleStreamGraphRow(tbody, row, ordered[Number(row.dataset.idx)]);
       });
     } catch (err) {
-      
+      // Couldn't obtain stream history (network/CORS/404) — same fallback as a legitimately-empty response.
       showNoStreamDataMessage(container);
     }
   }
 
-  
-  
+  // Populates every stream-history panel present on the page (one per
+  // qualifying platform — Fansly, RPlay, etc.), each independently.
   function initStreamHistory() {
     document.querySelectorAll(".stream-history-panel").forEach((container) => loadStreamHistory(container));
   }
 
-  
-  
-  
+  // ---------------------------------- Insights page ---------------------------------- //
+  // Chart.js (+ chartjs-chart-matrix for the heatmap dataset type) — vendored
+  // in /vendor/, only loaded on insights/ (see chartMatrixVendorTags()).
 
   const WEEKLY_STATS_URL = "https://cdn.spicyvtubers.com/fansly/weekly-stats.json";
   const DAY_LABELS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-  
-  
+  // streamStarts is now a per-week estimate (worker divides by weeksObserved), same as
+  // avgConcurrentStreams - the "~" prefix signals that, matching its format.
   const INSIGHTS_METRICS = [
     { key: "streamStarts", label: "Stream Starts", format: (v) => `~${Math.round(v)} start${Math.round(v) === 1 ? "" : "s"}`, aggregate: "sum" },
     { key: "avgConcurrentStreams", label: "Concurrent Streams", format: (v) => `~${Math.round(v)} live`, aggregate: "avg" },
@@ -1447,7 +1457,7 @@
       }
       renderInsights(summaryRoot, tabsRoot, graphRoot, buckets);
     } catch (err) {
-      
+      // Network/CORS/404/bad-shape — same fallback as a legitimately-empty response.
       showInsightsEmptyMessage(summaryRoot, tabsRoot, graphRoot);
     }
   }
@@ -1466,8 +1476,8 @@
 
   const INSIGHTS_HOUR_LABELS = Array.from({ length: 24 }, (_, h) => formatHourLabel(h));
 
-  
-  
+  // Server aggregates are UTC-bucketed; each bucket maps 1:1 to exactly one
+  // local (dow, hour) slot via a fixed reference week, no manual offset math.
   function convertBucketsToLocalTime(utcBuckets) {
     const localMap = new Map();
     const now = new Date();
@@ -1489,9 +1499,9 @@
     return localMap;
   }
 
-  
-  
-  
+  // Sum metrics (stream starts) aggregate a day's 24 hourly buckets by adding
+  // them up (a real daily total); rate metrics (concurrent streams/avg
+  // viewers) average them instead (summing a rate is meaningless).
   function computeInsightsDayTotals(localMap, metric) {
     const perDay = [];
     for (let dow = 0; dow < 7; dow++) {
@@ -1505,13 +1515,13 @@
     return perDay;
   }
 
-  
-  
-  
-  
-  
-  const INSIGHTS_CELL_BG = [28, 20, 32]; 
-  const INSIGHTS_CELL_FG = [38, 152, 245]; 
+  // Solid (opaque) blend of "the fansly blue" over the graph card's own
+  // background, rather than an alpha rgba() - adjacent borderless cells
+  // slightly overlap to avoid anti-aliasing gaps, and overlapping alpha
+  // fills would double-blend at that overlap into a visible seam; opaque
+  // colors overlap invisibly instead.
+  const INSIGHTS_CELL_BG = [28, 20, 32]; // var(--surface) #1c1420
+  const INSIGHTS_CELL_FG = [38, 152, 245]; // "the fansly blue"
   function insightsCellColor(intensity) {
     const mixed = INSIGHTS_CELL_BG.map((b, i) => Math.round(b + (INSIGHTS_CELL_FG[i] - b) * intensity));
     return `rgb(${mixed[0]}, ${mixed[1]}, ${mixed[2]})`;
@@ -1560,8 +1570,8 @@
           },
           y: {
             type: "category",
-            
-            
+            // category y-axes render the first label at the bottom - reverse the array
+            // (not `reverse: true`, which has no effect on category scales) so Sun is on top.
             labels: DAY_LABELS.slice().reverse(),
             offset: true,
             ticks: { color: CHART_AXIS_TEXT_COLOR },
@@ -1662,7 +1672,7 @@
     });
   }
 
-  
+  // ---------------------------------- Leaderboard page ---------------------------------- //
 
   const LEADERBOARD_LIVE_URL = "https://cdn.spicyvtubers.com/fansly/leaderboard/live.json";
   const LEADERBOARD_ACCOUNT_BASE = "https://cdn.spicyvtubers.com/fansly/leaderboard/";
@@ -1683,11 +1693,11 @@
   ];
 
   let leaderboardEntries = [];
-  let leaderboardIndexedIds = new Set(); 
-  let leaderboardFilterMode = "indexed"; 
-  const leaderboardHistoryCache = new Map(); 
-  const leaderboardSelected = new Map(); 
-  let leaderboardChart = null; 
+  let leaderboardIndexedIds = new Set(); // accountIds also present in fansly.json
+  let leaderboardFilterMode = "indexed"; // "all" | "indexed"
+  const leaderboardHistoryCache = new Map(); // accountId -> [[fetchedAt, rank], ...]
+  const leaderboardSelected = new Map(); // accountId -> entry, insertion-ordered (drives color assignment)
+  let leaderboardChart = null; // single persistent Chart.js instance, datasets updated in place
 
   async function loadLeaderboardIndexedIds() {
     try {
@@ -1770,8 +1780,8 @@
     gridRoot.innerHTML = "";
   }
 
-  
-  
+  // "Unknown" when both are unresolved; falls back to the bare username (no @) as the
+  // displayed name when displayName is missing, with no separate @username suffix.
   function leaderboardEntryParts(entry) {
     if (!entry.displayName && !entry.username) return { name: "Unknown", username: "" };
     if (!entry.displayName) return { name: entry.username, username: "" };
@@ -1809,7 +1819,7 @@
       .join("");
   }
 
-  
+  // Selected chips show the rank + name. Sorted by rank, not selection order.
   function renderLeaderboardSelectedChips(selectedRoot) {
     selectedRoot.innerHTML = Array.from(leaderboardSelected.entries())
       .sort((a, b) => a[1].rank - b[1].rank)
@@ -1845,8 +1855,8 @@
     }
   }
 
-  
-  
+  // Batches the fetch+render for one or more new selections (used for both a single
+  // list click and the initial top-rank pick) so multiple adds only repaint once.
   async function addLeaderboardAccounts(entries, graphRoot, gridRoot, selectedRoot) {
     const capacity = LEADERBOARD_MAX_SELECTED - leaderboardSelected.size;
     if (capacity <= 0) return;
@@ -1881,9 +1891,9 @@
     await addLeaderboardAccounts([entry], graphRoot, gridRoot, selectedRoot);
   }
 
-  
-  
-  
+  // Initial selection is the current top LEADERBOARD_INITIAL_TOP_COUNT - no more random shuffle.
+  // Picks from indexed entries first (matching the default "Indexed" filter view), only
+  // falling back to non-indexed entries if fewer than the target count are indexed.
   async function selectTopRankedLeaderboardEntries(graphRoot, gridRoot, selectedRoot) {
     const sorted = leaderboardEntries.slice().sort((a, b) => a.rank - b.rank);
     const indexed = sorted.filter(leaderboardEntryIsIndexed);
@@ -1953,9 +1963,302 @@
     }
   }
 
-  
+  // ---------------------------------- Top Creators page ----------------------------------
+
+  const TOPCREATORS_DATA_URL = "https://cdn.spicyvtubers.com/fansly/data.json";
+  const TOPCREATORS_INITIAL_ROWS = 50;
+  const TOPCREATORS_LOAD_BATCH_SIZE = 200;
+  const TOPSTREAMERS_DATA_URL = "https://cdn.spicyvtubers.com/fansly/streamers.json";
+
+  const RELATIVE_TIME_UNITS = [
+    ["year", 365 * 24 * 60 * 60 * 1000],
+    ["month", 30 * 24 * 60 * 60 * 1000],
+    ["week", 7 * 24 * 60 * 60 * 1000],
+    ["day", 24 * 60 * 60 * 1000],
+    ["hour", 60 * 60 * 1000],
+    ["minute", 60 * 1000],
+  ];
+  const relativeTimeFormat = new Intl.RelativeTimeFormat(undefined, { numeric: "auto" });
+
+  function formatRelativeTime(ms) {
+    const diff = ms - Date.now();
+    for (const [unit, unitMs] of RELATIVE_TIME_UNITS) {
+      if (Math.abs(diff) >= unitMs) return relativeTimeFormat.format(Math.round(diff / unitMs), unit);
+    }
+    return relativeTimeFormat.format(0, "minute");
+  }
+
+  async function loadTopCreatorsData() {
+    try {
+      const res = await fetch(`${TOPCREATORS_DATA_URL}?t=${Date.now()}`);
+      if (!res.ok) return null;
+      const data = await res.json();
+      return Array.isArray(data) ? data : null;
+    } catch (err) {
+      console.error(`Failed to load ${TOPCREATORS_DATA_URL}:`, err);
+      return null;
+    }
+  }
+
+  // Only shown in the stacked mobile layout, where the column headers are hidden.
+  const TOPCREATOR_STAT_ICONS = {
+    followers:
+      '<svg class="topcreator-stat-icon" viewBox="0 0 24 24" aria-label="Followers" role="img"><path fill="currentColor" d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5s-3 1.34-3 3 1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5C15 14.17 10.33 13 8 13zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>',
+    likes:
+      '<svg class="topcreator-stat-icon" viewBox="0 0 24 24" aria-label="Likes" role="img"><path fill="currentColor" d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>',
+    lastStreamed:
+      '<svg class="topcreator-stat-icon" viewBox="0 0 24 24" aria-label="Last streamed" role="img"><path fill="currentColor" d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg>',
+    avgViewers:
+      '<svg class="topcreator-stat-icon" viewBox="0 0 24 24" aria-label="Average viewers" role="img"><path fill="currentColor" d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>',
+    maxViewers:
+      '<svg class="topcreator-stat-icon" viewBox="0 0 24 24" aria-label="Peak viewers" role="img"><path fill="currentColor" d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"/></svg>',
+    streams:
+      '<svg class="topcreator-stat-icon" viewBox="0 0 24 24" aria-label="Streams" role="img"><path fill="currentColor" d="M17 10.5V7c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1v-3.5l4 4v-11l-4 4z"/></svg>',
+  };
+
+  function topCreatorStatCell(className, label, icon, valueHtml) {
+    return `<td data-label="${label}" class="topcreator-stat ${className}" title="${label}">${icon}${valueHtml}</td>`;
+  }
+
+  function formatStatNumber(value) {
+    return typeof value === "number" ? value.toLocaleString() : "—";
+  }
+
+  // Name/avatar/rank cell + Fansly pill cell, shared by the ranked Fansly list pages.
+  function buildRankedCreatorLeadCells(creator) {
+    const avatarSrc = getAvatarSrc(creator);
+    const avatarImgHtml = avatarSrc
+      ? `<img class="avatar-img" src="/${avatarSrc}" alt="" decoding="async" loading="lazy">`
+      : "";
+    const rankHtml = creator.position ? `<span class="topcreator-rank">#${creator.position}</span>` : "";
+    const fanslyHref = profileLink("https://fansly.com/", creator.fansly, creator.fanslyRef || "spicy");
+    const fanslyText = creator.fansly.toLowerCase();
+    const fanslyPill = pillLink(
+      creator.isLive ? "spice-pill is-live-fansly" : "spice-pill",
+      fanslyHref,
+      `Fansly: ${fanslyText}`,
+      "fansly",
+      fanslyText
+    );
+
+    return (
+      `<td data-label="Channel" class="name-cell">` +
+      `<a class="name-link" href="${BASE_URL}c/${encodeURIComponent(creator.channelLower)}/">` +
+      `<span class="topcreator-avatar-wrap"><span class="avatar">${avatarImgHtml}</span>${rankHtml}</span>` +
+      `<span class="channel-name">${escapeHtml(creator.channel)}</span>` +
+      `</a></td>` +
+      `<td data-label="Spice" class="col-fansly"><div class="spice-handles">${fanslyPill}</div></td>`
+    );
+  }
+
+  function buildTopCreatorRow(creator) {
+    const tr = document.createElement("tr");
+
+    let lastStreamedHtml;
+    if (creator.isLive) {
+      lastStreamedHtml = `<span class="topcreator-live"><span class="live-dot" aria-hidden="true"></span>Live now</span>`;
+    } else if (typeof creator.lastStartedAt === "number") {
+      lastStreamedHtml = `<span title="${escapeHtml(formatStreamTimestamp(creator.lastStartedAt))}">${escapeHtml(formatRelativeTime(creator.lastStartedAt))}</span>`;
+    } else {
+      lastStreamedHtml = "—";
+    }
+
+    tr.innerHTML =
+      buildRankedCreatorLeadCells(creator) +
+      topCreatorStatCell("col-followers", "Followers", TOPCREATOR_STAT_ICONS.followers, formatStatNumber(creator.followers)) +
+      topCreatorStatCell("col-likes", "Likes", TOPCREATOR_STAT_ICONS.likes, formatStatNumber(creator.likes)) +
+      `<td data-label="Last Streamed" class="topcreator-stat col-last-streamed">${TOPCREATOR_STAT_ICONS.lastStreamed}${lastStreamedHtml}</td>`;
+    return tr;
+  }
+
+  function buildTopStreamerRow(creator) {
+    const tr = document.createElement("tr");
+    const hours = typeof creator.hours === "number" ? `${creator.hours.toLocaleString()}h` : "—";
+    tr.innerHTML =
+      buildRankedCreatorLeadCells(creator) +
+      topCreatorStatCell("col-avg-viewers", "Avg viewers", TOPCREATOR_STAT_ICONS.avgViewers, formatStatNumber(creator.avgViewers)) +
+      topCreatorStatCell("col-max-viewers", "Max viewers", TOPCREATOR_STAT_ICONS.maxViewers, formatStatNumber(creator.maxViewers)) +
+      topCreatorStatCell("col-streams", "Streams", TOPCREATOR_STAT_ICONS.streams, formatStatNumber(creator.streams)) +
+      topCreatorStatCell("col-hours", "Hours streamed", TOPCREATOR_STAT_ICONS.lastStreamed, hours);
+    return tr;
+  }
+
+  async function initTopCreatorsPage() {
+    initPageSearch();
+
+    const resultCount = document.getElementById("topcreators-result-count");
+    if (!resultCount) return;
+
+    const [accounts, data, fanslyLiveLogins] = await Promise.all([
+      loadAccountsJson(),
+      loadTopCreatorsData(),
+      loadLiveLogins(LIVE_STATUS_PLATFORMS.find((p) => p.key === "fansly").jsonUrl),
+    ]);
+    if (!data || accounts.length === 0) {
+      resultCount.textContent = "Top creators data is unavailable right now.";
+      return;
+    }
+
+    const dataByLogin = new Map(data.filter((e) => e && typeof e.login === "string").map((e) => [e.login.toLowerCase(), e]));
+    const creators = accounts
+      .filter((c) => typeof c.fansly === "string" && c.fansly.trim() !== "")
+      .map((c) => {
+        const entry = dataByLogin.get(c.channelLower);
+        const lastStartedAt = typeof entry?.lastStartedAt === "number" ? entry.lastStartedAt : null;
+        return {
+          ...c,
+          followers: typeof entry?.followers === "number" ? entry.followers : null,
+          likes: typeof entry?.likes === "number" ? entry.likes : null,
+          lastStartedAt,
+          isLive: fanslyLiveLogins.has(c.channelLower),
+          searchText: `${c.nameSearchText} ${c.fansly}`.toLowerCase(),
+        };
+      });
+
+    // Ranked first (followers desc), then unscanned creators A-Z; loadAccountsJson() is already A-Z so the sort is stable for ties.
+    const ranked = creators.filter((c) => c.followers !== null).sort((a, b) => b.followers - a.followers);
+    const unranked = creators.filter((c) => c.followers === null);
+    ranked.forEach((c, i) => {
+      c.position = i + 1;
+    });
+    const ordered = [...ranked, ...unranked];
+
+    initRankedCreatorList(ordered, buildTopCreatorRow);
+  }
+
+  async function loadTopStreamersData() {
+    try {
+      const res = await fetch(`${TOPSTREAMERS_DATA_URL}?t=${Date.now()}`);
+      if (!res.ok) return null;
+      const data = await res.json();
+      return Array.isArray(data?.creators) ? data.creators : null;
+    } catch (err) {
+      console.error(`Failed to load ${TOPSTREAMERS_DATA_URL}:`, err);
+      return null;
+    }
+  }
+
+  async function initTopStreamersPage() {
+    initPageSearch();
+
+    const resultCount = document.getElementById("topcreators-result-count");
+    if (!resultCount) return;
+
+    const [accounts, data, liveLogins] = await Promise.all([loadAccountsJson(), loadTopStreamersData(), loadAllLiveLogins()]);
+    if (!data || accounts.length === 0) {
+      resultCount.textContent = "Top streamers data is unavailable right now.";
+      return;
+    }
+
+    const accountsByLogin = new Map(
+      accounts.filter((c) => typeof c.fansly === "string" && c.fansly.trim() !== "").map((c) => [c.channelLower, c])
+    );
+    // Worker output is already ranked; renumber so creators missing from accounts.json leave no gaps.
+    const ordered = data
+      .filter((e) => e && typeof e.login === "string" && accountsByLogin.has(e.login.toLowerCase()))
+      .sort((a, b) => a.rank - b.rank)
+      .map((e, i) => {
+        const c = accountsByLogin.get(e.login.toLowerCase());
+        return {
+          ...c,
+          position: i + 1,
+          avgViewers: e.avgViewers,
+          maxViewers: e.maxViewers,
+          streams: e.streams,
+          hours: e.hours,
+          isLive: liveLogins.fansly?.has(c.channelLower) === true,
+          searchText: `${c.nameSearchText} ${c.fansly}`.toLowerCase(),
+        };
+      });
+
+    initRankedCreatorList(ordered, buildTopStreamerRow);
+  }
+
+  // Search, load-more, and row navigation for the ranked Fansly list pages.
+  function initRankedCreatorList(ordered, buildRow) {
+    const searchInput = document.getElementById("topcreators-search-input");
+    const searchClearBtn = document.getElementById("topcreators-search-clear-btn");
+    const resultCount = document.getElementById("topcreators-result-count");
+    const tableSection = document.getElementById("topcreators-table-section");
+    const tbody = document.getElementById("topcreators-tbody");
+    const emptyState = document.getElementById("topcreators-empty-state");
+    const loadMoreWrap = document.getElementById("topcreators-load-more-wrap");
+    const loadMoreBtn = document.getElementById("topcreators-load-more-btn");
+    if (!searchInput || !tbody) return;
+
+    const rowCache = new WeakMap();
+    function getOrBuildRow(creator) {
+      let tr = rowCache.get(creator);
+      if (!tr) {
+        tr = buildRow(creator);
+        rowCache.set(creator, tr);
+      }
+      return tr;
+    }
+
+    let filtered = ordered;
+
+    function update() {
+      const query = searchInput.value.trim().toLowerCase();
+      searchClearBtn.hidden = query === "";
+      filtered = query ? ordered.filter((c) => c.searchText.includes(query)) : ordered;
+      tbody.replaceChildren(...filtered.slice(0, TOPCREATORS_INITIAL_ROWS).map(getOrBuildRow));
+      emptyState.hidden = filtered.length > 0;
+      loadMoreWrap.hidden = filtered.length <= TOPCREATORS_INITIAL_ROWS;
+      const suffix = filtered.length === ordered.length ? "" : `<span class="result-count-total"> of ${ordered.length}</span>`;
+      resultCount.innerHTML = `${resultCountIcon}${filtered.length}${suffix}`;
+    }
+
+    let searchTimer;
+    searchInput.addEventListener("input", () => {
+      searchClearBtn.hidden = searchInput.value.trim() === "";
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(update, 200);
+    });
+
+    searchClearBtn.addEventListener("click", () => {
+      searchInput.value = "";
+      update();
+      searchInput.focus();
+    });
+
+    loadMoreBtn.addEventListener("click", () => {
+      const current = tbody.children.length;
+      filtered.slice(current, current + TOPCREATORS_LOAD_BATCH_SIZE).forEach((c) => tbody.appendChild(getOrBuildRow(c)));
+      loadMoreWrap.hidden = tbody.children.length >= filtered.length;
+    });
+
+    tbody.addEventListener(
+      "load",
+      (e) => {
+        if (e.target.classList?.contains("avatar-img")) e.target.classList.add("is-loaded");
+      },
+      true
+    );
+    tbody.addEventListener(
+      "error",
+      (e) => {
+        if (e.target.classList?.contains("avatar-img")) e.target.remove();
+      },
+      true
+    );
+
+    // Whole row navigates to the creator page, same as the index.
+    tbody.addEventListener("click", (e) => {
+      if (e.target.closest("a")) return;
+      const link = e.target.closest("tr")?.querySelector(".name-link");
+      if (link) window.location.href = link.href;
+    });
+
+    update();
+    tableSection.hidden = false;
+  }
+
+  // Exposed so each page's own bootstrap script can call these once script001.js has loaded
   window.initIndex = initIndex;
   window.initCreatorPage = initCreatorPage;
   window.initInsights = initInsightsPage;
   window.initLeaderboard = initLeaderboardPage;
+  window.initTopCreators = initTopCreatorsPage;
+  window.initTopStreamers = initTopStreamersPage;
 })();
