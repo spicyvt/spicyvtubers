@@ -1,0 +1,99 @@
+{
+    "bio": "Hola , uwu soy zilvy!",
+    "twitch": {
+        "id": "840756450",
+        "login": "zilvyvt",
+        "displayName": "ZilvyVT",
+        "createdAt": "2022-10-26T03:17:29.258545Z",
+        "updatedAt": "2026-09-19T23:47:24.495818Z",
+        "description": "Hola , uwu soy zilvy!",
+        "primaryColorHex": "EB0000",
+        "followers": {
+            "totalCount": 44425
+        },
+        "follows": {
+            "totalCount": 99
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-19T23:57:16.24104Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/884e1b05-f2be-4841-a57a-1baf012c97c2-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a9d9369-4948-4987-8f9e-18fc5d1e306c-profile_banner-480.png",
+        "fetchedAt": "2026-10-29T00:40:23Z"
+    },
+    "twitter": {
+        "ziilvy": {
+            "id": null,
+            "handle": "ziilvy",
+            "displayName": "ZilvyVT ❤️‍🩹✨💋 | UmiUmiStudio",
+            "description": "✨Voice Act✨ Streamer ENG/ESP ZilvyVT💚💜 @Zilverk Fem Version Alter Ego🎨: @CHrWRkh2aV9g77F | ⚙️: @kvxart 🖋️#ZilvyVTart #Zilewdvy #ZilvyVTmomo #ZilvyVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1895651704458145792/V9hEpbUW_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1585762706925260800/1760353092/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ziilvy",
+            "fetchedAt": "2026-10-29T00:40:30Z"
+        }
+    },
+    "fansly": {
+        "id": "605640943072194560",
+        "username": "ZilvyVT",
+        "displayName": null,
+        "version": 4,
+        "followCount": 8800,
+        "statusId": 1,
+        "accountMediaLikes": 2460,
+        "postLikes": 5024,
+        "about": "🔥 La rata virtual más CALIENTE y saneamente cachonda~ 🔥\n\n🔞 VRchat NSFW, audios, juegos y más... 🔞\n\nAqui subire mi contenido que no puedo mostrar y aparte cosas extras!\n-\n-\n-\n-\n🔥 The hottest and wholesome virtual rat~ 🔥\n\n🔞 VRchat NSFW, audios, games and more... 🔞\n\nHere I will upload my content that I can't show and set aside extra stuff!\n\n - Z",
+        "location": "",
+        "streaming": {
+            "accountId": "605640943072194560",
+            "channel": {
+                "id": "620863805659815936",
+                "accountId": "605640943072194560",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.UJUExVTqCHzs.m3u8",
+                "chatRoomId": "620874229927124992",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1709519826000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "620863805659815937",
+                    "historyId": "963043716900089856",
+                    "channelId": "620863805659815936",
+                    "accountId": "605640943072194560",
+                    "title": "Sexy Dances FULL NUDE $10/min toytime",
+                    "status": 1,
+                    "viewerCount": 49,
+                    "version": 5626,
+                    "createdAt": 1709519827000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1791101901000,
+                    "startedAt": 1791101874000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "963024658108522496",
+                                "streamId": "620863805659815937",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-29T00:40:42Z"
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "bio": "Go by Bankai i go live.. matter of fact just follow my twitter and discord",
+    "twitch": {
+        "id": "84961618",
+        "login": "bankaikoi",
+        "displayName": "BanKaiKoi",
+        "createdAt": "2015-03-11T19:45:24.415313Z",
+        "updatedAt": "2026-10-17T13:54:02.890875Z",
+        "description": "Go by Bankai i go live.. matter of fact just follow my twitter and discord",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 1769
+        },
+        "follows": {
+            "totalCount": 445
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-07T10:17:12.452375Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/39cd48ab-addb-4550-86a5-e86df339adf9-profile_image-300x300.jpeg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1766fb42-7f41-41ca-b168-812dc0be7df4-profile_banner-480.jpeg",
+        "fetchedAt": "2026-10-29T00:40:28Z"
+    },
+    "twitter": {
+        "bakadegen": {
+            "id": null,
+            "handle": "bakadegen",
+            "displayName": "Baka🔞",
+            "description": "🔞lewd dumbass... Relax Himbo having fun.  \n💕 cvr content (wink)\nhttps://t.co/GxmV78EHro",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1944433423017189376/V2ATqZ_9_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1636364985310883844/1733494573/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/BakaDegen",
+            "fetchedAt": "2026-10-29T00:40:37Z"
+        },
+        "baankaikoi": {
+            "id": null,
+            "handle": "baankaikoi",
+            "displayName": "BanKai",
+            "description": "🔞Just a Guy \n 18+ Streamer\nAvi Promoter \nhttps://t.co/O5H5xaUNbr",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1904214470907338752/ItBV462A_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1555913778633506817/1743454902/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/BaanKaiKoi",
+            "fetchedAt": "2026-10-29T00:40:39Z"
+        }
+    },
+    "fansly": {
+        "id": "445078646080675840",
+        "username": "DegenBaka",
+        "displayName": null,
+        "version": 4,
+        "followCount": 9573,
+        "statusId": 1,
+        "accountMediaLikes": 31221,
+        "postLikes": 5167,
+        "about": "I'm just a guy \nMaking gooner content left and right\nAll content made in ChilloutVr\nOpen to collabs~\nIf you wanna spice up my life: https://throne.com/bankaikoi\nDM only about about buying~",
+        "location": "",
+        "streaming": {
+            "accountId": "445078646080675840",
+            "channel": {
+                "id": "935009204853305344",
+                "accountId": "445078646080675840",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.RBJEyhzm8KUZ.m3u8",
+                "chatRoomId": "935013592502124544",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1784417926000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "935009204853305345",
+                    "historyId": "971712946411421696",
+                    "channelId": "935009204853305344",
+                    "accountId": "445078646080675840",
+                    "title": "GUSH ON~ LEWD NIGHT N VIBES",
+                    "status": 1,
+                    "viewerCount": 47,
+                    "version": 20,
+                    "createdAt": 1784417926000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793177788000,
+                    "startedAt": 1793168780000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "968503645081464832",
+                                "streamId": "935009204853305345",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-29T00:40:42Z"
+    }
+}
