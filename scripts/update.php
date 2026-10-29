@@ -904,6 +904,9 @@ function fetchTwitterPlatformDataDirect(string $handle): ?array
         $followersCount = $stats['Follows'] ?? null;
     }
 
+    // Sensitive/18+ profiles omit the avatar preload and author microdata.
+    $avatarUrl = $avatarUrl ?? domFirst($xpath, '(//meta[@property="og:image"][contains(@content,"profile_images")]/@content)[1]');
+
     if (!is_string($avatarUrl) || $avatarUrl === '') {
         // HTTP 200 but no avatar found in the microdata is the signature of
         // X serving a login/rate-limit/challenge wall instead of the real

@@ -294,6 +294,8 @@ function checkTwitterExistsDirect(string $handle): bool
         }
     }
 
+    $avatarUrl = $avatarUrl ?? domFirst($xpath, '(//meta[@property="og:image"][contains(@content,"profile_images")]/@content)[1]');
+
     return is_string($avatarUrl) && $avatarUrl !== '';
 }
 
