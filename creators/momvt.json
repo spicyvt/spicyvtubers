@@ -1,0 +1,104 @@
+{
+    "bio": "Your internet anime mom on Twitch. I'm proud of you. Streams are 11am EST on Monday, Wednesday, and Friday!",
+    "twitch": {
+        "id": "798234447",
+        "login": "momvt",
+        "displayName": "MomVT",
+        "createdAt": "2022-05-29T23:55:59.113949Z",
+        "updatedAt": "2026-10-28T16:11:35.052771Z",
+        "description": "Your internet anime mom on Twitch. I'm proud of you. Streams are 11am EST on Monday, Wednesday, and Friday!",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 5640
+        },
+        "follows": {
+            "totalCount": 791
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-28T22:20:47.319975Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b9d160b-0c8c-4a2a-89e2-508b1f150390-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3070dfd-5e89-4f1c-a122-0fb5d34fdb64-profile_banner-480.jpeg",
+        "fetchedAt": "2026-10-29T18:48:32Z"
+    },
+    "twitter": {
+        "mommyvt_": {
+            "id": null,
+            "handle": "mommyvt_",
+            "displayName": "MommyVT",
+            "description": "NSFW account for @MomVT_\nart tag #OnlyMoms\n\nVenmo and business inquiries mommyvtofficial@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2088434684069842944/9EW8qCAw_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2088432470223953920/1786762428/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/MommyVT_",
+            "fetchedAt": "2026-10-29T18:48:37Z"
+        },
+        "momvt_": {
+            "id": null,
+            "handle": "momvt_",
+            "displayName": "MomVT 🐻",
+            "description": "Anime mom in your area. I&#x27;m proud of you. https://t.co/S7heVaCidd fanart: #FridgeArt #MomsFridgeArt lewd: #OnlyMoms ;",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2020630307813384193/xgm19qKV_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1534221692888915968/1654622708/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/MomVT_",
+            "fetchedAt": "2026-10-29T18:48:39Z"
+        }
+    },
+    "fansly": {
+        "id": "558386941045776384",
+        "username": "MommyVT",
+        "displayName": null,
+        "version": 3,
+        "followCount": 672,
+        "statusId": 1,
+        "accountMediaLikes": 160,
+        "postLikes": 536,
+        "about": "Your essential anime mommy\n\nNew here but open to ideas!\n\nWant to spoil me? https://throne.com/mommyvt\n\nWant to hang out during daylight hours? https://twitch.tv/momvt ",
+        "location": "",
+        "streaming": {
+            "accountId": "558386941045776384",
+            "channel": {
+                "id": "947020186802728960",
+                "accountId": "558386941045776384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2MABgHmcLisO.m3u8",
+                "chatRoomId": "947020228427018240",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1787281567000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "947020186802728961",
+                    "historyId": "972256847371194371",
+                    "channelId": "947020186802728960",
+                    "accountId": "558386941045776384",
+                    "title": "let's keep a Cum Count! !tipmenu",
+                    "status": 2,
+                    "viewerCount": 20,
+                    "version": 11,
+                    "createdAt": 1787281567000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793299705000,
+                    "startedAt": 1793298456000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-29T18:48:48Z"
+    }
+}

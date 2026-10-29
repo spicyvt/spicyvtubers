@@ -1,0 +1,104 @@
+{
+    "bio": "Hey I'm Xath and I'm primarily a horror and community-based streamer. I'm just looking to record some fun times with my friends and hoping I'll meet some more along the way. 18+ and mature content warning at all times.",
+    "twitch": {
+        "id": "157778461",
+        "login": "xathaneal",
+        "displayName": "Xathaneal",
+        "createdAt": "2017-05-24T05:39:01.913894Z",
+        "updatedAt": "2026-06-21T10:52:26.803113Z",
+        "description": "Hey I'm Xath and I'm primarily a horror and community-based streamer. I'm just looking to record some fun times with my friends and hoping I'll meet some more along the way. 18+ and mature content warning at all times. ",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 112
+        },
+        "follows": {
+            "totalCount": 26
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2024-12-22T23:49:51.704618Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1da0cef-2288-4409-b3d4-dcc29d9ad8ba-profile_image-300x300.jpg",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d43dc832-dae3-477d-a832-e30e7fa5c080-profile_banner-480.png",
+        "fetchedAt": "2026-10-29T18:48:34Z"
+    },
+    "twitter": {
+        "glitchedxana": {
+            "id": null,
+            "handle": "glitchedxana",
+            "displayName": "Xana 🔞",
+            "description": "276 followers · 1779 following. Joined Aug 2011. See the latest conversations with @glitchedxana",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2083794092832555008/k4HFYYUf_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/363331071/1785650202/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/glitchedxana",
+            "fetchedAt": "2026-10-29T18:48:40Z"
+        },
+        "xana_online": {
+            "id": null,
+            "handle": "xana_online",
+            "displayName": "Xana",
+            "description": "I am Xana. | VT Creator | I play games here | SFW",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2083794353412087808/hP7RI7Y2_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1946292413204709377/1785650264/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/xana_online",
+            "fetchedAt": "2026-10-29T18:48:42Z"
+        }
+    },
+    "fansly": {
+        "id": "300223233947348992",
+        "username": "Xathaneal",
+        "displayName": "Xana",
+        "version": 12,
+        "followCount": 592,
+        "statusId": 1,
+        "accountMediaLikes": 320,
+        "postLikes": 174,
+        "about": "====================================================================\n:: ACCESS GRANTED: XANA_CORE ::\n====================================================================\n[+] IDENTITY: Xana | Vessel of Lust\n[+] MANIFESTO: 【﻿ＬＥＴ　ＭＥ　ＢＥ　ＴＨＥ　ＯＢＪＥＣＴ　ＯＦ　ＹＯＵＲ　ＤＥＳＩＲＥ】\n--------------------------------------------------------------------\n[NETWORK RULES]\n  >> Reach out through the Void. 【﻿Ｉ＇ｌｌ ａｎｓｗｅｒ ｂａｃｋ】\n  >> Tributes get noticed first.\n  >> Become 【﻿Ｔｅｔｈｅｒｅｄ ｔｏ ｍｅ】 for elevated clearance.\n[DATA STREAMS]\n  >> [0x01] --GLITCHES // TEASERS\n  >> [0x02] --RITUALS  // VIDEOS\n  >> [0x03] --POV ERP  【﻿Ｊｕｓｔ ｆｏｒ ｙｏｕ】\n  >> [0x04] --CUSTOM RITUALS UPON REQUEST\n[SECURITY]\n  >> Free Offerings persistent in grid.\n  >> Local storage prohibited. Transactions final.\n====================================================================\n【﻿↓ Ｉｎｉｔｉａｌｉｚｅ Ｂｅｌｏｗ ↓】",
+        "location": "",
+        "streaming": {
+            "accountId": "300223233947348992",
+            "channel": {
+                "id": "802445007603650560",
+                "accountId": "300223233947348992",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.0FXPvmvFMiOG.m3u8",
+                "chatRoomId": "833603412196085760",
+                "status": 2,
+                "version": 15,
+                "createdAt": 1752812158000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "802445007603650561",
+                    "historyId": "966236769676697600",
+                    "channelId": "802445007603650560",
+                    "accountId": "300223233947348992",
+                    "title": "Late Night Vibes //  Every Spin you Win! // !offering",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 64,
+                    "createdAt": 1752812158000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1791866962000,
+                    "startedAt": 1791863157000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-29T18:48:48Z"
+    }
+}
