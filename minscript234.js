@@ -2024,6 +2024,10 @@
     return typeof value === "number" ? value.toLocaleString() : "—";
   }
 
+  function formatNonZeroStat(value) {
+    return typeof value === "number" && value !== 0 ? value.toLocaleString() : "—";
+  }
+
   
   function buildRankedCreatorLeadCells(creator) {
     const avatarSrc = getAvatarSrc(creator);
@@ -2076,9 +2080,9 @@
     const hours = typeof creator.hours === "number" ? `${creator.hours.toLocaleString()}h` : "—";
     tr.innerHTML =
       buildRankedCreatorLeadCells(creator) +
-      topCreatorStatCell("col-avg-viewers", "Avg viewers", TOPCREATOR_STAT_ICONS.avgViewers, formatStatNumber(creator.avgViewers)) +
-      topCreatorStatCell("col-max-viewers", "Max viewers", TOPCREATOR_STAT_ICONS.maxViewers, formatStatNumber(creator.maxViewers)) +
-      topCreatorStatCell("col-streams", "Streams", TOPCREATOR_STAT_ICONS.streams, formatStatNumber(creator.streams)) +
+      topCreatorStatCell("col-avg-viewers", "Avg viewers", TOPCREATOR_STAT_ICONS.avgViewers, formatNonZeroStat(creator.avgViewers)) +
+      topCreatorStatCell("col-max-viewers", "Max viewers", TOPCREATOR_STAT_ICONS.maxViewers, formatNonZeroStat(creator.maxViewers)) +
+      topCreatorStatCell("col-streams", "Streams", TOPCREATOR_STAT_ICONS.streams, formatNonZeroStat(creator.streams)) +
       topCreatorStatCell("col-hours", "Hours streamed", TOPCREATOR_STAT_ICONS.lastStreamed, hours);
     return tr;
   }
