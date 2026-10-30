@@ -1,0 +1,73 @@
+{
+    "twitter": {
+        "_willowvr": {
+            "id": null,
+            "handle": "_willowvr",
+            "displayName": "WillowVR",
+            "description": "A mute being cute and wanting to have some fun 😉",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1804241861474680832/aX-GHHvM_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1496158574627725321/1710597955/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/_WillowVR",
+            "fetchedAt": "2026-10-30T00:12:23Z"
+        }
+    },
+    "fansly": {
+        "id": "352604620624769024",
+        "username": "WillowVR",
+        "displayName": null,
+        "version": 7,
+        "followCount": 13525,
+        "statusId": 1,
+        "accountMediaLikes": 29546,
+        "postLikes": 27749,
+        "about": "https://linktr.ee/willowvrc \n\nHi! I'm Willow! A cute Red Panda girl mute that likes to take pictures of herself for others <3! Feel free to DM me about any custom content ideas you'd like for me to do for you~\n\nRecent videos edited by @lydiavrc",
+        "location": "Getting my feet worshipped",
+        "streaming": {
+            "accountId": "352604620624769024",
+            "channel": {
+                "id": "372822746435952640",
+                "accountId": "352604620624769024",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Jc40dhejXsa0.m3u8",
+                "chatRoomId": "372822870629298178",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1650382229000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "372822746435952641",
+                    "historyId": "943031790312894464",
+                    "channelId": "372822746435952640",
+                    "accountId": "352604620624769024",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 31,
+                    "version": 962,
+                    "createdAt": 1650382229000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786338332000,
+                    "startedAt": 1786330659000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "943019583999057921",
+                                "streamId": "372822746435952641",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-30T00:12:26Z"
+    }
+}

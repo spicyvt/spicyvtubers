@@ -1,0 +1,99 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "1068454318",
+        "login": "flexuh_",
+        "displayName": "flexuh_",
+        "createdAt": "2024-04-18T07:04:26.060339Z",
+        "updatedAt": "2026-10-28T20:56:17.013381Z",
+        "description": "",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 2040
+        },
+        "follows": {
+            "totalCount": 219
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-28T23:07:53.183023Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c23d29b5-8a5a-41b9-9e51-d43805ea4bfc-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/db8e3b42-5734-4b63-bd0f-43079edfde17-profile_banner-480.png",
+        "fetchedAt": "2026-10-30T00:12:17Z"
+    },
+    "twitter": {
+        "flexuhvr": {
+            "id": null,
+            "handle": "flexuhvr",
+            "displayName": "flexuh 🔞",
+            "description": "yes, it’s custom┊🎨 3D Artist making VRChat Avatars &amp; Assets ┊🦝 #FLXAvatar ┊🖥️ 3D COMMS: https://t.co/XdNpu7kBIV ┊11/10/2021 ♡",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2026135096085155840/2rz8kDFc_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1271322279733891072/1771903172/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/flexuhVR",
+            "fetchedAt": "2026-10-30T00:12:25Z"
+        }
+    },
+    "fansly": {
+        "id": "720839647055323136",
+        "username": "flexuhVR",
+        "displayName": "flexuh",
+        "version": 4,
+        "followCount": 13792,
+        "statusId": 1,
+        "accountMediaLikes": 26726,
+        "postLikes": 28181,
+        "about": "Totally insane, strange and lovely 3D raccoon lewdtuber.\nCome to my page on Thursdays at 7PM PST for a live show!\n🔗 Don’t miss out on my other content: links.flexuhvr.co 💌",
+        "location": "VRChat",
+        "streaming": {
+            "accountId": "720839647055323136",
+            "channel": {
+                "id": "724959633369739266",
+                "accountId": "720839647055323136",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wc1h2KFe9ySl.m3u8",
+                "chatRoomId": "724959886659563520",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1734338205000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "724959633369739267",
+                    "historyId": "971876565480644609",
+                    "channelId": "724959633369739266",
+                    "accountId": "720839647055323136",
+                    "title": "!menu | https://discord.gg/68be5NSkRp",
+                    "status": 1,
+                    "viewerCount": 357,
+                    "version": 389,
+                    "createdAt": 1734338206000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793208214000,
+                    "startedAt": 1793207789000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "906414902107717632",
+                                "streamId": "724959633369739267",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-30T00:12:26Z"
+    }
+}
