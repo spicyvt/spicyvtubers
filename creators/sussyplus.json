@@ -1,0 +1,90 @@
+{
+    "bio": "Just a femboy wiggling around",
+    "twitch": {
+        "id": "88253591",
+        "login": "sussyplus",
+        "displayName": "SussyPlus",
+        "createdAt": "2015-04-11T16:30:55.211803Z",
+        "updatedAt": "2026-10-22T00:11:46.699843Z",
+        "description": "Just a femboy wiggling around",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 52
+        },
+        "follows": {
+            "totalCount": 317
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-21T07:31:44.072259Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/15e2c7fc-1cbf-493a-bea0-29ce6292291d-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e8d76c5-c27e-4912-a201-6fd84fbba6d2-profile_banner-480.png",
+        "fetchedAt": "2026-10-30T20:45:25Z"
+    },
+    "twitter": {
+        "sussyplus": {
+            "id": null,
+            "handle": "sussyplus",
+            "displayName": "Sussy Plussy🔞",
+            "description": "Switch femboy having fun and posting lewds sometimes ^^ \nNo minors allowed🔞\nNSFW content made on CVR\nhttps://t.co/DX5mpDlRG6\nhttps://t.co/gTjVInflTB",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1652583908138012674/zAfdx9_9_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1442304773810622466/1682841574/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/SussyPlus",
+            "fetchedAt": "2026-10-30T20:45:32Z"
+        }
+    },
+    "fansly": {
+        "id": "324262541687529472",
+        "username": "SussyPlus",
+        "displayName": "Sussy Plussy",
+        "version": 6,
+        "followCount": 9847,
+        "statusId": 1,
+        "accountMediaLikes": 13707,
+        "postLikes": 15910,
+        "about": "Just a switch femboy having fun ^ ^\nI offer custom videos/photoshots/ERP sessions if anyone would like ❤️ hit me up for more info\nhttps://linktr.ee/sussyplus",
+        "location": "",
+        "streaming": {
+            "accountId": "324262541687529472",
+            "channel": {
+                "id": "458062334598852608",
+                "accountId": "324262541687529472",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Tz1VbNaJVZpA.m3u8",
+                "chatRoomId": "458062396452253696",
+                "status": 2,
+                "version": 63,
+                "createdAt": 1670704930000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "458062334598852609",
+                    "historyId": "972428918390800384",
+                    "channelId": "458062334598852608",
+                    "accountId": "324262541687529472",
+                    "title": "Lets have fun ♥️ ",
+                    "status": 1,
+                    "viewerCount": 35,
+                    "version": 7416,
+                    "createdAt": 1670704931000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793346909000,
+                    "startedAt": 1793339481000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-30T20:45:33Z"
+    }
+}

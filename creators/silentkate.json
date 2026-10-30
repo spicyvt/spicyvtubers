@@ -1,0 +1,99 @@
+{
+    "bio": "私の名前はケートさん、いいですね。見てください！",
+    "twitch": {
+        "id": "1330319600",
+        "login": "silentkate_vr",
+        "displayName": "SilentKate_VR",
+        "createdAt": "2025-07-07T14:23:49.627544Z",
+        "updatedAt": "2026-10-27T20:08:46.376054Z",
+        "description": "私の名前はケートさん、いいですね。見てください！",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 1186
+        },
+        "follows": {
+            "totalCount": 163
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-27T22:00:44.734085Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4b96084a-26b5-4708-b4c1-93a201531f59-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd48af05-4bcf-4fea-960c-7bdb60b632b9-profile_banner-480.png",
+        "fetchedAt": "2026-10-30T20:45:22Z"
+    },
+    "twitter": {
+        "silentk8te": {
+            "id": null,
+            "handle": "silentk8te",
+            "displayName": "Silent Kate",
+            "description": "Why don&#x27;t you take a trip to the dark side\n死ねください",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1923246018587467776/NXdZKHTR_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1593769201935609858/1760056899/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/SilentK8te",
+            "fetchedAt": "2026-10-30T20:45:29Z"
+        }
+    },
+    "fansly": {
+        "id": "464300393371807744",
+        "username": "silentkate",
+        "displayName": "Silent Kate",
+        "version": 16,
+        "followCount": 9628,
+        "statusId": 1,
+        "accountMediaLikes": 5870,
+        "postLikes": 5117,
+        "about": "Hi, It's you're favorite local degen mute looking to show you a good time\n\nもしもし、愛人・ケイトはあなたに喜びを与えるためにここに\n\nMost post are collections of the most spicy VODs",
+        "location": "",
+        "streaming": {
+            "accountId": "464300393371807744",
+            "channel": {
+                "id": "655542819535990785",
+                "accountId": "464300393371807744",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.i18QWNVO7Xzy.m3u8",
+                "chatRoomId": "655544467230568448",
+                "status": 2,
+                "version": 51,
+                "createdAt": 1717787947000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "655542819535990786",
+                    "historyId": "971918063114940416",
+                    "channelId": "655542819535990785",
+                    "accountId": "464300393371807744",
+                    "title": "A wonderful moon to get blowed next to",
+                    "status": 1,
+                    "viewerCount": 88,
+                    "version": 5500,
+                    "createdAt": 1717787948000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793224544000,
+                    "startedAt": 1793217683000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "748351476245471233",
+                                "streamId": "655542819535990786",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-30T20:45:33Z"
+    }
+}
