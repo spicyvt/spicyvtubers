@@ -1966,7 +1966,7 @@
   // ---------------------------------- Top Creators page ----------------------------------
 
   const TOPCREATORS_DATA_URL = "https://cdn.spicyvtubers.com/fansly/data.json";
-  const TOPCREATORS_INITIAL_ROWS = 50;
+  const TOPCREATORS_INITIAL_ROWS = 100;
   const TOPCREATORS_LOAD_BATCH_SIZE = 200;
   const TOPSTREAMERS_DATA_URL = "https://cdn.spicyvtubers.com/fansly/streamers.json";
 
