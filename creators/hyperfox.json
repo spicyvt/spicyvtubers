@@ -1,0 +1,97 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "438486417",
+        "login": "hyperfox",
+        "displayName": "hyperfox",
+        "createdAt": "2019-05-30T17:06:34.104738Z",
+        "updatedAt": "2022-04-05T18:26:39.492205Z",
+        "description": null,
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 1
+        },
+        "follows": {
+            "totalCount": 3
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7c7bed5-38e2-4450-a260-94f313d7ce05-profile_image-300x300.png",
+        "fetchedAt": "2026-10-31T19:17:45Z"
+    },
+    "twitter": {
+        "hyperfox_vr": {
+            "id": null,
+            "handle": "hyperfox_vr",
+            "displayName": "HyperFox_VR",
+            "description": "Come hangout with me on streams and in my server!\nI love to vibe, wiggle and yap with peeps who wanna play with me!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2109755295039905792/olfeMz4d_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/HyperFox_VR",
+            "fetchedAt": "2026-10-31T19:17:48Z"
+        }
+    },
+    "fansly": {
+        "id": "438484075422949376",
+        "username": "HyperFox",
+        "displayName": "HyperFox",
+        "version": 6,
+        "followCount": 9789,
+        "statusId": 1,
+        "accountMediaLikes": 5196,
+        "postLikes": 2851,
+        "about": "Socials here: https://hyperfoxvr.carrd.co/ \n\nHewwo!!\n\nIt's your silly neighborhood Foxxy vtuber! 💜\n\nI'm out here just trying to have some fun being sussy 💋, nerdy 🤓, bubbly and always yappin'!🫰🏻\n\nYou can come hangout wif me and see if you get me being Bratty 😜, Cutsey or maybe a little Mommy 😉\n\nCome catch me when I'm live and check out my socials below for more fun!  💕",
+        "location": "",
+        "streaming": {
+            "accountId": "438484075422949376",
+            "channel": {
+                "id": "471763440017354752",
+                "accountId": "438484075422949376",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iAz4Tq2WfodS.m3u8",
+                "chatRoomId": "471763905526378497",
+                "status": 2,
+                "version": 131,
+                "createdAt": 1673971529000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "471763440017354753",
+                    "historyId": "926664067035181056",
+                    "channelId": "471763440017354752",
+                    "accountId": "438484075422949376",
+                    "title": "Come in and make me feel good!💜 !menu 🩷 !socials 🩷 !throne 💜 !Discord 🩷 !avi💜!blerp",
+                    "status": 1,
+                    "viewerCount": 20,
+                    "version": 5231,
+                    "createdAt": 1673971529000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782431304000,
+                    "startedAt": 1782428290000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "926661230398033921",
+                                "streamId": "471763440017354753",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-31T19:17:52Z"
+    }
+}
