@@ -8772,18 +8772,6 @@
         },
         "generatedAt": "2026-10-29T21:02:07+00:00"
     },
-    "mochiweebo": {
-        "entry": {
-            "fansly": "mochiweebo",
-            "channel": "mochiweebo",
-            "xHandles": [
-                "mochiweebo"
-            ],
-            "socials": "https://linktr.ee/mochiweebo",
-            "data": true
-        },
-        "generatedAt": "2026-08-08T23:11:24+00:00"
-    },
     "skout": {
         "entry": {
             "slug": "skout",
@@ -19078,5 +19066,36 @@
             "banner": "bannersx"
         },
         "generatedAt": "2026-10-31T01:49:26+00:00"
+    },
+    "mochiweebo": {
+        "entry": {
+            "slug": "mochiweebo",
+            "fansly": "mochiweebo",
+            "channel": "mochiweebo",
+            "twitch": "mochiweebo",
+            "xHandles": [
+                "mochiweebo",
+                "momotansy"
+            ],
+            "socials": "https://linktr.ee/mochiweebo",
+            "avatar": "avatarsx",
+            "banner": "bannersx"
+        },
+        "generatedAt": "2026-10-31T13:36:05+00:00"
+    },
+    "daradoki": {
+        "entry": {
+            "slug": "daradoki",
+            "fansly": "daradoki",
+            "channel": "Daradoki",
+            "twitch": "daradoki",
+            "xHandles": [
+                "daradoki"
+            ],
+            "socials": "https://linktr.ee/Daradoki",
+            "avatar": "avatarsx",
+            "banner": "bannersx"
+        },
+        "generatedAt": "2026-10-31T13:36:05+00:00"
     }
 }
