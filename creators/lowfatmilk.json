@@ -1,0 +1,113 @@
+{
+    "bio": "Just a bunny here to make your day a little better 🤍",
+    "twitch": {
+        "id": "1096973559",
+        "login": "mooldymilk",
+        "displayName": "mooldymilk",
+        "createdAt": "2024-06-09T20:21:12.450521Z",
+        "updatedAt": "2026-10-28T16:34:39.887894Z",
+        "description": "Just a bunny here to make your day a little better 🤍",
+        "primaryColorHex": "B6977D",
+        "followers": {
+            "totalCount": 617
+        },
+        "follows": {
+            "totalCount": 63
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-28T19:18:31.6412Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff362a18-0554-4036-acc2-f9d0f25f5bdf-profile_image-300x300.png",
+        "bannerImageUrl": null,
+        "fetchedAt": "2026-10-31T00:10:22Z"
+    },
+    "twitter": {
+        "lowfatmillk": {
+            "id": null,
+            "handle": "lowfatmillk",
+            "displayName": "Milk",
+            "description": "A doer of things of sorts.\n\nDiscord: https://t.co/iW1agcETv2",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2097685298830266368/9IWmurWH_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/2097684514449326081/1788962242/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lowfatmillk",
+            "fetchedAt": "2026-10-31T00:10:35Z"
+        },
+        "callmegoob_": {
+            "id": null,
+            "handle": "callmegoob_",
+            "displayName": "Hidden Milk",
+            "description": "🔞🐄☕️ 💙\nhttps://t.co/4sceuQE8l0",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1836664526441172992/r8rUmjES_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1313579009851129857/1760463133/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/CallMeGoob_",
+            "fetchedAt": "2026-10-31T00:10:36Z"
+        }
+    },
+    "fansly": {
+        "id": "522679488291545089",
+        "username": "lowfatmilk_",
+        "displayName": "ღilk",
+        "version": 16,
+        "followCount": 9678,
+        "statusId": 2,
+        "accountMediaLikes": 13457,
+        "postLikes": 9402,
+        "about": "『 🔴 ʟɪᴠᴇ ᴇᴠᴇʀʏ ꜰʀɪᴅᴀʏ🔴 』\n𝚅𝚁 ● 𝙸𝚁𝙻 ● 𝙶𝙵𝙴 ● 𝙲𝚞𝚜𝚝𝚘𝚖𝚜\n\n\nYour silly, sweet, sensual cow girl 🐄\nThink can you wrangle me in? 😘\n╰⪼ I have a very busy lifestyle so please be patient!\n\n\nGet live updates here!\n╰⪼ discord.com/invite/E7QEmqSf23\n\n\n『Stream rewards and content will be given out when I can get to them and feel comfy 🐄 I'm a one girl show so I try my best to do this alone! 』\n\n\n『No reusing, reposting, my content without my consent thanks. It's protected under copyright law yada yada or something. 』\n\nBio inspo from:\n╰⪼ The goat (dawg) @KabbiePatty!",
+        "location": "On the farm",
+        "streaming": {
+            "accountId": "522679488291545089",
+            "channel": {
+                "id": "543688932823408643",
+                "accountId": "522679488291545089",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zEckTMZmVleB.m3u8",
+                "chatRoomId": "543689103569334272",
+                "status": 2,
+                "version": 69,
+                "createdAt": 1691119902000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "543688932823408644",
+                    "historyId": "967670009067229184",
+                    "channelId": "543688932823408643",
+                    "accountId": "522679488291545089",
+                    "title": "Short short short stream!",
+                    "status": 1,
+                    "viewerCount": 137,
+                    "version": 8461,
+                    "createdAt": 1691119903000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792212129000,
+                    "startedAt": 1792204868000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "962571516774461440",
+                                "streamId": "543688932823408644",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-31T00:10:38Z"
+    }
+}

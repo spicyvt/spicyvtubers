@@ -1,0 +1,90 @@
+{
+    "bio": "Montagem Hikari",
+    "twitch": {
+        "id": "466076916",
+        "login": "chiwovr",
+        "displayName": "ChiwoVR",
+        "createdAt": "2019-10-09T01:14:20.095978Z",
+        "updatedAt": "2026-10-19T06:12:02.966672Z",
+        "description": "Montagem Hikari",
+        "primaryColorHex": "F184C5",
+        "followers": {
+            "totalCount": 4975
+        },
+        "follows": {
+            "totalCount": 521
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-07T04:16:44.689793Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/22bc2b37-1600-49e9-a919-573e7d694057-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3163be2-35e7-42d6-af06-02056d99327d-profile_banner-480.jpeg",
+        "fetchedAt": "2026-10-31T00:10:19Z"
+    },
+    "twitter": {
+        "shiwobae": {
+            "id": null,
+            "handle": "shiwobae",
+            "displayName": "🎀💙𝙎𝙝𝙞𝙧𝙤𝘽𝙖𝙚💙🎀",
+            "description": "Hi~ Im a lewd content creator on Fansly🔞 Pink and Blue💙\nShe/Her\nModels Addicting, Take Pics and Vids 💕https://t.co/d2KS8LAO1t",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2061494281601499136/pujDCva7_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1334384408682319873/1775253115/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ShiwoBae",
+            "fetchedAt": "2026-10-31T00:10:26Z"
+        }
+    },
+    "fansly": {
+        "id": "322617459242704896",
+        "username": "ShiroBae",
+        "displayName": "ShiroBae",
+        "version": 6,
+        "followCount": 9722,
+        "statusId": 3,
+        "accountMediaLikes": 17710,
+        "postLikes": 14336,
+        "about": "Hi, I am an lewd VRChat content creator nice to meet you.\nCheck out my socials: https://linktr.ee/shirobae",
+        "location": "",
+        "streaming": {
+            "accountId": "322617459242704896",
+            "channel": {
+                "id": "467367127918063616",
+                "accountId": "322617459242704896",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.R4SHgSge649b.m3u8",
+                "chatRoomId": "467367160012877825",
+                "status": 2,
+                "version": 50,
+                "createdAt": 1672923366000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "467367127918063617",
+                    "historyId": "971766949212090368",
+                    "channelId": "467367127918063616",
+                    "accountId": "322617459242704896",
+                    "title": "Vibes, Dance, Seiso",
+                    "status": 1,
+                    "viewerCount": 154,
+                    "version": 2900,
+                    "createdAt": 1672923367000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793181662000,
+                    "startedAt": 1793181655000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-31T00:10:38Z"
+    }
+}

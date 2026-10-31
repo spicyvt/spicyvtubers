@@ -1,0 +1,78 @@
+{
+    "twitter": {
+        "dudles_vrc": {
+            "id": null,
+            "handle": "dudles_vrc",
+            "displayName": "Dudles",
+            "description": "Hi, my name is Dudles, I&#x27;m 27, this is my Nsfw account.\n\nFollow my sfw account @Dudles_vr",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1727842910899449856/fbnlgTjF_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1551843312822272000/1699568332/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Dudles_vrc",
+            "fetchedAt": "2026-10-31T00:10:31Z"
+        },
+        "dudles_vr": {
+            "id": null,
+            "handle": "dudles_vr",
+            "displayName": "Dudles",
+            "description": "I’m Dudles, I’m 27, I like taking cute pictures in VR. \nI will be posting them here",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2053167652789506049/r0z4zcxv_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1957539512118034439/1778348322/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Dudles_VR",
+            "fetchedAt": "2026-10-31T00:10:33Z"
+        }
+    },
+    "fansly": {
+        "id": "381941526231523328",
+        "username": "Dudles",
+        "displayName": "Dudles",
+        "version": 19,
+        "followCount": 10425,
+        "statusId": 1,
+        "accountMediaLikes": 16420,
+        "postLikes": 11453,
+        "about": "Hi, my name is Dudles, I'm 27 and this is where you can find all of my lewd content and some exclusive pictures and videos ❤️😘\n\nhttps://linktr.ee/Dudles_\n",
+        "location": "Virtual reality",
+        "streaming": {
+            "accountId": "381941526231523328",
+            "channel": {
+                "id": "538901348540751872",
+                "accountId": "381941526231523328",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NYTPygQpZm5Z.m3u8",
+                "chatRoomId": "538902006517997568",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1689978453000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "538901348540751873",
+                    "historyId": "720089715021197312",
+                    "channelId": "538901348540751872",
+                    "accountId": "381941526231523328",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 26,
+                    "version": 8774,
+                    "createdAt": 1689978454000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1733183029000,
+                    "startedAt": 1733177126000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-31T00:10:38Z"
+    }
+}

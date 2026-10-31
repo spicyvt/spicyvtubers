@@ -1,0 +1,104 @@
+{
+    "bio": "Streaming yay",
+    "twitch": {
+        "id": "85863194",
+        "login": "k_tyras",
+        "displayName": "K_Tyras",
+        "createdAt": "2015-03-22T19:19:16.060875Z",
+        "updatedAt": "2026-07-31T20:36:33.251813Z",
+        "description": "Streaming yay",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 137
+        },
+        "follows": {
+            "totalCount": 33
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-19T00:43:05.375984Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0165a28-c90d-46b9-bfdd-f9fab6e2e180-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f15bf8c8-51ed-4bb0-aa4a-6495c81bef3e-profile_banner-480.png",
+        "fetchedAt": "2026-10-31T00:10:21Z"
+    },
+    "twitter": {
+        "digitaltyras": {
+            "id": null,
+            "handle": "digitaltyras",
+            "displayName": "Tyras",
+            "description": "VR || Creator || Media Personality || 25",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1230971784507293697/M8r1ywnS_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/959090609255604224/1597812492/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/DigitalTyras",
+            "fetchedAt": "2026-10-31T00:10:28Z"
+        },
+        "tyaftermidnight": {
+            "id": null,
+            "handle": "tyaftermidnight",
+            "displayName": "TyTyVR",
+            "description": "content created with ChilloutVR | digital succubus | 18+ only | 25 | nocturnal cst | submissive | pan | any pronouns (pp IRL) Throne~ https://t.co/1EBECtGJNm",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1828172456256802817/TYMGJoc0_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1526833933761003520/1767406479/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/TyAfterMidnight",
+            "fetchedAt": "2026-10-31T00:10:30Z"
+        }
+    },
+    "fansly": {
+        "id": "321874150530494464",
+        "username": "TyAfterMidnight",
+        "displayName": "TyTyVR",
+        "version": 7,
+        "followCount": 10296,
+        "statusId": 1,
+        "accountMediaLikes": 49727,
+        "postLikes": 33022,
+        "about": "New quality videos every Saturday 💜\n\nLovense affiliate link~\nhttps://www.lovense.com/r/1xi3zc\n\nLink to my other sites: https://linktr.ee/tytyvr\nYou can also check out my throne gifts there 💜\n\nArtificial succubus | 25 | gender-fluid (pp irl but can use me as whatever you want ;3) | nocturnal cst time zone\n\nHi~~ welcome to my Fansly! Any help is appreciated, whether it’s following or subscribing 💜\nWanna get custom videos and have your name on my Avatar’s collar? Get the highest tier!\nAny feedback is appreciated as I am new to this!\nSub Tiers are subject to change as I find the best prices and benefits for them",
+        "location": "Your Computer",
+        "streaming": {
+            "accountId": "321874150530494464",
+            "channel": {
+                "id": "549912409280618496",
+                "accountId": "321874150530494464",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.FPDxbWKjhpIE.m3u8",
+                "chatRoomId": "549912622489677824",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1692603695000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "549912409280618497",
+                    "historyId": "782531342112923648",
+                    "channelId": "549912409280618496",
+                    "accountId": "321874150530494464",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 27,
+                    "version": 3401,
+                    "createdAt": 1692603695000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1748069849000,
+                    "startedAt": 1748064370000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-31T00:10:38Z"
+    }
+}
