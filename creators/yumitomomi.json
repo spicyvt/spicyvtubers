@@ -1,0 +1,107 @@
+{
+    "bio": "A Demon Jester who got demoted from her Queen status for being too good at being funny...",
+    "twitch": {
+        "id": "1072778502",
+        "login": "yumitomomi",
+        "displayName": "YumiTomomi",
+        "createdAt": "2024-04-28T02:29:38.639314Z",
+        "updatedAt": "2026-10-30T14:10:53.689205Z",
+        "description": "A Demon Jester who got demoted from her Queen status for being too good at being funny...",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 2266
+        },
+        "follows": {
+            "totalCount": 291
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-30T15:47:23.901094Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13e1e1f4-b7a4-49fe-bc0b-8c003ec50f40-profile_image-300x300.png",
+        "bannerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ab7a4a4-b528-42a7-8d55-6878312715da-profile_banner-480.jpeg",
+        "fetchedAt": "2026-10-31T01:49:14Z"
+    },
+    "twitter": {
+        "yumitomomi": {
+            "id": null,
+            "handle": "yumitomomi",
+            "displayName": "Yumi Tomomi 👿🧡",
+            "description": "Demon Jester with a side of brainrot zoomer disease | Youtube Partner | ママ: @swallkoi |🎨 : #YumiArty | 👿🧡 |  #YummyTomoments\n\nhttps://t.co/5LWAaYsemM",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2115349851827245056/Rkx-yfoz_400x400.jpg",
+            "bannerImageUrl": "https://pbs.twimg.com/profile_banners/1783359037481893889/1793173692/1500x500",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/YumiTomomi",
+            "fetchedAt": "2026-10-31T01:49:16Z"
+        }
+    },
+    "fansly": {
+        "id": "877184989320474624",
+        "username": "YumiTomomi",
+        "displayName": null,
+        "version": 4,
+        "followCount": 961,
+        "statusId": 1,
+        "accountMediaLikes": 500,
+        "postLikes": 396,
+        "about": "NSFW VA and VTuber.\nSHORT and equipped with a DUMPTRUCK GIFTED FROM THE HEAVENS, also equipped with an unsatiable thirst to feed. \n\nFansly streams, exclusive audios specifically for you.\nI also do sexy and cute photosets (nothing nude!) and content I can't post anywhere else~\n\n👑 Vtuber Model and IRL Livestreams, photos and videos for your enjoyment~!\n\n👑 NSFW Roleplay Audios EVERY WEEK:  https://www.patreon.com/c/YumiTomomi\n\n\n! You will be blocked or restricted if you are overly inappropriate / make me uncomfortable\n! Keep all Fansly conversations in Fansly, if you talk to me about Fansly on other social medias I will ban you from my content!\n\n\n\nhttps://throne.com/yumiafterdark Choose my outfits for me~?",
+        "location": "",
+        "streaming": {
+            "accountId": "877184989320474624",
+            "channel": {
+                "id": "881954490259890176",
+                "accountId": "877184989320474624",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.mPRBjqdV2NSG.m3u8",
+                "chatRoomId": "881954633159827456",
+                "status": 2,
+                "version": 22,
+                "createdAt": 1771768696000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "881954490259890177",
+                    "historyId": "957074490959884288",
+                    "channelId": "881954490259890176",
+                    "accountId": "877184989320474624",
+                    "title": "TEACH ME HOW TO DO JOI PLEASE",
+                    "status": 1,
+                    "viewerCount": 28,
+                    "version": 54,
+                    "createdAt": 1771768696000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1789681541000,
+                    "startedAt": 1789678700000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "882080320231325696",
+                                "streamId": "881954490259890177",
+                                "type": 0,
+                                "flags": 6,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "882080320231325697",
+                                "streamId": "881954490259890177",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-10-31T01:49:17Z"
+    }
+}
