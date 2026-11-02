@@ -1,0 +1,97 @@
+{
+    "bio": "Idiot by day, professional screamer by night ✧ Business Inquiries: cazspella@gmail.com",
+    "twitch": {
+        "id": "31074776",
+        "login": "cazspella",
+        "displayName": "CazSpella",
+        "createdAt": "2012-06-05T19:40:06.269289Z",
+        "updatedAt": "2026-10-31T21:32:53.912374Z",
+        "description": "Idiot by day, professional screamer by night ✧ Business Inquiries: cazspella@gmail.com",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 9588
+        },
+        "follows": {
+            "totalCount": 485
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-31T22:23:21.243209Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9276585-268d-4f13-ac20-624b3a9995da-profile_image-300x300.png",
+        "fetchedAt": "2026-11-02T22:16:27Z"
+    },
+    "twitter": {
+        "cazspella": {
+            "id": null,
+            "handle": "cazspella",
+            "displayName": "Caz ⛓️❤️‍🔥",
+            "description": "Y2K Grunge Wolpertinger #Vtuber \n\n✧ Twitch affiliate ✧ 🇩🇪/🇬🇧 ✧ Gay as day \n✧ ママ: @Cigmaxxx ✧ #BunGogh",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2024615653101989888/kojYnZ9e_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/cazspella",
+            "fetchedAt": "2026-11-02T22:16:44Z"
+        }
+    },
+    "fansly": {
+        "id": "449178351786012672",
+        "username": "CazSpella",
+        "displayName": null,
+        "version": 4,
+        "followCount": 570,
+        "statusId": 1,
+        "accountMediaLikes": 296,
+        "postLikes": 694,
+        "about": "NSFW Account of @CazSpella on twitch\nExpect Lewd Art + Audio + More!",
+        "location": "",
+        "streaming": {
+            "accountId": "449178351786012672",
+            "channel": {
+                "id": "755997031150919680",
+                "accountId": "449178351786012672",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.bqL07dvBG3F8.m3u8",
+                "chatRoomId": "756002687119536129",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1741738098000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "755997031150919681",
+                    "historyId": "927706452884221952",
+                    "channelId": "755997031150919680",
+                    "accountId": "449178351786012672",
+                    "title": "THE GOONING CONTINUES",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 2210,
+                    "createdAt": 1741738098000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782686568000,
+                    "startedAt": 1782676814000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "916826012136792064",
+                                "streamId": "755997031150919681",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-02T22:16:46Z"
+    }
+}

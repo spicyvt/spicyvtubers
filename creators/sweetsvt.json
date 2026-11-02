@@ -1,0 +1,125 @@
+{
+    "bio": "Hey! It is your favorite catgirl, Sweets! ── ⟢ ・⸝⸝  I stream a variety of games because I love everything about the gaming industry. From the creativity to the artistry, I love video games and being able to showcase a wide variety of them on my channel.  | \"Never let anyone take you for granted\" |",
+    "twitch": {
+        "id": "134833697",
+        "login": "vtsweets",
+        "displayName": "vtSweets",
+        "createdAt": "2016-09-17T05:15:20.53415Z",
+        "updatedAt": "2026-11-02T14:41:30.432653Z",
+        "description": "Hey! It is your favorite catgirl, Sweets! ── ⟢ ・⸝⸝  I stream a variety of games because I love everything about the gaming industry. From the creativity to the artistry, I love video games and being able to showcase a wide variety of them on my channel.  | \"Never let anyone take you for granted\" | ",
+        "primaryColorHex": "E9508B",
+        "followers": {
+            "totalCount": 3564
+        },
+        "follows": {
+            "totalCount": 1618
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-31T04:09:46.789495Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82a34ea8-0790-44f8-b424-dcfcc5452954-profile_image-300x300.png",
+        "fetchedAt": "2026-11-02T22:16:17Z"
+    },
+    "twitter": {
+        "vtubersweets": {
+            "id": null,
+            "handle": "vtubersweets",
+            "displayName": "sweets! 🐈‍⬛🍭『 cyberpunk fixer 』",
+            "description": "✨ cotton candy afro haired catgirl | @astraeagency |✨ onyx awards content creator of the year | ✨ #vtSweetsArt | 💌 business@teamsweets.com | 🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2101179343443476480/N6crgf4N_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/vtubersweets",
+            "fetchedAt": "2026-11-02T22:16:30Z"
+        },
+        "vtsweetsalt": {
+            "id": null,
+            "handle": "vtsweetsalt",
+            "displayName": "Sweets! 🔞💦",
+            "description": "the catgirl isn’t always sweet— NSFW account for @VTuberSweets",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1834988341986496512/pMdrAVuU_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/vtsweetsalt",
+            "fetchedAt": "2026-11-02T22:16:32Z"
+        }
+    },
+    "fansly": {
+        "id": "928414205692882944",
+        "username": "vtSweets",
+        "displayName": "Sweets",
+        "version": 5,
+        "followCount": 41,
+        "statusId": 1,
+        "accountMediaLikes": 12,
+        "postLikes": 23,
+        "about": "the catgirl isn’t always sweet— \nASMRist VTuber & Streamer",
+        "location": "",
+        "streaming": {
+            "accountId": "928414205692882944",
+            "channel": {
+                "id": "954631146967162881",
+                "accountId": "928414205692882944",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.GsULOLTNWVau.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1789096161000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "954631146967162882",
+                    "historyId": null,
+                    "channelId": "954631146967162881",
+                    "accountId": "928414205692882944",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1789096161000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-02T22:16:46Z"
+    },
+    "rplay": {
+        "id": "68f8514d54e124623156cb8d",
+        "channelIntro": "The paradise of your favorite catgirl....",
+        "creatorTags": [
+            "english",
+            "streamer",
+            "vtuber",
+            "audio",
+            "for-men",
+            "all-age",
+            "adult",
+            "_68f8514d54e124623156cb8d_",
+            "kyc"
+        ],
+        "nickname": "Sweets",
+        "signupDate": "2025-10-22T03:36:45.000Z",
+        "verified": true,
+        "channelLanguage": "en",
+        "isLivestreamer": true,
+        "customUrl": null,
+        "channelImage": "https://pb2.rplay.live/pics/7c1453babb1dd6abbf56d9a09460d3d1",
+        "streamStartTime": null,
+        "fetchedAt": "2026-11-02T22:17:28Z"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "1336779989",
+        "login": "gypsymoonvr",
+        "displayName": "gypsymoonvr",
+        "createdAt": "2025-07-16T03:57:35.803134Z",
+        "updatedAt": "2026-10-28T00:23:38.482757Z",
+        "description": null,
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 0
+        },
+        "follows": {
+            "totalCount": 11
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/971d1bab-b462-4e59-8b4e-f2c39128289e-profile_image-300x300.png",
+        "fetchedAt": "2026-11-02T22:16:19Z"
+    },
+    "twitter": {
+        "gypsymoonvr": {
+            "id": null,
+            "handle": "gypsymoonvr",
+            "displayName": "GypsyMoon🔞",
+            "description": "❥｜Collabs: Selective\n❥｜Lvl: 32♡ | FBT &amp; FT | ♡SuccuPuppy♡\n❥｜Single/Unowned | Plus size &amp; Fun size\n❥｜https://t.co/vCJSCqOvMo \n❥｜https://t.co/d5Bvq7WrlX",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2100412639989927936/oQ3Idtcy_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/GypsyMoonVr",
+            "fetchedAt": "2026-11-02T22:16:33Z"
+        }
+    },
+    "fansly": {
+        "id": "377274150672146432",
+        "username": "gypsymoonvr",
+        "displayName": "GypsyMoon",
+        "version": 10,
+        "followCount": 2277,
+        "statusId": 1,
+        "accountMediaLikes": 1222,
+        "postLikes": 743,
+        "about": "All content made on chilloutvr\n\n╭───────༺♡༻──────╮\n\n❥｜ Collabs: Selective\n❥｜ Lvl: 32♡ | FBT & FT | ♡Puppy Princess♡\n❥｜ Single | Plus size & Fun size\n❥｜ Server Celestial Court coming soon!~\n❥｜https://guns.lol/gypsymoon\n❥｜$100 Unblocking fee\n\n╰───────༺♡༻──────╯",
+        "location": "",
+        "streaming": {
+            "accountId": "377274150672146432",
+            "channel": {
+                "id": "421794697342623744",
+                "accountId": "377274150672146432",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.eyWYKostxg91.m3u8",
+                "chatRoomId": "421794924053147648",
+                "status": 2,
+                "version": 19,
+                "createdAt": 1662058052000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "421794697342623745",
+                    "historyId": "973081576151732225",
+                    "channelId": "421794697342623744",
+                    "accountId": "377274150672146432",
+                    "title": "Nonstop Nut November Day 1",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 1230,
+                    "createdAt": 1662058052000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793509149000,
+                    "startedAt": 1793495086000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "969490324177051648",
+                                "streamId": "421794697342623745",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-02T22:16:46Z"
+    }
+}

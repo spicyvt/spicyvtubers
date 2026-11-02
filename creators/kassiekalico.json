@@ -1,0 +1,97 @@
+{
+    "bio": "NyaHi !  I'm a videogame playing katgirl. Marvel Rivals, and a variety of other games. Sometimes we'll do handcam streams and yap.",
+    "twitch": {
+        "id": "653887101",
+        "login": "kassie",
+        "displayName": "Kassie",
+        "createdAt": "2021-02-22T15:09:09.982591Z",
+        "updatedAt": "2026-10-31T15:53:52.951837Z",
+        "description": "NyaHi !  I'm a videogame playing katgirl. Marvel Rivals, and a variety of other games. Sometimes we'll do handcam streams and yap.",
+        "primaryColorHex": "FFBFFE",
+        "followers": {
+            "totalCount": 8774
+        },
+        "follows": {
+            "totalCount": 283
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-31T17:52:35.253182Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9b0e108-a306-4fc1-b962-fe195e12bea6-profile_image-300x300.png",
+        "fetchedAt": "2026-11-02T22:16:25Z"
+    },
+    "twitter": {
+        "kassiekalico": {
+            "id": null,
+            "handle": "kassiekalico",
+            "displayName": "Kassie ⛧【 Ѵ-Ѕнσσтєяѕ 】",
+            "description": "videogame-playing katgirl 😹🎮 @twitch &amp; @MarvelRivals partner \n#VTuber /🇩🇰  𖤐 ママ: @saty_design パパ: @LadyCheese1 \n| https://t.co/UKURot9EJh |  18+ ⇡",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2068274420154564608/mTlz7Ooy_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/KassieKalico",
+            "fetchedAt": "2026-11-02T22:16:43Z"
+        }
+    },
+    "fansly": {
+        "id": "592755936490172416",
+        "username": "KassieKalico",
+        "displayName": "Kassie Kalico",
+        "version": 4,
+        "followCount": 110,
+        "statusId": 3,
+        "accountMediaLikes": 25,
+        "postLikes": 38,
+        "about": "huge feeder, more of a healer. your summoned familiar ",
+        "location": "",
+        "streaming": {
+            "accountId": "592755936490172416",
+            "channel": {
+                "id": "738902720420786176",
+                "accountId": "592755936490172416",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oxtc8s5ofUDA.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1737662496000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "738902720420786177",
+                    "historyId": null,
+                    "channelId": "738902720420786176",
+                    "accountId": "592755936490172416",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1737662496000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "738902814792626176",
+                                "streamId": "738902720420786177",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-02T22:16:46Z"
+    }
+}

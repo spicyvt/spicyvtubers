@@ -1,0 +1,97 @@
+{
+    "bio": "Red Panda VTuber who streams Live2d rigging, casual, co-op and VR games",
+    "twitch": {
+        "id": "807855487",
+        "login": "akaifuwa",
+        "displayName": "AkaiFuwa",
+        "createdAt": "2022-07-10T03:12:29.543028Z",
+        "updatedAt": "2026-11-01T03:16:33.9201Z",
+        "description": "Red Panda VTuber who streams Live2d rigging, casual, co-op and VR games",
+        "primaryColorHex": "567489",
+        "followers": {
+            "totalCount": 472
+        },
+        "follows": {
+            "totalCount": 459
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-01T02:58:48.8246Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84ee864b-db2f-44c0-b107-aeeed48777bb-profile_image-300x300.png",
+        "fetchedAt": "2026-11-02T22:16:22Z"
+    },
+    "twitter": {
+        "akaifuwa": {
+            "id": null,
+            "handle": "akaifuwa",
+            "displayName": "AkaiFuwa | 🏳️‍⚧️【V-WAH】",
+            "description": "Spirit Guardian Red Panda VTuber\n🔞🏳️‍⚧️\nShe/Her\nSocials: https://t.co/V16hjIc0MD\nTwitch: https://t.co/7hPw0Ha6fH \nDiscord: https://t.co/jAkDtMhykR",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2101685305120006144/-PgP0HM8_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/akaifuwa",
+            "fetchedAt": "2026-11-02T22:16:38Z"
+        }
+    },
+    "fansly": {
+        "id": "710010419971895296",
+        "username": "Akaifuwa",
+        "displayName": "LewdaFuwa",
+        "version": 5,
+        "followCount": 247,
+        "statusId": 1,
+        "accountMediaLikes": 369,
+        "postLikes": 198,
+        "about": "A red panda with a lewd side XD\n\n🏳️‍⚧️She/Her 🏳️‍⚧️\nI steam in twitch and share lewd content here and on my discord and other socials\nhttps://akaifuwa.com/links\n\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "710010419971895296",
+            "channel": {
+                "id": "754585777064652800",
+                "accountId": "710010419971895296",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.PPAQ6LMNFD48.m3u8",
+                "chatRoomId": "756359117169238016",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1741401628000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "754585777064652801",
+                    "historyId": "857151405033545728",
+                    "channelId": "754585777064652800",
+                    "accountId": "710010419971895296",
+                    "title": "Red panda wants you in here",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 194,
+                    "createdAt": 1741401629000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1765860438000,
+                    "startedAt": 1765855180000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "756359209901105152",
+                                "streamId": "754585777064652801",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-02T22:17:22Z"
+    }
+}

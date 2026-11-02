@@ -1,0 +1,88 @@
+{
+    "bio": "Silly goober",
+    "twitch": {
+        "id": "1355299637",
+        "login": "symphonyavr",
+        "displayName": "SymphonyaVR",
+        "createdAt": "2025-08-21T20:02:35.538631Z",
+        "updatedAt": "2026-10-23T22:55:38.252522Z",
+        "description": "Silly goober",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 718
+        },
+        "follows": {
+            "totalCount": 8
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-30T04:12:53.203859Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e09f1ea3-cb36-4f01-86e9-87165510e462-profile_image-300x300.png",
+        "fetchedAt": "2026-11-02T22:16:20Z"
+    },
+    "twitter": {
+        "nymphonya": {
+            "id": null,
+            "handle": "nymphonya",
+            "displayName": "Nymphonya",
+            "description": "Raving &amp; craving\nTwitch: https://t.co/1Zycs3JaET\nFansly: https://t.co/KcMbMvCrCv",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1938951857151397888/UokMEtSb_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nymphonya",
+            "fetchedAt": "2026-11-02T22:16:36Z"
+        }
+    },
+    "fansly": {
+        "id": "495437563264245760",
+        "username": "Nymphonya",
+        "displayName": "Nymphonya",
+        "version": 8,
+        "followCount": 2230,
+        "statusId": 3,
+        "accountMediaLikes": 1752,
+        "postLikes": 1155,
+        "about": "Just a scuffy nympho demon trying to do human things.\n\nTwitch: https://www.twitch.tv/symphonyavr",
+        "location": "Horny jail",
+        "streaming": {
+            "accountId": "495437563264245760",
+            "channel": {
+                "id": "621333858947702784",
+                "accountId": "495437563264245760",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qNkw746G6TFd.m3u8",
+                "chatRoomId": "621334406421819392",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1709631895000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "621333858947702785",
+                    "historyId": "959676896843423744",
+                    "channelId": "621333858947702784",
+                    "accountId": "495437563264245760",
+                    "title": "Craving, raving, misbehaving",
+                    "status": 1,
+                    "viewerCount": 53,
+                    "version": 3978,
+                    "createdAt": 1709631896000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1790302793000,
+                    "startedAt": 1790299162000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-02T22:16:46Z"
+    }
+}

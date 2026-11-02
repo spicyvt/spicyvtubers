@@ -1,0 +1,88 @@
+{
+    "bio": "18+ only | She/Her | Slurp me like a juice box~",
+    "twitch": {
+        "id": "1089779331",
+        "login": "mercyurii",
+        "displayName": "Mercyurii",
+        "createdAt": "2024-05-21T20:44:16.092546Z",
+        "updatedAt": "2026-11-02T16:50:24.646643Z",
+        "description": "18+ only | She/Her | Slurp me like a juice box~",
+        "primaryColorHex": "8715B3",
+        "followers": {
+            "totalCount": 1113
+        },
+        "follows": {
+            "totalCount": 499
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-02T16:55:45.991249Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2c5ff49-8304-4204-a116-6ec4e72f9e0d-profile_image-300x300.png",
+        "fetchedAt": "2026-11-02T22:16:24Z"
+    },
+    "twitter": {
+        "mercyuriivt": {
+            "id": null,
+            "handle": "mercyuriivt",
+            "displayName": "Mercyurii the Slimecubus 💜🧃 | Wet Dream Demon",
+            "description": "18+ only | Slime-Succubus Lewdtuber\nLGBTQ | Artist/Variety Game Streamer\nTastes like Blueberries OwO\nTwitch- https://t.co/bQbnjPaevn",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1933266389546250240/7H5lko3w_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Mercyuriivt",
+            "fetchedAt": "2026-11-02T22:16:41Z"
+        }
+    },
+    "fansly": {
+        "id": "678706912723742721",
+        "username": "Mercyurii",
+        "displayName": "Mercyurii",
+        "version": 5,
+        "followCount": 64,
+        "statusId": 1,
+        "accountMediaLikes": 1,
+        "postLikes": 4,
+        "about": "Doing NSFW art and gaming livestreams with a toy~ She/her slime-succubus vtuber. ",
+        "location": "https://www.twitch.tv/mercyurii",
+        "streaming": {
+            "accountId": "678706912723742721",
+            "channel": {
+                "id": "708446962843660288",
+                "accountId": "678706912723742721",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.afXeHjjuXsNi.m3u8",
+                "chatRoomId": "708799111347838978",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1730401278000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "708446962843660289",
+                    "historyId": "805167612274171904",
+                    "channelId": "708446962843660288",
+                    "accountId": "678706912723742721",
+                    "title": "Slimecubus Breeds Nephelyms",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 2314,
+                    "createdAt": 1730401278000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1753469667000,
+                    "startedAt": 1753461278000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-02T22:16:46Z"
+    }
+}
