@@ -1,0 +1,72 @@
+{
+    "twitter": {
+        "xigussy": {
+            "id": null,
+            "handle": "xigussy",
+            "displayName": "Xigussy",
+            "description": "25yo\n\nHiya my name is Xigussy and I make VR lewd stuffs :3\nInterested in me? Check me out on Fansly!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2106362517710610432/eBVYrPNj_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Xigussy",
+            "fetchedAt": "2026-11-01T12:04:20Z"
+        }
+    },
+    "fansly": {
+        "id": "592225224565465088",
+        "username": "Xigussy",
+        "displayName": "Xigussy",
+        "version": 23,
+        "followCount": 21364,
+        "statusId": 1,
+        "accountMediaLikes": 28785,
+        "postLikes": 17684,
+        "about": "I stream 3 times a week! (Scroll down a little for my schedule!)\n\nSubscribers get 3 VODs every WEEK!\n\nI respond to DM's for FREE! (With respect ofc)\n",
+        "location": "USA",
+        "streaming": {
+            "accountId": "592225224565465088",
+            "channel": {
+                "id": "676982414207102976",
+                "accountId": "592225224565465088",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HtJfMDrEDM36.m3u8",
+                "chatRoomId": "676982467575427073",
+                "status": 2,
+                "version": 165,
+                "createdAt": 1722899545000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "676982414207102977",
+                    "historyId": "972641420819058688",
+                    "channelId": "676982414207102976",
+                    "accountId": "592225224565465088",
+                    "title": "HALLOWEEN STREAM!!!",
+                    "status": 1,
+                    "viewerCount": 57,
+                    "version": 6066,
+                    "createdAt": 1722899545000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793397492000,
+                    "startedAt": 1793390145000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "970838977223335936",
+                                "streamId": "676982414207102977",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-01T12:04:23Z"
+    }
+}

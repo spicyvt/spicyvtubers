@@ -1,0 +1,114 @@
+{
+    "bio": "Your nightly EDM host~",
+    "twitch": {
+        "id": "597332016",
+        "login": "skylaredm",
+        "displayName": "SkylarEDM",
+        "createdAt": "2020-10-18T15:49:03.037376Z",
+        "updatedAt": "2026-07-12T23:58:01.394017Z",
+        "description": "Your nightly EDM host~",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 12466
+        },
+        "follows": {
+            "totalCount": 149
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-06-03T06:00:22.582312Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7aaa49f-a502-45f0-a100-95f3b833aa82-profile_image-300x300.png",
+        "fetchedAt": "2026-11-02T18:16:08Z"
+    },
+    "twitter": {
+        "skylaredm_18": {
+            "id": "1317858901686128643",
+            "handle": "skylaredm_18",
+            "displayName": "SkylarEDM",
+            "description": "♡ Just a trans girl ♡ \n♡ VR Content @SkylarEDM_VT ♡\n♡ SFW Account @SkylarEDM_SFW ♡\n♡ http://fansly.com/skylaredm ♡",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1845630869207203841/GW24n3on_400x400.jpg",
+            "followersCount": 38700,
+            "followingCount": 221,
+            "postsCount": 1642,
+            "accountCreatedAt": "2020-10-18T16:03:47.000Z",
+            "profileUrl": "https://x.com/SkylarEDM_18",
+            "fetchedAt": "2026-11-02T18:16:19Z"
+        },
+        "skylaredm_sfw": {
+            "id": "1861798961830309888",
+            "handle": "skylaredm_sfw",
+            "displayName": "SkylarEDM",
+            "description": "♡ Just a trans girl ♡\n♡ Just a SFW Account for both irl & VR stuff ♡",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2107195029647228928/iU4Gy91o_400x400.jpg",
+            "followersCount": 9132,
+            "followingCount": 16,
+            "postsCount": 200,
+            "accountCreatedAt": "2024-11-27T15:47:27.000Z",
+            "profileUrl": "https://x.com/SkylarEDM_SFW",
+            "fetchedAt": "2026-11-02T18:16:21Z"
+        },
+        "skylaredm_vt": {
+            "id": "1398231828918640641",
+            "handle": "skylaredm_vt",
+            "displayName": "SkylarEDM",
+            "description": "♡ Just a trans girl ♡\n♡ 18+ Account Minors DNI ♡\n♡ https://fansly.com/SkylarEDM ♡\n♡ IRL Content @SkylarEDM_18 ♡\n♡ SFW Account @SkylarEDM_SFW ♡",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2008624386354434051/Sw49raQJ_400x400.jpg",
+            "followersCount": 21532,
+            "followingCount": 487,
+            "postsCount": 1748,
+            "accountCreatedAt": "2021-05-28T10:57:07.000Z",
+            "profileUrl": "https://x.com/SkylarEDM_VT",
+            "fetchedAt": "2026-11-02T18:19:21Z"
+        }
+    },
+    "fansly": {
+        "id": "313130497670656000",
+        "username": "SkylarEDM",
+        "displayName": "SkylarEDM",
+        "version": 11,
+        "followCount": 13436,
+        "statusId": 1,
+        "accountMediaLikes": 22516,
+        "postLikes": 12249,
+        "about": "🤍 Just a trans girl 🤍\n🖤 Stream every Monday & Thursday 🖤\n🤍 Expansion/Size Diff 🤍\n🖤All my links -> skylaredm.carrd.co 🖤",
+        "location": "",
+        "streaming": {
+            "accountId": "313130497670656000",
+            "channel": {
+                "id": "655652135043608576",
+                "accountId": "313130497670656000",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.EZ8cpbjnbMlP.m3u8",
+                "chatRoomId": "655664028583993344",
+                "status": 2,
+                "version": 257,
+                "createdAt": 1717814010000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "655652135043608577",
+                    "historyId": "972362900612063233",
+                    "channelId": "655652135043608576",
+                    "accountId": "313130497670656000",
+                    "title": "Last stream till the 12th of November!!! [ 🍆 Futa 🍆 ] [📈 Expansion 📈] [💦 Free control link 💦]",
+                    "status": 1,
+                    "viewerCount": 75,
+                    "version": 8462,
+                    "createdAt": 1717814011000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793332278000,
+                    "startedAt": 1793323741000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-02T18:16:24Z"
+    }
+}
