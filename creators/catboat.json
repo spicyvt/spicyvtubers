@@ -1,0 +1,88 @@
+{
+    "bio": "Welcome to the Headspace of Solva & Alcaz! (✿◡‿◡) We’re a French streaming couple—a femboy with autism and an ADHD musician—creating content together since 2021 ✨Join us for all sort of shenanigans 5 to 6 times / week 🏳️‍🌈 Friday is reserved for EN streams !",
+    "twitch": {
+        "id": "154054375",
+        "login": "catboat",
+        "displayName": "Catboat",
+        "createdAt": "2017-04-20T23:30:22.836258Z",
+        "updatedAt": "2026-10-31T18:40:05.389401Z",
+        "description": "Welcome to the Headspace of Solva & Alcaz! (✿◡‿◡) We’re a French streaming couple—a femboy with autism and an ADHD musician—creating content together since 2021 ✨Join us for all sort of shenanigans 5 to 6 times / week 🏳️‍🌈 Friday is reserved for EN streams ! ",
+        "primaryColorHex": "FEBE98",
+        "followers": {
+            "totalCount": 57772
+        },
+        "follows": {
+            "totalCount": 182
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-31T19:03:17.228706Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a4ca54-41fd-4dd4-a2b0-e316d17315b5-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T22:24:05Z"
+    },
+    "twitter": {
+        "solvavt": {
+            "id": null,
+            "handle": "solvavt",
+            "displayName": "Solva 💮🩷🏳️‍🌈",
+            "description": "ლ(╹◡╹ლ) ꜰᴇᴍʙᴏʏ ᴍᴀᴅᴇ ᴏꜰ ᴘᴀꜱᴛᴇʟ ᴘɪxᴇʟꜱ\n\nッ 🏳️‍🌈 Autistic Gay Catboy\nッ 🪻 YT, Discord &amp; Twitch Partner\n📩: contact@catboat.fr, MDNI 🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2104301805991510017/0SMOtkXO_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/SolvaVT",
+            "fetchedAt": "2026-11-03T22:24:18Z"
+        }
+    },
+    "fansly": {
+        "id": "847637081181134858",
+        "username": "SolvaNSFW",
+        "displayName": "Solva 😽🩷",
+        "version": 5,
+        "followCount": 2398,
+        "statusId": 1,
+        "accountMediaLikes": 2569,
+        "postLikes": 1963,
+        "about": "Hi hi! I’m Solva ♡\nPastel catboy VTuber made of soft pixels and lots of love :3\n\n🐾 VTuber clips & silly moments\n🎧 ASMR & naughty audios\n🎨 Art, cute pics & extra goodies\n💌 DMs are always open, come say hi!",
+        "location": "France",
+        "streaming": {
+            "accountId": "847637081181134858",
+            "channel": {
+                "id": "956812053157265408",
+                "accountId": "847637081181134858",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.cMaa9AH3FrfA.m3u8",
+                "chatRoomId": "956813194607742976",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1789616130000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "956812053157265409",
+                    "historyId": "969478849190449152",
+                    "channelId": "956812053157265408",
+                    "accountId": "847637081181134858",
+                    "title": "come to talk + bdsm test ❤️✨",
+                    "status": 1,
+                    "viewerCount": 45,
+                    "version": 10,
+                    "createdAt": 1789616130000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792650265000,
+                    "startedAt": 1792636129000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T22:24:32Z"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "twitter": {
+        "tsmokimoki": {
+            "id": null,
+            "handle": "tsmokimoki",
+            "displayName": "Moki",
+            "description": "VRC streamer , VRC content creater\n\nHi im Moki, Meow",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2083582240215158784/QUwn-hNe_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/TsmokiMoki",
+            "fetchedAt": "2026-11-03T22:24:13Z"
+        }
+    },
+    "fansly": {
+        "id": "556870450597081088",
+        "username": "Tsmoki",
+        "displayName": "Tsmoki ",
+        "version": 16,
+        "followCount": 17677,
+        "statusId": 2,
+        "accountMediaLikes": 51967,
+        "postLikes": 21327,
+        "about": "👾NSFW animation and ASMR role-playing \n👾18+ ~ I hope you enjoy it! ♡\n👾NSFW photos and videos\n👾IRL content\n\n₊˚⊹👾Hello, my sweet ₊˚⊹👾\nI'm glad you came to see me.  I hope you like anime content as much as I do.  I'll be posting a lot of interesting content, so make sure you follow to see it all.\n\nEnjoy watching, I hope we'll become friends.\n👾 All the characters are fictional and have reached the age of 18. All my materials are protected by copyright, which belongs to me.👾",
+        "location": "",
+        "streaming": {
+            "accountId": "556870450597081088",
+            "channel": {
+                "id": "806232856778010624",
+                "accountId": "556870450597081088",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.y0AXqQfk0mdv.m3u8",
+                "chatRoomId": "806233673132171264",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1753715252000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "806232856778010625",
+                    "historyId": "973753471259930625",
+                    "channelId": "806232856778010624",
+                    "accountId": "556870450597081088",
+                    "title": "meow",
+                    "status": 1,
+                    "viewerCount": 62,
+                    "version": 354,
+                    "createdAt": 1753715252000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793660591000,
+                    "startedAt": 1793655279000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "961764185719463937",
+                                "streamId": "806232856778010625",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T22:24:32Z"
+    }
+}

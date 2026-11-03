@@ -1,0 +1,97 @@
+{
+    "bio": "💙 Big Blue Dragon 💙💜 VR content creator and professional yapper 💜",
+    "twitch": {
+        "id": "997114889",
+        "login": "blipsvr",
+        "displayName": "BlipsVR",
+        "createdAt": "2023-11-28T08:14:48.499007Z",
+        "updatedAt": "2026-11-02T08:50:28.953846Z",
+        "description": "💙 Big Blue Dragon 💙💜 VR content creator and professional yapper 💜",
+        "primaryColorHex": "00B7FB",
+        "followers": {
+            "totalCount": 1297
+        },
+        "follows": {
+            "totalCount": 62
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-03T21:53:20.083183Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaa23683-cd88-4c70-ad9e-a3d786f1516f-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T22:24:11Z"
+    },
+    "twitter": {
+        "blipsvt": {
+            "id": null,
+            "handle": "blipsvt",
+            "displayName": "Blips 💙 Blue Dragon VT",
+            "description": "💙 Big Blue Dragon 💙\n💜 Streamer/Content Creator 💜\n❤️ VT side of Big Blue ❤️\n\nhttps://t.co/jCAc3bsgIw",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2113724758739275776/9y1LH2Cz_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/BlipsVT",
+            "fetchedAt": "2026-11-03T22:24:29Z"
+        }
+    },
+    "fansly": {
+        "id": "399009112114868224",
+        "username": "BlipsVR",
+        "displayName": "Blips",
+        "version": 20,
+        "followCount": 22521,
+        "statusId": 1,
+        "accountMediaLikes": 59278,
+        "postLikes": 29198,
+        "about": "💙 Big Blue Dragon 💙\n💜 Expansion/Fetish Creator 💜\n❤️ Open for Collabs and VA work! ❤️\n\n🔗 - https://blipsvr.carrd.co",
+        "location": "discord.gg/bhc",
+        "streaming": {
+            "accountId": "399009112114868224",
+            "channel": {
+                "id": "533840506283630595",
+                "accountId": "399009112114868224",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.daNU7WW68rE8.m3u8",
+                "chatRoomId": "533840546423119872",
+                "status": 2,
+                "version": 242,
+                "createdAt": 1688771855000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "533840506283630596",
+                    "historyId": "972716530678636544",
+                    "channelId": "533840506283630595",
+                    "accountId": "399009112114868224",
+                    "title": "💙 Big Blue After Dark! 💙 ~ 🍆 Futa 🍆 ~ ⬆️ Donos control my sizes! ⬆️ ~ 💎 Free control links in chat! 💎",
+                    "status": 1,
+                    "viewerCount": 79,
+                    "version": 2008,
+                    "createdAt": 1688771855000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793414763000,
+                    "startedAt": 1793408053000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "932121851168055296",
+                                "streamId": "533840506283630596",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T22:24:32Z"
+    }
+}

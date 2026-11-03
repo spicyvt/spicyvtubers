@@ -1,0 +1,100 @@
+{
+    "bio": "Hello, I am AI Candii! I'm an Australian vtuber and virtual content creator with a passion for storytelling in all forms. 💜",
+    "twitch": {
+        "id": "508990092",
+        "login": "aicandii",
+        "displayName": "AiCandii",
+        "createdAt": "2020-04-05T12:46:09.435779Z",
+        "updatedAt": "2026-11-03T10:27:43.678897Z",
+        "description": "Hello, I am AI Candii! I'm an Australian vtuber and virtual content creator with a passion for storytelling in all forms. 💜",
+        "primaryColorHex": "BD8BFC",
+        "followers": {
+            "totalCount": 156213
+        },
+        "follows": {
+            "totalCount": 899
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-02T00:38:13.285144Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6238d899-d8a5-4bd7-abf5-75904f020776-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T21:31:07Z"
+    },
+    "youtube": {
+        "id": "UCpMTDhx-pe2QTOJMHCjDCMw",
+        "handle": "AICandii",
+        "title": "AI Candii",
+        "description": "Hello, I am AI Candii! I'm an Australian vtuber and virtual content creator with a passion for storytelling in all forms. 💜\n\nEnglish Vtuber // ENVtuber // Univirtual",
+        "channelUrl": "https://www.youtube.com/channel/UCpMTDhx-pe2QTOJMHCjDCMw",
+        "keywords": "vtuber envtuber \"english vtuber\" \"virtual youtuber\" \"english virtual youtuber\" \"virtual youtube\" anime \"let's play\" univirtual \"ai candii\" \"en vtuber\"",
+        "profileImageUrl": "https://yt3.googleusercontent.com/fbfledUY4cI0PF89pZ4S2VoR9-MfHZWvfyWzeown_PFfK6p9cCUzjZTyJpg9yAYEVSLcDFHYMw=h300",
+        "subscriberCountText": "51.7K subscribers",
+        "videoCountText": "530 videos",
+        "fetchedAt": "2026-11-03T21:31:09Z"
+    },
+    "twitter": {
+        "aicandii": {
+            "id": null,
+            "handle": "aicandii",
+            "displayName": "AICANDII 🧪 VchiBan ✨",
+            "description": "The purple C of @VchiBan\nthey/them / model: 2wintails\nART TAG: #ARTCANDII / 😏 TAG:  #HARDCANDII",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2104214541248892928/OweUw6zr_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/aicandii",
+            "fetchedAt": "2026-11-03T21:31:11Z"
+        }
+    },
+    "fansly": {
+        "id": "564135061759209472",
+        "username": "AICANDII",
+        "displayName": "AICANDII",
+        "version": 9,
+        "followCount": 9828,
+        "statusId": 1,
+        "accountMediaLikes": 1925,
+        "postLikes": 4845,
+        "about": "Virtual Content Creator/Vtuber.\nBTS teasers 💜 NSFW Games 💜 NSFW Art Streams \nCome with me on this journey of working out what exactly I'm doing on here.\n\n(Lewd content pertains to model/vtuber only.)",
+        "location": "",
+        "streaming": {
+            "accountId": "564135061759209472",
+            "channel": {
+                "id": "703570724295553024",
+                "accountId": "564135061759209472",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.EumPfGBGR2m0.m3u8",
+                "chatRoomId": "703571406666870784",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1729238692000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "703570724295553025",
+                    "historyId": "739680547948732417",
+                    "channelId": "703570724295553024",
+                    "accountId": "564135061759209472",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 282,
+                    "version": 750,
+                    "createdAt": 1729238692000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1737859203000,
+                    "startedAt": 1737847945000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T21:31:13Z"
+    }
+}

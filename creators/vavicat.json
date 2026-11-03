@@ -1,0 +1,97 @@
+{
+    "bio": "Meowdy!  I'm new to streaming, so i'll be testing for now, until I get better at it.  Suggestions are welcome :3",
+    "twitch": {
+        "id": "188267104",
+        "login": "vavicat",
+        "displayName": "VaviCat",
+        "createdAt": "2018-01-01T05:49:26.9003Z",
+        "updatedAt": "2026-11-01T19:15:16.556136Z",
+        "description": "Meowdy!  I'm new to streaming, so i'll be testing for now, until I get better at it.  Suggestions are welcome :3",
+        "primaryColorHex": "33B183",
+        "followers": {
+            "totalCount": 255
+        },
+        "follows": {
+            "totalCount": 43
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-01-04T08:09:25.818843Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2077a460-d703-4d89-826d-7f931b784a28-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T22:24:07Z"
+    },
+    "twitter": {
+        "vavicatmeow": {
+            "id": null,
+            "handle": "vavicatmeow",
+            "displayName": "Vavi 💙",
+            "description": "Just be . .  💙\n\nhttps://t.co/8mVlf7mwDg 🌳\nBusiness: vavicatmeow@gmail.com 💼",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2103625057847160832/NFGoeHSK_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/VaviCatMeow",
+            "fetchedAt": "2026-11-03T22:24:21Z"
+        }
+    },
+    "fansly": {
+        "id": "527615404818833408",
+        "username": "Vavi_Cat",
+        "displayName": "Vavi",
+        "version": 6,
+        "followCount": 24922,
+        "statusId": 3,
+        "accountMediaLikes": 50860,
+        "postLikes": 24958,
+        "about": "💚Loving Motherly Meower\n💚Might Secretly be a Succubus\n💚Pansexual (She, They)\n💚Free sexy content, and streams with Lovense toys \n💚Custom menu ➡️ https://fansly.com/post/880595906003480576\n--------------------------------------------------------------\nMy Socials: https://linktr.ee/vavi_cat\nGifts for Mommy🎁: https://throne.com/vavi\nMy Discord (Emotes & Stream Alerts) : https://discord.gg/5a4tSgbyPb\nBuy Lovense for You💕: https://www.lovense.com/r/5sg0w8\n\n--------------------------------------------------------------",
+        "location": "",
+        "streaming": {
+            "accountId": "527615404818833408",
+            "channel": {
+                "id": "600948930372444160",
+                "accountId": "527615404818833408",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ct1yvXZfxVQb.m3u8",
+                "chatRoomId": "600954977401188352",
+                "status": 2,
+                "version": 159,
+                "createdAt": 1704771750000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "600948930372444161",
+                    "historyId": "973167133066272768",
+                    "channelId": "600948930372444160",
+                    "accountId": "527615404818833408",
+                    "title": "Spooky fun💞||⚡PiShock Collar On⚡5+ for random shock ⚠️",
+                    "status": 1,
+                    "viewerCount": 79,
+                    "version": 6598,
+                    "createdAt": 1704771750000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793527003000,
+                    "startedAt": 1793515485000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "973159506030649344",
+                                "streamId": "600948930372444161",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T22:24:32Z"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "bio": "puppygirl mech pilot. give me fighter jets or a gundam. i will be so responsible and well behaved with them.",
+    "twitch": {
+        "id": "1198190532",
+        "login": "puppyinu",
+        "displayName": "PuppyInu",
+        "createdAt": "2024-11-17T23:40:18.591853Z",
+        "updatedAt": "2026-06-18T22:13:43.602801Z",
+        "description": "puppygirl mech pilot. give me fighter jets or a gundam. i will be so responsible and well behaved with them.",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 171
+        },
+        "follows": {
+            "totalCount": 6
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-19T02:53:02.523186Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/86923c05-7714-4e7e-ac0e-520b31de81fa-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T22:24:06Z"
+    },
+    "twitter": {
+        "puppyinuvtuber": {
+            "id": null,
+            "handle": "puppyinuvtuber",
+            "displayName": "Inu",
+            "description": "hi im inu, puppy inu, inuyama wanko. we keep it low key here its/her\n\npuppygirl vtuber and mecha addict, big fan of the hero of el-facil",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1986710222434361344/OhjQq9Nq_400x400.png",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/PuppyInuVtuber",
+            "fetchedAt": "2026-11-03T22:24:20Z"
+        }
+    },
+    "fansly": {
+        "id": "709635567729516544",
+        "username": "PuppyInu",
+        "displayName": "PuppyInu",
+        "version": 4,
+        "followCount": 18966,
+        "statusId": 1,
+        "accountMediaLikes": 2675,
+        "postLikes": 2455,
+        "about": "♡ my discord: https://discord.com/invite/VeXSAUcqbY\n♡ autistic british gamer gooner, + mech pilot!\n♡ daily streams (19:00 GMT+1/13:00 EST)\n♡ bratty switch lazy princess...\n♡ all my links! https://linktr.ee/PuppyInu\n\nno GFE, I will not manipulate you into spending money, and I wholeheartedly encourage you to engage responsibly with minimum parasociality! i like to run my stream like a chill yet horny twitch stream, if that sounds good to you, welcome aboard!",
+        "location": "they let me in the giant robot :3",
+        "streaming": {
+            "accountId": "709635567729516544",
+            "channel": {
+                "id": "765852712163094528",
+                "accountId": "709635567729516544",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.8BXnpLNQTHZb.m3u8",
+                "chatRoomId": "765852767687290882",
+                "status": 2,
+                "version": 520,
+                "createdAt": 1744087875000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "765852712163094529",
+                    "historyId": "973465447884156929",
+                    "channelId": "765852712163094528",
+                    "accountId": "709635567729516544",
+                    "title": "lovense | i got a cold even though im so hot - nut november (eu5)",
+                    "status": 1,
+                    "viewerCount": 15,
+                    "version": 7859,
+                    "createdAt": 1744087875000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793603867000,
+                    "startedAt": 1793586608000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "961470124596928512",
+                                "streamId": "765852712163094529",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T22:24:32Z"
+    }
+}
