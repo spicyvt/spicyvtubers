@@ -1,0 +1,88 @@
+{
+    "bio": "Ohai! My name is Moonie Buns! Vtuber/VRChat Streamer and Content Creator! I'm also a huge ball of random mixed with goofy-ness, dommy mommy energy, kawaii, and a hint of chocolate lover. Proud Member of the LGBTQ+ Community and also a raging, uncontrollable, hyper, booper. BOOP!",
+    "twitch": {
+        "id": "835310824",
+        "login": "mooniebuns",
+        "displayName": "MoonieBuns",
+        "createdAt": "2022-10-06T05:00:35.499881Z",
+        "updatedAt": "2026-10-22T06:24:50.015912Z",
+        "description": "Ohai! My name is Moonie Buns! Vtuber/VRChat Streamer and Content Creator! I'm also a huge ball of random mixed with goofy-ness, dommy mommy energy, kawaii, and a hint of chocolate lover. Proud Member of the LGBTQ+ Community and also a raging, uncontrollable, hyper, booper. BOOP! ",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 4663
+        },
+        "follows": {
+            "totalCount": 143
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-07-23T09:56:02.844892Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/70a3f300-b907-491d-b87b-b893a754c77f-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T22:48:53Z"
+    },
+    "twitter": {
+        "mooniebunsttv": {
+            "id": null,
+            "handle": "mooniebunsttv",
+            "displayName": "MoonieBuns",
+            "description": "Vtuber Twitch  Streamer, general goofball, Resident-Catgirl and Pro Gamer(Not really). \nhttps://t.co/EubcIfNb9p \nhttps://t.co/2FxnlxvvJb",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1831640076872265728/H96oHsdD_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/MoonieBunsTTV",
+            "fetchedAt": "2026-11-03T22:49:14Z"
+        }
+    },
+    "fansly": {
+        "id": "381057130301501440",
+        "username": "MoonieBuns",
+        "displayName": "MoonieBuns",
+        "version": 11,
+        "followCount": 11734,
+        "statusId": 1,
+        "accountMediaLikes": 13456,
+        "postLikes": 9902,
+        "about": "❤ Welcome ❤\n\nAbout Me:\n• Pronouns - She/Her\n• Pansexual\n• I'm a Switch ( Dommy Mommy/Obedient Sub )\n• I Love To Please\n• Latina\n\nOhai There! I'm Moonie Bun! Your Virtual Dommy Mommy/Subby. I stream twice a week and always with a Twist. Roleplay, fetish, Personalized, Voting of what I stream. All sorts of fun we are going to have. \n\nDiscord for all followers with special sections for Subscribers. Join us and help grow our Holesome Community! \n\nhttps://throne.me/u/mooniebuns\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "381057130301501440",
+            "channel": {
+                "id": "450904154857021440",
+                "accountId": "381057130301501440",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HXc1NBttX4Kz.m3u8",
+                "chatRoomId": "450905011740749824",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1668998287000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "450904154857021441",
+                    "historyId": "970601988947472384",
+                    "channelId": "450904154857021440",
+                    "accountId": "381057130301501440",
+                    "title": "Every $50 in Total You Tip = Personal Spooky Spin For You! ",
+                    "status": 1,
+                    "viewerCount": 140,
+                    "version": 2651,
+                    "createdAt": 1668998288000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792918735000,
+                    "startedAt": 1792903907000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T22:49:19Z"
+    }
+}

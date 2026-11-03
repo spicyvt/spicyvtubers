@@ -1,0 +1,97 @@
+{
+    "bio": "Hi Hi I'm Shuno!",
+    "twitch": {
+        "id": "1425664120",
+        "login": "shunishuno",
+        "displayName": "ShuniShuno",
+        "createdAt": "2026-01-17T05:11:31.531279Z",
+        "updatedAt": "2026-10-29T06:09:01.668453Z",
+        "description": "Hi Hi I'm Shuno!",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 1
+        },
+        "follows": {
+            "totalCount": 6
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c5293e4-d71d-400d-8d18-e098d3ceb34c-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T22:48:50Z"
+    },
+    "twitter": {
+        "__shuno__": {
+            "id": null,
+            "handle": "__shuno__",
+            "displayName": "Shuno🔞",
+            "description": "Hi Hi I&#x27;m Shuno ~ Gremlin who makes funny content on the funny blue site!\n\nDm&#x27;s - Open\n\nFansly: https://t.co/uaD2syosqV\n\nSFW:",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2063902655320354817/MOxInfk1_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/__Shuno__",
+            "fetchedAt": "2026-11-03T22:49:10Z"
+        }
+    },
+    "fansly": {
+        "id": "685473496083472384",
+        "username": "__Shuno__",
+        "displayName": "Shuno",
+        "version": 9,
+        "followCount": 10941,
+        "statusId": 3,
+        "accountMediaLikes": 54428,
+        "postLikes": 37955,
+        "about": "💜 ~ Hi Hi, I’m Shuno! 26 y/o femboy ~ 💜\n\n💜~ DMs open | Commissions open | Collabs Closed ~💜\n\n💜~ My links: https://guns.lol/__shuno__ ~💜\n\nEars, tails and wings are detachable accessories. All content is created in unity and blender COPYRIGHT 2024-2026 Shuno.\n\nAll content is created and filmed in Unity and Blender,\nCOPYRIGHT 2024-2026 Shuno",
+        "location": "",
+        "streaming": {
+            "accountId": "685473496083472384",
+            "channel": {
+                "id": "717033977944219649",
+                "accountId": "685473496083472384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.U3mvqfInfg90.m3u8",
+                "chatRoomId": "717034576374931456",
+                "status": 2,
+                "version": 76,
+                "createdAt": 1732448582000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "717033977944219650",
+                    "historyId": "973062480794234880",
+                    "channelId": "717033977944219649",
+                    "accountId": "685473496083472384",
+                    "title": "🤍~ Spooky Stream Time ~🤍",
+                    "status": 1,
+                    "viewerCount": 39,
+                    "version": 2410,
+                    "createdAt": 1732448582000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793493729000,
+                    "startedAt": 1793490534000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "886661016165818368",
+                                "streamId": "717033977944219650",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T22:49:19Z"
+    }
+}

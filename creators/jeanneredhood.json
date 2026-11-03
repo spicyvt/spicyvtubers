@@ -1,0 +1,110 @@
+{
+    "bio": "Hi my lovely wolves I'm Jeanne Redhood, The half-succubus masochist in a red hood. (A)Vtuber of Echoria Live House. ✨ I'm always hot head and naughty all the times. My stream is just for adult. If you wanna see more LEWD you should visit my Fansly. Hope you enjoy with my streaming XOXO",
+    "twitch": {
+        "id": "520668653",
+        "login": "jeanneredhood",
+        "displayName": "JeanneRedhood",
+        "createdAt": "2020-04-26T03:35:22.344931Z",
+        "updatedAt": "2026-06-24T04:12:04.464776Z",
+        "description": "Hi my lovely wolves I'm Jeanne Redhood, The half-succubus masochist in a red hood. (A)Vtuber of Echoria Live House. ✨ I'm always hot head and naughty all the times. My stream is just for adult. If you wanna see more LEWD you should visit my Fansly. Hope you enjoy with my streaming XOXO",
+        "primaryColorHex": "830000",
+        "followers": {
+            "totalCount": 1986
+        },
+        "follows": {
+            "totalCount": 383
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-10T16:14:15.136905Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b6aec08-c3a1-4f72-a0ea-9ed344e0b7ce-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T22:48:47Z"
+    },
+    "twitter": {
+        "jeannerh_sfw": {
+            "id": null,
+            "handle": "jeannerh_sfw",
+            "displayName": "🧺 𝙅𝙚𝙖𝙣𝙣𝙚 𝙍𝙚𝙙𝙝𝙤𝙤𝙙🗝️",
+            "description": "🧺 The half-succubus masochist in a red hood 🗝️ \nNSFW account @jeanneredhoodd 🔞 \nWork contact : DM or jeanneredhood@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1982973309378764800/r2B0tKbt_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/JeanneRH_SFW",
+            "fetchedAt": "2026-11-03T22:49:00Z"
+        },
+        "jeanneredhoodd": {
+            "id": "1488394198965374978",
+            "handle": "jeanneredhoodd",
+            "displayName": "🔞 𝙅𝙚𝙖𝙣𝙣𝙚 𝙍𝙚𝙙𝙝𝙤𝙤𝙙 🧺 🗝️",
+            "description": "🧺 The half-succubus masochist in a red hood 🗝️ \n🟢 SFW account @JeanneRH_SFW \nWork contact : DM or jeanneredhood@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1985891508722257920/_YAZ5tPB_400x400.jpg",
+            "followersCount": 6046,
+            "followingCount": 1350,
+            "postsCount": 3131,
+            "accountCreatedAt": "2022-02-01T06:10:22.000Z",
+            "profileUrl": "https://x.com/jeanneredhoodd",
+            "fetchedAt": "2026-11-03T22:49:02Z"
+        }
+    },
+    "fansly": {
+        "id": "409339581217910784",
+        "username": "jeanneredhood",
+        "displayName": "Jeanne Redhood「ECR」",
+        "version": 42,
+        "followCount": 9955,
+        "statusId": 1,
+        "accountMediaLikes": 2858,
+        "postLikes": 1373,
+        "about": "・・❥・ Jeanne Redhood ' *•.¸.¸♡\nThe Naughty Succubus in Red Hood\nIt's my red cabin. Please be a horny here\n・・・This area is for adult only・・・\n»»----►It's not a good girl&boy area ❌❌\n\nAll links about me 👉 https://bio.link/jeanne_redhood\nWork contact : DM or jeanneredhood@gmail.com",
+        "location": "",
+        "streaming": {
+            "accountId": "409339581217910784",
+            "channel": {
+                "id": "412016277754748928",
+                "accountId": "409339581217910784",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.6BFaLPoNsOuz.m3u8",
+                "chatRoomId": "645353647026216962",
+                "status": 2,
+                "version": 97,
+                "createdAt": 1659726695000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "412016277754748929",
+                    "historyId": "919318789462437888",
+                    "channelId": "412016277754748928",
+                    "accountId": "409339581217910784",
+                    "title": "[VRChat] Sex flight with Slutty Flight Attendant !THmenu !ENGmenu !spin",
+                    "status": 1,
+                    "viewerCount": 79,
+                    "version": 3346,
+                    "createdAt": 1659726696000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780686783000,
+                    "startedAt": 1780677039000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "910635585792659456",
+                                "streamId": "412016277754748929",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T22:49:19Z"
+    }
+}

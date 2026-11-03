@@ -1,0 +1,105 @@
+{
+    "bio": "Hi I'm Casual! Come hang out and vibe and stuff! :)",
+    "twitch": {
+        "id": "758805358",
+        "login": "casualvr",
+        "displayName": "CasualVR",
+        "createdAt": "2022-01-05T01:03:32.411389Z",
+        "updatedAt": "2026-11-01T05:45:02.861963Z",
+        "description": "Hi I'm Casual! Come hang out and vibe and stuff! :)",
+        "primaryColorHex": "FF69B4",
+        "followers": {
+            "totalCount": 12512
+        },
+        "follows": {
+            "totalCount": 108
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-01T09:33:26.273806Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c1263db-321c-403c-a225-9cbe79425a3e-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T22:48:56Z"
+    },
+    "twitter": {
+        "casualvr_": {
+            "id": null,
+            "handle": "casualvr_",
+            "displayName": "CasualVR",
+            "description": "Just a casual cat | Twitch Partner",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1850000817065164806/OliOEXFh_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/CasualVR_",
+            "fetchedAt": "2026-11-03T22:49:18Z"
+        }
+    },
+    "fansly": {
+        "id": "642610573896331266",
+        "username": "CasualVR",
+        "displayName": null,
+        "version": 4,
+        "followCount": 11781,
+        "statusId": 3,
+        "accountMediaLikes": 64380,
+        "postLikes": 35945,
+        "about": "** All content is made in CVR **\n\nLove you all <3\n\nLovense Affiliate: https://www.lovense.com/p/Casual",
+        "location": "",
+        "streaming": {
+            "accountId": "642610573896331266",
+            "channel": {
+                "id": "719569465804599307",
+                "accountId": "642610573896331266",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ynGQcvHu0HHB.m3u8",
+                "chatRoomId": "719569510163558401",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1733053089000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "719569465804599308",
+                    "historyId": "970292332815466496",
+                    "channelId": "719569465804599307",
+                    "accountId": "642610573896331266",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 17,
+                    "version": 2160,
+                    "createdAt": 1733053090000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792838673000,
+                    "startedAt": 1792830079000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "970292365220651008",
+                                "streamId": "719569465804599308",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "970292365220651009",
+                                "streamId": "719569465804599308",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T22:49:19Z"
+    }
+}
