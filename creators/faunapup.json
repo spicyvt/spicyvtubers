@@ -1,0 +1,109 @@
+{
+    "bio": "Your favorite sussy Werewoof waif! 💙 VR Girlie in training, sussy pup and pro videogamer! | 18+ Channel, sus content ahead!! | Come say hi, I only bite if you ask~ 💙",
+    "twitch": {
+        "id": "117066826",
+        "login": "faunapup",
+        "displayName": "FaunaPup",
+        "createdAt": "2016-02-26T21:28:44.569608Z",
+        "updatedAt": "2026-10-31T17:38:22.713629Z",
+        "description": "Your favorite sussy Werewoof waif! 💙 VR Girlie in training, sussy pup and pro videogamer! | 18+ Channel, sus content ahead!! | Come say hi, I only bite if you ask~ 💙",
+        "primaryColorHex": "06AF8D",
+        "followers": {
+            "totalCount": 5034
+        },
+        "follows": {
+            "totalCount": 440
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-31T19:42:08.524325Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6250d334-3460-4419-b537-f22d99966afb-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T17:55:02Z"
+    },
+    "youtube": {
+        "id": "UCFZcvpejzzCpmhiQGpyQ03Q",
+        "handle": "FaunaPup",
+        "title": "FaunaPup",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCFZcvpejzzCpmhiQGpyQ03Q",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/MWGvaK1-uK49TxNQuoPXbP_R_5yT3Umpx8RUuN0Cqb3sVM3fgVHtKZk2aWKwnYgmeMgFv2GGkw=h300",
+        "subscriberCountText": "86 subscribers",
+        "videoCountText": "6 videos",
+        "fetchedAt": "2026-11-03T17:55:03Z"
+    },
+    "twitter": {
+        "faunapup": {
+            "id": null,
+            "handle": "faunapup",
+            "displayName": "FaunaPup | Werewoof VTuber 🐾🦴",
+            "description": "🦴 Werewoof VTuber\n🔗 https://t.co/XpeUjSxWmQ | \n📧 FaunaPupp@gmail.com | 🎨 #FaunaArts\n💎 https://t.co/rBVMDaAhU7",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2115099429409546241/N0JtP_Oe_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/faunapup",
+            "fetchedAt": "2026-11-03T17:55:07Z"
+        }
+    },
+    "fansly": {
+        "id": "471700696886947840",
+        "username": "FaunaPup",
+        "displayName": "FaunaPup",
+        "version": 11,
+        "followCount": 1385,
+        "statusId": 1,
+        "accountMediaLikes": 315,
+        "postLikes": 533,
+        "about": "♥♠- Your favorite werewoof waifu! -♠♥\n\nWelcome to the pack dungeon! \nI'll be the one to take care of you, so lean back, relax and let me help you find and achieve your sinful desires~ \nGet my custom toy here -> intimaly.com/wsniyw\n\n🔞 Lewd art, animations etc 🔞\n\n\nYou do NOT have permission to reshare / reupload / use any of my images, videos or other uploads for content. ",
+        "location": "https://www.twitch.tv/faunapup",
+        "streaming": {
+            "accountId": "471700696886947840",
+            "channel": {
+                "id": "782599883931525120",
+                "accountId": "471700696886947840",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.l9GO3ZcYyDYp.m3u8",
+                "chatRoomId": "782601464991195606",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1748080712000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "782599883931525121",
+                    "historyId": "790668214685147136",
+                    "channelId": "782599883931525120",
+                    "accountId": "471700696886947840",
+                    "title": "Test stream, playing lewd games and chatting ♥",
+                    "status": 1,
+                    "viewerCount": 17,
+                    "version": 6,
+                    "createdAt": 1748080712000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1750010774000,
+                    "startedAt": 1750004352000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "782599941158612992",
+                                "streamId": "782599883931525121",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T17:55:08Z"
+    }
+}

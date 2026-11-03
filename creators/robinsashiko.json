@@ -1,0 +1,110 @@
+{
+    "bio": "~She/Her~ Greetings! I am Robin Sashiko, the one and only Cat-Moth VTuber! I am a proud trans woman and I play a wide variety of games like Co-Op, Platformers, Rhythm, Rougelike, and Relaxing games. I am an aspiring Voice Actress, Musician, and Artist!",
+    "twitch": {
+        "id": "85701427",
+        "login": "robinsashiko",
+        "displayName": "RobinSashiko",
+        "createdAt": "2015-03-20T23:41:01.599402Z",
+        "updatedAt": "2026-11-01T00:41:42.818484Z",
+        "description": " ~She/Her~ Greetings! I am Robin Sashiko, the one and only Cat-Moth VTuber! I am a proud trans woman and I play a wide variety of games like Co-Op, Platformers, Rhythm, Rougelike, and Relaxing games. I am an aspiring Voice Actress, Musician, and Artist!",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 4007
+        },
+        "follows": {
+            "totalCount": 387
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-01T02:41:52.611506Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dc136c3-c862-4132-9dad-fa295c1d4ba6-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T17:50:17Z"
+    },
+    "twitter": {
+        "robinsashiko": {
+            "id": null,
+            "handle": "robinsashiko",
+            "displayName": "🏳️‍⚧️Robin Sashiko 🧪",
+            "description": "🧪The Cotton Candy Catgirl Witch VTuber🧪 \n⭐Novice Artist | Musician | Voice Actress\n🎨Fanart: #sashikoart 🔞 #sashikolust\n🔞NSFW AD: bluemoonrylie",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2041189484213968897/2wbIGtvQ_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/robinsashiko",
+            "fetchedAt": "2026-11-03T17:50:23Z"
+        },
+        "bluemoonrylie": {
+            "id": null,
+            "handle": "bluemoonrylie",
+            "displayName": "🔞Rylie Katagami🦌🐈",
+            "description": "🦌AD/IRL Account of a certain blue deerkitty~🐈\n\n🌟She/They | 25\n🎵Musician\n🎤Voice Actress\n🦋bluemoonrylie\n⏺️VTuber Account: @robinsashiko\n#ryliart #rylust",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1676822593955921920/SbMEUvOj_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/BlueMoonRylie",
+            "fetchedAt": "2026-11-03T17:50:25Z"
+        }
+    },
+    "fansly": {
+        "id": "397623734514495488",
+        "username": "BlueMoonRylie",
+        "displayName": "Rylie Katagami",
+        "version": 14,
+        "followCount": 243,
+        "statusId": 1,
+        "accountMediaLikes": 92,
+        "postLikes": 150,
+        "about": "Meowdy~ I'm Rylie!\n\nCatgirl VTuber on main, Adorable Lithe Transfemme IRL",
+        "location": "",
+        "streaming": {
+            "accountId": "397623734514495488",
+            "channel": {
+                "id": "472496605409320960",
+                "accountId": "397623734514495488",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jpja2IFRNqq9.m3u8",
+                "chatRoomId": "472497310387937280",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1674146329000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "472496605409320961",
+                    "historyId": "615433894342172672",
+                    "channelId": "472496605409320960",
+                    "accountId": "397623734514495488",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 682,
+                    "createdAt": 1674146329000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1708234391000,
+                    "startedAt": 1708225234000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "472497163222396928",
+                                "streamId": "472496605409320961",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T17:50:30Z"
+    }
+}

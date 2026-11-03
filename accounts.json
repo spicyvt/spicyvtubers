@@ -1867,7 +1867,8 @@
     "avatar": "avatarsx"
   },
   {
-    "slug": "aresmythos",
+    "slug": "ares",
+    "slugold": "aresmythos",
     "fansly": "aresmythos",
     "channel": "AresMythos",
     "twitch": "aresmythos",
@@ -7422,7 +7423,8 @@
     "avatar": "avatarsx"
   },
   {
-    "slug": "kaori_blaze",
+    "slug": "kaoriblaze",
+    "slugold": "kaori_blaze",
     "rplay": "kaoriblazeasmr",
     "patreon": "kaoriblazeasmr",
     "channel": "Kaori_Blaze",
@@ -11050,7 +11052,8 @@
     "channel": "Croni",
     "twitch": "necronival",
     "xHandles": ["necronival"],
-    "socials": "https://linktr.ee/necronival"
+    "socials": "https://linktr.ee/necronival",
+    "avatar": "avatarsx"
   },
   {
     "slug": "tamamagatama",
@@ -11058,7 +11061,8 @@
     "channel": "TamaMagatama",
     "twitch": "tamamagatama",
     "xHandles": ["tamamagatama"],
-    "socials": "https://tamamagatama.uwu.ai/"
+    "socials": "https://tamamagatama.uwu.ai/",
+    "avatar": "avatarsx"
   },
   {
     "slug": "talatora",
@@ -11066,39 +11070,57 @@
     "channel": "Tala Tora",
     "twitch": "talatora",
     "xHandles": ["tala_tora"],
-    "socials": "https://talatora.com"
+    "socials": "https://talatora.com",
+    "avatar": "avatarsx"
   },
   {
-    "slug": "",
-    "fansly": "",
-    "channel": "",
-    "twitch": "",
-    "xHandles": ["", ""],
-    "socials": ""
+    "slug": "hana",
+    "patreon": "hanamii",
+    "channel": "Hana",
+    "twitch": "hana",
+    "youtube": "hanamii",
+    "xHandles": ["kittyhana"],
+    "socials": "https://kittyhana.carrd.co",
+    "avatar": "avatarsx"
   },
   {
-    "slug": "",
-    "fansly": "",
-    "channel": "",
-    "twitch": "",
-    "xHandles": ["", ""],
-    "socials": ""
+    "slug": "robinsashiko",
+    "fansly": "bluemoonrylie",
+    "joystick": "bluemoonrylie",
+    "channel": "RobinSashiko",
+    "twitch": "robinsashiko",
+    "xHandles": ["robinsashiko", "bluemoonrylie"],
+    "socials": "https://robinsashiko.carrd.co/",
+    "avatar": "avatarsx"
   },
   {
-    "slug": "",
-    "fansly": "",
-    "channel": "",
-    "twitch": "",
-    "xHandles": ["", ""],
-    "socials": ""
+    "slug": "enricozenitani",
+    "patreon": "ensmr",
+    "channel": "Enrico Zenitani",
+    "twitch": "enrico",
+    "xHandles": ["enricozenitani"],
+    "socials": "https://zenitalk.carrd.co",
+    "avatar": "avatarsx"
   },
   {
-    "slug": "",
-    "fansly": "",
-    "channel": "",
-    "twitch": "",
-    "xHandles": ["", ""],
-    "socials": ""
+    "slug": "enarialiliales",
+    "fansly": "enarialiliales",
+    "channel": "Enaria Liliales",
+    "twitch": "enarialiliales",
+    "youtube": "enarialiliales",
+    "xHandles": ["enarialiliales"],
+    "socials": "https://linktr.ee/enarialiliales",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "faunapup",
+    "fansly": "faunapup",
+    "channel": "FaunaPup",
+    "twitch": "faunapup",
+    "youtube": "faunapup",
+    "xHandles": ["faunapup"],
+    "socials": "https://faunapup.carrd.co",
+    "avatar": "avatarsx"
   },
   {
     "slug": "",

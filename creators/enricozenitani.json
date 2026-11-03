@@ -1,0 +1,42 @@
+{
+    "bio": "stop telling me to calm down (18+)",
+    "twitch": {
+        "id": "613096907",
+        "login": "enrico",
+        "displayName": "Enrico",
+        "createdAt": "2020-11-25T17:57:02.883864Z",
+        "updatedAt": "2026-11-01T19:03:16.821977Z",
+        "description": "stop telling me to calm down (18+)",
+        "primaryColorHex": "CAA7FF",
+        "followers": {
+            "totalCount": 22001
+        },
+        "follows": {
+            "totalCount": 1695
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-01T19:05:24.236119Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/acdd610a-af45-4baa-b2a6-8743f8357467-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T17:50:18Z"
+    },
+    "twitter": {
+        "enricozenitani": {
+            "id": null,
+            "handle": "enricozenitani",
+            "displayName": "en 🩸🔻",
+            "description": "Annoying Vtuber. Marxist-Leninist. (he/him)\n❤ @augichii\n\n👉🏻 https://t.co/bttKnLR3FF 👈🏻\n\n🎨 #FanricoArtitani\ni: @KyozukiVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1966977496223555584/6x64Xd4a_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/enricozenitani",
+            "fetchedAt": "2026-11-03T17:50:26Z"
+        }
+    }
+}

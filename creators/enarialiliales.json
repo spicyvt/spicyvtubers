@@ -1,0 +1,109 @@
+{
+    "bio": "[18+] a boozy floozy princess who's here for a good time, not a long time! 📧 Business: inquiries.enarialiliales@gmail.com | https://enarialiliales.carrd.co",
+    "twitch": {
+        "id": "1076811020",
+        "login": "enarialiliales",
+        "displayName": "EnariaLiliales",
+        "createdAt": "2024-05-05T17:53:55.376591Z",
+        "updatedAt": "2026-08-10T23:21:03.285158Z",
+        "description": "[18+] a boozy floozy princess who's here for a good time, not a long time! 📧 Business: inquiries.enarialiliales@gmail.com | https://enarialiliales.carrd.co",
+        "primaryColorHex": "B92FDB",
+        "followers": {
+            "totalCount": 1628
+        },
+        "follows": {
+            "totalCount": 84
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-29T02:35:13.630679Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec2a0015-9ecb-4b42-89e3-a33be1d0e7b8-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T17:54:59Z"
+    },
+    "youtube": {
+        "id": "UCydL5CsfGBxFhqZ8ZH1ljRA",
+        "handle": "EnariaLiliales",
+        "title": "Enaria Liliales",
+        "description": "pls dont tell my mom what i do for a living",
+        "channelUrl": "https://www.youtube.com/channel/UCydL5CsfGBxFhqZ8ZH1ljRA",
+        "keywords": "vtuber envtuber vtuberen phvtuber anime gaming \"cozy games\"",
+        "profileImageUrl": "https://yt3.googleusercontent.com/gp_XuFU3Hxq3o_IDu6wzLxXNdLsJa5-NzYFldO73cgky1CvB-asIV4WRy23SYb0hlg3vfpMU=h300",
+        "subscriberCountText": "83 subscribers",
+        "videoCountText": "1 video",
+        "fetchedAt": "2026-11-03T17:55:01Z"
+    },
+    "twitter": {
+        "enarialiliales": {
+            "id": null,
+            "handle": "enarialiliales",
+            "displayName": "Enaria ⚜️🍷",
+            "description": "NSFW 🔞 Artist ✦ Vtuber ✦ Degenerate 💦\n\nママ: I am my own model mama.🧍‍♀️\n\n📍https://t.co/O7xoSiS4cC\n\n📩 inquiries.enarialiliales@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1947584995981479936/S3tgTwKR_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/enarialiliales",
+            "fetchedAt": "2026-11-03T17:55:05Z"
+        }
+    },
+    "fansly": {
+        "id": "726289494348668928",
+        "username": "EnariaLiliales",
+        "displayName": "Enaria Liliales",
+        "version": 8,
+        "followCount": 1222,
+        "statusId": 2,
+        "accountMediaLikes": 161,
+        "postLikes": 319,
+        "about": "I am my own Vtuber mama so everything here is lore accurate.\nJust trying to make some extra cash before I drain the kingdom's treasury of its funds \\(˶ᵔ ᵕ ᵔ˶)/",
+        "location": "Philippines",
+        "streaming": {
+            "accountId": "726289494348668928",
+            "channel": {
+                "id": "734808427158577152",
+                "accountId": "726289494348668928",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.VND5Cfiv0tyE.m3u8",
+                "chatRoomId": "734808633472200704",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1736686341000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "734808427158577153",
+                    "historyId": "804231893703741440",
+                    "channelId": "734808427158577152",
+                    "accountId": "726289494348668928",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 30,
+                    "version": 1839,
+                    "createdAt": 1736686341000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1753243503000,
+                    "startedAt": 1753238185000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "734808510730088448",
+                                "streamId": "734808427158577153",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T17:55:08Z"
+    }
+}
