@@ -1,0 +1,88 @@
+{
+    "bio": "Silly wiggly cat girl~",
+    "twitch": {
+        "id": "1461564184",
+        "login": "rael_neko",
+        "displayName": "Rael_Neko",
+        "createdAt": "2026-03-17T02:13:41.424064Z",
+        "updatedAt": "2026-10-30T01:19:01.461087Z",
+        "description": "Silly wiggly cat girl~",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 918
+        },
+        "follows": {
+            "totalCount": 3
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-30T03:32:20.86135Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1b7f303-a986-4e86-815d-32e02ceafc8a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T23:49:38Z"
+    },
+    "twitter": {
+        "raelneko": {
+            "id": "1722072871806414848",
+            "handle": "raelneko",
+            "displayName": "Rael",
+            "description": "18+ | silly daydreaming kitten :3\nMore content in my link~",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2043519483474812929/EBWN-HQQ_400x400.jpg",
+            "followersCount": 3738,
+            "followingCount": 10,
+            "postsCount": 232,
+            "accountCreatedAt": "2023-11-08T02:06:14.000Z",
+            "profileUrl": "https://x.com/RaelNeko",
+            "fetchedAt": "2026-11-03T23:50:00Z"
+        }
+    },
+    "fansly": {
+        "id": "507433128780902400",
+        "username": "RaelNeko",
+        "displayName": "RaelNeko",
+        "version": 8,
+        "followCount": 13984,
+        "statusId": 3,
+        "accountMediaLikes": 31309,
+        "postLikes": 12957,
+        "about": "Busty catgirl bouncing on your lap :3\nSubscribe to unlock lots of Roleplay, teasing, JOI, worshipping huge milkers and asses content <3\n\nhttps://beacons.ai/raelneko",
+        "location": "your bed~",
+        "streaming": {
+            "accountId": "507433128780902400",
+            "channel": {
+                "id": "584423361472372736",
+                "accountId": "507433128780902400",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.rNQErL0VmY1Q.m3u8",
+                "chatRoomId": "584423800091717632",
+                "status": 2,
+                "version": 22,
+                "createdAt": 1700831747000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "584423361472372737",
+                    "historyId": "972003864041512960",
+                    "channelId": "584423361472372736",
+                    "accountId": "507433128780902400",
+                    "title": "jiggly bouncy butt~",
+                    "status": 1,
+                    "viewerCount": 334,
+                    "version": 4331,
+                    "createdAt": 1700831747000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793242938000,
+                    "startedAt": 1793238140000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T23:50:27Z"
+    }
+}

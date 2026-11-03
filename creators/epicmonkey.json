@@ -1,0 +1,95 @@
+{
+    "bio": "Hi there ^-^  I'm just enjoying some games, you wanna come watch? :) !Discord",
+    "twitch": {
+        "id": "122665874",
+        "login": "epic_monkey",
+        "displayName": "Epic_Monkey",
+        "createdAt": "2016-04-25T01:38:40.081446Z",
+        "updatedAt": "2026-10-15T03:01:26.653118Z",
+        "description": "Hi there ^-^  I'm just enjoying some games, you wanna come watch? :) !Discord ",
+        "primaryColorHex": "FFAAED",
+        "followers": {
+            "totalCount": 1736
+        },
+        "follows": {
+            "totalCount": 326
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2023-10-21T05:40:05.019748Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/19615252-9e4b-4abd-a1ef-0cc420d6f317-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T23:49:46Z"
+    },
+    "bluesky": {
+        "did": "did:plc:ycnuyx5sralyrztvmkxg6lwi",
+        "handle": "epicmonkey.bsky.social",
+        "displayName": "Epic_Monkey",
+        "description": "Twitch Affiliate 💖 \nAussie 💖 \nGayming 💖 \n\nLinks: linktr.ee/Epic_Monkey",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ycnuyx5sralyrztvmkxg6lwi/bafkreidgwkydq5j7nptaizjg2vw3csyv6bzgnlqclqfdubbanwaorehkfi",
+        "followersCount": 661,
+        "followingCount": 262,
+        "postsCount": 240,
+        "accountCreatedAt": "2024-03-29T03:32:09.022Z",
+        "profileUrl": "https://bsky.app/profile/epicmonkey.bsky.social",
+        "fetchedAt": "2026-11-03T23:50:26Z"
+    },
+    "fansly": {
+        "id": "321945630727479296",
+        "username": "Epic_Monkey",
+        "displayName": "MonMon",
+        "version": 13,
+        "followCount": 11129,
+        "statusId": 3,
+        "accountMediaLikes": 35121,
+        "postLikes": 40363,
+        "about": "Uhhhhh, what is this place?? 😳\n\nDiscord - discord.gg/smTgQhzwzp\n\nHuge thank you to those who choose to support me ❤️❤️\n\nIf you wanna gift me anything :3\nthrone.com/epic_monkey",
+        "location": "In your walls..",
+        "streaming": {
+            "accountId": "321945630727479296",
+            "channel": {
+                "id": "761473198763028480",
+                "accountId": "321945630727479296",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.cBP3X0flIJuf.m3u8",
+                "chatRoomId": "761478606571450368",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1743043718000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "761473198763028481",
+                    "historyId": "973824498182660096",
+                    "channelId": "761473198763028480",
+                    "accountId": "321945630727479296",
+                    "title": "Gaming on VRChat, you should join and try to make me cum :3",
+                    "status": 1,
+                    "viewerCount": 24,
+                    "version": 1132,
+                    "createdAt": 1743043718000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793686821000,
+                    "startedAt": 1793672213000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "761473336269086722",
+                                "streamId": "761473198763028481",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T23:50:27Z"
+    }
+}

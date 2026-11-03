@@ -1,0 +1,73 @@
+{
+    "bio": "Just a succubus taking time off to play some games!",
+    "twitch": {
+        "id": "69788228",
+        "login": "ginjo_soma",
+        "displayName": "Ginjo_Soma",
+        "createdAt": "2014-08-24T06:13:01.671572Z",
+        "updatedAt": "2026-10-30T22:13:03.547818Z",
+        "description": "Just a succubus taking time off to play some games!",
+        "primaryColorHex": "FF0000",
+        "followers": {
+            "totalCount": 1801
+        },
+        "follows": {
+            "totalCount": 123
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-31T01:29:50.899563Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d715fe5-eb8b-4b9d-94d8-c820c5773477-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T23:49:47Z"
+    },
+    "fansly": {
+        "id": "363381487392796672",
+        "username": "Ginjo",
+        "displayName": null,
+        "version": 9,
+        "followCount": 10805,
+        "statusId": 1,
+        "accountMediaLikes": 36973,
+        "postLikes": 26582,
+        "about": "Welcome to the archive room where i keep some of the spicer stuff~\nFor anyone that enjoys my content this is going to be the best place to get it and help me able to create more of it!\n\nSpoil me~ https://throne.com/ginjo",
+        "location": "",
+        "streaming": {
+            "accountId": "363381487392796672",
+            "channel": {
+                "id": "481901226611453952",
+                "accountId": "363381487392796672",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.QwtneO9WNEGo.m3u8",
+                "chatRoomId": "482014951276294144",
+                "status": 2,
+                "version": 53,
+                "createdAt": 1676388565000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "481901226611453953",
+                    "historyId": "972749063474659328",
+                    "channelId": "481901226611453952",
+                    "accountId": "363381487392796672",
+                    "title": "Jinkies!",
+                    "status": 1,
+                    "viewerCount": 143,
+                    "version": 3455,
+                    "createdAt": 1676388566000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793426986000,
+                    "startedAt": 1793415809000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T23:50:27Z"
+    }
+}

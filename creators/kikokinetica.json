@@ -1,0 +1,97 @@
+{
+    "bio": "Streams Tue/Wen/Thur - Check out my socials for moreStarted over on other platforms before twitch but am happy to find a home on purple",
+    "twitch": {
+        "id": "1236641524",
+        "login": "kikokinetica",
+        "displayName": "KikoKinetica",
+        "createdAt": "2025-01-21T23:59:17.208966Z",
+        "updatedAt": "2026-10-14T14:11:53.335846Z",
+        "description": "Streams Tue/Wen/Thur - Check out my socials for moreStarted over on other platforms before twitch but am happy to find a home on purple",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 2585
+        },
+        "follows": {
+            "totalCount": 107
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-06T19:20:28.970187Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/905c23ba-3ce6-43b6-8db0-8a42b770c05d-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T23:49:48Z"
+    },
+    "twitter": {
+        "kikokinetica": {
+            "id": null,
+            "handle": "kikokinetica",
+            "displayName": "KikoKinetica",
+            "description": "Just a silly goober that loves to dance....\n- Approved Poledancer\n- Silly goober\n- NSFW\nhttps://t.co/nVf00rCSN0",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2110390243799015425/pe6hbYo-_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/KikoKinetica",
+            "fetchedAt": "2026-11-03T23:50:23Z"
+        }
+    },
+    "fansly": {
+        "id": "570030563197460480",
+        "username": "KikoKinetica",
+        "displayName": "KikoKinetica",
+        "version": 9,
+        "followCount": 12053,
+        "statusId": 3,
+        "accountMediaLikes": 4780,
+        "postLikes": 5155,
+        "about": "❗Live 4/week, 1pm EST\n🍭 Some say i give nice BJ\n🍪 ERP & Customs open dm me\n\n🍌https://linktr.ee/kikokinetica",
+        "location": "Right here & missing you",
+        "streaming": {
+            "accountId": "570030563197460480",
+            "channel": {
+                "id": "617800360014131200",
+                "accountId": "570030563197460480",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.w6fQiG22dYtP.m3u8",
+                "chatRoomId": "617801297382354944",
+                "status": 2,
+                "version": 63,
+                "createdAt": 1708789444000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "617800360014131201",
+                    "historyId": "974073031334830080",
+                    "channelId": "617800360014131200",
+                    "accountId": "570030563197460480",
+                    "title": "💦 BzzBzz Orgasm 💦 Lovense on 💦 Fullbody + Facetracking",
+                    "status": 1,
+                    "viewerCount": 113,
+                    "version": 3815,
+                    "createdAt": 1708789444000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793743560000,
+                    "startedAt": 1793731468000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "968572284820283392",
+                                "streamId": "617800360014131201",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T23:50:27Z"
+    }
+}

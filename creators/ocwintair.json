@@ -1,0 +1,72 @@
+{
+    "twitter": {
+        "ocwintair": {
+            "id": null,
+            "handle": "ocwintair",
+            "displayName": "OCWintair",
+            "description": "🔞\nA Lewdtuber.\nFind full length videos and other pictures on fansly\nThrone: https://t.co/SibxWUsP5D",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1655565237905661952/fPjWGQKy_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/OcWintair",
+            "fetchedAt": "2026-11-03T23:49:53Z"
+        }
+    },
+    "fansly": {
+        "id": "513343729839386624",
+        "username": "OCwintair",
+        "displayName": null,
+        "version": 5,
+        "followCount": 14030,
+        "statusId": 1,
+        "accountMediaLikes": 65661,
+        "postLikes": 31226,
+        "about": "Welcome to my Fansly! 🎥DAILY CONTENT! Free Content Just for FOLLOWING!\n💵All of my videos are able to be bought for 💵15$. This means you keep the video forever if the post or video is deleted❤️‍🔥 \n🙏Follows - 10s shorts everyday\n🛡️Guardians🛡️ - 10-15 min collab vids weekly + BTS Pics\n☁️Cloud☁️ (Guardian Tier + Access to stream vods, 25% off PPV)\n🌈Rainbow🌈 (UNLOCKS EVERYTHING)(Exclusive POV vids, Name in vid, 50% off PPV + Vaulted Videos only $1)\n\n\nI now also have a throne! https://throne.com/ocwintair",
+        "location": "Your fantasies",
+        "streaming": {
+            "accountId": "513343729839386624",
+            "channel": {
+                "id": "903475177415798784",
+                "accountId": "513343729839386624",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YX5XIYfvWxM9.m3u8",
+                "chatRoomId": "903475522938363904",
+                "status": 2,
+                "version": 12,
+                "createdAt": 1776899628000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "903475177415798785",
+                    "historyId": "914719376135962624",
+                    "channelId": "903475177415798784",
+                    "accountId": "513343729839386624",
+                    "title": "10K Special stream! BTS of making a video",
+                    "status": 1,
+                    "viewerCount": 48,
+                    "version": 8,
+                    "createdAt": 1776899628000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1779590201000,
+                    "startedAt": 1779580453000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "914368465953890304",
+                                "streamId": "903475177415798785",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T23:50:27Z"
+    }
+}

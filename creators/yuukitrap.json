@@ -1,0 +1,110 @@
+{
+    "bio": "🔞 Professional Rawdogger ✨Homiesexual ✨Unreal Dance Crew",
+    "twitch": {
+        "id": "97988139",
+        "login": "yuukitrap",
+        "displayName": "YuukiTrap",
+        "createdAt": "2015-08-02T03:41:30.820649Z",
+        "updatedAt": "2026-10-30T04:08:17.575916Z",
+        "description": "🔞 Professional Rawdogger ✨Homiesexual ✨Unreal Dance Crew",
+        "primaryColorHex": "A9B6FF",
+        "followers": {
+            "totalCount": 1169
+        },
+        "follows": {
+            "totalCount": 135
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-30T05:49:34.174214Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3206de4d-cd45-4ce5-856c-c0cefe8591ee-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T23:49:42Z"
+    },
+    "twitter": {
+        "yuukitrap": {
+            "id": "3298707486",
+            "handle": "yuukitrap",
+            "displayName": "YuwukiTarp 🐶",
+            "description": "🔞 Professional Rawdogger ✨\nPFP: @feliicore 👩‍🎨 Banner (Logo): @thePrimaRoxas 👨‍🎨",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1925798658483601408/TMkuNe6A_400x400.png",
+            "followersCount": 22008,
+            "followingCount": 1332,
+            "postsCount": 836,
+            "accountCreatedAt": "2015-07-27T21:59:02.000Z",
+            "profileUrl": "https://x.com/YuukiTrap",
+            "fetchedAt": "2026-11-03T23:50:07Z"
+        },
+        "nsfyuuki": {
+            "id": null,
+            "handle": "nsfyuuki",
+            "displayName": "YuukiPup",
+            "description": "Official VT 🔞Acc: YuukiTrap",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2081580462531543040/fP1IYRvi_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/NSFYuuki",
+            "fetchedAt": "2026-11-03T23:50:09Z"
+        }
+    },
+    "fansly": {
+        "id": "374977832192843776",
+        "username": "YuukiTrap",
+        "displayName": null,
+        "version": 4,
+        "followCount": 12372,
+        "statusId": 1,
+        "accountMediaLikes": 16362,
+        "postLikes": 12542,
+        "about": "🔞 Your Favorite Puppygirl\n✨Professional Rawdogger \n✨3D Artist/Content Creator \n🖤 Socials and More: https://yuukitrap.carrd.com 🤍\n\n*DISCLAIMER*\nI am a Kemonomimi (a human character featuring animal ears and a tail). I do not identify as an animal in any respect, but rather as a human adorned with accessories.\n\nPFP: @feliicore 💖\nBanner (Logo): @thePrimaRoxas 👨‍🎨",
+        "location": "",
+        "streaming": {
+            "accountId": "374977832192843776",
+            "channel": {
+                "id": "530202419091484672",
+                "accountId": "374977832192843776",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.dnJy1ZMMaA5K.m3u8",
+                "chatRoomId": "530202836290514944",
+                "status": 2,
+                "version": 100,
+                "createdAt": 1687904467000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "530202419091484673",
+                    "historyId": "973746212719046656",
+                    "channelId": "530202419091484672",
+                    "accountId": "374977832192843776",
+                    "title": "Working Hard, Getting Played Harder 🐶",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 6479,
+                    "createdAt": 1687904467000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793660846000,
+                    "startedAt": 1793653548000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "823789247189245952",
+                                "streamId": "530202419091484673",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T23:50:27Z"
+    }
+}

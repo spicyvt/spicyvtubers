@@ -1,0 +1,88 @@
+{
+    "bio": "My name is fey! I'm a VRChat ASMR artist and bouncy wiggler who loves to entertain~ Please follow me on my other socials https://linktr.ee/feyvr... Business Inquiries: feyvr8@gmail.com",
+    "twitch": {
+        "id": "1092121152",
+        "login": "feyy",
+        "displayName": "feyy",
+        "createdAt": "2024-05-28T05:32:43.520513Z",
+        "updatedAt": "2026-10-28T02:24:14.329325Z",
+        "description": "My name is fey! I'm a VRChat ASMR artist and bouncy wiggler who loves to entertain~ Please follow me on my other socials https://linktr.ee/feyvr... Business Inquiries: feyvr8@gmail.com",
+        "primaryColorHex": "7B5DE9",
+        "followers": {
+            "totalCount": 16033
+        },
+        "follows": {
+            "totalCount": 335
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-27T22:47:01.595927Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/afe63a33-4184-43a6-880a-553276dc9cb9-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T23:49:37Z"
+    },
+    "twitter": {
+        "fey_vt": {
+            "id": "2053910636254613504",
+            "handle": "fey_vt",
+            "displayName": "fey",
+            "description": "🍑join my Discord! http://discord.gg/fey 💋Twitch Partner http://twitch.tv/feyy  🙏Business: feyyvrc@gmail.com 💖spicier account is @fey_VRC",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2054133597070897152/HABsF7Dc_400x400.jpg",
+            "followersCount": 611,
+            "followingCount": 170,
+            "postsCount": 69,
+            "accountCreatedAt": "2026-05-11T18:50:40.000Z",
+            "profileUrl": "https://x.com/fey_vt",
+            "fetchedAt": "2026-11-03T23:49:56Z"
+        }
+    },
+    "fansly": {
+        "id": "632060026684448768",
+        "username": "feyvr",
+        "displayName": "feyVR",
+        "version": 6,
+        "followCount": 13477,
+        "statusId": 3,
+        "accountMediaLikes": 11319,
+        "postLikes": 5966,
+        "about": "🔴LIVE🔴 every Friday 8PM PST + Tuesday 12PM PST\n\nTwitch Partner https://twitch.tv/feyy Youtube Partner https://youtube.com/@feyVRC\n🍑A$$ Built Different🍑 I can bounce for hours~\n\n🫶 Commissions OPEN: 1/5 slots filled 🥛💦",
+        "location": "",
+        "streaming": {
+            "accountId": "632060026684448768",
+            "channel": {
+                "id": "726240593608450050",
+                "accountId": "632060026684448768",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Xcp1o50qo2Pw.m3u8",
+                "chatRoomId": "726240696566034433",
+                "status": 2,
+                "version": 98,
+                "createdAt": 1734643610000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "726240593608450051",
+                    "historyId": "974088277743128576",
+                    "channelId": "726240593608450050",
+                    "accountId": "632060026684448768",
+                    "title": "chewsday innit m8",
+                    "status": 1,
+                    "viewerCount": 273,
+                    "version": 6043,
+                    "createdAt": 1734643610000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793743611000,
+                    "startedAt": 1793735103000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T23:50:27Z"
+    }
+}

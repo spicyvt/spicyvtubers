@@ -1,0 +1,88 @@
+{
+    "bio": "MattyDeath BIG ENERGY",
+    "twitch": {
+        "id": "53388062",
+        "login": "mattydeath",
+        "displayName": "MattyDeath",
+        "createdAt": "2013-12-17T03:44:08.334558Z",
+        "updatedAt": "2026-10-31T06:10:27.043643Z",
+        "description": "MattyDeath BIG ENERGY",
+        "primaryColorHex": "FF6BD2",
+        "followers": {
+            "totalCount": 30988
+        },
+        "follows": {
+            "totalCount": 744
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-31T10:16:16.627642Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/077b7c84-7a58-4f61-a7f8-9aea3d7b4821-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T23:49:35Z"
+    },
+    "twitter": {
+        "deathmatty": {
+            "id": null,
+            "handle": "deathmatty",
+            "displayName": "MattyDeath",
+            "description": "Partnered twitch streamer. pfp by @makarimorph",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1513016601779617795/9EK595lJ_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/deathmatty",
+            "fetchedAt": "2026-11-03T23:49:55Z"
+        }
+    },
+    "fansly": {
+        "id": "443879876395540480",
+        "username": "MattyDeath",
+        "displayName": null,
+        "version": 5,
+        "followCount": 13766,
+        "statusId": 1,
+        "accountMediaLikes": 52735,
+        "postLikes": 14422,
+        "about": "Custom 1 Minute videos 20$\n\nCustom 5-10 minute videos 150$\n\nMonster Fucker!",
+        "location": "",
+        "streaming": {
+            "accountId": "443879876395540480",
+            "channel": {
+                "id": "660445116871225345",
+                "accountId": "443879876395540480",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xFxnZLkz0Pad.m3u8",
+                "chatRoomId": "660445950568833024",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1718956746000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "660445116871225346",
+                    "historyId": "895975116125532160",
+                    "channelId": "660445116871225345",
+                    "accountId": "443879876395540480",
+                    "title": "loser central",
+                    "status": 1,
+                    "viewerCount": 57,
+                    "version": 3798,
+                    "createdAt": 1718956747000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1775121511000,
+                    "startedAt": 1775111474000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T23:50:27Z"
+    }
+}

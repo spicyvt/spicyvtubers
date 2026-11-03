@@ -1,0 +1,110 @@
+{
+    "bio": "Robotic Bimbot CEO of LeshiCorp, a multinational cybernetic augmentation company. All my employees are my wonderful family, let me make you smile 💙",
+    "twitch": {
+        "id": "111807292",
+        "login": "leshivr",
+        "displayName": "LeshiVR",
+        "createdAt": "2016-01-05T21:24:22.139751Z",
+        "updatedAt": "2026-11-02T17:01:31.049213Z",
+        "description": "Robotic Bimbot CEO of LeshiCorp, a multinational cybernetic augmentation company. All my employees are my wonderful family, let me make you smile 💙",
+        "primaryColorHex": "00236A",
+        "followers": {
+            "totalCount": 10775
+        },
+        "follows": {
+            "totalCount": 867
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-03T19:43:43.201472Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a5d71a39-eaff-4fd8-b51c-d34bedb96eac-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T23:49:43Z"
+    },
+    "twitter": {
+        "leshicat": {
+            "id": null,
+            "handle": "leshicat",
+            "displayName": "L e s h i 🐾",
+            "description": "Cat Bimbo with a BIG Personality~ 💋\n\nStream: https://t.co/GLX6GV6AG8\nBsky: https://t.co/JBQuFcUuSa\nDiscord: https://t.co/FQ4pwWBvwK",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2114769045408911360/l73Fe3WO_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/LeshiCat",
+            "fetchedAt": "2026-11-03T23:50:13Z"
+        },
+        "leshivr": {
+            "id": "1100978547819245570",
+            "handle": "leshivr",
+            "displayName": "Ｌｅｓｈｉ",
+            "description": "Will no longer post here, please follow my new account for stuff @LeshiCat",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2011501641741320193/wWBP_P_4_400x400.jpg",
+            "followersCount": 19180,
+            "followingCount": 832,
+            "postsCount": 8789,
+            "accountCreatedAt": "2019-02-28T04:38:35.000Z",
+            "profileUrl": "https://x.com/LeshiVR",
+            "fetchedAt": "2026-11-03T23:50:15Z"
+        }
+    },
+    "fansly": {
+        "id": "300401938627833856",
+        "username": "LeshiVR",
+        "displayName": "LeshiVR",
+        "version": 8,
+        "followCount": 12915,
+        "statusId": 1,
+        "accountMediaLikes": 15063,
+        "postLikes": 12450,
+        "about": "I'm Leshi, your alluring bimbo dream~ \n\nI love to make you happy with my massive curves and sensual vibes, let me make your fantasy true!\n",
+        "location": "",
+        "streaming": {
+            "accountId": "300401938627833856",
+            "channel": {
+                "id": "304891110013022208",
+                "accountId": "300401938627833856",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.dfwE0jPkNUKv.m3u8",
+                "chatRoomId": "308050312638246912",
+                "status": 2,
+                "version": 29,
+                "createdAt": 1634186065000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "304891110013022209",
+                    "historyId": "959626207584854016",
+                    "channelId": "304891110013022208",
+                    "accountId": "300401938627833856",
+                    "title": "CHAT AND HANGOUT NAKEY TIME!",
+                    "status": 1,
+                    "viewerCount": 112,
+                    "version": 4292,
+                    "createdAt": 1634186065000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1790293003000,
+                    "startedAt": 1790287076000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "719809817648050178",
+                                "streamId": "304891110013022209",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T23:50:27Z"
+    }
+}
