@@ -1,0 +1,42 @@
+{
+    "bio": "Hi I'm Tala Tora! I'm a VTuber streaming video games and variety content!",
+    "twitch": {
+        "id": "684542723",
+        "login": "talatora",
+        "displayName": "TalaTora",
+        "createdAt": "2021-05-07T18:33:44.451233Z",
+        "updatedAt": "2026-11-02T06:15:11.454989Z",
+        "description": "Hi I'm Tala Tora! I'm a VTuber streaming video games and variety content!",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 18524
+        },
+        "follows": {
+            "totalCount": 1071
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-02T06:14:51.360247Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a79be0b0-7a14-4385-a2b9-dfd549532028-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T17:28:57Z"
+    },
+    "twitter": {
+        "tala_tora": {
+            "id": null,
+            "handle": "tala_tora",
+            "displayName": "Tala Tora ✧ 🐯 ✧ VTuber",
+            "description": "🔞\n✧ @Twitch Partner ✧  \n✧@ViteRamen ✧ @GamerSupps ✧ TTS Voice Wizard ✧ @StoneforgedT✧\nPartner Code: TALA\nArt: #Talillust\nNSFW: #Booba_cat",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1594812167030808596/pkY6Sk-g_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/tala_tora",
+            "fetchedAt": "2026-11-03T17:29:02Z"
+        }
+    }
+}

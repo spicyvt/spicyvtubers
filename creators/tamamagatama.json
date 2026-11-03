@@ -1,0 +1,97 @@
+{
+    "bio": "Heyo Adventurers! I'm Tama, your local purple nekomata wizard who sells her wares and provides entertainment! This vtuber is thristy over fictional men in Love and Deepspace, likes to play RPG/Adventure games, and stresses over making art! Business Inquires: tama@tamatama.info",
+    "twitch": {
+        "id": "52958857",
+        "login": "tamamagatama",
+        "displayName": "TamaMagatama",
+        "createdAt": "2013-12-10T06:18:28.534172Z",
+        "updatedAt": "2026-11-01T22:08:04.448281Z",
+        "description": " Heyo Adventurers! I'm Tama, your local purple nekomata wizard who sells her wares and provides entertainment! This vtuber is thristy over fictional men in Love and Deepspace, likes to play RPG/Adventure games, and stresses over making art! Business Inquires: tama@tamatama.info",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 4988
+        },
+        "follows": {
+            "totalCount": 386
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-02T05:59:26.211605Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/caa70296-5b16-4532-8851-9a588516d06e-profile_image-300x300.png",
+        "fetchedAt": "2026-11-03T17:28:56Z"
+    },
+    "twitter": {
+        "tamamagatama": {
+            "id": null,
+            "handle": "tamamagatama",
+            "displayName": "Tama🐈👁",
+            "description": "⊹ Nekomata Wizard Vtuber ⊹ Artist 🎨\n⊹💙@AxolottaVT ⊹ ❄️💙\n⊹ https://t.co/eaJSRLHWSf ⊹\n💌 tama@tamatama.info",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1927909221317890051/p_3fpagY_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/tamamagatama",
+            "fetchedAt": "2026-11-03T17:29:01Z"
+        }
+    },
+    "fansly": {
+        "id": "331821777342705664",
+        "username": "TamaMagatama",
+        "displayName": "Tama",
+        "version": 6,
+        "followCount": 3131,
+        "statusId": 3,
+        "accountMediaLikes": 1398,
+        "postLikes": 2312,
+        "about": "💜 18+ Art  💜 NSFW ASMR/Scenes 💜Gooning Streams 💜 GFE in DMs only\nAll audio goodies are delivered via inbox with free previews on the main feed!\n👅 Sub 👅",
+        "location": "Edging of the Prime Material Plane",
+        "streaming": {
+            "accountId": "331821777342705664",
+            "channel": {
+                "id": "398458428185391104",
+                "accountId": "331821777342705664",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yVPbDSPa7qiS.m3u8",
+                "chatRoomId": "400987167586787328",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1656494252000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "398458428185391105",
+                    "historyId": "902009217362186240",
+                    "channelId": "398458428185391104",
+                    "accountId": "331821777342705664",
+                    "title": "Weekly Goon fun time",
+                    "status": 1,
+                    "viewerCount": 26,
+                    "version": 7624,
+                    "createdAt": 1656494252000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776557028000,
+                    "startedAt": 1776550115000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "775257933150691328",
+                                "streamId": "398458428185391105",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-03T17:29:04Z"
+    }
+}
