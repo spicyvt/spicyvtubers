@@ -1,0 +1,110 @@
+{
+    "bio": "Oh hola~!!   Bienvenido/a. Soy una DogVtuber y aqui podras encontrar un lugar en donde relajarte, platicar de tu día a día y sobre todo divertirte con mis ocurrencias y mis momentos fallidos en los videojuegos ✨",
+    "twitch": {
+        "id": "455353200",
+        "login": "pixeltinavt",
+        "displayName": "pixeltinaVT",
+        "createdAt": "2019-08-17T20:58:00.145244Z",
+        "updatedAt": "2026-11-02T16:36:04.370639Z",
+        "description": "Oh hola~!!   Bienvenido/a. Soy una DogVtuber y aqui podras encontrar un lugar en donde relajarte, platicar de tu día a día y sobre todo divertirte con mis ocurrencias y mis momentos fallidos en los videojuegos ✨",
+        "primaryColorHex": "FFD37A",
+        "followers": {
+            "totalCount": 934
+        },
+        "follows": {
+            "totalCount": 272
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-02T16:42:11.695236Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4255cada-2559-4966-91ff-19a45f0ec0db-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T03:14:31Z"
+    },
+    "twitter": {
+        "pixeltinavt": {
+            "id": null,
+            "handle": "pixeltinavt",
+            "displayName": "PixelTinavt",
+            "description": "🐺 ワンワン!  ¡La canina de confianza! ¦ 🎤 Singer VTuber ¦ 💜 STREAM #TinaLive ¦ 💛 ART #PixelTinaArt ¦ 💬 FAN #pawpads.\n\nGreenDragonMCstudios",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2067316782918950912/gSV1U8Aj_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/pixeltinavt",
+            "fetchedAt": "2026-11-04T03:14:47Z"
+        },
+        "inuhimetina": {
+            "id": null,
+            "handle": "inuhimetina",
+            "displayName": "InuHime Tina",
+            "description": "Tina Okami Yoru | La Loba de la Noche\nDiosa del deseo, voz que excita, mirada que atrapa.\nNo reces... gime mi nombre. 🔞 #lewdvtuber\n\nRedes:https://t.co/WVPyTFUzmu",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2090633080713199616/MMZHTRwL_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/InuhimeTina",
+            "fetchedAt": "2026-11-04T03:14:48Z"
+        }
+    },
+    "fansly": {
+        "id": "593913896021012480",
+        "username": "tinainuhime",
+        "displayName": "Tina Inuhime",
+        "version": 5,
+        "followCount": 78,
+        "statusId": 1,
+        "accountMediaLikes": 28,
+        "postLikes": 58,
+        "about": "Tina Okami Yoru | La Loba de la Noche\nDiosa del deseo, voz que excita, mirada que atrapa.\nNo reces... gime mi nombre.\n🐾 Aquí se adora con la piel y se confiesa con el cuerpo.\n\nSocial Media: guns.lol/pixeltinavt",
+        "location": "tu cama bb",
+        "streaming": {
+            "accountId": "593913896021012480",
+            "channel": {
+                "id": "813969847233822720",
+                "accountId": "593913896021012480",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.nYz8ExzJkvc3.m3u8",
+                "chatRoomId": "813971131118678016",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1755559894000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "813969847233822721",
+                    "historyId": "814106777598582784",
+                    "channelId": "813969847233822720",
+                    "accountId": "593913896021012480",
+                    "title": "Probando ",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 22,
+                    "createdAt": 1755559894000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1755593992000,
+                    "startedAt": 1755592541000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "814098877668941825",
+                                "streamId": "813969847233822721",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T03:14:52Z"
+    }
+}

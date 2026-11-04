@@ -1,0 +1,97 @@
+{
+    "bio": "hii i cosplay pretty women and play games 😼  streams 7PM Amsterdam time  💚",
+    "twitch": {
+        "id": "529544702",
+        "login": "endearest",
+        "displayName": "Endearest",
+        "createdAt": "2020-05-12T11:25:14.311492Z",
+        "updatedAt": "2026-11-03T20:39:23.159238Z",
+        "description": "hii i cosplay pretty women and play games 😼  streams 7PM Amsterdam time  💚",
+        "primaryColorHex": "D9FFB9",
+        "followers": {
+            "totalCount": 3397
+        },
+        "follows": {
+            "totalCount": 278
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-02T00:16:30.947582Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a9b7810-3587-49c1-804e-512996085211-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T03:14:20Z"
+    },
+    "twitter": {
+        "endearestx": {
+            "id": null,
+            "handle": "endearestx",
+            "displayName": "Endy °˖𓍢ִ໋🍃✿°.💚⋆",
+            "description": "HI GANG! ˙ᵕ˙  i stream and cosplay at https://t.co/TESGIRN6j7 7PM CET  ᶻ 𝗓 𐰁",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2115111916100071424/dBl2ftXB_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/endearestx",
+            "fetchedAt": "2026-11-04T03:14:37Z"
+        }
+    },
+    "fansly": {
+        "id": "719271352233631744",
+        "username": "Endearest",
+        "displayName": "Endearest",
+        "version": 4,
+        "followCount": 193,
+        "statusId": 3,
+        "accountMediaLikes": 587,
+        "postLikes": 657,
+        "about": "VTuber and cosplayer on twitch.tv/endearest | soft porn oriented ♡ dancing ♡⸜(˶˃ ᵕ ˂˶)⸝♡ teasing | i post very sporadically! \n🎀↳ content menu ⤵🎀\n🧸 buy me stuff to wear here: https://throne.com/endearest/wishlist \n🩷 sub for exclusive content!",
+        "location": "",
+        "streaming": {
+            "accountId": "719271352233631744",
+            "channel": {
+                "id": "879152315028758528",
+                "accountId": "719271352233631744",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.deOQ1Os9IaG6.m3u8",
+                "chatRoomId": "879153258554224640",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1771100605000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "879152315028758529",
+                    "historyId": "889307358721757184",
+                    "channelId": "879152315028758528",
+                    "accountId": "719271352233631744",
+                    "title": "♡ i am focused. i am focused. i am focused. ♡",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 8,
+                    "createdAt": 1771100606000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1773533867000,
+                    "startedAt": 1773521756000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "879152892982861824",
+                                "streamId": "879152315028758529",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T03:14:52Z"
+    }
+}

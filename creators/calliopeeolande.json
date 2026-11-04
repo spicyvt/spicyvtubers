@@ -1,0 +1,97 @@
+{
+    "bio": "Hello! I'm Calliope Eolande (she/her), your local transfem Tiefling Bard Vtuber. I do variety streaming content every week starting between 5-6PM CDT.",
+    "twitch": {
+        "id": "70289286",
+        "login": "calliopeeolande",
+        "displayName": "CalliopeEolande",
+        "createdAt": "2014-08-31T00:48:31.840078Z",
+        "updatedAt": "2026-11-02T23:59:45.355123Z",
+        "description": "Hello! I'm Calliope Eolande (she/her), your local transfem Tiefling Bard Vtuber. I do variety streaming content every week starting between 5-6PM CDT.",
+        "primaryColorHex": "C099FC",
+        "followers": {
+            "totalCount": 1611
+        },
+        "follows": {
+            "totalCount": 140
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-03T02:55:18.034548Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff638a3a-e3dc-4cac-875f-6b4e0a9970db-profile_image-300x300.jpeg",
+        "fetchedAt": "2026-11-04T03:14:29Z"
+    },
+    "twitter": {
+        "calliopeeolande": {
+            "id": null,
+            "handle": "calliopeeolande",
+            "displayName": "Calliope Eolande💜🎶",
+            "description": "Feywild Tiefling Bard Vtuber | she/her 🏳️‍⚧️🔞\n@TieflingMelissa 🧪✨Superfan |\n🎨: #CalliTiefArt | 🔞🎨: #CalliOWOArt\nModel/Rig: @zugzugmine\nOshi Mark: 💜🎶",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2084406575117058049/r4CXdgdx_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/calliopeeolande",
+            "fetchedAt": "2026-11-04T03:14:45Z"
+        }
+    },
+    "fansly": {
+        "id": "733523089584828417",
+        "username": "CalliopeEolande",
+        "displayName": "Calliope",
+        "version": 11,
+        "followCount": 286,
+        "statusId": 1,
+        "accountMediaLikes": 40,
+        "postLikes": 212,
+        "about": "Your local lesbian transfer tiefling bard, dipping her toes into the scene. All Fansly content should not be mentioned on Twitch/Discord, and should not be uploaded elsewhere.\n\n💜More Ways to Help support your favorite tiefling💜\n\n🎶https://uwumarket.us/collections/calliopeeolande🎶\n\n🎶https://throne.com/calliopeeolande🎶",
+        "location": "The Feywild",
+        "streaming": {
+            "accountId": "733523089584828417",
+            "channel": {
+                "id": "816239906652188673",
+                "accountId": "733523089584828417",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vjJrenMQ0KIx.m3u8",
+                "chatRoomId": "817590326985236480",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1756101118000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "816239906652188674",
+                    "historyId": "910727227128160256",
+                    "channelId": "816239906652188673",
+                    "accountId": "733523089584828417",
+                    "title": "Married Into Hell",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 56,
+                    "createdAt": 1756101119000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778635625000,
+                    "startedAt": 1778628651000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "816239990445981696",
+                                "streamId": "816239906652188674",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T03:14:52Z"
+    }
+}

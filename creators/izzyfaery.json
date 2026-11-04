@@ -1,0 +1,117 @@
+{
+    "bio": "・❥・Local Pocket Fae・❥・| Short & Sweet | ✉ izzyofthefae@outlook.com",
+    "twitch": {
+        "id": "627171870",
+        "login": "izzyfaery",
+        "displayName": "IzzyFaery",
+        "createdAt": "2020-12-28T07:39:53.220929Z",
+        "updatedAt": "2026-11-02T18:28:51.794948Z",
+        "description": "・❥・Local Pocket Fae・❥・| Short & Sweet | ✉ izzyofthefae@outlook.com",
+        "primaryColorHex": "FFFFFF",
+        "followers": {
+            "totalCount": 1452
+        },
+        "follows": {
+            "totalCount": 486
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-04T01:29:22.691846Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/92ac9eb7-d13e-43fd-a8ca-84588e260270-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T03:14:33Z"
+    },
+    "youtube": {
+        "id": "UCfeDaSMYcDCGgZ_takcm_kg",
+        "handle": "IzzyFaery",
+        "title": "IzzyFaery",
+        "description": "Welcome to a moment in my life.\n°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･\nGames | Pokemon | Collections | Travel | Entertainment\n\n°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･\n\nContact Info -\nBusiness Email : izzyofthefae@outlook.com\n",
+        "channelUrl": "https://www.youtube.com/channel/UCfeDaSMYcDCGgZ_takcm_kg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/Bzsoi0htRZqEQv6s5CMNl-hSd0Ga-xxJ8Zy3hY1hSSFmhb29VsOxuRbKFxEhisR2utUHD-bB8g=h300",
+        "subscriberCountText": "52 subscribers",
+        "videoCountText": "35 videos",
+        "fetchedAt": "2026-11-04T03:14:34Z"
+    },
+    "twitter": {
+        "izzyfaery": {
+            "id": null,
+            "handle": "izzyfaery",
+            "displayName": "IzzyFaery | Nocturn Society 🪻🌿",
+            "description": "• Local Pocket Fae • Variety Streamer • Cozy Vibes • @DrinkGamerGirl • @ItashaCoffee • code &quot;IZZYFAERY&quot; • @NocturnSociety • ママ MOSHI",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2088008149852700672/6Epi1WLD_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/izzyfaery",
+            "fetchedAt": "2026-11-04T03:14:49Z"
+        }
+    },
+    "fansly": {
+        "id": "702893623779270656",
+        "username": "IzzyFaery",
+        "displayName": "IzzyFaery",
+        "version": 4,
+        "followCount": 31,
+        "statusId": 1,
+        "accountMediaLikes": 54,
+        "postLikes": 52,
+        "about": "♥ Your local pocket fae ♥ \n\n♥ She/Her || Faery || Bottom || Brat || Baby ♥\n\n♥ From wHOLEsome to Degenerate ♥ ~ ♥ I aim to please ♥\n\n♥ Twitch || https://www.twitch.tv/izzyfaery ♥ Support Baby. ♥\n♥ Wishlist || https://throne.com/izzyfaery ♥ Spoil Baby. ♥\n\n♥ All of my content is for my Fansly profile only. ♥\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. ",
+        "location": "USA",
+        "streaming": {
+            "accountId": "702893623779270656",
+            "channel": {
+                "id": "748374053567340544",
+                "accountId": "702893623779270656",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.8i2I2U5Ij1Ng.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1739920638000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "748374053567340545",
+                    "historyId": null,
+                    "channelId": "748374053567340544",
+                    "accountId": "702893623779270656",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1739920638000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "748374125910695936",
+                                "streamId": "748374053567340545",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "748374125910695937",
+                                "streamId": "748374053567340545",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T03:14:52Z"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "bio": "The tentacled dragon melf says: Yeee!",
+    "twitch": {
+        "id": "493740569",
+        "login": "kiekyoko",
+        "displayName": "KieKyoko",
+        "createdAt": "2020-02-20T01:49:35.960704Z",
+        "updatedAt": "2026-11-03T21:51:50.735668Z",
+        "description": "The tentacled dragon melf says: Yeee!",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 6747
+        },
+        "follows": {
+            "totalCount": 203
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-04T00:15:45.595585Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/62edd86d-448c-41ea-8a9e-449b7cd60feb-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T03:14:35Z"
+    },
+    "twitter": {
+        "kiekyoko": {
+            "id": null,
+            "handle": "kiekyoko",
+            "displayName": "✨Kie✨the Melf✨",
+            "description": "Gremlin Eldritch Dragon Vtuber✨💖\nLive2d: @siu0207 &amp; @Egonchan_3D\nFanart: #KieArt / #EvilKie / 🔞 #CautionKie\n\nprofessional egg layer and mother elf",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2105755273356836864/8R0QEzGd_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kiekyoko",
+            "fetchedAt": "2026-11-04T03:14:51Z"
+        }
+    },
+    "fansly": {
+        "id": "288867489079635968",
+        "username": "KieKyoko",
+        "displayName": "Kie 💖",
+        "version": 9,
+        "followCount": 358,
+        "statusId": 1,
+        "accountMediaLikes": 131,
+        "postLikes": 332,
+        "about": "hewo, it is the Melf\n\nA little too horny, take good care of me!",
+        "location": "",
+        "streaming": {
+            "accountId": "288867489079635968",
+            "channel": {
+                "id": "845043154104111104",
+                "accountId": "288867489079635968",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.e43cygQ9P1CC.m3u8",
+                "chatRoomId": "845043417133109248",
+                "status": 2,
+                "version": 18,
+                "createdAt": 1762968348000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "845043154104111105",
+                    "historyId": "961501138295734272",
+                    "channelId": "845043154104111104",
+                    "accountId": "288867489079635968",
+                    "title": "elf gooning",
+                    "status": 1,
+                    "viewerCount": 25,
+                    "version": 44,
+                    "createdAt": 1762968348000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1790735341000,
+                    "startedAt": 1790734095000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T03:14:52Z"
+    }
+}
