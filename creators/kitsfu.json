@@ -1,0 +1,88 @@
+{
+    "bio": "Kitsune Blossom VTuber 🌸 | business inquiries: kitsfuVT@gmail.com",
+    "twitch": {
+        "id": "799239941",
+        "login": "kitsfu",
+        "displayName": "Kitsfu",
+        "createdAt": "2022-06-04T05:01:29.377767Z",
+        "updatedAt": "2026-11-01T06:59:46.723028Z",
+        "description": "Kitsune Blossom VTuber 🌸 | business inquiries: kitsfuVT@gmail.com",
+        "primaryColorHex": "840035",
+        "followers": {
+            "totalCount": 14421
+        },
+        "follows": {
+            "totalCount": 527
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-14T12:20:46.197578Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84c5f6f3-69d6-4166-90f7-315cee954008-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T01:00:20Z"
+    },
+    "twitter": {
+        "kitsfu": {
+            "id": null,
+            "handle": "kitsfu",
+            "displayName": "Kits 🦇🌸",
+            "description": "🌸 ꒰ Aussie Foxbat Vtuber ꒱ 🌸🤍\nママ @kvakozawrstudio パパ @darkearth10 | Twitch Partner Variety, Gaming &amp; VA 🔞 @thotfoxx | 🎨 #foxfu",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2062164579866808320/G1hM81IH_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kitsfu",
+            "fetchedAt": "2026-11-04T01:00:23Z"
+        }
+    },
+    "fansly": {
+        "id": "925384146937720832",
+        "username": "Kitsfu",
+        "displayName": "Kitsfu",
+        "version": 4,
+        "followCount": 1203,
+        "statusId": 3,
+        "accountMediaLikes": 1162,
+        "postLikes": 867,
+        "about": "🌸🦇 Your Whoresome Gooner Foxbat 🌸🦇\n\n♡ Tip $20 to send me a photo / Short Video  \n♡ Tip $50 to get a written rating\n♡ Tip $100 to get a voice rating\n \nDM me for Ratings, Audio, Sexting, Roleplay, JOI & customs  \n\nTwitch: https://www.twitch.tv/kitsfu\nInstagram: https://www.instagram.com/kitsfu\nDiscord: https://discord.com/invite/96nDJMCSPn \n\nVTuber, Voice Acting, Art, Hentai & the occasional stream content. No IRL NSFW content ",
+        "location": "",
+        "streaming": {
+            "accountId": "925384146937720832",
+            "channel": {
+                "id": "950289160499900416",
+                "accountId": "925384146937720832",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4Nk02o4AyzZy.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1788060951000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "950289160499900417",
+                    "historyId": "950289573051645952",
+                    "channelId": "950289160499900416",
+                    "accountId": "925384146937720832",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2,
+                    "createdAt": 1788060951000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1788061064000,
+                    "startedAt": 1788061049000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T01:00:25Z"
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "bio": "She/Her | Wolf Bounty Hunter 🇬🇧🎨Design - @LithiaVey |🎨2D - @kamochiruu |⚙RIg - @Mimyoi",
+    "twitch": {
+        "id": "653987055",
+        "login": "huntressspectre",
+        "displayName": "HuntressSpectre",
+        "createdAt": "2021-02-22T20:08:59.389935Z",
+        "updatedAt": "2026-11-03T21:30:58.501322Z",
+        "description": "She/Her | Wolf Bounty Hunter 🇬🇧🎨Design - @LithiaVey |🎨2D - @kamochiruu |⚙RIg - @Mimyoi",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 15372
+        },
+        "follows": {
+            "totalCount": 884
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-03T23:18:17.223912Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/15691147-1695-4621-b0a0-75fd3acb1ddb-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T01:00:18Z"
+    },
+    "youtube": {
+        "id": "UCn-0wWZBXZTJgcueF2LHj0A",
+        "handle": "huntressspectre",
+        "title": "Huntress Spectre",
+        "description": "MAKESHIP PLUSH: https://www.makeship.com/petitions/spectre-plush",
+        "channelUrl": "https://www.youtube.com/channel/UCn-0wWZBXZTJgcueF2LHj0A",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/4ExmztWOJRIx-gRMBRU6SmAjz0QR0GPWMAD0BZUoY8uAZtgizh600XT44fvKivWa6HzovI7g=h300",
+        "subscriberCountText": "3.7K subscribers",
+        "videoCountText": "165 videos",
+        "fetchedAt": "2026-11-04T01:00:19Z"
+    },
+    "twitter": {
+        "huntressspectre": {
+            "id": null,
+            "handle": "huntressspectre",
+            "displayName": "Spectre🐺🔥",
+            "description": "Wolf Bounty Huntress 🇬🇧\n🎨2D @kamochiruu ⚙RIg @Mimyoi Banner: @Soraryse\n@GamerSupps Code: SPECTRE\n📧huntressspectre@gmail.com\nhttps://t.co/jpIXiuC6sg",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1964627318313234432/0YlAlLC4_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/huntressspectre",
+            "fetchedAt": "2026-11-04T01:00:22Z"
+        }
+    },
+    "fansly": {
+        "id": "449826454088200192",
+        "username": "HuntressSpectre",
+        "displayName": "Huntress Spectre",
+        "version": 10,
+        "followCount": 951,
+        "statusId": 1,
+        "accountMediaLikes": 334,
+        "postLikes": 843,
+        "about": "She/Her | Wolf Bounty Hunter\n\n@GamerSupps Code: SPECTRE\n\n🔥Custom Request's Available with any tier\n🔥Streaming every Thursday & Friday [may change due to availability]\n🔥VODs posted from streams every week\n\n-------------------------------------------------------------------------------------------------------------------\n\n✨Spoil me: https://throne.com/huntressspectre\n\n-------------------------------------------------------------------------------------------------------------------\n\nYou may not reproduce, copy, or redistribute any of the content posted on this page without my explicit permission. Any unauthorized distribution of my content & live streams will result in a ban from ALL platforms & legal action will be taken.",
+        "location": "",
+        "streaming": {
+            "accountId": "449826454088200192",
+            "channel": {
+                "id": "943662286382317568",
+                "accountId": "449826454088200192",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.flUtNDy6od77.m3u8",
+                "chatRoomId": "946897955116306432",
+                "status": 2,
+                "version": 12,
+                "createdAt": 1786480981000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "943662286382317569",
+                    "historyId": "972662772372357120",
+                    "channelId": "943662286382317568",
+                    "accountId": "449826454088200192",
+                    "title": "Happy Halloween~",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 20,
+                    "createdAt": 1786480981000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793403032000,
+                    "startedAt": 1793395236000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "967207929713274880",
+                                "streamId": "943662286382317569",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"943661191752871937\\\"}\"}"
+                            },
+                            {
+                                "id": "967207929713274881",
+                                "streamId": "943662286382317569",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T01:00:25Z"
+    }
+}

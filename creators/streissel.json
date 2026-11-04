@@ -1,0 +1,100 @@
+{
+    "bio": "Carpe Diem! My name is Streiss Streusel, mommy yandere ASMR Vtuber~ I stream M-F 9AM CST! Come stay in my cabin, it's lonely here.. For business inquiries contact streissstreusel@gmail.com",
+    "twitch": {
+        "id": "860481656",
+        "login": "streissel",
+        "displayName": "streissel",
+        "createdAt": "2022-12-23T22:23:30.604469Z",
+        "updatedAt": "2026-09-23T22:09:54.310827Z",
+        "description": "Carpe Diem! My name is Streiss Streusel, mommy yandere ASMR Vtuber~ I stream M-F 9AM CST! Come stay in my cabin, it's lonely here.. For business inquiries contact streissstreusel@gmail.com",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 10350
+        },
+        "follows": {
+            "totalCount": 907
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-06-27T20:45:13.687037Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e6bdff4-40e8-4940-9528-32ecc462fd2d-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T00:54:38Z"
+    },
+    "youtube": {
+        "id": "UCFvus6z8u8z-gUW1uozv2Ww",
+        "handle": "streisselvods",
+        "title": "streisselvods",
+        "description": "the industry-mandated vods channel\nran by Streiss!\ntwitch.tv/streissel\n",
+        "channelUrl": "https://www.youtube.com/channel/UCFvus6z8u8z-gUW1uozv2Ww",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/21FSfwYNm_ygz9R9dE3NsfBK1sGlPzLiL6-0JFDcCSF1gPFBA3_W92LBujvkMp2GnFHdTLmV=h300",
+        "subscriberCountText": "1.57K subscribers",
+        "videoCountText": "244 videos",
+        "fetchedAt": "2026-11-04T00:54:40Z"
+    },
+    "twitter": {
+        "streissels": {
+            "id": null,
+            "handle": "streissels",
+            "displayName": "Streiss Streusel 🦊🩵 GRADUATING JUNE 27",
+            "description": "☆ Minty Fresh VTuber ☆ 🔞NSFW🔞: @streisselewd ☆ https://t.co/lW7Cymrz6G ☆ Spicy Content: https://t.co/LwoiTQnELt | #1 FAN OF @sinthyasanguine",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1906126234842742784/y8z2D2XB_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/streissels",
+            "fetchedAt": "2026-11-04T00:54:45Z"
+        }
+    },
+    "fansly": {
+        "id": "710591801794240513",
+        "username": "streisselewd",
+        "displayName": "streisselewd",
+        "version": 7,
+        "followCount": 9373,
+        "statusId": 3,
+        "accountMediaLikes": 13017,
+        "postLikes": 10194,
+        "about": "🔞5'1 shortstack yandere with a fat ass. I post every day 💕 \n♥ IRL Pinups and Lewd Lingerie ♥ \n♥Tipping and gifting = Rewards ♥\nFREE PIC IN YOUR WELCOME MESSAGE WHEN YOU FOLLOW~!\n🎧  NSFW Audios~ https://www.patreon.com/Streissel\n🎁 spoil me and get spoiled back~ https://throne.com/streissels/wishlist",
+        "location": " follow me on YouTube at youtube.com/@streisselASMR",
+        "streaming": {
+            "accountId": "710591801794240513",
+            "channel": {
+                "id": "717210799747112964",
+                "accountId": "710591801794240513",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.eux3KrOMVrlh.m3u8",
+                "chatRoomId": "717211090613710848",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1732490739000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "717210799747112965",
+                    "historyId": "794334579946168335",
+                    "channelId": "717210799747112964",
+                    "accountId": "710591801794240513",
+                    "title": "Last Fansly Stream (For Now~!)",
+                    "status": 1,
+                    "viewerCount": 108,
+                    "version": 2649,
+                    "createdAt": 1732490740000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1750886271000,
+                    "startedAt": 1750878481000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T00:54:46Z"
+    }
+}
