@@ -1,0 +1,88 @@
+{
+    "bio": "HI! I'm Glitch. mreow.",
+    "twitch": {
+        "id": "28254370",
+        "login": "glitchress",
+        "displayName": "Glitchress",
+        "createdAt": "2012-02-16T13:47:15.376853Z",
+        "updatedAt": "2026-09-13T18:16:33.056794Z",
+        "description": "HI! I'm Glitch. mreow.",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 1853
+        },
+        "follows": {
+            "totalCount": 479
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-06-12T02:03:15.594782Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0e7d05e-1d9d-4a17-ad94-c46e6a18322b-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T05:14:36Z"
+    },
+    "twitter": {
+        "glitchress": {
+            "id": null,
+            "handle": "glitchress",
+            "displayName": "glitch.exe",
+            "description": "cute hobbyiest of things! 18+ only kthx\nspicier irl alt: @glitchlylewd\n#smoltuber",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1517322422768259073/ITW2Cths_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/glitchress",
+            "fetchedAt": "2026-11-04T05:14:44Z"
+        }
+    },
+    "fansly": {
+        "id": "300270514809614336",
+        "username": "Glitchress",
+        "displayName": null,
+        "version": 4,
+        "followCount": 6661,
+        "statusId": 1,
+        "accountMediaLikes": 27785,
+        "postLikes": 21270,
+        "about": "Hi! I'm a glitch named Glitch and this is my favorite fansly on the citadel. \n\nI post cute teasy aesthetic pictures! ^_^\n\ni don't show genitals bc too lewd for me. >.<;;; butbutbut! i do show my butt n chest! mreow! i also don't do customs. ^_^ OH! and i reallyreallyreally like girls. but i also enjoy showing off, so just enjoy my content and call me cute!\n\nwishlist: https://throne.com/glitch",
+        "location": "Plsdon'ttellsysadminIescapedkthx.",
+        "streaming": {
+            "accountId": "300270514809614336",
+            "channel": {
+                "id": "578474074175451136",
+                "accountId": "300270514809614336",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.nnda3CSK2aB8.m3u8",
+                "chatRoomId": "578474328509657088",
+                "status": 2,
+                "version": 52,
+                "createdAt": 1699413326000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "578474074175451137",
+                    "historyId": "971004449130557541",
+                    "channelId": "578474074175451136",
+                    "accountId": "300270514809614336",
+                    "title": "Aion2 n Chilll (withpantyvwibenstuffsaaa)",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 6630,
+                    "createdAt": 1699413327000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793007632000,
+                    "startedAt": 1792999861000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T05:14:52Z"
+    }
+}
