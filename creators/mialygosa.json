@@ -1,0 +1,100 @@
+{
+    "bio": "👑 Holaa, mi nombre es Mialygosa soy una Vtuber Argentina que habla sobre Anime y Politica. Soy Mileista y Limonista, gamer y otaku, me encuentro principalmente en X pero cada tanto hago Streams! Espero que tengan una linda estadia, bienvenidos al Mialygosismo! - https://throne.com/mialygosa",
+    "twitch": {
+        "id": "920531915",
+        "login": "mialygosa",
+        "displayName": "Mialygosa",
+        "createdAt": "2023-06-09T00:14:20.496755Z",
+        "updatedAt": "2026-09-19T20:51:40.410365Z",
+        "description": "👑 Holaa, mi nombre es Mialygosa soy una Vtuber Argentina que habla sobre Anime y Politica. Soy Mileista y Limonista, gamer y otaku, me encuentro principalmente en X pero cada tanto hago Streams! Espero que tengan una linda estadia, bienvenidos al Mialygosismo! - https://throne.com/mialygosa",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 3932
+        },
+        "follows": {
+            "totalCount": 66
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-20T01:19:24.992145Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6adeb97b-ec5b-492f-9c82-ae9528a4ecf4-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T01:07:38Z"
+    },
+    "youtube": {
+        "id": "UC-f3QpTFjKIlErlweP4Y0mg",
+        "handle": "Mialygosa",
+        "title": "Mialygosa 🍋",
+        "description": "👑 Vtuber Libertaria\n\n🍋 Limonista de Milei\n\n❤️ Anime - Memes - Politica\n\n✏️ Fanart : #MialygosART\n",
+        "channelUrl": "https://www.youtube.com/channel/UC-f3QpTFjKIlErlweP4Y0mg",
+        "keywords": "Vtuber Argentina Milei Javier Dragon Girl Gamer Memes",
+        "profileImageUrl": "https://yt3.googleusercontent.com/apLvwfkg5l-EKPSshuaywRnnaBMsbFzl8tgUkUTr1JD1vQIk9jODxhpHpxfnWvtS2EtrQwTpHso=h300",
+        "subscriberCountText": "1.4K subscribers",
+        "videoCountText": "38 videos",
+        "fetchedAt": "2026-11-04T01:07:40Z"
+    },
+    "twitter": {
+        "mialygosa": {
+            "id": null,
+            "handle": "mialygosa",
+            "displayName": "Mia 🍋",
+            "description": "🇦🇷 Vtuber Libertaria | 🍋 Limonista de Milei\n❤️ Anime - Memes - Politica | 🎨 Fanart : #MialygosART\n\nALTS: @Mialygosismo | @MialyCosplay",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2112758907248504832/HAl95V51_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mialygosa",
+            "fetchedAt": "2026-11-04T01:07:44Z"
+        }
+    },
+    "fansly": {
+        "id": "616846048341536768",
+        "username": "Mialygosa",
+        "displayName": null,
+        "version": 4,
+        "followCount": 850,
+        "statusId": 1,
+        "accountMediaLikes": 816,
+        "postLikes": 1089,
+        "about": "Soy la Verdadera Miku Argentina !\n\n👑 Cosplayer Libertaria\n \n🍋 Limonista de Miller\n\n❤️ Anime - Politica - Memes\n\n✏️ Fanart : #MialygosART",
+        "location": "Argentina",
+        "streaming": {
+            "accountId": "616846048341536768",
+            "channel": {
+                "id": "749933425367982081",
+                "accountId": "616846048341536768",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HEjeVVjwJ5sw.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1740292421000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "749933425367982082",
+                    "historyId": null,
+                    "channelId": "749933425367982081",
+                    "accountId": "616846048341536768",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1740292422000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T01:07:47Z"
+    }
+}

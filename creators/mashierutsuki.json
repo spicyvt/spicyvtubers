@@ -1,0 +1,109 @@
+{
+    "bio": "Idol Virtual, milfneja, succubus, ludópata de gachas💕 C.C de HoYocreators, NIKKE y NTE 💕 Llegaré a lo más alto para dejar a los que siguen un precedente de éxito!",
+    "twitch": {
+        "id": "138933555",
+        "login": "mashierutsuki",
+        "displayName": "MashieruTsuki",
+        "createdAt": "2016-11-06T18:48:58.237382Z",
+        "updatedAt": "2026-10-25T01:13:44.943219Z",
+        "description": "Idol Virtual, milfneja, succubus, ludópata de gachas💕 C.C de HoYocreators, NIKKE y NTE 💕 Llegaré a lo más alto para dejar a los que siguen un precedente de éxito!",
+        "primaryColorHex": "EC99DD",
+        "followers": {
+            "totalCount": 1387
+        },
+        "follows": {
+            "totalCount": 228
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-06T18:43:25.032726Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9abb81e-74d6-4e77-89b3-cacabe8054aa-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T01:10:15Z"
+    },
+    "youtube": {
+        "id": "UClUC48SJ0n7EVJ8bN121y7A",
+        "handle": "mashierutsukivt",
+        "title": "Mashieru Tsuki VT",
+        "description": "Me presento, soy Mashieru Tsuki, una milfneja succubus que terminó en el mundo humano luego de ser traicionada por su propia gente.   \n\nDespués de 3 años de esfuerzo acabo de debutar como idol virtual independiente, espero puedan apoyarme!  \n\nEn mi vida me manejo con dos lemas: \n\n\"Llegaré a lo más alto para dejar a los que siguen un precedente de éxito!\"   \n\n\"Soy un ser pasajero que busca hacerte feliz, mientras tú lo seas yo seré feliz también!\" \n",
+        "channelUrl": "https://www.youtube.com/channel/UClUC48SJ0n7EVJ8bN121y7A",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/bRvpgvRF1ds1Nn5iBtxY0IO4hl1nLgk33y9F96cnp2DAG0TkuR_DG59h7kgRhMKxOtPApKUvNn4=h300",
+        "subscriberCountText": "142 subscribers",
+        "videoCountText": "51 videos",
+        "fetchedAt": "2026-11-04T01:10:16Z"
+    },
+    "twitter": {
+        "mashierutsuki": {
+            "id": null,
+            "handle": "mashierutsuki",
+            "displayName": "┞Mashieru Tsuki┦Milfneja🔞🇪🇨┞HIATUS┦",
+            "description": "࿙E-girl, milfneja, succubus, ludópata de gachas࿚ \n\n࿙ Manējā-san de @jinterVT ࿚\n\n࿙PFP: @andvari_ryuna࿚\n\n࿙Banner art: @AlexHisami࿚",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2108034554111918080/MtXjh02X_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mashierutsuki",
+            "fetchedAt": "2026-11-04T01:10:19Z"
+        }
+    },
+    "fansly": {
+        "id": "444499565358358528",
+        "username": "LewdshieruTsuki",
+        "displayName": "Mashieru Tsuki",
+        "version": 8,
+        "followCount": 229,
+        "statusId": 3,
+        "accountMediaLikes": 216,
+        "postLikes": 210,
+        "about": "Sean bienvenidos a un sueño que nunca querran olvidar~\n\nSoy Mashieru, su milfneja succubus de confianza, no teman y dejenme cumplir sus deseos~\n\nCréditos:\nAvatar Koikatsu: navin_dubs",
+        "location": "Cueva de los conejitos",
+        "streaming": {
+            "accountId": "444499565358358528",
+            "channel": {
+                "id": "659957742928142336",
+                "accountId": "444499565358358528",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.i9dSmI2QeoHp.m3u8",
+                "chatRoomId": "659958548465197056",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1718840547000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "659957742928142337",
+                    "historyId": "813290613721018368",
+                    "channelId": "659957742928142336",
+                    "accountId": "444499565358358528",
+                    "title": "Juguemos juntos esta noche ;)",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 910,
+                    "createdAt": 1718840547000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1755404962000,
+                    "startedAt": 1755397952000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "659957833420251136",
+                                "streamId": "659957742928142337",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T01:10:24Z"
+    }
+}
