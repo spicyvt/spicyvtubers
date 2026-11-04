@@ -1,0 +1,105 @@
+{
+    "bio": "Hi there! I'm a Trans, Genderfluid, Bisexual Succubus (She/Her preffered) from central Canada who streams for fun. I primarily stream Simulation and Survival Crafting games, but also do VRChat and other stuff. Check out my Linktree for other platforms I'm active on!",
+    "twitch": {
+        "id": "681675882",
+        "login": "skye_hino",
+        "displayName": "Skye_Hino",
+        "createdAt": "2021-04-29T19:57:53.985242Z",
+        "updatedAt": "2026-11-03T02:33:48.014995Z",
+        "description": "Hi there! I'm a Trans, Genderfluid, Bisexual Succubus (She/Her preffered) from central Canada who streams for fun. I primarily stream Simulation and Survival Crafting games, but also do VRChat and other stuff. Check out my Linktree for other platforms I'm active on!",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 1276
+        },
+        "follows": {
+            "totalCount": 160
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-03T05:53:20.522076Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f51acf30-05a5-4e58-8ff5-7954bd3a9d55-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T20:07:10Z"
+    },
+    "twitter": {
+        "skye_hino": {
+            "id": "1389774303399354368",
+            "handle": "skye_hino",
+            "displayName": "SuccubusSkye🇨🇦🏳️‍⚧️🔞",
+            "description": "Trans, Vtuber, VR stripper & escort, amateur VR porn 'star'.\nhttp://Twitch.tv/skye_hino\nhttp://fansly.com/SuccubusSkye\nhttps://bsky.app/profile/skyehino.blue",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1437920264298315782/9vxThSOO_400x400.jpg",
+            "followersCount": 758,
+            "followingCount": 207,
+            "postsCount": 3694,
+            "accountCreatedAt": "2021-05-05T02:50:21.000Z",
+            "profileUrl": "https://x.com/skye_hino",
+            "fetchedAt": "2026-11-04T20:07:28Z"
+        }
+    },
+    "fansly": {
+        "id": "312116879512580096",
+        "username": "SuccubusSkye",
+        "displayName": "SuccubusSkye",
+        "version": 13,
+        "followCount": 1996,
+        "statusId": 1,
+        "accountMediaLikes": 2878,
+        "postLikes": 1496,
+        "about": "Trans, Bi, Canadian. Twitch streamer, VR stripper & Escort, amateur VR porn \"star\".\n\nOwner of The Succubus Den vr strip club (wip): https://discord.gg/kbHCwkJxfn\n\nClubs I currently dance for:\nProject; Utopia (co-founder),\nZenith.\n\nSuccubus at Descension.\n\nJoin my discord to keep up to date with happenings in the land of Skye!\nDiscord: https://discord.gg/UnF9cZAtf5\nSocials: https://linktr.ee/Skye_Hino\n\nCurrently, subscriptions are purely a form of supporting me, and do not unlock any additional content at this time. This may change in the future when I get back into the swing of things.",
+        "location": "Your lap, uwu",
+        "streaming": {
+            "accountId": "312116879512580096",
+            "channel": {
+                "id": "420922829446324225",
+                "accountId": "312116879512580096",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.1FBAvSrOLFg7.m3u8",
+                "chatRoomId": "420923139719966720",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1661850182000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "420922829446324226",
+                    "historyId": "945906272954236933",
+                    "channelId": "420922829446324225",
+                    "accountId": "312116879512580096",
+                    "title": "SFW Fun & games with a sexy succubus (multi platform stream)",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 8086,
+                    "createdAt": 1661850183000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1787025553000,
+                    "startedAt": 1787015989000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "420923767045234688",
+                                "streamId": "420922829446324226",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "420923767045234689",
+                                "streamId": "420922829446324226",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T20:07:29Z"
+    }
+}

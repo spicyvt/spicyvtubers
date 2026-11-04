@@ -1,0 +1,100 @@
+{
+    "bio": "Hey Shadows! Name is Kyllier pronounced Key-Lee-Ay~ Though Ky is fine too! (She/Her). I stream Five times a week, and typically post when I'm going live on my Discord. I mostly play RPGs, Metroidvanias, Soulslikes, and Retro games.",
+    "twitch": {
+        "id": "22954871",
+        "login": "kyllier",
+        "displayName": "Kyllier",
+        "createdAt": "2011-06-14T20:28:50.573152Z",
+        "updatedAt": "2026-11-04T02:08:18.877634Z",
+        "description": "Hey Shadows! Name is Kyllier pronounced Key-Lee-Ay~ Though Ky is fine too! (She/Her). I stream Five times a week, and typically post when I'm going live on my Discord. I mostly play RPGs, Metroidvanias, Soulslikes, and Retro games.",
+        "primaryColorHex": "500A6C",
+        "followers": {
+            "totalCount": 8811
+        },
+        "follows": {
+            "totalCount": 1445
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-04T19:30:35.838979Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/27515769-d3ff-4905-ad08-83732241b92a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T20:07:02Z"
+    },
+    "youtube": {
+        "id": "UCqt2l46biEX3gzeV36hSyYQ",
+        "handle": "KyllierDalamiq",
+        "title": "Kyllier",
+        "description": "Hi! I'm Ky! Dragongirl, Kobold, Streamer and Vtuber who plays Variety Games!\nI also record ASMR, and RP Audios!\nI'm an aspiring Amateur Voice Actress as well.",
+        "channelUrl": "https://www.youtube.com/channel/UCqt2l46biEX3gzeV36hSyYQ",
+        "keywords": "Kobold Vtuber Kyllier Dragongirl Gameplay ASMR Dragon Trans",
+        "profileImageUrl": "https://yt3.googleusercontent.com/8dQ99HiZkq97C_e2Y2Ulsdus-yklHw9aUInE7LZBV_3IO6rX-Uxiy95AIYPX1s8ZuytdAt2A3aQ=h300",
+        "subscriberCountText": "13.9K subscribers",
+        "videoCountText": "694 videos",
+        "fetchedAt": "2026-11-04T20:07:03Z"
+    },
+    "twitter": {
+        "kyllier": {
+            "id": null,
+            "handle": "kyllier",
+            "displayName": "🔥🐉 Kyllier - Shadow Dragon Vtuber🔥🐉",
+            "description": "She/her\nPrincess of the Shadow Court\nArt Tag: #KyllieArt\nBusiness Inquiries: kyllierbancroft@gmail.com\nLewd Stuff: https://t.co/4dcCyAH3YF",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1822746354860654592/xrpjNSS2_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kyllier",
+            "fetchedAt": "2026-11-04T20:07:20Z"
+        }
+    },
+    "fansly": {
+        "id": "384094880751689728",
+        "username": "Kyllier",
+        "displayName": "Kyllier",
+        "version": 5,
+        "followCount": 2447,
+        "statusId": 1,
+        "accountMediaLikes": 2990,
+        "postLikes": 1970,
+        "about": "Heya, my name is Ky(Key), I'm a Shadow Dragon(sometimes kitten~) and this is where I'll be posting lewd audios, VRC pics and for those of you wish to worship the dragon a little more, some IRL pics. I really hope you enjoy your time here~ \n\nI also take requests now! You may find my Tip Page pinned below.\n\nSocials:\n⚡️https://throne.com/kyllieafterdark\n⚡️https://www.twitch.tv/kyllier\n⚡️https://twitter.com/kyllieafterdark\n\nGod Revenger Model by Godfall - https://godfall.club/collections/avatars-assets/products/godrevenger\n\nCatgirl Model is Kisu by Googi - https://googi.sellfy.store/p/kisu/\n",
+        "location": "A dark cave somewhere, probably.",
+        "streaming": {
+            "accountId": "384094880751689728",
+            "channel": {
+                "id": "735289202895237120",
+                "accountId": "384094880751689728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HA7JtweM8tv5.m3u8",
+                "chatRoomId": "753548385750888448",
+                "status": 2,
+                "version": 31,
+                "createdAt": 1736800967000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "735289202895237121",
+                    "historyId": "908953029150011392",
+                    "channelId": "735289202895237120",
+                    "accountId": "384094880751689728",
+                    "title": "Horny Dragongirl Wants to be Cute for you~",
+                    "status": 1,
+                    "viewerCount": 26,
+                    "version": 7374,
+                    "createdAt": 1736800967000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778212781000,
+                    "startedAt": 1778205649000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T20:07:29Z"
+    }
+}

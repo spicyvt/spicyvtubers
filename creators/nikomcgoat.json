@@ -1,0 +1,72 @@
+{
+    "bio": "I'm Niko, just your average Goat God. Listen, I'm not good at video games, but I love playing them. Watch me suck at them while having a good time. I also do some art.",
+    "twitch": {
+        "id": "186810624",
+        "login": "nikomcgoat",
+        "displayName": "NikoMcGoat",
+        "createdAt": "2017-12-22T06:32:57.330555Z",
+        "updatedAt": "2026-09-29T03:38:52.200732Z",
+        "description": "I'm Niko, just your average Goat God. Listen, I'm not good at video games, but I love playing them. Watch me suck at them while having a good time. I also do some art.",
+        "primaryColorHex": "FFAC00",
+        "followers": {
+            "totalCount": 2375
+        },
+        "follows": {
+            "totalCount": 489
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-03-11T04:49:08.963887Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/822b09c8-460f-4b89-8cd3-660552c82f08-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T20:07:05Z"
+    },
+    "youtube": {
+        "id": "UCJfUdVu7suYPAI3ct1xForw",
+        "handle": "NikoMcGoat",
+        "title": "NikoMcGoat",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCJfUdVu7suYPAI3ct1xForw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/-ATWS0gcVA3h3u9XvDUeRU6rRReZKqOdN6-IN4nHiQF98q0OLbQ6RCURkvVEzdSuOtI7B9sg=h300",
+        "subscriberCountText": "30 subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-04T20:07:06Z"
+    },
+    "twitter": {
+        "nikomcgoat": {
+            "id": null,
+            "handle": "nikomcgoat",
+            "displayName": "NikoMcGoat 🐙🔔🐐 Horrortuber 🏳️‍⚧️",
+            "description": "He/They | Eldritch Goat God | Trans dude | https://t.co/QWHEIHVcBB | 🎨- #NikoMcGoatArt | 🔞- #NikoMcThroatGoat | PFP by @/dei_vtuber",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2046803098325204992/vu8RBb7d_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nikomcgoat",
+            "fetchedAt": "2026-11-04T20:07:22Z"
+        }
+    },
+    "fansly": {
+        "id": "446679602589343744",
+        "username": "NikoMcGoat",
+        "displayName": "NikoMcGoat",
+        "version": 12,
+        "followCount": 58,
+        "statusId": 1,
+        "accountMediaLikes": 16,
+        "postLikes": 6,
+        "about": "Official Fansly of NikoMcGoat, pay for my tattoos and Pokemon cards pls\n\nTwitch- https://twitch.tv/nikomcgoat\nWishlist- https://throne.me/u/nikomcgoat/wishlist\nBlueSky- https://bsky.app/profile/nikomcgoat.bsky.social",
+        "location": "",
+        "streaming": {
+            "accountId": "446679602589343744",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-04T20:07:29Z"
+    }
+}
