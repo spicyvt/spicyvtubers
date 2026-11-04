@@ -1,0 +1,42 @@
+{
+    "bio": "Hi, I'm Ali! (Previously Icy)Just a retired vtuber, don’t mind me",
+    "twitch": {
+        "id": "737015802",
+        "login": "icymoroll",
+        "displayName": "IcyMoroll",
+        "createdAt": "2021-10-24T20:01:05.858248Z",
+        "updatedAt": "2026-10-17T19:22:15.961596Z",
+        "description": "Hi, I'm Ali! (Previously Icy)Just a retired vtuber, don’t mind me",
+        "primaryColorHex": "73E6FF",
+        "followers": {
+            "totalCount": 3318
+        },
+        "follows": {
+            "totalCount": 395
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-10-10T20:21:16.339351Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cbcebf1-ce88-4805-820e-7e805d8bffb9-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T01:40:08Z"
+    },
+    "twitter": {
+        "icymoroll": {
+            "id": null,
+            "handle": "icymoroll",
+            "displayName": "Ali💫",
+            "description": "cosplayer ☆ 24 ☆ uk based ☆",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2102517147813416960/kYz-kqeJ_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/icymoroll",
+            "fetchedAt": "2026-11-04T01:40:17Z"
+        }
+    }
+}

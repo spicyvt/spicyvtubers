@@ -1,0 +1,42 @@
+{
+    "bio": "I'm an evil circus ringmaster and I collect v-tubers. Come join my streams on Tuesday- Saturday at 8PM PST",
+    "twitch": {
+        "id": "759272577",
+        "login": "gilryu",
+        "displayName": "GilRyu",
+        "createdAt": "2022-01-06T16:30:30.630503Z",
+        "updatedAt": "2026-11-01T05:16:07.018532Z",
+        "description": "I'm an evil circus ringmaster and I collect v-tubers. Come join my streams on Tuesday- Saturday at 8PM PST",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 13649
+        },
+        "follows": {
+            "totalCount": 556
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-01T06:30:16.672399Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2f76f7d2-4f59-4e6b-8427-dba4c5126bb2-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T01:39:59Z"
+    },
+    "twitter": {
+        "gilryu1": {
+            "id": null,
+            "handle": "gilryu1",
+            "displayName": "Gil Ryu 🤡 🎩 Vtuber",
+            "description": "Occupation: Ringmaster 🎪\nModel: @RieRikuu\nRigging: @JerseyBZ_HBM\n\nArt: #Gillustration NSFW: #Giltypleasure\nClips: #Clownima\n\n#ENVtuber #Vtuber",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2084862962393620480/ao66MdgG_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/gilryu1",
+            "fetchedAt": "2026-11-04T01:40:10Z"
+        }
+    }
+}

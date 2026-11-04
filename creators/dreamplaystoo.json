@@ -1,0 +1,42 @@
+{
+    "bio": "Welcome to my stream! We do everything here from gaming, chatting and IRL streams. Come and chat!",
+    "twitch": {
+        "id": "631893094",
+        "login": "dreamplaystoo",
+        "displayName": "DreamPlaysToo",
+        "createdAt": "2021-01-06T08:24:58.778821Z",
+        "updatedAt": "2026-07-08T07:00:12.747325Z",
+        "description": "Welcome to my stream! We do everything here from gaming, chatting and IRL streams. Come and chat! ",
+        "primaryColorHex": "DA6BC6",
+        "followers": {
+            "totalCount": 2706
+        },
+        "follows": {
+            "totalCount": 341
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2024-12-14T19:23:26.847104Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/401847c5-55ce-4675-a5fd-377984f38bd8-profile_image-300x300.png",
+        "fetchedAt": "2026-11-04T01:40:01Z"
+    },
+    "twitter": {
+        "dreamplaystoo": {
+            "id": null,
+            "handle": "dreamplaystoo",
+            "displayName": "Dream☁️",
+            "description": "Goddess of Dreams || 🔞MDNI🔞 || ママ: @Noruuna • パパ: @renaizumi • 3D ママ:@tapiocaalice &amp; @syazeraww 🤍",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1644207328156327939/yU1y203-_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/dreamplaystoo",
+            "fetchedAt": "2026-11-04T01:40:11Z"
+        }
+    }
+}
