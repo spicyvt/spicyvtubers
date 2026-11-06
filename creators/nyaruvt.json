@@ -1,0 +1,109 @@
+{
+    "bio": "Nya~ and welcome on my channel! Im a German Streamer but im streaming in english every now and then! Enjoy being here! :3",
+    "twitch": {
+        "id": "1104984754",
+        "login": "nyaruvt",
+        "displayName": "NyaruVT",
+        "createdAt": "2024-06-30T09:15:20.267784Z",
+        "updatedAt": "2026-11-04T20:19:01.241953Z",
+        "description": "Nya~ and welcome on my channel! Im a German Streamer but im streaming in english every now and then! Enjoy being here! :3 ",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 11570
+        },
+        "follows": {
+            "totalCount": 15
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-05T21:53:39.229577Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d91a8c46-d7f3-484b-855a-f9af95bf548e-profile_image-300x300.png",
+        "fetchedAt": "2026-11-06T16:38:01Z"
+    },
+    "youtube": {
+        "id": "UC9-my0DqvA4gSYH8zfZZP6A",
+        "handle": "NyaruVTVRChat",
+        "title": "NyaruVTVRChat",
+        "description": "Welcome to my VRChat Youtube Channel~\nIm live on YT and Kick!\nIm German streamer, but i can talk english to you~\nLets meet there~",
+        "channelUrl": "https://www.youtube.com/channel/UC9-my0DqvA4gSYH8zfZZP6A",
+        "keywords": "vrchat catboy femboy wiggles dancing dance lapdance \"lap dance\" \"vrchat dancing\" \"vrchat nsfw\" nsfw 18+ ass butt thighs nude comfy tease softcore \"ass shake\" twerk twerking vtuber gervtuber envtuber pink kawaii rosa",
+        "profileImageUrl": "https://yt3.googleusercontent.com/dx3uhhOJjMfc66VkCf4uKESDS3eDgClRtMwD3iZpTowHoIEPeCfTlWuOaJy4Rc6G7gj6-NU0zdo=h300",
+        "subscriberCountText": "79 subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-06T16:38:02Z"
+    },
+    "twitter": {
+        "nyaruvt": {
+            "id": null,
+            "handle": "nyaruvt",
+            "displayName": "Nyaru Meowtcha 🐈‍⬛🌱 Predebut Catboy ENVtuber!",
+            "description": "Nyaru 🐈‍⬛🌱 ♔ Catboy Purrince Vtuber ♔ He/Him ♔ 21+ ♔ Anxious Artist/Video Editor ♔ ENG ♔🎨 fanart: #meowtchart 🎨🔞: #nyatsfw ♔ \nVid comms by dm inquiry only",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1702143445882834945/ZLeCoQK-_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nyaruvt",
+            "fetchedAt": "2026-11-06T16:38:16Z"
+        }
+    },
+    "fansly": {
+        "id": "842148539957010432",
+        "username": "NyaruVT",
+        "displayName": "NyaruVT",
+        "version": 3,
+        "followCount": 1660,
+        "statusId": 1,
+        "accountMediaLikes": 717,
+        "postLikes": 425,
+        "about": "Willkommen auf meiner Fansly Seite <3\nWelcome to my Fansly website~\n\nIch bin deine durstige Katze die nur eines will~ Deine Milch ;3\nIm your thristy cat that just wants one thing~ your milk ;3\n\nIch streame täglich auf Twitch und auch öfter mal auf Fansly~\nIm Streaming daily on twitch and sometimes here too~\n\nYes, i can speak english to you, but dont forget that im a german streamer~ i do have a real time translator on the top left corner! :3\n\nViel Spaß ;3\nEnjoy~",
+        "location": "https://nyaruvt.moe",
+        "streaming": {
+            "accountId": "842148539957010432",
+            "channel": {
+                "id": "842435490782138368",
+                "accountId": "842148539957010432",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.XnehyGufOZ2T.m3u8",
+                "chatRoomId": "842436920033165312",
+                "status": 2,
+                "version": 38,
+                "createdAt": 1762346632000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "842435490782138369",
+                    "historyId": "972640990508642304",
+                    "channelId": "842435490782138368",
+                    "accountId": "842148539957010432",
+                    "title": "Please Plap Plap to me~ give me your milk! (Femboy) NSFW Stream <3",
+                    "status": 1,
+                    "viewerCount": 19,
+                    "version": 932,
+                    "createdAt": 1762346632000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793392159000,
+                    "startedAt": 1793390042000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "889209309005623296",
+                                "streamId": "842435490782138369",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-06T16:38:18Z"
+    }
+}
