@@ -1,0 +1,54 @@
+{
+    "bio": "KYRIO! | streams at 11:30PM JST",
+    "twitch": {
+        "id": "783607123",
+        "login": "kyriocifer",
+        "displayName": "KYRIOCIFER",
+        "createdAt": "2022-03-28T10:26:02.292427Z",
+        "updatedAt": "2026-11-05T18:38:06.305559Z",
+        "description": "KYRIO! | streams at 11:30PM JST ",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 64412
+        },
+        "follows": {
+            "totalCount": 112
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-05T19:14:14.549681Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/57847239-cb4d-4154-a674-998eefd99cc5-profile_image-300x300.png",
+        "fetchedAt": "2026-11-06T23:49:01Z"
+    },
+    "youtube": {
+        "id": "UC5D026L295p3kbWE3GXd8-Q",
+        "handle": "KyrioCifer",
+        "title": "KYRIO",
+        "description": "remember that which you must become ",
+        "channelUrl": "https://www.youtube.com/channel/UC5D026L295p3kbWE3GXd8-Q",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/LAppm72BZZEjdlWZ4cC0f2SxKQbs3Uw2y5--ZdHSXrvXgnXPUAjT2xDlTvv61yrHC3QwgBsW=h300",
+        "subscriberCountText": "81.8K subscribers",
+        "videoCountText": "277 videos",
+        "fetchedAt": "2026-11-06T23:49:02Z"
+    },
+    "twitter": {
+        "kyriocifer": {
+            "id": null,
+            "handle": "kyriocifer",
+            "displayName": "KYRIO🥀",
+            "description": "Mr222\n\n🎨: #Kyanvas | mama: @yoclesh &amp; @momotexx \npapa: @kuroama_ | i: @marutaro02",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2060374778943545344/wS-muA_1_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kyriocifer",
+            "fetchedAt": "2026-11-06T23:49:13Z"
+        }
+    }
+}

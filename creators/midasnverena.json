@@ -1,0 +1,110 @@
+{
+    "bio": "Just your virutal auntie that drinks and smokes too much and has a big D. ;3",
+    "twitch": {
+        "id": "876795772",
+        "login": "midas_verena",
+        "displayName": "midas_verena",
+        "createdAt": "2023-02-01T01:06:01.219965Z",
+        "updatedAt": "2026-10-31T17:07:26.211503Z",
+        "description": "Just your virutal auntie that drinks and smokes too much and has a big D. ;3",
+        "primaryColorHex": "540100",
+        "followers": {
+            "totalCount": 971
+        },
+        "follows": {
+            "totalCount": 161
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-31T21:39:50.779155Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/730d5000-9752-4a8d-b395-ef4194c4aff3-profile_image-300x300.png",
+        "fetchedAt": "2026-11-06T23:49:03Z"
+    },
+    "twitter": {
+        "midasnverena": {
+            "id": null,
+            "handle": "midasnverena",
+            "displayName": "MnV†🍷 ||D.I.D VTUBER|| 3D Modeler",
+            "description": "CYM/EN/日本語 🆗\n\nYour favorite NSFW Auntie/Uncle🦌🍷\nSoothing Monotone voice, sharp tongue, chaotic games\nTeasing love\n\nnew account/spicy account: @midasnverenaVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2094520099914850305/taBlMZHj_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/midasnverena",
+            "fetchedAt": "2026-11-06T23:49:15Z"
+        },
+        "midasnverenavt": {
+            "id": null,
+            "handle": "midasnverenavt",
+            "displayName": "MnV†🍷|| 🔞||",
+            "description": "Your favorite NSFW Auntie/Uncle🦌🍷\nSoothing Monotone voice, sharp tongue, chaotic games\nTeasing/Bullying is a love language 🔞\n-------\n\nALTs @midasnverena",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2036522245296889857/NtkSw1x9_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/midasnverenavt",
+            "fetchedAt": "2026-11-06T23:49:17Z"
+        }
+    },
+    "fansly": {
+        "id": "753397538970677248",
+        "username": "midasnverena",
+        "displayName": "Auntie Brie",
+        "version": 6,
+        "followCount": 477,
+        "statusId": 1,
+        "accountMediaLikes": 467,
+        "postLikes": 143,
+        "about": "A  wine auntie here to tease and spoil my babies~\n\nI share all my spicy content here~\n\n~main content is solo pics and videos but I will sometimes post collabs~\nI don't do ASMR but will post audio stuff sometimes\nVrchat and 3D Animtions\n~Streams are a maybe if so, spontaneous~\n\ncome hang with me if you'd like <3\nhttps://twitch.tv/midas_verena\n-----------",
+        "location": "in my winery",
+        "streaming": {
+            "accountId": "753397538970677248",
+            "channel": {
+                "id": "773464109407543296",
+                "accountId": "753397538970677248",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.tMU21NjElhmj.m3u8",
+                "chatRoomId": "773464136804741120",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1745902573000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "773464109407543297",
+                    "historyId": null,
+                    "channelId": "773464109407543296",
+                    "accountId": "753397538970677248",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1745902574000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "773464169365123072",
+                                "streamId": "773464109407543297",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-06T23:49:22Z"
+    }
+}

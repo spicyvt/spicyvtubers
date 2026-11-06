@@ -1,0 +1,101 @@
+{
+    "bio": "I'm Niya, i love to sing 🎹❤️‍🩹 https://throne.com/niyarest",
+    "twitch": {
+        "id": "126859222",
+        "login": "niyarest",
+        "displayName": "niyarest",
+        "createdAt": "2016-06-15T12:27:47.893161Z",
+        "updatedAt": "2026-11-03T01:49:37.907044Z",
+        "description": "I'm Niya, i love to sing 🎹❤️‍🩹 https://throne.com/niyarest",
+        "primaryColorHex": "FBC9D7",
+        "followers": {
+            "totalCount": 3016
+        },
+        "follows": {
+            "totalCount": 127
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-03T04:57:53.289191Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8221b1a-3e47-4a14-a92b-527960363691-profile_image-300x300.png",
+        "fetchedAt": "2026-11-06T23:49:05Z"
+    },
+    "twitter": {
+        "kisaniyav": {
+            "id": null,
+            "handle": "kisaniyav",
+            "displayName": "Niya ニヤ 🍅 Vtuber",
+            "description": "https://t.co/FgCpkMBOqU",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1819026914155151360/vpXYF9un_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kisaniyav",
+            "fetchedAt": "2026-11-06T23:49:18Z"
+        }
+    },
+    "bluesky": {
+        "did": "did:plc:2mmeerzvebnx3yim56b72nr2",
+        "handle": "niya.rest",
+        "displayName": "Niya 🎹❤️‍🩹",
+        "description": "30 🔞 Karaoke #Vtuber I'm Mina Niya, tune to my autistic audio spectrum 🎹❤️‍🩹 \nrussian living in mexico\n\ntwitch.tv/niyarest\ncomms niya.rest\n\nAffiliate glasses model for Zenni Optical 🕶️  zenni.pxf.io/Niya",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2mmeerzvebnx3yim56b72nr2/bafkreiecz5kby6mjujbosjfctgznhtx3izzte2ewd4f4ma4kafjkarljqm",
+        "followersCount": 5075,
+        "followingCount": 1857,
+        "postsCount": 3833,
+        "accountCreatedAt": "2023-12-26T07:57:27.893Z",
+        "profileUrl": "https://bsky.app/profile/niya.rest",
+        "fetchedAt": "2026-11-06T23:49:21Z"
+    },
+    "fansly": {
+        "id": "796249688612282368",
+        "username": "niyaxxx",
+        "displayName": "Niya",
+        "version": 5,
+        "followCount": 440,
+        "statusId": 1,
+        "accountMediaLikes": 505,
+        "postLikes": 479,
+        "about": "wouldn't you like to know\nhttps://niya.rest/",
+        "location": "litterbox",
+        "streaming": {
+            "accountId": "796249688612282368",
+            "channel": {
+                "id": "796932869757874176",
+                "accountId": "796249688612282368",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.0vr7MfJ8b6Us.m3u8",
+                "chatRoomId": "796933004315336706",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1751497962000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "796932869757874177",
+                    "historyId": "852763845008056320",
+                    "channelId": "796932869757874176",
+                    "accountId": "796249688612282368",
+                    "title": "[vtuber] HORSES [horror}",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 12,
+                    "createdAt": 1751497962000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1764820526000,
+                    "startedAt": 1764809104000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-06T23:49:22Z"
+    }
+}
