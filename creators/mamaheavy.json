@@ -1,0 +1,100 @@
+{
+    "bio": "🦑 ELDRITCH - PLAGUE DOCTOR VTUBER ⚕ | 🎸 METAL MUSIC ENJOYER 🎶  | 🎙️ WANNABE VOICE ACTOR & ASMRTIST 🎧 | 🎮 VARIETY STREAMER & GAMING ADDICT 🕹",
+    "twitch": {
+        "id": "702998139",
+        "login": "mamaheavy",
+        "displayName": "MamaHeavy",
+        "createdAt": "2021-07-01T02:20:58.70975Z",
+        "updatedAt": "2026-11-05T01:33:47.210143Z",
+        "description": "🦑 ELDRITCH - PLAGUE DOCTOR VTUBER ⚕ | 🎸 METAL MUSIC ENJOYER 🎶  | 🎙️ WANNABE VOICE ACTOR & ASMRTIST 🎧 | 🎮 VARIETY STREAMER & GAMING ADDICT 🕹 ",
+        "primaryColorHex": "FF1645",
+        "followers": {
+            "totalCount": 2476
+        },
+        "follows": {
+            "totalCount": 395
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-05T04:51:37.683417Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13bada89-f1d7-4ffa-8ae0-b5f3f1a4385e-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T02:12:09Z"
+    },
+    "youtube": {
+        "id": "UCuwTZRtjn2S2yci1cYYEhFw",
+        "handle": "MamaHeavy69",
+        "title": "Mama Heavy",
+        "description": "Dr. Heavy aka Mama Heavy here and I'm your NEW plague doctor vtuber here to cure your sadness one UwU, OwO and Ara Ara at a time! \n\nCatch me live on Twitch every Monday, Wednesday and Friday at 7PM EST and check out my TikTok for more exclusive content!\n\n",
+        "channelUrl": "https://www.youtube.com/channel/UCuwTZRtjn2S2yci1cYYEhFw",
+        "keywords": "vtuber plaguedoctor",
+        "profileImageUrl": "https://yt3.googleusercontent.com/VS_7x4meK2iXUh-s1doie0k8fgF96DvYkYHx_c6e8AB06KToIXyK8PyV02X6XrUDn4K_3AQNEE8=h300",
+        "subscriberCountText": "5K subscribers",
+        "videoCountText": "1.1K videos",
+        "fetchedAt": "2026-11-07T02:12:11Z"
+    },
+    "twitter": {
+        "therealhmgf": {
+            "id": null,
+            "handle": "therealhmgf",
+            "displayName": "Dr. Heavy 🔞💉☠️ - Plague Mommy Arc 💋",
+            "description": "Dr. Heavy - Lewd Plaguemommy Vtuber - Twitch &amp; Fansly \nArt tags -  SFW: #MamaHeavy   NSFW: #NaughtyHeavy  \nPronouns - They/Them (ENBY)💛🤍💜🖤\n🔞Minors - DNI 🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1858564466008358912/WJBFWZ8j_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/therealhmgf",
+            "fetchedAt": "2026-11-07T02:12:14Z"
+        }
+    },
+    "fansly": {
+        "id": "507227475516858368",
+        "username": "MamaHeavy",
+        "displayName": null,
+        "version": 3,
+        "followCount": 972,
+        "statusId": 1,
+        "accountMediaLikes": 1202,
+        "postLikes": 1474,
+        "about": "Hey, I'm MamaHeavy on Twitch, YouTube & TikTok and you're likely here because you wanted to see how down and dirty I get off stream and IRL~\n\nYou're in the right place if you want to see me at my naughtiest <3 \n\n- IRL tier subscribers have access to an archive of 200+ pics & vids\n- I regularly post ASMR, feet pics, ass & videos \n- Ask me about custom pics, videos, voice clips and ASMR!\n- I'm nonbinary so I may have a little \"extra\" than the other goth girls ;3 ",
+        "location": "Behind you~",
+        "streaming": {
+            "accountId": "507227475516858368",
+            "channel": {
+                "id": "668536902101508096",
+                "accountId": "507227475516858368",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.dhj1o6sootO3.m3u8",
+                "chatRoomId": "668537060310659072",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1720885978000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "668536902101508097",
+                    "historyId": "764716040096591873",
+                    "channelId": "668536902101508096",
+                    "accountId": "507227475516858368",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 3226,
+                    "createdAt": 1720885979000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1743816937000,
+                    "startedAt": 1743816871000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T02:12:17Z"
+    }
+}

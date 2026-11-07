@@ -1,0 +1,100 @@
+{
+    "bio": "🍹Flamboyant Party Boy🎉 | PNG/EN/Lewd-tuber🍆 & 🔞Voice Actor | 👾Streams: HSR🚂, Fortnut🔫, DBD👹and more!",
+    "twitch": {
+        "id": "428919907",
+        "login": "perkybix",
+        "displayName": "PerkyBix",
+        "createdAt": "2019-04-09T01:10:42.360353Z",
+        "updatedAt": "2026-11-02T10:04:30.142984Z",
+        "description": "🍹Flamboyant Party Boy🎉 | PNG/EN/Lewd-tuber🍆 & 🔞Voice Actor | 👾Streams: HSR🚂, Fortnut🔫, DBD👹and more!",
+        "primaryColorHex": "0F0D63",
+        "followers": {
+            "totalCount": 1329
+        },
+        "follows": {
+            "totalCount": 1033
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-02T09:59:55.807575Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/df3ad49f-000e-44cc-9e7a-234752757385-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T02:26:11Z"
+    },
+    "youtube": {
+        "id": "UCjS4lkSKtPXKZO5cceI4hBA",
+        "handle": "PerkyBix",
+        "title": "Bix",
+        "description": "🍹Flamboyant Party Boy🎉 || 🔞MDNI \n\n",
+        "channelUrl": "https://www.youtube.com/channel/UCjS4lkSKtPXKZO5cceI4hBA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/LTCA3R-feoAe9Z9Q_YzueFc8NgUQ2OrdZdFekqJSgXOX1LtfN3HEbHi7FR28rIBC2AEjh9NU=h300",
+        "subscriberCountText": "1.13K subscribers",
+        "videoCountText": "16 videos",
+        "fetchedAt": "2026-11-07T02:26:12Z"
+    },
+    "twitter": {
+        "perkybix": {
+            "id": null,
+            "handle": "perkybix",
+            "displayName": "Bix🍹🎉🔜TwitchCon2026👾",
+            "description": "🔞┆🍾Flamboyant Party Boy🎊\n{ Variety Streamer┆┆NSFW VA ┆┆LewdTuber }\n(https://t.co/3q0qdDoDst)  (🔞: @BttmBix)",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1972903909728362496/hoHI1FVs_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/perkybix",
+            "fetchedAt": "2026-11-07T02:26:15Z"
+        }
+    },
+    "fansly": {
+        "id": "537117650438860800",
+        "username": "PerkyBix",
+        "displayName": "Bix ",
+        "version": 11,
+        "followCount": 156,
+        "statusId": 1,
+        "accountMediaLikes": 70,
+        "postLikes": 135,
+        "about": "🍹Flamboyant Party Boy🎉\nIRL Nudes + NSFW Audios \n 22 || Gay Little Sub Bottom😈💦\n\n🎁Treat the boy: https://throne.com/perkybix",
+        "location": "",
+        "streaming": {
+            "accountId": "537117650438860800",
+            "channel": {
+                "id": "763570625175363584",
+                "accountId": "537117650438860800",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ctgstX3TTPvH.m3u8",
+                "chatRoomId": "763571397984268288",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1743543783000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "763570625175363585",
+                    "historyId": "796169215936573440",
+                    "channelId": "763570625175363584",
+                    "accountId": "537117650438860800",
+                    "title": "Test Stream!",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 6,
+                    "createdAt": 1743543783000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1751317321000,
+                    "startedAt": 1751315893000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T02:26:16Z"
+    }
+}

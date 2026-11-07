@@ -1,0 +1,42 @@
+{
+    "bio": "Rekudo | Variety Streamer",
+    "twitch": {
+        "id": "196281398",
+        "login": "xrekudo",
+        "displayName": "xRekudo",
+        "createdAt": "2018-02-13T23:34:40.410952Z",
+        "updatedAt": "2026-11-06T04:48:34.485473Z",
+        "description": "Rekudo | Variety Streamer",
+        "primaryColorHex": "72201F",
+        "followers": {
+            "totalCount": 8667
+        },
+        "follows": {
+            "totalCount": 693
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-05T00:37:00.734148Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5726e2a0-1db7-4090-ad08-0efc248987c8-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T02:12:12Z"
+    },
+    "twitter": {
+        "xrekudo": {
+            "id": null,
+            "handle": "xrekudo",
+            "displayName": "✞ Rekudo ✞ 🦇🖤",
+            "description": "✞ Rekudo Ashen  \n✞ Art: Hauluciel | @Fox17L \n✞ 𝚁𝚒𝚐: Wettmilkk \n✞ 🎨#rekudoart \n✞ Links &amp; Audios: https://t.co/k56U7w6DiK",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2102317209431236608/vXzOj8Ir_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/xrekudo",
+            "fetchedAt": "2026-11-07T02:12:15Z"
+        }
+    }
+}
