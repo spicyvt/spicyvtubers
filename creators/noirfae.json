@@ -1,0 +1,110 @@
+{
+    "bio": "Spreading fae magic, comfort, and belonging — one stream at a time.",
+    "twitch": {
+        "id": "527863658",
+        "login": "noir_fae",
+        "displayName": "Noir_fae",
+        "createdAt": "2020-05-09T01:17:35.692686Z",
+        "updatedAt": "2026-11-06T18:26:14.716086Z",
+        "description": "Spreading fae magic, comfort, and belonging — one stream at a time. ",
+        "primaryColorHex": "FF98EC",
+        "followers": {
+            "totalCount": 1161
+        },
+        "follows": {
+            "totalCount": 192
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-06T22:36:05.235576Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1fe443c-929c-408b-8c30-7275c86d8a11-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T20:25:53Z"
+    },
+    "twitter": {
+        "noir_faevt": {
+            "id": null,
+            "handle": "noir_faevt",
+            "displayName": "Noir Fae 🌸🦌| COMING BACK ARC | FAE SPIRIT VTUBER",
+            "description": "Spreading comfort, and belonging one stream a time ANTI-AI \nMDNI\nOWNER OF @VDOOBERS\nmodel mama and papa: @dumpwuppy\nsfw art: #FaeFaeArt\nBanner: #MimzyVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2112959832072327168/Pi5C7wIB_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/noir_faevt",
+            "fetchedAt": "2026-11-07T20:25:58Z"
+        },
+        "darkfaepleasure": {
+            "id": null,
+            "handle": "darkfaepleasure",
+            "displayName": "Dark Fae Pleasures || Lewdtuber",
+            "description": "Welcome to the dark side of the garden \nMain: @Noir_FaeVT\nMDNI \nArt tag: #Darkfaepleasures",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2030367655652151296/QlW5Ekp3_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/DarkFaePleasure",
+            "fetchedAt": "2026-11-07T20:25:59Z"
+        }
+    },
+    "fansly": {
+        "id": "643271801241088000",
+        "username": "Noir_Fae",
+        "displayName": "DarkFaePleasures",
+        "version": 10,
+        "followCount": 952,
+        "statusId": 2,
+        "accountMediaLikes": 446,
+        "postLikes": 478,
+        "about": "🌸Sussy Deer Brat 🦌(Collabs willing to discuss)\n\nI will NOT respond to Parasocial or ERP DM's \n\n25 She/Her Bisexual Poly\n\nWHAT TO EXPECT: IRL content, Vtuber content  \n\nLovense Affiliate links <3 :\nhttps://www.lovense.com/r/abs8og\n\nLovense wishlist: \nhttps://www.lovense.com/wish-list/tw37\n\nTwitch: https://www.twitch.tv/Noir_Fae\n\nThrone: https://throne.com/noir_fae If ya wanna spoil me <3 \n\n",
+        "location": "on Daddy's dick",
+        "streaming": {
+            "accountId": "643271801241088000",
+            "channel": {
+                "id": "666361570636341248",
+                "accountId": "643271801241088000",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.p1XTvGZWqr9V.m3u8",
+                "chatRoomId": "667097500586356738",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1720367338000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "666361570636341249",
+                    "historyId": "822315136847998976",
+                    "channelId": "666361570636341248",
+                    "accountId": "643271801241088000",
+                    "title": "First time doing a vrchat stream~! Cum join~",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 2082,
+                    "createdAt": 1720367339000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1757554932000,
+                    "startedAt": 1757549566000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "667476612719063051",
+                                "streamId": "666361570636341249",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T20:26:03Z"
+    }
+}

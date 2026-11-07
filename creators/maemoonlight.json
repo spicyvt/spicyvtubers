@@ -1,0 +1,98 @@
+{
+    "bio": "🌙your favourite low-resolution lunar leporine🌙 i'm a pixel artist and variety streamer! i particularly enjoy roguelikes, metroidvanias and RPGs~ Isaac Newton is my #1 opp",
+    "twitch": {
+        "id": "1241938333",
+        "login": "mae_moonlightvt",
+        "displayName": "mae_moonlightVT",
+        "createdAt": "2025-01-29T10:04:59.893654Z",
+        "updatedAt": "2026-11-07T11:30:33.452952Z",
+        "description": "🌙your favourite low-resolution lunar leporine🌙 i'm a pixel artist and variety streamer! i particularly enjoy roguelikes, metroidvanias and RPGs~ Isaac Newton is my #1 opp",
+        "primaryColorHex": "030F0B",
+        "followers": {
+            "totalCount": 1106
+        },
+        "follows": {
+            "totalCount": 234
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-28T18:58:04.645336Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/759cb091-15e6-4c3b-9ac0-48599274dceb-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T20:25:49Z"
+    },
+    "youtube": {
+        "id": "UCKZJa_dTZ74Zu2k1MoxuQ6A",
+        "handle": "mae_moonlightVT",
+        "title": "mae moonlightVT",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCKZJa_dTZ74Zu2k1MoxuQ6A",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/zWxa5HQL1kSN10zhTnMgje0sr3KoXqM0qiJ755J4uNLr61qbJrR01DzjX_f3rzcRVQHw6zejwCg=h300",
+        "subscriberCountText": "561 subscribers",
+        "videoCountText": "150 videos",
+        "fetchedAt": "2026-11-07T20:25:52Z"
+    },
+    "bluesky": {
+        "did": "did:plc:utlotujszrpkywpcbotd5qca",
+        "handle": "mae-moonlightvt.bsky.social",
+        "displayName": "mae moonlight 🐇🌙",
+        "description": "🌙 your favourite low-res lunar leporine~\n🐇 she / her\n🌙 https://maemoonlight.carrd.co/\n🔞 @mae-aftermidnight.bsky.social\n\npfp by @hanapix.bsky.social\n\n🐇  art tag: #moonartmae | spicy tag: #midnightmae\n\n#FuckGenAI",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:utlotujszrpkywpcbotd5qca/bafkreiepx32jhischn7kflj5snvqiesi4sefrylxcoc2d2d42dugumstja",
+        "followersCount": 395,
+        "followingCount": 553,
+        "postsCount": 1343,
+        "accountCreatedAt": "2025-01-29T11:48:20.444Z",
+        "profileUrl": "https://bsky.app/profile/mae-moonlightvt.bsky.social",
+        "fetchedAt": "2026-11-07T20:26:01Z"
+    },
+    "fansly": {
+        "id": "811665081468203008",
+        "username": "mae_aftermidnight",
+        "displayName": "mae",
+        "version": 4,
+        "followCount": 94,
+        "statusId": 1,
+        "accountMediaLikes": 26,
+        "postLikes": 20,
+        "about": "🌙 your favourite low-res luminous lunar leporine lewdtuber\n🐇 she / her\n🌙 i stream Fridays and Saturdays~! \n\nget up to 55% off your next Lovense toy~!\nhttps://www.lovense.com/r/a82fmw",
+        "location": "maemoonlight.carrd.co",
+        "streaming": {
+            "accountId": "811665081468203008",
+            "channel": {
+                "id": "912721946930601985",
+                "accountId": "811665081468203008",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.cQ6Mz1zkjTyl.m3u8",
+                "chatRoomId": "912722051435872259",
+                "status": 2,
+                "version": 41,
+                "createdAt": 1779104229000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "912721946930601986",
+                    "historyId": "949117497678782464",
+                    "channelId": "912721946930601985",
+                    "accountId": "811665081468203008",
+                    "title": "[Third Crisis: Neon Nights] Part 3! this game is so hot... | #midnightmae",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 52,
+                    "createdAt": 1779104230000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1787787528000,
+                    "startedAt": 1787781605000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T20:26:03Z"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "bio": "Spicy Voice Actor, Hell Hound || Sometimes games, sometimes art, always a good time || Laughs at own jokes",
+    "twitch": {
+        "id": "132483999",
+        "login": "rabblerouserva",
+        "displayName": "rabblerouserva",
+        "createdAt": "2016-08-18T02:02:32.338895Z",
+        "updatedAt": "2026-11-05T17:49:10.366447Z",
+        "description": "Spicy Voice Actor, Hell Hound || Sometimes games, sometimes art, always a good time || Laughs at own jokes",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 788
+        },
+        "follows": {
+            "totalCount": 268
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-07T20:12:42.857176Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c9c5554-1166-4cde-a2a2-33087dfdfc03-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T20:14:13Z"
+    },
+    "fansly": {
+        "id": "546051963842736128",
+        "username": "RabbleRouserVA",
+        "displayName": null,
+        "version": 3,
+        "followCount": 308,
+        "statusId": 3,
+        "accountMediaLikes": 176,
+        "postLikes": 721,
+        "about": "He/Him Ultimate Himbo Incubus (N)SFW VA.\n\nThrone: https://throne.com/rabblerouserva",
+        "location": "",
+        "streaming": {
+            "accountId": "546051963842736128",
+            "channel": {
+                "id": "657041883117133826",
+                "accountId": "546051963842736128",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.3P0cvR9YX3KV.m3u8",
+                "chatRoomId": "657043052728168449",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1718145352000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "657041883117133827",
+                    "historyId": "657100889756016640",
+                    "channelId": "657041883117133826",
+                    "accountId": "546051963842736128",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 514,
+                    "createdAt": 1718145352000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1718167146000,
+                    "startedAt": 1718159420000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T20:14:20Z"
+    },
+    "twitter": {
+        "rabblerouser_va": {
+            "id": "1675843141620883457",
+            "handle": "rabblerouser_va",
+            "displayName": "Rabble Rouser",
+            "description": "COMMS OPEN (0/3)\nHimbo Hellhound \nNSFW VA \nOfficial VA for Alan #MDHM\nTwitch Affiliate \nMDNI/Age in BIO\n33\nHe/Him \nSOCIALS 18+",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2015621155327979521/wSt638XS_400x400.jpg",
+            "followersCount": 4744,
+            "followingCount": 3222,
+            "postsCount": 28763,
+            "accountCreatedAt": "2023-07-03T12:32:09.000Z",
+            "profileUrl": "https://x.com/RabbleRouser_VA",
+            "fetchedAt": "2026-11-07T20:25:55Z"
+        }
+    }
+}
