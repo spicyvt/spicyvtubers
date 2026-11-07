@@ -1,0 +1,100 @@
+{
+    "bio": "Welcome to the Cup of Dusk! My name's Roy Chiato, like a macchiato. I'm your host with the most, professional voice actor, and I love working out.",
+    "twitch": {
+        "id": "70899168",
+        "login": "roychiato",
+        "displayName": "RoyChiato",
+        "createdAt": "2014-09-09T23:31:51.676431Z",
+        "updatedAt": "2026-11-06T10:09:26.668492Z",
+        "description": "Welcome to the Cup of Dusk! My name's Roy Chiato, like a macchiato. I'm your host with the most, professional voice actor, and I love working out.",
+        "primaryColorHex": "FF8A8B",
+        "followers": {
+            "totalCount": 40922
+        },
+        "follows": {
+            "totalCount": 592
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-06T22:00:17.03213Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2fb413f7-842b-4210-993f-a3025ab45225-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T00:45:36Z"
+    },
+    "youtube": {
+        "id": "UCw4MpdfIjJHnZ8OLuYFEgCQ",
+        "handle": "RoyChiato",
+        "title": "Roy Chiato",
+        "description": "My name's Roy Chiato like a macchiato. I'm a coffee fueled host VTuber, professional voice actor, and I love working out. This channel is for streaming as well as videos and shorts made from those streams. So pull up a chair and enjoy some of the chaos! \n",
+        "channelUrl": "https://www.youtube.com/channel/UCw4MpdfIjJHnZ8OLuYFEgCQ",
+        "keywords": "vtuber vtubing comedy \"voice acting\" \"voice actor\" va \"english voice actor\" \"english voice acting\" \"sketch comedy\" improv \"improv comedy\" anime roychiato \"roy chiato\" vtuberen envtuber",
+        "profileImageUrl": "https://yt3.googleusercontent.com/-bIVtyoHJ6Xpo24ZcoGrhcVsvOvtot1dPEWxEE2udavpuZwt7_uWruD8zrAWU0s-Wfs3KBaE4rE=h300",
+        "subscriberCountText": "48.1K subscribers",
+        "videoCountText": "999 videos",
+        "fetchedAt": "2026-11-07T00:45:38Z"
+    },
+    "twitter": {
+        "roychiato": {
+            "id": null,
+            "handle": "roychiato",
+            "displayName": "Roy Chiato 🐰☕",
+            "description": "Bunny 🐰 Host ☕ Voice Actor 🎙️ VTuber | Icon ‣ ParasiticBun | Banner ‣ JoNotToday\n\nArt: #RoyChiArt | NSFW: #RoyChiBuns\n\nLinks: https://t.co/DEWW2yKhCy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2105532048911777792/NwT62k1M_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/roychiato",
+            "fetchedAt": "2026-11-07T00:45:48Z"
+        }
+    },
+    "fansly": {
+        "id": "322869604613365760",
+        "username": "RoyChiato",
+        "displayName": null,
+        "version": 4,
+        "followCount": 396,
+        "statusId": 3,
+        "accountMediaLikes": 0,
+        "postLikes": 3,
+        "about": "I'm Roy, a bunny barista with a passion for voice acting and content creation. I run a cafe called the Cup of Dusk where I bring in various creators from across the internet. Here we perform improv comedy, dish out tips and tricks for the industry, and entertain. Come grab a cup of coffee sometime!",
+        "location": "The Cup of Dusk",
+        "streaming": {
+            "accountId": "322869604613365760",
+            "channel": {
+                "id": "388946592519958529",
+                "accountId": "322869604613365760",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.g6LVI09fohky.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1654226453000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "388946592519958530",
+                    "historyId": null,
+                    "channelId": "388946592519958529",
+                    "accountId": "322869604613365760",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1654226454000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T00:45:52Z"
+    }
+}

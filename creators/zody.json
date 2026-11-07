@@ -1,0 +1,88 @@
+{
+    "bio": "\"Sometimes it takes a real man to be best gril.\" – Master Oogway | VRChat Streamer - VTuber Voice actor, gender bender & deliciously CHAOTIC! | Fortnite Creator Code: 𝗭𝗼𝗱𝘆 | Business Inquiries: zodymelody@gmail.com | Zody is pronounced as zOH-dee.",
+    "twitch": {
+        "id": "425610509",
+        "login": "zody",
+        "displayName": "Zody",
+        "createdAt": "2019-03-24T15:15:30.715459Z",
+        "updatedAt": "2026-11-03T22:46:25.4316Z",
+        "description": "\"Sometimes it takes a real man to be best gril.\" – Master Oogway | VRChat Streamer - VTuber Voice actor, gender bender & deliciously CHAOTIC! | Fortnite Creator Code: 𝗭𝗼𝗱𝘆 | Business Inquiries: zodymelody@gmail.com | Zody is pronounced as zOH-dee.",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 12208
+        },
+        "follows": {
+            "totalCount": 138
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-01T15:06:47.672185Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/84a089bc-5a60-4d87-bd5c-847db0a6851c-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T01:32:54Z"
+    },
+    "twitter": {
+        "zodyvt": {
+            "id": null,
+            "handle": "zodyvt",
+            "displayName": "Zody",
+            "description": "🟣Twitch   ￤https://t.co/eP5amS91dl\n🟢Discord ￤https://t.co/XDSsAQdzxf\n🟡All Links￤https://t.co/e2CspKBgdA\n&quot;Sometimes it takes a real man to be best gril.&quot; – Master Oogway",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2111688984719990784/7wqCuDh__400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/zodyvt",
+            "fetchedAt": "2026-11-07T01:32:55Z"
+        }
+    },
+    "fansly": {
+        "id": "951224640246657024",
+        "username": "ZodyVT",
+        "displayName": "Zody",
+        "version": 5,
+        "followCount": 491,
+        "statusId": 3,
+        "accountMediaLikes": 258,
+        "postLikes": 174,
+        "about": "🎥 I stream every Friday, Saturday, Sunday (Around 5PM UK time)\n🔞 Check out my PINNED post for services ;)\n💬 DM's for booking! | Twitch.tv/Zody\n🎁 Support to improve the content: https://throne.com/zodyvt\n🥵 Here to help you goon and masturbate <3",
+        "location": "United Kingdom",
+        "streaming": {
+            "accountId": "951224640246657024",
+            "channel": {
+                "id": "969113636574343168",
+                "accountId": "951224640246657024",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.e6hvGVaxLLIc.m3u8",
+                "chatRoomId": "969138445295308800",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1792549056000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "969113636574343169",
+                    "historyId": "973322909302935553",
+                    "channelId": "969113636574343168",
+                    "accountId": "951224640246657024",
+                    "title": "😈 Chat Controls My Lovense 💦 | [VRChat] Max vibe + loud moans | Let me make YOU cum 🍆💦 | !tipmenu !services",
+                    "status": 1,
+                    "viewerCount": 38,
+                    "version": 4,
+                    "createdAt": 1792549056000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793559324000,
+                    "startedAt": 1793552625000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T01:32:57Z"
+    }
+}

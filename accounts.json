@@ -116,7 +116,7 @@
   {
     "slug": "kaiju_waifu",
     "fansly": "kaijuwaifu",
-    "channel": "Kaiju_Waifu",
+    "channel": "Kaiju Waifu",
     "twitch": "kaiju_waifu",
     "xHandles": ["kinkykaijus", "kaiju_waifu"],
     "socials": "https://kaijuwaifu.carrd.co",
@@ -1179,7 +1179,7 @@
     "slug": "boa_coomi",
     "fansly": "boa_coomi",
     "onlyfans": "boa_coomi",
-    "channel": "boa_coomi",
+    "channel": "Boa Coomi",
     "twitch": "boa_coomi",
     "xHandles": ["boa_coomi"],
     "socials": "https://boacoomi.carrd.co/",
@@ -1666,7 +1666,7 @@
   {
     "slug": "akiyokumivt",
     "fansly": "akiyokumi",
-    "channel": "AkiyoKumiVT",
+    "channel": "Akiyo Kumi",
     "twitch": "akiyokumivt",
     "xHandles": ["akiyokumiasmr"],
     "socials": "https://akiyokumi.carrd.co/",
@@ -2779,7 +2779,7 @@
   {
     "slug": "pankyvt",
     "fansly": "pankyvt",
-    "channel": "pankyvt",
+    "channel": "Panky",
     "twitch": "pankyvt",
     "xHandles": ["pankstervt"],
     "socials": "https://linktr.ee/PankyVtuber",
@@ -3474,7 +3474,7 @@
     "slug": "lucy_koumori",
     "fansly": "lucy_koumori",
     "channel": "lucy_koumori",
-    "twitch": "lucy_koumori",
+    "twitch": "lucy koumori",
     "xHandles": ["lucy_koumori", "lucycumori"],
     "socials": "https://lucykoumorivt.carrd.co/",
     "avatar": "avatarsx"
@@ -4382,6 +4382,7 @@
   {
     "slug": "avisn0w",
     "fansly": "avisnow",
+    "patreon": "avisasmrs",
     "channel": "AviSn0w",
     "twitch": "avisn0w",
     "xHandles": ["avisn0w"],
@@ -4883,6 +4884,7 @@
   {
     "slug": "treeisafish",
     "rplay": "treeisafish",
+    "patreon": "treeisafish",
     "channel": "TreeIsAFish",
     "twitch": "treeisafish",
     "xHandles": ["treeisafish"],
@@ -7625,7 +7627,7 @@
   {
     "slug": "riikamivt",
     "patreon": "riikami",
-    "channel": "RiiKamiVT",
+    "channel": "RiiKami",
     "twitch": "riikamivt",
     "xHandles": ["riikami"],
     "socials": "https://solo.to/riikami",
@@ -9027,7 +9029,7 @@
     "fansly": "sayusin",
     "channel": "Sayu",
     "twitch": "sayu",
-    "xHandles": ["sayusyn"],
+    "xHandles": ["sayusyn", "sayusins"],
     "socials": "https://sincronisity.com/",
     "avatar": "avatarsx"
   },
@@ -9759,7 +9761,7 @@
   {
     "slug": "lokilaufeydottirvt",
     "fansly": "lokilaufeyvt",
-    "channel": "LokiLaufeydottirVT",
+    "channel": "Loki LaufeydottirVT",
     "twitch": "lokilaufeydottirvt",
     "xHandles": ["lokilaufeyvt", "tittytrickster"],
     "socials": "https://lokilaufeydottirvt.carrd.co/",
@@ -11904,7 +11906,57 @@
     "xHandles": ["kisaniyav"],
     "bskyHandle": ["niya", "niya.rest"],
     "avatar": "avatarsx"
-  },  
+  },
+  {
+    "slug": "pandaperfect",
+    "fansly": "pandaperfect",
+    "channel": "PandaPerfect",
+    "twitch": "pandaperfect",
+    "youtube": "pandaperfectvt",
+    "xHandles": ["thepandaperfect"],
+    "socials": "https://pandaperfect.carrd.co",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "roychiato",
+    "fansly": "roychiato",
+    "patreon": "roychiato",
+    "channel": "Roy Chiato",
+    "twitch": "roychiato",
+    "youtube": "roychiato",
+    "xHandles": ["roychiato"],
+    "socials": "https://roychiato.carrd.co",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "seraniia",
+    "fansly": "seraniia",
+    "channel": "Sera Niia",
+    "twitch": "seraniia",
+    "youtube": "seraniiavt",
+    "xHandles": ["seraniia"],
+    "socials": "https://seraniia.carrd.co",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "sheeki",
+    "patreon": "sheekiyomi",
+    "channel": "SheeKi",
+    "twitch": "sheekiyomi",
+    "youtube": "sheekivt",
+    "xHandles": ["sheekiyomi"],
+    "socials": "https://linktr.ee/SheeKi",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "zody",
+    "fansly": "zodyvt",
+    "channel": "Zody",
+    "twitch": "zody",
+    "xHandles": ["zodyvt"],
+    "socials": "https://zodyvt.carrd.co",
+    "avatar": "avatarsx"
+  },
   {
     "slug": "",
     "fansly": "",

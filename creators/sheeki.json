@@ -1,0 +1,54 @@
+{
+    "bio": "Sleepy ◇",
+    "twitch": {
+        "id": "487508712",
+        "login": "sheekiyomi",
+        "displayName": "SheeKiyomi",
+        "createdAt": "2020-01-23T11:56:31.772952Z",
+        "updatedAt": "2026-09-20T01:14:50.839875Z",
+        "description": "Sleepy ◇",
+        "primaryColorHex": "D00050",
+        "followers": {
+            "totalCount": 20580
+        },
+        "follows": {
+            "totalCount": 493
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-14T23:19:53.262794Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f917b27-2d23-4e77-9a96-7e37e69bade1-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T00:45:42Z"
+    },
+    "youtube": {
+        "id": "UCxXqPayXvDY-T27WLd1iw4Q",
+        "handle": "sheekivt",
+        "title": "Shee Ki",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCxXqPayXvDY-T27WLd1iw4Q",
+        "keywords": "art game music",
+        "profileImageUrl": "https://yt3.googleusercontent.com/Xtvn-kLzIaqhBLFauwnEwB-ymUtrzGZKxHkV8jt_fGZaC5_tTT-JkhNKG5y_C81oHrIJtN3YBQ=h300",
+        "subscriberCountText": "1.49K subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-07T00:45:43Z"
+    },
+    "twitter": {
+        "sheekiyomi": {
+            "id": null,
+            "handle": "sheekiyomi",
+            "displayName": "SHEEKI 🩷🦊",
+            "description": "Eepy Fox 🦊 ✧ \n✦ Twitch Partner\n✦ Art tags: #Sheekillust / #yabaiyomi\n✦ https://t.co/JSGqQniO7J\n✦ Art/Rig me",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1907954971158482944/1C1jM5Hq_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sheekiyomi",
+            "fetchedAt": "2026-11-07T00:45:51Z"
+        }
+    }
+}
