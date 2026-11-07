@@ -1,0 +1,73 @@
+{
+    "bio": "Welcome to our Gaming Anime VTuber's Hostess Club: Emy's and Nia's Live Shows!",
+    "twitch": {
+        "id": "89465529",
+        "login": "emyliveshow",
+        "displayName": "EmyLiveShow",
+        "createdAt": "2015-04-25T15:20:07.786225Z",
+        "updatedAt": "2025-09-14T16:04:47.08379Z",
+        "description": "Welcome to our Gaming Anime VTuber's Hostess Club: Emy's and Nia's Live Shows!",
+        "primaryColorHex": "BD0078",
+        "followers": {
+            "totalCount": 643
+        },
+        "follows": {
+            "totalCount": 2
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2023-03-18T09:32:48.18297Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d84124ba-4b7b-44f7-aa40-550a18dd0581-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T15:12:09Z"
+    },
+    "fansly": {
+        "id": "384022763997765632",
+        "username": "emyliveshow",
+        "displayName": "Emy's Hentai Show",
+        "version": 13,
+        "followCount": 8269,
+        "statusId": 1,
+        "accountMediaLikes": 15843,
+        "postLikes": 10542,
+        "about": "I am Emy anime hentai 3D vtuber (lewdtuber) and NSFW arts/games creator! Welcome to my Hentai Hostess Club: Emy/Nia/Uma/Six/Eve's Live Hentai Waifu Shows! Here our fans can find exclusive content: hentai manga, videos, arts and IRLs! Stay tuned! With your support we can do a lot awesome lewd hentai things 😘\n\nLinks:\n🐤 https://x.com/emyliveshow\n📺 https://chaturbate.com/emyliveshow\n📷 https://fans.ly/r/emyliveshow\n💬 https://discord.gg/AHEFrqT7Ez\n🎥 https://youtube.com/@emyliveshow\n🎮 https://store.steampowered.com/search/?developer=Team%20Emily\n\nMe and my co-hostess:\nEmy - The Vampire Queen 🦇 - https://x.com/emyliveshow\nNia - The Gamer Queen 🎮 - https://x.com/niagamerqueen\nUma - The Shaman Queen 🔮 - https://x.com/umashamanqueen\nSix - The Alien Queen 👽 - https://x.com/sixalienqueen\nEve - The Android Queen 🤖 - https://x.com/eveandroidqueen",
+        "location": "Siberia",
+        "streaming": {
+            "accountId": "384022763997765632",
+            "channel": {
+                "id": "816381414256701440",
+                "accountId": "384022763997765632",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.trZ8mTDzre1F.m3u8",
+                "chatRoomId": "816381580921561088",
+                "status": 2,
+                "version": 12,
+                "createdAt": 1756134856000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "816381414256701441",
+                    "historyId": "975393118713028608",
+                    "channelId": "816381414256701440",
+                    "accountId": "384022763997765632",
+                    "title": "EmyLiveShow - Hentai Hostess Club",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 5312,
+                    "createdAt": 1756134857000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794060649000,
+                    "startedAt": 1794046201000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T15:12:42Z"
+    }
+}

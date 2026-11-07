@@ -1,0 +1,109 @@
+{
+    "bio": "~ Hewo! I'm Necro! ~ My friends call me a out of pocket chaos gremlin ~ Vampire Catgirl Vtuber ~ Book lover ~ Animal Lover ~ Pronouns: Any/All ~",
+    "twitch": {
+        "id": "548974629",
+        "login": "necrochik",
+        "displayName": "Necrochik",
+        "createdAt": "2020-06-28T20:39:46.570917Z",
+        "updatedAt": "2026-10-14T06:01:44.671843Z",
+        "description": "~ Hewo! I'm Necro! ~ My friends call me a out of pocket chaos gremlin ~ Vampire Catgirl Vtuber ~ Book lover ~ Animal Lover ~ Pronouns: Any/All ~",
+        "primaryColorHex": "620200",
+        "followers": {
+            "totalCount": 210
+        },
+        "follows": {
+            "totalCount": 95
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-14T06:11:58.227048Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d320464-b175-42ec-8b78-34d41d1ba1f5-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T15:12:05Z"
+    },
+    "youtube": {
+        "id": "UCBEGnDIeXaVOfBd10t_Nnpw",
+        "handle": "necrochik",
+        "title": "Necrochik",
+        "description": "Clips, Highlights, & Vods from Twitch",
+        "channelUrl": "https://www.youtube.com/channel/UCBEGnDIeXaVOfBd10t_Nnpw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/OR_rK-PP-pP2rRBghYVMLcwiRg9yEWOUkCNjmijnQKagVik9I3NkMP4KwDJE09tbmHmPmekmOA=h300",
+        "subscriberCountText": "28 subscribers",
+        "videoCountText": "191 videos",
+        "fetchedAt": "2026-11-07T15:12:07Z"
+    },
+    "twitter": {
+        "necrochik": {
+            "id": null,
+            "handle": "necrochik",
+            "displayName": "Necrochik 🦇Vampire CatGirl🦇 🔞",
+            "description": "~ alt🖤~ 28 ~ Bi ~ Adhd ~ Autism ~ 18+ only ~\n~ Any/All ~ Non-Binary ~ Variety Streamer 🎮 ~ https://t.co/Iur4YvEbNb ~",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1719470271331999744/HW9dhDqb_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/necrochik",
+            "fetchedAt": "2026-11-07T15:12:24Z"
+        }
+    },
+    "fansly": {
+        "id": "653781451107479552",
+        "username": "NecrochikVR",
+        "displayName": null,
+        "version": 4,
+        "followCount": 330,
+        "statusId": 3,
+        "accountMediaLikes": 766,
+        "postLikes": 460,
+        "about": "Hewo, I'm Necrochik! Your Local Lewd Vampire CatGirl Girlfriend🤭\n                     '*•.¸♡ Welcome To The Dungeon, Enjoy Your Stay ♡¸.•*'\n                                                        ︵‿︵‿୨♡୧‿︵‿︵ \n'*•.¸♡ 28 - Any/All - Genderfluid ♡¸.•*' \n'*•.¸♡ Switch ♡¸.•*' \n'*•.¸♡ SFW & NSFW VR Content ♡¸.•*'\n'*•.¸♡ SFW IRL Content ♡¸.•*'\n                                                        ︵‿︵‿୨♡୧‿︵‿︵ \n˚₊· ͟͟͞͞➳❥ All Content is 18+ ONLY\n\n˚₊· ͟͟͞͞➳❥ Wanna buy me something :3 Check out my Throne\n            ↳ https://throne.com/necrochik\n˚₊· ͟͟͞͞➳❥ Want to see my other content\n            ↳ https://necrochikslilbats.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "653781451107479552",
+            "channel": {
+                "id": "887873857019469824",
+                "accountId": "653781451107479552",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.mKg6iX3M39Oj.m3u8",
+                "chatRoomId": "887893420712947712",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1773179983000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "887873857019469825",
+                    "historyId": null,
+                    "channelId": "887873857019469824",
+                    "accountId": "653781451107479552",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1773179983000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "887893530675015680",
+                                "streamId": "887873857019469825",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T15:12:42Z"
+    }
+}

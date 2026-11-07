@@ -1,0 +1,42 @@
+{
+    "bio": "STREAM EVERYDAY @ 5 PM EST",
+    "twitch": {
+        "id": "60968189",
+        "login": "sxgoi",
+        "displayName": "SXGOI",
+        "createdAt": "2014-04-16T02:11:59.950033Z",
+        "updatedAt": "2026-09-20T05:44:32.294203Z",
+        "description": "STREAM EVERYDAY @ 5 PM EST",
+        "primaryColorHex": "00AAFF",
+        "followers": {
+            "totalCount": 11121
+        },
+        "follows": {
+            "totalCount": 642
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-17T05:13:18.864456Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fa37435e-b205-43b0-9fe0-54fc733b58e1-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T15:12:20Z"
+    },
+    "twitter": {
+        "sxgoiii": {
+            "id": null,
+            "handle": "sxgoiii",
+            "displayName": "S❌GOI⛓️💔",
+            "description": "+ The figure in the corner of your eye ⚫ \n+ @Twitch &amp; @GamerSupps Partner ⚫\n\n🎨#darkillus | #sxgoiclip |🔗https://t.co/90XDWyBZqD |🔞https://t.co/CeMea0KL38",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1892377065938198528/c10OTlMp_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sxgoiii",
+            "fetchedAt": "2026-11-07T15:12:33Z"
+        }
+    }
+}

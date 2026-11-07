@@ -1,0 +1,97 @@
+{
+    "bio": "hi me ink",
+    "twitch": {
+        "id": "1334957592",
+        "login": "inkthrust",
+        "displayName": "InkThrust",
+        "createdAt": "2025-07-13T21:42:11.696548Z",
+        "updatedAt": "2026-11-05T20:12:35.258244Z",
+        "description": "hi me ink",
+        "primaryColorHex": "332967",
+        "followers": {
+            "totalCount": 1439
+        },
+        "follows": {
+            "totalCount": 270
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-22T23:23:56.212494Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/813e9106-0cc9-47e2-870e-afe323e0343c-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T15:12:08Z"
+    },
+    "twitter": {
+        "inkthrust": {
+            "id": null,
+            "handle": "inkthrust",
+            "displayName": "ink the bara artist🍆🎨🔞",
+            "description": "🔞 Inkarus Aquarelle (Ink/Karoo) 🔞 Bara artist, Vtuber SFW&amp;NSFW 🔞 MDNI 🔞 NO AI 🔞 Chinese Old Lady 🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2022408763383386116/XejCeXkK_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/inkthrust",
+            "fetchedAt": "2026-11-07T15:12:25Z"
+        }
+    },
+    "fansly": {
+        "id": "836729499025436672",
+        "username": "inkthrust",
+        "displayName": "🔞 INK 🍆🎨 lewdtube",
+        "version": 7,
+        "followCount": 214,
+        "statusId": 1,
+        "accountMediaLikes": 2,
+        "postLikes": 3,
+        "about": "Inkarus Aquarelle (Ink/Karoo)\nBara artist, Vtuber SFW&NSFW streamer\nvRigger and vArtist\n\ntwitch.tv/inkthrust/\nhttps://discord.gg/CXS4keVPPt",
+        "location": "",
+        "streaming": {
+            "accountId": "836729499025436672",
+            "channel": {
+                "id": "883575647551639552",
+                "accountId": "836729499025436672",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2mLFzCuSVgf6.m3u8",
+                "chatRoomId": "883575773854711809",
+                "status": 2,
+                "version": 32,
+                "createdAt": 1772155210000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "883575647551639553",
+                    "historyId": "969447700594446336",
+                    "channelId": "883575647551639552",
+                    "accountId": "836729499025436672",
+                    "title": "(lovense) jerking off to art",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 156,
+                    "createdAt": 1772155210000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792636438000,
+                    "startedAt": 1792628703000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "889392069091536896",
+                                "streamId": "883575647551639553",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T15:12:42Z"
+    }
+}

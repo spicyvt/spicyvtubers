@@ -1,0 +1,95 @@
+{
+    "bio": "A master of the arcane arts, I serve healing for the soul in the form of cozy beverages and delicious goodies in my Cozy Coven. Come, stay awhile~",
+    "twitch": {
+        "id": "137787367",
+        "login": "arcaneaceles",
+        "displayName": "ArcaneAceles",
+        "createdAt": "2016-10-24T02:01:19.850441Z",
+        "updatedAt": "2026-11-07T02:55:27.855778Z",
+        "description": "A master of the arcane arts, I serve healing for the soul in the form of cozy beverages and delicious goodies in my Cozy Coven. Come, stay awhile~",
+        "primaryColorHex": "A3D9FA",
+        "followers": {
+            "totalCount": 238
+        },
+        "follows": {
+            "totalCount": 459
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-07T06:06:17.76274Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25413052-4310-49e5-adee-8759b418e165-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T15:12:17Z"
+    },
+    "bluesky": {
+        "did": "did:plc:4edengxeszof7oov6ucexbwk",
+        "handle": "arcaneaceles.bsky.social",
+        "displayName": "Arcane Aceles 🔞 | Leader of the Cozy Coven | 🔮☕🐄",
+        "description": "bi 💗💜💙| poly | NB 💛🤍💜🖤 | lewdtuber | they/she | 18+ Only | Level: 28 | #arcame\nMy links:\n🎃 https://arcaneaceles.carrd.co/\n☕ https://www.twitch.tv/arcaneaceles\n🕯️ https://qandle.store/arcaneaceles\n🎁 https://throne.com/arcaneaceles",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4edengxeszof7oov6ucexbwk/bafkreiendxe72ae24lredhbg32ps52puswo4vahnqvjnxbw6ow6i4ijic4",
+        "followersCount": 342,
+        "followingCount": 611,
+        "postsCount": 175,
+        "accountCreatedAt": "2024-01-11T11:50:35.882Z",
+        "profileUrl": "https://bsky.app/profile/arcaneaceles.bsky.social",
+        "fetchedAt": "2026-11-07T15:12:39Z"
+    },
+    "fansly": {
+        "id": "449409968450318336",
+        "username": "ArcaneAceles69",
+        "displayName": "Arcane Aceles ",
+        "version": 8,
+        "followCount": 47,
+        "statusId": 1,
+        "accountMediaLikes": 119,
+        "postLikes": 113,
+        "about": "A lewd witch with a thirst for coffee, tea, and thighs.\n\nJoin me as we partake in some fun rituals.\n\nSocials: https://arcaneaceles.carrd.co/\nMy Wishlist: https://throne.com/arcaneaceles/wishlist\nMy Only Fans: https://onlyfans.com/arcaneaceles",
+        "location": "Cozy Coven ",
+        "streaming": {
+            "accountId": "449409968450318336",
+            "channel": {
+                "id": "481611694364176386",
+                "accountId": "449409968450318336",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.CSM7ctJdUpGy.m3u8",
+                "chatRoomId": "481611896290549760",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1676319535000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "481611694364176387",
+                    "historyId": "508876090677141504",
+                    "channelId": "481611694364176386",
+                    "accountId": "449409968450318336",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 58,
+                    "createdAt": 1676319536000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1682827943000,
+                    "startedAt": 1682819874000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "481611834135158784",
+                                "streamId": "481611694364176387",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T15:12:42Z"
+    }
+}
