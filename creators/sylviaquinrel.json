@@ -1,0 +1,105 @@
+{
+    "bio": "Looking for a new book to pass the time? Maybe to brush up on spells? Well, The Library has several options and secrets you might be able to discover on your stay.",
+    "twitch": {
+        "id": "77918565",
+        "login": "sylviaquinrel",
+        "displayName": "sylviaquinrel",
+        "createdAt": "2014-12-25T06:32:21.867311Z",
+        "updatedAt": "2026-11-03T01:01:24.933878Z",
+        "description": "Looking for a new book to pass the time? Maybe to brush up on spells? Well, The Library has several options and secrets you might be able to discover on your stay.",
+        "primaryColorHex": "8205B3",
+        "followers": {
+            "totalCount": 3948
+        },
+        "follows": {
+            "totalCount": 862
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-03T02:13:08.000587Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f57b94b-2179-4673-9c3d-f98af1037de6-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T15:59:30Z"
+    },
+    "twitter": {
+        "sylviaquinrel": {
+            "id": null,
+            "handle": "sylviaquinrel",
+            "displayName": "Sylvia Quinrel ✨Astral Librarian ✨",
+            "description": "Sylvia ✩ 🔞 ✩ 💍 @AkaAlbinoFerret ✩ Astral Librarian ✩ https://t.co/9DR3M9S0xz ✩ model: @aroneslens rigging: @sophielpaka",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1823468939763994624/y6MRVeyS_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sylviaquinrel",
+            "fetchedAt": "2026-11-07T15:59:32Z"
+        }
+    },
+    "fansly": {
+        "id": "351866462090043392",
+        "username": "SylviaStardust",
+        "displayName": "SylviaQuinrel",
+        "version": 8,
+        "followCount": 493,
+        "statusId": 1,
+        "accountMediaLikes": 1896,
+        "postLikes": 1207,
+        "about": "✨ Welcome to Sylvia's little corner of the stars! ✨\n\nI'm Sylvia Quinrel, your cozy cosmic cutie and anime-loving creator. Here you'll find a mix of exclusive selfies, cosplay, behind-the-scenes content, spicy alt looks, and a more personal side of me that I don't share anywhere else. Whether you're here for the cute, the comfy, or a little bit of mischief, I'm so happy to have you along for the journey. 💖\n\n🌙 Exclusive photos & sets\n✨ Cosplay and themed outfits\n💌 Subscriber requests & polls\n🎀 Behind-the-scenes moments and personal updates\n⭐ A safe, welcoming, and judgment-free community\n\nCome get comfy, stay awhile, and let's make some magical memories together. Thank you for supporting me and helping me keep creating! 💕",
+        "location": "The Library",
+        "streaming": {
+            "accountId": "351866462090043392",
+            "channel": {
+                "id": "411609977275293696",
+                "accountId": "351866462090043392",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.DHE9woxOIbfc.m3u8",
+                "chatRoomId": "411610088336269312",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1659629825000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "411609977275293697",
+                    "historyId": "562547032623951872",
+                    "channelId": "411609977275293696",
+                    "accountId": "351866462090043392",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 514,
+                    "createdAt": 1659629826000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1695620736000,
+                    "startedAt": 1695616024000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "562530220616196096",
+                                "streamId": "411609977275293697",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "562530220616196097",
+                                "streamId": "411609977275293697",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T15:59:33Z"
+    }
+}
