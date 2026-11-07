@@ -1,0 +1,101 @@
+{
+    "bio": "18+ Dragon Vtuber I like to go rawr :3 U stinky",
+    "twitch": {
+        "id": "506574668",
+        "login": "flaredrago",
+        "displayName": "flaredrago",
+        "createdAt": "2020-03-31T20:34:39.022927Z",
+        "updatedAt": "2026-11-07T03:04:20.054408Z",
+        "description": "18+ Dragon Vtuber I like to go rawr :3 U stinky ",
+        "primaryColorHex": "FA2929",
+        "followers": {
+            "totalCount": 4390
+        },
+        "follows": {
+            "totalCount": 656
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-07T04:57:39.655092Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aae7205d-5f9a-49b9-b63b-14419e3d062e-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T19:48:21Z"
+    },
+    "twitter": {
+        "flarexdrago": {
+            "id": null,
+            "handle": "flarexdrago",
+            "displayName": "Flare",
+            "description": "Weird Dragon #Streamer / #Vtuber https://t.co/xJq70Hoyig\nU stinky :3\nArt tags 🎨#FlareGallary 🔞#FlareLewds\nBusiness Email: FlareVDrago@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2081723213906690048/OZWWC-pV_400x400.png",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/flarexdrago",
+            "fetchedAt": "2026-11-07T19:48:25Z"
+        },
+        "ecchiflare": {
+            "id": null,
+            "handle": "ecchiflare",
+            "displayName": "Flare🔞",
+            "description": "https://t.co/sJ0WE0okLX\nCollabs open",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2081723453632110592/v-jjyB0F_400x400.png",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/EcchiFlare",
+            "fetchedAt": "2026-11-07T19:48:27Z"
+        }
+    },
+    "fansly": {
+        "id": "665545123743936512",
+        "username": "EcchiFlare",
+        "displayName": "Flare",
+        "version": 23,
+        "followCount": 7917,
+        "statusId": 1,
+        "accountMediaLikes": 12293,
+        "postLikes": 10629,
+        "about": "Stinkies\nJust a dumb dragon girl on the internet \nOpen DMs and collabs\nDM for custom content\nPlease be patient with me I’m dumb\nhttps://throne.com/flaredrago\nhttps://discord.gg/MeRZM25HUm",
+        "location": "",
+        "streaming": {
+            "accountId": "665545123743936512",
+            "channel": {
+                "id": "680405620351840256",
+                "accountId": "665545123743936512",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iWjyst3XAUJF.m3u8",
+                "chatRoomId": "680406415629623296",
+                "status": 2,
+                "version": 152,
+                "createdAt": 1723715701000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "680405620351840257",
+                    "historyId": "975361222465564672",
+                    "channelId": "680405620351840256",
+                    "accountId": "665545123743936512",
+                    "title": "Fail NNN inside your slutty Magician!~",
+                    "status": 1,
+                    "viewerCount": 117,
+                    "version": 3855,
+                    "createdAt": 1723715701000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794051727000,
+                    "startedAt": 1794038596000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T19:48:31Z"
+    }
+}

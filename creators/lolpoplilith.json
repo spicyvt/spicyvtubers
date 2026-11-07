@@ -1,0 +1,97 @@
+{
+    "bio": "Hey, I’m lolpoplilith 💜 Twitch variety streamer bringing cozy chaos, games, and chill chats. Expect playful vibes, unfiltered fun, and a welcoming space where being weird is encouraged. Affiliate, furry-friendly, just here to laugh and build a comfy community.#TransGirlGaming #TransPride",
+    "twitch": {
+        "id": "101956510",
+        "login": "lolpoplilith",
+        "displayName": "lolpoplilith",
+        "createdAt": "2015-09-11T18:19:16.479756Z",
+        "updatedAt": "2026-11-03T00:34:12.561427Z",
+        "description": "Hey, I’m lolpoplilith 💜 Twitch variety streamer bringing cozy chaos, games, and chill chats. Expect playful vibes, unfiltered fun, and a welcoming space where being weird is encouraged. Affiliate, furry-friendly, just here to laugh and build a comfy community.#TransGirlGaming #TransPride",
+        "primaryColorHex": "00FAFA",
+        "followers": {
+            "totalCount": 2052
+        },
+        "follows": {
+            "totalCount": 380
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-03T02:45:07.576108Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e67cef46-2ece-4bd7-944a-95764c96e81c-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T19:57:37Z"
+    },
+    "twitter": {
+        "lolpoplilith": {
+            "id": null,
+            "handle": "lolpoplilith",
+            "displayName": "LolPopLilith",
+            "description": "Just a furry e-girl who is trying her best!\nVariety Streamer https://t.co/2B1lR7VEzV | Floof brain \nBusiness email: Lolpoplilith@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2042664076891799552/3yBbh2Y-_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Lolpoplilith",
+            "fetchedAt": "2026-11-07T19:57:43Z"
+        }
+    },
+    "fansly": {
+        "id": "571617345219338240",
+        "username": "lolpoplilith",
+        "displayName": null,
+        "version": 3,
+        "followCount": 470,
+        "statusId": 1,
+        "accountMediaLikes": 946,
+        "postLikes": 277,
+        "about": "Just your average furry egirl trying her best :3\n\nAll my socials <3\nhttps://lolpoplilith.carrd.co/",
+        "location": "nearest river",
+        "streaming": {
+            "accountId": "571617345219338240",
+            "channel": {
+                "id": "666265281080860672",
+                "accountId": "571617345219338240",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.kXS81rtXMmKj.m3u8",
+                "chatRoomId": "666265322017271808",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1720344381000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "666265281080860673",
+                    "historyId": "856011521476554753",
+                    "channelId": "666265281080860672",
+                    "accountId": "571617345219338240",
+                    "title": "Tease me while gaming~",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 3646,
+                    "createdAt": 1720344382000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1765606058000,
+                    "startedAt": 1765583410000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "733858704016814080",
+                                "streamId": "666265281080860673",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T19:57:46Z"
+    }
+}
