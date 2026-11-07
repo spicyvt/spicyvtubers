@@ -1,0 +1,73 @@
+{
+    "twitter": {
+        "bellskella": {
+            "id": null,
+            "handle": "bellskella",
+            "displayName": "SkellaVR",
+            "description": "NSFW VTuber | Femboy Content Creator | 18+ Streams\nhttps://t.co/OYN2qAEfvk\nhttps://t.co/dS51xMwkSw\nCute Emo Femboy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082634644705394688/pww_ISrf_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/bellskella",
+            "fetchedAt": "2026-11-07T18:03:30Z"
+        },
+        "skoolaboola": {
+            "id": "1819097612881997824",
+            "handle": "skoolaboola",
+            "displayName": "Skella",
+            "description": "Ghost Elf Vtuber 💚👻💙\nTwitch Partner\nhttp://skellabell.bsky.social \n18+ ONLY\nFemboy \nhttp://twitch.tv/Skella\nDM FOR COLLAB",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1945732117247270912/tZvuw9Ww_400x400.png",
+            "followersCount": 4209,
+            "followingCount": 1667,
+            "postsCount": 2512,
+            "accountCreatedAt": "2024-08-01T19:47:37.000Z",
+            "profileUrl": "https://x.com/SkoolaBoola",
+            "fetchedAt": "2026-11-07T18:05:53Z"
+        }
+    },
+    "fansly": {
+        "id": "396065098046648320",
+        "username": "skellabell",
+        "displayName": null,
+        "version": 3,
+        "followCount": 428,
+        "statusId": 3,
+        "accountMediaLikes": 455,
+        "postLikes": 414,
+        "about": "Evil Slutty Elf",
+        "location": "",
+        "streaming": {
+            "accountId": "396065098046648320",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T18:03:41Z"
+    },
+    "bio": "Hello! I'm a ghost elf Vtuber 💚👻💙Some people call me a tsundere bottom",
+    "twitch": {
+        "id": "26354451",
+        "login": "skella",
+        "displayName": "Skella",
+        "createdAt": "2011-11-25T01:51:19.589155Z",
+        "updatedAt": "2026-10-29T01:26:09.884349Z",
+        "description": "Hello! I'm a ghost elf Vtuber 💚👻💙Some people call me a tsundere bottom",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 9503
+        },
+        "follows": {
+            "totalCount": 1299
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-16T00:58:04.888638Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7316878d-925b-4cf2-b5b3-c535215ecc72-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T18:05:26Z"
+    }
+}

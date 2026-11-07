@@ -1,0 +1,42 @@
+{
+    "bio": "Lets just say playing games all day runs in my DNA!",
+    "twitch": {
+        "id": "32514968",
+        "login": "kitren_",
+        "displayName": "Kitren_",
+        "createdAt": "2012-07-29T00:08:29.065842Z",
+        "updatedAt": "2026-11-06T23:58:57.64665Z",
+        "description": "Lets just say playing games all day runs in my DNA! ",
+        "primaryColorHex": "7BAB85",
+        "followers": {
+            "totalCount": 10921
+        },
+        "follows": {
+            "totalCount": 735
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-07T02:08:17.379986Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/48abe5d2-23be-4044-a56b-1392b6a668e2-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T18:12:44Z"
+    },
+    "twitter": {
+        "kitren_": {
+            "id": null,
+            "handle": "kitren_",
+            "displayName": "Kit",
+            "description": "Can&#x27;t we all just get along? | Twitch Streamer | Professional Catgirl https://t.co/DjLNwbniiq",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1706957991998545921/83nI4Gez_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kitren_",
+            "fetchedAt": "2026-11-07T18:12:48Z"
+        }
+    }
+}

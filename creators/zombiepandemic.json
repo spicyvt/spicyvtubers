@@ -1,0 +1,117 @@
+{
+    "bio": "Zombie Bat | Accidental Successful Experiment | Variety Gamer | 18+ Streamer | Horror Lover | Business Email: zombiepandemicgaming@gmail.com",
+    "twitch": {
+        "id": "105922115",
+        "login": "zombiepandemic",
+        "displayName": "ZombiePandemic",
+        "createdAt": "2015-11-02T00:12:40.623699Z",
+        "updatedAt": "2026-11-06T02:01:39.641631Z",
+        "description": "Zombie Bat | Accidental Successful Experiment | Variety Gamer | 18+ Streamer | Horror Lover | Business Email: zombiepandemicgaming@gmail.com",
+        "primaryColorHex": "FF8280",
+        "followers": {
+            "totalCount": 7081
+        },
+        "follows": {
+            "totalCount": 1230
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-06T04:55:14.283528Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/307f67da-e947-418f-96b0-ed16eadc92d1-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T18:12:38Z"
+    },
+    "youtube": {
+        "id": "UC2fik6uDQHNB4AW5yO08vvA",
+        "handle": "zombiepandemicgaming",
+        "title": "ZombiePandemic",
+        "description": "Zombie Bat | Accidental Successful Experiment | Variety Gamer | Horror Lover | Loves games with AMAZING story lines  |",
+        "channelUrl": "https://www.youtube.com/channel/UC2fik6uDQHNB4AW5yO08vvA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/s6fXfYZU2-q3ebFN_gQh143M18xefd_oIqaqcziraqK_z0vMwBC4rxmLQWx-8Z_zfdjxeQJv=h300",
+        "subscriberCountText": "318 subscribers",
+        "videoCountText": "156 videos",
+        "fetchedAt": "2026-11-07T18:12:40Z"
+    },
+    "twitter": {
+        "zombiepandemicg": {
+            "id": null,
+            "handle": "zombiepandemicg",
+            "displayName": "Zombie | 🧟🦇 Vtuber",
+            "description": "18+\n🎨2D &amp; ⚙️Rig: @CharoHime &amp; @ChaosVermillion\n🦇Chaotic zombie bat that adores horror\nArt Tag: #ZombieBatArt \nNSFW Art Tag: #ZomBatussy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2056224336709627904/gWKRHorm_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/zombiepandemicg",
+            "fetchedAt": "2026-11-07T18:12:45Z"
+        }
+    },
+    "fansly": {
+        "id": "384894820063125507",
+        "username": "ZombiePandemic",
+        "displayName": null,
+        "version": 3,
+        "followCount": 215,
+        "statusId": 3,
+        "accountMediaLikes": 520,
+        "postLikes": 308,
+        "about": "Can find me as a zombie bat on twitter and twitch; find me here for the things I cant show on those ;3\nHere are my links (merch and socials): https://zombiepandemicmerch.carrd.co/#",
+        "location": "Mobile, AL",
+        "streaming": {
+            "accountId": "384894820063125507",
+            "channel": {
+                "id": "486791883389939712",
+                "accountId": "384894820063125507",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.k9Cpoo1kxcVx.m3u8",
+                "chatRoomId": "486792346977968128",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1677554589000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "486791883389939713",
+                    "historyId": "924564148178661376",
+                    "channelId": "486791883389939712",
+                    "accountId": "384894820063125507",
+                    "title": "Succubat :3",
+                    "status": 1,
+                    "viewerCount": 10,
+                    "version": 1626,
+                    "createdAt": 1677554589000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781940782000,
+                    "startedAt": 1781927630000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "486792006626979840",
+                                "streamId": "486791883389939713",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "486792006626979841",
+                                "streamId": "486791883389939713",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T18:12:50Z"
+    }
+}
