@@ -1,0 +1,100 @@
+{
+    "bio": "Arttuber and variety strimmer. Archivist from the world of Cincope.Business Email: nasuamayaarts@yahoo.com",
+    "twitch": {
+        "id": "117156131",
+        "login": "nasuamaya",
+        "displayName": "NasuAmaya",
+        "createdAt": "2016-02-27T17:34:43.123557Z",
+        "updatedAt": "2026-11-07T03:04:01.420066Z",
+        "description": "Arttuber and variety strimmer. Archivist from the world of Cincope.Business Email: nasuamayaarts@yahoo.com",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 706
+        },
+        "follows": {
+            "totalCount": 1955
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-07T05:13:03.367771Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5969bad6-1294-407a-9b7a-978b8148b771-profile_image-300x300.png",
+        "fetchedAt": "2026-11-07T15:52:52Z"
+    },
+    "youtube": {
+        "id": "UCZQidGT5U_mesb7QOwNo9Kg",
+        "handle": "nasuamaya",
+        "title": "Nasu Amaya",
+        "description": "Big dumb do art thing and strim things",
+        "channelUrl": "https://www.youtube.com/channel/UCZQidGT5U_mesb7QOwNo9Kg",
+        "keywords": "Gaming Anime VTuber femboy artist \"self made vtuber\" \"nasu amaya\" envtuber \"world building\" writing art streamer \"self made vtuber\" vartist \"content creator\" \"vtuber clips\" fps lore reviews",
+        "profileImageUrl": "https://yt3.googleusercontent.com/u_94k2QTcWxsq8v-xT7DHSyvtdIoBdWiW1ZahpCrGsZ2yuKT9kwfLKP-3QJhSSH_8ICRLG_kIYQ=h300",
+        "subscriberCountText": "1.44K subscribers",
+        "videoCountText": "1K videos",
+        "fetchedAt": "2026-11-07T15:52:54Z"
+    },
+    "twitter": {
+        "nasuamaya": {
+            "id": null,
+            "handle": "nasuamaya",
+            "displayName": "Nasu Amaya 🍆 Augmented Arttuber",
+            "description": "🍆 • 28 • Vartist • I do the art thing and strim\nTwitch Affiliate, model+rig: myself. Debuted April 24th\nPFP: @GezuruArts\n\n🎨: #NasuArtmaya | 🔞: #NasLewd",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2006995895766728706/Pjs8ZCOL_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nasuamaya",
+            "fetchedAt": "2026-11-07T15:52:58Z"
+        }
+    },
+    "fansly": {
+        "id": "451937531181670400",
+        "username": "NasuAmayaArts",
+        "displayName": "Nasu Amaya",
+        "version": 9,
+        "followCount": 60,
+        "statusId": 1,
+        "accountMediaLikes": 16,
+        "postLikes": 19,
+        "about": "Augmented Vtuber, VA and artist femboy. Any Pronouns\n\nMade this mostly to stream my spicier art and work through my spicier games~~\n\nWhat you'll find:\n-FREE art and game streams\n-WIPs of larger/spicier art projects\n-Exclusive art\n-Perhaps some stretching of the VA pipes~~~\n\nTwitch: https://www.twitch.tv/nasuamaya\nCarrd: https://nasuamaya.carrd.co/\nThrone: https://throne.com/nasuamaya\n",
+        "location": "",
+        "streaming": {
+            "accountId": "451937531181670400",
+            "channel": {
+                "id": "815892889904115712",
+                "accountId": "451937531181670400",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.QgjHaMHdJ7ii.m3u8",
+                "chatRoomId": "815894052917493760",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1756018383000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "815892889904115713",
+                    "historyId": "950684816209113088",
+                    "channelId": "815892889904115712",
+                    "accountId": "451937531181670400",
+                    "title": "Trying something new",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 136,
+                    "createdAt": 1756018383000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1788162765000,
+                    "startedAt": 1788155283000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-07T15:53:01Z"
+    }
+}
