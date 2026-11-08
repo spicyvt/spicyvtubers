@@ -1,0 +1,100 @@
+{
+    "bio": "sofia! she/her - chaotic yapper by day, cozy lewdy by night ~ &lt;3",
+    "twitch": {
+        "id": "247457534",
+        "login": "sofialiah",
+        "displayName": "sofialiah",
+        "createdAt": "2018-08-12T19:54:47.518091Z",
+        "updatedAt": "2026-10-25T00:52:11.295784Z",
+        "description": "sofia! she/her - chaotic yapper by day, cozy lewdy by night ~ &lt;3",
+        "primaryColorHex": "FFC8C8",
+        "followers": {
+            "totalCount": 608
+        },
+        "follows": {
+            "totalCount": 259
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-28T00:08:58.541913Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7faa9438-8286-4a9d-9d62-27ca67acd742-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T15:58:36Z"
+    },
+    "youtube": {
+        "id": "UCboa66lIVXjaqM21_MF-Uzw",
+        "handle": "SofiaLiaVT",
+        "title": "SofiaLiaVT",
+        "description": "Hi! I'm Sofia. I'm a butterfly cat VTuber all about the chaotic and cozy! 🦋🌈\nWelcome to my Youtube channel. I will post VODS here!",
+        "channelUrl": "https://www.youtube.com/channel/UCboa66lIVXjaqM21_MF-Uzw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/O4CusDth_AVGBlsxN7s2tA1FT9HQRG9me5Qwvd2LEAccfySybNnEor1UeNeoiwWr8ehmNs9V=h300",
+        "subscriberCountText": "62 subscribers",
+        "videoCountText": "84 videos",
+        "fetchedAt": "2026-11-08T15:58:38Z"
+    },
+    "twitter": {
+        "sofialiahx": {
+            "id": null,
+            "handle": "sofialiahx",
+            "displayName": "🔞🌈 ✧ ⊱ sofialia ⊰ ✧ 🦋",
+            "description": "Hi! I&#x27;m Sofia ~ vtuber, avatar creator 🦋🌈 \n🎨: #SofialiaArt\n\nFind me here!:\nhttps://t.co/xIVHuIKyCm\n\n🔞\n\nPFP: weird1ndividual\nBanner: TinyCactusArt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2053359087190958080/6hNgeCCw_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sofialiahx",
+            "fetchedAt": "2026-11-08T15:58:59Z"
+        }
+    },
+    "fansly": {
+        "id": "718767022573363201",
+        "username": "sofialia",
+        "displayName": "SofiaLia",
+        "version": 3,
+        "followCount": 298,
+        "statusId": 3,
+        "accountMediaLikes": 224,
+        "postLikes": 179,
+        "about": "ʚɞ ~ hi!! i'm sofia! ~ ʚɞ\nplease come play with me~ ₍^. .^₎⟆\ndon't be shy~ explore my page! you'll find naughty VR content: videos/gifs/pics | audios/readings | stream vods | & free stuff!\n\nSpoil me~? https://throne.com/sofialia\nTwitch: https://twitch.tv/sofialiah\nVR Avatars by... me!: https://vgen.co/sofialia\n\nmore places you can find me!\nꨄ︎ ~ https://sofialiavt.carrd.co\nꨄ︎ ~ https://www.twitch.tv/sofialiah\nꨄ︎ ~ https://x.com/SofiaLiahx\n\nYou may not reproduce, copy, or share any content from this page without my clear permission. Unauthorized use of my content or streams will lead to bans across all platforms and legal action.",
+        "location": "",
+        "streaming": {
+            "accountId": "718767022573363201",
+            "channel": {
+                "id": "753530282765725696",
+                "accountId": "718767022573363201",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.k4xrauXscHFG.m3u8",
+                "chatRoomId": "753530423715307520",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1741149979000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "753530282765725697",
+                    "historyId": null,
+                    "channelId": "753530282765725696",
+                    "accountId": "718767022573363201",
+                    "title": "FIRST Fansly Stream ~ ₍^. .^₎⟆ shy shy shy shy shyyy.. come play~",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1741149979000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T15:59:12Z"
+    }
+}

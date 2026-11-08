@@ -1,0 +1,109 @@
+{
+    "bio": "☕~Transgirl having chaotic fun on the internet!~☕📧~Business inquiries -&gt; business_june@proton.me~📧",
+    "twitch": {
+        "id": "908374689",
+        "login": "junevtuber",
+        "displayName": "JuneVtuber",
+        "createdAt": "2023-05-11T21:27:10.99277Z",
+        "updatedAt": "2026-11-06T20:41:09.638573Z",
+        "description": "☕~Transgirl having chaotic fun on the internet!~☕📧~Business inquiries -&gt; business_june@proton.me~📧",
+        "primaryColorHex": "6600FF",
+        "followers": {
+            "totalCount": 527
+        },
+        "follows": {
+            "totalCount": 88
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-06T22:01:24.636712Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfbefcd6-8375-4e23-8c44-9f7590a33921-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T16:23:09Z"
+    },
+    "youtube": {
+        "id": "UCT7TqCIP-iPzE4de65QqnzQ",
+        "handle": "JuneVtuber",
+        "title": "June🏳️‍⚧️",
+        "description": "This is my channel where i upload stuff I want.\nMainly VODS / Shorts.\n\n",
+        "channelUrl": "https://www.youtube.com/channel/UCT7TqCIP-iPzE4de65QqnzQ",
+        "keywords": "Vtuber June JuneVT JuneVTuber 🏳️‍⚧️ Trans",
+        "profileImageUrl": "https://yt3.googleusercontent.com/3dctgjYVFxVu7bSpPsRzlPfYwgQLdzkmTAvuWapCOgGuiHL2tD_2sKqfroWAQFzdAWYKYUMocA=h300",
+        "subscriberCountText": "93 subscribers",
+        "videoCountText": "55 videos",
+        "fetchedAt": "2026-11-08T16:23:11Z"
+    },
+    "twitter": {
+        "june_vtuber": {
+            "id": null,
+            "handle": "june_vtuber",
+            "displayName": "JuneVT",
+            "description": "She/Her\n\nOrder Comms here:\nhttps://t.co/hZ6JfBDkIE\n\n📧~Business Related enquiries to business_june@proton.me~📧\n\n#Artist\n#Trans\n#TwitchAffiliate\n#VTuber",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2066482541503115265/RzZmzAjd_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/june_vtuber",
+            "fetchedAt": "2026-11-08T16:23:13Z"
+        }
+    },
+    "fansly": {
+        "id": "791669163595669504",
+        "username": "JuneVTuber",
+        "displayName": "June",
+        "version": 9,
+        "followCount": 10,
+        "statusId": 1,
+        "accountMediaLikes": 11,
+        "postLikes": 20,
+        "about": "😛",
+        "location": "Germany",
+        "streaming": {
+            "accountId": "791669163595669504",
+            "channel": {
+                "id": "951273130796544000",
+                "accountId": "791669163595669504",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WAmBv4PxpNEq.m3u8",
+                "chatRoomId": "951274810917281792",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1788295548000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "951273130796544001",
+                    "historyId": "951273222211379200",
+                    "channelId": "951273130796544000",
+                    "accountId": "791669163595669504",
+                    "title": "test",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 4,
+                    "createdAt": 1788295548000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1788296248000,
+                    "startedAt": 1788295570000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "951274474903191553",
+                                "streamId": "951273130796544001",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"951274464388071424\\\",\\\"label\\\":\\\"ultra vip\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T16:23:14Z"
+    }
+}

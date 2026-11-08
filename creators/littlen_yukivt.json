@@ -1,0 +1,118 @@
+{
+    "bio": "❄️🐰 ¡Hola! Soy YukiBunBun, la pequeña reina bandida de los mil inviernos 💙VTuber femboy caótico pero cariñoso 🎮Chill streams, gritos y aventuras ✨¿Te atreves a perderte conmigo entre nieve y dulces? 🍭",
+    "twitch": {
+        "id": "896891293",
+        "login": "littlen_yukivt",
+        "displayName": "littlen_yukivt",
+        "createdAt": "2023-04-06T01:12:15.640452Z",
+        "updatedAt": "2026-11-06T20:07:50.955899Z",
+        "description": "❄️🐰 ¡Hola! Soy YukiBunBun, la pequeña reina bandida de los mil inviernos 💙VTuber femboy caótico pero cariñoso 🎮Chill streams, gritos y aventuras ✨¿Te atreves a perderte conmigo entre nieve y dulces? 🍭",
+        "primaryColorHex": "10277A",
+        "followers": {
+            "totalCount": 629
+        },
+        "follows": {
+            "totalCount": 486
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-06T02:06:50.63824Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b7effe4-9501-4a3f-aab2-bca9fdcf35ff-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T15:58:30Z"
+    },
+    "twitter": {
+        "yukibunlive": {
+            "id": null,
+            "handle": "yukibunlive",
+            "displayName": "YukiBunbunVT",
+            "description": "✨ Artist, VTuber &amp; Streamer 🎨 Drawing sparkly eyes &amp; cozy streams! Come say hi, tea &amp; cookies ready 🍵🍰  Stream: | 🎨 Comms OPEN",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2118078595436339200/YA4QDUKz_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/YukiBunLive",
+            "fetchedAt": "2026-11-08T15:58:52Z"
+        }
+    },
+    "bluesky": {
+        "did": "did:plc:jof5v4r5mqizqhh4o54tu2lz",
+        "handle": "yukilittlesnow.bsky.social",
+        "displayName": "✨☁️ 𝒀𝒖𝒌𝒊 𝓑𝒖𝒏𝒃𝒖𝒏 ☁️❄️ 🐰",
+        "description": "❄️ Yuki | Snow Bandi VTuber\n🎀 Femboy artist • pet lover\n🎨 Anime | Manga/Manhwa | Gaming | Art\n✨ Soft illustrations, night vibes & cuteness\n🔗 All my links: https://yukiinvierno.carrd.co/",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jof5v4r5mqizqhh4o54tu2lz/bafkreibdbgqrotulrq7xtah3fq2ar4k7aledyoycys4lk6if35d5q6hkru",
+        "followersCount": 143,
+        "followingCount": 48,
+        "postsCount": 467,
+        "accountCreatedAt": "2024-10-19T14:10:53.810Z",
+        "profileUrl": "https://bsky.app/profile/yukilittlesnow.bsky.social",
+        "fetchedAt": "2026-11-08T15:59:06Z"
+    },
+    "fansly": {
+        "id": "706796068850900993",
+        "username": "YukiAfterDark",
+        "displayName": "𓆩🖤𓆪 YukiAfterDark",
+        "version": 29,
+        "followCount": 52,
+        "statusId": 1,
+        "accountMediaLikes": 30,
+        "postLikes": 15,
+        "about": "❄️ Yuki After Dark\n👑 The winter queen\n💜 Welcome to my private kingdom\n💜 All my socials here ↓\nhttps://yukiinvierno.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "706796068850900993",
+            "channel": {
+                "id": "853794737105170432",
+                "accountId": "706796068850900993",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xfqVWUE4fa3C.m3u8",
+                "chatRoomId": "853795690139107328",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1765054888000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "853794737105170433",
+                    "historyId": "940759851988967424",
+                    "channelId": "853794737105170432",
+                    "accountId": "706796068850900993",
+                    "title": " aver como se ve",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 12,
+                    "createdAt": 1765054888000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1785790721000,
+                    "startedAt": 1785788987000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "940761229905915904",
+                                "streamId": "853794737105170433",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "940761229905915905",
+                                "streamId": "853794737105170433",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"892279529945440256\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T15:59:12Z"
+    }
+}

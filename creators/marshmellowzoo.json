@@ -1,0 +1,110 @@
+{
+    "bio": "| Lazy gamer | I'm terrible at every game, don't get your hopes up XD My PNG model is a silly little femboy bunny  ;3",
+    "twitch": {
+        "id": "888769759",
+        "login": "marshmellowzoo",
+        "displayName": "MarshmellowZoo",
+        "createdAt": "2023-03-10T07:02:02.622939Z",
+        "updatedAt": "2026-11-06T04:25:59.024873Z",
+        "description": "| Lazy gamer | I'm terrible at every game, don't get your hopes up XD My PNG model is a silly little femboy bunny  ;3",
+        "primaryColorHex": "00470A",
+        "followers": {
+            "totalCount": 532
+        },
+        "follows": {
+            "totalCount": 251
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-06T06:15:49.670301Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ffc34a7-e265-4bd6-8e70-b5c1bb7830c9-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T16:32:34Z"
+    },
+    "twitter": {
+        "marshmello_zoo": {
+            "id": null,
+            "handle": "marshmello_zoo",
+            "displayName": "Marshmellow_Zoo",
+            "description": "| Lazy gamer | Artist | I&#x27;m terrible at every game, don&#x27;t get your hopes up XD Masc &amp; Fem models so keep an eye out ;3\nTaken 🤍💚\nhttps://t.co/yzQqqy60xO",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1980077151480053761/P-RnR4tN_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Marshmello_Zoo",
+            "fetchedAt": "2026-11-08T16:32:36Z"
+        },
+        "pillowpeep": {
+            "id": null,
+            "handle": "pillowpeep",
+            "displayName": "PillowPeep (MarshmellowZoo NSFW)",
+            "description": "NSFW | 18+ ONLY | Genderfluid, Absolute mess\n\nYour favorite little bunny has escaped the MarshmellowZoo landed in a bit of spice \n\nhttps://t.co/HklVJlUVYz",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2117526635779932160/jSMU8G8D_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/PillowPeep",
+            "fetchedAt": "2026-11-08T16:32:37Z"
+        }
+    },
+    "fansly": {
+        "id": "291521557996515328",
+        "username": "PillowPeep",
+        "displayName": "MarshmellowZoo",
+        "version": 17,
+        "followCount": 948,
+        "statusId": 1,
+        "accountMediaLikes": 996,
+        "postLikes": 688,
+        "about": "Your favorite Marshmellow Bunny is here! So just call me Marshie <3\n\nIf you would like to gift me or help me out my links are here:\nhttps://ko-fi.com/marshieee\nhttps://throne.com/marshieee\nhttps://www.lovense.com/wish-list/o8v9s7e\n\n\nVRC Model Credits:\nMarshie model made by me <3 W/ an Ichigo base\nSaintOfSerpents ~ Crimson model\nConfusey ~ RORY model\n",
+        "location": "",
+        "streaming": {
+            "accountId": "291521557996515328",
+            "channel": {
+                "id": "910699677677010944",
+                "accountId": "291521557996515328",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4DWC15UPEBoi.m3u8",
+                "chatRoomId": "910702392624836608",
+                "status": 2,
+                "version": 134,
+                "createdAt": 1778622083000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "910699677677010945",
+                    "historyId": "974042074305273857",
+                    "channelId": "910699677677010944",
+                    "accountId": "291521557996515328",
+                    "title": "Random Stream | Lovense | Toy COntrol",
+                    "status": 1,
+                    "viewerCount": 22,
+                    "version": 46,
+                    "createdAt": 1778622083000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793730986000,
+                    "startedAt": 1793724087000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "924860556354011137",
+                                "streamId": "910699677677010945",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T16:32:38Z"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "bio": "🐉 Welcome! I'm Shaine, an Australian bi furry dragon PNGTuber bringing people together through gaming 🎮 From ranked climbs to creative builds and chaotic adventures, we're here to have fun, share laughs, and make everyone feel at home. 💙✨ Everyone is welcome!",
+    "twitch": {
+        "id": "89786244",
+        "login": "shaineplays",
+        "displayName": "Shaineplays",
+        "createdAt": "2015-04-29T00:24:16.964123Z",
+        "updatedAt": "2026-11-04T04:26:48.54766Z",
+        "description": "🐉 Welcome! I'm Shaine, an Australian bi furry dragon PNGTuber bringing people together through gaming 🎮 From ranked climbs to creative builds and chaotic adventures, we're here to have fun, share laughs, and make everyone feel at home. 💙✨ Everyone is welcome!",
+        "primaryColorHex": "00C7AC",
+        "followers": {
+            "totalCount": 134
+        },
+        "follows": {
+            "totalCount": 137
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-04T10:56:28.528304Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/832cb528-c65a-430d-80ba-7db48dd63cf2-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T16:11:41Z"
+    },
+    "twitter": {
+        "shaineplays": {
+            "id": null,
+            "handle": "shaineplays",
+            "displayName": "Shaineplays 🔞 NSFW",
+            "description": "PNGTuber ☆ He/Him ☆ Bi ☆ Aussie ☆ 29🐉\n\nhttps://t.co/hz6sW2WrF2 🩵 https://t.co/FOZj7C9cyR\n\n☆ Gamer ☆ Furry Dragon ☆ 3D printing ☆ Gooner ☆",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2113999344965967872/LZw-FXmo_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/shaineplays",
+            "fetchedAt": "2026-11-08T16:11:45Z"
+        }
+    },
+    "fansly": {
+        "id": "333653750826676224",
+        "username": "shaineplays",
+        "displayName": null,
+        "version": 6,
+        "followCount": 5,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 1,
+        "about": "🐉💙 Your favourite dragon Streamer… but without the usual layers! 👀🔥\n\n🇦🇺 Aussie bi male dragon with a cheeky side 💚\n\n🎮 Gamer vibes meet IRL surprises\n\n😉 Exclusive content, playful teasing & a more personal side of me you won't see on stream.\n\n✨ Come explore my lair… the fun is just getting started! 🐉💚\nhttps://www.lovense.com/wish-list/h3t1",
+        "location": "Australia ?¿",
+        "streaming": {
+            "accountId": "333653750826676224",
+            "channel": {
+                "id": "954383077826646016",
+                "accountId": "333653750826676224",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.5sTjGinkUEWa.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 2,
+                "createdAt": 1789037017000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "954383077826646017",
+                    "historyId": "954394246247366656",
+                    "channelId": "954383077826646016",
+                    "accountId": "333653750826676224",
+                    "title": "Drag'n Wash",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 4,
+                    "createdAt": 1789037017000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1789039715000,
+                    "startedAt": 1789039680000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "954384814738268163",
+                                "streamId": "954383077826646017",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"844825560247975936\\\"}\"}"
+                            },
+                            {
+                                "id": "954384814738268164",
+                                "streamId": "954383077826646017",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":2000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T16:11:46Z"
+    }
+}

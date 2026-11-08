@@ -1,0 +1,109 @@
+{
+    "bio": "The fox clad in white.aikatsuyuri.uwu.ai",
+    "twitch": {
+        "id": "50405288",
+        "login": "aikatsuyuri",
+        "displayName": "Aikatsuyuri",
+        "createdAt": "2013-10-20T00:15:51.872536Z",
+        "updatedAt": "2026-11-08T00:16:50.20377Z",
+        "description": "The fox clad in white.aikatsuyuri.uwu.ai",
+        "primaryColorHex": "00FAFA",
+        "followers": {
+            "totalCount": 10535
+        },
+        "follows": {
+            "totalCount": 80
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-08T04:38:12.263086Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c395add-9f8b-4975-b2a7-473d42142462-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T15:58:39Z"
+    },
+    "youtube": {
+        "id": "UC7uvAImce9Iwh2pxDIx1Peg",
+        "handle": "Aikatsuyuri",
+        "title": "Aikatsuyuri",
+        "description": "はじめまして\n\nAccount is managed by streamers' moderators!\n",
+        "channelUrl": "https://www.youtube.com/channel/UC7uvAImce9Iwh2pxDIx1Peg",
+        "keywords": "Aikatsuyuri Aika",
+        "profileImageUrl": "https://yt3.googleusercontent.com/uviwGuzs-ED3CdJlzPf59BiygW4R3e8iHWY4OtUMlo4xgBaD900Li43KM_AnXdDhql7huUhosZA=h300",
+        "subscriberCountText": "2.5K subscribers",
+        "videoCountText": "548 videos",
+        "fetchedAt": "2026-11-08T15:58:41Z"
+    },
+    "twitter": {
+        "aikatsuyurivt": {
+            "id": null,
+            "handle": "aikatsuyurivt",
+            "displayName": "Aikatsuyuri",
+            "description": "白いな狐。I post whatever.\n\n3D Environmental/Character Artist | Avid Illustrator/Music Composer | 3D Vtuber | Twitch Partner | GamerSupps(AiVR)/Lovense Affiliate",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2096694207268433920/BT2LbPRp_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/aikatsuyurivt",
+            "fetchedAt": "2026-11-08T15:59:00Z"
+        }
+    },
+    "fansly": {
+        "id": "372597934560124928",
+        "username": "Aikatsuyuri",
+        "displayName": "アイカツユリ",
+        "version": 12,
+        "followCount": 7888,
+        "statusId": 3,
+        "accountMediaLikes": 6687,
+        "postLikes": 8664,
+        "about": "私はアイカじゃない。\n\n・Dual streaming on Twitch Monday, Tuesday, Wednesday, Thursday, and Saturday approximately at 17:00 PST\n・Only Sunday VOD's get saved.\n\n【Disclaimer】　All pictures and videos were taken and recorded using Unity, Blender, and VMC!\n\n・・・　Past VOD's available after 3 weeks　・・・\n⊡　drive.google.com/drive/folders/1cxU-rcZJSQ6YvZRwnEwfLrekla2M3Wey?usp=sharing",
+        "location": "",
+        "streaming": {
+            "accountId": "372597934560124928",
+            "channel": {
+                "id": "864718280210804736",
+                "accountId": "372597934560124928",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.D6bb9cX4KAmh.m3u8",
+                "chatRoomId": "866945315217887233",
+                "status": 2,
+                "version": 84,
+                "createdAt": 1767659263000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "864718280210804737",
+                    "historyId": "965894768909361152",
+                    "channelId": "864718280210804736",
+                    "accountId": "372597934560124928",
+                    "title": "ASMR that requires 200% volume",
+                    "status": 1,
+                    "viewerCount": 89,
+                    "version": 116,
+                    "createdAt": 1767659263000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1791785764000,
+                    "startedAt": 1791781618000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "866947381684350976",
+                                "streamId": "864718280210804737",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T15:59:12Z"
+    }
+}

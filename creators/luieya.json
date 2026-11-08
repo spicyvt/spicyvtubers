@@ -1,0 +1,85 @@
+{
+    "bio": "💮 i am cat, owa owa",
+    "twitch": {
+        "id": "624480966",
+        "login": "luieya",
+        "displayName": "Luieya",
+        "createdAt": "2020-12-22T01:32:48.052578Z",
+        "updatedAt": "2026-10-22T14:44:58.598865Z",
+        "description": "💮 i am cat, owa owa",
+        "primaryColorHex": "C59E9E",
+        "followers": {
+            "totalCount": 618
+        },
+        "follows": {
+            "totalCount": 165
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-14T00:42:28.692452Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e020a76-908e-4a9f-bb57-74c46f6001c9-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T15:58:34Z"
+    },
+    "youtube": {
+        "id": "UCLoW23NG6VSTDDP2FN-axbA",
+        "handle": "luieya",
+        "title": "Luieya",
+        "description": "100% A Potato.",
+        "channelUrl": "https://www.youtube.com/channel/UCLoW23NG6VSTDDP2FN-axbA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/HNPtadc2fGQmM0QO7ed3frIPBWZaTTiqXz5Qv9wRPKUbPjFveZy0zdrg5bQyBpSKApQwD1_57g=h300",
+        "subscriberCountText": "87 subscribers",
+        "videoCountText": "13 videos",
+        "fetchedAt": "2026-11-08T15:58:35Z"
+    },
+    "twitter": {
+        "luieyajin": {
+            "id": null,
+            "handle": "luieyajin",
+            "displayName": "Luieya 🔥⛩️",
+            "description": "Hellcat Dragon Vtuber • 🇹🇹🔥ᢉ𐭩 \n✨(˶ ｰ̀ ⤙ｰ́ ˶) Aspiring Artist &amp; Cosplayer✨\n🖌️@404Moxxie \n🎨 #LuiInks ┊🔞 #Luilewds\n\n🔗 https://t.co/QF8aFjL68Z",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2105213457146527744/drwcLZxJ_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/luieyajin",
+            "fetchedAt": "2026-11-08T15:58:55Z"
+        },
+        "luiilet": {
+            "id": null,
+            "handle": "luiilet",
+            "displayName": "Luieya NSFW 🔥🔞",
+            "description": "🔥 After dark NSFW account of @Luieyajin \n✦༺ Your Clingy Hellkitten Waifu 😈 ༻✦ \n🔞 #Luilewds",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2105213717017231360/Aj2zL4hG_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Luiilet",
+            "fetchedAt": "2026-11-08T15:58:56Z"
+        }
+    },
+    "fansly": {
+        "id": "855368070330331136",
+        "username": "Luieya",
+        "displayName": null,
+        "version": 2,
+        "followCount": 8,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 0,
+        "about": "TBA <3 ",
+        "location": "",
+        "streaming": {
+            "accountId": "855368070330331136",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T15:59:12Z"
+    }
+}

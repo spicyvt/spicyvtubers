@@ -1,0 +1,95 @@
+{
+    "bio": "[18+] Your favorite Catcubus Bartender.",
+    "twitch": {
+        "id": "171919475",
+        "login": "euphoric_end",
+        "displayName": "Euphoric_End",
+        "createdAt": "2017-08-29T00:44:20.701776Z",
+        "updatedAt": "2026-11-08T00:54:21.664556Z",
+        "description": "[18+] Your favorite Catcubus Bartender. ",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 1224
+        },
+        "follows": {
+            "totalCount": 337
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-08T04:06:12.699947Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/aae2caba-2a31-426e-ba7f-a3e99fc54bae-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T15:58:44Z"
+    },
+    "bluesky": {
+        "did": "did:plc:zvcg6p7djvpmo6h57b72rqhk",
+        "handle": "euphoricend.bsky.social",
+        "displayName": "Euphoric_End🍸🔞",
+        "description": "18+ | No minors you will be blocked/banned \nI'm a vtuber and a bit of a lewdtuber. \nI stream on Twitch and Fansly~ \nI have good vibes UwU well I definitely get vibed anyways. \n\nArt tags\nSFW: OwOphieart\nNSFW: UwUphieart\nhttps://euphoricend.carrd.co/",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zvcg6p7djvpmo6h57b72rqhk/bafkreiabefsxclwoicivkgkzgw4rjvonsxumxiefs2vdjbmsqn4szqlcpq",
+        "followersCount": 219,
+        "followingCount": 117,
+        "postsCount": 275,
+        "accountCreatedAt": "2023-10-01T16:12:43.266Z",
+        "profileUrl": "https://bsky.app/profile/euphoricend.bsky.social",
+        "fetchedAt": "2026-11-08T15:59:11Z"
+    },
+    "fansly": {
+        "id": "549869112172490752",
+        "username": "Euphoric_End",
+        "displayName": "Euphoric End",
+        "version": 10,
+        "followCount": 718,
+        "statusId": 3,
+        "accountMediaLikes": 114,
+        "postLikes": 210,
+        "about": "On Hiatus will return 8/1/27",
+        "location": "",
+        "streaming": {
+            "accountId": "549869112172490752",
+            "channel": {
+                "id": "599883023424434176",
+                "accountId": "549869112172490752",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4nhyWDkz4bop.m3u8",
+                "chatRoomId": "602715460378566656",
+                "status": 2,
+                "version": 18,
+                "createdAt": 1704517618000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "599883023424434177",
+                    "historyId": "919815092197937152",
+                    "channelId": "599883023424434176",
+                    "accountId": "549869112172490752",
+                    "title": "let's vibe",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 3459,
+                    "createdAt": 1704517618000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780800623000,
+                    "startedAt": 1780795367000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "919805379133595649",
+                                "streamId": "599883023424434177",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T15:59:12Z"
+    }
+}
