@@ -1,0 +1,54 @@
+{
+    "bio": "Hi, welcome to the forest, I'm Steve. We play story games here.",
+    "twitch": {
+        "id": "32538166",
+        "login": "calinleafshade",
+        "displayName": "CalinLeafshade",
+        "createdAt": "2012-07-29T18:17:00.712464Z",
+        "updatedAt": "2026-11-07T00:00:14.832848Z",
+        "description": "Hi, welcome to the forest, I'm Steve. We play story games here.",
+        "primaryColorHex": "12744D",
+        "followers": {
+            "totalCount": 2388
+        },
+        "follows": {
+            "totalCount": 407
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-07T00:00:16.609769Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/2028588e-acbb-4e67-8064-af5e59aaa46e-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T21:11:03Z"
+    },
+    "youtube": {
+        "id": "UCbTdp8VeUHqg7Ti5pFni8rg",
+        "handle": "CalinLeafshade",
+        "title": "Calin Leafshade",
+        "description": "I stream on Twitch Tuesday, Friday and Saturday at 8pm GMT.\n\nhttps://linktr.ee/calinleafshade",
+        "channelUrl": "https://www.youtube.com/channel/UCbTdp8VeUHqg7Ti5pFni8rg",
+        "keywords": "\"indie horror\" \"cozy gaming\" \"short games\" \"let's play\" \"chilla's art\" \"deep voice\" \"nice voice\" \"indie games\" jacksepticeye markiplier \"funny gaming\" \"calm gaming\" calm chill cozy \"sleepy gaming\"",
+        "profileImageUrl": "https://yt3.googleusercontent.com/M8gcFo2mXdVoCsxGut62ZlZj9OA8acpSbe4HNpNqcti4eTpx5C5RJiTiAsPequcf9WVKR51Vplk=h300",
+        "subscriberCountText": "665 subscribers",
+        "videoCountText": "58 videos",
+        "fetchedAt": "2026-11-08T21:11:04Z"
+    },
+    "twitter": {
+        "calinleafshade": {
+            "id": null,
+            "handle": "calinleafshade",
+            "displayName": "Calin Leafshade",
+            "description": "I stream Tues, Fri and Sat 8pm-Midnight GMT. You should drop by, we have cats.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1748436439870640128/QGTegzf-_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/calinleafshade",
+            "fetchedAt": "2026-11-08T21:11:23Z"
+        }
+    }
+}

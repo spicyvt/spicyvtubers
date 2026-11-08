@@ -1,0 +1,100 @@
+{
+    "bio": "Welcome to my cult~ I'm Baku, the fox demon you dared to summon. I stream Mon/Tues/Thurs/Fri at 7pm GMT. | Business enquiries: bakukyobusiness@gmail.com",
+    "twitch": {
+        "id": "548308774",
+        "login": "bakukyo",
+        "displayName": "Bakukyo",
+        "createdAt": "2020-06-27T00:03:39.308399Z",
+        "updatedAt": "2026-11-03T19:07:52.920335Z",
+        "description": "Welcome to my cult~ I'm Baku, the fox demon you dared to summon. I stream Mon/Tues/Thurs/Fri at 7pm GMT. | Business enquiries: bakukyobusiness@gmail.com",
+        "primaryColorHex": "862AFF",
+        "followers": {
+            "totalCount": 6076
+        },
+        "follows": {
+            "totalCount": 499
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-06T22:21:06.589223Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/43e0e803-81e9-40a0-837c-950eaaf39553-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T21:11:08Z"
+    },
+    "youtube": {
+        "id": "UCMiHe5hB0KMO6Pkc1Db8aBw",
+        "handle": "Bakukyo",
+        "title": "Bakukyo",
+        "description": "Ello~ I'm Baku, a mischievous kitsune vtuber. I stream Mon/Tues/Thurs/Fri at 7pm GMT on TWITCH\n\nI also post stream highlights, VODS, clips, Tiktoks, and other fun content. \n\nIt's nice to meet you cuties ❤️\n",
+        "channelUrl": "https://www.youtube.com/channel/UCMiHe5hB0KMO6Pkc1Db8aBw",
+        "keywords": "vtuber \"horror games\" \"fox vtuber\" \"kitsune vtuber\" \"vtuber react\" \"virtual youtuber\" \"indie vtuber\" \"vtuber en\" \"vtuber debut\" \"vtuber model reveal\" \"vtuber stream\" \"vtuber gameplay\" \"english vtuber\" \"vtuber funny moments\" \"vtuber rage\"",
+        "profileImageUrl": "https://yt3.googleusercontent.com/sn_4MkQiSG1ASByat8UCHIDkpcjQ2J4muU906oWbyMIMPRWvg2qlZEPOKg6fMa7DiDUV5-Lijjg=h300",
+        "subscriberCountText": "821 subscribers",
+        "videoCountText": "47 videos",
+        "fetchedAt": "2026-11-08T21:11:09Z"
+    },
+    "twitter": {
+        "bakukyo": {
+            "id": null,
+            "handle": "bakukyo",
+            "displayName": "Baku 🦊💜 Kitsune Vtuber",
+            "description": "🦊 Mischievous Kitsune Vtuber | Twitch Streamer  | 🎨 #Bakukyo_Art \n\nママ: @kkohannya \nパパ: @DaphShoo \nSocials: https://t.co/HNYCQF16iw",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1997057121867755520/8FaSNhd2_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/bakukyo",
+            "fetchedAt": "2026-11-08T21:11:26Z"
+        }
+    },
+    "fansly": {
+        "id": "699845130986725379",
+        "username": "Bakukyo",
+        "displayName": null,
+        "version": 4,
+        "followCount": 301,
+        "statusId": 3,
+        "accountMediaLikes": 219,
+        "postLikes": 169,
+        "about": "Degenerate Fox Vtuber 🦊  Let me slurp your soul.\n\nI post NSFW art and do spicy streams occasionally\n\nSocials: https://linktr.ee/Bakukyo",
+        "location": "",
+        "streaming": {
+            "accountId": "699845130986725379",
+            "channel": {
+                "id": "720730002647162880",
+                "accountId": "699845130986725379",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SNOU7TkBjfFy.m3u8",
+                "chatRoomId": "728414600701157377",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1733329783000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "720730002647162881",
+                    "historyId": "879180825818574850",
+                    "channelId": "720730002647162880",
+                    "accountId": "699845130986725379",
+                    "title": "NSFW Modded RE4",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 1574,
+                    "createdAt": 1733329783000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1787432752000,
+                    "startedAt": 1771107403000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T21:11:33Z"
+    }
+}

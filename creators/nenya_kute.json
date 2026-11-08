@@ -1,0 +1,100 @@
+{
+    "bio": "Nenyakute ✩^•ω•^✩  ENVtuber  ✩ Neko Succubus ✩ She/Her ✩ Here to steal your heart ~I'm a variety streamer and this channel will be used for Just Chatting, VRC & Art ! On other hands, for ASMR you can follow my main channel which is Nenya ♥",
+    "twitch": {
+        "id": "718064619",
+        "login": "nenya_kute",
+        "displayName": "Nenya_Kute",
+        "createdAt": "2021-08-16T03:10:51.397834Z",
+        "updatedAt": "2026-09-18T16:58:27.07091Z",
+        "description": "Nenyakute ✩^•ω•^✩  ENVtuber  ✩ Neko Succubus ✩ She/Her ✩ Here to steal your heart ~I'm a variety streamer and this channel will be used for Just Chatting, VRC & Art ! On other hands, for ASMR you can follow my main channel which is Nenya ♥",
+        "primaryColorHex": "6F6ED8",
+        "followers": {
+            "totalCount": 1786
+        },
+        "follows": {
+            "totalCount": 77
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-04T15:18:28.705819Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/04345415-c7c1-4ea4-abd0-8d2c757684a1-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T21:11:16Z"
+    },
+    "youtube": {
+        "id": "UCTsiF5iN3HO-v4BQCi-Whvw",
+        "handle": "nenya_kute",
+        "title": "Nenyakute【VTuber】",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCTsiF5iN3HO-v4BQCi-Whvw",
+        "keywords": "Vtuber Vtubers \"EN Vtuber\" \"EN Vtubers\" ENVtuber ENVtubers",
+        "profileImageUrl": "https://yt3.googleusercontent.com/x1W8OVAe3oKkuu7JBFH3d9UjhJsl4oeaxsje-gZIOFW51xgpVviy7cIBaNh0qt2cgl4kxdYrVg=h300",
+        "subscriberCountText": "432 subscribers",
+        "videoCountText": "55 videos",
+        "fetchedAt": "2026-11-08T21:11:18Z"
+    },
+    "twitter": {
+        "nenya_kute": {
+            "id": null,
+            "handle": "nenya_kute",
+            "displayName": "☽⛧ Nenya ⛧☾",
+            "description": "ASMRtist\n❄️ Neko Succubus ❄️\nTwitch Partner\nEN VTuber \n🎨 #nenyart \npp : @KumoboshiYoi\nbanner: @Veenasenceart\nOfficial artist : @meewmaru\nRig : @Tigrelionl\nNOAI",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2116422332004577281/WTMI59hJ_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nenya_kute",
+            "fetchedAt": "2026-11-08T21:11:32Z"
+        }
+    },
+    "fansly": {
+        "id": "424270639466033152",
+        "username": "Nenyakute",
+        "displayName": "❄️💙 Nenya 💙❄️",
+        "version": 6,
+        "followCount": 673,
+        "statusId": 3,
+        "accountMediaLikes": 532,
+        "postLikes": 558,
+        "about": "~ Your Icy Neko Succubus ~\n\n- Here for Lewd  -\n\nMight post sussy stuff\n\nCustom content : https://nenyakute.carrd.co/#comms",
+        "location": "PixKel's Bedroom",
+        "streaming": {
+            "accountId": "424270639466033152",
+            "channel": {
+                "id": "478306444144287744",
+                "accountId": "424270639466033152",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.6NqT9HOlV6d1.m3u8",
+                "chatRoomId": "478306509311188992",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1675531502000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "478306444144287745",
+                    "historyId": "975240186801709056",
+                    "channelId": "478306444144287744",
+                    "accountId": "424270639466033152",
+                    "title": "【Mommy ASMR】Listen to your mommy~",
+                    "status": 1,
+                    "viewerCount": 21,
+                    "version": 1604,
+                    "createdAt": 1675531503000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794012897000,
+                    "startedAt": 1794009739000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T21:11:33Z"
+    }
+}

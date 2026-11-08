@@ -1,0 +1,109 @@
+{
+    "bio": "demon catboy~ variety streamer who likes to meow and explode - yes i have 2 pairs of ears..",
+    "twitch": {
+        "id": "1228685966",
+        "login": "elecnyan",
+        "displayName": "elecnyan",
+        "createdAt": "2025-01-08T02:46:29.899149Z",
+        "updatedAt": "2026-11-07T22:58:37.216831Z",
+        "description": "demon catboy~ variety streamer who likes to meow and explode - yes i have 2 pairs of ears..",
+        "primaryColorHex": "3461AB",
+        "followers": {
+            "totalCount": 4004
+        },
+        "follows": {
+            "totalCount": 310
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-30T20:06:19.735046Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7137fba7-184d-416e-aefe-a7f77b7ac15c-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T21:11:05Z"
+    },
+    "youtube": {
+        "id": "UCuZBdn8B9cQJzfhrCIOQ4IQ",
+        "handle": "elecnyanASMR",
+        "title": "Elecnyan ASMR",
+        "description": "Heyaa~ I'm Elec and i really like roleplays and having fun with audios :3\n\nI hope my videos genuinely help you out, whether with sleep or just general comfyness!\n\nThank you for checking my channel out! :3 Feel free to take a look at my other socials, i also stream quite a lot!\n\nLive Fri/Sat @ 1PM EST on Twitch! I do ASMR, as well as use my normal voice for those who are curious :3c",
+        "channelUrl": "https://www.youtube.com/channel/UCuZBdn8B9cQJzfhrCIOQ4IQ",
+        "keywords": "asmr femboy roleplay rp vtuber boyfriend bfe \"sleep aid\" adorable kawaii catboy caring sweet loving \"femboy rp\" \"femboy roleplay\" anime \"sleep asmr\" \"relaxing asmr\" \"cozy asmr\" \"3dio asmr\" tingles \"femboy comfort\" \"soft spoken asmr\" \"personal attention asmr\" \"cute femboy\" \"binaural asmr\"",
+        "profileImageUrl": "https://yt3.googleusercontent.com/yIyYnL0XWozJyXUr4m5eQdr2TAYXEtxTK6UTjE4zi75rz0SoGRBb7o1ehdTki-grq2sAlY5XubE=h300",
+        "subscriberCountText": "8.56K subscribers",
+        "videoCountText": "41 videos",
+        "fetchedAt": "2026-11-08T21:11:07Z"
+    },
+    "twitter": {
+        "elec_nyan": {
+            "id": null,
+            "handle": "elec_nyan",
+            "displayName": "Elec 🩵 | Professional Meower",
+            "description": "🩵 Demon Kibty VTuber | @Twitch @Youtube Partner | art: #elecnyart\n♡ Artist • Streamer • ASMRtist | Balkan goober\n\nYes i have 2 pairs of ears :3",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2065693890129108992/0haIpzhi_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/elec_nyan",
+            "fetchedAt": "2026-11-08T21:11:24Z"
+        }
+    },
+    "fansly": {
+        "id": "737495050098843648",
+        "username": "elecnyan",
+        "displayName": "Elec",
+        "version": 8,
+        "followCount": 68,
+        "statusId": 1,
+        "accountMediaLikes": 20,
+        "postLikes": 9,
+        "about": "totally wholesome and not lewd meower :3\n\nCustoms happen in DMs ^w^\n\nLinks -> https://elecnyan.carrd.co",
+        "location": "(3) dungeon rooms away",
+        "streaming": {
+            "accountId": "737495050098843648",
+            "channel": {
+                "id": "884687673548103680",
+                "accountId": "737495050098843648",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.15BoQJ7jkTlO.m3u8",
+                "chatRoomId": "884688239883984896",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1772420338000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "884687673548103681",
+                    "historyId": null,
+                    "channelId": "884687673548103680",
+                    "accountId": "737495050098843648",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1772420338000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "884687843429990400",
+                                "streamId": "884687673548103681",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"884687021942001664\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T21:11:33Z"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "bio": "𝗬𝗼𝘂 𝗺𝗮𝗱𝗲 𝗶𝘁 𝘁𝗼 𝗼𝘂𝗿 𝗰𝗼𝘇𝘆 𝗱𝗲𝗻  ⋆｡ ﾟ☁︎｡☾ ﾟ‎ ‎Low-light streams for insomniacs + focuscore dreamers",
+    "twitch": {
+        "id": "546372396",
+        "login": "syntherux",
+        "displayName": "syntheRUX",
+        "createdAt": "2020-06-21T19:08:10.70895Z",
+        "updatedAt": "2026-11-02T10:29:44.29365Z",
+        "description": "𝗬𝗼𝘂 𝗺𝗮𝗱𝗲 𝗶𝘁 𝘁𝗼 𝗼𝘂𝗿 𝗰𝗼𝘇𝘆 𝗱𝗲𝗻  ⋆｡ ﾟ☁︎｡☾ ﾟ‎ ‎Low-light streams for insomniacs + focuscore dreamers",
+        "primaryColorHex": "0D0D0D",
+        "followers": {
+            "totalCount": 2460
+        },
+        "follows": {
+            "totalCount": 96
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-02T12:15:44.169678Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e4e9516-45fa-44d8-9b6c-e1de129d45a3-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T21:11:13Z"
+    },
+    "youtube": {
+        "id": "UCd0ZI4GUMWsVnijdikiF05g",
+        "handle": "SyntheRuxVODS",
+        "title": "SyntheRuxVODS",
+        "description": " ‎Low-light streams for insomniacs + focuscore dreamers\n",
+        "channelUrl": "https://www.youtube.com/channel/UCd0ZI4GUMWsVnijdikiF05g",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/l6d7e0y6FWQWIsa6rcRl5JMAL45nfxW9pFdagIjFNEKQO7__A23yYgvQ326i1VrJr88BRcSfkA=h300",
+        "subscriberCountText": "72 subscribers",
+        "videoCountText": "25 videos",
+        "fetchedAt": "2026-11-08T21:11:15Z"
+    },
+    "twitter": {
+        "syntherux": {
+            "id": null,
+            "handle": "syntherux",
+            "displayName": "Rux",
+            "description": "Sleepy Love Dragun 🫧 #DrawRux",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2043018450319347716/a_O2gtRi_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/syntherux",
+            "fetchedAt": "2026-11-08T21:11:31Z"
+        }
+    },
+    "fansly": {
+        "id": "764038844247977984",
+        "username": "SyntheRux_",
+        "displayName": "SyntheRux",
+        "version": 5,
+        "followCount": 582,
+        "statusId": 3,
+        "accountMediaLikes": 563,
+        "postLikes": 216,
+        "about": "Hi! I'm Rux, soft spoken  synthe with half broken body.\n",
+        "location": "",
+        "streaming": {
+            "accountId": "764038844247977984",
+            "channel": {
+                "id": "905177583912513537",
+                "accountId": "764038844247977984",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.5lqkGF0LV4qX.m3u8",
+                "chatRoomId": "905177736849403904",
+                "status": 2,
+                "version": 14,
+                "createdAt": 1777305513000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "905177583912513538",
+                    "historyId": "916838818101866496",
+                    "channelId": "905177583912513537",
+                    "accountId": "764038844247977984",
+                    "title": "Sleepy Horny Tatsu | i can't be loud |",
+                    "status": 1,
+                    "viewerCount": 9,
+                    "version": 12,
+                    "createdAt": 1777305513000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1780092398000,
+                    "startedAt": 1780085768000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T21:11:33Z"
+    }
+}
