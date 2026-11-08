@@ -1,0 +1,88 @@
+{
+    "bio": "30 year old Mama just gaming and having fun while doing it. Mama, Mommy, Yosei, Ame, Floof, Blonde, Blondie, Brat, any of those names I will answer to LUL",
+    "twitch": {
+        "id": "199003264",
+        "login": "amefloof",
+        "displayName": "Amefloof",
+        "createdAt": "2018-02-28T19:09:33.532722Z",
+        "updatedAt": "2026-11-08T02:42:42.22228Z",
+        "description": "30 year old Mama just gaming and having fun while doing it. Mama, Mommy, Yosei, Ame, Floof, Blonde, Blondie, Brat, any of those names I will answer to LUL",
+        "primaryColorHex": "8C30E2",
+        "followers": {
+            "totalCount": 5061
+        },
+        "follows": {
+            "totalCount": 1721
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-08T03:23:20.757562Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d61c67f7-d6aa-40f9-b8c8-01afd23cd01a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-08T21:57:32Z"
+    },
+    "twitter": {
+        "amefloof": {
+            "id": null,
+            "handle": "amefloof",
+            "displayName": "Amefloof (Previously Yosei)",
+            "description": "MINORS DNI!! 18+ ONLY\nSFW: #MamaYoArts\nNSFW: #MommyYosei\n\nPFP: @momowisp\ntips through cashapp\nhttps://t.co/R5WTbX4vGl",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2073252121839857664/Bb60v26B_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/amefloof",
+            "fetchedAt": "2026-11-08T21:57:43Z"
+        }
+    },
+    "fansly": {
+        "id": "396909142448545792",
+        "username": "MamaYosei",
+        "displayName": "Amefloof",
+        "version": 21,
+        "followCount": 1223,
+        "statusId": 3,
+        "accountMediaLikes": 1104,
+        "postLikes": 769,
+        "about": "Hey, I am using Fansly and I also stream on twitch! https://twitch.tv/amefloof\n\nIf you want to get me gifts, there are some *extra* things on throne that I will use in future content on this site ;) https://throne.com/amefloof\n\nDISCLAIMER: I am taken, all things on this site are character based, not irl. Please do not try to claim me or get possessive of me.",
+        "location": "",
+        "streaming": {
+            "accountId": "396909142448545792",
+            "channel": {
+                "id": "537139044803420160",
+                "accountId": "396909142448545792",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.dnLwAazVaEK8.m3u8",
+                "chatRoomId": "537139071852490752",
+                "status": 2,
+                "version": 25,
+                "createdAt": 1689558287000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "537139044803420161",
+                    "historyId": "927337427440267264",
+                    "channelId": "537139044803420160",
+                    "accountId": "396909142448545792",
+                    "title": "Mess With Me While Vibin | Link Control Drops",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 9358,
+                    "createdAt": 1689558288000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782589840000,
+                    "startedAt": 1782588831000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-08T21:57:44Z"
+    }
+}
