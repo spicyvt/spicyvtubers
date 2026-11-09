@@ -8563,7 +8563,9 @@
             "slug": "blasphemei",
             "fansly": "blasphemei",
             "channel": "Blasphemei",
-            "twitch": "blasphemei",
+            "removed": [
+                "twitch:blasphemei"
+            ],
             "xHandles": [
                 "blasphemeii",
                 "blasphemeivt"
@@ -8571,7 +8573,7 @@
             "socials": "https://blasphemei.carrd.co/#socials",
             "avatar": "avatarsx"
         },
-        "generatedAt": "2026-11-03T22:25:04+00:00"
+        "generatedAt": "2026-11-09T18:07:41+00:00"
     },
     "tealoafy": {
         "entry": {
@@ -13410,7 +13412,7 @@
     "manamivt": {
         "entry": {
             "slug": "manamivt",
-            "fansly": "manamivt",
+            "fansly": "moanami",
             "channel": "ManamiVT",
             "twitch": "manamivt",
             "bskyHandle": [
@@ -13420,7 +13422,7 @@
             "socials": "https://manamivt.carrd.co/",
             "avatar": "avatarsb"
         },
-        "generatedAt": "2026-11-03T22:25:05+00:00"
+        "generatedAt": "2026-11-09T18:07:41+00:00"
     },
     "tooru_vt": {
         "entry": {
@@ -13632,17 +13634,16 @@
     "baalvtuber": {
         "entry": {
             "slug": "baalvtuber",
-            "fansly": "susbaal",
+            "fansly": "sachisuccubus",
             "channel": "BaalVtuber",
             "twitch": "baalvtuber",
             "xHandles": [
-                "baalvtuber",
-                "susbaal"
+                "baalvtuber"
             ],
             "socials": "https://solo.to/baalvtuber",
             "avatar": "avatarsx"
         },
-        "generatedAt": "2026-11-03T22:25:05+00:00"
+        "generatedAt": "2026-11-09T18:07:41+00:00"
     },
     "skully_sinz": {
         "entry": {
@@ -15959,7 +15960,7 @@
     "dokibakadere": {
         "entry": {
             "slug": "dokibakadere",
-            "fansly": "urcutiepetslave",
+            "fansly": "urpetdoki",
             "rplay": "dokibakadere",
             "channel": "DokiBakadere",
             "twitch": "dokibakadere",
@@ -15972,7 +15973,7 @@
             "socials": "https://dokibakadere.carrd.co/#",
             "avatar": "avatarsx"
         },
-        "generatedAt": "2026-11-03T23:09:46+00:00"
+        "generatedAt": "2026-11-09T18:07:41+00:00"
     },
     "sasoumi": {
         "entry": {
@@ -16290,17 +16291,17 @@
     "kikimoravt": {
         "entry": {
             "slug": "kikimoravt",
-            "fansly": "lewd_kiki",
+            "fansly": "lewdpipp",
             "channel": "KikimoraVT",
             "twitch": "kikimoravt",
             "xHandles": [
                 "kikimoravt",
-                "lewd_kiki"
+                "loftypippin"
             ],
             "socials": "https://kiki-links.carrd.co/",
             "avatar": "avatarsx"
         },
-        "generatedAt": "2026-11-03T22:25:07+00:00"
+        "generatedAt": "2026-11-09T18:07:41+00:00"
     },
     "slumpneko": {
         "entry": {
@@ -17944,7 +17945,7 @@
     "yumitomomi": {
         "entry": {
             "slug": "yumitomomi",
-            "fansly": "yumitomomi",
+            "fansly": "aurorasparkz56",
             "patreon": "yumitomomi",
             "channel": "YumiTomomi",
             "twitch": "yumitomomi",
@@ -17954,7 +17955,7 @@
             "socials": "https://linktr.ee/yumitomomi",
             "avatar": "avatarsx"
         },
-        "generatedAt": "2026-11-03T22:25:08+00:00"
+        "generatedAt": "2026-11-09T18:07:41+00:00"
     },
     "mochiweebo": {
         "entry": {
@@ -21072,9 +21073,9 @@
                 "carderishere"
             ],
             "socials": "https://carderishere.carrd.co",
-            "avatar": "avatarsx"
+            "avatar": "avatarslarge"
         },
-        "generatedAt": "2026-11-09T15:55:24+00:00"
+        "generatedAt": "2026-11-09T18:07:41+00:00"
     },
     "mukyavt": {
         "entry": {
@@ -21120,5 +21121,58 @@
             "avatar": "avatarsx"
         },
         "generatedAt": "2026-11-09T15:55:24+00:00"
+    },
+    "momistra": {
+        "entry": {
+            "slug": "momistra",
+            "slugold": "momimofu",
+            "fansly": "momistra",
+            "patreon": "momimofu",
+            "rplay": "momimofu",
+            "channel": "Momistra",
+            "twitch": "momistra",
+            "xHandles": [
+                "momistra",
+                "mommymofu"
+            ],
+            "socials": "https://linktr.ee/momistra",
+            "avatar": "avatarsx"
+        },
+        "generatedAt": "2026-11-09T18:07:41+00:00"
+    },
+    "gujizorro": {
+        "entry": {
+            "slug": "gujizorro",
+            "slugold": "zorroccult",
+            "fansly": "gujizorro",
+            "channel": "GujiZorro",
+            "twitch": "gujizorro",
+            "xHandles": [
+                "gujizorro",
+                "zorroafterhrs"
+            ],
+            "socials": "https://solo.to/gujizorro",
+            "avatar": "avatarsx"
+        },
+        "generatedAt": "2026-11-09T18:07:41+00:00"
+    },
+    "yukibunbun": {
+        "entry": {
+            "slug": "yukibunbun",
+            "slugold": "littlen_yukivt",
+            "fansly": "yukiafterdark",
+            "channel": "Yuki BunBun",
+            "twitch": "yukibunbunvt",
+            "xHandles": [
+                "yukibunlive"
+            ],
+            "bskyHandle": [
+                "yukilittlesnow",
+                "yukilittlesnow.bsky.social"
+            ],
+            "socials": "https://yukiinvierno.carrd.co",
+            "avatar": "avatarsx"
+        },
+        "generatedAt": "2026-11-09T18:07:41+00:00"
     }
 }

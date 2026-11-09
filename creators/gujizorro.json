@@ -1,0 +1,101 @@
+{
+    "bio": "(18+) Im Zorro, Kitsune VTuber and variety streamer ! ⛩️ | ENG/SPA",
+    "twitch": {
+        "id": "131909630",
+        "login": "gujizorro",
+        "displayName": "GujiZorro",
+        "createdAt": "2016-08-11T09:35:17.812653Z",
+        "updatedAt": "2026-11-09T07:33:45.978995Z",
+        "description": "(18+) Im Zorro, Kitsune VTuber and variety streamer ! ⛩️ | ENG/SPA ",
+        "primaryColorHex": "450100",
+        "followers": {
+            "totalCount": 1765
+        },
+        "follows": {
+            "totalCount": 123
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-08T13:04:18.977986Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/26e91012-c22b-4c43-9f44-c6b960b91fe5-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T18:07:11Z"
+    },
+    "twitter": {
+        "gujizorro": {
+            "id": null,
+            "handle": "gujizorro",
+            "displayName": "Zorro ⛩️🌙",
+            "description": "(18+) Kitsune VTuber ⛩️ ENG/SPA 🇵🇷⛩️ LGBTQIA+ ⛩️ Art tag: #GujiZorroArt ⛩️ NSFW tag: #ZorroDarkArts",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2115523758693777408/WD76dKqf_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/GujiZorro",
+            "fetchedAt": "2026-11-09T18:07:21Z"
+        },
+        "zorroafterhrs": {
+            "id": null,
+            "handle": "zorroafterhrs",
+            "displayName": "Zorro ⛩️🌙🔞",
+            "description": "🇵🇷 MINORS DNI ⛩️ Hornier half of @GujiZorro 🔞NSFW CONTENT | NSFW tag: #ZorroDarkArts | Lovense Partner | CHECK OUT THE BLUE PAGE ✨",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2110819113975046144/wQR7reUM_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/zorroafterhrs",
+            "fetchedAt": "2026-11-09T18:07:22Z"
+        }
+    },
+    "fansly": {
+        "id": "644646473908101120",
+        "username": "GujiZorro",
+        "displayName": "Zorro ",
+        "version": 65,
+        "followCount": 319,
+        "statusId": 1,
+        "accountMediaLikes": 224,
+        "postLikes": 265,
+        "about": "18+ \nA Kitsune showing off more than his tails~ \n\nIf you like what you see, considering subscribing to see even more~ \n\nNSFW ART | IRL CONTENT",
+        "location": "Inside you ",
+        "streaming": {
+            "accountId": "644646473908101120",
+            "channel": {
+                "id": "805839075993993216",
+                "accountId": "644646473908101120",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.XIHnYJoj4tYV.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1753621367000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "805839075993993217",
+                    "historyId": "805840129410211840",
+                    "channelId": "805839075993993216",
+                    "accountId": "644646473908101120",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 2,
+                    "createdAt": 1753621367000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1753621703000,
+                    "startedAt": 1753621618000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T18:07:29Z"
+    }
+}
