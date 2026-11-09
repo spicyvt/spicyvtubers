@@ -1,0 +1,88 @@
+{
+    "bio": "Wolf Princess who left her kingdom to humble herself among her people | Part time maid/full time streamer | CEO of VGenerates | pronouns are she/her | 18+ Community ONLY",
+    "twitch": {
+        "id": "52663974",
+        "login": "validityxp",
+        "displayName": "ValidityXP",
+        "createdAt": "2013-12-04T20:22:09.868371Z",
+        "updatedAt": "2026-10-13T03:35:08.641758Z",
+        "description": "Wolf Princess who left her kingdom to humble herself among her people | Part time maid/full time streamer | CEO of VGenerates | pronouns are she/her | 18+ Community ONLY ",
+        "primaryColorHex": "F988FB",
+        "followers": {
+            "totalCount": 2960
+        },
+        "follows": {
+            "totalCount": 1188
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T23:24:13.829066Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e4868565-688c-4023-b584-10c496a40a89-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T22:34:39Z"
+    },
+    "twitter": {
+        "validity_xp": {
+            "id": null,
+            "handle": "validity_xp",
+            "displayName": "ValidityXP | VTuber | VGenerates CEO 🇵🇷🐺",
+            "description": "🔞Part time maid | full time streamer | she/her | Bisexual | VGens: @TheVGens | https://t.co/8ctQvRpis8",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1635132126101217281/TWzL7yBI_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/validity_xp",
+            "fetchedAt": "2026-11-09T22:34:56Z"
+        }
+    },
+    "fansly": {
+        "id": "478133946761093120",
+        "username": "ValidityXP",
+        "displayName": "ValidityXP",
+        "version": 14,
+        "followCount": 1589,
+        "statusId": 1,
+        "accountMediaLikes": 492,
+        "postLikes": 868,
+        "about": "Vtuber | Twitch Streamer | Singer | Rope Bunny \nvalidityxp.carrd.co ----> ALL MY SOCIALS \nhttps://throne.com/validityxp ----> If you want to buy me something\nhttps://twitch.tv/validityxp ----> Where I stream normally ",
+        "location": "",
+        "streaming": {
+            "accountId": "478133946761093120",
+            "channel": {
+                "id": "562365511275393024",
+                "accountId": "478133946761093120",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.HJgQOUPBBtQo.m3u8",
+                "chatRoomId": "562367499635535872",
+                "status": 2,
+                "version": 14,
+                "createdAt": 1695572746000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "562365511275393025",
+                    "historyId": "879598759355375617",
+                    "channelId": "562365511275393024",
+                    "accountId": "478133946761093120",
+                    "title": "Post Valentine's Nut With Me",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 9318,
+                    "createdAt": 1695572746000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1771214394000,
+                    "startedAt": 1771207046000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T22:35:05Z"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "bio": "hey! ฅ՞•ﻌ•՞ฅ  ⌒₊˚ ❤︎ my name is ione and i'm a horror + cozy + variety vtuber on twitch! ♡",
+    "twitch": {
+        "id": "1458382798",
+        "login": "floraltoffee",
+        "displayName": "floraltoffee",
+        "createdAt": "2026-03-13T00:23:20.086859Z",
+        "updatedAt": "2026-11-08T02:05:54.804658Z",
+        "description": "hey! ฅ՞•ﻌ•՞ฅ  ⌒₊˚ ❤︎ my name is ione and i'm a horror + cozy + variety vtuber on twitch! ♡",
+        "primaryColorHex": "0B3382",
+        "followers": {
+            "totalCount": null
+        },
+        "follows": {
+            "totalCount": 71
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-08T04:54:35.710858Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8a73d2c3-c580-459d-aa66-619d19d08148-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T22:34:38Z"
+    },
+    "twitter": {
+        "floraltoffee": {
+            "id": null,
+            "handle": "floraltoffee",
+            "displayName": "ione .ᐟ ⦵",
+            "description": "⋆˚࿔⋆˚  #vtuber bear oni from beyond the stars .ᐟ 🐻👹🌌\n☆ https://t.co/fC6xDdwtvh ☆ \n\n{   current games:  poe, p5r, boh, ovw, ts4  }",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2081173450283196416/gBF9_9SN_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/floraltoffee",
+            "fetchedAt": "2026-11-09T22:34:54Z"
+        }
+    },
+    "fansly": {
+        "id": "887019793180278784",
+        "username": "ioneplays",
+        "displayName": "ione ʕ•ᴥ–ʔつ♡",
+        "version": 11,
+        "followCount": 75,
+        "statusId": 3,
+        "accountMediaLikes": 55,
+        "postLikes": 40,
+        "about": "hi, i'm ione .ᐟ i love lore writing & and playing around with kink, and then some :3c\n\n      ⌒₊˚ ❤︎ \n♡  vtuber + sims 4 content\n♡ monthly sub-only videos\n♡  i answer dms! pls be patient with me tho :3\n♡  requests open .ᐟ \n⠀            ￫  paid: ko-fi\n               ￫ free: request post below\n\n       ︵   ★₊˚ \nspoil me?  ♡ https://throne.com/ioneplays ♡\n\n              all my socials ᯓ✿ https://floraltoffee.carrd.com",
+        "location": "san myshuno",
+        "streaming": {
+            "accountId": "887019793180278784",
+            "channel": {
+                "id": "902842185790013440",
+                "accountId": "887019793180278784",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.AoTAqcCbMOIz.m3u8",
+                "chatRoomId": "902844515658784768",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1776748711000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "902842185790013441",
+                    "historyId": null,
+                    "channelId": "902842185790013440",
+                    "accountId": "887019793180278784",
+                    "title": "may stream dates coming soon ʕ⁠っ˕ -｡ʔ ᶻ 𝗓",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1776748711000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "902842591488270336",
+                                "streamId": "902842185790013441",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "902842591488270337",
+                                "streamId": "902842185790013441",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T22:35:05Z"
+    }
+}

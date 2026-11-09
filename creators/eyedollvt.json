@@ -1,0 +1,85 @@
+{
+    "bio": "he/they | am streamer that's bad at games",
+    "twitch": {
+        "id": "669735393",
+        "login": "eyedollvt",
+        "displayName": "EYEDOLLvt",
+        "createdAt": "2021-03-31T22:08:09.619991Z",
+        "updatedAt": "2026-11-07T08:50:28.257781Z",
+        "description": "he/they | am streamer that's bad at games",
+        "primaryColorHex": "9AC796",
+        "followers": {
+            "totalCount": 448
+        },
+        "follows": {
+            "totalCount": 82
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-07T09:00:19.4758Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2451a61-a072-4c46-ac40-205490a8a274-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T22:34:31Z"
+    },
+    "youtube": {
+        "id": "UCNLX4mNe0TWFRnnsSVM1kBg",
+        "handle": "eyedollvtVODS",
+        "title": "EYEDOLLvt VODS",
+        "description": "Missed a stream? Find the VODS here~!",
+        "channelUrl": "https://www.youtube.com/channel/UCNLX4mNe0TWFRnnsSVM1kBg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/9bjHh9-uk-omrcHlqWSqP02nILS_dXaFUpHcMDeSFmNUbYS-Irq7J-oExhsclMAT80DbEx0w3Q=h300",
+        "subscriberCountText": "11 subscribers",
+        "videoCountText": "210 videos",
+        "fetchedAt": "2026-11-09T22:34:32Z"
+    },
+    "twitter": {
+        "eyedollvt": {
+            "id": null,
+            "handle": "eyedollvt",
+            "displayName": "Doll 🍉🎭 🔜 FUJO-CON ‘27",
+            "description": "washed up internet idol playing catch up | he/they | ⚧️🔞 | ENG &amp; SPAN🇲🇽 | nsfw: @eyedoll_nsfw",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2088459938897047552/xVBFku76_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/eyedollvt",
+            "fetchedAt": "2026-11-09T22:34:48Z"
+        },
+        "eyedoll_nsfw": {
+            "id": null,
+            "handle": "eyedoll_nsfw",
+            "displayName": "Doll 🔞",
+            "description": "20+ | ⚧︎ ftm | I’m into weird shit I’m not sorry | I stream as an anime femboy here: @EYEDOLLvt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1856497949800353792/8-HzygU0_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/eyedoll_nsfw",
+            "fetchedAt": "2026-11-09T22:34:50Z"
+        }
+    },
+    "fansly": {
+        "id": "347357618047561728",
+        "username": "IDOLvt",
+        "displayName": "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+        "version": 8,
+        "followCount": 34,
+        "statusId": 1,
+        "accountMediaLikes": 10,
+        "postLikes": 5,
+        "about": "he/they | vtuber | please be patient with me\n\n",
+        "location": "your screen <3",
+        "streaming": {
+            "accountId": "347357618047561728",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T22:35:05Z"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "bio": "Hopplo!!! 🐰 I'm KuroUsagi a Chinese American bunny vtuber who streams a variety of games. Main goal is to bring comfy vibes and positive energy. Only positive energy, no negative energy, just positive.",
+    "twitch": {
+        "id": "74075349",
+        "login": "kurousagi913",
+        "displayName": "KuroUsagi913",
+        "createdAt": "2014-10-30T18:59:57.696429Z",
+        "updatedAt": "2026-11-08T01:02:38.986352Z",
+        "description": "Hopplo!!! 🐰 I'm KuroUsagi a Chinese American bunny vtuber who streams a variety of games. Main goal is to bring comfy vibes and positive energy. Only positive energy, no negative energy, just positive.",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 2041
+        },
+        "follows": {
+            "totalCount": 166
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-08T03:19:47.768093Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad5ba519-a9b2-49d0-9cbf-b8d7b771291d-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T22:34:30Z"
+    },
+    "twitter": {
+        "thekurousagi913": {
+            "id": null,
+            "handle": "thekurousagi913",
+            "displayName": "KuroUsagi913 🐰 | VSmarties 🔞",
+            "description": "Kuro Usagi🐰 Living a life not for one but for two ママ: @umioharu l パパ: @VampireMavy Live Tag #kusalife Art Tag #kusart #nsfwkusart",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2094673649865547776/3z2CBQt-_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/thekurousagi913",
+            "fetchedAt": "2026-11-09T22:34:46Z"
+        }
+    },
+    "fansly": {
+        "id": "304914301133529088",
+        "username": "KuroUsagi913",
+        "displayName": null,
+        "version": 5,
+        "followCount": 3571,
+        "statusId": 3,
+        "accountMediaLikes": 802,
+        "postLikes": 1593,
+        "about": "O////O I-i-i see u've found Kuro's secret rabbit hole. W-welcome to KusaField After Dark.\n\n>////< Hopplo Everybody, I'm Kuro Usagi, a Chinese American ENVtuber. You can call me Kuro or Usagi. I'm also trans, so yes, I have a carrot.\n\nMoon Bunny here to change the world, let me be ur emotional and stress relief bunny. \n\nKuro will try to do weekly streams on Tuesdays and Thursdays from 8pm-11pm PST and I'll be posting mostly stream VODs and NSFW art commissions. Will occasionally on a blue moon, post irl photos for subscribers. \n\nAll Other Links: https://kurousagi913.carrd.co/\nKuro Dakimakura: https://cuddlyoctopus.com/product/kuro-usagi/",
+        "location": "KusaField",
+        "streaming": {
+            "accountId": "304914301133529088",
+            "channel": {
+                "id": "646161367862091776",
+                "accountId": "304914301133529088",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2gETvNYLrxkt.m3u8",
+                "chatRoomId": "646161929840111616",
+                "status": 2,
+                "version": 37,
+                "createdAt": 1715551235000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "646161367862091777",
+                    "historyId": "974213175861846016",
+                    "channelId": "646161367862091776",
+                    "accountId": "304914301133529088",
+                    "title": "Horny Moon Bunny Needs to Be Played With",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 211,
+                    "createdAt": 1715551235000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793776321000,
+                    "startedAt": 1793764881000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "648456715997552640",
+                                "streamId": "646161367862091777",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T22:35:05Z"
+    }
+}

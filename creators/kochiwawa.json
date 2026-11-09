@@ -1,0 +1,109 @@
+{
+    "bio": "╰┈➤ inky chawanananana~!! ૮˶- ﻌ -˶ა .𐂯 ݁",
+    "twitch": {
+        "id": "894887020",
+        "login": "kochiwawa_",
+        "displayName": "kochiwawa_",
+        "createdAt": "2023-03-31T01:12:23.979286Z",
+        "updatedAt": "2026-11-07T20:07:23.288568Z",
+        "description": "╰┈➤ inky chawanananana~!! ૮˶- ﻌ -˶ა .𐂯 ݁",
+        "primaryColorHex": "891433",
+        "followers": {
+            "totalCount": 5924
+        },
+        "follows": {
+            "totalCount": 736
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-07T23:38:24.782793Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/53b9e7fe-3daa-4da0-9153-e6ae291cb726-profile_image-300x300.jpeg",
+        "fetchedAt": "2026-11-09T22:34:43Z"
+    },
+    "youtube": {
+        "id": "UC0ouyOkjYo3dgWeuUF2Hi3A",
+        "handle": "chimiTHICC",
+        "title": "chimiTHICC",
+        "description": "🦴 I stream on twitch ૮₍ ´ ꒳ `₎ა",
+        "channelUrl": "https://www.youtube.com/channel/UC0ouyOkjYo3dgWeuUF2Hi3A",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/Asf5lvcI0Wc411eHoOkUA1opybi572mMeQ7zEV7N9Nx92JPNx1L3GmR0wCq44cUc8kjnEpo2gQ=h300",
+        "subscriberCountText": "161 subscribers",
+        "videoCountText": "165 videos",
+        "fetchedAt": "2026-11-09T22:34:44Z"
+    },
+    "twitter": {
+        "kochiwawa_": {
+            "id": null,
+            "handle": "kochiwawa_",
+            "displayName": "ꉂ kochi 🔪་ .",
+            "description": "₊˚✩ gremlin slop ૮˶- ﻌ -˶ა 𐂯 ݁\n✖️. https://t.co/jfaYfA1HxM .✖️",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2118120104848494592/6uQ09IW2_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kochiwawa_",
+            "fetchedAt": "2026-11-09T22:35:02Z"
+        }
+    },
+    "fansly": {
+        "id": "729999220488024066",
+        "username": "chimiTHICC",
+        "displayName": "⚝ 𝗰𝗵𝗶𝘄𝗮𝘄𝗮 ⚝",
+        "version": 30,
+        "followCount": 124,
+        "statusId": 3,
+        "accountMediaLikes": 267,
+        "postLikes": 702,
+        "about": " 🩷 140 cm gamer girl + feet ~!! 🩷\n👅 woof woof!! submissive puppy vtuber girl that loves to lick and pee everywhere~!! I'm a loser who's living rotting alone and touching myself 24/7. 💦\n\nby subbing helps me with rent + helps me feed stray cats and dogs in my area (˶ᵔ ᵕ ᵔ˶) 🐈‍⬛ + 🦦\n\n💌 https://x.com/chimithicc 💕 \n💌 https://ko-fi.com/chimithicc 💕 \n💌 https://throne.com/chimithicc 💕 \n💌 https://www.twitch.tv/chimithicc 💕 \n\n⊹₊˚‧‿︵‿︵‿︵‿︵‿︵‿୨ᰔ୧‿︵‿︵‿︵‿︵‿︵‿‧˚₊⊹",
+        "location": "",
+        "streaming": {
+            "accountId": "729999220488024066",
+            "channel": {
+                "id": "910476203268268044",
+                "accountId": "729999220488024066",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.rHDI28gKT2r0.m3u8",
+                "chatRoomId": "910831665763336192",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1778568802000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "910476203268268045",
+                    "historyId": null,
+                    "channelId": "910476203268268044",
+                    "accountId": "729999220488024066",
+                    "title": "🤍 hii wanna be friends~?!",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1778568802000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "910554017350836224",
+                                "streamId": "910476203268268045",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T22:35:05Z"
+    }
+}
