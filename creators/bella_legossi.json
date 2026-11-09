@@ -1,0 +1,105 @@
+{
+    "bio": "Variety Streamer: I just play whatever and upload the streams to my youtube. Exclusive Content on Patreon, early access to streams through subscribing, or catch it months later on youtube.Whispers/Messages: No response if you don't contribute; be a viewer or a donor. Rate: 45$/hr to distract me.",
+    "twitch": {
+        "id": "64912035",
+        "login": "bella_legossi",
+        "displayName": "Bella_Legossi",
+        "createdAt": "2014-06-23T08:05:44.733555Z",
+        "updatedAt": "2026-11-09T01:57:15.24089Z",
+        "description": "Variety Streamer: I just play whatever and upload the streams to my youtube. Exclusive Content on Patreon, early access to streams through subscribing, or catch it months later on youtube.Whispers/Messages: No response if you don't contribute; be a viewer or a donor. Rate: 45$/hr to distract me.",
+        "primaryColorHex": "00C7AC",
+        "followers": {
+            "totalCount": 654
+        },
+        "follows": {
+            "totalCount": 14
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-09T06:37:38.127098Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3d4f257-0385-49d2-9095-127f08d9b121-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T23:28:21Z"
+    },
+    "twitter": {
+        "blegossi": {
+            "id": null,
+            "handle": "blegossi",
+            "displayName": "Bella Legossi",
+            "description": "Full-Time VTuber Variety Streamer at https://t.co/n8fPvhs8sk | Veteran | Way too many IT certifications and experience xD. Patreon/YT/Fansly",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1826663639333609472/ADHoAZP2_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/blegossi",
+            "fetchedAt": "2026-11-09T23:28:32Z"
+        }
+    },
+    "fansly": {
+        "id": "698765941856546816",
+        "username": "Bella_Legossi",
+        "displayName": "Bella Legossi",
+        "version": 9,
+        "followCount": 318,
+        "statusId": 1,
+        "accountMediaLikes": 732,
+        "postLikes": 106,
+        "about": "All my links https://linktr.ee/bella_legossi\n\n♡ Lewds, nudes, special scenes, requests, and DMs!\n♡♡ free streams!\n♡♡♡ content posted multiple times a week!\n\n\nI especially love combining my Lewdtuber models, Skelly, Grimmy, and Lilith, just as much as each of them love doing solo work. Each Vtuber model (all made by the same artist, myself) is open to pretty much anything, though Lilith is especially open. No scat. All content copyrighted.\n\nDetails:\n\nGrimmy:\nPrimarily straight, probably the most vanilla personality, mainly because if naughty thoughts get into his head and he doesn't take care of them he transforms into Lilith, a perversion of his own female fantasy D&D character Sheila, twisted against him.\n\nLilith: Pictured\nMost open/craving of our personalities. Based off a Queen of Lust from one of Grimmy's D&D campaigns, sexual thoughts, energy, and fluids are essential to her continued existence. Unfortunately for Grimmy, she has additional parts Sheila doesn't and she isn't afraid to use them, especially if it helps her extract even more milk from cattle, though occasionally she'll lose some herself; the payoff usually works in her favor in the end. Typically her manifestations are either a complete transformation of Grimmy himself, or attached to him in a very unique way; if this goes on long enough and she extracts enough energy in the process, she is even able to separate entirely and do her own thing without having to take Grimmy's place, allowing for more scenarios to develop. She has the ability to have a dick and a vagina at the same time.\n\nSkelly:\nTransformation of the Reaper Bunny, Grimmy's Reaper friend. She tends to be the most shy about things but tends to get pulled along into whatever Grimmy and/or Lilith may be doing. She tries on some of their clothes from time to time and provides her own unique feel.",
+        "location": "Everywhere But the Kitchen Sink.",
+        "streaming": {
+            "accountId": "698765941856546816",
+            "channel": {
+                "id": "700617181120962560",
+                "accountId": "698765941856546816",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yXreRIDF2L80.m3u8",
+                "chatRoomId": "700618550787715072",
+                "status": 2,
+                "version": 12,
+                "createdAt": 1728534512000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "700617181120962561",
+                    "historyId": "975350047161991168",
+                    "channelId": "700617181120962560",
+                    "accountId": "698765941856546816",
+                    "title": "Line Up In A Row to Give Me Your #Sanctity! ;p",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 4132,
+                    "createdAt": 1728534513000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794051554000,
+                    "startedAt": 1794035932000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "704851527709241344",
+                                "streamId": "700617181120962561",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":3000}\"}"
+                            },
+                            {
+                                "id": "704851527709241345",
+                                "streamId": "700617181120962561",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T23:28:42Z"
+    }
+}

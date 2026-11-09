@@ -1,0 +1,100 @@
+{
+    "bio": "VRChat Enjoyer | Metalhead | Vidyagamer",
+    "twitch": {
+        "id": "24734313",
+        "login": "limbonic_",
+        "displayName": "Limbonic_",
+        "createdAt": "2011-09-11T13:40:49.1412Z",
+        "updatedAt": "2026-11-08T19:07:43.11315Z",
+        "description": "VRChat Enjoyer | Metalhead | Vidyagamer",
+        "primaryColorHex": "FA2929",
+        "followers": {
+            "totalCount": 2403
+        },
+        "follows": {
+            "totalCount": 527
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-08T21:05:04.330793Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/929dec77-ab85-40b3-b4ef-57d8c1d85462-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T23:28:24Z"
+    },
+    "youtube": {
+        "id": "UC4hay2BWziQqiYCHCYpRnKA",
+        "handle": "limbonic_",
+        "title": "Limbonic",
+        "description": "VRChat Enjoyer | Metalhead | Vidyagamer\n\nAvatar base model by @Sinrith_VRC",
+        "channelUrl": "https://www.youtube.com/channel/UC4hay2BWziQqiYCHCYpRnKA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/XoKlDCMWK1M0_jwc6Mhe60ovIzMgthuXSVnIMX4_klFU_3zP3yZ9I1ytwtrtnJXKOGe0vvcGlzg=h300",
+        "subscriberCountText": "82 subscribers",
+        "videoCountText": "2 videos",
+        "fetchedAt": "2026-11-09T23:28:25Z"
+    },
+    "twitter": {
+        "limbonic_": {
+            "id": null,
+            "handle": "limbonic_",
+            "displayName": "Limbonic",
+            "description": "VR Enjoyer | Metalhead | Vidyagamer\n\nAvatar head by @Sinrith_VRC and face tracking by @nelaire_",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1528383859687030785/RAtFWmES_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/limbonic_",
+            "fetchedAt": "2026-11-09T23:28:37Z"
+        }
+    },
+    "fansly": {
+        "id": "525126936905654272",
+        "username": "Limbonic",
+        "displayName": null,
+        "version": 3,
+        "followCount": 3659,
+        "statusId": 1,
+        "accountMediaLikes": 5325,
+        "postLikes": 2385,
+        "about": "I love big juicy carrots! 🥕❤️\n\nI try to post videos and pictures regularly!\nAll the content is free for now, but If you want to support the work I do, please consider subscribing!",
+        "location": "",
+        "streaming": {
+            "accountId": "525126936905654272",
+            "channel": {
+                "id": "711697336971042818",
+                "accountId": "525126936905654272",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.kr4FGFxmibxc.m3u8",
+                "chatRoomId": "711697650658848769",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1731176227000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "711697336971042819",
+                    "historyId": "860706152634150912",
+                    "channelId": "711697336971042818",
+                    "accountId": "525126936905654272",
+                    "title": "Merry Bunmas",
+                    "status": 1,
+                    "viewerCount": 25,
+                    "version": 820,
+                    "createdAt": 1731176228000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1766713476000,
+                    "startedAt": 1766702697000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T23:28:42Z"
+    }
+}

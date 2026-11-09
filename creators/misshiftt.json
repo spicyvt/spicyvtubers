@@ -1,0 +1,101 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "90428526",
+        "login": "misshiftt",
+        "displayName": "MisShiftt",
+        "createdAt": "2015-05-06T20:41:16.993112Z",
+        "updatedAt": "2026-10-24T23:26:29.779877Z",
+        "description": "",
+        "primaryColorHex": "0013A3",
+        "followers": {
+            "totalCount": 1660
+        },
+        "follows": {
+            "totalCount": 99
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-25T03:51:57.364147Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/41c5c6c6-1ba0-4b4c-a7fa-ce6ea5dc5267-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T23:28:22Z"
+    },
+    "twitter": {
+        "j_misshiftt": {
+            "id": null,
+            "handle": "j_misshiftt",
+            "displayName": "lil j 🧬🔗 Changeling Vtuber 🔗 🧬",
+            "description": "Changeling Vtuber | Lil J Magical Customer Service | 🎨 ⚙️ @whispwill | pfp @/_spatsula | Art Tag #lilJPEG",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1850383001831542784/1NcVzBV7_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/j_misshiftt",
+            "fetchedAt": "2026-11-09T23:28:34Z"
+        },
+        "lil_j_sus": {
+            "id": null,
+            "handle": "lil_j_sus",
+            "displayName": "⛓️🧬Lil J | Changeling Vtuber🔞",
+            "description": "Official NSFW account for @lil_j_8 Changeling Vtuber\nOnly for after hours  #lilJPEG\nhttps://t.co/SINiQvDC08",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1847464291718266880/Ti-6DLPH_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lil_j_sus",
+            "fetchedAt": "2026-11-09T23:28:35Z"
+        }
+    },
+    "fansly": {
+        "id": "585532743417344000",
+        "username": "lil_j_8",
+        "displayName": "Lil J",
+        "version": 6,
+        "followCount": 60,
+        "statusId": 1,
+        "accountMediaLikes": 62,
+        "postLikes": 41,
+        "about": "Hi hi! I’m Lil J but you can call me J! I’m here to read y’all smut!",
+        "location": "your mom",
+        "streaming": {
+            "accountId": "585532743417344000",
+            "channel": {
+                "id": "701644048938573825",
+                "accountId": "585532743417344000",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YhlgDbdIHTlm.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1728779337000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "701644048938573826",
+                    "historyId": null,
+                    "channelId": "701644048938573825",
+                    "accountId": "585532743417344000",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1728779337000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T23:28:42Z"
+    }
+}
