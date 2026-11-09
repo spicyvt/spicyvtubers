@@ -10701,10 +10701,11 @@
     "avatar": "avatarsx"
   },
   {
-    "slug": "momvt",
+    "slug": "mommyvt",
+    "slugold": "momvt",
     "fansly": "mommyvt",
-    "channel": "momvt",
-    "twitch": "momvt",
+    "channel": "Mommyvt",
+    "removed": ["twitch:momvt"],
     "xHandles": ["mommyvt_", "momvt_"],
     "avatar": "avatarsx"
   },
@@ -12620,6 +12621,103 @@
     "xHandles": ["erefaun"],
     "bskyHandle": ["erefaun", "erefaun.bsky.social"],
     "socials": "https://linktr.ee/erefaun",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "vancefeste",
+    "fansly": "vancefeste",
+    "channel": "VanceFeste",
+    "twitch": "vancefeste",
+    "xHandles": ["vancefeste"],
+    "socials": "https://vancefeste.carrd.co",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "hiyorisinn",
+    "patreon": "archdemonsasha",
+    "channel": "HiyorisInn",
+    "twitch": "hiyorisinn",
+    "youtube": "hiyorivt",
+    "xHandles": ["sashascastle"],
+    "socials": "https://sashascastle.com/",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "sayuri_vanta",
+    "fansly": "sayuri_vanta",
+    "channel": "Sayuri Vanta",
+    "twitch": "sayuri_vanta",
+    "xHandles": ["sayuri_vanta"],
+    "socials": "https://sayuri-vanta.info/",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "starrytoonballoon",
+    "fansly": "starrytoonballoon",
+    "rplay": "starrytoonballoon_vt",
+    "channel": "Starry Toon Balloon",
+    "twitch": "starrytoonballoon_vt",
+    "xHandles": ["starrytoontuber"],
+    "socials": "https://starrytoonballoon.carrd.co",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "kiyoko",
+    "fansly": "kiyokococo",
+    "patreon": "kiyokococo",
+    "channel": "Kiyoko",
+    "twitch": "kiyoko",
+    "youtube": "kiyokococo",
+    "xHandles": ["kiyoko_coco"],
+    "socials": "https://kiyokococo.carrd.co",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "xenaalexander",
+    "patreon": "messedupstories",
+    "channel": "XenaAlexander",
+    "twitch": "xenaalexander",
+    "youtube": "xenamessedup",
+    "xHandles": ["xenamessedup"],
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "carderishere",
+    "fansly": "carderishere",
+    "channel": "CarderIsHere",
+    "twitch": "carderishere",
+    "xHandles": ["carderishere"],
+    "socials": "https://carderishere.carrd.co",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "mukyavt",
+    "fansly": "mukyavt",
+    "patreon": "mukyavt",
+    "channel": "MukyaVT",
+    "twitch": "mukyavt",
+    "youtube": "mukyaasmr",
+    "xHandles": ["mukyavt"],
+    "socials": "https://mukya.carrd.co",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "hexlatex",
+    "fansly": "hexlatex",
+    "channel": "HexLatex",
+    "twitch": "hexlatex",
+    "youtube": "hexlatex",
+    "xHandles": ["hexlatex"],
+    "socials": "https://www.hexcorp.net/links",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "crimsoncleric",
+    "fansly": "crimsoncleric",
+    "channel": "CrimsonCleric",
+    "twitch": "crimsoncleric",
+    "xHandles": ["crimson_cleric"],
+    "socials": "https://crimson-cleric.carrd.co",
     "avatar": "avatarsx"
   },
   {

@@ -1,0 +1,97 @@
+{
+    "bio": "Hey, I’m Sayuri Vanta, a streamer from Night City. Feline augments, broken horn, glowing red eye – that’s me. I just play games, cause chaos, and vibe with chat. And no, the rumors aren’t true… probably. Believe what you like, choom; I’ll be here, live loud, a little glitched every time you tune in.",
+    "twitch": {
+        "id": "80629837",
+        "login": "sayuri_vanta",
+        "displayName": "Sayuri_Vanta",
+        "createdAt": "2015-01-23T14:11:20.263332Z",
+        "updatedAt": "2026-10-11T20:20:33.67294Z",
+        "description": "Hey, I’m Sayuri Vanta, a streamer from Night City. Feline augments, broken horn, glowing red eye – that’s me. I just play games, cause chaos, and vibe with chat. And no, the rumors aren’t true… probably. Believe what you like, choom; I’ll be here, live loud, a little glitched every time you tune in.",
+        "primaryColorHex": "B70018",
+        "followers": {
+            "totalCount": 639
+        },
+        "follows": {
+            "totalCount": 107
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-19T22:36:38.7092Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/355cde13-6dd7-470a-aad3-eae0de623946-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T15:46:18Z"
+    },
+    "twitter": {
+        "sayuri_vanta": {
+            "id": null,
+            "handle": "sayuri_vanta",
+            "displayName": "Sayuri Vanta | 🔞 | VTuber ♡",
+            "description": "Sayuri Vanta | 18+ Neko Succubus VTuber ♡ \n\nDMs and Collab open ^^\n\n | 🎨 #SayuriSketches | 🔞 #LewdSayuri | \n\nTwitch affiliate: https://t.co/jstKOjwT3Y",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1994833993783549952/yiU_QZZ8_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sayuri_vanta",
+            "fetchedAt": "2026-11-09T15:46:33Z"
+        }
+    },
+    "fansly": {
+        "id": "438038558519865344",
+        "username": "Sayuri_Vanta",
+        "displayName": "Sayuri Vanta",
+        "version": 7,
+        "followCount": 545,
+        "statusId": 1,
+        "accountMediaLikes": 462,
+        "postLikes": 287,
+        "about": "I'm Sayuri, a VTuber I use FBT and face tracking. ^^\n\nAll my links https://sayuri-vanta.info/\n\nCustome Price Liste:\n\n❤️ Dick / Pussy Rating - $5             (Text reply)\n🖤 Custom 5 Picture Set - $10        (Choose Pose)\n❤️ Custom Video - per Minute $5\n🖤 VR ERP Session - per Hour $25",
+        "location": "Under your Desk",
+        "streaming": {
+            "accountId": "438038558519865344",
+            "channel": {
+                "id": "769188071538171904",
+                "accountId": "438038558519865344",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vh5rk6TTEKZW.m3u8",
+                "chatRoomId": "769188102718631936",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1744883087000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "769188071538171905",
+                    "historyId": "878839674158735361",
+                    "channelId": "769188071538171904",
+                    "accountId": "438038558519865344",
+                    "title": "VRC After Dark | With DryschVR",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 3918,
+                    "createdAt": 1744883087000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1771032324000,
+                    "startedAt": 1771026066000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "878833159037263873",
+                                "streamId": "769188071538171905",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T15:46:39Z"
+    }
+}

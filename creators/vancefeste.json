@@ -1,0 +1,88 @@
+{
+    "bio": "Hey I'm Vance Feste, a Jester Vtuber and fool for your entertainment.",
+    "twitch": {
+        "id": "636773120",
+        "login": "vancefeste",
+        "displayName": "VanceFeste",
+        "createdAt": "2021-01-15T16:39:02.329419Z",
+        "updatedAt": "2026-10-03T01:33:23.175669Z",
+        "description": "Hey I'm Vance Feste, a Jester Vtuber and fool for your entertainment.",
+        "primaryColorHex": "740D0D",
+        "followers": {
+            "totalCount": 689
+        },
+        "follows": {
+            "totalCount": 328
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-03T06:16:26.961438Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13a0e966-aec5-4ca9-a2c3-fa96519d1301-profile_image-300x300.jpeg",
+        "fetchedAt": "2026-11-09T15:46:14Z"
+    },
+    "twitter": {
+        "vancefeste": {
+            "id": null,
+            "handle": "vancefeste",
+            "displayName": "Vance von Feste | Vtuber 🇨🇦",
+            "description": "Local Jester/Trickster, Fool for your entertainment L2D: @Laicynia Rig: @HikaruAtsushi pfp: @neriririe\nArt Tag: #VanceArt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1475560751674843138/yyYuIjzA_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/vancefeste",
+            "fetchedAt": "2026-11-09T15:46:30Z"
+        }
+    },
+    "fansly": {
+        "id": "354877117378338816",
+        "username": "vancefeste",
+        "displayName": "Vance",
+        "version": 13,
+        "followCount": 19,
+        "statusId": 1,
+        "accountMediaLikes": 7,
+        "postLikes": 10,
+        "about": "Jester/Trickster Vtuber\nRandom content for now. \nwww.twitch.tv/vancefeste",
+        "location": "",
+        "streaming": {
+            "accountId": "354877117378338816",
+            "channel": {
+                "id": "738631757523333122",
+                "accountId": "354877117378338816",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2A3vfsbvjYHA.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1737597894000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "738631757523333123",
+                    "historyId": null,
+                    "channelId": "738631757523333122",
+                    "accountId": "354877117378338816",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1737597894000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T15:46:39Z"
+    }
+}

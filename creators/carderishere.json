@@ -1,0 +1,105 @@
+{
+    "bio": "Just a they/any, LGBTQ, POC, ND Chaos Witch VTuber who wants to causes a bit of anarchy :3",
+    "twitch": {
+        "id": "580936424",
+        "login": "carderishere",
+        "displayName": "CarderIsHere",
+        "createdAt": "2020-09-09T09:10:08.981813Z",
+        "updatedAt": "2026-11-07T06:59:46.695025Z",
+        "description": "Just a they/any, LGBTQ, POC, ND Chaos Witch VTuber who wants to causes a bit of anarchy :3",
+        "primaryColorHex": "D4D4D4",
+        "followers": {
+            "totalCount": 723
+        },
+        "follows": {
+            "totalCount": 321
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-05T05:55:02.320241Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3fdeb89f-10e1-4569-b774-9c5c663a5070-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T15:54:59Z"
+    },
+    "twitter": {
+        "carderishere": {
+            "id": null,
+            "handle": "carderishere",
+            "displayName": "🔞 CarderIsHere🃏✨ | ☁️NOW ON BLUE☁️",
+            "description": "🖤They/Them | 23🤍 @twitch Affiliate | @youtube creator 🎨: #CARTder 🥵: #CarderIsSpicy ⚙️: @L0NQQ 🐸Powered by @drinkPOGGERS",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1968924135033290752/kCs6qQoR_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/carderishere",
+            "fetchedAt": "2026-11-09T15:55:07Z"
+        }
+    },
+    "fansly": {
+        "id": "573436748319698945",
+        "username": "CarderIsHere",
+        "displayName": null,
+        "version": 5,
+        "followCount": 302,
+        "statusId": 3,
+        "accountMediaLikes": 1061,
+        "postLikes": 1035,
+        "about": "Your local any/them-bo Chaos Witch who loves to be lewd!~🖤🤍\n💕18+ VTuber content, 2D AND 3D💕\n✨Posts 4 or more times weekly✨\n🎥Streams every Friday🎥\n\n✨Taken by Papi/ Hubby: https://fansly.com/Antpolar/\n✨ Free livestreams for followers (to be determined)!\n✨ Lewds, nudes and moaning audios\n✨ Pansexual 🌈\n✨ Switch-Verse\n✨ Kink-friendly (no age or race play)\n\nSpoil me: https://throne.com/carderishere | https://www.lovense.com/wish-list/zdol\n\nNOTE:  I won't respond to Parasocial/ ERP DMs\n⚠️My content is for my Fansly profile only. You may not reproduce, copy, or redistribute any of my content without my consent. I will take legal action against any who disregards this, plus it makes me sad :(⚠️",
+        "location": "Astral Realm",
+        "streaming": {
+            "accountId": "573436748319698945",
+            "channel": {
+                "id": "627136276197289984",
+                "accountId": "573436748319698945",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.b7EkWRLHaPNe.m3u8",
+                "chatRoomId": "627325777767051264",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1711015299000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "627136276197289985",
+                    "historyId": "894108157079478272",
+                    "channelId": "627136276197289984",
+                    "accountId": "573436748319698945",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 5155,
+                    "createdAt": 1711015300000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1774672313000,
+                    "startedAt": 1774666356000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "772022826986123264",
+                                "streamId": "627136276197289985",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "772022826986123265",
+                                "streamId": "627136276197289985",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":1000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T15:55:13Z"
+    }
+}

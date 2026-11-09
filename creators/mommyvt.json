@@ -1,0 +1,76 @@
+{
+    "twitter": {
+        "mommyvt_": {
+            "id": "2088432470223953920",
+            "handle": "mommyvt_",
+            "displayName": "MommyVT",
+            "description": "NSFW account for @/MomVT_\nart tag #OnlyMoms\n\nVenmo and business inquiries mommyvtofficial@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2088434684069842944/9EW8qCAw_400x400.jpg",
+            "followersCount": 1598,
+            "followingCount": 94,
+            "postsCount": 352,
+            "accountCreatedAt": "2026-08-15T01:08:51.000Z",
+            "profileUrl": "https://x.com/MommyVT_",
+            "fetchedAt": "2026-11-09T15:46:27Z"
+        },
+        "momvt_": {
+            "id": null,
+            "handle": "momvt_",
+            "displayName": "MomVT 🐻",
+            "description": "Anime mom in your area. I&#x27;m proud of you. https://t.co/S7heVaCidd fanart: #FridgeArt #MomsFridgeArt lewd: #OnlyMoms ;",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2020630307813384193/xgm19qKV_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/momvt_",
+            "fetchedAt": "2026-11-09T15:46:28Z"
+        }
+    },
+    "fansly": {
+        "id": "558386941045776384",
+        "username": "MommyVT",
+        "displayName": null,
+        "version": 3,
+        "followCount": 807,
+        "statusId": 1,
+        "accountMediaLikes": 207,
+        "postLikes": 623,
+        "about": "Your essential anime mommy\n\nNew here but open to ideas!\n\nWant to spoil me? https://throne.com/mommyvt\n\nWant to hang out during daylight hours? https://twitch.tv/momvt ",
+        "location": "",
+        "streaming": {
+            "accountId": "558386941045776384",
+            "channel": {
+                "id": "947020186802728960",
+                "accountId": "558386941045776384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.2MABgHmcLisO.m3u8",
+                "chatRoomId": "947020228427018240",
+                "status": 2,
+                "version": 16,
+                "createdAt": 1787281567000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "947020186802728961",
+                    "historyId": "974812852168695808",
+                    "channelId": "947020186802728960",
+                    "accountId": "558386941045776384",
+                    "title": "IRL ASS CAM! YOU CONTROL THE STREAM! !tipmenu",
+                    "status": 1,
+                    "viewerCount": 33,
+                    "version": 16,
+                    "createdAt": 1787281567000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793918603000,
+                    "startedAt": 1793907855000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T15:46:39Z"
+    }
+}

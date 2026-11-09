@@ -1,0 +1,100 @@
+{
+    "bio": "Streams Mon, Tues, Thurs, Fri at 2am CT! ⬡ The Face of Facelessness ⬡ Just your average drone-converting, latex-coated, virtual Hive Mxtress!",
+    "twitch": {
+        "id": "274805277",
+        "login": "hexlatex",
+        "displayName": "HexLatex",
+        "createdAt": "2018-11-13T21:30:54.859684Z",
+        "updatedAt": "2026-11-09T07:35:33.137609Z",
+        "description": "Streams Mon, Tues, Thurs, Fri at 2am CT! ⬡ The Face of Facelessness ⬡ Just your average drone-converting, latex-coated, virtual Hive Mxtress!",
+        "primaryColorHex": "FF66FF",
+        "followers": {
+            "totalCount": 8149
+        },
+        "follows": {
+            "totalCount": 89
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-09T08:55:33.129715Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb695c66-ed1e-4ef0-ad9e-9f9206f79351-profile_image-300x300.jpeg",
+        "fetchedAt": "2026-11-09T15:55:03Z"
+    },
+    "youtube": {
+        "id": "UCJsqDNWKn8hRJ7-gTL9OMmA",
+        "handle": "HexLatex",
+        "title": "Hex Latex",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCJsqDNWKn8hRJ7-gTL9OMmA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/FpTHW9hzQTKB_C1PKd6TS7uYWzlkUDwvLe4EImELm0D2MFhIOcFL20M6R_jlAplrcHJfHboC=h300",
+        "subscriberCountText": "1.4K subscribers",
+        "videoCountText": "2 videos",
+        "fetchedAt": "2026-11-09T15:55:04Z"
+    },
+    "twitter": {
+        "hexlatex": {
+            "id": null,
+            "handle": "hexlatex",
+            "displayName": "H Ξ X - HexCorp Dronification Hive Mxtress #0006",
+            "description": "１８＋⬡ They/Them ⬡ 32 ⬡ Latex eDrone VTuber ⬡ The Face of Facelessness ⬡ I&#x27;m now only active on the other site :: https://t.co/8XORal2w49",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1859712088685285376/tcRA1K4T_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/hexlatex",
+            "fetchedAt": "2026-11-09T15:55:10Z"
+        }
+    },
+    "fansly": {
+        "id": "285429664996929536",
+        "username": "hexlatex",
+        "displayName": "Hive Mxtress Hex",
+        "version": 4,
+        "followCount": 2898,
+        "statusId": 1,
+        "accountMediaLikes": 3572,
+        "postLikes": 3595,
+        "about": "Hey, cutie drones ♥\n\nWelcome to HexCorp. Subscribe here for everything I create, not just the previews I post to socials. For latex drone goodness. For every drone that drifts into its programming. Needing to be so encased.\n\nThe Good Drone ♥ role is just there if you'd like to support a little extra.",
+        "location": "",
+        "streaming": {
+            "accountId": "285429664996929536",
+            "channel": {
+                "id": "390321712673075200",
+                "accountId": "285429664996929536",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oKzVn5WW8IaJ.m3u8",
+                "chatRoomId": "439131362671206400",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1654554308000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "390321712673075201",
+                    "historyId": "439750085488685056",
+                    "channelId": "390321712673075200",
+                    "accountId": "285429664996929536",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 20,
+                    "createdAt": 1654554308000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1666341786000,
+                    "startedAt": 1666338950000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T15:55:13Z"
+    }
+}

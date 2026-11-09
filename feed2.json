@@ -1,13 +1,5 @@
 [                                                                   
   {
-    "slug": "vancefeste",
-    "fansly": "vancefeste",
-    "channel": "VanceFeste",
-    "twitch": "vancefeste",
-    "xHandles": ["vancefeste"],
-    "socials": "https://vancefeste.carrd.co"
-  },                                        
-  {
     "slug": "pizzapowers",
     "patreon": "",
     "channel": "PIZZAPOWERS",
@@ -414,50 +406,7 @@
     "channel": "InkyKitsune",
     "twitch": "inkykitsune",
     "xHandles": ["inkykitsune"]
-  },
-  {
-    "slug": "princexbun",
-    "fansly": "princexbun",
-    "channel": "PrincexBun",
-    "twitch": "princexbun",
-    "youtube": "princexbunny",
-    "xHandles": ["princexbunny", "princexbun_irl"],
-    "socials": "https://princexbun.carrd.co"
-  },
-  {
-    "slug": "kamaleyonvt",
-    "patreon": "kamaleyonvt",
-    "channel": "KamaLeyonVT",
-    "twitch": "kamaleyonvt",
-    "youtube": "kamaleyonenvtuber",
-    "bskyHandle": ["kamaleyonvt", "kamaleyonvt.bsky.social"],
-    "socials": "https://powera.pxf.io/LPz0xL"
-  },
-  {
-    "slug": "southheartviolence",
-    "fansly": "southheartviolence",
-    "channel": "SouthHeartViolence",
-    "twitch": "southheartviolence",
-    "xHandles": ["southvtuber"]
-  },
-  {
-    "slug": "mukyavt",
-    "patreon": "mukyavt",
-    "channel": "MukyaVT",
-    "twitch": "mukyavt",
-    "youtube": "mukyaasmr",
-    "xHandles": ["mukyavt"],
-    "socials": "https://mukya.carrd.co"
-  },
-  {
-    "slug": "hexlatex",
-    "fansly": "hexlatex",
-    "channel": "HexLatex",
-    "twitch": "hexlatex",
-    "youtube": "hexlatex",
-    "xHandles": ["hexlatex"],
-    "socials": "https://xantronix.social/@hexlatex"
-  },
+  },   
   {
     "slug": "hanamimomo",
     "patreon": "hanamimomo",
@@ -571,32 +520,7 @@
     "youtube": "pomtacular",
     "xHandles": ["pometacular"],
     "socials": "https://pomtacular.carrd.co"
-  },
-  {
-    "slug": "ttrumiie",
-    "fansly": "lewdmiie",
-    "patreon": "tigerdaze",
-    "channel": "ttrumiie",
-    "twitch": "ttrumiie",
-    "youtube": "ttrumiie",
-    "xHandles": ["tigerdaze_", "ttrumiie"],
-    "socials": "https://tigerdaze.carrd.co"
-  },
-  {
-    "slug": "estreexe",
-    "patreon": "",
-    "channel": "estreexe",
-    "twitch": "estreexe",
-    "bskyHandle": ["estreexe", "estreexe.bsky.social"]
-  },
-  {
-    "slug": "carderishere",
-    "fansly": "carderishere",
-    "channel": "CarderIsHere",
-    "twitch": "carderishere",
-    "xHandles": ["carderishere"],
-    "socials": "https://carderishere.carrd.co"
-  },
+  },  
   {
     "slug": "shxrkpup",
     "patreon": "shxrkpup",
@@ -1111,14 +1035,6 @@
     "socials": "https://nekofishy.carrd.co"
   },
   {
-    "slug": "crimsoncleric",
-    "fansly": "crimsoncleric",
-    "channel": "CrimsonCleric",
-    "twitch": "crimsoncleric",
-    "xHandles": ["crimson_cleric"],
-    "socials": "https://crimson-cleric.carrd.co"
-  },
-  {
     "slug": "thereddwren",
     "patreon": "corruptionofcasoliver",
     "channel": "TheReddWren",
@@ -1272,21 +1188,7 @@
     "twitch": "kurumiella",
     "xHandles": ["kurumiella"],
     "socials": "https://kurumiella.carrd.co"
-  },
-  {
-    "slug": "ghostlevpudding",
-    "patreon": "ghostieyanyan",
-    "channel": "ghostlevpudding",
-    "twitch": "ghostlevpudding",
-    "bskyHandle": ["ghostlevpudding", "ghostlevpudding.bsky.social"]
-  },
-  {
-    "slug": "ryothephoenix",
-    "patreon": "",
-    "channel": "RyoThePhoenix",
-    "twitch": "ryothephoenix",
-    "youtube": "ryothephoenix"
-  },
+  },  
   {
     "slug": "comengotavern",
     "patreon": "worldofvaenia",
@@ -1295,24 +1197,7 @@
     "youtube": "comegotavern8679",
     "xHandles": ["chibi_chaser", "dracoaleksander", "worldofvaenia"],
     "socials": "https://comengotavern.carrd.co"
-  },
-  {
-    "slug": "sunnygamervt",
-    "fansly": "sunnygamervt",
-    "channel": "SunnyGamerVT",
-    "twitch": "sunnygamervt",
-    "youtube": "sunnygamervt",
-    "xHandles": ["pika_girl4ever"],
-    "socials": "https://sunnyvt.carrd.co"
-  },
-  {
-    "slug": "hiyorisinn",
-    "patreon": "archdemonsasha",
-    "channel": "HiyorisInn",
-    "twitch": "hiyorisinn",
-    "youtube": "hiyorivt",
-    "xHandles": ["sashascastle"]
-  },
+  },  
   {
     "slug": "fexenlux",
     "patreon": "",
@@ -1321,22 +1206,7 @@
     "youtube": "foxiflyaudios",
     "bskyHandle": ["m0thwing", "m0thwing.bsky.social"],
     "socials": "https://mothwingart.carrd.co"
-  },
-  {
-    "slug": "theonlyskywoof",
-    "patreon": "theonlyskywoof",
-    "channel": "TheOnlySkyWoof",
-    "twitch": "theonlyskywoof",
-    "youtube": "theonlyskywoof",
-    "xHandles": ["wooferofthesky", "theonlyskywoof"]
-  },
-  {
-    "slug": "sayuri_vanta",
-    "fansly": "sayuri_vanta",
-    "channel": "Sayuri_Vanta",
-    "twitch": "sayuri_vanta",
-    "xHandles": ["sayuri_vanta"]
-  },
+  },  
   {
     "slug": "iahfy",
     "patreon": "",
@@ -2005,14 +1875,6 @@
     "xHandles": ["beanultimate"]
   },
   {
-    "slug": "starrytoonballoon_vt",
-    "fansly": "starrytoonballoon",
-    "channel": "starrytoonballoon_vt",
-    "twitch": "starrytoonballoon_vt",
-    "xHandles": ["starrytoontuber"],
-    "socials": "https://starrytoonballoon.carrd.co"
-  },
-  {
     "slug": "monochromejoker",
     "fansly": "r",
     "channel": "MonochromeJoker",
@@ -2405,17 +2267,7 @@
     "youtube": "sarafinavt",
     "xHandles": ["sarafinavt"],
     "socials": "https://sarafinavt.carrd.co"
-  },
-  {
-    "slug": "neosaki",
-    "fansly": "neosaki",
-    "patreon": "neosaki",
-    "channel": "NeoSaki",
-    "twitch": "neosakivt",
-    "youtube": "neosaki",
-    "xHandles": ["neosaki_"],
-    "socials": "https://neosaki.carrd.co"
-  },
+  },  
   {
     "slug": "crystaldragonvt",
     "patreon": "crystaldungeon",
@@ -2433,27 +2285,10 @@
     "xHandles": ["reyna_khaoz"]
   },
   {
-    "slug": "photon-opal",
-    "fansly": "photon_opal",
-    "channel": "Photon Opal",
-    "twitch": "photonopal",
-    "xHandles": ["photon_opal"],
-    "socials": "https://photonopal.carrd.co"
-  },
-  {
     "slug": "sickgothbabe",
     "patreon": "",
     "channel": "SickGothBabe",
     "twitch": "sickgothbabe"
-  },
-  {
-    "slug": "kiyoko",
-    "fansly": "kiyokococo",
-    "channel": "Kiyoko",
-    "twitch": "kiyoko",
-    "youtube": "kiyokococo",
-    "xHandles": ["kiyoko_coco"],
-    "socials": "https://kiyokococo.carrd.co"
   },
   {
     "slug": "squirdmimi",
@@ -2720,14 +2555,7 @@
     "twitch": "lurilumiri",
     "xHandles": ["lurioart", "silmeari", "naughtyfey"],
     "socials": "http://jumeyle.wixsite.com/commission"
-  },
-  {
-    "slug": "adeline_sakura",
-    "onlyfans": "only-fans.me",
-    "channel": "adeline_sakura",
-    "twitch": "adeline_sakura",
-    "xHandles": ["adeline_sakura", "noelinesakuravt"]
-  },
+  }, 
   {
     "slug": "mizune",
     "patreon": "",
@@ -2741,31 +2569,7 @@
     "channel": "AmefuRin",
     "twitch": "amefurin",
     "xHandles": ["amefurin_vt"]
-  },
-  {
-    "slug": "noir_fae",
-    "fansly": "noir_fae",
-    "channel": "Noir_fae",
-    "twitch": "noir_fae",
-    "xHandles": ["noir_faevt"],
-    "socials": "https://noirfae.carrd.co"
-  },
-  {
-    "slug": "xenaalexander",
-    "patreon": "",
-    "channel": "XenaAlexander",
-    "twitch": "xenaalexander",
-    "youtube": "xenamessedup",
-    "xHandles": ["xenamessedup"]
-  },
-  {
-    "slug": "dryus_abyssus",
-    "onlyfans": "dryus",
-    "channel": "Dryus_Abyssus",
-    "twitch": "dryus_abyssus",
-    "xHandles": ["dryusabyssus"],
-    "socials": "https://dryus.carrd.co"
-  },
+  },    
   {
     "slug": "kiku_dusk",
     "patreon": "duskdraws",
@@ -2914,53 +2718,7 @@
     "youtube": "rawrnovacaine",
     "xHandles": ["rawrnovacaine"],
     "socials": "https://rawrnovacaine.carrd.co"
-  },
-  {
-    "slug": "kitty-gemma-tiny-kittymoved-msraijugemma",
-    "fansly": "kittygemma",
-    "channel": "🐱Kitty Gemma & Tiny Kitty🐱*Moved @Msraijugemma*",
-    "twitch": "mskittygemma",
-    "xHandles": ["mskittygemma", "msraijugemma", "kittygemmansfw"],
-    "socials": "https://mskittygemma.carrd.co"
-  },
-  {
-    "slug": "goddess-soleana",
-    "fansly": "goddesssoleana",
-    "channel": "Goddess Soleana",
-    "xHandles": ["goddesssoleana"]
-  },
-  {
-    "slug": "ratti",
-    "fansly": "rattikinz",
-    "channel": "⛓️Ratti ⛓️ᓚᘏᗢ-…ᘛ⁐̤ᕐᐷ 🧀",
-    "twitch": "rattikinz",
-    "xHandles": ["rattikinzz"]
-  },
-  {
-    "slug": "sharkie",
-    "fansly": "sharkmommy",
-    "channel": "Sharkie 💙🦈",
-    "twitch": "sharkmommyvt",
-    "xHandles": ["sharkmamavt"]
-  },
-  {
-    "slug": "shelbyjaevr",
-    "fansly": "shelbyjae",
-    "channel": "shelbyjaevr",
-    "twitch": "shelbyjaevr"
-  },
-  {
-    "slug": "m1na_ai",
-    "fansly": "m1na",
-    "channel": "M1NA_AI",
-    "twitch": "m1na_ai"
-  },
-  {
-    "slug": "alicia_ara",
-    "fansly": "aliciaara",
-    "channel": "Alicia_ara",
-    "twitch": "alicia_ara"
-  },
+  },         
   {
     "slug": "crestedvixen",
     "fansly": "slavecrestedvixen",
@@ -2972,25 +2730,7 @@
     "fansly": "lowfatmilk_",
     "channel": "mooldymilk",
     "twitch": "mooldymilk"
-  },
-  {
-    "slug": "flexuh_",
-    "fansly": "flexuhvr",
-    "channel": "flexuh_",
-    "twitch": "flexuh_"
-  },
-  {
-    "slug": "chiwovr",
-    "fansly": "shirobae",
-    "channel": "ChiwoVR",
-    "twitch": "chiwovr"
-  },
-  {
-    "slug": "okaykuro",
-    "fansly": "ohnomiso",
-    "channel": "okaykuro",
-    "twitch": "okaykuro"
-  },
+  },     
   {
     "slug": "k_tyras",
     "fansly": "tyaftermidnight",

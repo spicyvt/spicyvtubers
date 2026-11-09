@@ -1,0 +1,110 @@
+{
+    "bio": "Hi, I am Ollie, aka starrytoonballoon_vt. I'm a Shapeshifter VTuber who wants to understand the world around me. I play various games, like ROBLOX, Trimps, WoW, Path of Exile, etc. throughout the week.",
+    "twitch": {
+        "id": "775629408",
+        "login": "starrytoonballoon_vt",
+        "displayName": "starrytoonballoon_vt",
+        "createdAt": "2022-02-25T03:55:30.641906Z",
+        "updatedAt": "2026-11-08T18:13:16.821612Z",
+        "description": "Hi, I am Ollie, aka starrytoonballoon_vt. I'm a Shapeshifter VTuber who wants to understand the world around me. I play various games, like ROBLOX, Trimps, WoW, Path of Exile, etc. throughout the week.",
+        "primaryColorHex": "AE1392",
+        "followers": {
+            "totalCount": 1205
+        },
+        "follows": {
+            "totalCount": 307
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-09T11:27:42.767564Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d2ffeba-d254-4cde-b474-ada5dffb162d-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T15:46:19Z"
+    },
+    "twitter": {
+        "starrytoontuber": {
+            "id": null,
+            "handle": "starrytoontuber",
+            "displayName": "🔞🏳️‍⚧️Starry Toon Balloon (VTuber)",
+            "description": "32, MTF/NB, chaos. No minors. I use the Gena Type 1, google please. My SFW alt is @StarryToonSFW .",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2091643728352120832/V8oBDnJn_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/starrytoontuber",
+            "fetchedAt": "2026-11-09T15:46:35Z"
+        }
+    },
+    "fansly": {
+        "id": "427228151794376704",
+        "username": "StarryToonBalloon",
+        "displayName": "StarryToonBalloon(VT",
+        "version": 6,
+        "followCount": 98,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 9,
+        "about": "Hey, I am using Fansly and I love being a total blimp. I might consider streaming here if I am gonna be super NSFW.",
+        "location": "",
+        "streaming": {
+            "accountId": "427228151794376704",
+            "channel": {
+                "id": "674880834091622400",
+                "accountId": "427228151794376704",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.uOfc6tTXerU0.m3u8",
+                "chatRoomId": "676211525786017792",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1722398489000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "674880834091622401",
+                    "historyId": null,
+                    "channelId": "674880834091622400",
+                    "accountId": "427228151794376704",
+                    "title": "First ever Fansly Stream!",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1722398490000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T15:46:39Z"
+    },
+    "rplay": {
+        "id": "671d219b033d356e6bb1a65d",
+        "channelIntro": "I'm a chaos being who can alter their body. Most of my info is in my Carrd.",
+        "creatorTags": [
+            "english",
+            "streamer",
+            "vtuber",
+            "for-men",
+            "adult",
+            "_671d219b033d356e6bb1a65d_",
+            "kyc"
+        ],
+        "nickname": "Starry Toon Balloon the VTuber",
+        "signupDate": "2024-10-26T17:06:35.000Z",
+        "verified": true,
+        "channelLanguage": "en",
+        "isLivestreamer": true,
+        "customUrl": "starrytoonballoon_vt",
+        "channelImage": "https://pb.rplay.live/pics/71b037cceb15101faf28265540113fd9",
+        "streamStartTime": null,
+        "fetchedAt": "2026-11-09T15:46:45Z"
+    }
+}
