@@ -1,0 +1,110 @@
+{
+    "bio": "I'm Eevi, your favourite mischievous Nogitsune vtuber who does chaotic variety streams with a main focus on anime and card games 🦊✨#ENVtuber #VTuber",
+    "twitch": {
+        "id": "129932905",
+        "login": "erefaun",
+        "displayName": "Erefaun",
+        "createdAt": "2016-07-19T03:23:25.312897Z",
+        "updatedAt": "2026-11-08T16:26:24.391846Z",
+        "description": "I'm Eevi, your favourite mischievous Nogitsune vtuber who does chaotic variety streams with a main focus on anime and card games 🦊✨#ENVtuber #VTuber",
+        "primaryColorHex": "FFB3CD",
+        "followers": {
+            "totalCount": 610
+        },
+        "follows": {
+            "totalCount": 228
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-04T02:12:15.771796Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3b89c10-e857-4352-9857-c4273c2cf881-profile_image-300x300.png",
+        "fetchedAt": "2026-11-09T14:24:02Z"
+    },
+    "twitter": {
+        "erefaun": {
+            "id": null,
+            "handle": "erefaun",
+            "displayName": "Eevi 🌸 VTuber 🦊",
+            "description": "Mischievous kitsune 🦊 🔞no minors!🔞 | #Vtuber | Variety Streamer | She/Her 🌸🏳️‍🌈 ママ/パパ: https://t.co/8r6DRmKBHr | business email: erefaun@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1495163912219676675/4Szwz1Ef_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/erefaun",
+            "fetchedAt": "2026-11-09T14:24:08Z"
+        }
+    },
+    "bluesky": {
+        "did": "did:plc:irvgipz4yx7nrpoek2ym6ypz",
+        "handle": "erefaun.bsky.social",
+        "displayName": "Eevi 🌸 VTuber 🦊",
+        "description": "Nogitsune Vtuber 🦊 🔞no minors!🔞 | #Vtuber | https://linktr.ee/erefaun | She/Her 🌸🏳️‍🌈 ママ/パパ: http://fiverr.com/noyart | business email: erefaun@gmail.com",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:irvgipz4yx7nrpoek2ym6ypz/bafkreiacv5oydad5tdgdkbvcf5mv3tua6ckrkpsomx64n6mptvlp7dood4",
+        "followersCount": 246,
+        "followingCount": 180,
+        "postsCount": 228,
+        "accountCreatedAt": "2023-12-04T11:29:07.332Z",
+        "profileUrl": "https://bsky.app/profile/erefaun.bsky.social",
+        "fetchedAt": "2026-11-09T14:24:09Z"
+    },
+    "fansly": {
+        "id": "791551562924171264",
+        "username": "erefaun",
+        "displayName": "Eevi 🌸🦊",
+        "version": 9,
+        "followCount": 116,
+        "statusId": 3,
+        "accountMediaLikes": 282,
+        "postLikes": 281,
+        "about": "Bratty Fox Girl Bottom 🦊🎀 For the onlyfauns 💕 Kink & lingerie make me happy. 🌸 \n\nhttps://linktr.ee/erefaun\n\nWant to spoil me?~\nhttps://throne.com/erefaun",
+        "location": "",
+        "streaming": {
+            "accountId": "791551562924171264",
+            "channel": {
+                "id": "877459111904559104",
+                "accountId": "791551562924171264",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.vcLZ7iMGDAvd.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1770696914000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "877459111904559105",
+                    "historyId": null,
+                    "channelId": "877459111904559104",
+                    "accountId": "791551562924171264",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1770696915000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "877459587660259328",
+                                "streamId": "877459111904559105",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"869734698107035648\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-09T14:24:11Z"
+    }
+}
