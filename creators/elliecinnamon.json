@@ -1,0 +1,88 @@
+{
+    "bio": "How did you find me? Why are you in my house? Oh, is that food? Okay, you can stay!!!",
+    "twitch": {
+        "id": "782784144",
+        "login": "elliecinnamon",
+        "displayName": "EllieCinnamon",
+        "createdAt": "2022-03-25T17:58:13.175483Z",
+        "updatedAt": "2026-08-20T21:05:31.561988Z",
+        "description": "How did you find me? Why are you in my house? Oh, is that food? Okay, you can stay!!!",
+        "primaryColorHex": "396D3D",
+        "followers": {
+            "totalCount": 149
+        },
+        "follows": {
+            "totalCount": 54
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-20T22:48:23.762324Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8300aa71-20c6-494d-9842-f7e1c18afde1-profile_image-300x300.png",
+        "fetchedAt": "2026-11-10T22:13:47Z"
+    },
+    "twitter": {
+        "elliecinnamonvr": {
+            "id": null,
+            "handle": "elliecinnamonvr",
+            "displayName": "☕🥞Ellie Cinnamon🥞☕",
+            "description": "- Just a slut on the internet looking for your attention \n- Will fall for anyone who makes me food. \n- MDNI !!!\n- Pronouns: He/They\n- Banner by @ArionSylven",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2064643485571911680/0AAAnl3S_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/EllieCinnamonVr",
+            "fetchedAt": "2026-11-10T22:13:49Z"
+        }
+    },
+    "fansly": {
+        "id": "382725040224870400",
+        "username": "EllieCinnamon",
+        "displayName": "☕🥞Ellie Cinnamon🥞☕",
+        "version": 12,
+        "followCount": 2298,
+        "statusId": 3,
+        "accountMediaLikes": 3434,
+        "postLikes": 2101,
+        "about": "The of a Horny Black Demi-Boy\nI live for your attention... so gimme all of it!",
+        "location": "Your dad's bed",
+        "streaming": {
+            "accountId": "382725040224870400",
+            "channel": {
+                "id": "628594658435407872",
+                "accountId": "382725040224870400",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.h6hd7Mxb4zsM.m3u8",
+                "chatRoomId": "628600216047595520",
+                "status": 2,
+                "version": 232,
+                "createdAt": 1711363005000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "628594658435407873",
+                    "historyId": "976025374473342977",
+                    "channelId": "628594658435407872",
+                    "accountId": "382725040224870400",
+                    "title": "Fantasy RP Stream | !Menu !Discord !Clip | ",
+                    "status": 1,
+                    "viewerCount": 16,
+                    "version": 7864,
+                    "createdAt": 1711363006000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794205376000,
+                    "startedAt": 1794196942000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-10T22:13:51Z"
+    }
+}
