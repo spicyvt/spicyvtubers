@@ -1,0 +1,88 @@
+{
+    "bio": "Hi, ich bin Mimi und verstreue Salz :D",
+    "twitch": {
+        "id": "66572857",
+        "login": "mimi",
+        "displayName": "Mimi",
+        "createdAt": "2014-07-17T19:40:39.573784Z",
+        "updatedAt": "2026-10-02T13:37:09.880017Z",
+        "description": "Hi, ich bin Mimi und verstreue Salz :D",
+        "primaryColorHex": "F488CE",
+        "followers": {
+            "totalCount": 10860
+        },
+        "follows": {
+            "totalCount": 334
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2024-04-14T11:07:58.506912Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b549e0e9-f9b2-42b0-8f04-c93fa8aa8b28-profile_image-300x300.png",
+        "fetchedAt": "2026-11-10T02:17:10Z"
+    },
+    "twitter": {
+        "pudgymimi": {
+            "id": null,
+            "handle": "pudgymimi",
+            "displayName": "Mimi 💀",
+            "description": "Dorky girl ( ᐛ )",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2119547243124633600/TpKoM5B7_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/PudgyMimi",
+            "fetchedAt": "2026-11-10T02:17:16Z"
+        }
+    },
+    "fansly": {
+        "id": "817340813334814720",
+        "username": "PudgyMimi",
+        "displayName": "Mimi",
+        "version": 6,
+        "followCount": 1956,
+        "statusId": 3,
+        "accountMediaLikes": 5992,
+        "postLikes": 5181,
+        "about": "Dorky girl who enjoys gooning ( ｡ •̀ ᴗ •́ ｡)\nIf you're into cute thicc latinas then you have come to the right place!\nI don't do ratings or customs!\nSpoil me! 💖 https://throne.com/pudgymimi\n\nAll content is under copyright. Enforced by bruqi.com.",
+        "location": "https://throne.com/pudgymimi",
+        "streaming": {
+            "accountId": "817340813334814720",
+            "channel": {
+                "id": "822688608535195648",
+                "accountId": "817340813334814720",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.J1k8dfs7naUX.m3u8",
+                "chatRoomId": "822747407950307329",
+                "status": 2,
+                "version": 57,
+                "createdAt": 1757638609000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "822688608535195649",
+                    "historyId": "960034550199635968",
+                    "channelId": "822688608535195648",
+                    "accountId": "817340813334814720",
+                    "title": "Horny pup~",
+                    "status": 1,
+                    "viewerCount": 58,
+                    "version": 76,
+                    "createdAt": 1757638609000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1790389121000,
+                    "startedAt": 1790384433000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-10T02:17:20Z"
+    }
+}

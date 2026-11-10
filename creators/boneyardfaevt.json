@@ -1,0 +1,110 @@
+{
+    "bio": "Succubus Hell-Hound Variety VTuber from Canada who’s bad at Video Games & Streams 💜 A mixture of ✨Chaos✨ & Cozy Vibes 💋 PCG Enabled 😈 Streams are 18+ Only 🔞 Attempting to build a safe-space for empowering other streamers! 🦴 PFP by Coconatt0 🖤",
+    "twitch": {
+        "id": "584227479",
+        "login": "boneyardfaevt",
+        "displayName": "BoneyardFaeVT",
+        "createdAt": "2020-09-17T18:27:36.790308Z",
+        "updatedAt": "2026-11-08T23:50:27.275409Z",
+        "description": "Succubus Hell-Hound Variety VTuber from Canada who’s bad at Video Games & Streams 💜 A mixture of ✨Chaos✨ & Cozy Vibes 💋 PCG Enabled 😈 Streams are 18+ Only 🔞 Attempting to build a safe-space for empowering other streamers! 🦴 PFP by Coconatt0 🖤 ",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 1318
+        },
+        "follows": {
+            "totalCount": 754
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-09T03:25:06.516983Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b404666-30b9-40a2-b20c-21f9c80d9a41-profile_image-300x300.png",
+        "fetchedAt": "2026-11-10T02:17:09Z"
+    },
+    "twitter": {
+        "boneyardfaevt": {
+            "id": null,
+            "handle": "boneyardfaevt",
+            "displayName": "fae 🍄 she/he/they 🥰 VCAN 🍃",
+            "description": "gremlin hell-pup from canada 🇨🇦 genderfluid 🏳️‍⚧️ big bro: @divineembersvt2 💜 model mama: @suiika___🎈 pfp by coconatt0 💋 banner by cuikko",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2023589432910376962/FfSfKHRs_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/boneyardfaevt",
+            "fetchedAt": "2026-11-10T02:17:13Z"
+        },
+        "brxisedpet": {
+            "id": null,
+            "handle": "brxisedpet",
+            "displayName": "Fae",
+            "description": "She/He/They ~ Genderfluid 💜 25 🥰 LewdTuber 👻 Taken 💜 Succubus @ SBC 💦 Gremlin Hell-Puppy from Canada 🇨🇦 All Content Made In CVR ✨ 18+ Only 🚫",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2057563083959123968/jFVrIKZN_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/brxisedpet",
+            "fetchedAt": "2026-11-10T02:17:15Z"
+        }
+    },
+    "fansly": {
+        "id": "286804028740870144",
+        "username": "bruisedpet",
+        "displayName": "Fae 🏳️‍🌈🏳️‍⚧️",
+        "version": 20,
+        "followCount": 1745,
+        "statusId": 3,
+        "accountMediaLikes": 798,
+        "postLikes": 758,
+        "about": "₍˄·͈༝·͈˄*₎◞ welcome to bone town ♡\n\n♡ virtual e-whore ༺ twenty five\n♡ demi & pan ༺ genderfluid (she/he/they)\n\n- solo content + vr nsfw \n- faceless model (no selfies) \n- plus sized, be kind <3 \n\npcvr + index\n﹋﹋﹋﹋﹋\n༺ 3.0 fbt | 2.0 base stations\n\n!! i don’t do meetups and i will not show my face, also please don’t ask abt irl info it makes me uncomfy !! \n\n\n﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋\n\n≺3 disclaimer: none of my content can be screenshot / recorded for personal use. ≺3",
+        "location": "",
+        "streaming": {
+            "accountId": "286804028740870144",
+            "channel": {
+                "id": "411101530679156736",
+                "accountId": "286804028740870144",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.i3MP3wky3NIZ.m3u8",
+                "chatRoomId": "411101594285780992",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1659508602000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "411101530679156737",
+                    "historyId": "538608109707341824",
+                    "channelId": "411101530679156736",
+                    "accountId": "286804028740870144",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 130,
+                    "createdAt": 1659508603000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1689914726000,
+                    "startedAt": 1689908540000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "521946014689538048",
+                                "streamId": "411101530679156737",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-10T02:17:20Z"
+    }
+}

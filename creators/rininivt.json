@@ -1,0 +1,95 @@
+{
+    "bio": "Seal VTuber who streams MTG, Art, and the occasional collab! Tues-Fri every week! Local girlfailure and TCG addict. Can be bribed with caffiene.",
+    "twitch": {
+        "id": "1306917988",
+        "login": "rininivt",
+        "displayName": "rininivt",
+        "createdAt": "2025-05-05T05:58:22.215162Z",
+        "updatedAt": "2026-11-10T00:08:41.374849Z",
+        "description": "Seal VTuber who streams MTG, Art, and the occasional collab! Tues-Fri every week! Local girlfailure and TCG addict. Can be bribed with caffiene. ",
+        "primaryColorHex": "C098FF",
+        "followers": {
+            "totalCount": 461
+        },
+        "follows": {
+            "totalCount": 148
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-10T00:12:10.125281Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/900fc788-03cf-484d-a8d0-a0d1522caa53-profile_image-300x300.png",
+        "fetchedAt": "2026-11-10T02:17:12Z"
+    },
+    "bluesky": {
+        "did": "did:plc:dlhpgsbgbs4elulhbfdf2bjn",
+        "handle": "phinnyvt.bsky.social",
+        "displayName": "PhinnyVT",
+        "description": "Streaming on Twitch T,Th at 7:30 PM CST and Sunday 4 PM CST! Art VTuber - Girlfailure and perpetual caffeind. 27 ~ 🍑💕☀️ https://dianthusdarling.carrd.co/",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dlhpgsbgbs4elulhbfdf2bjn/bafkreibx2tbquib423ap5bwo2b2itmo4erxe3rozd3jc3zyp4d5tkov5zu",
+        "followersCount": 28,
+        "followingCount": 48,
+        "postsCount": 75,
+        "accountCreatedAt": "2025-02-27T14:40:04.745Z",
+        "profileUrl": "https://bsky.app/profile/phinnyvt.bsky.social",
+        "fetchedAt": "2026-11-10T02:17:18Z"
+    },
+    "fansly": {
+        "id": "880433360764157953",
+        "username": "PhinnyVT",
+        "displayName": "PhinnyVT",
+        "version": 4,
+        "followCount": 39,
+        "statusId": 1,
+        "accountMediaLikes": 1,
+        "postLikes": 15,
+        "about": "lil seal freakazoid vtuber- needed the blue site for ASMR and NSFW activities~!",
+        "location": "",
+        "streaming": {
+            "accountId": "880433360764157953",
+            "channel": {
+                "id": "887320508167630848",
+                "accountId": "880433360764157953",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BsrXfDOwreTx.m3u8",
+                "chatRoomId": "887320617286647811",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1773048054000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "887320508167630849",
+                    "historyId": "904587941177733120",
+                    "channelId": "887320508167630848",
+                    "accountId": "880433360764157953",
+                    "title": "FIRST FANSLY STREAM TEST",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 6,
+                    "createdAt": 1773048055000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1777172781000,
+                    "startedAt": 1777164931000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "887320548336488450",
+                                "streamId": "887320508167630849",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-10T02:17:20Z"
+    }
+}
