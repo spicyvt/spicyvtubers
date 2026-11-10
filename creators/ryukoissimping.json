@@ -1,0 +1,114 @@
+{
+    "bio": "MEOW MEOW! I like to play video games, listen to music, and draw. I play a bunch of games :3 Find my other socials here ! ryukoissimping.carrd.co",
+    "twitch": {
+        "id": "50428889",
+        "login": "ryukoissimping",
+        "displayName": "RyukoIsSimping",
+        "createdAt": "2013-10-20T12:49:18.23991Z",
+        "updatedAt": "2026-10-26T20:38:19.392452Z",
+        "description": "MEOW MEOW! I like to play video games, listen to music, and draw. I play a bunch of games :3 Find my other socials here ! ryukoissimping.carrd.co",
+        "primaryColorHex": "F00000",
+        "followers": {
+            "totalCount": 416
+        },
+        "follows": {
+            "totalCount": 357
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-08T18:44:07.279634Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bb41dbc-d39e-447c-aa86-6c4fcd36db7b-profile_image-300x300.png",
+        "fetchedAt": "2026-11-10T00:58:56Z"
+    },
+    "twitter": {
+        "ryukoissimping": {
+            "id": null,
+            "handle": "ryukoissimping",
+            "displayName": "Ryuko",
+            "description": "Local Horror Goth Catboy :3 // Just a dude who likes wearing cute shit \nVR Cosplayer? Metallica#1 Sleep Token ❤️ \n🔞NO MINORS!!!🔞 // @JaebaeVR 💍❤️ (Open)",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1968193420872044544/d4kNePpr_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ryukoissimping",
+            "fetchedAt": "2026-11-10T00:58:58Z"
+        },
+        "ryisarting": {
+            "id": null,
+            "handle": "ryisarting",
+            "displayName": "Ryan",
+            "description": "Drawings, Blender Renders.\nhttps://t.co/u86PLNYda4 \nArtist // 3D Modeler",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1477810182457548803/7fjV1Mue_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/RyIsArting",
+            "fetchedAt": "2026-11-10T00:58:59Z"
+        },
+        "ryuiswol": {
+            "id": "1852636542",
+            "handle": "ryuiswol",
+            "displayName": "Ryuko",
+            "description": "18+ // Your local Horror TomBoyfu (Femboy / He/Him) / NO Minors \n\nWelcome To Horrorwood\n\nCrystal! Balmung Regular / Zalera Home\n\nhttps://ryukoissimping.carrd.co",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1754702927254499328/W_n4w-Vh_400x400.jpg",
+            "followersCount": 168,
+            "followingCount": 89,
+            "postsCount": 233,
+            "accountCreatedAt": "2013-09-10T22:40:51.000Z",
+            "profileUrl": "https://x.com/RyuIsWoL",
+            "fetchedAt": "2026-11-10T00:59:02Z"
+        }
+    },
+    "fansly": {
+        "id": "288259614170951680",
+        "username": "RyukoIsSimping",
+        "displayName": "RyukoIsSimping",
+        "version": 18,
+        "followCount": 3545,
+        "statusId": 1,
+        "accountMediaLikes": 5377,
+        "postLikes": 7384,
+        "about": "Your local Horror Femboy Cosplayer!\n\n5$ For everything :3 \n\nhttps://halloweencatboy.carrd.co <-- For all my links!",
+        "location": "Horrorwood",
+        "streaming": {
+            "accountId": "288259614170951680",
+            "channel": {
+                "id": "526248697420328960",
+                "accountId": "288259614170951680",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.7ghcmeLNXhbU.m3u8",
+                "chatRoomId": "526248757335961601",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1686961826000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "526248697420328961",
+                    "historyId": "952775700417372160",
+                    "channelId": "526248697420328960",
+                    "accountId": "288259614170951680",
+                    "title": "Making birthday render!!! :3 Toys off!",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 352,
+                    "createdAt": 1686961827000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1788657241000,
+                    "startedAt": 1788653788000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-10T00:59:03Z"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "bio": "lovesick menhera vtuber (18+)",
+    "twitch": {
+        "id": "742664061",
+        "login": "lockeloveland",
+        "displayName": "LockeLoveland",
+        "createdAt": "2021-11-12T21:40:26.366752Z",
+        "updatedAt": "2026-11-07T18:15:17.520881Z",
+        "description": "lovesick menhera vtuber (18+)",
+        "primaryColorHex": "5F4A65",
+        "followers": {
+            "totalCount": 452
+        },
+        "follows": {
+            "totalCount": 98
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-08T05:48:54.013636Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3eed687-7542-4a94-a3a2-07a27b205fb5-profile_image-300x300.png",
+        "fetchedAt": "2026-11-10T01:05:51Z"
+    },
+    "youtube": {
+        "id": "UCofiYkR5IQTVbOj-DkDMLmQ",
+        "handle": "LockeLoveland",
+        "title": "Locke",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCofiYkR5IQTVbOj-DkDMLmQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/NusMlqmyg0NWRtfkoUuBBRFGXcI40HFTGP7AQ2BF_x0e7I7AA7E-B2Y933tLH04hKXOVqKcIk-Y=h300",
+        "subscriberCountText": "2 subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-10T01:05:52Z"
+    },
+    "twitter": {
+        "lockeloveland": {
+            "id": null,
+            "handle": "lockeloveland",
+            "displayName": "Locke 🗝️🩹 Menhera VT",
+            "description": "🗝️🩹 Menhera Vtuber | 18+ ONLY | Horror Enjoyer, Yumejoshi, Your Fave Chubby Girl | 🎨 #artblocke 🔞 #lockesleeve | パパ: @suikaART_ | NSFW➝ @SleeplessInnVA",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2060879357028319232/wM61ZJbw_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lockeloveland",
+            "fetchedAt": "2026-11-10T01:05:56Z"
+        },
+        "sleeplessinnva": {
+            "id": null,
+            "handle": "sleeplessinnva",
+            "displayName": "Locke 🗝️🩹🔞 Menhera VT",
+            "description": "🗝️🩹 Lovesick Menhera Vtuber | 18+ ONLY | Horror Whore, Yumejoshi, Your Fave Chubby Girl | 🎨 #artblocke 🔞 #lockesleeve | パパ: @suikaART_ | SFW➝ @LockeLoveland",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2051502037247148032/_jIwj2yZ_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sleeplessinnva",
+            "fetchedAt": "2026-11-10T01:05:57Z"
+        }
+    },
+    "fansly": {
+        "id": "344495824425721856",
+        "username": "sleeplessinn",
+        "displayName": "Locke Loveland",
+        "version": 5,
+        "followCount": 729,
+        "statusId": 3,
+        "accountMediaLikes": 655,
+        "postLikes": 1009,
+        "about": "The chubby girl next door 🤗",
+        "location": "The Sleepless Inn",
+        "streaming": {
+            "accountId": "344495824425721856",
+            "channel": {
+                "id": "349496767567372288",
+                "accountId": "344495824425721856",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.F3486O4Ec6XX.m3u8",
+                "chatRoomId": "349497252626046976",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1644820882000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "349496767571566592",
+                    "historyId": "775916104022241280",
+                    "channelId": "349496767567372288",
+                    "accountId": "344495824425721856",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 5462,
+                    "createdAt": 1644820883000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1746499650000,
+                    "startedAt": 1746487175000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "667585265748946944",
+                                "streamId": "349496767571566592",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-10T01:05:59Z"
+    }
+}
