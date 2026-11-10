@@ -1,0 +1,97 @@
+{
+    "bio": "Waahiyaa! I'm a ragdoll catgirl vtuber with idol dreams and passion for games, Kurumi Ella! わあひや！くるみ エラ です! 日本語まだ勉強をします でもがんばります！よろしくね！Ja sama suomeksi :D",
+    "twitch": {
+        "id": "974344125",
+        "login": "kurumiella",
+        "displayName": "KurumiElla",
+        "createdAt": "2023-10-21T21:22:26.484068Z",
+        "updatedAt": "2026-11-07T18:42:04.584151Z",
+        "description": "Waahiyaa! I'm a ragdoll catgirl vtuber with idol dreams and passion for games, Kurumi Ella! わあひや！くるみ エラ です! 日本語まだ勉強をします でもがんばります！よろしくね！Ja sama suomeksi :D",
+        "primaryColorHex": "AC51B6",
+        "followers": {
+            "totalCount": 735
+        },
+        "follows": {
+            "totalCount": 160
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-07T22:43:03.332061Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0960c39-5d9c-4fcb-ac61-fb96c60ca37c-profile_image-300x300.png",
+        "fetchedAt": "2026-11-10T00:48:37Z"
+    },
+    "twitter": {
+        "kurumiella": {
+            "id": null,
+            "handle": "kurumiella",
+            "displayName": "Kurumi Ella ☂️🌰",
+            "description": "• Raspberry-peach ragdoll with idol dreams and love for video games • FinTuber • PFP @ahrwiblush • Header @ranse237",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1921311654190387200/ibHjwZ7p_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kurumiella",
+            "fetchedAt": "2026-11-10T00:48:43Z"
+        }
+    },
+    "fansly": {
+        "id": "870344951471284224",
+        "username": "kurumiella",
+        "displayName": "Ella ☁️",
+        "version": 4,
+        "followCount": 27,
+        "statusId": 3,
+        "accountMediaLikes": 44,
+        "postLikes": 59,
+        "about": "☁️ Lewd Gamer Cat Girl\n☁️ Love getting praised & spoiled! I'm a good girl right~?\n⋆｡ ✧°  ☁︎  ✧˖°. ‧₊˚✩.  ˚. ♡ ☁︎\n☁️ 2D Spicy & NSFW Art\n☁️ ASMR & IRL cuming soon~?\n\n✧ Stream Wishlist: https://www.lovense.com/wish-list/iu6m\n✧ All my links: https://kurumiella.carrd.co/\n\nAll content is under copyright.\nPfp @moon_chiiyaarts\nBanner @Dipperson",
+        "location": "Your Dreams ~",
+        "streaming": {
+            "accountId": "870344951471284224",
+            "channel": {
+                "id": "886004329637486594",
+                "accountId": "870344951471284224",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.MnYOo9KwQbFI.m3u8",
+                "chatRoomId": "942944321227747328",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1772734253000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "886004329637486595",
+                    "historyId": "943736810306031616",
+                    "channelId": "886004329637486594",
+                    "accountId": "870344951471284224",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 2,
+                    "createdAt": 1772734253000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786498762000,
+                    "startedAt": 1786498749000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "942944206060548096",
+                                "streamId": "886004329637486595",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-10T00:48:45Z"
+    }
+}
