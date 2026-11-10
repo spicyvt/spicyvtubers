@@ -1,0 +1,97 @@
+{
+    "bio": "Hi I'm Mrgoog! Your goofy demon, come in and join the Doll House! I am a long time DM with a homebrew world, an Author, professional Vtuber lore writer and VOA. I play tons of different games and love chatting with my viewers so so so so so much! Things can get sussy since that's just how I am.",
+    "twitch": {
+        "id": "438697525",
+        "login": "mrgoog",
+        "displayName": "MrGoog",
+        "createdAt": "2019-05-31T16:45:36.921172Z",
+        "updatedAt": "2026-10-31T16:37:42.226538Z",
+        "description": "Hi I'm Mrgoog! Your goofy demon, come in and join the Doll House! I am a long time DM with a homebrew world, an Author, professional Vtuber lore writer and VOA. I play tons of different games and love chatting with my viewers so so so so so much! Things can get sussy since that's just how I am.",
+        "primaryColorHex": "650000",
+        "followers": {
+            "totalCount": 1457
+        },
+        "follows": {
+            "totalCount": 734
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-31T21:32:24.892233Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5409a135-a354-49fc-b62b-8cfe2852b24a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-10T01:38:04Z"
+    },
+    "twitter": {
+        "mrgoogsva": {
+            "id": null,
+            "handle": "mrgoogsva",
+            "displayName": "MrGoog 🪆🪡",
+            "description": "Demon Otaku with a penchant for the sus. For Writing or VA work || mrgoogva@gmail.com\n❤️ =  💜\nPFP - @ficel_art\nBanner - @_cherrychihua_\nnsfw - @mrmoogah",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1665112987005333505/pqi_C5lk_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mrgoogsva",
+            "fetchedAt": "2026-11-10T01:38:09Z"
+        }
+    },
+    "fansly": {
+        "id": "450905962048397312",
+        "username": "Mrgoogs",
+        "displayName": "Mrgoog",
+        "version": 9,
+        "followCount": 1318,
+        "statusId": 1,
+        "accountMediaLikes": 943,
+        "postLikes": 1610,
+        "about": "Some call me the doll maker, others call me Daddy, but you can call me Goog ;)\nI love to bring pleasure to my friends and hope to bring you as much fun as you always bring me!\n\n-+- GIFTS! -+-\n💜 Buy outfits, toys, and gifts on Throne: https://throne.com/mrgoog\n\n\n-+- SOCIALS -+-\nhttps://mrgoogs.carrd.co/\n\nPosts RL nudes and lewds frequently, I do collab pornos with cute and sexy vtubers whenever possible! Show me your love and sub baby, you won't regret it.",
+        "location": "NYC",
+        "streaming": {
+            "accountId": "450905962048397312",
+            "channel": {
+                "id": "663846191548608512",
+                "accountId": "450905962048397312",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.xI1FKzlVW3Oc.m3u8",
+                "chatRoomId": "663850057174360064",
+                "status": 2,
+                "version": 36,
+                "createdAt": 1719767625000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "663846191548608513",
+                    "historyId": "970536917504372736",
+                    "channelId": "663846191548608512",
+                    "accountId": "450905962048397312",
+                    "title": "I need you so bad",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 9633,
+                    "createdAt": 1719767626000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792898848000,
+                    "startedAt": 1792888392000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "663846339729170434",
+                                "streamId": "663846191548608513",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-10T01:38:14Z"
+    }
+}

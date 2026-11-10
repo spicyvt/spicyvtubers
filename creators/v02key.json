@@ -1,0 +1,122 @@
+{
+    "bio": "2ND CIRCLE FOX & TERRORSHOCK MAGNET /ᐠ -ᆺ-マ ✒️💜",
+    "twitch": {
+        "id": "142739836",
+        "login": "v02key",
+        "displayName": "V02KEY",
+        "createdAt": "2016-12-24T11:07:09.168655Z",
+        "updatedAt": "2026-10-31T02:15:10.988877Z",
+        "description": "2ND CIRCLE FOX & TERRORSHOCK MAGNET /ᐠ -ᆺ-マ ✒️💜 ",
+        "primaryColorHex": "F200FF",
+        "followers": {
+            "totalCount": 161
+        },
+        "follows": {
+            "totalCount": 64
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-31T03:42:04.766257Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4ff3593-434f-48b6-b651-9d8914b73863-profile_image-300x300.png",
+        "fetchedAt": "2026-11-10T01:38:06Z"
+    },
+    "youtube": {
+        "id": "UCRW3FKM1N8XKb0vCyZ2cf8A",
+        "handle": "V02KEY",
+        "title": "VAIKE",
+        "description": "2ND CIRCLE FOX & WASHED IDENTITY V VET /ᐠ -ᆺ-マ 🖋️💜 Vtuber [EN] / 6PM EST / 18+",
+        "channelUrl": "https://www.youtube.com/channel/UCRW3FKM1N8XKb0vCyZ2cf8A",
+        "keywords": "cosplay gaming",
+        "profileImageUrl": "https://yt3.googleusercontent.com/WdXB_etIqhssm7-LTVxM-5qAFsw3wp1xhLPN0HLnbX9FegFtKwvbLAhZuMxKVYblchAaunX2=h300",
+        "subscriberCountText": "93 subscribers",
+        "videoCountText": "74 videos",
+        "fetchedAt": "2026-11-10T01:38:07Z"
+    },
+    "twitter": {
+        "v02key": {
+            "id": null,
+            "handle": "v02key",
+            "displayName": "VAIKE /ᐠ -ᆺ-マ",
+            "description": "2ᴺᴰ CIRCLE FOX &amp; TERRORSHOCK MAGNET | Twitch Affiliate | #VKYart「 🖋️💜 」ママ: @hannechie67 | パパ: @ShianNida | https://t.co/UyHusBL4cV",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2110295504458301440/RM-QNGum_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/v02key",
+            "fetchedAt": "2026-11-10T01:38:11Z"
+        },
+        "vaibite": {
+            "id": null,
+            "handle": "vaibite",
+            "displayName": "/ᐠ -ᆺ-マ",
+            "description": "Fox-like lewdtuber 🐾💜 | @V02KEY after dark | 18+ ONLY 「 https://t.co/7Ijy6prlhC 」",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2109723410376818688/uOExIocn_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/vaibite",
+            "fetchedAt": "2026-11-10T01:38:12Z"
+        }
+    },
+    "fansly": {
+        "id": "288841691786391552",
+        "username": "V02KEY",
+        "displayName": "VAIKE /ᐠ-ᆺ-マ",
+        "version": 41,
+        "followCount": 363,
+        "statusId": 1,
+        "accountMediaLikes": 285,
+        "postLikes": 284,
+        "about": "/ᐠ -ᆺ-マ VTUBER, FEMBOY, SWITCH. 🐾💜 「 throne.com/V02KEY 」# KINK FRIENDLY SPACE\n\n──────\n▶︎ Streams every (soon!) @ 10PM EST\n▶︎ Follow for lewd IRL media, streams, dms, & art/audio\n──────",
+        "location": "V02KEY.carrd.co",
+        "streaming": {
+            "accountId": "288841691786391552",
+            "channel": {
+                "id": "587896726149406720",
+                "accountId": "288841691786391552",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.H77sD9iUGlWa.m3u8",
+                "chatRoomId": "587897330158546945",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1701659862000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "587896726149406721",
+                    "historyId": null,
+                    "channelId": "587896726149406720",
+                    "accountId": "288841691786391552",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1701659862000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "914758396131954688",
+                                "streamId": "587896726149406721",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-10T01:38:14Z"
+    }
+}
