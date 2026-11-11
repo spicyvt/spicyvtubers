@@ -1,0 +1,101 @@
+{
+    "bio": "Hey! I'm Valtrya the Brimstone Angel! I'm an Angelic Hellknight (also sometimes a puppy)! I'm getting back into streams recently so they may be a bit sporadic as I figure out exactly what I want to do regularly! I hope you come by regularly cause I always love getting to know new people ❤️",
+    "twitch": {
+        "id": "173068277",
+        "login": "brimstoneangel",
+        "displayName": "BrimstoneAngel",
+        "createdAt": "2017-09-05T23:35:22.685897Z",
+        "updatedAt": "2026-07-20T17:06:40.774512Z",
+        "description": "Hey! I'm Valtrya the Brimstone Angel! I'm an Angelic Hellknight (also sometimes a puppy)! I'm getting back into streams recently so they may be a bit sporadic as I figure out exactly what I want to do regularly! I hope you come by regularly cause I always love getting to know new people ❤️",
+        "primaryColorHex": "A10202",
+        "followers": {
+            "totalCount": 6116
+        },
+        "follows": {
+            "totalCount": 418
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-20T21:03:57.893134Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c66ff1-ba96-4f14-97d7-86dbc65986b4-profile_image-300x300.png",
+        "fetchedAt": "2026-11-11T21:44:51Z"
+    },
+    "twitter": {
+        "valtrya1": {
+            "id": null,
+            "handle": "valtrya1",
+            "displayName": "Valtrya 🗡️🔥",
+            "description": "Angelic Hell Knight | Stinky Dog | 🔞 | She/Her | Polyamorous LGBTQ+ | art tag: #valtryart | banner: Kainow ママ: @da3iann パパ: @KH_626 | NFSW: @ValtryaIRL",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1867664494912319491/Yfpg1Gj2_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Valtrya1",
+            "fetchedAt": "2026-11-11T21:44:54Z"
+        },
+        "valtryairl": {
+            "id": null,
+            "handle": "valtryairl",
+            "displayName": "FallenValtrya",
+            "description": "IRL NSFW Account for @valtrya1 | lewd cosplayer/irl content | she/her | still trying to figure this all out 🤔\n\nFANSLY: https://t.co/ksHh8h0V0c",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1587871429256974338/dsDKG35U_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ValtryaIRL",
+            "fetchedAt": "2026-11-11T21:44:56Z"
+        }
+    },
+    "fansly": {
+        "id": "301241165619929088",
+        "username": "Valtrya",
+        "displayName": null,
+        "version": 5,
+        "followCount": 465,
+        "statusId": 1,
+        "accountMediaLikes": 150,
+        "postLikes": 108,
+        "about": "Hey, I’m Valtrya. I’m normally a Vtuber who does ASMR on twitch, but welcome to my Fansly! I'm really excited to get naked for you all 😘\n\nI'm still really new to Fansly, but I hope to expand my content as I get more comfortable here. Eventually I want to do NSFW IRL streams, make porn with my bf, get a nude Vtuber model for those that prefer 2D, etc.\n\nRewards Breakdown:\n❤️ Following - Softcore Pictures (lingerie, swimsuits, cosplays)\n❤️ First Tier - IRL Nudes \n❤️ Second Tier - Short Videos (stripping, teasing, playing w/ myself)\n\nI promise to expand rewards as we go 🥺\n\nIf you feel like buying me a gift you can do so here:\nhttps://throne.me/valtrya ",
+        "location": "",
+        "streaming": {
+            "accountId": "301241165619929088",
+            "channel": {
+                "id": "530371420379684864",
+                "accountId": "301241165619929088",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ZtwQEhV766XG.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1687944760000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "530371420379684865",
+                    "historyId": null,
+                    "channelId": "530371420379684864",
+                    "accountId": "301241165619929088",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1687944760000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-11T21:44:57Z"
+    }
+}

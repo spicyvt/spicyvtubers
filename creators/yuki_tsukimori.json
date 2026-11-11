@@ -1,0 +1,109 @@
+{
+    "bio": "Hewoo there! My name is Yuki Tsukimori the Snow Leopard Baker! I'm in charge of the Snow Bakery! I'm a comfy chaotic variety streamer! I like to play Metroidvanias, RPG's, and JRPG's. For hand cam streams I'm usually working on plastic models! Thanks for stopping by!",
+    "twitch": {
+        "id": "103877092",
+        "login": "yuki_tsukimori",
+        "displayName": "Yuki_Tsukimori",
+        "createdAt": "2015-10-07T17:53:07.025003Z",
+        "updatedAt": "2026-11-11T10:21:12.43316Z",
+        "description": "Hewoo there! My name is Yuki Tsukimori the Snow Leopard Baker! I'm in charge of the Snow Bakery! I'm a comfy chaotic variety streamer! I like to play Metroidvanias, RPG's, and JRPG's. For hand cam streams I'm usually working on plastic models! Thanks for stopping by!",
+        "primaryColorHex": "5500D4",
+        "followers": {
+            "totalCount": 1992
+        },
+        "follows": {
+            "totalCount": 686
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-09T12:37:16.313075Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a468ec98-bfd3-4a40-b53a-fb95b029013f-profile_image-300x300.png",
+        "fetchedAt": "2026-11-11T21:39:09Z"
+    },
+    "youtube": {
+        "id": "UCiOx4vul7yP0PreWWhIMleQ",
+        "handle": "yukitsukimori",
+        "title": "Yuki Tsukimori",
+        "description": "Hewooo! I'm Yuki Tsukimori! The snow leopard baker at the not so famous Snow Bakery! I'm a variety streamer who enjoys mostly gaming! I hope you all will come to love the snow bakery! ;3",
+        "channelUrl": "https://www.youtube.com/channel/UCiOx4vul7yP0PreWWhIMleQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/QsjlzJhC4oMGG1Hp3xjmNGRyvUTL-oYYoj1rpKemktZlIG5JoaDyPlNZRHHMzoSQY-l2_VBxZw=h300",
+        "subscriberCountText": "158 subscribers",
+        "videoCountText": "245 videos",
+        "fetchedAt": "2026-11-11T21:39:11Z"
+    },
+    "twitter": {
+        "yuki_tsukimori_": {
+            "id": null,
+            "handle": "yuki_tsukimori_",
+            "displayName": "Yuki Tsukimori ❄️🥖 | UndeRealmVTG",
+            "description": "18+ EN Vtuber| Snow Leopard Baker| @UndeRealmVTG Gen 2|  \n❄️🥖#YukiTsukimori 🎨 #bweadart 🔞 #lewdloaf \nBusiness E-mail: yuki_tsukimori@underalm.co.uk",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2030799859692032000/AtqpWZpA_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/yuki_tsukimori_",
+            "fetchedAt": "2026-11-11T21:39:20Z"
+        }
+    },
+    "fansly": {
+        "id": "475960615735664640",
+        "username": "Yuki_Tsukimori",
+        "displayName": "Yuki_Tsukimori",
+        "version": 4,
+        "followCount": 61,
+        "statusId": 1,
+        "accountMediaLikes": 0,
+        "postLikes": 15,
+        "about": "Hewoo! My name is Yuki Tsukimori! I'm a baker! I like bread and being bred ;3 If you catch my meaning :3\n\nPFP: Drawn by LassietheLost",
+        "location": "The Cream Bakery",
+        "streaming": {
+            "accountId": "475960615735664640",
+            "channel": {
+                "id": "691249178717724672",
+                "accountId": "475960615735664640",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.rfFz3OpFKK2A.m3u8",
+                "chatRoomId": "691249237576392704",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1726301007000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "691249178717724673",
+                    "historyId": "711209778625388544",
+                    "channelId": "691249178717724672",
+                    "accountId": "475960615735664640",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 1818,
+                    "createdAt": 1726301007000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1731068331000,
+                    "startedAt": 1731059984000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "691249318107029504",
+                                "streamId": "691249178717724673",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-11T21:39:23Z"
+    }
+}
