@@ -1,0 +1,88 @@
+{
+    "bio": "Hello! I'm your local Rat Lord! Who also happens to be a cat, don't worry about it.  Welcome to Rat Central Station, where we serve confusion and chaos on a chromatic metal platter. Contact for Business Inquiries: KamaticKitteh@gmail.com",
+    "twitch": {
+        "id": "191352732",
+        "login": "kamatickitteh",
+        "displayName": "KamaticKitteh",
+        "createdAt": "2018-01-18T00:36:56.358488Z",
+        "updatedAt": "2026-11-10T02:06:53.849896Z",
+        "description": "Hello! I'm your local Rat Lord! Who also happens to be a cat, don't worry about it.  Welcome to Rat Central Station, where we serve confusion and chaos on a chromatic metal platter. Contact for Business Inquiries: KamaticKitteh@gmail.com",
+        "primaryColorHex": "530706",
+        "followers": {
+            "totalCount": 170
+        },
+        "follows": {
+            "totalCount": 290
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-30T00:56:50.584675Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5bb588f-26d2-438d-9df6-96cb777e9958-profile_image-300x300.png",
+        "fetchedAt": "2026-11-11T15:30:09Z"
+    },
+    "twitter": {
+        "kamatickitteh": {
+            "id": null,
+            "handle": "kamatickitteh",
+            "displayName": "KamaticKitteh",
+            "description": "18+ Only! MDNI. Hello I&#x27;m a small time streamer with DID! More info in expanded Bio. Feel free to reach out for business inquires at KamaticKitteh@Gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1934010795668496384/B5m38JDW_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/KamaticKitteh",
+            "fetchedAt": "2026-11-11T15:30:12Z"
+        }
+    },
+    "fansly": {
+        "id": "732166716448059392",
+        "username": "KamaticKitteh",
+        "displayName": "KamaticKitteh",
+        "version": 10,
+        "followCount": 139,
+        "statusId": 1,
+        "accountMediaLikes": 191,
+        "postLikes": 111,
+        "about": "Genderfluid AMAB forest creature thing. Pronouns are per-diem, so please ask!\nI made a poor decision so now I'm here doing VRC lewds! I have DID so be aware I fluctuate.\n\nKitteh - Sub\nEllipsis - Sub-lean Switch\nKama - Dom\n\nModels are as follows:\n\nMisaki - Booth\nManticore - SaintOfSerpents\nYuzuki - Heartmarksman\nSugar - Heartmarksman\nGwen - Ashesattic\nDrone - Hidracorp - Bigpurplepuppy\nEvrine - Asphyxiya",
+        "location": "",
+        "streaming": {
+            "accountId": "732166716448059392",
+            "channel": {
+                "id": "940436141121761280",
+                "accountId": "732166716448059392",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.isKePxqRuj52.m3u8",
+                "chatRoomId": "940446792309305346",
+                "status": 2,
+                "version": 26,
+                "createdAt": 1785711808000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "940436141121761281",
+                    "historyId": "972020355151446018",
+                    "channelId": "940436141121761280",
+                    "accountId": "732166716448059392",
+                    "title": "Following The Head Maids Orders! | Toy Control! | With @PillowPeep",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 54,
+                    "createdAt": 1785711808000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793242680000,
+                    "startedAt": 1793242071000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-11T15:30:13Z"
+    }
+}

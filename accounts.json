@@ -12036,14 +12036,12 @@
     "avatar": "avatarsb"
   },
   {
-    "slug": "abitofjoy",
+    "slug": "joyaftermidnight",
+    "slugold": "abitofjoy",
     "fansly": "joyaftermidnight",
-    "channel": "ABitOfJoy",
-    "twitch": "abitofjoy",
-    "youtube": "abitofjoyy",
-    "xHandles": ["abitofjoyvt", "joyaftermdnght"],
-    "bskyHandle": ["abitofjoy", "abitofjoy.bsky.social"],
-    "socials": "https://abitofjoy.carrd.co",
+    "channel": "Joy",
+    "removed": ["twitch:abitofjoy", "youtube:abitofjoyy", "x:abitofjoyvt", "socials:https://abitofjoy.carrd.co"],
+    "xHandles": ["joyaftermdnght"],
     "avatar": "avatarsx"
   },
   {
@@ -12985,12 +12983,12 @@
     "avatar": "avatarsx"
   },
   {
-    "slug": "",
-    "fansly": "",
-    "channel": "",
-    "twitch": "",
-    "xHandles": ["", ""],
-    "socials": ""
+    "slug": "kamatickitteh",
+    "fansly": "kamatickitteh",
+    "channel": "KamaticKitteh",
+    "twitch": "kamatickitteh",
+    "xHandles": ["kamatickitteh"],
+    "avatar": "avatarsx"
   },
   {
     "slug": "",
