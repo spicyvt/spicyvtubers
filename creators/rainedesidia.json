@@ -1,0 +1,110 @@
+{
+    "bio": "Hi! I'm Raine Desidia, a friendly Half-Elf Sorcerer who owns a tavern! I try to stream (emphasis on try) variety content  whatever I can, whenever I can! If you like it here, join our Discord or just lurk; I don't mind! I get a bit wild tho, so this stream is only for mature audiences!",
+    "twitch": {
+        "id": "170751507",
+        "login": "rainedesidia",
+        "displayName": "RaineDesidia",
+        "createdAt": "2017-08-20T21:58:19.512388Z",
+        "updatedAt": "2026-11-11T19:12:44.732388Z",
+        "description": "Hi! I'm Raine Desidia, a friendly Half-Elf Sorcerer who owns a tavern! I try to stream (emphasis on try) variety content  whatever I can, whenever I can! If you like it here, join our Discord or just lurk; I don't mind! I get a bit wild tho, so this stream is only for mature audiences!",
+        "primaryColorHex": "56C168",
+        "followers": {
+            "totalCount": 271
+        },
+        "follows": {
+            "totalCount": 455
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-11T23:52:15.605213Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/34d8bd92-8953-4f39-8c15-a36ea5699eea-profile_image-300x300.png",
+        "fetchedAt": "2026-11-12T01:46:35Z"
+    },
+    "twitter": {
+        "rainedesidia": {
+            "id": null,
+            "handle": "rainedesidia",
+            "displayName": "🌧 Raine Desidia 🏳️‍⚧️ Half-Elf Vtuber 🌧",
+            "description": "🏳️‍⚧️ She/Her \n🎲 Big TTRPG fan\n🎨 #DesidiaArt \n🔞 #DrippingDesidia  \n🥤Get 15% Waifu Wares with code RAINDROP",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2119268931307216896/ninz-_Jr_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/rainedesidia",
+            "fetchedAt": "2026-11-12T01:46:54Z"
+        },
+        "raindesidiansfw": {
+            "id": null,
+            "handle": "raindesidiansfw",
+            "displayName": "🔞 Raine Desidia NSFW 🔞",
+            "description": "🔞 = MINORS DNI | NSFW Account of @RaineDesidia | She/Her | A Wholesome but also kinda Lewd Gurl. Also depressed. | NSFW: #DrippingDesidia | SFW | @RaineDesidia",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1962571640031600640/BX9IEGZT_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/raindesidiansfw",
+            "fetchedAt": "2026-11-12T01:46:56Z"
+        }
+    },
+    "fansly": {
+        "id": "594925729183965184",
+        "username": "RaineDesidia",
+        "displayName": "Raine Desidia",
+        "version": 5,
+        "followCount": 41,
+        "statusId": 3,
+        "accountMediaLikes": 17,
+        "postLikes": 47,
+        "about": "🌧️Cozy Half-Elf just here to chill\n\n⏱️Response times will be a bit slow, life is busy at the moment T^T\n\n⬇️ Links Below! As well as additional info!\n\n...\n...\n\nRaindrop - This gets you access to uncensored photos!\n\nRainesipper - Gets you access to the rewards of Raindrop, as well as uncensored videos and priority with DMs (keep in mind, my responses are a bit irregular atm)\n\nModel by: https://x.com/YueLing60899724 \n\nhttps://rainedesidia.carrd.co",
+        "location": "In a Cozy Tavern :D",
+        "streaming": {
+            "accountId": "594925729183965184",
+            "channel": {
+                "id": "896892418870235136",
+                "accountId": "594925729183965184",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.R18DbUpEr28v.m3u8",
+                "chatRoomId": "896904012270432256",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1775330176000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "896892418870235137",
+                    "historyId": "965013046114152448",
+                    "channelId": "896892418870235136",
+                    "accountId": "594925729183965184",
+                    "title": "test stream to test bandwith",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 16,
+                    "createdAt": 1775330176000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1791571985000,
+                    "startedAt": 1791571399000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "896892945918091264",
+                                "streamId": "896892418870235137",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-12T01:47:13Z"
+    }
+}

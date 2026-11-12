@@ -1,0 +1,97 @@
+{
+    "bio": "Kitty is a silly, wiggly, little nekomimi who plays a bunch of gachas, jrpgs, visual novels and other shenanigans ~",
+    "twitch": {
+        "id": "78606566",
+        "login": "kittykathee",
+        "displayName": "KittyKathee",
+        "createdAt": "2015-01-01T22:42:40.808343Z",
+        "updatedAt": "2026-11-11T12:51:37.43727Z",
+        "description": "Kitty is a silly, wiggly, little nekomimi who plays a bunch of gachas, jrpgs, visual novels and other shenanigans ~",
+        "primaryColorHex": "F988D0",
+        "followers": {
+            "totalCount": 20162
+        },
+        "follows": {
+            "totalCount": 229
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-11T18:49:32.517509Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0007807-4594-47cc-b265-ee99dfecccce-profile_image-300x300.png",
+        "fetchedAt": "2026-11-12T01:46:23Z"
+    },
+    "twitter": {
+        "kittykathee": {
+            "id": null,
+            "handle": "kittykathee",
+            "displayName": "Kitty 🤍 Gacha Addiction Arc 🤍 🔞 🏳️‍🌈",
+            "description": "Nekomimi #Vtuber🍒 | Twitch Partner @ https://t.co/D8ffJbhojp",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1757174224035172352/ec4bpKGk_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/kittykathee",
+            "fetchedAt": "2026-11-12T01:46:43Z"
+        }
+    },
+    "fansly": {
+        "id": "455870943793782784",
+        "username": "KittyKathee",
+        "displayName": "Kitty",
+        "version": 7,
+        "followCount": 478,
+        "statusId": 1,
+        "accountMediaLikes": 26,
+        "postLikes": 115,
+        "about": "Hiyaaaa, it's your favourite Nekomimi, here to have a lovely time with you ♥",
+        "location": "",
+        "streaming": {
+            "accountId": "455870943793782784",
+            "channel": {
+                "id": "456717228528640000",
+                "accountId": "455870943793782784",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.EWW6un12C1JD.m3u8",
+                "chatRoomId": "456718020786528257",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1670384232000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "456717228528640001",
+                    "historyId": "613863037366972416",
+                    "channelId": "456717228528640000",
+                    "accountId": "455870943793782784",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 11,
+                    "version": 5286,
+                    "createdAt": 1670384233000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1707862723000,
+                    "startedAt": 1707850713000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "462536046337335296",
+                                "streamId": "456717228528640001",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-12T01:47:13Z"
+    }
+}

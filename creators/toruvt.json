@@ -1,0 +1,60 @@
+{
+    "bio": "Komischer Typ der anscheinend Axolotl mag oder so | Business: torutatami@gmail.com",
+    "twitch": {
+        "id": "1267160756",
+        "login": "toruvt",
+        "displayName": "ToruVT",
+        "createdAt": "2025-02-23T04:57:39.013703Z",
+        "updatedAt": "2026-11-08T10:50:05.717323Z",
+        "description": "Komischer Typ der anscheinend Axolotl mag oder so | Business: torutatami@gmail.com",
+        "primaryColorHex": "BD47FF",
+        "followers": {
+            "totalCount": 590
+        },
+        "follows": {
+            "totalCount": 253
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-08T16:17:16.464404Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f2f18f9-c687-47a6-9ba4-0c311c5bb2fa-profile_image-300x300.png",
+        "fetchedAt": "2026-11-12T01:46:27Z"
+    },
+    "twitter": {
+        "torubtw": {
+            "id": null,
+            "handle": "torubtw",
+            "displayName": "ToruVT 👾",
+            "description": "Komischer Typ der Axolotls mag :3 Profile Pic: @kirellx_art",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1972052425344192514/kV-_Efcd_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/torubtw",
+            "fetchedAt": "2026-11-12T01:46:45Z"
+        }
+    },
+    "fansly": {
+        "id": "934586924188848131",
+        "username": "ToruVT",
+        "displayName": null,
+        "version": 2,
+        "followCount": 8,
+        "statusId": 1,
+        "accountMediaLikes": 2,
+        "postLikes": 5,
+        "about": "Hey, I am using Fansly.",
+        "location": "",
+        "streaming": {
+            "accountId": "934586924188848131",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-12T01:47:13Z"
+    }
+}

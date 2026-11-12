@@ -1,0 +1,101 @@
+{
+    "bio": "I'm a 9 Tailed Kitsune Elf Demon vtuber who is Genderfluid and i play variety of games Stream are 18+",
+    "twitch": {
+        "id": "111973594",
+        "login": "miku_zin",
+        "displayName": "Miku_Zin",
+        "createdAt": "2016-01-07T15:06:11.074343Z",
+        "updatedAt": "2026-10-21T03:52:52.836919Z",
+        "description": "I'm a 9 Tailed Kitsune Elf Demon vtuber who is Genderfluid and i play variety of games Stream are 18+",
+        "primaryColorHex": "FF4747",
+        "followers": {
+            "totalCount": 983
+        },
+        "follows": {
+            "totalCount": 943
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-14T13:57:09.911074Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/56b82a0e-5d09-424a-9999-0d96c69dc1e6-profile_image-300x300.png",
+        "fetchedAt": "2026-11-12T01:46:36Z"
+    },
+    "twitter": {
+        "otaku_zin": {
+            "id": null,
+            "handle": "otaku_zin",
+            "displayName": "Miku Zin 🦊⛩️",
+            "description": "I&#x27;m a 9 tailed Kitsune Elf Demon vtuber and a lewd content creator 18+\nPNG Art: @KardboardArt\nhttps://t.co/HvNiQdeLhE\nNSFW Account @MikuZinNSFW",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2085628361892880384/4fKBpXr2_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/otaku_zin",
+            "fetchedAt": "2026-11-12T01:47:00Z"
+        },
+        "mikuzinnsfw": {
+            "id": "1598963171964104704",
+            "handle": "mikuzinnsfw",
+            "displayName": "MIKU ZIN NSFW",
+            "description": "Main: @Otaku_Zin, NSFW account, Minors DNI 18+\nLewd content creator, GenderFluid, Pan, Switch  \nFansly: https://fansly.com/Miku_Zin/\nMy Pet: @j_lwed",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1883032971466452992/Klu_Hvz3_400x400.jpg",
+            "followersCount": 1555,
+            "followingCount": 666,
+            "postsCount": 15800,
+            "accountCreatedAt": "2022-12-03T08:51:56.000Z",
+            "profileUrl": "https://x.com/MikuZinNSFW",
+            "fetchedAt": "2026-11-12T01:47:34Z"
+        }
+    },
+    "fansly": {
+        "id": "285972500788027392",
+        "username": "Miku_Zin",
+        "displayName": "Miku Zin",
+        "version": 12,
+        "followCount": 968,
+        "statusId": 1,
+        "accountMediaLikes": 5775,
+        "postLikes": 7024,
+        "about": "Lewd content creator, GenderFluid, Pan, Switch CG Verification\n\nAll Links : https://mikuzin.carrd.co\n",
+        "location": "Dark Shrine ",
+        "streaming": {
+            "accountId": "285972500788027392",
+            "channel": {
+                "id": "645871899552784384",
+                "accountId": "285972500788027392",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Wt1bOT1AdInS.m3u8",
+                "chatRoomId": "645872033917317120",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1715482220000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "645871899552784385",
+                    "historyId": "801702370730848256",
+                    "channelId": "645871899552784384",
+                    "accountId": "285972500788027392",
+                    "title": "Testing ",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 410,
+                    "createdAt": 1715482221000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1752635221000,
+                    "startedAt": 1752635100000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-12T01:47:13Z"
+    }
+}

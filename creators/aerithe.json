@@ -1,0 +1,110 @@
+{
+    "bio": "I like to dance on VRChat and play horror games♡ ♡ For business inquiries: Aerithe@proton.me",
+    "twitch": {
+        "id": "1058766364",
+        "login": "aerithe",
+        "displayName": "Aerithe",
+        "createdAt": "2024-03-29T00:22:25.732457Z",
+        "updatedAt": "2026-11-10T17:03:28.237475Z",
+        "description": "I like to dance on VRChat and play horror games♡ ♡ For business inquiries: Aerithe@proton.me",
+        "primaryColorHex": "A8005A",
+        "followers": {
+            "totalCount": 7005
+        },
+        "follows": {
+            "totalCount": 129
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-10T21:26:26.430459Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a8c7cdd-ab61-44ca-976d-bcb8e04928a1-profile_image-300x300.png",
+        "fetchedAt": "2026-11-12T01:46:28Z"
+    },
+    "twitter": {
+        "aeriivt": {
+            "id": null,
+            "handle": "aeriivt",
+            "displayName": "𝔸𝕖𝕣𝕚𝕥𝕙𝕖",
+            "description": "Blue Site Creator\nTwitch &amp; Kick Partner \nVampire Girl \nSFW account @MissAerithe",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2119946479217315840/rtoTUjyj_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/AeriiVT",
+            "fetchedAt": "2026-11-12T01:46:47Z"
+        },
+        "missaerithe": {
+            "id": null,
+            "handle": "missaerithe",
+            "displayName": "✨Aerithe✨",
+            "description": "Twitch &amp; Kick Partner \nVampire Girl \n18+ account @AeriiVT\ncheck out my links ;)",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2118217687679549440/552bQplx_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/missaerithe",
+            "fetchedAt": "2026-11-12T01:46:49Z"
+        }
+    },
+    "fansly": {
+        "id": "750088893126156288",
+        "username": "Aerithe",
+        "displayName": null,
+        "version": 4,
+        "followCount": 3716,
+        "statusId": 3,
+        "accountMediaLikes": 1922,
+        "postLikes": 1468,
+        "about": "Streams are on Sundays around 3pm EST / 8pm GMT +1\n-Join discord and get the roles to get pinged for random streams\n\n✦•······················•✦•······················•✦\n\nAvatar Wishlist https://jinxxy.com/Aerithe?section=wishlist\nThrone Wishlist: https://throne.com/aerithvr\n\n✦•······················•✦•······················•✦\n\nhttps://www.twitch.tv/aerithe\nhttps://kick.com/aerithe\n",
+        "location": "Twitch",
+        "streaming": {
+            "accountId": "750088893126156288",
+            "channel": {
+                "id": "827638826129170432",
+                "accountId": "750088893126156288",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.tH6mFfwiavIu.m3u8",
+                "chatRoomId": "827643012816314368",
+                "status": 2,
+                "version": 39,
+                "createdAt": 1758818833000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "827638826129170433",
+                    "historyId": "976278168748978176",
+                    "channelId": "827638826129170432",
+                    "accountId": "750088893126156288",
+                    "title": "I lick you... || join discord for updates !discord",
+                    "status": 1,
+                    "viewerCount": 87,
+                    "version": 104,
+                    "createdAt": 1758818833000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794265639000,
+                    "startedAt": 1794257213000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "928772083410812928",
+                                "streamId": "827638826129170433",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-12T01:47:13Z"
+    }
+}

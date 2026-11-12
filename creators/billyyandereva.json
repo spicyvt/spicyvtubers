@@ -1,0 +1,97 @@
+{
+    "bio": "✨ V-Tuber | NSFW Voice Actor | Audio Editor | Script Writer | Aspiring Digital Artist ✨💖 Come be productive or game with your ASMR boyfriend 💖",
+    "twitch": {
+        "id": "1016612755",
+        "login": "billyyandereva",
+        "displayName": "BillyYandereVA",
+        "createdAt": "2024-01-10T22:55:54.734166Z",
+        "updatedAt": "2026-11-10T08:22:55.23846Z",
+        "description": "✨ V-Tuber | NSFW Voice Actor | Audio Editor | Script Writer | Aspiring Digital Artist ✨💖 Come be productive or game with your ASMR boyfriend 💖",
+        "primaryColorHex": "FEEEFB",
+        "followers": {
+            "totalCount": 3048
+        },
+        "follows": {
+            "totalCount": 137
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-27T17:56:51.201257Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0aed00df-34cb-48c0-bb34-c11c63631451-profile_image-300x300.png",
+        "fetchedAt": "2026-11-12T01:46:37Z"
+    },
+    "twitter": {
+        "billyyandereva2": {
+            "id": "1812173217869754368",
+            "handle": "billyyandereva2",
+            "displayName": "BillyYandereVA🔪💖 (Comms Open 1/5)",
+            "description": "♡ NSFW VA\n♡ @tryquinn creator\n♡ http://patreon.com/cw/Billyyanderecyrus\n♡ http://tryquinn.link/4R58KfW\n♡ Dark Romance Content: @AfterDarkBilly",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2110781484957351936/_0ni3vH3_400x400.jpg",
+            "followersCount": 47740,
+            "followingCount": 1,
+            "postsCount": 9491,
+            "accountCreatedAt": "2024-07-13T17:12:24.000Z",
+            "profileUrl": "https://x.com/BillyYandereVA2",
+            "fetchedAt": "2026-11-12T01:47:04Z"
+        }
+    },
+    "fansly": {
+        "id": "599751105244573696",
+        "username": "BillyYandereCyrus",
+        "displayName": "BillyYandereVA",
+        "version": 4,
+        "followCount": 1598,
+        "statusId": 1,
+        "accountMediaLikes": 34,
+        "postLikes": 94,
+        "about": "NSFW VA 🎙️ Lewdtuber 🔥 Sound Editor 🎬 Your ASMR Boyfriend 💖 Shameless Bisexual 🏳️‍🌈 Aspiring Artist 🎨 30s 👴🏼\n🔗 https://billyyandereva.carrd.co/",
+        "location": "Your Basement",
+        "streaming": {
+            "accountId": "599751105244573696",
+            "channel": {
+                "id": "673254683149611008",
+                "accountId": "599751105244573696",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yUCocCOo0j33.m3u8",
+                "chatRoomId": "673255448576532481",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1722010784000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "673254683149611009",
+                    "historyId": "825557604376780800",
+                    "channelId": "673254683149611008",
+                    "accountId": "599751105244573696",
+                    "title": "Playing With Your ASMR Boyfriend",
+                    "status": 1,
+                    "viewerCount": 35,
+                    "version": 1622,
+                    "createdAt": 1722010785000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1758330545000,
+                    "startedAt": 1758322631000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "788926308175323137",
+                                "streamId": "673254683149611009",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-12T01:47:13Z"
+    }
+}

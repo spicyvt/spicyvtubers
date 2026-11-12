@@ -1,0 +1,130 @@
+{
+    "bio": "Myu Out o/ Quando a twitch retroceder, eu volto, se não, estamos no Myustik... bye bye o/",
+    "twitch": {
+        "id": "751912490",
+        "login": "myujayne",
+        "displayName": "MyuJayne",
+        "createdAt": "2021-12-10T23:49:57.222063Z",
+        "updatedAt": "2026-10-30T12:08:54.972172Z",
+        "description": "Myu Out o/ Quando a twitch retroceder, eu volto, se não, estamos no Myustik... bye bye o/",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 1907
+        },
+        "follows": {
+            "totalCount": 92
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-13T19:46:08.724134Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/01b77d16-50a5-4420-964f-7d600d43cea3-profile_image-300x300.png",
+        "fetchedAt": "2026-11-12T01:46:30Z"
+    },
+    "youtube": {
+        "id": "UCcQWXCTkgsnf3FK0uSjCoAQ",
+        "handle": "myujayne",
+        "title": "Myu´s Tavern",
+        "description": "Herooowww. We'll be wearing shorts and bringing back everything that was on Tt..",
+        "channelUrl": "https://www.youtube.com/channel/UCcQWXCTkgsnf3FK0uSjCoAQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/-hBrP9XnnHLng6RO8Xo_LluIhjyeFC813hsR7r0iVxA82LdC3HzqvEQHgaBBj-Q5WZZoLQlMWg=h300",
+        "subscriberCountText": "78 subscribers",
+        "videoCountText": "33 videos",
+        "fetchedAt": "2026-11-12T01:46:31Z"
+    },
+    "twitter": {
+        "myujayne": {
+            "id": null,
+            "handle": "myujayne",
+            "displayName": "Myu Jayne",
+            "description": "CatGirl, Succubus &amp; Witch 🔮 SFW/NSFW Streamer. Kindness, cuteness daily. My affectionate side is exclusive to my supporters 💸✨",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2091566615573737472/BZsywWQ2_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/myujayne",
+            "fetchedAt": "2026-11-12T01:46:51Z"
+        }
+    },
+    "bluesky": {
+        "did": "did:plc:ubdfmbkyjcn2aoyj74wcs7ol",
+        "handle": "myujayne.bsky.social",
+        "displayName": "Myu´s Tavern - Myustik",
+        "description": "🔞 Adult account. \n🌙 Play by my rules!\n🙅 No Cash App/PayPal \n🫵 Youpay only!\n🙅 IRL Pics!\nI'm a Sweet Streamer Cat/Succubus Vtuber, looking for big paycheck!\n\nhttps://myujayne.carrd.co/\n\nDo not use my images for AI 🤖⃠!\n\nDo not re-upload my pics!",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubdfmbkyjcn2aoyj74wcs7ol/bafkreia52z7ehucv7ihp5awysl2rr7ivwxt6ijxzf72mevlrywm7x5isyq",
+        "followersCount": 114,
+        "followingCount": 64,
+        "postsCount": 350,
+        "accountCreatedAt": "2024-09-13T16:47:17.415Z",
+        "profileUrl": "https://bsky.app/profile/myujayne.bsky.social",
+        "fetchedAt": "2026-11-12T01:47:10Z"
+    },
+    "fansly": {
+        "id": "489194298479226880",
+        "username": "Myusly",
+        "displayName": "MyuJayne",
+        "version": 29,
+        "followCount": 787,
+        "statusId": 1,
+        "accountMediaLikes": 381,
+        "postLikes": 454,
+        "about": "clean",
+        "location": "Void",
+        "streaming": {
+            "accountId": "489194298479226880",
+            "channel": {
+                "id": "584514025350508544",
+                "accountId": "489194298479226880",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.eHDoZm2RC708.m3u8",
+                "chatRoomId": "584558415238406145",
+                "status": 2,
+                "version": 23,
+                "createdAt": 1700853363000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "584514025350508545",
+                    "historyId": "944348181708156929",
+                    "channelId": "584514025350508544",
+                    "accountId": "489194298479226880",
+                    "title": "Myusly - Atualizando as overlays - Nao é live!",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 5490,
+                    "createdAt": 1700853363000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1786644605000,
+                    "startedAt": 1786644511000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "920147606766637057",
+                                "streamId": "584514025350508545",
+                                "type": 0,
+                                "flags": 130,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"906961582423023616\\\",\\\"label\\\":\\\"Discord Mods\\\"}\"}"
+                            },
+                            {
+                                "id": "920147606766637058",
+                                "streamId": "584514025350508545",
+                                "type": 0,
+                                "flags": 130,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"906990707141517313\\\",\\\"label\\\":\\\"Vips\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-12T01:47:13Z"
+    }
+}

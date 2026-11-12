@@ -1,0 +1,109 @@
+{
+    "bio": "A kaiju bunny girl, president of Kaiju Inc., who loves mysteries and video games despite only being able to count to 4.",
+    "twitch": {
+        "id": "131463409",
+        "login": "ringobonbon",
+        "displayName": "ringobonbon",
+        "createdAt": "2016-08-06T03:53:28.347664Z",
+        "updatedAt": "2026-06-14T01:23:22.130054Z",
+        "description": "A kaiju bunny girl, president of Kaiju Inc., who loves mysteries and video games despite only being able to count to 4. ",
+        "primaryColorHex": "FFBAC2",
+        "followers": {
+            "totalCount": 1051
+        },
+        "follows": {
+            "totalCount": 465
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-15T05:06:45.578564Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/65fe6dbd-0bfd-40cb-877c-32e6b3f64c6a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-12T01:46:32Z"
+    },
+    "youtube": {
+        "id": "UCHg81EfieUSNMTAdwCmwHCg",
+        "handle": "ringobonbon360",
+        "title": "RingoBonBon",
+        "description": "Hey-o Ringo here!! I'm just your average cute little bunny girl who was sent here from another world! I'm a variety streamer, and will use this to post content I make outside of stream. So you can expect all sorts of shenanigans and silly things here, and the cover or two I sing when I get some time! ",
+        "channelUrl": "https://www.youtube.com/channel/UCHg81EfieUSNMTAdwCmwHCg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/UauIyUFKxLG98bk38CigzuONYWPz216dKlQC31Ad0bueHFtnXjBWCHL4eyqGRlQ9sTX6Fp6mKA=h300",
+        "subscriberCountText": "162 subscribers",
+        "videoCountText": "56 videos",
+        "fetchedAt": "2026-11-12T01:46:34Z"
+    },
+    "twitter": {
+        "bonbonringo": {
+            "id": null,
+            "handle": "bonbonringo",
+            "displayName": "RingoBonbon🐰🙏🦖",
+            "description": "Hey-o, kaiju bunny girl v-tuber that&#x27;s bad at video games. 18+\nPresident of Kaiju inc.| Fanart: #RingoArt| Banner Art: @yumemi_1000",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1929119692557516800/lohf6D_A_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/bonbonringo",
+            "fetchedAt": "2026-11-12T01:46:52Z"
+        }
+    },
+    "fansly": {
+        "id": "562484898573590528",
+        "username": "RingoBonbon",
+        "displayName": null,
+        "version": 3,
+        "followCount": 576,
+        "statusId": 1,
+        "accountMediaLikes": 245,
+        "postLikes": 302,
+        "about": "Your favorite #bbw Kaiju #bunnygirl #Vtuber who's also a lewd artist.\nThrone: https://throne.me/ringobonbon",
+        "location": "",
+        "streaming": {
+            "accountId": "562484898573590528",
+            "channel": {
+                "id": "578070860712124416",
+                "accountId": "562484898573590528",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jpBEsdYcd5Rl.m3u8",
+                "chatRoomId": "578071366041874432",
+                "status": 2,
+                "version": 10,
+                "createdAt": 1699317193000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "578070860712124417",
+                    "historyId": "880976699305508864",
+                    "channelId": "578070860712124416",
+                    "accountId": "562484898573590528",
+                    "title": "Let's just vibe together~",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 1388,
+                    "createdAt": 1699317193000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1771538483000,
+                    "startedAt": 1771535572000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "666114099364507649",
+                                "streamId": "578070860712124417",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-12T01:47:13Z"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "bio": "He/Him Your non-friendly Jester VTuber with an imagination that has made us 8 different VTuber characters and enjoys giving them stories and back grounds while I'm here getting to know everyone and have a good time",
+    "twitch": {
+        "id": "182369596",
+        "login": "dtjestervr",
+        "displayName": "DTJesterVR",
+        "createdAt": "2017-11-19T01:30:19.061823Z",
+        "updatedAt": "2026-11-10T06:26:00.531439Z",
+        "description": "He/Him Your non-friendly Jester VTuber with an imagination that has made us 8 different VTuber characters and enjoys giving them stories and back grounds while I'm here getting to know everyone and have a good time",
+        "primaryColorHex": "3E285A",
+        "followers": {
+            "totalCount": 1794
+        },
+        "follows": {
+            "totalCount": 789
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-10T06:25:31.360995Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/956116fc-dc70-4dae-b191-1191e8308966-profile_image-300x300.png",
+        "fetchedAt": "2026-11-12T01:46:40Z"
+    },
+    "youtube": {
+        "id": "UCisOkuMd04PT2Fv7QlmYx7g",
+        "handle": "DTJester",
+        "title": "DTJester",
+        "description": "Welcome to a new world and a new chapter in my life ^^ Let's make this journey a good and fun one, just be careful cause I do have a twisted scene of humor ^^\n\nFeel free to join my little family of Subs ^^ Make sure to ring those Bell collars so you'd be alerted when I post and check out what contact i got so far and leave your love prints and leave some love notes to let me know what you think and what you'd like to see me do next ^^",
+        "channelUrl": "https://www.youtube.com/channel/UCisOkuMd04PT2Fv7QlmYx7g",
+        "keywords": "Jester gaming VR \"VR Gaming\" multiplayer RPG DTJester",
+        "profileImageUrl": "https://yt3.googleusercontent.com/o8HEhy8gLCW55NhMv9XP6B91ZL0TrAYHouFIb01CA9JOfMLhDvuHgoHPECCOfPyZsBMzGEna=h300",
+        "subscriberCountText": "4.65K subscribers",
+        "videoCountText": "451 videos",
+        "fetchedAt": "2026-11-12T01:46:41Z"
+    },
+    "twitter": {
+        "dt_jester": {
+            "id": null,
+            "handle": "dt_jester",
+            "displayName": "DTJester (VTuber)(18+) KICK PARTNER PUSH",
+            "description": "Jester Vtuber | Kick Affiliate | Twitch Affiliate | YouTube Partner | Family Channel ^.~ | Modder &amp; Indie game player and IRL Clown\n\nArtist: @hanbanart",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1616503422793949184/Lem-od8M_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/dt_jester",
+            "fetchedAt": "2026-11-12T01:47:06Z"
+        }
+    },
+    "fansly": {
+        "id": "285669238813765632",
+        "username": "DTJester",
+        "displayName": "DTJester",
+        "version": 9,
+        "followCount": 3930,
+        "statusId": 1,
+        "accountMediaLikes": 68957,
+        "postLikes": 18044,
+        "about": "The new clown in town but also a VTuber, drama free and love to make people laugh but hey were here for other reasons, let me know I turn you own, and you may get more than your expecting of me ^.~\n\nI also play games here on the hentai area as my own 18+ youtube so enjoy ^^\n\nHe/Him\nRole Player\n\nhttps://dtjester.carrd.co/\n\nWork Projects for\n\nWorld:\n- Devil\n- TheDungeon\n- Room 69\n\nAvis Works For\n- Pursu\n- Heartmarksman\n- Wolf Den 3D\n- ChaoticMadness\n- HoloExe\n- KahTay\n- Jule's Avatars",
+        "location": "Florida ",
+        "streaming": {
+            "accountId": "285669238813765632",
+            "channel": {
+                "id": "322225486082088960",
+                "accountId": "285669238813765632",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4hqsL2S820Kk.m3u8",
+                "chatRoomId": "322226002426077184",
+                "status": 2,
+                "version": 120,
+                "createdAt": 1638318902000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "322225486082088961",
+                    "historyId": "975670823194992640",
+                    "channelId": "322225486082088960",
+                    "accountId": "285669238813765632",
+                    "title": "Meh lets see",
+                    "status": 1,
+                    "viewerCount": 15,
+                    "version": 7937,
+                    "createdAt": 1638318903000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794117712000,
+                    "startedAt": 1794112411000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-12T01:47:13Z"
+    }
+}
