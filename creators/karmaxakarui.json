@@ -1,0 +1,85 @@
+{
+    "bio": "Hey! I'm Akarui Kurai, but you can call me Karma! I'm a Vtuber, Streamer, Youtuber, and Tiktoker (Damn that's a lot of titles...). As a Vtuber, I'm a half angel half demon hybrid that lives in a city called Aestheria City. Powered by: @ADVANCEDgg also Powered by: @PoggersShop",
+    "twitch": {
+        "id": "498183074",
+        "login": "karmaxakarui",
+        "displayName": "KarmaXAkarui",
+        "createdAt": "2020-03-09T15:04:46.164318Z",
+        "updatedAt": "2026-11-12T17:18:11.916235Z",
+        "description": "Hey! I'm Akarui Kurai, but you can call me Karma! I'm a Vtuber, Streamer, Youtuber, and Tiktoker (Damn that's a lot of titles...). As a Vtuber, I'm a half angel half demon hybrid that lives in a city called Aestheria City. Powered by: @ADVANCEDgg also Powered by: @PoggersShop",
+        "primaryColorHex": "A10000",
+        "followers": {
+            "totalCount": 110
+        },
+        "follows": {
+            "totalCount": 312
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-05T02:51:06.579254Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e295d99-5f2d-40d5-9850-2d2be413e725-profile_image-300x300.png",
+        "fetchedAt": "2026-11-13T00:52:43Z"
+    },
+    "youtube": {
+        "id": "UCyW1nWvGfPnjJ4PYSxq0tHA",
+        "handle": "akaruikarmakurai",
+        "title": "AkaruiXKarma",
+        "description": "Hey! I'm Akarui Karma Kurai, but you can call me Karma! I'm a Vtuber, Streamer, Youtuber, and Tiktoker (Damn that's a lot of titles...). As a Vtuber, I'm a half angel half demon hybrid that lives in a city called New Star City (NSC) and i'm a anomaliy hunter in a group called Last frontiers! as a streamer, I'm just your socially awkward goof, weeb, and aspiring musician (yes i can sing...poorly) so see you all around! ",
+        "channelUrl": "https://www.youtube.com/channel/UCyW1nWvGfPnjJ4PYSxq0tHA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/VHpH34w2qhqYmKTMjlT9Q3cUeSWmLnQeA1cPuxyRo2-NL4OunxL55QP0N9YEAuVYP8nkc4R0jY4=h300",
+        "subscriberCountText": "77 subscribers",
+        "videoCountText": "53 videos",
+        "fetchedAt": "2026-11-13T00:52:45Z"
+    },
+    "fansly": {
+        "id": "784724397230399489",
+        "username": "KarmaXAkarui",
+        "displayName": "KuraiXKarma",
+        "version": 7,
+        "followCount": 9,
+        "statusId": 1,
+        "accountMediaLikes": 4,
+        "postLikes": 0,
+        "about": "Hey! I'm Akarui Karma Kurai, but you can call me Karma! I'm a Vtuber, Streamer, Youtuber, and Tiktoker (Damn that's a lot of titles...). As a Vtuber, I'm a half angel half demon hybrid that lives in a city called New Star City (NSC) and i'm a anomaliy hunter in a group called Last frontiers! as a streamer, I'm just your socially awkward goof, weeb, and aspiring musician (yes i can sing...poorly) so see you all around! ",
+        "location": "",
+        "streaming": {
+            "accountId": "784724397230399489",
+            "channel": {
+                "id": "917209951837896704",
+                "accountId": "784724397230399489",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zIbINfclbeVg.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1780174253000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "917209951837896705",
+                    "historyId": null,
+                    "channelId": "917209951837896704",
+                    "accountId": "784724397230399489",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1780174253000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-13T00:53:09Z"
+    }
+}

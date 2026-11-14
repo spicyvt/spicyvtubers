@@ -1,0 +1,110 @@
+{
+    "bio": "Newbie into Streaming",
+    "twitch": {
+        "id": "1478228135",
+        "login": "braz_vr",
+        "displayName": "Braz_vr",
+        "createdAt": "2026-04-09T19:30:46.881505Z",
+        "updatedAt": "2026-08-14T11:30:30.923891Z",
+        "description": "Newbie into Streaming",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 92
+        },
+        "follows": {
+            "totalCount": 14
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-10T01:14:04.443026Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c1f1996-cd42-46f8-998d-177f913912bf-profile_image-300x300.png",
+        "fetchedAt": "2026-11-13T00:52:33Z"
+    },
+    "twitter": {
+        "brazzy_vrc": {
+            "id": "1539575198416084992",
+            "handle": "brazzy_vrc",
+            "displayName": "Braz✨",
+            "description": "Dedicated VR Content Creator, thickness lover and maker of thicc avatars 😊\n\n💛 DnB and electronic music 💛\n\n❌Basic DMs wont be answered\n\n🗣️English/Spanish",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2072050705326600192/M1HBArs7_400x400.jpg",
+            "followersCount": 9613,
+            "followingCount": 305,
+            "postsCount": 1768,
+            "accountCreatedAt": "2022-06-22T11:45:21.000Z",
+            "profileUrl": "https://x.com/Brazzy_vrc",
+            "fetchedAt": "2026-11-13T00:52:53Z"
+        },
+        "brazzyx_vrc": {
+            "id": "1599700772031287301",
+            "handle": "brazzyx_vrc",
+            "displayName": "Braz 🔞",
+            "description": "🩵 https://fansly.com/Braz?r=Braz\n📳 https://www.lovense.com/p/Braz\n\n🔞 NSFW made in CVR. MDNI.\n\nBottom Heavy / Thickness Lover and maker of thicc avis 🙏",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2072053047761494016/M56HH8_o_400x400.jpg",
+            "followersCount": 9145,
+            "followingCount": 261,
+            "postsCount": 1486,
+            "accountCreatedAt": "2022-12-05T09:42:49.000Z",
+            "profileUrl": "https://x.com/brazzyx_vrc",
+            "fetchedAt": "2026-11-13T00:53:16Z"
+        }
+    },
+    "fansly": {
+        "id": "583363325522354177",
+        "username": "Braz",
+        "displayName": "💛Braz💜",
+        "version": 10,
+        "followCount": 12426,
+        "statusId": 1,
+        "accountMediaLikes": 30372,
+        "postLikes": 16892,
+        "about": "🔞 Welcome to the Braz Thiccness Paradise 🔞\n\n🎁Get your Lovense toys more cheaper below to save up to 55% OFF! 🎁\n\nhttps://www.lovense.com/p/Braz\n\n💘 Only thick enjoyers can enjoy me and my content 💘\n💯 Discord Server 💯 https://discord.gg/aASxW8ywT8\n📩 DM me for Collabs or Custom Content 📩\n📩 Collabs Form (please only creators): https://forms.gle/HbGpt7M96y4wNA6A9 📩\n💲Hot sales every weekend!💲\n🚫 Unsolicited dick pics = Block 🚫\n❗ All the support I got from here goes to the improvement for my models, such as new items like outfits or new characters ❗\n👉 Spoil me below 👈\n\n\nhttps://throne.com/Braz_vrc",
+        "location": "ENG/SPA",
+        "streaming": {
+            "accountId": "583363325522354177",
+            "channel": {
+                "id": "631937935272325121",
+                "accountId": "583363325522354177",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.OFggsYmw1y1I.m3u8",
+                "chatRoomId": "631938838515687424",
+                "status": 2,
+                "version": 74,
+                "createdAt": 1712160104000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "631937935272325122",
+                    "historyId": "977046397402509312",
+                    "channelId": "631937935272325121",
+                    "accountId": "583363325522354177",
+                    "title": "Chill Wednesday !tipmenu",
+                    "status": 1,
+                    "viewerCount": 44,
+                    "version": 4260,
+                    "createdAt": 1712160105000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794451796000,
+                    "startedAt": 1794440373000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "977042554082058240",
+                                "streamId": "631937935272325122",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-13T00:53:09Z"
+    }
+}

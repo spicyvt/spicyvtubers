@@ -1,0 +1,113 @@
+{
+    "bio": "⟡V-Darklingz⟡ 💀18+ Eldritch Horror Vtuber 🐙AdvanceGG Ambassador, NordVPN, Space Panda Affiliate, Waifu Wares Affiliate, Dead Man Clothes Affiliate 💀BUSINESS INQUIRIES @: hexenbyenvyttv@outlook.com",
+    "twitch": {
+        "id": "409714038",
+        "login": "enby_ttv",
+        "displayName": "Enby_TTV",
+        "createdAt": "2019-01-15T18:34:57.344424Z",
+        "updatedAt": "2026-10-31T19:04:14.558633Z",
+        "description": "⟡V-Darklingz⟡ 💀18+ Eldritch Horror Vtuber 🐙AdvanceGG Ambassador, NordVPN, Space Panda Affiliate, Waifu Wares Affiliate, Dead Man Clothes Affiliate 💀BUSINESS INQUIRIES @: hexenbyenvyttv@outlook.com ",
+        "primaryColorHex": "FF00A3",
+        "followers": {
+            "totalCount": 892
+        },
+        "follows": {
+            "totalCount": 238
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-31T20:53:57.194986Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8128381b-dadc-48bc-afec-01505c35f870-profile_image-300x300.png",
+        "fetchedAt": "2026-11-13T00:52:38Z"
+    },
+    "youtube": {
+        "id": "UCcBnKPu-g5h_Ji4kkeaf45Q",
+        "handle": "EnbyTTV",
+        "title": "Enby_TTV",
+        "description": "💀18+ Eldritch Horror Vtuber 🐙AdvanceGG, Oshi Bubbles, Space Panda, Waifu Wares, NordVPN, & Dead Man Clothes Affiliate 💀BUSINESS: hexenbyenvyttv@outlook.com",
+        "channelUrl": "https://www.youtube.com/channel/UCcBnKPu-g5h_Ji4kkeaf45Q",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/yozzSTCeRMuZjYlQdZrh9U3BTPcBGY-dEwOzdrZ3o3fg0MLdVUxvqbSGyMpMDAgrfFEoumeP3Q=h300",
+        "subscriberCountText": "19 subscribers",
+        "videoCountText": "53 videos",
+        "fetchedAt": "2026-11-13T00:52:39Z"
+    },
+    "twitter": {
+        "enby_ttv": {
+            "id": null,
+            "handle": "enby_ttv",
+            "displayName": "Enby_TTV ♡ Eldritch Horror Vtuber",
+            "description": "18+ AdvanceGG, NordVPN, Space Panda, Waifu Wares, Dead Man Clothes Affiliate \nOshiMarks: 💀🐙\nNSFW: @Enby_ttvnsfw\n#EnbyTTVArt - SFW\n#EnbyAfterDark - NSFW",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2083409075644076033/OEIpaupk_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/enby_ttv",
+            "fetchedAt": "2026-11-13T00:53:02Z"
+        },
+        "enby_ttvnsfw": {
+            "id": null,
+            "handle": "enby_ttvnsfw",
+            "displayName": "𝓔𝓷𝓫𝔂 ◇On Hiatus◇",
+            "description": "🔪18+🔪MDNI🔪 \nNSFW creator\n❤️Taken but flirting allowed❤️\n💀 29💀\n🐙$5 DM fee🐙\nSFW: @enby_ttv\n$100 unblock fee",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2059141866860204032/xxD8l9pC_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Enby_TTVNSFW",
+            "fetchedAt": "2026-11-13T00:53:04Z"
+        }
+    },
+    "fansly": {
+        "id": "784602447405391872",
+        "username": "Enby_TTV",
+        "displayName": null,
+        "version": 3,
+        "followCount": 85,
+        "statusId": 1,
+        "accountMediaLikes": 16,
+        "postLikes": 7,
+        "about": "Hey, it's Enby, this is my fansly, so sub and see what you've been waiting for\n\nnf-466e42b9",
+        "location": "In your Dreams, fucking your nightmares",
+        "streaming": {
+            "accountId": "784602447405391872",
+            "channel": {
+                "id": "785961400391446529",
+                "accountId": "784602447405391872",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BJekVJzre2Gz.m3u8",
+                "chatRoomId": "785961436030447616",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1748882160000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "785961400391446530",
+                    "historyId": "816577782724182016",
+                    "channelId": "785961400391446529",
+                    "accountId": "784602447405391872",
+                    "title": "Test",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 6,
+                    "createdAt": 1748882160000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1756181888000,
+                    "startedAt": 1756181674000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-13T00:53:09Z"
+    }
+}

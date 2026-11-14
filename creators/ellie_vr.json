@@ -1,0 +1,110 @@
+{
+    "bio": "💜 hihi! My name is Ellie, I'm a VTuber and DJ; I am a bit shy. I play a variety of music and even games! 💜",
+    "twitch": {
+        "id": "32570140",
+        "login": "ellie_vr",
+        "displayName": "Ellie_VR",
+        "createdAt": "2012-07-30T21:09:39.342211Z",
+        "updatedAt": "2026-10-28T00:00:33.546273Z",
+        "description": "💜 hihi! My name is Ellie, I'm a VTuber and DJ; I am a bit shy. I play a variety of music and even games! 💜",
+        "primaryColorHex": "EF00D1",
+        "followers": {
+            "totalCount": 6409
+        },
+        "follows": {
+            "totalCount": 436
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-04T02:01:07.425812Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0523a023-cd5e-4cee-bbd8-b742ca2f7da7-profile_image-300x300.jpeg",
+        "fetchedAt": "2026-11-13T00:52:37Z"
+    },
+    "twitter": {
+        "virtualellie": {
+            "id": null,
+            "handle": "virtualellie",
+            "displayName": "EllieVR",
+            "description": "Heyo! My name is Ellie! I&#x27;m not really new to Twitter and I&#x27;m also a bit shy. This account was made to document my adventures! 💜",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1549852968710701057/Jqb6c2Yq_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/virtualellie",
+            "fetchedAt": "2026-11-13T00:52:59Z"
+        },
+        "ellievr_nsfw": {
+            "id": null,
+            "handle": "ellievr_nsfw",
+            "displayName": "EllieVR🔞",
+            "description": "hihi! My name is Ellie! I&#x27;m new to Twitter also a bit shy and very lewd ALSO a DJ!💜\n\n~DISCLAIMER~\n\nAll lewd photos that I take &amp; post are on ChilloutVR.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2001408566419185668/EQA5I7Q3_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ellievr_nsfw",
+            "fetchedAt": "2026-11-13T00:53:00Z"
+        }
+    },
+    "fansly": {
+        "id": "358858986176389121",
+        "username": "VirtualEllie",
+        "displayName": "Ellie",
+        "version": 6,
+        "followCount": 4284,
+        "statusId": 1,
+        "accountMediaLikes": 2839,
+        "postLikes": 4217,
+        "about": "💜 hihi!! My name is Ellie! This account originally wasn't going to be made or taken seriously cause I was too scared BUT, we're here and I hope you all enjoy the lewd!! 💜\n\n💜 I will be posting lewd pics & vids!! 💜\n\n💜 Even some custom content as well!! uWu 💜\n\n💜 https://ellievr.carrd.co/ 💜",
+        "location": "The Interwebs",
+        "streaming": {
+            "accountId": "358858986176389121",
+            "channel": {
+                "id": "401549693399609344",
+                "accountId": "358858986176389121",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.i0mQEJhiCmT3.m3u8",
+                "chatRoomId": "401549790267056128",
+                "status": 2,
+                "version": 12,
+                "createdAt": 1657231267000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "401549693399609345",
+                    "historyId": "887954298296614912",
+                    "channelId": "401549693399609344",
+                    "accountId": "358858986176389121",
+                    "title": "💜 Chill Tuesday Night Vibes Stream 💜",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 3234,
+                    "createdAt": 1657231267000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1773204102000,
+                    "startedAt": 1773199162000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "852083586742894592",
+                                "streamId": "401549693399609345",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-13T00:53:09Z"
+    }
+}

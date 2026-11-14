@@ -1,0 +1,105 @@
+{
+    "bio": "☆ Acanthus=uh-kan-thuhs ☆ ☆She/They ☆ ☆Neurospicy (Autistic, CPTSD, still figuring who knows what out)☆18+ V-tuber Human queen, cursed in her youth, who uses her acquired orc form to fight for and unite her people.We are here for a good time, not a long time *shorter streams expected*",
+    "twitch": {
+        "id": "46831493",
+        "login": "yrmqueenacanthus",
+        "displayName": "YRMQueenAcanthus",
+        "createdAt": "2013-07-30T04:55:05.611091Z",
+        "updatedAt": "2026-10-15T14:28:01.730505Z",
+        "description": "☆ Acanthus=uh-kan-thuhs ☆ ☆She/They ☆ ☆Neurospicy (Autistic, CPTSD, still figuring who knows what out)☆18+ V-tuber Human queen, cursed in her youth, who uses her acquired orc form to fight for and unite her people.We are here for a good time, not a long time *shorter streams expected*",
+        "primaryColorHex": "FECDF6",
+        "followers": {
+            "totalCount": 624
+        },
+        "follows": {
+            "totalCount": 947
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-26T14:46:47.52411Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/efb9b7a8-bc6f-4d1f-bd59-e910a7272ec1-profile_image-300x300.png",
+        "fetchedAt": "2026-11-13T00:52:31Z"
+    },
+    "twitter": {
+        "yrmqacanthus": {
+            "id": null,
+            "handle": "yrmqacanthus",
+            "displayName": "YRM👑🔞Queen Acanthus",
+            "description": "She/They\nCursed Human Queen Content Creator(sometimes)\nLearning to Unmask and Love Myself\n18+ ONLY \nBanner: @Maura_Asura\n🎨: #YRMArt 🔞: #YRMommyArt",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1795438904675381248/H72TKUya_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/yrmqacanthus",
+            "fetchedAt": "2026-11-13T00:52:50Z"
+        }
+    },
+    "fansly": {
+        "id": "478890296000651264",
+        "username": "QueenAcanthus",
+        "displayName": "YRMQueenAcanthus",
+        "version": 8,
+        "followCount": 44,
+        "statusId": 1,
+        "accountMediaLikes": 59,
+        "postLikes": 116,
+        "about": "twitch.tv/yrmqueenacanthus\n\nGamer. Horny. Cute. Gremlin\nI HAVE BODY HAIR AND DON'T WEAR MAKEUP USUALLY\nDONT BE MEAN OR YOU'RE GONE K THANKS",
+        "location": "Queendom",
+        "streaming": {
+            "accountId": "478890296000651264",
+            "channel": {
+                "id": "524398088522051584",
+                "accountId": "478890296000651264",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.C4RbNVphRCeO.m3u8",
+                "chatRoomId": "524398386489597952",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1686520607000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "524398088522051585",
+                    "historyId": "654950400675291137",
+                    "channelId": "524398088522051584",
+                    "accountId": "478890296000651264",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 466,
+                    "createdAt": 1686520607000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1717652807000,
+                    "startedAt": 1717646703000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "524398333297438720",
+                                "streamId": "524398088522051585",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "524398333297438721",
+                                "streamId": "524398088522051585",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-13T00:53:09Z"
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "bio": "18+ LewdTuber and Variety streamer.💜🐉 A Dragon that likes to collect all things shiny and new! I create a safe space for everyone so no hate will be tolerated. My mods are feral, they will not hesitate action.",
+    "twitch": {
+        "id": "446108226",
+        "login": "raven_coven",
+        "displayName": "Raven_Coven",
+        "createdAt": "2019-07-05T18:25:54.730134Z",
+        "updatedAt": "2026-10-08T03:27:08.100711Z",
+        "description": "18+ LewdTuber and Variety streamer.💜🐉 A Dragon that likes to collect all things shiny and new! I create a safe space for everyone so no hate will be tolerated. My mods are feral, they will not hesitate action.",
+        "primaryColorHex": "572590",
+        "followers": {
+            "totalCount": 709
+        },
+        "follows": {
+            "totalCount": 207
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-08T05:15:10.629699Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ecd2ca7-fa61-4011-8525-e859a12b24da-profile_image-300x300.png",
+        "fetchedAt": "2026-11-13T00:52:34Z"
+    },
+    "youtube": {
+        "id": "UC_tCXTMoj6vdWOKVVahjTcg",
+        "handle": "Raven_Coven",
+        "title": "Raven Coven",
+        "description": "18+ LewdTuber and Variety streamer.💜🐉 A Dragon that likes to collect all things shiny and new! I create a safe space for everyone so no hate will be tolerated. I stream primarily on Twitch but I post videos from time to time!",
+        "channelUrl": "https://www.youtube.com/channel/UC_tCXTMoj6vdWOKVVahjTcg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/mz5_hu5Nnj2Vtm-SeWU1x_Bi5qLw381Ao9rz9dxrnyiJ4fi-_Zl-wWfo2mye2ZXABQWh9ZMGJ_w=h300",
+        "subscriberCountText": "14 subscribers",
+        "videoCountText": "20 videos",
+        "fetchedAt": "2026-11-13T00:52:35Z"
+    },
+    "twitter": {
+        "raven_coven_": {
+            "id": null,
+            "handle": "raven_coven_",
+            "displayName": "Raven | Lewdtuber🔞 | Dragon 🐉",
+            "description": "🔞Dragon Lewdtuber 18+ Streamer | ✨Twitch Affiliate ✨ She/They/He | 🥰@lazyborb🥰 | MDNI | Business: raven.cross.coven@gmail.com ACTIVE ON BSKY",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2051018118042935296/t98VYHKm_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/raven_coven_",
+            "fetchedAt": "2026-11-13T00:52:57Z"
+        }
+    },
+    "fansly": {
+        "id": "505707093295116289",
+        "username": "RavenCoven",
+        "displayName": "Raven",
+        "version": 8,
+        "followCount": 85,
+        "statusId": 3,
+        "accountMediaLikes": 86,
+        "postLikes": 96,
+        "about": "Comfy and Chaotic dragon who knows how to have good fun. \n\nWHAT TO EXPECT:\n\n+ Photos!\n\n* IRL Photos (Spicy, and Cosplay)\n* Vtuber NSFW art\n* Spicy model reveals and outfits. \n\n+ Videos and Audio!\n\n*Spicy videos, and even some streams! Model with the streams, but ya might just get some IRL Videos feat. Items gifted from my throne!\n*Special \"ASMR\" \"POV\" Audios (after upgrading my mic to a better quality). Audio Clips and Bits from Spicy Streams as well.\n\nDO NOT EXPECT:\n\n* Allowing unsolicited pics sent to me as well as any form of roleplaying. \n* Harassment of any type regarding my body.\n* Demanding me to use an item bought off of my throne for a video, photos, or stream. You may ask to see it in a video, photo, or stream but do not hound me on it.\n\nI'm still new at this and I'd like to go at my own pace, so do be patient with how I upload.\n\nhttps://ravencoven.carrd.co",
+        "location": "The Coven",
+        "streaming": {
+            "accountId": "505707093295116289",
+            "channel": {
+                "id": "572755529793810432",
+                "accountId": "505707093295116289",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.56gc2vaWVGGU.m3u8",
+                "chatRoomId": "572756480084680704",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1698049919000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "572755529793810433",
+                    "historyId": "589758555851075590",
+                    "channelId": "572755529793810432",
+                    "accountId": "505707093295116289",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 200,
+                    "createdAt": 1698049920000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1702110939000,
+                    "startedAt": 1702103756000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "572755793418395649",
+                                "streamId": "572755529793810433",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-13T00:53:09Z"
+    }
+}

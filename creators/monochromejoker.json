@@ -1,0 +1,100 @@
+{
+    "bio": "Hey my little sparks✨ My name is Maho Jamini (or short MJ). I'm a 🇩🇪/🇬🇧 Vtuber. I'm your local Celestial Joker Girlfailure. We keep the expectations low and the fun high! Enjoy my yapping while I play games and do art. I also have a podcast for all your Weeb needs. Self crowned Queen of Anime",
+    "twitch": {
+        "id": "648488194",
+        "login": "monochromejoker",
+        "displayName": "MonochromeJoker",
+        "createdAt": "2021-02-10T17:01:25.350819Z",
+        "updatedAt": "2026-11-10T19:10:53.457914Z",
+        "description": "Hey my little sparks✨ My name is Maho Jamini (or short MJ). I'm a 🇩🇪/🇬🇧 Vtuber. I'm your local Celestial Joker Girlfailure. We keep the expectations low and the fun high! Enjoy my yapping while I play games and do art. I also have a podcast for all your Weeb needs. Self crowned Queen of Anime",
+        "primaryColorHex": "B9B5B5",
+        "followers": {
+            "totalCount": 486
+        },
+        "follows": {
+            "totalCount": 153
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-05T22:11:23.331423Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d7cb3c2-2583-4104-9ef8-aacd82be2403-profile_image-300x300.png",
+        "fetchedAt": "2026-11-13T00:52:26Z"
+    },
+    "youtube": {
+        "id": "UCZZWLqgouCO3FGG2SZYAxKw",
+        "handle": "monochromejoker",
+        "title": "Monochrome Joker",
+        "description": "Hey my little sparks✨ My name is Maho Jamini (or short MJ). I'm a 🇩🇪/🇬🇧 Vtuber. A fallen star that tries to bring happiness to this sad world. I'm your local Celestial Joker Girlfailure. We keep the expectations low and the fun high! Enjoy my yapping while I play games and do art.",
+        "channelUrl": "https://www.youtube.com/channel/UCZZWLqgouCO3FGG2SZYAxKw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/XGM5fUYGVkaKlkk1vq5DzHlvaT-iLxbKa1YcEgEUx4gRj5Iexw0KEHsMwFuC-pd-ruRx8Ek9zA=h300",
+        "subscriberCountText": "163 subscribers",
+        "videoCountText": "143 videos",
+        "fetchedAt": "2026-11-13T00:52:27Z"
+    },
+    "twitter": {
+        "jokermonochrome": {
+            "id": null,
+            "handle": "jokermonochrome",
+            "displayName": "Maho Jamini ✨🃏",
+            "description": "Hey my little sparks!\nI&#x27;m Maho Jamini (MJ) the Monochrome Joker.\nI&#x27;m a ♀ Vtuber🇩🇪🇺🇲\n| aro/ace |\nCommission open",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1615867817487646722/qSmOckUD_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/jokermonochrome",
+            "fetchedAt": "2026-11-13T00:52:47Z"
+        }
+    },
+    "fansly": {
+        "id": "494566516163878912",
+        "username": "MonochromeJoker",
+        "displayName": "Monochrome Joker",
+        "version": 11,
+        "followCount": 199,
+        "statusId": 1,
+        "accountMediaLikes": 482,
+        "postLikes": 407,
+        "about": "Hey my naughty sparks ✨\nI will show you my naughty side here 💕\nExpect sexy cosplay photos, hot selfies, steamy Vtuber pictures, NSFW art and NSFW ASMR.\nAll my Socials:\nmonochromejoker.carrd.co\nMy Throne Wishlist is there too.\nI would highly recommend checking it out if you want to pick something I should wear😘",
+        "location": "Plush Dungeon ?",
+        "streaming": {
+            "accountId": "494566516163878912",
+            "channel": {
+                "id": "543916832403238913",
+                "accountId": "494566516163878912",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jlVkZnlSrz8O.m3u8",
+                "chatRoomId": "543923493310312450",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1691174238000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "543916832403238914",
+                    "historyId": "743963350731337728",
+                    "channelId": "543916832403238913",
+                    "accountId": "494566516163878912",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 2975,
+                    "createdAt": 1691174238000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1738890765000,
+                    "startedAt": 1738869045000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-13T00:53:09Z"
+    }
+}
