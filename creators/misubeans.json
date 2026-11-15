@@ -1,0 +1,101 @@
+{
+    "bio": "the fluffiest latte kitty around!~ things i do: cosplay, crafts, draws fine shyts, knows your mom and your dad, hole-some, etc. things i don't do: parent you.",
+    "twitch": {
+        "id": "1514115864",
+        "login": "misubeans",
+        "displayName": "misubeans",
+        "createdAt": "2026-06-17T17:57:49.550813Z",
+        "updatedAt": "2026-11-14T04:16:53.609002Z",
+        "description": "the fluffiest latte kitty around!~ things i do: cosplay, crafts, draws fine shyts, knows your mom and your dad, hole-some, etc. things i don't do: parent you.",
+        "primaryColorHex": "FFAFC9",
+        "followers": {
+            "totalCount": 28
+        },
+        "follows": {
+            "totalCount": 4
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-14T04:17:02.898327Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cceae279-7097-4686-ab35-363242547931-profile_image-300x300.png",
+        "fetchedAt": "2026-11-15T03:20:24Z"
+    },
+    "twitter": {
+        "misubeans": {
+            "id": null,
+            "handle": "misubeans",
+            "displayName": "𐙚 misu ♡ ⤷ affiliate push!!",
+            "description": "caffeinated sleepmaxxer 🐈☕️ | 🎨: #purrfectpalette🔞: #stickylatte @stickymisu | ママ: @kaospinkiu パパ: | https://t.co/SLy6QFjddg",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2121346977027776512/FfSyvmIO_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/misubeans",
+            "fetchedAt": "2026-11-15T03:20:26Z"
+        },
+        "stickymisu": {
+            "id": null,
+            "handle": "stickymisu",
+            "displayName": "♡ misu 🔞",
+            "description": "even sussier side of @misubeans ♡ art, videos, and audios on my f♡nsly ♡ #stickylatte",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2114141309606744065/rcbCnGCb_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/stickymisu",
+            "fetchedAt": "2026-11-15T03:20:28Z"
+        }
+    },
+    "fansly": {
+        "id": "955357356609269760",
+        "username": "misubeans",
+        "displayName": "misu ♡ ",
+        "version": 14,
+        "followCount": 39,
+        "statusId": 1,
+        "accountMediaLikes": 32,
+        "postLikes": 22,
+        "about": "the brattiest latte kitty around!~ play with me, love me, spoil me, and maybe i'll pay attention to you!~ ",
+        "location": "bent over a coffee counter somewhere~",
+        "streaming": {
+            "accountId": "955357356609269760",
+            "channel": {
+                "id": "970159448729329664",
+                "accountId": "955357356609269760",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NVQZFjtE55gu.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1792798397000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "970159448729329665",
+                    "historyId": null,
+                    "channelId": "970159448729329664",
+                    "accountId": "955357356609269760",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1792798397000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-15T03:20:29Z"
+    }
+}
