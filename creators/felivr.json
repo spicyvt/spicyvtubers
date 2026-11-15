@@ -109,5 +109,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T14:59:20Z"
+    },
+    "kick": {
+        "id": 2425224,
+        "userId": 2480056,
+        "slug": "felivr",
+        "username": "FeliVR",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/2480056/profile_image/conversion/057ae26d-9a08-4b32-a4f3-a5daefc01f33-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/2425224/banner_image/998eed16-449d-4523-8aeb-4c008cd2cf00",
+        "followersCount": 1722,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "felivr_"
+        },
+        "fetchedAt": "2026-11-15T11:43:57Z"
     }
 }

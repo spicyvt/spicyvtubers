@@ -79,5 +79,19 @@
         "channelImage": "https://d1omioobg6abke.cloudfront.net/pics/48bdb3bbf3d7ab71108347a528e1491f",
         "streamStartTime": null,
         "fetchedAt": "2026-10-26T15:04:37Z"
+    },
+    "kick": {
+        "id": 112254141,
+        "userId": 113497976,
+        "slug": "yubiyubz",
+        "username": "YubiYubz",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/113497976/profile_image/conversion/0293764c-d377-428b-bbc9-cfc8cf13ec64-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/112254141/banner_image/d911d34f-cc57-4840-b59c-ac0e471d44c9",
+        "followersCount": 30,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": [],
+        "fetchedAt": "2026-11-15T11:51:53Z"
     }
 }

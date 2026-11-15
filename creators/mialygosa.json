@@ -122,5 +122,25 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-04T01:07:47Z"
+    },
+    "kick": {
+        "id": 30751236,
+        "userId": 31801474,
+        "slug": "mialygosa",
+        "username": "Mialygosa",
+        "bio": "👑 Holaa, mi nombre es Mialygosa soy una Vtuber Argentina que habla sobre Anime y Politica. Soy Mileista y Limonista, gamer y otaku, me encuentro principalmente en X pero cada tanto hago Streams! Espero que tengan una linda estadia, bienvenidos al Mialygosismo!",
+        "profileImageUrl": "https://files.kick.com/images/user/31801474/profile_image/conversion/2fb89221-ac60-4aab-affa-115342966d49-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/30751236/banner_image/a753117d-863f-4f24-9a15-c49e37964f16",
+        "followersCount": 589,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "mialygosa",
+            "twitter": "mialygosa",
+            "youtube": "Mialygosa",
+            "discord": "mialygosa_vt",
+            "tiktok": "Mialygosa"
+        },
+        "fetchedAt": "2026-11-15T11:57:10Z"
     }
 }

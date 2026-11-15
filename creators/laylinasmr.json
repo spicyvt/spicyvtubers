@@ -126,5 +126,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:01:21Z"
+    },
+    "youtube": {
+        "id": "UCuTNu_A2c9U7kz_oevxCogA",
+        "handle": "LaylinASMR",
+        "title": "Laylin ASMR",
+        "description": "Mlems for you!",
+        "channelUrl": "https://www.youtube.com/channel/UCuTNu_A2c9U7kz_oevxCogA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/DxKCruOiLKDqk_87kHi42c97_iarPHi2HLDGkB6z4-FCsT95mAzdSv3Gvj2cHLBxo1JPQwB8_Q=h300",
+        "subscriberCountText": "7.31K subscribers",
+        "videoCountText": "52 videos",
+        "fetchedAt": "2026-11-15T11:51:01Z"
+    },
+    "kick": {
+        "id": 88568117,
+        "userId": 89770709,
+        "slug": "laylinasmr",
+        "username": "LaylinASMR",
+        "bio": "https://linktr.ee/laylinASMR\n\nJoin discord for spicy links: discord.gg/laylin\n\nI just do ASMR here. Check out patreon for exclusive content: https://www.patreon.com/c/Laylin \n\nIf you'd like to gift any fun ASMR toys: https://throne.com/laylinasmr",
+        "profileImageUrl": "https://files.kick.com/images/user/89770709/profile_image/conversion/cfaa55a2-beae-4593-a101-f9c717dcf45b-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/88568117/banner_image/default-banner-1.jpg",
+        "followersCount": 2630,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "instagram": "laylinasmr",
+            "twitter": "laylinasmr",
+            "youtube": "@LaylinASMR"
+        },
+        "fetchedAt": "2026-11-15T11:51:02Z"
     }
 }

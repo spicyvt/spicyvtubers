@@ -100,5 +100,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:17Z"
+    },
+    "youtube": {
+        "id": "UCPCf1Ddw88Rm_KhNd56vaQQ",
+        "handle": "VineeVino",
+        "title": "vinée vino",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCPCf1Ddw88Rm_KhNd56vaQQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/FLHoDMtuhXQi2oW4C0tSI3VFDyT020_7JDC6GsLt8VpSW-sts-7POknqYFJ2P3H6CN8mMNJurA=h300",
+        "subscriberCountText": "1.37K subscribers",
+        "videoCountText": "15 videos",
+        "fetchedAt": "2026-11-15T11:54:46Z"
     }
 }

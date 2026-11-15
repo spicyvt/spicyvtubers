@@ -86,5 +86,37 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:11Z"
+    },
+    "youtube": {
+        "id": "UCoDRf9J4FvsRSYUzbdqvEcA",
+        "handle": "LinaKokoni",
+        "title": "LinaKokoni ASMR",
+        "description": "Te ayudo a relajarte y dormír\nVideos ASMR, susurros, rolplays.\nVtuber femboy, voz relajante.",
+        "channelUrl": "https://www.youtube.com/channel/UCoDRf9J4FvsRSYUzbdqvEcA",
+        "keywords": "asmr femboy vtuber visualamsr",
+        "profileImageUrl": "https://yt3.googleusercontent.com/RDFo0TktR9a8orevlbcIav-LWsYEfch2KabvaLl9Hp7ikNzg1nklx_8sqxStC4UP3psijoFAdA=h300",
+        "subscriberCountText": "11.9K subscribers",
+        "videoCountText": "1K videos",
+        "fetchedAt": "2026-11-15T11:54:34Z"
+    },
+    "kick": {
+        "id": 29814847,
+        "userId": 30859591,
+        "slug": "kokonyn",
+        "username": "Kokonyn",
+        "bio": "Vtuber Femboy dedicado al ASMR y tu relajación 🩷.",
+        "profileImageUrl": "https://files.kick.com/images/user/30859591/profile_image/conversion/a3e29213-1f8d-4a11-8e15-14516a468b37-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/29814847/banner_image/36c684cc-17f9-4e23-b0e9-1a09373e46fb",
+        "followersCount": 1958,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "linakokoni",
+            "twitter": "Linakokoni",
+            "youtube": "@LinaKokoni",
+            "discord": "jfdMkbp6DF",
+            "tiktok": "linakokoni"
+        },
+        "fetchedAt": "2026-11-15T11:54:35Z"
     }
 }

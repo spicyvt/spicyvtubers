@@ -95,5 +95,34 @@
             "profileUrl": "https://x.com/latenightlilah",
             "fetchedAt": "2026-10-26T14:49:54Z"
         }
+    },
+    "youtube": {
+        "id": "UCpYQ1n_C4genmxxHw6LJvFw",
+        "handle": "lilahdoesASMR",
+        "title": "lilah",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCpYQ1n_C4genmxxHw6LJvFw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/PhXIDAAvOhCL6uOqNgcXFMIpqSUni0gzgOBu54GKUpHhuotXOOtrIqAoTB2go-r3r4aOwYtl=h300",
+        "subscriberCountText": "857 subscribers",
+        "videoCountText": "1 video",
+        "fetchedAt": "2026-11-15T11:53:46Z"
+    },
+    "kick": {
+        "id": 26882819,
+        "userId": 27907816,
+        "slug": "lilah",
+        "username": "lilah",
+        "bio": "now this is DEFINITELY not a talk show",
+        "profileImageUrl": "https://files.kick.com/images/user/27907816/profile_image/conversion/b0b57dba-51f2-49e1-8c16-64821678d8e1-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/26882819/banner_image/43876d4c-343e-488e-887c-c7c4c1186d45",
+        "followersCount": 6863,
+        "verified": true,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "latenightlilah",
+            "discord": "lilah"
+        },
+        "fetchedAt": "2026-11-15T11:53:48Z"
     }
 }

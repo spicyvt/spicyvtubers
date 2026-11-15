@@ -103,5 +103,22 @@
             "profileUrl": "https://x.com/chud_vr",
             "fetchedAt": "2026-10-26T14:17:12Z"
         }
+    },
+    "kick": {
+        "id": 7668851,
+        "userId": 8420209,
+        "slug": "chudvr",
+        "username": "ChudVR",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/8420209/profile_image/conversion/5350ff14-31dd-44ff-a959-f1bb1637b0e2-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/7668851/banner_image/52c7db45-9b10-4927-87e5-29518cb1662d",
+        "followersCount": 3244,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "Chud_VR",
+            "tiktok": "chudvr"
+        },
+        "fetchedAt": "2026-11-15T11:43:49Z"
     }
 }

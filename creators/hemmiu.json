@@ -119,5 +119,35 @@
         "channelImage": "https://pb2.rplay.live/pics/dcfc0e03e18181ba9621041968f6a1a5",
         "streamStartTime": "2026-10-25T05:04:52.393Z",
         "fetchedAt": "2026-10-26T15:03:12Z"
+    },
+    "youtube": {
+        "id": "UCQ0laoxO8taHihKrYf5j4ng",
+        "handle": "hemmiu_",
+        "title": "hemmi",
+        "description": "     voice actor ★ artist ★ streamer\n                                 ˗ˏˋ ★ ˎˊ˗\nI draw, animate, rig, roleplay, sing, and play video games...\nI do a little bit of everything ♡  I hope I can entertain you!\n\n⇩     ⇩     ⇩     ⇩     ⇩\nlive almost every friday (9 pm pst) : twitch.tv/hemmiu \nstream updates + art + my inner thoughts : x.com/hemmiu\n",
+        "channelUrl": "https://www.youtube.com/channel/UCQ0laoxO8taHihKrYf5j4ng",
+        "keywords": "hemmi hemmiu \"vtuber en\" \"en vtuber\" vtuber \"indie vtuber\" \"hemmi music\" \"hemmi singing\" \"hemmi funny\" \"hemmi vtuber\" artist \"hemmi cringe\" cringe \"unhinged vtuber\" chaotic hilarious \"hidden gem\" animation art artist gaming \"voice actor\" roleplay roleplaying funny",
+        "profileImageUrl": "https://yt3.googleusercontent.com/b5XOaKbjeVvbTMy9n1ZVGazouez3cDQoCKUaAo2OpgZC1Vu_QMhVGvZ-hdLpoFTbn7ROzbUfvA=h300",
+        "subscriberCountText": "760 subscribers",
+        "videoCountText": "70 videos",
+        "fetchedAt": "2026-11-15T11:44:25Z"
+    },
+    "kick": {
+        "id": 73190881,
+        "userId": 74363781,
+        "slug": "hemmiu",
+        "username": "hemmiu",
+        "bio": "i'm hemmi ⋆｡° ★ i like voice acting, art, + ASMR 🤍 schedules posted weekly in my discord | all my links are here https://hemmiu.carrd.co/",
+        "profileImageUrl": "https://files.kick.com/images/user/74363781/profile_image/conversion/9c642012-7b6c-41a6-af15-49b7b2fb649c-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/73190881/banner_image/9cf06d22-7626-4b10-9ca2-3d5d06f2bbf4",
+        "followersCount": 617,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "@hemmiu",
+            "youtube": "@hemmiASMR",
+            "tiktok": "@hemmiclips"
+        },
+        "fetchedAt": "2026-11-15T11:44:26Z"
     }
 }

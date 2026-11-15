@@ -86,5 +86,36 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-30T00:12:26Z"
+    },
+    "youtube": {
+        "id": "UC-_r1J4m2f6s2ChTktznplw",
+        "handle": "peachykittyvr",
+        "title": "PeachyKittyVR",
+        "description": "I'm Peachy, just a chaotic gremlin pup disguised as a VTuber who plays VRChat. I love music, memes and dancing- sometimes I will stream myself playing horror games on Twitch. Maybe I'll post a video or two here.\n\n\nMy Goals:\nI don't aspire to be anything big social media wise, though one can dream. Ultimately my basic goal is to provide for my pets and I. The true goal in my life is to be able to not just provide for myself but make a difference in the world by dedicating time and other resources towards philanthropic work.",
+        "channelUrl": "https://www.youtube.com/channel/UC-_r1J4m2f6s2ChTktznplw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/TrIztEcay0xA7vs7fzIpxAOzRUmRFiEvaS_C_9ZmLQi5O7OCuOBjnDjlCbERwpVOPO-DIxy2gg=h300",
+        "subscriberCountText": "253 subscribers",
+        "videoCountText": "5 videos",
+        "fetchedAt": "2026-11-15T11:56:12Z"
+    },
+    "kick": {
+        "id": 6060412,
+        "userId": 6153301,
+        "slug": "peachykittyvr",
+        "username": "PeachyKittyVR",
+        "bio": "🔥Welcome to this pit of chaos🔥 I'm PeachyKitty! I'm a Female VR Streamer. 🥵Relatively Wholesome Streamer🥵-but im really just a ho an Emo-Goth Latina who also just loves music & making people smile",
+        "profileImageUrl": "https://files.kick.com/images/user/6153301/profile_image/conversion/17c86d34-5500-4c24-80fe-f5a672f8be47-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/6060412/banner_image/8a9ff343-ebec-424b-8331-1fb21b339a56",
+        "followersCount": 322,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "peachykittyvr",
+            "twitter": "PeachyKittyVR",
+            "discord": "FMvBwQnS",
+            "tiktok": "peachykittyvr"
+        },
+        "fetchedAt": "2026-11-15T11:56:13Z"
     }
 }

@@ -95,5 +95,36 @@
             "profileUrl": "https://x.com/icefire_vr",
             "fetchedAt": "2026-10-26T14:34:49Z"
         }
+    },
+    "youtube": {
+        "id": "UCJtYu4uzLTXU-4WmjA-6g9w",
+        "handle": "icefiretwitchvods",
+        "title": "Icefire Vods",
+        "description": "Elloo this is my channel for twitch VODs\nLive Mon-Thursday 9am EST @ https://www.twitch.tv/icefire_vr\n",
+        "channelUrl": "https://www.youtube.com/channel/UCJtYu4uzLTXU-4WmjA-6g9w",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/BfmLPZ72JRSXnYq2Wb5lJ5wYPGTUvXE6aJFLcFdCH5RqHDD_qIAeKeWlms_1N-9JO9dA6WIy=h300",
+        "subscriberCountText": "61 subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-15T11:48:51Z"
+    },
+    "kick": {
+        "id": 88548,
+        "userId": 89544,
+        "slug": "icefire",
+        "username": "Icefire",
+        "bio": "Your favorite orange and blue cat who's the perfect balance between hot and cold :3. I dance (Try to at least O///O)\nFor business: icefire4080@gmail.com",
+        "profileImageUrl": "https://files.kick.com/images/user/89544/profile_image/conversion/3a9ce4d9-1723-409d-ac53-fb3f8375cc32-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/88548/banner_image/0c5489c1-a429-4f55-93a9-d673b456356a",
+        "followersCount": 1517,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "Icefire_VR",
+            "youtube": "IcefireVR_",
+            "discord": "z8HhY4JkX6",
+            "tiktok": "icefirevr"
+        },
+        "fetchedAt": "2026-11-15T11:48:53Z"
     }
 }

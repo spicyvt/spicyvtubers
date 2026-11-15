@@ -95,5 +95,31 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-29T00:40:42Z"
+    },
+    "youtube": {
+        "id": "UCFdPXyNySAy4n0VNiQ8w8Qw",
+        "handle": "BluHaze",
+        "title": "Blu_Haze",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCFdPXyNySAy4n0VNiQ8w8Qw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nHyUYwobcm285VUsUisr2xoDYriZgVueoZra5FbDbPXA=h300",
+        "subscriberCountText": "1.48K subscribers",
+        "videoCountText": "4 videos",
+        "fetchedAt": "2026-11-15T11:56:08Z"
+    },
+    "kick": {
+        "id": 169939,
+        "userId": 171878,
+        "slug": "blu_haze",
+        "username": "Blu_Haze",
+        "bio": "If you know, you know!",
+        "profileImageUrl": "https://files.kick.com/images/user/171878/profile_image/conversion/c56ae377-4544-43c6-b2df-afb98015b247-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/169939/banner_image/5f3219c5-6a92-4167-981d-1a426ffe26f2",
+        "followersCount": 5323,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": [],
+        "fetchedAt": "2026-11-15T11:56:09Z"
     }
 }

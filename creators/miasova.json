@@ -95,5 +95,23 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:22Z"
+    },
+    "kick": {
+        "id": 83919875,
+        "userId": 85113983,
+        "slug": "miasova",
+        "username": "miasova",
+        "bio": "You don't know HOO I am?\nI was Snowy Owl Villainess in my last life but in this life I will reform and escape doom? Maybe playing some video games will teach me how.",
+        "profileImageUrl": "https://files.kick.com/images/user/85113983/profile_image/conversion/8740a7a2-69fe-4ae7-a354-072a8c0184ce-fullsize.webp",
+        "bannerImageUrl": null,
+        "followersCount": 737,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "mia_sova",
+            "youtube": "@miasova",
+            "tiktok": "miasovavt"
+        },
+        "fetchedAt": "2026-11-15T11:55:10Z"
     }
 }

@@ -97,5 +97,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-04T05:14:52Z"
+    },
+    "youtube": {
+        "id": "UC2Nco55xW0p7rdVgC8m7eCg",
+        "handle": "glitchress",
+        "title": "Glitchress",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UC2Nco55xW0p7rdVgC8m7eCg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nrzRzYvrjKDvloxoxk8x8QRqewQ76gJ8wQIQXUYl_WZg=h300",
+        "subscriberCountText": "114 subscribers",
+        "videoCountText": "4 videos",
+        "fetchedAt": "2026-11-15T11:57:25Z"
     }
 }

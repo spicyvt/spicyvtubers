@@ -95,5 +95,34 @@
             "profileUrl": "https://x.com/saintsakura_",
             "fetchedAt": "2026-10-26T14:38:45Z"
         }
+    },
+    "youtube": {
+        "id": "UCJS97UqlKK8OlX6hgFAZavg",
+        "handle": "saintsakura",
+        "title": "saint sakura",
+        "description": "Hello! Welcome to my channel! I am a VTuber twitch streamer! You can find me streaming on Twitch regularly at https://www.twitch.tv/saintsakura_ \nThank you for your support!\n",
+        "channelUrl": "https://www.youtube.com/channel/UCJS97UqlKK8OlX6hgFAZavg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/IXbBVwb--dtVjmCUxeZqlLJGIYK91mMgcKPlzOGZxEDkFazC8UC5eVhaqkzwejYsymdwGoyfxw=h300",
+        "subscriberCountText": "16.6K subscribers",
+        "videoCountText": "199 videos",
+        "fetchedAt": "2026-11-15T11:50:19Z"
+    },
+    "kick": {
+        "id": 1827895,
+        "userId": 1879823,
+        "slug": "saintsakura",
+        "username": "saintsakura",
+        "bio": "Hello! I'm Saintsakura | Catgirl | VRGang | other socials https://saintsakura.carrd.co  ❤ for business inquiries reach out to saintsakuraofficial@gmail.com",
+        "profileImageUrl": "https://files.kick.com/images/user/1879823/profile_image/conversion/21e87f77-ad6c-487d-9a55-5a5a3692c1a1-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/1827895/banner_image/5bbd9e1a-062c-463d-a3d0-a08e9fcad317",
+        "followersCount": 3716,
+        "verified": true,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "saintsakura_",
+            "discord": "invite/saintsakura"
+        },
+        "fetchedAt": "2026-11-15T11:50:20Z"
     }
 }

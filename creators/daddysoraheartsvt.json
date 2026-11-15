@@ -56,5 +56,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-09T22:35:05Z"
+    },
+    "youtube": {
+        "id": "UCesfRIXk0-BKqquPgQUfqdw",
+        "handle": "DaddySoraHeartsVT",
+        "title": "DaddySoraHeartsVT",
+        "description": "Vtuber",
+        "channelUrl": "https://www.youtube.com/channel/UCesfRIXk0-BKqquPgQUfqdw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/QhfX-w4u-_TOlcWfWXyukW9w2h4KTfRay0w5Ak1j8nB_npw_dCAxmA7o2Wb4GmPShkcYLOfveg=h300",
+        "subscriberCountText": "33 subscribers",
+        "videoCountText": "71 videos",
+        "fetchedAt": "2026-11-15T11:57:50Z"
     }
 }

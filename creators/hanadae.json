@@ -1,5 +1,5 @@
 {
-    "bio": "",
+    "bio": "Just a silly vr mute with face tracking and fullbody here to vibe:3\n\n❤️linktr.ee/Hanadae❤️",
     "twitch": {
         "id": "858586400",
         "login": "hanadae",
@@ -86,5 +86,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-28T23:53:56Z"
+    },
+    "kick": {
+        "id": 7405710,
+        "userId": 7723222,
+        "slug": "hanadae",
+        "username": "Hanadae",
+        "bio": "Just a silly vr mute with face tracking and fullbody here to vibe:3\n\n❤️linktr.ee/Hanadae❤️",
+        "profileImageUrl": "https://files.kick.com/images/user/7723222/profile_image/conversion/06f390e1-f978-46e9-b3ab-69e3a99cabfd-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/7405710/banner_image/f63ab279-20f5-4390-92df-c963d24e24d0",
+        "followersCount": 160,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "hanadae_"
+        },
+        "fetchedAt": "2026-11-15T11:56:05Z"
     }
 }

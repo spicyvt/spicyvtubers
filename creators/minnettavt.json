@@ -95,5 +95,37 @@
             "profileUrl": "https://x.com/minnettavita",
             "fetchedAt": "2026-10-26T14:33:16Z"
         }
+    },
+    "youtube": {
+        "id": "UCT2cC7ZUdTr5jOWx4rOfS8w",
+        "handle": "MinnettaVT",
+        "title": "MinnettaVT",
+        "description": "Where laid-back gaming, with a touch of scuff!\nhttps://minnetta.carrd.co\n",
+        "channelUrl": "https://www.youtube.com/channel/UCT2cC7ZUdTr5jOWx4rOfS8w",
+        "keywords": "Vtuber Gaming MissMinnVT MissMinn Minn Minnetta \"Minnetta Vita\"",
+        "profileImageUrl": "https://yt3.googleusercontent.com/JbWByRDu3UGt9tbGn0XVbABJYkMVEya4-U3kBGNI3iuFaD8yBFSj_CjfnCMGk_Ro1GqyUA3xhGo=h300",
+        "subscriberCountText": "182 subscribers",
+        "videoCountText": "71 videos",
+        "fetchedAt": "2026-11-15T11:48:28Z"
+    },
+    "kick": {
+        "id": 2495525,
+        "userId": 2550592,
+        "slug": "minnetta",
+        "username": "Minnetta",
+        "bio": "https://minnetta.carrd.co",
+        "profileImageUrl": "https://files.kick.com/images/user/2550592/profile_image/conversion/bad0c2db-a2b4-4fe0-a76c-a846cef14926-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/2495525/banner_image/3bc2f3d5-5ef4-4bb5-8d4c-d086d41af017",
+        "followersCount": 242,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "instagram": "minnettavt",
+            "twitter": "MinnettaVita",
+            "youtube": "MinnettaVT",
+            "discord": "wJzK2gBWjD",
+            "tiktok": "minnettavt"
+        },
+        "fetchedAt": "2026-11-15T11:48:29Z"
     }
 }

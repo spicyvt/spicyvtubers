@@ -100,5 +100,35 @@
             "profileUrl": "https://x.com/raku_sus",
             "fetchedAt": "2026-10-26T14:07:56Z"
         }
+    },
+    "youtube": {
+        "id": "UCt9NmvmwKDJgZZWUASAOy_Q",
+        "handle": "Raku_VT",
+        "title": "Raku'",
+        "description": "Just a cute blue haired anime vtuber who's trying to take on my steam library one game at a time! Join me and come along in this crazy journey slowly take over the world!",
+        "channelUrl": "https://www.youtube.com/channel/UCt9NmvmwKDJgZZWUASAOy_Q",
+        "keywords": "anime manga streaming 24/7 envtuber Twitchstreamer Twitchtv vtuberclips gaming vods \"Twitch clips\" VtuberShorts",
+        "profileImageUrl": "https://yt3.googleusercontent.com/XsMzKuhLbY8iHDeGs2eoOyaUBLmfhGFLNfpt0O-mauTZpvj3zacxA7LKYADxBVHGQv0CepbX=h300",
+        "subscriberCountText": "1.96K subscribers",
+        "videoCountText": "305 videos",
+        "fetchedAt": "2026-11-15T11:41:04Z"
+    },
+    "kick": {
+        "id": 1349046,
+        "userId": 1392998,
+        "slug": "raku_vt",
+        "username": "raku_vt",
+        "bio": "Just a cute blue haired anime vtuber who's trying to take on my steam library one game at a time! Join me and come along in this crazy journey slowly take over the world!",
+        "profileImageUrl": "https://files.kick.com/images/user/1392998/profile_image/conversion/67ef1478-b125-4b85-b416-24c12dfa4c22-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/1349046/banner_image/76298e06-c020-41a6-8e53-9e2d3888c6db",
+        "followersCount": 33,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "raku_vt",
+            "youtube": "raku_vt",
+            "discord": "raku"
+        },
+        "fetchedAt": "2026-11-15T11:41:05Z"
     }
 }

@@ -95,5 +95,35 @@
             "profileUrl": "https://x.com/zairainel",
             "fetchedAt": "2026-10-26T14:48:12Z"
         }
+    },
+    "kick": {
+        "id": 1906969,
+        "userId": 1959987,
+        "slug": "zairainel",
+        "username": "Zairainel",
+        "bio": "Introverted bookworm",
+        "profileImageUrl": "https://files.kick.com/images/user/1959987/profile_image/conversion/926c7b90-600d-4698-ae9f-c2ff361e6e4d-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/1906969/banner_image/8f6fc34a-86b5-4990-89ad-f408d84d6c7f",
+        "followersCount": 21,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "zairainel",
+            "youtube": "ZairainelVODs",
+            "tiktok": "zairainelttv"
+        },
+        "fetchedAt": "2026-11-15T11:53:17Z"
+    },
+    "youtube": {
+        "id": "UCsg1ovOtmg7YI8yDZdAS7pw",
+        "handle": "ZairainelVODs",
+        "title": "Zairainel",
+        "description": "VOD Channel  -  Gameplay, Scuff, Hilarity & More!\n\nFollow my social medias and stream!\n🔴 Stream  - https://www.twitch.tv/zairainel\n🐦 Twitter  - https://x.com/zairainel\n📱 TikTok - https://www.tiktok.com/@zairainel\n\nFor Business Inquiries Contact: buisness.zairainel@gmail.com\n\n\n",
+        "channelUrl": "https://www.youtube.com/channel/UCsg1ovOtmg7YI8yDZdAS7pw",
+        "keywords": "gaming pc vtuber twitch asmr chill scuff cringe mindbreak",
+        "profileImageUrl": "https://yt3.googleusercontent.com/KB5ztl240EzelkDtC1_sn_tPumBf_zvLThfR-gXVYhiWTZrKHvhL1xnF_4zl2oN4FIQHj0B0lg=h300",
+        "subscriberCountText": "175 subscribers",
+        "videoCountText": "56 videos",
+        "fetchedAt": "2026-11-15T11:58:28Z"
     }
 }

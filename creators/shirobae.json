@@ -86,5 +86,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-31T00:10:38Z"
+    },
+    "youtube": {
+        "id": "UCPWIbKgnQOOu6hXCDthVvww",
+        "handle": "shironhi",
+        "title": "ShiroBae",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCPWIbKgnQOOu6hXCDthVvww",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/Xk8D1_B7Uk0r8-7pnEDD4kL5Fb-d-4-F6asEajRr8JsZGHkoPGVlHb-k3EU-I9USBZktqfaZ6Q=h300",
+        "subscriberCountText": "109 subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-15T11:56:16Z"
     }
 }

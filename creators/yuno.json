@@ -109,5 +109,36 @@
             "profileUrl": "https://x.com/yunospice",
             "fetchedAt": "2026-10-26T14:41:33Z"
         }
+    },
+    "youtube": {
+        "id": "UCP8GbtG0syzRao6M7hQsMXA",
+        "handle": "YunoRein",
+        "title": "Yuno Rein Ch.",
+        "description": "I'm bound to this earth to do cozy ASMR and have a fun time ♥\n\n━━━━━━━━━━━━━━━━━━━━✧⭒\nCheck out my social media to discover more content! My Patreon has exclusive content for artwork and ASMR.\n━━━━━━━━━━━━━━━━━━━━✧⭒\nFor business inquiries, please contact me via mail",
+        "channelUrl": "https://www.youtube.com/channel/UCP8GbtG0syzRao6M7hQsMXA",
+        "keywords": "ASMR Anime Relax Chill Kawaii Vtuber",
+        "profileImageUrl": "https://yt3.googleusercontent.com/FQLNvyz1UgW6OA-zoiQhugN87I07y9pb45cZC9zW4tmL_QwpyaZyBLRU3yBrc_jRVF2PpBWOfg=h300",
+        "subscriberCountText": "9K subscribers",
+        "videoCountText": "237 videos",
+        "fetchedAt": "2026-11-15T11:51:12Z"
+    },
+    "kick": {
+        "id": 7905420,
+        "userId": 8657434,
+        "slug": "yuno",
+        "username": "yuno",
+        "bio": "Here for kissies, mwah!",
+        "profileImageUrl": "https://files.kick.com/images/user/8657434/profile_image/conversion/6782a730-372e-4520-b026-1132c343fb3c-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/7905420/banner_image/4e56b864-36f6-4bcd-82fc-6fb0042a6d54",
+        "followersCount": 1908,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "yunorein",
+            "youtube": "@yunorein",
+            "discord": "yunorein",
+            "tiktok": "yunorein"
+        },
+        "fetchedAt": "2026-11-15T11:51:13Z"
     }
 }

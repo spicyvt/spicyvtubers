@@ -63,5 +63,35 @@
         "channelImage": "https://pb3.rplay.live/pics/72d4391222a4665286f44cb0f4ff6299",
         "streamStartTime": null,
         "fetchedAt": "2026-11-03T17:50:35Z"
+    },
+    "youtube": {
+        "id": "UCPoty3M5WmiPhmjfj8psZzQ",
+        "handle": "KAORI_BLAZE",
+        "title": "KAORI🔥BLAZE",
+        "description": "BOOM BOOM BOOM 💣",
+        "channelUrl": "https://www.youtube.com/channel/UCPoty3M5WmiPhmjfj8psZzQ",
+        "keywords": "vtuber \"vtuber es\" gameplay ASMR shooters mexico",
+        "profileImageUrl": "https://yt3.googleusercontent.com/EApL7qC-IQwizSsO2CFUoqwfI54L7LYmnoCmo0CIbx1FIICTIOWd4nuV9aW__Nr2wgPMhVIDzZQ=h300",
+        "subscriberCountText": "701 subscribers",
+        "videoCountText": "1 video",
+        "fetchedAt": "2026-11-15T11:51:27Z"
+    },
+    "kick": {
+        "id": 34091387,
+        "userId": 35154971,
+        "slug": "kaoriblaze",
+        "username": "KaoriBlaze",
+        "bio": "Vtuber 🎙️ASMR | Tu Mercenaria favorita",
+        "profileImageUrl": "https://files.kick.com/images/user/35154971/profile_image/conversion/1b09d56a-b575-4705-b490-027e84a6e335-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/34091387/banner_image/1d3e603b-68b4-4870-af57-1a138ef9774d",
+        "followersCount": 2319,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "kaoriblaze",
+            "youtube": "channel/UCPoty3M5WmiPhmjfj8psZzQ",
+            "tiktok": "@kaoriblaze"
+        },
+        "fetchedAt": "2026-11-15T11:51:28Z"
     }
 }

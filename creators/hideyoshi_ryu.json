@@ -86,5 +86,35 @@
             "profileUrl": "https://x.com/hideyoshi_ryu",
             "fetchedAt": "2026-10-26T14:32:36Z"
         }
+    },
+    "youtube": {
+        "id": "UCbAmpLhAdso9SLU0RMl79RA",
+        "handle": "HideyoshiRyu",
+        "title": "HideyoshiRyu",
+        "description": "Cotton Candy Cagon VTuber\nAM/PM Talent Member\nTwitch Affiliate • VSmarties\nDrink Gamer Girl Partner\n💜💛 Yoshi Warriors 🩷🩵\n",
+        "channelUrl": "https://www.youtube.com/channel/UCbAmpLhAdso9SLU0RMl79RA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/gFVNpkDV2yf5S_edgiu8NVYrSaCKh3TtU7aTI8NojvyrcQN6ieqRPTyUKh1SEcjrfLibmQS9TlE=h300",
+        "subscriberCountText": "187 subscribers",
+        "videoCountText": "39 videos",
+        "fetchedAt": "2026-11-15T11:48:13Z"
+    },
+    "kick": {
+        "id": 61317671,
+        "userId": 62459141,
+        "slug": "hideyoshi-ryu",
+        "username": "hideyoshi_ryu",
+        "bio": "Just a dork who loves nature and video games",
+        "profileImageUrl": "https://files.kick.com/images/user/62459141/profile_image/conversion/526232c1-e95b-46bd-b622-fbe2b7063c5e-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/61317671/banner_image/225e1e94-1ce9-4ccc-8aa1-3eddf55d4dcd",
+        "followersCount": 98,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "youtube": "@HideyoshiRyu",
+            "discord": "hideyoshi_ryu",
+            "tiktok": "hideyoshi_ryu"
+        },
+        "fetchedAt": "2026-11-15T11:48:15Z"
     }
 }

@@ -1,5 +1,5 @@
 {
-    "bio": "",
+    "bio": "Your daily dose of cuteness~",
     "twitch": {
         "id": "1174377932",
         "login": "jinkyvr",
@@ -93,5 +93,37 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-01T10:31:59Z"
+    },
+    "youtube": {
+        "id": "UCpAwstSCH7BMDkc8PjN0jHg",
+        "handle": "JinkyVR",
+        "title": "JinkyVR",
+        "description": "Your daily dose of cuteness~",
+        "channelUrl": "https://www.youtube.com/channel/UCpAwstSCH7BMDkc8PjN0jHg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/2UF5WzUzMfUsI26BF3KyBJvoBrmy6LUUBcaRFhWllWfDlMTcq1bEor3RJy0CXl6ZlCVhgn59jg=h300",
+        "subscriberCountText": "390 subscribers",
+        "videoCountText": "25 videos",
+        "fetchedAt": "2026-11-15T11:56:22Z"
+    },
+    "kick": {
+        "id": 3214028,
+        "userId": 3278569,
+        "slug": "jinkyvr",
+        "username": "JinkyVR",
+        "bio": "Your personal comfy bunny~",
+        "profileImageUrl": "https://files.kick.com/images/user/3278569/profile_image/conversion/a7511eb0-4d9c-4ed7-bf88-87dd4dc3ae65-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/3214028/banner_image/d71fa44b-aa5c-4ce0-beab-90d125be961d",
+        "followersCount": 202,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "jinky_vr",
+            "twitter": "JinkyVRC",
+            "youtube": "channel/UCpAwstSCH7BMDkc8PjN0jHg",
+            "discord": "bv9anVCsrw",
+            "tiktok": "JinkyVR"
+        },
+        "fetchedAt": "2026-11-15T11:56:23Z"
     }
 }

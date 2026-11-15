@@ -117,5 +117,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:11Z"
+    },
+    "youtube": {
+        "id": "UCcdsxRfxI5caDg8D4mBFrsQ",
+        "handle": "ferritofcourseAWA_AWA",
+        "title": "Ferritofcourse",
+        "description": "Hawwo Hawwo cutie booties! My channel consists of video clips from streaming, funny skits I throw together, and full streams of story driven games! I've been off and on with content creation for a few years and will continue as long as I enjoy it and people enjoy it too!",
+        "channelUrl": "https://www.youtube.com/channel/UCcdsxRfxI5caDg8D4mBFrsQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/j68pBBCwZ1zWcK9xHA9NVUjvzGr-g85_lu4BaAMhI19IgQcz6ClIscqsH6Qadwdo4MhirjspQQ=h300",
+        "subscriberCountText": "158 subscribers",
+        "videoCountText": "27 videos",
+        "fetchedAt": "2026-11-15T11:54:15Z"
+    },
+    "kick": {
+        "id": 2372813,
+        "userId": 2427490,
+        "slug": "ferrit",
+        "username": "Ferrit",
+        "bio": "Uhhhh, hewwo? Welcome, welcome cutie booties! I'm absolutely addicted dancing and we do a little bit of exhibitionism! I love chatting so drop a Moo or a hello!\n\nMy Ferret's name is Frito and she absolutely loves stealing the T.V. remote!\n\nAll my art and emotes are done by MadiKaname. Current av base is by ImLeXz modified by Tinny.",
+        "profileImageUrl": "https://files.kick.com/images/user/2427490/profile_image/conversion/d47dc16a-87fc-490f-882f-1d6bccbe70e9-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/2372813/banner_image/1b406bbf-b2c5-427f-9192-832ea16d3459",
+        "followersCount": 1673,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "ferritofcourse",
+            "youtube": "channel/UCcdsxRfxI5caDg8D4mBFrsQ",
+            "discord": "cqQupW8b4e"
+        },
+        "fetchedAt": "2026-11-15T11:54:17Z"
     }
 }

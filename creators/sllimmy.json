@@ -93,5 +93,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-03T23:50:27Z"
+    },
+    "youtube": {
+        "id": "UChvyVm8wByQhOkWIPdxSmNw",
+        "handle": "SllimVR",
+        "title": "Sllimmy",
+        "description": "Hey! I'm Sllim and I make VR content! You can find me streaming over on Twitch!",
+        "channelUrl": "https://www.youtube.com/channel/UChvyVm8wByQhOkWIPdxSmNw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/zZi5iAmP_tW13QOf5Q1YV6tz8_SLFLKoKuF5Uaak0iqJP9bHxnHqeFmUgUf55IDg4OD1l54HHA=h300",
+        "subscriberCountText": "2.82K subscribers",
+        "videoCountText": "21 videos",
+        "fetchedAt": "2026-11-15T11:57:00Z"
+    },
+    "kick": {
+        "id": 1606817,
+        "userId": 1655255,
+        "slug": "sllimmy",
+        "username": "Sllimmy",
+        "bio": "I like metal and i stream sometimes. shitpost account",
+        "profileImageUrl": "https://files.kick.com/images/user/1655255/profile_image/conversion/df578f6c-491e-4ad7-a6b5-65fbba3fc2f7-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/1606817/banner_image/default-banner-2.jpg",
+        "followersCount": 1594,
+        "verified": true,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "SllimVT",
+            "youtube": "SllimVR",
+            "tiktok": "Sllimmy_"
+        },
+        "fetchedAt": "2026-11-15T11:57:01Z"
     }
 }

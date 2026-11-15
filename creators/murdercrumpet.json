@@ -95,5 +95,36 @@
             "profileUrl": "https://x.com/murdercrumpet",
             "fetchedAt": "2026-10-26T14:21:55Z"
         }
+    },
+    "youtube": {
+        "id": "UCppy5aNheQU7KREryGMA0Yg",
+        "handle": "MurderCrumpet",
+        "title": "Murder Crumpet",
+        "description": "My Twitch: twitch.tv/murdercrumpet\nMy TikTok: tiktok.com/@murdercrumpet\nMy Twitter: twitter.com/murdercrumpet\nBusiness Contact Email: MurderCrumpet@mythictalent.com\n",
+        "channelUrl": "https://www.youtube.com/channel/UCppy5aNheQU7KREryGMA0Yg",
+        "keywords": "VRChat \"Car The Cat\" murdercrumpet Vtuber",
+        "profileImageUrl": "https://yt3.googleusercontent.com/dy2FxoxAec1mZc0Odj6ejIrTEx5rBsIlERGZj3wFeAptiDX2UGt-Yw06ikL4VotvF0lBFiQUHA=h300",
+        "subscriberCountText": "37.3K subscribers",
+        "videoCountText": "1K videos",
+        "fetchedAt": "2026-11-15T11:45:18Z"
+    },
+    "kick": {
+        "id": 10832660,
+        "userId": 11593065,
+        "slug": "murdercrumpet",
+        "username": "MurderCrumpet",
+        "bio": "Call me Crumpet! I'm a virtual reality freak and part time vtuber! If you like degenerate VR socializing then this stream is for you!",
+        "profileImageUrl": "https://files.kick.com/images/user/11593065/profile_image/conversion/f37b1be6-d5ef-481e-afa8-8e674d7aab89-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/10832660/banner_image/eeda4a74-401e-404f-966d-836e186b04b0",
+        "followersCount": 7566,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "murdercrumpet",
+            "youtube": "murdercrumpet",
+            "discord": "murdercrumpet",
+            "tiktok": "murdercrumpet"
+        },
+        "fetchedAt": "2026-11-15T11:45:20Z"
     }
 }

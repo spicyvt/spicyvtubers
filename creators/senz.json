@@ -114,5 +114,38 @@
             "profileUrl": "https://x.com/sensfw",
             "fetchedAt": "2026-10-26T14:49:33Z"
         }
+    },
+    "youtube": {
+        "id": "UC9eFQ2XV4vS_FFwSrGcFjOg",
+        "handle": "SenzVT",
+        "title": "Senz",
+        "description": "Frost Incubus VTuber!\nLeader of the Snowmies!\n",
+        "channelUrl": "https://www.youtube.com/channel/UC9eFQ2XV4vS_FFwSrGcFjOg",
+        "keywords": "vtuber envtuber vtuberen \"english vtuber\" \"male vtuber\" \"masc vtuber\" asmr \"cute boy\" \"anime boy\" \"anime vtuber\" \"anime boy vtuber\" \"horror gaming\" \"horror games\" \"horror vtuber\" \"horror streamer\" \"dead by daylight\" \"ice demon king\" \"ice demon\" \"ice demon vtuber\" senz \"senz vtuber\" snowmies",
+        "profileImageUrl": "https://yt3.googleusercontent.com/jdjDwisEBCeuIAbBt3RSeryaOQ6Ym8_oSykodjOB8th9UdKCSdBWtnFsqhtXvxlOqRJcOCh0=h300",
+        "subscriberCountText": "168K subscribers",
+        "videoCountText": "1.1K videos",
+        "fetchedAt": "2026-11-15T11:53:39Z"
+    },
+    "kick": {
+        "id": 7344963,
+        "userId": 7440165,
+        "slug": "senz",
+        "username": "Senz",
+        "bio": "Yo! I'm Senz, Ice Demon King Vtuber! Chaotic, Cute, Leader of the Snowmies! ❄️🩵 ≧◡≦",
+        "profileImageUrl": "https://files.kick.com/images/user/7440165/profile_image/conversion/bdb35005-317d-4ed8-ae0c-f26b46941eef-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/7344963/banner_image/0fefe5f8-846c-4134-b60d-ca2462a0ba74",
+        "followersCount": 343,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "instagram": "senz.vt",
+            "twitter": "SenzVt",
+            "youtube": "SenzVT",
+            "discord": "senz",
+            "tiktok": "senzvt",
+            "facebook": "senzvtuber"
+        },
+        "fetchedAt": "2026-11-15T11:53:41Z"
     }
 }

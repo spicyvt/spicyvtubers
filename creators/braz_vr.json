@@ -106,5 +106,23 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-13T00:53:09Z"
+    },
+    "kick": {
+        "id": 101630488,
+        "userId": 102855434,
+        "slug": "braz-vr",
+        "username": "braz_vr",
+        "bio": "Newbie into Streaming",
+        "profileImageUrl": "https://files.kick.com/images/user/102855434/profile_image/conversion/c194bc64-3cc6-40ed-a4f0-bbe954f317e7-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/101630488/banner_image/d939b56d-2005-4588-9784-5df886ed31a7",
+        "followersCount": 139,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "instagram": "brazzy_vrc",
+            "twitter": "Brazzy_vrc",
+            "discord": "discord.gg/JTs6ckc7GS"
+        },
+        "fetchedAt": "2026-11-15T11:58:12Z"
     }
 }

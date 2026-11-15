@@ -127,5 +127,37 @@
             "profileUrl": "https://x.com/neneefthy",
             "fetchedAt": "2026-10-26T14:50:18Z"
         }
+    },
+    "youtube": {
+        "id": "UCz3WatoZHDSa6LrMVTW_5cA",
+        "handle": "NeneEfthy",
+        "title": "Nene Efthy",
+        "description": "Tu chilena de confianza, te contaré mis historias y de vez en cuando canto",
+        "channelUrl": "https://www.youtube.com/channel/UCz3WatoZHDSa6LrMVTW_5cA",
+        "keywords": "nenevt \"nene efthy\" neneefthy \"nene vtuber\" \"nene vt\" \"nene reacciona\" \"nenevt reacciona\" nenevtuber nefthy nefty",
+        "profileImageUrl": "https://yt3.googleusercontent.com/LSz5P5Kn8f7Rzu4RFVBNM7YGx2n70WMWKr_dsM-KkZwZj--sOQvoxbWBrx0CwG8DDaMh-uKUAw=h300",
+        "subscriberCountText": "91.8K subscribers",
+        "videoCountText": "139 videos",
+        "fetchedAt": "2026-11-15T11:53:54Z"
+    },
+    "kick": {
+        "id": 4189544,
+        "userId": 4270460,
+        "slug": "neneefthy",
+        "username": "NeneEfthy",
+        "bio": "Vivo en perúgod, nalgótica que causa temblores",
+        "profileImageUrl": "https://files.kick.com/images/user/4270460/profile_image/conversion/cd8bd130-4c22-4e40-bf55-979cd4cd97ca-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/4189544/banner_image/9cbe145b-c7fc-4e4d-95a9-227fa643b1cf",
+        "followersCount": 23108,
+        "verified": true,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "NeneEfthy",
+            "twitter": "NeneEfthy",
+            "youtube": "@NeneEfthy",
+            "discord": "9wrPvDjMfn",
+            "tiktok": "neneefthy"
+        },
+        "fetchedAt": "2026-11-15T11:53:56Z"
     }
 }

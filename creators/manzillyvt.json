@@ -81,5 +81,24 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-07T20:14:20Z"
+    },
+    "kick": {
+        "id": 12720996,
+        "userId": 13485678,
+        "slug": "manzilly",
+        "username": "Manzilly",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/13485678/profile_image/conversion/0fcdd389-a27a-4563-bc9f-99aac3247880-fullsize.webp",
+        "bannerImageUrl": null,
+        "followersCount": 4,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "manzillyverso",
+            "twitter": "manzillyvt",
+            "youtube": "c/manzilly",
+            "tiktok": "manzilly"
+        },
+        "fetchedAt": "2026-11-15T11:57:34Z"
     }
 }

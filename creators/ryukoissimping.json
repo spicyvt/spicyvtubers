@@ -110,5 +110,22 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-10T00:59:03Z"
+    },
+    "kick": {
+        "id": 2809049,
+        "userId": 2865251,
+        "slug": "ryukoissimping",
+        "username": "RyukoIsSimping",
+        "bio": "MEOW MEOW! I like to play video games, listen to music, and draw. I play a bunch of games :3",
+        "profileImageUrl": "https://files.kick.com/images/user/2865251/profile_image/conversion/9332f364-ce48-4f0d-8201-71187d510f61-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/2809049/banner_image/6ab3f1f9-5a52-4f61-b8f7-90e1f8ee0f05",
+        "followersCount": 173,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "RyukoIsSimping",
+            "twitter": "RyukoIsSimping"
+        },
+        "fetchedAt": "2026-11-15T11:57:54Z"
     }
 }

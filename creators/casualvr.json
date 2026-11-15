@@ -101,5 +101,34 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-03T22:49:19Z"
+    },
+    "youtube": {
+        "id": "UCWZQr1hilqPPrmvgBfojgWw",
+        "handle": "CasualVR123",
+        "title": "CasualVR",
+        "description": "Just a casual cat",
+        "channelUrl": "https://www.youtube.com/channel/UCWZQr1hilqPPrmvgBfojgWw",
+        "keywords": "CasualVR CasualMeowVR \"Visual ASMR\" Cozy Vtuber",
+        "profileImageUrl": "https://yt3.googleusercontent.com/SWvcHV3PvYHZ_aSdT-ramCC--muEp70ytx40e_CRrAafzvwsREjdG19kiuUAtxMQfm_EnSGOKA=h300",
+        "subscriberCountText": "618 subscribers",
+        "videoCountText": "45 videos",
+        "fetchedAt": "2026-11-15T11:56:53Z"
+    },
+    "kick": {
+        "id": 4953683,
+        "userId": 5044105,
+        "slug": "casualvr",
+        "username": "CasualVR",
+        "bio": "Hi I'm Casual! Come hang out and vibe and stuff! :)",
+        "profileImageUrl": "https://files.kick.com/images/user/5044105/profile_image/conversion/00781996-c679-4289-8d48-e271a1d96386-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/4953683/banner_image/812cd252-47f2-47ff-a7d8-c17de5535c44",
+        "followersCount": 826,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "CasualVR_",
+            "discord": "YMnHHPbty4"
+        },
+        "fetchedAt": "2026-11-15T11:56:54Z"
     }
 }

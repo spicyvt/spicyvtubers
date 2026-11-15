@@ -100,5 +100,37 @@
             "profileUrl": "https://x.com/sai_tussy",
             "fetchedAt": "2026-10-26T14:38:43Z"
         }
+    },
+    "youtube": {
+        "id": "UCk3H6sQeKy0Z9loHJZnIt3A",
+        "handle": "Saiyuna0",
+        "title": "Saiyuna",
+        "description": "All my Socials here: https://linktr.ee/saiyuna",
+        "channelUrl": "https://www.youtube.com/channel/UCk3H6sQeKy0Z9loHJZnIt3A",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/AH4M9d75Mqd_2NHDauC-AUbdUjHwe1PggRvdmAblF328Vp-pEnGM5tZaF5H8vleRZ7vRFaIaGg=h300",
+        "subscriberCountText": "642 subscribers",
+        "videoCountText": "124 videos",
+        "fetchedAt": "2026-11-15T11:50:16Z"
+    },
+    "kick": {
+        "id": 1321728,
+        "userId": 1365238,
+        "slug": "saiyuna",
+        "username": "saiyuna",
+        "bio": "Just a Introvert seeing what's up, so bear with me, come and chill!~",
+        "profileImageUrl": "https://files.kick.com/images/user/1365238/profile_image/conversion/5669b41c-4c48-4e57-8964-3d2e9c41455f-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/1321728/banner_image/a4c91133-c50d-4fe8-b62b-54d38587fbc3",
+        "followersCount": 228,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "Saiyuna0",
+            "twitter": "Saiyuna3",
+            "youtube": "@Saiyuna0",
+            "discord": "JMfTnTKCn",
+            "tiktok": "saiyuna0"
+        },
+        "fetchedAt": "2026-11-15T11:50:17Z"
     }
 }

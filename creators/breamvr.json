@@ -100,5 +100,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:39Z"
+    },
+    "youtube": {
+        "id": "UClk7FEIc0ZAyErP1L-dJ1DA",
+        "handle": "BreamVR",
+        "title": "BreamVR",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UClk7FEIc0ZAyErP1L-dJ1DA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/y30KqdApCBavGzwFIkV6vUnAnoUKeUbkEElMNTmfXoyrhaA_M8u6EmiS6CUkvBOYS0fQyj4Wmg=h300",
+        "subscriberCountText": "745 subscribers",
+        "videoCountText": "31 videos",
+        "fetchedAt": "2026-11-15T11:55:46Z"
     }
 }

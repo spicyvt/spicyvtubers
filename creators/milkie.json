@@ -109,5 +109,33 @@
             "profileUrl": "https://x.com/tasteofmilkie",
             "fetchedAt": "2026-10-26T14:21:02Z"
         }
+    },
+    "youtube": {
+        "id": "UCoHNLYOtAq3qqXqfPsqVIgA",
+        "handle": "MilkieBones",
+        "title": "Milkie Bones",
+        "description": "Under Construction",
+        "channelUrl": "https://www.youtube.com/channel/UCoHNLYOtAq3qqXqfPsqVIgA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/wXikr-Wq36SoqOoe3wcDqSsm7Iy1Ro3S2oKO0-XuqmqdC97W59fnkmvdcCMfk8b-yhWfANg2sg=h300",
+        "subscriberCountText": "1.22K subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-15T11:44:59Z"
+    },
+    "kick": {
+        "id": 84622875,
+        "userId": 85818244,
+        "slug": "milkie",
+        "username": "MILKIE",
+        "bio": "Comfy but Chaotic, a real Milkie Menace sometimes (づ◕‿‿◕｡)づ",
+        "profileImageUrl": "https://files.kick.com/images/user/85818244/profile_image/conversion/652e0d99-3e99-457c-8790-9ca55add6aa3-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/84622875/banner_image/f0de4202-0e7e-4e41-8bb7-a61ebac8dd88",
+        "followersCount": 2400,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "MilkieVT"
+        },
+        "fetchedAt": "2026-11-15T11:45:00Z"
     }
 }

@@ -56,5 +56,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-07T15:18:32Z"
+    },
+    "youtube": {
+        "id": "UCTgZSo0iOFoGFTcPNAYuciA",
+        "handle": "HexieVODs",
+        "title": "Hexie",
+        "description": "Welcome to Hexie's VOD channel!\nThis is where all of my Twitch VODs will go. Hope you enjoy them!\n",
+        "channelUrl": "https://www.youtube.com/channel/UCTgZSo0iOFoGFTcPNAYuciA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/acYvFp7E6Vc2YCcFugEo3LR2Ycqal-EVJXwPGfQXoYn2r7svq7mmxdN_y_ItCxcSEBP0m1HL_A=h300",
+        "subscriberCountText": "192 subscribers",
+        "videoCountText": "15 videos",
+        "fetchedAt": "2026-11-15T11:57:29Z"
     }
 }

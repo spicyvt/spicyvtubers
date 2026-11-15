@@ -93,5 +93,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-10T01:38:14Z"
+    },
+    "youtube": {
+        "id": "UCLmuR-Y4JOpX5hcPmYJPDuQ",
+        "handle": "Mrgoogsva",
+        "title": "Mrgoogs",
+        "description": "A funny Vtuber guy who likes to play Dungeons and Dragons, and many other games!",
+        "channelUrl": "https://www.youtube.com/channel/UCLmuR-Y4JOpX5hcPmYJPDuQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/U3ei6D9u6u2V4Bnxec0q9wTp1TmVPj75Eat_EHcceCJ8nkQFm6jQg3J0fGBI1-O848BR88nnSA=h300",
+        "subscriberCountText": "108 subscribers",
+        "videoCountText": "92 videos",
+        "fetchedAt": "2026-11-15T11:57:57Z"
     }
 }

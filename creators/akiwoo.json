@@ -95,5 +95,31 @@
             "profileUrl": "https://x.com/akiwoolive",
             "fetchedAt": "2026-10-26T14:32:34Z"
         }
+    },
+    "youtube": {
+        "id": "UCmTILNd148zIu3Q--Fd5-oQ",
+        "handle": "AkiVOD",
+        "title": "Akiwoo VODs",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCmTILNd148zIu3Q--Fd5-oQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/U2_Ccp65qfiAcjAeDYaP6NsTUD7jWv502mlzDR92QZtWKOB5gYnPzikxIMzblRThZrqeMHLOaFU=h300",
+        "subscriberCountText": "60 subscribers",
+        "videoCountText": "801 videos",
+        "fetchedAt": "2026-11-15T11:48:10Z"
+    },
+    "kick": {
+        "id": 83982,
+        "userId": 84910,
+        "slug": "akiwoo",
+        "username": "akiwoo",
+        "bio": "Welcome to the 𝓯𝓻𝓮𝓪𝓴𝔂𝔀𝓸𝓸 twitch channel. This is a comedy stream thinly disguised as gooner bait.",
+        "profileImageUrl": "https://files.kick.com/images/user/84910/profile_image/conversion/cfae4d3a-987f-42a9-8148-d8a21070f251-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/83982/banner_image/aebbfd57-7bef-43c4-b31f-2532d65a3a69",
+        "followersCount": 2717,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": [],
+        "fetchedAt": "2026-11-15T11:48:12Z"
     }
 }

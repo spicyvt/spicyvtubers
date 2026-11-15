@@ -192,5 +192,34 @@
         "channelImage": "https://pb2.rplay.live/pics/fe9de8f32057cb8f6b6138da2e467a87",
         "streamStartTime": "2026-10-25T22:27:26.000Z",
         "fetchedAt": "2026-10-26T15:04:42Z"
+    },
+    "youtube": {
+        "id": "UCnDdIXmq3Az7ZdY1qV7NX4g",
+        "handle": "DokiBakadere",
+        "title": " DokiBakadere",
+        "description": "I stream on Twitch, YouTube vids ->>  @DokibakadereASMR",
+        "channelUrl": "https://www.youtube.com/channel/UCnDdIXmq3Az7ZdY1qV7NX4g",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/kWphJv9PgCBukX9T1U22pBkf1uVZoNPdLP0BNmzo9ExCsIJ63T55zzFB33idR_NiRm96XjDO=h300",
+        "subscriberCountText": "325 subscribers",
+        "videoCountText": "39 videos",
+        "fetchedAt": "2026-11-15T11:54:30Z"
+    },
+    "kick": {
+        "id": 134489405,
+        "userId": 135307905,
+        "slug": "dokibakadere",
+        "username": "DokiBakadere",
+        "bio": "⧽・꒰ Your Coyote Little sister wont leave you alone~!! ꒱・🎀💤【Business inquires】: dokibakadere@gmail.com",
+        "profileImageUrl": "https://files.kick.com/images/user/135307905/profile_image/conversion/d053229e-5479-47fd-b5ea-c214a9010d69-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/134489405/banner_image/6a8eaa42-35e8-42ba-8073-67faf541c0c5",
+        "followersCount": 162,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "DokiBakadere",
+            "youtube": "@DokiBakadereASMR"
+        },
+        "fetchedAt": "2026-11-15T11:54:31Z"
     }
 }

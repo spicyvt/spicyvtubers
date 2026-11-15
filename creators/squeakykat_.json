@@ -95,5 +95,33 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:28Z"
+    },
+    "youtube": {
+        "id": "UCV1hBCR-RQo4FoJckGBRwbg",
+        "handle": "SqueakyKatMeow",
+        "title": "SqueakyKat_",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCV1hBCR-RQo4FoJckGBRwbg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/mrLc2OenJZ3PacUTBZaj8L_f86HQ_B6aHfWA5Yxa94YUkhVibRWm4MmKUiANdFN-1t74V8HHKA=h300",
+        "subscriberCountText": "448 subscribers",
+        "videoCountText": "4 videos",
+        "fetchedAt": "2026-11-15T11:55:11Z"
+    },
+    "kick": {
+        "id": 118541446,
+        "userId": 119791612,
+        "slug": "squeakykatvt",
+        "username": "SqueakyKatVT",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/119791612/profile_image/conversion/a8f83fc3-e9a9-48dc-b925-a74e8586046a-fullsize.webp",
+        "bannerImageUrl": null,
+        "followersCount": 2062,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "youtube": "@SqueakyKatMeow"
+        },
+        "fetchedAt": "2026-11-15T11:55:13Z"
     }
 }

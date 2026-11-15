@@ -95,5 +95,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:46:02Z"
+    },
+    "youtube": {
+        "id": "UCE9bvwCkBAyXzRREYEA1oEw",
+        "handle": "hanabiaero9222",
+        "title": "Hanabi Aero",
+        "description": "I make videos",
+        "channelUrl": "https://www.youtube.com/channel/UCE9bvwCkBAyXzRREYEA1oEw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/c1CserfCGObsLlPMFWF871vihVf1ghMe2j8UuRWzm71Diq3mdk9Kaec3i-kY2AW896QPOT45FTc=h300",
+        "subscriberCountText": "401 subscribers",
+        "videoCountText": "32 videos",
+        "fetchedAt": "2026-11-15T11:55:53Z"
     }
 }

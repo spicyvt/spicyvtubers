@@ -86,5 +86,31 @@
             "profileUrl": "https://x.com/kittyflutexbl",
             "fetchedAt": "2026-10-26T14:20:47Z"
         }
+    },
+    "youtube": {
+        "id": "UCihJjjRgY0l1F5wuk5va4mA",
+        "handle": "9rin9",
+        "title": "Kittyflute ",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCihJjjRgY0l1F5wuk5va4mA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/FiFD7giTFSEnvWwItHV_nmKE23yjVgvI3bbljtSdM-9cTPAnSvahR5lUqp_ruzx2i4-y2VafCg=h300",
+        "subscriberCountText": "1.99K subscribers",
+        "videoCountText": "8 videos",
+        "fetchedAt": "2026-11-15T11:44:55Z"
+    },
+    "kick": {
+        "id": 31934790,
+        "userId": 32989457,
+        "slug": "kittyflutevt",
+        "username": "KittyfluteVT",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/32989457/profile_image/conversion/5b86c16a-fea7-4055-b141-1dd01e95eda4-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/31934790/banner_image/d07c5d36-78d4-44e7-9735-59e1db600739",
+        "followersCount": 18689,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": [],
+        "fetchedAt": "2026-11-15T11:44:56Z"
     }
 }

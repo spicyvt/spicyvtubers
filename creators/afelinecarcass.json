@@ -93,5 +93,35 @@
         "accountCreatedAt": "2023-10-13T02:49:52.896Z",
         "profileUrl": "https://bsky.app/profile/afelinecarcass.bsky.social",
         "fetchedAt": "2026-10-26T14:58:05Z"
+    },
+    "youtube": {
+        "id": "UCOV7UnvOfaSdPumVwWl_DMg",
+        "handle": "afelinecarcass777",
+        "title": "afelinecarcass",
+        "description": "hi, i'm Rez! a goofy n' lewd eldritch demon catgirl that lives in a clocktower in,... god knows where, honestly. 😸\n\ni stream on a bunch of platforms, all from the clocktower! i get bored in here, sue me. 🤧\n\nhopefully i see you at one of my streams?~ 🥺🙏\n\nhttps://throne.com/afelinecarcass777 \n",
+        "channelUrl": "https://www.youtube.com/channel/UCOV7UnvOfaSdPumVwWl_DMg",
+        "keywords": "reznor reznorxero reznor0 xero twitch afelinecarcass vstreamer \"virtual streamer\" \"virtual youtuber\" goth emo egirl catgirl \"monster girl\" \"cat girl\" vtuber lewdtuber",
+        "profileImageUrl": "https://yt3.googleusercontent.com/7QK6zdxQd84ADvqzyY0S1VoJJuuEuPudbzYJaOuUjguOsxisk2Ru2_zd6beHKjwO3ypBRRo7mtA=h300",
+        "subscriberCountText": "271 subscribers",
+        "videoCountText": "129 videos",
+        "fetchedAt": "2026-11-15T11:53:33Z"
+    },
+    "kick": {
+        "id": 48454736,
+        "userId": 49569230,
+        "slug": "afelinecarcass777",
+        "username": "afelinecarcass777",
+        "bio": "hi, i'm Rez! a goofy n' lewd eldritch demon catgirl that lives in a clocktower in,... god knows where, honestly. 😸\n\ni stream on a bunch of platforms, all from the clocktower! i get bored in here, sue me. 🤧\n\nhopefully i see you at one of my streams?~ 🥺🙏\n\nhttps://afelinecarcass.carrd.co/",
+        "profileImageUrl": "https://files.kick.com/images/user/49569230/profile_image/conversion/eb64a458-303c-4d33-83e3-31cf1250c28a-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/48454736/banner_image/280143e0-0574-4060-b9ef-7b29f3c47294",
+        "followersCount": 66,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "instagram": "afelinecarcass777",
+            "youtube": "@afelinecarcass777",
+            "discord": "afelinecarcass"
+        },
+        "fetchedAt": "2026-11-15T11:53:34Z"
     }
 }

@@ -103,5 +103,33 @@
             "profileUrl": "https://x.com/moonbuvr",
             "fetchedAt": "2026-10-26T14:34:22Z"
         }
+    },
+    "youtube": {
+        "id": "UC3hJsnjK01WHv5_dreXmotQ",
+        "handle": "MoonBuVR",
+        "title": "MoonBuVR",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UC3hJsnjK01WHv5_dreXmotQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/rmeFgw2WhO5xccqv1VqsE6gy5gIoNzy4hb40M6EzlbZ8rCIQlvAGfuDTO4KsyHH4_jbBxsWQ=h300",
+        "subscriberCountText": "209 subscribers",
+        "videoCountText": "1 video",
+        "fetchedAt": "2026-11-15T11:48:44Z"
+    },
+    "kick": {
+        "id": 50854344,
+        "userId": 51974138,
+        "slug": "moonbuvr",
+        "username": "MoonBuVr",
+        "bio": "♡ Just a lil tiger ♡",
+        "profileImageUrl": "https://files.kick.com/images/user/51974138/profile_image/conversion/004f05e8-8a83-44f5-9fc6-b525ef353791-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/50854344/banner_image/e9fedd72-d4de-4988-8356-036e4b47f259",
+        "followersCount": 2226,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "MoonBuVR"
+        },
+        "fetchedAt": "2026-11-15T11:48:45Z"
     }
 }

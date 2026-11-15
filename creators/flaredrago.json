@@ -97,5 +97,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-07T19:48:31Z"
+    },
+    "youtube": {
+        "id": "UCbb99EfUKWMzXxmGHTWkeHA",
+        "handle": "Flare_VT",
+        "title": "FlareDrago",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCbb99EfUKWMzXxmGHTWkeHA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/RjhohGuQ11FPQdY0MHLeAt72Luz4_RSWMOvdOUfxh97CfAp4Y60hyU9t0Jvlb_q34fzFfMx9zw=h300",
+        "subscriberCountText": "241 subscribers",
+        "videoCountText": "20 videos",
+        "fetchedAt": "2026-11-15T11:57:33Z"
     }
 }

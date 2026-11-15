@@ -93,5 +93,33 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-03T22:24:32Z"
+    },
+    "youtube": {
+        "id": "UCr-WT6hReSZMfOwPJTg1QsA",
+        "handle": "PuppyInu",
+        "title": "PuppyInu",
+        "description": "wholesome puppygirl gaming!!!!! im a bit of a mechahead though.....",
+        "channelUrl": "https://www.youtube.com/channel/UCr-WT6hReSZMfOwPJTg1QsA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/-3pVFGv8uCP-tK74_RiXgoXkf2k5dn4nJpG1jfF-3VRbhz9x5kID0p05N8_n0Nm8FHhKbRsR5w=h300",
+        "subscriberCountText": "65 subscribers",
+        "videoCountText": "27 videos",
+        "fetchedAt": "2026-11-15T11:56:46Z"
+    },
+    "kick": {
+        "id": 74748930,
+        "userId": 75924857,
+        "slug": "puppyinu",
+        "username": "PuppyInu",
+        "bio": "puppygirl with a mecha addiction and slight homicidal tendencies. just slight.",
+        "profileImageUrl": "https://files.kick.com/images/user/75924857/profile_image/conversion/97f42808-6f1b-47db-84e0-2af328d32af8-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/74748930/banner_image/d79313d2-7cb7-4038-bf18-7ff54705111a",
+        "followersCount": 12,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "PuppyInu"
+        },
+        "fetchedAt": "2026-11-15T11:56:47Z"
     }
 }

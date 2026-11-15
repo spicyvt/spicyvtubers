@@ -99,5 +99,34 @@
         "channelImage": "https://pb2.rplay.live/pics/3e8d2530f82273cbe52bf4c9efc661e6",
         "streamStartTime": "2026-10-10T19:34:25.000Z",
         "fetchedAt": "2026-10-26T15:02:58Z"
+    },
+    "youtube": {
+        "id": "UCajnXdYkVM-SKB9epUpSlYA",
+        "handle": "BabyPinkVT",
+        "title": "BabyPinkVT Ch.",
+        "description": "Hi, I'm BabyPink, chronically sleepy indie Polish Vtuber streaming in English!\nASMR, RPGs, indie, strategy... anything to entertain my babycakes~\n",
+        "channelUrl": "https://www.youtube.com/channel/UCajnXdYkVM-SKB9epUpSlYA",
+        "keywords": "\"babypink asmr\" babypinkasmr \"babypink audio\" babypink asmr \"asmr vtuber\" vtuber \"en vtuber\"",
+        "profileImageUrl": "https://yt3.googleusercontent.com/a7j_0I1X7Xy8FD551XVU16LI-ODMBD6tSUEM70sx7lQoxmiBA6GxdJm6PZNJkZmIBNJHXKuMWQ=h300",
+        "subscriberCountText": "8.93K subscribers",
+        "videoCountText": "378 videos",
+        "fetchedAt": "2026-11-15T11:42:03Z"
+    },
+    "kick": {
+        "id": 25061183,
+        "userId": 26071256,
+        "slug": "babypinkvt",
+        "username": "BabyPinkVT",
+        "bio": "Slavic Mommy ASMRtist  | Find my ASMR RP on YT & Spicy Audio on Patreon as BabypinkASMR! | \nBusiness contact: bbpinkmailbox@gmail.com",
+        "profileImageUrl": "https://files.kick.com/images/user/26071256/profile_image/conversion/157d08b3-dbf4-4c36-9fe4-22869ab6aa2a-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/25061183/banner_image/4a2a59ce-1caf-4c4d-b451-987222d5f709",
+        "followersCount": 804,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "babypinkasmr",
+            "youtube": "babypinkasmr"
+        },
+        "fetchedAt": "2026-11-15T11:42:04Z"
     }
 }

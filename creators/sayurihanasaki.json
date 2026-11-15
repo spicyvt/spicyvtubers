@@ -133,5 +133,37 @@
         "channelImage": "https://pb2.rplay.live/pics/78d828218a76e4c67a317a53b823fcb6",
         "streamStartTime": "2026-10-23T03:14:09.163Z",
         "fetchedAt": "2026-10-26T15:04:00Z"
+    },
+    "youtube": {
+        "id": "UCI81P46JhSemSM8mGjLuU5g",
+        "handle": "SayuriHanasaki",
+        "title": "Sayuri Ch.",
+        "description": " Princesa súcubo mimada. Te acompaño de noche para que no te sientas solito🩷",
+        "channelUrl": "https://www.youtube.com/channel/UCI81P46JhSemSM8mGjLuU5g",
+        "keywords": "sayuri vtuber asmr \"asmr roleplay\" roleplay novia \"novia vtuber\" \"tu novia\" \"asmr para dormir\" \"asmr vtuber\"",
+        "profileImageUrl": "https://yt3.googleusercontent.com/Fy2FEEtuKmb1WxcmHSlxOMm7srGuo9i_b97c_SZbsqBQPDbMd3qx5ORM1a2CYGKKhouEfgIsgQ=h300",
+        "subscriberCountText": "9.02K subscribers",
+        "videoCountText": "246 videos",
+        "fetchedAt": "2026-11-15T11:50:56Z"
+    },
+    "kick": {
+        "id": 29260701,
+        "userId": 30302080,
+        "slug": "sayurivt",
+        "username": "SayuriVT",
+        "bio": "Bienvenido, mi dulce Bomboncito este es nuestro lugar especial 🩷",
+        "profileImageUrl": "https://files.kick.com/images/user/30302080/profile_image/conversion/c25e66e4-cdf8-49c2-8018-72f6cad8baea-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/29260701/banner_image/5da94f15-9e21-43f4-af7c-43583330ae83",
+        "followersCount": 671,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "sayuri__vt/",
+            "twitter": "HanasakiSayuri",
+            "youtube": "@HanasakiSayuri",
+            "discord": "https://discord.com/invite/jeHuBtnpVn",
+            "tiktok": "sayurivt_?lang=es"
+        },
+        "fetchedAt": "2026-11-15T11:50:57Z"
     }
 }

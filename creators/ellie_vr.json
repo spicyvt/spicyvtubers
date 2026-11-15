@@ -106,5 +106,22 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-13T00:53:09Z"
+    },
+    "kick": {
+        "id": 2425218,
+        "userId": 2480050,
+        "slug": "ellie-vr",
+        "username": "Ellie_VR",
+        "bio": "💜 hihi! My name is Ellie, I love music! I'm a VTuber & DJ in the Virtual World! I play a variety of music and even games! 💜 Don't be afraid to check me out on other places to!! - https://ellievr.carrd.co/ - 💜",
+        "profileImageUrl": "https://files.kick.com/images/user/2480050/profile_image/conversion/103d4aaf-b1a9-4ead-81cc-9ebbd00faeb3-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/2425218/banner_image/625977db-5580-4cee-af0e-c701f020eb2f",
+        "followersCount": 13,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "virtuall_ellie",
+            "tiktok": "virtuallellie"
+        },
+        "fetchedAt": "2026-11-15T11:58:13Z"
     }
 }

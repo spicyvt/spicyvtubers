@@ -100,5 +100,36 @@
             "profileUrl": "https://x.com/uzulewds",
             "fetchedAt": "2026-10-26T14:30:55Z"
         }
+    },
+    "youtube": {
+        "id": "UCfPtM3lmfccJQ8L8EZKip8g",
+        "handle": "UzuriMia",
+        "title": "Uzuri",
+        "description": "This Youtube belongs UzuriMia! Twitch partner streamer, Vtuber, certified Otaku!\n\nBlack Vtuber of the year 2024\nBlack Vtuber artist of the year 2024\n",
+        "channelUrl": "https://www.youtube.com/channel/UCfPtM3lmfccJQ8L8EZKip8g",
+        "keywords": "Vtuber Roleplayer Anime vrchat ENVtuber uzu uzuri uzurimia rp Otaku weeb neet",
+        "profileImageUrl": "https://yt3.googleusercontent.com/fuf_h-jjjXQja08urCLrhiX76PQ6x7bqpn5UHFadknpfjHqNZ-PeO4EhQYIEcEuL2ly52Yl_0w=h300",
+        "subscriberCountText": "1.62K subscribers",
+        "videoCountText": "87 videos",
+        "fetchedAt": "2026-11-15T11:47:46Z"
+    },
+    "kick": {
+        "id": 79498,
+        "userId": 80373,
+        "slug": "uzuri",
+        "username": "Uzuri",
+        "bio": "Just claiming my name. Sup I'm a moon rabbit Vtuber. Okay bye I love you.",
+        "profileImageUrl": "https://files.kick.com/images/user/80373/profile_image/conversion/eccab51a-9f7c-4a6f-be6e-2bba6cdd3523-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/79498/banner_image/83c614ad-4233-4939-94b6-a66c395b7628",
+        "followersCount": 258,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "Uzurimia",
+            "youtube": "@Uzurimia",
+            "discord": "4RwkAjG",
+            "tiktok": "Uzurimia"
+        },
+        "fetchedAt": "2026-11-15T11:47:48Z"
     }
 }

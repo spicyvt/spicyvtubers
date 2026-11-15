@@ -82,5 +82,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-14T21:40:16Z"
+    },
+    "youtube": {
+        "id": "UC1ewjZf2Dcf2-SFF7n_FE4Q",
+        "handle": "ashuukiYT",
+        "title": "ashuuki",
+        "description": "I stream on twitch @ twitch.tv/NekoMishhh",
+        "channelUrl": "https://www.youtube.com/channel/UC1ewjZf2Dcf2-SFF7n_FE4Q",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/IXhpnWo3dg4T-zq3SLiY8T-g3c2ZNWB7DDDvb7gXE60X6_tg6hpl3qKxk52B9W7JM7yBEDVSAWA=h300",
+        "subscriberCountText": "243 subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-15T11:43:25Z"
     }
 }

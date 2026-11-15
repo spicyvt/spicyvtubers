@@ -95,5 +95,31 @@
             "profileUrl": "https://x.com/mura_vt",
             "fetchedAt": "2026-10-26T14:24:33Z"
         }
+    },
+    "youtube": {
+        "id": "UCd38mxIH7vzej8KVdwPPh2w",
+        "handle": "mura",
+        "title": "Axel",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCd38mxIH7vzej8KVdwPPh2w",
+        "keywords": "xshinichi",
+        "profileImageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_n2udBzeYBteVO94AOvACDKqyHN4sBTqV2YenVzO3Y2Ic5h7sd9c1UhQi-g7V9kvb_L3A=h300",
+        "subscriberCountText": "8 subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-15T11:46:00Z"
+    },
+    "kick": {
+        "id": 79811,
+        "userId": 80686,
+        "slug": "mura",
+        "username": "mura",
+        "bio": "I meow sometimes ᓚᘏᗢ",
+        "profileImageUrl": "https://files.kick.com/images/user/80686/profile_image/conversion/bf9b8e2d-bec9-4680-839e-c9396999b672-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/79811/banner_image/82c7f33d-60bd-4656-9d26-103ec77b95a6",
+        "followersCount": 750,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": [],
+        "fetchedAt": "2026-11-15T11:46:01Z"
     }
 }

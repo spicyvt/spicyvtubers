@@ -95,5 +95,33 @@
             "profileUrl": "https://x.com/rileyvr54732",
             "fetchedAt": "2026-10-26T14:27:54Z"
         }
+    },
+    "youtube": {
+        "id": "UCI8238pTUWE60EqruxttKHw",
+        "handle": "Roxie_Riley",
+        "title": "Roxie & Riley",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCI8238pTUWE60EqruxttKHw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/5a6tsk9JbhokRL52Qvg0SwMgfDiG6uX9lqz2uAdsDN_Tg_ZvM7s7SeeXUp1YkXMq9uVj7nV5=h300",
+        "subscriberCountText": "100 subscribers",
+        "videoCountText": "8 videos",
+        "fetchedAt": "2026-11-15T11:46:52Z"
+    },
+    "kick": {
+        "id": 27496697,
+        "userId": 28526632,
+        "slug": "rileyvr",
+        "username": "RileyVR",
+        "bio": "(18+) Anti-social VRC mute / I squeak Affiliated w/ IridescenceVR | Business ONLY- RoxieRileyBusiness@protonmail.com",
+        "profileImageUrl": "https://files.kick.com/images/user/28526632/profile_image/conversion/4034341d-4b00-4c6e-a68c-8f764ecf0df1-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/27496697/banner_image/fb084db3-5df3-4b7a-a688-35c74abd57b3",
+        "followersCount": 675,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "RileyVr54732"
+        },
+        "fetchedAt": "2026-11-15T11:46:53Z"
     }
 }

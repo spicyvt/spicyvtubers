@@ -95,5 +95,22 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-30T00:12:26Z"
+    },
+    "kick": {
+        "id": 1771175,
+        "userId": 1822042,
+        "slug": "flexuh",
+        "username": "flexuh",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/1822042/profile_image/conversion/1a61537b-27cf-4b25-b384-1384685333c1-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/1771175/banner_image/be70d131-2647-4d84-ad27-941af19c392c",
+        "followersCount": 2829,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "flexuhVR",
+            "discord": "68be5NSkRp"
+        },
+        "fetchedAt": "2026-11-15T11:56:15Z"
     }
 }

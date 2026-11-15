@@ -95,5 +95,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:33Z"
+    },
+    "youtube": {
+        "id": "UCP0Wg5Ob0OJw6E9d6n2tagQ",
+        "handle": "FriskForneus",
+        "title": "Friskafist",
+        "description": "I'm a VTuber who does animations sometimes.",
+        "channelUrl": "https://www.youtube.com/channel/UCP0Wg5Ob0OJw6E9d6n2tagQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/ptVyTnRgDYEe2J0a_K7SrZxTFNR-9jPsPt7WSiZiDO4W8HIDP_9EDgK5EymJZNFug_fs1md7rOA=h300",
+        "subscriberCountText": "20 subscribers",
+        "videoCountText": "7 videos",
+        "fetchedAt": "2026-11-15T11:55:33Z"
     }
 }

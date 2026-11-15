@@ -139,5 +139,37 @@
         "channelImage": "https://pb2.rplay.live/pics/01ff1a0f03ebf7ddf4e3f778bc35a4df",
         "streamStartTime": "2026-09-19T21:16:27.000Z",
         "fetchedAt": "2026-10-26T15:03:34Z"
+    },
+    "youtube": {
+        "id": "UClgmMChzVjCVWbjqkUwvJxQ",
+        "handle": "Pixie_Wubs",
+        "title": "PixieWubs",
+        "description": "Livestreamer, Dancer, Gamer & Shapeshifter",
+        "channelUrl": "https://www.youtube.com/channel/UClgmMChzVjCVWbjqkUwvJxQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/wA9tMcnBqYrrkvUMUoo7o7HYqQpDD21KkTUMhRgUzTLDrGuJURuV5mVcU-2ClVK6pu49h-wRe6o=h300",
+        "subscriberCountText": null,
+        "videoCountText": null,
+        "fetchedAt": "2026-11-15T11:48:33Z"
+    },
+    "kick": {
+        "id": 11138869,
+        "userId": 11900280,
+        "slug": "pixiewubs",
+        "username": "PixieWubs",
+        "bio": "✨ Magical Pixie Kitsune Shapeshifter ✨Vtuber | Dancer | Streaming VRChat. Come escape with me into a world of virtual reality while I dance & wiggle! \n\nI multistream on Twitch.tv/Pixie_Pups!\n\nCome check me out on the rest of my social medias - https://pixiepups.carrd.co",
+        "profileImageUrl": "https://files.kick.com/images/user/11900280/profile_image/conversion/f0044652-e498-4d88-a0a1-936294e89799-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/11138869/banner_image/efe7acab-d9aa-402b-8815-1a0dd074a80c",
+        "followersCount": 732,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "https://www.instagram.com/pixiepups_",
+            "twitter": "https://www.twitch.tv/pixie_pups",
+            "youtube": "https://www.youtube.com/@PixiePups?sub_confirmation=1",
+            "discord": "https://discord.gg/Wzy7YCmV7S",
+            "tiktok": "https://www.tiktok.com/@pixie.pups"
+        },
+        "fetchedAt": "2026-11-15T11:48:34Z"
     }
 }

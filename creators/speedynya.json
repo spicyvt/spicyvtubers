@@ -119,5 +119,31 @@
             "profileUrl": "https://x.com/speedynya",
             "fetchedAt": "2026-10-26T14:43:57Z"
         }
+    },
+    "youtube": {
+        "id": "UClW-KmL07LKHjlyvCgcpEGQ",
+        "handle": "SpeedyNya",
+        "title": "SpeedyNya",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UClW-KmL07LKHjlyvCgcpEGQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/KJFxyn-XgbCcxBnZ-z1RLH_5PLZRAJ50Vrc8RRTN-u19nWl0-Wv1sU4Prxwh26NhsJAVu3ReSO0=h300",
+        "subscriberCountText": "1.07K subscribers",
+        "videoCountText": "11 videos",
+        "fetchedAt": "2026-11-15T11:52:06Z"
+    },
+    "kick": {
+        "id": 11059957,
+        "userId": 11821160,
+        "slug": "speedynya",
+        "username": "SpeedyNya",
+        "bio": "Your Local Goth Cat Girl",
+        "profileImageUrl": "https://files.kick.com/images/user/11821160/profile_image/conversion/4a359f85-74b3-49d1-9052-cadbdc63654e-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/11059957/banner_image/412a3b18-b69b-40a0-bc78-99975c7c4922",
+        "followersCount": 533,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": [],
+        "fetchedAt": "2026-11-15T11:52:08Z"
     }
 }

@@ -84,5 +84,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-03T23:50:27Z"
+    },
+    "youtube": {
+        "id": "UCIzgWFkdAXfo9Neyg5iYP4w",
+        "handle": "MattyDeath",
+        "title": "MattyDeath",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCIzgWFkdAXfo9Neyg5iYP4w",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_ktcjr_qqyTpYF12hvSbEKsyqtlVrXHSTvEeBr6IYFXcB0=h300",
+        "subscriberCountText": "4.44K subscribers",
+        "videoCountText": "62 videos",
+        "fetchedAt": "2026-11-15T11:56:57Z"
     }
 }

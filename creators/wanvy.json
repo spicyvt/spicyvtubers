@@ -95,5 +95,19 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:22Z"
+    },
+    "kick": {
+        "id": 32215057,
+        "userId": 33270873,
+        "slug": "wanvy",
+        "username": "Wanvy",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/33270873/profile_image/conversion/0e565204-47a6-4436-b953-5ecc1f555511-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/32215057/banner_image/aabed573-1366-47b7-991d-4f7dc435c425",
+        "followersCount": 161,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": [],
+        "fetchedAt": "2026-11-15T11:55:00Z"
     }
 }

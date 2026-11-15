@@ -96,5 +96,26 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-12T01:47:13Z"
+    },
+    "kick": {
+        "id": 1738912,
+        "userId": 1789226,
+        "slug": "dtjester",
+        "username": "DTJester",
+        "bio": "A jester VTuber that just wants to make people laugh, I enjoy modding and just being random",
+        "profileImageUrl": "https://files.kick.com/images/user/1789226/profile_image/conversion/0b62ce5a-49ed-4569-ae21-26760729132c-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/1738912/banner_image/9babf2a7-3627-4913-a0d1-419786f5caf3",
+        "followersCount": 946,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "dtjestervr/",
+            "twitter": "dt_jester",
+            "youtube": "DTJester",
+            "discord": "UkkBF4dyc9",
+            "tiktok": "dtjestervr",
+            "facebook": "DTJesterVR"
+        },
+        "fetchedAt": "2026-11-15T11:58:09Z"
     }
 }

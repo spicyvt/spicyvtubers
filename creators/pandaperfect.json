@@ -113,5 +113,24 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-07T00:45:52Z"
+    },
+    "kick": {
+        "id": 3492764,
+        "userId": 3563479,
+        "slug": "pandaperfect",
+        "username": "Pandaperfect",
+        "bio": "I am a Xenomoprh-Zombie-Anime and Panda enthusiast. I stream what I feel like.\nThrone: https://throne.com/Pandaperfect\nhttps://pandaperfect.carrd.co/",
+        "profileImageUrl": "https://files.kick.com/images/user/3563479/profile_image/conversion/9106f130-a713-4184-b664-31f5d618043b-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/3492764/banner_image/85e82668-f068-460c-a8ab-d0373978d455",
+        "followersCount": 480,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "ThePandaperfect",
+            "youtube": "@Pandaperfect93",
+            "discord": "3vZFcgBKUS",
+            "tiktok": "thepandaperfect"
+        },
+        "fetchedAt": "2026-11-15T11:57:26Z"
     }
 }

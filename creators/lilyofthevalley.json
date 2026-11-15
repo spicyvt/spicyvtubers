@@ -132,5 +132,31 @@
         "channelImage": "https://pb3.rplay.live/pics/b57d89a7f50f23ed73f57c7dbbf082b9",
         "streamStartTime": null,
         "fetchedAt": "2026-10-26T15:03:15Z"
+    },
+    "youtube": {
+        "id": "UCb6ywcQXZNEoTICv2LjOGxw",
+        "handle": "LOTVASMR",
+        "title": "Lily Of The Valley ASMR",
+        "description": "Lily Of The Valley's ASMR channel! Get comfy and enjoy the tingles!",
+        "channelUrl": "https://www.youtube.com/channel/UCb6ywcQXZNEoTICv2LjOGxw",
+        "keywords": "ASMR Vtuber Comfy Relaxing",
+        "profileImageUrl": "https://yt3.googleusercontent.com/fUe-1vUSWB8Vhq_Qg2sJ-r2xGhzbVQQ2X-WV-20zDT4Pj6D5v0z2XM4JDvCUtaH1XDSKEaC1Mg=h300",
+        "subscriberCountText": "425 subscribers",
+        "videoCountText": "6 videos",
+        "fetchedAt": "2026-11-15T11:45:02Z"
+    },
+    "kick": {
+        "id": 104477451,
+        "userId": 105710949,
+        "slug": "lilyofthevalley",
+        "username": "LilyOfTheValley",
+        "bio": "Former elven priestess turned ASMRtist. I usually stream around midnight/1AM CEST. | 18+ | Business: lilyofthevalleyvt@gmail.com",
+        "profileImageUrl": "https://files.kick.com/images/user/105710949/profile_image/conversion/607e9e2c-79c4-4f12-8fea-9682c0720a1e-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/104477451/banner_image/476fa6e2-e931-4205-97b6-15cd774ecc54",
+        "followersCount": 825,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": [],
+        "fetchedAt": "2026-11-15T11:45:03Z"
     }
 }

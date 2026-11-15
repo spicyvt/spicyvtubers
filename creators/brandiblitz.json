@@ -127,5 +127,37 @@
             "profileUrl": "https://x.com/brandiblitzvt",
             "fetchedAt": "2026-10-26T14:35:30Z"
         }
+    },
+    "youtube": {
+        "id": "UCslKfSiMl9qIqHakYL2OPpw",
+        "handle": "BrandiBlitzandFriends",
+        "title": "BrandiBlitz & Friends",
+        "description": "Highlights and compilations of stream collabs! vibing and all!~",
+        "channelUrl": "https://www.youtube.com/channel/UCslKfSiMl9qIqHakYL2OPpw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/LI7FuTGaoIjQ273oflMf8oFjrAWW1usxnCdYuwiGONyAwJKXLr-tVIpxY83ms0HzjR8HOeolcQ=h300",
+        "subscriberCountText": "8 subscribers",
+        "videoCountText": "6 videos",
+        "fetchedAt": "2026-11-15T11:49:14Z"
+    },
+    "kick": {
+        "id": 8306030,
+        "userId": 9059430,
+        "slug": "brandiblitz",
+        "username": "BrandiBlitz",
+        "bio": "Aspiring Manga artist, vtuber, and programmer!",
+        "profileImageUrl": "https://files.kick.com/images/user/9059430/profile_image/conversion/540419cc-05e5-4062-9d51-141c018226d7-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/8306030/banner_image/d72c3bd5-e4d1-4442-8c0d-bb49b740d5ff",
+        "followersCount": 134,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "instagram": "BrandiBlitz",
+            "twitter": "BrandiBlitzVT",
+            "youtube": "BrandiBlitz",
+            "discord": "XuFXMccCGf",
+            "tiktok": "BrandiBlitz"
+        },
+        "fetchedAt": "2026-11-15T11:49:15Z"
     }
 }

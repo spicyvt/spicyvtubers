@@ -95,5 +95,35 @@
             "enabled": false
         },
         "fetchedAt": "2026-10-28T23:53:56Z"
+    },
+    "youtube": {
+        "id": "UCfhdX1tdljVnfcsycWcKGRg",
+        "handle": "Neetw",
+        "title": "Neetw",
+        "description": "VR Content Creator.\nCinematic\nPagan\nComfy\n",
+        "channelUrl": "https://www.youtube.com/channel/UCfhdX1tdljVnfcsycWcKGRg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/0y8N_KP7SZ1CQzU28hpqgXvyqZh0tzLA5u5xSu4BeYs3lS7dfbWXLdLR5BLyRYQ876-hh5KVjA=h300",
+        "subscriberCountText": "866 subscribers",
+        "videoCountText": "52 videos",
+        "fetchedAt": "2026-11-15T11:55:58Z"
+    },
+    "kick": {
+        "id": 76496,
+        "userId": 77293,
+        "slug": "neet",
+        "username": "Neet",
+        "bio": "Mute VRChat streamer, i'm a raccoon succubus hybrid (Raccubus) i mostly vibe and jam on stream to music while talking to chat having a great time!",
+        "profileImageUrl": "https://files.kick.com/images/user/77293/profile_image/conversion/2128f0e6-7a22-44cc-abc7-1ecdd54bff4a-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/76496/banner_image/1193cff0-a7aa-4c5b-b727-fca2ddb84d05",
+        "followersCount": 1946,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "instagram": "Neet_vr",
+            "twitter": "Neetvr",
+            "discord": "neetw"
+        },
+        "fetchedAt": "2026-11-15T11:56:00Z"
     }
 }

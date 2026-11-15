@@ -46,5 +46,23 @@
             "profileUrl": "https://x.com/wettvr",
             "fetchedAt": "2026-10-26T14:37:14Z"
         }
+    },
+    "kick": {
+        "id": 25236951,
+        "userId": 26248104,
+        "slug": "wettvr",
+        "username": "WettVR",
+        "bio": "Just a silly ASMR YouTuber :3 I do stuffs sometimes",
+        "profileImageUrl": "https://files.kick.com/images/user/26248104/profile_image/conversion/4e6b7704-cce9-45f8-ae6a-f10592483b44-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/25236951/banner_image/3bf8403e-6c44-44c0-a2b6-ed1b95907c8b",
+        "followersCount": 862,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "wettvr",
+            "youtube": "@WETTASMR",
+            "tiktok": "wettasmr"
+        },
+        "fetchedAt": "2026-11-15T11:49:48Z"
     }
 }

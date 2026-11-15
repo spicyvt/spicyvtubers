@@ -86,5 +86,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:06Z"
+    },
+    "youtube": {
+        "id": "UC_JjG55JAJRstzFvjdsnjvA",
+        "handle": "MoravicusVods",
+        "title": "MoravicusVods",
+        "description": "VOD Channel for Moravicus! In case you missed a stream or feel like watching a silly moment again, most VODS are here!",
+        "channelUrl": "https://www.youtube.com/channel/UC_JjG55JAJRstzFvjdsnjvA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/ApJ4VafRv1wesyTBIBZ3pGIGhNxel3Zca-vskfK40yq8csApR9cU6PYvCEMPoDrD8Y_GFyqa=h300",
+        "subscriberCountText": "107 subscribers",
+        "videoCountText": "106 videos",
+        "fetchedAt": "2026-11-15T11:54:09Z"
     }
 }

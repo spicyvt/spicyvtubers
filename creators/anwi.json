@@ -100,5 +100,34 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:06Z"
+    },
+    "kick": {
+        "id": 64198359,
+        "userId": 65345767,
+        "slug": "anwianwi",
+        "username": "AnwiAnwi",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/65345767/profile_image/conversion/a72e44c0-abca-41ff-a0de-022794377960-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/64198359/banner_image/f3872837-bfae-48ea-a9fd-c3bb801915b6",
+        "followersCount": 173,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "anwianwii",
+            "youtube": "AnwiAnwii"
+        },
+        "fetchedAt": "2026-11-15T11:54:04Z"
+    },
+    "youtube": {
+        "id": "UCe0z7GklxNSg5hH_frE-Qjg",
+        "handle": "AnwiASMR",
+        "title": "Anwi",
+        "description": "Hello!! I'm a Vtuber! Thank you for checking me out~",
+        "channelUrl": "https://www.youtube.com/channel/UCe0z7GklxNSg5hH_frE-Qjg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/9QDvMZmki3ExnqjHT-D5YJjaRkZOYGUfo7YwCeNAshvwh_xtYlwgrdxiUUlByVeyHxSBuOjSKfk=h300",
+        "subscriberCountText": "1.22K subscribers",
+        "videoCountText": "37 videos",
+        "fetchedAt": "2026-11-15T11:58:30Z"
     }
 }

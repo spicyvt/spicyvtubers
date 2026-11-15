@@ -120,5 +120,36 @@
         "channelImage": "https://pb3.rplay.live/pics/8c6439e7cd91b85ecad7e20a6bafa0ea",
         "streamStartTime": "2026-10-26T00:56:45.551Z",
         "fetchedAt": "2026-10-26T15:03:33Z"
+    },
+    "youtube": {
+        "id": "UCLbwXamCV45BvVnYWSUnrYQ",
+        "handle": "DarlingBubblesOfficial",
+        "title": "Darling Bubbles",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCLbwXamCV45BvVnYWSUnrYQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/CtHVlj7VY8mRghgAXVlhxd4FiI4BIIi-WyeZR7r60bleFoRhoYxoKulC8miJc695dVyuJUyKdQ=h300",
+        "subscriberCountText": "229 subscribers",
+        "videoCountText": "19 videos",
+        "fetchedAt": "2026-11-15T11:48:30Z"
+    },
+    "kick": {
+        "id": 29509823,
+        "userId": 30552661,
+        "slug": "darlingkuromi",
+        "username": "DarlingKuromi",
+        "bio": "♥ Your 5’2 shortstack gothic tomboy doll, stitched together with frills, lace, bows… and all the wicked thoughts I shouldn’t act on, but do anyway\nSome dolls are for display. I’m for the ones brave enough to touch ♥\n\nI’m the kind of stream you stumble into and can’t bring yourself to leave\nThe one you minimize when someone walks by… but never actually close\nIf you’ve found me, you’ve already stepped inside my dollhouse might as well explore\n\nCome sit with me. Let your pulse quicken",
+        "profileImageUrl": "https://files.kick.com/images/user/30552661/profile_image/conversion/286beebf-c469-47a5-b66c-a74af44cf246-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/29509823/banner_image/83652e72-2342-4fb5-9eb4-f85bdef9341f",
+        "followersCount": 1875,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "@DarlingBubbles",
+            "youtube": "@DarlingBubblesOfficial",
+            "discord": "discord.gg/WXQDmv4jtM",
+            "tiktok": "bubbleowovr"
+        },
+        "fetchedAt": "2026-11-15T11:48:32Z"
     }
 }

@@ -93,5 +93,21 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-03T22:24:32Z"
+    },
+    "kick": {
+        "id": 24855659,
+        "userId": 25863946,
+        "slug": "vavi-cat",
+        "username": "Vavi_Cat",
+        "bio": "Gay Cat online !  I'm new, so please be patient while I learn ♥\n\nSocials: https://linktr.ee/vavi_cat",
+        "profileImageUrl": "https://files.kick.com/images/user/25863946/profile_image/conversion/6933a339-1e63-47e7-96a6-aa70f815bf07-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/24855659/banner_image/bfe9f526-0af8-4df1-9ccb-71231c4bd891",
+        "followersCount": 364,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "vavicatmeow"
+        },
+        "fetchedAt": "2026-11-15T11:56:49Z"
     }
 }

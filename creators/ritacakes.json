@@ -123,5 +123,37 @@
             "profileUrl": "https://x.com/itsritacakes",
             "fetchedAt": "2026-10-26T14:38:08Z"
         }
+    },
+    "youtube": {
+        "id": "UCXBp_yPx3z89AXxcg1Fs3vA",
+        "handle": "sivanebs",
+        "title": "sivanebs",
+        "description": "I'm a VTuber who likes to make funny videos covering news and VTuber Drama!",
+        "channelUrl": "https://www.youtube.com/channel/UCXBp_yPx3z89AXxcg1Fs3vA",
+        "keywords": "vtuber gaming funny vrchat \"siva vtuber\" sivanebs siva \"siva nebs\" nebs \"nebs vtuber\" envtuber \"siva envtuber\" \"sivanebs vtuber\"",
+        "profileImageUrl": "https://yt3.googleusercontent.com/8o6v7JYMHXyPPnS_AwLyZhAYccJndEx2wRLcVwTRT3KdgtEx3GngUKbOGOUj2BbkFdi9szbbULA=h300",
+        "subscriberCountText": "2.04K subscribers",
+        "videoCountText": "97 videos",
+        "fetchedAt": "2026-11-15T11:50:00Z"
+    },
+    "kick": {
+        "id": 43656142,
+        "userId": 44758877,
+        "slug": "ritacakes",
+        "username": "ritacakes",
+        "bio": "Hiiiii. I'm Rita! I'm a VTuber who mainly focuses on ASMR RP in a 3D environment as well as messing around with friends in VRChat. I'm open to discussion so feel free to ask anything!",
+        "profileImageUrl": "https://files.kick.com/images/user/44758877/profile_image/conversion/8adf5357-de8a-4cf3-8c46-9be9a1025b0f-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/43656142/banner_image/6db990c7-f27d-462e-a68e-a313d7b94fa7",
+        "followersCount": 4264,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "instagram": "ritaritavr",
+            "twitter": "RitaRitaVR",
+            "youtube": "@sivanebs",
+            "discord": "onlygoons",
+            "tiktok": "ritaritavr"
+        },
+        "fetchedAt": "2026-11-15T11:50:02Z"
     }
 }

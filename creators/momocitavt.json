@@ -118,5 +118,34 @@
         "channelImage": "https://pb2.rplay.live/pics/da5d5bbc0bab8fef88494de924a71d1a",
         "streamStartTime": "2026-09-20T06:26:09.000Z",
         "fetchedAt": "2026-10-26T15:03:32Z"
+    },
+    "youtube": {
+        "id": "UCBCf19bI5d3-0ERXZ7s43wg",
+        "handle": "GyaruCita",
+        "title": "GyaruCita",
+        "description": "Hey hey everyone! This is GyaruCita, your new best & favorite ASMR channel! ♥ I hope you enjoy my content and decide to support it!!!",
+        "channelUrl": "https://www.youtube.com/channel/UCBCf19bI5d3-0ERXZ7s43wg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/qHzfrV858PNolj0pwJuGC6cgZHVq9iIVxVA07fAmPyyFGNpJeTvhHU1EIdwZzJypja6aUfFy=h300",
+        "subscriberCountText": "8.64K subscribers",
+        "videoCountText": "7 videos",
+        "fetchedAt": "2026-11-15T11:48:18Z"
+    },
+    "kick": {
+        "id": 47110766,
+        "userId": 48223249,
+        "slug": "momocita",
+        "username": "MomoCita",
+        "bio": "📅 Check my Schedule at: https://x.com/MomoCitaVT | 🔥Socials: https://linktr.ee/momocitavt | 📧Business Mail: momocitabusiness@gmail.com",
+        "profileImageUrl": "https://files.kick.com/images/user/48223249/profile_image/conversion/ea7d7684-b952-4021-bd14-fc52ecb5a0dd-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/47110766/banner_image/d6ceaa6d-09d4-47be-83f2-f9f5acff9362",
+        "followersCount": 23673,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "MomoCitaVT",
+            "youtube": "MomoCitaYT"
+        },
+        "fetchedAt": "2026-11-15T11:48:19Z"
     }
 }

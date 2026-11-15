@@ -86,5 +86,35 @@
             "profileUrl": "https://x.com/msmeows_",
             "fetchedAt": "2026-10-26T14:34:51Z"
         }
+    },
+    "youtube": {
+        "id": "UCr7RGU48U-H5xj49RBW7VTQ",
+        "handle": "MsMeowvr",
+        "title": "MsMeow",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCr7RGU48U-H5xj49RBW7VTQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/697OgTRgaiV-frDo4IRDP-9O1sFvclcMbXY72fhsc0vyC4cyooJ8gQiH9tl7zSaAiBeZSWcTSQ=h300",
+        "subscriberCountText": "1.11K subscribers",
+        "videoCountText": "41 videos",
+        "fetchedAt": "2026-11-15T11:48:54Z"
+    },
+    "kick": {
+        "id": 4684616,
+        "userId": 4771890,
+        "slug": "msmeows",
+        "username": "MsMeows",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/4771890/profile_image/conversion/1b1a4d10-4bd0-48e2-802c-e99ccbb00f6a-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/4684616/banner_image/9f4933a1-ad30-463c-9107-2a9016103c61",
+        "followersCount": 498,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "CasualMeowVR",
+            "discord": "https://discord.gg/ymBdYBrVsc",
+            "tiktok": "https://www.tiktok.com/@casualmeowvr"
+        },
+        "fetchedAt": "2026-11-15T11:48:55Z"
     }
 }

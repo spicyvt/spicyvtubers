@@ -123,5 +123,35 @@
             "profileUrl": "https://x.com/osiimiart",
             "fetchedAt": "2026-10-26T14:30:52Z"
         }
+    },
+    "kick": {
+        "id": 93479191,
+        "userId": 94690103,
+        "slug": "osiimivt",
+        "username": "osiimivt",
+        "bio": "Succubus Vtuber + Artist '💜'↝\nSupport me on ✦ https://osiimi.carrd.co/# '💜'↝ Donate ✦ https://streamelements.com/osiimivt/tip",
+        "profileImageUrl": "https://files.kick.com/images/user/94690103/profile_image/conversion/208b65ce-d97e-4d6c-85c7-88c91401e9d6-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/93479191/banner_image/9eb3d967-e0c2-4040-a64d-5219026eb177",
+        "followersCount": 5140,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "instagram": "osiimiartist",
+            "twitter": "osiimivt",
+            "youtube": "osiimivt"
+        },
+        "fetchedAt": "2026-11-15T11:47:45Z"
+    },
+    "youtube": {
+        "id": "UCZc7BmxxLajrhlnC8k_fz7w",
+        "handle": "OsiimiVT",
+        "title": "Osiimi",
+        "description": "‘💜’↝ succubus \n\n⫘ osiimi.carrd.co ⫘",
+        "channelUrl": "https://www.youtube.com/channel/UCZc7BmxxLajrhlnC8k_fz7w",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/9aSSmhwHGsfEF1cJKwfHzzVqSX66I8-jV7XuZ7mIa9ZlhRY7lZCeVF-RKiXnqcci1rBHvx2hQg=h300",
+        "subscriberCountText": "1.36K subscribers",
+        "videoCountText": "41 videos",
+        "fetchedAt": "2026-11-15T11:58:25Z"
     }
 }

@@ -93,5 +93,33 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-03T23:50:27Z"
+    },
+    "youtube": {
+        "id": "UCWmdvJbl5pLghiUGNbiGKRw",
+        "handle": "KikoKinetica",
+        "title": "KikoKinetica",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCWmdvJbl5pLghiUGNbiGKRw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/74lCNDWWJQBP_DYPNPPeAHhKmRYGjd_rH9RKvBRwi8Ysw2PqDfVGagDiw8EOCKIUnoC7MV4=h300",
+        "subscriberCountText": "67 subscribers",
+        "videoCountText": "1 video",
+        "fetchedAt": "2026-11-15T11:57:05Z"
+    },
+    "kick": {
+        "id": 17411394,
+        "userId": 18292225,
+        "slug": "kikokinetica",
+        "username": "KikoKinetica",
+        "bio": "!Schedule Tuesday and Thursday 1pm EST!",
+        "profileImageUrl": "https://files.kick.com/images/user/18292225/profile_image/conversion/1b638043-fedf-4bbe-83aa-959925bfbef7-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/17411394/banner_image/9b1eb157-0b50-4f03-8efd-9b78d12592cb",
+        "followersCount": 4052,
+        "verified": true,
+        "isAffiliate": false,
+        "socials": {
+            "discord": "KwsxR6MJYK"
+        },
+        "fetchedAt": "2026-11-15T11:57:06Z"
     }
 }

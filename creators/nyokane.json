@@ -129,5 +129,25 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-04T01:07:47Z"
+    },
+    "kick": {
+        "id": 6797844,
+        "userId": 6891991,
+        "slug": "yunany",
+        "username": "YunaNy",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/6891991/profile_image/conversion/256d67e9-5198-43b9-b733-ac330267352b-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/6797844/banner_image/default-banner-2.jpg",
+        "followersCount": 144,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "ny_okane",
+            "twitter": "ny_okane",
+            "youtube": "nyokane",
+            "discord": "Z5gYBQgtJP",
+            "tiktok": "ny_okane"
+        },
+        "fetchedAt": "2026-11-15T11:57:11Z"
     }
 }

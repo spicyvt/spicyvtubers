@@ -111,5 +111,35 @@
         "channelImage": "https://pb2.rplay.live/pics/f1468496f1728ad450b3d3538b3bcb2e",
         "streamStartTime": null,
         "fetchedAt": "2026-10-26T15:03:27Z"
+    },
+    "youtube": {
+        "id": "UCi0iaDWgiHW5nXKcWM9SSXw",
+        "handle": "AetherealAri",
+        "title": "Aethereal Ari",
+        "description": "A little Jackalope that was transformed into a human in order to bring you comfort and love. \nSometimes plays video games as well and asmr and comfy talks. \nI mainly stream on Twitch and post my vods here. \n",
+        "channelUrl": "https://www.youtube.com/channel/UCi0iaDWgiHW5nXKcWM9SSXw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/-WDgV5RlSt0TFMRgna1i5MCblmGPBxvwT8tUZSueZNkotxXWrV6xd6xy4zEUBnJqMP4EnMOxeA=h300",
+        "subscriberCountText": "1.66K subscribers",
+        "videoCountText": "217 videos",
+        "fetchedAt": "2026-11-15T11:47:39Z"
+    },
+    "kick": {
+        "id": 1724882,
+        "userId": 1774924,
+        "slug": "aetherealari",
+        "username": "AetherealAri",
+        "bio": "Soft spoken asmr Jackalope, here to bring you calm and comfort, with a side of chaotic here and there when I want to play some games ; )\n\nBusiness email if you need it : aetherealarivt@gmail.com",
+        "profileImageUrl": "https://files.kick.com/images/user/1774924/profile_image/conversion/9ab89eb7-7ba5-43cc-bdf3-8d77b16815be-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/1724882/banner_image/default-banner-3.jpg",
+        "followersCount": 6154,
+        "verified": true,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "AetherealAri",
+            "youtube": "@AetherealAriVT",
+            "discord": "t76xhgDRUe"
+        },
+        "fetchedAt": "2026-11-15T11:47:40Z"
     }
 }

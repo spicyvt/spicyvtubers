@@ -109,5 +109,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:22Z"
+    },
+    "youtube": {
+        "id": "UC5Bv2vigk8Uzrh0lSKbZaNg",
+        "handle": "Sweet_FrequencyVODS",
+        "title": "Sweet_Frequency VODS",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UC5Bv2vigk8Uzrh0lSKbZaNg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/8seKl-4YCwlYMu2oy6ND0Tyu0ktYuS7_bn0JdiqJ2wDvUvXoagwXK9ttX3_dhotvVI4k_cBgSQ=h300",
+        "subscriberCountText": "36 subscribers",
+        "videoCountText": "12 videos",
+        "fetchedAt": "2026-11-15T11:55:02Z"
     }
 }

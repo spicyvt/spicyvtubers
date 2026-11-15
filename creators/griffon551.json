@@ -40,5 +40,35 @@
             "profileUrl": "https://x.com/griffon551",
             "fetchedAt": "2026-10-26T14:36:06Z"
         }
+    },
+    "youtube": {
+        "id": "UCoN4WkHQBtcKjYvpkKHzX1g",
+        "handle": "griffon5515",
+        "title": "Griffon551",
+        "description": "Thanks for taking the time to check out my channel. My name is Griffon and I'm a wolf and raccoon vtuber. I stream a variety of games and love interacting with chat. If you enjoy my content and would like to help the channel grow, please consider following. Thanks for stopping by and have a wonderful day!",
+        "channelUrl": "https://www.youtube.com/channel/UCoN4WkHQBtcKjYvpkKHzX1g",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/wULrr0xHhoZHfQnH0clfIl_QLxuyNl36D5P-6QXpC3VI7u_U7lihacOc8MzYHjAbA-u-xMqz6g=h300",
+        "subscriberCountText": "40 subscribers",
+        "videoCountText": "246 videos",
+        "fetchedAt": "2026-11-15T11:49:28Z"
+    },
+    "kick": {
+        "id": 4950573,
+        "userId": 5040988,
+        "slug": "griffon551",
+        "username": "Griffon551",
+        "bio": "Welcome to my channel. My name is Griffon and I'm a raccoon vtuber. I stream a variety of games and love interacting with chat. If you enjoy my content and would like to help the channel grow, please drop a follow or consider subscribing. Thanks for stopping by and have a wonderful day!",
+        "profileImageUrl": "https://files.kick.com/images/user/5040988/profile_image/conversion/e45296eb-c5d9-42d4-9641-2922c30c6b7d-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/4950573/banner_image/6b81a267-ee9d-4d8d-a27d-8cf390d62e02",
+        "followersCount": 82,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "instagram": "griffon551",
+            "youtube": "@griffon5515",
+            "discord": "5vq9RGH"
+        },
+        "fetchedAt": "2026-11-15T11:49:29Z"
     }
 }

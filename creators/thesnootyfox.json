@@ -148,5 +148,34 @@
         "channelImage": "https://pb2.rplay.live/pics/f4b930dfd646b766424df06a80575ad7",
         "streamStartTime": null,
         "fetchedAt": "2026-10-26T15:04:18Z"
+    },
+    "youtube": {
+        "id": "UCHQEez6_36cEuBdLcd6dS_A",
+        "handle": "McKenzieAlexSl",
+        "title": "TheSnootyFox",
+        "description": "Audio Fantasy Content Creator & Streamer - TheSnootyFox\n\nThe main focus here will be Audio and ASMR Content\n\nEnjoy!!",
+        "channelUrl": "https://www.youtube.com/channel/UCHQEez6_36cEuBdLcd6dS_A",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/JCqRf6tESph5k7fHKUlIZOdph6Fq7hQmzLqGDu5lTgX_K03tdYHvpGcGmgZvzW3UpiF7-J16=h300",
+        "subscriberCountText": "19.2K subscribers",
+        "videoCountText": "176 videos",
+        "fetchedAt": "2026-11-15T11:51:20Z"
+    },
+    "kick": {
+        "id": 43969536,
+        "userId": 45073684,
+        "slug": "thesnootyfox",
+        "username": "TheSnootyFox",
+        "bio": "LewdTuber Mommy Hypno Domme 👄💞💸 ASMR, Findom, Variety Gamer",
+        "profileImageUrl": "https://files.kick.com/images/user/45073684/profile_image/conversion/d5c9a581-bd8a-4c97-a3e9-ee9774763304-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/43969536/banner_image/ef507b76-a4a8-40a5-bb62-a8c8b4a5e02c",
+        "followersCount": 1764,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "TheSnootyFoxTTV",
+            "youtube": "@McKenzieAlexSl"
+        },
+        "fetchedAt": "2026-11-15T11:51:22Z"
     }
 }

@@ -161,5 +161,36 @@
         "channelImage": "https://pb2.rplay.live/pics/eef004b6f90a77681c2d0c838a673bc1",
         "streamStartTime": "2026-10-25T20:33:42.000Z",
         "fetchedAt": "2026-10-26T15:03:08Z"
+    },
+    "youtube": {
+        "id": "UCRYPOP9Jjc5K82PPT7rvRtg",
+        "handle": "DecasmrCh",
+        "title": "Decasmr",
+        "description": "Voice Actor does ASMR Roleplay Videos~\n\nMy voice can go very low and very high! Hope you enjoy the content~\n",
+        "channelUrl": "https://www.youtube.com/channel/UCRYPOP9Jjc5K82PPT7rvRtg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/GsYu3p2hn3F8M33gAuri1TBnZlhI0YTv0CouhzqtY5JrX1DUQfICe6bshOyE-xTYZQX46-Hy=h300",
+        "subscriberCountText": "266 subscribers",
+        "videoCountText": "22 videos",
+        "fetchedAt": "2026-11-15T11:43:54Z"
+    },
+    "kick": {
+        "id": 12393162,
+        "userId": 13157050,
+        "slug": "deca",
+        "username": "Deca",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/13157050/profile_image/conversion/1f894640-ff8b-48d6-962a-72f930e138a4-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/12393162/banner_image/20e77ef3-5454-4c22-b1da-100d8a51a6b8",
+        "followersCount": 531,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "Deca900",
+            "youtube": "@DecaAkioVODs",
+            "discord": "jEdKMG6Sjf",
+            "tiktok": "decaakio"
+        },
+        "fetchedAt": "2026-11-15T11:43:56Z"
     }
 }

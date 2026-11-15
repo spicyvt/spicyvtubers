@@ -113,5 +113,23 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-04T01:00:25Z"
+    },
+    "kick": {
+        "id": 118920091,
+        "userId": 120170830,
+        "slug": "huntressspectre",
+        "username": "HuntressSpectre",
+        "bio": "She/Her | Wolf Bounty Hunter 🇬🇧🎨Design - @LithiaVey |🎨2D - @kamochiruu |⚙RIg - @Mimyoi",
+        "profileImageUrl": "https://files.kick.com/images/user/120170830/profile_image/conversion/66438e39-b28b-4f8a-8a80-14f1e116d4fb-fullsize.webp",
+        "bannerImageUrl": null,
+        "followersCount": 22,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "HuntressSpectre",
+            "youtube": "huntressspectre",
+            "tiktok": "huntress_spectre"
+        },
+        "fetchedAt": "2026-11-15T11:57:08Z"
     }
 }

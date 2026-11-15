@@ -106,5 +106,24 @@
         "channelImage": "https://pb.rplay.live/pics/71b037cceb15101faf28265540113fd9",
         "streamStartTime": null,
         "fetchedAt": "2026-11-09T15:46:45Z"
+    },
+    "kick": {
+        "id": 465887,
+        "userId": 477336,
+        "slug": "starrytoonballoon",
+        "username": "starrytoonballoon",
+        "bio": "https://starrytoonballoon.carrd.co\n\nI'm a shapeshifting VTuber! 30, neurodivergent, and silly.",
+        "profileImageUrl": "https://files.kick.com/images/user/477336/profile_image/conversion/f82bc0b5-bf60-4722-bdfb-e4a8bfa32a5b-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/465887/banner_image/afc35762-16d0-40b2-9778-d86ec6b65b8f",
+        "followersCount": 167,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "StarryToonTuber",
+            "youtube": "channel/UCDS5I5OP-0McNVV7-qoq9RQ",
+            "discord": "starrytoonballoon",
+            "tiktok": "starrytoonballoon_vt"
+        },
+        "fetchedAt": "2026-11-15T11:57:46Z"
     }
 }

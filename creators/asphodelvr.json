@@ -109,5 +109,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:39Z"
+    },
+    "youtube": {
+        "id": "UCWKcvA_L8mqaWFzhPjRtJFA",
+        "handle": "asphodelvr",
+        "title": "Asphodel",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCWKcvA_L8mqaWFzhPjRtJFA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/wtH58WWBkwO_4FeAROOA72OZYdLTshMh7x6A3vyPdQ6-qqF-tuZZkdnAXWT86RMUxK9oTDa_=h300",
+        "subscriberCountText": "45 subscribers",
+        "videoCountText": "6 videos",
+        "fetchedAt": "2026-11-15T11:55:50Z"
     }
 }

@@ -100,5 +100,34 @@
             "profileUrl": "https://x.com/nymphlewd",
             "fetchedAt": "2026-10-26T14:21:47Z"
         }
+    },
+    "youtube": {
+        "id": "UCU7q9tO3RJ5oesLlNb7ZXKg",
+        "handle": "nymphaaeach",
+        "title": "Nymphaaea Ch.",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCU7q9tO3RJ5oesLlNb7ZXKg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/cFPrysYvQ-6Gv-d8YZxmGNNT2-cibYVT0_Rj5G6OFbwK2I1Ij6GUtQMCncmrMda4_ysVNTXs=h300",
+        "subscriberCountText": "50.6K subscribers",
+        "videoCountText": "60 videos",
+        "fetchedAt": "2026-11-15T11:45:16Z"
+    },
+    "kick": {
+        "id": 29053119,
+        "userId": 30093228,
+        "slug": "nymphaaea",
+        "username": "Nymphaaea",
+        "bio": "Sí, probablemente me has visto en otro lado (;",
+        "profileImageUrl": "https://files.kick.com/images/user/30093228/profile_image/conversion/f885d2ba-0e4a-4de1-ade5-03e7cf56476b-fullsize.webp",
+        "bannerImageUrl": null,
+        "followersCount": 8285,
+        "verified": true,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "NymphaaeaVT",
+            "youtube": "channel/UC3U8JLAu7s6QEojXCiqqZSg"
+        },
+        "fetchedAt": "2026-11-15T11:45:17Z"
     }
 }

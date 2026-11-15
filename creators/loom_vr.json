@@ -117,5 +117,22 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:28Z"
+    },
+    "kick": {
+        "id": 56676351,
+        "userId": 57806868,
+        "slug": "loomvr",
+        "username": "Loomvr",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/57806868/profile_image/conversion/bf26b03c-14e5-45d3-bd69-32e215c69a82-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/56676351/banner_image/c4d5a025-6d8a-4375-a700-bd6b85d12a35",
+        "followersCount": 419,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "Loom_vr",
+            "tiktok": "Loom__vr"
+        },
+        "fetchedAt": "2026-11-15T11:55:24Z"
     }
 }

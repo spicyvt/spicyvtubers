@@ -109,5 +109,24 @@
             "profileUrl": "https://x.com/kanakovtuber",
             "fetchedAt": "2026-10-26T14:17:40Z"
         }
+    },
+    "kick": {
+        "id": 1164873,
+        "userId": 1205777,
+        "slug": "kanako",
+        "username": "Kanako",
+        "bio": "Hihi! Ima discord kitten in training!\n\nCheck out my socials: https://kanakovt.com/",
+        "profileImageUrl": "https://files.kick.com/images/user/1205777/profile_image/conversion/e461b029-b660-4594-87aa-059f2f474d62-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/1164873/banner_image/02d3fe80-4a4c-4424-b5c1-d8bf1dbf5eff",
+        "followersCount": 726,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "kanako.vt",
+            "twitter": "KanakoVT",
+            "youtube": "@Kanako9",
+            "discord": "sN66GwCpXF"
+        },
+        "fetchedAt": "2026-11-15T11:43:59Z"
     }
 }

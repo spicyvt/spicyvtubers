@@ -40,5 +40,34 @@
             "profileUrl": "https://x.com/_____loki______",
             "fetchedAt": "2026-10-26T14:37:12Z"
         }
+    },
+    "youtube": {
+        "id": "UCGPv7RpQZ17GdF0fYWBpTOQ",
+        "handle": "Wounded_Fighter",
+        "title": "Wounded_Fighter",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCGPv7RpQZ17GdF0fYWBpTOQ",
+        "keywords": "WoundedFighter",
+        "profileImageUrl": "https://yt3.googleusercontent.com/skmwU_STVZ4Jz7-ZJhDYCC6nv8KNNnHPonpbRpCoPo6K274p0oMHDb58sm2GivcKuVK5c_xA-ns=h300",
+        "subscriberCountText": "35 subscribers",
+        "videoCountText": "312 videos",
+        "fetchedAt": "2026-11-15T11:49:46Z"
+    },
+    "kick": {
+        "id": 25221116,
+        "userId": 26232013,
+        "slug": "wounded-fighter",
+        "username": "Wounded_Fighter",
+        "bio": "Suggest a game! I might have it, I... WE might play it! My Steam Library has more than 1100 games. Also, on Xbox, I have more than 300! I enjoy playing games, maybe I enjoy too many games? Come Join us!\nhttps://linktr.ee/Wounded_Fighter",
+        "profileImageUrl": "https://files.kick.com/images/user/26232013/profile_image/conversion/17a4b67c-4764-481d-ba0d-6d0c59b28d7a-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/25221116/banner_image/5c283c18-e2ea-4e65-bd3f-5297f960a7ec",
+        "followersCount": 231,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "youtube": "user/WoundedFighter",
+            "discord": "Zpw8A5V3hj"
+        },
+        "fetchedAt": "2026-11-15T11:49:47Z"
     }
 }

@@ -58,5 +58,36 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:33Z"
+    },
+    "youtube": {
+        "id": "UCnJ0VxjeAQx0DJYcZb8uzyg",
+        "handle": "MilisVT",
+        "title": "MilisVT",
+        "description": "The official channel of the chaotic Finnish Nephalem Vtuber MilisVT",
+        "channelUrl": "https://www.youtube.com/channel/UCnJ0VxjeAQx0DJYcZb8uzyg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/kDpGvFG7O_VOwvsxJ9UMXmwcH9qnAmXB3XZhOh_pJ_nVUot1bE0wznpQfnaJiGatw1m0URNUQg=h300",
+        "subscriberCountText": "3 subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-15T11:55:30Z"
+    },
+    "kick": {
+        "id": 31979975,
+        "userId": 33034833,
+        "slug": "milisvt",
+        "username": "MilisVT",
+        "bio": "I'm freestyling everything, especially the life~🩵 Most energic on the whole VRChat community! Definitely not Seiso [+18] *ೃ༄",
+        "profileImageUrl": "https://files.kick.com/images/user/33034833/profile_image/conversion/2f82229a-ef89-4aa0-b185-2b32898c41c3-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/31979975/banner_image/3e106aff-2523-4110-9bf1-9f853ea400fc.webp",
+        "followersCount": 1261,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "MilisVT",
+            "youtube": "@milis_vt",
+            "discord": "V24wWr96DZ",
+            "tiktok": "MilisVT"
+        },
+        "fetchedAt": "2026-11-15T11:55:32Z"
     }
 }

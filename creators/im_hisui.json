@@ -109,5 +109,31 @@
             "profileUrl": "https://x.com/hisuiva",
             "fetchedAt": "2026-10-26T14:47:32Z"
         }
+    },
+    "youtube": {
+        "id": "UCH5el8Blk7Wto7El_kOHvrg",
+        "handle": "hisuiaudios",
+        "title": "Hisui Audios",
+        "description": "Ello, my name is Hisui and I'm your local bunny shinigami vtuber who just likes to play games and vibe. I upload weekly on here!\nThanks for stopping by (´ ∀ ` *)\nThis channel is made just for ASMR only~\nCheck out my socials below including my main youtube and twitch!\n",
+        "channelUrl": "https://www.youtube.com/channel/UCH5el8Blk7Wto7El_kOHvrg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/-pWgdUyfSMf_-VPjzSr6yuSzLg2UoO-C3n1Vy9bH8kHNH4pv8kSD3c0KNaCWb9adKSmLgdUk5g=h300",
+        "subscriberCountText": "4.7K subscribers",
+        "videoCountText": "16 videos",
+        "fetchedAt": "2026-11-15T11:52:56Z"
+    },
+    "kick": {
+        "id": 79264522,
+        "userId": 80449306,
+        "slug": "imhisui",
+        "username": "imhisui",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/80449306/profile_image/conversion/eef422e2-461a-4ba5-83eb-7c0173b6f0d2-fullsize.webp",
+        "bannerImageUrl": null,
+        "followersCount": 10,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": [],
+        "fetchedAt": "2026-11-15T11:52:57Z"
     }
 }

@@ -95,5 +95,37 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-28T23:53:56Z"
+    },
+    "youtube": {
+        "id": "UCqjFIdzkxqEEHDs-M79Z2wA",
+        "handle": "karuiis",
+        "title": "kariius",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCqjFIdzkxqEEHDs-M79Z2wA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/PLvXCwnEj6iYT1qcc4YiCs3oQhM54nhuvSKQN0cPTbC_T8AaYPLzklUFo8E7zgNlOduQsd58MWA=h300",
+        "subscriberCountText": "1.14K subscribers",
+        "videoCountText": "77 videos",
+        "fetchedAt": "2026-11-15T11:56:03Z"
+    },
+    "kick": {
+        "id": 5321517,
+        "userId": 5412792,
+        "slug": "kariius",
+        "username": "kariius",
+        "bio": "Vtuber \nseguime en mis redes sociales si quieres ver mi contenido  ... https://linktr.ee/kariius",
+        "profileImageUrl": "https://files.kick.com/images/user/5412792/profile_image/conversion/bf705c7a-4dbe-4f90-abec-c6320e2d2c4a-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/5321517/banner_image/b6e30da6-a3cc-46ba-9f1d-c8f6d4f59aa8",
+        "followersCount": 4844,
+        "verified": true,
+        "isAffiliate": false,
+        "socials": {
+            "instagram": "kariius",
+            "twitter": "karuiis",
+            "youtube": "karuiis",
+            "discord": "la-virgocueva-635900370639388692",
+            "tiktok": "kariius"
+        },
+        "fetchedAt": "2026-11-15T11:56:04Z"
     }
 }

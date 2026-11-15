@@ -63,5 +63,34 @@
         "channelImage": null,
         "streamStartTime": "2026-08-28T21:56:16.000Z",
         "fetchedAt": "2026-10-26T15:03:55Z"
+    },
+    "youtube": {
+        "id": "UCmh83x-rbbwX8D28OQoKVVA",
+        "handle": "naniglorp",
+        "title": "Nani Glorp",
+        "description": "Bounty Hunting Space \"Dog\" from a galaxy far far away!",
+        "channelUrl": "https://www.youtube.com/channel/UCmh83x-rbbwX8D28OQoKVVA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/NqAxj7kNL3ANWZ94QIds1bOk9voEzU3laEs4DVCACPnfMa8AqVNC5wj5H217KYBb_VNdAcm2=h300",
+        "subscriberCountText": "770 subscribers",
+        "videoCountText": "83 videos",
+        "fetchedAt": "2026-11-15T11:50:44Z"
+    },
+    "kick": {
+        "id": 83657429,
+        "userId": 84851058,
+        "slug": "naniglorp",
+        "username": "naniglorp",
+        "bio": "Hi I'm Nani and I'm a bounty hunter alien from a galaxy far far away, here to help you relax. Powered by ADVANCEDgg Contact:naniglorpsire@gmail.com",
+        "profileImageUrl": "https://files.kick.com/images/user/84851058/profile_image/conversion/b16f88fe-d9a0-4bd7-bcb9-bd25d73a25c8-fullsize.webp",
+        "bannerImageUrl": null,
+        "followersCount": 1367,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "naniglorp",
+            "youtube": "@naniglorp"
+        },
+        "fetchedAt": "2026-11-15T11:50:45Z"
     }
 }

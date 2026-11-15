@@ -109,5 +109,35 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:33Z"
+    },
+    "youtube": {
+        "id": "UClFLOEuzC65EVkdP8QrL-qw",
+        "handle": "FantasyMango",
+        "title": "Fantasy Mango",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UClFLOEuzC65EVkdP8QrL-qw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/4aIt2a6H-Gi8dG1jzmB1oqSh9Q3EFHvOtumlJhcw5GuAC4M6YqnPchNvgt3SJLB4Ojwfgb7QajM=h300",
+        "subscriberCountText": "60 subscribers",
+        "videoCountText": "1 video",
+        "fetchedAt": "2026-11-15T11:55:42Z"
+    },
+    "kick": {
+        "id": 27663474,
+        "userId": 28694852,
+        "slug": "fantasymango",
+        "username": "fantasymango",
+        "bio": "ps ps meow meow",
+        "profileImageUrl": "https://files.kick.com/images/user/28694852/profile_image/conversion/b47475b4-0999-4a40-b0e2-3fda631ac213-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/27663474/banner_image/251b4df6-f56e-4651-818c-9bc254b51b51",
+        "followersCount": 1717,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "FantasyMangu",
+            "youtube": "@FantasyMango",
+            "tiktok": "fantasymangovr"
+        },
+        "fetchedAt": "2026-11-15T11:55:44Z"
     }
 }

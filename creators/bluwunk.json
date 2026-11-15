@@ -56,5 +56,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-02T22:16:46Z"
+    },
+    "youtube": {
+        "id": "UCVgzRWTiFOowDgG_XmqVosg",
+        "handle": "bluwunk",
+        "title": "bluwunk",
+        "description": "nonchalant foxtuber\n\n\n",
+        "channelUrl": "https://www.youtube.com/channel/UCVgzRWTiFOowDgG_XmqVosg",
+        "keywords": "vtuber \"league of legends\"",
+        "profileImageUrl": "https://yt3.googleusercontent.com/hzC78rouHCVvxLtP2Fqljoul2I76xywE7vaAKtu9libthkxnvBXFCbHNU3rqi8osJTiCVZE_Ipc=h300",
+        "subscriberCountText": "30.9K subscribers",
+        "videoCountText": "565 videos",
+        "fetchedAt": "2026-11-15T11:56:32Z"
     }
 }

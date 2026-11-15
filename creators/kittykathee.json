@@ -93,5 +93,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-11-12T01:47:13Z"
+    },
+    "youtube": {
+        "id": "UCWRDpyuxM5tXKPsCHe9cHqQ",
+        "handle": "KittyKathee",
+        "title": "KittyKathee",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCWRDpyuxM5tXKPsCHe9cHqQ",
+        "keywords": "envtuber nekomata Kitty",
+        "profileImageUrl": "https://yt3.googleusercontent.com/aW1q6YmLOvh0t8c5_tid5V3ckD7RAMEGNA2PXghk41n75DvikCwCYjmicvOx6BaPOmrodHUhBQ=h300",
+        "subscriberCountText": "6.06K subscribers",
+        "videoCountText": "1.2K videos",
+        "fetchedAt": "2026-11-15T11:58:03Z"
     }
 }

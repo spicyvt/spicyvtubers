@@ -109,5 +109,17 @@
             "enabled": true
         },
         "fetchedAt": "2026-10-26T15:02:17Z"
+    },
+    "youtube": {
+        "id": "UCxL58trO7iYeM8d97KduAjg",
+        "handle": "narikosai",
+        "title": "Nariko Sai",
+        "description": "Nariko Sai is a Thunder Bird vtuber! I some times stream\n",
+        "channelUrl": "https://www.youtube.com/channel/UCxL58trO7iYeM8d97KduAjg",
+        "keywords": "NarikoSai Vtuber React Nariko \"Nariko vtuber\" \"Nariko Sai\" VtuberReact \"Vtuber gaming\" Reksongames Bricky",
+        "profileImageUrl": "https://yt3.googleusercontent.com/AHKukhG9PNbHNexyl-rX_UhOiwlhOpHuJNyuPpuy0czM6cqiWtXdOXHCUn66K5y8dc7krXn_Jw=h300",
+        "subscriberCountText": "8.52K subscribers",
+        "videoCountText": "94 videos",
+        "fetchedAt": "2026-11-15T11:54:44Z"
     }
 }
