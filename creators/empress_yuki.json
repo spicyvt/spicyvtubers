@@ -1,0 +1,85 @@
+{
+    "bio": "こんにちは❣️ Thanks for stopping by! I hope you have a fun time! I am just your everyday English speaking Japanese Dragon Vtuber! I hope you will stay for a while~",
+    "twitch": {
+        "id": "705750770",
+        "login": "empress_yuki",
+        "displayName": "Empress_Yuki",
+        "createdAt": "2021-07-10T01:36:54.589565Z",
+        "updatedAt": "2026-10-27T05:01:37.442414Z",
+        "description": "こんにちは❣️ Thanks for stopping by! I hope you have a fun time! I am just your everyday English speaking Japanese Dragon Vtuber! I hope you will stay for a while~",
+        "primaryColorHex": "00C1FF",
+        "followers": {
+            "totalCount": 1018
+        },
+        "follows": {
+            "totalCount": 94
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-23T08:26:31.616377Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/11c185b9-2353-4c2a-b2c9-55cd8b93f42d-profile_image-300x300.png",
+        "fetchedAt": "2026-11-15T01:14:38Z"
+    },
+    "youtube": {
+        "id": "UCu9XYVMC6CjpVjOy5IVbUpw",
+        "handle": "EmpressYukiChan",
+        "title": "Empress Yuki",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCu9XYVMC6CjpVjOy5IVbUpw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/gB-2zNNqJnYQOImQ8AZqLTxf-M0xo1L2ub-EO8XS1hDCD7DK3Nai8iTHZZY9CfScmwmcC9UGtw=h300",
+        "subscriberCountText": "55 subscribers",
+        "videoCountText": "7 videos",
+        "fetchedAt": "2026-11-15T01:14:39Z"
+    },
+    "fansly": {
+        "id": "565756431458906112",
+        "username": "Yuki_Chan",
+        "displayName": "Empress_Yuki",
+        "version": 10,
+        "followCount": 4645,
+        "statusId": 1,
+        "accountMediaLikes": 12516,
+        "postLikes": 8086,
+        "about": "Just your average bimbo ice empress, here to make you horny <3\n\nempressyuki.carrd.co",
+        "location": "",
+        "streaming": {
+            "accountId": "565756431458906112",
+            "channel": {
+                "id": "708481379809112065",
+                "accountId": "565756431458906112",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.bEjEq3tyJZLs.m3u8",
+                "chatRoomId": "713216102489923584",
+                "status": 2,
+                "version": 56,
+                "createdAt": 1730409483000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "708481379809112066",
+                    "historyId": "935395976082903040",
+                    "channelId": "708481379809112065",
+                    "accountId": "565756431458906112",
+                    "title": "Just a d2 stream with friendo",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 8411,
+                    "createdAt": 1730409484000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784530519000,
+                    "startedAt": 1784510139000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-15T01:14:56Z"
+    }
+}

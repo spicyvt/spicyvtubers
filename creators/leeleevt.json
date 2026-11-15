@@ -1,0 +1,110 @@
+{
+    "bio": "･゜ﾟ･:.｡..｡.:･The minty raccoon here to give you luck or bad luck at your service ･゜ﾟ･:.｡..｡.:･･゜ﾟ･:.｡..｡.:･ Been streaming for 5 years ･゜ﾟ･:.｡..｡.:･",
+    "twitch": {
+        "id": "594094848",
+        "login": "leeleevt",
+        "displayName": "leeleevt",
+        "createdAt": "2020-10-10T08:29:09.877315Z",
+        "updatedAt": "2026-11-13T19:30:56.426017Z",
+        "description": "･゜ﾟ･:.｡..｡.:･The minty raccoon here to give you luck or bad luck at your service ･゜ﾟ･:.｡..｡.:･･゜ﾟ･:.｡..｡.:･ Been streaming for 5 years ･゜ﾟ･:.｡..｡.:･",
+        "primaryColorHex": "933D83",
+        "followers": {
+            "totalCount": 1442
+        },
+        "follows": {
+            "totalCount": 539
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-12T05:50:13.789057Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8cb2a6df-3ffd-430f-bbfd-9ab5d34032d0-profile_image-300x300.png",
+        "fetchedAt": "2026-11-15T01:14:43Z"
+    },
+    "twitter": {
+        "_leeleevt_": {
+            "id": null,
+            "handle": "_leeleevt_",
+            "displayName": "LeeLeeVT",
+            "description": "minty raccoon vtuber☆ vtube artist: @IzzyThe3rd☆ ⚠️18+ @spicy_minty_lee⚠️ ☆pfp @LavBun_Art ☆ #leeleeart",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2072519711938465792/n8SqrGqR_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/_leeleevt_",
+            "fetchedAt": "2026-11-15T01:14:51Z"
+        },
+        "spicy_minty_lee": {
+            "id": null,
+            "handle": "spicy_minty_lee",
+            "displayName": "leeleeVt",
+            "description": "just some spicy lewd raccoon stuff here art and maybe some voice acting stuff but mostly art stuff \n\nhttps://t.co/sJh7KtW52Y\n\nsfw acc: @idiotmcleeVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2030755029494501376/t6M5Y06D_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/spicy_minty_lee",
+            "fetchedAt": "2026-11-15T01:14:52Z"
+        }
+    },
+    "fansly": {
+        "id": "658160778318196736",
+        "username": "LeeleeVT",
+        "displayName": "LeeleeVT",
+        "version": 7,
+        "followCount": 33,
+        "statusId": 1,
+        "accountMediaLikes": 5,
+        "postLikes": 60,
+        "about": "Just your gooner raccoon girl showing off her freaky self to yall!~\n\n~NO ONE WILL HAVE CONTROL OF MY TOYS (mainly bc that weird to me plus only my bf can play with me but u could watch~)\n~F4M F4F (female for male/ female for female) \n",
+        "location": "",
+        "streaming": {
+            "accountId": "658160778318196736",
+            "channel": {
+                "id": "905508487742644226",
+                "accountId": "658160778318196736",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.VVmuNlhmc3kj.m3u8",
+                "chatRoomId": "920830540783820800",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1777384407000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "905508487742644227",
+                    "historyId": null,
+                    "channelId": "905508487742644226",
+                    "accountId": "658160778318196736",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1777384407000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "920831412939026432",
+                                "streamId": "905508487742644227",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-15T01:14:56Z"
+    }
+}
