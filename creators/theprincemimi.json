@@ -1,0 +1,100 @@
+{
+    "bio": "mimic femboy vtuber so come join this sleep deprived mimic femboy on this journey of exploring",
+    "twitch": {
+        "id": "791698644",
+        "login": "theprincemimi",
+        "displayName": "ThePrinceMimi",
+        "createdAt": "2022-04-29T00:57:44.512129Z",
+        "updatedAt": "2026-11-16T17:47:01.273316Z",
+        "description": "mimic femboy vtuber so come join this sleep deprived mimic femboy on this journey of exploring",
+        "primaryColorHex": "7400D5",
+        "followers": {
+            "totalCount": 426
+        },
+        "follows": {
+            "totalCount": 239
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-16T22:28:38.056085Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/717b8c19-308d-4262-90b6-4b31162b9026-profile_image-300x300.png",
+        "fetchedAt": "2026-11-17T00:06:44Z"
+    },
+    "youtube": {
+        "id": "UCcjYqsWAu9STIwFkSD-4KXw",
+        "handle": "ThePrinceMimiVT",
+        "title": "ThePrinceMimiVT",
+        "description": "Account turned to vtubing account/vods shenanigans guh \n\n\n",
+        "channelUrl": "https://www.youtube.com/channel/UCcjYqsWAu9STIwFkSD-4KXw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/IMowfr11PdrvnAqQNQ5p9D_rhw8fvwo4GOJYL4eigcg8EU-L7ptUb4ZmYcYl7ky5_Fcq6-XDKA=h300",
+        "subscriberCountText": "1.14K subscribers",
+        "videoCountText": "401 videos",
+        "fetchedAt": "2026-11-17T00:06:46Z"
+    },
+    "twitter": {
+        "mimic_bovt": {
+            "id": null,
+            "handle": "mimic_bovt",
+            "displayName": "ThePrinceMimi Femboy Mimic ! 18+",
+            "description": "Femboy Mimic Vtuber twitch affiliate :fanart tag #mimicule nsfwtag #mimicum (art father)@PredatorStudio4 (rigging)@PredatorStudio4 MDNI(23)🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1900570613812518912/vCJo86q8_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Mimic_boVT",
+            "fetchedAt": "2026-11-17T00:06:48Z"
+        }
+    },
+    "fansly": {
+        "id": "538483224515452928",
+        "username": "Mimic_bo",
+        "displayName": "ThePrinceMimi",
+        "version": 11,
+        "followCount": 79,
+        "statusId": 1,
+        "accountMediaLikes": 13,
+        "postLikes": 47,
+        "about": "The Mimic femboy lewd tuber\n\n-livestreams\n-maybe photos\n\nMonday through Saturday cst stream times\n#femboy #vtuber",
+        "location": "Plowing your mom ",
+        "streaming": {
+            "accountId": "538483224515452928",
+            "channel": {
+                "id": "741388732745134522",
+                "accountId": "538483224515452928",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.h61BgxvzVAEg.m3u8",
+                "chatRoomId": "741388956905512960",
+                "status": 2,
+                "version": 52,
+                "createdAt": 1738255208000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "741388732745134523",
+                    "historyId": "978546199613165568",
+                    "channelId": "741388732745134522",
+                    "accountId": "538483224515452928",
+                    "title": "[Femboy] random guh ",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 354,
+                    "createdAt": 1738255208000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794803767000,
+                    "startedAt": 1794797954000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-17T00:06:49Z"
+    }
+}
