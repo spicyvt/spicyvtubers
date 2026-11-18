@@ -1,0 +1,63 @@
+{
+    "twitter": {
+        "chibuuyuki": {
+            "id": null,
+            "handle": "chibuuyuki",
+            "displayName": "Chibuu 🐾",
+            "description": "🐾 https://t.co/7JMcdk85sp 💖",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1932040948474605568/i2tWtGCS_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ChibuuYuki",
+            "fetchedAt": "2026-11-18T18:53:41Z"
+        }
+    },
+    "fansly": {
+        "id": "721581126191161345",
+        "username": "Chibuu",
+        "displayName": null,
+        "version": 4,
+        "followCount": 6790,
+        "statusId": 1,
+        "accountMediaLikes": 6116,
+        "postLikes": 7963,
+        "about": "Hey~\nI'm pup!\nhttp://linktr.ee/chibuuyuki",
+        "location": "",
+        "streaming": {
+            "accountId": "721581126191161345",
+            "channel": {
+                "id": "733341694065385472",
+                "accountId": "721581126191161345",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.O8DRoD7x08AX.m3u8",
+                "chatRoomId": "733406477892460544",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1736336644000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "733341694065385473",
+                    "historyId": "979210984822427648",
+                    "channelId": "733341694065385472",
+                    "accountId": "721581126191161345",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 140,
+                    "version": 9433,
+                    "createdAt": 1736336644000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794961203000,
+                    "startedAt": 1794956451000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T18:53:42Z"
+    }
+}

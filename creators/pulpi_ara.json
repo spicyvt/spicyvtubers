@@ -1,0 +1,72 @@
+{
+    "fansly": {
+        "id": "279401105396346880",
+        "username": "pulpi_ara",
+        "displayName": "Pulpi Ara",
+        "version": 9,
+        "followCount": 43752,
+        "statusId": 1,
+        "accountMediaLikes": 22065,
+        "postLikes": 18419,
+        "about": "💕 Vtuber felizmente retirada 💕\n🌿 Hentai Camgirl Vtuber 🥇👑 PRIMERA y legendaria de Habla Hispana  🍆💦 Solo contenido +18 🔥 Anime Moaning 🥵\nTengo una voz muy dulce y traviesa senpai 😳\nSubscríbete para acceder a todo mi contenido anterior~\nIRL para mis senpais de Nivel 4 🥵\n\nStreams sorpresa solo para nivel 4, de vez en cuando",
+        "location": "Siempre en tu corazón",
+        "streaming": {
+            "accountId": "279401105396346880",
+            "channel": {
+                "id": "360657605447655424",
+                "accountId": "279401105396346880",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YUVPT6lb7g0I.m3u8",
+                "chatRoomId": "360657644161081344",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1647481833000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "360657605447655425",
+                    "historyId": "577694475606827008",
+                    "channelId": "360657605447655424",
+                    "accountId": "279401105396346880",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 25,
+                    "version": 4595,
+                    "createdAt": 1647481835000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1699228667000,
+                    "startedAt": 1699227456000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "577682249122590720",
+                                "streamId": "360657605447655425",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T19:49:31Z"
+    },
+    "twitter": {
+        "pulpi_ara": {
+            "id": "1247395016420610048",
+            "handle": "pulpi_ara",
+            "displayName": "Pulpi Hentai Vtuber (+18)",
+            "description": "🥇 1era Hentai Camgirl Vtuber en Español 🇨🇱 \n💜 Twitch Partner & Hentai Pornstar \n💙 Canales +18 en Linktree 🎨 #pulpi_art",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1541208505704660992/LXgJucFs_400x400.jpg",
+            "followersCount": 28671,
+            "followingCount": 43,
+            "postsCount": 3057,
+            "accountCreatedAt": "2020-04-07T05:25:30.000Z",
+            "profileUrl": "https://x.com/pulpi_ara",
+            "fetchedAt": "2026-11-18T19:49:38Z"
+        }
+    }
+}

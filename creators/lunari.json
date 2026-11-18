@@ -1,0 +1,88 @@
+{
+    "bio": "Hello! our name is Lunari, Artemis and Sendo! Yes there is three of us! this is a shared channel! its nice to meat.. i mean meet you! we are EX Mercenary turned streamer after some things happened. Should you stick around say hello in chat! we will be playing games or random other things",
+    "twitch": {
+        "id": "667447604",
+        "login": "lunari",
+        "displayName": "Lunari",
+        "createdAt": "2021-03-27T06:34:23.196137Z",
+        "updatedAt": "2026-11-18T04:36:34.384381Z",
+        "description": "Hello! our name is Lunari, Artemis and Sendo! Yes there is three of us! this is a shared channel! its nice to meat.. i mean meet you! we are EX Mercenary turned streamer after some things happened. Should you stick around say hello in chat! we will be playing games or random other things",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 32623
+        },
+        "follows": {
+            "totalCount": 471
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-18T17:14:45.151329Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc357838-cd0b-495c-93ba-53598d3410f9-profile_image-300x300.png",
+        "fetchedAt": "2026-11-18T19:14:49Z"
+    },
+    "twitter": {
+        "lunari_lust": {
+            "id": null,
+            "handle": "lunari_lust",
+            "displayName": "LunariDonna",
+            "description": "New main account i guess\nVtuber! new design :3c\nFanart: #LunarIllust\nNSFWtag: #LunariLust",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2064925815914057728/LrDimSTe_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Lunari_Lust",
+            "fetchedAt": "2026-11-18T19:14:56Z"
+        }
+    },
+    "fansly": {
+        "id": "462039163537993728",
+        "username": "LunariDonna",
+        "displayName": "LunariDonna",
+        "version": 5,
+        "followCount": 11640,
+        "statusId": 3,
+        "accountMediaLikes": 16296,
+        "postLikes": 17306,
+        "about": "I post Topless sets, amateur sex, blowjob, and solo vids monthly and random other posts.\nWant to get back into streaming as well, but not quite yet <3\nhttps://throne.me/lunaridonna/wishlist\n\n~tip menu~\n~Videos, dm for inquiry~\n~dick rating! $10 for rating of 1-10. $25 for small sentence on your dick + rating. $60 for what I could do with it, how I would use it, what i like about it in more detail, or if you want me to degrade it!~\n",
+        "location": "Moon",
+        "streaming": {
+            "accountId": "462039163537993728",
+            "channel": {
+                "id": "462135329323757568",
+                "accountId": "462039163537993728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YBnsv3rTJP6z.m3u8",
+                "chatRoomId": "470448851115847680",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1671676008000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "462135329323757569",
+                    "historyId": "729951147418198016",
+                    "channelId": "462135329323757568",
+                    "accountId": "462039163537993728",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 70,
+                    "version": 876,
+                    "createdAt": 1671676009000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1735538487000,
+                    "startedAt": 1735528275000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T19:14:58Z"
+    }
+}

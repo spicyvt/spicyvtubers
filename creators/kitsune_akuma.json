@@ -1,0 +1,101 @@
+{
+    "bio": "♡ Squishy shapeshifting Kitsune/Succubus | ♡ Vtuber  ♡ Gamer  ♡ Artist | Model Main: Suiika |Body Assets: AYmumuu",
+    "twitch": {
+        "id": "174623850",
+        "login": "kitsuneakuma93",
+        "displayName": "kitsuneakuma93",
+        "createdAt": "2017-09-18T03:20:37.055516Z",
+        "updatedAt": "2026-11-18T08:57:57.633806Z",
+        "description": "♡ Squishy shapeshifting Kitsune/Succubus | ♡ Vtuber  ♡ Gamer  ♡ Artist | Model Main: Suiika |Body Assets: AYmumuu",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 92
+        },
+        "follows": {
+            "totalCount": 74
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-29T21:15:12.180387Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2402fb3-72fa-4a93-8a98-714680a40315-profile_image-300x300.png",
+        "fetchedAt": "2026-11-18T19:14:48Z"
+    },
+    "twitter": {
+        "kitsuneakumavr": {
+            "id": null,
+            "handle": "kitsuneakumavr",
+            "displayName": "Kitsune Akuma",
+            "description": "18+ ONLY ♡ Squishy shapeshifting Kitsune ♡ Vtuber ♡ Gamer ♡ Artist Model Credits Main: Suiika Body Assets: AYmumuu My links: https://t.co/V5sNOsXxHG",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2096084360940474369/ZHzfMxcx_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/KitsuneAkumaVR",
+            "fetchedAt": "2026-11-18T19:14:53Z"
+        },
+        "kitsuneakuma93": {
+            "id": null,
+            "handle": "kitsuneakuma93",
+            "displayName": "Kitsune_Akuma",
+            "description": "SFW Profile ♡ Squishy shapeshifting Kitsune ♡ Vtuber ♡ Gamer ♡ Artist Model Credits Main: Suiika Body Assets: AYmumuu | My links: https://t.co/DXQ6s0jnbE",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1981768156642205697/Jde2MXpW_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/KitsuneAkuma93",
+            "fetchedAt": "2026-11-18T19:14:54Z"
+        }
+    },
+    "fansly": {
+        "id": "311628992429957120",
+        "username": "Lustful_Kitsune",
+        "displayName": null,
+        "version": 3,
+        "followCount": 11134,
+        "statusId": 3,
+        "accountMediaLikes": 20013,
+        "postLikes": 23594,
+        "about": "♡ Squishy shapeshifting Kitsune/Succubus\n\n♡ Vtuber/Lewdtuber | ♡ Gamer | ♡ Artist\n\nVtuber Model Credits\nMain by: Suiika\nBody Assets by: AYmumuu\n\nAll my links:\nhttps://kitsuneakuma.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "311628992429957120",
+            "channel": {
+                "id": "358009781388062720",
+                "accountId": "311628992429957120",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.1spy9jYYymTj.m3u8",
+                "chatRoomId": "358010209198682112",
+                "status": 2,
+                "version": 39,
+                "createdAt": 1646850543000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "358009781388062721",
+                    "historyId": "970227274404085760",
+                    "channelId": "358009781388062720",
+                    "accountId": "311628992429957120",
+                    "title": "Coomtober",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 2724,
+                    "createdAt": 1646850543000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792821410000,
+                    "startedAt": 1792814568000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T19:14:58Z"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "bio": "Hello Fluffles! I'm Vixie ✨✨ For business inquiries, please email vixieveebiz@gmail.com. ⭐️⭐️⭐️",
+    "twitch": {
+        "id": "209205554",
+        "login": "vixievee",
+        "displayName": "VixieVee",
+        "createdAt": "2018-03-28T02:23:37.980869Z",
+        "updatedAt": "2026-09-08T04:29:17.988339Z",
+        "description": "Hello Fluffles! I'm Vixie ✨✨ For business inquiries, please email vixieveebiz@gmail.com. ⭐️⭐️⭐️",
+        "primaryColorHex": "FF2FFF",
+        "followers": {
+            "totalCount": 3360
+        },
+        "follows": {
+            "totalCount": 875
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-03-05T00:33:30.09961Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/00d784f9-d75e-47ea-a500-56240a40d380-profile_image-300x300.png",
+        "fetchedAt": "2026-11-18T19:14:47Z"
+    },
+    "twitter": {
+        "vixieveevt": {
+            "id": null,
+            "handle": "vixieveevt",
+            "displayName": "Vixie 🖤⛓ Pooka Vtuber",
+            "description": "Pooka Fae • Vtuber • VA 🔞 \n@gamersupps @ItashaCoffee ♡ Use Code: VIXIE\n🎨+⚙️ @alyxmorana",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2007575938322604034/0BROp6cg_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/vixieveevt",
+            "fetchedAt": "2026-11-18T19:14:51Z"
+        }
+    },
+    "fansly": {
+        "id": "439276555114389504",
+        "username": "VixieVee",
+        "displayName": "Vixie",
+        "version": 3,
+        "followCount": 5063,
+        "statusId": 3,
+        "accountMediaLikes": 3525,
+        "postLikes": 3230,
+        "about": "𝖄𝖔𝖚𝖗 𝕱𝖆𝖊 𝕺𝖛𝖊𝖗𝖘𝖙𝖎𝖒 𝕼𝖚𝖊𝖊𝖓 ✦✦✦ ᴠᴛᴜʙᴇʀ • ʟɪᴠᴇ ᴍᴏꜱᴛ ᴛʜᴜʀꜱᴅᴀʏꜱ ᴀᴛ 11:30 ᴘᴍ ᴇꜱᴛ!\n\n                                 𝓟𝓵𝓮𝓪𝓼𝓮 𝓭𝓻𝓲𝓿𝓮 𝓶𝓮 𝓬𝓻𝓪𝔃𝔂 🤤\n\nPooka Fae Vtuber✨ Spicy Audio RP ✨ Naughty ASMR ✨ Exclusive 🔞 Art \n\n✅ Lots of Overstim, Breeding, Plap Plap Noises, Audio Stimulation, & More!  :: 🚫 No IRL Content \n\n🖤Twitch: twitch.tv/vixievee\n🖤Lovense Wishlist: lovense.com/wish-list/mu9r\n🖤Youtube: youtube.com/@vixievee/\n🖤ASMR Youtube: youtube.com/@vixieveeasmr/\n🖤Throne: throne.com/vixievee",
+        "location": "",
+        "streaming": {
+            "accountId": "439276555114389504",
+            "channel": {
+                "id": "541416316959989760",
+                "accountId": "439276555114389504",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.f1h2oeYEotAA.m3u8",
+                "chatRoomId": "541446573956018176",
+                "status": 2,
+                "version": 70,
+                "createdAt": 1690578069000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "541416316959989761",
+                    "historyId": "883628341142233090",
+                    "channelId": "541416316959989760",
+                    "accountId": "439276555114389504",
+                    "title": "Hi Sinners! 💜 Kind of super excited at the idea of y'all just buzzing me whenever~ 💦 !menu",
+                    "status": 1,
+                    "viewerCount": 19,
+                    "version": 8848,
+                    "createdAt": 1690578069000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1772173636000,
+                    "startedAt": 1772167773000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "786917761954619392",
+                                "streamId": "541416316959989761",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T19:14:58Z"
+    }
+}
