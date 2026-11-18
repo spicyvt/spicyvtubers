@@ -1,0 +1,110 @@
+{
+    "bio": "doing my thing",
+    "twitch": {
+        "id": "880166921",
+        "login": "faerie_geo",
+        "displayName": "faerie_geo",
+        "createdAt": "2023-02-09T05:49:14.805828Z",
+        "updatedAt": "2026-11-16T08:21:56.144924Z",
+        "description": "doing my thing",
+        "primaryColorHex": "5C16C5",
+        "followers": {
+            "totalCount": 4326
+        },
+        "follows": {
+            "totalCount": 36
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-15T05:53:18.185877Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d22250cd-6e11-42c1-8564-ccac0dbc49fd-profile_image-300x300.png",
+        "fetchedAt": "2026-11-18T12:47:24Z"
+    },
+    "twitter": {
+        "faeriegeo": {
+            "id": null,
+            "handle": "faeriegeo",
+            "displayName": "Geo Carnelia",
+            "description": "Dark Fairy 🦇 i: @Alvein6 b: @yakou_02 | https://t.co/NNZIyugatC 🌻",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2109157878418341888/XJ-8kX5-_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/faeriegeo",
+            "fetchedAt": "2026-11-18T12:47:59Z"
+        },
+        "geocarnelia": {
+            "id": null,
+            "handle": "geocarnelia",
+            "displayName": "Faerie",
+            "description": "🔞R-18 ASMRtist 💗 \n🦋 main @faeriegeo",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2049147224760913920/eOGLI9l1_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/geocarnelia",
+            "fetchedAt": "2026-11-18T12:48:01Z"
+        }
+    },
+    "fansly": {
+        "id": "479994389318348800",
+        "username": "FaerieGeo",
+        "displayName": "Geo Carnelia",
+        "version": 6,
+        "followCount": 5760,
+        "statusId": 3,
+        "accountMediaLikes": 4045,
+        "postLikes": 4319,
+        "about": "Lewd livestream archives, R-18 pics and videos 📸🔞\nCozy Auditory ASMR & Visual ASMR 🎧 💤\n─────────────── « ⋅♡⋅ » ───────────────\nSocial Links - https://solo.to/faeriegeo",
+        "location": "",
+        "streaming": {
+            "accountId": "479994389318348800",
+            "channel": {
+                "id": "553872042957484032",
+                "accountId": "479994389318348800",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9yWVb1KkXVVi.m3u8",
+                "chatRoomId": "562162716924456961",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1693547745000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "553872042957484033",
+                    "historyId": "795340948878929928",
+                    "channelId": "553872042957484032",
+                    "accountId": "479994389318348800",
+                    "title": "Internet Bandwidth Test Stream [IGNORE THESE]",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 1977,
+                    "createdAt": 1693547745000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1751121000000,
+                    "startedAt": 1751118418000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "795285432161021953",
+                                "streamId": "553872042957484033",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"795284608185802752\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T12:48:32Z"
+    }
+}

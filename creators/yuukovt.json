@@ -1,0 +1,88 @@
+{
+    "bio": "Yuuko's Tea Room! Japanese and Gibberish speaker~! We stream ASMR, games, and crafts!",
+    "twitch": {
+        "id": "149291315",
+        "login": "chiyukibun",
+        "displayName": "chiyukibun",
+        "createdAt": "2017-03-03T05:35:40.912581Z",
+        "updatedAt": "2026-10-24T15:53:37.146493Z",
+        "description": "Yuuko's Tea Room! Japanese and Gibberish speaker~! We stream ASMR, games, and crafts!",
+        "primaryColorHex": "CFB8F3",
+        "followers": {
+            "totalCount": 1585
+        },
+        "follows": {
+            "totalCount": 275
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-24T16:03:41.620533Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0518bced-8130-4024-8991-eef314ec023a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-18T12:47:05Z"
+    },
+    "twitter": {
+        "yuukovt": {
+            "id": null,
+            "handle": "yuukovt",
+            "displayName": "YuukoVT",
+            "description": "0 followers · 3 following. Joined Oct 2026. See the latest conversations with @YuukoVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2109583968223776768/Qg13agc-_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/YuukoVT",
+            "fetchedAt": "2026-11-18T12:47:33Z"
+        }
+    },
+    "fansly": {
+        "id": "530029089403183104",
+        "username": "YuukoVT",
+        "displayName": "ゆうこ ♥Yuuko♥",
+        "version": 17,
+        "followCount": 14347,
+        "statusId": 3,
+        "accountMediaLikes": 20983,
+        "postLikes": 29513,
+        "about": "Japanese&Australian bratty 花魁 bunny princess ♡\nSoft voice, sharp tongue, expensive taste.\n\nI tease, mock, praise, ignore, and spoil devoted worshippers who know how to behave.\n\nASMR, lewd VTuber streams, spicy audios, VODs, English / Japanese whispers, goddess worship, humiliation, JOI, gooning, and bratty little mind games.\n\nBe useful. Pay properly.\nWorship Endlessly\n",
+        "location": "Japan",
+        "streaming": {
+            "accountId": "530029089403183104",
+            "channel": {
+                "id": "622010656702345216",
+                "accountId": "530029089403183104",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Aq8vbTQuRuPW.m3u8",
+                "chatRoomId": "622010682291793920",
+                "status": 2,
+                "version": 73,
+                "createdAt": 1709793256000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "622010656702345217",
+                    "historyId": "979245825269981184",
+                    "channelId": "622010656702345216",
+                    "accountId": "530029089403183104",
+                    "title": "ご主人様~ my needy pussy craves you | !menu ",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 3698,
+                    "createdAt": 1709793257000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794964919000,
+                    "startedAt": 1794964758000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T12:48:32Z"
+    }
+}

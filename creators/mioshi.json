@@ -1,0 +1,117 @@
+{
+    "bio": "Mute Streamer who loves chatting with viewers, playing all sorts of videogames, and do my best to help others have a better day.If you're someone in need of people to talk to, you found the right place!",
+    "twitch": {
+        "id": "549757912",
+        "login": "mioshi",
+        "displayName": "Mioshi",
+        "createdAt": "2020-07-01T00:47:43.065297Z",
+        "updatedAt": "2026-11-18T06:32:42.172591Z",
+        "description": "Mute Streamer who loves chatting with viewers, playing all sorts of videogames, and do my best to help others have a better day.If you're someone in need of people to talk to, you found the right place!",
+        "primaryColorHex": "8205B3",
+        "followers": {
+            "totalCount": 22837
+        },
+        "follows": {
+            "totalCount": 240
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-18T06:33:07.871737Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/dbfe5a58-2e7d-4b2d-ad05-20de8ea2da5a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-18T12:47:21Z"
+    },
+    "youtube": {
+        "id": "UCWHRE98Bt9BCCa3WZ4xpOPw",
+        "handle": "MioshiBunny",
+        "title": "Mioshi",
+        "description": "\nJust trying to live my life to the fullest and have fun!",
+        "channelUrl": "https://www.youtube.com/channel/UCWHRE98Bt9BCCa3WZ4xpOPw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_lENz3ZZVGdT_lJkAPO90MCMAO0TCWi3ODgio8ZOHRskQ=h300",
+        "subscriberCountText": "515 subscribers",
+        "videoCountText": "64 videos",
+        "fetchedAt": "2026-11-18T12:47:22Z"
+    },
+    "twitter": {
+        "masumioshi": {
+            "id": null,
+            "handle": "masumioshi",
+            "displayName": "Mioshi",
+            "description": "Variety Vtuber and VRChat streamer. Enjoyer of socializing.\nPartnered with @NarakaTheGame , and @FirstDescendant  https://t.co/ehT2xmJKWT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2016289615640969216/bX5ihkLF_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/MasuMioshi",
+            "fetchedAt": "2026-11-18T12:47:58Z"
+        }
+    },
+    "fansly": {
+        "id": "355373560321024001",
+        "username": "MasuMioshi",
+        "displayName": "Mioshi",
+        "version": 14,
+        "followCount": 2892,
+        "statusId": 1,
+        "accountMediaLikes": 4703,
+        "postLikes": 5274,
+        "about": "Well hello there cutie! <3 I hope this Bunny Girl can brighten your day!\n\n$10- Nude NSFW Photos \n$15- Nude NSFW GIfs and Videos\n$25- Nude Streams and More! Every Saturday\n(auto renewals get something extra in their DMs end of each Month)\n\nRULES: Be Respectful. Most requests can be done, but if no is said then that is final.\nTreat Fansly like Vegas. What happens and is seen here stays in here, Please do not discuss or show posts from here outside here or I will be forced to ban.\n\nDisclaimer: All content is recorded and shot using Unity and programs such as VMC with green screen.\n\nCheck out my other socials!\nTWITTER- https://twitter.com/MasuMioshi\nTWITCH- https://www.twitch.tv/mioshi\nTIKTOK- https://www.tiktok.com/@bunnygirlmioshi\nINSTAGRAM- https://www.instagram.com/MasuMioshi\n\nNO REFUNDS.",
+        "location": "Earth",
+        "streaming": {
+            "accountId": "355373560321024001",
+            "channel": {
+                "id": "488505617665765376",
+                "accountId": "355373560321024001",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.sZ671ZCxceDl.m3u8",
+                "chatRoomId": "488507103497957376",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1677963175000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "488505617665765377",
+                    "historyId": "803190759212736512",
+                    "channelId": "488505617665765376",
+                    "accountId": "355373560321024001",
+                    "title": "I'm Back with a New Toy!! Hush, come try it out!",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 7268,
+                    "createdAt": 1677963175000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1752993050000,
+                    "startedAt": 1752989959000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "803190977660465152",
+                                "streamId": "488505617665765377",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"467697017859088384\\\"}\"}"
+                            },
+                            {
+                                "id": "803190977660465153",
+                                "streamId": "488505617665765377",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T12:48:32Z"
+    }
+}

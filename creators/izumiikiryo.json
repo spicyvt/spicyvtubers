@@ -1,0 +1,97 @@
+{
+    "bio": "💫⚔️ Soul guardian VTuber and certified girl failure 💫⚔️ If you like your guardians a little unhinged you're in the right place. Expect cozy chaos, questionable decisions, and lots of yapping",
+    "twitch": {
+        "id": "1321653442",
+        "login": "izumiikiryo",
+        "displayName": "IzumiIkiryo",
+        "createdAt": "2025-06-10T08:21:46.637779Z",
+        "updatedAt": "2026-11-17T19:43:26.26611Z",
+        "description": "💫⚔️ Soul guardian VTuber and certified girl failure 💫⚔️ If you like your guardians a little unhinged you're in the right place. Expect cozy chaos, questionable decisions, and lots of yapping",
+        "primaryColorHex": "0089A3",
+        "followers": {
+            "totalCount": 484
+        },
+        "follows": {
+            "totalCount": 104
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-17T06:03:00.117072Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a259aaf9-2426-4e15-99c4-423bd6758727-profile_image-300x300.png",
+        "fetchedAt": "2026-11-18T12:47:17Z"
+    },
+    "twitter": {
+        "izumiikiryo": {
+            "id": null,
+            "handle": "izumiikiryo",
+            "displayName": "Izumi | Soul Guardian VTuber 💫⚔️",
+            "description": "🌙 Soul Guardian on duty\n🗣️ Professional yapper\n🎮 Variety Streamer\n🎨: #IkiryArt\ni: @hexchu\nh: @suchikun",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2093922582424662016/MylWCskl_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/IzumiIkiryo",
+            "fetchedAt": "2026-11-18T12:47:55Z"
+        }
+    },
+    "fansly": {
+        "id": "585391653162856448",
+        "username": "KaliKazahana",
+        "displayName": "IzumiIkiryo",
+        "version": 6,
+        "followCount": 2271,
+        "statusId": 3,
+        "accountMediaLikes": 544,
+        "postLikes": 1076,
+        "about": "Girl failure fox\n\n❄️NSFW Photos (3D Model)\n❄️Lewd Art and Audio\n❄️NSFW Gameplay\n❄️Vtuber\n❄️Sneak Peeks & Fansly Exclusives\n\nSpoil the fox:\nhttps://throne.com/KaliKazahana\nhttps://ko-fi.com/kalikazahana\n\nSOCIALS: KaliKazahana.carrd.co",
+        "location": "",
+        "streaming": {
+            "accountId": "585391653162856448",
+            "channel": {
+                "id": "732502268154224641",
+                "accountId": "585391653162856448",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.arym7rQdO6Sc.m3u8",
+                "chatRoomId": "732502306494357505",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1736136510000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "732502268154224642",
+                    "historyId": "822641329845579776",
+                    "channelId": "732502268154224641",
+                    "accountId": "585391653162856448",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 27,
+                    "version": 8386,
+                    "createdAt": 1736136510000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1757627802000,
+                    "startedAt": 1757627337000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "742685830534930432",
+                                "streamId": "732502268154224642",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T12:48:32Z"
+    }
+}

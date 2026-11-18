@@ -1,0 +1,97 @@
+{
+    "bio": "૮ › 𖥦 ‹ ྀིა ᯓ✧PINT SIZED PARASITIC PUPPY!! I LUV THE COLOR PINK!!! ALL THINGS KAWAII!! I ALSO LOVE HORROR, HUMANS AND HUMAN BRAINS ABWA 🪱💒",
+    "twitch": {
+        "id": "456563250",
+        "login": "kissiechuu",
+        "displayName": "kissiechuu",
+        "createdAt": "2019-08-23T04:43:28.578161Z",
+        "updatedAt": "2026-11-01T05:11:20.300715Z",
+        "description": "૮ › 𖥦 ‹ ྀིა ᯓ✧PINT SIZED PARASITIC PUPPY!! I LUV THE COLOR PINK!!! ALL THINGS KAWAII!! I ALSO LOVE HORROR, HUMANS AND HUMAN BRAINS ABWA 🪱💒",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 9646
+        },
+        "follows": {
+            "totalCount": 107
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-01T06:45:29.023278Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1de7acf9-f587-47f1-a59e-710d9e207d1d-profile_image-300x300.png",
+        "fetchedAt": "2026-11-18T12:47:29Z"
+    },
+    "twitter": {
+        "pubbychuu": {
+            "id": "1830788251096854529",
+            "handle": "pubbychuu",
+            "displayName": "Kissiechuu 🪱💒KISSIETHON!! ୨ৎ",
+            "description": "Alien puppymouto brain parasite 🪱💢✮ VA✮ASMR ✮ Artist YouTube partner🎨m: @TRENTE30m + 木头壬_Mori #parascribbles 🎥#klipssie ✧ http://patreon.com/KissieChuu",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2020871585746530304/YrCNJrQE_400x400.jpg",
+            "followersCount": 14044,
+            "followingCount": 272,
+            "postsCount": 6284,
+            "accountCreatedAt": "2024-09-03T02:02:03.000Z",
+            "profileUrl": "https://x.com/PubbyChuu",
+            "fetchedAt": "2026-11-18T12:48:07Z"
+        }
+    },
+    "fansly": {
+        "id": "412193578089979904",
+        "username": "LullabyLolita",
+        "displayName": "KissieChuu",
+        "version": 12,
+        "followCount": 4147,
+        "statusId": 2,
+        "accountMediaLikes": 428,
+        "postLikes": 984,
+        "about": "Doggie Vtuber you will be sniffed and licked!! you have been warned\n♡ ECCHI & HENTAI ART ♡\n♡ LIVESTREAMS ♡\n♡ ASMR ♡\n♡ FEET ♡",
+        "location": "",
+        "streaming": {
+            "accountId": "412193578089979904",
+            "channel": {
+                "id": "418366776770834432",
+                "accountId": "412193578089979904",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.87cr8hPcV0gF.m3u8",
+                "chatRoomId": "418366811931680769",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1661240772000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "418366776770834433",
+                    "historyId": "747778521262206976",
+                    "channelId": "418366776770834432",
+                    "accountId": "412193578089979904",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 34,
+                    "version": 7715,
+                    "createdAt": 1661240772000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1739785079000,
+                    "startedAt": 1739778652000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "631055243269906432",
+                                "streamId": "418366776770834433",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T12:48:32Z"
+    }
+}

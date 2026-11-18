@@ -1,0 +1,101 @@
+{
+    "bio": "I’m Citrina! An anomaly wandering the multiverse just trying to enjoy her time here with you!",
+    "twitch": {
+        "id": "827687483",
+        "login": "fizzylemonsoda",
+        "displayName": "FizzyLemonsoda",
+        "createdAt": "2022-09-22T03:14:21.216977Z",
+        "updatedAt": "2026-11-11T01:42:11.291884Z",
+        "description": "I’m Citrina! An anomaly wandering the multiverse just trying to enjoy her time here with you!",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 537
+        },
+        "follows": {
+            "totalCount": 414
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-12T04:14:12.154126Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0ffd9be-56c6-490e-91f0-e6d4e0bcb9eb-profile_image-300x300.png",
+        "fetchedAt": "2026-11-18T12:47:08Z"
+    },
+    "twitter": {
+        "fizzy_lemonsoda": {
+            "id": null,
+            "handle": "fizzy_lemonsoda",
+            "displayName": "FizzyLemonsoda 🍋🐜",
+            "description": "🫧 I’m Citrina! I’m a quiet, anxious, but chaotic Sparkling Lemonade Firefly! I love to chat and play games so come hang out! #sodabug",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2109667944191954944/34BasSAG_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/fizzy_lemonsoda",
+            "fetchedAt": "2026-11-18T12:47:36Z"
+        },
+        "glowholevt": {
+            "id": null,
+            "handle": "glowholevt",
+            "displayName": "FizzyLemonsoda 🔞🫧🐜",
+            "description": "Official NSFW/irl account for @fizzy_lemonsoda 🫧Sparkling Lemonade Firefly🫧",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2104437606532419584/V_J4nUpZ_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/GlowHoleVT",
+            "fetchedAt": "2026-11-18T12:47:39Z"
+        }
+    },
+    "fansly": {
+        "id": "819485110893043712",
+        "username": "fizzylemonsoda",
+        "displayName": "FizzyLemonsoda🍋🐜",
+        "version": 12,
+        "followCount": 583,
+        "statusId": 1,
+        "accountMediaLikes": 182,
+        "postLikes": 125,
+        "about": "Hai hai! I’m Citrina! Your chaotic sparkling lemonade Firefly~ \nCome on I know this 🫧bubblebug🫧 is what you want~\nI read and reply to all messages!! Just be patient with me 🙏\nShow me how much you really love me 💕\n\nSocials: https://fizzy-lemonsoda.carrd.co/\n\nWelcome to the glowhole bitches its about to get crazy🩵💛\n\nRedistributing my content is forbidden and will result in legal action <3",
+        "location": "",
+        "streaming": {
+            "accountId": "819485110893043712",
+            "channel": {
+                "id": "879884325447811072",
+                "accountId": "819485110893043712",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.cnff1YIBrpCq.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1771275130000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "879884325447811073",
+                    "historyId": null,
+                    "channelId": "879884325447811072",
+                    "accountId": "819485110893043712",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1771275131000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T12:48:32Z"
+    }
+}

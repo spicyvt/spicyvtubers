@@ -1,0 +1,100 @@
+{
+    "bio": "Hello and welcome to Fop's Chaos Cafe! Home of the SnowPaws, questionable decisions, and of course, the Foxubus herself; Wynter! Have a look around, take a seat, and enjoy your stay!",
+    "twitch": {
+        "id": "1015651012",
+        "login": "wynterthefoxubus",
+        "displayName": "WynterTheFoxubus",
+        "createdAt": "2024-01-09T01:39:22.873194Z",
+        "updatedAt": "2026-11-18T04:03:56.584257Z",
+        "description": "Hello and welcome to Fop's Chaos Cafe! Home of the SnowPaws, questionable decisions, and of course, the Foxubus herself; Wynter! Have a look around, take a seat, and enjoy your stay!",
+        "primaryColorHex": "9ABDFF",
+        "followers": {
+            "totalCount": 170
+        },
+        "follows": {
+            "totalCount": 61
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-18T10:24:20.053146Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6a7fe38-df0b-4158-88b6-250348a91048-profile_image-300x300.jpeg",
+        "fetchedAt": "2026-11-18T12:47:13Z"
+    },
+    "youtube": {
+        "id": "UCQc6NCuIsP-xVlS6UBsRm_g",
+        "handle": "WynterTheFop",
+        "title": "Wynter The Foxubus VODs & Clips",
+        "description": "Hiya! I'm Wynter, a sweet, fluffy and slightly chaotic arctic foxubus vtuber!\n\nEnjoy the play back of my insanity, or come hang out with me live over on https://www.twitch.tv/wynterthefoxubus! I stream a variety of games and other things while causing a little chaos along the way! I look forward to seeing you!\n",
+        "channelUrl": "https://www.youtube.com/channel/UCQc6NCuIsP-xVlS6UBsRm_g",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/ZzY4rVdWRV6fXQGAZp66RYz80BY9tCDFrwRpIRHvNhHDYgim-gWVG8HoAPlQKkBHYgtLLvl7brA=h300",
+        "subscriberCountText": "48 subscribers",
+        "videoCountText": "144 videos",
+        "fetchedAt": "2026-11-18T12:47:15Z"
+    },
+    "twitter": {
+        "wynterfoxubus": {
+            "id": null,
+            "handle": "wynterfoxubus",
+            "displayName": "Wynter The Foxubus ❄️🦊 (VTuber)",
+            "description": "Sweet, Fluffy and a bit chaotic - An Arctic Fox Succubus VTuber that&#x27;s making her way through this insane thing we call life 🩵",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2101386226590748672/dqVyHx4Y_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/WynterFoxubus",
+            "fetchedAt": "2026-11-18T12:47:49Z"
+        }
+    },
+    "fansly": {
+        "id": "867305050945376256",
+        "username": "TheFoxubusWynter",
+        "displayName": "Wynter The Foxubus",
+        "version": 9,
+        "followCount": 398,
+        "statusId": 1,
+        "accountMediaLikes": 179,
+        "postLikes": 216,
+        "about": "Hi! I'm Wynter, your new favorite way to chill~\n\n~ Fetish/Kink & Lovense Friendly\n~ Memes, Twitch Clips and Fuzzy Vibes\n\nCome hang out with me while I stream, sing and goof off in a variety of ways! Make me purr or hear me growl, the fun is yours to decide ;3\n\nTaking part in a little of this, that and everything else too... something for everyone in my little fox burrow~\n\n~ DO NOT SHARE ANY CONTENT OR DMs ",
+        "location": "Your Nightmares UwU",
+        "streaming": {
+            "accountId": "867305050945376256",
+            "channel": {
+                "id": "925287123886567424",
+                "accountId": "867305050945376256",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WsxhzyxuVTXF.m3u8",
+                "chatRoomId": "925290836206301184",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1782100001000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "925287123886567425",
+                    "historyId": "977868702840004608",
+                    "channelId": "925287123886567424",
+                    "accountId": "867305050945376256",
+                    "title": "The Foxubus is Back!! Cum Play~",
+                    "status": 1,
+                    "viewerCount": 4,
+                    "version": 16,
+                    "createdAt": 1782100001000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794643552000,
+                    "startedAt": 1794636426000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T12:48:32Z"
+    }
+}

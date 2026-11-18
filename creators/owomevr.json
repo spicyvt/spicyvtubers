@@ -1,0 +1,97 @@
+{
+    "bio": "Hewo I am OwOmeVR. You might know me from my NSFW content :3 I'll be wholesome here I swear!",
+    "twitch": {
+        "id": "593679601",
+        "login": "owomevr",
+        "displayName": "OwOmeVR",
+        "createdAt": "2020-10-09T10:34:14.367598Z",
+        "updatedAt": "2024-05-18T21:33:18.813492Z",
+        "description": "Hewo I am OwOmeVR. You might know me from my NSFW content :3 I'll be wholesome here I swear!",
+        "primaryColorHex": "FA1ED2",
+        "followers": {
+            "totalCount": 935
+        },
+        "follows": {
+            "totalCount": 19
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2022-09-27T18:01:34.787053Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/baf04f2b-0c13-4e72-9bfe-07c05ee4f8ca-profile_image-300x300.png",
+        "fetchedAt": "2026-11-18T12:47:07Z"
+    },
+    "twitter": {
+        "owomevr": {
+            "id": "1301906320174522370",
+            "handle": "owomevr",
+            "displayName": "OwOmeVR",
+            "description": "She's a 10 but she keeps asking you to \"OwO\" her 💗\n\nWatch all my videos on Patreon!\n\n#lewdtuber #vtuber\n\nMy links: https://linktr.ee/owomevr",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1950513327458648064/coDNiDsh_400x400.jpg",
+            "followersCount": 54516,
+            "followingCount": 143,
+            "postsCount": 5685,
+            "accountCreatedAt": "2020-09-04T15:34:07.000Z",
+            "profileUrl": "https://x.com/OwOmeVR",
+            "fetchedAt": "2026-11-18T12:47:34Z"
+        }
+    },
+    "fansly": {
+        "id": "390559168622239744",
+        "username": "OwOmeVR",
+        "displayName": "OwOmeVR",
+        "version": 7,
+        "followCount": 25107,
+        "statusId": 1,
+        "accountMediaLikes": 53831,
+        "postLikes": 79044,
+        "about": "The erp Pornstar UwU\n💗Over 200 full length videos\n💗Daily picture sets\n💗Sexy irl pics\n",
+        "location": "www.owomevr.com",
+        "streaming": {
+            "accountId": "390559168622239744",
+            "channel": {
+                "id": "431869704181653504",
+                "accountId": "390559168622239744",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.iCO4e1ZcV6o9.m3u8",
+                "chatRoomId": "431869749857624064",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1664460121000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "431869704181653505",
+                    "historyId": "564894601740034048",
+                    "channelId": "431869704181653504",
+                    "accountId": "390559168622239744",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 81,
+                    "version": 208,
+                    "createdAt": 1664460121000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1696181582000,
+                    "startedAt": 1696175728000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "431869796867387392",
+                                "streamId": "431869704181653505",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T12:48:32Z"
+    }
+}

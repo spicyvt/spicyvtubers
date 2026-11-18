@@ -1,0 +1,88 @@
+{
+    "bio": "𝔖𝔦𝔫𝔫𝔞𝔪𝔬𝔫 the succubus streamer.",
+    "twitch": {
+        "id": "578204646",
+        "login": "sinnamonsuccubus",
+        "displayName": "SinnamonSuccubus",
+        "createdAt": "2020-09-04T14:00:47.105976Z",
+        "updatedAt": "2026-10-05T20:39:31.689313Z",
+        "description": "𝔖𝔦𝔫𝔫𝔞𝔪𝔬𝔫 the succubus streamer.",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": 6991
+        },
+        "follows": {
+            "totalCount": 741
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2023-02-26T23:01:43.243842Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e399599-44db-49d3-a578-e024d926a2cb-profile_image-300x300.png",
+        "fetchedAt": "2026-11-18T12:47:12Z"
+    },
+    "fansly": {
+        "id": "322226822743863296",
+        "username": "SinnamonSuccubus",
+        "displayName": "Sinnamon",
+        "version": 7,
+        "followCount": 23617,
+        "statusId": 3,
+        "accountMediaLikes": 73123,
+        "postLikes": 40825,
+        "about": "Hey! I'm 𝕾𝖎𝖓𝖓𝖆𝖒𝖔𝖓, a chubby, subby shortstack succubus with an insatiable appetite! Welcome to the home for all my extra spice! \n\nWishlist: thrn.co/u/sinnamonsuccubus\nTwitter: twitter.com/SinnamonSucc\nWanna Get a Sex Toy & Support Me? https://www.lovense.com/r/gjkhq5\n\nFollow for free teasers!\n❥Subscribe for future access to... \n♡ DM's with me! \n♡ Full access to NSFW Photos and Videos, Audios, and Streams! \n\n-----------------------------------------------------\nArt Credit:\n2D Model Art by Suni + Anaiss! \nhttps://twitter.com/su_niii | https://twitter.com/anaiss_vt\nVR Model by @YuukiTrap!",
+        "location": "Heck",
+        "streaming": {
+            "accountId": "322226822743863296",
+            "channel": {
+                "id": "322503396521160704",
+                "accountId": "322226822743863296",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.tHjS23b1QmhJ.m3u8",
+                "chatRoomId": "322503595922567168",
+                "status": 2,
+                "version": 14,
+                "createdAt": 1638385161000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "322503396521160705",
+                    "historyId": "973129898300301312",
+                    "channelId": "322503396521160704",
+                    "accountId": "322226822743863296",
+                    "title": "Surprise Late Night Stream! I'm a lil sad today, can we cum together anyway? ♡",
+                    "status": 1,
+                    "viewerCount": 37,
+                    "version": 3202,
+                    "createdAt": 1638385162000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1793513545000,
+                    "startedAt": 1793506607000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-18T12:48:32Z"
+    },
+    "twitter": {
+        "sinnamonsucc": {
+            "id": "1297631398522769409",
+            "handle": "sinnamonsucc",
+            "displayName": "𝔖𝔦𝔫𝔫𝔞𝔪𝔬𝔫 🔞",
+            "description": "A succubus shortstack! | Check fansly for more lewdtuber posts × IRL nudes! |  🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1802734942192816128/jI82Jhej_400x400.jpg",
+            "followersCount": 13717,
+            "followingCount": 2834,
+            "postsCount": 354,
+            "accountCreatedAt": "2020-08-23T20:26:56.000Z",
+            "profileUrl": "https://x.com/SinnamonSucc",
+            "fetchedAt": "2026-11-18T12:48:41Z"
+        }
+    }
+}
