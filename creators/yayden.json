@@ -1,0 +1,97 @@
+{
+    "bio": "Hai! Welcome to my channel! I'm Yayden~ Competitive Valorant Player. Mental Health advocate. Reader. Manga Collector. Tabletop Collector. Cosplayer. Model. D&D Player.",
+    "twitch": {
+        "id": "152380919",
+        "login": "missyayden",
+        "displayName": "MissYayden",
+        "createdAt": "2017-04-04T17:28:13.059303Z",
+        "updatedAt": "2026-10-24T00:37:37.529831Z",
+        "description": "Hai! Welcome to my channel! I'm Yayden~ Competitive Valorant Player. Mental Health advocate. Reader. Manga Collector. Tabletop Collector. Cosplayer. Model. D&D Player.",
+        "primaryColorHex": "FB5AFF",
+        "followers": {
+            "totalCount": 7353
+        },
+        "follows": {
+            "totalCount": 525
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-24T00:38:23.035005Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e924a2b3-b0a5-4c0b-818e-1c03c7d727ea-profile_image-300x300.png",
+        "fetchedAt": "2026-11-19T05:00:53Z"
+    },
+    "twitter": {
+        "missyayden": {
+            "id": null,
+            "handle": "missyayden",
+            "displayName": "Yayden ✨",
+            "description": "She/Her | #ValorantPartner | Twitch Streamer\n💌 ᴍɪꜱꜱʏᴀʏᴅᴇɴ@ɢᴍᴀɪʟ.ᴄᴏᴍ\n\n🌙 https://t.co/ofgpFKFmCT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2110790805036351488/pu3F1mUc_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/MissYayden",
+            "fetchedAt": "2026-11-19T05:00:55Z"
+        }
+    },
+    "fansly": {
+        "id": "425586569785651200",
+        "username": "Yayden",
+        "displayName": "Yayden",
+        "version": 4,
+        "followCount": 1939,
+        "statusId": 1,
+        "accountMediaLikes": 5896,
+        "postLikes": 3225,
+        "about": "Socials ~ https://linktr.ee/YaydenVR\n\nHai cutie! Thank you for taking the time to be here!\n\n ✧ Top 0.4%\n ✧ Shy girl\n ✧ Kink friendly\n ✧ 100% Sub and certified good girl\n ✧ VTuber, VR and IRL content found here!\n\nPlease remember to take care of yourself today. ♥️\n\n⚠️ IMPORTANT ⚠️\nMy content is for my Fansly profile only. You may not reproduce, copy, or redistribute any of my content without my consent.",
+        "location": "Sub space",
+        "streaming": {
+            "accountId": "425586569785651200",
+            "channel": {
+                "id": "440535491457069056",
+                "accountId": "425586569785651200",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ScRL6EXJyx9I.m3u8",
+                "chatRoomId": "440535763579314176",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1666526205000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "440535491457069057",
+                    "historyId": "558891075310198784",
+                    "channelId": "440535491457069056",
+                    "accountId": "425586569785651200",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 22,
+                    "version": 2390,
+                    "createdAt": 1666526206000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1694753532000,
+                    "startedAt": 1694744376000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "470074912690675712",
+                                "streamId": "440535491457069057",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-19T05:00:56Z"
+    }
+}
