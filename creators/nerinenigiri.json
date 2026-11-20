@@ -1,0 +1,110 @@
+{
+    "bio": "🌸The Fresh Fish of Pond-Air🍣𓆝",
+    "twitch": {
+        "id": "823208434",
+        "login": "nerinenigiri",
+        "displayName": "NerineNigiri",
+        "createdAt": "2022-09-06T01:14:51.450899Z",
+        "updatedAt": "2026-11-19T02:08:05.381786Z",
+        "description": "🌸The Fresh Fish of Pond-Air🍣𓆝",
+        "primaryColorHex": "9A77CF",
+        "followers": {
+            "totalCount": 6681
+        },
+        "follows": {
+            "totalCount": 344
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-19T07:00:06.60213Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d85e2194-d27c-4a10-911b-b3b691c5dfbb-profile_image-300x300.png",
+        "fetchedAt": "2026-11-20T14:57:28Z"
+    },
+    "twitter": {
+        "nerinenigiri": {
+            "id": null,
+            "handle": "nerinenigiri",
+            "displayName": "Nerine🦊🍣 Fox Koi Fish",
+            "description": "The Fresh Fish of Pond-Air🎣 Koisune \n✨Whimsy with a sprinkle of horror 🔪\n🌐: https://t.co/oFtVr0aNiG | 📧: nerinenigiri.gg@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2123537754986545152/Ggz14Jjd_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/NerineNigiri",
+            "fetchedAt": "2026-11-20T14:57:30Z"
+        },
+        "nigiriafterdark": {
+            "id": null,
+            "handle": "nigiriafterdark",
+            "displayName": "🦊 Nerine Pond Star NSFW 🍣",
+            "description": "NSFW Koisune🔞 |👑 spoil me: https://t.co/fk5r4ii4Rw\n🍑:https://t.co/LBqU8jES2L | \nall links ➡ https://t.co/5DIo4zuEwP |",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2119995566675652609/Bv5tB4FS_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/NigiriAfterDark",
+            "fetchedAt": "2026-11-20T14:57:32Z"
+        }
+    },
+    "fansly": {
+        "id": "668296809885478913",
+        "username": "NigiriAfterDark",
+        "displayName": "Nerine ",
+        "version": 16,
+        "followCount": 3785,
+        "statusId": 3,
+        "accountMediaLikes": 2834,
+        "postLikes": 3691,
+        "about": "Pond Star| Kitsune Koi fish/ Koisune 🔞\nBDSM Enthusiast | Resident Brat | Gamer 𓆩 ♡ 𓆪\nI post IRL NUDES and clips, NSFW Audio, and Hentai pics!\nI read and reply to all messages! Please be patient with me. Tips get priority! \n\nAll of my content is copyrighted content that I own.\n\nAll links ➡️ https://nerinenigiri.carrd.co",
+        "location": "Pond-Air",
+        "streaming": {
+            "accountId": "668296809885478913",
+            "channel": {
+                "id": "723525075877240832",
+                "accountId": "668296809885478913",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.luqqwDERANfZ.m3u8",
+                "chatRoomId": "723525107552628736",
+                "status": 2,
+                "version": 41,
+                "createdAt": 1733996180000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "723525075877240833",
+                    "historyId": "936133640482463744",
+                    "channelId": "723525075877240832",
+                    "accountId": "668296809885478913",
+                    "title": "NEW MODEL COME PLAY WITH ME!! !throne",
+                    "status": 1,
+                    "viewerCount": 27,
+                    "version": 1298,
+                    "createdAt": 1733996181000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1784690948000,
+                    "startedAt": 1784686012000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "870201706648985600",
+                                "streamId": "723525075877240833",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-20T14:57:33Z"
+    }
+}
