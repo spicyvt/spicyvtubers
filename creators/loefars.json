@@ -1,0 +1,113 @@
+{
+    "bio": "i love lesbians",
+    "twitch": {
+        "id": "133960234",
+        "login": "loefars",
+        "displayName": "Loefars",
+        "createdAt": "2016-09-04T21:23:00.099917Z",
+        "updatedAt": "2026-11-20T01:32:47.144171Z",
+        "description": "i love lesbians",
+        "primaryColorHex": "7735A5",
+        "followers": {
+            "totalCount": 3237
+        },
+        "follows": {
+            "totalCount": 421
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-05T03:19:25.518749Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0ab9161-d44e-4509-9461-34adb291dece-profile_image-300x300.png",
+        "fetchedAt": "2026-11-20T02:47:50Z"
+    },
+    "youtube": {
+        "id": "UCaKnKljGYSMpIz5VOZZXEvQ",
+        "handle": "Loef",
+        "title": "Loefars",
+        "description": "That Silly, Girlkissing Puppy Girl!",
+        "channelUrl": "https://www.youtube.com/channel/UCaKnKljGYSMpIz5VOZZXEvQ",
+        "keywords": "Loefars a6d Minecraft",
+        "profileImageUrl": "https://yt3.googleusercontent.com/jBxJ4Qr7Cpk7SnSH79A7_ctNTs07ECvWLD0qJPqxTBFr6uKzJ9RCSPaTu6sNnulnXGsn8WxJmw=h300",
+        "subscriberCountText": "1.5K subscribers",
+        "videoCountText": "14 videos",
+        "fetchedAt": "2026-11-20T02:47:52Z"
+    },
+    "twitter": {
+        "loefars": {
+            "id": null,
+            "handle": "loefars",
+            "displayName": "Leah Loef 🦴✨",
+            "description": "That Silly Girlkissing Puppy Girl 🦴 \nAll my links ➡️ https://t.co/VYZBOuz5qB | 🎨 #loefarts | 🔞@loefreaks #lewdarfs",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2072424759405768704/nTTtaohk_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/loefars",
+            "fetchedAt": "2026-11-20T02:48:08Z"
+        },
+        "loefreaks": {
+            "id": null,
+            "handle": "loefreaks",
+            "displayName": "Loefreaks 🦴✨🔞",
+            "description": "your favorite stupid puppygirl :3 | @loefars&#x27; alt | #lewdarfs | https://t.co/IPwylu7LUS | lewd links below :3",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2012624017115545600/2oRqiyc6_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/loefreaks",
+            "fetchedAt": "2026-11-20T02:48:10Z"
+        }
+    },
+    "fansly": {
+        "id": "840355539648016384",
+        "username": "loef",
+        "displayName": null,
+        "version": 5,
+        "followCount": 757,
+        "statusId": 1,
+        "accountMediaLikes": 50,
+        "postLikes": 32,
+        "about": "🦴 your desperate puppygirl vtuber~\n🫣not a bottom... i swear :3 \n\n❣ Custom Requests!!\n❣ NSFW Audios\n❣ Spicy Messages\n❣ Dick Rates\nWill respond to DMs!! (Tips get priority!)",
+        "location": "",
+        "streaming": {
+            "accountId": "840355539648016384",
+            "channel": {
+                "id": "869812592124653568",
+                "accountId": "840355539648016384",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.1kLJDqcHzwf0.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 1,
+                "createdAt": 1768873842000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "869812592124653569",
+                    "historyId": null,
+                    "channelId": "869812592124653568",
+                    "accountId": "840355539648016384",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1768873842000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-20T02:48:14Z"
+    }
+}

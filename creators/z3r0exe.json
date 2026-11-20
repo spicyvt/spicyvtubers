@@ -1,0 +1,100 @@
+{
+    "bio": "Just your silly little Cyber Fox Girl on Twitch. |🦊 Vtuber | She/Her | @ADVANCEDgg Ambassador",
+    "twitch": {
+        "id": "103784479",
+        "login": "z3r0exe",
+        "displayName": "Z3R0exe",
+        "createdAt": "2015-10-06T03:08:18.233543Z",
+        "updatedAt": "2026-11-18T02:30:20.162222Z",
+        "description": "Just your silly little Cyber Fox Girl on Twitch. |🦊 Vtuber | She/Her | @ADVANCEDgg Ambassador",
+        "primaryColorHex": "FAB3FF",
+        "followers": {
+            "totalCount": 3278
+        },
+        "follows": {
+            "totalCount": 1933
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-18T09:55:46.547096Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/90557667-b2b7-4f96-9a05-31617d3a4826-profile_image-300x300.png",
+        "fetchedAt": "2026-11-20T02:47:48Z"
+    },
+    "youtube": {
+        "id": "UCF3ovwa_OmraZhvJ1zkNC2g",
+        "handle": "Z3R0exeVT",
+        "title": "Z3R0exeVT",
+        "description": "Just your silly little Cyber Fox Girl on Twitch.\n🦊 Vtuber She/Her\nADVANCEDgg Ambassador\nTwitch Affiliate - DJ\n\n",
+        "channelUrl": "https://www.youtube.com/channel/UCF3ovwa_OmraZhvJ1zkNC2g",
+        "keywords": "DJ Z3R0",
+        "profileImageUrl": "https://yt3.googleusercontent.com/UPg6lAeJuYWwRbxW0y8o5XCCyGP1-svy891pw40Onnu6qsynMPnIkE1F-qNMykZX089877sdy1g=h300",
+        "subscriberCountText": "91 subscribers",
+        "videoCountText": "33 videos",
+        "fetchedAt": "2026-11-20T02:47:49Z"
+    },
+    "twitter": {
+        "z3r0exevt": {
+            "id": null,
+            "handle": "z3r0exevt",
+            "displayName": "Z3R0exe 🦊 | Cyber Fox Girl | 🔜TwitchCon SanDiego",
+            "description": "🦊 Vtuber She/Her 🏳️‍⚧️ \n@ADVANCEDgg Ambassador | TwitchAffiliate  | DJ | Team VSmarties\n\nModel by @NeliBoBeli Art:#Z3R0exeArt #Z3R0exeNSFW",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2037243338932256768/Q0CRhYRK_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Z3r0exeVT",
+            "fetchedAt": "2026-11-20T02:48:06Z"
+        }
+    },
+    "fansly": {
+        "id": "591315442199437312",
+        "username": "Z3R0exe",
+        "displayName": "Z3R0exe",
+        "version": 5,
+        "followCount": 215,
+        "statusId": 1,
+        "accountMediaLikes": 85,
+        "postLikes": 102,
+        "about": "Your Favorite Cyber Fox Girl!\n🦊 Vtuber She/Her\n\nhttps://z3r0exevt.carrd.co/",
+        "location": "Cyber Space",
+        "streaming": {
+            "accountId": "591315442199437312",
+            "channel": {
+                "id": "760604072167354368",
+                "accountId": "591315442199437312",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.3Vh2gJ3tahGz.m3u8",
+                "chatRoomId": "760610789479428096",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1742836502000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "760604072167354369",
+                    "historyId": "790111388985991168",
+                    "channelId": "760604072167354368",
+                    "accountId": "591315442199437312",
+                    "title": "Friday the 13th special ;3",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 1944,
+                    "createdAt": 1742836502000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1749882316000,
+                    "startedAt": 1749871594000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-20T02:48:14Z"
+    }
+}

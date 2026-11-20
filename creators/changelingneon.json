@@ -1,0 +1,88 @@
+{
+    "bio": "Redebut coming soon~ I'm Neon, a changeling Variety streamer that plays a variety of different games and engages in various artistic mediums!",
+    "twitch": {
+        "id": "180739731",
+        "login": "changelingneon",
+        "displayName": "ChangelingNeon",
+        "createdAt": "2017-11-06T19:53:12.825521Z",
+        "updatedAt": "2026-11-19T04:40:16.613141Z",
+        "description": "Redebut coming soon~ I'm Neon, a changeling Variety streamer that plays a variety of different games and engages in various artistic mediums!",
+        "primaryColorHex": "7C00FF",
+        "followers": {
+            "totalCount": 1108
+        },
+        "follows": {
+            "totalCount": 126
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-19T08:27:45.321484Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/129cc20c-fb68-4c14-ad7e-ccb7087ad987-profile_image-300x300.jpeg",
+        "fetchedAt": "2026-11-20T02:47:45Z"
+    },
+    "twitter": {
+        "changelingn": {
+            "id": null,
+            "handle": "changelingn",
+            "displayName": "ChangelingNeon",
+            "description": "🚫18+!🚫 \nRedebut coming soon! \nVgen comms offocially open~\nI stream every weekday!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2050654014677929984/QPFg9Rgv_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/changelingn",
+            "fetchedAt": "2026-11-20T02:48:02Z"
+        }
+    },
+    "fansly": {
+        "id": "458796548885590016",
+        "username": "ChangelingNeon",
+        "displayName": "ChangelingNeon",
+        "version": 6,
+        "followCount": 142,
+        "statusId": 1,
+        "accountMediaLikes": 177,
+        "postLikes": 133,
+        "about": "Hello there~ My name is Neon, and I welcome you to my little playroom. Here we celebrate the world of sexuality and naughtiness, so have a seat and enjoy the show~\n\nInteresting in spicing up the streams? Check out my throne here: https://throne.me/changelingneon",
+        "location": "",
+        "streaming": {
+            "accountId": "458796548885590016",
+            "channel": {
+                "id": "464993995823521792",
+                "accountId": "458796548885590016",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.29mQJ9xRWJNJ.m3u8",
+                "chatRoomId": "466160315885690880",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1672357567000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "464993995823521793",
+                    "historyId": "882021337902641152",
+                    "channelId": "464993995823521792",
+                    "accountId": "458796548885590016",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 5120,
+                    "createdAt": 1672357568000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1771786284000,
+                    "startedAt": 1771784634000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-20T02:48:14Z"
+    }
+}

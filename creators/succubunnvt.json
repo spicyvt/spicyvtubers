@@ -1,0 +1,97 @@
+{
+    "bio": "Seraphina Kestrinx. Just a Succubus Taeleer here for a good time, doesn't matter if it's long or short~",
+    "twitch": {
+        "id": "731790425",
+        "login": "succubunnvt",
+        "displayName": "SuccuBunnVT",
+        "createdAt": "2021-10-05T01:21:07.891067Z",
+        "updatedAt": "2026-11-18T21:16:18.752363Z",
+        "description": "Seraphina Kestrinx. Just a Succubus Taeleer here for a good time, doesn't matter if it's long or short~",
+        "primaryColorHex": "FF3284",
+        "followers": {
+            "totalCount": 994
+        },
+        "follows": {
+            "totalCount": 1923
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-19T06:52:12.315587Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/258f808e-3cfe-4dfe-ab15-751dc50d35c9-profile_image-300x300.png",
+        "fetchedAt": "2026-11-20T02:47:46Z"
+    },
+    "twitter": {
+        "succubunnvt": {
+            "id": null,
+            "handle": "succubunnvt",
+            "displayName": "Seraphina Kestrinx ||🥛🥕🤎🧡",
+            "description": "First your hearts, then your 𝕞𝕀𝔫ｄ𝓢~ MINORS DNI PFP: @Spoopiemilk Banner: @theghoulmonster",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2036694138763059200/OV7mBdqj_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/succubunnvt",
+            "fetchedAt": "2026-11-20T02:48:04Z"
+        }
+    },
+    "fansly": {
+        "id": "617934081941843969",
+        "username": "SuccuBunnVT",
+        "displayName": "SuccuBunnVT",
+        "version": 7,
+        "followCount": 307,
+        "statusId": 1,
+        "accountMediaLikes": 35,
+        "postLikes": 66,
+        "about": "Bratty Bimbo Barmaid Bunny. Live whenever I feel like it. Do come by the manor~",
+        "location": "",
+        "streaming": {
+            "accountId": "617934081941843969",
+            "channel": {
+                "id": "669432380397723648",
+                "accountId": "617934081941843969",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.czUPuEJNw5hm.m3u8",
+                "chatRoomId": "670033711114231809",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1721099476000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "669432380397723649",
+                    "historyId": "842256887641559040",
+                    "channelId": "669432380397723648",
+                    "accountId": "617934081941843969",
+                    "title": "No Noise November",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 6063,
+                    "createdAt": 1721099477000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1762311627000,
+                    "startedAt": 1762304050000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "669432530503479297",
+                                "streamId": "669432380397723649",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-20T02:48:14Z"
+    }
+}

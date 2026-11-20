@@ -1,0 +1,109 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "155407057",
+        "login": "yatica",
+        "displayName": "Yatica",
+        "createdAt": "2017-05-01T21:47:53.142691Z",
+        "updatedAt": "2026-11-17T13:25:14.713781Z",
+        "description": "",
+        "primaryColorHex": "132AFF",
+        "followers": {
+            "totalCount": 4218
+        },
+        "follows": {
+            "totalCount": 498
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-14T05:52:44.895418Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f4db870-6164-40dd-9fd1-344267177132-profile_image-300x300.png",
+        "fetchedAt": "2026-11-20T02:47:53Z"
+    },
+    "youtube": {
+        "id": "UC6_PPQswePMaFTB8mc4Z4Mg",
+        "handle": "yaticasimagination",
+        "title": "Yatica",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UC6_PPQswePMaFTB8mc4Z4Mg",
+        "keywords": "artist vtuber Yaticasimagination streamer finalfantasy14 shorts twitchvods gamer envtuber vtuberuprising indie Femalegamer Female Demisexual humor variety Dragon",
+        "profileImageUrl": "https://yt3.googleusercontent.com/rXXj7-c3hZnUlJMLA1Y78BwYc_Tl1EAQbT7BWV8p9tOXRdptH8f_UAFPQGnGcbbmcWD8phAIlZQ=h300",
+        "subscriberCountText": "1.11K subscribers",
+        "videoCountText": "783 videos",
+        "fetchedAt": "2026-11-20T02:47:54Z"
+    },
+    "twitter": {
+        "yaticaimagine": {
+            "id": null,
+            "handle": "yaticaimagine",
+            "displayName": "🌊Yatica🌊🐉",
+            "description": "welcome to the deep depths of the ocean. your personal sussy dragon here to entertain.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2120654240670498816/XZDAECxW_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/yaticaimagine",
+            "fetchedAt": "2026-11-20T02:48:11Z"
+        }
+    },
+    "fansly": {
+        "id": "584167713669128192",
+        "username": "YaticasImagination",
+        "displayName": "Yatica",
+        "version": 7,
+        "followCount": 336,
+        "statusId": 3,
+        "accountMediaLikes": 81,
+        "postLikes": 56,
+        "about": "You've found me- now lets have some fun shall we! Sexual ASMR and some .. other things are what you will find here. ",
+        "location": "United States",
+        "streaming": {
+            "accountId": "584167713669128192",
+            "channel": {
+                "id": "754055238960291840",
+                "accountId": "584167713669128192",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ce0GDIN4Vip6.m3u8",
+                "chatRoomId": "754058300089180160",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1741275138000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "754055238960291841",
+                    "historyId": "773827612920262656",
+                    "channelId": "754055238960291840",
+                    "accountId": "584167713669128192",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 8,
+                    "version": 612,
+                    "createdAt": 1741275139000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1745993086000,
+                    "startedAt": 1745989239000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "754055264335835136",
+                                "streamId": "754055238960291841",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-20T02:48:14Z"
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "bio": "The Goth VTuber of your dreams 🖤💢I stream all things spooky, Gothic, and lewd💋",
+    "twitch": {
+        "id": "1031252296",
+        "login": "cinereousvt",
+        "displayName": "CinereousVT",
+        "createdAt": "2024-02-04T01:22:28.972964Z",
+        "updatedAt": "2026-11-16T04:28:55.719988Z",
+        "description": "The Goth VTuber of your dreams 🖤💢I stream all things spooky, Gothic, and lewd💋",
+        "primaryColorHex": "434141",
+        "followers": {
+            "totalCount": 856
+        },
+        "follows": {
+            "totalCount": 110
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-06T10:45:25.260891Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1c49525-f563-446f-bcf1-d984d875caf2-profile_image-300x300.png",
+        "fetchedAt": "2026-11-20T02:47:56Z"
+    },
+    "youtube": {
+        "id": "UCbrqJ3wkFAIcTbcj44gD7iQ",
+        "handle": "CinereousVTVODS",
+        "title": "Cinereous ",
+        "description": "The Goth VTuber of your dreams 🖤💢\nI stream all things spooky, Gothic, and lewd💋\n\nTwitch: www.twitch.tv/CinereousVT (PST) ♡\n",
+        "channelUrl": "https://www.youtube.com/channel/UCbrqJ3wkFAIcTbcj44gD7iQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/Nkp8MkGiYmAVStF6MnBDYHzYmA2aHMG-aVo_Z2GW3yLRxycbgMcBLm4RSGXtYhvxoVcoTYGU=h300",
+        "subscriberCountText": "145 subscribers",
+        "videoCountText": "45 videos",
+        "fetchedAt": "2026-11-20T02:47:57Z"
+    },
+    "twitter": {
+        "cinereousx": {
+            "id": null,
+            "handle": "cinereousx",
+            "displayName": "🎪Cinereous 🖤🩶 Psychopomp Jester🎡",
+            "description": "NSFW ASMRtist🐀｜🤡Pretty, emo, not-so-funny Jester🤡 ｜Lovesick, Lewd, and Literally mental 💋｜✍🏼Writer ✍🏼 ｜🖤MDNI🖤｜",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2117840670828445696/MGC-Y-Fm_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/cinereousx",
+            "fetchedAt": "2026-11-20T02:48:13Z"
+        }
+    },
+    "fansly": {
+        "id": "735580557924114434",
+        "username": "Cinnervt",
+        "displayName": "Cinereous",
+        "version": 7,
+        "followCount": 90,
+        "statusId": 1,
+        "accountMediaLikes": 9,
+        "postLikes": 12,
+        "about": "Lewd and lovesick Jester 🖤💢\n\nI will MOAN in your ear while I play video games-- if I don't rage first. \n\nDo not repost any content; everything posted is my own! ",
+        "location": "your local abandoned circus",
+        "streaming": {
+            "accountId": "735580557924114434",
+            "channel": {
+                "id": "798718808893169664",
+                "accountId": "735580557924114434",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YQv4BRiAGlqZ.m3u8",
+                "chatRoomId": "798718834063187968",
+                "status": 2,
+                "version": 26,
+                "createdAt": 1751923763000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "798718808893169665",
+                    "historyId": "833613892084056064",
+                    "channelId": "798718808893169664",
+                    "accountId": "735580557924114434",
+                    "title": "RIVALS punishes me",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 18,
+                    "createdAt": 1751923763000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1760251288000,
+                    "startedAt": 1760243399000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "799834625076633601",
+                                "streamId": "798718808893169665",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-20T02:48:14Z"
+    }
+}
