@@ -1,0 +1,113 @@
+{
+    "bio": "I'm ShizukuNyah, A Tsundere Purple Catgirl ฅ^•ﻌ•^ฅ | Business Inquires: ShizukuNyah@gmail.com",
+    "twitch": {
+        "id": "552643687",
+        "login": "shizukunyah",
+        "displayName": "ShizukuNyah",
+        "createdAt": "2020-07-09T06:21:17.644181Z",
+        "updatedAt": "2026-11-20T19:29:14.986225Z",
+        "description": "I'm ShizukuNyah, A Tsundere Purple Catgirl ฅ^•ﻌ•^ฅ | Business Inquires: ShizukuNyah@gmail.com",
+        "primaryColorHex": "7B5DA2",
+        "followers": {
+            "totalCount": 3894
+        },
+        "follows": {
+            "totalCount": 750
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-21T19:44:47.172331Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ec4b9f-0c60-4c1b-8368-71732b6b71d2-profile_image-300x300.png",
+        "fetchedAt": "2026-11-21T22:28:09Z"
+    },
+    "youtube": {
+        "id": "UC4mwd0Lje5OTUhlxnWrpahw",
+        "handle": "ShizuzkuNyah",
+        "title": "ShizukuNyah",
+        "description": "Hello, I'm ShizukuNyah ! I'm a Purple Tsundere Catgirl! I stream on Twitch for fun :)\n\n\n",
+        "channelUrl": "https://www.youtube.com/channel/UC4mwd0Lje5OTUhlxnWrpahw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/0m_iOeExZL08aOkghZsFqKWVEXIJLtLE2n-ijca133ncCEyZtepBigjGEfJBl0epgTEOV7Nahg=h300",
+        "subscriberCountText": "3.59K subscribers",
+        "videoCountText": "102 videos",
+        "fetchedAt": "2026-11-21T22:28:11Z"
+    },
+    "twitter": {
+        "shizukunyah": {
+            "id": null,
+            "handle": "shizukunyah",
+            "displayName": "ShizukuNyah 🐈‍⬛💜「 VFruity 」",
+            "description": "🔞| A Purple Tsundere Catgirl Vtuber ୨୧\nBanner: @/MilinaBryce (VGEN)\npfp: @ZE_SCRATCH\nModel Mama(s):\n🖌️ @usotsk111 \n⚙️ @Ame_Umari",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2111079447818354688/plfIt-6d_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/ShizukuNyah",
+            "fetchedAt": "2026-11-21T22:28:23Z"
+        },
+        "shizuspammies": {
+            "id": null,
+            "handle": "shizuspammies",
+            "displayName": "Shizuwu ♡",
+            "description": "Spam Account!! | Silly catgirl tweets 𝜗𝜚⋆₊˚\nPfp: @chimakkyu | Banner: @NovaYStudio",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2028841417796198400/eWJJnbju_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/shizuspammies",
+            "fetchedAt": "2026-11-21T22:28:25Z"
+        }
+    },
+    "fansly": {
+        "id": "584959370362630145",
+        "username": "ShizukuNya",
+        "displayName": "ShizuNyaughty",
+        "version": 21,
+        "followCount": 259,
+        "statusId": 1,
+        "accountMediaLikes": 285,
+        "postLikes": 683,
+        "about": "Hi cuties <3\n- No IRL content will be full on NUDE!!!!\n- Please do not dm me expecting to get something..\n- All funds go towards bills, future projects and spoiling my cat (Tim Tam)! <3\nAll Socials: https://shizukunyah.carrd.co",
+        "location": "",
+        "streaming": {
+            "accountId": "584959370362630145",
+            "channel": {
+                "id": "968333421891821569",
+                "accountId": "584959370362630145",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.QIGo2pweUK3n.m3u8",
+                "chatRoomId": "970119153027391488",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1792363038000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "968333421891821570",
+                    "historyId": "978105605703102464",
+                    "channelId": "968333421891821569",
+                    "accountId": "584959370362630145",
+                    "title": "REPO but I can't scream or else..",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 10,
+                    "createdAt": 1792363038000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794703270000,
+                    "startedAt": 1794692908000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-21T22:28:27Z"
+    }
+}

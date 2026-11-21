@@ -1,0 +1,88 @@
+{
+    "bio": "Hi I am Tai your female anime lover. I stream Fighters. But other games too like Monster Hunter or Pokemon. I lobbies are always open. Feel free to stop by. https://linktr.ee/tai827",
+    "twitch": {
+        "id": "87474043",
+        "login": "tai827",
+        "displayName": "tai827",
+        "createdAt": "2015-04-04T13:26:22.98604Z",
+        "updatedAt": "2026-11-20T18:57:12.253139Z",
+        "description": "Hi I am Tai your female anime lover. I stream Fighters. But other games too like Monster Hunter or Pokemon. I lobbies are always open. Feel free to stop by. https://linktr.ee/tai827",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 1538
+        },
+        "follows": {
+            "totalCount": 966
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-20T22:36:20.044694Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/868249ee-7250-4e2f-ae76-dbbe3e465631-profile_image-300x300.png",
+        "fetchedAt": "2026-11-21T22:28:03Z"
+    },
+    "twitter": {
+        "tai827vr": {
+            "id": null,
+            "handle": "tai827vr",
+            "displayName": "Tai827 (Angel Vtuber)",
+            "description": "Hi I am Tai ❤ Character Designer: @NatArtisticWeeb Artist: @SeikyoStaff\nBusiness Email: tai827vtuber@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2117832380010434561/gyr0bhIW_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Tai827VR",
+            "fetchedAt": "2026-11-21T22:28:15Z"
+        }
+    },
+    "fansly": {
+        "id": "464570955797114880",
+        "username": "Tai827",
+        "displayName": "TaiVtuber",
+        "version": 8,
+        "followCount": 3192,
+        "statusId": 1,
+        "accountMediaLikes": 2816,
+        "postLikes": 2190,
+        "about": "Hi I am Tai <3 I am a dirty girl addicted to videogames. I stream on Twitch. I also love Chillout VR and VRChat. I want to be your waifu. Will you let me?\n\nhttps://linktr.ee/tai827\n\n",
+        "location": "Your Homework Folder",
+        "streaming": {
+            "accountId": "464570955797114880",
+            "channel": {
+                "id": "631953116228497408",
+                "accountId": "464570955797114880",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.d1TNxjyriUtI.m3u8",
+                "chatRoomId": "631953763912921091",
+                "status": 2,
+                "version": 21,
+                "createdAt": 1712163724000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "631953116228497409",
+                    "historyId": "980605109824151552",
+                    "channelId": "631953116228497408",
+                    "accountId": "464570955797114880",
+                    "title": "make me brake!",
+                    "status": 1,
+                    "viewerCount": 33,
+                    "version": 5023,
+                    "createdAt": 1712163724000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795294180000,
+                    "startedAt": 1795288836000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-21T22:28:27Z"
+    }
+}

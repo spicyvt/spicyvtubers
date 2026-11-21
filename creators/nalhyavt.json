@@ -1,0 +1,88 @@
+{
+    "bio": "oye humano...... tienes arandanos? :3",
+    "twitch": {
+        "id": "760531611",
+        "login": "nalhyavt",
+        "displayName": "NalhyaVT",
+        "createdAt": "2022-01-10T03:43:22.598946Z",
+        "updatedAt": "2026-11-20T14:37:21.911279Z",
+        "description": "oye humano...... tienes arandanos? :3",
+        "primaryColorHex": "211C59",
+        "followers": {
+            "totalCount": 654
+        },
+        "follows": {
+            "totalCount": 102
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-20T16:23:23.195948Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c3f5334-e12d-4489-a7de-9f2420382911-profile_image-300x300.png",
+        "fetchedAt": "2026-11-21T22:28:08Z"
+    },
+    "twitter": {
+        "nalhyavt": {
+            "id": null,
+            "handle": "nalhyavt",
+            "displayName": "Nalhya❤️‍🔥👯‍♀️❄️🏳️‍⚧️🏳️‍⚧️",
+            "description": "DIOSA DE HIELO❄️, CONEJA 👯‍♀️Y STREAMER❤️‍🔥 |#nalhyaart|#nalhyaclip|#mmdart",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2059723559618895875/G4wK5nZ__400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/nalhyavt",
+            "fetchedAt": "2026-11-21T22:28:22Z"
+        }
+    },
+    "fansly": {
+        "id": "384226503811936256",
+        "username": "Nalhya",
+        "displayName": "Nalhya VTuber ❄️❄️",
+        "version": 9,
+        "followCount": 492,
+        "statusId": 3,
+        "accountMediaLikes": 591,
+        "postLikes": 457,
+        "about": "Hola mis amores💙.  Soy Nalhya, una Vtuber y diosa del hielo❄️💙❄️, que hace streams en twitch. Me gusta hacer cosplay y hacer animación +18 y zings+18💙💙💙💙",
+        "location": "México",
+        "streaming": {
+            "accountId": "384226503811936256",
+            "channel": {
+                "id": "772211291187064832",
+                "accountId": "384226503811936256",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Te9f7nHahN5o.m3u8",
+                "chatRoomId": "772227285255204864",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1745603878000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "772211291187064833",
+                    "historyId": "975640203756584960",
+                    "channelId": "772211291187064832",
+                    "accountId": "384226503811936256",
+                    "title": "estrenando juguete",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 4464,
+                    "createdAt": 1745603879000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794112588000,
+                    "startedAt": 1794105111000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-21T22:28:27Z"
+    }
+}

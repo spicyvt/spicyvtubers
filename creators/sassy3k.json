@@ -1,0 +1,101 @@
+{
+    "bio": "I'm a transfemme variety VTuber that's known for lots of improv singing on the spot, but as the name applies, is one sassy Queen! I play a variety of games and hope to get back into VR streams in the future!",
+    "twitch": {
+        "id": "74807980",
+        "login": "sassy3k",
+        "displayName": "Sassy3K",
+        "createdAt": "2014-11-09T05:58:23.366318Z",
+        "updatedAt": "2026-11-20T19:58:27.803017Z",
+        "description": "I'm a transfemme variety VTuber that's known for lots of improv singing on the spot, but as the name applies, is one sassy Queen! I play a variety of games and hope to get back into VR streams in the future!",
+        "primaryColorHex": "FF0000",
+        "followers": {
+            "totalCount": 1629
+        },
+        "follows": {
+            "totalCount": 1998
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-21T20:02:15.810222Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0af0385e-c91b-4f02-acec-377aeb87707e-profile_image-300x300.png",
+        "fetchedAt": "2026-11-21T22:28:04Z"
+    },
+    "twitter": {
+        "sassy3k": {
+            "id": null,
+            "handle": "sassy3k",
+            "displayName": "Sassy3K (She/They) | Mommy Arc |🔞🏳️‍⚧️",
+            "description": "MDNI | Fanart Tags (SFW - #SassyArt3K, NSFW - #Saucy3K) | Banner: @EverTrua_TTV | PFP: @DMSketches | Taken by my Goddess - 12/17/2025",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1630672714364256256/g0vNKYM5_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/sassy3k",
+            "fetchedAt": "2026-11-21T22:28:17Z"
+        },
+        "sassyandsaucy": {
+            "id": null,
+            "handle": "sassyandsaucy",
+            "displayName": "SassyAfterDark (She/They)",
+            "description": "NSFW account for @Sassy3K\n🔞MDNI | Switch, Dom-Leaning | Taken 12/17/2025\nModel Credits:\nHavyn/Nana - Flexuh\nComare - Hakofu.VRC\nArii - HoloExe",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2041401584211656704/j7JxJrof_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/SassyAndSaucy",
+            "fetchedAt": "2026-11-21T22:28:18Z"
+        }
+    },
+    "fansly": {
+        "id": "364522048044675072",
+        "username": "SassyAfterDark",
+        "displayName": null,
+        "version": 10,
+        "followCount": 602,
+        "statusId": 1,
+        "accountMediaLikes": 463,
+        "postLikes": 173,
+        "about": "My name's Sassy (aka Mommy, to some)\nMtF Trans 🏳️‍⚧️ | 23 - She/Her | VR Dancer\nMommy hopes to provide some... motivation for you all soon~\nTaken by my Divine Goddess (12/17/2025)~\n\nModel Credits:\nNyx - MoonJellyVR\nComare - Hakofu\nAri - HoloExe",
+        "location": "",
+        "streaming": {
+            "accountId": "364522048044675072",
+            "channel": {
+                "id": "491643103023738880",
+                "accountId": "364522048044675072",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.p3NduPOoumbg.m3u8",
+                "chatRoomId": "540485280453373953",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1678711210000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "491643103023738881",
+                    "historyId": "948818287817408512",
+                    "channelId": "491643103023738880",
+                    "accountId": "364522048044675072",
+                    "title": "First Fansly Stream - Me nervous bean! Collabing with @Kitsuwubus",
+                    "status": 1,
+                    "viewerCount": 7,
+                    "version": 6,
+                    "createdAt": 1678711210000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1787721459000,
+                    "startedAt": 1787710268000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-21T22:28:27Z"
+    }
+}

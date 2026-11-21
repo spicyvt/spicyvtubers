@@ -1,0 +1,110 @@
+{
+    "bio": "VR Entertainment - Dancing and Party",
+    "twitch": {
+        "id": "1241935660",
+        "login": "club69_meguminvrc",
+        "displayName": "CLUB69_MeguminVRC",
+        "createdAt": "2025-01-29T09:55:16.33301Z",
+        "updatedAt": "2026-11-21T19:01:47.758749Z",
+        "description": "VR Entertainment - Dancing and Party",
+        "primaryColorHex": "771DD7",
+        "followers": {
+            "totalCount": 1285
+        },
+        "follows": {
+            "totalCount": 14
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-21T20:44:11.637697Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8dd1a70a-a8ba-4077-8dca-eafdf1930d74-profile_image-300x300.png",
+        "fetchedAt": "2026-11-21T22:28:02Z"
+    },
+    "twitter": {
+        "justmeguminvrc": {
+            "id": null,
+            "handle": "justmeguminvrc",
+            "displayName": "Just_MeguminVRC",
+            "description": "➡️ ONLY SFW ⬅️\n\nPersonal posts about gaming, VR, sharing what I enjoy, what I’m playing, and whatever catches my curiosity.\n\n#club69 | #VRCHAT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2092154430128873472/L4SEe2uL_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/justmeguminvrc",
+            "fetchedAt": "2026-11-21T22:28:12Z"
+        },
+        "meguminvrc": {
+            "id": null,
+            "handle": "meguminvrc",
+            "displayName": "MeguminVRC⚡",
+            "description": "#Lewdtuber #club69 #vrchatlewds #lewdtuber #vrchat18 #hentai #Vtuber\n\n💡 SFW-Account\n➡️ https://t.co/3hnWqgEFkQ",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2055247719623528448/TMIjuwAP_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/meguminvrc",
+            "fetchedAt": "2026-11-21T22:28:14Z"
+        }
+    },
+    "fansly": {
+        "id": "577352033569353728",
+        "username": "MeguminVRC",
+        "displayName": "MeguminVRC",
+        "version": 8,
+        "followCount": 22535,
+        "statusId": 3,
+        "accountMediaLikes": 8401,
+        "postLikes": 9285,
+        "about": "☆*: .｡. SATURDAY NIGHT .｡.:*☆\n@ 10:00PM CET\n@ 22:00 GMT+1\n\n🔴VR HARDWARE 🔴\n➡️ https://shocker.club69.club\n\n🔴 SEND PICTURES 🔴\n➡️ https://pictures.club69.club\n\n🔴 CLUB69 🔴\n➡️ https://info.club69.club\n➡️ https://kick.club69.club\n➡️ https://twitch.club69.club\n➡️ https://linktree.club69.club\n➡️ https://wallpapers.club69.club/\n\n🔴 DISCORD 🔴\n➡️ https://discord.club69.club\n\n🔴 CHAT COMMANDS🔴\n➡️ https://commands.club69.club\n\n🔴 VODS 🔴\n➡️ https://vods.club69.club",
+        "location": "VRCHAT",
+        "streaming": {
+            "accountId": "577352033569353728",
+            "channel": {
+                "id": "583653141560434688",
+                "accountId": "577352033569353728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.nkf7XWJXR3hD.m3u8",
+                "chatRoomId": "583653183092436992",
+                "status": 2,
+                "version": 63,
+                "createdAt": 1700648112000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "583653141560434689",
+                    "historyId": "980626165809045504",
+                    "channelId": "583653141560434688",
+                    "accountId": "577352033569353728",
+                    "title": "🎉 SATURDAY NIGHT AT CLUB69 🎉",
+                    "status": 2,
+                    "viewerCount": 122,
+                    "version": 340,
+                    "createdAt": 1700648113000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795300101000,
+                    "startedAt": 1795293857000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "851179432998608896",
+                                "streamId": "583653141560434689",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-21T22:28:27Z"
+    }
+}
