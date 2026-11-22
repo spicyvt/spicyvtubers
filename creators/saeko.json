@@ -1,0 +1,97 @@
+{
+    "bio": "Resident nine-tailed fox vtuber. I play games and stuff. Welcome to the floof!",
+    "twitch": {
+        "id": "145782909",
+        "login": "saeko",
+        "displayName": "Saeko",
+        "createdAt": "2017-01-23T22:52:49.755958Z",
+        "updatedAt": "2026-11-22T09:07:58.078055Z",
+        "description": "Resident nine-tailed fox vtuber. I play games and stuff. Welcome to the floof!",
+        "primaryColorHex": "800000",
+        "followers": {
+            "totalCount": 46112
+        },
+        "follows": {
+            "totalCount": 436
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-22T08:19:50.096884Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd804973-8df3-414a-b33b-24a9c566e90a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-22T19:23:34Z"
+    },
+    "twitter": {
+        "saekokitsune": {
+            "id": "1369079046240313346",
+            "handle": "saekokitsune",
+            "displayName": "Saeko",
+            "description": "Nine-tail fox 🦊⛩ \n#Vtuber \n✰Art: #Saekok_Art✰\n✰Nsfw Art: #Saekok✰\n✰Art Papa: @7chewkaesa✰\n✰3D Papa: @YuuJIN01\nBusiness: saeko.kitsune@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1879435794571571200/TpKUxADD_400x400.jpg",
+            "followersCount": 24960,
+            "followingCount": 891,
+            "postsCount": 1841,
+            "accountCreatedAt": "2021-03-09T00:15:15.000Z",
+            "profileUrl": "https://x.com/SaekoKitsune",
+            "fetchedAt": "2026-11-22T19:23:52Z"
+        }
+    },
+    "fansly": {
+        "id": "716532684725170176",
+        "username": "Saeko",
+        "displayName": "Saeko",
+        "version": 5,
+        "followCount": 12844,
+        "statusId": 3,
+        "accountMediaLikes": 6662,
+        "postLikes": 9204,
+        "about": "Future Spicy streams, Mommy and Submissive ASMR. Bratty switch in need of getting put in my place. Bisexual~\n\n~ FREE AND PAID CONTENT FOR FOLLOWERS ~\nPSA PINNED\n\nLovense affiliate: https://www.lovense.com/r/py872i",
+        "location": "",
+        "streaming": {
+            "accountId": "716532684725170176",
+            "channel": {
+                "id": "750674838787465216",
+                "accountId": "716532684725170176",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.s8QK92tJReeJ.m3u8",
+                "chatRoomId": "750675509062414336",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1740469188000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "750674838787465217",
+                    "historyId": "792626719759540227",
+                    "channelId": "750674838787465216",
+                    "accountId": "716532684725170176",
+                    "title": "All penetration Ruining Stream~",
+                    "status": 1,
+                    "viewerCount": 269,
+                    "version": 5128,
+                    "createdAt": 1740469188000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1750484039000,
+                    "startedAt": 1750471296000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "750674876200656896",
+                                "streamId": "750674838787465217",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-22T19:23:55Z"
+    }
+}

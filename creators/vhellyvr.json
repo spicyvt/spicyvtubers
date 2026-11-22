@@ -1,0 +1,72 @@
+{
+    "twitter": {
+        "vhellyvr": {
+            "id": null,
+            "handle": "vhellyvr",
+            "displayName": "Vhel",
+            "description": "VR Photo taker and music enjoyer. I make silly videos.\n\nhttps://t.co/LgrKwr2yle",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2087326120748466177/IKKeMSHY_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/VhellyVR",
+            "fetchedAt": "2026-11-22T19:23:49Z"
+        }
+    },
+    "fansly": {
+        "id": "855461950375612416",
+        "username": "VhellyVR",
+        "displayName": "Vhelly",
+        "version": 5,
+        "followCount": 4276,
+        "statusId": 1,
+        "accountMediaLikes": 1777,
+        "postLikes": 939,
+        "about": "Unhinged VR weirdo. Photo taker. Demon Orca bish.\n\nStreams will be three times a week. Fun hangouts with lewd activities.\n\nOpen to collabs just send me a message i am open to anything.\n\nSubscribers will have DM priority.\n\nPFP by TOTALLYiRYANiC, Banner by (Left) greenybeanny, (Middle) ScorchingNova. Stream start/end by @JenniferRDarts",
+        "location": "Mount Doom",
+        "streaming": {
+            "accountId": "855461950375612416",
+            "channel": {
+                "id": "884350760010133505",
+                "accountId": "855461950375612416",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.wIygYa2Ccp4z.m3u8",
+                "chatRoomId": "886220332367634432",
+                "status": 2,
+                "version": 146,
+                "createdAt": 1772340011000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "884350760010133506",
+                    "historyId": "979932340195184640",
+                    "channelId": "884350760010133505",
+                    "accountId": "855461950375612416",
+                    "title": "Losing NNN.❤️ !menu !rules !wheel ",
+                    "status": 1,
+                    "viewerCount": 33,
+                    "version": 674,
+                    "createdAt": 1772340012000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795136550000,
+                    "startedAt": 1795128436000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "918272324145258497",
+                                "streamId": "884350760010133506",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-22T19:23:55Z"
+    }
+}

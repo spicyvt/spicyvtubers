@@ -1,0 +1,110 @@
+{
+    "bio": "how do i go live?",
+    "twitch": {
+        "id": "1167332422",
+        "login": "maiyabii",
+        "displayName": "Maiyabii",
+        "createdAt": "2024-10-21T19:49:02.86012Z",
+        "updatedAt": "2026-11-16T06:51:07.221503Z",
+        "description": "how do i go live?",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 2234
+        },
+        "follows": {
+            "totalCount": 449
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-16T10:20:54.181154Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6a71f91-edb9-4225-9dee-0b1bcd34ae1c-profile_image-300x300.png",
+        "fetchedAt": "2026-11-22T19:23:33Z"
+    },
+    "twitter": {
+        "maiiyabi": {
+            "id": "1944200851519631360",
+            "handle": "maiiyabi",
+            "displayName": "mai",
+            "description": "🖤21 \n🖤she/her \n🖤greyscale\nmain: @maiyafterdark",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2082637730232619008/z2aJkIOk_400x400.jpg",
+            "followersCount": 1337,
+            "followingCount": 502,
+            "postsCount": 450,
+            "accountCreatedAt": "2025-07-13T01:03:16.000Z",
+            "profileUrl": "https://x.com/maiiyabi",
+            "fetchedAt": "2026-11-22T19:23:46Z"
+        },
+        "maiyafterdark": {
+            "id": null,
+            "handle": "maiyafterdark",
+            "displayName": "Maiya",
+            "description": "she/her\nswitch puppygirl~",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2122928825407361024/cv93BZL-_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/maiyafterdark",
+            "fetchedAt": "2026-11-22T19:23:48Z"
+        }
+    },
+    "fansly": {
+        "id": "898083706411966464",
+        "username": "Maiyabii",
+        "displayName": null,
+        "version": 2,
+        "followCount": 1727,
+        "statusId": 1,
+        "accountMediaLikes": 533,
+        "postLikes": 477,
+        "about": "https://guns.lol/maiyabi",
+        "location": "",
+        "streaming": {
+            "accountId": "898083706411966464",
+            "channel": {
+                "id": "921244275209957377",
+                "accountId": "898083706411966464",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Zz1ITjLTWJzQ.m3u8",
+                "chatRoomId": "921252306501001216",
+                "status": 2,
+                "version": 31,
+                "createdAt": 1781136111000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "921244275209957378",
+                    "historyId": "980698161314017280",
+                    "channelId": "921244275209957377",
+                    "accountId": "898083706411966464",
+                    "title": "im here to milk you~ !tip",
+                    "status": 1,
+                    "viewerCount": 40,
+                    "version": 92,
+                    "createdAt": 1781136111000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795321295000,
+                    "startedAt": 1795311022000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "921253608312303616",
+                                "streamId": "921244275209957378",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-22T19:23:55Z"
+    }
+}

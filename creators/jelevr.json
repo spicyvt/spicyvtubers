@@ -1,0 +1,63 @@
+{
+    "twitter": {
+        "jele_vr": {
+            "id": null,
+            "handle": "jele_vr",
+            "displayName": "jeleVR",
+            "description": "I&#x27;m A Dino Nuggi",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2097113454553288704/Zv6Bf_KO_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/jele_VR",
+            "fetchedAt": "2026-11-22T19:23:41Z"
+        }
+    },
+    "fansly": {
+        "id": "704222422492000256",
+        "username": "jeleVR",
+        "displayName": "Jele",
+        "version": 6,
+        "followCount": 3077,
+        "statusId": 2,
+        "accountMediaLikes": 5261,
+        "postLikes": 4849,
+        "about": "Cute-/ Shy/Mute/Silly/ Horny thing ⛓️ \nVerified Toy\nOpen DM’s (but I am a bit shy and reserved >.<)\nhttps://jele.party\n\nI generally have two periods each year when I’ll most likely be less active: around December to January and May to July.\nThese periods are not fixed and should be considered more of a rough guideline.\n\n\n",
+        "location": "Your basement ",
+        "streaming": {
+            "accountId": "704222422492000256",
+            "channel": {
+                "id": "767868608683454464",
+                "accountId": "704222422492000256",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hc8FxMmFN9Sw.m3u8",
+                "chatRoomId": "767868671103086592",
+                "status": 2,
+                "version": 105,
+                "createdAt": 1744568502000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "767868608683454465",
+                    "historyId": "980686975948308480",
+                    "channelId": "767868608683454464",
+                    "accountId": "704222422492000256",
+                    "title": "time to lose NNN? |New !subBoni | !help",
+                    "status": 1,
+                    "viewerCount": 26,
+                    "version": 7978,
+                    "createdAt": 1744568503000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795317129000,
+                    "startedAt": 1795308355000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-22T19:23:55Z"
+    }
+}

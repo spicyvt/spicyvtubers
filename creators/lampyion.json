@@ -1,0 +1,101 @@
+{
+    "bio": "Heyooo c; I'm Lampyion, your local goober",
+    "twitch": {
+        "id": "1379272730",
+        "login": "lampyion",
+        "displayName": "lampyion",
+        "createdAt": "2025-10-13T20:50:54.21807Z",
+        "updatedAt": "2026-02-27T19:31:38.088721Z",
+        "description": "Heyooo c; I'm Lampyion, your local goober",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 142
+        },
+        "follows": {
+            "totalCount": 9
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-01-08T02:37:05.304665Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0e979b6-0b25-47fe-b145-a7ed2dd047cb-profile_image-300x300.png",
+        "fetchedAt": "2026-11-22T19:23:31Z"
+    },
+    "twitter": {
+        "lampyionoficial": {
+            "id": null,
+            "handle": "lampyionoficial",
+            "displayName": "Lampyion",
+            "description": "🜃 21+//Dms open\n🜃 Genderfluid//Femboy ;3\n🜃 NSFW🔞@LampyionVR\n🜃 Subpar picture dump posts with shower thoughts\n🜃 Single player and coop filthy casual gamer",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2089408335992799232/wjhTekRA_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/lampyionoficial",
+            "fetchedAt": "2026-11-22T19:23:42Z"
+        },
+        "lampyionvr": {
+            "id": "1977837797542162432",
+            "handle": "lampyionvr",
+            "displayName": "LampyionLewdie🔞",
+            "description": "🜃 Subpar lazy stream clips posts ;D\n🜃 Goon to me~ pump pump\n🜃 Dms open\n🜃 Streams at 🇧🇷|🇺🇸 nighttime\n🜃 https://fansly.com/Lampyion\n🜃 Switch|Genderfluid",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1986568948330983424/rro5ctUz_400x400.jpg",
+            "followersCount": 11639,
+            "followingCount": 380,
+            "postsCount": 760,
+            "accountCreatedAt": "2025-10-13T20:44:34.000Z",
+            "profileUrl": "https://x.com/LampyionVR",
+            "fetchedAt": "2026-11-22T19:24:17Z"
+        }
+    },
+    "fansly": {
+        "id": "834225834934951936",
+        "username": "Lampyion",
+        "displayName": "Lampyion",
+        "version": 5,
+        "followCount": 6116,
+        "statusId": 1,
+        "accountMediaLikes": 6249,
+        "postLikes": 3017,
+        "about": "Heyooo c; I'm Lampyion, a head empty VR | 3D Lewdtuber with an spicy accent ;3\n\nStreams at American nighttime c;\n\nOpen to collabs c;<\n\nGenderfluid Switch Top|Bottom Domme|Subby being xd im a box of surprises ;3 you can expect a lil bit of everything on my streams c;<\n\nmy content is a bit lazy most of the times :x i mostly like streaming and having that live real time fun~\n\n6 Months at 50% Off! its the Price of 3 monthlys ;o\n\n🜃 🇧🇷\n\nAll content is made on a closed unity environment hosted and instantiated on a server in South America",
+        "location": "",
+        "streaming": {
+            "accountId": "834225834934951936",
+            "channel": {
+                "id": "837270806877720576",
+                "accountId": "834225834934951936",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NHcHgNbTbdxu.m3u8",
+                "chatRoomId": "837271737405042688",
+                "status": 2,
+                "version": 44,
+                "createdAt": 1761115276000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "837270806877720577",
+                    "historyId": "980696964528091136",
+                    "channelId": "837270806877720576",
+                    "accountId": "834225834934951936",
+                    "title": "Silly Lewd and horny Woof! Bark bark",
+                    "status": 1,
+                    "viewerCount": 38,
+                    "version": 1023,
+                    "createdAt": 1761115276000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795321955000,
+                    "startedAt": 1795310736000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-22T19:23:55Z"
+    }
+}
