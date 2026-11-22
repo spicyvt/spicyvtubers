@@ -1,0 +1,100 @@
+{
+    "bio": "vtuber who streaming most coolest games^",
+    "twitch": {
+        "id": "1338193649",
+        "login": "shironanamii",
+        "displayName": "shironanamii",
+        "createdAt": "2025-07-19T16:48:43.924744Z",
+        "updatedAt": "2026-11-18T22:28:11.821258Z",
+        "description": "vtuber who streaming most coolest games^",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 17
+        },
+        "follows": {
+            "totalCount": 0
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-19T03:07:49.969134Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/21b3b123-6a9b-47ba-b3a4-4765e14eeba9-profile_image-300x300.png",
+        "fetchedAt": "2026-11-22T23:54:59Z"
+    },
+    "youtube": {
+        "id": "UCfakFSr3Ge34SXLbTXxgV2g",
+        "handle": "ShiroNanamiVT",
+        "title": "SHIRONANAMI ",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCfakFSr3Ge34SXLbTXxgV2g",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/ora-7EDUuSro20roBuIEx5_j5Rjg-eLEFiZ4b52V-WF5WGcaCLktWOZ82amhVsLknTwibu4eLsA=h300",
+        "subscriberCountText": "8 subscribers",
+        "videoCountText": "6 videos",
+        "fetchedAt": "2026-11-22T23:55:00Z"
+    },
+    "twitter": {
+        "shironanamii": {
+            "id": null,
+            "handle": "shironanamii",
+            "displayName": "Shiro ✨ VTUBER",
+            "description": "catgirl 🤍 content creator &amp; vtuber streamer 💗",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2100608335837790208/2co1txFr_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/shironanamii",
+            "fetchedAt": "2026-11-22T23:55:09Z"
+        }
+    },
+    "fansly": {
+        "id": "844582730892070913",
+        "username": "ShiroNanami",
+        "displayName": null,
+        "version": 4,
+        "followCount": 2390,
+        "statusId": 1,
+        "accountMediaLikes": 6434,
+        "postLikes": 835,
+        "about": "18 y.o. virgin catgirl ♡ 5’7” 95 lbs\nJust me, from posts to replies :3\n\nLIVE every other day at 22:00 UTC!\n\n♡ N/SFW posts, Streams, IRL only on GFE sub ♡\n\n❕Be OWNER to my PUSSY: https://lovense.com/wish-list/opij ❕\n\n             𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙬𝙤𝙧𝙡𝙙\n                                         ᐠ. ｡.ᐟ\\ᵐᵉᵒʷˎˊ˗\n",
+        "location": "",
+        "streaming": {
+            "accountId": "844582730892070913",
+            "channel": {
+                "id": "949139432890462208",
+                "accountId": "844582730892070913",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.WZN5QGBE4PFK.m3u8",
+                "chatRoomId": "949143545938210816",
+                "status": 2,
+                "version": 60,
+                "createdAt": 1787786834000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "949139432890462209",
+                    "historyId": "981016975301959681",
+                    "channelId": "949139432890462208",
+                    "accountId": "844582730892070913",
+                    "title": "GTA6 - stream day 5",
+                    "status": 2,
+                    "viewerCount": 6,
+                    "version": 189,
+                    "createdAt": 1787786835000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795391694000,
+                    "startedAt": 1795387033000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-22T23:55:11Z"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "twitter": {
+        "milkyvyira": {
+            "id": null,
+            "handle": "milkyvyira",
+            "displayName": "♡ • V y i r a (+18)",
+            "description": "🖤 Emo/Gothic • 25 • Full NSFW Streams on Fansly! | tues &amp; sat • lewd photos all the time • Follow if you got taste~",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2080024330923065344/9DAIBVPk_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/MilkyVyira",
+            "fetchedAt": "2026-11-22T23:55:07Z"
+        }
+    },
+    "fansly": {
+        "id": "328362413319532544",
+        "username": "MilkyVyira",
+        "displayName": "♡ • V y i r a",
+        "version": 127,
+        "followCount": 23817,
+        "statusId": 1,
+        "accountMediaLikes": 84058,
+        "postLikes": 57562,
+        "about": "         🔞 Goth Girlfriend ✨\n  💦 Horny Content + ASMR❤️\n              ❤️ Lewd | 24/7\n             🎥 POV Content\n    🗨 Momma Loves Comments\n 🍑 NSFW Streams [tues and sat]\n        ↓ ♡ • Socials Below • ♡ ↓\nhttps://linktr.ee/MilkyVyira",
+        "location": "Under your table...",
+        "streaming": {
+            "accountId": "328362413319532544",
+            "channel": {
+                "id": "329010699059605504",
+                "accountId": "328362413319532544",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.kTmrCxDp2pxM.m3u8",
+                "chatRoomId": "333487161556873216",
+                "status": 2,
+                "version": 247,
+                "createdAt": 1639936623000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "329010699059605505",
+                    "historyId": "975675142225031168",
+                    "channelId": "329010699059605504",
+                    "accountId": "328362413319532544",
+                    "title": "♡ • This isnt the beach....",
+                    "status": 1,
+                    "viewerCount": 87,
+                    "version": 8886,
+                    "createdAt": 1639936623000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794120180000,
+                    "startedAt": 1794113441000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "777723294160789504",
+                                "streamId": "329010699059605505",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-22T23:55:11Z"
+    }
+}
