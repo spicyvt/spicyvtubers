@@ -1,0 +1,89 @@
+{
+    "bio": "Hi I'm Runa ♥\n\nI'm a new VTuber ~",
+    "youtube": {
+        "id": "UCZeKUf7y9D-C_MidjWWMGTw",
+        "handle": "RunaCutie",
+        "title": "Runa",
+        "description": "Hi I'm Runa ♥\n\nI'm a new VTuber ~\n",
+        "channelUrl": "https://www.youtube.com/channel/UCZeKUf7y9D-C_MidjWWMGTw",
+        "keywords": "vtuber \"virtual avatar\" \"virtual reality\" vr vrchat Animation Minus8",
+        "profileImageUrl": "https://yt3.googleusercontent.com/luTtnAQZIxNjPn7NDS_bzjhYCrfVvOjPpQsT-ih8fHozfu1dS0cEXAElrUlioD3mR-IgVaW30g=h300",
+        "subscriberCountText": "1.09K subscribers",
+        "videoCountText": "13 videos",
+        "fetchedAt": "2026-11-22T22:35:10Z"
+    },
+    "twitter": {
+        "runacutie": {
+            "id": null,
+            "handle": "runacutie",
+            "displayName": "Runa",
+            "description": "🌸 Cute Trans Girl VTuber 🩷\n\n🔞 https://t.co/SPrs6w8OlL",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2100224463333720064/TieYI0PV_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/RunaCutie",
+            "fetchedAt": "2026-11-22T22:35:30Z"
+        },
+        "runalewdie": {
+            "id": null,
+            "handle": "runalewdie",
+            "displayName": "RunaLewdie 🩷",
+            "description": "🌸 Cute Trans Girl LewdTuber 🩷\n\n🔞 https://t.co/NqZo27Wqgc 🩵",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2100959143368531968/VTsF6PSM_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Runalewdie",
+            "fetchedAt": "2026-11-22T22:35:32Z"
+        }
+    },
+    "fansly": {
+        "id": "499464606675120128",
+        "username": "RunaLewdie",
+        "displayName": "RunaLewdie 🩷",
+        "version": 24,
+        "followCount": 3909,
+        "statusId": 1,
+        "accountMediaLikes": 10260,
+        "postLikes": 11493,
+        "about": "Cute Trans Girl LewdTuber ~ 💖\nDM for customs 🩷\n\nDiscord ~  https://discord.gg/rrjF5FYz5G \nMy links : https://linktr.ee/RunaLewdie\nSpoil me ? 🎁 https://throne.com/runacutie\n\n• I make my content with extra focus on quality 💕\n• Regular posts | Highly active\n• I reply to subscribers DMs\n\n@RunaLewdie\n@RunaCutie",
+        "location": "",
+        "streaming": {
+            "accountId": "499464606675120128",
+            "channel": {
+                "id": "804329181490982912",
+                "accountId": "499464606675120128",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.evNZmD4GnhTH.m3u8",
+                "chatRoomId": "804329280526893056",
+                "status": 2,
+                "version": 23,
+                "createdAt": 1753261380000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "804329181490982913",
+                    "historyId": "909247166634008576",
+                    "channelId": "804329181490982912",
+                    "accountId": "499464606675120128",
+                    "title": "Mute Vibes ~ ❤️",
+                    "status": 1,
+                    "viewerCount": 61,
+                    "version": 188,
+                    "createdAt": 1753261380000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1778285026000,
+                    "startedAt": 1778275777000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-22T22:35:42Z"
+    }
+}

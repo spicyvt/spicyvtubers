@@ -1,0 +1,109 @@
+{
+    "bio": "Hello! I’m Tsuki, a small Latina VTuber. I love spending time dancing and chatting with you, exploring new worlds, and meeting amazing people. Come have fun and enjoy with me! | contacto@tsukivr.com",
+    "twitch": {
+        "id": "1173525398",
+        "login": "tsukivr_",
+        "displayName": "TsukiVR_",
+        "createdAt": "2024-10-31T18:08:22.028237Z",
+        "updatedAt": "2026-11-21T03:08:22.236083Z",
+        "description": "Hello! I’m Tsuki, a small Latina VTuber. I love spending time dancing and chatting with you, exploring new worlds, and meeting amazing people. Come have fun and enjoy with me! | contacto@tsukivr.com",
+        "primaryColorHex": "FFFFFF",
+        "followers": {
+            "totalCount": 5235
+        },
+        "follows": {
+            "totalCount": 84
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-20T06:45:21.039667Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/391a55f4-9ad4-43d3-bf91-aa6d55a3a2da-profile_image-300x300.png",
+        "fetchedAt": "2026-11-22T22:35:07Z"
+    },
+    "youtube": {
+        "id": "UCXWv6vA2ALlJAWLmR9jJw6Q",
+        "handle": "TsukiVR.02",
+        "title": "Tsuki VR",
+        "description": "Hello! I’m Tsuki, a small Latina VTuber. I love spending time dancing and chatting with you, exploring new worlds, and meeting amazing people. Come have fun and enjoy with me! ❤️\n",
+        "channelUrl": "https://www.youtube.com/channel/UCXWv6vA2ALlJAWLmR9jJw6Q",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/gvMIsv28uS5-9RnTW70t11ZFBbgRddjLBhz7iUdDIvOiTIorwb14wMkUevNXoJqKLOcuAqynVg=h300",
+        "subscriberCountText": "947 subscribers",
+        "videoCountText": "47 videos",
+        "fetchedAt": "2026-11-22T22:35:08Z"
+    },
+    "twitter": {
+        "tsukivrc": {
+            "id": null,
+            "handle": "tsukivrc",
+            "displayName": "Tsuki VRC",
+            "description": "Silly and Energetic \nSemiMute\nVRC Content Creator\nKick Partner \nTwitch Partner On The Way",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2095763248934989827/CvCgCxjI_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/tsukivrc",
+            "fetchedAt": "2026-11-22T22:35:29Z"
+        }
+    },
+    "fansly": {
+        "id": "823468843023220736",
+        "username": "TsukiVR",
+        "displayName": null,
+        "version": 4,
+        "followCount": 9044,
+        "statusId": 1,
+        "accountMediaLikes": 32365,
+        "postLikes": 15295,
+        "about": "Hello, welcome to my exclusive content!\nThis space is just for those who want to have a little extra fun hehe ( ⁄⁄>⁄ ▽ ⁄<⁄ )♡\nLet me take care of those moments when you need a little more… attention ( ˘͈ ᵕ ˘͈ )💦\n\nWHAT DO YOU GET WHEN YOU SUBSCRIBE?\nFULL ACCESS TO ALL NSFW CONTENT\n• Photos\n• Videos\n• Streams\n\nTSUKI’S RULES\n\nRespect above everything — Treat me politely; pushing or insisting too much closes every door. (•̀ᴗ•́)و\n\nMy boundaries are non-negotiable — I set the pace, the tastes, and how far things go. (๑˃ᴗ˂)ﻭ\n\nConsent comes first — If I don’t offer it, don’t insist. One time is enough. (･ω･ )ﾉ\n\nFantasy only, nothing beyond that — No real-life requests or meetups. ( ˘︹˘ )\n\nBreaking these rules means no second chances. (╥﹏╥)\n\nI’m also a streamer on KICK!\nTuesday, Thursday & Saturday — 11:00 PM GMT | 6:00 PM EST | 5:00 PM Mexico\nhttps://kick.com/tsukivr \n\nAll My Social Medias https://beacons.ai/tsukivr",
+        "location": "",
+        "streaming": {
+            "accountId": "823468843023220736",
+            "channel": {
+                "id": "862188923818876928",
+                "accountId": "823468843023220736",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.kYQUG3ThhCA4.m3u8",
+                "chatRoomId": "863622694409625600",
+                "status": 2,
+                "version": 42,
+                "createdAt": 1767056218000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "862188923818876929",
+                    "historyId": "980665705798070272",
+                    "channelId": "862188923818876928",
+                    "accountId": "823468843023220736",
+                    "title": "Private Session",
+                    "status": 1,
+                    "viewerCount": 107,
+                    "version": 92,
+                    "createdAt": 1767056218000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795385482000,
+                    "startedAt": 1795303284000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "981010540438511616",
+                                "streamId": "862188923818876929",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"946564232218943488\\\",\\\"label\\\":\\\"PRIVATE SESSION\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-22T22:35:42Z"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "bio": "Comfy girl does comfy streams.",
+    "twitch": {
+        "id": "31329411",
+        "login": "nayomiyavt",
+        "displayName": "NayomiyaVT",
+        "createdAt": "2012-06-14T22:16:57.806465Z",
+        "updatedAt": "2026-11-03T17:59:04.430348Z",
+        "description": "Comfy girl does comfy streams.",
+        "primaryColorHex": "E8ACFF",
+        "followers": {
+            "totalCount": 170
+        },
+        "follows": {
+            "totalCount": 19
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-10T18:28:27.838631Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/df351b62-dc4a-4fe7-b792-dbc2bc73046d-profile_image-300x300.png",
+        "fetchedAt": "2026-11-22T22:35:03Z"
+    },
+    "twitter": {
+        "nayomiyavt": {
+            "id": null,
+            "handle": "nayomiyavt",
+            "displayName": "Nayomiya",
+            "description": "Sleepy Catgirl\n\n🔞: @MiyaIsLewd",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2074926133666017280/6DYx1AR3_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/NayomiyaVT",
+            "fetchedAt": "2026-11-22T22:35:20Z"
+        },
+        "miyaislewd": {
+            "id": null,
+            "handle": "miyaislewd",
+            "displayName": "Miya 🔞",
+            "description": "meow meow cat in heat\n\nSFW: @NayomiyaVT",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2033238625844862976/_X0Ys249_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/MiyaIsLewd",
+            "fetchedAt": "2026-11-22T22:35:21Z"
+        }
+    },
+    "fansly": {
+        "id": "333498732085518336",
+        "username": "Nayomiya",
+        "displayName": null,
+        "version": 8,
+        "followCount": 3850,
+        "statusId": 3,
+        "accountMediaLikes": 6285,
+        "postLikes": 6838,
+        "about": "Shy, submissive catgirl being cute and lewd 💕\nYou can call me Miya!~\n\n🎀Free stream every Thursday 6pm EST 🎀\n\n🎁Spoil me~ https://throne.com/nayomiya",
+        "location": "",
+        "streaming": {
+            "accountId": "333498732085518336",
+            "channel": {
+                "id": "803137945191067648",
+                "accountId": "333498732085518336",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.pHRfh7T3iVVT.m3u8",
+                "chatRoomId": "803140432954413056",
+                "status": 2,
+                "version": 84,
+                "createdAt": 1752977367000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "803137945191067649",
+                    "historyId": "979935895455014912",
+                    "channelId": "803137945191067648",
+                    "accountId": "333498732085518336",
+                    "title": "Cat Goes Meow! 💕 | !tipmenu !discord",
+                    "status": 1,
+                    "viewerCount": 42,
+                    "version": 176,
+                    "createdAt": 1752977368000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795137439000,
+                    "startedAt": 1795129283000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-22T22:35:42Z"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "bio": "Just hangin around :3",
+    "twitch": {
+        "id": "903320994",
+        "login": "josu",
+        "displayName": "josu",
+        "createdAt": "2023-04-24T16:16:34.110982Z",
+        "updatedAt": "2026-11-20T12:42:18.759989Z",
+        "description": "Just hangin around :3 ",
+        "primaryColorHex": "B583FF",
+        "followers": {
+            "totalCount": 3489
+        },
+        "follows": {
+            "totalCount": 132
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-04-21T21:33:23.229229Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/01f41038-6c2b-4c6d-9205-7fd7076ecb6a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-22T22:35:06Z"
+    },
+    "twitter": {
+        "cutejosu": {
+            "id": null,
+            "handle": "cutejosu",
+            "displayName": "Josuwu 🎀",
+            "description": "✧ doing whatever ✧ 18+ ✧\n\n✧ pfp - @JenniferRDArts",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2064900018813935616/NqsCcs3Y_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/CuteJosu",
+            "fetchedAt": "2026-11-22T22:35:27Z"
+        }
+    },
+    "fansly": {
+        "id": "541075063462440960",
+        "username": "CuteJosu",
+        "displayName": "CuteJosu",
+        "version": 6,
+        "followCount": 5322,
+        "statusId": 1,
+        "accountMediaLikes": 3187,
+        "postLikes": 2907,
+        "about": "ღ 100% Kitty. Switch \n\nღ your new little problem… or your favorite mistake 💋\n\nღ weekly tuesday streams + surprise drop-ins when i feel like it...\n\nღ  try to tame me if you can, but im sure I will end up on top. \n\nღ trying to be good for me? show me --> https://throne.com/cutejosu\n\nArt by @JenniferRDArts 🫰🏽💕\n\n\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "541075063462440960",
+            "channel": {
+                "id": "838087899999117313",
+                "accountId": "541075063462440960",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.t1Ovd98681xw.m3u8",
+                "chatRoomId": "857376269241708544",
+                "status": 2,
+                "version": 104,
+                "createdAt": 1761310086000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "838087899999117314",
+                    "historyId": "979603299042869248",
+                    "channelId": "838087899999117313",
+                    "accountId": "541075063462440960",
+                    "title": "private <3 ",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 200,
+                    "createdAt": 1761310086000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795054100000,
+                    "startedAt": 1795049986000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "979597763924750336",
+                                "streamId": "838087899999117314",
+                                "type": 0,
+                                "flags": 128,
+                                "price": 0,
+                                "metadata": "{\"128\":\"{\\\"listId\\\":\\\"900206954817794049\\\",\\\"label\\\":\\\"PRIVATE\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-22T22:35:42Z"
+    }
+}
