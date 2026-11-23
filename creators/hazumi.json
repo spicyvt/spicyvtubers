@@ -1,0 +1,110 @@
+{
+    "bio": "Lioness Knight, singer, & performer of the Okazaki Kingdom is here to protect you! ✧˖°.",
+    "twitch": {
+        "id": "610069413",
+        "login": "hazumi",
+        "displayName": "Hazumi",
+        "createdAt": "2020-11-17T20:35:55.669773Z",
+        "updatedAt": "2026-11-23T02:15:26.476375Z",
+        "description": "Lioness Knight, singer, & performer of the Okazaki Kingdom is here to protect you! ✧˖°.",
+        "primaryColorHex": "FFF3DA",
+        "followers": {
+            "totalCount": 45311
+        },
+        "follows": {
+            "totalCount": 762
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-22T01:32:42.407048Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bb43269-b1c4-46b0-af33-6dd2c27d31e1-profile_image-300x300.png",
+        "fetchedAt": "2026-11-23T10:25:46Z"
+    },
+    "twitter": {
+        "hazumiaileen": {
+            "id": null,
+            "handle": "hazumiaileen",
+            "displayName": "Hazumi 🦁⚔️ 【HEIRS】",
+            "description": "♡ Hazumi Aileen Okazaki ♔\n♡ Lioness Knight\n♡ VSinger &amp; Performer\n♡ Fanart: #hazumillust\n♡ @aVEnueChannel\n♡ @HeirsMGMT\n♡ @gomashio_ponz\n💌 hazumi@heirsmgmt.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2121092408825749504/O1_9BN79_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/hazumiaileen",
+            "fetchedAt": "2026-11-23T10:25:59Z"
+        },
+        "mirai__nsfw": {
+            "id": null,
+            "handle": "mirai__nsfw",
+            "displayName": "mirai 🌹🖤 ୨୧ ‧₊˚ ⋅",
+            "description": "im your mirai | dark elf girlfailure | nsfw content | 🔞 only!! | nsfw fanart always welcome 😌 ➡️ #miraimilk",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2031484596328509440/H6ez9krc_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Mirai__NSFW",
+            "fetchedAt": "2026-11-23T10:26:01Z"
+        }
+    },
+    "fansly": {
+        "id": "702408202188234752",
+        "username": "Mirai_NSFW",
+        "displayName": "Mirai",
+        "version": 6,
+        "followCount": 10385,
+        "statusId": 3,
+        "accountMediaLikes": 8976,
+        "postLikes": 16225,
+        "about": "Hello darlings ♡\nI'm Mirai, your \"future\" waifu VTuber!\nI post Art, ASMR, 3D renders & animations, and nsfw VA work -`♡´-",
+        "location": "In Your Future ?",
+        "streaming": {
+            "accountId": "702408202188234752",
+            "channel": {
+                "id": "724167540544118784",
+                "accountId": "702408202188234752",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.tGnjhOqs9vxo.m3u8",
+                "chatRoomId": "724167586857627648",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1734149356000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "724167540544118785",
+                    "historyId": "901675382904745985",
+                    "channelId": "724167540544118784",
+                    "accountId": "702408202188234752",
+                    "title": "Which hottie wants to have sex with me? 🥺 Summer Clover Stream!",
+                    "status": 1,
+                    "viewerCount": 65,
+                    "version": 5778,
+                    "createdAt": 1734149356000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776479104000,
+                    "startedAt": 1776470523000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "798077516316160001",
+                                "streamId": "724167540544118785",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-23T10:26:04Z"
+    }
+}

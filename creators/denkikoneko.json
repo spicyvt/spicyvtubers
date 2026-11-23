@@ -1,0 +1,88 @@
+{
+    "bio": "Hi, i'm Mint, also known as Denkikonek0. I play games and sometimes I draw.",
+    "twitch": {
+        "id": "679530734",
+        "login": "denkikonek0",
+        "displayName": "Denkikonek0",
+        "createdAt": "2021-04-24T13:16:36.804202Z",
+        "updatedAt": "2026-10-15T17:58:20.923406Z",
+        "description": "Hi, i'm Mint, also known as Denkikonek0. I play games and sometimes I draw.",
+        "primaryColorHex": "32280B",
+        "followers": {
+            "totalCount": 140
+        },
+        "follows": {
+            "totalCount": 11
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-10-20T22:36:03.796928Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/158f6510-ccc6-4a03-8759-2291455e8914-profile_image-300x300.png",
+        "fetchedAt": "2026-11-23T10:25:42Z"
+    },
+    "twitter": {
+        "denkikoneko24": {
+            "id": null,
+            "handle": "denkikoneko24",
+            "displayName": "Denkikoneko",
+            "description": "Hi, I&#x27;m Mint ♡ bratty catfoxgirl. Shy alone, but grab control &amp; I melt into your obedient little fucktoy. Watch me edge, beg &amp; break. Come break me~ 💙",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2010967733446279170/aisMuwk6_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/denkikoneko24",
+            "fetchedAt": "2026-11-23T10:25:56Z"
+        }
+    },
+    "fansly": {
+        "id": "373584725685575680",
+        "username": "denkikoneko",
+        "displayName": "Denkikoneko",
+        "version": 7,
+        "followCount": 1602,
+        "statusId": 1,
+        "accountMediaLikes": 4214,
+        "postLikes": 3025,
+        "about": "Hello, I'm Mint ♡ a bratty catfoxgirl\nI'm shy when I'm alone, but the second you grab control I melt into your obedient little fucktoy. I get off on being watched while I edge, tease, and completely fall apart. Tip in my streams to make me moan your name, squirm, beg, and turn into a good little cumslut in real time.\nFree page = the tease. Subs = the whole archive - full videos, uncensored clips, stream VODs, every moment I completely lose it. And if you want something personal (dick ratings, customs, ERP, girlfriend experience), my tiers have something that'll make you weak.\nI actually reply to DMs, which are free for everyone! Come break me~ 💙\nhttps://linktr.ee/denkikoneko",
+        "location": "USA",
+        "streaming": {
+            "accountId": "373584725685575680",
+            "channel": {
+                "id": "715923404695281665",
+                "accountId": "373584725685575680",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.4NQ5prKmNcn8.m3u8",
+                "chatRoomId": "715923600690917376",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1732183800000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "715923404695281666",
+                    "historyId": "981091439209365504",
+                    "channelId": "715923404695281665",
+                    "accountId": "373584725685575680",
+                    "title": ":3",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 7147,
+                    "createdAt": 1732183801000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795411359000,
+                    "startedAt": 1795404786000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-23T10:26:04Z"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "bio": "Hi, I’m May! 🌸A girl who loves games. Here you’ll find cozy streams, lots of laughter, and my cute (sometimes mischievous) face.I play everything that interests me: from horror games to pixel indie games.Brew some tea, get comfortable — it’s warm and fun here.Subscribe 💕",
+    "twitch": {
+        "id": "1541976765",
+        "login": "maylewd",
+        "displayName": "maylewd",
+        "createdAt": "2026-09-18T14:30:13.653406Z",
+        "updatedAt": "2026-11-23T08:23:14.163049Z",
+        "description": "",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 23
+        },
+        "follows": {
+            "totalCount": 2
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-15T12:39:01.265924Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/396ac54d-5ade-4f6e-a75a-33d827e63473-profile_image-300x300.png",
+        "fetchedAt": "2026-11-23T10:25:43Z"
+    },
+    "youtube": {
+        "id": "UCx7kri-fWTp-6VfJjMuBm8A",
+        "handle": "MayLewd-d9x",
+        "title": "May Lewd",
+        "description": "Hi, I’m May! 🌸A girl who loves games. Here you’ll find cozy streams, lots of laughter, and my cute (sometimes mischievous) face.I play everything that interests me: from horror games to pixel indie games.Brew some tea, get comfortable — it’s warm and fun here.Subscribe 💕",
+        "channelUrl": "https://www.youtube.com/channel/UCx7kri-fWTp-6VfJjMuBm8A",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/okE9roQyG2fDPDatImODlm3_OqXSyd60mk-qCFHQAMuoEVV7JsdraWPzkIzx2wA8cHOCf3H1euo=h300",
+        "subscriberCountText": "12 subscribers",
+        "videoCountText": "6 videos",
+        "fetchedAt": "2026-11-23T10:25:44Z"
+    },
+    "twitter": {
+        "mayetc6": {
+            "id": null,
+            "handle": "mayetc6",
+            "displayName": "May",
+            "description": "your new virtual girl 🩷 cute face, very naughty body. the spicy stuff lives on fansly ↓",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2106010806391619584/2HL2b2Rn_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mayetc6",
+            "fetchedAt": "2026-11-23T10:25:58Z"
+        }
+    },
+    "fansly": {
+        "id": "928712503884525568",
+        "username": "May_VLewd",
+        "displayName": null,
+        "version": 7,
+        "followCount": 1665,
+        "statusId": 2,
+        "accountMediaLikes": 1705,
+        "postLikes": 884,
+        "about": "Hey sweetie!  I’m May.😊My body is fully tracked and responsive — everything you see reacts to me in real time. \n🔥Stream🔥IRL Contentr🔥ASMR🔥NSFW Model🔥Hot Exclusive \nAll my socials 👀 https://maylewd.carrd.co/",
+        "location": "",
+        "streaming": {
+            "accountId": "928712503884525568",
+            "channel": {
+                "id": "929044662977585153",
+                "accountId": "928712503884525568",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ljHY4HIjHtpn.m3u8",
+                "chatRoomId": "929044892460527616",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1782995868000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "929044662977585154",
+                    "historyId": "980050041718718464",
+                    "channelId": "929044662977585153",
+                    "accountId": "928712503884525568",
+                    "title": "Cozy time with Me❤️!tip",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 228,
+                    "createdAt": 1782995869000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795158189000,
+                    "startedAt": 1795156498000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-23T10:26:04Z"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "bio": "Silly Cat, I love to Fanta! :3",
+    "twitch": {
+        "id": "1526684884",
+        "login": "kaanavr",
+        "displayName": "kaanavr",
+        "createdAt": "2026-08-07T08:05:26.310556Z",
+        "updatedAt": "2026-08-07T08:14:50.472284Z",
+        "description": "Silly Cat, I love to Fanta! :3",
+        "primaryColorHex": "0B0BE7",
+        "followers": {
+            "totalCount": 0
+        },
+        "follows": {
+            "totalCount": 2
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1e16113-5e70-4615-9642-731b381c1468-profile_image-300x300.png",
+        "fetchedAt": "2026-11-23T10:25:39Z"
+    },
+    "twitter": {
+        "kaanavr": {
+            "id": null,
+            "handle": "kaanavr",
+            "displayName": "Kaana",
+            "description": "Haii, I’m Kaana ^^\n🖤 Vr Content Creator\n🤍 Always wiggling :3\n@LewdKaana 🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2097649292299124736/BAjwlpox_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Kaanavr",
+            "fetchedAt": "2026-11-23T10:25:52Z"
+        },
+        "lewdkaana": {
+            "id": null,
+            "handle": "lewdkaana",
+            "displayName": "Kaana",
+            "description": "🖤 Semi-mute Silly femboy :P\n🤍 Always wiggling &amp; teasing\n🖤 @Kaanavr SFW🤍\n🔞https://t.co/rWwMLsGISk for all my links!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2097649041882730496/RScfAAQi_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Lewdkaana",
+            "fetchedAt": "2026-11-23T10:25:53Z"
+        }
+    },
+    "fansly": {
+        "id": "694930669834346998",
+        "username": "KaanaVR",
+        "displayName": "Kaana",
+        "version": 6,
+        "followCount": 6701,
+        "statusId": 3,
+        "accountMediaLikes": 6783,
+        "postLikes": 3433,
+        "about": "Haii, I’m Kaana ^^\n🖤 Semi-mute Silly femboy :P\n🤍 Professional pleaser >:3\n🖤 Bratty & Horny all the time >⩊<\n🤍 Always wiggling & teasing ♡\n🖤 Female & Futa content!\n\n♡ ~ All my socials ~ ♡\nhttps://kaanavr.com\n\n💸Up to 60% OFF in Lovense toys using my link:\n🔗 https://www.lovense.com/p/Kaana 🔗\n\n♡━━━━━━━ ◦ 𝐊 ◦ ━━━━━━♡\nMain Avatar made by Capritsuki\nContent made in Blender, CVR or Unity",
+        "location": "Europe",
+        "streaming": {
+            "accountId": "694930669834346998",
+            "channel": {
+                "id": "781966518664568835",
+                "accountId": "694930669834346998",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.FoL4UGiqdMRm.m3u8",
+                "chatRoomId": "781966553628286977",
+                "status": 2,
+                "version": 181,
+                "createdAt": 1747929706000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "781966518664568836",
+                    "historyId": "978011898400219136",
+                    "channelId": "781966518664568835",
+                    "accountId": "694930669834346998",
+                    "title": "🖤 Make me cum >.< 🤍 !Tipmenu !Dice",
+                    "status": 1,
+                    "viewerCount": 76,
+                    "version": 318,
+                    "createdAt": 1747929706000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794678800000,
+                    "startedAt": 1794670567000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "976696481463431168",
+                                "streamId": "781966518664568836",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-23T10:26:04Z"
+    }
+}

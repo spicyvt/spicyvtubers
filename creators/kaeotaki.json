@@ -1,0 +1,110 @@
+{
+    "bio": "Im the Puppy plush of the toybox! Happy to hang out and play games with you.",
+    "twitch": {
+        "id": "1318780879",
+        "login": "kaeotaki",
+        "displayName": "kaeotaki",
+        "createdAt": "2025-06-03T00:38:28.69244Z",
+        "updatedAt": "2026-11-16T19:48:42.624575Z",
+        "description": "Im the Puppy plush of the toybox! Happy to hang out and play games with you.",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": null
+        },
+        "follows": {
+            "totalCount": 48
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-16T00:39:11.310072Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/925a347f-f22f-4385-bdc9-55fde4dafd09-profile_image-300x300.png",
+        "fetchedAt": "2026-11-23T10:25:40Z"
+    },
+    "twitter": {
+        "kaetoybox": {
+            "id": null,
+            "handle": "kaetoybox",
+            "displayName": "Kae Otaki",
+            "description": "I&#x27;m your goth girlfriend Kae! I&#x27;m the subby puppy plush of Toybox!\nFor my links: https://t.co/yGVDQNfhYo",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2068002231694065664/THKlRyx0_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Kaetoybox",
+            "fetchedAt": "2026-11-23T10:25:55Z"
+        }
+    },
+    "bluesky": {
+        "did": "did:plc:zebncmobvmlfsp6jcnnjrmqg",
+        "handle": "kaeotaki.bsky.social",
+        "displayName": "Kae  || NSFW Vtuber - Toybox",
+        "description": "Lewdtuber || She/Her || 21+\nhttps://KaeOtaki.fanberry.com\n\n   ⛔ minors dni ⛔\n\nPart of the Fansly Toybox\nhttps://discord.gg/BZESjuvtxX",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zebncmobvmlfsp6jcnnjrmqg/bafkreigcxjhhz2swjviynbgtvni3q3wamjrxssjoimke3icam6ypq7eisu",
+        "followersCount": 247,
+        "followingCount": 144,
+        "postsCount": 324,
+        "accountCreatedAt": "2025-04-19T23:07:47.073Z",
+        "profileUrl": "https://bsky.app/profile/kaeotaki.bsky.social",
+        "fetchedAt": "2026-11-23T10:26:03Z"
+    },
+    "fansly": {
+        "id": "770145961887412224",
+        "username": "KaeOtaki",
+        "displayName": null,
+        "version": 3,
+        "followCount": 5298,
+        "statusId": 1,
+        "accountMediaLikes": 1724,
+        "postLikes": 1230,
+        "about": "Hello Darlings,\nI'm your goth girlfriend Kae! I'm the subby puppy plush of Toybox!\nI can't wait to sit on your lap as we watch horror movies. Or maybe explore some spooky places. OH! Maybe we can visit a dungeon ⛓️\nI stream Solo Thurs 4:30 EST and with Toybox Sat Noon EST\n\n2D, 3D and lewd streams content! \nKink sheet: https://imgur.com/P7aTO7c\nhttps://KaeOtaki.fanberry.com\nhttps://www.lovense.com/wish-list/olnd\nhttps://throne.com/kaeotaki",
+        "location": "",
+        "streaming": {
+            "accountId": "770145961887412224",
+            "channel": {
+                "id": "798356312969715712",
+                "accountId": "770145961887412224",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.s4GY3LeedqP2.m3u8",
+                "chatRoomId": "858795852032925697",
+                "status": 2,
+                "version": 307,
+                "createdAt": 1751837337000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "798356312969715713",
+                    "historyId": "980580414143877120",
+                    "channelId": "798356312969715712",
+                    "accountId": "770145961887412224",
+                    "title": "🎮SFW Gaming multistream🎮 Playing Control Resonant  ~ No toys",
+                    "status": 1,
+                    "viewerCount": 29,
+                    "version": 290,
+                    "createdAt": 1751837338000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795379244000,
+                    "startedAt": 1795282949000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "980984097956458496",
+                                "streamId": "798356312969715713",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-23T10:26:04Z"
+    }
+}
