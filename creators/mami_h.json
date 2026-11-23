@@ -1,0 +1,88 @@
+{
+    "bio": "VRChat en español 💜 Cariño, baile y realidad virtual | 📧 mamih.business@gmail.com",
+    "twitch": {
+        "id": "1241087636",
+        "login": "mami_h_",
+        "displayName": "Mami_H_",
+        "createdAt": "2025-01-28T11:36:28.69199Z",
+        "updatedAt": "2026-11-21T02:32:27.190575Z",
+        "description": "VRChat en español 💜 Cariño, baile y realidad virtual | 📧 mamih.business@gmail.com",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 6377
+        },
+        "follows": {
+            "totalCount": 38
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-21T05:24:48.116284Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7e428ca-e368-4508-bd6a-36dd96eef180-profile_image-300x300.png",
+        "fetchedAt": "2026-11-23T02:03:41Z"
+    },
+    "twitter": {
+        "mamii_h_": {
+            "id": null,
+            "handle": "mamii_h_",
+            "displayName": "MAMI H 🍑",
+            "description": "✦ VRChat Streamer ✦\n💜 https://t.co/aqy3PgNwt6\n🔞 https://t.co/oKFLMfio7q\nface tracking • full body tracking\n💞streams en español",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2078807687895060480/IrEsgK8X_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Mamii_H_",
+            "fetchedAt": "2026-11-23T02:03:54Z"
+        }
+    },
+    "fansly": {
+        "id": "764028339584245760",
+        "username": "Mami_H",
+        "displayName": "Mami_H_",
+        "version": 7,
+        "followCount": 2328,
+        "statusId": 3,
+        "accountMediaLikes": 2275,
+        "postLikes": 1560,
+        "about": "👑 #1 en sacarte lechita\n💋 Culote IRL y en VRChat\n💌 Mamita bien cariñosa\n🎮 ¿Quieres ver más? 💜 https://linktr.ee/mami_h_",
+        "location": "",
+        "streaming": {
+            "accountId": "764028339584245760",
+            "channel": {
+                "id": "822002166565715968",
+                "accountId": "764028339584245760",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.8PazMPHbmWpS.m3u8",
+                "chatRoomId": "822002194160041984",
+                "status": 2,
+                "version": 36,
+                "createdAt": 1757474948000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "822002166565715969",
+                    "historyId": "980737108241039367",
+                    "channelId": "822002166565715968",
+                    "accountId": "764028339584245760",
+                    "title": "HOY SOY TODA TUYA MI AMOR!!! FOLLAME!",
+                    "status": 1,
+                    "viewerCount": 138,
+                    "version": 122,
+                    "createdAt": 1757474948000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795334048000,
+                    "startedAt": 1795320307000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-23T02:05:28Z"
+    }
+}

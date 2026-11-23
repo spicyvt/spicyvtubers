@@ -1,0 +1,97 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "545041587",
+        "login": "athena_airis",
+        "displayName": "athena_airis",
+        "createdAt": "2020-06-18T03:26:46.394716Z",
+        "updatedAt": "2026-11-19T21:12:16.39733Z",
+        "description": null,
+        "primaryColorHex": "FA1ED2",
+        "followers": {
+            "totalCount": 1679
+        },
+        "follows": {
+            "totalCount": 160
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-20T03:51:22.476283Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f47e2c90-52fb-44b8-a7a1-471131f53c89-profile_image-300x300.png",
+        "fetchedAt": "2026-11-23T02:03:42Z"
+    },
+    "twitter": {
+        "athena_airis": {
+            "id": null,
+            "handle": "athena_airis",
+            "displayName": "✨ATHENA AIRIS🌌 VTUBER🪐",
+            "description": "Your geek nerdy crazy goddess 🌌 📽️Videogames developer🕹️3D and 2D artist @official_throne partner.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2027027803590303744/V5-2hccw_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Athena_Airis",
+            "fetchedAt": "2026-11-23T02:03:55Z"
+        }
+    },
+    "fansly": {
+        "id": "367839181163999232",
+        "username": "Athena-Airis",
+        "displayName": "Aphrodite_Airis",
+        "version": 11,
+        "followCount": 2324,
+        "statusId": 3,
+        "accountMediaLikes": 1876,
+        "postLikes": 2117,
+        "about": "Hey! Aphrodite VT here, Vtuber, Lewd goddess and adult content creator. Join and lets have some good times. :3♥️🚀",
+        "location": "",
+        "streaming": {
+            "accountId": "367839181163999232",
+            "channel": {
+                "id": "954269221762658304",
+                "accountId": "367839181163999232",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JDguKNgH5hTK.m3u8",
+                "chatRoomId": "954271807064522752",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1789009871000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "954269221762658305",
+                    "historyId": "980742277800423424",
+                    "channelId": "954269221762658304",
+                    "accountId": "367839181163999232",
+                    "title": "Lets have a naughty night, shall we?",
+                    "status": 1,
+                    "viewerCount": 122,
+                    "version": 60,
+                    "createdAt": 1789009872000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795332970000,
+                    "startedAt": 1795321540000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "954269561551601664",
+                                "streamId": "954269221762658305",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-23T02:05:28Z"
+    }
+}

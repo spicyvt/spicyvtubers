@@ -1,0 +1,110 @@
+{
+    "bio": "Hello! Welcome to my stream. I stream on a regular basis mostly interviewing VTubers and hanging out with my community playing various video games!",
+    "twitch": {
+        "id": "36348250",
+        "login": "rebel",
+        "displayName": "Rebel",
+        "createdAt": "2012-09-22T02:48:29.662881Z",
+        "updatedAt": "2026-11-06T01:06:09.410943Z",
+        "description": "Hello! Welcome to my stream. I stream on a regular basis mostly interviewing VTubers and hanging out with my community playing various video games!",
+        "primaryColorHex": "C30000",
+        "followers": {
+            "totalCount": 27064
+        },
+        "follows": {
+            "totalCount": 292
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-06T08:09:14.120834Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13d0ca61-258d-433d-a2c3-46ccc656ad7c-profile_image-300x300.png",
+        "fetchedAt": "2026-11-23T02:03:45Z"
+    },
+    "twitter": {
+        "rebel_vr": {
+            "id": "465236845",
+            "handle": "rebel_vr",
+            "displayName": "✨Rebel🎙️VTuber✨",
+            "description": "| ❤️ @Twitch Partner 🇨🇦\n| ❤️ Model: @GumaeArt / Rig: @Kanijam2\n| ❤️ Art: #DrawRebel\n| ❤️ PFP: @JenniferRDarts / #VTuber\n\n➡ http://Twitch.tv/Rebel",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2078423223075561472/ociDd48H_400x400.jpg",
+            "followersCount": 22025,
+            "followingCount": 733,
+            "postsCount": 6920,
+            "accountCreatedAt": "2012-01-16T03:52:50.000Z",
+            "profileUrl": "https://x.com/Rebel_VR",
+            "fetchedAt": "2026-11-23T02:04:00Z"
+        },
+        "lewdyrebel": {
+            "id": "1333599694761627650",
+            "handle": "lewdyrebel",
+            "displayName": "After Dark Rebel🔞",
+            "description": "💖 Virtual Thicc Dommy Mommy Waifu Experience 💖 \n\n18+🔞MDNI\n\nMade in Unity / Blender\n\nHorny Cave http://discord.gg/Fe328gxTbJ",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2059513280058556418/SIaJPszt_400x400.jpg",
+            "followersCount": 7271,
+            "followingCount": 442,
+            "postsCount": 1128,
+            "accountCreatedAt": "2020-12-01T02:32:47.000Z",
+            "profileUrl": "https://x.com/LewdyRebel",
+            "fetchedAt": "2026-11-23T02:04:01Z"
+        }
+    },
+    "fansly": {
+        "id": "324036013859024896",
+        "username": "Rebel",
+        "displayName": "Rebel",
+        "version": 17,
+        "followCount": 27079,
+        "statusId": 1,
+        "accountMediaLikes": 34350,
+        "postLikes": 23220,
+        "about": "😈 Here to make your dirty virtual dreams become a reality. 😈\n\n💖 Virtual Thicc Dommy Mommy Waifu Experience 💖 \n\n🔞 Subscribe for Full Photo Nudes + Videos + Gifs 🔞\n\n✨New posts weekly ✨\n\n❤️ Follow for FREE! ❤️\n\n😘 I respond and answer to DMs daily 😘\n\n🚫 No Refunds during Streams or Custom Content all Sales are Final! 🚫\n\n💌 I don't reply to Casual DMs 💌\n\n💦 Cum for me 💦\n\nRanked #477 April 2025\nRanked #353 September 2025\n\nHorny Discord Link\ndiscord.gg/Fe328gxTbJ\n\nThrone link\nhttps://throne.com/thatonerebel\n",
+        "location": "VR Waifu",
+        "streaming": {
+            "accountId": "324036013859024896",
+            "channel": {
+                "id": "371848143626579968",
+                "accountId": "324036013859024896",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BnzX1Ytymr6e.m3u8",
+                "chatRoomId": "371848892314034176",
+                "status": 2,
+                "version": 364,
+                "createdAt": 1650149866000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "371848143626579969",
+                    "historyId": "981064705554530304",
+                    "channelId": "371848143626579968",
+                    "accountId": "324036013859024896",
+                    "title": "💦 @RavingMidnight Collab Stream 💦 !Menu !Collab",
+                    "status": 2,
+                    "viewerCount": 38,
+                    "version": 5214,
+                    "createdAt": 1650149866000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795399499000,
+                    "startedAt": 1795398413000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "949717395738476544",
+                                "streamId": "371848143626579969",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-23T02:05:28Z"
+    }
+}

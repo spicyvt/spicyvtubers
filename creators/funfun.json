@@ -1,0 +1,121 @@
+{
+    "bio": "I'm a Fox. I have tail. I love pepe💙",
+    "twitch": {
+        "id": "202941043",
+        "login": "vrfunny",
+        "displayName": "VRFunny",
+        "createdAt": "2018-03-05T22:32:39.467367Z",
+        "updatedAt": "2026-05-26T15:03:27.588342Z",
+        "description": "I'm a Fox. I have tail. I love pepe💙",
+        "primaryColorHex": "8DE6F0",
+        "followers": {
+            "totalCount": 37197
+        },
+        "follows": {
+            "totalCount": 34
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2024-07-25T17:14:41.797912Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/47ba4579-bce0-4d49-a277-d04f86ff43a9-profile_image-300x300.png",
+        "fetchedAt": "2026-11-23T02:03:46Z"
+    },
+    "fansly": {
+        "id": "313720761254682624",
+        "username": "vtuberFunFun",
+        "displayName": "FunFun",
+        "version": 10,
+        "followCount": 29276,
+        "statusId": 3,
+        "accountMediaLikes": 127411,
+        "postLikes": 50613,
+        "about": "🦊 Your favorite horny foxgirl is here~\n✨ Soft, playful, and dangerously horny—your personal foxgirl fantasy come true~✨\n\nI'm FunFun, your playful fox with a fluffy tail and an even fluffier personality. I adore teasing, flirting, and sharing spicy, genuine moments with you—all from my own cozy little den~\n\nEvery DM you send lands straight in my paws (and I reply to each one , promise!). Give me some time! 💌\n\nSo, come join me! Let's have some fun and get a little wild together...~ 🩵",
+        "location": "",
+        "streaming": {
+            "accountId": "313720761254682624",
+            "channel": {
+                "id": "372095818309574656",
+                "accountId": "313720761254682624",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ZSDr8Rd861FS.m3u8",
+                "chatRoomId": "568890535633231872",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1650208916000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "372095818309574657",
+                    "historyId": "693606140457529344",
+                    "channelId": "372095818309574656",
+                    "accountId": "313720761254682624",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 20,
+                    "version": 832,
+                    "createdAt": 1650208916000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1726868134000,
+                    "startedAt": 1726862950000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "685926022423523328",
+                                "streamId": "372095818309574657",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"377190652435243008\\\"}\"}"
+                            },
+                            {
+                                "id": "685926022423523329",
+                                "streamId": "372095818309574657",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"322377655510904832\\\"}\"}"
+                            },
+                            {
+                                "id": "685926022423523330",
+                                "streamId": "372095818309574657",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"332599455880589312\\\"}\"}"
+                            },
+                            {
+                                "id": "685926022423523331",
+                                "streamId": "372095818309574657",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"631860085710135296\\\"}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-23T02:05:28Z"
+    },
+    "twitter": {
+        "vrfunny": {
+            "id": "970782888995250176",
+            "handle": "vrfunny",
+            "displayName": "FunFunおもしろい💙",
+            "description": "Fox kitsune 💫\n(｡◕‿‿◕｡)",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1907051396660088832/9lizf1Om_400x400.jpg",
+            "followersCount": 48629,
+            "followingCount": 43,
+            "postsCount": 1590,
+            "accountCreatedAt": "2018-03-05T22:07:31.000Z",
+            "profileUrl": "https://x.com/VRFunny",
+            "fetchedAt": "2026-11-23T02:05:35Z"
+        }
+    }
+}
