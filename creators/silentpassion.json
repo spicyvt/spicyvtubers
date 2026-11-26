@@ -1,0 +1,88 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "1172658489",
+        "login": "silentpassion18",
+        "displayName": "silentpassion18",
+        "createdAt": "2024-10-30T05:41:14.930732Z",
+        "updatedAt": "2026-11-25T13:23:13.134596Z",
+        "description": null,
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 234
+        },
+        "follows": {
+            "totalCount": 49
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-25T16:37:28.331963Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52aa83fa-cd89-47af-8394-d8cdb6932771-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T11:31:03Z"
+    },
+    "fansly": {
+        "id": "339350516024745984",
+        "username": "Silentpassion",
+        "displayName": null,
+        "version": 4,
+        "followCount": 3065,
+        "statusId": 1,
+        "accountMediaLikes": 4696,
+        "postLikes": 9963,
+        "about": "I'm a freelance artist for hire, also looking to do some chill streams and post my artwork here in the near future. I also do vrchat photos and videos.",
+        "location": "UK",
+        "streaming": {
+            "accountId": "339350516024745984",
+            "channel": {
+                "id": "728778542363451393",
+                "accountId": "339350516024745984",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.y69oXsExTtC6.m3u8",
+                "chatRoomId": "728778787143036928",
+                "status": 2,
+                "version": 204,
+                "createdAt": 1735248704000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "728778542363451394",
+                    "historyId": "981360311518916608",
+                    "channelId": "728778542363451393",
+                    "accountId": "339350516024745984",
+                    "title": "I'm a good girl, right?~",
+                    "status": 1,
+                    "viewerCount": 15,
+                    "version": 422,
+                    "createdAt": 1735248705000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795477279000,
+                    "startedAt": 1795468891000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T11:31:43Z"
+    },
+    "twitter": {
+        "silentpassion18": {
+            "id": "1040272537714925569",
+            "handle": "silentpassion18",
+            "displayName": "Silentpassion (commission Open)",
+            "description": "39 She/her Trans MtF.\n\nI'm a fulltime freelance artist who draws both SFW and NSFW content. I also do streams from time to time. Coms are always open.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1572582193737637889/kGHBT0Fq_400x400.jpg",
+            "followersCount": 5962,
+            "followingCount": 5397,
+            "postsCount": 213983,
+            "accountCreatedAt": "2018-09-13T16:14:35.000Z",
+            "profileUrl": "https://x.com/Silentpassion18",
+            "fetchedAt": "2026-11-26T11:31:50Z"
+        }
+    }
+}

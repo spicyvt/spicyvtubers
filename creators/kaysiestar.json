@@ -1,0 +1,88 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "1472787067",
+        "login": "kaysiestar",
+        "displayName": "kaysiestar",
+        "createdAt": "2026-04-02T23:10:32.387659Z",
+        "updatedAt": "2026-04-02T23:10:54.27407Z",
+        "description": null,
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 22
+        },
+        "follows": {
+            "totalCount": 4
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f45f51c6-c990-4840-b392-3692b8013cf6-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T11:31:00Z"
+    },
+    "twitter": {
+        "kaysiestarvr": {
+            "id": "1895461786444312576",
+            "handle": "kaysiestarvr",
+            "displayName": "KaysieStar",
+            "description": "◜ 18+ ◞\nKaysie Star\n\n☆ your little shooting star ☆\n\n☆ SemiMute | PCVR/FBT | FT ☆\n\n꒰ა links below ໒꒱\nhttp://linktr.ee/KaysieStar",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2122411193205760000/6w1MHWVq_400x400.jpg",
+            "followersCount": 1223,
+            "followingCount": 57,
+            "postsCount": 348,
+            "accountCreatedAt": "2025-02-28T13:11:32.000Z",
+            "profileUrl": "https://x.com/KaysieStarVR",
+            "fetchedAt": "2026-11-26T11:31:25Z"
+        }
+    },
+    "fansly": {
+        "id": "729555990550163458",
+        "username": "KaysieStar",
+        "displayName": "KaysieStar",
+        "version": 5,
+        "followCount": 2509,
+        "statusId": 3,
+        "accountMediaLikes": 1389,
+        "postLikes": 1045,
+        "about": "◜ Kaysie Star◞\n\n☆ your little shooting star ☆\n\n☆ SemiMute | PCVR/FBT | FT ☆\n\n✧ spend some time with me ✧  \n\n꒰ა links below ໒꒱  \nlinktr.ee/KaysieStar\ndiscord.gg/hMbPndKGN\n___\n/!\\ No Collabs • No ERP \n → IRL Taken by Cas<3\nGive @CassieLewdy a follow: https://fansly.com/CassieLewdy",
+        "location": "",
+        "streaming": {
+            "accountId": "729555990550163458",
+            "channel": {
+                "id": "907366354821079040",
+                "accountId": "729555990550163458",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jJ81Sf5Pinec.m3u8",
+                "chatRoomId": "907367118893248512",
+                "status": 2,
+                "version": 65,
+                "createdAt": 1777827357000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "907366354821079041",
+                    "historyId": "982124078687088640",
+                    "channelId": "907366354821079040",
+                    "accountId": "729555990550163458",
+                    "title": "✦Be With Your VR Kitty✦",
+                    "status": 1,
+                    "viewerCount": 63,
+                    "version": 222,
+                    "createdAt": 1777827357000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795660279000,
+                    "startedAt": 1795650987000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T11:31:43Z"
+    }
+}

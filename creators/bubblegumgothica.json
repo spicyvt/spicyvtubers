@@ -1,5 +1,5 @@
 {
-    "bio": "A girl into art, games, cooking, and comics, I'm hoping this channel will bring smiles to those who watch.",
+    "bio": "Hey, I'm Bubble! I'm just a girl that loves art and games, but I come with a twist!~ A hidden being known as Sophie hides within me and likes to take over once in a while, so be nice when you see her! 😈💗",
     "youtube": {
         "id": "UC5Ufc-ljCgNVzlmWHyKiU5Q",
         "handle": "bubblegumgothica",
@@ -83,5 +83,29 @@
             "profileUrl": "https://x.com/bggothicaart",
             "fetchedAt": "2026-10-26T14:45:50Z"
         }
+    },
+    "twitch": {
+        "id": "127827956",
+        "login": "bubblegumgothica",
+        "displayName": "Bubblegumgothica",
+        "createdAt": "2016-06-26T23:27:57.808585Z",
+        "updatedAt": "2026-11-05T07:56:17.327382Z",
+        "description": "Hey, I'm Bubble! I'm just a girl that loves art and games, but I come with a twist!~ A hidden being known as Sophie hides within me and likes to take over once in a while, so be nice when you see her! 😈💗",
+        "primaryColorHex": "FF66A6",
+        "followers": {
+            "totalCount": 212
+        },
+        "follows": {
+            "totalCount": 173
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2022-03-26T21:40:36.910143Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0eca9b4d-73e1-4bf5-82ee-b454bc6630be-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T11:30:48Z"
     }
 }

@@ -1,0 +1,76 @@
+{
+    "twitter": {
+        "vrcbiyaareal": {
+            "id": null,
+            "handle": "vrcbiyaareal",
+            "displayName": "Yabi",
+            "description": "alt:@vrcyabialt\n#yabiart\nCheck my bio link for exclusive contents!\n⬇️",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1795854073176133632/lnwvC8fa_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/vrcbiyaareal",
+            "fetchedAt": "2026-11-26T11:31:22Z"
+        },
+        "vrcyabialt": {
+            "id": null,
+            "handle": "vrcyabialt",
+            "displayName": "Yabi_alt",
+            "description": "Yabi&#x27;s alt account is here 💛\n-https://t.co/tTZ0sLJd6i\n-https://t.co/5wA7LDeJu0\n-https://t.co/yIKo7l2QQV",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2070101863362674688/mUM8XNb5_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/vrcyabialt",
+            "fetchedAt": "2026-11-26T11:31:24Z"
+        }
+    },
+    "fansly": {
+        "id": "855864774091624449",
+        "username": "vrcyabi",
+        "displayName": "YABI",
+        "version": 4,
+        "followCount": 6525,
+        "statusId": 1,
+        "accountMediaLikes": 20206,
+        "postLikes": 6848,
+        "about": "The horny ass cat femboy wants your nut\n",
+        "location": "",
+        "streaming": {
+            "accountId": "855864774091624449",
+            "channel": {
+                "id": "857271246054764544",
+                "accountId": "855864774091624449",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.CHpstpEcbuQy.m3u8",
+                "chatRoomId": "857271311687241728",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1765883752000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "857271246054764545",
+                    "historyId": "982292314980368384",
+                    "channelId": "857271246054764544",
+                    "accountId": "855864774091624449",
+                    "title": "Sick femboy is here ( i got a cold)",
+                    "status": 2,
+                    "viewerCount": 52,
+                    "version": 137,
+                    "createdAt": 1765883752000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795692695000,
+                    "startedAt": 1795691098000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T11:31:43Z"
+    }
+}

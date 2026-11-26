@@ -1,0 +1,126 @@
+{
+    "bio": "lazysleepylaggyguiltykittypuppyel || I can't become a Twitch Affiliate or enable VODs due to regional restrictions. I'm so sorry! 😥",
+    "twitch": {
+        "id": "1135943861",
+        "login": "puppyel",
+        "displayName": "puppyel",
+        "createdAt": "2024-08-29T12:33:19.145812Z",
+        "updatedAt": "2026-11-22T20:38:51.020927Z",
+        "description": "lazysleepylaggyguiltykittypuppyel || I can't become a Twitch Affiliate or enable VODs due to regional restrictions. I'm so sorry! 😥",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 2881
+        },
+        "follows": {
+            "totalCount": 46
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-23T01:21:31.661422Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f28f026-9b7f-4450-b27c-ef7c3c73b1c4-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T11:30:56Z"
+    },
+    "youtube": {
+        "id": "UCg3v2vkfk8rxqbjpCzfUChg",
+        "handle": "puppyel04",
+        "title": "puppyel",
+        "description": "I am streaming on Kick !\n\n\n\n\n",
+        "channelUrl": "https://www.youtube.com/channel/UCg3v2vkfk8rxqbjpCzfUChg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/rdKP-26Wn2PXOruaWY-iZtoO2LnzYtn9XlXH62-p-IRmF6rfUXfAN8T1zkLlVO8PJHkPTurRnQ=h300",
+        "subscriberCountText": "473 subscribers",
+        "videoCountText": "11 videos",
+        "fetchedAt": "2026-11-26T11:30:57Z"
+    },
+    "kick": {
+        "id": 40442119,
+        "userId": 41528803,
+        "slug": "puppyel",
+        "username": "puppyel",
+        "bio": "lazysleepylaggymilkeykittypuppyel",
+        "profileImageUrl": "https://files.kick.com/images/user/41528803/profile_image/conversion/4149a01a-d891-4e8f-a748-0fdcfd828669-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/40442119/banner_image/305be678-be2e-4844-a75a-40b3382fee13",
+        "followersCount": 7361,
+        "verified": true,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "puppy___el",
+            "discord": "X7a7mEVGGE"
+        },
+        "fetchedAt": "2026-11-26T11:30:59Z"
+    },
+    "twitter": {
+        "puppy___el": {
+            "id": null,
+            "handle": "puppy___el",
+            "displayName": "puppyel",
+            "description": "Plant sama\n\nKorean Language : Master level\nEnglish Language : Baby+2 level\nStream Language : English\n\nEspañol : Yo aprendiendo\n\ngyat",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1898583639644139520/T0tDIvx__400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/puppy___el",
+            "fetchedAt": "2026-11-26T11:31:19Z"
+        }
+    },
+    "fansly": {
+        "id": "688123084418326529",
+        "username": "ppy04",
+        "displayName": "puppyel",
+        "version": 10,
+        "followCount": 26976,
+        "statusId": 3,
+        "accountMediaLikes": 26180,
+        "postLikes": 15346,
+        "about": "Plant sama\n\nDms are open for subs 💙\nDon’t DM for avi, stream info\n\nKick partner streamer 💚\nhttps://linktr.ee/puppyel\n\nI don't make custom contents !\nI don't do ERP session !\n\nInformation related to my avatar creation is private, questions related to it are not included in your subscription benefits, please don't DM me asking for assets\n\nAll content is under copyright. Enforced by bruqi.com.",
+        "location": "Forest",
+        "streaming": {
+            "accountId": "688123084418326529",
+            "channel": {
+                "id": "696933728391274496",
+                "accountId": "688123084418326529",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.MrSZge8A9eKb.m3u8",
+                "chatRoomId": "696933840534384640",
+                "status": 2,
+                "version": 25,
+                "createdAt": 1727656309000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "696933728391274497",
+                    "historyId": "968301981615534081",
+                    "channelId": "696933728391274496",
+                    "accountId": "688123084418326529",
+                    "title": "Hii♥️ ",
+                    "status": 1,
+                    "viewerCount": 297,
+                    "version": 6870,
+                    "createdAt": 1727656309000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792365513000,
+                    "startedAt": 1792355542000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "960370232373813248",
+                                "streamId": "696933728391274497",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T11:31:43Z"
+    }
+}

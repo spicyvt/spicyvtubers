@@ -1,0 +1,76 @@
+{
+    "bio": "",
+    "youtube": {
+        "id": "UCzujt5LBwY6_Xzsqw7mpcUg",
+        "handle": "Yula1790",
+        "title": "Yula",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCzujt5LBwY6_Xzsqw7mpcUg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/HsViEShZ5cWO7hTEQBru4Ol-PbaHgvpXlYYojRTQWbalrn5Axw8Ffg53koJiPZFt_eq8NBHppQ=h300",
+        "subscriberCountText": "49 subscribers",
+        "videoCountText": "7 videos",
+        "fetchedAt": "2026-11-26T11:31:06Z"
+    },
+    "twitter": {
+        "yula_evergarden": {
+            "id": null,
+            "handle": "yula_evergarden",
+            "displayName": "YulaVR",
+            "description": "Not so SFW Yula things.",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1851116982244139008/777ArCX4_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Yula_Evergarden",
+            "fetchedAt": "2026-11-26T11:31:35Z"
+        }
+    },
+    "fansly": {
+        "id": "415286502981902336",
+        "username": "YulaVR",
+        "displayName": "YulaVR",
+        "version": 18,
+        "followCount": 1475,
+        "statusId": 1,
+        "accountMediaLikes": 3690,
+        "postLikes": 3394,
+        "about": "open to requests and one on one play! I look forward to making spicy content for/with youuuuuu\n",
+        "location": "",
+        "streaming": {
+            "accountId": "415286502981902336",
+            "channel": {
+                "id": "802385186703564800",
+                "accountId": "415286502981902336",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hDYZr12rsPbt.m3u8",
+                "chatRoomId": "802651202637553664",
+                "status": 2,
+                "version": 29,
+                "createdAt": 1752797896000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "802385186703564801",
+                    "historyId": "965315356698619954",
+                    "channelId": "802385186703564800",
+                    "accountId": "415286502981902336",
+                    "title": "I'm with a good slime!~ Slurp!~ ^.^ Live Now!~",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 68,
+                    "createdAt": 1752797896000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1791650102000,
+                    "startedAt": 1791643475000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T11:31:43Z"
+    }
+}

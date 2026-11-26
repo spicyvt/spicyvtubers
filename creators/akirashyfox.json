@@ -1,0 +1,88 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "472002729",
+        "login": "akirashyfox",
+        "displayName": "AkiraShyFox",
+        "createdAt": "2019-11-10T15:56:26.576832Z",
+        "updatedAt": "2026-10-29T15:01:15.940877Z",
+        "description": "",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": 292
+        },
+        "follows": {
+            "totalCount": 647
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-08-27T17:52:09.725386Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a545a485-5838-4d59-afd1-3e993d9606e6-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T11:31:08Z"
+    },
+    "twitter": {
+        "akirashyfox": {
+            "id": null,
+            "handle": "akirashyfox",
+            "displayName": "AkiraShyFox",
+            "description": "Snuggly and sometimes lewd Horsegirl in VRC🩷\nCozy Fox VTuber🩵\nMight eat ur snacks or u ^~^\nhttps://t.co/hIbbuqKJIz",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2098084103782383622/DRNDTpVH_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/AkiraShyFox",
+            "fetchedAt": "2026-11-26T11:31:40Z"
+        }
+    },
+    "fansly": {
+        "id": "376454644408266752",
+        "username": "AkiShy",
+        "displayName": "Akishy",
+        "version": 7,
+        "followCount": 1135,
+        "statusId": 1,
+        "accountMediaLikes": 777,
+        "postLikes": 889,
+        "about": "Hi im Aki ^^ \nyour friendly neighborhood Cutie :3\n~Genderfluid\n~DMs are open and free\n~Open for Collab requests\n\nhttps://linktr.ee/AkiraShyFox\nhttps://throne.com/akishy\n[Disclaimer]\n-All Ears, Tails and Wings are detachable and solely for aesthetics, they are not part of my body\n-All Content is made with Unity/Blender, all similarities to other platforms are purely coincidental",
+        "location": "In ur Dreams ?",
+        "streaming": {
+            "accountId": "376454644408266752",
+            "channel": {
+                "id": "896907918186668032",
+                "accountId": "376454644408266752",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BGVcBgRnJET4.m3u8",
+                "chatRoomId": "933189146665570304",
+                "status": 2,
+                "version": 43,
+                "createdAt": 1775333871000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "896907918186668033",
+                    "historyId": "982110365376602112",
+                    "channelId": "896907918186668032",
+                    "accountId": "376454644408266752",
+                    "title": "🩷Its Wednesday Wiggles Time🩷free 3min control lik at every 50🩷",
+                    "status": 1,
+                    "viewerCount": 15,
+                    "version": 52,
+                    "createdAt": 1775333871000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795666228000,
+                    "startedAt": 1795647717000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T11:31:43Z"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "twitter": {
+        "backup_gator": {
+            "id": null,
+            "handle": "backup_gator",
+            "displayName": "BackupGator",
+            "description": "Just a thirsty gator in a swamp, continue with your business\n\nOccasional Streams @ https://t.co/9cUsB9h26D\nThrone: https://t.co/idI24nh8xC",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1830273634797080576/GlJT0Hkr_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/backup_gator",
+            "fetchedAt": "2026-11-26T11:31:32Z"
+        }
+    },
+    "fansly": {
+        "id": "437996125773897728",
+        "username": "SpeedyCo",
+        "displayName": "Speedy",
+        "version": 12,
+        "followCount": 434,
+        "statusId": 1,
+        "accountMediaLikes": 163,
+        "postLikes": 455,
+        "about": "Gator Vtuber trying out the lewdtuber route. Starting off my slut arc, come join for screams, moans, and chaos\n\nThrone - https://throne.com/speedyco\n\n\n\nMenu: \n$30 ($15 for subs) for personalized script for you and you alone",
+        "location": "",
+        "streaming": {
+            "accountId": "437996125773897728",
+            "channel": {
+                "id": "615129114591895552",
+                "accountId": "437996125773897728",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.SAeU10fSuoZu.m3u8",
+                "chatRoomId": "615129268267003904",
+                "status": 2,
+                "version": 31,
+                "createdAt": 1708152569000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "615129114591895553",
+                    "historyId": "981354864711835649",
+                    "channelId": "615129114591895552",
+                    "accountId": "437996125773897728",
+                    "title": "Let's go get my outfits back!",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 4534,
+                    "createdAt": 1708152570000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795480994000,
+                    "startedAt": 1795467592000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "727369259168047107",
+                                "streamId": "615129114591895553",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "727369259168047108",
+                                "streamId": "615129114591895553",
+                                "type": 0,
+                                "flags": 8,
+                                "price": 0,
+                                "metadata": "{\"8\":\"{\\\"minAmount\\\":100}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T11:31:43Z"
+    }
+}

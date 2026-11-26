@@ -1,0 +1,97 @@
+{
+    "bio": "Just a cuddly gamer who bounces between like three games.",
+    "twitch": {
+        "id": "100230321",
+        "login": "commander_wolf_",
+        "displayName": "Commander_Wolf_",
+        "createdAt": "2015-08-22T13:48:00.809766Z",
+        "updatedAt": "2026-03-25T22:42:53.287784Z",
+        "description": "Just a cuddly gamer who bounces between like three games.",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 10
+        },
+        "follows": {
+            "totalCount": 147
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-20T03:16:49.017915Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/550399c0-9833-40b1-bf44-b54be2e96c3e-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T11:31:04Z"
+    },
+    "fansly": {
+        "id": "298734039110524928",
+        "username": "Commander_Wolf_",
+        "displayName": "Commander_Wolf_",
+        "version": 7,
+        "followCount": 1926,
+        "statusId": 1,
+        "accountMediaLikes": 3606,
+        "postLikes": 1402,
+        "about": "Hello I'm Commander Wolf, I post roughly every two weeks, everything's done in CVR or rendered.\n\nTaken by FuzzyNarwhal. My DMs are open for collabs and custom requests. \n\nNo Minors allowed, no exceptions or whining. You will be blocked.\n\nAnyone wanting other services will need to provide proof of age and adhere to the rules or you will be refused service regardless of payment.\n\nhttps://linktr.ee/Commander_Wolf_",
+        "location": "In your dreams",
+        "streaming": {
+            "accountId": "298734039110524928",
+            "channel": {
+                "id": "674124446683897856",
+                "accountId": "298734039110524928",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.yI9izYRVt1E4.m3u8",
+                "chatRoomId": "674124528997117954",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1722218152000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "674124446683897857",
+                    "historyId": "679200441187184640",
+                    "channelId": "674124446683897856",
+                    "accountId": "298734039110524928",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 552,
+                    "createdAt": 1722218153000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1723431950000,
+                    "startedAt": 1723428364000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "674124576761851906",
+                                "streamId": "674124446683897857",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T11:31:43Z"
+    },
+    "twitter": {
+        "commander_wolf_": {
+            "id": "3342238929",
+            "handle": "commander_wolf_",
+            "displayName": "Commander Wolf",
+            "description": "18+ account.\nAll content made is in Dragoonsville\nMain Avi made by @littlesoshii\nOpen to collabs/DMs\nTaken by @FuzzyNarwhalVR\nhttps://linktr.ee/Commander_Wolf_",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1980523669513187328/y30w44c2_400x400.jpg",
+            "followersCount": 1977,
+            "followingCount": 1008,
+            "postsCount": 9568,
+            "accountCreatedAt": "2015-06-23T03:03:23.000Z",
+            "profileUrl": "https://x.com/Commander_Wolf_",
+            "fetchedAt": "2026-11-26T11:31:54Z"
+        }
+    }
+}

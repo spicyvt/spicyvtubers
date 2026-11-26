@@ -1,0 +1,97 @@
+{
+    "bio": "good mornin’ 🧇",
+    "twitch": {
+        "id": "566255872",
+        "login": "jincinth",
+        "displayName": "jincinth",
+        "createdAt": "2020-08-12T19:35:16.850978Z",
+        "updatedAt": "2026-11-09T18:01:23.763638Z",
+        "description": "good mornin’ 🧇",
+        "primaryColorHex": "D288EF",
+        "followers": {
+            "totalCount": 483
+        },
+        "follows": {
+            "totalCount": 53
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2021-10-31T19:50:49.40423Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c74639b9-82d7-4ed0-9801-ae9bb3bba258-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T11:30:52Z"
+    },
+    "twitter": {
+        "jincinthvrc": {
+            "id": null,
+            "handle": "jincinthvrc",
+            "displayName": "Jin",
+            "description": "🔞MDNI🔞\nHigh on stardust 🍃\nLet me probe you 💙👽\n.𖥔 ݁ ˖🛸── .✦",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2104820416405483520/f0bUvHtM_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/jincinthvrc",
+            "fetchedAt": "2026-11-26T11:31:13Z"
+        }
+    },
+    "fansly": {
+        "id": "961072083855503362",
+        "username": "jincinth",
+        "displayName": "Jin ",
+        "version": 5,
+        "followCount": 593,
+        "statusId": 1,
+        "accountMediaLikes": 278,
+        "postLikes": 46,
+        "about": "hey hey im new here :3\ni'm just a lewd little alien from neptune 👽💙\ntrying to stream more ;-;",
+        "location": "",
+        "streaming": {
+            "accountId": "961072083855503362",
+            "channel": {
+                "id": "965789362497269760",
+                "accountId": "961072083855503362",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.IePAfac6y5IV.m3u8",
+                "chatRoomId": "965789718669185024",
+                "status": 2,
+                "version": 12,
+                "createdAt": 1791756487000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "965789362497269761",
+                    "historyId": "980691301705986048",
+                    "channelId": "965789362497269760",
+                    "accountId": "961072083855503362",
+                    "title": "alien goon slop",
+                    "status": 1,
+                    "viewerCount": 12,
+                    "version": 28,
+                    "createdAt": 1791756487000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795314739000,
+                    "startedAt": 1795309386000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "975237415071399936",
+                                "streamId": "965789362497269761",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T11:31:43Z"
+    }
+}

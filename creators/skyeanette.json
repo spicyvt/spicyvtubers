@@ -1,0 +1,101 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "573400749",
+        "login": "skyeanette",
+        "displayName": "SkyeAnette",
+        "createdAt": "2020-08-26T21:54:03.066655Z",
+        "updatedAt": "2022-05-06T15:20:47.130226Z",
+        "description": null,
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 4
+        },
+        "follows": {
+            "totalCount": 4
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/4b09aa44-8bec-435a-98fd-cd3d0c2a277a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T11:31:01Z"
+    },
+    "twitter": {
+        "skyeanette": {
+            "id": "1269417086301790208",
+            "handle": "skyeanette",
+            "displayName": "SkyeAnette 🔞【Moving to: skyeanette.bsky.social】",
+            "description": "🔞Follow me on Fansly & Bluesky: http://skyeanette.bsky.social | Chaturbate streams every Thu-Sun @ 6pm PST / 9pm EST",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1836013590031282176/akOaP8n4_400x400.jpg",
+            "followersCount": 12238,
+            "followingCount": 100,
+            "postsCount": 1304,
+            "accountCreatedAt": "2020-06-06T23:54:05.000Z",
+            "profileUrl": "https://x.com/SkyeAnette",
+            "fetchedAt": "2026-11-26T11:31:27Z"
+        }
+    },
+    "bluesky": {
+        "did": "did:plc:zyd76s4s5kdrghde7t6cavpo",
+        "handle": "skyeanette.bsky.social",
+        "displayName": "SkyeAnette",
+        "description": "",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zyd76s4s5kdrghde7t6cavpo/bafkreihwrbmgxsfnavdercv22cya5ic6ljjh7pga2ckqzsww73265y62qm",
+        "followersCount": 1168,
+        "followingCount": 1,
+        "postsCount": 108,
+        "accountCreatedAt": "2024-02-06T17:08:36.876Z",
+        "profileUrl": "https://bsky.app/profile/skyeanette.bsky.social",
+        "fetchedAt": "2026-11-26T11:31:41Z"
+    },
+    "fansly": {
+        "id": "372630482887651328",
+        "username": "SkyeAnette",
+        "displayName": null,
+        "version": 4,
+        "followCount": 13208,
+        "statusId": 1,
+        "accountMediaLikes": 12902,
+        "postLikes": 6709,
+        "about": "Hi I'm Skye! Your very own hentai cam girl from the future!\nFollow me on social media and find my streaming schedule at https://linktr.ee/SkyeAnette",
+        "location": "The future",
+        "streaming": {
+            "accountId": "372630482887651328",
+            "channel": {
+                "id": "373009415692890112",
+                "accountId": "372630482887651328",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.zvqm4VioSKAU.m3u8",
+                "chatRoomId": "603834333081378816",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1650426734000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "373009415692890113",
+                    "historyId": "980343997555826688",
+                    "channelId": "373009415692890112",
+                    "accountId": "372630482887651328",
+                    "title": "Let's Get Weird!",
+                    "status": 1,
+                    "viewerCount": 43,
+                    "version": 5242,
+                    "createdAt": 1650426735000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795233881000,
+                    "startedAt": 1795226582000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T11:31:43Z"
+    }
+}
