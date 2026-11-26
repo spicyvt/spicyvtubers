@@ -1,0 +1,97 @@
+{
+    "bio": "Just a God gamer that can't lose.",
+    "twitch": {
+        "id": "86099941",
+        "login": "crumbsdacat",
+        "displayName": "Crumbsdacat",
+        "createdAt": "2015-03-24T12:57:21.352554Z",
+        "updatedAt": "2026-11-06T20:44:29.15524Z",
+        "description": "Just a God gamer that can't lose.",
+        "primaryColorHex": "6E05CE",
+        "followers": {
+            "totalCount": 70
+        },
+        "follows": {
+            "totalCount": 188
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2022-08-05T16:30:21.781922Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d2b351b-207c-4e40-bd96-ac7e0129d44e-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T23:27:13Z"
+    },
+    "twitter": {
+        "crumbsdacat": {
+            "id": null,
+            "handle": "crumbsdacat",
+            "displayName": "crumbsdacat",
+            "description": "crumbsdacat  EVERYWHERE😾",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2026942495133753344/2HP9RSjS_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/crumbsdacat",
+            "fetchedAt": "2026-11-26T23:27:43Z"
+        }
+    },
+    "fansly": {
+        "id": "319221881041334272",
+        "username": "crumbsdacat",
+        "displayName": null,
+        "version": 4,
+        "followCount": 1103,
+        "statusId": 3,
+        "accountMediaLikes": 961,
+        "postLikes": 1721,
+        "about": "Just a Crumb, if you want to know more just ask c: \n\nhave a group of links :3 https://linktr.ee/crumbsthecat\nThrone link: https://throne.com/crumbsdacat\n\n\n\nWhat are you doing looking here >:3 there may be a secret :3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nboop\n\n             へ         ╱|\n        ૮  -   ՛ ) つ(>   < 7 \n         /   ⁻  ៸          、˜〵\n  乀 (ˍ,  ل            じしˍ,)ノ",
+        "location": "",
+        "streaming": {
+            "accountId": "319221881041334272",
+            "channel": {
+                "id": "727246984385142784",
+                "accountId": "319221881041334272",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.PUT3aeNplcqS.m3u8",
+                "chatRoomId": "727248427636760577",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1734883552000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "727246984385142785",
+                    "historyId": "927050100126015488",
+                    "channelId": "727246984385142784",
+                    "accountId": "319221881041334272",
+                    "title": "burning while grind isaac ",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 6133,
+                    "createdAt": 1734883552000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1782526408000,
+                    "startedAt": 1782520327000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "877940940315049984",
+                                "streamId": "727246984385142785",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T23:27:51Z"
+    }
+}

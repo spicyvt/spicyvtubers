@@ -1,0 +1,122 @@
+{
+    "bio": "Nyx, a very passionate and hopeless romantic Succubus. Coming to get you while you sleep! ;3",
+    "twitch": {
+        "id": "840925641",
+        "login": "passionyx",
+        "displayName": "PassioNyx",
+        "createdAt": "2022-10-26T19:25:29.971472Z",
+        "updatedAt": "2026-10-18T22:10:26.29964Z",
+        "description": "Nyx, a very passionate and hopeless romantic Succubus. Coming to get you while you sleep! ;3 ",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 14
+        },
+        "follows": {
+            "totalCount": 120
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0841e204-0d86-48db-b420-a80d53793af3-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T23:27:02Z"
+    },
+    "youtube": {
+        "id": "UCWHIym3DrxOPtFyLpYTzTNA",
+        "handle": "PassioNyx",
+        "title": "PassioNyx",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCWHIym3DrxOPtFyLpYTzTNA",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/2sDU6lQ94q9tL2V8yfa_imLTB4a8WBovtywPFiHQEu3dgA_J6JM70w-ogRBY-LDRP-6Q5QlLPw0=h300",
+        "subscriberCountText": "52 subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-26T23:27:03Z"
+    },
+    "twitter": {
+        "passionyxvt": {
+            "id": null,
+            "handle": "passionyxvt",
+            "displayName": "PassioNyxVT❤️‍🔥🌹😈",
+            "description": "❤️‍🔥Passionate and Hopeless Romantic Succubus🌹Monster Lover 😈 ASMRist❤️‍🔥",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1794805106317103104/gXbnxdnc_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/PassioNyxVT",
+            "fetchedAt": "2026-11-26T23:27:30Z"
+        },
+        "passionyxlewd": {
+            "id": null,
+            "handle": "passionyxlewd",
+            "displayName": "🔞❤️‍🔥PassioNyx❤️‍🔥🔞",
+            "description": "🔞NSFW🔞❤️‍🔥PASSIONATE SUCCUBUS🔥HOPELESS ROMANTIC🔥LEWDTUBER🔥HENTAI ASMRist❤️‍🔥",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1923498121641836544/jv-rSxlN_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/PassioNyxLewd",
+            "fetchedAt": "2026-11-26T23:27:32Z"
+        }
+    },
+    "fansly": {
+        "id": "688183597928030212",
+        "username": "PassioNyxVT",
+        "displayName": "PassioNyx",
+        "version": 4,
+        "followCount": 8129,
+        "statusId": 3,
+        "accountMediaLikes": 2078,
+        "postLikes": 1123,
+        "about": "Your passionate succubus, craving your love and cum.\n\n+Hentai Lewdtuber\n+ASMRtist\n\nWhat you'll find here:\n+Live Streams\n+VODS and Clips\n+ASMR\n+Audios\n+Roleplay Videos\n\nCheck out my socials!\n\n+Twitter(X): https://x.com/PassioNyxLewd\n+Discord: https://discord.gg/6fX7f9fvhK\n+Throne Wishlist: https://throne.com/passionyx\n+Youtube: https://youtube.com/@PassioNyx",
+        "location": "",
+        "streaming": {
+            "accountId": "688183597928030212",
+            "channel": {
+                "id": "776254323163144288",
+                "accountId": "688183597928030212",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NLFEkkhGrneB.m3u8",
+                "chatRoomId": "776255575825592320",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1746567812000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "776254323163144289",
+                    "historyId": "981426622353657856",
+                    "channelId": "776254323163144288",
+                    "accountId": "688183597928030212",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 19,
+                    "version": 5911,
+                    "createdAt": 1746567813000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795498225000,
+                    "startedAt": 1795484700000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "780217228690731008",
+                                "streamId": "776254323163144289",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T23:27:51Z"
+    }
+}

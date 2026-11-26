@@ -1,0 +1,114 @@
+{
+    "bio": "Hello, I'm Nixi from the EU.I mainly stream VRChat, and sometimes VTuber while playing other games. \"Sometimes it takes a real man to be the best girl.\"",
+    "twitch": {
+        "id": "1147140841",
+        "login": "nixisharlen",
+        "displayName": "nixisharlen",
+        "createdAt": "2024-09-20T10:55:30.691172Z",
+        "updatedAt": "2026-11-26T03:37:49.202748Z",
+        "description": "Hello, I'm Nixi from the EU.I mainly stream VRChat, and sometimes VTuber while playing other games. \"Sometimes it takes a real man to be the best girl.\"",
+        "primaryColorHex": "1345AA",
+        "followers": {
+            "totalCount": 1303
+        },
+        "follows": {
+            "totalCount": 108
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-25T08:39:11.244826Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f741f94-811f-464e-87fe-7ed93adf5d53-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T23:26:59Z"
+    },
+    "kick": {
+        "id": 67259873,
+        "userId": 68419982,
+        "slug": "nixi-vrc",
+        "username": "Nixi_vrc",
+        "bio": "Hey~ i play in vrchat and other games. \nI like teasing and keeping things playful… sometimes it gets a little more than that. if u enjoy the vibe and wanna collab or chill just message me 💙 18+ only",
+        "profileImageUrl": "https://files.kick.com/images/user/68419982/profile_image/conversion/3f78ec59-78db-477f-9aea-68e31823ca3f-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/67259873/banner_image/default-banner-1.jpg",
+        "followersCount": 1232,
+        "verified": false,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "NixiSharlen",
+            "tiktok": "nixisharlen"
+        },
+        "fetchedAt": "2026-11-26T23:27:00Z"
+    },
+    "twitter": {
+        "nixisharlen": {
+            "id": null,
+            "handle": "nixisharlen",
+            "displayName": "Nixi",
+            "description": "💙 VRC | FFXIV | Gamer | Anime | Manga | EU\n💙 Collabs Open ≽^•⩊•^≼\n💙 https://t.co/CW0YYxW8K5\n💙 18+ ONLY",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2087531681393618944/_NzOoWB9_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/NixiSharlen",
+            "fetchedAt": "2026-11-26T23:27:29Z"
+        }
+    },
+    "fansly": {
+        "id": "751230295843282944",
+        "username": "NixiSharlen",
+        "displayName": "NixiSharlen",
+        "version": 6,
+        "followCount": 6830,
+        "statusId": 1,
+        "accountMediaLikes": 5401,
+        "postLikes": 5006,
+        "about": "Hey~ i like teasing and playing around in vrchat and other games. cute avatars, flirty vibes… sometimes it goes further than u might expect. if u like that kinda energy and wanna hang or collab just message me <3\n\n💙 https://discord.gg/tDvtzNTyAd\n",
+        "location": "Your Bed ;3",
+        "streaming": {
+            "accountId": "751230295843282944",
+            "channel": {
+                "id": "753145141379735552",
+                "accountId": "751230295843282944",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.UXSt8bfBK712.m3u8",
+                "chatRoomId": "753145677642477568",
+                "status": 2,
+                "version": 17,
+                "createdAt": 1741058154000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "753145141379735553",
+                    "historyId": "976715552976297984",
+                    "channelId": "753145141379735552",
+                    "accountId": "751230295843282944",
+                    "title": "Hi cuties⭐️ !discord ⭐️ !soc",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 7037,
+                    "createdAt": 1741058154000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794362189000,
+                    "startedAt": 1794361494000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "792066388867952640",
+                                "streamId": "753145141379735553",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T23:27:51Z"
+    }
+}

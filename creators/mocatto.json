@@ -1,0 +1,88 @@
+{
+    "bio": "Coffee bean kitty ☕🐾Vtuber",
+    "twitch": {
+        "id": "1612633781",
+        "login": "mocatto",
+        "displayName": "mocatto",
+        "createdAt": "2026-11-21T17:58:37.683978Z",
+        "updatedAt": "2026-11-21T18:01:07.201244Z",
+        "description": "Coffee bean kitty ☕🐾Vtuber",
+        "primaryColorHex": "FFBA80",
+        "followers": {
+            "totalCount": 0
+        },
+        "follows": {
+            "totalCount": 0
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdbf9919-4d52-49ac-b332-5673222fabfc-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T23:26:49Z"
+    },
+    "twitter": {
+        "mocattomeow": {
+            "id": null,
+            "handle": "mocattomeow",
+            "displayName": "Moca ☕Vtuber",
+            "description": "Bratty Coffee bean kitty ☕🐾\n\nSpicy kitty ↓",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2124185437811933184/YyjGtQQK_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/mocattomeow",
+            "fetchedAt": "2026-11-26T23:27:23Z"
+        }
+    },
+    "fansly": {
+        "id": "822337560666718208",
+        "username": "Mocatto",
+        "displayName": "Moca ☕🐾",
+        "version": 4,
+        "followCount": 144,
+        "statusId": 1,
+        "accountMediaLikes": 63,
+        "postLikes": 13,
+        "about": "Coffee bean kitty ☕🐾 Spoil your bratty kitty https://throne.com/mocatto\n\nI mostly stream very lewd gaming and chatting ~ I reply to all messages! Subbies get priority\n\nOther things u can find here: \n🐾 NSFW Audios & Soft Moan ASMR\n🐾 Sexy art\n🐾 Solo play\n🐾 Findom\n\nAll content is mine. Reposting is strictly prohibited and will result in legal action. ",
+        "location": "",
+        "streaming": {
+            "accountId": "822337560666718208",
+            "channel": {
+                "id": "947675025723367424",
+                "accountId": "822337560666718208",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.I4pO5rpNR7CH.m3u8",
+                "chatRoomId": "947675039224844288",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1787437693000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "947675025723367425",
+                    "historyId": "982315336080564224",
+                    "channelId": "947675025723367424",
+                    "accountId": "822337560666718208",
+                    "title": "Meow ~ Come play with me 🤍",
+                    "status": 1,
+                    "viewerCount": 6,
+                    "version": 24,
+                    "createdAt": 1787437693000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795701845000,
+                    "startedAt": 1795696586000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T23:27:51Z"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "bio": "Come and watch as I play through games of my interest! -",
+    "twitch": {
+        "id": "253349709",
+        "login": "hazzulicious",
+        "displayName": "Hazzulicious",
+        "createdAt": "2018-08-30T09:04:27.426024Z",
+        "updatedAt": "2026-09-15T13:49:48.532937Z",
+        "description": "Come and watch as I play through games of my interest! - ",
+        "primaryColorHex": "BD133C",
+        "followers": {
+            "totalCount": 479
+        },
+        "follows": {
+            "totalCount": 76
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-30T05:06:45.05349Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1ec76c7-c48b-4918-bd16-69c1237f54cb-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T23:26:56Z"
+    },
+    "kick": {
+        "id": 8720698,
+        "userId": 9475126,
+        "slug": "hazzulicious",
+        "username": "Hazzulicious",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/9475126/profile_image/conversion/0d5cc7f1-f61f-4b85-836b-e9f84e870032-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/8720698/banner_image/723f53d0-f0f7-48c2-9630-f21698358c06",
+        "followersCount": 55,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "HazzusHazzy",
+            "discord": "pdQNCnRDeQ"
+        },
+        "fetchedAt": "2026-11-26T23:26:58Z"
+    },
+    "twitter": {
+        "hazzulicious": {
+            "id": null,
+            "handle": "hazzulicious",
+            "displayName": "💞 Hazzulicious | ヘイズリシャス 💞",
+            "description": "💞 I&#x27;m Hazzu! An Insectoid #VTuber \n\nLinks to Twitch, Discord and NSFW Content in the linktree below~",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1634718727424835584/yPL7sDzR_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Hazzulicious",
+            "fetchedAt": "2026-11-26T23:27:27Z"
+        }
+    },
+    "fansly": {
+        "id": "327990300242878464",
+        "username": "hazzulicious",
+        "displayName": "Hazzulicious",
+        "version": 8,
+        "followCount": 6010,
+        "statusId": 1,
+        "accountMediaLikes": 5561,
+        "postLikes": 2675,
+        "about": "Welcome to my fansly page darling!~\nStream notifications usually sent out via mass DM and twitter\nCurrent stream days are all week\nIf you want to collab, feel free to dm!",
+        "location": "VR",
+        "streaming": {
+            "accountId": "327990300242878464",
+            "channel": {
+                "id": "619254706358722560",
+                "accountId": "327990300242878464",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.UDYiAQVWQxgX.m3u8",
+                "chatRoomId": "619254750814154752",
+                "status": 2,
+                "version": 67,
+                "createdAt": 1709136187000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "619254706358722561",
+                    "historyId": "979558188909096961",
+                    "channelId": "619254706358722560",
+                    "accountId": "327990300242878464",
+                    "title": "Returning with Hazzu~",
+                    "status": 1,
+                    "viewerCount": 33,
+                    "version": 5996,
+                    "createdAt": 1709136187000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795045709000,
+                    "startedAt": 1795039231000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T23:27:51Z"
+    }
+}

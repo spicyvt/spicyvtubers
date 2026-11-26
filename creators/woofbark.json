@@ -1,0 +1,88 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "1489273031",
+        "login": "woofybark",
+        "displayName": "woofybark",
+        "createdAt": "2026-04-27T20:57:19.153653Z",
+        "updatedAt": "2026-10-16T19:54:13.206443Z",
+        "description": null,
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 12
+        },
+        "follows": {
+            "totalCount": 30
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-04T00:38:23.577299Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/072ac2cc-39b6-4c56-b836-8a58975d15ef-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T23:26:51Z"
+    },
+    "twitter": {
+        "woofbarkies": {
+            "id": null,
+            "handle": "woofbarkies",
+            "displayName": "woofbark",
+            "description": "I&#x27;m a woof! I am dog, wolf, puppy I am a woof!\n+18 only\nCollabs open!\ncheck out my links for more of my content",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2044925166350716928/CURpbCWJ_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/woofbarkies",
+            "fetchedAt": "2026-11-26T23:27:24Z"
+        }
+    },
+    "fansly": {
+        "id": "596272232829820928",
+        "username": "woofbark",
+        "displayName": "woofbark",
+        "version": 16,
+        "followCount": 966,
+        "statusId": 3,
+        "accountMediaLikes": 999,
+        "postLikes": 331,
+        "about": "BOW WOW! Hi hi I'm woofbark! I'll be your needy gooner gamer girl for as long as you can handle!\n\nWhen I stream I love to yap about nerdy stuff while cumming my brains out. If that sounds like something you would enjoy DROP BY!!!\n\nOpen to DM just make sure you don't go too far (DONT SEND ME A DICK PIC! [at least not without paying ofc])\n\nguns.lol/woofybarker",
+        "location": "",
+        "streaming": {
+            "accountId": "596272232829820928",
+            "channel": {
+                "id": "871607580630204416",
+                "accountId": "596272232829820928",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.avgktIySp9yC.m3u8",
+                "chatRoomId": "871608281213181952",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1769301800000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "871607580630204417",
+                    "historyId": "968791580339101696",
+                    "channelId": "871607580630204416",
+                    "accountId": "596272232829820928",
+                    "title": "QUICK STREAM! $1 = 1 Spank!",
+                    "status": 1,
+                    "viewerCount": 18,
+                    "version": 14,
+                    "createdAt": 1769301801000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1792478048000,
+                    "startedAt": 1792472272000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T23:27:51Z"
+    }
+}
