@@ -1,0 +1,72 @@
+{
+    "twitter": {
+        "lily_7_vr": {
+            "id": "1919847081881305090",
+            "handle": "lily_7_vr",
+            "displayName": "♡ LilyVR ♡",
+            "description": "Big tiddies and futa stuff ☺️ | Feel free to look through my profile, maybe you'll like it ❤️❤️| The link takes you to my main site (fansly) ⬇️",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2121041307820855297/4xKh_53-_400x400.jpg",
+            "followersCount": 6581,
+            "followingCount": 164,
+            "postsCount": 741,
+            "accountCreatedAt": "2025-05-06T20:09:54.000Z",
+            "profileUrl": "https://x.com/Lily_7_VR",
+            "fetchedAt": "2026-11-26T10:48:49Z"
+        }
+    },
+    "fansly": {
+        "id": "777904142663294976",
+        "username": "VRLily",
+        "displayName": "♡ Lily ♡",
+        "version": 9,
+        "followCount": 9064,
+        "statusId": 3,
+        "accountMediaLikes": 17449,
+        "postLikes": 8557,
+        "about": "Big tiddies and futa stuff ☺️\n\nFeel free to look through my profile, maybe you'll like it ❤️❤️\n\nStream times are random because i can't keep a consistent time for those",
+        "location": "",
+        "streaming": {
+            "accountId": "777904142663294976",
+            "channel": {
+                "id": "788926327716585472",
+                "accountId": "777904142663294976",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.5Oz42hprTlNy.m3u8",
+                "chatRoomId": "792524832192339968",
+                "status": 2,
+                "version": 48,
+                "createdAt": 1749589054000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "788926327716585473",
+                    "historyId": "980284002273357826",
+                    "channelId": "788926327716585472",
+                    "accountId": "777904142663294976",
+                    "title": "mute stream",
+                    "status": 1,
+                    "viewerCount": 31,
+                    "version": 278,
+                    "createdAt": 1749589054000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795215930000,
+                    "startedAt": 1795212278000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "948395791750291456",
+                                "streamId": "788926327716585473",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T10:49:01Z"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "bio": "Hihi, you probably know me from Twitter! I will be doing dancing, workout and idle chat streams. You don't want to miss it. 💚",
+    "twitch": {
+        "id": "550327704",
+        "login": "yukiponvr",
+        "displayName": "YukiponVR",
+        "createdAt": "2020-07-02T16:07:33.019565Z",
+        "updatedAt": "2026-11-23T18:27:41.459876Z",
+        "description": "Hihi, you probably know me from Twitter! I will be doing dancing, workout and idle chat streams. You don't want to miss it. 💚",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 64
+        },
+        "follows": {
+            "totalCount": 73
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-04T16:10:45.08501Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/718af728-96e5-485c-947d-f2a7e8c6b0cb-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T10:47:50Z"
+    },
+    "twitter": {
+        "yukiponvr": {
+            "id": "1952429806303191040",
+            "handle": "yukiponvr",
+            "displayName": "Yukipon 💚",
+            "description": "| EN/JP \n| Models kitbashed by me\n| https://linktr.ee/YukiponVR\n| Business: yukiponvr@gmail.com",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2079723732096925696/Kc15Zv16_400x400.jpg",
+            "followersCount": 11524,
+            "followingCount": 383,
+            "postsCount": 145,
+            "accountCreatedAt": "2025-08-04T18:02:00.000Z",
+            "profileUrl": "https://x.com/YukiponVR",
+            "fetchedAt": "2026-11-26T10:48:18Z"
+        },
+        "yukipontoo": {
+            "id": null,
+            "handle": "yukipontoo",
+            "displayName": "Yukipon 💚2️⃣",
+            "description": "| Actually very wholesome\n| Main: @yukiponvr\n| Models kitbashed by me",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2094864717844033536/qvdQd3L0_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/yukipontoo",
+            "fetchedAt": "2026-11-26T10:48:20Z"
+        }
+    },
+    "fansly": {
+        "id": "946438597194563584",
+        "username": "YukiponVR",
+        "displayName": "Yukipon  💚",
+        "version": 17,
+        "followCount": 2161,
+        "statusId": 1,
+        "accountMediaLikes": 3051,
+        "postLikes": 752,
+        "about": "💙💚❤️ High quality 3D models having some lewd fun together! ❤️💚💙\nModels are designed and kitbashed by me\n\nStart: 1st September 2026\n\n✨ Character Introduction:\n🪽 Lumi Weiss 🩵 Shy, timid angel with thick thighs.\n🌿 Shizuku Yanagi 💚 Assertive and a little sadistic Elf with massive tits.\n🦦 Miruku Kawa ❤️ Lazy Otter girl with a way too erotic plump body.\n... More to come! 🔜\nWatch as I pose, smile, tease, fuck, get fucked and all around just have a good time 😊\n\nBusiness: yukiponvr@gmail.com\n\n–×–×–×–×–×–×–×–×–×–×–×–×–×–×–×–×–×–×–\nAngel base: \"Mayo\" by Chocolate rice | Face Tracking: Hashedits\nElf base: \"Milltina\" by DOLOS | Face Tracking: MrSauce\nOtter base: \"Kumaly\" by JINGO | Face Tracking: MrSauce\n–×–×–×–×–×–×–×–×–×–×–×–×–×–×–×–×–×–×–\nContent made in Blender & Unity",
+        "location": "",
+        "streaming": {
+            "accountId": "946438597194563584",
+            "channel": {
+                "id": "951500807168073729",
+                "accountId": "946438597194563584",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.3MoNM2xlx63j.m3u8",
+                "chatRoomId": "951501322610286592",
+                "status": 2,
+                "version": 13,
+                "createdAt": 1788349830000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "951500807168073730",
+                    "historyId": "981958435346075648",
+                    "channelId": "951500807168073729",
+                    "accountId": "946438597194563584",
+                    "title": "New model! 🩷 Say hi!",
+                    "status": 1,
+                    "viewerCount": 108,
+                    "version": 22,
+                    "createdAt": 1788349830000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795623029000,
+                    "startedAt": 1795611494000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T10:49:01Z"
+    }
+}

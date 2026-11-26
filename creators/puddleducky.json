@@ -1,0 +1,63 @@
+{
+    "twitter": {
+        "puddie_ducky": {
+            "id": null,
+            "handle": "puddie_ducky",
+            "displayName": "PuddleDucky",
+            "description": "A lewd vrchat content creator~ want more content? follow my links https://t.co/7dRgZhhnex",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2097238427586453504/Vkn23wx__400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/PuddIe_Ducky",
+            "fetchedAt": "2026-11-26T10:48:36Z"
+        }
+    },
+    "fansly": {
+        "id": "617641465048211456",
+        "username": "Puddle-Ducky",
+        "displayName": "PuddleDucky",
+        "version": 35,
+        "followCount": 7336,
+        "statusId": 1,
+        "accountMediaLikes": 19417,
+        "postLikes": 11203,
+        "about": "Its ducky time!!!~ \n\nWelcome to my pond my little ducklings~ \nI am your favorite mother goose~ \nThe best taboo creator out there\n24-GenderFluid-Bisexual\nCollabs ALWAYS open!! \n\n!! 𝓛𝓘𝓝𝓚𝓢 !!\nX: https://x.com/PoolPup_EXE\nReddit: https://www.reddit.com/user/PoolPup_Exe/\nThrone: https://throne.com/poolpup_exe \nDiscord Server: https://discord.gg/5and64sMqT \nLinktree: https://linktr.ee/PoolPup.EXE",
+        "location": "",
+        "streaming": {
+            "accountId": "617641465048211456",
+            "channel": {
+                "id": "708856884488056832",
+                "accountId": "617641465048211456",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.jfQ4aLWBB5Os.m3u8",
+                "chatRoomId": "708861195150438401",
+                "status": 2,
+                "version": 20,
+                "createdAt": 1730499011000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "708856884488056833",
+                    "historyId": "960037041444233216",
+                    "channelId": "708856884488056832",
+                    "accountId": "617641465048211456",
+                    "title": "were so back! come vibe w puppy! ",
+                    "status": 1,
+                    "viewerCount": 23,
+                    "version": 1557,
+                    "createdAt": 1730499011000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1790388305000,
+                    "startedAt": 1790385027000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T10:49:01Z"
+    }
+}

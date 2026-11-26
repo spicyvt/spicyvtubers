@@ -1,0 +1,110 @@
+{
+    "bio": "Hello I'm Ezzie~ an i like to play VRC an hangout with friends an meet all sorts of new people an i love to dj",
+    "twitch": {
+        "id": "98379576",
+        "login": "ezzie_bunnie",
+        "displayName": "Ezzie_Bunnie",
+        "createdAt": "2015-08-05T23:58:13.749044Z",
+        "updatedAt": "2026-10-20T22:45:04.577456Z",
+        "description": "Hello I'm Ezzie~ an i like to play VRC an hangout with friends an meet all sorts of new people an i love to dj ",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 26
+        },
+        "follows": {
+            "totalCount": 388
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-01-05T22:11:25.945658Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/13ae188e-08f1-44e1-99d7-e30fc8c7e3e6-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T10:48:16Z"
+    },
+    "twitter": {
+        "ezzie_bunnie": {
+            "id": null,
+            "handle": "ezzie_bunnie",
+            "displayName": "Ezzie🔞",
+            "description": "Hi I&#x27;m Ezzie~, Im 30 now 🥺, (he/him) an i love djing at clubs \nYou can check out my socials here: https://t.co/ND60oNWwY0 18+ only account 🔞",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1553547977372876801/U7TWAvxl_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Ezzie_Bunnie",
+            "fetchedAt": "2026-11-26T10:48:51Z"
+        },
+        "ezziebunniesfw": {
+            "id": null,
+            "handle": "ezziebunniesfw",
+            "displayName": "EzzieBunnieSFW",
+            "description": "Welcome to my Sfw acc, My Main is @Ezzie_Bunnie feel free to follow me there to  He|Him 29, Owner of The White Rabbit 🐇",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1982483926607142912/RG1LSna2_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/EzzieBunnieSFW",
+            "fetchedAt": "2026-11-26T10:48:52Z"
+        }
+    },
+    "fansly": {
+        "id": "295599852362932224",
+        "username": "Ezzie",
+        "displayName": "Ezzie",
+        "version": 11,
+        "followCount": 7865,
+        "statusId": 3,
+        "accountMediaLikes": 2343,
+        "postLikes": 3792,
+        "about": "Hey, I'm Ezzie (he/him) an imma very lewd, Im a giant switch an i love music. \n\nImma Co-Leader at Zenith / Mod for Crimson Moon\nDj for Crimson Moon/Zenith \nFormerly for Monstrum Inn / Violet Rose\n\nCome to some of the events i host as well!\n\nM/29 and inna taken relationship (open)\nFeel free to contact me for collabs!\nSexual preference none, Im jus looking to have lots of lewd fun!\n\nIF you wanna find my other socials an Throne check out my linktree: https://linktr.ee/ezzie_bunnie ",
+        "location": "",
+        "streaming": {
+            "accountId": "295599852362932224",
+            "channel": {
+                "id": "485641819200167938",
+                "accountId": "295599852362932224",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.lTH3LAnzhoWy.m3u8",
+                "chatRoomId": "496655454022152192",
+                "status": 2,
+                "version": 66,
+                "createdAt": 1677280392000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "485641819200167939",
+                    "historyId": "975254587906740224",
+                    "channelId": "485641819200167938",
+                    "accountId": "295599852362932224",
+                    "title": "Horny maid at your service~ w/ @NyaNekoyakiVR",
+                    "status": 1,
+                    "viewerCount": 34,
+                    "version": 3987,
+                    "createdAt": 1677280392000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794020962000,
+                    "startedAt": 1794013173000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "921659891616067584",
+                                "streamId": "485641819200167939",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T10:49:01Z"
+    }
+}

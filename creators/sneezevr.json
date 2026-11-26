@@ -1,0 +1,144 @@
+{
+    "bio": "Just your friendly neighborhood neko, doing VR stuff.",
+    "twitch": {
+        "id": "30311512",
+        "login": "5neeze",
+        "displayName": "5neeze",
+        "createdAt": "2012-05-06T01:45:35.432291Z",
+        "updatedAt": "2026-11-19T22:40:07.180261Z",
+        "description": "Just your friendly neighborhood neko, doing VR stuff. ",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 2868
+        },
+        "follows": {
+            "totalCount": 59
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-03-16T02:23:57.667399Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/25cca352-bc2d-480f-976a-b49de136a58c-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T10:47:57Z"
+    },
+    "youtube": {
+        "id": "UC31e_TgwV92c5JVKOpG4WyA",
+        "handle": "5neeze",
+        "title": "5neeze",
+        "description": "Just your friendly neighborhood neko, doing VR stuff. \n\nCheck out my socials bellow!\n",
+        "channelUrl": "https://www.youtube.com/channel/UC31e_TgwV92c5JVKOpG4WyA",
+        "keywords": "5neeze vtuber short shorts vr vrchat vrchatmoments vrchatfunny virtualreality twitch",
+        "profileImageUrl": "https://yt3.googleusercontent.com/81jtZJrtYWnhDQaO-jsUy1Cfsu-GZ-77jO6eKAVHGR9OQ3GRnIsQ1tmQqpgjXfbiLyZtC0ZJbw=h300",
+        "subscriberCountText": "312 subscribers",
+        "videoCountText": "41 videos",
+        "fetchedAt": "2026-11-26T10:47:58Z"
+    },
+    "kick": {
+        "id": 3585456,
+        "userId": 3658339,
+        "slug": "5neeze",
+        "username": "5neeze",
+        "bio": "Just Sneeze doing Sneeze things.",
+        "profileImageUrl": "https://files.kick.com/images/user/3658339/profile_image/conversion/e050f0fe-2a32-427e-aae7-24e1cc60ae31-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/3585456/banner_image/933504cc-1c16-4ac8-b3c5-c3e73c086e01",
+        "followersCount": 3494,
+        "verified": true,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "5neeze_vr",
+            "youtube": "@5neeze",
+            "discord": "w83ZekzrMb"
+        },
+        "fetchedAt": "2026-11-26T10:47:59Z"
+    },
+    "twitter": {
+        "5neeze_vr": {
+            "id": null,
+            "handle": "5neeze_vr",
+            "displayName": "Sneeze",
+            "description": "Posting lots of pics and gifs! Check out my other stuff too!\n\n18+",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1835802542623604736/oYU5SZND_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/5neeze_vr",
+            "fetchedAt": "2026-11-26T10:48:27Z"
+        },
+        "5neezealerts": {
+            "id": "1557486077811867649",
+            "handle": "5neezealerts",
+            "displayName": "5neeze",
+            "description": "Posting updates and alerts about my streams and other socials here. Check out my links for the good stuff! :3\n\n18+",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1760081305474301952/_Znx4Rvo_400x400.jpg",
+            "followersCount": 4980,
+            "followingCount": 81,
+            "postsCount": 1143,
+            "accountCreatedAt": "2022-08-10T21:56:45.000Z",
+            "profileUrl": "https://x.com/5neezeAlerts",
+            "fetchedAt": "2026-11-26T10:48:29Z"
+        },
+        "lewdsneeze": {
+            "id": "1216171906983964672",
+            "handle": "lewdsneeze",
+            "displayName": "Sneeze🔞",
+            "description": "Posting lewd stuff! Check out my links bellow!\n\n💦💦: https://fansly.com/SneezeVR?r=SneezeVR\n\n18+ Only!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1760080455003725825/ZvPHl1hx_400x400.jpg",
+            "followersCount": 7529,
+            "followingCount": 284,
+            "postsCount": 2931,
+            "accountCreatedAt": "2020-01-12T01:36:01.000Z",
+            "profileUrl": "https://x.com/LewdSneeze",
+            "fetchedAt": "2026-11-26T10:48:31Z"
+        }
+    },
+    "fansly": {
+        "id": "447440475264131072",
+        "username": "SneezeVR",
+        "displayName": "SneezeVR",
+        "version": 7,
+        "followCount": 9276,
+        "statusId": 1,
+        "accountMediaLikes": 15465,
+        "postLikes": 10160,
+        "about": "Just your friendly neighborhood neko, engaging in some mildly lewd and mischievous activities. :3\nCum, enjoy your stay!",
+        "location": "Under your bed :3",
+        "streaming": {
+            "accountId": "447440475264131072",
+            "channel": {
+                "id": "599482105478520833",
+                "accountId": "447440475264131072",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.q1Zack3LGnr2.m3u8",
+                "chatRoomId": "599482256171474944",
+                "status": 2,
+                "version": 148,
+                "createdAt": 1704422031000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "599482105478520834",
+                    "historyId": "981400978815197184",
+                    "channelId": "599482105478520833",
+                    "accountId": "447440475264131072",
+                    "title": "Spicy stream! Come have some fun! | !menu !socials !lovense",
+                    "status": 1,
+                    "viewerCount": 49,
+                    "version": 6827,
+                    "createdAt": 1704422032000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795485680000,
+                    "startedAt": 1795478586000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T10:49:01Z"
+    }
+}

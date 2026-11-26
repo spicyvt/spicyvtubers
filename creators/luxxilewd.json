@@ -1,0 +1,100 @@
+{
+    "bio": "💜 3D Content Creator 💜 https://throne.com/luxxilewd",
+    "twitch": {
+        "id": "1464625360",
+        "login": "luxxilewd",
+        "displayName": "LuxxiLewd",
+        "createdAt": "2026-03-21T20:56:51.844812Z",
+        "updatedAt": "2026-03-28T09:43:58.964589Z",
+        "description": "💜 3D Content Creator 💜 https://throne.com/luxxilewd",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 13
+        },
+        "follows": {
+            "totalCount": 0
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67f8b8b5-aecc-4b4c-a190-4d3d9479b249-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T10:48:06Z"
+    },
+    "youtube": {
+        "id": "UCeCJ2_6oFtBeE_5rYKHgbSQ",
+        "handle": "LuxxiLewd",
+        "title": "LuxxiLewd",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCeCJ2_6oFtBeE_5rYKHgbSQ",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/76Kf6lL8gRCIAyaZ_W4gWCO3V-tc9FXcVJJK_1y_DAsi9Phcnbq0zINRbt5tIE4HWVR_JTv1cP4=h300",
+        "subscriberCountText": "24 subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-26T10:48:07Z"
+    },
+    "twitter": {
+        "luxxilewd": {
+            "id": null,
+            "handle": "luxxilewd",
+            "displayName": "LuxxiLewd",
+            "description": "https://t.co/xQbFmpGOrI\nhttps://t.co/D1xgE8Jy49\n\nAll my links: https://t.co/NPN8KvomP5\n\nAm a Hentai 3D Creator",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2072984809274494976/aimIlOsx_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/LuxxiLewd",
+            "fetchedAt": "2026-11-26T10:48:39Z"
+        }
+    },
+    "fansly": {
+        "id": "549203807066664960",
+        "username": "LuxxiLewd",
+        "displayName": "LuxxiLewd",
+        "version": 45,
+        "followCount": 12776,
+        "statusId": 3,
+        "accountMediaLikes": 14687,
+        "postLikes": 12072,
+        "about": "💜 3D Hentai Content Creator 💜\n➡️ Links: linktr.ee/luxxilewd\n➡️ Throne: throne.com/luxxilewd",
+        "location": "The Moon",
+        "streaming": {
+            "accountId": "549203807066664960",
+            "channel": {
+                "id": "565196155055517696",
+                "accountId": "549203807066664960",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.84ioSrVA8Z6y.m3u8",
+                "chatRoomId": "566633682840858629",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1696247624000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "565196155055517697",
+                    "historyId": "833472043868504064",
+                    "channelId": "565196155055517696",
+                    "accountId": "549203807066664960",
+                    "title": "LuxxiLunar Livestream today!",
+                    "status": 1,
+                    "viewerCount": 44,
+                    "version": 3097,
+                    "createdAt": 1696247624000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1760214372000,
+                    "startedAt": 1760209580000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T10:49:01Z"
+    }
+}
