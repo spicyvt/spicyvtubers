@@ -1,0 +1,88 @@
+{
+    "bio": "@MotherVRC on X",
+    "twitch": {
+        "id": "1386781940",
+        "login": "mothervrc",
+        "displayName": "MotherVRC",
+        "createdAt": "2025-10-31T03:33:12.329421Z",
+        "updatedAt": "2025-11-26T00:43:11.174552Z",
+        "description": "@MotherVRC on X",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 4
+        },
+        "follows": {
+            "totalCount": 4
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/97e9c657-109d-426a-a165-c10948652ece-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T12:45:28Z"
+    },
+    "twitter": {
+        "mothervrc": {
+            "id": null,
+            "handle": "mothervrc",
+            "displayName": "Mother 🔞🎙️ VA &amp; Artist",
+            "description": "she/her | 🕸️ unemployed cl*ck sucka\n3D: @AlyariVR | Banner: @JenniferRDarts | ART🎨 ; #DrawMother\n I post everyday here ↓",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2124205208129454080/YxXWbI3y_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/MotherVRC",
+            "fetchedAt": "2026-11-26T12:45:39Z"
+        }
+    },
+    "fansly": {
+        "id": "928174678902587392",
+        "username": "MotherVRC",
+        "displayName": "Mother 🐾",
+        "version": 35,
+        "followCount": 2648,
+        "statusId": 3,
+        "accountMediaLikes": 3937,
+        "postLikes": 2454,
+        "about": "—   ur fav trans bimbo 💕\n          🔗 https://x.com/MotherVRC  <-- follow for free subs\n    ↓ 3D sfm, streams, clips, spicy content + more ↓",
+        "location": "",
+        "streaming": {
+            "accountId": "928174678902587392",
+            "channel": {
+                "id": "938542628364898304",
+                "accountId": "928174678902587392",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.OeRU4x3lKk9n.m3u8",
+                "chatRoomId": "938546641584025600",
+                "status": 2,
+                "version": 125,
+                "createdAt": 1785260359000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "938542628364898305",
+                    "historyId": "964862939095900166",
+                    "channelId": "938542628364898304",
+                    "accountId": "928174678902587392",
+                    "title": "🐾 buzz me infront of my friends *psst no one knows* 🐾 !menu ❤️",
+                    "status": 1,
+                    "viewerCount": 3,
+                    "version": 206,
+                    "createdAt": 1785260360000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795626293000,
+                    "startedAt": 1791535611000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T12:45:57Z"
+    }
+}

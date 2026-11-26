@@ -1,0 +1,85 @@
+{
+    "twitter": {
+        "mint_tease": {
+            "id": null,
+            "handle": "mint_tease",
+            "displayName": "Mint Tease",
+            "description": "💙 Your local blue oni girl of wherever I happen to be at the time 💙",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2035104806616920064/EdgMlttB_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Mint_Tease",
+            "fetchedAt": "2026-11-26T12:45:48Z"
+        }
+    },
+    "bluesky": {
+        "did": "did:plc:jv2gi4gomaqj5n5lroua4znp",
+        "handle": "mint-tease.bsky.social",
+        "displayName": "Mint Tease",
+        "description": "💙Your local blue oni girl of wherever I happen to be at the time💙\n✨I'm an energetic extrovert who loves meeting new people. Come say Hi!✨\n😘I flirt, tease, and sometimes behave😘\n\n🔗 https://mint-tease.carrd.co 🔗",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jv2gi4gomaqj5n5lroua4znp/bafkreiazfdtbbdspty62dhqyy4p3kvj4ungrtpm7rir3rxtupfuthfwsl4",
+        "followersCount": 35,
+        "followingCount": 14,
+        "postsCount": 4,
+        "accountCreatedAt": "2026-01-06T05:02:26.924Z",
+        "profileUrl": "https://bsky.app/profile/mint-tease.bsky.social",
+        "fetchedAt": "2026-11-26T12:45:55Z"
+    },
+    "fansly": {
+        "id": "864784734331351040",
+        "username": "Mint_Tease",
+        "displayName": "Mint Tease",
+        "version": 6,
+        "followCount": 1252,
+        "statusId": 1,
+        "accountMediaLikes": 1066,
+        "postLikes": 729,
+        "about": "💙Your local blue oni girl of wherever I happen to be at the time💙\n✨I'm an energetic extrovert who loves meeting new people. Come say Hi!✨\n😘I flirt, tease, and sometimes behave😘\n\n🔗 https://mint-tease.carrd.co 🔗\n\nCopyright © 2026 Mint_Tease. All rights reserved. Do not reproduce without permission.",
+        "location": "",
+        "streaming": {
+            "accountId": "864784734331351040",
+            "channel": {
+                "id": "876226097631473664",
+                "accountId": "864784734331351040",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.B15DQkcdPM7c.m3u8",
+                "chatRoomId": "876321364384960512",
+                "status": 2,
+                "version": 35,
+                "createdAt": 1770402941000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "876226097631473665",
+                    "historyId": "947018951508897792",
+                    "channelId": "876226097631473664",
+                    "accountId": "864784734331351040",
+                    "title": "💙 Milf Mommy Date Night w/ @MarcelineXOXO 🌹",
+                    "status": 1,
+                    "viewerCount": 13,
+                    "version": 16,
+                    "createdAt": 1770402941000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1787290147000,
+                    "startedAt": 1787281272000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "877998334093058048",
+                                "streamId": "876226097631473665",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T12:45:57Z"
+    }
+}

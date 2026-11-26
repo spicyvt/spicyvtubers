@@ -1,0 +1,111 @@
+{
+    "bio": ":3",
+    "twitch": {
+        "id": "134254289",
+        "login": "real_ceira",
+        "displayName": "real_ceira",
+        "createdAt": "2016-09-08T23:42:44.854499Z",
+        "updatedAt": "2026-11-16T10:52:23.338335Z",
+        "description": ":3",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 27
+        },
+        "follows": {
+            "totalCount": 77
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2021-09-23T21:30:29.527549Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a9f775d4-548a-41cf-b519-531f6167f11f-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T12:45:30Z"
+    },
+    "kick": {
+        "id": 23853042,
+        "userId": 24855599,
+        "slug": "real-ceira",
+        "username": "real_ceira",
+        "bio": ":3",
+        "profileImageUrl": "https://files.kick.com/images/user/24855599/profile_image/conversion/11620b09-2399-4828-a292-177f793ace4e-fullsize.webp",
+        "bannerImageUrl": null,
+        "followersCount": 21,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "discord": "raAyhb9DEY"
+        },
+        "fetchedAt": "2026-11-26T12:45:31Z"
+    },
+    "bluesky": {
+        "did": "did:plc:zuztdfwavld2syrf366gopa3",
+        "handle": "realceira.bsky.social",
+        "displayName": "🎀 Ceira 🎀",
+        "description": "🖤 Succubus Queen | Gothic Temptation | Sin Made Flesh 🖤\n\nMy Socials :3\nhttps://ceiraa.carrd.co/\n\nHoney Play Box Affiliate. Use Code \"Ceira\" for 15% off :3",
+        "profileImageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zuztdfwavld2syrf366gopa3/bafkreiegsomvoi2edfeoaf7yq5pxeguwcutizq62i2jt4shhc2ng3ec3zm",
+        "followersCount": 1105,
+        "followingCount": 45,
+        "postsCount": 532,
+        "accountCreatedAt": "2024-11-14T22:21:46.837Z",
+        "profileUrl": "https://bsky.app/profile/realceira.bsky.social",
+        "fetchedAt": "2026-11-26T12:45:53Z"
+    },
+    "fansly": {
+        "id": "737404408056258560",
+        "username": "_Ceira_",
+        "displayName": null,
+        "version": 5,
+        "followCount": 742,
+        "statusId": 3,
+        "accountMediaLikes": 1490,
+        "postLikes": 881,
+        "about": "🖤 Succubus Queen | Gothic Temptation | Sin Made Flesh 🖤\n\nHoney Play Box affiliate. Use Code \"Ceira\" for 15% off :3 \n\nEvery mortal who enters my realm is searching for something… attention, affection, temptation, obsession~ 😈\n\nLuckily for you, I happen to specialize in all four 💋\n\nI’m a seductive little demon with a love for teasing, corrupting thoughts, and becoming the center of your attention day and night. My page is filled with dark energy, exclusive seductive content, sinful fantasies, playful affection, needy cravings, and the kind of dangerous charm that keeps people crawling back for more 🖤\n\nI love creating a space where desire feels intoxicating. Where you can indulge your fantasies, lose yourself in temptation, and enjoy being spoiled by a succubus who knows exactly how to keep your heart racing. Whether you’re here for teasing conversations, addictive energy, intimate content, or simply to escape reality for awhile… I promise I’ll make your stay unforgettable.\n\nSo go ahead, darling~\nGive in to your curiosity.\nFeed your obsession.\n\nYou belong to me now 🫦",
+        "location": "Visiting your dreams",
+        "streaming": {
+            "accountId": "737404408056258560",
+            "channel": {
+                "id": "939639506078818305",
+                "accountId": "737404408056258560",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Ytpx97BxqSxl.m3u8",
+                "chatRoomId": "939641107879317504",
+                "status": 2,
+                "version": 8,
+                "createdAt": 1785521875000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "939639506078818306",
+                    "historyId": "981960766708006912",
+                    "channelId": "939639506078818305",
+                    "accountId": "737404408056258560",
+                    "title": "TESTING MULTISTREAMING 🎀  MAKE ME MISBEHAVE <3",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 10,
+                    "createdAt": 1785521876000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795612507000,
+                    "startedAt": 1795612050000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "979763905041539073",
+                                "streamId": "939639506078818306",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T12:45:57Z"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "bio": "",
+    "twitch": {
+        "id": "75925653",
+        "login": "tsuzenart",
+        "displayName": "TsuzenArt",
+        "createdAt": "2014-11-25T18:26:02.909413Z",
+        "updatedAt": "2026-11-25T17:57:32.89486Z",
+        "description": null,
+        "primaryColorHex": "00C774",
+        "followers": {
+            "totalCount": 1181
+        },
+        "follows": {
+            "totalCount": 240
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-25T19:11:27.814719Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/64e3531d-f6d4-4d07-ac4f-bcbec4e1aeb1-profile_image-300x300.png",
+        "fetchedAt": "2026-11-26T12:45:36Z"
+    },
+    "twitter": {
+        "tsuzenart": {
+            "id": null,
+            "handle": "tsuzenart",
+            "displayName": "Tsuzen",
+            "description": "| 18+ ONLY MDNI 🔞 | Girlfailure Snow Leopard | Art/Vtuber Account | Scratch Model Maker\nPFP by @Tanya3x  Banner: Bellezebub Links : https://t.co/bXhNdkiMBr",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2048107774945456128/fZMVCxuE_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/TsuzenArt",
+            "fetchedAt": "2026-11-26T12:45:50Z"
+        }
+    },
+    "fansly": {
+        "id": "732393580684914688",
+        "username": "MeltingPools",
+        "displayName": "Tsuzen",
+        "version": 19,
+        "followCount": 1451,
+        "statusId": 1,
+        "accountMediaLikes": 637,
+        "postLikes": 706,
+        "about": "Horny Girlfailure Snow Leopard Artist \n\n I Stream sometimes xD\n\n~Lewd IRL and Virtual Videos and Images\n \n~DMS open to subs, i respond when I can ^~^\n\nLinktree : https://linktr.ee/tsuzenart",
+        "location": "",
+        "streaming": {
+            "accountId": "732393580684914688",
+            "channel": {
+                "id": "880925645725511680",
+                "accountId": "732393580684914688",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.JYqglQzRh8FG.m3u8",
+                "chatRoomId": "880925696661139456",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1771523400000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "880925645725511681",
+                    "historyId": "966585505611259905",
+                    "channelId": "880925645725511680",
+                    "accountId": "732393580684914688",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 50,
+                    "version": 46,
+                    "createdAt": 1771523400000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1791951821000,
+                    "startedAt": 1791946302000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "889037486196547584",
+                                "streamId": "880925645725511681",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T12:45:57Z"
+    }
+}

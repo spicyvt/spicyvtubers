@@ -1,0 +1,72 @@
+{
+    "twitter": {
+        "sexystana8": {
+            "id": null,
+            "handle": "sexystana8",
+            "displayName": "Sexystana",
+            "description": "💋 Rockstana | Filthy Rockstar Fantasy • Dancer • Digital Temptress 😘 • 🔞Fansly below | 🔞MINERS DO NOT INTERACT🔞| If interested in services Dm me",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1967678596467597312/6Q2UsRLQ_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Sexystana8",
+            "fetchedAt": "2026-11-26T12:45:51Z"
+        }
+    },
+    "fansly": {
+        "id": "805574545640542208",
+        "username": "sexystana",
+        "displayName": "SexyStana",
+        "version": 11,
+        "followCount": 713,
+        "statusId": 1,
+        "accountMediaLikes": 357,
+        "postLikes": 129,
+        "about": "\nShe’s bold, filthy, and always in control — SexyStana isn’t just here to tease… she’s here to ruin you in the best way. From slow, sensual strip teases to raw, unfiltered content that leaves nothing to the imagination, every post is a front-row seat to your favorite fantasy.\n\nLinks~ \nThrone ~ https://throne.com/rockstana\nServer ~ https://discord.gg/CTdwJjeWG3 (Make a ticket for Fansly Role) \n\n💋 Exclusive nudes, XXX videos, behind-the-scenes play, and spicy voice notes — all waiting on the other side of that “Subscribe” button.\nWanna chat? Slide in. She loves a good conversation — and an even better request.\nWanna watch? You’ll get addicted to the way she moves — and the way she moans.\nWanna really play? VIPs get the dirtiest content with zero holding back.\n\n✨ Sexystana's House Rules ✨\n\n💋 No screenshots, screen recordings, or sharing my content — ever.\n💋 No free requests. If you want something special, tip or go VIP.\n💋 Don’t be rude or creepy. You’ll be blocked without warning.\n💋 Respect my time and my boundaries. I’m not here to babysit.\n💋 No illegal content. Zero tolerance — don’t even try it.\n💋 Subscriptions do not equal ownership. You’re here to enjoy, not control.\n\nBy subscribing, you agree to follow these rules. Disrespect them? You’re gone.\n\nThis is a safe, sexy space where fantasy thrives — keep it hot, keep it classy, and we’ll get along just fine 😘",
+        "location": "",
+        "streaming": {
+            "accountId": "805574545640542208",
+            "channel": {
+                "id": "927270982765260800",
+                "accountId": "805574545640542208",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.Z7BGFapxHmBu.m3u8",
+                "chatRoomId": "927272365136556032",
+                "status": 2,
+                "version": 4,
+                "createdAt": 1782572990000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "927270982765260801",
+                    "historyId": "952488682672107520",
+                    "channelId": "927270982765260800",
+                    "accountId": "805574545640542208",
+                    "title": "Test Stream (Top Secret)",
+                    "status": 1,
+                    "viewerCount": 5,
+                    "version": 6,
+                    "createdAt": 1782572990000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1788589154000,
+                    "startedAt": 1788585358000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "927271640448913408",
+                                "streamId": "927270982765260801",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-26T12:45:57Z"
+    }
+}

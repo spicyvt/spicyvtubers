@@ -14950,7 +14950,7 @@
     "fansly": "nemesis0202",
     "channel": "NemesisVT",
     "xHandles": ["nemesis_vt"],
-    "socials": "getmysocial.com/nemesis",
+    "socials": "https://getmysocial.com/nemesis",
     "avatar": "avatarsx"
   },
   {
@@ -15144,6 +15144,72 @@
     "twitch": "akirashyfox",
     "xHandles": ["akirashyfox"],
     "socials": "https://linktr.ee/AkiraShyFox",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "yuki_vr",
+    "fansly": "yuki_vr",
+    "channel": "Yuki VR",
+    "twitch": "yuki_v2_",
+    "xHandles": ["yukivr_"],
+    "socials": "https://allmylinks.com/yukivr",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "mothervrc",
+    "fansly": "mothervrc",
+    "channel": "MotherVRC",
+    "twitch": "mothervrc",
+    "xHandles": ["mothervrc", ""],
+    "socials": "",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "ceira",
+    "fansly": "_ceira_",
+    "channel": "Ceira",
+    "twitch": "real_ceira",
+    "kick": "real-ceira",
+    "bskyHandle": ["realceira", "realceira.bsky.social"],
+    "socials": "https://ceiraa.carrd.co/",
+    "avatar": "avatarsb"
+  },
+  {
+    "slug": "masacris",
+    "fansly": "masacris",
+    "channel": "Masacris",
+    "twitch": "masacris",
+    "kick": "masacris",
+    "xHandles": ["masacrisvt", "masacrisvr", "masacriscooks"],
+    "socials": "https://linktr.ee/masacris",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "crushvr",
+    "fansly": "crushvr",
+    "channel": "Crush",
+    "twitch": "madamcrushvr",
+    "xHandles": ["madamcrushvr"],
+    "socials": "https://crushvr.carrd.co/",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "mint_tease",
+    "fansly": "mint_tease",
+    "channel": "Mint Tease",
+    "twitch": "",
+    "xHandles": ["mint_tease"],
+    "bskyHandle": ["mint-tease", "mint-tease.bsky.social"],
+    "socials": "https://mint-tease.carrd.co/",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "tsuzen",
+    "fansly": "meltingpools",
+    "channel": "Tsuzen",
+    "twitch": "tsuzenart",
+    "xHandles": ["tsuzenart"],
+    "socials": "https://linktr.ee/tsuzenart",
     "avatar": "avatarsx"
   },
   {
