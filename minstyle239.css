@@ -1487,6 +1487,13 @@ a {
   fill: currentColor;
 }
 
+
+.creator-quick-link-label {
+  max-width: 12rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .creator-quick-link:hover,
 .creator-quick-link:focus-visible {
   border-color: var(--text-muted);
@@ -1530,6 +1537,15 @@ a {
   .creator-profile-card {
     padding: 0.95rem 1rem 1rem;
   }
+
+  
+  .creator-quick-link {
+    padding: 0.45rem;
+  }
+
+  .creator-quick-link-label {
+    display: none;
+  }
 }
 
 @media (max-width: 760px) {
@@ -1541,14 +1557,6 @@ a {
 @media (max-width: 480px) {
   .creator-profile-actions {
     gap: 0.45rem;
-  }
-
-  .creator-quick-link {
-    padding: 0.45rem;
-  }
-
-  .creator-quick-link-label {
-    display: none;
   }
 }
 
@@ -1577,6 +1585,13 @@ a {
 
 .fansly-month-pills {
   justify-content: flex-end;
+}
+
+
+.creator-stream-tabs[hidden],
+.stream-tab-btn[hidden],
+.fansly-month-pills[hidden] {
+  display: none;
 }
 
 .stream-tab-panel {
@@ -1949,6 +1964,15 @@ a {
   color: var(--text-muted);
   font-size: 0.9rem;
   margin: 0 0 1rem;
+}
+
+.leaderboard-month-pills {
+  justify-content: flex-start;
+  margin: 0 0 1rem;
+}
+
+.leaderboard-month-pills .fansly-month-btn {
+  text-decoration: none;
 }
 
 .leaderboard-graph {

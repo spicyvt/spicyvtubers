@@ -19,7 +19,7 @@
 
   const siteStats = document.getElementById("site-stats");
 
-  const CHANNEL_PLATFORM_KEYS = ["twitch", "youtube"];
+  const CHANNEL_PLATFORM_KEYS = ["twitch", "youtube", "kick"];
 
   const externalLinkIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>`;
   const resultCountIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0 2c-3.31 0-8 1.66-8 4.5V21h16v-2.5c0-2.84-4.69-4.5-8-4.5zm8.34-9.94a4 4 0 0 1 0 7.88 5.5 5.5 0 0 1 0-7.88zM18.5 14c2.9.53 4.5 1.9 4.5 3.5V21h-3v-2.5c0-1.63-.6-2.9-1.5-4.5z"/></svg>`;
@@ -922,17 +922,42 @@
   
   
   
-  function initFanslyGraphs() {
-    const pillsWrap = document.querySelector(".fansly-month-pills");
-    const canvas = document.querySelector(".fansly-graph-canvas");
-    const dataScript = document.querySelector(".fansly-graph-data");
-    if (!pillsWrap || !canvas || !dataScript) return;
+  
+  
+  
+  async function initFanslyGraphs() {
+    const fanslyId = document.body.dataset.fanslyId;
+    const tabBtn = document.querySelector('.stream-tab-btn[data-tab="leaderboard"]');
+    const panel = document.querySelector('.stream-tab-panel[data-tab="leaderboard"]');
+    if (!fanslyId || !tabBtn || !panel) return;
+    const pillsWrap = panel.querySelector(".fansly-month-pills");
+    const canvas = panel.querySelector(".fansly-graph-canvas");
+    const statsWrap = panel.querySelector(".fansly-stats-wrap");
+    if (!pillsWrap || !canvas || !statsWrap) return;
 
-    const reportsByMonth = JSON.parse(dataScript.textContent);
+    const months = await loadLeaderboardMonths();
+    const results = await Promise.all(months.map((month) => fetchLeaderboardMonthEntry(month, fanslyId)));
+    const found = results.filter(Boolean);
+    if (found.length === 0) return;
+
+    
+    statsWrap.innerHTML = buildFanslyStatsHtml(found.flatMap((r) => r.points));
+
+    const newestFirst = found.slice().reverse();
+    const pointsByMonth = new Map(newestFirst.map((r) => [r.month, r.points]));
+    pillsWrap.innerHTML = newestFirst
+      .map(
+        (r, i) =>
+          `<button type="button" class="fansly-month-btn${i === 0 ? " is-active" : ""}" data-month="${escapeHtml(r.month)}">` +
+          `${escapeHtml(leaderboardMonthLabel(r.month))} · ${escapeHtml(ordinalSuffix(r.rank))}</button>`
+      )
+      .join("");
+
+    revealLeaderboardTab(tabBtn, panel);
+
     let chart = null;
-
     const applyMonth = (month) => {
-      const points = reportsByMonth[month] || [];
+      const points = pointsByMonth.get(month) || [];
       const worstRank = points.reduce((w, p) => Math.max(w, p.y), 1);
       const { bottom, step } = computeRankAxisBounds(worstRank);
       if (!chart) {
@@ -945,18 +970,79 @@
       chart.update();
     };
 
-    applyMonth(canvas.dataset.activeMonth);
+    applyMonth(newestFirst[0].month);
 
     pillsWrap.addEventListener("click", (e) => {
       const btn = e.target.closest(".fansly-month-btn");
       if (!btn || btn.classList.contains("is-active")) return;
-
-      const month = btn.dataset.month;
       pillsWrap.querySelectorAll(".fansly-month-btn").forEach((b) => {
         b.classList.toggle("is-active", b === btn);
       });
-      applyMonth(month);
+      applyMonth(btn.dataset.month);
     });
+  }
+
+  
+  async function fetchLeaderboardMonthEntry(month, accountId) {
+    try {
+      const base = leaderboardMonthUrl(month);
+      const liveRes = await fetch(`${base}live.json?t=${Date.now()}`, { cache: "no-store" });
+      if (!liveRes.ok) return null;
+      const live = await liveRes.json();
+      const entry = Array.isArray(live) ? live.find((e) => e && String(e.accountId) === accountId) : null;
+      if (!entry) return null;
+
+      const historyRes = await fetch(`${base}${encodeURIComponent(accountId)}.json?t=${Date.now()}`, { cache: "no-store" });
+      if (!historyRes.ok) return null;
+      const history = await historyRes.json();
+      const points = (Array.isArray(history) ? history : [])
+        .filter((p) => Array.isArray(p) && typeof p[0] === "number" && typeof p[1] === "number")
+        .map(([x, y]) => ({ x, y }));
+      if (points.length === 0) return null;
+      return { month, rank: Number(entry.rank), points };
+    } catch (err) {
+      return null;
+    }
+  }
+
+  
+  
+  function revealLeaderboardTab(tabBtn, panel) {
+    tabBtn.hidden = false;
+    const section = tabBtn.closest(".creator-stream-tabs");
+    if (!document.querySelector(".stream-tab-btn.is-active")) {
+      tabBtn.classList.add("is-active");
+      panel.classList.add("is-active");
+    }
+    if (section) section.hidden = false;
+  }
+
+  function ordinalSuffix(n) {
+    const mod100 = n % 100;
+    if (mod100 >= 11 && mod100 <= 13) return `${n}th`;
+    return n + ({ 1: "st", 2: "nd", 3: "rd" }[n % 10] || "th");
+  }
+
+  
+  
+  function buildFanslyStatsHtml(points) {
+    if (points.length === 0) return "";
+    let highestRank = points[0].y;
+    let largestIncrease = 0;
+    let totalIncreases = 1;
+    for (let i = 1; i < points.length; i++) {
+      highestRank = Math.min(highestRank, points[i].y);
+      const delta = points[i - 1].y - points[i].y;
+      if (delta > 0) {
+        totalIncreases++;
+        largestIncrease = Math.max(largestIncrease, delta);
+      }
+    }
+    return `<div class="fansly-stats">
+      <span class="fansly-stat"><span class="fansly-stat-label">Highest Rank:</span> ${escapeHtml(ordinalSuffix(highestRank))}</span>
+      <span class="fansly-stat"><span class="fansly-stat-label">Largest Gain:</span> ${largestIncrease}</span>
+      <span class="fansly-stat"><span class="fansly-stat-label">Total Gains:</span> ${totalIncreases}</span>
+    </div>`;
   }
 
   
@@ -1674,8 +1760,12 @@
 
   
 
-  const LEADERBOARD_LIVE_URL = "https://cdn.spicyvtubers.com/fansly/leaderboard/live.json";
-  const LEADERBOARD_ACCOUNT_BASE = "https://cdn.spicyvtubers.com/fansly/leaderboard/";
+  const LEADERBOARD_BASE = "https://cdn.spicyvtubers.com/fansly/leaderboard/";
+  const LEADERBOARD_MONTH_KEY_RE = /^[a-z]{3}_\d{4}$/;
+  const LEADERBOARD_MONTH_NAMES = {
+    jan: "January", feb: "February", mar: "March", apr: "April", may: "May", jun: "June",
+    jul: "July", aug: "August", sep: "September", oct: "October", nov: "November", dec: "December",
+  };
   const LEADERBOARD_FANSLY_JSON_URL = "/fansly.json";
   const LEADERBOARD_MAX_SELECTED = 10;
   const LEADERBOARD_INITIAL_TOP_COUNT = 1;
@@ -1698,6 +1788,59 @@
   const leaderboardHistoryCache = new Map(); 
   const leaderboardSelected = new Map(); 
   let leaderboardChart = null; 
+
+  let leaderboardMonthBase = LEADERBOARD_BASE;
+
+  
+  
+  async function loadLeaderboardMonths() {
+    try {
+      const data = await loadDataJson();
+      const months = data && Array.isArray(data.leaderboard_months) ? data.leaderboard_months : [];
+      return months.filter((m) => typeof m === "string" && LEADERBOARD_MONTH_KEY_RE.test(m));
+    } catch (err) {
+      return [];
+    }
+  }
+
+  function leaderboardMonthUrl(month) {
+    return `${LEADERBOARD_BASE}${month}/`;
+  }
+
+  
+  function leaderboardMonthLabel(month) {
+    const [mon, year] = month.split("_");
+    return `${LEADERBOARD_MONTH_NAMES[mon] || mon} ${year}`;
+  }
+
+  
+  
+  async function fetchLeaderboardLive() {
+    const months = await loadLeaderboardMonths();
+    const requested = new URLSearchParams(window.location.search).get("month");
+    const month = months.includes(requested) ? requested : months[months.length - 1];
+    if (!month) throw new Error("no leaderboard months");
+    leaderboardMonthBase = leaderboardMonthUrl(month);
+    renderLeaderboardMonthSwitcher(months, month);
+    return fetch(`${leaderboardMonthBase}live.json?t=${Date.now()}`, { cache: "no-store" });
+  }
+
+  function renderLeaderboardMonthSwitcher(months, activeMonth) {
+    const root = document.getElementById("leaderboard-months");
+    if (!root || months.length < 2) return;
+    root.innerHTML = months
+      .slice()
+      .reverse()
+      .map((m) => {
+        const isActive = m === activeMonth;
+        return (
+          `<a class="fansly-month-btn${isActive ? " is-active" : ""}" href="?month=${encodeURIComponent(m)}"` +
+          `${isActive ? ' aria-current="page"' : ""}>${escapeHtml(leaderboardMonthLabel(m))}</a>`
+        );
+      })
+      .join("");
+    root.hidden = false;
+  }
 
   async function loadLeaderboardIndexedIds() {
     try {
@@ -1727,7 +1870,7 @@
 
     try {
       const [res, indexedIds] = await Promise.all([
-        fetch(`${LEADERBOARD_LIVE_URL}?t=${Date.now()}`, { cache: "no-store" }),
+        fetchLeaderboardLive(),
         loadLeaderboardIndexedIds(),
       ]);
       leaderboardIndexedIds = indexedIds;
@@ -1843,7 +1986,7 @@
   async function ensureLeaderboardHistory(accountId) {
     if (leaderboardHistoryCache.has(accountId)) return leaderboardHistoryCache.get(accountId);
     try {
-      const res = await fetch(`${LEADERBOARD_ACCOUNT_BASE}${encodeURIComponent(accountId)}.json?t=${Date.now()}`, { cache: "no-store" });
+      const res = await fetch(`${leaderboardMonthBase}${encodeURIComponent(accountId)}.json?t=${Date.now()}`, { cache: "no-store" });
       if (!res.ok) throw new Error("bad status");
       const data = await res.json();
       const points = Array.isArray(data) ? data : [];
@@ -2048,7 +2191,7 @@
     return (
       `<td data-label="Channel" class="name-cell">` +
       `<a class="name-link" href="${BASE_URL}c/${encodeURIComponent(creator.channelLower)}/">` +
-      `<span class="topcreator-avatar-wrap"><span class="avatar">${avatarImgHtml}</span>${rankHtml}</span>` +
+      `<span class="topcreator-avatar-wrap"><span class="avatar">${avatarImgHtml}</span>${rankHtml}</span> ` +
       `<span class="channel-name">${escapeHtml(creator.channel)}</span>` +
       `</a></td>` +
       `<td data-label="Spice" class="col-fansly"><div class="spice-handles">${fanslyPill}</div></td>`
