@@ -1,0 +1,124 @@
+{
+    "bio": "Just a mega silly goober here to vibe with eveery one and be a silly gooberstreaming everday at 8pm EST i knoqw i crazy winiging it silly uh huhouhi",
+    "twitch": {
+        "id": "1409622285",
+        "login": "zenithvr_",
+        "displayName": "ZenithVr_",
+        "createdAt": "2025-12-21T00:23:10.535408Z",
+        "updatedAt": "2026-11-13T00:59:15.28397Z",
+        "description": "Just a mega silly goober here to vibe with eveery one and be a silly gooberstreaming everday at 8pm EST i knoqw i crazy winiging it silly uh huhouhi",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 438
+        },
+        "follows": {
+            "totalCount": 103
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-13T03:53:19.147428Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7217022-94e8-4ca5-b5a4-242d47c5f35b-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T17:01:54Z"
+    },
+    "kick": {
+        "id": 104458214,
+        "userId": 105691694,
+        "slug": "zenithvr",
+        "username": "ZenithVR",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/105691694/profile_image/conversion/478e125c-eb3b-4119-8cf7-b8a8b39a337d-fullsize.webp",
+        "bannerImageUrl": null,
+        "followersCount": 3,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": [],
+        "fetchedAt": "2026-11-27T17:01:55Z"
+    },
+    "twitter": {
+        "zenith_vr_sfw": {
+            "id": null,
+            "handle": "zenith_vr_sfw",
+            "displayName": "Zenith-VR",
+            "description": "https://t.co/n70zoA8zw9\nLarens and fxv enjoyer\nsilly goober silt goobes\ncute stuff\nhttps://t.co/LsTQWtzLH2 -mydiscord\nopen to promos c:",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2123428299783254016/nHimgaKt_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Zenith_VR_SFW",
+            "fetchedAt": "2026-11-27T17:02:30Z"
+        },
+        "zenith_vr_": {
+            "id": "1775937654355357698",
+            "handle": "zenith_vr_",
+            "displayName": "Zenith-VR-NSFW",
+            "description": "https://fansly.com/ZenithVR/t0 kitty content \n\nhttps://discord.com/invite/u2UA2XcFaP - discord \nSFW-@Zenith_VR_SFW\ncontent made in CVR",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2125670552668958720/s5xWHFJ-_400x400.jpg",
+            "followersCount": 10139,
+            "followingCount": 2682,
+            "postsCount": 787,
+            "accountCreatedAt": "2024-04-04T17:25:18.000Z",
+            "profileUrl": "https://x.com/Zenith_VR_",
+            "fetchedAt": "2026-11-27T17:02:32Z"
+        }
+    },
+    "fansly": {
+        "id": "628216993652154368",
+        "username": "ZenithVR",
+        "displayName": null,
+        "version": 5,
+        "followCount": 3136,
+        "statusId": 1,
+        "accountMediaLikes": 7138,
+        "postLikes": 4640,
+        "about": "18+++\nSilly goober 💜\nI'm pretty nice\nReally shyyyy.. ;-;\nFBT Quest Pro\nhttps://guns.lol/zenith_vr\ncontent made in CVR\n\n\n\n",
+        "location": "",
+        "streaming": {
+            "accountId": "628216993652154368",
+            "channel": {
+                "id": "827895051760717824",
+                "accountId": "628216993652154368",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.1mEgNG24Qglz.m3u8",
+                "chatRoomId": "827895086015602688",
+                "status": 2,
+                "version": 39,
+                "createdAt": 1758879921000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "827895051760717825",
+                    "historyId": "953221466642468866",
+                    "channelId": "827895051760717824",
+                    "accountId": "628216993652154368",
+                    "title": "🐾Cutey Kitty Stream🐾 Every 50$ Is 10 Minutes Link🐾",
+                    "status": 1,
+                    "viewerCount": 17,
+                    "version": 68,
+                    "createdAt": 1758879922000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795538614000,
+                    "startedAt": 1788760067000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "895158728553152512",
+                                "streamId": "827895051760717825",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T17:02:46Z"
+    }
+}

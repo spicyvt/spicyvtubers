@@ -1,0 +1,115 @@
+{
+    "bio": "oops, you're in Troble ♡ your local metal mute ♡ business inquires: business@troble.tv",
+    "twitch": {
+        "id": "109885830",
+        "login": "troble",
+        "displayName": "Troble",
+        "createdAt": "2015-12-19T18:46:10.33558Z",
+        "updatedAt": "2026-11-25T20:07:49.72703Z",
+        "description": "oops, you're in Troble ♡ your local metal mute ♡ business inquires: business@troble.tv ",
+        "primaryColorHex": "1F69FF",
+        "followers": {
+            "totalCount": 4005
+        },
+        "follows": {
+            "totalCount": 419
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-27T16:01:03.435591Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/805ccf26-5f7d-42f2-9744-915c8cf9d2d0-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T17:01:36Z"
+    },
+    "kick": {
+        "id": 3206170,
+        "userId": 3270562,
+        "slug": "troble",
+        "username": "Troble",
+        "bio": "oops, you're in trouble",
+        "profileImageUrl": "https://files.kick.com/images/user/3270562/profile_image/conversion/47cdb061-2a1d-400d-9e54-e25ae9f8f5a6-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/3206170/banner_image/a2fcbdba-49a6-489c-b7d2-7fbdbd44bce2",
+        "followersCount": 60,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "trobleton",
+            "youtube": "trobleton",
+            "tiktok": "trobleton"
+        },
+        "fetchedAt": "2026-11-27T17:01:37Z"
+    },
+    "twitter": {
+        "trobleton": {
+            "id": null,
+            "handle": "trobleton",
+            "displayName": "Troble",
+            "description": "🤘 𝖑𝖔𝖈𝖆𝖑 𝖒𝖊𝖙𝖆𝖑 𝖒𝖚𝖙𝖊~ ♡ 18+ MDNI ♡ she / her ♡ business inquires business@troble.tv",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2072085915061669888/drV1k7gu_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/trobleton",
+            "fetchedAt": "2026-11-27T17:02:12Z"
+        }
+    },
+    "fansly": {
+        "id": "773319248750587904",
+        "username": "Trobleton",
+        "displayName": "Troble",
+        "version": 4,
+        "followCount": 1419,
+        "statusId": 3,
+        "accountMediaLikes": 623,
+        "postLikes": 724,
+        "about": " ♡ oops, you found Troble ⭑.ᐟ\n\n ♡ exclusive content\n ♡ private updates\n ♡ priority replies for VIP members\n\n ♡ streams Wednesday & Friday at 8PM CST!\n\n› › ›  https://linktr.ee/Trobleton",
+        "location": "in your closet",
+        "streaming": {
+            "accountId": "773319248750587904",
+            "channel": {
+                "id": "939695045534048259",
+                "accountId": "773319248750587904",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.0j2Km5A81CU9.m3u8",
+                "chatRoomId": "943337616009351168",
+                "status": 2,
+                "version": 21,
+                "createdAt": 1785535117000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "939695045534048260",
+                    "historyId": "978171798568857600",
+                    "channelId": "939695045534048259",
+                    "accountId": "773319248750587904",
+                    "title": "BEING DRAWN BY @JenniferRDarts ♡ !lovense !sync !menue",
+                    "status": 1,
+                    "viewerCount": 53,
+                    "version": 30,
+                    "createdAt": 1785535117000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794715753000,
+                    "startedAt": 1794708690000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "957837758942953474",
+                                "streamId": "939695045534048260",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T17:02:46Z"
+    }
+}

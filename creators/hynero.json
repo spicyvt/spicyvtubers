@@ -1,0 +1,111 @@
+{
+    "bio": "Why are you reading this, scroll back up✨",
+    "twitch": {
+        "id": "565558436",
+        "login": "hynero",
+        "displayName": "Hynero",
+        "createdAt": "2020-08-11T06:34:36.577753Z",
+        "updatedAt": "2026-11-15T01:13:55.36889Z",
+        "description": "Why are you reading this, scroll back up✨ ",
+        "primaryColorHex": "FA2929",
+        "followers": {
+            "totalCount": 1172
+        },
+        "follows": {
+            "totalCount": 333
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-15T03:04:05.970862Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/022a72f1-2621-4cb1-8bac-e5b0516a55a4-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T17:01:45Z"
+    },
+    "kick": {
+        "id": 1608584,
+        "userId": 1657039,
+        "slug": "hynero",
+        "username": "Hynero",
+        "bio": "",
+        "profileImageUrl": "https://files.kick.com/images/user/1657039/profile_image/conversion/a5c2ea3b-0e35-48a6-be72-8b28d1a95cdc-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/1608584/banner_image/d1a53902-42d0-47f9-8ab3-01e52013a106",
+        "followersCount": 52,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": [],
+        "fetchedAt": "2026-11-27T17:01:47Z"
+    },
+    "twitter": {
+        "realhynero": {
+            "id": null,
+            "handle": "realhynero",
+            "displayName": "Hynero",
+            "description": "☥ The Egyptian Catgirl | The Lapcat | Your Goddess ☥ https://t.co/uXhF3gFwkE",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2021510666876801024/Goc3lQJd_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/RealHynero",
+            "fetchedAt": "2026-11-27T17:02:25Z"
+        }
+    },
+    "fansly": {
+        "id": "691800242147831809",
+        "username": "Hynero",
+        "displayName": null,
+        "version": 10,
+        "followCount": 4458,
+        "statusId": 1,
+        "accountMediaLikes": 3315,
+        "postLikes": 5143,
+        "about": "The Egyptian Goddess ✨\n💦 https://linktr.ee/hynero\n🌹 https://throne.com/hynero",
+        "location": "",
+        "streaming": {
+            "accountId": "691800242147831809",
+            "channel": {
+                "id": "829276295731888128",
+                "accountId": "691800242147831809",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.3v4ytDQ6Uv9R.m3u8",
+                "chatRoomId": "830595102215786496",
+                "status": 2,
+                "version": 104,
+                "createdAt": 1759209236000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "829276295731888129",
+                    "historyId": "980741874614546432",
+                    "channelId": "829276295731888128",
+                    "accountId": "691800242147831809",
+                    "title": "✨ Let's recreate that ONE scene if you know you know..✨ ",
+                    "status": 1,
+                    "viewerCount": 112,
+                    "version": 318,
+                    "createdAt": 1759209236000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795329379000,
+                    "startedAt": 1795321444000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "829344033628254208",
+                                "streamId": "829276295731888129",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T17:02:46Z"
+    }
+}

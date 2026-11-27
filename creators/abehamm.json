@@ -1,0 +1,101 @@
+{
+    "bio": "simply a bAbe",
+    "twitch": {
+        "id": "53754689",
+        "login": "abehamm",
+        "displayName": "Abehamm",
+        "createdAt": "2013-12-24T04:58:09.840244Z",
+        "updatedAt": "2026-11-27T06:31:21.378511Z",
+        "description": "simply a bAbe ",
+        "primaryColorHex": "FFC3E1",
+        "followers": {
+            "totalCount": 10527
+        },
+        "follows": {
+            "totalCount": 625
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-27T10:43:04.20028Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/399fece8-bbf6-43ff-9d64-bc47c478e99a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T17:01:41Z"
+    },
+    "twitter": {
+        "abehammvr": {
+            "id": null,
+            "handle": "abehammvr",
+            "displayName": "bAbe",
+            "description": "@TwitchVRGang | @KickStreaming | #KickVerified #KickPartner | inquiries: abehammbiz@gmail.com | 🦊 @Wichi__x3 | 🌶️ @AbehammNSFW",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2096073311168155649/EGluAbJt_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/abehammvr",
+            "fetchedAt": "2026-11-27T17:02:18Z"
+        },
+        "abehammnsfw": {
+            "id": null,
+            "handle": "abehammnsfw",
+            "displayName": "AbehammNSFW",
+            "description": "main; @AbehammVR",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2010654841622966272/jV4Z5NX-_400x400.png",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/AbehammNSFW",
+            "fetchedAt": "2026-11-27T17:02:19Z"
+        }
+    },
+    "fansly": {
+        "id": "417891890461941760",
+        "username": "Abehamm",
+        "displayName": "Abehamm",
+        "version": 5,
+        "followCount": 4507,
+        "statusId": 3,
+        "accountMediaLikes": 3436,
+        "postLikes": 1644,
+        "about": "simply a babe <3 ",
+        "location": "Canada",
+        "streaming": {
+            "accountId": "417891890461941760",
+            "channel": {
+                "id": "967282314025398272",
+                "accountId": "417891890461941760",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.RV5YB90BKn6P.m3u8",
+                "chatRoomId": "967282329703686144",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1792112434000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "967282314025398273",
+                    "historyId": "978312647915089920",
+                    "channelId": "967282314025398272",
+                    "accountId": "417891890461941760",
+                    "title": "gf round 2 :o 💕buzz her into a mess :3💕",
+                    "status": 1,
+                    "viewerCount": 189,
+                    "version": 10,
+                    "createdAt": 1792112435000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1794760216000,
+                    "startedAt": 1794742271000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T17:02:46Z"
+    }
+}

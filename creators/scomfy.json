@@ -1,0 +1,105 @@
+{
+    "bio": "Virtual Reality Cat Girl | Business contact: business@scomfy.tv",
+    "twitch": {
+        "id": "826079666",
+        "login": "scomfy",
+        "displayName": "scomfy",
+        "createdAt": "2022-09-16T23:29:00.702625Z",
+        "updatedAt": "2026-11-26T19:36:35.337175Z",
+        "description": "Virtual Reality Cat Girl | Business contact: business@scomfy.tv",
+        "primaryColorHex": "735CDD",
+        "followers": {
+            "totalCount": 11122
+        },
+        "follows": {
+            "totalCount": 248
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-26T22:42:29.672123Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/d62d1b94-c7ef-46fa-a6cc-a486f4645aea-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T17:01:51Z"
+    },
+    "kick": {
+        "id": 20174330,
+        "userId": 21158443,
+        "slug": "scomfy",
+        "username": "scomfy",
+        "bio": "Dancing Virtual Mute Cat Girl",
+        "profileImageUrl": "https://files.kick.com/images/user/21158443/profile_image/conversion/20d707a6-c309-4a91-a595-8532229aa1b3-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/20174330/banner_image/43c74b9d-b22e-432e-a121-73782fe3e875",
+        "followersCount": 2105,
+        "verified": true,
+        "isAffiliate": true,
+        "socials": {
+            "twitter": "scomfyvr",
+            "discord": "7Q6yEJYAMQ"
+        },
+        "fetchedAt": "2026-11-27T17:01:52Z"
+    },
+    "twitter": {
+        "scomfyvr": {
+            "id": null,
+            "handle": "scomfyvr",
+            "displayName": "Scomfy",
+            "description": "@Twitch &amp; @Kick Partner | Contact: business@scomfy.tv | Clips: @Scomfiest",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1820834068931477504/X185Alge_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/scomfyvr",
+            "fetchedAt": "2026-11-27T17:02:29Z"
+        }
+    },
+    "fansly": {
+        "id": "498687126943047680",
+        "username": "scomfy",
+        "displayName": "scomfy",
+        "version": 15,
+        "followCount": 7053,
+        "statusId": 1,
+        "accountMediaLikes": 3987,
+        "postLikes": 3447,
+        "about": "Wigglin my butt for you, and other things..\nStreams on Fridays @ 7PM UTC!\n\nLinks → https://scomfy.tv\nLovense Affiliate 💕 https://www.lovense.com/p/scomfy",
+        "location": "Your Wifi",
+        "streaming": {
+            "accountId": "498687126943047680",
+            "channel": {
+                "id": "507382148609617920",
+                "accountId": "498687126943047680",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.qJcOeulYLkZB.m3u8",
+                "chatRoomId": "507383903263141888",
+                "status": 2,
+                "version": 31,
+                "createdAt": 1682463690000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "507382148609617921",
+                    "historyId": "975911107707297792",
+                    "channelId": "507382148609617920",
+                    "accountId": "498687126943047680",
+                    "title": "💕 SHOCK COLLAR ON ⚡ EVERY $1 = 1% ZAP FOR 3 SEC",
+                    "status": 1,
+                    "viewerCount": 266,
+                    "version": 384,
+                    "createdAt": 1682463691000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795789781000,
+                    "startedAt": 1794169699000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T17:02:46Z"
+    }
+}

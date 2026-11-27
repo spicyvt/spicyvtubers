@@ -1,0 +1,97 @@
+{
+    "bio": "After Andromeda is a Cyberpunk Netrunner - a Doll hacker who undermines the power structures that keep us complicit. Even the world's prettiest anarchist needs to unwind so kick back and enjoy some gaming.",
+    "twitch": {
+        "id": "131112084",
+        "login": "afterandromeda",
+        "displayName": "AfterAndromeda",
+        "createdAt": "2016-08-02T04:24:31.71262Z",
+        "updatedAt": "2026-11-13T02:09:52.273426Z",
+        "description": "After Andromeda is a Cyberpunk Netrunner - a Doll hacker who undermines the power structures that keep us complicit. Even the world's prettiest anarchist needs to unwind so kick back and enjoy some gaming.",
+        "primaryColorHex": "FF0085",
+        "followers": {
+            "totalCount": 392
+        },
+        "follows": {
+            "totalCount": 194
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-04T04:20:35.959809Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ec9c1b7-477f-48f8-9ca7-3eb6be74e279-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T17:01:34Z"
+    },
+    "twitter": {
+        "afterandromeda": {
+            "id": null,
+            "handle": "afterandromeda",
+            "displayName": "🔞Afta Andromeda",
+            "description": "Streaming on Fansly ✨",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2116364731695210496/j9g4PrSK_400x400.png",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/AfterAndromeda",
+            "fetchedAt": "2026-11-27T17:02:09Z"
+        }
+    },
+    "fansly": {
+        "id": "866912211786821634",
+        "username": "AfterdarkAndromeda",
+        "displayName": "Afta Andromeda",
+        "version": 8,
+        "followCount": 5364,
+        "statusId": 1,
+        "accountMediaLikes": 3200,
+        "postLikes": 1384,
+        "about": "Independent NSFW VR Porn Actress 🐰\nI post clips from streams, lewd photo sets and recorded kink content. I use two models, the same character Afta in two different eras (college and cabaret bunny)\n\nAll of my content is copyrighted content that I own. \n\nSOCIALS [ https://guns.lol/afta.andromeda ]\nWISHLIST [ https://throne.com/afterdarkandromeda ]\n\nAll models used with permission from their creators:\n\"Abbess\" Avatar by Jinny: https://jinnyvrc.gumroad.com/l/Abbess\n\"Alice\" Avatar by LividLily: https://lividlily.gumroad.com/l/Velvet",
+        "location": "Australia",
+        "streaming": {
+            "accountId": "866912211786821634",
+            "channel": {
+                "id": "878504515022639104",
+                "accountId": "866912211786821634",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.uthMUFc7wm1G.m3u8",
+                "chatRoomId": "878504926618071040",
+                "status": 2,
+                "version": 120,
+                "createdAt": 1770946158000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "878504515022639105",
+                    "historyId": "980013186801479680",
+                    "channelId": "878504515022639104",
+                    "accountId": "866912211786821634",
+                    "title": "🔦🐰 Getting lost in a dark forest I sure hope nothing bad happens! - !menu !wheel ",
+                    "status": 1,
+                    "viewerCount": 51,
+                    "version": 180,
+                    "createdAt": 1770946158000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795154864000,
+                    "startedAt": 1795147711000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "977009132915683328",
+                                "streamId": "878504515022639105",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T17:02:46Z"
+    }
+}

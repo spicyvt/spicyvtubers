@@ -1,0 +1,109 @@
+{
+    "bio": "🐾 Chill Nekomimi ENVTuber doll who variety streams, likes to game and chat. 18+ only.",
+    "twitch": {
+        "id": "1440383911",
+        "login": "genevieve_xoo",
+        "displayName": "Genevieve_XOO",
+        "createdAt": "2026-02-09T22:10:52.474941Z",
+        "updatedAt": "2026-11-27T08:48:39.34266Z",
+        "description": "🐾 Chill Nekomimi ENVTuber doll who variety streams, likes to game and chat. 18+ only.",
+        "primaryColorHex": "FFCBDC",
+        "followers": {
+            "totalCount": 198
+        },
+        "follows": {
+            "totalCount": 72
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-25T05:23:25.941191Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0555e1f3-e4fd-4e4e-a7a1-16b6897bb8b6-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T17:01:48Z"
+    },
+    "youtube": {
+        "id": "UCHX4Bvbd551UKFOMo4Gq-Hg",
+        "handle": "GenevieveXO",
+        "title": "GenevieveXO",
+        "description": "🐾 Chill nekomimi VTuber doll who variety streams, likes to game and chat. Typically LIVE most days from afternoons to evenings, depending on my internet. | 18+ only. VODs under \"LIVE\" tab.",
+        "channelUrl": "https://www.youtube.com/channel/UCHX4Bvbd551UKFOMo4Gq-Hg",
+        "keywords": "VTuber ENVTuber \"Asian Girl\"",
+        "profileImageUrl": "https://yt3.googleusercontent.com/N4qk6xPf5b962OovO9VP9KrIhPuV-3ZR72jAiB_EMUXAA2hfGacyubIc4AEsXN2_ESPHb0M7gQ=h300",
+        "subscriberCountText": "205 subscribers",
+        "videoCountText": "188 videos",
+        "fetchedAt": "2026-11-27T17:01:50Z"
+    },
+    "twitter": {
+        "genevievexoo": {
+            "id": null,
+            "handle": "genevievexoo",
+            "displayName": "GenevieveXO",
+            "description": "✨Shy until I’m not. Can be a brat, is a brat. 18+ NSFW account | VTuber streams | Audio | Customs. Streams TBD for now, back in Nov hopefully?",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2118138584091799552/qMX0k8Un_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/genevievexoo",
+            "fetchedAt": "2026-11-27T17:02:27Z"
+        }
+    },
+    "fansly": {
+        "id": "873742169398063105",
+        "username": "genevievexo",
+        "displayName": "GenevieveXO",
+        "version": 9,
+        "followCount": 3933,
+        "statusId": 3,
+        "accountMediaLikes": 341,
+        "postLikes": 610,
+        "about": "💖 Genevieve here!\nI’m shy. Can be a brat, is a brat. Make of that what you will.\n💦 CURRENTLY TBD. Mostly on Twitch and Discord rn. Join the server for updates!\n(Usually LIVE M-F 1:30PM-ish EST, at least twice a week. Don’t miss it.)\n\n🎙️ VTuber streams NSFW + SFW | Custom requests\n🐱 Female | Straight | Single | Petite | BBW\n🐾  I do bite a little. I’m your problem now. Handle me. 😉\n\nI’m yours to:\n👑 Spoil: throne.com/genevievexo\n☕️ Ko-Fi: ko-fi.com/genevievexo\n🔗 All my links: linktr.ee/genevievexoo\n\n💜 Discord Server: NOW OPEN!\nSubs get special access and DMs.\n\nAll content under copyright.",
+        "location": "",
+        "streaming": {
+            "accountId": "873742169398063105",
+            "channel": {
+                "id": "873841868889153536",
+                "accountId": "873742169398063105",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ZsNJpqgNYiwl.m3u8",
+                "chatRoomId": "874316700986662912",
+                "status": 2,
+                "version": 197,
+                "createdAt": 1769834496000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "873841868889153537",
+                    "historyId": "962114468064538624",
+                    "channelId": "873841868889153536",
+                    "accountId": "873742169398063105",
+                    "title": "💦 Play with me! | !menu !socials !discord !goals",
+                    "status": 1,
+                    "viewerCount": 34,
+                    "version": 382,
+                    "createdAt": 1769834497000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1790891258000,
+                    "startedAt": 1790880324000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "918976739256836096",
+                                "streamId": "873841868889153537",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T17:02:46Z"
+    }
+}

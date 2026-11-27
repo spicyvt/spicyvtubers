@@ -1,0 +1,97 @@
+{
+    "bio": "Just a silly mute",
+    "twitch": {
+        "id": "744895818",
+        "login": "starlanat",
+        "displayName": "starlanat",
+        "createdAt": "2021-11-20T05:27:08.175478Z",
+        "updatedAt": "2026-11-18T03:58:11.714358Z",
+        "description": "Just a silly mute",
+        "primaryColorHex": "380505",
+        "followers": {
+            "totalCount": 424
+        },
+        "follows": {
+            "totalCount": 105
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-05-28T12:34:31.966135Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/b67e9b20-2adc-40a8-a7e0-278f47584ce6-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T17:01:44Z"
+    },
+    "twitter": {
+        "natstarla": {
+            "id": null,
+            "handle": "natstarla",
+            "displayName": "starla",
+            "description": "content creator\nclick the link below to see more of me :3\n⪩ ⪨ ꠹",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2126223210618195968/-L1rcyMY_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/natstarla",
+            "fetchedAt": "2026-11-27T17:02:24Z"
+        }
+    },
+    "fansly": {
+        "id": "831145029098549248",
+        "username": "starlanat",
+        "displayName": "Starla",
+        "version": 6,
+        "followCount": 1237,
+        "statusId": 1,
+        "accountMediaLikes": 1140,
+        "postLikes": 1172,
+        "about": "Good kitty, Evil mute\nall my links -> starlavr.carrd.co\n",
+        "location": "",
+        "streaming": {
+            "accountId": "831145029098549248",
+            "channel": {
+                "id": "908320553209704448",
+                "accountId": "831145029098549248",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.YnXJX0gWl7hp.m3u8",
+                "chatRoomId": "908321503798390784",
+                "status": 2,
+                "version": 9,
+                "createdAt": 1778054855000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "908320553209704449",
+                    "historyId": "921999006693875712",
+                    "channelId": "908320553209704448",
+                    "accountId": "831145029098549248",
+                    "title": "New toys! New goals~ This kitty wants you to tame her",
+                    "status": 1,
+                    "viewerCount": 28,
+                    "version": 10,
+                    "createdAt": 1778054855000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781659395000,
+                    "startedAt": 1781316053000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "917946041905471488",
+                                "streamId": "908320553209704449",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T17:02:46Z"
+    }
+}

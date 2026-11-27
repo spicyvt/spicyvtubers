@@ -1,0 +1,88 @@
+{
+    "bio": "that clown in vr",
+    "twitch": {
+        "id": "84223749",
+        "login": "wildwestwild",
+        "displayName": "WildWestWild",
+        "createdAt": "2015-03-02T21:16:50.430077Z",
+        "updatedAt": "2026-11-19T09:31:08.224113Z",
+        "description": "that clown in vr",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 54
+        },
+        "follows": {
+            "totalCount": 585
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-07-14T20:11:43.188086Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/438c5491-9154-4c31-9826-3ae8988c30fb-profile_image-300x300.jpg",
+        "fetchedAt": "2026-11-27T17:02:04Z"
+    },
+    "twitter": {
+        "wildwestwildvr": {
+            "id": null,
+            "handle": "wildwestwildvr",
+            "displayName": "WildWestWildvr",
+            "description": "NSFW 🔞 18+ ONLY | They/Them | Clussy Connoisseur | Scenecore Slut | Collabs Open | content made in CVR\nwant a Flexuh avatar? check out the link on my linktree!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1972118257642471424/Va8trnTY_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/wildwestwildvr",
+            "fetchedAt": "2026-11-27T17:02:42Z"
+        }
+    },
+    "fansly": {
+        "id": "473653885832011776",
+        "username": "WildWestWild",
+        "displayName": null,
+        "version": 11,
+        "followCount": 3017,
+        "statusId": 1,
+        "accountMediaLikes": 6881,
+        "postLikes": 6655,
+        "about": "They/Them \nThe Clussy Connoisseur\nCustoms Open | Collabs Open\nhttps://linktr.ee/wildwestwild\n\nYour favorite lewd vr clown! Come and join as I bring you pleasure, joy, and everything your heart could possibly imagine!\n\nStreams every week on Thursday 9pm est! Lots of free photos! Subs get access to a few extra photos and all my videos and vods!\n\nWanna vibe with me? pick up a Lovense toy here: https://www.lovense.com/r/rummlh\n\nall content made in CVR",
+        "location": "",
+        "streaming": {
+            "accountId": "473653885832011776",
+            "channel": {
+                "id": "766183399265148928",
+                "accountId": "473653885832011776",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hTIzOsCFnpm7.m3u8",
+                "chatRoomId": "766183683638964224",
+                "status": 2,
+                "version": 17,
+                "createdAt": 1744166717000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "766183399265148929",
+                    "historyId": "982516421697220608",
+                    "channelId": "766183399265148928",
+                    "accountId": "473653885832011776",
+                    "title": "clowning around full of turkey",
+                    "status": 1,
+                    "viewerCount": 36,
+                    "version": 1230,
+                    "createdAt": 1744166717000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795754636000,
+                    "startedAt": 1795744529000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T17:02:46Z"
+    }
+}

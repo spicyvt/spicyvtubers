@@ -1,0 +1,101 @@
+{
+    "bio": "A femboy exploring the internet and playing what he finds fun",
+    "twitch": {
+        "id": "1517209650",
+        "login": "tootired_vrc",
+        "displayName": "TooTired_VRC",
+        "createdAt": "2026-06-30T06:58:02.333681Z",
+        "updatedAt": "2026-07-24T08:58:20.878537Z",
+        "description": "A femboy exploring the internet and playing what he finds fun",
+        "primaryColorHex": "FF38DB",
+        "followers": {
+            "totalCount": null
+        },
+        "follows": {
+            "totalCount": 0
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbba20e-a9fe-4780-a957-9b942dda5b49-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T17:01:43Z"
+    },
+    "twitter": {
+        "tootiredvrc": {
+            "id": null,
+            "handle": "tootiredvrc",
+            "displayName": "Tired",
+            "description": "Nerdy femboy with too many tisms | Shitposter | FXV! Enjoyer | Dog-pilled | Will see in monochrome colours | 18+",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2065357023160754176/afoZHU2q_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/TooTiredVRC",
+            "fetchedAt": "2026-11-27T17:02:20Z"
+        },
+        "bicyclensfw": {
+            "id": null,
+            "handle": "bicyclensfw",
+            "displayName": "TiredButEvil🔞",
+            "description": "Just a place to dump my darker desires🖤 |\nA needy puppy femboy 🐾 | MDNI | Open to collabs | My SFW: https://t.co/JFetzkHrha",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2079567281282289664/3xTDFavH_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/BicycleNSFW",
+            "fetchedAt": "2026-11-27T17:02:22Z"
+        }
+    },
+    "fansly": {
+        "id": "933625865072300032",
+        "username": "TooTiredVRC",
+        "displayName": null,
+        "version": 3,
+        "followCount": 715,
+        "statusId": 1,
+        "accountMediaLikes": 468,
+        "postLikes": 255,
+        "about": "A lewd femboy sharing his lewdness across the internet, also a certified dog; call me puppy and watch me melt\n\nLink to all my other socials:\nlinktr.ee/TooTiredVRC",
+        "location": "",
+        "streaming": {
+            "accountId": "933625865072300032",
+            "channel": {
+                "id": "939557771500609538",
+                "accountId": "933625865072300032",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.DWDjVnglIdCG.m3u8",
+                "chatRoomId": "944963818960728064",
+                "status": 2,
+                "version": 6,
+                "createdAt": 1785502388000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "939557771500609539",
+                    "historyId": "947154592083243009",
+                    "channelId": "939557771500609538",
+                    "accountId": "933625865072300032",
+                    "title": "watch for slime wigges",
+                    "status": 1,
+                    "viewerCount": 19,
+                    "version": 12,
+                    "createdAt": 1785502389000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1787321238000,
+                    "startedAt": 1787313612000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T17:02:46Z"
+    }
+}

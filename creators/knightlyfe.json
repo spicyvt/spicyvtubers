@@ -1,0 +1,97 @@
+{
+    "bio": "Hello cuties, and welcome to my channel. Here you'll find comfy times, good conversation, and some dancing along the way. Don't mind my silence, since you've taken my breath away. See you soon, and have a lovely day. I believe in you!",
+    "twitch": {
+        "id": "136389788",
+        "login": "knightlyfe_vt",
+        "displayName": "Knightlyfe_VT",
+        "createdAt": "2016-10-06T14:18:05.343297Z",
+        "updatedAt": "2026-11-26T17:40:53.90495Z",
+        "description": "Hello cuties, and welcome to my channel. Here you'll find comfy times, good conversation, and some dancing along the way. Don't mind my silence, since you've taken my breath away. See you soon, and have a lovely day. I believe in you!",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": 1051
+        },
+        "follows": {
+            "totalCount": 312
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-26T20:22:03.789645Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/0fabb502-3676-4051-9260-7b585df958b4-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T17:02:05Z"
+    },
+    "twitter": {
+        "knightinggalevr": {
+            "id": null,
+            "handle": "knightinggalevr",
+            "displayName": "KnightingGaleVR",
+            "description": "I use this account for Spicy VR stuff, Twitch, and Blue Twitch. #lasyusha https://t.co/qyr11iOvVR",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2055984599847555074/i7tGfwt1_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/KnightingGaleVR",
+            "fetchedAt": "2026-11-27T17:02:43Z"
+        }
+    },
+    "fansly": {
+        "id": "437801609464913920",
+        "username": "KnightlyfeAfterDark",
+        "displayName": "Knightlyfe",
+        "version": 15,
+        "followCount": 1885,
+        "statusId": 1,
+        "accountMediaLikes": 430,
+        "postLikes": 245,
+        "about": "The After Dark area of Knightlyfe_VT!\nMute!\nOld enough to be your mommy~\nShe/ They",
+        "location": "Virtual Bakery",
+        "streaming": {
+            "accountId": "437801609464913920",
+            "channel": {
+                "id": "688235134503100416",
+                "accountId": "437801609464913920",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.oAvEiQZtzgnt.m3u8",
+                "chatRoomId": "688235566164094976",
+                "status": 2,
+                "version": 61,
+                "createdAt": 1725582402000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "688235134503100417",
+                    "historyId": "982559517478776832",
+                    "channelId": "688235134503100416",
+                    "accountId": "437801609464913920",
+                    "title": "💕STUFFED for the holidays💕",
+                    "status": 1,
+                    "viewerCount": 32,
+                    "version": 3269,
+                    "createdAt": 1725582403000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795765457000,
+                    "startedAt": 1795754804000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "976333520098045953",
+                                "streamId": "688235134503100417",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T17:02:46Z"
+    }
+}

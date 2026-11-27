@@ -9750,7 +9750,6 @@
     "channel": "BlandShip",
     "twitch": "blandship",
     "xHandles": ["blandship", "blandshipnsfw"],
-    "socials": "",
     "avatar": "avatarsx"
   },
   {
@@ -9997,7 +9996,7 @@
     "channel": "lulubluwu",
     "twitch": "lulubluwu",
     "youtube": "lulubluwu",
-    "xHandles": ["lulubluwu", ""],
+    "xHandles": ["lulubluwu"],
     "socials": "https://linktr.ee/lulubluwu",
     "avatar": "avatarsx"
   },
@@ -10824,7 +10823,7 @@
     "fansly": "nyanekoyaki",
     "channel": "NyaNekoyaki",
     "twitch": "nyanekoyaki",
-    "xHandles": ["nyanekoyaki", ""],
+    "xHandles": ["nyanekoyaki"],
     "socials": "https://nyanekoyaki.carrd.co/",
     "avatar": "avatarsx"
   },
@@ -11197,7 +11196,7 @@
     "channel": "Levvi_Lilycrown",
     "twitch": "levvi_lilycrown",
     "youtube": "levvi_lilycrown",
-    "xHandles": ["levvi_lilycrown", ""],
+    "xHandles": ["levvi_lilycrown"],
     "socials": "https://lilycrownvt.carrd.co/",
     "avatar": "avatarsx"
   },
@@ -11262,7 +11261,7 @@
     "fansly": "sighcodelics",
     "channel": "Sighcodelics",
     "twitch": "sighcodelics",
-    "xHandles": ["sighcodelicsvr", ""],
+    "xHandles": ["sighcodelicsvr"],
     "socials": "https://linktr.ee/Sighcodelics",
     "avatar": "avatarsx"
   },
@@ -11316,7 +11315,7 @@
     "channel": "QueenSitra",
     "twitch": "queensitra",
     "youtube": "queensitra",
-    "xHandles": ["queensitra", ""],
+    "xHandles": ["queensitra"],
     "socials": "https://queensitra.com/",
     "avatar": "avatarsx"
   },
@@ -11583,7 +11582,7 @@
     "fansly": "lilmuffinator",
     "channel": "LilMuffinator",
     "twitch": "lilmuffinator",
-    "xHandles": ["muffinator_vrc", ""],
+    "xHandles": ["muffinator_vrc"],
     "socials": "https://linktr.ee/lilmuffinator",
     "avatar": "avatarsx"
   },
@@ -11957,9 +11956,7 @@
     "slug": "maxithemuse",
     "fansly": "maxithemuse",
     "channel": "MaxiTheMuse",
-    "twitch": "",
-    "xHandles": ["maxithemuse", ""],
-    "socials": "",
+    "xHandles": ["maxithemuse"],
     "avatar": "avatarsx"
   },
   {
@@ -12042,7 +12039,7 @@
     "slug": "ocwintair",
     "fansly": "ocwintair",
     "channel": "OcWintair",
-    "xHandles": ["ocwintair", ""],
+    "xHandles": ["ocwintair"],
     "avatar": "avatarsx"
   },
   {
@@ -14751,7 +14748,7 @@
     "fansly": "athena-airis",
     "channel": "Athena Airis",
     "twitch": "athena_airis",
-    "xHandles": ["athena_airis", ""],
+    "xHandles": ["athena_airis"],
     "socials": "https://linktr.ee/athenaairis",
     "avatar": "avatarsx"
   },
@@ -14862,7 +14859,6 @@
     "slug": "brattycoyote",
     "fansly": "brattycoyote",
     "channel": "BrattyCoyote",
-    "twitch": "",
     "xHandles": ["brattycoyote"],
     "socials": "https://guns.lol/brattycoyote",
     "avatar": "avatarsx"
@@ -14930,7 +14926,7 @@
     "channel": "LuxxiLewd",
     "twitch": "luxxilewd",
     "youtube": "luxxilewd",
-    "xHandles": ["luxxilewd", ""],
+    "xHandles": ["luxxilewd"],
     "socials": "https://linktr.ee/luxxilewd",
     "avatar": "avatarsx"
   },
@@ -15001,9 +14997,7 @@
     "fansly": "leafvrc",
     "patreon": "leafvrc",
     "channel": "Leaf",
-    "twitch": "",
     "xHandles": ["leafvrc", "fanbox_leaf"],
-    "socials": "",
     "avatar": "avatarsx"
   },
   {
@@ -15160,8 +15154,7 @@
     "fansly": "mothervrc",
     "channel": "MotherVRC",
     "twitch": "mothervrc",
-    "xHandles": ["mothervrc", ""],
-    "socials": "",
+    "xHandles": ["mothervrc"],
     "avatar": "avatarsx"
   },
   {
@@ -15411,7 +15404,7 @@
     "channel": "KarmiPaws",
     "twitch": "karmipaws",
     "youtube": "karmipawsasmr",
-    "xHandles": ["karmipaws"],
+    "xHandles": ["karmipaws", "karmisus"],
     "socials": "https://karmipaws.carrd.co/",
     "avatar": "avatarsx"
   },
@@ -15420,7 +15413,7 @@
     "fansly": "s1l3ncevr",
     "channel": "s1l3nceVR",
     "twitch": "s1l3nce",
-    "xHandles": ["s1l3ncevr", ""],
+    "xHandles": ["s1l3ncevr"],
     "socials": "https://linktr.ee/s1l3nce",
     "avatar": "avatarsx"
   },
@@ -15473,12 +15466,175 @@
     "avatar": "avatarsx"
   },
   {
-    "slug": "",
-    "fansly": "",
-    "channel": "",
-    "twitch": "",
-    "xHandles": ["", ""],
-    "socials": ""
+    "slug": "afterandromeda",
+    "fansly": "afterdarkandromeda",
+    "channel": "Afta Andromeda",
+    "twitch": "afterandromeda",
+    "xHandles": ["afterandromeda"],
+    "socials": "https://guns.lol/afta.andromeda",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "gingeykat",
+    "fansly": "gingeykat",
+    "channel": "gingeykat",
+    "twitch": "gingeykat",
+    "xHandles": ["gingeykat"],
+    "socials": "https://guns.lol/gingeykat",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "troble",
+    "fansly": "trobleton",
+    "channel": "Troble",
+    "twitch": "troble",
+    "kick": "troble",
+    "xHandles": ["trobleton"],
+    "socials": "https://linktr.ee/Trobleton",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "ang3lc4ke",
+    "fansly": "ang3lc4kelewd",
+    "channel": "Ang3lC4ke",
+    "twitch": "ang3lc4kevr",
+    "youtube": "shortysnightcorelounge240",
+    "xHandles": ["ang3lc4kefluffy", "ang3lc4kelewd"],
+    "socials": "https://ang3lc4kelewd.carrd.co/",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "abehamm",
+    "fansly": "abehamm",
+    "channel": "Abehamm",
+    "twitch": "abehamm",
+    "xHandles": ["abehammvr", "abehammnsfw"],
+    "socials": "https://abehamm.carrd.co/",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "tootiredvrc",
+    "fansly": "tootiredvrc",
+    "channel": "TooTiredVRC",
+    "twitch": "tootired_vrc",
+    "xHandles": ["tootiredvrc", "bicyclensfw"],
+    "socials": "https://linktr.ee/TooTiredVRC",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "starlanat",
+    "fansly": "starlanat",
+    "channel": "Starla",
+    "twitch": "starlanat",
+    "xHandles": ["natstarla"],
+    "socials": "https://starlavr.carrd.co/",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "hynero",
+    "fansly": "hynero",
+    "channel": "Hynero",
+    "twitch": "hynero",
+    "kick": "hynero",
+    "xHandles": ["realhynero"],
+    "socials": "https://linktr.ee/hynero",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "genevievexo",
+    "fansly": "genevievexo",
+    "channel": "GenevieveXO",
+    "twitch": "genevieve_xoo",
+    "youtube": "genevievexo",
+    "xHandles": ["genevievexoo"],
+    "socials": "https://linktr.ee/genevievexoo",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "scomfy",
+    "fansly": "scomfy",
+    "channel": "scomfy",
+    "twitch": "scomfy",
+    "kick": "scomfy",
+    "xHandles": ["scomfyvr"],
+    "socials": "https://scomfy.tv/",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "zenithvr",
+    "fansly": "zenithvr",
+    "channel": "ZenithVR",
+    "twitch": "zenithvr_",
+    "kick": "zenithvr",
+    "xHandles": ["zenith_vr_sfw", "zenith_vr_"],
+    "socials": "https://guns.lol/zenith_vr",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "ravingmidnight",
+    "fansly": "ravingmidnight",
+    "channel": "RavingMidnight",
+    "twitch": "ravingmidnight",
+    "xHandles": ["ravingmidnight"],
+    "socials": "https://linktr.ee/RavingMidnight",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "evelyn",
+    "fansly": "bubblebuttbun",
+    "channel": "Evelyn",
+    "twitch": "elevelynn_",
+    "xHandles": ["bubblebuttvr"],
+    "socials": "https://linktr.ee/elevelyn",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "imcrazyjinx",
+    "fansly": "imcrazyjinx",
+    "channel": "ImCrazyJinx",
+    "twitch": "imcrazyjinx",
+    "kick": "imcrazyjinx",
+    "xHandles": ["imcrazyjinx", "imcrazyjinxvr"],
+    "socials": "https://imcrazyjinx.carrd.co/",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "catgirltv",
+    "fansly": "catgirltv",
+    "channel": "CatGirlTV",
+    "twitch": "catgirltv",
+    "kick": "catgirltv",
+    "xHandles": ["catgirltv"],
+    "socials": "https://linktr.ee/catgirltv",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "wildwestwild",
+    "fansly": "wildwestwild",
+    "joystick": "wildwestwild",
+    "channel": "WildWestWild",
+    "twitch": "wildwestwild",
+    "xHandles": ["wildwestwildvr"],
+    "socials": "https://linktr.ee/wildwestwild",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "knightlyfe",
+    "fansly": "knightlyfeafterdark",
+    "channel": "Knightlyfe",
+    "twitch": "knightlyfe_vt",
+    "xHandles": ["knightinggalevr"],
+    "socials": "https://linktr.ee/knightlyfevr",
+    "avatar": "avatarsx"
+  },
+  {
+    "slug": "ikittu",
+    "fansly": "ikittu",
+    "channel": "Kittu",
+    "twitch": "ikittu",
+    "xHandles": ["ikittu_"],
+    "socials": "https://linktr.ee/iKittu",
+    "avatar": "avatarsx"
   },
   {
     "slug": "",
