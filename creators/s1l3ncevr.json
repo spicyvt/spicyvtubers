@@ -1,0 +1,97 @@
+{
+    "bio": "Just a VRChat Mute vibing and having some fun.",
+    "twitch": {
+        "id": "21190567",
+        "login": "s1l3nce",
+        "displayName": "s1l3nce",
+        "createdAt": "2011-03-17T19:03:46.137824Z",
+        "updatedAt": "2026-11-23T21:53:06.310357Z",
+        "description": "Just a VRChat Mute vibing and having some fun.",
+        "primaryColorHex": "00F0F0",
+        "followers": {
+            "totalCount": null
+        },
+        "follows": {
+            "totalCount": 530
+        },
+        "roles": {
+            "isPartner": true,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-11-25T01:43:07.052038Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0fa7cb1-9781-49c6-a740-9b5df140d5b0-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T06:27:11Z"
+    },
+    "twitter": {
+        "s1l3ncevr": {
+            "id": null,
+            "handle": "s1l3ncevr",
+            "displayName": "s1l3nceVR",
+            "description": "🔞18+🔞I like to change outfits a lot. \nWant to spoil me? https://t.co/TbMyir9VZ1.                    \nStore page: https://t.co/2ZtwQvskvj\nTwitch Partner",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2098274418619215881/yX1sX-qR_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/s1l3nceVR",
+            "fetchedAt": "2026-11-27T06:27:41Z"
+        }
+    },
+    "fansly": {
+        "id": "512852530942717952",
+        "username": "s1l3nceVR",
+        "displayName": "s1l3nceVR",
+        "version": 5,
+        "followCount": 6734,
+        "statusId": 1,
+        "accountMediaLikes": 6574,
+        "postLikes": 4827,
+        "about": "Hoping to make some content you all enjoy! Bringing some good vibes and wiggles with lots of booty!\n\nMute. 💕 Anime Girl. 💕\n\nCheck out my socials\nhttps://linktr.ee/s1l3nce",
+        "location": "",
+        "streaming": {
+            "accountId": "512852530942717952",
+            "channel": {
+                "id": "779123167330316288",
+                "accountId": "512852530942717952",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ntv4HSFX8eK5.m3u8",
+                "chatRoomId": "779124269593407489",
+                "status": 2,
+                "version": 104,
+                "createdAt": 1747251798000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "779123167330316289",
+                    "historyId": "982095296244772865",
+                    "channelId": "779123167330316288",
+                    "accountId": "512852530942717952",
+                    "title": "NNN! I've missed your cock ;) Please cum make me cum <3",
+                    "status": 1,
+                    "viewerCount": 122,
+                    "version": 761,
+                    "createdAt": 1747251798000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795655588000,
+                    "startedAt": 1795644125000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "971919255568150528",
+                                "streamId": "779123167330316289",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T06:27:54Z"
+    }
+}

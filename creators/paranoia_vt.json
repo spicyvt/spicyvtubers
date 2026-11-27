@@ -1,0 +1,85 @@
+{
+    "bio": "",
+    "youtube": {
+        "id": "UCghUDnttIIMuQEBoUlC-xtg",
+        "handle": "Paranoia_vt",
+        "title": "Paranoia_vt",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCghUDnttIIMuQEBoUlC-xtg",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/PMBfCgfroJDyA939rTSUSET0mE2bSafWyS0cNMxJhS_YqnB9mUM_SCTquLLreu9_7j2tEpyDAg=h300",
+        "subscriberCountText": "96 subscribers",
+        "videoCountText": "1 video",
+        "fetchedAt": "2026-11-27T06:27:19Z"
+    },
+    "twitter": {
+        "paranoia_vt": {
+            "id": null,
+            "handle": "paranoia_vt",
+            "displayName": "Paranoia",
+            "description": "Just a single girl who streams.\n\nhttps://t.co/joQbIrQ4YL\nDiscount on Lovense toys 🩷",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2124451949361692672/D0luDg1V_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Paranoia_vt",
+            "fetchedAt": "2026-11-27T06:27:49Z"
+        }
+    },
+    "fansly": {
+        "id": "756359374456238247",
+        "username": "Paranoia_vt",
+        "displayName": "Paranoia",
+        "version": 12,
+        "followCount": 10115,
+        "statusId": 1,
+        "accountMediaLikes": 8339,
+        "postLikes": 5811,
+        "about": "Just a single girl who streams. \n\n lovense.com/p/Paranoia\nDiscount on Lovense toys 🩷",
+        "location": "Argentina",
+        "streaming": {
+            "accountId": "756359374456238247",
+            "channel": {
+                "id": "758561197095137280",
+                "accountId": "756359374456238247",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.9Hq6ux3Apb8q.m3u8",
+                "chatRoomId": "758562703483609089",
+                "status": 2,
+                "version": 46,
+                "createdAt": 1742349442000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "758561197095137281",
+                    "historyId": "981494023455797248",
+                    "channelId": "758561197095137280",
+                    "accountId": "756359374456238247",
+                    "title": "Lonely paranoia needs love.......🧡",
+                    "status": 1,
+                    "viewerCount": 74,
+                    "version": 8483,
+                    "createdAt": 1742349443000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795512016000,
+                    "startedAt": 1795500770000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "915879236022050816",
+                                "streamId": "758561197095137281",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T06:27:54Z"
+    }
+}

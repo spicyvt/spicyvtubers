@@ -1,0 +1,97 @@
+{
+    "bio": "Hai hai~ I'm Fuzzy. VRChat streamer that occasionally plays variety.",
+    "twitch": {
+        "id": "80685520",
+        "login": "fuzzynarwhal",
+        "displayName": "FuzzyNarwhal",
+        "createdAt": "2015-01-23T23:51:09.570695Z",
+        "updatedAt": "2026-11-12T23:42:37.20047Z",
+        "description": "Hai hai~ I'm Fuzzy. VRChat streamer that occasionally plays variety.",
+        "primaryColorHex": "1345AA",
+        "followers": {
+            "totalCount": 85
+        },
+        "follows": {
+            "totalCount": 125
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-02-08T20:48:01.797219Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/820f41a0-ec05-4624-a981-2e7f4191ec30-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T06:27:06Z"
+    },
+    "twitter": {
+        "fuzzynarwhalvr": {
+            "id": null,
+            "handle": "fuzzynarwhalvr",
+            "displayName": "FuzzyNarwhal 🇮🇪 🔞",
+            "description": "30+ Irish trans girl. \nCollabs open but be patient while organising.\nCVR Content\nhttps://t.co/ijmWIhnE8D\nTaken by @Commander_Wolf_",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1979629574653706240/7coSiOXF_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/FuzzyNarwhalVR",
+            "fetchedAt": "2026-11-27T06:27:34Z"
+        }
+    },
+    "fansly": {
+        "id": "348737798657810432",
+        "username": "FuzzyNarwhal",
+        "displayName": null,
+        "version": 9,
+        "followCount": 4227,
+        "statusId": 1,
+        "accountMediaLikes": 9400,
+        "postLikes": 6084,
+        "about": "I'm Fuzzy, an Irish, bisexual, trans girl. Taken by @Commander_Wolf_. \nDMs open to other creators for collabs and for custom requests.\n\nI'm a very sensual girl and have intense, leg shaking, mind melting feminine orgasms, so expect a lot of moaning and screaming.\n\nI hate pinning too many posts, so click \"Full Collabs\" so see all my full feature videos.\n\nThe Enjoy The Show tier gets you access to all video content and larger photo sets.\n\nAll content is renders or taken in CVR. DMs open to other creators and for custom requests.",
+        "location": "Ireland",
+        "streaming": {
+            "accountId": "348737798657810432",
+            "channel": {
+                "id": "670392703069990912",
+                "accountId": "348737798657810432",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.O1NMPJ1T9C6G.m3u8",
+                "chatRoomId": "670393031085535232",
+                "status": 2,
+                "version": 22,
+                "createdAt": 1721328435000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "670392703069990913",
+                    "historyId": "921581052697268224",
+                    "channelId": "670392703069990912",
+                    "accountId": "348737798657810432",
+                    "title": "Irish ☘️ | Trans | Lovense Hush | Facetracking ",
+                    "status": 1,
+                    "viewerCount": 14,
+                    "version": 680,
+                    "createdAt": 1721328436000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1781224850000,
+                    "startedAt": 1781216405000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "891906130752585728",
+                                "streamId": "670392703069990913",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T06:27:54Z"
+    }
+}

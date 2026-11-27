@@ -1,0 +1,109 @@
+{
+    "bio": "Hope you're having a great day!  https://throne.com/slerpa",
+    "twitch": {
+        "id": "208240773",
+        "login": "slerpaa",
+        "displayName": "Slerpaa",
+        "createdAt": "2018-03-24T23:08:25.845907Z",
+        "updatedAt": "2026-11-24T20:40:08.318462Z",
+        "description": "Hope you're having a great day!  https://throne.com/slerpa",
+        "primaryColorHex": "F7005B",
+        "followers": {
+            "totalCount": null
+        },
+        "follows": {
+            "totalCount": 129
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-07-31T23:02:09.66818Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/52665dca-3008-44ae-87c2-d77793bd6916-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T06:27:04Z"
+    },
+    "youtube": {
+        "id": "UCe_iC9Ugj3-9q3LHBdIU01A",
+        "handle": "Slerpa",
+        "title": "Slerpa",
+        "description": "Just some person, posting some random stuff \nhttps://www.twitch.tv/slerpii  \n\nhttps://x.com/Slerpa \n",
+        "channelUrl": "https://www.youtube.com/channel/UCe_iC9Ugj3-9q3LHBdIU01A",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/SON2YsBkJCjqHRSvCfNlyJ1dTdAxOoEAy8MS1UmuT7GNm1zXskd0Ti1IkTv67vThGSXToetFuQ=h300",
+        "subscriberCountText": "123 subscribers",
+        "videoCountText": "2 videos",
+        "fetchedAt": "2026-11-27T06:27:05Z"
+    },
+    "twitter": {
+        "slerpa": {
+            "id": null,
+            "handle": "slerpa",
+            "displayName": "Slerpa",
+            "description": "🔞 Just a silly person on VR! I take photos in VR occasionally and post them here :3 i love the NieR series, and sweet things~!",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1974929693938696192/IHWhoHLf_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/Slerpa",
+            "fetchedAt": "2026-11-27T06:27:28Z"
+        }
+    },
+    "fansly": {
+        "id": "367146659269849088",
+        "username": "Slerpa",
+        "displayName": "Slerpa",
+        "version": 7,
+        "followCount": 12305,
+        "statusId": 2,
+        "accountMediaLikes": 12702,
+        "postLikes": 8298,
+        "about": "Just a silly person on VR!\nposting Lewd photos and Hentai videos here~ \nHope you enjoy~~💦\nI love the NeiR series, and sweet things~!! \nFollow my socials @ https://linktr.ee/slerpa\nif you wanna send me gifts you can here! :3 https://throne.com/slerpa\nI take all personal requests! \nDM me for more info~\n\n\n\nReferrals: if you’re looking to become a fansly creator use my referral~! https://fans.ly/application/form?r=Slerpa\n\n\nALL CONTENT DONE IN CVR.\nAll content is under copyright. Enforced by bruqi.com.",
+        "location": "",
+        "streaming": {
+            "accountId": "367146659269849088",
+            "channel": {
+                "id": "695508772675661827",
+                "accountId": "367146659269849088",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.g2rLcKANJ82W.m3u8",
+                "chatRoomId": "695508820775940096",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1727316573000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "695508772675661828",
+                    "historyId": "900626931274235904",
+                    "channelId": "695508772675661827",
+                    "accountId": "367146659269849088",
+                    "title": "Follow my other socials here!    https://linktr.ee/slerpa",
+                    "status": 1,
+                    "viewerCount": 119,
+                    "version": 6341,
+                    "createdAt": 1727316573000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1776230645000,
+                    "startedAt": 1776220553000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "712576640944709632",
+                                "streamId": "695508772675661828",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T06:27:54Z"
+    }
+}

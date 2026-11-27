@@ -1,0 +1,76 @@
+{
+    "twitter": {
+        "ahrisfw": {
+            "id": null,
+            "handle": "ahrisfw",
+            "displayName": "💙𝒜𝒽𝓇𝒾 💙",
+            "description": "Just posting random thing :)",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1807443770826244096/96PN4Vn8_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/AhriSFW",
+            "fetchedAt": "2026-11-27T06:27:33Z"
+        },
+        "virtualahri": {
+            "id": "1610537111794458624",
+            "handle": "virtualahri",
+            "displayName": "🎀 𝒜𝒽𝓇𝒾 🎀",
+            "description": "👑Welcome to the Queen of Futa Mommy's~\n👅Virtual Reality NSFW Content~\n📹Custom Video or other Services? Check out my Fansly: https://fansly.com/VirtualAhri",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1932496549650579456/xAaixulK_400x400.jpg",
+            "followersCount": 15703,
+            "followingCount": 62,
+            "postsCount": 1915,
+            "accountCreatedAt": "2023-01-04T07:22:48.000Z",
+            "profileUrl": "https://x.com/VirtualAhri",
+            "fetchedAt": "2026-11-27T06:28:47Z"
+        }
+    },
+    "fansly": {
+        "id": "401764374638768128",
+        "username": "VirtualAhri",
+        "displayName": "VirtualAhri",
+        "version": 13,
+        "followCount": 7494,
+        "statusId": 3,
+        "accountMediaLikes": 15281,
+        "postLikes": 14998,
+        "about": "❤️Hey sweetheart, call me Ahri~\n👑I am the Queen of Futa Mommy's~\n🎁My Gift List + Links: https://linktr.ee/virtualahri",
+        "location": "My Bed~",
+        "streaming": {
+            "accountId": "401764374638768128",
+            "channel": {
+                "id": "518960433349009408",
+                "accountId": "401764374638768128",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.symyed46YsZ5.m3u8",
+                "chatRoomId": "518961188403425281",
+                "status": 2,
+                "version": 7,
+                "createdAt": 1685224169000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "518960433349009409",
+                    "historyId": "867881713324273664",
+                    "channelId": "518960433349009408",
+                    "accountId": "401764374638768128",
+                    "title": "Been a while <3",
+                    "status": 1,
+                    "viewerCount": 42,
+                    "version": 5525,
+                    "createdAt": 1685224169000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1768419766000,
+                    "startedAt": 1768413484000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T06:27:54Z"
+    }
+}

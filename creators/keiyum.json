@@ -1,0 +1,88 @@
+{
+    "bio": "Your special sunset flavored wiggler Lover of all things cute and fighting games!",
+    "twitch": {
+        "id": "22627647",
+        "login": "keiyum",
+        "displayName": "Keiyum",
+        "createdAt": "2011-05-27T08:38:51.010666Z",
+        "updatedAt": "2026-10-01T02:52:48.973051Z",
+        "description": "Your special sunset flavored wiggler Lover of all things cute and fighting games!",
+        "primaryColorHex": "000000",
+        "followers": {
+            "totalCount": null
+        },
+        "follows": {
+            "totalCount": 226
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-08-31T21:32:07.85897Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/82f84060-65b1-492c-abd7-9ec95c4bb889-profile_image-300x300.png",
+        "fetchedAt": "2026-11-27T06:27:15Z"
+    },
+    "twitter": {
+        "hyperkeiyum": {
+            "id": null,
+            "handle": "hyperkeiyum",
+            "displayName": "Keiyum &quot;Piping Hot Popping like Popcorn&quot;",
+            "description": "Sunset flavored VRChat Mute! Loves yakuza and porn and fighting games. Find me in other places too! https://t.co/aBlKXGX7KJ",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1898371374617411584/1A8e_kCE_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/HyperKeiyum",
+            "fetchedAt": "2026-11-27T06:27:46Z"
+        }
+    },
+    "fansly": {
+        "id": "711852822689230850",
+        "username": "Keiyum",
+        "displayName": "Keiyum",
+        "version": 4,
+        "followCount": 5438,
+        "statusId": 3,
+        "accountMediaLikes": 3464,
+        "postLikes": 2625,
+        "about": "Fun little VR mute trying to learn to be sexo! Yippee\n\nFree Streams every Sunday 11PM EST & Weekdays 4AM EST\n\nCome be silly in the discord! https://discord.gg/epMaW6NJba\n\nSorry I'm old.",
+        "location": "",
+        "streaming": {
+            "accountId": "711852822689230850",
+            "channel": {
+                "id": "806014097077321728",
+                "accountId": "711852822689230850",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.IOI0lQORoOZd.m3u8",
+                "chatRoomId": "806014191377866752",
+                "status": 2,
+                "version": 168,
+                "createdAt": 1753663095000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "806014097077321729",
+                    "historyId": "981141210313797632",
+                    "channelId": "806014097077321728",
+                    "accountId": "711852822689230850",
+                    "title": "NEW OUTFIT NEW STORIES NEW PLANS NEW GUEST?",
+                    "status": 1,
+                    "viewerCount": 95,
+                    "version": 220,
+                    "createdAt": 1753663096000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795429620000,
+                    "startedAt": 1795416653000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-27T06:27:54Z"
+    }
+}
