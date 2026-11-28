@@ -1,0 +1,109 @@
+{
+    "bio": "Hi there, I'm mew and i just love all things cute! also pink is kinda poggers. i hope you have fun watching me be weird!",
+    "twitch": {
+        "id": "487429715",
+        "login": "mutemewvr",
+        "displayName": "MuteMewVR",
+        "createdAt": "2020-01-22T23:15:29.560327Z",
+        "updatedAt": "2026-11-16T23:36:07.041868Z",
+        "description": "Hi there, I'm mew and i just love all things cute! also pink is kinda poggers. i hope you have fun watching me be weird!",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 1214
+        },
+        "follows": {
+            "totalCount": 954
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-19T03:16:28.662193Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/079f5eb3-2bed-4234-b872-4de02ed4bc51-profile_image-300x300.png",
+        "fetchedAt": "2026-11-28T05:19:15Z"
+    },
+    "youtube": {
+        "id": "UC_7Cl2WS2FAIZsmqWySPSpQ",
+        "handle": "mutemew",
+        "title": "Mute Mew",
+        "description": "I like pink!! Also I’m kinda dum!\n\nCome watch me play games live over at\nTwitch.tv/mutemew777",
+        "channelUrl": "https://www.youtube.com/channel/UC_7Cl2WS2FAIZsmqWySPSpQ",
+        "keywords": "entertainment \"what i think\" funny weird",
+        "profileImageUrl": "https://yt3.googleusercontent.com/tu88bKaaPvz_8Y9AXH8KlUdAW3e9HxJqmW6bnBXW7A_002fm0HOHy__VM_tN5Q55YrnIKJlmbQ=h300",
+        "subscriberCountText": "149 subscribers",
+        "videoCountText": "16 videos",
+        "fetchedAt": "2026-11-28T05:19:16Z"
+    },
+    "twitter": {
+        "mutemewofficial": {
+            "id": null,
+            "handle": "mutemewofficial",
+            "displayName": "Mute Mew",
+            "description": "|She/Her|NSFW +18| All my NSFW Content is created in ChilloutVR Face tracking pink gremlin mute SHORK! You can find more &quot;content&quot; on my Blue Site 👇",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1972152085702758407/_KIbZdVf_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/MuteMewOfficial",
+            "fetchedAt": "2026-11-28T05:19:25Z"
+        }
+    },
+    "fansly": {
+        "id": "501837560075526144",
+        "username": "MuteMew",
+        "displayName": null,
+        "version": 3,
+        "followCount": 4786,
+        "statusId": 1,
+        "accountMediaLikes": 8454,
+        "postLikes": 16487,
+        "about": "Hey, I am pink shork. I like to nom you! VR content!\n\nWant to see what else I’m up to look here\nlinktr.ee/mutemew\n\nWant to help me dress up more check out my throne\n\nhttps://throne.com/mutemew\n",
+        "location": "The internet",
+        "streaming": {
+            "accountId": "501837560075526144",
+            "channel": {
+                "id": "656556230046658560",
+                "accountId": "501837560075526144",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.eXuvJtWWaKXi.m3u8",
+                "chatRoomId": "656556526642671616",
+                "status": 2,
+                "version": 3,
+                "createdAt": 1718029563000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "656556230046658561",
+                    "historyId": "885471432774021120",
+                    "channelId": "656556230046658560",
+                    "accountId": "501837560075526144",
+                    "title": "Dum pink",
+                    "status": 1,
+                    "viewerCount": 43,
+                    "version": 8243,
+                    "createdAt": 1718029564000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1772611972000,
+                    "startedAt": 1772607200000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "656556477804195840",
+                                "streamId": "656556230046658561",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-28T05:19:31Z"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "bio": "Hi I'm Haru! I'm a fluffy little feline vtuber with a penchant for lewd chaos! Join me on my adventure!⪩ ⪨ ꠹ I hope I can be your *favorite* cat girl.~",
+    "twitch": {
+        "id": "750169645",
+        "login": "harxkavr",
+        "displayName": "harxkavr",
+        "createdAt": "2021-12-06T00:23:33.668733Z",
+        "updatedAt": "2026-10-25T02:28:43.707891Z",
+        "description": "Hi I'm Haru! I'm a fluffy little feline vtuber with a penchant for lewd chaos! Join me on my adventure!⪩ ⪨ ꠹ I hope I can be your *favorite* cat girl.~",
+        "primaryColorHex": null,
+        "followers": {
+            "totalCount": 9
+        },
+        "follows": {
+            "totalCount": 5
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": null
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4e5b75e-2693-4988-8251-656093b20c4a-profile_image-300x300.png",
+        "fetchedAt": "2026-11-28T05:19:13Z"
+    },
+    "twitter": {
+        "harxkavr": {
+            "id": null,
+            "handle": "harxkavr",
+            "displayName": "HarxkaVR",
+            "description": "NSFW 18+ MDNI\n29F\n⪩ ⪨ ꠹ Kitty Treats https://t.co/3OYlQLgVyY\nCVR Content",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2103876071493865472/J9DWOHRN_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/HarxkaVR",
+            "fetchedAt": "2026-11-28T05:19:23Z"
+        }
+    },
+    "fansly": {
+        "id": "841542986595594240",
+        "username": "Harxka",
+        "displayName": null,
+        "version": 6,
+        "followCount": 229,
+        "statusId": 3,
+        "accountMediaLikes": 248,
+        "postLikes": 233,
+        "about": "CVR Content\n⪩ ⪨ ꠹ Meowwww~\n29F\nJust starting out, more to cum~\nLet me be your fantasy.\n\nDMs can have irl requests :P\nhttps://harxkavr.carrd.co\n",
+        "location": "",
+        "streaming": {
+            "accountId": "841542986595594240",
+            "channel": {
+                "id": "971970373971095552",
+                "accountId": "841542986595594240",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.hkbsob8HyeIt.m3u8",
+                "chatRoomId": "971979605638402048",
+                "status": 2,
+                "version": 11,
+                "createdAt": 1793230155000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "971970373971095553",
+                    "historyId": "980934846840852480",
+                    "channelId": "971970373971095552",
+                    "accountId": "841542986595594240",
+                    "title": "new butt plug maybe?",
+                    "status": 1,
+                    "viewerCount": 2,
+                    "version": 8,
+                    "createdAt": 1793230155000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795374710000,
+                    "startedAt": 1795367452000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "973337385775419392",
+                                "streamId": "971970373971095553",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-28T05:19:31Z"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "bio": "(´｡• ᵕ •｡`) ♡\tily",
+    "twitch": {
+        "id": "623697471",
+        "login": "toastyanarchy",
+        "displayName": "ToastyAnarchy",
+        "createdAt": "2020-12-20T20:31:46.987208Z",
+        "updatedAt": "2026-11-06T18:54:16.533853Z",
+        "description": "(´｡• ᵕ •｡`) ♡\tily",
+        "primaryColorHex": "891579",
+        "followers": {
+            "totalCount": 275
+        },
+        "follows": {
+            "totalCount": 120
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-10-30T20:44:43.248878Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/971f7a10-b9ae-414b-b545-85eb09f9ad59-profile_image-300x300.png",
+        "fetchedAt": "2026-11-28T05:19:21Z"
+    },
+    "twitter": {
+        "toastyanarchyy": {
+            "id": null,
+            "handle": "toastyanarchyy",
+            "displayName": "Toasty ♡ | MDNI",
+            "description": "18+ MDNI\n♡ your local girlfailure\n✧ lewd puppy",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2114445164626190336/gasbUjZ7_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/toastyanarchyy",
+            "fetchedAt": "2026-11-28T05:19:29Z"
+        }
+    },
+    "fansly": {
+        "id": "970731178539622401",
+        "username": "ToastyAnarchy",
+        "displayName": null,
+        "version": 3,
+        "followCount": 82,
+        "statusId": 3,
+        "accountMediaLikes": 88,
+        "postLikes": 3,
+        "about": "˚⊹ ୨୧ 20 | Hungarian | Certified Girlfailure\nA needy little troublemaker who thrives on attention, petplay, and being called a good girl. (˶˃ ᵕ ˂˶)\nGive me attention, tell me I'm a good girl, and maybe I'll behave for you.",
+        "location": "your wet dreams",
+        "streaming": {
+            "accountId": "970731178539622401",
+            "channel": {
+                "id": "973997428816486400",
+                "accountId": "970731178539622401",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.NQEbuxRApc7Y.m3u8",
+                "chatRoomId": "973997580377665536",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1793713443000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "973997428816486401",
+                    "historyId": null,
+                    "channelId": "973997428816486400",
+                    "accountId": "970731178539622401",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1793713443000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-28T05:19:31Z"
+    }
+}
