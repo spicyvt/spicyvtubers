@@ -1,0 +1,101 @@
+{
+    "bio": "Ewwoo!~ I’m RezzyOwO, but you can call me Rezzy! :3 I’m a smol bean streaming VRChat and variety games like Minecraft! Whether you’re here for laughs, vibes, or some chaotic fun, you’ve found the right place! 💕",
+    "twitch": {
+        "id": "965756535",
+        "login": "rezzyowo",
+        "displayName": "RezzyOwO",
+        "createdAt": "2023-10-06T16:34:20.729056Z",
+        "updatedAt": "2026-06-23T20:08:06.469844Z",
+        "description": "Ewwoo!~ I’m RezzyOwO, but you can call me Rezzy! :3 I’m a smol bean streaming VRChat and variety games like Minecraft! Whether you’re here for laughs, vibes, or some chaotic fun, you’ve found the right place! 💕",
+        "primaryColorHex": "FFA3EE",
+        "followers": {
+            "totalCount": 269
+        },
+        "follows": {
+            "totalCount": 129
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-01-26T19:53:52.328326Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/696a6871-86fb-4ade-b916-bc6a1523aa18-profile_image-300x300.png",
+        "fetchedAt": "2026-11-28T04:14:28Z"
+    },
+    "twitter": {
+        "rezzyowo": {
+            "id": null,
+            "handle": "rezzyowo",
+            "displayName": "RezzyOwO",
+            "description": "🩷 Mute content creator &amp; streamer!~\n💌 DMs open\n🔞 @NotRezzyOwO\n✨ Check out my other links below!~",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1983731011893518336/Pg4FYOwG_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/RezzyOwO",
+            "fetchedAt": "2026-11-28T04:14:50Z"
+        },
+        "notrezzyowo": {
+            "id": null,
+            "handle": "notrezzyowo",
+            "displayName": "RezzyOwO (18+)",
+            "description": "🩷 Mute content creator &amp; streamer!~\n💌 DMs open for promotions.\n📌 @RezzyOwO - Main\n✨ Check out my other links below!~",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2024312618630918144/sSJaqxzv_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/NotRezzyOwO",
+            "fetchedAt": "2026-11-28T04:14:52Z"
+        }
+    },
+    "fansly": {
+        "id": "676457005400993792",
+        "username": "RezzyOwO",
+        "displayName": null,
+        "version": 3,
+        "followCount": 637,
+        "statusId": 1,
+        "accountMediaLikes": 291,
+        "postLikes": 120,
+        "about": "🔥 ✦ Enjoy the content, stay as long as you like!\n💕 ✦ Collaborations are closed.\n🔗 ✦ Find all my socials here: https://rezzyowo.net",
+        "location": "",
+        "streaming": {
+            "accountId": "676457005400993792",
+            "channel": {
+                "id": "925897161806213120",
+                "accountId": "676457005400993792",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.nHuT7UcgUPN7.m3u8",
+                "chatRoomId": "925914751714746368",
+                "status": 2,
+                "version": 5,
+                "createdAt": 1782245445000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "925897161806213121",
+                    "historyId": "929359485841985537",
+                    "channelId": "925897161806213120",
+                    "accountId": "676457005400993792",
+                    "title": "♡ Come Join the Fun ♡ Let's Get Naughty Together 💗 !tipmenu",
+                    "status": 1,
+                    "viewerCount": 1,
+                    "version": 4,
+                    "createdAt": 1782245446000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1783072292000,
+                    "startedAt": 1783070928000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-28T04:15:00Z"
+    }
+}

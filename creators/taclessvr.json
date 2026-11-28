@@ -1,0 +1,97 @@
+{
+    "bio": "💙NSFW VR Content Creator💙Star Citizen Gamer, Sim Racer, Milsim Gamer.....I'm here to record and stream for the bord😘.",
+    "twitch": {
+        "id": "165505794",
+        "login": "taclessvr",
+        "displayName": "taclessVR",
+        "createdAt": "2017-07-18T21:51:24.734014Z",
+        "updatedAt": "2026-06-22T21:45:32.99694Z",
+        "description": "💙NSFW VR Content Creator💙Star Citizen Gamer, Sim Racer, Milsim Gamer.....I'm here to record and stream for the bord😘.",
+        "primaryColorHex": "FA1ED2",
+        "followers": {
+            "totalCount": 18
+        },
+        "follows": {
+            "totalCount": 66
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2024-07-03T18:07:46.562752Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b78326d-dce0-46ac-aece-106ef34791ea-profile_image-300x300.png",
+        "fetchedAt": "2026-11-28T04:14:23Z"
+    },
+    "twitter": {
+        "taclessvr": {
+            "id": null,
+            "handle": "taclessvr",
+            "displayName": "taclessVR🔞",
+            "description": "🔞NSFW 18+ Futa Content Creator SreamerTBD\n🎧Voicetress/Sim Gamer\n🖤I tease and love all y&#x27;all\n💙Collabs Open &amp; Clients welcome\n♠ERP &amp; Sex is what i love",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2109580429875638272/46hS3bWe_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/taclessvr",
+            "fetchedAt": "2026-11-28T04:14:45Z"
+        }
+    },
+    "fansly": {
+        "id": "601595988242604033",
+        "username": "taclessvr",
+        "displayName": "taclessVR",
+        "version": 8,
+        "followCount": 4553,
+        "statusId": 3,
+        "accountMediaLikes": 4041,
+        "postLikes": 1697,
+        "about": "🔞NSFW Futa Content Creator/Streamer.💙\n🎧Sim Racer, Milsim Gamer, Space Sim Gamer♠\n💙Collab requests are Open🤍 \n😘 All are welcome to DM to request for prices on Services or Ask Questions🖤\n💗Love to suck souls and spread legs💗",
+        "location": "VR",
+        "streaming": {
+            "accountId": "601595988242604033",
+            "channel": {
+                "id": "862936900523028480",
+                "accountId": "601595988242604033",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.rVIoZjTFgSi2.m3u8",
+                "chatRoomId": null,
+                "status": 2,
+                "version": 2,
+                "createdAt": 1767234549000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "862936900523028481",
+                    "historyId": null,
+                    "channelId": "862936900523028480",
+                    "accountId": "601595988242604033",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1767234550000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "862937321673089024",
+                                "streamId": "862936900523028481",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-28T04:15:00Z"
+    }
+}

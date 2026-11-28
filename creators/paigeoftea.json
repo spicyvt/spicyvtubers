@@ -1,0 +1,113 @@
+{
+    "bio": "Hello! My name is Paige, a Fallen Star of Pisces. I love ASMR, Pokemon, Dead by Daylight and Cosy Games.",
+    "twitch": {
+        "id": "58711158",
+        "login": "paigeoftea",
+        "displayName": "PaigeOfTea",
+        "createdAt": "2014-03-12T14:03:00.58127Z",
+        "updatedAt": "2026-11-25T10:15:53.202218Z",
+        "description": "Hello! My name is Paige, a Fallen Star of Pisces. I love ASMR, Pokemon, Dead by Daylight and Cosy Games.",
+        "primaryColorHex": "FFC4AA",
+        "followers": {
+            "totalCount": 5273
+        },
+        "follows": {
+            "totalCount": 975
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2026-09-29T16:04:29.176257Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/09684be5-f562-47e1-8ca5-b0d1cedffd83-profile_image-300x300.png",
+        "fetchedAt": "2026-11-28T04:14:19Z"
+    },
+    "twitter": {
+        "paigeoftea": {
+            "id": null,
+            "handle": "paigeoftea",
+            "displayName": "Paige 🌠🐟 The Fallen Star of Pisces",
+            "description": "🐟🌠 Fallen Star of Pisces🌠🐟\n🐟🌠 https://t.co/57bYaXQ4f2 🌠🐟\n🐟🌠 https://t.co/QGlYX46Fot🌠🐟",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2043413577042624512/fClJo-l__400x400.png",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/paigeoftea",
+            "fetchedAt": "2026-11-28T04:14:39Z"
+        }
+    },
+    "fansly": {
+        "id": "618164581688160257",
+        "username": "paigeoftea",
+        "displayName": "PaigeofTea",
+        "version": 7,
+        "followCount": 6125,
+        "statusId": 1,
+        "accountMediaLikes": 3839,
+        "postLikes": 1297,
+        "about": "THEY/THEM (nonbinary / genderqueer)\n🧡 British Lewdtuber 🧡 VR Pics 🧡 Spicy Streams 🧡 ASMR 🧡 Bratty Sub 🧡\nLovense Affiliate: https://www.lovense.com/r/1xq175\nThrone: https://throne.com/paigeoftea",
+        "location": "United Kingdom",
+        "streaming": {
+            "accountId": "618164581688160257",
+            "channel": {
+                "id": "797624899647582208",
+                "accountId": "618164581688160257",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.BDkUO5JC4Ojt.m3u8",
+                "chatRoomId": "797627005624393729",
+                "status": 2,
+                "version": 86,
+                "createdAt": 1751662955000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "797624899647582209",
+                    "historyId": "897308364449542144",
+                    "channelId": "797624899647582208",
+                    "accountId": "618164581688160257",
+                    "title": "ASMR - breed my easter eggs <3",
+                    "status": 1,
+                    "viewerCount": 44,
+                    "version": 116,
+                    "createdAt": 1751662955000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1775436862000,
+                    "startedAt": 1775429345000,
+                    "permissions": {
+                        "permissionFlags": [
+                            {
+                                "id": "851144922357592064",
+                                "streamId": "797624899647582209",
+                                "type": 0,
+                                "flags": 4,
+                                "price": 0,
+                                "metadata": "{\"4\":\"{\\\"subscriptionTierId\\\":\\\"\\\"}\"}"
+                            },
+                            {
+                                "id": "851144922357592065",
+                                "streamId": "797624899647582209",
+                                "type": 0,
+                                "flags": 2,
+                                "price": 0,
+                                "metadata": ""
+                            },
+                            {
+                                "id": "851144922357592066",
+                                "streamId": "797624899647582209",
+                                "type": 0,
+                                "flags": 1,
+                                "price": 0,
+                                "metadata": "{\"1\":\"{\\\"duration\\\":86400000,\\\"price\\\":5000}\"}"
+                            }
+                        ]
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-28T04:15:00Z"
+    }
+}

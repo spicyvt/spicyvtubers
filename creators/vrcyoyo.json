@@ -1,0 +1,88 @@
+{
+    "bio": "⊹　 ︶︶　 ୨୧　 ︶︶　 ⊹                ८    yo-yo  !!   ꔫა                she/he/they   ♡   22  ♡ vrc streamer !!",
+    "twitch": {
+        "id": "1363354251",
+        "login": "yoyoinvrc",
+        "displayName": "yoyoinvrc",
+        "createdAt": "2025-09-05T23:41:35.701104Z",
+        "updatedAt": "2025-10-15T02:26:37.360122Z",
+        "description": "      ⊹　 ︶︶　 ୨୧　 ︶︶　 ⊹                ८    yo-yo  !!   ꔫა                she/he/they   ♡   22  ♡ vrc streamer !!    ",
+        "primaryColorHex": "EB0400",
+        "followers": {
+            "totalCount": 71
+        },
+        "follows": {
+            "totalCount": 4
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": false
+        },
+        "lastBroadcast": {
+            "startedAt": "2025-10-15T01:47:15.284628Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/67a387bb-3597-4ddc-b64f-999538d8a741-profile_image-300x300.png",
+        "fetchedAt": "2026-11-28T04:14:29Z"
+    },
+    "twitter": {
+        "vr_yoyo": {
+            "id": null,
+            "handle": "vr_yoyo",
+            "displayName": "⸝⸝ ꒰ 𝔂𝓸-𝔂𝓸 🪀🔞 ⁞ ˎˊ˗",
+            "description": "☆ ☆ ☆ ☆ ☆\n╭ ❝ ʏᴏ-ʏᴏ ❞\n • ᴠʀ ᴅᴀɴᴄᴇʀ !! . ᴄᴏʟʟᴀʙ ᴏᴘᴇɴ ᴛᴏ ᴍᴜᴛᴜᴀʟꜱ\n╰ ★ ꜰᴇᴍᴅᴏᴍ . 23 . ᴘᴄ ɪɴᴅᴇx + ꜰʙᴛ . 18+",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2109112557030326272/l7YNP7We_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/vr_yoyo",
+            "fetchedAt": "2026-11-28T04:14:53Z"
+        }
+    },
+    "fansly": {
+        "id": "684289172244013057",
+        "username": "vrcyoyo",
+        "displayName": "⸝⸝ ꒰ 𝔂𝓸-𝔂𝓸 🪀🔞 ",
+        "version": 6,
+        "followCount": 7607,
+        "statusId": 3,
+        "accountMediaLikes": 12059,
+        "postLikes": 4480,
+        "about": "☆   ☆    ☆    ☆    ☆\n╭ ❝ ʏᴏ-ʏᴏ ❞\n  •   ᴠʀ ᴅᴀɴᴄᴇʀ !!\n╰ ★ ꜰᴇᴍᴅᴏᴍ/ꜱᴡɪᴛᴄʜ . 23 . ɪɴᴅᴇx + ꜰʙᴛ \n\nᴄᴜʀʀᴇɴᴛ ᴀᴠᴀᴛᴀʀ ʙʏ ᴍɪʟᴋ.ꜰʙx ( https://payhip.com/milkfbx )",
+        "location": "",
+        "streaming": {
+            "accountId": "684289172244013057",
+            "channel": {
+                "id": "720925038089347072",
+                "accountId": "684289172244013057",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.ZwL3j4cGF4aY.m3u8",
+                "chatRoomId": "720925813729406976",
+                "status": 2,
+                "version": 180,
+                "createdAt": 1733376283000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "720925038089347073",
+                    "historyId": "981844804151291904",
+                    "channelId": "720925038089347072",
+                    "accountId": "684289172244013057",
+                    "title": "🔴 gothin' and gockin' | $2 = wheelspin !tipmenu !socials",
+                    "status": 1,
+                    "viewerCount": 46,
+                    "version": 4370,
+                    "createdAt": 1733376283000,
+                    "updatedAt": null,
+                    "lastFetchedAt": 1795591884000,
+                    "startedAt": 1795584403000,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-28T04:15:00Z"
+    }
+}

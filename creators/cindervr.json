@@ -1,0 +1,92 @@
+{
+    "bio": "Sup! Welcome! I'm a variety virtual streamer. I play games like VRChat, Dead By Daylight, Halo, and Elden Ring.",
+    "twitch": {
+        "id": "150734326",
+        "login": "cindervr",
+        "displayName": "CinderVR",
+        "createdAt": "2017-03-18T01:48:12.540009Z",
+        "updatedAt": "2026-10-06T02:08:46.097927Z",
+        "description": "Sup! Welcome! I'm a variety virtual streamer. I play games like VRChat, Dead By Daylight, Halo, and Elden Ring.",
+        "primaryColorHex": "FA7718",
+        "followers": {
+            "totalCount": 329
+        },
+        "follows": {
+            "totalCount": 241
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2024-04-18T06:55:42.992711Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/44b355fe-6e22-4b15-99cf-2fe340d4f200-profile_image-300x300.png",
+        "fetchedAt": "2026-11-28T04:14:20Z"
+    },
+    "kick": {
+        "id": 217992,
+        "userId": 220164,
+        "slug": "cindervr",
+        "username": "CinderVR",
+        "bio": "[18+] Sup! Welcome! I'm a variety virtual streamer but I tend to fall more towards FPS, Horror games, and Souls-like [7TV:c9675c189b2e1464e7939a5d394c9a5c]",
+        "profileImageUrl": "https://files.kick.com/images/user/220164/profile_image/conversion/bded469f-b140-426b-885d-4b45a0680997-fullsize.webp",
+        "bannerImageUrl": "https://files.kick.com/images/channel/217992/banner_image/17c6b6e1-e8b0-412a-ab06-03a549c9aa63",
+        "followersCount": 57,
+        "verified": false,
+        "isAffiliate": false,
+        "socials": {
+            "twitter": "CinderVR",
+            "youtube": "channel/UCZWOTCIuCUmJBvniAcE788g",
+            "discord": "BNQMKUDkdX",
+            "tiktok": "Cinder.VR"
+        },
+        "fetchedAt": "2026-11-28T04:14:21Z"
+    },
+    "twitter": {
+        "cindervr": {
+            "id": "1344527931490656258",
+            "handle": "cindervr",
+            "displayName": "Cinder",
+            "description": "18+ MDNI | Face Tracking \nOrange Enjoyer\n🔥 Our flame will be seen for miles 🔥\nMy Wishlist: https://throne.com/cindervr",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2097075093591515137/WiD9G7A0_400x400.jpg",
+            "followersCount": 2518,
+            "followingCount": 153,
+            "postsCount": 434,
+            "accountCreatedAt": "2020-12-31T06:17:08.000Z",
+            "profileUrl": "https://x.com/CinderVR",
+            "fetchedAt": "2026-11-28T04:14:41Z"
+        },
+        "_cindernsfw": {
+            "id": null,
+            "handle": "_cindernsfw",
+            "displayName": "CinderNSFW",
+            "description": "18+ Only MDNI\nI Make Lewd Content! Check Out My Fansly\nSFW: https://t.co/TZ0aQLGXUR\nAll Content Made In ChilloutVR\nSocials: https://t.co/LPJZcVXlMC",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2097362359182397440/EkXpEgkR_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/_CinderNSFW",
+            "fetchedAt": "2026-11-28T04:14:43Z"
+        }
+    },
+    "fansly": {
+        "id": "752080508636114944",
+        "username": "CinderVR",
+        "displayName": "Cinder",
+        "version": 6,
+        "followCount": 2185,
+        "statusId": 3,
+        "accountMediaLikes": 1418,
+        "postLikes": 600,
+        "about": "🧡  Mute | Orange Enjoyer | Schedule Below! 🧡\n🔥   I’m Cinder, your favorite spark in the dark — where heat meets temptation. 🔥\nSpoil me: https://throne.com/cindervr\nSocials: https://cindervr.carrd.co/  \n",
+        "location": "",
+        "streaming": {
+            "accountId": "752080508636114944",
+            "channel": null,
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-28T04:15:00Z"
+    }
+}

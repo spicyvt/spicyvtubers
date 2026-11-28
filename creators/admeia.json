@@ -1,0 +1,100 @@
+{
+    "bio": "Some Sleepy Yawndere",
+    "twitch": {
+        "id": "54168523",
+        "login": "admeia",
+        "displayName": "Admeia",
+        "createdAt": "2013-12-31T06:27:35.921067Z",
+        "updatedAt": "2026-03-21T17:51:57.196057Z",
+        "description": "Some Sleepy Yawndere",
+        "primaryColorHex": "BC2E45",
+        "followers": {
+            "totalCount": 658
+        },
+        "follows": {
+            "totalCount": 150
+        },
+        "roles": {
+            "isPartner": false,
+            "isAffiliate": true
+        },
+        "lastBroadcast": {
+            "startedAt": "2022-05-13T01:39:48.756723Z"
+        },
+        "profileImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba31f702-3c15-4a72-85d5-b9f2f2aa0fbf-profile_image-300x300.png",
+        "fetchedAt": "2026-11-28T04:14:24Z"
+    },
+    "youtube": {
+        "id": "UCVev4DF1s22yrkiQMF1gxPw",
+        "handle": "Admeia",
+        "title": "Admeia Fox",
+        "description": "",
+        "channelUrl": "https://www.youtube.com/channel/UCVev4DF1s22yrkiQMF1gxPw",
+        "keywords": "",
+        "profileImageUrl": "https://yt3.googleusercontent.com/TQSuykwMcL7vp4dLEVun20SLAMN1Z2aRzNKHd8br1hTbZn3nvm8580_X6mSMpnHMTwCFFUVf=h300",
+        "subscriberCountText": "31 subscribers",
+        "videoCountText": null,
+        "fetchedAt": "2026-11-28T04:14:25Z"
+    },
+    "twitter": {
+        "admeiafox": {
+            "id": null,
+            "handle": "admeiafox",
+            "displayName": "Admeia",
+            "description": "Haiya, I&#x27;m Admeia~ \nSome Sleepy Yawndere \nSkorgi&#x27;s Wife @TheSkorax \nFeel free to reach out, I will bite\n31/Lizzord",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/2050116836474200064/8DR1sJbP_400x400.jpg",
+            "followersCount": null,
+            "followingCount": null,
+            "postsCount": null,
+            "accountCreatedAt": null,
+            "profileUrl": "https://x.com/AdmeiaFox",
+            "fetchedAt": "2026-11-28T04:14:47Z"
+        }
+    },
+    "fansly": {
+        "id": "329072645330968576",
+        "username": "Admeia",
+        "displayName": null,
+        "version": 3,
+        "followCount": 1149,
+        "statusId": 1,
+        "accountMediaLikes": 945,
+        "postLikes": 869,
+        "about": "Haiya, I'm Admeia~\n\nBeauty in creativity and appreciation for the form of art. All personal content I make is free. Only collab content here is paid for or made paid by request of the other. If you want to reach out? I encourage it. I like making people lucky.",
+        "location": "Texas",
+        "streaming": {
+            "accountId": "329072645330968576",
+            "channel": {
+                "id": "893341307081093120",
+                "accountId": "329072645330968576",
+                "playbackUrl": "https://8e69c661e048.us-east-1.playback.live-video.net/api/video/v1/us-east-1.862541535858.channel.w8ZRtnQC3dzN.m3u8",
+                "chatRoomId": "981049368813522944",
+                "status": 2,
+                "version": 2,
+                "createdAt": 1774483525000,
+                "updatedAt": null,
+                "stream": {
+                    "id": "893341307081093121",
+                    "historyId": null,
+                    "channelId": "893341307081093120",
+                    "accountId": "329072645330968576",
+                    "title": "",
+                    "status": 1,
+                    "viewerCount": 0,
+                    "version": 0,
+                    "createdAt": 1774483525000,
+                    "updatedAt": null,
+                    "lastFetchedAt": null,
+                    "startedAt": null,
+                    "permissions": {
+                        "permissionFlags": []
+                    }
+                },
+                "arn": null,
+                "ingestEndpoint": null
+            },
+            "enabled": true
+        },
+        "fetchedAt": "2026-11-28T04:15:00Z"
+    }
+}
